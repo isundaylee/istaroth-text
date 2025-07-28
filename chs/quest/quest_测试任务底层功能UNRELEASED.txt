@@ -3,46 +3,161 @@
 
 ## Talk 1
 
-派蒙: （test）对话测试1111$UNRELEASED
+(test)玩法测试NPC：飞行$UNRELEASED: （test）飞行挑战开始$UNRELEASED
 
 ## Talk 2
 
-枫原万叶: （test）测试复杂对话$UNRELEASED
+(test)玩法测试NPC：飞行$UNRELEASED: （test）飞行挑战成功$UNRELEASED
 
 ## Talk 3
 
-派蒙: （test）对话测试1111$UNRELEASED
+派蒙: (test)我只在渊下宫白天触发这个对话$UNRELEASED
 
 ## Talk 4
 
-安柏: （test）岩灯测试$UNRELEASED
-安柏: （test）风灯测试$UNRELEASED
-安柏: （test）雷灯测试$UNRELEASED
-安柏: （test）草灯测试$UNRELEASED
+派蒙: (test)我只在渊下宫晚上触发这个对话$UNRELEASED
 
 ## Talk 5
 
-安柏: #(test)嘤，呜喵喵{RUBY#[D]佩妮，将与派蒙还有[$0]成为好朋友。}喵喵，喵呜喵喵。$END[$0#{NICKNAME}]$UNRELEASED
-安柏: #(test)喵，喵{RUBY#[D]骑士[$0]}喵喵，喵——喵{RUBY#[D]让我们想办法止住她们的眼泪吧！}——喵！咕{RUBY#[D]我们…}噜…$END[$0#{M#先生}{F#小姐}]$UNRELEASED
-安柏: #(test)它叫做「虚{RUBY#[D]阿卡西<color=#80FFE6FF>[$0]</color>}空终端」，那是教令院利用大慈树王大人留下的遗产制作{M#[$1]}{F#[$2]}的工具。$END[$0#{NICKNAME}][$1#{M#他}{F#她}的{M#妹妹}{F#哥哥}][$2#{RUBY#[D]阿卡西}]$UNRELEASED
+派蒙: （test）恭喜你把璃月升到3级拉~$UNRELEASED
 
 ## Talk 6
 
-艾尔海森: （test）测试文本1$UNRELEASED
-艾尔海森: （test）测试文本2$UNRELEASED
-艾尔海森: （test）测试文本3$UNRELEASED
-艾尔海森: （test）测试文本4$UNRELEASED
+派蒙: quest accept 1010004 fnish 1010004$UNRELEASED
+派蒙: 再来触发这段对话，那个里的丽莎应该自动隐藏$UNRELEASED
+丽莎: 对话结束后任务的丽莎会自动出来$UNRELEASED
+派蒙: 派蒙的动作和表情应该在对话完成后保持$UNRELEASED
 
 ## Talk 7
 
-艾尔海森: （test）测试文本1$UNRELEASED
-艾尔海森: （test）测试文本2$UNRELEASED
-艾尔海森: （test）测试文本3$UNRELEASED
-艾尔海森: （test）测试文本4$UNRELEASED
+派蒙: (test)跟我对话结束后会自动传送到室内场景1068$UNRELEASED
+派蒙: (test)需要先解锁该场景才能成功传送$UNRELEASED
+派蒙: (test)否则是传送不进去的哦$UNRELEASED
 
 ## Talk 8
 
-安柏: （test）测试文本1$UNRELEASED
-安柏: （test）测试文本2$UNRELEASED
-安柏: （test）测试文本3$UNRELEASED
-安柏: （test）测试文本4$UNRELEASED
+派蒙: (test)请选择测试的随机对话类型$UNRELEASED
+
+## Talk 9
+
+派蒙: (test)单选项随机对话测试$UNRELEASED
+派蒙: (test)之后会随机出现一个选项，之后对话结束$UNRELEASED
+
+## Talk 10
+
+派蒙: (test)单选项随机对话测试（循环）$UNRELEASED
+派蒙: (test)之后会随机出现一个选项，之后返回选择随机对话类型$UNRELEASED
+
+## Talk 11
+
+派蒙: (test)多选项随机对话测试$UNRELEASED
+派蒙: (test)之后会随机出现两个选项，之后对话结束$UNRELEASED
+
+## Talk 12
+
+派蒙: (test)多选项随机对话测试（循环）$UNRELEASED
+派蒙: (test)之后会随机出现两个选项，之后返回选择随机对话类型$UNRELEASED
+
+## Talk 13
+
+派蒙: (test)随机选项1$UNRELEASED
+派蒙: (test)这个是选项1$UNRELEASED
+
+## Talk 14
+
+派蒙: (test)随机选项2$UNRELEASED
+派蒙: (test)这个是选项2$UNRELEASED
+
+## Talk 15
+
+派蒙: (test)随机选项3$UNRELEASED
+派蒙: (test)这个是选项3$UNRELEASED
+
+## Talk 16
+
+派蒙: (test)随机选项4$UNRELEASED
+派蒙: (test)这个是选项4$UNRELEASED
+
+## Talk 17
+
+派蒙: (test)随机选项1$UNRELEASED
+派蒙: (test)这个是选项1$UNRELEASED
+
+## Talk 18
+
+派蒙: (test)随机选项2$UNRELEASED
+派蒙: (test)这个是选项2$UNRELEASED
+
+## Talk 19
+
+派蒙: (test)随机选项3$UNRELEASED
+派蒙: (test)这个是选项3$UNRELEASED
+
+## Talk 20
+
+派蒙: (test)随机选项4$UNRELEASED
+派蒙: (test)这个是选项4$UNRELEASED
+
+## Talk 21
+
+温迪: （test）我先去女神像广场那边喽$UNRELEASED
+温迪: （test）你们也要赶快跟过来哦！$UNRELEASED
+
+## Talk 22
+
+温迪: （test）哎嘿，你来啦。$UNRELEASED
+
+## Talk 23
+
+兰拉迦: （test）纯表格对话表现测试$UNRELEASED
+兰拉迦: （test）兰纳罗应该会自动起飞转身对话$UNRELEASED
+兰拉迦: （test）对话后恢复之前的样子$UNRELEASED
+兰拉迦: （test）testttest$UNRELEASED
+兰拉迦: （test）testttest$UNRELEASED
+
+## Talk 24
+
+派蒙: (test)连续黑屏测试$UNRELEASED
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): (test)黑屏1，啊啊啊啊啊啊啊$UNRELEASED
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): (test)黑屏2，呀呀呀呀呀呀呀$UNRELEASED
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): (test)黑屏3，哈哈哈哈哈哈$UNRELEASED
+派蒙: (test)测试完毕$UNRELEASED
+
+## Talk 25
+
+安柏: (test)测试强制坐下$UNRELEASED
+安柏: (test)这句话没有配置强制坐下，只会播动作无法坐下$UNRELEASED
+安柏: (test)这句话配置了强制坐下，播动作的过程中会立刻坐下$UNRELEASED
+安柏: (test)测试结束$UNRELEASED
+
+## Talk 26
+
+派蒙: (test)对话测试开始$UNRELEASED
+
+## Talk 27
+
+安柏: (test)测试开界面同时进对话$UNRELEASED
+安柏: (test)之前因为界面时停，导致对话里npc不播动画$UNRELEASED
+安柏: (test)现在进对话不会时停了$UNRELEASED
+安柏: (test)专门配置了让npc播动画$UNRELEASED
+安柏: (test)测试结束$UNRELEASED
+
+## Talk 28
+
+安柏: (test)测试对话1$UNRELEASED
+安柏: (test)测试对话2$UNRELEASED
+安柏: (test)测试对话3$UNRELEASED
+安柏: (test)测试对话4$UNRELEASED
+安柏: (test)测试对话5$UNRELEASED
+
+## Talk 29
+
+安柏: (test)测试水下镜头$UNRELEASED
+
+## Talk 30
+
+安柏: （test）测试台本内容$UNRELEASED
+
+## Talk 31
+
+安柏: (test)测试任务全局变量不等于的条件符合啦！$UNRELEASED
