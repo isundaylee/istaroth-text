@@ -328,11 +328,21 @@ Jeht: The books say that the words of the Jinn have magic in them, and that thei
 Liloupar: And they say also that behavior such as yours is impolite in the extreme! Do not interrupt me, little lady.
 Liloupar: Hmm... Now, where should I begin...?
 Black Screen Text: As the moonlight paints the stones white, and night wind blows chill, causing the tendrils of the campfire to snap and crackle... Amidst the calls of nocturnal birds winding across the distant sand dunes, the Jinni begins her tale...
-Black Screen Text: Thousands of years have passed since the events told of in this tale. The desert had yet to become so desolate, and the oases spread out across the land like glittering jewels...\nIn those days, the Jinn walked the earth in great numbers, and they lived within the silver night wind and the flowing sands, in the ripples of the unknowable ocean, and in the pattering of the rainforest springs...
-Black Screen Text: We Jinn were not ordinary creatures, but we were the servants of the mistress of flowers.\nWe were untroubled by basic want, nor were we shackled by material thirst. It was "life" itself that greatly fascinated us...\nThe blooming and wilting of flowers, the gathering and scattering of birds — these were the things that held us in thrall.\nApart from that, only our "true names" could bind us.
-Black Screen Text: We were carefree so long as our mistress walked the earth, and we enjoyed her eternal paradise, her love, and her comfort...\nBut tragedy would come, and our paradise crumbled as the mistress departed... Our revelry turned to mourning, and all that was good and lovely was violently perverted in that anguish...
-Black Screen Text: And so we gave Al-Ahmar our true names, and became his servants... For he promised to find us our eternal companion, our true master.\nDeluded hope and trust did we harbor in our hearts, and so forsook our freedom, accepting imprisonment within silver bottles and servitude to his realm...\nBut what was lost was forever lost, never again to return.
-Black Screen Text: But do not think that the Jinn were wanton servants.\nOnly a love bordering upon madness could make the Jinn give their "true names" willingly.\nFor it was their deep love for the mistress of flowers that drove them to embrace the desert from the first.\nYet, waking to face the tomfoolery of this barren world caused a surly Jinni to fall incurably in love with the shepherd...
+Black Screen Text: Thousands of years have passed since the events told of in this tale. The desert had yet to become so desolate, and the oases spread out across the land like glittering jewels...
+In those days, the Jinn walked the earth in great numbers, and they lived within the silver night wind and the flowing sands, in the ripples of the unknowable ocean, and in the pattering of the rainforest springs...
+Black Screen Text: We Jinn were not ordinary creatures, but we were the servants of the mistress of flowers.
+We were untroubled by basic want, nor were we shackled by material thirst. It was "life" itself that greatly fascinated us...
+The blooming and wilting of flowers, the gathering and scattering of birds — these were the things that held us in thrall.
+Apart from that, only our "true names" could bind us.
+Black Screen Text: We were carefree so long as our mistress walked the earth, and we enjoyed her eternal paradise, her love, and her comfort...
+But tragedy would come, and our paradise crumbled as the mistress departed... Our revelry turned to mourning, and all that was good and lovely was violently perverted in that anguish...
+Black Screen Text: And so we gave Al-Ahmar our true names, and became his servants... For he promised to find us our eternal companion, our true master.
+Deluded hope and trust did we harbor in our hearts, and so forsook our freedom, accepting imprisonment within silver bottles and servitude to his realm...
+But what was lost was forever lost, never again to return.
+Black Screen Text: But do not think that the Jinn were wanton servants.
+Only a love bordering upon madness could make the Jinn give their "true names" willingly.
+For it was their deep love for the mistress of flowers that drove them to embrace the desert from the first.
+Yet, waking to face the tomfoolery of this barren world caused a surly Jinni to fall incurably in love with the shepherd...
 Liloupar: Ah, you're awake...
 Traveler: A shepherd...?
 Liloupar: Not you, no... Hah, but much like you, my master. You were... much like him — as he was once.
@@ -361,9 +371,15 @@ Azariq: #By the way, {NICKNAME}, do you play cards?
 Traveler: Sorry, I don't.
 Liloupar: Eh, alright then... I for one shall not complain if a more elegant pastime were chosen.
 Azariq: Oh, that so? Shame, then. Why don't we talk about some of the things we've seen, then?
-Black Screen Text: You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...\nThe three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.\nAt the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
-Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.\n{M#Jeht tells you about many trivial but funny things...\nShe seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...\nA light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
-Black Screen Text: The night flies by as you chat.\nAs the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+Black Screen Text: You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...
+The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
+At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
+Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
+{M#Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
+A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Black Screen Text: The night flies by as you chat.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 Traveler: I feel for you...
 Traveler: I'll bear that in mind.
 
@@ -429,7 +445,11 @@ Paimon: #{NICKNAME}...
 Traveler: Don't worry about me.
 Jeht: ...If you say so.
 Traveler: (Do as Liloupar says.)
-Black Screen Text: You place the magic bottle next to your ear.\nYou hear a soft chuckle, and then someone whispers something of unspeakable elegance and gentleness into that ear...\nYou are told of things as unknowable as the night wind, but you understand every last word nonetheless.\nThen, the voice fades, and you feel something cold on your auricle...\nLike a viper's kiss.
+Black Screen Text: You place the magic bottle next to your ear.
+You hear a soft chuckle, and then someone whispers something of unspeakable elegance and gentleness into that ear...
+You are told of things as unknowable as the night wind, but you understand every last word nonetheless.
+Then, the voice fades, and you feel something cold on your auricle...
+Like a viper's kiss.
 Liloupar: And with that, we are bound. I shall defend you, my master, from the encroachment of the desert, the searing winds, pestilence, and schemes, and you shall rest safe in the shadow of my wings.
 Jeht: ...
 Paimon: So, is this bottle gonna start floating around you too?
@@ -569,11 +589,21 @@ Jeht: The books say that the words of the Jinn have magic in them, and that thei
 Liloupar: And they say also that behavior such as yours is impolite in the extreme! Do not interrupt me, little lady.
 Liloupar: Hmm... Now, where should I begin...?
 Black Screen Text: As the moonlight paints the stones white, and night wind blows chill, causing the tendrils of the campfire to snap and crackle... Amidst the calls of nocturnal birds winding across the distant sand dunes, the Jinni begins her tale...
-Black Screen Text: Thousands of years have passed since the events told of in this tale. The desert had yet to become so desolate, and the oases spread out across the land like glittering jewels...\nIn those days, the Jinn walked the earth in great numbers, and they lived within the silver night wind and the flowing sands, in the ripples of the unknowable ocean, and in the pattering of the rainforest springs...
-Black Screen Text: We Jinn were not ordinary creatures, but we were the servants of the mistress of flowers.\nWe were untroubled by basic want, nor were we shackled by material thirst. It was "life" itself that greatly fascinated us...\nThe blooming and wilting of flowers, the gathering and scattering of birds — these were the things that held us in thrall.\nApart from that, only our "true names" could bind us.
-Black Screen Text: We were carefree so long as our mistress walked the earth, and we enjoyed her eternal paradise, her love, and her comfort...\nBut tragedy would come, and our paradise crumbled as the mistress departed... Our revelry turned to mourning, and all that was good and lovely was violently perverted in that anguish...
-Black Screen Text: And so we gave Al-Ahmar our true names, and became his servants... For he promised to find us our eternal companion, our true master.\nDeluded hope and trust did we harbor in our hearts, and so forsook our freedom, accepting imprisonment within silver bottles and servitude to his realm...\nBut what was lost was forever lost, never again to return.
-Black Screen Text: But do not think that the Jinn were wanton servants.\nOnly a love bordering upon madness could make the Jinn give their "true names" willingly.\nFor it was their deep love for the mistress of flowers that drove them to embrace the desert from the first.\nYet, waking to face the tomfoolery of this barren world caused a surly Jinni to fall incurably in love with the shepherd...
+Black Screen Text: Thousands of years have passed since the events told of in this tale. The desert had yet to become so desolate, and the oases spread out across the land like glittering jewels...
+In those days, the Jinn walked the earth in great numbers, and they lived within the silver night wind and the flowing sands, in the ripples of the unknowable ocean, and in the pattering of the rainforest springs...
+Black Screen Text: We Jinn were not ordinary creatures, but we were the servants of the mistress of flowers.
+We were untroubled by basic want, nor were we shackled by material thirst. It was "life" itself that greatly fascinated us...
+The blooming and wilting of flowers, the gathering and scattering of birds — these were the things that held us in thrall.
+Apart from that, only our "true names" could bind us.
+Black Screen Text: We were carefree so long as our mistress walked the earth, and we enjoyed her eternal paradise, her love, and her comfort...
+But tragedy would come, and our paradise crumbled as the mistress departed... Our revelry turned to mourning, and all that was good and lovely was violently perverted in that anguish...
+Black Screen Text: And so we gave Al-Ahmar our true names, and became his servants... For he promised to find us our eternal companion, our true master.
+Deluded hope and trust did we harbor in our hearts, and so forsook our freedom, accepting imprisonment within silver bottles and servitude to his realm...
+But what was lost was forever lost, never again to return.
+Black Screen Text: But do not think that the Jinn were wanton servants.
+Only a love bordering upon madness could make the Jinn give their "true names" willingly.
+For it was their deep love for the mistress of flowers that drove them to embrace the desert from the first.
+Yet, waking to face the tomfoolery of this barren world caused a surly Jinni to fall incurably in love with the shepherd...
 Liloupar: Ah, you're awake...
 Traveler: A shepherd...?
 Liloupar: Not you, no... Hah, but much like you, my master. You were... much like him — as he was once.
@@ -605,9 +635,15 @@ Traveler: Sorry, I'm not in the mood to play cards.
 Liloupar: Because I wanted to see it.
 Azariq: Haha, alright, great. Now, show me what you've got!
 Azariq: Not liking camping out here in the desert, I take it? Haha, oh well... Why don't we tell some stories instead?
-Black Screen Text: You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...\nThe three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.\nAt the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
-Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.\n{M#Jeht tells you about many trivial but funny things...\nShe seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...\nA light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
-Black Screen Text: The night flies by as you chat.\nAs the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+Black Screen Text: You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...
+The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
+At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
+Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
+{M#Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
+A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Black Screen Text: The night flies by as you chat.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
 ## Talk 21
 
@@ -639,11 +675,13 @@ Masseira: Perhaps it shall be so this time as well, that greedy prey shall fall 
 
 ## Talk 23
 
-Black Screen Text: The night flies by amidst the card games and chats.\nAs the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+Black Screen Text: The night flies by amidst the card games and chats.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
 ## Talk 24
 
-Black Screen Text: The night flies by amidst the card games and chats.\nAs the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+Black Screen Text: The night flies by amidst the card games and chats.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
 ## Talk 25
 
@@ -652,9 +690,15 @@ Azariq: Come on, let's play a round.
 Traveler: Oh, I'm not going to lose...
 Traveler: Sorry, not right now...
 Azariq: Not liking camping out here in the desert, I take it? Haha, oh well... Why don't we tell some stories instead?
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...\nThe three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.\nAt the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.\n{M#Jeht tells you about many trivial but funny things...\nShe seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...\nA light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): The night flies by as you chat.\nAs the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...
+The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
+At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
+{M#Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
+A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): The night flies by as you chat.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
 ## Talk 26
 

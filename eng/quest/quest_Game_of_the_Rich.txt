@@ -159,7 +159,9 @@ Noailles: I am not as lenient as Estienne. If I'm going to restore order, then p
 Estienne: ...Are there things that even I don't know?
 Estienne: I jest. You don't need to waste any of your time on this game that we play to kill time. The Fortress is huge, and I'm sure there are other things that require your attention.
 Noailles: I don't need you to remind me.
-Black Screen Text: Noailles leaves.\nGenevieve and Rave return to their respective companions.\nThe girl also slips away without being noticed.
+Black Screen Text: Noailles leaves.
+Genevieve and Rave return to their respective companions.
+The girl also slips away without being noticed.
 Estienne: Finally... Being serious can be a virtue, but being overly serious... is something else.
 Estienne: Anyway, now that the annoying guy is gone, will you join the game, Darcy's new friends?
 Paimon: What sort of person leaves their friends behind, anyway? We aren't his friends! In fact, Paimon's gonna use his uncool nickname to address him! That "Pretty Face" is a jerk!
@@ -382,7 +384,8 @@ Lanoire: We're counting on you, Uncle Alvard.
 Alvard: Sure. Thank you for the business!
 Paimon: If Lanoire says so... We'll dig in!
 Lanoire: Yup! Have a good meal, Ms. Paimon!
-Black Screen Text: Feasting with Lanoire...\nEverything that couldn't be finished ends up in Paimon's pack.
+Black Screen Text: Feasting with Lanoire...
+Everything that couldn't be finished ends up in Paimon's pack.
 Paimon: Phew! That was amazing! Paimon's so full, she can barely walk. She's getting sleepy, too...
 Paimon: Why are we here again?
 Traveler: If you can't remember, then maybe it wasn't important.
@@ -572,10 +575,12 @@ Noailles: Your master? I'll need their full name. Also, when did this occur?
 Caterpillar: Unlike me, he has many names. This happened a long time ago.
 Noailles: ...Are you messing with me?
 Caterpillar: Everything I've said is the truth.
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): His voice sounds too low to be that of a child.\n"I apologize. Were you looking for a more dramatic account? Or for some lurid details to ignite your imagination?"
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): His voice sounds too low to be that of a child.
+"I apologize. Were you looking for a more dramatic account? Or for some lurid details to ignite your imagination?"
 Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): "As for what happened that day, I could recount it sparing no detail — from the furnishings of that clandestine hall to the thoughts of my companion, which I've ventured to speculate on."
 Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): "But that's all just a fabrication of the mind made after the fact. We both know that's not what you're really after, for these are nothing more than stories masquerading as the truth. The real story has already turned to smoke along with that barren garden."
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): "What you want to know is a purer truth. The truth is that the culprit is where he should be. The other minutiae and trivialities are of no significance to you."\n"They're inconsequential, and thus won't shake up your order in the slightest."
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): "What you want to know is a purer truth. The truth is that the culprit is where he should be. The other minutiae and trivialities are of no significance to you."
+"They're inconsequential, and thus won't shake up your order in the slightest."
 Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): "There's nothing here for you to trouble yourself with. Everything is as it should be."
 Noailles: The culprit is where he should be...
 Noailles: There's nothing here for me to trouble myself with. Everything is as it should be...
@@ -1092,34 +1097,65 @@ Darcy: Just think of it as killing time. Anyway, come find me when you make a de
 ### Additional Talk 33
 
 Traveler: Let's rest.
-Black Screen Text: "Cater, what story are you gonna tell me today? I've already heard a lot of stories with heroes as the main characters..."\n"Today I'll tell you a story about a little girl, then."\n"A little girl... Can a little girl also be the main character?"\n"Of course she can. It's her own story, after all. In other stories, she might be a hero herself, or even an evil dragon. There are all kinds of roles she can play."
-Black Screen Text: Long, long ago, there was a little girl who lived in a giant's garden.\nThe giant took special care of the flowers in the garden, and wouldn't allow anyone to pluck even a single one of them. To keep intruders out, the giant built a towering wall around it.\nBecause of this, the little girl living in the giant's garden had never set foot outside of it even once. The giant always told her that the world outside was a dangerous place, and that the garden was the safest place she could live in.
-Black Screen Text: "And then what? Did the little girl listen to the giant? I bet she didn't. If she did, then the story would end there!"\n"You're right. The little girl never was one for doing what she was told."\n"Uh-huh...?"\n"As for the rest of the story, well, let's save that for next time."
+Black Screen Text: "Cater, what story are you gonna tell me today? I've already heard a lot of stories with heroes as the main characters..."
+"Today I'll tell you a story about a little girl, then."
+"A little girl... Can a little girl also be the main character?"
+"Of course she can. It's her own story, after all. In other stories, she might be a hero herself, or even an evil dragon. There are all kinds of roles she can play."
+Black Screen Text: Long, long ago, there was a little girl who lived in a giant's garden.
+The giant took special care of the flowers in the garden, and wouldn't allow anyone to pluck even a single one of them. To keep intruders out, the giant built a towering wall around it.
+Because of this, the little girl living in the giant's garden had never set foot outside of it even once. The giant always told her that the world outside was a dangerous place, and that the garden was the safest place she could live in.
+Black Screen Text: "And then what? Did the little girl listen to the giant? I bet she didn't. If she did, then the story would end there!"
+"You're right. The little girl never was one for doing what she was told."
+"Uh-huh...?"
+"As for the rest of the story, well, let's save that for next time."
 
 ### Additional Talk 34
 
 Traveler: Let's take a rest.
-Black Screen Text: "Cater, tell me more of the story about the little girl!"\n"Last time, we left off with the little girl living in the giant's garden..."\n"I bet she leaves the giant's garden! But how does she get out of there...?"
-Black Screen Text: One day, the little girl heard the sound of a woman's voice coming from beyond the towering wall.\nKind-hearted giant, I am in need of the little purple flowers from your garden. Would you please give me some?\nThe giant refused, of course, and furiously bellowed at the woman on the other side of the garden wall to leave at once.\nBut the woman did not leave, and from a short distance away, she lamented that she had journeyed from afar for the little purple flowers in the garden, which she needed to cure a sick friend's illness.\nHearing the woman's plight, the little girl felt sorry for her and her friend. The giant had so many flowers in his garden. Surely having one or two less wouldn't hurt?
-Black Screen Text: Thus, the little girl approached the garden wall and whispered to the woman that she was willing to bring the woman a few of the little purple flowers. Except, the little girl said, the giant wouldn't let her leave, and the garden's walls were so tall that she wasn't sure how she would be able to get the flowers to her from inside.\nFrom the other side of the wall, the woman told the little girl that she was actually a witch that knew many magic spells, and if the little girl could bring her the flowers she needed from the giant's garden, she could use her magic to help the little girl leave that garden...
-Black Screen Text: "Did the little girl decide to help the witch? Hmm... I bet she did. Otherwise, the witch wouldn't be able to cure her friend's illness, right? But... But the giant said she couldn't leave the garden. If she left, wouldn't she get punished somehow?"\n"It's getting late. Let's leave that part of the story for next time."
+Black Screen Text: "Cater, tell me more of the story about the little girl!"
+"Last time, we left off with the little girl living in the giant's garden..."
+"I bet she leaves the giant's garden! But how does she get out of there...?"
+Black Screen Text: One day, the little girl heard the sound of a woman's voice coming from beyond the towering wall.
+Kind-hearted giant, I am in need of the little purple flowers from your garden. Would you please give me some?
+The giant refused, of course, and furiously bellowed at the woman on the other side of the garden wall to leave at once.
+But the woman did not leave, and from a short distance away, she lamented that she had journeyed from afar for the little purple flowers in the garden, which she needed to cure a sick friend's illness.
+Hearing the woman's plight, the little girl felt sorry for her and her friend. The giant had so many flowers in his garden. Surely having one or two less wouldn't hurt?
+Black Screen Text: Thus, the little girl approached the garden wall and whispered to the woman that she was willing to bring the woman a few of the little purple flowers. Except, the little girl said, the giant wouldn't let her leave, and the garden's walls were so tall that she wasn't sure how she would be able to get the flowers to her from inside.
+From the other side of the wall, the woman told the little girl that she was actually a witch that knew many magic spells, and if the little girl could bring her the flowers she needed from the giant's garden, she could use her magic to help the little girl leave that garden...
+Black Screen Text: "Did the little girl decide to help the witch? Hmm... I bet she did. Otherwise, the witch wouldn't be able to cure her friend's illness, right? But... But the giant said she couldn't leave the garden. If she left, wouldn't she get punished somehow?"
+"It's getting late. Let's leave that part of the story for next time."
 
 ### Additional Talk 35
 
 Traveler: Let's rest.
-Black Screen Text: "Where we last left off, the witch told the little girl that she would use her magic to help her leave the giant's garden if the little girl brought her the little purple flowers she needed."\n"I'm really sleepy, but I want to know what happens next. What did the little girl do? Does the witch cure her friend in the end?"
-Black Screen Text: Although the giant had warned the little girl of the many dangers of the world beyond the garden wall, the little girl had never seen what the outside world was like, so she didn't know what "danger" even was.\nShe told the voice on the other side of the wall that she would help bring her some of the little purple flowers. So many identical flowers were growing in the garden, and each looked as beautiful as the next. She didn't know why the giant treasured each and every one of them so.\nThe little girl heard laughter from the other side of the wall. Later, with a bouquet of flowers in her hands, the little girl rode a gust of wind over the wall to the world outside.
-Black Screen Text: The tall witch took the little purple flowers from the little girl's hands. The little girl, thinking she had done a good deed, was very pleased with herself. But when she tried to return to the garden, she discovered that the wall, the garden, and the giant were no longer there.\n"Good witch, I'd like to return to the giant's garden now. Could you please use your magic to take me back?" The little girl asked.\n"But what can you give me in exchange now?" The witch replied.
-Black Screen Text: "Huh? Then the little girl couldn't go back? I'm glad the witch could save her friend, but... I don't like this story..."\n"Everyone has stories that they don't like."\n"Then I'll tell you a story next time, Cater... I have to sleep now..."
+Black Screen Text: "Where we last left off, the witch told the little girl that she would use her magic to help her leave the giant's garden if the little girl brought her the little purple flowers she needed."
+"I'm really sleepy, but I want to know what happens next. What did the little girl do? Does the witch cure her friend in the end?"
+Black Screen Text: Although the giant had warned the little girl of the many dangers of the world beyond the garden wall, the little girl had never seen what the outside world was like, so she didn't know what "danger" even was.
+She told the voice on the other side of the wall that she would help bring her some of the little purple flowers. So many identical flowers were growing in the garden, and each looked as beautiful as the next. She didn't know why the giant treasured each and every one of them so.
+The little girl heard laughter from the other side of the wall. Later, with a bouquet of flowers in her hands, the little girl rode a gust of wind over the wall to the world outside.
+Black Screen Text: The tall witch took the little purple flowers from the little girl's hands. The little girl, thinking she had done a good deed, was very pleased with herself. But when she tried to return to the garden, she discovered that the wall, the garden, and the giant were no longer there.
+"Good witch, I'd like to return to the giant's garden now. Could you please use your magic to take me back?" The little girl asked.
+"But what can you give me in exchange now?" The witch replied.
+Black Screen Text: "Huh? Then the little girl couldn't go back? I'm glad the witch could save her friend, but... I don't like this story..."
+"Everyone has stories that they don't like."
+"Then I'll tell you a story next time, Cater... I have to sleep now..."
 
 ### Additional Talk 36
 
 Traveler: Let's rest for a bit.
-Black Screen Text: "It's my turn to tell a story! I've heard enough stories to tell one of my own now."\n"Alright, you can be the storyteller this time."\n"Okay. My story will also begin in the giant's garden..."
-Black Screen Text: Long, long ago, in a garden full of purple flowers, there lived a prince, a princess, and a brave hero... Oh! And the ruler of the garden — a giant with a nasty temper.\nWhat the witch wanted more than anything were some of the purple flowers, but the mean giant treasured them so much that he wouldn't let anyone pick even a single one.\n"Kind-hearted Mr. Giant," the witch asked, "I am in need of the little purple flowers from your garden. You have so many already, could you please share just one with me?"\nBut the mean giant refused. "Every flower in my garden belongs to me," the giant shouted, "I won't share them with anyone!"
-Black Screen Text: "Kind-hearted Mr. Giant," the witch continued, "please hear my tale. I traveled here from a fountain in a far-off, distant land. An Oceanid there has fallen ill, and the scent of those purple flowers brings her comfort. If you could give me just one of them, perhaps her condition will improve..."\nBut the giant, who didn't have an ounce of compassion in his heart, callously refused the witch's request. What did an Oceanid in a faraway land have to do with him?
-Black Screen Text: "Then," the witch asked, "is there anything I can do for you? I know many magic spells, and I could use my magic to help you with someone in exchange. Will you agree to my request, kind-hearted Mr. Giant?"\nThe giant thought it over, then said that he had lost something very important to him. If the witch could use her magic to help him find it...
-Black Screen Text: "So, they made a deal?"\n"Yep! In the end, the witch's friend recovered and the giant found what he had lost. Isn't that a better story? At least in this story, everyone gets a happy ending..."
+Black Screen Text: "It's my turn to tell a story! I've heard enough stories to tell one of my own now."
+"Alright, you can be the storyteller this time."
+"Okay. My story will also begin in the giant's garden..."
+Black Screen Text: Long, long ago, in a garden full of purple flowers, there lived a prince, a princess, and a brave hero... Oh! And the ruler of the garden — a giant with a nasty temper.
+What the witch wanted more than anything were some of the purple flowers, but the mean giant treasured them so much that he wouldn't let anyone pick even a single one.
+"Kind-hearted Mr. Giant," the witch asked, "I am in need of the little purple flowers from your garden. You have so many already, could you please share just one with me?"
+But the mean giant refused. "Every flower in my garden belongs to me," the giant shouted, "I won't share them with anyone!"
+Black Screen Text: "Kind-hearted Mr. Giant," the witch continued, "please hear my tale. I traveled here from a fountain in a far-off, distant land. An Oceanid there has fallen ill, and the scent of those purple flowers brings her comfort. If you could give me just one of them, perhaps her condition will improve..."
+But the giant, who didn't have an ounce of compassion in his heart, callously refused the witch's request. What did an Oceanid in a faraway land have to do with him?
+Black Screen Text: "Then," the witch asked, "is there anything I can do for you? I know many magic spells, and I could use my magic to help you with someone in exchange. Will you agree to my request, kind-hearted Mr. Giant?"
+The giant thought it over, then said that he had lost something very important to him. If the witch could use her magic to help him find it...
+Black Screen Text: "So, they made a deal?"
+"Yep! In the end, the witch's friend recovered and the giant found what he had lost. Isn't that a better story? At least in this story, everyone gets a happy ending..."
 
 ### Additional Talk 37
 
