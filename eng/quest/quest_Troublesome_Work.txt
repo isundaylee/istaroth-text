@@ -267,7 +267,7 @@ Marjorie: Ah, that's right — I heard she enjoys <color=#00E1FFFF>items of hist
 
 ### Additional Talk 6
 
-Traveler: No
+Traveler: ???
 
 ### Additional Talk 7
 
@@ -286,8 +286,8 @@ Lisa: Let's go and find the next overdue book.
 
 ### Additional Talk 8
 
-Donna: Some flowers for Miss Lisa? What would you like?
-<color=#00E1FFFF>(Pick a kind that Lisa will like)</color>
+Marjorie: Take a look around, there's sure to be something she'll love.
+<color=#00E1FFFF>(Choose a gift for Lisa.)</color>
 
 ### Additional Talk 9
 
@@ -296,13 +296,18 @@ Donna: Some flowers for Miss Lisa? What would you like?
 
 ### Additional Talk 10
 
+Donna: Some flowers for Miss Lisa? What would you like?
+<color=#00E1FFFF>(Pick a kind that Lisa will like)</color>
+
+### Additional Talk 11
+
 Donna: Dandelion
 Donna: Dandelions are one of our classics, and a personal favorite of Miss Flora, the shop owner.
 Donna: I know what you're thinking: Most flower shops don't sell dandelions, they're a nuisance to care for... Perhaps Miss Flora likes the sense of floating away to a faraway land that the dandelion evokes?
 Donna: Come to think of it, Miss Flora herself gives people the same impression.
 Paimon: You sure you wanna pick the <color=#00E1FFFF>Dandelion</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
 
-### Additional Talk 11
+### Additional Talk 12
 
 Donna: Mist Flower
 Donna: Mist Flowers? Over there in the corner... but don't touch them with your bare hands. You'll get frostbite.
@@ -310,14 +315,14 @@ Donna: You want them? You're sure? What an unusual choice...
 Donna: It's just that Lisa seems to use Electro quite a lot. Things could get a little bit dangerous...
 Paimon: You sure you wanna pick the <color=#00E1FFFF>Mist Flower</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
 
-### Additional Talk 12
+### Additional Talk 13
 
 Donna: Rose
 Donna: These roses were bought from a traveling merchant a few days ago.
 Donna: Miss Flora thought maybe someone would like them... This is the only bunch.
 Paimon: You sure you wanna pick the <color=#00E1FFFF>Rose</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
 
-### Additional Talk 13
+### Additional Talk 14
 
 Donna: Cecilia
 Donna: Ah, the Cecilia. Did Miss Flora recommend it to you?
@@ -325,63 +330,63 @@ Donna: This flower is a lot of effort to care for. I hope that I've been doing i
 Donna: But part of the Cecilia's charm is how precious and fragile each one is...
 Paimon: You sure you wanna pick the <color=#00E1FFFF>Cecilia</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
 
-### Additional Talk 14
-
-Donna: ???
-
 ### Additional Talk 15
 
 Donna: ???
 
 ### Additional Talk 16
 
+Donna: ???
+
+### Additional Talk 17
+
 Donna: What does Donna think?
 Donna: You want my help? I don't know if I have the best taste in flowers... Why don't you go ask Miss <color=#00E1FFFF>Flora</color>, the shop owner?
 Donna: I couldn't help but notice the flower on Miss Lisa's hat though — I think it's a <color=#00E1FFFF>Rose</color>.
 
-### Additional Talk 17
+### Additional Talk 18
 
 Donna: I'll be back shortly.
 
-### Additional Talk 18
+### Additional Talk 19
 
 Flora: What kind of flowers does Lisa like?
 Flora: You want to know what flowers to get for Miss Lisa?
 Flora: We're not particularly close, but she strikes me as a classy lady!
 Flora: Hmm... Yep, it can only be the <color=#00E1FFFF>Cecilia</color>!
 
-### Additional Talk 19
+### Additional Talk 20
 
 Donna: Yes
 Lisa: Dandelions? They actually sell dandelions?
 Lisa: They have a refreshing scent, similar to the one Jean wears. Thank you.
 
-### Additional Talk 20
+### Additional Talk 21
 
 Donna: Yes
 Lisa: Huh? These flowers are saturated with Cryo energy. They could be very dangerous for me.
 Lisa: Don't you know what happens when Cryo meets Electro? *Tut-tut* You certainly haven't been doing your homework.
 Lisa: Meet me at the library after work and I will give you some training on elemental reactions. If you still find it hard to memorize... Maybe I'll have you give you a little taste of what it feels like to superconduct.
 
-### Additional Talk 21
+### Additional Talk 22
 
 Donna: Yes
 Lisa: I can see you put a lot of thought into this, have you ever heard of the Witch of Purple Rose before?
 Lisa: I thought that after returning to Mondstadt I wouldn't have the chance to see fresh roses again.
 Lisa: This seems like a good sign.
 
-### Additional Talk 22
+### Additional Talk 23
 
 Donna: Yes
 Lisa: Ooh la-la, such fine taste.
 Lisa: This rare flower is only found in Mondstadt's very highest mountains.
 Lisa: If only you had picked them for me with your own hands... They would have had twice the sentimental value.
 
-### Additional Talk 23
+### Additional Talk 24
 
 Flora: No
 
-### Additional Talk 24
+### Additional Talk 25
 
 Lisa: Okay, time to get back to business. Donna, do you know why we're here?
 Donna: Back to business? My business is selling flowers!
@@ -412,29 +417,23 @@ Paimon: Elemental sensitivity? Oh! Paimon's got it!
 Paimon: #{NICKNAME}, use your <color=#00E1FFFF>Elemental Sight</color> to look for clues!
 Traveler: What happened?
 
-### Additional Talk 25
+### Additional Talk 26
 
 Donna: *sigh* How could I lose it...
 
-### Additional Talk 26
-
-Traveler: Yes
-Lisa: Finished ordering? Sit here, let's dine together.
-
 ### Additional Talk 27
 
-Traveler: Yes
-Lisa: Finished ordering? Sit here, let's dine together.
+Paimon: Oof... Paimon's so full...
+Lisa: Time is getting on. I suppose I should carry on with this ghastly thing called work.
+Lisa: Let's have a little chat with Sara about her library book.
 
 ### Additional Talk 28
 
-Traveler: Yes
-Lisa: Finished ordering? Sit here, let's dine together.
+Traveler: ???
 
 ### Additional Talk 29
 
-Traveler: Yes
-Lisa: Finished ordering? Sit here, let's dine together.
+Traveler: ???
 
 ### Additional Talk 30
 
@@ -443,9 +442,29 @@ Lisa: Finished ordering? Sit here, let's dine together.
 
 ### Additional Talk 31
 
-Traveler: No
+Traveler: Yes
+Lisa: Finished ordering? Sit here, let's dine together.
 
 ### Additional Talk 32
+
+Traveler: Yes
+Lisa: Finished ordering? Sit here, let's dine together.
+
+### Additional Talk 33
+
+Traveler: Yes
+Lisa: Finished ordering? Sit here, let's dine together.
+
+### Additional Talk 34
+
+Traveler: Yes
+Lisa: Finished ordering? Sit here, let's dine together.
+
+### Additional Talk 35
+
+Traveler: No
+
+### Additional Talk 36
 
 Traveler: Invigorating Pizza
 Lisa: *gasp* It's like you read my mind... Do you have some magical powers you're not telling me about, Outlander?
