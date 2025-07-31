@@ -3,34 +3,17 @@
 
 ## Talk 1
 
-Wheel: Carriage inspection, check... Wheel and axle inspection, check... power inspection...
-Nilou: Good morning, Mr. Wheel!
-Wheel: Good morning, heroes of Simulanka.
-Paimon: Hey, our old friend Wheel is the driver again! That already puts Paimon at ease.
-Montagne: Are you certain you don't want us to accompany you, Your Majesty?
-Navia: #I am. You can leave the dragon-slaying to us. My partner's a pro, {M#he}{F#she} does it all the time!
-Traveler: You flatter me...
-Bizerte: What remarkable friends Her Majesty has. With such great heroes by your side, I'm sure you'll best the dragon with ease. We won't keep you any longer.
-Navia: Alright, then! Look after the city for me while I'm gone.
-Montagne: Yes, Your Majesty.
-Bizerte: Just leave it to us.
-Navia: I think we're all set. Time to depart.
-Paimon: Next stop, the end of the world!
-Traveler: I've only fought two or three...
+Paimon: The time has come to slay the dragon! How are you feeling? Nervous?
+Paimon: Paimon's curious to see what this "end of the world" place is like. C'mon, let's go meet the others at the station.
 
 ## Talk 2
 
-Nilou: So we've got to switch trains, right? ...Huh? What's that?
-Paimon: It looks like... Hilichurls! They've taken over that platform!
-Wheel: Huh!? Wh—What do we do...?
-Navia: Just find somewhere to hide, Mr. Wheel. We'll take care of them!
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Are we... inside the black mist?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Huh? I see something up ahead.
 
 ## Talk 3
 
-Navia: Phew. That's all of them.
-Wheel: Thank you so much for your help, everyone. Now let me take a look at the train...
-Wheel: Hmm, the carriage is a little scratched up, but there doesn't seem to be any real damage, and the engine is still operating normally. I think we're good to go.
-Navia: Wonderful! Let's keep going, then.
+Kirara: The book's on the move again.
 
 ## Talk 4
 
@@ -343,17 +326,6 @@ Durin: ...
 
 ## Talk 20
 
-Navia: Is this... a study?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: That's right. It belongs to the Goddess of Fate.
-Paimon: Goddess of Fate? As in, one of the three Goddesses who created Simulanka?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Or more precisely, "M." One of the Mages of the Hexenzirkel.
-Paimon: Hexenzirkel!? As in...
-Paimon: ...Sorry, Paimon shouldn't just regurgitate everything you say. It's just... it's a lot to take in.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: She created the story of Durin. Well, the Simulanka version, at least.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: These records should cover most of what you want to know, including the identities of the other two Goddesses. Read them for yourselves.
-
-## Talk 21
-
 Navia: That was a close call! Are you guys alright?
 Traveler: Yup, all thanks to Kirara.
 Kirara: Back in Constellation Metropole, I heard people saying you'd gone to fight the dragon, so I followed you here. Right when I managed to catch up, I saw you fall through that hole!
@@ -379,7 +351,7 @@ Nilou: The people we met along the way are probably workers from the toytanium m
 Paimon: Huh, who is the person behind this voice, anyway? And why did they bring us all here?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Come with me. The answer to all of this can be found below.
 
-## Talk 22
+## Talk 21
 
 Navia: It's... Simulanka Durin? And he's looking up at something... a star.
 Nilou: This must have been after M passed away...
@@ -390,7 +362,7 @@ Nilou: The Forest of Blessings... This book has been recording Simulanka's histo
 Kirara: Look at the size of those footprints... If that's every time he lands, then no wonder people are so terrified of him.
 Navia: So that's why you took the stars... Because you missed your mom.
 
-## Talk 23
+## Talk 22
 
 "M": "...By all rights, I should have been 'A,' since 'A' is the first and last letter of my name. But Alice overruled me on the basis of seniority, and said I would be 'M' instead, because of my middle name. Haha, she really knows how to push my buttons..."
 "M": "Still, her magic never fails to amaze me. I still can't believe she got one of my origami frogs to start talking."
@@ -399,25 +371,25 @@ Navia: So that's why you took the stars... Because you missed your mom.
 "M": "I think I'll make a bet with her. I believe that one day, the people of Simulanka will decide to carve their own destiny."
 "M": "...Apparently, she wants to build a statue of herself in the capital city!? Haha, always looking to add some pizzazz."
 
-## Talk 24
+## Talk 23
 
 Nilou: The Forest of Blessings... This book has been recording Simulanka's history all along...
 Kirara: Look at the size of those footprints... If that's every time he lands, then no wonder people are so terrified of him.
 
-## Talk 25
+## Talk 24
 
 Nilou: This looks like... a mine.
 Kirara: Maybe... the toytanium miners dug too deep? So deep that they dug right through to the world on the next page?
 Nilou: Yeah... Now that you mention it, this miner's lamp looks really similar to the star on the previous page...
 
-## Talk 26
+## Talk 25
 
 "M": "My dear sisters, I fear my pen shall soon run dry... Even now as I write this letter to you, my dexterity is all but failing me. Thank you for enjoying my stories, and for creating this world for me..."
 "M": "The time we spent together was the most wonderful youth I could have asked for. Haha, I always feel so young when we're together..."
 "M": "'A' says that even after I am gone, the Goddess of Fate in Simulanka will continue to exist, and carry on granting people's wishes. It makes me glad..."
 "M": "If you ever want to chat, feel free to pay a visit to the Goddess statue. Just don't wish for anything weird!"
 
-## Talk 27
+## Talk 26
 
 Alice: Ta-da! Surprise, everyone!
 Paimon: Aah! A talking street lamp!

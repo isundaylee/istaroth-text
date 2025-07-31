@@ -3,146 +3,22 @@
 
 ## Talk 1
 
-Paimon: Um, there really is nothing here... You sure this is the place?
-Mamere: It... It should be. Father couldn't be wrong...
-Paimon: Still, Paimon didn't expect that Seymour could dive...
-Seymour: Affirmative. I am equipped with the latest multi-use diving unit, with which I may always accompany my master and those composed of pure water, the...
-Glaisti: Huh? Mamere? What are you doing here?
-Paimon: Whoa! Where did you come from...
-Glaisti: Sorry! Did I scare you? Those monsters kinda just came jumping out of those glowing circles, so I hid in the cleft of the rocks...
-Paimon: It's all good as long as you're okay! Are you alone?
-Glaisti: No, there's a friend of mine who's been trapped over there...
-Glaisti: That child's name is Puca... Tall one, could I please ask you to rescue her?
-Traveler: Leave it to us.
-Paimon: Yes. Let's go!
+Paimon: Wait a second! Why would these things be here!?
+Seymour: Hostile reactions detected. Threat assessment: intermediate. Seymour, entering sweeper mode. Please get behind me, Ms. Mamere.
 
 ## Talk 2
 
-Paimon: Ooh, so there was a village here too, huh?
-Puca: Yes. This place was closer to the ore veins, so...
-Glaisti: As for me, I'm here because it makes it easier to care for the injured animals in the area.
-Glaisti: #Anyway, we should be safe once we reach home. Thank you, {NICKNAME}, Paimon!
-Glaisti: Thank you as well, Mamere! If it wasn't for you, we might've never made it back! Let's have tea next time we get the chance.
-Mamere: ...Um...
-Paimon: Oh come on, now's not the time to be shy!
-Mamere: I—I'm not shy! I'm just...
-Glaisti: Oh, never mind, I understand.
-Glaisti: #In that case, we'll go back first. Thank you for escorting us, {NICKNAME}, Paimon.
-Paimon: See you! Stay safe!
-Paimon: Well, guess our rescue mission's done and dusted, eh?
-Mamere: Thank you for your help, and for being willing to trust me.
-Mamere: Otherwise, I wouldn't have known what to do when faced with those monsters...
-Seymour: #{M#Negative. According to hypotheticals generated from previous data, milady, my sweeper mode would have been capable of negating the threat posed by those hostile lifeforms.}{F#Affirmative. If not for this lady here, I would not have been able to eliminate those lifeforms so quickly.}
-Seymour: #{M#If not for this gentleman's help, however, I would not have eliminated them as quickly. Thank you for your aid.}{F#However, hypotheticals generated from previous data indicate that my sweeper mode would have neutralized the threat posed by those hostile lifeforms, albeit requiring a longer period of time.}
-Paimon: #Hehe, {NICKNAME} and Paimon are well-seasoned adventurers, y'know! Still, what are these things doing inside Elynas?
-Traveler: And they appeared alongside the quake, too.
-Mamere: I wonder how Father is doing...
-Paimon: Speaking of that, Paimon thought that Father was a secret only the Melusines knew about. Paimon didn't think that the other Melusines hadn't heard of him either...
-Mamere: That's right. No one can hear his voice, just like how no one can understand the paintings' contents.
-Mamere: They would think that I was talking to myself whenever I spoke to Father.
-Paimon: That's understandable...
-Traveler: (That means that the voice I heard then was...)
-Paimon: Well, now that we've seen you repair Seymour and take us to help Puca and such, Paimon's sure that your Father must be a decent person!
-Mamere: Absolutely! He's the best in the world...
-Paimon: Whoa! Everything's shaking again!
-Mamere: ...!
-Mamere: #{NICKNAME}, Paimon! Those monsters... They've appeared elsewhere...
-Paimon: Huh!?
-Mamere: This time, they've showed up where we were collecting paints previously...
-Paimon: You mean the place with the large house and the shipwreck?
-Paimon: It's a long way there from here...
-Mamere: Y—Yes, I know... Ohh, what should we do? If we don't make it in time...
-Seymour: There is no need to take the long way. We can ascend directly from here.
-Mamere: Eh? But there should be no path up there.
-Seymour: I have just completed a full scan of the surrounding areas.
-Seymour: We need only penetrate the layers of rock above us to reach Merusea Village directly. That will allow us to reach our destination in good time.
-Paimon: It's not that simple, y'know! What do you mean "need only penetrate the layers of rock above us"... How do we do that?
-Seymour: I detect a lack of faith in my functionalities, Ms. Paimon. Concern is unnecessary. My most advanced mining module can penetrate rock layers of this thickness.
-Seymour: #{M#Noble Sir}{F#Noble and lovely Lady} {NICKNAME}, {M#please}{F#I ask you to} take me to the waters up above. I cannot maintain diving unit operation while my mining module is active.
-Paimon: Well, guess he can do that too, huh?
-Traveler: They're my least favorite monsters.
-Paimon: No wonder you were going at them that hard...
+Puca: Um... P—Please, get away from me! I—I'm just a normal Melusine, and I'm not tasty at all! Even if you did eat me, it wouldn't fill your tummy!
+Paimon: No, silly! We're here to save you! We got rid of the monsters already. You're Puca, right?
+Puca: Um... Y—Yes?
+Paimon: Huh. Who'd have thought that a Melusine could get caught in seagrass...
+Paimon: She's trapped there... Let's find some way to get rid of this seagrass!
 
 ## Talk 3
 
-Paimon: Mamere! We've collected a whole bunch of components. Will these do?
-Mamere: You've collected so many in such a short time... Amazing...
-Mamere: Guess that's what I should've expected from outlanders who've experienced lots of things and met lots of people!
-Paimon: Hehe, we've done this sorta thing loads of times, after all!
-Paimon: That said, how are we gonna use these components to fix Seymour?
-Mamere: Don't worry, just leave it to me. Things will be alright... just like Father said!
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): She opens the immobile robot dog up along the slit in its back in a manner ill-befitting of repairs.
-Then, she stuffs the scattered components on the ground into the dog seemingly without looking, as one might when well-practiced at one's job...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): With that done, she takes out a strange mechanical component from her pocket — it resembles an intricately-packaged candy with some indecipherable runes carved into it. She embeds this into the gear on the dog's head, and with a "clack," they come together...
-Components of unknown purpose skitter across the ground. She picks them all up — they are as valuable as Mora in this place, after all.
-Paimon: Will... this really work? It might just be Paimon's imagination, but it feels like more components dropped than we collected in the first place...
-Paimon: On that note... The thing you pulled out a moment ago seems kinda different from those components...
-Mamere: This? Well, it's not a component. It's a token.
-Paimon: A token?
-Mamere: That's right. It was something we were all born with. Father said that if we put this in as well, we'd be able to cure Seymour...
-Paimon: Wait. You were born with it? Does that mean...
-Paimon: Actually, Paimon's not sure how Melusines are born in the first place!
-Mamere: I'm... not sure either, now that I'm considering it. But in my first memories, I had the token with me... That's how it is for everyone.
-Paimon: Eh? Then isn't it something really valuable to you?
-Mamere: Yes... "Tokens" are very important to us — they're different from ordinary components.
-Mamere: They were the first memento we received when we arrived in this beautiful world — they are proof that we are alive.
-Paimon: But if that's the case, why did you just use it like that...
-Mamere: Well, I didn't throw it away or anything... Seymour will be by my side, right? And he's this way because he tried to save me, so...
-Seymour: —
-Seymour: Relay module detected. Environment check... Contamination levels: High. Activating in Safe Mode.
-Paimon: Whoa! It suddenly moved!
-Seymour: Unidentified life forms detected... Related information entered. It is a pleasure to meet you, Ms. Mamere, and...
-Mamere: #...They're {NICKNAME} and Paimon.
-Seymour: #You have entered this data previously. It is an honor to meet you, {M#noble Mr.}{F#Ms.} {NICKNAME}, and Paimon, the adorable little one.
-Seymour: #{M#Thank you for your help in the previous altercation. I am Prototype 4ACV07. You may call me Seymour.}{F#It was my honor to witness your elegant swordsmanship during the previous altercation, Miss. I am Prototype 4ACV07. You may call me Seymour.}
-Seymour: Up till today, for (1/7)×10^21 clockwork cycles, my functions were in hibernation, awaiting their awakening by my master, such that I may continue fulfilling my assignment.
-Paimon: Huh? Hibernation? Couldn't you talk normally before, though?
-Seymour: By "normal speech," you refer to my pre-configured automated responses, yes?
-Mamere: ...Huh?
-Seymour: Your observation is most sharp, almost comparable to that of my master. Previously, when you would bring my artificed clockwork relay module nearby, Ms. Mamere, my main voice unit would be automatically triggered.
-Paimon: An artificed clockwork relay module?
-Traveler: Are you referring to her token?
-Seymour: I apologize, but I cannot answer your question. I do not understand the meaning of this "token" you refer to.
-Seymour: As such, I can make no judgment as to any relationship between this "token" and said artificed relay module.
-Seymour: Regardless, while hibernating, I would automatically play preset responses to specific situations to ensure that my voice-over units would work properly once energy supply was restored.
-Paimon: Huh? In other words, you were just playing fixed lines before — is that what you mean?
-Seymour: Affirmative. Your understanding is completely correct, Paimon, as befits your elegance and wisdom.
-Seymour: A large amount of energy is required to operate my natural language processing unit. My logic unit actively shuts it off when power supply cannot be guaranteed so as to prevent complete loss of my functionality.
-Mamere: So that means...
-Mamere: So... All the things you said to me before were just... pre-written?
-Seymour: Affirmative. Your understanding is correct, Ms. Mamere. During my previous hibernation, our interactions were all performed through the playback of pre-recorded voice assets.
-Mamere: *sigh* I...
-Paimon: (Uh-oh...)
-Seymour: However, my visual and information processing modules were not shut off, so I do have the paintings you displayed in my memory unit.
-Seymour: I can recognize more than one hundred and three thousand, nine hundred different styles of art, but your work does not match any of them.
-Seymour: As such, I can reasonably infer that your art has unprecedented artistic value. I did not mention this before using my preset voice assets, so consider this appended to any previous related comments.
-Mamere: R—Really...?
-Seymour: Affirmative.
-Paimon: You see? The only reason people don't understand your art is because your style is too new and unique — so don't worry about it. They'll get it in the future for sure!
-Mamere: Th—Thank you, Seymour, Paimon... I was afraid that...
-Paimon: See, even Seymour says so. You've gotta believe in yourself, and believe in us too! We understand your paintings, and they are truly beautiful.
-Seymour: In any case, thank you all for your help in restoring my lost relay module. This way, I will be able to better fulfill my mission — protect my master.
-Paimon: By master, you mean Mamere? Is that why you suddenly activated to protect her when she was in danger?
-Seymour: Negative. I am infinitely grateful to her for taking care of me during my hibernation. However, she is not my master. My master is...
-Paimon: Is...?
-Seymour: I apologize. Some of my memories have suffered light damage. Inference, caused by previous damage. Unable to locate data related to "master."
-Seymour: Reason for previous emergency activation is unknown. That should not have happened. I must schedule logic unit maintenance.
-Mamere: Well... Why don't we have something to eat, Seymour? You've never eaten anything before. Maybe you'll figure something out once you've had your fill...
-Paimon: Not every problem can be solved by eating, you know! Just... most of them...
-Seymour: Estimated data damage: High. Attempting global search for relevant information. Searching last recorded segment.
-Seymour: Failure. Critical data damaged. Search procedure has been forcefully terminated.
-Paimon: Um, are you really okay? It feels like you're getting worse somehow...
-Seymour: Thank you for your concern, Ms. Paimon, but do not worry. I was merely running a self-diagnostic. I can confirm that everything is operating normall—
-Paimon: Agh! What's going on?
-Traveler: (It was accompanied by a quake this time...)
-Seymour: Warning. Extreme increase in environmental contamination detected.
-Seymour: For your safety, please leave this place to avoid irreversible damage.
-Paimon: Wait... what kind of contamination are you talking about? What's going on?
-Mamere: Ah...
-Mamere: #{NICKNAME}, Paimon... Father says... it's dangerous, hurry...
-Paimon: F—Father again? Wait... what danger? What do we have to hurry and do?
-Mamere: The scattered Melusines. Danger... There's no time to explain. Please, help me!
-Paimon: #Whatever the case, {NICKNAME}, Paimon has a real bad feeling about the quake just now. Maybe it has something to do with what Mamere was talking about. Let's get going!
+Seymour: Mining module activated.
+Paimon: Eh? You just smashed that to pieces...
+Mamere: #You're... pretty strong, aren't you, Seymour? Actually, now's not the time to worry about that. C'mon, {NICKNAME}, Paimon, we need to get back quickly!
 
 ## Talk 4
 
