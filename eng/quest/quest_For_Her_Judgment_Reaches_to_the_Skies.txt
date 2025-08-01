@@ -36,7 +36,7 @@ Jeht: ...
 Traveler: I won't hurt you. Please, trust me.
 Jeht: Whatever, I'm done with this. First, it was Azariq, and now it's you... *sigh*...
 Traveler: Calm down. We were all deceived.
-Paimon: #{M#He's}{F#She's} right! You said that the Matriarch asked you to hunt us down because we betrayed the tribe, but y'know what? That's the exact same mission she gave us!
+Paimon: #He's right! You said that the Matriarch asked you to hunt us down because we betrayed the tribe, but y'know what? That's the exact same mission she gave us!
 Paimon: We didn't believe you'd betray us, so we were trying to find you and figure things out.
 Jeht: ...
 Jeht: I didn't betray the tribe, nor do I have any reason to do so.
@@ -86,17 +86,14 @@ Jeht: Ugh... Ow, ow...
 Traveler: We still have time. You should rest.
 Paimon: Yup yup, there's no need to rush it. We can return any time, while Babel has to wait for us.
 Traveler: Paimon's right. The initiative is on our side now.
-Jeht: #{M#Mm, you're right. I'm sorry that I didn't trust you...}{F#The initiative, huh...? Hmm...}
+Jeht: #Mm, you're right. I'm sorry that I didn't trust you...
 Paimon: Alright, Jeht, show us your wounds already. We'll help bandage you up!
 Jeht: My wounds? Where? Pfft... That's right. They're everywhere! ...Seriously though, I can keep going.
 Traveler: Don't try to downplay it. Let us have a look.
-Jeht: #{M#*sigh*... Okay. Sorry...}{F#Mm... Okay...}
+Jeht: #*sigh*... Okay. Sorry...
 Black Screen Text: And so, you all decide to rest briefly and start a campfire...
-Black Screen Text: #{M#After carefully tending to Jeht's wounds, you get some rest together with her by the campfire.
-Though no words are spoken, you both know what must happen next.}{F#After carefully tending to Jeht's wound, you get some rest together with her by the campfire...
-Jeht sleeps peacefully by your side. The mixed odors of blood, sweat, and burning poplar branches cannot fully mask the scent of spices she carries.
-Light snoring and raving nonsense intertwine in her dreams — she must truly be tired.
-Even without speaking to one another, you both know what must happen once she awakes.}
+Black Screen Text: #After carefully tending to Jeht's wounds, you get some rest together with her by the campfire.
+Though no words are spoken, you both know what must happen next.
 Jeht: ...Let's go. Let's find Babel and have her explain everything to us.
 
 ## Talk 9
@@ -129,8 +126,8 @@ Paimon: Huh? What's that supposed to mean?
 Babel: You dodged the question last time... and that is understandable.
 Babel: But today, you must make a choice: Tanit, your home, or this outsider, this friend of yours.
 Traveler: Wait. Are you saying that you discussed how to get rid of me previously?
-Jeht: #Yes... But I refused. {M#I mean, come on! You're my friend, after all.}{F#I mean, how could I? You're so important to me.}
-Babel: #I'm sorry, my child, but sacrifice is necessary... I shall not let {M#his}{F#her} noble blood be shed in vain. On that, you can have absolute faith in me.
+Jeht: #Yes... But I refused. I mean, come on! You're my friend, after all.
+Babel: #I'm sorry, my child, but sacrifice is necessary... I shall not let his noble blood be shed in vain. On that, you can have absolute faith in me.
 Babel: As for you, Jeht, you will become my successor, and one day, you will be the Tanit's new Matriarch and Nabu Malikata's Prophetess.
 Babel: Please, consider my offer. The future of our home lies in your hands, my daughter. Merely ask it of me, and I will give you time and one more chance.
 Jeht: There's no need. I've made up my mind.
@@ -151,7 +148,7 @@ Babel: And what is the point of this meaningless talk?
 Jeht: You are the "sole oracle of the goddess" and my "mother." Why should there be any secrets between us?
 Jeht: If you wish to hear more, I can spell every one of my deeds out to you, and to all the Tanit.
 Jeht: Everything I've done for you, my mother, and for this family.
-Jeht: #I've done enough, and I'm fed up with it. I won't betray {NICKNAME}.
+Jeht: #I've done enough, and I'm fed up with it. I won't betray Traveler.
 Babel: You're mad... How dare you slander me, your Matriarch! You've forgotten your mother's name! Silence — I bid you be silent now, before it is too late!
 Jeht: My mother's name is Ufairah — Ufairah Hindi. She was an honest person.
 Babel: ...
@@ -161,7 +158,7 @@ Jeht: Ufairah Hindi, that's her name... And it will be mine as well.
 Babel: Traitor! All my teachings were for nothing! May the desert mark your treachery!
 Babel: Enough! My kin, you know what to do.
 Babel: She has angered... and saddened me.
-Paimon: #Huh...! Hold on! Don't get so worked up! Didn't you just say that you see Jeht as your daughter... Besides, {NICKNAME} has helped you so many times...
+Paimon: #Huh...! Hold on! Don't get so worked up! Didn't you just say that you see Jeht as your daughter... Besides, Traveler has helped you so many times...
 Paimon: A—Anyway, there's still gotta be a way to come to an understanding, right?
 Jeht: Paimon, hide yourself.
 Jeht: Keep your eyes closed... and don't dirty your white clothes.
@@ -187,11 +184,9 @@ Paimon: ...C'mon, Jeht, you're not "dragging us down" or anything...
 Jeht: Anyway, if you ever feel tired or want to take a breather... I believe that our paths will converge one day.
 Jeht: At that time, I might even invite you to go on a crazy adventure with me again.
 Jeht: Phew... I've done enough talking... It's time to leave. There's nothing left here but heartbreak.
-Black Screen Text: #{M#You hug Jeht before parting ways with her in the desert.
+Black Screen Text: #You hug Jeht before parting ways with her in the desert.
 She holds you tightly, and you notice that she seems to be holding back sobs...
-However, she quickly draws back and rubs her wet eyes before smiling broadly at you once more.}{F#You hug Jeht before parting ways with her in the desert.
-She holds you tightly, almost as if afraid that a blinding sandstorm would sweep you away. You notice that she seems to be holding back sobs...
-Then she pushes you away lightly and rubs her wet eyes before smiling broadly at you once more.}
+However, she quickly draws back and rubs her wet eyes before smiling broadly at you once more.
 Black Screen Text: "May we meet again under a lovelier sun," she says.
 Black Screen Text: Jeht turns away and leaves.
 You see Benben, only now emerging out of the ruined camp, hurry to catch up with Jeht.

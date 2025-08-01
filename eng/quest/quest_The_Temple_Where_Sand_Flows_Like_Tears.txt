@@ -194,10 +194,10 @@ Messenger: Ah, um... No, well, this... I was sent by Matriarch Babel with a mess
 Jeht: This... That... What's got your tongue? Do you need me to shorten it for you? Did she say anything else?
 Messenger: She'd like to speak with you alone... Sorry. I didn't know you were in a bad mood...
 Jeht: A bad mood? Nonsense, I've never been better! You know, what with having found the Mother of the Jinn and all — which I'll be telling the Matriarch, of course.
-Jeht: #I'm more than pleased, and so will she be, I bet! And so will her "master," to have a nice new servant — wouldn't you say, {NICKNAME}?
+Jeht: #I'm more than pleased, and so will she be, I bet! And so will her "master," to have a nice new servant — wouldn't you say, Traveler?
 Traveler: ...
 Jeht: ...
-Jeht: #Matriarch Babel has business with me, so I'll take my leave now. My deepest apologies for not serving you to the end, {M#Prince}{F#Princess} {NICKNAME}.
+Jeht: #Matriarch Babel has business with me, so I'll take my leave now. My deepest apologies for not serving you to the end, Prince Traveler.
 Jeht: Alright, let's go see the Matriarch.
 Messenger: S... Sure. As for you, honored guests, just follow this canyon, and you'll reach our camp soon enough.
 Liloupar: ...
@@ -217,7 +217,7 @@ Paimon: Even if that happens, we'll pull her right outta the fire! That's what f
 
 ## Talk 20
 
-Azariq: #We're here! C'mon, let's find a place to sit and grab a bite, {NICKNAME}.
+Azariq: #We're here! C'mon, let's find a place to sit and grab a bite, Traveler.
 Jeht: ...
 Paimon: Hey there, Azariq, Jeht!
 Traveler: It's been a while.
@@ -233,8 +233,8 @@ Jeht: Sorry, it was my fault, really. I was... petty. Childish.
 Jeht: I knew how important Liloupar was to our mission, but I threw a tantrum anyway...
 Paimon: Liloupar says stuff weirdly, and she does use some pretty creepy analogies...
 Paimon: But she looked out for us the whole way, so... Well, she's different from the people we've met so far for sure, but she doesn't seem like a bad person!
-Paimon: #Whatever the case... It'll be fine. {NICKNAME}'s important to you, isn't {F#she}{M#he}, Jeht?
-Jeht: #{M#Of course. You're my best friends.}{F#Yeah, I mean, I've always seen you as my... best friend, but I'm just worried that... *sigh* Never mind.}
+Paimon: #Whatever the case... It'll be fine. Traveler's important to you, isn't {F#she}{M#he}, Jeht?
+Jeht: #Of course. You're my best friends.
 Liloupar: ...
 Paimon: Yeesh, you're so serious all of a sudden. Paimon doesn't know what to say at all...
 Jeht: Ugh, there's no need to be so awkward! I won't get mad anyhow from now on, and you can count on that!
@@ -276,7 +276,7 @@ Jeht: Still... I ran off in a huff without giving any thought to whether they wo
 Paimon: Oh, let's leave that aside for now. It wasn't even your fault...
 Azariq: I'm with Paimon. Don't beat yourself up about this too much, Jeht. They seem to have been ordered specifically not to attack you — can't blame you for having lowered your guard there.
 Jeht: But as for Aderfi... Since he's fled in secret, it's beyond doubt that he's betrayed us. Those who violate the laws of hospitality and wield their blades against guests are unworthy of the Tanit's mercy.
-Jeht: #I'll capture him, {NICKNAME}, this I promise. He will not escape the Matriarch's judgment.
+Jeht: #I'll capture him, Traveler, this I promise. He will not escape the Matriarch's judgment.
 Azariq: ...
 Paimon: Hoho, Jeht's getting serious!
 Jeht: What? You make it sound like I've never been serious!
@@ -337,13 +337,13 @@ Traveler: A shepherd...?
 Liloupar: Not you, no... Hah, but much like you, my master. You were... much like him — as he was once.
 Jeht: ...
 Liloupar: Well now, girl, does that make you jealous?
-Jeht: #{M#No. It's just that I find this story quite familiar...}{F#Definitely not!}
-Liloupar: #{M#That's because this story has happened before, and may yet happen again.}{F#Hah. She is quite transparent, my master. I once did have a daughter — my eyes are not deceived.}
-Jeht: #{M#Hmm...}{F#Hmph. Say whatever you like...}
+Jeht: #No. It's just that I find this story quite familiar...
+Liloupar: #That's because this story has happened before, and may yet happen again.
+Jeht: #Hmm...
 Liloupar: *sigh* To the Jinn, "love" was a terrible chain, driving those who fell into its pit to make sacrifices, like the hyphae of a parasitic insect...
 Paimon: Oh boy, Liloupar's at it again with the scary analogies...
 Liloupar: Hehe, we Jinn do not have this tedious thing you humans call "shame," so we do not shy away from discussing love, or revealing one's all to a lover.
-Jeht: #{M#*cough*!}{F#I'm suddenly glad that you're just a bottle now...}
+Jeht: #*cough*!
 Liloupar: But to the Jinn, this mad love could not be reconciled to betrayal. Or else, hatred and vengeance three times greater would be sure to follow.
 Liloupar: That was the root of the farce that ended Gurabad... Though that is a different tale.
 Jeht: Actually, now that you mention it, I'd like to ask a question... Did you really have no other goal in presenting your "true name"?
@@ -356,7 +356,7 @@ Jeht: Well, since we've got the same goal, let's get along. How about a toast?
 Liloupar: And what shall you make this toast with? Me?
 Paimon: Pfft... Hahaha!
 Azariq: Alright, weird-story-time's over! Let's talk about something more relaxing.
-Azariq: #By the way, {NICKNAME}, do you play cards?
+Azariq: #By the way, Traveler, do you play cards?
 Traveler: Sorry, I don't.
 Liloupar: Eh, alright then... I for one shall not complain if a more elegant pastime were chosen.
 Azariq: Oh, that so? Shame, then. Why don't we talk about some of the things we've seen, then?
@@ -364,9 +364,8 @@ Black Screen Text: You all speak about the interesting things you've heard about
 The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
 At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
 Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
-{M#Jeht tells you about many trivial but funny things...
-She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
-A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.
 Black Screen Text: The night flies by as you chat.
 As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 Traveler: I feel for you...
@@ -376,7 +375,7 @@ Traveler: I'll bear that in mind.
 
 Paimon: Wow... The plants here have all withered... This doesn't look good.
 ???: No doubt, no doubt... And who shall we blame for that?
-Paimon: #Eh!? {NICKNAME}, Look! This bottle can talk!
+Paimon: #Eh!? Traveler, Look! This bottle can talk!
 ???: You obstreperous oaf... Where did you get that active yet actively useless tongue of yours, I wonder?
 Paimon: Eeek!
 Traveler: Are you... the Mother of the Jinn?
@@ -387,7 +386,7 @@ Jeht: We have come on behalf of the Tanit tribe to see you, to ask that you show
 ???: Ah, but... Step aside for a moment. I shall have words with your lord only.
 Jeht: ...?
 ???: Mmm... The scent of unknown spices from afar... A servant girl of the desert-kin, and a flying pet...
-???: #You must be a {M#Prince}{F#Princess} in exile, are you not?
+???: #You must be a Prince in exile, are you not?
 Traveler: I'm not...
 Liloupar: Liloupar. Call me Liloupar.
 Jeht: Lilou... par... Wait a moment! You're... You're the one from the books...!
@@ -416,21 +415,21 @@ Liloupar: Ooh, a mighty interesting story that is... Is that how I am portrayed 
 Liloupar: Are you worried that in making a contract with me, your lord... friend shall come to harm?
 Liloupar: But do you not wish to reach the place where Nabu Malikata slumbers? Hehehe... I shall not aid you, girl, or your... "Matriarch."
 Liloupar: I have no interest in your games of governance, nor shall I take part in your schemes... But your friend I shall serve, and give my true name.
-Jeht: #But... Why are you willing to give {NICKNAME} your true name, then? You must have a reason for that.
-Liloupar: #{M#Why, because I like him.}{F#Why, because I like her.}
-Paimon: #Eh!? Well, {NICKNAME} is plenty likable, sure...
-Jeht: #{M#You...}{F#...}
-Liloupar: #Is it so strange? I like {M#him}{F#her} for {M#his}{F#her} scent, and also for {M#his}{F#her} choice in servants and pets... Yes, such taste truly is fitting of a {M#prince}{F#princess}.
+Jeht: #But... Why are you willing to give Traveler your true name, then? You must have a reason for that.
+Liloupar: #Why, because I like him.
+Paimon: #Eh!? Well, Traveler is plenty likable, sure...
+Jeht: #You...
+Liloupar: #Is it so strange? I like him for his scent, and also for his choice in servants and pets... Yes, such taste truly is fitting of a prince.
 Liloupar: Alright, I shan't speak more than I should. Come, Your Highness. Are you ready?
 Paimon: Servants and pets... Wait, do you mean Jeht and Paimon!? Gah! You're... so rude!
 Paimon: Paimon thinks you're right, Jeht! There's definitely something fishy with this thing. Let's just throw it away and...
-Jeht: #{NICKNAME}, I get the feeling that we should...
+Jeht: #Traveler, I get the feeling that we should...
 Traveler: For a friend, this is a trivial risk.
 Jeht: But... you...
 Jeht: No, never mind... If this is your decision...
 Liloupar: Ah... You are so very cute.
 Liloupar: Well then, Your Highness, place me by your ear, and allow me to tell you my true name...
-Paimon: #{NICKNAME}...
+Paimon: #Traveler...
 Traveler: Don't worry about me.
 Jeht: ...If you say so.
 Traveler: (Do as Liloupar says.)
@@ -444,7 +443,7 @@ Jeht: ...
 Paimon: So, is this bottle gonna start floating around you too?
 Liloupar: Unfortunately, yes.
 Jeht: Great, we've got the Jinni, so let's go. We've spent too much time here already.
-Jeht: #I see a new path in the back, {NICKNAME}. Let's head that way!
+Jeht: #I see a new path in the back, Traveler. Let's head that way!
 Traveler: How did that...
 Jeht: Don't know, don't care! You coming?
 Paimon: Jeht seems angry all of a sudden...
@@ -470,13 +469,13 @@ Jeht: Yeah, I sensed that too.
 Paimon: Wait, why couldn't Paimon tell?
 Traveler: Because you fly.
 Paimon: Right, that's true... Well, it's not like flying doesn't come with its own troubles, y'know?
-Jeht: #Let's go have a look, {NICKNAME}. Something huge is bound to have happened!
+Jeht: #Let's go have a look, Traveler. Something huge is bound to have happened!
 Traveler: You don't have much experience living in the desert, Paimon...
 Paimon: That's true... But wait. You don't either!
 
 ## Talk 23
 
-Azariq: #We're here! C'mon, let's find a place to sit and grab a bite, {NICKNAME}.
+Azariq: #We're here! C'mon, let's find a place to sit and grab a bite, Traveler.
 Jeht: ...
 Paimon: Hey there, Azariq, Jeht!
 Traveler: It's been a while.
@@ -493,8 +492,8 @@ Jeht: Sorry, it was my fault, really. I was... petty. Childish.
 Jeht: I knew how important Liloupar was to our mission, but I threw a tantrum anyway...
 Paimon: Liloupar says stuff weirdly, and she does use some pretty creepy analogies...
 Paimon: But she looked out for us the whole way, so... Well, she's different from the people we've met so far for sure, but she doesn't seem like a bad person!
-Paimon: #Whatever the case... It'll be fine. {NICKNAME}'s important to you, isn't {F#she}{M#he}, Jeht?
-Jeht: #{M#Of course. You're my best friends.}{F#Yeah, I mean, I've always seen you as my... best friend, but I'm just worried that... *sigh* Never mind.}
+Paimon: #Whatever the case... It'll be fine. Traveler's important to you, isn't {F#she}{M#he}, Jeht?
+Jeht: #Of course. You're my best friends.
 Liloupar: ...
 Paimon: Yeesh, you're so serious all of a sudden. Paimon doesn't know what to say at all...
 Jeht: Ugh, there's no need to be so awkward! I won't get mad anyhow from now on, and you can count on that!
@@ -537,7 +536,7 @@ Jeht: Still... I ran off in a huff without giving any thought to whether they wo
 Paimon: Oh, let's leave that aside for now. It wasn't even your fault...
 Azariq: I'm with Paimon. Don't beat yourself up about this too much, Jeht. They seem to have been ordered specifically not to attack you — can't blame you for having lowered your guard there.
 Jeht: But as for Aderfi... Since he's fled in secret, it's beyond doubt that he's betrayed us. Those who violate the laws of hospitality and wield their blades against guests are unworthy of the Tanit's mercy.
-Jeht: #I'll capture him, {NICKNAME}, this I promise. He will not escape the Matriarch's judgment.
+Jeht: #I'll capture him, Traveler, this I promise. He will not escape the Matriarch's judgment.
 Azariq: ...
 Paimon: Hoho, Jeht's getting serious!
 Jeht: What? You make it sound like I've never been serious!
@@ -598,13 +597,13 @@ Traveler: A shepherd...?
 Liloupar: Not you, no... Hah, but much like you, my master. You were... much like him — as he was once.
 Jeht: ...
 Liloupar: Well now, girl, does that make you jealous?
-Jeht: #{M#No. It's just that I find this story quite familiar...}{F#Definitely not!}
-Liloupar: #{M#That's because this story has happened before, and may yet happen again.}{F#Hah. She is quite transparent, my master. I once did have a daughter — my eyes are not deceived.}
-Jeht: #{M#Hmm...}{F#Hmph. Say whatever you like...}
+Jeht: #No. It's just that I find this story quite familiar...
+Liloupar: #That's because this story has happened before, and may yet happen again.
+Jeht: #Hmm...
 Liloupar: *sigh* To the Jinn, "love" was a terrible chain, driving those who fell into its pit to make sacrifices, like the hyphae of a parasitic insect...
 Paimon: Oh boy, Liloupar's at it again with the scary analogies...
 Liloupar: Hehe, we Jinn do not have this tedious thing you humans call "shame," so we do not shy away from discussing love, or revealing one's all to a lover.
-Jeht: #{M#*cough*!}{F#I'm suddenly glad that you're just a bottle now...}
+Jeht: #*cough*!
 Liloupar: But to the Jinn, this mad love could not be reconciled to betrayal. Or else, hatred and vengeance three times greater would be sure to follow.
 Liloupar: That was the root of the farce that ended Gurabad... Though that is a different tale.
 Jeht: Actually, now that you mention it, I'd like to ask a question... Did you really have no other goal in presenting your "true name"?
@@ -617,8 +616,8 @@ Jeht: Well, since we've got the same goal, let's get along. How about a toast?
 Liloupar: And what shall you make this toast with? Me?
 Paimon: Pfft... Hahaha!
 Azariq: Alright, weird-story-time's over! Let's talk about something more relaxing.
-Azariq: #By the way, {NICKNAME}, do you play cards?
-Liloupar: #{M#He does.}{F#She does.}
+Azariq: #By the way, Traveler, do you play cards?
+Liloupar: #He does.
 Traveler: How did you know...
 Traveler: Sorry, I'm not in the mood to play cards.
 Liloupar: Because I wanted to see it.
@@ -628,9 +627,8 @@ Black Screen Text: You all speak about the interesting things you've heard about
 The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
 At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
 Black Screen Text: #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
-{M#Jeht tells you about many trivial but funny things...
-She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
-A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.
 Black Screen Text: The night flies by as you chat.
 As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
@@ -702,7 +700,7 @@ As the next morning comes, you are buried in each others' pillows, asleep by the
 
 ## Talk 30
 
-Azariq: #What's the matter, {NICKNAME}? Don't just stand there, let's play some cards. Don't worry! I swear I won't mock you — not even if you're absolutely terrible.
+Azariq: #What's the matter, Traveler? Don't just stand there, let's play some cards. Don't worry! I swear I won't mock you — not even if you're absolutely terrible.
 Azariq: Come on, let's play a round.
 Traveler: Oh, I'm not going to lose...
 Traveler: Sorry, not right now...
@@ -711,19 +709,18 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): You all speak about
 The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
 At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
 Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
-{M#Jeht tells you about many trivial but funny things...
-She seems to have lived well amongst the Tanit since your last parting.}{F#Jeht tells you about many trivial but funny things...
-A light scent of spices wafts from her, and it seems to you that all the stories she has to tell since your last parting seem tinged with this sadness.}
+Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.
 Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): The night flies by as you chat.
 As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
 
 ## Talk 31
 
-Jeht: #Hah! Let's see what you'll have to say for yourself after {NICKNAME} thrashes you.
+Jeht: #Hah! Let's see what you'll have to say for yourself after Traveler thrashes you.
 
 ## Talk 32
 
-Babel: #{NICKNAME}, Paimon, you're back!
+Babel: #Traveler, Paimon, you're back!
 Babel: Allow me to dust you off. Jeht and Azariq are waiting for you as well.
 Traveler: We brought the object that you needed.
 Babel: Jeht told me. Thank you both so much.
@@ -762,10 +759,10 @@ Liloupar: You have yet to see many things indeed!
 Liloupar: My master, you hold my true name, I shall do what you, and only you, desire.
 Liloupar: The decision shall be yours. I will not speak another word to these foul desert dwellers.
 Babel: "Master"... Your "master"...?
-Liloupar: #Why, yes indeed, and it is this noble {M#prince}{F#princess} you see before you. Now, now, you need not kneel.
+Liloupar: #Why, yes indeed, and it is this noble prince you see before you. Now, now, you need not kneel.
 Babel: ...
 Paimon: (C'mon, say something, why don't you!? Just look at her face!)
-Babel: #I understand. In that case... Will you help us, {NICKNAME}?
+Babel: #I understand. In that case... Will you help us, Traveler?
 Traveler: I will help you find the Eternal Oasis.
 Liloupar: If that is your choice, then I gladly obey.
 Liloupar: Well then, I shall lend my aid. A pleasure to work with you, desert woman!
@@ -779,7 +776,7 @@ Traveler: Yes...
 Babel: Yes, I understand. You have done well.
 Babel: Jinn are arrogant, unfettered creatures, and yet you have managed to bind her. You have surpassed my expectations indeed...
 Babel: But that is well. Our path to the Eternal Oasis has been made smoother.
-Babel: #So please, {NICKNAME}, if I may ask something of you... Keep Liloupar loyal at all costs...
+Babel: #So please, Traveler, if I may ask something of you... Keep Liloupar loyal at all costs...
 Traveler: I will.
 Babel: You have my thanks.
 Babel: Ah, Jeht and Azariq have returned. You youngsters catch up for now. I'll have to ask for your pardon, I need some time to organize the information you have gathered...
@@ -797,7 +794,7 @@ Liloupar: ...It matters not. This is the path we must take, in any case.
 Traveler: Is there danger up ahead?
 Liloupar: I am sure, my master, that you too are able to sense the wicked intent ahead... But if we might discover who it is that ambushes us, we might yet turn the tables on them.
 Liloupar: Things may indeed be perilous ahead, but you, O master mine, are the one to whom I have entrusted my fate. I shall go forth with you, and we shall face any obstacle together.
-Paimon: #Just relax! {NICKNAME}'s super strong, and no matter what, {M#he'll}{F#she'll} still have Paimon, right?
+Paimon: #Just relax! Traveler's super strong, and no matter what, he'll still have Paimon, right?
 Liloupar: Hark, what did I say? Prepare yourself, master.
 Paimon: Hey, you guys... Aren't you Jeht's buddies?
 Paimon: Hey, c'mon, don't scare Paimon here... Why aren't they replying?

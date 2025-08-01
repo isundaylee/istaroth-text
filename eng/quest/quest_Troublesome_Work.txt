@@ -16,7 +16,7 @@ Lisa: Ooh, a smooth talker. Not what I was expecting.
 Paimon: So Miss Librarian, got any books to recommend?
 Lisa: Hmm... Recommended books... Sadly, everything I'd personally recommend is all in the restricted section, which we're not currently lending out.
 Paimon: What's with her ominous tone?
-Lisa: Oh, right. Would you be interested in checking out the <color=#00E1FFFF>Teyvat Travel Guide</color>?
+Lisa: Oh, right. Would you be interested in checking out the *Teyvat Travel Guide*?
 Lisa: I think it would be quite helpful for you as travelers here.
 Paimon: Ooh! Sounds like it could be helpful!
 Paimon: Do you think we could take a peek?
@@ -28,11 +28,11 @@ Lisa: ...on time!
 Paimon: Whoa! Is Paimon imagining things, or does the air in here suddenly feel a lot more... electrified!?
 Traveler: It's giving me goosebumps!
 Lisa: Ugh... such a pain. I'm going out to bring those unreturned books back.
-Lisa: If you'd rather get your hands on that copy of the <color=#00E1FFFF>Teyvat Travel Guide</color> sooner, you'd better come with me.
+Lisa: If you'd rather get your hands on that copy of the *Teyvat Travel Guide* sooner, you'd better come with me.
 Paimon: Lisa seems really scary right now, Paimon thinks it would be best if you answer her...?
 Traveler: Oh, ah, yes... YES!
 Lisa: You really are such a considerate cutie. Let's see, first we can go to...
-Lisa: The <color=#00E1FFFF>souvenir shop</color>. It's called "With Wind Comes Glory." So let's meet there shortly.
+Lisa: The *souvenir shop*. It's called "With Wind Comes Glory." So let's meet there shortly.
 Traveler: Ah... No, I don't think I had anything specific in mind...
 Lisa: Nothing specific? You must just be here to see me then...
 Lisa: Hehe... Okay, I won't tease you any further.
@@ -41,13 +41,13 @@ Traveler: I do feel sorry for Jean always working so hard...
 ## Talk 2
 
 Traveler: Marjorie, regarding the book you borrowed—
-Lisa: #{NICKNAME}, you're here! Let's begin, shall we?
+Lisa: #Traveler, you're here! Let's begin, shall we?
 Lisa: Hello Marjorie, any exciting new items in stock?
 Traveler: Today is just an ordinary day...
 Traveler: What about the overdue library book?
 Traveler: ...So this is a date now?
 Lisa: Why so surprised? Today is such a special day, it's only natural that I'd want a souvenir to remember it by.
-Lisa: #So it is... In that case, I declare this the "Day of..." the "Day of My Life I Wish I Could Get Back Because I Spent My First Ever Outing With {NICKNAME} Taking Them on an Annoying Errand."
+Lisa: #So it is... In that case, I declare this the "Day of..." the "Day of My Life I Wish I Could Get Back Because I Spent My First Ever Outing With Traveler Taking Them on an Annoying Errand."
 Paimon: Don't you think that's a bit long?
 Lisa: Since we came all this way, why don't we put our official business to one side for a moment?
 Lisa: All work and no play makes life terribly mundane.
@@ -56,9 +56,9 @@ Lisa: I suppose there's nothing wrong with that... At your age, these kinds of f
 Marjorie: Haha... Well, if it's a souvenir you're after, you're in the right place. I'm sure you'll find something that strikes your fancy, Lisa.
 Marjorie: Or you could let your new friend pick something out for you... make it more of an occasion?
 Traveler: Alright then.
-Paimon: #Yes, yes! Let {NICKNAME} pick!
+Paimon: #Yes, yes! Let Traveler pick!
 Marjorie: Take a look around, there's sure to be something she'll love.
-<color=#00E1FFFF>(Choose a gift for Lisa.)</color>
+*(Choose a gift for Lisa.)*
 
 ## Talk 3
 
@@ -69,7 +69,7 @@ Lisa: But you're probably innocent to such things. Since you're just a traveler,
 ## Talk 4
 
 Marjorie: Take a look around, there's sure to be something she'll love.
-<color=#00E1FFFF>(Choose a gift for Lisa.)</color>
+*(Choose a gift for Lisa.)*
 
 ## Talk 5
 
@@ -77,7 +77,7 @@ Traveler: Bloomers
 Marjorie: This pair? Soft, puffy, and very comfortable. Certain to make a little girl — well, in this case, a woman — look quite adorable.
 Marjorie: After all, they're the same kind worn by toy dolls. They're practically a badge of cuteness.
 Lisa: Bloomers? I'm sure to attract some strange looks if I dress up like a small child in public. Do you have some strange... hobby you're not telling me about?
-Paimon: You sure you wanna pick the <color=#00E1FFFF>bloomers</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *bloomers*? *Can't change again* once you've made your mind up!
 
 ## Talk 6
 
@@ -85,7 +85,7 @@ Traveler: Ragged old scroll.
 Marjorie: This is a historical relic retrieved from some ruins by one of the Adventurers' Guild.
 Marjorie: Sure, there's a bit of wear and tear, but this thing in the painting must be well over a thousand years old... though it doesn't make much sense to me.
 Lisa: My goodness... This is one of the three lost scrolls that make up the "Northern Border Wind Investigation..." What is it doing here!?
-Paimon: You sure you wanna pick the <color=#00E1FFFF>ragged old scroll</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *ragged old scroll*? *Can't change again* once you've made your mind up!
 
 ## Talk 7
 
@@ -93,7 +93,7 @@ Traveler: Voodoo doll.
 Marjorie: This is the toy doll I was talking about earlier — doesn't she look lovely in those shorts?
 Marjorie: Hmm... It does look a little bit terrifying, doesn't it? I wonder if you could find some other use for it...
 Lisa: Voodoo doll? Have you lost your mind? What could I have possibly done to deserve this?
-Paimon: You sure you wanna pick the <color=#00E1FFFF>voodoo doll</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *voodoo doll*? *Can't change again* once you've made your mind up!
 
 ## Talk 8
 
@@ -101,7 +101,7 @@ Traveler: Rusty sword.
 Marjorie: This is a new arrival. It took three Adventurers to carry this big boy back from the ruins where they found it.
 Marjorie: It comes with a lot of history as well as a lot of weight.
 Lisa: Hmm... You do have strange tastes. If this is your way of saying you want to be my knight in shining armor, I'd rather you just say the words instead.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>rusty sword</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *rusty sword*? *Can't change again* once you've made your mind up!
 
 ## Talk 9
 
@@ -134,34 +134,34 @@ Paimon: Work is that bad, huh?
 
 Traveler: Regarding Lisa's taste in food...
 Sara: What does Lisa like to eat?
-Sara: She's been here a few times with Master Jean for afternoon tea before. I think she normally orders <color=#00E1FFFF>something vegetarian</color>.
+Sara: She's been here a few times with Master Jean for afternoon tea before. I think she normally orders *something vegetarian*.
 Sara: A lady tends to eat cautiously on account of her physique, after all! On that note, I should probably be watching my own diet a little more...
 
 ## Talk 15
 
 Traveler: Steak
 Lisa: Good Hunter's signature dish. If it's what you want, I'll try anything once.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Steak</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Steak*? *Can't change again* once you've made your mind up!
 
 ## Talk 16
 
 Traveler: Northern Smoked Chicken
 Lisa: This seems like the sort of staple bar food you'd find at the tavern. It has an extremely strong flavor, so drinkers love it because they can actually taste it.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Northern Smoked Chicken</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Northern Smoked Chicken*? *Can't change again* once you've made your mind up!
 
 ## Talk 17
 
 Traveler: Radish Veggie Soup
 Lisa: I imagine that making a good vegetable soup takes good quality ingredients cooked in the right order at the right heat for the right length of time.
 Lisa: At least, those are the principles that apply when one is making potions. But from what I've heard, soup-making was a popular pastime among the witches of the past.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Radish Veggie Soup</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Radish Veggie Soup*? *Can't change again* once you've made your mind up!
 
 ## Talk 18
 
 Traveler: Satisfying Salad
 Lisa: Eating salad is like piling on more and more elemental power. Raw, unfettered energy applied indiscriminately, with no elegance or control.
 Lisa: It's the first mistake all magic users make when they're learning. But then again... if one genuinely had so much pure elemental power that they could solve any problem they wanted... that would be a different matter entirely.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Satisfying Salad</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Satisfying Salad*? *Can't change again* once you've made your mind up!
 
 ## Talk 19
 
@@ -199,7 +199,7 @@ Paimon: She means the book you borrowed!
 Sara: Oh! Of course! I came straight to the restaurant after I borrowed it and completely forgot that I even had it.
 Sara: I'm so sorry Lisa, I will bring it to the library myself as soon as I finish work.
 Lisa: Mm... Okay then. But make sure you don't forget this time.
-Lisa: #Right, onto our next stop then, {NICKNAME}.
+Lisa: #Right, onto our next stop then, Traveler.
 
 ## Talk 26
 
@@ -209,11 +209,11 @@ Lisa: Ah yes... Now which book was it that has the line, "a date without flowers
 Traveler: Would you by any chance care for some flowers, milady?
 Lisa: Why, it just so happens that I would, my kindest cutie.
 Traveler: No idea which book. Never even heard the line before.
-Paimon: #Ugh, {NICKNAME}. Take. The. Hint.
+Paimon: #Ugh, Traveler. Take. The. Hint.
 Lisa: Hehe, never mind, your ignorance is somehow rather adorable.
 Paimon: Since you're here, and Lisa is here, and this is a flower shop... You might as well get a bunch of flowers, right? It only makes sense.
 Donna: Some flowers for Miss Lisa? What would you like?
-<color=#00E1FFFF>(Pick a kind that Lisa will like)</color>
+*(Pick a kind that Lisa will like)*
 
 ## Talk 27
 
@@ -232,8 +232,8 @@ Paimon: So Donna didn't do anything wrong after all.
 Lisa: It's not from the restricted section, so it's hardly a book worth stealing.
 Lisa: Whoever wanted this book so badly had a strange fixation indeed.
 Paimon: Hmm... so what do we do now?
-Lisa: The <color=#00E1FFFF>elemental traces</color> are very faint, but I can tell that the thief took it beyond the city walls.
-Lisa: #You must see it too, right, {NICKNAME}?
+Lisa: The *elemental traces* are very faint, but I can tell that the thief took it beyond the city walls.
+Lisa: #You must see it too, right, Traveler?
 Lisa: Let's follow the trail and have a little look where our thief was headed, shall we?
 
 ## Additional Conversations
@@ -243,8 +243,8 @@ Lisa: Let's follow the trail and have a little look where our thief was headed, 
 
 ### Additional Talk 1
 
-Lisa: #*yawn*... Why don't you order us something, {NICKNAME}? I'm ever so curious to know what your tastes are.
-<color=#00E1FFFF>(Pick a dish that Lisa will like)</color>
+Lisa: #*yawn*... Why don't you order us something, Traveler? I'm ever so curious to know what your tastes are.
+*(Pick a dish that Lisa will like)*
 
 ### Additional Talk 2
 
@@ -263,7 +263,7 @@ Traveler: No
 
 Traveler: What does Marjorie think?
 Marjorie: Me? You're asking me? Erm... I feel like Lisa is the well-educated type.
-Marjorie: Ah, that's right — I heard she enjoys <color=#00E1FFFF>items of historical interest</color>.
+Marjorie: Ah, that's right — I heard she enjoys *items of historical interest*.
 
 ### Additional Talk 6
 
@@ -287,17 +287,17 @@ Lisa: Let's go and find the next overdue book.
 ### Additional Talk 8
 
 Marjorie: Take a look around, there's sure to be something she'll love.
-<color=#00E1FFFF>(Choose a gift for Lisa.)</color>
+*(Choose a gift for Lisa.)*
 
 ### Additional Talk 9
 
 Donna: Some flowers for Miss Lisa? What would you like?
-<color=#00E1FFFF>(Pick a kind that Lisa will like)</color>
+*(Pick a kind that Lisa will like)*
 
 ### Additional Talk 10
 
 Donna: Some flowers for Miss Lisa? What would you like?
-<color=#00E1FFFF>(Pick a kind that Lisa will like)</color>
+*(Pick a kind that Lisa will like)*
 
 ### Additional Talk 11
 
@@ -305,7 +305,7 @@ Donna: Dandelion
 Donna: Dandelions are one of our classics, and a personal favorite of Miss Flora, the shop owner.
 Donna: I know what you're thinking: Most flower shops don't sell dandelions, they're a nuisance to care for... Perhaps Miss Flora likes the sense of floating away to a faraway land that the dandelion evokes?
 Donna: Come to think of it, Miss Flora herself gives people the same impression.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Dandelion</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Dandelion*? *Can't change again* once you've made your mind up!
 
 ### Additional Talk 12
 
@@ -313,14 +313,14 @@ Donna: Mist Flower
 Donna: Mist Flowers? Over there in the corner... but don't touch them with your bare hands. You'll get frostbite.
 Donna: You want them? You're sure? What an unusual choice...
 Donna: It's just that Lisa seems to use Electro quite a lot. Things could get a little bit dangerous...
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Mist Flower</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Mist Flower*? *Can't change again* once you've made your mind up!
 
 ### Additional Talk 13
 
 Donna: Rose
 Donna: These roses were bought from a traveling merchant a few days ago.
 Donna: Miss Flora thought maybe someone would like them... This is the only bunch.
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Rose</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Rose*? *Can't change again* once you've made your mind up!
 
 ### Additional Talk 14
 
@@ -328,7 +328,7 @@ Donna: Cecilia
 Donna: Ah, the Cecilia. Did Miss Flora recommend it to you?
 Donna: This flower is a lot of effort to care for. I hope that I've been doing it right, otherwise they won't last long.
 Donna: But part of the Cecilia's charm is how precious and fragile each one is...
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Cecilia</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Cecilia*? *Can't change again* once you've made your mind up!
 
 ### Additional Talk 15
 
@@ -341,8 +341,8 @@ Donna: ???
 ### Additional Talk 17
 
 Donna: What does Donna think?
-Donna: You want my help? I don't know if I have the best taste in flowers... Why don't you go ask Miss <color=#00E1FFFF>Flora</color>, the shop owner?
-Donna: I couldn't help but notice the flower on Miss Lisa's hat though — I think it's a <color=#00E1FFFF>Rose</color>.
+Donna: You want my help? I don't know if I have the best taste in flowers... Why don't you go ask Miss *Flora*, the shop owner?
+Donna: I couldn't help but notice the flower on Miss Lisa's hat though — I think it's a *Rose*.
 
 ### Additional Talk 18
 
@@ -353,7 +353,7 @@ Donna: I'll be back shortly.
 Flora: What kind of flowers does Lisa like?
 Flora: You want to know what flowers to get for Miss Lisa?
 Flora: We're not particularly close, but she strikes me as a classy lady!
-Flora: Hmm... Yep, it can only be the <color=#00E1FFFF>Cecilia</color>!
+Flora: Hmm... Yep, it can only be the *Cecilia*!
 
 ### Additional Talk 20
 
@@ -391,7 +391,7 @@ Flora: No
 Lisa: Okay, time to get back to business. Donna, do you know why we're here?
 Donna: Back to business? My business is selling flowers!
 Lisa: *sigh* Once again, we see a total lack of respect for literature...
-Lisa: <color=#00E1FFFF>The Pale Princess and the Six Pygmies</color>. Ring a bell?
+Lisa: *The Pale Princess and the Six Pygmies*. Ring a bell?
 Donna: Oh! Ahh, yes, well, what happened was... was...
 Donna: Oh no, what am I gonna do?
 Traveler: Donna seems frantic.
@@ -414,7 +414,7 @@ Lisa: I put a unique elemental marker on each book. Our thief will have left a n
 Paimon: When did Lisa start taking her job so seriously!? Paimon always thought she was a total slacker.
 Lisa: Hey sweetie, I've heard your elemental sensitivity is very strong... Why not see what you can do?
 Paimon: Elemental sensitivity? Oh! Paimon's got it!
-Paimon: #{NICKNAME}, use your <color=#00E1FFFF>Elemental Sight</color> to look for clues!
+Paimon: #Traveler, use your *Elemental Sight* to look for clues!
 Traveler: What happened?
 
 ### Additional Talk 26
@@ -468,4 +468,4 @@ Traveler: No
 
 Traveler: Invigorating Pizza
 Lisa: *gasp* It's like you read my mind... Do you have some magical powers you're not telling me about, Outlander?
-Paimon: You sure you wanna pick the <color=#00E1FFFF>Invigorating Pizza</color>? <color=#00E1FFFF>Can't change again</color> once you've made your mind up!
+Paimon: You sure you wanna pick the *Invigorating Pizza*? *Can't change again* once you've made your mind up!

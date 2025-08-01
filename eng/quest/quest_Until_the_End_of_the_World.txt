@@ -24,15 +24,15 @@ Navia: So that's why you took the stars... Because you missed your mom.
 "M": "...Go forth and witness this world, my..."
 Traveler: ...
 Navia: Are you okay, Miss Nilou?
-Nilou: #I'm fine, but I think {NICKNAME} is still unconscious...
+Nilou: #I'm fine, but I think Traveler is still unconscious...
 Navia: We're lucky this guy caught us on the way down!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph, passed out from a little fall, did you? How fragile...
-Navia: #Ah, cut him some slack. {NICKNAME}'s had a rough few days, we should just let {M#him}{F#her} nap for a bit.
+Navia: #Ah, cut him some slack. Traveler's had a rough few days, we should just let him nap for a bit.
 Nilou: Uh? But my... my leg's falling asleep...
-Nilou: #You couldn't have set {M#him}{F#her} down on the grass over there, Hat Guy?
+Nilou: #You couldn't have set him down on the grass over there, Hat Guy?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hah... I go out of my way to save four people who fall out of the sky, and now you're nitpicking my choice of soft landing? That's the most ridiculous thing I've ever heard.
 Traveler: ...
-Paimon: #Ah, {M#he}{F#she}'s awake!
+Paimon: #Ah, he's awake!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Morning, sunshine. You were having a nice little dream there, weren't you? Not gonna lie, it was kind of adorable.
 Traveler: What happened...
 Traveler: What happened...?
@@ -48,8 +48,8 @@ Traveler: But it seemed like someone was talking in my head just now.
 Navia: Really? What did they say?
 Traveler: "...Go forth and witness this world..."
 Traveler: "...Be nice to everyone."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: The fog you see around here can have <color=#00E1FFFF>a hallucinatory effect</color>. Apparently, it's the work of that dragon. Maybe you inhaled some while you were freaking out on your way down...
-Navia: #Uh, {NICKNAME}, Nilou... Do you know this Hat Guy person?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: The fog you see around here can have *a hallucinatory effect*. Apparently, it's the work of that dragon. Maybe you inhaled some while you were freaking out on your way down...
+Navia: #Uh, Traveler, Nilou... Do you know this Hat Guy person?
 Nilou: Oh, yeah. He's a student at the Akademiya. We met during the last Interdarshan Championship. He was representing the Vahumana Darshan.
 Navia: Well, then... Hello there, friend! I'm Navia, the President of Spina di Rosula. It's very nice to meet you. So, should I just call you Hat Guy as well? Seems like that's what everyone's calling you.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Sure, whatever.
@@ -72,7 +72,7 @@ Paimon: Hmm, Paimon's guessing a voice told you what you were supposed to do her
 Paimon: Hey, wait! Where are you going?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: To find the so-called "source of this world's misfortune" — the dragon responsible for this whole mess.
 Navia: Wait, we came here to fight the dragon as well. Why don't we go together?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Tch. Grab that <color=#00E1FFFF>dragon scale</color> over there before you leave. It'll come in handy later.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Tch. Grab that *dragon scale* over there before you leave. It'll come in handy later.
 Paimon: A dragon scale? Where? How did you know about it? What's it for? And—
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Have you ever considered keeping your questions to yourself? Because if you actually expect me to answer them all, we'll be here until the next Interdarshan Championship.
 Paimon: You little...! Ugh, Paimon thought you might've learned some manners by now, but clearly not!
@@ -96,7 +96,7 @@ Wheel: No, not at all. Thankfully, the young man in the hat was kind enough to l
 Wheel: There seems to be a village over here. Some of the residents used to work in the toytanium mines, and some came to fight the dragon, then got stuck here.
 Nilou: I see... I'm glad they're all safe and sound. I can try to use my magic to fold a boat to bring everyone back.
 Navia: I'll help, too! Still, I think we need to take care of the dragon first. We don't want it to start causing trouble when we're trying to load people onto the ship.
-Wheel: Apparently, the villagers often see the dragon fly into <color=#00E1FFFF>a space behind the waterfall</color>. They think that's the location of its lair.
+Wheel: Apparently, the villagers often see the dragon fly into *a space behind the waterfall*. They think that's the location of its lair.
 Paimon: Then, we should look around and try to find a way in!
 Wheel: I'll wait here for your triumphant return. Your Majesty, brave heroes... Please, be careful.
 
@@ -109,7 +109,7 @@ Navia: Guess this is the dragon's lair after all.
 Paimon: Huh? When did you put your hat on?
 Navia: Well, we're getting ready to fight, aren't we? I feel more comfortable in my regular outfit. Hat Guy also put away that sword around his waist.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Should've never had the useless thing to begin with.
-Paimon: #Do... Do you need to do anything to prepare, {NICKNAME}? Paimon's getting kinda nervous, seeing everyone all serious like this.
+Paimon: #Do... Do you need to do anything to prepare, Traveler? Paimon's getting kinda nervous, seeing everyone all serious like this.
 Traveler: I'm good. Let's go.
 Traveler: I just need a little longer...
 Navia: Of course! We should be fully prepared before going in.
@@ -396,7 +396,7 @@ Paimon: Aah! A talking street lamp!
 Alice: Street lamp...? Oh my, you mean you still don't remember me, after all the times we've spoken?
 Mini Durin: I know that voice... It's Mom's friend!
 Traveler: Alice.
-Alice: #Hello there, {NICKNAME} and friends. And Durin — it's good to see you. You've changed quite a lot.
+Alice: #Hello there, Traveler and friends. And Durin — it's good to see you. You've changed quite a lot.
 Alice: In fact, you look so different that perhaps... I should call you "Mini Durin"?
 Mini Durin: "Mini Durin," huh... Yeah, I like the sound of that! It's nice being smaller.
 Nilou: You must be one of the three Goddesses of this world... Are you the Goddess of Creation?
@@ -429,7 +429,7 @@ Navia: So in other words... the predestined lives these people lead were always 
 Paimon: Wait, so if even the people here get to go to other worlds... Surely there's gotta be a way we can leave, too, right?
 Alice: Don't you realize you've been able to leave all along?
 Paimon: Huh?
-Alice: You can either take the <color=#00E1FFFF>boat</color> at the Broken Sea, or touch the <color=#00E1FFFF>giant bookmark</color> at the Cliff of Prophecy. All you need to do if you want to leave is focus on the place you want to go.
+Alice: You can either take the *boat* at the Broken Sea, or touch the *giant bookmark* at the Cliff of Prophecy. All you need to do if you want to leave is focus on the place you want to go.
 Paimon: ...How were we supposed to know that if you never told us!?
 Alice: Huh? Didn't I? Hehe, well, given how smart and capable you are, surely that can't have posed a huge problem for you?
 Alice: As for your other friends who were summoned here... If I had to guess, I'd say the Goddess of Fate probably didn't tell them about it because she wanted them to get engrossed in the story.

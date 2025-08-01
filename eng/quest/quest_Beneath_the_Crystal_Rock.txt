@@ -18,7 +18,7 @@ Titu: #Understand Saurian-speak? Haha, you've got to be kidding me. No one can d
 Titu: But I'm one of the Children of Echoes, and we're always around Tepetlisaurs. You can figure out what they're trying to communicate from their eyes, their expressions, and the humming noises they make.
 Titu: Anyway, introductions are in order. Titu... That's my name.
 Paimon: Paimon's Paimon.
-Traveler: #I'm {NICKNAME}...
+Traveler: #I'm Traveler...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 Titu: Since we've introduced ourselves without a fight, that makes us friends... and word of advice from a friend — this place is dangerous. Why don't you head over to the People of the Springs instead?
@@ -50,7 +50,7 @@ Titu: *sigh* What an amazing idea — ah, if only you were the first to think of
 Titu: In fact, Lesser Shadow Pins have floated in the past, and according to the stories, that's exactly how it was handled. Things are trickier this time, though...
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 Paimon: That's right. We've solved a whole bunch of similar problems before. We're experts now!
-Titu: #Really? Not that I'm doubting your abilities — that much I could tell just from how you move, {NICKNAME}...
+Titu: #Really? Not that I'm doubting your abilities — that much I could tell just from how you move, Traveler...
 Titu: I mean to say, are you really willing to help? Since it's the Abyss we're talking about, even I can't say for sure how dangerous things could get.
 Traveler: Ooh, so scary. I regret everything. And alas! Now my stomach suddenly hurts...
 Paimon: H—Hey, stop it! And Paimon just complimented you, too! Also, your acting is terrible!
@@ -58,7 +58,7 @@ Paimon: Anyway, the point is that we'll help!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #See? {REALNAME[ID(2)|SHOWHOST(true)]} agrees as well!
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on our floating Shadow Pins.
 Traveler: Oh dear, I do so fear, that danger's the only one for me.
 Paimon: Yeah, we... No, that's not right! We've done a whole bunch of things that aren't dangerous too... Wait... Paimon's not sure what she's trying to say...
@@ -84,7 +84,7 @@ Titu: Either way, no time to lose! Let's head under the Shadow Pin and have a lo
 
 ## Talk 3
 
-Titu: #{NICKNAME}, Paimon, {REALNAME[ID(2)|SHOWHOST(true)]}, are you all unhurt?
+Titu: #Traveler, Paimon, {REALNAME[ID(2)|SHOWHOST(true)]}, are you all unhurt?
 Paimon: ...Paimon's okay, kinda.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh...
 Paimon: #Ah! You don't look injured, {REALNAME[ID(2)|SHOWHOST(true)]}... Did the big pillar scare you just now?
@@ -104,7 +104,7 @@ Paimon: It... doesn't look too serious. It's just a really big hole, right?
 Traveler: Just the normal kind of big, really. The shape's kinda ugly, too...
 Paimon: When did you become some kinda "cavity connoisseur," huh? Sure, we've seen lots of these, but...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rraa, Rraa.
-Paimon: #Hey, don't you copy {M#him}{F#her} when {M#he's}{F#she's} being a bad role model! You don't want to pick up bad habits!
+Paimon: #Hey, don't you copy him when he's being a bad role model! You don't want to pick up bad habits!
 Titu: That's where the Greater Shadow Pin fell, it seems. It's gone down much deeper than I imagined. It's almost like...
 Traveler: There was a huge open space down there to begin with...
 Titu: Right. This huge space can't have appeared because the Shadow Pin fell through it. It must've been here long before, with the Shadow Pin suspended above it...
@@ -147,8 +147,8 @@ Titu: Telling myself "Come on, Titu, it's probably nothing"... But this is quite
 Titu: There's even a little Tepetlisaurus here... Was it you who brought these outlanders here, then?
 Titu: And... was it you who brought this Shadow Pin down?
 Traveler: ...Should we not have done that?
-Paimon: #Eh? Wait, did we do something bad, {NICKNAME}? If we act fast, while there's only one witness...
-Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're {NICKNAME}, then? Who's your friend over there?
+Paimon: #Eh? Wait, did we do something bad, Traveler? If we act fast, while there's only one witness...
+Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're Traveler, then? Who's your friend over there?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 Titu: And Titu's my name, a teller {RUBY#[D]storyteller}of tales for our tribe. I'm also responsible for "caring" for the stone pillars in this valley.
@@ -180,30 +180,30 @@ Paimon: Wait, so you mean the Abyss is actually sealed below here!?
 Titu: That's right. And recently, two out of the three little Shadow Pins have floated upward. Perhaps if the third floats too, all the evil beneath the earth will come surging up like a tide.
 Titu: So to be honest, it's an unexpected boon that you've managed to push one back in. So, no compensation required.
 Titu: If anything, I was hoping to ask if you'd mind pushing the other one back in as well...
-Paimon: #Huh... What do you think, {NICKNAME}...?
+Paimon: #Huh... What do you think, Traveler...?
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Even you're up for it, {REALNAME[ID(2)|SHOWHOST(true)]}? Well, alright then.
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Pin...
 Traveler: Perhaps I could lend a hand?
 Traveler: Nope, don't recall anything like that...
 Titu: Huh. I thought it was obvious enough. That's fine, though.
 Traveler: Paimon did it. I was just walking over here...
 Paimon: Hey! You're always like that! Paimon'll get mad if you don't cut it out!
-Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this {M#good fellow}{F#good lady} over here?
-Traveler: #Call me {NICKNAME}.
+Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this good fellow over here?
+Traveler: #Call me Traveler.
 
 ## Talk 5
 
 Titu: I can't believe that worked. That was truly a scene from out of story and song.
-Paimon: #See, Paimon told you {NICKNAME}'s super strong!
+Paimon: #See, Paimon told you Traveler's super strong!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Hehe, you think so, don'cha, {REALNAME[ID(2)|SHOWHOST(true)]}?
-Titu: #You weren't affected by the Abyss, were you, {NICKNAME}?
+Titu: #You weren't affected by the Abyss, were you, Traveler?
 Traveler: Relax, it's just the Abyss...
-Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, {NICKNAME}.
+Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, Traveler.
 Titu: Haha, who knows, the story I spin from this material might even surpass those by Sanhaj!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
 Paimon: Is this Sanhaj some sort of big deal?
@@ -212,7 +212,7 @@ Titu: They say he had every scroll ever written up to his time committed to memo
 Titu: Stories speak of bygone times, but they also represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
 Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
 Paimon: So that's the story...
-Titu: #That's right. All the characters in Sanhaj's tales were some kind of tribal warriors and dragons, though. In mine, we'll have you, {NICKNAME}, and Paimon...
+Titu: #That's right. All the characters in Sanhaj's tales were some kind of tribal warriors and dragons, though. In mine, we'll have you, Traveler, and Paimon...
 Titu: So, if only in terms of the variety of the main cast, I'm the winner!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #Don't forget to include {REALNAME[ID(2)|SHOWHOST(true)]}.
@@ -230,8 +230,8 @@ Titu: Telling myself "Come on, Titu, it's probably nothing"... But this is quite
 Titu: There's even a little Tepetlisaurus here... Was it you who brought these outlanders here, then?
 Titu: And... was it you who brought this Shadow Pin down?
 Traveler: ...Should we not have done that?
-Paimon: #Eh? Wait, did we do something bad, {NICKNAME}? If we act fast, while there's only one witness...
-Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're {NICKNAME}, then? Who's your friend over there?
+Paimon: #Eh? Wait, did we do something bad, Traveler? If we act fast, while there's only one witness...
+Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're Traveler, then? Who's your friend over there?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 Titu: And Titu's my name, a teller {RUBY#[D]storyteller}of tales for our tribe. I'm also responsible for "caring" for the stone pillars in this valley.
@@ -262,27 +262,27 @@ Paimon: Wait, so you sealed the Abyss down below?
 Titu: That's right. And recently, two out of the three little Shadow Pins have floated upward. Perhaps if the third floats too, all the evil beneath the earth will come surging up like a tide.
 Titu: So to be honest, it's an unexpected boon that you've managed to push one back in. So, no compensation required.
 Titu: If anything, I was hoping to ask if you'd mind pushing the other one back in as well...
-Paimon: #Huh... What do you think, {NICKNAME}...?
+Paimon: #Huh... What do you think, Traveler...?
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Even you're up for it, {REALNAME[ID(2)|SHOWHOST(true)]}? Well, alright then.
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Pin...
 Traveler: Perhaps I could lend a hand?
 Traveler: Nope, don't recall anything like that...
 Titu: Huh. I thought it was obvious enough. That's fine, though.
 Traveler: Paimon did it. I was just walking over here...
 Paimon: Hey! You're always like that! Paimon'll get mad if you don't cut it out!
-Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this {M#good fellow}{F#good lady} over here?
-Traveler: #Call me {NICKNAME}.
+Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this good fellow over here?
+Traveler: #Call me Traveler.
 
 ## Talk 7
 
 Yukom: *sigh* How come he's not back yet? How much longer am I gonna have to wait... Uh, did something happen to him?
 Traveler: Who are you?
 Yukom: Haha, me? You're a curious guest. Call me Yukom. As you can see, I'm a guard at this sentry post — one of them, anyway.
-Yukom: #But word to the wise, {M#brother}{F#sister} — you probably shouldn't just walk up to and talk to someone in the wilds here like that...
+Yukom: #But word to the wise, brother — you probably shouldn't just walk up to and talk to someone in the wilds here like that...
 Yukom: This is the outer edge of the Children of Echoes' lands. Once you leave this area, you'll enter territory where any warrior's fair game to spar.
 Traveler: Is something the matter?
 Yukom: Nothing major, no worries. It's just... I've a friend, Titu's his name. He was supposed to have taken the next guard shift at this post.
@@ -320,7 +320,7 @@ Paimon: So much to say that we'll need this shiny Iridescent Inscription to push
 Titu: Correct. Think of the Inscription as an eggshell that has been shattered by the expanding Abyss. We'll need to find the broken shards and fix the shell — only then can the Abyss within be sealed away...
 Titu: Huh. That's a better analogy than the last.
 Paimon: A-greed! That was super easy to understand. Alright then, let's begin!
-Titu: #...If you're ready, {NICKNAME}, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
+Titu: #...If you're ready, Traveler, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
 Titu: Of course, the Abyss will resist, so... please be careful.
 Traveler: Is your stomach upset?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hrrr?
@@ -355,7 +355,7 @@ Titu: Wait, what? You mean, at the last Pin you saw... Oh no. Can't we even guar
 Paimon: Seems so... Wait, so this "complete" version is the more common state, then?
 Titu: ...I must say I'm impressed that you managed to repair one in such a state...
 Paimon: Hehe, we're pros at this, don't you worry!
-Titu: #And that's good to hear. Well, if you're ready, {NICKNAME}, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
+Titu: #And that's good to hear. Well, if you're ready, Traveler, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
 Titu: Of course, the Abyss will resist, so... please be careful.
 Traveler: Is your stomach upset?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hrrr?
@@ -368,12 +368,12 @@ Titu: The cacophony fell silent... and the Pin returned to its original state. T
 Titu: Hoo... To think that someone could really accomplish this... This isn't a dream, is it? You're all real, aren't you? Not figments of my imagination?
 Traveler: Wake up, wake up... You've got to fix this yourself!
 Paimon: Hey, there's no need to be so mean.
-Paimon: #But anyway, didn't Paimon tell you? {NICKNAME}'s super strong!
+Paimon: #But anyway, didn't Paimon tell you? Traveler's super strong!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Hehe, you think so, don'cha, {REALNAME[ID(2)|SHOWHOST(true)]}?
-Titu: #You weren't affected by the Abyss, were you, {NICKNAME}?
+Titu: #You weren't affected by the Abyss, were you, Traveler?
 Traveler: Relax, it's just the Abyss...
-Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, {NICKNAME}.
+Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, Traveler.
 Titu: Haha, who knows, the story I spin from this material might even surpass those by Sanhaj!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
 Paimon: Well, that sure sounds impressive, but who's Sanhaj?
@@ -392,8 +392,8 @@ Titu: Telling myself "Come on, Titu, it's probably nothing"... But this is quite
 Titu: There's even a little Tepetlisaurus here... Was it you who brought these outlanders here, then?
 Titu: And... was it you who brought this Shadow Pin down?
 Traveler: ...Should we not have done that?
-Paimon: #Eh? Wait, did we do something bad, {NICKNAME}? If we act fast, while there's only one witness...
-Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're {NICKNAME}, then? Who's your friend over there?
+Paimon: #Eh? Wait, did we do something bad, Traveler? If we act fast, while there's only one witness...
+Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're Traveler, then? Who's your friend over there?
 Paimon: Paimon's Paimon!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
@@ -429,18 +429,18 @@ Paimon: Wait, so you mean the Abyss is actually sealed below here!?
 Titu: That's right. And recently, two out of the three little Shadow Pins have floated upward. Perhaps if the third floats too, all the evil beneath the earth will come surging up like a tide.
 Titu: So to be honest, it's an unexpected boon that you've managed to push one back in. So, no compensation required.
 Titu: If anything, I was hoping to ask if you'd mind pushing the other one back in as well...
-Paimon: #Huh... What do you think, {NICKNAME}...?
+Paimon: #Huh... What do you think, Traveler...?
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Even you're up for it, {REALNAME[ID(2)|SHOWHOST(true)]}? Well, alright then.
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Lesser Pin...
 Traveler: Perhaps I could lend a hand?
 Traveler: Paimon did it. I was just walking over here...
 Paimon: Hey! You're always like that! Paimon'll get mad if you don't cut it out!
-Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this {M#good fellow}{F#good lady} over here?
-Traveler: #Call me {NICKNAME}.
+Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this good fellow over here?
+Traveler: #Call me Traveler.
 
 ## Talk 12
 
@@ -469,7 +469,7 @@ Paimon: Hey, whaddya mean by that, little guy? You wanna be as tall as three mou
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #Ah, {REALNAME[ID(2)|SHOWHOST(true)]}, you truly are a Saurian of prodigious appetites...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ooroo...
-Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; {NICKNAME}, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
+Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; Traveler, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Lesser Shadow Pin?
 Traveler: No, no. No larger than two.
 
@@ -494,7 +494,7 @@ Paimon: Hey, whaddya mean by that, little guy? You wanna be as tall as three mou
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #Ah, {REALNAME[ID(2)|SHOWHOST(true)]}, you truly are a Saurian of prodigious appetites...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ooroo...
-Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; {NICKNAME}, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
+Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; Traveler, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Lesser Shadow Pin?
 Traveler: No, no. No larger than two.
 
@@ -505,12 +505,12 @@ Titu: The cacophony fell silent... and the Pin returned to its original state. T
 Titu: Hoo... To think that someone could really accomplish this... This isn't a dream, is it? You're all real, aren't you? Not figments of my imagination?
 Traveler: Wake up, wake up... You've got to fix this yourself!
 Paimon: Hey, there's no need to be so mean.
-Paimon: #But anyway, didn't Paimon tell you? {NICKNAME}'s super strong!
+Paimon: #But anyway, didn't Paimon tell you? Traveler's super strong!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Hehe, you think so, don'cha, {REALNAME[ID(2)|SHOWHOST(true)]}?
-Titu: #You weren't affected by the Abyss, were you, {NICKNAME}?
+Titu: #You weren't affected by the Abyss, were you, Traveler?
 Traveler: Relax, it's just the Abyss...
-Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, {NICKNAME}.
+Titu: #Even our strongest warriors must remain vigilant and then some in the face of the Abyss. You're no ordinary person, Traveler.
 Titu: Haha, who knows, the story I spin from this material might even surpass those by Sanhaj!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
 Paimon: Well, that sure sounds impressive, but who's Sanhaj?
@@ -550,7 +550,7 @@ Titu: Huh. That's a better analogy than the last.
 Paimon: Paimon thinks so too! Now she gets it.
 Paimon: Now, at the previous stone pillars, we also let the golden pattern fly under said pillars first...
 Titu: Yes, that is indeed the correct sealing process.
-Titu: #Anyway, if you're ready, {NICKNAME}, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
+Titu: #Anyway, if you're ready, Traveler, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
 Titu: Of course, the Abyss will resist, so... please be careful.
 Traveler: Is your stomach upset?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hrrr?
@@ -577,7 +577,7 @@ Paimon: Hey, whaddya mean by that, little guy? You wanna be as tall as three mou
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #Ah, {REALNAME[ID(2)|SHOWHOST(true)]}, you truly are a Saurian of prodigious appetites...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ooroo...
-Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; {NICKNAME}, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
+Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; Traveler, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Little Shadow Pin?
 Traveler: No, no. No larger than two.
 
@@ -677,7 +677,7 @@ Titu: #Understand Saurian-speak? Haha, you've got to be kidding me. No one can d
 Titu: But I'm one of the Children of Echoes, and we're always around Tepetlisaurs. You can figure out what they're trying to communicate from their eyes, their expressions, and the humming noises they make.
 Titu: Anyway, introductions are in order. Titu... That's my name.
 Paimon: Paimon's Paimon.
-Traveler: #I'm {NICKNAME}...
+Traveler: #I'm Traveler...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 Titu: Haha, alright then. Here in Natlan, those who exchange names but not blows are considered friends — and friends we shall be!
@@ -712,7 +712,7 @@ Titu: *sigh* What an amazing idea — ah, if only you were the first to think of
 Titu: In fact, Lesser Shadow Pins have floated in the past, and according to the stories, that's exactly how it was handled. Things are trickier this time, though...
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 Paimon: That's right. We've solved a whole bunch of similar problems before. We're experts now!
-Titu: #Really? Not that I'm doubting your abilities — that much I could tell just from how you move, {NICKNAME}...
+Titu: #Really? Not that I'm doubting your abilities — that much I could tell just from how you move, Traveler...
 Titu: I mean to say, are you really willing to help? Since it's the Abyss we're talking about, even I can't say for sure how dangerous things could get.
 Traveler: Ooh, so scary. I regret everything. And alas! Now my stomach suddenly hurts...
 Paimon: H—Hey, stop it! And Paimon just complimented you, too! Also, your acting is terrible!
@@ -720,7 +720,7 @@ Paimon: Anyway, the point is that we'll help!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #See? {REALNAME[ID(2)|SHOWHOST(true)]} agrees as well!
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on our floating Shadow Pins.
 Traveler: Oh dear, I do so fear, that danger's the only one for me.
 Paimon: Yeah, we... No, that's not right! We've done a whole bunch of things that aren't dangerous too... Wait... Paimon's not sure what she's trying to say...
@@ -774,7 +774,7 @@ Titu: It's called a Shadow Pin... because it pins shadows. Easy, right?
 Paimon: Urgh...
 Traveler: Wow, the two of you made the same noise...
 Paimon: That's not where Paimon thought this was going...
-Paimon: #Wait, what's going on? You're shaking up and down, {NICKNAME}...
+Paimon: #Wait, what's going on? You're shaking up and down, Traveler...
 Traveler: It's the ground that's shaking, Paimon.
 Traveler: I blame Titu's awful jape...
 Paimon: Come on! My joke wasn't that disastrous!
@@ -789,12 +789,12 @@ Titu: Could it be that... some change has overtaken the Abyss surging within the
 Paimon: Either way, it feels like something terrible's happening down there...
 Paimon: Why don't we try getting a closer look?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Titu: #P—Please do, {NICKNAME}...
+Titu: #P—Please do, Traveler...
 Traveler: Sounds a little dubious to me...
 
 ## Talk 21
 
-Titu: #What's wrong, {NICKNAME}? Just touch the Iridescent Inscription beneath the Lesser Shadow Pin if you want to start gathering the inscription's power.
+Titu: #What's wrong, Traveler? Just touch the Iridescent Inscription beneath the Lesser Shadow Pin if you want to start gathering the inscription's power.
 Titu: Be sure to stay safe, though...
 
 ## Talk 22
@@ -805,8 +805,8 @@ Titu: Telling myself "Come on, Titu, it's probably nothing"... But this is quite
 Titu: There's even a little Tepetlisaurus here... Was it you who brought these outlanders here, then?
 Titu: And... was it you who brought this Shadow Pin down?
 Traveler: ...Should we not have done that?
-Paimon: #Eh? Wait, did we do something bad, {NICKNAME}? If we act fast, while there's only one witness...
-Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're {NICKNAME}, then? Who's your friend over there?
+Paimon: #Eh? Wait, did we do something bad, Traveler? If we act fast, while there's only one witness...
+Titu: #Haha, come on, no need for that! It's not serious, and if anything, I'd say you've done us a favor! So, you're Traveler, then? Who's your friend over there?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: #And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 Titu: And Titu's my name, a teller {RUBY#[D]storyteller}of tales for our tribe. I'm also responsible for "caring" for the stone pillars in this valley.
@@ -841,18 +841,18 @@ Paimon: Wait, so you mean the Abyss is actually sealed below here!?
 Titu: That's right. And recently, two out of the three little Shadow Pins have floated upward. Perhaps if the third floats too, all the evil beneath the earth will come surging up like a tide.
 Titu: So to be honest, it's an unexpected boon that you've managed to push one back in. So, no compensation required.
 Titu: If anything, I was hoping to ask if you'd mind pushing the other one back in as well...
-Paimon: #Huh... What do you think, {NICKNAME}...?
+Paimon: #Huh... What do you think, Traveler...?
 Traveler: ...Where the Abyss is involved, we can't stand idle.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Even you're up for it, {REALNAME[ID(2)|SHOWHOST(true)]}? Well, alright then.
 Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up in times of great peril. Human possibility shines through in glory at moments such as this.
-Titu: #You know what? This could make for a great story, too — indeed, {NICKNAME}, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
+Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Lesser Pin...
 Traveler: Perhaps I could lend a hand?
 Traveler: Paimon did it. I was just walking over here...
 Paimon: Hey! You're always like that! Paimon'll get mad if you don't cut it out!
-Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this {M#good fellow}{F#good lady} over here?
-Traveler: #Call me {NICKNAME}.
+Titu: #Haha, relax. If anything, this is a huge relief. So your name's Paimon, then? In that case, how about this good fellow over here?
+Traveler: #Call me Traveler.
 
 ## Additional Conversations
 
