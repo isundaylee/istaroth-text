@@ -149,15 +149,15 @@ Wanderer: Alright, done. Thanks for waiting for me. We can go now.
 
 Katsuragi: Nagamasa, I found this young guy in a cave sealed off by a landslide. He doesn't remember his name.
 Mikoshi Nagamasa: ...Well, we need to call you something. I hear the workers are calling you "the kabukimono"?
-The Balladeer: That's fine with me.
+The Balladeer (Kabukimono): That's fine with me.
 Mikoshi Nagamasa: Katsuragi, report to Niwa. Tell him we have someone new joining us.
 
 ## Talk 8
 
-The Balladeer: You do realize you're blocking my path?
+The Balladeer (Kabukimono): You do realize you're blocking my path?
 The Jester: I come not to obstruct you. I have been waiting.
 The Jester: What you are, truly, is a weapon, one that could be wielded with an iron will... or, you could continue to drift aimlessly.
-The Balladeer: ...Are you trying to win me over?
+The Balladeer (Kabukimono): ...Are you trying to win me over?
 The Jester: The long-fated rebellion has begun. Why not take your place at the banquet and join those who shall feast?
 
 ## Talk 9
@@ -169,19 +169,19 @@ Merchant: *sigh* ...That was a good batch of Sunsettias, too...
 Paimon: Huh? What are we doing back here?
 Traveler: I hear voices!
 Child: Whoa... This is where you were born? It's pretty! But there's nobody here... *cough*
-The Balladeer: I was abandoned, like you. I lived here for a while at first, but... There's nothing for us here. We can't stay...
+The Balladeer (Kabukimono): I was abandoned, like you. I lived here for a while at first, but... There's nothing for us here. We can't stay...
 Child: ...Okay.
 Child: I heard my mom and dad used to make swords, but the factory manager died, and then my dad got sick... *cough*
 Child: He kept coughing all the time, just like me. Then, Mom started coughing too...
-The Balladeer: But you can't. You promised me.
+The Balladeer (Kabukimono): But you can't. You promised me.
 Child: Yep, we're family now. We're gonna be together for ever and ever!
 Nahida: This child didn't have a name. Or rather... The Balladeer didn't know what to call him. His father died before he could name him.
 Nahida: After his mother died, the child stayed in their straw hut alone. Some of the neighbors helped to raise him.
 Nahida: After leaving Tatarasuna, The Balladeer ran into this child who didn't have a name, just like him. They made a promise to live together.
 Paimon: What happened to the child then?
 Nahida: He died from his illness while he was still very young. The Balladeer came home one day and found that he had stopped breathing.
-The Balladeer: ...Hey! Wh—What's wrong...? Say something!!!
-The Balladeer: ...You promised me we could be family! You're no different from Niwa and all the others... You betrayed me too. Haha...
+The Balladeer (Kabukimono): ...Hey! Wh—What's wrong...? Say something!!!
+The Balladeer (Kabukimono): ...You promised me we could be family! You're no different from Niwa and all the others... You betrayed me too. Haha...
 Wanderer: ...
 Wanderer: The voices have gone. It looks like the memory ends here.
 Paimon: Let's keep going.
@@ -208,9 +208,9 @@ Nahida: It's time to get ready.
 
 ## Talk 15
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...This is trying my patience.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...This is trying my patience.
 Paimon: Have you got all your memories back now?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Have you got any more stupid questions!?
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got any more stupid questions!?
 
 ## Talk 16
 
@@ -248,16 +248,16 @@ Merchant: Don't worry about me.
 
 ## Talk 19
 
-The Balladeer's Mecha: ...!!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Imbecile! Get out of my sight!
+The Balladeer's Mecha (Everlasting Lord of Arcane Wisdom): ...!!
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Imbecile! Get out of my sight!
 Paimon: ...It disappeared... Did we win?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What did you expect? I'd never lose to that.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): What did you expect? I'd never lose to that.
 Paimon: Ehh, there's that tone of voice again. You're definitely back to your old self...
 Paimon: Wait, but it was you inside that thing, too. What have you got to be smug about?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Sorry, I'm harsh on myself and everyone else. Just the way I am.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Sorry, I'm harsh on myself and everyone else. Just the way I am.
 Traveler: Now you've recovered your memories...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Haha, you sound like you're concerned about me.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Haha, you sound like you're concerned about me.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
 Nahida: The memory recovery seems to have been a success. This dream has served its purpose.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Come on. Let's continue this outside.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Come on. Let's continue this outside.
 Traveler: The past will catch up with you.
