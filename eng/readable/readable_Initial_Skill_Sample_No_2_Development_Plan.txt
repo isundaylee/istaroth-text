@@ -1,17 +1,22 @@
 # Initial Skill Sample No. 2 Development Plan
 
 ...
-Part XVII: Movement Mechanism Design Iterations
-In short, based on the Full System Prototype tests, simply increasing the dimensions of existing humanoid clockwork meka is not technologically feasible.
-This meka is required to, ideally, be able to operate across various types of terrain, including hard city roads, dense woodlands, beaches, and even muddy swamps.
-If the bipedal locomotion of humanoid meka is adopted, the meka would be considered a total loss upon entering environments with loose and soft soil. It would be impossible to recover it with Fontaine's current transportation capabilities.
-This problem is due to the weight of the power system and the combat system far exceeding our expectations.
-Currently, a power system capable of driving this meka is still under development, so we have been forced to use multiple, connected mass-produced clockwork meka cores, and the power-to-weight ratio is quite low.
-But even if it is replaced with an optimized power system, the meka's total weight will not decrease significantly.
-The combat system's weight is crucial. In order to ensure combat capabilities meet the prescribed goals, the armor, weapons, and ammunition cannot be reduced in either size or weight. Otherwise, we would only be weakening the meka further.
-Thus, a multi-wheel structure or the Crawler Track Movement Mechanism being designed by another research group is a far more realistic design proposition than humanoid legs.
-If a track with considerable width is utilized, the meka will be able to traverse various adverse terrain while maintaining the highest combat efficiency.
-Furthermore, the tests run on the Full System Prototype validated a basic conjecture:
-"Weight is the parameter of all man-made meka and equipment. When the right parts are utilized, weight is equal to combat power. As such, weight should be made a priority when designing any meka."
-The results derived from this theory will be presented by our project team at the conference.
+Part XXXIV: Crew Optimization and Combat System Iterations
+...
+Based on the data from the first IOV prototype with modified movement systems, the testers have made several suggestions to further optimize the meka.
+1. Change the number of crew from three to four in order to improve the meka's operability.
+Currently, the three members of the crew respectively act as Navigation Controller, Combat Controller, and Commander. This is sufficient to manage the movement, control, and combat.
+However, the testers pointed out that a single combat controller is incapable of managing the weapons on both the meka's arms, so at least one assistant is required.
+Moreover, the additional manpower may also reduce the burden of maintenance on the crew.
+2. Replace the fixed weapons with modular interfaces. Weapons or large mechanical arms for grabbing things can be installed selectively before departure.
+The meka often encounters obstacles. The constant need for collisions against the chassis and movement systems to clear obstacles significantly reduces the meka's lifespan and greatly increases its rate of failure on the battlefield.
+Therefore, installing large mechanical arms is beneficial to clearing obstacles. Just a simple two-claw structure will be sufficient to pick up trees that are difficult to push away via collision, benefiting the entire meka team.
+Additionally, while on missions against hilichurls and groups of common wildlife, costly ranged weapons or melee weapons with high energy consumption like the large impact drill will no longer be necessary.
+With large mechanical arms installed, the meka can rely on its size and strength advantage to crush its targets and reduce operating costs.
+3. Install an internal cabin to accommodate combat personnel and Gardemeks to provide protection and improve the endurance of said Gardemeks.
+At present, there is ample storage space within the meka, and it is currently being used to store spare parts and supplies for the crew, and it features a crew lounge and tea kettle.
+However, based on our tests, even if the four-member crew system is adopted, servicing the meka on the frontlines by the crew alone is impossible. Support from a specialized engineer is required.
+Additionally, the allocated supplies are sufficient to last the crew for a year. Obviously, it's impossible that the meka's crew would consume the full quantity of supplies on a single mission.
+Thus, modifying the internal space used to store spare parts and supplies into a crew cabin for carrying combat personnel and Gardemeks into battle is entirely feasible.
+At the same time, the testers also suggested keeping the lounge, and especially the tea kettle, citing that both will be vital to morale...
 ...
