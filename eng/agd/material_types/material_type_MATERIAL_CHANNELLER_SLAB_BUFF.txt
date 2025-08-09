@@ -1,0 +1,251 @@
+# Materials: MATERIAL_CHANNELLER_SLAB_BUFF
+
+## Falcon's Dance
+
+When a character initiates a Plunging Attack, they will unleash a shockwave that deals AoE DMG to opponents. This effect can be triggered once every 8s per character.
+
+## Steelwing
+
+Continuous gliding or leaving the ground due to jumping will grant the current character a stack of Steelwing every 0.3s, up to a maximum of 3 stacks. When characters initiate Plunging Attacks, each Steelwing stack will increase the DMG of that attack by 35%. This will consume all the stacks of Steelwing that this character possesses.
+
+## Galespring
+
+When a character's Plunging Attack hits an opponent, it will generate Elemental Particles that regenerate 6 energy and an Anemo Amber that will generate a wind current. This effect can be triggered once per 8s, and this CD is shared between all characters in the party.
+
+## Crushing Blow
+
+All party members' Plunging Attack DMG increased by 40%.
+
+## Hunter's Romp
+
+After characters use Charged Attacks to defeat opponents, the Charged Attack DMG of all characters in the party will be increased by 35% for 60s. Each of these effects can stack up to 5 times and can be triggered once every 0.3s.
+
+## Ironbow
+
+If the current character is a bow user, hitting opponents' weak spots with Charged Attacks will grant the Ironbow effect, which will increase the CRIT Rate of Normal and Charged Attacks by 50% for 8s.
+
+## Whirlpool
+
+Defeating opponents with a character's Charged Attack will create a Vacuum Field that pulls nearby opponents in and deals DMG based on 500% of the character's ATK. This effect can be triggered once every 2s, and this effect's CD is shared between all characters in the party.
+
+## Fierce Strike
+
+All party members' Charged Attack DMG increased by 30%.
+
+## Featherweight
+
+Decreases all party members' Charged Attack Stamina consumption by 50%.
+
+## Blade Dance
+
+Characters possess 5 stacks of the Blade Dance effect, and each stack increases the Normal Attack DMG dealt by the character by 15%. Possessing 5 stacks will increase Normal ATK SPD by 15%. When a character takes DMG, they will lose 1 stack of Blade Dance. A maximum of 1 stack can be lost every second in this way. A character will gain one stack of Blade Dance for every 10s they are on the field, up to a maximum of 5 stacks. Each character's CDs, stack counts, and their effects are counted independently.
+
+## Courageous
+
+When a character protected by a shield hits an opponent with a Normal Attack, their ATK is increased by 10%. This effect can stack up to 5 times and lasts for 8s. This effect, its stacks, and its duration are independently calculated for every character.
+
+## Emboldened
+
+For 20s after an Elemental Burst is used, the character who unleashed that Elemental Burst has their Normal Attack DMG increased by 40%.
+
+## Song of Steel
+
+All party members' Normal Attack DMG increased by 30%.
+
+## Intertwined Steps
+
+When any party member uses an Elemental Burst, the Elemental Roundabout effect is generated, which increases all party members' Elemental Mastery by 100 for 20s, stacking up to 3 times. If this effect is triggered again at 3 stacks, a shockwave that deals AoE DMG will be unleashed.
+
+## Ritual
+
+When Normal Attacks hit opponents, they have a 50% chance to regenerate 5 Energy for themselves. This effect can be triggered once every 4s per character.
+
+## War Breeds War
+
+For 8s after a character uses an Elemental Burst, Normal Attacks that hit opponents have a 50% chance to generate an Elemental Particle that regenerates 2 Energy. Each character can generate this effect once every 1.7s.
+
+## Burst Damage
+
+Elemental Burst DMG dealt by all party members increased by 30%.
+
+## Endless Waltz
+
+After using an Elemental Burst, all party members on the field will unleash one shockwave that scales on 600% of the ATK of the character that unleashed that shockwave, and which deals DMG to nearby opponents. This effect can occur once every 2s and its CD is shared between all characters in the party.
+
+## Refined Burst
+
+Increases the Elemental Burst Level of all party members by 1.
+Maximum upgrade level is 15.
+
+## Charge Up
+
+Elemental Skills will regenerate 8 Energy.
+
+## Overcharge
+
+All party members' Energy Recharge increased by 30%.
+
+## Thundering Dance
+
+When a character causes opponents to be Electro-Charged, there is a 50% chance to trigger a lightning strike that deals 500% of the triggering character's ATK as DMG and decreases the opponent's Electro RES by 25%. This effect can be triggered once every 5s and this CD is shared between all party members.
+
+## Timely Rain
+
+When a character hits an opponent with an Elemental Burst, a Hydro Amber that will create falling rain in an AoE when shattered will be generated. This effect can be triggered once every 6s and this CD is shared between all party members.
+
+## Overmastered
+
+All characters in the party have their Elemental Mastery increased by 100.
+
+## Scattersleet Dance
+
+When a character causes opponents to Superconduct, there is a 50% chance to trigger a falling icicle that deals 500% of the triggering character's ATK as DMG and decreases the opponent's Physical RES by 25% for 10s. This effect can be triggered once every 5s and this CD is shared between all party members.
+
+## Frostbite
+
+Character Normal and Charged Attack DMG against opponents affected by Cryo are increased by 30%.
+
+## Keen Edge
+
+All party members gain a 30% Physical DMG Bonus.
+
+## Starcrystal Dance
+
+When a character obtains an Elemental Shard created by a Geo Elemental Reaction, a small shockwave will be unleashed that will deal 500% of that character's ATK as DMG to nearby opponents. Additionally, all characters in the party gain a 40% Geo DMG Bonus for 10s after this effect is triggered. These effects can be triggered once every 5s and this CD is shared between all party members.
+
+## Refraction Crystals
+
+When a character obtains an Elemental Shard created by a Geo Elemental Reaction, they gain a 30% Elemental DMG Bonus for 10s.
+
+## Focusing Crystals
+
+When a character obtains an Elemental Shard created by a Geo Elemental Reaction, they will regenerate 2 Energy for all members of the party. This effect can be triggered once every 2s and this CD is shared between all party members.
+
+## Iron Wall
+
+All party members' Shield Strength increased by 35%.
+
+## Duelist's Dance
+
+When a character hits opponents, a shockwave will be unleashed that deals AoE DMG. When characters are at full HP, the DMG dealt will be increased further. This effect can be triggered once every 5s per character.
+
+## Coalesced Defenses
+
+While protected by a shield, characters gain a 40% incoming healing bonus.
+
+## Enhanced Healing
+
+Increases all party members' incoming healing bonus by 25%.
+
+## Execution
+
+When a character's Charged Attacks hit an opponent that is under 30% HP, an executioner's blade will descend and deal immense DMG. This effect can be triggered once every 10s and this CD is shared between all party members.
+
+## Judgment
+
+When an opponent is defeated, it will release a shockwave that deals AoE DMG to other opponents.
+
+## Challenger
+
+During combat, when there are no more than 2 opponents near a character, ATK is increased by 20% and DEF increased by 20%.
+
+## Fractured Fruit Bit
+
+A tiny piece of an Irminsul Fruit. You can almost feel a small amount of energy leaking out of its broken face.
+
+## Fractured Fruit Fragment
+
+A small piece of an Irminsul Fruit. You can somewhat feel the energy that flows gradually from its broken sections.
+
+## Fractured Fruit Shard
+
+A sizable piece of an Irminsul Fruit. You can feel its broken edges brim over with restless power.
+
+## Duelist's Dance
+
+When a character hits opponents, a shockwave will be unleashed that deals AoE True DMG. When characters are at full HP, the DMG dealt will be increased further. This effect can be triggered once every 5s per player's party.
+
+## Blade Dance
+
+Characters possess 5 stacks of the Blade Dance effect, and each stack increases the Normal Attack DMG dealt by the character by 15%. Possessing 5 stacks will increase Normal ATK SPD by 15%. When a character takes DMG, they will lose 1 stack of Blade Dance. A maximum of 1 stack can be lost every second in this way. A character will gain one stack of Blade Dance for every 10s they are on the field, up to a maximum of 5 stacks. Each character's CDs, stack counts, and their effects are counted independently.
+
+## Starcrystal Dance
+
+When a character obtains an Elemental Shard created by a Geo Elemental Reaction, a small shockwave will be unleashed that will deal 500% of that character's ATK as DMG to nearby opponents. Additionally, all characters in the party gain a 40% Geo DMG Bonus for 10s after this effect is triggered. These effects can be triggered once every 5s and this CD is shared between all party members.
+
+## Intertwined Steps
+
+When any party member uses an Elemental Burst, the Elemental Roundabout effect is generated, which increases all party members' Elemental Mastery by 100 for 20s, stacking up to 3 times. If this effect is triggered again at 3 stacks, a shockwave that deals AoE True DMG will be unleashed.
+
+## Endless Waltz
+
+After using an Elemental Burst, all party members on the field will unleash one shockwave that scales on 600% of the ATK of the character that unleashed that shockwave, and which deals DMG to nearby opponents. This effect can occur once every 2s and its CD is shared between all characters in the party.
+
+## Refraction Crystals
+
+When a character obtains an Elemental Shard created by a Crystallize Reaction, they gain a 30% Elemental DMG Bonus for 10s.
+
+## Emboldened
+
+For 20s after an Elemental Burst hits an opponent, the character who unleashed that Elemental Burst has their Normal Attack DMG increased by 40%.
+
+## Courageous
+
+After a character protected by a shield hits an opponent with a Normal Attack, their ATK is increased by 8%. This effect can stack up to 5 times and lasts for 8s. This effect, its stacks, and its duration are independently calculated for every character.
+
+## Whirlpool
+
+Defeating opponents with a character's Charged Attack will create a Vacuum Field that pulls nearby opponents in and deals DMG based on 500% of the character's ATK. This effect can be triggered once every 2s, and this effect's CD is shared between all characters in the party.
+
+## Challenger
+
+When there are no more than 2 opponents near a character, ATK is increased by 20% and DEF is increased by 20%.
+
+## Execution
+
+When a character's Charged Attacks hit an opponent that is under 50% HP, an executioner's blade will descend and deal True DMG. This effect can be triggered once every 10s and this CD is shared between all party members.
+
+## Focusing Crystals
+
+When a character obtains an Elemental Shard created by a Crystallize Reaction, they will regenerate 2 Energy for all members of the party. This effect can be triggered once every 2s and this CD is shared between all party members.
+
+## Refined Burst
+
+Increases the Elemental Burst Level of all party members by 1.
+Maximum upgrade level is 15.
+
+## Judgment
+
+When an opponent is defeated, it will release a shockwave that deals AoE True DMG to other opponents.
+
+## Keen Edge
+
+All party members gain a 30% Physical DMG Bonus.
+
+## Burst Damage
+
+Elemental Burst DMG dealt by all party members increased by 30%.
+
+## Overmastered
+
+All characters in the party have their Elemental Mastery increased by 100.
+
+## Iron Wall
+
+All party members' Shield Strength increased by 40%.
+
+## Song of Steel
+
+All party members' Normal Attack DMG increased by 30%.
+
+## Fierce Strike
+
+All party members' Charged Attack DMG increased by 30%.
+
+## Dance of Abundance
+
+After using an Elemental Burst, the Elemental Profusion effect will occur, increasing all party members' Elemental Burst DMG by 12% for 15s. Max 5 stacks. When 5 stacks are possessed, Normal ATK SPD is increased by 15%.
+
+## Conductivity
+
+When an active character triggers Electro-Charged, all of that player's party members' Elemental Burst CDs are decreased by 1s. This can occur once every 1.5s.
