@@ -1,6 +1,6 @@
 # Talk Group: GadgetGroup - 77007
 
-## Talk
+## Talk 0
 
 Operate Device: Speak the password, and the path will open.
 Traveler: ...?
@@ -10,15 +10,24 @@ Traveler: Password.
 Paimon: Oh, come on! No one's going to set such a simple password! The words on this gate aren't it either!
 Paimon: See, it didn't respond. Guess we need to figure out the password before we can get in...
 
-## Talk
+## Talk 1
 
 Operate Device: Speak the password, and the path will open.
 
-## Talk
+### Talk 1 related talk 0
 
 Traveler: Marg bar parvezravan...
 
-## Talk
+### Talk 1 related talk 1
+
+Traveler: Maq bara parvezvan...
+Operate Device: (You get no reaction at all. Nothing happens.)
+
+## Talk 2
+
+Traveler: Marg bar parvezravan...
+
+## Talk 3
 
 Traveler: Maq bara parvezvan...
 Operate Device: (You get no reaction at all. Nothing happens.)

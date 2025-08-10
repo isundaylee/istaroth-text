@@ -1,10 +1,10 @@
 # Talk Group: ActivityGroup - 2034
 
-## Talk
+## Talk 0
 
 Dori: This commission is tricky, and I'm practically losing Mora. Just remember that I'm doing you a huge favor here!
 
-## Talk
+## Talk 1
 
 Layla: So, she wants to summarize the effects of stars interacting with each other... That's going to be tricky.
 Traveler: Happy Sabzeruz Festival, "other Layla."
@@ -14,7 +14,7 @@ Traveler: Is there anything I can do to help?
 Layla: Sorry. I'm not sure we can trust such complex and precise calculations to someone else. Just visit her more often, if you have the time. I think that would make her very happy.
 Traveler: Happy Sabzeruz Festival, "Blessing from the stars."
 
-## Talk
+## Talk 2
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Oh? Now this is a first. Who goes to the Akademiya in the middle of a festival?
 Traveler: You're here, aren't you?
@@ -24,7 +24,7 @@ Traveler: You're here, aren't you?
 Traveler: You're not going to join in on the fun?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Do I strike you as someone who wants to hold hands and dance with everyone?
 
-## Talk
+## Talk 3
 
 Najia: Nilou! Wanna go grab dessert after rehearsal? Puspa Café just released a limited-time special for the Sabzeruz Festival!
 Nilou: Oh, um... I—I'd better not. It's almost Parade day, so I should restrain myself.
@@ -35,21 +35,21 @@ Nilou: Wow...
 Najia: And there was something special about the syrup for the Baklava, too...
 Nilou: Ahh...! N—No more! Please! How about I just come with you...
 
-## Talk
+## Talk 4
 
 Reza: Hello. I'm the Port Master of Port Ormos. Come see me or my chief secretary for any questions regarding trade.
 Reza: The Dendro Archon's birthday sure has brought in whole fleets of new ships from abroad! Sure, we're really happy trade is flourishing, but it's also fertile ground for new problems to crop up...
 Reza: *sigh* I shouldn't jinx things like that. After all, nothing ventured, nothing gained, right?
 Reza: Speaking with the foreign merchants is most interesting, too. I've learned quite a lot.
 
-## Talk
+## Talk 5
 
 Feroz: Oho, and where might this little beetle have crawled out from? Are you here to celebrate Lesser Lord Kusanali's birthday?
 Feroz: Then a word of advice: If you see little Ajilenakh Nuts running about on the road, best to take a detour!
 Feroz: Those snot-nosed little brats don't watch where they're going at all, and their fingers are all coated with sticky candy...
 Feroz: Don't ask me how I know!
 
-## Talk
+## Talk 6
 
 Araby: Hello there. Sumeru sure is lively lately, isn't it?
 Araby: Though I'd love to just calmly observe the sea, the sounds of merriment and celebration sometimes drown out the waves.
@@ -57,38 +57,59 @@ Araby: But now we must be more vigilant. What if some giant sea monster wants to
 Araby: I've got to be ready to remind it to watch its step, haha!
 Araby: ...Um, don't take it seriously! I'm just joking!
 
-## Talk
+## Talk 7
 
 Nesmil: On a festival suffused with the fragrance of flowers such as this, everyone wants to enjoy sweet drinks!
 Nesmil: How about you, dear customers? Would you like to try some of our newest sweet wines?
 
-## Talk
+### Talk 7 related talk 0
+
+Traveler: What is this place?
+Nesmil: This is Djafar Tavern, the best in Port Ormos! Our boss here can get hold of any good wine!
+Nesmil: Nearby merchants, tourists, sailors... and my old friends from the Eremites all come here to indulge in drinking from time to time.
+Nesmil: And there's also the tasty appetizers. Personally, I think you can have them as meals, even without drinks!
+
+### Talk 7 related talk 1
+
+Traveler: See you.
+Nesmil: Take care, and please do come again!
+
+## Talk 8
 
 Roshana: Are you here to take a picture with the Flower Carriage? Please, go ahead.
 Roshana: No, the Flower Carriage has nothing to do with our shop. However, the end of its route is nearby, so it's being kept here temporarily for everyone to admire.
 Roshana: A lot of first-time tourists keep coming to ask about it since they think our tavern set it up.
 Roshana: Hmm... Maybe I should send Nesmil over there to drum up business...
 
-## Talk
+## Talk 9
 
 Shapur: Sisi, get back here! You're interfering with the Parade!
 Shapur: Huh? You mean that there's no Flower Carriage or cats named Sisi here?
 Shapur: Don't... Don't you lie to me just because I'm old! I clearly saw... Uh, when was that again?
 
-## Talk
+## Talk 10
 
 Berbere: Friend, have you heard the legend of the Dance of Sabzeruz? Would you like to feel the breath of the Goddess of Flowers?
 Berbere: If you think that the Goddess of Flowers can bring only the fragrance of Padisarah, then you're practically blind. The spices of Sumeru are hardly so one-note!
 Berbere: Such complex and mysterious scents can only be felt here!
 
-## Talk
+## Talk 11
 
 Elham: Hello! Um... May I ask you a question?
 Elham: Do you still have those special candies? You know, the ones scattered on the candy towers.
 Elham: My friend got some for me, and of course, the candies taste great, but I'm really curious what the coating is made out of.
 Elham: It feels so soft, but it also isn't easily damaged by distributed pressure. I was just thinking, maybe it could be used for clothing?
 
-## Talk
+### Talk 11 related talk 0
+
+Traveler: Adventure Challenge
+
+### Talk 11 related talk 1
+
+Traveler: See you.
+Elham: See you.
+
+## Talk 12
 
 Nika: Sabzeruz Festival, Sabzeruz Festival!
 Zai: Sabzeruz Festival, Sabzeruz Festival!
@@ -100,7 +121,7 @@ Nika: The Dendro Archon will bless the trees with delicious apples, making the S
 Zai: Oooh, that's right! If Sumpter Beasts are all dressed up and looking their best, and enjoy their food, they'll probably be tastier too!
 Nika: ?
 
-## Talk
+## Talk 13
 
 Fariba: Welcome, welcome...
 Fariba: Please, look around and buy anything that catches your eye. What you see is what we've got.
@@ -108,34 +129,59 @@ Fariba: As for Sabzeruz Festival souvenirs, or model Flower Carriages, we are cu
 Fariba: In response to customer requests, the caravan manager has informed me that they are making more. Please be patient, thank you.
 Fariba: ...Though from what I know of them, by the time they finish, like as not the festival will already be over...
 
-## Talk
+## Talk 14
 
 Siger: Hey, can I make a wish to Lesser Lord Kusanali for some more valuable books to add to my collection?
 Siger: Ever since I lost that batch of literary treasures, my luck's been awful.
 Siger: Every book that's even slightly valuable gets reserved by the Akademiya first. They even take all the worthless ones.
 Siger: What's that you say? I should just get a job at the House of Daena? ...Actually, don't tell me... Let me think it over... Do they hire foreigners there?
 
-## Talk
+## Talk 15
 
 Housein: Everyone said that promotional events would bring in more customers. That's true enough.
 Housein: But tricks like that are really only good for getting everyone into the holiday mood. Much better to just keep your prices stable and sell higher volumes with lower profit margins.
 Housein: Dendro Archon, please bless our business going forward. Let our business be even more smooth and stable, let there be no setbacks...
 
-## Talk
+### Talk 15 related talk 0
+
+Traveler: About Harra Fruits...
+Housein: Ah, saw my commission at Mr. Effendi's, did you?
+Housein: Effendi is a man of his word. A commission there really helped me out.
+Housein: Did you have ten Harra Fruits?
+Traveler: Here are the Harra Fruits you wanted.
+Traveler: Not yet.
+Housein: Man, I'm serious with my business, you know? And ten is not a large number for a provider.
+Housein: It's the least you can provide for a real deal.
+
+### Talk 15 related talk 1
+
+Traveler: Did you run into some trouble?
+Housein: No, no. It was just a thought.
+Housein: I used to be a sailor. I've seen every kind of storm you could imagine, and not even a shipwreck could get the better of me.
+Housein: The way I see it, gales and tidal waves are nothing compared to always trying to keep steady in life.
+Housein: I guess what I'm trying to say is, planting a seed is easy, but raising that little sapling into a mighty tree is where the real work lies...
+Housein: But don't let my brother Hassan hear that, or he'll start lecturing me again for being ungrateful, haha.
+
+### Talk 15 related talk 2
+
+Traveler: See you.
+Housein: See you.
+
+## Talk 16
 
 Nabiya: Sweetness is the most terrifying temptation. You must know how to enjoy happiness, yet not lose yourself in it.
 Nabiya: It's like how eating too many Candied Ajilenakh Nuts can give you cavities. Too much sweetness is suffering.
 Nabiya: See, even Harut and Marut understand this truth.
 Nabiya: You definitely look like a most fortunate person, but they don't seem to be clinging to you, now do they?
 
-## Talk
+## Talk 17
 
 Fariha: Hello. I'm Mr. Nizam's secretary. I'm responsible for taking minutes for him.
 Fariha: If you see Mr. Nizam sighing slightly more than usual, it's a normal occurrence.
 Fariha: There's always more to do whenever there's an event being held in the city.
 Fariha: We'll talk later. I still need to sort out which supplies need restocking.
 
-## Talk
+## Talk 18
 
 Avena: I think I'll go explore over there next!
 Lemta: Miss, with all due respect, your adventure plan...
@@ -145,34 +191,78 @@ Lemta: Your whole body and soul and one thing, but if you throw your whole walle
 Avena: Oh, wallet schmallet! That's where you're wrong. You can't eat money, it's meant to be spent!
 Lemta: *sigh* Really? Well, alright, then...
 
-## Talk
+## Talk 19
 
 Farzaneh: Is this a dream...? Or am I seasick again... I should still be standing on dry land, right?
 Farzaneh: This is truly... The most wondrous festival I have ever experienced.
 Farzaneh: If I am to be so happy I get dizzy, I think I could get used to that kind of dizziness...
 
-## Talk
+## Talk 20
 
 Ashk: You can still hear the hustle and bustle of the market, even from this high up...
 Ashk: Haha, seems like joy is just like Sabzeruz Festival candies — being cast in every direction!
 
-## Talk
+### Talk 20 related talk 0
+
+Traveler: Hello.
+Ashk: Hello. Hardly anyone comes around here. Are you here to stargaze?
+Ashk: The untouchable sky conceals the truth about the world... At least, that's what we Rtawahists believe.
+Ashk: But the mortal sight is limited. Who can guarantee that they can see all the celestial signs clearly?
+Ashk: How about you, what do you think?
+
+### Talk 20 related talk 1
+
+Traveler: Let me give it more thought...
+Ashk: Yeah.
+
+## Talk 21
 
 Azra: You saw it, right, you must've seen it! Nilou's Dance of Sabzeruz!
 Azra: My word! Such an incredible performance, seeing it once isn't nearly enough... I hope to see her in my dreams every night...
 
-## Talk
+### Talk 21 related talk 0
+
+Traveler: About Nilou...
+Azra: Let me tell you, Zubayr Theater's Nilou is the best dancer ever.
+Azra: Many may be able to dance beautifully, but Nilou is unique in the way she infuses emotions into her dance.
+Azra: It took me a long time to snap out of such a feeling after watching her performance. It's so...
+
+### Talk 21 related talk 1
+
+Traveler: See you.
+Azra: *sigh* Why doesn't the Akademiya like theaters?
+
+### Talk 21 related talk 2
+
+Traveler: See you.
+Azra: The ban on the arts has been lifted, so we should be able to watch more performances now...
+
+## Talk 22
 
 Rukh Shah: Hello. I'm the Parchamdar for the Corps of Thirty, in charge of the Eremites in Sumeru City.
 Rukh Shah: Happy holidays, and hope you have fun! But please be careful too.
 Rukh Shah: If you notice anything unusual, big or small, please inform the nearest member of the Corps of Thirty.
 
-## Talk
+## Talk 23
 
 Qushji: May the Dendro Archon watch over the stars during the Sabzeruz Festival, that no abnormal incidents should befall...
 Qushji: And of course, please watch over my neck too...
 
-## Talk
+### Talk 23 related talk 0
+
+Traveler: Are you alright?
+Qushji: My neck... It hurts...
+Qushji: This is probably the ordeal all astrologers must go through. The weight of the starry sky seems to crash down on the neck when you stargaze.
+Qushji: Worse yet, the hydromantic instruments in the academy fell into disrepair due to budget constraint.
+Qushji: Researchers like us who aren't part of big projects must resort to more primitive measures...
+Qushji: If only the new Grand Conservator knew the value of astrology...
+
+### Talk 23 related talk 1
+
+Traveler: See you.
+Qushji: Farewell. I'll have a break.
+
+## Talk 24
 
 Armin: Sis, you've got to believe that Aranara are real now!
 Arina: No. The Aranara we saw, was only what the Dendro Archon willed us to see.
@@ -183,7 +273,7 @@ Armin: But... what if... What if there's things even the teacher doesn't know...
 Arina: Well... I'm not saying it's wrong to doubt your teacher, but I'm still not changing my mind about the Aranara.
 Arina: If you want to believe in them, Armin, that's fine! After all, you're still young.
 
-## Talk
+## Talk 25
 
 Lila: *sobs* Grandma, please, since it's the Dendro Archon's birthday, can I not take my medicine...?
 Tahmina: Oh, but the Dendro Archon wants you to be healthy, my little Lila! If you don't take your medicine, how will you get better?
@@ -193,7 +283,7 @@ Tahmina: My dear Lila, if you have the medicine after the candy, then won't it b
 Tahmina: Even the scariest Eremites know that work comes before play. If you don't believe me... Perhaps I should ask them to teach you?
 Lila: No, no! They're scary! I don't want that...
 
-## Talk
+## Talk 26
 
 Ramiz: Grandma, look, look! Sumeru City is just as lively as Setaria said!
 Kulsoom: But of course! Don't run too fast, or I might not be able to keep up, you know.
@@ -204,7 +294,7 @@ Ramiz: Grandma, can I ask you for another favor? Could you take me to the Akadem
 Kulsoom: Of course, of course! Still, it's uphill much of the way, so I might have to ask for your support too.
 Ramiz: No problem! Thank you so much, Grandma!
 
-## Talk
+## Talk 27
 
 Ayten: Hmm... I've had candy, seen the flowers... Next...
 Karima: Next? What's next on your list?
@@ -215,28 +305,28 @@ Karima: Then... Then I also have something I want to buy! And you have to help m
 Ayten: Heh... Say no more. I already know exactly what you want.
 Ayten: Don't worry. We'll pick you out a shield every bit as awesome-looking as Candace's.
 
-## Talk
+## Talk 28
 
 Durgar: Hello, and happy Sabzeruz! I apologize, but I'm taking the holidays off, so if you have any carpentry commissions, please wait until after the festival.
 Durgar: Everything that grows in Sumeru is a gift from the Dendro Archon, so let's give the plants some time off during the Sabzeruz Festival too, haha!
 
-## Talk
+## Talk 29
 
 Tighnari: I should find someone to keep watch near Pardis Dhyai tomorrow...
 
-## Talk
+## Talk 30
 
 Candace: I hope the Dendro Archon didn't see through us just now... I wish we got the chance to ask her about the gem.
 
-## Talk
+## Talk 31
 
 Faruzan: Poor Kaveh, getting scolded by a senior like that... I should treat him to a nice meal next time.
 
-## Talk
+## Talk 32
 
 Kaveh: We were just acting, but now I can't stop thinking about all the changes I could make to the design... *sigh* Maybe I need a break from commissions...
 
-## Talk
+## Talk 33
 
 Layla: Wait... did I miss a variable? Don't tell me... I have to start from scratch...?
 Traveler: Is everything okay, Layla?
@@ -247,7 +337,7 @@ Layla: Yeah... you're right...
 Layla: Even the tiniest stars possess their own light. Keep shining, and eventually there will be people who see it... I just need to pick myself up and use another method to run the numbers.
 Traveler: The Dendro Archon can already tell how hard you work.
 
-## Talk
+## Talk 34
 
 Cyno: Ah, you must be Hat Guy. I've heard Sethos talk about you recently.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: And you must be the General Mahamatra. Don't tell me you're also in the habit of convincing people to go to festivals...
@@ -263,7 +353,7 @@ Cyno: Do you know what would happen if you did play?
 Cyno: You'd beat me three times in a row... a real "hat trick."
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
 
-## Talk
+## Talk 35
 
 Sorush: You there, Leaf Hat. I have a question.
 Arasaka: Arasaka... Leaf Hat?
@@ -277,7 +367,7 @@ Arasaka: We can practice Ararakalari together, and find lots and lots of "tracer
 Sorush: Ah... well... okay...
 Sorush: (Have I been stuck at the Oasis for too long? It's like I can't understand the language of the outside world anymore... Whatever he said sounded impressive, though.)
 
-## Talk
+## Talk 36
 
 Sethos: You do know you were invited to the Akademiya party, right? You're really not gonna show your face?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Heh, I don't remember doing anything worth getting invited. It's just another noisy room of people... Not my scene.
@@ -290,7 +380,7 @@ Sethos: Hah, believe it or not, I do know when to keep my mouth shut. But, since
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: For the love of... Fine. Show me the way.
 
-## Talk
+## Talk 37
 
 Layla: Everyone looks so happy... The experience is different from gazing at the starry sky, but still... what a sight to behold.
 Traveler: Layla?
@@ -300,7 +390,7 @@ Layla: "Interactions between stars can lend immense strength to involved bodies,
 Layla: "Real life mirrors astronomy in this way. You never know what miracles can be achieved when two people seem to resonate at the same frequency. This author speaks from personal experience."
 Layla: As for me... I'll take a picture to capture this moment and put it on her desk.
 
-## Talk
+## Talk 38
 
 Layla: Everyone looks so happy... The experience is different from gazing at the starry sky, but still... what a sight to behold.
 Traveler: Layla?
@@ -308,7 +398,7 @@ Layla: It's me. Layla just managed to submit her paper, so she's resting now.
 Layla: It's a pity she missed this year's Parade. But, her work ethic is truly commendable.
 Layla: I'll take a picture to capture this moment and put it on her desk.
 
-## Talk
+## Talk 39
 
 Candace: I hope the sand didn't get into your sleeves, Traveler. Here, have a seat.
 Traveler: Are you busy?
@@ -326,7 +416,7 @@ Candace: You see? Look at the sky... Another beautiful day is just around the co
 Traveler: I've got something else to do right now...
 Candace: In any case, even when the festivities end, that joy stays with us.
 
-## Talk
+## Talk 40
 
 Nahida: You're back! Here, let's share this Candied Ajilenakh Nut.
 Traveler: Were you waiting for me?
@@ -346,7 +436,7 @@ Nahida: After all, it's not the food that makes a banquet. It's the company!
 Traveler: I should go...
 Nahida: Okay! Who knows... Maybe the next time you see me, it'll be in one of your dreams, hehe!
 
-## Talk
+## Talk 41
 
 Masud: Dear traveler from afar, how has your Rocking Carriage experience been?
 Traveler: Gotta give it another try first.
@@ -397,7 +487,7 @@ Masud: Ahem, right, enough dwelling on the past... Anyway, I will do my best to 
 Traveler: We can talk later. I've got other things to do right now...
 Masud: No issue. The joys of toys await you anytime!
 
-## Talk
+## Talk 42
 
 Dharmakirti: Thanks for your assistance. This clinical trial is of great importance, so let me know once you're ready.
 Traveler: I'm ready.
@@ -405,32 +495,32 @@ Traveler: I'm not quite ready yet.
 Dharmakirti: No worries. We'll only start once you're good to go.
 Dharmakirti: Once both you and the patient have awoken from the dream, we will continue to follow up with the patient over the long term. If the therapy produces good results, we should be able to detect long-lasting positive effects.
 
-## Talk
+## Talk 43
 
 Collingwood: Sober up? Not gonna happen. Drinking too much may hurt my liver, but drinking too little wounds my heart.
 Collingwood: Ha, it's a toughie, but not drinking just ain't an option.
 
-## Talk
+## Talk 44
 
 Youguang: I've never been this frightened of doing guard work in my life. It's not like I want to tremble like this, but my legs just won't listen.
 Youguang: Oh please, Lord of Geo, save me! Please!
 
-## Talk
+## Talk 45
 
 Higuchi Tetsuya: I must do whatever it takes to finish "Tales of One Hundred Youkai." I promised my readers I would — on my dignity as a youkai novel writer, no less!
 Higuchi Tetsuya: But I've told tales about tengu, and I've talked of bake-danuki... How the heck will I get to one hundred different types!? Youkai are what I need, and fresh ones, new ones!
 
-## Talk
+## Talk 46
 
 Nitesh: This lab's so messy. If only I had an assistant to help me... *sigh* and it's not like I'm getting any younger...
 Nitesh: Should I just retire back to Sumeru in two years or something? I mean, I can't stay here, can I?
 
-## Talk
+## Talk 47
 
 Piyush: Everything must be arranged in some order. That's just one of my principles of design.
 Piyush: All inhuman, asymmetrical architectural designs must be destroyed! Destroyed. With. Prejudice!
 
-## Talk
+## Talk 48
 
 Vihar: Honorable Knight of Flowers, is there any way we might be of service?
 Safi: All you need to do for each fight scene is follow the basic theme of each scene. As the actual moves will be undertaken by a professional such as yourself, you needn't follow our original ideas.
