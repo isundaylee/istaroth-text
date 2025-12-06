@@ -73,7 +73,7 @@ Paimon: #Looks pretty hopeful. Hehe, good work, {REALNAME[ID(2)|SHOWHOST(true)]}
 "Kururuk": —Shwaaaargh!
 Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than before! Gah, we've gotta calm him down real quick...
 
-## Talk 5
+## Talk 6
 
 Traveler: Might as well.
 Paimon: #We're counting on you for Round Two, {REALNAME[ID(2)|SHOWHOST(true)]}!
@@ -81,7 +81,7 @@ Paimon: #We're counting on you for Round Two, {REALNAME[ID(2)|SHOWHOST(true)]}!
 Paimon: Chowed it right down! But...
 Paimon: Uh oh! He's even madder than before! Quick, we gotta calm him down!
 
-## Talk 6
+## Talk 7
 
 "Kururuk": Shrawr...
 Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
@@ -89,7 +89,7 @@ Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kurur
 Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
 Paimon: Which of the two should we go with?
 
-## Talk 7
+## Talk 8
 
 Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -97,19 +97,23 @@ Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
 Paimon: Sh—Should we try the other one, then?
 
-## Talk 8
+## Talk 9
+
+[Missing Talk]: Talk 7501813 could not be retrieved
+
+## Talk 10
 
 Traveler: Let's not go with either for now.
 Paimon: Hmm, that does make sense... Actually, why don't we bring him back to Mazkal now that he's being a bit less rowdy?
 
-## Talk 9
+## Talk 11
 
 "Kururuk": Rrooah...
 Traveler: Is this really a Saurian who still hasn't fully recovered?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo... Rawr! Rawr! Raaawr!
 Paimon: He'd probably be a super tough opponent when he's in tip-top shape... Anyway, let's bring him back to Mazkal while he's being a bit more docile!
 
-## Talk 10
+## Talk 12
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
 Mazkal: You're back! How did it go? Did Kururuk take his medicine?
@@ -129,10 +133,10 @@ Paimon: Sure! Hope Kururuk recovers soon — hopefully without instantly resorti
 Mazkal: As for that... Not to worry, I'll figure something out. And you never know, his temper might improve along with his wounds!
 Traveler: #Not at all, the credit belongs to {REALNAME[ID(2)|SHOWHOST(true)]}.
 
-## Talk 11
+## Talk 98
 
 Mazkal: Missing text (4052817402)
 
-## Talk 12
+## Talk 99
 
 "Kururuk": ...
