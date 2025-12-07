@@ -6,14 +6,20 @@
 "M" (Narrator): Within those memories lived the friends he made in the castle.
 Paimon: Hey, you're all still here! Guess that's proof that Durin's friends from Simulanka really do hold a special place in his heart...
 Flying Squirrel Fairy: Hello again, golden-haired traveler and silver pixie. How fares the little dragon on his journey?
-Traveler: There's been some... complications.
+    Option 1:
+        Traveler: There's been some... complications.
+    Option 2:
+        Traveler: Almost everyone seems to have forgotten who he is.
 Flying Squirrel Fairy: What? But, I still remember him.
 Giraffe King: I haven't forgotten him either!
 Cat in a Box: Neither has this cat in a box.
 Paimon: That's good news! At least Durin's friends still remember him. Okay, we'll just have to find a way to help everyone else remember him too.
 Paimon: Oh, wait, are we missing someone?
 Giraffe King: Ah, you mean that stray cat? He doesn't want to see the little dragon... and he's been hiding from the rest of us too.
-Traveler: A stray cat?
+    Option 1:
+        Traveler: A stray cat?
+    Option 2:
+        Traveler: Ahh... Must be that "wandering" tom.
 Paimon: Seriously, what's his problem? He won't tell Durin what's bothering him in the real world, and now, he's hiding from him in the story world too...
 Flying Squirrel Fairy: His hiding spot's over there, but he won't talk to us. Maybe you could try instead?
 Traveler: Leave it to us.
@@ -30,13 +36,13 @@ Paimon: Whoa! You can't just sneak up on people like that!
 Paimon: Pfft, gotta say, though... This is quite the look for you.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): You can think whatever you want, but this is what I've always looked like.
 Paimon: Huh, and no angry comeback? That's a first...
-Traveler: He's probably just a character from the story.
+    Option 1:
+        Traveler: He's probably just a character from the story.
+    Option 2:
+        Traveler: Not the real Hat Guy.
 Paimon: True... and come to think of it, when everyone made that wish for Durin before, you were the only one who wasn't there.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): Pfft, and why would he need my help with a childish thing like that? If he ever runs into real trouble, he knows where to come looking.
 Paimon: Hmph... He might not be the real Hat Guy, but he's definitely "in-character"...
-Traveler: Not the real Hat Guy.
-Traveler: Ahh... Must be that "wandering" tom.
-Traveler: Almost everyone seems to have forgotten who he is.
 
 ## Talk 1
 

@@ -24,7 +24,10 @@ Jinwu: The analyses that the Qixing commissioned us to conduct reveal that they 
 Paimon: #Huh, look over there! That crystal looks just like the Adjuvant you have with you, Traveler!
 Paimon: #Why don't you take the Lumenstone Adjuvant and have a look, Traveler?
 Jinwu: That's right. The Adjuvant is made of the same material as these crystals. These formations will thus naturally react to one another on account of that similarity.
-Traveler: How very strange...
+    Option 1:
+        Traveler: How very strange...
+    Option 2:
+        Traveler: That's pretty amazing...
 Paimon: Hey, is that all you have to say?
 Jinwu: Um, don't fight, you two...
 Traveler: We're not fighting...
@@ -45,11 +48,12 @@ Jinwu: That's why I believe that he must be alive in here somewhere, even now...
 Jinwu: I'll point you to a few places where he was sighted before we dispersed... Who knows? You might still be able to find some clues there.
 Zhiqiong: As for me, I'll be exploring the deeper parts of the mining caverns.
 Jinwu: Oh yes, don't forget your candy, now!
-Traveler: You're not coming with us?
-Jinwu: She still needs to help us draw some maps. The pathways of The Chasm's underground mines are intricate and complex, and we won't get very far at all without those maps.
-Traveler: Stay safe.
-Zhiqiong: I'll be fine. It's not like I'm an amateur or anything. Don't you worry about me!
-Traveler: That's pretty amazing...
+    Option 1:
+        Traveler: You're not coming with us?
+        Jinwu: She still needs to help us draw some maps. The pathways of The Chasm's underground mines are intricate and complex, and we won't get very far at all without those maps.
+    Option 2:
+        Traveler: Stay safe.
+        Zhiqiong: I'll be fine. It's not like I'm an amateur or anything. Don't you worry about me!
 
 ## Talk 4
 
@@ -65,7 +69,11 @@ Jinwu: Huh. That's weird, and a familiar sort of weird, too. Let's head back to 
 Jinwu: Here we are. Strange... where'd Zhiqiong run off to...
 Jinwu: Hey! Zhiqiong! Zhiqiong!
 Jinwu: *sigh* I'll wager she's gone running off to some other corner of this place to draw her maps again...
-Traveler: What's up?
+    Option 1:
+        Traveler: What's up?
+    Option 2:
+        Traveler: Is Zhiqiong in danger?
+        Jinwu: Not yet, no. But if she keeps running off without informing me, she will be quite soon!
 Jinwu: She drew this just after you left.
 Jinwu: She's probably gone deeper in to explore. Please tell her for me that she should quit leaving everyone else behind to go running off by herself.
 Jinwu: If anything bad happens, we're all gonna get dragged down with her. Jinwu's fist will know no mercy, I tell you.
@@ -75,8 +83,6 @@ Jinwu: Alright, then. Less idle talk, more action. You can either help me set up
 Jinwu: Sorry if I'm not the most courteous character. I just want the things I do to be of use to everyone.
 Jinwu: Ah yes, by the way, if you see some raw Lumenstone ore along the way, bring some to me.
 Jinwu: I will find some way to turn them into more effective Adjuvants. As far as my experience can tell me, these things will be very useful down in the mines.
-Traveler: Is Zhiqiong in danger?
-Jinwu: Not yet, no. But if she keeps running off without informing me, she will be quite soon!
 
 ## Talk 6
 
@@ -91,14 +97,18 @@ Please Note!: "Do not use any heavy machinery to move the Lumenspar discovered i
 ## Talk 8
 
 Zhiqiong: #Ah, it's you, Traveler! You're here!
-Traveler: Jinwu has some words for you...
-Zhiqiong: It's that whole spiel about safety again, isn't it? I'm sick of hearing it already.
-Zhiqiong: I grew up in the mines too. What wouldn't I know about the hazards down here, huh?
-Zhiqiong: As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead.
-Zhiqiong: I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?
-Zhiqiong: If Iris was able to scare you off climbing Dragonspine just by giving you the standard safety talk, you would've missed out on so much adventure!
-Zhiqiong: Alright, stop trying to persuade me. I don't want to argue with you over something this dumb. Can we just, you know, change the topic?
-Zhiqiong: I mean, look over here. I'm currently studying the terrain over here, all the better to draw our maps...
+    Option 1:
+        Traveler: Jinwu has some words for you...
+        Zhiqiong: It's that whole spiel about safety again, isn't it? I'm sick of hearing it already.
+        Zhiqiong: I grew up in the mines too. What wouldn't I know about the hazards down here, huh?
+        Zhiqiong: As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead.
+        Zhiqiong: I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?
+        Zhiqiong: If Iris was able to scare you off climbing Dragonspine just by giving you the standard safety talk, you would've missed out on so much adventure!
+        Zhiqiong: Alright, stop trying to persuade me. I don't want to argue with you over something this dumb. Can we just, you know, change the topic?
+        Zhiqiong: I mean, look over here. I'm currently studying the terrain over here, all the better to draw our maps...
+    Option 2:
+        Traveler: What are you doing here again?
+        Zhiqiong: Well, didn't I just say so? I'm studying the terrain and drawing a map.
 Zhiqiong: It's just that... I found that the way ahead is blocked by some... strange stuff.
 Zhiqiong: If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased.
 Zhiqiong: I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!
@@ -108,11 +118,11 @@ Traveler: You just drew a bunch of Xs and lines...
 Zhiqiong: Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography.
 Zhiqiong: But it's alright, I will follow you and show the way ahead.
 Zhiqiong: We can approach any of these few locations first, so pick whichever you like.
-Traveler: In that case, let's go.
-Traveler: Be careful while we're on the move.
-Zhiqiong: Thanks for your concern! I'll keep that in mind.
-Traveler: What are you doing here again?
-Zhiqiong: Well, didn't I just say so? I'm studying the terrain and drawing a map.
+    Option 1:
+        Traveler: In that case, let's go.
+    Option 2:
+        Traveler: Be careful while we're on the move.
+        Zhiqiong: Thanks for your concern! I'll keep that in mind.
 
 ## Talk 9
 
@@ -125,8 +135,10 @@ Zhiqiong: Alright, I won't keep you any longer.
 ## Talk 10
 
 Jinwu: Ah, you're here. What is it? Would you like me to refine your Lumenstone Adjuvant?
-Traveler: Refine the Adjuvant
-Traveler: See you.
+    Option 1:
+        Traveler: Refine the Adjuvant
+    Option 2:
+        Traveler: See you.
 
 ## Talk 11
 
@@ -185,44 +197,160 @@ Damaged Logs: "...Purple-black mud... below... people... something came through 
 ## Talk 21
 
 Exploration Team Campsite Noticeboard (Simple Bulletin Board): "We, the Chasm Exploration Team, have made this place our temporary base camp. All members, please pay attention to act within safety parameters at all times. Do not act alone without permission, and do not touch any unknown materials within the depths of The Chasm!"
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
-Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
-Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
-Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
-Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
-Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Incomplete Note): (The edges of this incomplete sheet of paper have been charred a deep brown. It seems that someone read this under torchlight without keeping a safe distance...)
-Exploration Team Campsite Noticeboard (Incomplete Note): "All miners have been equipped with specialized crystal lamps, so please do not bring flaming torches down into the mines. Additionally, professionals will direct you as to where you might start a fire. Please do not strike camp by yourself if you are unfamiliar with the terrain..."
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Miner's Message): "Please observe strict order while you disperse. Take your personal belongings with you and do not panic. Once the signal arrives from the surface, you may start leaving gradually in small groups!"
-Exploration Team Campsite Noticeboard (Miner's Message): "As for all those who have gone too near to the 'crystal fragment,' please report to the medical team immediately, regardless of whether you had a negative reaction or not, and leave The Chasm as soon as possible!"
-Exploration Team Campsite Noticeboard (Miner's Message): "Comrades, please do not panic and follow the higher-ups' announcements!"
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Covered Message): (This announcement and the messages written under it have been partially covered by newer notices. This might have been put up not long after the mines were sealed.)
-Exploration Team Campsite Noticeboard (Covered Message): "After the 'crystal fragment' was discovered, the amount of Lumenstone Ore present increased rapidly. As for its benefits or potential risks, we require the exploration team to further confirm them..."
-Traveler: Continue Reading...
-Exploration Team Campsite Noticeboard (Battered Namelist): (This old namelist seems to have been left here by the very first exploration team sent after the mine was sealed.)
-Exploration Team Campsite Noticeboard (Battered Namelist): "We would like to invite the following professional staff to set up camp here to take samples, do research and learn how we might appropriately utilize Lumenstone:"
-Exploration Team Campsite Noticeboard (Battered Namelist): "...Deputy Research Director, Jinwu. Experiment Assistant, Azadi... Explorers, He Zhi, He Wei..."
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
-Traveler: Leave
+    Option 1:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
+        Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (The edges of this incomplete sheet of paper have been charred a deep brown. It seems that someone read this under torchlight without keeping a safe distance...)
+        Exploration Team Campsite Noticeboard (Incomplete Note): "All miners have been equipped with specialized crystal lamps, so please do not bring flaming torches down into the mines. Additionally, professionals will direct you as to where you might start a fire. Please do not strike camp by yourself if you are unfamiliar with the terrain..."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Miner's Message): "Please observe strict order while you disperse. Take your personal belongings with you and do not panic. Once the signal arrives from the surface, you may start leaving gradually in small groups!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "As for all those who have gone too near to the 'crystal fragment,' please report to the medical team immediately, regardless of whether you had a negative reaction or not, and leave The Chasm as soon as possible!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "Comrades, please do not panic and follow the higher-ups' announcements!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Covered Message): (This announcement and the messages written under it have been partially covered by newer notices. This might have been put up not long after the mines were sealed.)
+        Exploration Team Campsite Noticeboard (Covered Message): "After the 'crystal fragment' was discovered, the amount of Lumenstone Ore present increased rapidly. As for its benefits or potential risks, we require the exploration team to further confirm them..."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Battered Namelist): (This old namelist seems to have been left here by the very first exploration team sent after the mine was sealed.)
+        Exploration Team Campsite Noticeboard (Battered Namelist): "We would like to invite the following professional staff to set up camp here to take samples, do research and learn how we might appropriately utilize Lumenstone:"
+        Exploration Team Campsite Noticeboard (Battered Namelist): "...Deputy Research Director, Jinwu. Experiment Assistant, Azadi... Explorers, He Zhi, He Wei..."
+    Option 2:
+        Traveler: Leave
+    Option 3:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Leave
+    Option 4:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Leave
+    Option 5:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Leave
+    Option 6:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Leave
+    Option 7:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
+        Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
+        Traveler: Leave
+    Option 8:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
+        Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (The edges of this incomplete sheet of paper have been charred a deep brown. It seems that someone read this under torchlight without keeping a safe distance...)
+        Exploration Team Campsite Noticeboard (Incomplete Note): "All miners have been equipped with specialized crystal lamps, so please do not bring flaming torches down into the mines. Additionally, professionals will direct you as to where you might start a fire. Please do not strike camp by yourself if you are unfamiliar with the terrain..."
+        Traveler: Leave
+    Option 9:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
+        Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (The edges of this incomplete sheet of paper have been charred a deep brown. It seems that someone read this under torchlight without keeping a safe distance...)
+        Exploration Team Campsite Noticeboard (Incomplete Note): "All miners have been equipped with specialized crystal lamps, so please do not bring flaming torches down into the mines. Additionally, professionals will direct you as to where you might start a fire. Please do not strike camp by yourself if you are unfamiliar with the terrain..."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Miner's Message): "Please observe strict order while you disperse. Take your personal belongings with you and do not panic. Once the signal arrives from the surface, you may start leaving gradually in small groups!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "As for all those who have gone too near to the 'crystal fragment,' please report to the medical team immediately, regardless of whether you had a negative reaction or not, and leave The Chasm as soon as possible!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "Comrades, please do not panic and follow the higher-ups' announcements!"
+        Traveler: Leave
+    Option 10:
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Recently, we have discovered an unknown black mud-like substance in part of the main mining area. It is exceedingly dangerous. All spelunkers must be on double guard. Be sure to avoid areas tainted by this substance. If you have any questions, please ask Zhiqiong to show you the way around."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Message): "Taliesin's shoes have gotten wet. Could we ask the resupply team to send down some changes of clothes and shoes?"
+        Exploration Team Campsite Noticeboard (Message): "Also, Jinwu needs a set of backup tools with which to process the Lumenstone Adjuvants. Could the resupply team please send these over as soon as possible? Thanks!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (This half-torn sheet of paper is filled with complex mathematical workings and geometry. They seem to have something to do with astrology...)
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Memo): "The 'Mountainator' cannon within the main mining area seems to remain undamaged. We should be able to use this to open up a path and save ourselves significant amounts of time exploring this place."
+        Exploration Team Campsite Noticeboard (Memo): "However, we need to first clear the area of roving bandits. Fortunately, there's good news: the Millelith are already on the move cutting off their links with Treasure Hoarders on the surface."
+        Exploration Team Campsite Noticeboard (Memo): "If their connection to the surface is cut, the Treasure Hoarders underground will likely fall back of their own accord..."
+        Exploration Team Campsite Noticeboard: "We need more supplies of vegetables. Also, having stayed down here without sunlight for too long, everyone needs eggs, mushrooms, and fish to keep themselves nourished."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Old Notice): (This notice is very old indeed. It seems to have been put up by miners well before the exploration team ever arrived on the scene.)
+        Exploration Team Campsite Noticeboard (Old Notice): "The mines are a sprawling, complex place. Ensure that you carry a finch cage with you at all times while navigating any narrow spaces within in case of any leakage of poisonous or flammable gasses! Do not forget what our comrade Erge taught us!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Incomplete Note): (The edges of this incomplete sheet of paper have been charred a deep brown. It seems that someone read this under torchlight without keeping a safe distance...)
+        Exploration Team Campsite Noticeboard (Incomplete Note): "All miners have been equipped with specialized crystal lamps, so please do not bring flaming torches down into the mines. Additionally, professionals will direct you as to where you might start a fire. Please do not strike camp by yourself if you are unfamiliar with the terrain..."
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Miner's Message): "Please observe strict order while you disperse. Take your personal belongings with you and do not panic. Once the signal arrives from the surface, you may start leaving gradually in small groups!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "As for all those who have gone too near to the 'crystal fragment,' please report to the medical team immediately, regardless of whether you had a negative reaction or not, and leave The Chasm as soon as possible!"
+        Exploration Team Campsite Noticeboard (Miner's Message): "Comrades, please do not panic and follow the higher-ups' announcements!"
+        Traveler: Continue Reading...
+        Exploration Team Campsite Noticeboard (Covered Message): (This announcement and the messages written under it have been partially covered by newer notices. This might have been put up not long after the mines were sealed.)
+        Exploration Team Campsite Noticeboard (Covered Message): "After the 'crystal fragment' was discovered, the amount of Lumenstone Ore present increased rapidly. As for its benefits or potential risks, we require the exploration team to further confirm them..."
+        Traveler: Leave
 
 ## Talk 22
 
@@ -244,15 +372,43 @@ Billboard: "Watch your step!"
 ### Additional Talk 1
 
 Zhiqiong: #Ah, it's you, Traveler! You're here!
-Traveler: Jinwu has some words for you...
-Traveler: What are you doing here again?
-Zhiqiong: It's that whole spiel about safety again, isn't it? I'm sick of hearing it already.
-Zhiqiong: I grew up in the mines too. What wouldn't I know about the hazards down here, huh?
-Zhiqiong: As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead.
-Zhiqiong: I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?
+    Option 1:
+        Traveler: Jinwu has some words for you...
+        Zhiqiong: It's that whole spiel about safety again, isn't it? I'm sick of hearing it already.
+        Zhiqiong: I grew up in the mines too. What wouldn't I know about the hazards down here, huh?
+        Zhiqiong: As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead.
+        Zhiqiong: I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?
+        [Missing Dialog 710370507]
+    Option 2:
+        Traveler: What are you doing here again?
+        Zhiqiong: Well, didn't I just say so? I'm studying the terrain and drawing a map.
+        Zhiqiong: It's just that... I found that the way ahead is blocked by some... strange stuff.
+        Zhiqiong: If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased.
+        Zhiqiong: I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!
+        Zhiqiong: Also, there are a few other spots... Yup. Here, and here. I found the tracks of Treasure Hoarders in these areas...
+        Paimon: Sorry, which place is where now? Paimon didn't understand you at all!
+        Traveler: You just drew a bunch of Xs and lines...
+        Zhiqiong: Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography.
+        Zhiqiong: But it's alright, I will follow you and show the way ahead.
+        Zhiqiong: We can approach any of these few locations first, so pick whichever you like.
+        Traveler: In that case, let's go.
+    Option 3:
+        Traveler: What are you doing here again?
+        Zhiqiong: Well, didn't I just say so? I'm studying the terrain and drawing a map.
+        Zhiqiong: It's just that... I found that the way ahead is blocked by some... strange stuff.
+        Zhiqiong: If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased.
+        Zhiqiong: I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!
+        Zhiqiong: Also, there are a few other spots... Yup. Here, and here. I found the tracks of Treasure Hoarders in these areas...
+        Paimon: Sorry, which place is where now? Paimon didn't understand you at all!
+        Traveler: You just drew a bunch of Xs and lines...
+        Zhiqiong: Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography.
+        Zhiqiong: But it's alright, I will follow you and show the way ahead.
+        Zhiqiong: We can approach any of these few locations first, so pick whichever you like.
+        Traveler: Be careful while we're on the move.
+        Zhiqiong: Thanks for your concern! I'll keep that in mind.
+
 Zhiqiong: Alright, stop trying to persuade me. I don't want to argue with you over something this dumb. Can we just, you know, change the topic?
 Zhiqiong: I mean, look over here. I'm currently studying the terrain over here, all the better to draw our maps...
-Zhiqiong: Well, didn't I just say so? I'm studying the terrain and drawing a map.
 Zhiqiong: It's just that... I found that the way ahead is blocked by some... strange stuff.
 Zhiqiong: If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased.
 Zhiqiong: I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!
@@ -262,9 +418,11 @@ Traveler: You just drew a bunch of Xs and lines...
 Zhiqiong: Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography.
 Zhiqiong: But it's alright, I will follow you and show the way ahead.
 Zhiqiong: We can approach any of these few locations first, so pick whichever you like.
-Traveler: In that case, let's go.
-Traveler: Be careful while we're on the move.
-Zhiqiong: Thanks for your concern! I'll keep that in mind.
+    Option 1:
+        Traveler: In that case, let's go.
+    Option 2:
+        Traveler: Be careful while we're on the move.
+        Zhiqiong: Thanks for your concern! I'll keep that in mind.
 
 ### Additional Talk 2
 

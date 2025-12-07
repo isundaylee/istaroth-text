@@ -25,19 +25,31 @@ Paimon: Let Paimon take a look! Hilichurls aren't the brightest, so it might not
 Traveler: ...!
 Paimon: #What is it, Traveler? You look so serious all of a sudden...
 Paimon: Isn't this just a regular old key? Hmm, the style is unusual, though. Doesn't look Natlanese... Where do you think it's from?
-Traveler: This is...
+    Option 1:
+        Traveler: This is...
+    Option 2:
+        Traveler: The key to the Hibernation Chamber on the spaceship.
 Paimon: What do you mean? What hibernation chamber? What spaceship?
 Paimon: *gasp* Wait, you mean... THE spaceship? The one that brought you to Teyvat!?
 Traveler: That's the one.
 Paimon: So... how did that key show up here? Are you sure you didn't just drop it?
-Traveler: No, I still have mine...
+    Option 1:
+        Traveler: No, I still have mine...
+    Option 2:
+        Traveler: ...I've always made sure to keep it safe and sound.
 Paimon: Whoa... Yeah, these look identical... So if one of them's yours, does that mean... the other one is...
-Traveler: There are only two of these.
+    Option 1:
+        Traveler: There are only two of these.
+    Option 2:
+        Traveler: #One belongs to me, and the other, to my sister.
 Paimon: Knew it... Whew, the keys to a spaceship. Huh, somehow, that really rams home the fact that you really are an actual alien... Wait, no, Descender.
 Paimon: ...But anyway, now we know where it came from, the question is — how did it get here? Hmm...
 Paimon: #The simplest explanation is that your sister lost her key somewhere not far from here, then that hilichurl found it and ducked into the nearest cave to hide it...
 Paimon: #If that's true... It means your sister was here recently.
-Traveler: And by extension...
+    Option 1:
+        Traveler: And by extension...
+    Option 2:
+        Traveler: The Abyss Order was probably here as well.
 Paimon: #Yeah... Man, this is so crazy. We only agreed to help with Iansan's patrol on a whim, and now we've made this bombshell discovery and found a huge lead on your sister...
 Paimon: Should we keep following this trail while it's hot? Or do you think we should check back in with Iansan?
 Iansan: Ah, there you are. Looks like you went the extra mile today — thanks for being so diligent.
@@ -57,13 +69,11 @@ Paimon: Based on everything we've seen from them so far, they usually prefer to 
 Iansan: No clue. All we know is that they've attacked our tribe, but that doesn't tell us much.
 Iansan: Our defenses are holding strong so far, so I'm gonna head to the Stadium of the Sacred Flame and see what Mavuika knows. If there is any information out there, she's the one people report to.
 Iansan: #Want to come with me, Traveler? I'm sure everyone will feel better knowing that the hero of Natlan is on the case.
-Traveler: Well, I am keen to find out more about the situation.
+    Option 1:
+        Traveler: Well, I am keen to find out more about the situation.
+    Option 2:
+        Traveler: And I can provide some information on the Abyss Order.
 Iansan: Great, then let's head over together.
-Traveler: And I can provide some information on the Abyss Order.
-Traveler: The Abyss Order was probably here as well.
-Traveler: #One belongs to me, and the other, to my sister.
-Traveler: ...I've always made sure to keep it safe and sound.
-Traveler: The key to the Hibernation Chamber on the spaceship.
 
 ## Talk 4
 
@@ -85,7 +95,10 @@ Mavuika: However, this is still a war, so we must give it our all, and do our ut
 Mavuika: #The tribes are organizing their defenses as we speak. Traveler, this is one war that Natlan can handle on its own. If you wish to stay out of it, you'll be safe here at the Stadium with me.
 Traveler: No, this one is personal for me...
 Mavuika: Oh? In what way...?
-Traveler: The current leader of the Abyss Order...
+    Option 1:
+        Traveler: The current leader of the Abyss Order...
+    Option 2:
+        Traveler: #Is my sister.
 Paimon: Yep, that's how it is.
 Mavuika: I see... My goodness. That is... very personal indeed.
 Mavuika: #If you don't mind me asking, do you have any idea what her goal could be?
@@ -96,15 +109,16 @@ Iansan: I see. So you two have fallen out... Heh, a pretty common occurrence bet
 Paimon: Well, yeah, that may be... But the stakes are a little higher where these two are involved!
 Mavuika: #They certainly are... Although somehow, it doesn't surprise me that a spat between Traveler and twin could affect the fate of the entire world.
 Mavuika: Just so I'm clear — you're still on Natlan's side, and you have no idea what your sibling is after. Is that right?
-Traveler: Absolutely.
+    Option 1:
+        Traveler: Absolutely.
+    Option 2:
+        Traveler: I might even hate the Abyss Order more than you do.
 Mavuika: Haha, well that's a relief. When you first mentioned your sibling, I was worried we were about to be thrust into an impossible position.
 Mavuika: Our reports say that the Abyss Order has focused most of their efforts against the Masters of the Night-Wind.
 Mavuika: If you don't plan on staying here with me, I'd recommend going there to lend them a hand.
 Traveler: Sounds great.
 Iansan: I'll join you. Right now, the Collective of Plenty isn't facing a serious threat, so we should support the other tribes.
 Mavuika: Many thanks, you two. Anything you need, send word to me right away.
-Traveler: I might even hate the Abyss Order more than you do.
-Traveler: #Is my sister.
 
 ## Talk 5
 
@@ -130,13 +144,15 @@ Citlali: The more I thought about it, the angrier I got. I couldn't exactly conc
 Paimon: So that's how they earned the ire of Granny Itztli, huh...
 Citlali: They call themselves the "Abyss Order," yes? So tasteless. It's exactly the kind of two-dimensional name a clueless writer picks because they don't trust the rest of their writing to persuade the reader of who the real villains are...
 Paimon: #Hey, she's saying your sister has poor taste...
-Traveler: I'm just glad I'm not the only one who thinks that.
+    Option 1:
+        Traveler: I'm just glad I'm not the only one who thinks that.
+    Option 2:
+        Traveler: #If I were her, I'd have changed that name long ago.
 Citlali: #Wait, what? Are you saying... his sister is a member of the Abyss Order?
 Citlali: (I only said that because I was mad... but maybe I went too far?)
 Iansan: Hey, let's save the chat for later. We've got some enemies incoming.
 Citlali: Good! A much-needed chance to vent my frustration! And not a moment too soon — things were getting awkward there. Luckily, I'll never have to find out just how badly the rest of that conversation was gonna go.
 Paimon: You didn't have to say that last part out loud, Citlali... Anyway, let's get 'em!
-Traveler: #If I were her, I'd have changed that name long ago.
 
 ## Talk 7
 
@@ -166,12 +182,14 @@ Citlali: So you're saying, there's more to this than meets the eye?
 Iansan: I'm saying we don't know enough to be sure of anything at this stage. So let's stay alert and keep our defenses at the ready.
 Traveler: (So, we're no wiser as to the Abyss Order's objective. Back to square one...)
 Traveler: #(If I could only get Lumine to talk to me, I could get answers for all of us.)
-Traveler: I'm heading back to the Collective of Plenty.
+    Option 1:
+        Traveler: I'm heading back to the Collective of Plenty.
+    Option 2:
+        Traveler: That key is our only lead so far.
 Paimon: Paimon had a hunch you might say that.
 Paimon: But you're right. If we can somehow use that key to track down your sibling, maybe we can end this war before things get serious. And maybe you can finally get some answers.
 Citlali: Wait, you're leaving? But I was still debating whether to invite you to the first victory feast...
 Iansan: Go ahead, you two. Citlali and I will take care of things here.
-Traveler: That key is our only lead so far.
 
 ## Talk 11
 

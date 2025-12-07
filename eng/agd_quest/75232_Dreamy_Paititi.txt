@@ -4,17 +4,23 @@
 ## Talk 1
 
 ???: Hmm... This bitter taste... Did I add too much Flamegrass?
-Traveler: Hey there.
+    Option 1:
+        Traveler: Hey there.
+    Option 2:
+        Traveler: Flamegrass?
 ???: Glowing Hornshrooms... They need to be fermented first, then steamed twice. Hmm... The effect is still too weak...
 Paimon: ...Umm, is she just gonna keep ignoring us?
-Traveler: Flamegrass?
 
 ## Talk 2
 
 Paimon (Strange Flower): (A softly glowing flower bud sways at your touch, pulsing to some silent, secret rhythm...)
 ???: Hey! Hands off, please!
-Traveler: I'm sorry.
-???: You're quite polite. No wonder it doesn't dislike you.
+    Option 1:
+        Traveler: I'm sorry.
+        ???: You're quite polite. No wonder it doesn't dislike you.
+    Option 2:
+        Traveler: It touched me first.
+        ???: Heh, a smooth talker, huh? But... Hmm... It doesn't seem to dislike you.
 Paimon: Hey! Look at the flower! Is it... dancing?
 Traveler: Looks more like... wriggling to me.
 Paimon: Eww! Don't use such disgusting language on a flower! At least say it's "swaying" or something!
@@ -22,11 +28,15 @@ Paimon: Eww! Don't use such disgusting language on a flower! At least say it's "
 ???: That's because Brewblossoms draw in spiritual energy from the land and produce a special nectar that heightens one's sensitivity to dreams.
 ???: Some people... Hmm, how should I put it? They're born with a natural spiritual affinity. So Brewblossoms, which absorb spiritual essence, are naturally more drawn to them. After all, legend says they're plants that act as a bridge between worlds.
 ??? (Atzilli): By the way, I'm "Mad-Eye" Atzilli, a winemaker at the Me & Dew. And who might you be?
-Traveler: #I'm Svetlana Babushka, "Fist of the Beastly Ape."
-Paimon: And Paimon's the "Soaring Hero," Hunter Gordon! Ah...
-??? (Atzilli): Pffft... Did you mean to introduce yourself with both names?
-Paimon: Don't call Paimon out! It's not like your name's any less weird!
-Paimon: #Alright, enough joking! Paimon's Paimon, and this is Traveler!
+    Option 1:
+        Traveler: #I'm Svetlana Babushka, "Fist of the Beastly Ape."
+        Paimon: And Paimon's the "Soaring Hero," Hunter Gordon! Ah...
+        ??? (Atzilli): Pffft... Did you mean to introduce yourself with both names?
+        Paimon: Don't call Paimon out! It's not like your name's any less weird!
+        Paimon: #Alright, enough joking! Paimon's Paimon, and this is Traveler!
+    Option 2:
+        Traveler: #Hello, I'm Traveler.
+        Paimon: And Paimon's Paimon!
 ??? (Atzilli): #Paimon and Traveler, huh? You've got perfect timing! There's actually something I need your help with!
 Paimon: Eh? Anything to do with that... clairvoyance thing you talked about?
 ??? (Atzilli): Ooh, sharp! Here, have a candy.
@@ -42,24 +52,22 @@ Paimon: Hehe, Paimon's on a roll today!
 ??? (Atzilli): But thankfully, you showed up, and it looks like your affinity's much stronger than mine! Hehe, you might just be the answer to my prayers!
 Traveler: Alright, what can I do to help?
 ??? (Atzilli): First, drink this little bottle of nectar extract. Then I'll explain.
-Traveler: It's worth a shot.
-??? (Atzilli): Here. Take this.
+    Option 1:
+        Traveler: It's worth a shot.
+        ??? (Atzilli): Here. Take this.
+    Option 2:
+        Traveler: Uhh... This stuff looks kinda suspicious...
+        ??? (Atzilli): Relax! Theoretically, the worst it can do is blind you!
+        ??? (Atzilli): And hey, if your affinity for clairvoyance is really that great, you'll be fine, even with a bad eye. You've got two, right?
+        Traveler: Well, "eye" protest your ridiculous sense of logic!
+        ??? (Atzilli): Pfft, chill, chill! I'm just joking! You won't go blind. Probably.
+        Paimon: Can we just get started already?!
 Black Screen Text: You down the nectar in one gulp. A strange sweetness, tinged with some putrid pungency, spreads through your body...
 Like a dream long forgotten, unraveling into damp, glimmering mist....
 Black Screen Text: The mist quickly clears, and your vision returns to normal.
 ??? (Atzilli): See? Told you you'd be fine. Now let's get started!
 ??? (Atzilli): There are three flower fields right outside. With your help, I'll be able to spot the tainted Brewblossoms in no time.
 ??? (Atzilli): Follow me. I'll tell you about the tools we're going to use.
-Traveler: Uhh... This stuff looks kinda suspicious...
-??? (Atzilli): Relax! Theoretically, the worst it can do is blind you!
-??? (Atzilli): And hey, if your affinity for clairvoyance is really that great, you'll be fine, even with a bad eye. You've got two, right?
-Traveler: Well, "eye" protest your ridiculous sense of logic!
-??? (Atzilli): Pfft, chill, chill! I'm just joking! You won't go blind. Probably.
-Paimon: Can we just get started already?!
-Traveler: #Hello, I'm Traveler.
-Paimon: And Paimon's Paimon!
-Traveler: It touched me first.
-???: Heh, a smooth talker, huh? But... Hmm... It doesn't seem to dislike you.
 
 ## Talk 3
 
@@ -87,83 +95,319 @@ Black Screen Text: Hmm... Judging by the sample, the purity's spot-on. No sign o
 
 Dambara (???): Purrrr...
 Dambara (???): Meeeow?
-Traveler: Whoa! A kitty!
-Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
-Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
-Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
-Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
-Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
-Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
-Traveler: Easy, kitty. No need to go full beast-mode.
-Dambara: Ha! What's your game? Planning to hurt me? Steal my precious pollen?
-Dambara: ...Meeeow! You scoundrel!
-Traveler: Begone, foul mirage!
-Black Screen Text: You swing your sword at Dambara the Pale, and — Poof! The little cat vanishes...
-Traveler: I'm not here to hurt you. I'm just... ignoring you.
-Dambara: Meow! I knew it you were out for my— Wait, what?
-Dambara: You didn't take any pollen? Or drink any nectar?
-Traveler: Nope. You've got too many weird impurities in your body.
-Dambara: Eh? Uhh... Hmm.
-Dambara: I... I see. Then I must've misunderstood. Sorry about that. If you're not going to hurt me, I won't hurt you either.
-Dambara: Well then... Goodbye.
-Traveler: Please stop. I'm so scared I'm about to cry.
-Traveler: You're just an illusion, aren't you? Guess I'll just have to get rid of you.
-Black Screen Text: You swing your sword at Dambara the Pale, and — poof! The little cat vanishes...
-Traveler: You can't fool me with an illusion. Taste my blade!
-Dambara (???): Meeeow!!!
-Black Screen Text: You swing your sword at the illusion, and — poof! The little cat vanishes...
+    Option 1:
+        Traveler: Whoa! A kitty!
+        Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+        Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
+        Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
+        Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+        Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
+        Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
+        Traveler: Easy, kitty. No need to go full beast-mode.
+        Dambara: Ha! What's your game? Planning to hurt me? Steal my precious pollen?
+        Dambara: ...Meeeow! You scoundrel!
+        Traveler: Begone, foul mirage!
+        Black Screen Text: You swing your sword at Dambara the Pale, and — Poof! The little cat vanishes...
+    Option 2:
+        Traveler: You can't fool me with an illusion. Taste my blade!
+        Dambara (???): Meeeow!!!
+        Black Screen Text: You swing your sword at the illusion, and — poof! The little cat vanishes...
+    Option 3:
+        Traveler: Whoa! A kitty!
+        Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+        Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
+        Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
+        Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+        Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
+        Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
+        Traveler: Please stop. I'm so scared I'm about to cry.
+        Dambara: Ha! What's your game? Planning to hurt me? Steal my precious pollen?
+        Dambara: ...Meeeow! You scoundrel!
+        Traveler: Begone, foul mirage!
+        Black Screen Text: You swing your sword at Dambara the Pale, and — Poof! The little cat vanishes...
+    Option 4:
+        Traveler: Whoa! A kitty!
+        Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+        Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
+        Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
+        Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+        Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
+        Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
+        Traveler: You're just an illusion, aren't you? Guess I'll just have to get rid of you.
+        Black Screen Text: You swing your sword at Dambara the Pale, and — poof! The little cat vanishes...
+    Option 5:
+        Traveler: Whoa! A kitty!
+        Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+        Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
+        Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
+        Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+        Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
+        Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
+        Traveler: Please stop. I'm so scared I'm about to cry.
+        Dambara: Ha! What's your game? Planning to hurt me? Steal my precious pollen?
+        Dambara: ...Meeeow! You scoundrel!
+        Traveler: I'm not here to hurt you. I'm just... ignoring you.
+        Dambara: Meow! I knew it you were out for my— Wait, what?
+        Dambara: You didn't take any pollen? Or drink any nectar?
+        Traveler: Nope. You've got too many weird impurities in your body.
+        Dambara: Eh? Uhh... Hmm.
+        Dambara: I... I see. Then I must've misunderstood. Sorry about that. If you're not going to hurt me, I won't hurt you either.
+        Dambara: Well then... Goodbye.
+    Option 6:
+        Traveler: Whoa! A kitty!
+        Dambara (???): Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+        Dambara (???): Ugh... Humans... Rude, filthy, stinking humans!
+        Dambara (???): Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
+        Dambara (???): *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+        Dambara: Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
+        Dambara: H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
+        Traveler: Easy, kitty. No need to go full beast-mode.
+        Dambara: Ha! What's your game? Planning to hurt me? Steal my precious pollen?
+        Dambara: ...Meeeow! You scoundrel!
+        Traveler: I'm not here to hurt you. I'm just... ignoring you.
+        Dambara: Meow! I knew it you were out for my— Wait, what?
+        Dambara: You didn't take any pollen? Or drink any nectar?
+        Traveler: Nope. You've got too many weird impurities in your body.
+        Dambara: Eh? Uhh... Hmm.
+        Dambara: I... I see. Then I must've misunderstood. Sorry about that. If you're not going to hurt me, I won't hurt you either.
+        Dambara: Well then... Goodbye.
 
 ## Talk 7
 
 Sir Briannus (???): Hroooo... Woof! Woof, woof!
 Sir Briannus: I am Sir Woofington Briannus, knight of this realm! Pray tell, what names do you bear?
-Traveler: #Just call me Traveler.
-Sir Briannus: #Awoo~ Well met, Sir Traveler! What brings you hither?
-Traveler: I'm looking for the flowers you're guarding.
-Sir Briannus: As I feared. Alas, I have sworn on my blade to forbid outsiders from approaching my squire and maiden.
-Traveler: Squire and maiden... So there are two flowers?
-Sir Briannus: Err, well... biologically speaking, each Brewblossom has both a stamen and a pistil, yes?
-Sir Briannus: So... Technically, a single flower is both squire and maiden at the same time.
-Traveler: Trying to distract me with biology? Not happening — En garde!
-Black Screen Text: You swing your sword at Sir Briannus, and — poof! The big dog vanishes...
-Traveler: That's... oddly progressive.
-Sir Briannus: Woof! Did you just call flowers "progressive"? I'll have you know they predate the very concept!
-Sir Briannus: #Well then, Sir Traveler, it has been a pleasure. But my sworn duty calls — have at thee!
-Black Screen Text: Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
-Traveler: Good doggie, good doggie.
-Sir Briannus: Wroo, rrooh! Woof, woof!
-Traveler: Who's the goodest pet around?
-Sir Briannus: Woof, woof!
-Traveler: It's Paimon, of course!
-Paimon: Huh!?
-Sir Briannus: ...?
-Sir Briannus: You dare mock a knight to his face? I demand a duel!
-Black Screen Text: Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
+    Option 1:
+        Traveler: #Just call me Traveler.
+        Sir Briannus: #Awoo~ Well met, Sir Traveler! What brings you hither?
+        Traveler: I'm looking for the flowers you're guarding.
+        Sir Briannus: As I feared. Alas, I have sworn on my blade to forbid outsiders from approaching my squire and maiden.
+        Traveler: Squire and maiden... So there are two flowers?
+        Sir Briannus: Err, well... biologically speaking, each Brewblossom has both a stamen and a pistil, yes?
+        Sir Briannus: So... Technically, a single flower is both squire and maiden at the same time.
+        Traveler: Trying to distract me with biology? Not happening — En garde!
+        Black Screen Text: You swing your sword at Sir Briannus, and — poof! The big dog vanishes...
+    Option 2:
+        Traveler: Good doggie, good doggie.
+        Sir Briannus: Wroo, rrooh! Woof, woof!
+        Traveler: Who's the goodest pet around?
+        Sir Briannus: Woof, woof!
+        Traveler: It's Paimon, of course!
+        Paimon: Huh!?
+        Sir Briannus: ...?
+        Sir Briannus: You dare mock a knight to his face? I demand a duel!
+        Black Screen Text: Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
+    Option 3:
+        Traveler: #Just call me Traveler.
+        Sir Briannus: #Awoo~ Well met, Sir Traveler! What brings you hither?
+        Traveler: I'm looking for the flowers you're guarding.
+        Sir Briannus: As I feared. Alas, I have sworn on my blade to forbid outsiders from approaching my squire and maiden.
+        Traveler: Squire and maiden... So there are two flowers?
+        Sir Briannus: Err, well... biologically speaking, each Brewblossom has both a stamen and a pistil, yes?
+        Sir Briannus: So... Technically, a single flower is both squire and maiden at the same time.
+        Traveler: That's... oddly progressive.
+        Sir Briannus: Woof! Did you just call flowers "progressive"? I'll have you know they predate the very concept!
+        Sir Briannus: #Well then, Sir Traveler, it has been a pleasure. But my sworn duty calls — have at thee!
+        Black Screen Text: Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
 
 ## Talk 8
 
 Innocent Piggy (???): Oink oink... Mmm... Oink oink...
-Traveler: Let me guess — you can talk?
-Innocent Piggy (???): Oink oink?
-Innocent Piggy (???): Oink... oink...
-Traveler: Oh? And why do you think that?
-Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
-Traveler: I see... Do you have any family?
-Innocent Piggy (???): Oink oink...
-Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
-Paimon: Paimon's pretty sure the flower we're looking for is over there!
-Traveler: Huh? What?
-Innocent Piggy: Oink oink! Oink oink!
-Traveler: This isn't another illusion!?
-Traveler: I also have one person I consider family.
-Innocent Piggy (???): Oink oink! Mmmph, mmph...!
-Traveler: That's a sound argument. I concur!
-Innocent Piggy (???): Oink oink! Oink oink!
-Traveler: #Hello, I'm Traveler.
-Innocent Piggy (???): Oink oink!
-Traveler: You're an illusion, aren't you? Take this!
-Innocent Piggy (???): Oink oink?!
-Black Screen Text: You swing your sword at the forest boar — It gives a loud squeal and then collapses...
+    Option 1:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 2:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 3:
+        Traveler: You're an illusion, aren't you? Take this!
+        Innocent Piggy (???): Oink oink?!
+        Black Screen Text: You swing your sword at the forest boar — It gives a loud squeal and then collapses...
+    Option 4:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 5:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 6:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 7:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 8:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 9:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: Huh? What?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 10:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 11:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 12:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 13:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: That's a sound argument. I concur!
+        Innocent Piggy (???): Oink oink! Oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 14:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 15:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I also have one person I consider family.
+        Innocent Piggy (???): Oink oink! Mmmph, mmph...!
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 16:
+        Traveler: Let me guess — you can talk?
+        Innocent Piggy (???): Oink oink?
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
+    Option 17:
+        Traveler: #Hello, I'm Traveler.
+        Innocent Piggy (???): Oink oink!
+        Innocent Piggy (???): Oink... oink...
+        Traveler: Oh? And why do you think that?
+        Innocent Piggy (???): Oink oink... oink oink! Mmm, mmh... oink oink!
+        Traveler: I see... Do you have any family?
+        Innocent Piggy (???): Oink oink...
+        Paimon: Ahem! Not to interrupt this... beautiful friendship, but...
+        Paimon: Paimon's pretty sure the flower we're looking for is over there!
+        Traveler: This isn't another illusion!?
+        Innocent Piggy: Oink oink! Oink oink!
 
 ## Talk 9
 
@@ -173,14 +417,16 @@ Black Screen Text: You swing your sword at the forest boar — It gives a loud s
 
 Paimon: Atzilli, we're back!
 Paimon: #There were three bad flowers in that field! But, umm... Traveler was acting a little strange. You're okay, right...?
-Traveler: Yeah, I'm fine.
+    Option 1:
+        Traveler: Yeah, I'm fine.
+    Option 2:
+        Traveler: Just pollen-induced hallucinations. No big deal.
 ???: Hallucinations? Then there's no need to worry. It's common for Brewblossoms to release hallucinogenic pollen as a defense mechanism. They must've been especially reactive to you.
 ???: Paimon and I couldn't see what you were seeing because the pollen doesn't affect us the same way.
 ???: #But still... hmm. Traveler, are you experiencing any other symptoms?
 Traveler: Nope. Not yet, anyway...
 ???: All right. You know yourself best, but if anything starts to feel off, please let me know immediately.
 Paimon: Then let's finish up the last field in one go!
-Traveler: Just pollen-induced hallucinations. No big deal.
 
 ## Talk 11
 
@@ -245,13 +491,19 @@ Paimon: Yippee! Free drinks!
 Paimon: Wait, hold on... You're just telling us we're your test subjects...
 ???: Of course! Aren't you honored?
 Paimon: Not at all!
-Traveler: I need to be sure this drink isn't dangerous.
+    Option 1:
+        Traveler: I need to be sure this drink isn't dangerous.
+    Option 2:
+        Traveler: You promised to explain the secret behind it.
 ???: Hmm? Oh, right... I did, didn't I...?
 ???: First off, I have to warn you — Brewblossom extract is highly toxic. But after repeated distillations, I've reduced the toxicity to a level that is tolerable for normal people.
 ???: By "tolerable," I mean to say that a normal person will "die" within about... Hmm, five seconds.
 ???: And when they "die," their soul will wander through a place where the mortal realm and the land of the dead overlap... I guess that's a good enough explanation.
 Paimon: Which part of "die within five seconds" sounds "tolerable" to you!?
-Traveler: So you're saying drinking it will kill me.
+    Option 1:
+        Traveler: So you're saying drinking it will kill me.
+    Option 2:
+        Traveler: It's fine, Paimon! The worst that can happen is that... I... die?
 ???: It's not a true death, per se, because your body will continue to function normally. Unless... you get so lost in the dreamscape that you forget to come back.
 ???: Then my sister and I would have to deal with a still-breathing corpse.
 Paimon: Hey! So this isn't safe to drink at all, is it!?
@@ -261,23 +513,27 @@ Paimon: Hey! So this isn't safe to drink at all, is it!?
 ???: So when you drink it, you won't even notice you've "died" once.
 ???: I'm not exaggerating. Trust me!
 ???: So? Wanna try? Or are you chicken?
-Traveler: I'm not scared of something like that.
-Paimon: #Then... give Paimon one too! No way Traveler's going anywhere without her!
+    Option 1:
+        Traveler: I'm not scared of something like that.
+        Paimon: #Then... give Paimon one too! No way Traveler's going anywhere without her!
+    Option 2:
+        Traveler: That's nothing. I've "died" more times than I can count.
+        Paimon: Hmph... give Paimon one too! She's not going to let you show off on your own!
 ???: Haha, no worries — there's plenty for both of you! Here are your two cups of "Sweet Dream Brew."
 Black Screen Text: After a moment's hesitation, you drink the strange brew.
 The flavor is wondrous yet bizarre, laced with latent spice and a faintly putrid tang...
 Black Screen Text: And then, a hazy dream...
-Traveler: That's nothing. I've "died" more times than I can count.
-Paimon: Hmph... give Paimon one too! She's not going to let you show off on your own!
-Traveler: It's fine, Paimon! The worst that can happen is that... I... die?
-Traveler: You promised to explain the secret behind it.
 
 ### Additional Talk 2
 
 Paimon: Wah! Mi zido mita dada! Mmm~ Yaya dada! Movo dada!
 ???: Olah! Mosi mita yo! Sada mimi dada! Sada domu dada!
-Traveler: Yo ya dala?
-???: I'm your friend, and you're my friend! We're all good friends!
+    Option 1:
+        Traveler: Yo ya dala?
+        ???: I'm your friend, and you're my friend! We're all good friends!
+    Option 2:
+        Traveler: Mi in dala?
+        ???: Oh, you're in a happy place — a very happy place!
 Paimon: Ahaha! Mi zido mita dada!
 Traveler: Sado! Yo beru mimi beru!?
 ???: Haha, what are you talking about? You're the one who started speaking our language!
@@ -290,8 +546,6 @@ Traveler: Mimi muhe!
 ???: Yay! Treasure!
 Paimon: Mosi mita! Mita dada! Hahahahahaha!
 Black Screen Text: Unta dada, yoyo upa, nunu beru valo yoyo...
-Traveler: Mi in dala?
-???: Oh, you're in a happy place — a very happy place!
 
 ### Additional Talk 3
 

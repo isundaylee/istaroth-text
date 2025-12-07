@@ -8,10 +8,12 @@ Paimon: #Look, Traveler! An urgent hiring notice, and they're paying "top Mora,"
 Traveler: Strange... Why would Wangshu Inn suddenly need a new chef?
 Paimon: Hmm... You're right, it is strange. Do you think something happened to Yanxiao? 'Cause that guy barely lets anyone ever set foot in his kitchen... He doesn't exactly seem like the type to hire help.
 Paimon: The notice says interested parties should go upstairs and talk to the innkeeper, Huai'an. Should we go and see what's up?
-Traveler: You want to check up on Yanxiao?
-Paimon: Yeah! And we can ask about the pay while we're at it!
-Traveler: You want to check how much the job pays, don't you?
-Paimon: Uh... Well that, and to check up on Yanxiao, of course!
+    Option 1:
+        Traveler: You want to check up on Yanxiao?
+        Paimon: Yeah! And we can ask about the pay while we're at it!
+    Option 2:
+        Traveler: You want to check how much the job pays, don't you?
+        Paimon: Uh... Well that, and to check up on Yanxiao, of course!
 
 ## Talk 2
 
@@ -34,15 +36,21 @@ Huai'an: But he's not wrong. Yanxiao was one of the favorites in the Masterful C
 Smiley Yanxiao: I don't mean to boast, but any chef of my caliber probably has their own restaurant to look after... It's not gonna be easy to find someone who's got the skills and has the time to help us out.
 Huai'an: Mmm... Looks like we might have to increase the pay we're offering even further...
 Paimon: Hmm... Do we know anyone that's a good chef and has the time to help out...?
-Traveler: Whoever could it be?
+    Option 1:
+        Traveler: Whoever could it be?
+    Option 2:
+        Traveler: Sometimes, the answer you're looking for is right under your nose...
 Paimon: Oh! Of course! You!
 Huai'an: Oh, right! Yes, now I think about it, I do recall hearing good things about your cooking ability. I suppose I'd added you to my mental list of people who can hold their own in a combat situation, but forgot you can cook.
 Paimon: Why are you even keeping a mental list of people who can fight?
 Huai'an: Heh, maybe a story for another time. More importantly — I'm sure Yanxiao would be comfortable leaving his kitchen in your hands, if anyone's. What do you think, Yanxiao?
 Smiley Yanxiao: #Well... Traveler, since it's you... I suppose that's better than anyone else.
 Paimon: #What do you think, Traveler? Should we do it?
-Traveler: You said something about increasing the pay...
-Huai'an: Haha, I did say that, didn't I? Well, I'm a man of my word — you'll be compensated generously for your work.
+    Option 1:
+        Traveler: You said something about increasing the pay...
+        Huai'an: Haha, I did say that, didn't I? Well, I'm a man of my word — you'll be compensated generously for your work.
+    Option 2:
+        Traveler: Never thought I'd see the day when Yanxiao leaves his kitchen...
 Smiley Yanxiao: I should warn you that cooking for customers is quite a different ball game from cooking for yourself. So, I'll stick around the kitchen over the next few days to help smooth things over.
 Paimon: Oh. So he's not leaving the kitchen after all.
 Smiley Yanxiao: I believe there's some spare kitchenware here at the inn. Boss, would you mind...
@@ -53,7 +61,10 @@ Traveler: This carpentry is incredible! You've missed your true calling...
 Huai'an: Ah, it's nothing. A little handicraft and elbow grease goes a long way! Alright, Yanxiao, I'll leave you to take it from here.
 Paimon: You really went to all the trouble of building a new stovetop? What was wrong with the original? Boy, you really hate when people touch your stuff, huh?
 Smiley Yanxiao: No, it's nothing like that. As Boss always says, hire who you trust and trust who you hire. I just thought the original setup might be a little, um... tall for you.
-Traveler: Well, everyone looks short compared to you...
+    Option 1:
+        Traveler: Well, everyone looks short compared to you...
+    Option 2:
+        Traveler: I don't think it would be that big of a problem.
 Smiley Yanxiao: Ahem... Anyway, as I was saying, cooking for guests is different from cooking for yourself. Not only do you have to execute on taste, aroma, and appearance, but you also need to ensure speed, precision, and consistency.
 Smiley Yanxiao: Having the right equipment is a big part of that. Ill-suited equipment doesn't just make the job more tiring, it also slows you down, and paying customers don't have unlimited patience.
 Smiley Yanxiao: Sometimes, cooking is all about being well-prepared. That's how you ensure speed.
@@ -67,9 +78,6 @@ Smiley Yanxiao: You have to cater to their own dietary needs while also giving t
 Paimon: Uh, this last point is making Paimon's head spin...
 Smiley Yanxiao: #Don't worry, Traveler. Matter of fact, someone as well-traveled as you may even have a better handle on it than me once you get started.
 Smiley Yanxiao: And, of course, I'll be around to help you over the next few days. I don't think we'll have any trouble making all our guests feel right at home!
-Traveler: I don't think it would be that big of a problem.
-Traveler: Never thought I'd see the day when Yanxiao leaves his kitchen...
-Traveler: Sometimes, the answer you're looking for is right under your nose...
 
 ## Talk 3
 
@@ -81,7 +89,10 @@ Smiley Yanxiao: There's no time to lose, so let's get started! I imagine you pro
 Paimon: Oh, Paimon's memory is like a steel trap! This is gonna be a cinch!
 Black Screen Text: At the end of the day...
 Paimon: Uhh... Which ticket are we on again? Table 1 was onions, but no chilis, table 2 was chilis, but no onions... And table 3 was... Uh, table 3 was chilis, but hold the chilis...
-Traveler: All the guests have already finished eating...
+    Option 1:
+        Traveler: All the guests have already finished eating...
+    Option 2:
+        Traveler: Snap out of it, Paimon...
 Paimon: Ah! ...Was Paimon just sleep-floating?
 Traveler: You've been talking nonsense since about halfway through the day.
 Paimon: Ugh, we didn't even get a break in the middle. Paimon's brain has turned to mush. Is it always this busy here?
@@ -127,7 +138,6 @@ Traveler: No problem. What would you like?
 Lyney: Good question... I doubt we'll be able to decipher the menu, so why don't you recommend something? You should be pretty familiar with our tastes?
 Traveler: ...Okay, I'll figure something out.
 Lynette: Ah, one more thing... please, if you have a heart, don't make it spicy.
-Traveler: Snap out of it, Paimon...
 
 ## Talk 5
 
@@ -165,13 +175,15 @@ Paimon: According to the creator, "Chewy crab complements succulent shrimp, maki
 Paimon: The crab roe glitters like pearls of gold and the shrimp shines like chunks of jade... Hence its name, "The Palace Jewels"!
 Lyney: So that's where the name comes from. I suppose it's quite fitting then.
 Freminet: Huh... Was Paimon always this well-spoken?
-Traveler: She just memorized what the recipe said.
+    Option 1:
+        Traveler: She just memorized what the recipe said.
+    Option 2:
+        Traveler: She's just regurgitating what someone else wrote.
 Lyney: This dish must be right up your alley, Lynette... Huh?
 Paimon: Ah! It's half gone already!? When did that happen?
 Traveler: Probably when you were busy yapping away...
 Lynette: I heard that in Liyue, the biggest compliment you can pay to the chef is to leave a clean plate. It's delicious, thank you ever so much.
 Paimon: Wait, don't fight over it! Hey, leave some for Paimon!
-Traveler: She's just regurgitating what someone else wrote.
 
 ## Talk 8
 
@@ -192,9 +204,11 @@ Huai'an: #Why, Traveler, this year's off to a good start, wouldn't you say?
 Lyney: ...Lynette's not usually so forthcoming about what she likes. But this time... well, she's expressed it in more ways than one. I guess you've rubbed off on her, too...
 Lyney: Hehe, or maybe your cooking is simply too delicious to resist.
 Lyney: The next time our paths cross in Fontaine, you'll have to fire up your cooking skills for my other siblings as well. How does that sound, oh great master chef?
-Traveler: Whatever you say, oh great magician.
+    Option 1:
+        Traveler: Whatever you say, oh great magician.
+    Option 2:
+        Traveler: Whenever you're free, just set the date!
 Lyney: Oh yeah? Well then, I'll have to clear my schedule.
-Traveler: Whenever you're free, just set the date!
 
 ### Additional Talk 3
 

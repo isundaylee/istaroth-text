@@ -13,7 +13,10 @@ Traveler: Let's go.
 ## Talk 3
 
 Giulietta (???): Do you two happen to be heading to sea as well? If so, please, could I trouble you to bring me along to Bayda Harbor?
-Traveler: My Waverider's pretty small...
+    Option 1:
+        Traveler: My Waverider's pretty small...
+    Option 2:
+        Traveler: Sorry, but I don't intend to go out to sea right now.
 Giulietta (???): Ah, I see... Oh dear, this is going to be a toughie...
 Paimon: Well, if it's really urgent, we could still help...
 Giulietta: Oh! What kind souls you are! In any case, my name's Giulietta, and I sell instruments.
@@ -25,7 +28,6 @@ Paimon: Th—Three times!?
 Traveler: You sure are generous, huh?
 Giulietta: Well, it's a matter of trust and reputation. This is life and death for us businesspeople.
 Paimon: W—Well, sure seems that way...
-Traveler: Sorry, but I don't intend to go out to sea right now.
 
 ## Talk 4
 
@@ -70,7 +72,10 @@ Giustino (???): Well... I left home when I was young, and I haven't been back si
 Giustino: Well, since you've come from there, could you tell me how things have been going? ... Right, I forgot to introduce myself. Just call me Giustino.
 Paimon: #Hello there, Giustino. Paimon's name's Paimon, and this is Traveler. And you've come to the right people — we have a "deep" understanding of Petrichor, after all!
 Paimon: (Hmm, wouldn't he think we're crazy if we told him that we followed a cat and wound up disrupting an ancient plot and resolving the crisis in his hometown, though?)
-Traveler: (Well, those things did happen, but...)
+    Option 1:
+        Traveler: (Well, those things did happen, but...)
+    Option 2:
+        Traveler: (It would sound like pure nonsense...)
 Paimon: Uh, Petrichor's doing great! How great, you ask? As great as before, that's how!
 Giustino: Really? Just as before, then? That's good, that's good...
 Paimon: Speaking of which, wouldn't it be better for you to go, since you're a local, rather than rely on us outsiders?
@@ -87,7 +92,6 @@ Giustino: Triple!?
 Paimon: That's right! The lady we just ferried over had urgent business to attend to, so she paid us triple for the ride!
 Giustino: Well... I should have enough for that. Alright, I'll pay you triple too. "Strike while the iron is hot," as they say — since I've decided to return home, any delay will be detrimental.
 Paimon: Well, we're not exactly professional boatmen or anything... But hehe, such premiums are tough to refuse!
-Traveler: (It would sound like pure nonsense...)
 
 ## Talk 11
 
@@ -129,10 +133,12 @@ Paimon: That's right! Have you seen him? Wait — were you two acquainted from b
 Giovanni: Just acquainted? Hah!
 Giovanni: Still, even if I recognize him, I wonder if he still recognizes his little brother. So many years away, and not a letter sent back. Why, I've already had a tombstone erected for him behind the town!
 Giovanni: And now he's back... and he hasn't paid his boat fare? Disgraceful.
-Traveler: Disgraceful indeed.
+    Option 1:
+        Traveler: Disgraceful indeed.
+    Option 2:
+        Traveler: We shouldn't comment too much as outsiders...
 Paimon: W—Wait, but we're... the victims here, aren't we? And if Giustino really did faint from discomfort somewhere...
 Giovanni: *sigh* Fine, I'll go search together with you. I'm a local, so I know our surroundings better. Also, I have some idea as to where he'll be.
-Traveler: We shouldn't comment too much as outsiders...
 
 ### Additional Talk 4
 
@@ -151,8 +157,12 @@ Giovanni: #Please, Traveler! Don't let him hurt Giustino! Only you can stop him 
 ### Additional Talk 5
 
 Agent: H—Hired help!? Seriously, would you rather pay through the nose for a powerful bodyguard than just follow a contract? I'll... never understand you merchants...
-Traveler: No, I just couldn't control myself after seeing your uniform...
-Agent: ...Huh!?
+    Option 1:
+        Traveler: No, I just couldn't control myself after seeing your uniform...
+        Agent: ...Huh!?
+    Option 2:
+        Traveler: Actually, I'm also here to collect a debt.
+        Paimon: That's right! He hasn't paid us our triple boat fare either!
 Paimon: ...But y'know, if he's in this much debt, it seems unlikely that we'll get paid at all...
 Giustino: No, I... still have enough for the boat fare. I counted — I should be fine on that front.
 Giovanni: Then what about the contract and debt he speaks of? Is that, perchance, the "souvenir" you're giving us after more than ten years?
@@ -175,8 +185,11 @@ Giustino: *sigh* Forget it.
 Agent: Hold on. If this had nothing to do with you, then why did you run?
 Giustino: "I'm sorry, but I really don't remember," I said that, didn't I? But you sounded so aggressive and looked so frightening. What was I going to do except run?
 Agent: Well, this is my first job — one to remember! Of course I had to double my enthusiasm!
-Traveler: To the point that you showed up three days in advance?
-Paimon: You were way too anxious!
+    Option 1:
+        Traveler: To the point that you showed up three days in advance?
+        Paimon: You were way too anxious!
+    Option 2:
+        Traveler: Well, it looks like your career's in dire straits now...
 Agent: Ugh. Then where did that Giulietta Participazia go...
 Paimon: Speaking of that, the lady we ferried over first works in the instrument business... Y'know, the one who was going to be late for a business transaction? Didn't she call herself "Giulietta"?
 Agent: What? So she's in Bayda Harbor now? I have to find her as soon as possible...
@@ -188,9 +201,6 @@ Giovanni: What a farce... I see you're the same as ever, Big Brother. Always suc
 Giovanni: I don't know whether to laugh or be angry.
 Giustino: I'm sorry, Giovanni.
 Giovanni: And sorry for the trouble, you two, but this is no place for a chat. Let's find a spot where I can treat you to some snacks, and we'll talk.
-Traveler: Well, it looks like your career's in dire straits now...
-Traveler: Actually, I'm also here to collect a debt.
-Paimon: That's right! He hasn't paid us our triple boat fare either!
 
 ### Additional Talk 6
 
@@ -199,17 +209,27 @@ Giustino: Giovanni, why do you have to talk like this? My heart is made of flesh
 Giovanni: Is that so? And here I thought that the heart of one who cares so little about their family would be made of immovable stone.
 Giustino: I...
 Paimon: (Well... Paimon didn't think it'd turn out like this... This is so awkward!)
-Traveler: Stop arguing, you're going to spoil the taste of the snacks.
+    Option 1:
+        Traveler: Stop arguing, you're going to spoil the taste of the snacks.
+    Option 2:
+        Traveler: If I'd known, I'd have gone with that Agent...
 Paimon: A—Anyway, you brothers have been reunited after many years, so shouldn't you be happier about that...?
 Giovanni: ...
 Giustino: ...
 Paimon: #Hey, Traveler, c'mon! Help talk some sense into 'em, would you?
-Traveler: I envy you. At least you've been reunited.
+    Option 1:
+        Traveler: I envy you. At least you've been reunited.
+    Option 2:
+        Traveler: There's no point butting into someone else's family matters.
+        Paimon: Well, that's true, but...
 Paimon: #Actually, Traveler's still searching for his missing sister...
 Black Screen Text: You briefly explain the reason for your journey to the two brothers...
 Giovanni: I see... It must be hard, to have to scour the world for your family — and you're so young, too.
 Giustino: #I'm sure your sister has her reasons. I don't think she's forgotten you or has intentionally broken off contact. Please, don't hate her for it.
-Traveler: Err... Thanks?
+    Option 1:
+        Traveler: Err... Thanks?
+    Option 2:
+        Traveler: Actually, never mind my problem. You two...
 Giovanni: Ah. *sigh* To have been guided by a youth like you... We have truly shamed ourselves as elders.
 Giovanni: We may have had our disagreements, but we are still brothers...
 Giustino: Thank you... Giovanni.
@@ -226,10 +246,6 @@ Paimon: Well, so guess the two of you have made up now, eh?
 Giustino: Yes. Thank you so much for your help. Why, I somehow feel as if the triple-price fare was hardly enough! It's just a shame I only have this much on me...
 Giovanni: If you can sit yourself down and work hard in the workshop, repaying their kindness would be a simple matter.
 Giustino: Hear that? Giovanni's going to take good care of me. If we should have the chance to meet again, I'll treat you two!
-Traveler: Actually, never mind my problem. You two...
-Traveler: There's no point butting into someone else's family matters.
-Paimon: Well, that's true, but...
-Traveler: If I'd known, I'd have gone with that Agent...
 
 ### Additional Talk 7
 
@@ -239,8 +255,10 @@ Giustino: I... I'm just a bit seasick. Ugh... Sorry! I—I'll just throw up over
 Paimon: Eh? Uh, sure, but don't forget to come back as soon as possible!
 Black Screen Text: After a good long while...
 Paimon: Wait, something's not right. Why isn't Giustino back yet?
-Traveler: Did he vomit till he passed out?
-Paimon: Eh!? That serious? But you were keeping the boat pretty steady... Or maybe it's because Paimon floats...
+    Option 1:
+        Traveler: Did he vomit till he passed out?
+        Paimon: Eh!? That serious? But you were keeping the boat pretty steady... Or maybe it's because Paimon floats...
+    Option 2:
+        Traveler: Uh oh, is he trying to wiggle his way out of paying?
+        Paimon: Huh? Didn't he say he was a big-shot booming businessman, though? Was he fibbing?
 Paimon: Either way, we've gotta find him, and fast!
-Traveler: Uh oh, is he trying to wiggle his way out of paying?
-Paimon: Huh? Didn't he say he was a big-shot booming businessman, though? Was he fibbing?

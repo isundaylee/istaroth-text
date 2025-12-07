@@ -91,6 +91,7 @@ Paimon: What do you mean "again"?
 ## Talk 15
 
 Drunkard (Covault): Boss, we're close. We just need to head further in.
+[Missing Dialog 741319930]
 
 ## Talk 16
 
@@ -115,11 +116,13 @@ Drunkard: In the end, you earn no money and win no people. Only a fool like Lema
 Drunkard: We've sailed together for a long time. I'm sure Morgen will make his death painless.
 Paimon: No... Oh no! Mr. Lemarcq is still on the ship!
 Fusilier: Don't worry. He has the Pneumousia Ray Self-Defense Device, which was personally modified by Mr. Edwin himself. He'll be fine.
-Traveler: You only just came up with that name, didn't you?
+    Option 1:
+        Traveler: You only just came up with that name, didn't you?
+    Option 2:
+        Traveler: You really are confident in that device of yours.
+        Fusilier: I'm just confident in Mr. Edwin!
 Pattyn: Hmph... Come on, Covault, hurry up and take care of them. Loillier's money is waiting for us to claim it.
 Drunkard: Stop telling me what to do! You... Go on, get them!
-Traveler: You really are confident in that device of yours.
-Fusilier: I'm just confident in Mr. Edwin!
 
 ## Talk 18
 
@@ -145,13 +148,15 @@ Lemarcq: Hmm... This device sure is handy.
 Paimon: Hmm... Looks like Lemarcq just took care of that guy all by himself...
 Lemarcq: Boss, you're back. Looks like you were ambushed, too. That means...
 Chaussivert: Loillier has bought both Pattyn and Morgen off. Covault was to lead us into an ambush.
-Traveler: Sadly, they didn't expect me to be there.
+    Option 1:
+        Traveler: Sadly, they didn't expect me to be there.
+    Option 2:
+        Traveler: Just a motley crew.
 Fusilier: Wait a second. If they were bought off by Loillier, then what about when you were talking to him...?
 Chaussivert: Hmm. That can only mean that he had that meeting so he could eliminate me. Hmph. Brutal, but that sounds like him, alright.
 Lemarcq: Then I suppose it's a good thing that you lot came out of the blue to mess with their plans.
 Lemarcq: Otherwise, given the narrow space... we might not have made it out alive.
 Paimon: Still, they've attacked us twice in a row now. Could they have something to hide?
-Traveler: Just a motley crew.
 
 ## Talk 23
 
@@ -160,7 +165,10 @@ Fusilier: How? They were all bent on killing us not so long ago...
 Chaussivert: Well, that you don't need to know, Little Miss Institute. Lemarcq, tell them.
 Lemarcq: Aye, aye. To put it simply, with their cooperation, we have learned that two shipments will be delivered to a certain location today...
 Lemarcq: Unfortunately, those two don't know the precise location. All they know is the time when the shipments will arrive at the shore.
-Traveler: So, more guesswork on our part.
+    Option 1:
+        Traveler: So, more guesswork on our part.
+    Option 2:
+        Traveler: Never mind. We'll see how it goes.
 Fusilier: I have an idea. We may be able to find some clues using this energy flow detector.
 Fusilier: If that place is indeed where Nacker is hiding, then people going in and out will carry traces of Arkhium energy.
 Paimon: Ooh! That means that all we have to do is to use this device, and "beep beep beep" — we'll know exactly where to go!
@@ -168,7 +176,6 @@ Fusilier: What do you mean, "beep beep beep"? Only those obsolete relics do that
 Chaussivert: Beeping or not, this is a good shout. No time to waste. Let's move.
 Traveler: About those two...
 Chaussivert: They've gone back to where all sailors come from. No need to worry about them... Anchors aweigh!
-Traveler: Never mind. We'll see how it goes.
 
 ## Talk 24
 
@@ -194,7 +201,14 @@ Traveler: Never mind. We'll see how it goes.
 
 Panicked Treasure Hoarder: Loillier, blast him... He's already paid the bulk of the payment, but he can't afford the rest!?
 Chaussivert: Chill, man. We're all underdogs here. Don't blame the messenger.
-Traveler: Boss, what should we do with him?
+    Option 1:
+        Traveler: Boss, what should we do with him?
+    Option 2:
+        Traveler: Ma'am, what should we do with him?
+        Fusilier: Wh—Why are you asking me? And, what's with the "ma'am"? I'm not part of this outfit!
+    Option 3:
+        Traveler: Paimon, you handle him.
+        Paimon: Sure! Heheh, just watch Paimon... Hmmm... How many strands of hair should she pull?
 Panicked Treasure Hoarder: W—Wait! Stop! How much is Loillier paying you? I'll pay you the same amount!
 Panicked Treasure Hoarder: Or, how about this: Let me live, and I'll take Loillier out and grab his money, and then we can split the cash?
 Chaussivert: There's no need for any of that. I just have a few questions for it.
@@ -210,10 +224,6 @@ Lemarcq: Boss, should I follow him?
 Chaussivert: No need. Let him go and cause some trouble for Loillier. So, he said that someone would come to pick the shipments up, hmm?
 Chaussivert: Institute Lady, it's time for you to get that device of yours beeping. We need to move.
 Fusilier: Didn't I say that this is the latest model, and it doesn't beep?
-Traveler: Ma'am, what should we do with him?
-Fusilier: Wh—Why are you asking me? And, what's with the "ma'am"? I'm not part of this outfit!
-Traveler: Paimon, you handle him.
-Paimon: Sure! Heheh, just watch Paimon... Hmmm... How many strands of hair should she pull?
 
 ## Talk 30
 
@@ -235,7 +245,10 @@ Paimon: Sure! Heheh, just watch Paimon... Hmmm... How many strands of hair shoul
 
 Fusilier: The readings... are high. There are clear residual energy readings from all around this house...
 Paimon: Nacker... Why would he go through all the trouble to build a house here?
-Traveler: He must have strong nerves!
+    Option 1:
+        Traveler: He must have strong nerves!
+    Option 2:
+        Traveler: Or he took it from someone else.
 Chaussivert: The lock on this door doesn't seem too sturdy. I think I can break it open. Stand back.
 Fusilier: Hey, don't just bash the door in! It might be someone's home... You know, that got irradiated for some reason...
 Chaussivert: If that's the case, we'll compensate them. It's your investigation, so the money should come out of the Institute, naturally.
@@ -249,14 +262,20 @@ Fusilier: Mr... Edwin?
 Edwin Eastinghouse: How do you know me? Tsk... Did Loillier leak my name?
 Edwin Eastinghouse: No matter. Just hurry and get me the supplies. The suppressor will be ready soon... Hmm? Why are you staring at me?
 Paimon: Paimon must be seeing things from flying too fast...
-Traveler: Well, well, well! Edwin Eastinghouse, come back to life, I see!
+    Option 1:
+        Traveler: Well, well, well! Edwin Eastinghouse, come back to life, I see!
+    Option 2:
+        Traveler: Oh no, the Institute is gonna get blown up again...
 Paimon: Aren't you supposed to have died in the explosion at the Institute!?
 Edwin Eastinghouse: Wh—What are you talking about? Stop wasting my time. I'm in a hurry to complete my research.
 Fusilier: I—I'm Fusilier from Section 3! You were my research advisor, and you helped me modify the Pneumousia Ray Self-Defense Device!
 Edwin Eastinghouse: What Section 3? What Ray...? Oh, now I remember. You're talking about that highly inefficient radiation device, aren't you?
 Edwin Eastinghouse: What was the researcher's name, again... I can't remember. Whatever the case, that device was a solo project with no real practical value...
 Edwin Eastinghouse: #Wait... You must be the Honorary Senior Researcher, Traveler. Your reputation precedes you...
-Traveler: You know me?
+    Option 1:
+        Traveler: You know me?
+    Option 2:
+        Traveler: Looks like you didn't quite get blown away far enough.
 Edwin Eastinghouse: Hahaha! Concini told me about what you've done, and the title you've earned.
 Edwin Eastinghouse: I have to say, the title suits you well! Just look at you, all hardworking and... Ahem.
 Edwin Eastinghouse: But of course, I know full well why you're here, Honorary Senior Researcher...
@@ -268,19 +287,20 @@ Edwin Eastinghouse: Gosh! How did you find this map... But no matter. His precis
 Edwin Eastinghouse: You are welcome to go and look for him, but trust me, you could make five loops around the place, and you wouldn't find him. That place took us five full years to build!
 Edwin Eastinghouse: I still remember that when that place was completed, I restarted five projects and rebuilt five devices. If I were still in the Institute, my salary would've quintupled...
 Paimon: #...So, what's happening now, Traveler?
-Traveler: He's monologuing...
+    Option 1:
+        Traveler: He's monologuing...
+    Option 2:
+        Traveler: Something must've triggered his inner Institute scientist.
 Chaussivert: Lemarcq... stay here and keep an eye on this guy.
 Chaussivert: Miss Institute... I mean, Miss Fusilier. This will be a dangerous trip, so why don't you give me the device? I'll handle things going forward.
 Fusilier: No. Let's get moving. I... I want to leave!
 Paimon: Wow, she seems pretty upset. What happened? I thought she worshipped Edwin...?
-Traveler: ...Let's catch up.
+    Option 1:
+        Traveler: ...Let's catch up.
+    Option 2:
+        Traveler: Edwin didn't even notice her.
 Edwin Eastinghouse: Good luck. You will never find him! Five rounds, you hear!?
 Lemarcq: If you keep this up for five more seconds, I'm gonna punch you five times.
-Traveler: Edwin didn't even notice her.
-Traveler: Something must've triggered his inner Institute scientist.
-Traveler: Looks like you didn't quite get blown away far enough.
-Traveler: Oh no, the Institute is gonna get blown up again...
-Traveler: Or he took it from someone else.
 
 ## Talk 44
 
@@ -422,7 +442,10 @@ Morgen: ...What is it? Go do your thing.
 
 Chaussivert: Sober yet, Covault? Can you speak properly now?
 Drunkard: B—Boss! Chaussivert! I—I... Please forgive me... That was the alcohol talking...
-Traveler: You want some more to help you relax?
+    Option 1:
+        Traveler: You want some more to help you relax?
+    Option 2:
+        Traveler: Alcohol steels the soul...
 Drunkard: You... You're right, right. Whatever you say!
 Chaussivert: I ask you a question, you give me an answer. Anything more or less, I knock your teeth out. Clear?
 Drunkard: Yes, yes! Crystal clear!
@@ -435,8 +458,12 @@ Drunkard: Well, he had a large backpack on his back, and nobody was allowed to l
 Traveler: Could that be...?!
 Fusilier: It's the self-heating effect generated by bound Arkhium. Mr. Edwin's talked about it before. The backpack must contain the Arkhium Kinetic Core.
 Fusilier: And the person must be Nacker.
-Traveler: Guess we've got our man.
-Paimon: Paimon's gonna give him a good bashing...
+    Option 1:
+        Traveler: Guess we've got our man.
+        Paimon: Paimon's gonna give him a good bashing...
+    Option 2:
+        Traveler: Tsk. If only we could just blow it up.
+        Paimon: Haven't we had enough of that already?
 Chaussivert: Third question. Where did you escort him to? Give me the location.
 Drunkard: B—Boss... could you give me a map? It's too remote a location to give that precisely...
 Chaussivert: Sure. I'll get you a map. Don't try anything, or else.
@@ -447,9 +474,6 @@ Chaussivert: I assume that there won't be an ambush waiting for me? Or have you 
 Drunkard: I would never, boss! You know I won't lie!
 Chaussivert: Heh... Fine. When we get there, you take point.
 Chaussivert: Chart a course! That's where we'll be heading!
-Traveler: Tsk. If only we could just blow it up.
-Paimon: Haven't we had enough of that already?
-Traveler: Alcohol steels the soul...
 
 ### Additional Talk 4
 

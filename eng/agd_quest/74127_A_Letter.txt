@@ -25,8 +25,11 @@ Iaune: You're funny, but there's no room in the Maison Gestion for such things.
 Iaune: And even if I could, I'd still have to have the meka appraised, reported, categorized, then stored...
 Paimon: Hey! We're only joking. No need to get so focused on work all of a sudden...
 Iaune: Speaking of reports... I still can't get that document. Mr. Roialte will be disappointed again...
-Traveler: Is Choiseul making it difficult for you?
-Iaune: Not exactly. My request was not quite by-the-book, so it's no surprise that he rejected it.
+    Option 1:
+        Traveler: Is Choiseul making it difficult for you?
+        Iaune: Not exactly. My request was not quite by-the-book, so it's no surprise that he rejected it.
+    Option 2:
+        Traveler: What were you and Choiseul discussing back there?
 Iaune: As you may know, the Institute is making plans to rebuild, right? Certain resources and personnel arrangements have to be made through the Maison Gestion.
 Iaune: The Maison Gestion takes this matter very seriously, so it had Mr. Roialte select a team to conduct field studies in and around the vicinity.
 Iaune: Therefore, Mr. Roialte stayed behind at the Maison Gestion to do the head count, while I am to visit the Institute to coordinate the reception.
@@ -45,20 +48,21 @@ Iaune: This place is called... the Institute's Academic Assembly Hall. Strange..
 Traveler: I know where it is, just follow me.
 Iaune: I knew I could depend on you! What would I do without you?
 Iaune: Let's hurry, then. There might be more out-of-control meka around here...
-Traveler: What were you and Choiseul discussing back there?
 
 ## Talk 5
 
 Iaune: Is this the Academic Assembly Hall?
 Iaune: I admit, the structure does look like a hall, but what's academic about it?
-Traveler: The academic part is in the researchers' heads.
+    Option 1:
+        Traveler: The academic part is in the researchers' heads.
+    Option 2:
+        Traveler: The rocks aren't academic, that's for sure.
 Iaune: All right, good thing I didn't come for anything academic today. Anyway, the building seems relatively... intact.
 Traveler: Intact is all it has left.
 Iaune: Ahem! Come on, let's look around. I think this place is perfect for a group photo.
 Iaune: I should go find a good vantage point so I won't be at a complete loss if Mr. Roialte grills me.
 Iaune: #Please take a few pictures for me too, Traveler. I heard you're a good photographer, certainly better than me!
 Traveler: I got this.
-Traveler: The rocks aren't academic, that's for sure.
 
 ## Talk 6
 
@@ -67,9 +71,11 @@ Traveler: The rocks aren't academic, that's for sure.
 ## Talk 7
 
 Iaune: This one isn't bad... Have you finished taking pictures yet?
-Traveler: Yes.
-Traveler: Almost.
-Iaune: Once you're done, please show them to me.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: Almost.
+        Iaune: Once you're done, please show them to me.
 
 ## Talk 8
 
@@ -112,7 +118,10 @@ Desnos: #Very astute, Traveler. I'm sure all the letters that Choiseul sent out 
 Desnos: Why don't you just take my copy back with you?
 Paimon: Wait, what? If Iaune takes it, then won't you have lost yours?
 Desnos: Hahahaha, look at me! Nobody will care if someone in my position accidentally loses a nonessential letter.
-Traveler: Not a bad idea.
+    Option 1:
+        Traveler: Not a bad idea.
+    Option 2:
+        Traveler: That does solve the problem, doesn't it?
 Desnos: See, Iaune, I'm not just mooching coffee off you!
 Iaune: No, Monsieur, I cannot do that. It's against regulations. I'll go back and wait for the official letter to be delivered.
 Desnos: My dear Iaune, think outside the box, don't be a fool! Why must you insist on making it hard for yourself?
@@ -122,7 +131,10 @@ Iaune: #Traveler, Mr. Desnos, and Paimon, I must leave now. Mr. Roialte is still
 Black Screen Text: Iaune walks away with solemn, heavy steps...
 Desnos: *sigh* Iaune can be such a fool. His brains have gone all rotten, haven't they?
 Desnos: Everyone else tries to make things easier for themselves, yet he insists on going through the motions, even for small things like this.
-Traveler: That's just his character.
+    Option 1:
+        Traveler: That's just his character.
+    Option 2:
+        Traveler: That's just the person Iaune is.
 Desnos: Admirable, yet scary at the same time. No wonder he has few friends in the Maison Gestion other than Roialte and Semaine.
 Traveler: I'm his friend too.
 Paimon: So is Paimon, so is Paimon!
@@ -130,8 +142,6 @@ Desnos: That's good. You should be around him more often. I feel Iaune's nerves 
 Desnos: As for the letter, I'll see what I can do. I'll pay Mr. Choiseul a visit and ask him to let me mail them out.
 Desnos: If he agrees, I'll send one to Iaune as quickly as possible.
 Desnos: *sigh* It takes a lot of effort to be friends with a fool...
-Traveler: That's just the person Iaune is.
-Traveler: That does solve the problem, doesn't it?
 
 ## Additional Conversations
 

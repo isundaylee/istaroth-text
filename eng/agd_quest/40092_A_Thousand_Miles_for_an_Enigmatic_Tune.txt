@@ -104,9 +104,15 @@ Paimon: Yelan, you didn't hide some of the evidence from us on purpose, did you?
 Yelan: Why would I make this more difficult for you? We're on the same side here.
 Paimon: Okay, well... Paimon gives up then. Paimon's got nothin'.
 Yelan: What about you? Give up as well?
-Traveler: It's difficult to theorize with so little evidence.
-Yelan: Yup. It's not obvious at first sight, that's for sure.
-Yelan: To be honest, I was only able to put it all together because of some background knowledge about this area.
+    Option 1:
+        Traveler: It's difficult to theorize with so little evidence.
+        Yelan: Yup. It's not obvious at first sight, that's for sure.
+        Yelan: To be honest, I was only able to put it all together because of some background knowledge about this area.
+    Option 2:
+        Traveler: It must have something to do with that melody...
+        Yelan: Your instincts are pretty good.
+        Yelan: Hmm, or perhaps it's not instinct. The strange melody is one of the few pieces of information you have available, after all.
+        Yelan: Let me share a folk story with you.
 Yelan: A long time ago, there used to be a group of bandits in the Liyue countryside who would sound a horn every time they were about to raid a village.
 Yelan: But it wasn't a rallying cry to rouse their fellow men. It was a disconcerting tune, meant to intimidate the weak and warn them of their impending doom.
 Yelan: To escape with their lives, the villagers would abandon their homes and flee overnight, taking only their most valuable belongings with them. Everything else was left behind.
@@ -116,7 +122,10 @@ Yelan: The culprit of this crime exploited that very fear to get access to this 
 Paimon: Whew, that's quite the story...
 Yelan: The victims obviously will have gotten quite a fright, but at least they won't be in any great danger.
 Yelan: The important thing now is to find this copycat criminal.
-Traveler: If we use Elemental Sight...
+    Option 1:
+        Traveler: If we use Elemental Sight...
+    Option 2:
+        Traveler: We could follow their tracks...
 Yelan: On any other day, that'd probably be a good idea. Unfortunately, it's not gonna work today.
 Yelan: Take a look around and you'll see what I mean. This criminal is clearly well-versed both in using music to commit crimes and in making a clean getaway.
 Yelan: Not only did they stay off the muddy road to avoid leaving footprints, it looks like they were also careful not to bring any gadgets with so much as a trace of elemental energy. Evidently, they were intent on keeping even the most experienced investigators off their trail.
@@ -124,11 +133,6 @@ Yelan: Unfortunately for them, I'm one of the best trackers in the business. The
 Paimon: So basically... if we wanna find the culprit, we just need to follow Yelan!
 Yelan: Mm-hmm. As long as you can keep up.
 Yelan: Since the culprit's trying to be cautious and low-risk, I'll bet they left through an area with some vegetation for cover — but not so much that it would slow them down.
-Traveler: We could follow their tracks...
-Traveler: It must have something to do with that melody...
-Yelan: Your instincts are pretty good.
-Yelan: Hmm, or perhaps it's not instinct. The strange melody is one of the few pieces of information you have available, after all.
-Yelan: Let me share a folk story with you.
 
 ## Talk 18
 
@@ -180,7 +184,10 @@ Yelan: Does your greed matter more to you than your fear? More to the point, if 
 Fujing: You mean...
 Yelan: Heh, that's enough hints for you. You'll have plenty of time to reflect on all of this yourself.
 Yelan: There's not much left to wrap up, so I'll take it from here. Guess this is where I'll say goodbye.
-Traveler: Sure.
+    Option 1:
+        Traveler: Sure.
+    Option 2:
+        Traveler: Well done, Yelan!
 Yelan: ...Hmm...
 Paimon: What is it? Is there something else?
 Yelan: I'm still not sure how you first got your hands on this information, so play it safe when you get back. Don't mention to anyone that you ran into me out here.
@@ -189,18 +196,21 @@ Yelan: See you when I see you. And Happy Lantern Rite.
 Paimon: Yelan's such a pro at this. With her taking it from here, it's as good as resolved.
 Paimon: Fwoosh! Random Event: "A Strange Melody" complete!
 Paimon: Although... it's kind of a shame that we never got that Treasure Hoarder guy to play the melody again.
-Traveler: Why's it a shame?
-Paimon: 'Cause Paimon's curious, that's why! It's like when you have a tune stuck in your head, but you don't even know what it is. It's driving Paimon crazy!
+    Option 1:
+        Traveler: Why's it a shame?
+        Paimon: 'Cause Paimon's curious, that's why! It's like when you have a tune stuck in your head, but you don't even know what it is. It's driving Paimon crazy!
+    Option 2:
+        Traveler: I'm quite curious myself.
+        Paimon: Right? How could anyone not be!
 Paimon: When we were chatting with Mr. Dvorak, music seemed like such a positive thing.
 Paimon: And most music is, right? It can help us relax, feel all warm and fuzzy, recall happy memories, or even just think happy thoughts...
 Paimon: Paimon never imagined that music could be used to commit crimes...
-Traveler: It comes down to the ill will of the user...
+    Option 1:
+        Traveler: It comes down to the ill will of the user...
+    Option 2:
+        Traveler: Their bad deeds influenced the emotions associated with the music.
 Paimon: Oh, really? Huh... Makes sense... Paimon's musical understanding improves again!
 Paimon: Well anyway, now that everything's resolved, let's get back to Liyue Harbor. Baiwen's still waiting for us with our Random Event rewards!
-Traveler: Their bad deeds influenced the emotions associated with the music.
-Traveler: I'm quite curious myself.
-Paimon: Right? How could anyone not be!
-Traveler: Well done, Yelan!
 
 ## Talk 23
 
@@ -220,7 +230,10 @@ Ningguang: I trust you saw this year's Mingxiao Lantern at the docks when you ar
 Paimon: Yeah! It looked like... a goose? Which adeptus is it modeled on this time?
 Ningguang: Sea Gazer. I believe you're familiar with the name?
 Ningguang: Legend holds that he was free-spirited and easy-going. People described him as a cheerful soul and a loyal friend.
-Traveler: I remember.
+    Option 1:
+        Traveler: I remember.
+    Option 2:
+        Traveler: It's been too long, I can't seem to recall...
 Ningguang: "On this marvelous Lantern Rite, we pray that the fallen heroes may be guided home."
 Ningguang: If the sound of music can flow like the rivers and streams into every corner of the land, perhaps the souls of those who have gone before us will hear the song of a new era. I wonder whether the melodies will be to their liking...
 Paimon: Oh, they're gonna love them! Paimon's sure of it!
@@ -229,7 +242,6 @@ Ningguang: Hehe, well let's hope so.
 Ningguang: I heard that you'll be going on a search with Ganyu to find the descendants of a fairy lady from a Fontaine legend.
 Ningguang: I'm sure this quest to uncover the truth behind an ancient story will turn into a most charming tale... Do share it with me, won't you? I couldn't bear to miss out.
 Traveler: Absolutely.
-Traveler: It's been too long, I can't seem to recall...
 
 ## Additional Conversations
 

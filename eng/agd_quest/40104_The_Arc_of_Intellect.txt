@@ -37,8 +37,9 @@ Paimon: Looks like the ceremony will be held at the main venue. Let's head over 
 
 ## Talk 3
 
-Cyno: Kaveh, do you have plans after this?
 Kaveh: I was thinking of maybe going to the Akademiya for some alone time. Nothing set in stone, though — why do you ask?
+
+[Orphaned dialog] Cyno: Kaveh, do you have plans after this?
 
 ## Talk 4
 
@@ -148,7 +149,10 @@ Alhaitham: He laid the blame for the darkness in the world squarely on humanity,
 Paimon: So... people are bad, and things can only ever get worse? All of that's true?
 Alhaitham: That is not a question for me to answer. Someone else will arrive shortly — you can ask them instead.
 Alhaitham: All I will say is that the world is not built on "correctness" alone. Sometimes, being correct means nothing at all.
-Traveler: Those words you wrote among your notes...
+    Option 1:
+        Traveler: Those words you wrote among your notes...
+    Option 2:
+        Traveler: What did that line written in ancient script mean?
 Alhaitham: "Lofty ideals may provide no defense at all against nihilism, but perhaps little decisions can."
 Alhaitham: "By their own choice, the idealist seeks to bring happiness to all, while denying themselves the same. Thus they shall never reach even the borders of truth until they wipe away the ignorance that blinds them."
 Alhaitham: I have never been able to agree with certain philosophies. Even Sachin himself struggled to comprehend the notion of sacrificing oneself for the greater good.
@@ -165,7 +169,10 @@ Nahida: #Traveler, Paimon, you're already here.
 Paimon: Nahida... oh, and Hat Guy.
 Paimon: Wait, so you asked him to take part in the Championship?
 Nahida: Yes, it was me. Are you surprised?
-Traveler: A little...
+    Option 1:
+        Traveler: A little...
+    Option 2:
+        Traveler: Actually, not really...
 Paimon: Did you know that there was something wrong with the diadem from the start? And if so, why didn't you switch it out for another one?
 Nahida: Because Sachin's research is not mistaken. He spent his entire life researching this topic, and these materials are a result of that.
 Nahida: These are the crystallization of his wisdom. Yes, I was worried that the material might cause some disruption, but I didn't want to wipe away all his hard work searching for the truth.
@@ -199,8 +206,6 @@ Nahida: You think so? Well, to that, I would say that in Sumeru, even prisoners 
 Nahida: I hope that your studies in Vahumana will help you deal with your own fate, and learn how best to settle old debts from your past.
 Nahida: I will review your final thesis myself. I am expecting great things from you, Mr. Hat Guy.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Tsk.
-Traveler: Actually, not really...
-Traveler: What did that line written in ancient script mean?
 
 ## Additional Conversations
 

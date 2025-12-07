@@ -1,17 +1,26 @@
 # Talk Dialog
 
-Lynette: Shall we start?
-Traveler: I'd like to try a different pose out.
-Traveler: I'm not quite ready yet.
-Lynette: Sure. What would you like me to go with?
-Traveler: Let's have a formal pose.
-Traveler: Let's go with a fun pose!
-Traveler: Just take up a casual pose.
-Lynette: Sure. Will this work?
-Traveler: Perfect. Say cheese!
-Traveler: The fun pose might work better.
-Traveler: Let's go with a casual posture instead.
-Traveler: Let's roll with the formal pose instead.
-Lynette: I'm ready.
 Lynette: Then we'll do that.
+
 Lynette: Works for me.
+
+Lynette: Shall we start?
+    Option 1:
+        Traveler: I'm not quite ready yet.
+    Option 2:
+        Traveler: I'd like to try a different pose out.
+        Lynette: Sure. What would you like me to go with?
+        Traveler: Let's have a formal pose.
+        Traveler: Let's go with a fun pose!
+        Traveler: Just take up a casual pose.
+        Lynette: Sure. Will this work?
+        Traveler: Perfect. Say cheese!
+        Lynette: I'm ready.
+        Traveler: The fun pose might work better.
+        [Missing Dialog 756560312]
+
+Traveler: Let's go with a casual posture instead.
+[Missing Dialog 756560314]
+
+Traveler: Let's roll with the formal pose instead.
+[Missing Dialog 756560316]

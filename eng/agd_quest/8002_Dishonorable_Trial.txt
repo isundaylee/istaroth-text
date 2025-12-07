@@ -6,6 +6,7 @@
 ## Talk 1
 
 Paimon: Aah! The Abyss Order!
+
 Dainsleif: Don't underestimate the enemy. Let's take them now.
 
 ## Talk 2
@@ -34,10 +35,16 @@ Paimon: Shh! We're about to enter the Cathedral. Don't say anything bad about th
 Paimon: And actually, the Anemo Archon is... Gah, never mind.
 Dainsleif: Heh, I never specifically said I would enter the Cathedral. I'll leave you two to mingle with the sisters.
 Paimon: Huh?
-Traveler: But we've done everything else together.
+    Option 1:
+        Traveler: But we've done everything else together.
+    Option 2:
+        Traveler: Aren't you curious?
 Dainsleif: You are the Honorary Knight of Mondstadt. They will surely allow you to poke into these affairs with their utmost trust.
 Dainsleif: Having me tag along would only make them suspicious.
-Traveler: Because they don't know you?
+    Option 1:
+        Traveler: Because they don't know you?
+    Option 2:
+        Traveler: You don't think you will be popular among the sisters?
 Dainsleif: Correct, and just as our little friend said... I might say something bad about the Church at any time.
 Dainsleif: When a non-believer steps onto holy ground, the result is never pretty.
 Dainsleif: I have never received the favor of the gods in the past. I don't see any reason I would need it now or in the future, either.
@@ -46,8 +53,6 @@ Paimon: #Okay then, Traveler, we'll just go in ourselves and ask around.
 Dainsleif: I should warn you about one thing. Don't go mentioning the Defiled Statue inside the Cathedral.
 Dainsleif: The Church of Favonius wouldn't ignore the matter of the statue, but if they rashly tried anything against the Abyss Order, it would only ruin whatever element of surprise we may have.
 Dainsleif: Also... Meddling in the affairs of the Abyss usually doesn't end well for anyone.
-Traveler: You don't think you will be popular among the sisters?
-Traveler: Aren't you curious?
 
 ## Talk 7
 
@@ -73,14 +78,20 @@ Abyss Herald: Hmph... The ceremony was interrupted. How fortunate for you.
 Abyss Herald: How does an old spirit have such determined will...?
 Abyss Herald: No matter. This is but a small unforeseen variable. Our grand scheme will not be affected.
 Paimon: It disappeared again...
-Traveler: At least we stopped it this time.
+    Option 1:
+        Traveler: At least we stopped it this time.
+    Option 2:
+        Traveler: It sure ran away quickly.
 Razor: Thank you, you came... just in time.
 Boreas: Human Lupical... I am ashamed that you must see me in my present state.
 Boreas: But still, the Abyss Herald underestimated my strength.
 Razor: Lupus Boreas never refuses trial. But, scary outsider... not respect trial rules.
 Razor: I, too, didn't see... the trap...
 Paimon: Wait... So you mean, the Abyss Order had everything prepared to corrupt Lupus Boreas' mind, then lured him out under the pretense of challenging him in a trial?
-Traveler: It's not your fault, Razor.
+    Option 1:
+        Traveler: It's not your fault, Razor.
+    Option 2:
+        Traveler: Come on, cheer up.
 Razor: #Thank you, Traveler. In the future, my claws... must get sharper.
 Razor: You... smelled danger, and came here?
 Paimon: No, we heard about the danger. Paimon's nose doesn't even know what danger smells like!
@@ -91,8 +102,13 @@ Boreas: It entered into my proving ground by accident, and I mistook it for a ch
 Boreas: But it could not think, only fight. It was designed as a pure killing machine from top to bottom.
 Boreas: I eventually damaged it greatly with one of my attacks. Before it fell to the ground, it fled the proving ground.
 Paimon: Hmm... By the sounds of it, it's possible that could have been the very first Field Tiller, right?
-Traveler: Could it spin?
-Boreas: Yes. It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
+    Option 1:
+        Traveler: Could it spin?
+        Boreas: Yes. It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
+    Option 2:
+        Traveler: Could it shoot missiles?
+        Boreas: "Missiles"? I do not know this strange word... As I said, I pay no heed to the contraptions of humans.
+        Boreas: It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
 Paimon: Fireballs...? Hey, didn't we hear this somewhere else recently as well?
 Paimon: Anyway, this pretty much proves that the first Field Tiller came to Mondstadt, doesn't it?
 Paimon: It sounds like the first one was way stronger than the mass-produced Ruin Guards that came after.
@@ -102,11 +118,6 @@ Paimon: Yes, you were a big help! Thanks!
 Paimon: We need to go keep investigating something super important. The Abyss Herald may have left, but the Abyss's forces are still attacking. You two be careful!
 Razor: Yes. I smell... more danger. Bigger danger.
 Razor: You two, also be careful.
-Traveler: Could it shoot missiles?
-Boreas: "Missiles"? I do not know this strange word... As I said, I pay no heed to the contraptions of humans.
-Boreas: It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
-Traveler: Come on, cheer up.
-Traveler: It sure ran away quickly.
 
 ## Talk 11
 

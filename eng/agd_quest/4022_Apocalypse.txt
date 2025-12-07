@@ -13,7 +13,10 @@ Paimon: Could Furina really be here? Let's try to find her as soon as possible.
 Paimon: *panting* Phew... Paimon's exhausted...
 Furina: *panting* Phew... I'm so tired... I totally thought they had caught me...
 Furina: Ah, no, I mean, I nearly gave in to the sheer enthusiasm they displayed... Hahaha...
-Traveler: This place is not what I'd call soundproof.
+    Option 1:
+        Traveler: This place is not what I'd call soundproof.
+    Option 2:
+        Traveler: You might want to lower your voice to stay hidden.
 Furina: Ah... you're right.
 Paimon: Yep, that's a good girl.
 Paimon: Huuuuuuuuuuuuh!?
@@ -31,7 +34,10 @@ Furina: I once had informants all over Teyvat, searching for clues and feeding i
 Furina: I've tried all kinds of ways, too, to hold back the sea. Anything to keep the coastline from advancing...
 Furina: But all my efforts proved to be futile in the end. Really, the truth has been clear to me for a very long time...
 Furina: We cannot make an enemy of the divine. No matter what we do, the will of the Heavenly Principles will have its way, and the prophecy shall be fulfilled...
-Traveler: But even then...
+    Option 1:
+        Traveler: But even then...
+    Option 2:
+        Traveler: You still haven't given up, right?
 Furina: Give up? Ahh... I do love the sound of that phrase. It would mean finally coming to terms with fate, but also... for me to finally be free.
 Traveler: But that would also mean that all hope would disappear.
 Furina: Indeed... I've thought about giving up so many times. Especially after we almost lost Poisson...
@@ -44,21 +50,29 @@ Furina: Well! That's enough for now. I got the impulse to play the stricken maid
 Furina: Don't take any of what I just said seriously! How could I possibly let Fontaine fall to the whims of trivial prophecy?
 Paimon: C'mon, Paimon could've sworn you were actually being honest just now...
 Traveler: (We're running out of time... We can't just go back to square one like this. I have to get more information out of her...)
-Traveler: Furina...
-Traveler: Although I don't know what you might be keeping from everyone...
+    Option 1:
+        Traveler: Furina...
+        Traveler: Although I don't know what you might be keeping from everyone...
+    Option 2:
+        Traveler: Furina... You might not have to shoulder this burden alone.
+        Traveler: Although I don't know what you might be keeping from everyone...
+    Option 3:
+        Traveler: Furina...
+        Traveler: Your people are more than willing to share your burden with you.
+    Option 4:
+        Traveler: Furina... You might not have to shoulder this burden alone.
+        Traveler: Your people are more than willing to share your burden with you.
 Furina: Share my burden...
 Furina: That's impossible. It was fated, right from the start, that this would be my duty alone.
-Traveler: But even if your burden doesn't need to be shared...
+    Option 1:
+        Traveler: But even if your burden doesn't need to be shared...
+    Option 2:
+        Traveler: You can still choose to confide in someone.
 Traveler: Just share it with me. I'm what you'd call a "witness."
 Furina: A witness... Ah, yes. I've heard that you came to Teyvat from beyond the stars, yes? In other words, you never belonged here...
 Furina: And if Teyvat is, in its entirety, a show on a stage, then you're just a "spectator," aren't you?
 Furina: If that's the case...
 Traveler: (There's no time left... Please, Furina, just spit it out!)
-Traveler: You can still choose to confide in someone.
-Traveler: Your people are more than willing to share your burden with you.
-Traveler: Furina... You might not have to shoulder this burden alone.
-Traveler: You still haven't given up, right?
-Traveler: You might want to lower your voice to stay hidden.
 
 ## Talk 3
 
@@ -120,7 +134,10 @@ Lyney: Of course, this performance was only made possible with "Father"'s suppor
 Lyney: We had to select a location, construct the Giant Magic Box, dig a tunnel, and open up a path through the water... It was a lot of work for all of us.
 Furina: So, in other words... the "earthquake" that we felt within the Giant Magic Box was just a normal tremor from the transportation of the whole house?
 Paimon: That's right. It wasn't a sign of another disaster to come.
-Traveler: Sorry about that.
+    Option 1:
+        Traveler: Sorry about that.
+    Option 2:
+        Traveler: We deceived you back there.
 Furina: Hmph, then... I can guess Neuvillette and Clorinde's parts.
 Furina: You gathered a crowd, prepared a stage, and made sure that the Champion Duelist would be immediately ready for a fight...
 Furina: All so that as soon as I appeared on the stage, the trial may commence without a hitch. Am I right?
@@ -129,10 +146,23 @@ Furina: Well, Clorinde, I must commend you for your courage. Only the most outst
 Clorinde: Thank you.
 Furina: #As for you, Traveler... I suppose your role was to keep me distracted with conversation once you found me in Poisson.
 Furina: You'd make sure that I didn't notice anything amiss, before revealing yourself as my prosecutor once we'd arrived onto the stage...
-Traveler: No.
+    Option 1:
+        Traveler: No.
+    Option 2:
+        Traveler: You guessed wrong.
 Furina: Oh?
-Traveler: My mission...
-Traveler: We hoped that you'd share your secret with us...
+    Option 1:
+        Traveler: My mission...
+        Traveler: We hoped that you'd share your secret with us...
+    Option 2:
+        Traveler: Was to give you one last chance.
+        Traveler: We hoped that you'd share your secret with us...
+    Option 3:
+        Traveler: My mission...
+        Traveler: Before the Magic Box arrived onto the stage.
+    Option 4:
+        Traveler: Was to give you one last chance.
+        Traveler: Before the Magic Box arrived onto the stage.
 Furina: Hehehe, is that so? Then I suppose I must have missed my final chance...
 Furina: ...
 Furina: It's fine, it matters not. What's done is done...
@@ -145,13 +175,11 @@ Paimon: Huh? Charlotte wanted to give us something? Ooh, so she's here too. Hey,
 Paimon: Let Paimon see... Isn't this the "exclusive interview" that she did with us before? So she's already finished it, huh?
 Paimon: Wait, then that means this document is a perfect timeline of everything that's happened ever since we stepped foot in Fontaine...
 Paimon: So in other words... we can refer to this "anthology of evidence" every time we want to use something from our journey as evidence for an argument!
-Traveler: It's a super practical gift.
+    Option 1:
+        Traveler: It's a super practical gift.
+    Option 2:
+        Traveler: I never would have thought of using it this way.
 Paimon: Let's quickly confirm the information in it... Just think of it as a refresher, alright?
-Traveler: I never would have thought of using it this way.
-Traveler: Before the Magic Box arrived onto the stage.
-Traveler: Was to give you one last chance.
-Traveler: You guessed wrong.
-Traveler: We deceived you back there.
 
 ## Talk 4
 
@@ -175,11 +203,13 @@ Furina: I have cause to believe that common sense will prevail in this case. Man
 Furina: See? Even the Oratrice has decided to show me its favor. Are you sure you want to commit to a charge that will never be upheld?
 Furina: If you wish to drop the case, I can promise you, as the God of Justice, that you will not have to face trial for making a false accusation. We will treat everything that's happened as a dramatic spectacle, and move on with our lives. What do you say to that?
 Navia: An argument with near-impossible odds, huh? We have to not only refute Furina's claims, but also overturn the long-held beliefs of the people...
-Traveler: The people only see you as their Archon...
+    Option 1:
+        Traveler: The people only see you as their Archon...
+    Option 2:
+        Traveler: Because that's their long-held belief.
 Furina: Well, I tried to give you the chance to surrender. If you must persist, then let me ask: If you believe I'm not the Archon, then what manner of being do you think I am?
 Furina: And if I was not the Archon, then how did I manage to live for over five hundred years?
 Traveler: (I've got to think carefully... What do we know to be "special" about Furina, exactly?)
-Traveler: Because that's their long-held belief.
 
 ## Talk 5
 
@@ -192,13 +222,19 @@ Paimon: Is that the first prophecy slate?
 Paimon: Huh, so The Knave privately arranged for Freminet to try and find the missing slate.
 Freminet: I looked everywhere, and finally found it at the bottom of the sea. It took me a long time to get around some dangerous stretches of water...
 Freminet: But... has the trial already concluded? Then... Doesn't that mean I've come too late? Oh no, "Father" will be disappointed in me...
-Traveler: Don't worry, the mystery hasn't been resolved yet.
+    Option 1:
+        Traveler: Don't worry, the mystery hasn't been resolved yet.
+    Option 2:
+        Traveler: It's still not too late for you to shine.
 Neuvillette: Thank you for your hard work, Mr. Freminet. Please allow me to review the record left on the slate.
 Neuvillette: ...
 Neuvillette: #Traveler, I believe that you have also already seen the other existing slates. I would like you to also come here and confirm their contents.
 Paimon: Huh... So what do you see? What is it?
 Traveler: This looks like...
-Traveler: The previous Hydro Archon releasing her divine power...
+    Option 1:
+        Traveler: The previous Hydro Archon releasing her divine power...
+    Option 2:
+        Traveler: Turning the Oceanids into... human beings.
 Neuvillette: I believe I have now made sense of the Hydro Archon's crime. It has to do with Fontaine's lost history.
 Paimon: Huh? Isn't the Hydro Archon just guilty of deceiving her people... Wait, no, that's Furina, and we've already proven that she's not the Hydro Archon...
 Paimon: So when you say "Hydro Archon," do you mean the real Hydro Archon we've been kind of talking about?
@@ -206,30 +242,40 @@ Neuvillette: In truth, everything that you've encountered in Fontaine up until t
 Neuvillette: However, I am uncertain as to how much sense they currently make to you.
 Traveler: An association between the contents of the slates and the events in real life...
 Paimon: Okay, let's try to recall the contents of the other three stone slates... Paimon will do her best to help you remember!
-Traveler: Turning the Oceanids into... human beings.
-Traveler: It's still not too late for you to shine.
 
 ## Talk 7
 
 Paimon: Huh, oh, Paimon gets it now... So that's how you can make sense of it...
 Paimon: But then it feels like... We're going to have to share some truly shocking revelations.
 Neuvillette: Let's hear them.
-Traveler: The first slate reveals that...
+    Option 1:
+        Traveler: The first slate reveals that...
+    Option 2:
+        Traveler: Fontainians are not real humans.
 Lynette: Incredible. Lyney, did you hear that?
 Lyney: We're... not real humans?
 Paimon: All Fontainians were originally created by the late previous Hydro Archon, with Oceanids as their basis.
 Paimon: The evidence for that can be found in... How only Fontainians could dissolve in Primordial Seawater, and how all the girls Vacher dissolved were also turned into Oceanids...
 Paimon: Oh, and according to Navia, when she was about to get dissolved, she also saw everyone gathered around for a trial, all of them in the shape of Oceanids...
 Neuvillette: Indeed.
-Traveler: The second slate reveals that...
+    Option 1:
+        Traveler: The second slate reveals that...
+    Option 2:
+        Traveler: The crime of the Hydro Archon... was her creation of Fontainians from Oceanids.
 Paimon: Yeah, and it follows from the content of the first slate that she probably angered Celestia by creating humans without prior permission.
 Paimon: That could also explain why the Oratrice judged the Hydro Archon to be guilty — it's to account for that ancient "sin."
 Navia: The Hydro Archon's true sin... was creating us?
 Neuvillette: And yet, after many hundreds of years, the Hydro Archon's creations have turned around to try to judge the Archon within the Opera Epiclese. The twists of history are often the most unexpected of all.
-Traveler: As for the third slate...
+    Option 1:
+        Traveler: As for the third slate...
+    Option 2:
+        Traveler: I'm still convinced that it should come after the fourth slate.
 Paimon: Yeah, isn't the image here just like when Navia fell into the sea?
 Paimon: So, wouldn't it be trying to show the image of the Hydro Archon also falling into the sea once the prophecy has been fulfilled in the fourth slate?
-Traveler: The fourth slate...
+    Option 1:
+        Traveler: The fourth slate...
+    Option 2:
+        Traveler: Depicts the fulfillment of the prophecy as it's already widely known.
 Paimon: In the end, the people will all be dissolved into the waters, and only the Hydro Archon will remain, weeping on her throne... Only then will the sins of the people of Fontaine be washed away.
 Paimon: Did Paimon get all that right?
 Neuvillette: You've made some keen deductions. I must say, given how much you still don't know, it is impressive that you've already managed to connect so many pieces of the truth.
@@ -254,34 +300,38 @@ Out-Of-Control Audience Member: That's way too much information for me... I thin
 Dozy Audience Member: Wait, but if that's the truth, we can't let the Hydro Archon be sentenced to death! After all, her only sin was creating us...
 Paimon: This really might be too much information for your regular Fontainian... But it does answer a lot of our questions.
 Neuvillette: Alas, your hypothesis regarding the third and fourth stone slates was inaccurate. The slates' respective positions are, in fact, correct.
-Traveler: So, they are in the right order?
+    Option 1:
+        Traveler: So, they are in the right order?
+    Option 2:
+        Traveler: What is the third slate supposed to represent, then?
 Neuvillette: A key point of the visual on the third slate is how all the individuals depicted in the water are humans, rather than Oceanids.
 Neuvillette: They have not been dissolved, which implies that the water depicted in this slate is not water from the Primordial Sea.
 Neuvillette: The nation of Fontaine is the nation of Hydro as well as the nation of trials and justice. Instead of being the literal element, the water in the scene symbolizes judgment and justice.
 Neuvillette: You may also recall Navia's experience. When she fell into the sea, her consciousness was surrounded by that of many others, who intended to hold a trial to determine her fate.
 Neuvillette: Therefore, the meaning of the third slate is...
 Neuvillette: ...That the people of Fontaine shall try the Hydro Archon at the court of justice.
-Traveler: ！！！
+    Option 1:
+        Traveler: ！！！
+    Option 2:
+        Traveler: It can't be...
 Neuvillette: Yes, it refers to our present situation.
 Navia: I think I'm following now. So what you're saying is, even though we decided to put on this trial to avoid fulfilling the prophecy...
 Navia: In truth, everything we've done has happened exactly as the prophecy foretold... So now it seems we're the ones making sure it comes true...
 Paimon: Wh—What should we do?
-Traveler: I don't know...
+    Option 1:
+        Traveler: I don't know...
+    Option 2:
+        Traveler: It... feels like there's no way out of this.
 Clorinde: No matter what, the prophecy will be fulfilled... Is this what it feels like to be a prisoner of fate?
 Paimon: If that's the case... Does that mean the scene in the fourth slate will also be fulfilled soon?
 Neuvillette: #Traveler, I would like to point out another small fallacy in your deductions.
 Neuvillette: About the fourth slate — you probably thought that the eruption of Primordial Seawater beneath the Fortress of Meropide served as the surest sign that the prophecy was about to come to pass, yes?
 Neuvillette: However, I believe that rather than being a sure sign, that eruption could in fact only be a small warning of something far worse to come.
 Neuvillette: As for the root cause of the catastrophe... I believe you've already encountered it once before.
-Traveler: I have?
-Traveler: Wait, could it be...
-Traveler: It... feels like there's no way out of this.
-Traveler: It can't be...
-Traveler: What is the third slate supposed to represent, then?
-Traveler: Depicts the fulfillment of the prophecy as it's already widely known.
-Traveler: I'm still convinced that it should come after the fourth slate.
-Traveler: The crime of the Hydro Archon... was her creation of Fontainians from Oceanids.
-Traveler: Fontainians are not real humans.
+    Option 1:
+        Traveler: I have?
+    Option 2:
+        Traveler: Wait, could it be...
 
 ## Talk 9
 
@@ -291,7 +341,10 @@ Paimon: Missing text (2719037170)
 ## Talk 10
 
 Paimon: That was way too close! How did that thing just burst into the opera house!? Wait. Was that the huge whale you saw in your dream?
-Traveler: That's right.
+    Option 1:
+        Traveler: That's right.
+    Option 2:
+        Traveler: I'd wager that it's also the one that Childe saw when he was young.
 Neuvillette: So, we've met it at last... I understand very well why it has chosen to make an appearance here.
 Neuvillette: That "whale" does not belong to Teyvat. It is a monster that has traversed the stars, weeping all the while.
 Neuvillette: It has been greedily consuming the energy from the planet's Primordial Sea, using it to grow. That is the main cause for the rising sea levels...
@@ -324,7 +377,6 @@ Traveler: (Could it be... That even if the prophecy will be fulfilled, there wil
 Traveler: (Did I... miss something...?)
 Traveler: (Wait, I forgot about Furina! What was it that she wanted to say to me at that last moment, in the Giant Magic Box?)
 Traveler: (What is her real secret?)
-Traveler: I'd wager that it's also the one that Childe saw when he was young.
 
 ## Additional Conversations
 
@@ -336,11 +388,17 @@ Traveler: I'd wager that it's also the one that Childe saw when he was young.
 Paimon: First of all, you may be a member of another long-lived race, which would allow you to naturally possess an extended lifespan. And second of all, even if that wasn't the case, there could be other ways to extend your life...
 Traveler: Such as... a curse.
 Furina: Hmph... Who gave you that idea? Was it The Knave? You'd sink so low as to use a Harbinger's words against me?
-Traveler: It doesn't matter who gave us the information.
+    Option 1:
+        Traveler: It doesn't matter who gave us the information.
+    Option 2:
+        Traveler: What matters is the veracity of the claim.
 Neuvillette: A curse... I once thought it possible that the aura of an Archon might naturally resemble a type of curse.
 Neuvillette: But in light of this claim, perhaps what I sensed was not your divinity, but a curse after all?
 Paimon: Neuvillette sensed it too, huh?
-Traveler: So, Furina...
+    Option 1:
+        Traveler: So, Furina...
+    Option 2:
+        Traveler: Instead of an Archon, could you just be a cursed human?
 Surprised Audience Member: Lady Furina... is actually human?
 Contemplative Audience Member: Well, it is true that it's extremely difficult to tell humans and gods apart just by looking at them. It's not impossible...
 Furina: Well, don't start celebrating too early now. Even if I have been carrying a curse like you said, how does that prove that I am merely a human being?
@@ -348,8 +406,6 @@ Furina: Besides, everyone knows that the main difference between a human and a g
 Furina: For centuries, manifestations of my authority have served the nation of Fontaine.
 Furina: One need only to turn their eyes towards the Oratrice Mecanique d'Analyse Cardinale in this very opera house, or consider the Indemnitium that is used in every aspect of life.
 Traveler: (Wait... That one trial proved the opposite. Furina actually has no control over the Oratrice at all...)
-Traveler: Instead of an Archon, could you just be a cursed human?
-Traveler: What matters is the veracity of the claim.
 
 ### Additional Talk 2
 
@@ -372,11 +428,17 @@ Furina: It is true that I did not know why the Oratrice gave out a guilty verdic
 Furina: But the Oratrice handed out that verdict unilaterally, and it has been operating independently ever since it was first created.
 Furina: You can't... You can't argue that just because a divine creation is flawed, that the god behind it must also be no god at all.
 Paimon: She's still throwing out all kinds of excuses... Seems like she's confident that we won't be able to produce proof that she has no power over the Oratrice.
-Traveler: Sure, we can put the Oratrice aside for now...
+    Option 1:
+        Traveler: Sure, we can put the Oratrice aside for now...
+    Option 2:
+        Traveler: But then, Miss Furina, could you give us a brief demonstration of your power as an Archon?
 Furina: My power as an Archon? There are many ordinary citizens in the audience. How can I just carelessly demonstrate the formidable power of an Archon...
 Neuvillette: If that poses a concern, I'm prepared to extend my protection to the audience.
 Furina: Erm... Y—You don't need to go that far...
-Traveler: A brief demonstration of your power over Hydro should be quite harmless.
+    Option 1:
+        Traveler: A brief demonstration of your power over Hydro should be quite harmless.
+    Option 2:
+        Traveler: Surely an Archon can at least match the capacities of a human with a Vision?
 Furina: I... Uh...
 Paimon: Aren't you the Hydro Archon? Or is it that you can't even wield the power of Hydro, much less the authority of a god?
 Furina: ...Indemnitium, yes, it's all because of Indemnitium! All Archons derive their power from the faith of the people, and I've converted the people's faith in justice into Indemnitium.
@@ -394,8 +456,6 @@ Furina: Tell me, then...! If I'm not the real Hydro Archon, then who is?
 Furina: If you have no evidence of another Hydro Archon's existence, nor can you find anyone who can back up their claim to be such, then what grounds have you to say that I'm not actually the real deal?
 Paimon: Wow, she came up with yet another argument... Ugh, how can we refute her now? Seems like she really doesn't want to give up.
 Traveler: (If we can't prove that she isn't the Archon, we can try to prove that she is just a human. And if she's only human...)
-Traveler: Surely an Archon can at least match the capacities of a human with a Vision?
-Traveler: But then, Miss Furina, could you give us a brief demonstration of your power as an Archon?
 
 ### Additional Talk 4
 
@@ -465,7 +525,10 @@ Neuvillette: We shall now turn to the Oratrice Mecanique d'Analyse Cardinale to 
 Neuvillette: According to the judgment of the Oratrice Mecanique d'Analyse Cardinale, Furina is—
 Neuvillette: ...Hmm?
 Paimon: Wh—What's wrong? What's the Oratrice's verdict?
-Traveler: It can't be...
+    Option 1:
+        Traveler: It can't be...
+    Option 2:
+        Traveler: Did the Oratrice just declare Furina to be innocent?
 Neuvillette: ...No, the Oratrice also displays a guilty verdict.
 Paimon: Isn't that correct, then?
 Neuvillette: However, the exact wording of the verdict is thus. "The Hydro Archon, guilty"...
@@ -478,11 +541,12 @@ Paimon: Furina's been sentenced to death by the Oratrice!? We just wanted to use
 Neuvillette: This outcome is indeed quite strange. According to Fontaine's current definitions of justice, as well as its recommendations for criminal sentences...
 Neuvillette: Is this sentence really appropriate for the crimes that have been committed...?
 Paimon: Yeah, even Vacher wasn't sentenced to death by the Oratrice... You know, the real evil mastermind behind the serial disappearances case.
-Traveler: What's more strange is...
+    Option 1:
+        Traveler: What's more strange is...
+    Option 2:
+        Traveler: Instead of Furina, the Oratrice rendered judgment on "the Hydro Archon."
 Neuvillette: Indeed. Not only is Furina's sentence overly excessive, the very point of our trial today was also to prove that Furina has never been the Hydro Archon in the first place.
 Neuvillette: But now, the Oratrice seems to have deliberately invoked the title of the "Hydro Archon." What does this mean?
-Traveler: Instead of Furina, the Oratrice rendered judgment on "the Hydro Archon."
-Traveler: Did the Oratrice just declare Furina to be innocent?
 
 ### Additional Talk 6
 
@@ -491,53 +555,95 @@ Paimon: Hmm, that doesn't sound right. Paimon doesn't think this clue can be use
 ### Additional Talk 7
 
 Traveler: We know from the case of the serial disappearances of young women that Fontainians can be dissolved in Primordial seawater...
+
 Traveler: Perhaps what is about to take place has all happened before.
+
 Traveler: It's not as simple as falling into the sea...
+
 Traveler: The prophecy from the stone slates found its way into society, but not many people believed it at first...
+
 Paimon: That doesn't sound quite right. Let's think about this some more...
+
 Paimon: Missing text (3988333090)
+
 Paimon: Missing text (777190162)
+
 Paimon: Missing text (2370938106)
+
 Paimon: They will dissolve into the waters of the Primordial Sea, and then they'll be like the Poisson residents Navia met when she fell into the sea... They'll turn into Oceanids.
+
 Paimon: The first stone slate describes what you had just said. It seems to show the previous Hydro Archon using her divine power, and then the Oceanids turn into humans...
-Paimon: The second stone slate shows Celestia floating in the sky, and the Hydro Archon and her people worshiping it together... but the heavens still brought judgment down upon them.
-Paimon: The third slate shows the Hydro Archon sinking into the sea, surrounded by many people.
-Paimon: Well, the fourth slate is the prophecy the Fontainians have been talking about. People dissolving into the sea, the Hydro Archon crying on her throne, and so on.
-Traveler: It was both dream and reality.
-Paimon: Missing text (1549874978)
 Paimon: Does that mean that Fontainians are transformed Oceanids? Paimon wasn't expecting that... But if Oceanids can turn into humans, then perhaps this process can be "reversed" as well?
+
+Paimon: The second stone slate shows Celestia floating in the sky, and the Hydro Archon and her people worshiping it together... but the heavens still brought judgment down upon them.
 Paimon: This must be the point when the Hydro Archon and the Fontainians were branded with their "original sin." Does this mean that the "original sin" and the "Hydro Archon's sin" are the same thing?
+
+Paimon: The third slate shows the Hydro Archon sinking into the sea, surrounded by many people.
 Paimon: Huh, that reminds Paimon, didn't we also watch that happen to someone else?
+
+Paimon: Well, the fourth slate is the prophecy the Fontainians have been talking about. People dissolving into the sea, the Hydro Archon crying on her throne, and so on.
 Paimon: We didn't believe that such a crazy disaster could happen at first, did we? But after "that incident," it was just a question of "when," and not "if."
+
+Traveler: It was both dream and reality.
+
+Paimon: Missing text (1549874978)
+
 Paimon: The "Hydro Archon" was sentenced to death in court, shocking everyone present. Perhaps this means that her sin was actually Fontaine's "original sin"...
+
 Paimon: Navia fell into the water inside those ruins, and she nearly dissolved. She was surrounded by the people of Poisson in a court within her consciousness, and was forced to take part in a trial meant to make her stay.
+
 Paimon: The eruption of the Primordial Sea at the Fortress of Meropide was the surest sign that the prophecy was about to come to pass no matter what.
+
 Paimon: The stone slates' content can all be verified by recent events. If we combined what we know together, loads of truths should come to light...
+
 Traveler: And the first stone slate tells us that long ago, the Hydro Archon used her power to turn Oceanids into humans...
+
 Traveler: This might be the reason that Fontainians can dissolve...
+
 Traveler: The true "sin" of the Hydro Archon that Neuvillette mentioned...
+
 Traveler: And the "original sin" cast down on the people of Fontaine by Celestia, as recorded on the stone slates...
+
 Traveler: When Navia fell into the sea, her consciousness was subjected to judgment.
+
 Traveler: The stone slates show the people gathered around the Hydro Archon in the sea... Could that be alluding to the same thing?
+
 Traveler: The Fortress of Meropide was nearly flooded with Primordial Seawater, which we know can cause Fontainians to dissolve. It seems increasingly likely that the prophecy may come true.
+
 Traveler: If we hadn't dealt with it in time, things could have gone very badly.
+
 Paimon: They'll dissolve into the Primordial Sea, but won't cease to exist... Their essence will flow in the seawater, converge... and take the form of an Oceanid.
+
 Paimon: Missing text (2058571354)
+
 Traveler: The truth, the original sin, the trial... and the root cause of the disaster.
+
 Paimon: If we're talking about a "true culprit," that could only be "that thing" inside the Primordial Sea, right?
+
 Neuvillette: This eruption was just a small warning of the things to come. We must find the root cause of the disaster...
 
 ### Additional Talk 8
 
 Paimon: Missing text (2624662466)
+
 Paimon: Missing text (2299897146)
+
 Paimon: Missing text (2774735266)
+
 Paimon: Missing text (3024103762)
+
 Paimon: Missing text (1118959522)
+
 Paimon: Missing text (172220954)
+
 Paimon: Missing text (39566402)
+
 Paimon: Missing text (3153518474)
+
 Paimon: Missing text (1648040842)
+
 Paimon: Missing text (3663955818)
+
 Paimon: Missing text (956812578)
+
 Paimon: Missing text (233421674)

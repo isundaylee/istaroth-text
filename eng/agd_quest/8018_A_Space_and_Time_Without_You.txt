@@ -10,27 +10,35 @@ Paimon: We ran into quite a big group from the Abyss Order just now. Has somethi
 Iansan: ...
 Iansan: The front line has collapsed.
 Paimon: Huh!? But how!?
-Traveler: Did the Abyss Order send in reinforcements?
+    Option 1:
+        Traveler: Did the Abyss Order send in reinforcements?
+    Option 2:
+        Traveler: Did they deploy some kind of secret weapon?
 Iansan: No, no, relax. THEIR front line has collapsed, not ours.
 Paimon: Phew... Feels like you could've phrased that more clearly at the start... This is good news, right? Why do you still look so serious?
-Traveler: Did we finally launch an attack?
+    Option 1:
+        Traveler: Did we finally launch an attack?
+    Option 2:
+        Traveler: Did we unleash the Pyro Archon's might on them?
 Iansan: No... We're still mustering troops. Nowhere near ready to go on the offensive.
 Iansan: So at first, I was also confused about what exactly happened out there...
 Iansan: But just now, I got the full story from a guard who was on the scene. He watched the enemy lines crumble in real time...
 Paimon: Wh—What did he see?
 Iansan: ...One person. Just a single individual... They stormed the enemy lines and attacked with a vengeance, cutting them down like paper dolls...
 Iansan: They wielded an unknown power, and fought with a sword style that no one recognized... The guard who relayed this to me said that before he even had time to react, the enemy was decimated...
-Traveler: Alright, I got it...
+    Option 1:
+        Traveler: Alright, I got it...
+    Option 2:
+        Traveler: I think I know what happened...
 Iansan: I'm only recounting what I heard, and I'm sure the guard in question must be exaggerating to some extent... But still, we have to identify this person...
 Iansan: And assuming they're a neutral party, we'll need to figure out how to engage with them... Clearly, they're a force to be reckoned with, so we don't want to come across as too weak or too hostile... It's quite a diplomatic conundrum.
 Paimon: Um... You don't need to sweat it, Iansan. From your description we're already pretty confident that we know this person.
 Paimon: Honestly, with the Abyss Order acting out so publicly, it's about time he showed up...
-Traveler: Yeah. Who else could it be?
+    Option 1:
+        Traveler: Yeah. Who else could it be?
+    Option 2:
+        Traveler: He never misses an occasion like this...
 Paimon (#Traveler & Paimon): ...Dainsleif!
-Traveler: He never misses an occasion like this...
-Traveler: I think I know what happened...
-Traveler: Did we unleash the Pyro Archon's might on them?
-Traveler: Did they deploy some kind of secret weapon?
 
 ## Talk 2
 
@@ -47,9 +55,13 @@ Traveler: Did they deploy some kind of secret weapon?
 ## Talk 6
 
 Traveler: The Abyss Order retreated when we attacked their stronghold with Iansan and Citlali. This isn't their usual style.
+
 Traveler: No... that could have been a tactical decision. At least, I can't see how that was directly connected to the revival of Khaenri'ah.
+
 Traveler: According to a guard stationed near the Masters of the Night-Wind, many members of the Abyss Order were seen idling around during the lull in the conflict, even settling down to meditate.
+
 Traveler: Wait... Could they have been doing that to help the Loom of Fate weave new Ley Lines? But still, that's just a theory, and it also doesn't tell me anything about whether they succeeded.
+
 Traveler: I couldn't see the monsters that Direidyth could see, and she couldn't see the ones I could. We could only see the monsters in each other's sight after making physical contact.
 
 ## Talk 7
@@ -68,28 +80,43 @@ Unknown Role (TALK_ROLE_NONE): Missing text (4060526458)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): So that's what happened... Istaroth, the Ruler of Time, must have had a hand in this.
 Unknown Role (TALK_ROLE_MATE_AVATAR): There's no other way that this meeting could have taken place.
-Traveler: #Lumine...
+    Option 1:
+        Traveler: #Lumine...
+    Option 2:
+        Traveler: You... knew of all this?
 Unknown Role (TALK_ROLE_MATE_AVATAR): I knew only the ending. I've always been curious about the events that led to it.
 Unknown Role (TALK_ROLE_MATE_AVATAR): #When the Cataclysm first began five hundred years ago, I, as the Princess of Khaenri'ah, was preparing to do my part — to fight back with all my might...
 Unknown Role (TALK_ROLE_MATE_AVATAR): But then this girl, Direidyth... she found me.
 Unknown Role (TALK_ROLE_MATE_AVATAR): The irony was that even as she desperately begged me to save the world... she brought me news of you.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I was stunned. And I was suspicious of her claim that you were searching for me... But then, she showed me the key to your Hibernation Chamber.
-Traveler: So...
+    Option 1:
+        Traveler: So...
+    Option 2:
+        Traveler: She actually did it?
 Unknown Role (TALK_ROLE_MATE_AVATAR): We'd been separated ever since I awakened in Teyvat. I searched the whole planet, and found no trace of you anywhere... And then she brought me that news at the worst possible moment...
 Unknown Role (TALK_ROLE_MATE_AVATAR): I was faced with an extremely difficult decision.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I desperately wanted to see you again. But Khaenri'ah was in equally desperate need of my help.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I knew that no matter what I chose, I'd regret my decision for the rest of my days.
 Unknown Role (TALK_ROLE_MATE_AVATAR): So I steeled myself against the guilt and made my decision. I went to see you.
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: And then?
 Unknown Role (TALK_ROLE_MATE_AVATAR): But when I found you, you were still in hibernation. Even the key to the chamber was still secure on your person.
-Traveler: You're saying...
+    Option 1:
+        Traveler: You're saying...
+    Option 2:
+        Traveler: Three keys existed simultaneously in that moment?
 Unknown Role (TALK_ROLE_MATE_AVATAR): I couldn't make sense of what I was seeing, but there was no time to think... I just grabbed you and ran. That's where we are right now — an intersection in our memories.
 Unknown Role (TALK_ROLE_MATE_AVATAR): This question has haunted me for the past five hundred years... I never imagined the answer would come to me like this.
 Unknown Role (TALK_ROLE_MATE_AVATAR): So, my actions five hundred years in the future set everything in motion... Are you mocking me, Istaroth?
 Traveler: (Direidyth succeeded in bringing us together. But unfortunately, it is versions of us five hundred years apart.)
 Traveler: (She hoped that the Savior would rescue Khaenri'ah, save the entire world... but instead, the news she brought led the Savior to make the complete opposite decision...)
 Traveler: (How awful... Is that her fate? Is that how her story must end?)
-Traveler: Has Khaenri'ah really been revived?
+    Option 1:
+        Traveler: Has Khaenri'ah really been revived?
+    Option 2:
+        Traveler: Have you done what you set out to do?
 Unknown Role (TALK_ROLE_MATE_AVATAR): Not yet, but I've taken a very important step. Now, the Ley Lines of Khaenri'ah are complete.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I'd always thought that Teyvat's Ley Lines were locked by the Heavenly Principles. No more can be added, and existing ones cannot be replaced.
 Unknown Role (TALK_ROLE_MATE_AVATAR): But then, I learned that Natlan's Night Kingdom appeared to be an exception to the rule... It has intrigued me ever since.
@@ -105,8 +132,18 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): With those memories as raw materials, and 
 Unknown Role (TALK_ROLE_MATE_AVATAR): What I now hold in my hand is the Atlas of the New World.
 Unknown Role (TALK_ROLE_MATE_AVATAR): This is the product of the Loom of Fate, holding within it the entire network of New Khaenri'ah's Ley Lines. With this, the nation once known as Khaenri'ah can rise again.
 Unknown Role (TALK_ROLE_MATE_AVATAR): One day... I will find a suitable host location for it.
-Traveler: Why...?
-Traveler: I don't understand.
+    Option 1:
+        Traveler: Why...?
+        Traveler: I don't understand.
+    Option 2:
+        Traveler: Why is reviving Khaenri'ah so important to you?
+        Traveler: I don't understand.
+    Option 3:
+        Traveler: Why...?
+        Traveler: Is it really just because of guilt?
+    Option 4:
+        Traveler: Why is reviving Khaenri'ah so important to you?
+        Traveler: Is it really just because of guilt?
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 Unknown Role (TALK_ROLE_MATE_AVATAR): When I first arrived in Khaenri'ah, five hundred years ago... My memory was completely blank.
 Unknown Role (TALK_ROLE_MATE_AVATAR): #It was only after I had served as their Princess for many years that I slowly began to remember everything, including you.
@@ -118,13 +155,6 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): If I wish to speak with the Heavenly Princ
 Traveler: ...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...?
-Traveler: Is it really just because of guilt?
-Traveler: Why is reviving Khaenri'ah so important to you?
-Traveler: Have you done what you set out to do?
-Traveler: Three keys existed simultaneously in that moment?
-Traveler: And then?
-Traveler: She actually did it?
-Traveler: You... knew of all this?
 
 ## Talk 11
 
@@ -147,7 +177,10 @@ Dainsleif: I'd like to see what makes you believe you've already won... or that 
 Haden (Iniquitous Baptist): #Then, allow me to be frank. As far as we are concerned... Our Princess has already won by other means.
 Haden (Iniquitous Baptist): #And I do not merely mean this battle. No, Her Highness has achieved something far greater...
 Haden (Iniquitous Baptist): ...For today, the Abyss Order's greatest wish has finally been fulfilled.
-Traveler: The Abyss Order's greatest wish?
+    Option 1:
+        Traveler: The Abyss Order's greatest wish?
+    Option 2:
+        Traveler: Does that mean...
 Dainsleif: Tch...
 Haden (Iniquitous Baptist): Our Highness quietly infiltrated the Night Kingdom to exploit that realm's past experience with Ley Line reconstruction...
 Haden (Iniquitous Baptist): And then used the Loom of Fate... to re-weave the Ley Lines of Khaenri'ah.
@@ -159,7 +192,10 @@ Haden (Iniquitous Baptist): And all of my comrades that you have slain, Dainslei
 Traveler: ...
 Dainsleif: What a load of drivel.
 Dainsleif: Your falsehoods are riddled with flaws. My ears tire of your tedium.
-Traveler: Isn't there more to reviving a homeland...
+    Option 1:
+        Traveler: Isn't there more to reviving a homeland...
+    Option 2:
+        Traveler: Than just reweaving its Ley Lines?
 Paimon: Right, you still need a few steps after that... Such as, finding a place to host the Ley Lines you just rewove.
 Paimon: Plus, if it was really so easy, Mavuika and The Captain would have had a way easier time during the war.
 Dainsleif: I have one simple question. If Khaenri'ah has indeed been revived as you claim, then where is it?
@@ -172,8 +208,6 @@ Citlali: Hard to say... I don't think it had any tangible effect on the Night Ki
 Citlali: It's like... a signal that exists on a different dimension of reality. It might not interfere with ours, or pose any detectable risk, but I just get the sense that something strange is going on.
 Traveler: #(I also vaguely remember... seeing Lumine in the Night Kingdom, facing the Lord of the Night...)
 Traveler: (Wait... That's not all. There were other signs as well...)
-Traveler: Than just reweaving its Ley Lines?
-Traveler: Does that mean...
 
 ## Talk 14
 
@@ -199,16 +233,21 @@ Iansan: And even if things don't go to plan, he just needs to bide his time unti
 Iansan: Mr. Dainsleif... I wish you the very best of luck.
 Dainsleif: Mm, thank you.
 Paimon: #Uh... Looks like he's waiting for you to say something, Traveler...
-Traveler: Allow me to join you, Dainsleif.
+    Option 1:
+        Traveler: Allow me to join you, Dainsleif.
+    Option 2:
+        Traveler: Alright, fine, I'm coming...
 Paimon: *sigh*... For a second there, Paimon actually thought he was gonna brave it alone... and then he called his own bluff.
-Traveler: Alright, fine, I'm coming...
 
 ## Talk 15
 
 Paimon: That should be all of them, right? So... We've destroyed the Abyss Order's headquarters in Natlan, but somehow, that didn't feel satisfying at all...
 Traveler: ...
 Paimon: #Are you still thinking about what that guy said, Traveler? You look really worried.
-Traveler: Direidyth is the only potential lead we have.
+    Option 1:
+        Traveler: Direidyth is the only potential lead we have.
+    Option 2:
+        Traveler: I think... we should at least talk to her about all this.
 Dainsleif: I understand. You think... she might be from the revived Khaenri'ah, yes?
 Dainsleif: I have said my piece — I doubt Khaenri'ah could be revived so easily. But if it will give you some peace of mind, you should talk to her and test your theory.
 Dainsleif: I will stay here and do some post-battle cleanup. Perhaps there are some clues left to be found.
@@ -283,7 +322,6 @@ Haden: Perhaps! But that is the gamble Our Highness has chosen to make. And than
 Dainsleif: Enough about your beloved leader. You said you would pay any price for my memories, did you not?
 Dainsleif: In that case... Prepare to be slain another hundred times for your deception.... I hope it was worth it.
 Haden: ...
-Traveler: I think... we should at least talk to her about all this.
 
 ## Talk 16
 
@@ -321,8 +359,10 @@ Traveler: A memento...?
 Traveler: (Wait...!)
 Direidyth: Huh...? What is it?
 Traveler: (If this is her future... If this is her fate...)
-Traveler: Give the key to *Direidyth*.
-Traveler: *Keep* the key.
+    Option 1:
+        Traveler: Give the key to *Direidyth*.
+    Option 2:
+        Traveler: *Keep* the key.
 
 ## Talk 19
 
@@ -343,15 +383,24 @@ Iansan: The Abyss Order made a full retreat before our forces even arrived on th
 Iansan: ...Hmm? What's wrong? You look upset.
 Paimon: #Paimon doesn't know the details, either. Traveler just... disappeared after taking Direidyth's hand... It was like they got sucked into another world.
 Paimon: #Paimon was looking all over for him... and then he suddenly reappeared, right back in the same spot. But looking a lot more glum.
-Traveler: ...It's fine, I just...
+    Option 1:
+        Traveler: ...It's fine, I just...
+    Option 2:
+        Traveler: I need some time to take everything in.
 Citlali: *yawn*...
 Citlali: #I think I got the gist of what happened... Something to do with your sister? I spoke with the Lord of the Night in a dream just now, and learned quite a lot.
 Paimon: #Huh? You met your sister?
-Traveler: I did.
+    Option 1:
+        Traveler: I did.
+    Option 2:
+        Traveler: We had a long talk.
 Paimon: And you didn't think to tell Paimon right away!? Well... Never mind. Paimon can see that you're pretty down right now. But let's go over everything later, alright?
 Citlali: #What your sister accomplished... it all but defies comprehension. I was stunned when I heard about it, too.
 Citlali: But what surprised me the most was that the Lord of the Night actually chose to allow it...
-Traveler: That caught me off guard, too.
+    Option 1:
+        Traveler: That caught me off guard, too.
+    Option 2:
+        Traveler: I would never have expected that.
 Citlali: The Lord of the Night did try to explain it to me, but... in a word, it's complicated.
 Citlali: During the war with the Abyss, Mavuika had an argument with The Captain.
 Citlali: Mavuika believed that we should fight to protect our culture and memories, while The Captain believed the preservation of the Ley Lines should come before all else.
@@ -367,18 +416,19 @@ Paimon: Huh...
 Iansan: Alright, well, let's not overthink this for now — we just won a war! Time for a well-earned drink to celebrate.
 Iansan: I trust the Lord of the Night unreservedly. I'm sure she only involved herself to take a problem off our hands. So, it's one less thing for us to worry about.
 Iansan: #Don't you agree, Traveler?
-Traveler: You've got a point.
+    Option 1:
+        Traveler: You've got a point.
+    Option 2:
+        Traveler: (I still feel like a mess, though...)
 Iansan: Come on, let's head back to the Collective of Plenty. Varesa should be there, too — we'll treat you to a real feast.
-Traveler: I'm sorry...
+    Option 1:
+        Traveler: I'm sorry...
+    Option 2:
+        Traveler: But there's somewhere else I want to go first.
 Iansan: Huh...?
 Citlali: #Iansan, leave him be.
 Citlali: This might be hard to understand for an extrovert like you... but some people need alone time to recharge every once in a while.
 Paimon: #Traveler...
-Traveler: But there's somewhere else I want to go first.
-Traveler: (I still feel like a mess, though...)
-Traveler: I would never have expected that.
-Traveler: We had a long talk.
-Traveler: I need some time to take everything in.
 
 ## Talk 23
 

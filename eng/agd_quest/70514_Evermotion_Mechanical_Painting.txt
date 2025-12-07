@@ -13,7 +13,10 @@ Félix Yogue: Ah, it comes and it goes... Like a belch after a good drink, or a 
 Félix Yogue: Hmm, actually, that's not a bad analogy. I should write it down. I'm sure Xavier would love it...
 Swan: You...
 Swan: Huh? Honorary Knight? Ah, wonderful! Just the person I wanted to see! Please, over here!
-Traveler: What's wrong?
+    Option 1:
+        Traveler: What's wrong?
+    Option 2:
+        Traveler: Did something happen?
 Swan: Well, allow me to introduce you. This man here is from the Court of Fontaine...
 Félix Yogue: No man am I, but a daydreamer! That is how we name ourselves!
 Swan: ...So, Mr. Yogue, this is our Honorary Knight...
@@ -22,9 +25,12 @@ Traveler: You know of me?
 Félix Yogue: Of course, of course! Who wouldn't?
 Félix Yogue: Your battle against Dvalin in Mondstadt made headlines in The Steambird for three whole weeks!
 Félix Yogue: Hahaha, if those reporters knew that I was speaking to you right now, why, they would be beside themselves with envy!
-Traveler: What's The Steambird?
-Félix Yogue: Ah, you don't know? It's a... Ah, let's say it's a rather popular newspaper in the Court of Fontaine.
-Félix Yogue: You once got their sales up to record numbers, I'll have you know.
+    Option 1:
+        Traveler: What's The Steambird?
+        Félix Yogue: Ah, you don't know? It's a... Ah, let's say it's a rather popular newspaper in the Court of Fontaine.
+        Félix Yogue: You once got their sales up to record numbers, I'll have you know.
+    Option 2:
+        Félix Yogue: Front-page, full-length, expert interviews up the wazoo, and the best hand-drawn illustrations Mora could buy! You made a lot of people mad Mora there.
 Traveler: Headlines, you say?
 Félix Yogue: Indeed! And you got their sales up to record numbers, to boot!
 Félix Yogue: Front-page, full-length, expert interviews up the wazoo, and the best hand-drawn illustrations Mora could buy! You made a lot of people mad Mora there.
@@ -46,8 +52,6 @@ Traveler: Leave it to me.
 Félix Yogue: Wonderful. You are indeed a mighty adventurer, and a mighty sympathetic one, too. Just as the papers said!
 Félix Yogue: Ah, it's a shame that we're in Mondstadt. Were we in the Court of Fontaine, I would bring a few reporters from The Steambird for an exclusive interview with you.
 Félix Yogue: I'm sure that your charisma would bowl them over to the point where you'd be guaranteed another three weeks' worth of headlines — not to mention the requisite royalties.
-Félix Yogue: Front-page, full-length, expert interviews up the wazoo, and the best hand-drawn illustrations Mora could buy! You made a lot of people mad Mora there.
-Traveler: Did something happen?
 
 ## Talk 2
 

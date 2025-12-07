@@ -155,7 +155,10 @@ Paimon: Hehe, guess it's finally over.
 Paimon: #Paimon was gonna say, for you to have grown up this big and yet still be safe, {REALNAME[ID(2)|SHOWHOST(true)]}...
 Paimon: Could it be that fighting was just what was needed to remove the bloodline curse?
 Paimon: Still, that Sage of the Stolen Flame weirdo didn't show up, not even once...
-Traveler: Maybe he already did.
+    Option 1:
+        Traveler: Maybe he already did.
+    Option 2:
+        Traveler: Did you see him, little guy?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Uworrgh...
 Paimon: Wait, what's wrong? Were you hurt during the battle?
@@ -179,11 +182,11 @@ Kukulkan: Perhaps... deep down, I still wished... to believe.
 Kukulkan: But look. Isn't it wonderful? It made the same choice I made back then — and Och-Kan too, for that matter.
 Kukulkan: ...My king, my elder brother, O lord who gave me life on the day you yourself were born... You once said that in my final moments, I would understand your desire.
 Kukulkan: Haha, but it seems that on this point alone, I cannot concede...
-Traveler: Did you see him, little guy?
 
 ## Talk 22
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: #(Rrrawr? White Floaty and Traveler are... locked up?)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: (Must... open... Must open! Must open!!!)
 
 ## Talk 32
@@ -217,8 +220,12 @@ Paimon: Now, only you can tread the final path.
 Kukulkan (One Who Speaks Coldly): Now, you have mastered the way Dragonborn speak — a distant thing, indeed, from the brute cries of Natlan's saurian-kind...
 Kukulkan (One Who Speaks Coldly): And if you willed it, you could have any intelligent being understand your words.
 Kukulkan (One Who Speaks Coldly): Indeed, the phlogiston within your body, and the information and wisdom passed down from antiquity through the primal flame will also begin emerging.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: You're... the Sage of the Stolen Flame?
-Kukulkan: That is what the humans named me... Waxaklahun Ubah Kan, too, is also one of the many names I created.
+    Option 1:
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: You're... the Sage of the Stolen Flame?
+        Kukulkan: That is what the humans named me... Waxaklahun Ubah Kan, too, is also one of the many names I created.
+    Option 2:
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: So, what should I call you... Kukulkan, then?
+        Kukulkan: That was the first of my names, and also the one that bound "me" most tightly. Later, however, as my list of names grew, it grew to be insignificant...
 Kukulkan: But "Kukulkan" was... Ah, forget it. Though all names will very soon become meaningless, you may simply call me that for now.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: (Hmm... Strange. I feel like I've forgotten something very important...)
 Kukulkan: Confused? Well, it is quite normal to, after having re-attained wisdom, be flooded by the sea of information.
@@ -228,8 +235,6 @@ Kukulkan: Well, what do you think? Quite convenient, no? Should you desire it, o
 #{REALNAME[ID(2)|SHOWHOST(true)]}: It's fine. I'm happy the way "I" am.
 Kukulkan: Fair enough. "Forgive me for being presumptuous"... That is how the story began, no? In that case, let us start this way, too.
 Kukulkan: Anyway, come with me.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: So, what should I call you... Kukulkan, then?
-Kukulkan: That was the first of my names, and also the one that bound "me" most tightly. Later, however, as my list of names grew, it grew to be insignificant...
 
 ## Talk 34
 
@@ -256,15 +261,20 @@ Kukulkan (Huitzilopochtli): Third confirmation. Are you certain that you wish to
 
 ## Talk 46
 
-Kukulkan (Huitzilopochtli): ...Third confirmation complete.
 Kukulkan: ...So this is your choice, then? Ah... Yes. This, too, is fine. Perhaps I should have made the same choice as you, all those years ago... Even though... Ah, how regrettable...
+Kukulkan (Huitzilopochtli): ...Third confirmation complete.
 Kukulkan (Huitzilopochtli): "Sweeping Skyfire" generator at closest possible proximity.
 Kukulkan (Huitzilopochtli): Collision... gather... Final... complete...
 Kukulkan (Huitzilopochtli): ...destroyed, and thus welcome...
 Kukulkan (Huitzilopochtli): The moment of rebirth.
 Black Screen Text: Before you stretches a world of pure white.
-Black Screen Text: This is a world the shadow can never again threaten, but is it a world with any meaning?
+[Missing Dialog 751511608]
+
 Black Screen Text: But still, for reasons none can know, only "it" remains.
+
+Black Screen Text: This is a world the shadow can never again threaten, but is it a world with any meaning?
+[Missing Dialog 751511615]
+
 Black Screen Text: If it could return to that moment, was there... another choice?
 
 ## Talk 47

@@ -13,11 +13,17 @@ Paimon: Whoa... Ugh, okay.
 Paimon: Good morning, Nahida! Wait... Now that Paimon remembers everything, should we instead say, "Good morning, Lesser Lord Kusanali"?
 Nahida: ...
 Paimon: Hey, what's wrong, Nahida? You don't look too good...
-Traveler: ...Where is Dunyarzad?
+    Option 1:
+        Traveler: ...Where is Dunyarzad?
+    Option 2:
+        Traveler: She couldn't have...!?
 Nahida: ...I'm afraid that what you're thinking right now is correct...
 Paimon: Did Dunyarzad already disappear? No way! Are... Are we too late?
 Nahida: The real Dunyarzad's consciousness has indeed disappeared. It can no longer endure the constant dream harvesting.
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: We were so close...
 Paimon: Paimon can't believe it... Wait, so what about that other Dunyarzad? Just what is she? Is she also going to disappear?
 Nahida: She's actually something like a puppet, but not completely.
 Nahida: The real Dunyarzad's consciousness could no longer keep playing her role in this dream...
@@ -28,7 +34,10 @@ Nahida: You know, speaking of which... The old Dunyarzad might not have been too
 Paimon: Dunyarzad truly believed that she met you within her consciousness, and it was you who inspired her... So you do remember her after all!
 Nahida: Yes. Back then, her family was overly protective of her. No one cared about her personality or thoughts. It was as if she only lived to stall her Eleazar.
 Nahida: I just gave her a little wisdom so she could look at life in a new way... So that she could be her own person. But even so, she still...
-Traveler: It still meant a lot to her.
+    Option 1:
+        Traveler: It still meant a lot to her.
+    Option 2:
+        Traveler: You are a kind archon.
 Nahida: ...Far from it. I'm still a long way off from being a real archon.
 Nahida: I couldn't even save her. If I were a competent archon, I wouldn't have let my most faithful follower die at the Sabzeruz Festival with so many regrets...
 Paimon: Please don't beat yourself up over it, Nahida! It's the Sages' fault, and theirs alone!
@@ -65,17 +74,18 @@ Paimon: Yeah... Saving Dunyarzad is what kept us going this whole time.
 Paimon: But we mustn't lose hope, Traveler! Dunyarzad would definitely want to see us save everyone else. So let's break this samsara for her sake!
 Paimon: Paimon's wondering... Do you think the sages would get one of their own to be the host of this dream? Feels like it would be easier to control it that way, no?
 Traveler: Unlikely.
-Traveler: Knowing the plan, they'd probably become aware that they were dreaming.
+    Option 1:
+        Traveler: Knowing the plan, they'd probably become aware that they were dreaming.
+    Option 2:
+        Traveler: An unsuspecting host would be less likely to realize this is a dream.
 Paimon: Huh, that's true. Plus, the sages probably weren't counting on there being other factors beyond their control — like Nahida and us.
 Paimon: So, who do you think the host of the dream is?
-Traveler: Maybe Farris, the Knight of Flowers?
+    Option 1:
+        Traveler: Maybe Farris, the Knight of Flowers?
+    Option 2:
+        Traveler: The one with the strange get-up?
 Paimon: Ooh! That would make sense! Farris, the Knight of Flowers, is a symbol of the whole Sabzeruz Festival, right? Pretty core character.
 Paimon: Let's go ask him some questions, shall we?
-Traveler: The one with the strange get-up?
-Traveler: An unsuspecting host would be less likely to realize this is a dream.
-Traveler: You are a kind archon.
-Traveler: We were so close...
-Traveler: She couldn't have...!?
 
 ## Talk 3
 
@@ -120,26 +130,39 @@ Paimon: Huh? But Dehya can handle them... Hey, Traveler!
 ## Talk 5
 
 Dehya: ...Oh? It's you. Great timing! Please take—
-Traveler: Take Dunyarzad and leave.
+    Option 1:
+        Traveler: Take Dunyarzad and leave.
+    Option 2:
+        Traveler: Leave these guys to me.
 Dehya: Hey, this is my job. The Homayanis pay me, not you.
-Traveler: You're wasting your breath.
+    Option 1:
+        Traveler: You're wasting your breath.
+    Option 2:
+        Traveler: Leave.
 Dehya: You... Ugh, alright fine, knock yourself out. Why are you so worked up anyway? It's not like I don't trust your fighting skills...
 Dehya: ...Anyway, watch yourself.
 Badis: So you got yourself some back-up? Hmph, suit yourself! You're goin' down!
-Traveler: Leave.
-Traveler: Leave these guys to me.
 
 ## Talk 6
 
 Paimon: Traveler... Were you just taking your anger out on those guys?
-Traveler: I'm fine...
+    Option 1:
+        Traveler: I'm fine...
+    Option 2:
+        Traveler: I'm just angry at myself.
 Paimon: *sigh* You and Nahida both... Dunyarzad wouldn't want to see you two like this.
 Paimon: Oh, and speaking of her... Paimon just remembered something.
 Paimon: Remember how during the first Sabzeruz Festival, before the samsara started, we came here with Dunyarzad because she wanted to pick something up?
 Paimon: She said it was because she had forgotten something.
-Traveler: Yes, I do remember that.
+    Option 1:
+        Traveler: Yes, I do remember that.
+    Option 2:
+        Traveler: Ah yes. I'd forgotten all about that.
 Paimon: Okay, so Paimon's memory is working so far... Anyway, Paimon also remembers that she's staying somewhere around here. She pointed it out to us the night before the Sabzeruz Festival.
-Traveler: Should we check out what the item is?
+    Option 1:
+        Traveler: Should we check out what the item is?
+    Option 2:
+        Traveler: Maybe it'll give us some clues.
 Paimon: Yeah, even if it's only a tiny clue, it'll probably still help us more than this needle-in-a-haystack search...
 Paimon: This is the place. It's rude to enter other people's spaces without permission, but desperate times call for desperate measures!
 Paimon: Hey, the windows are unlocked. Okay, Paimon's gonna take a peek inside.
@@ -153,9 +176,6 @@ Paimon: If we hadn't found this book, we never would have known...
 Paimon: But now that we know, we can't even thank her...
 Traveler: Dunyarzad...
 Paimon: Hey, where are you off to now?
-Traveler: Maybe it'll give us some clues.
-Traveler: Ah yes. I'd forgotten all about that.
-Traveler: I'm just angry at myself.
 
 ## Talk 8
 
@@ -168,11 +188,17 @@ Paimon: Traveler, what the heck are you doing!? If you get arrested by the Akade
 Azar: ...
 Setaria: ...
 Paimon: Wait... They're not reacting! Have they been scared stiff...?
-Traveler: Just like I thought...
+    Option 1:
+        Traveler: Just like I thought...
+    Option 2:
+        Traveler: They're puppets.
 Paimon: Oh, of course! If this is the sages' plan, they wouldn't put themselves through this...
 Paimon: So they're just substitutes.
 Nilou: What is this? What happened to the Grand Sage and his entourage?
-Traveler: Hold on a moment...
+    Option 1:
+        Traveler: Hold on a moment...
+    Option 2:
+        Traveler: What's up with those flowers!?
 Nilou: Hehe, like I said, they symbolize the Goddess of Flowers, after all. It's just a shame that all the real Padisarahs went extinct after her death.
 Dunyarzad: Yes. The Greater Lord brought forth new Padisarahs in memory of the Goddess of Flowers, but she ultimately could never truly replicate that beautiful shade of purple.
 Nilou: Ahh, "that beautiful shade of purple"... Aren't these flowers real Padisarahs, just like the ones from the legend? I didn't even notice! Dunyarzad, did you find these?
@@ -210,14 +236,16 @@ Nilou: In the end, the First Sage took care of many disasters in Sumeru City and
 Paimon: So... The First Sage was dreaming ever since the beginning of the story? He never went on his journey?
 Nilou: Yes, but his faith and determination were conveyed to the Dendro Archon, so she blessed him in the form of a dream.
 Paimon: Paimon understands where you're coming from now. That's a really interesting connection... But we really gotta wake up soon, like the sage in the story.
-Traveler: Now that Nilou is aware of it...
+    Option 1:
+        Traveler: Now that Nilou is aware of it...
+    Option 2:
+        Traveler: This dream should be over soon.
 Nilou: I see. Well, it just so happens that today's Sabzeruz Festival is almost over, too.
 Nilou: Since we're in a dream, let's make this final Dance of Sabzeruz as beautiful as we can!
-Traveler: I've been waiting a long time for this.
-Traveler: Please dance your heart out.
-Traveler: This dream should be over soon.
-Traveler: What's up with those flowers!?
-Traveler: They're puppets.
+    Option 1:
+        Traveler: I've been waiting a long time for this.
+    Option 2:
+        Traveler: Please dance your heart out.
 
 ## Talk 10
 
@@ -241,19 +269,23 @@ Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to l
 ## Talk 22
 
 Paimon: *yawn* Good morning, Traveler. Paimon feels like she's been asleep for the longest time...
-Traveler: Good morning, Paimon.
+    Option 1:
+        Traveler: Good morning, Paimon.
+    Option 2:
+        Traveler: My head hurts.
 Paimon: ...Paimon's head feels super heavy. Did we oversleep? ...Do you even remember going to sleep last night?
 Paimon: Paimon thinks it was... after the Sabzeruz Festival...
 Paimon: *gasp* The Sabzeruz Festival!
 Paimon: Have we finally escaped from the Sabzeruz samsara?
 Traveler: I remember now!
 Paimon: Quick, take off your Akasha Terminal!
-Traveler: At the end of the Dance of Sabzeruz, I think I saw...
+    Option 1:
+        Traveler: At the end of the Dance of Sabzeruz, I think I saw...
+    Option 2:
+        Traveler: Quick, let's go see Dunyarzad!
 Paimon: She's not in her room. What happened?
 Traveler: Let's go to the usual spot!
 Paimon: Huh? What usual spot?
-Traveler: Quick, let's go see Dunyarzad!
-Traveler: My head hurts.
 
 ## Talk 93
 
@@ -268,7 +300,10 @@ Traveler: My head hurts.
 *Conversations not present as sub-quests.*
 
 Paimon: It's Dunyarzad's puppet...
-Traveler: (I guess...)
+    Option 1:
+        Traveler: (I guess...)
+    Option 2:
+        Traveler: (I'll feel better if I say this out loud...)
 Traveler: Thank you.
 Paimon: Traveler...
 Paimon: You must be exhausted.
@@ -282,8 +317,9 @@ Traveler: Dunyarzad...?
 Dunyarzad: Yes, Traveler? What is it?
 Traveler: ...
 Paimon: Oh... So she's still just a puppet. But just now... How come...
-Traveler: Not leave behind any regrets...
+    Option 1:
+        Traveler: Not leave behind any regrets...
+    Option 2:
+        Traveler: Let's go, Paimon.
 Paimon: What? Where are we going this time?
 Traveler: To watch the Dance of Sabzeruz.
-Traveler: Let's go, Paimon.
-Traveler: (I'll feel better if I say this out loud...)

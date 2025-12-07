@@ -21,7 +21,10 @@ Nilou: Yes, I feel a lot better. The more I think back on everything, the more s
 Nilou: I don't think I could repeat what I did a second time.
 Traveler: All of our preparations paid off.
 Nilou: Yes, and it's all thanks to you.
-Traveler: Now that I've heard everyone else's stories...
+    Option 1:
+        Traveler: Now that I've heard everyone else's stories...
+    Option 2:
+        Traveler: I want to hear yours.
 Nilou: Hehe, I see. You mean how fate brought me to the theater, right?
 Nilou: Then, I'll have to tell you about my teacher, who Mr. Zubayr had mentioned.
 Nilou: Mr. Zubayr opened his theater when I was still a child.
@@ -33,26 +36,31 @@ Nilou: Yeah. She said, "Dance is an art born from toil. It isn't a gift from the
 Nilou: "It is a beautiful thing born from our life experiences. Whenever there is joy or something to be celebrated, people will dance."
 Nilou: "In other words, any place where people can effortlessly begin a dance will for sure be filled with the blessings of everyone's happiness."
 Nilou: She wasn't looking for flowers and applause — all she wanted was to see her audience smile.
-Traveler: So that is...
+    Option 1:
+        Traveler: So that is...
+    Option 2:
+        Traveler: What art means to people.
 Nilou: Right, the same as what Mr. Khasani believes.
 Nilou: I was completely moved by what she had said, so I started taking dance lessons from her. And later on, I began to dance here in her stead.
 Nilou: Before she retired, she told me, "For as long as you live, never forget what dance means to others."
 Nilou: This is why Mr. Zubayr and I never intended to listen to the Akademiya.
 Nilou: Even though it ended up causing everyone a whole lot of trouble, thankfully, everything worked out in the end.
-Traveler: I see.
+    Option 1:
+        Traveler: I see.
+    Option 2:
+        Traveler: Looks like you won't have to worry anymore.
 Nilou: Mhm, although I do have a small regret.
 Traveler: Inayah?
 Nilou: Yeah. Even though she has already decided to stop fighting with her father, they never managed to have a real conversation with each other.
 Nilou: Before he left, Mr. Sharif looked like he had a lot on his mind.
 Nilou: He probably has a lot of things he wants to say, but will now perhaps never get a chance to.
-Traveler: That really is a shame.
+    Option 1:
+        Traveler: That really is a shame.
+    Option 2:
+        Traveler: That might be for the best.
 Nilou: Yeah, but I still hope that things can change. It never hurts to have hope.
 Nilou: You and Paimon are more than welcome to keep attending our shows.
 Nilou: Hehe, who knows, next time, you might see Inayah on the stage.
-Traveler: That might be for the best.
-Traveler: Looks like you won't have to worry anymore.
-Traveler: What art means to people.
-Traveler: I want to hear yours.
 
 ## Talk 5
 
@@ -65,12 +73,18 @@ Traveler: A lot of things came together to make it happen.
 Paimon: Nilou's efforts, everyone's wisdom, Inayah's determination...
 Traveler: And Sharif's mercy.
 Paimon: Huh? What do you mean by that?
-Traveler: I think he intentionally gave us a chance.
+    Option 1:
+        Traveler: I think he intentionally gave us a chance.
+    Option 2:
+        Traveler: He didn't have to agree to the debate.
 Paimon: You do have a point there...
 Paimon: The whole demolition thing was going overboard, but he really could've banned Nilou and the others from dancing.
 Paimon: If he really wanted to be ruthless, he could've done some real damage, even without winning the debate.
 Paimon: Oh well, it's not like we can understand how people like him think. Let's focus on watching the performance!
-Traveler: Agreed.
+    Option 1:
+        Traveler: Agreed.
+    Option 2:
+        Traveler: Enough of him for now.
 Paimon: Huh!? Wait, look who the cat dragged in!
 Paimon: Isn't that Inayah's father!?
 Traveler: Let's go greet him.
@@ -109,12 +123,12 @@ Nilou: Ms. Rekhar and Miss Najia made and assembled the centerpiece.
 Nilou: As adventurers, you two will doubtlessly travel to many more lands and see many more things.
 Nilou: That's why we hope that your time at Zubayr Theater will become a fond memory of your journey. You two are welcome back anytime!
 Paimon: Mhm, we'll come back and watch you dance whenever we get the chance!
-Traveler: Thank you all for being so considerate.
+    Option 1:
+        Traveler: Thank you all for being so considerate.
+    Option 2:
+        Traveler: According to custom, I should drop the formalities and just accept it, right?
 Nilou: You're welcome, and there's no need to be so polite. You learned fast!
 Nilou: Come on, take it. This is the story of you and me. It's a tale that I'll never, ever forget.
-Traveler: According to custom, I should drop the formalities and just accept it, right?
-Traveler: Enough of him for now.
-Traveler: He didn't have to agree to the debate.
 
 ## Talk 6
 
@@ -153,25 +167,31 @@ Safwan: However, the demolition process in those cases was only started after di
 Nilou: That's more than enough. We've proven that the order is unreasonable as it currently stands.
 Sharif: ...Hmph. Cease your futile resistance.
 Paimon: Nilou's definitely won this point, right?
-Traveler: She still can't let down her guard.
+    Option 1:
+        Traveler: She still can't let down her guard.
+    Option 2:
+        Traveler: He'll bite back.
 Paimon: You're right... Stay focused, Nilou!
 Sharif: Even if permission for demolition has yet to be obtained, it is a fact that your performances violated the Akademiya's policies on numerous occasions.
 Sharif: Based on that fact, we can permanently revoke your right to perform in Sumeru.
 Nilou: Ah...
 Safwan: Under the current system, it is indeed possible to immediately revoke Zubayr Theater's performing rights.
 Paimon: That's a thing!?
-Traveler: I figured.
+    Option 1:
+        Traveler: I figured.
+    Option 2:
+        Traveler: That's his back-up plan.
 Sharif: Rather than protecting Zubayr Theater, I surmise that your true intention is to maintain your hold over your audience, and their patronage as your source of income.
 Sharif: Without them, Zubayr Theater is nothing more than an empty building.
 Sharif: And without its performances, the theater has nothing else of value.
 Nilou: What you said isn't true at all!
 Paimon: Ahh, keep it cool, Nilou!
-Traveler: Don't get riled up.
+    Option 1:
+        Traveler: Don't get riled up.
+    Option 2:
+        Traveler: He's intentionally provoking you.
 Nilou: (Right, I need to keep calm, but he...)
 Nilou: (Just a little more. Zubayr Theater isn't just a performance venue to us...)
-Traveler: He's intentionally provoking you.
-Traveler: That's his back-up plan.
-Traveler: He'll bite back.
 
 ## Talk 8
 
@@ -181,15 +201,25 @@ Nilou: I think I already see you two as people of the Grand Bazaar. Yep, without
 ## Talk 9
 
 Nilou: (Don't think that would make for a good rebuttal.)
+
 Nilou: (Nonono, can't do that.)
+
 Nilou: (I need to rethink things. This is a crucial moment, so I can't mess up.)
+
 Nilou: (No, Zubayr Theater should be...)
+
 Nilou: (I can't seem to make a connection here.)
+
 Rekhar: The most important thing about an experience is how you choose to interpret it.
+
 Khasani: Art must first be appreciated by others to confer value.
+
 Nilou: (Mr. Zubayr has been meticulously managing the theater. Everything checks out.)
+
 Nilou: (Everyone is free to appreciate art — no form of art is inherently superior.)
+
 Nilou: (Inayah really wants to win. She doesn't wanna lose anything else because of her painful past.)
+
 Nilou: (The theater carries everyone's feelings, and serves as the bond that connects us all.)
 
 ## Additional Conversations
@@ -223,11 +253,13 @@ Safwan: Sharif's argument is currently the more persuasive of the two for this p
 Safwan: The continuance of the interpersonal relationships Nilou spoke of remains hypothetical before the theater's demolition, whereas the situation that Sharif described has been well documented at the Akademiya.
 Safwan: The Akademiya has made significant academic contributions in no small part due to its researchers' efficiency and ability to compartmentalize.
 Paimon: Oh no, what should we do? Things are going in the opposite direction...
-Traveler: Patience, Paimon.
+    Option 1:
+        Traveler: Patience, Paimon.
+    Option 2:
+        Traveler: Nilou might be setting him up.
 Paimon: A set-up? So Nilou's got him?
 Nilou: (Good, he's said what he said. The next argument could decide this debate.)
 Nilou: (But... is this really the best thing to do? It might be too cruel to Inayah...)
-Traveler: Nilou might be setting him up.
 
 ### Additional Talk 3
 
@@ -274,7 +306,10 @@ Nilou: They... left?
 Rekhar: Does that mean we've won?
 Kourosh: We won?
 Paimon: Nilou, you're amazing!
-Traveler: Fantastic job!
+    Option 1:
+        Traveler: Fantastic job!
+    Option 2:
+        Traveler: Inayah was also brilliant!
 Nilou: Ha... Haha...
 Nilou: I relaxed for a moment, and... I feel a little faint...
 Nilou: It looks like he still has a place for her in his heart.
@@ -284,7 +319,6 @@ Nilou: This really took a lot out of me, though. *sigh* I don't ever wanna do th
 Sohrin: Both Miss Nilou and Miss Inayah were so cool!
 Rekhar: Should we throw a second round of celebrations?
 Black Screen Text: The curtain finally falls on the debate amidst a euphony of cheers...
-Traveler: Inayah was also brilliant!
 
 ### Additional Talk 4
 

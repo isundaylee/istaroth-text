@@ -73,7 +73,9 @@ Balam: Alright, our contestants have each said their piece. To your places, ever
 ## Talk 14
 
 Paimon: So full... *yawn* and so sleepy... We should get a good night's sleep before the competition tomorrow!
+
 Paimon: Paimon's still a little worried about Kachina, though. Maybe we can help her out with her training?
+
 Paimon: She did say she wanted to learn from us... Not that Paimon's gonna be doing much of the teaching...
 
 ## Talk 15
@@ -123,8 +125,10 @@ Paimon: So, if one of you has to lose... Who should we cheer for, then?
 Mualani: Hahaha, you mean one of us is destined to win! It's something worth celebrating either way!
 Mualani: I'll be happy no matter who wins, and I know you feel the same way, Kachina. So don't overthink it — let's just have ourselves a good match.
 Mualani: #Traveler, Paimon — I'll see you after the match. Kachina — I'll see you on the field.
-Traveler: Kachina...
-Traveler: Good luck.
+    Option 1:
+        Traveler: Kachina...
+    Option 2:
+        Traveler: Good luck.
 Kachina: I've been training so long for this, and Mualani's helped so much. I'm going to show her that it didn't go to waste.
 Kachina: Thanks for believing in me. I'll... try believing in myself this time, too.
 
@@ -172,7 +176,10 @@ Mualani: Not that it feels good to lose, but I'm happy for her... *sigh* Definit
 Mualani: Hey, wanna go for a walk? Kachina and the others will be busy fighting the Abyss, so why don't I show you around Natlan for a while?
 Paimon: #Sure. What do you say, Traveler?
 Paimon: Uh, something on your mind?
-Traveler: I'm a little worried about Kachina.
+    Option 1:
+        Traveler: I'm a little worried about Kachina.
+    Option 2:
+        Traveler: This is her first time fighting in the Night Warden Wars, right?
 Mualani: Listen, I'd be lying if I said I wasn't worried. But, she's got experienced, powerful companions to take the lead. I'm sure they'll be fine.
 Mualani: Glory always comes with a risk. If victory was assured, no one would take pride in it.
 Mualani: She's not one to fall so easily. She bears the Ancient Name, "Utha{RUBY#[D]Resilience}biti," after all. We just need to hold the fort while they're gone...
@@ -183,11 +190,12 @@ Paimon: Kinich?
 Kinich: I was planning on inviting you to visit the Scions of the Canopy. Most of the Adventurers that belong to the Guild come from my tribe, so I figured you might be interested.
 Mualani: Hey, first come, first served. You snooze you lose, Kinich.
 Kinich: #Yeah, yeah. You were first. Still, Traveler, Paimon, feel free to stop by if you ever have time. You're always welcome.
-Traveler: Thank you very much.
+    Option 1:
+        Traveler: Thank you very much.
+    Option 2:
+        Traveler: We'll be there.
 Paimon: Yeah! Thanks for inviting us!
 Mualani: Alright! Let's pack up and head out!
-Traveler: We'll be there.
-Traveler: This is her first time fighting in the Night Warden Wars, right?
 
 ## Talk 23
 
@@ -213,14 +221,23 @@ Paimon: Cheerleaders One and Two are here for you, no matter what!
 Paimon: Kachina!
 Kachina: Oh, it's you two! I just finished training with Mualani. What's up?
 Paimon: Well, you worked so hard to introduce us to Natlan, we wanted to return the favor!
-Traveler: Thought I could share some experience with you.
+    Option 1:
+        Traveler: Thought I could share some experience with you.
+    Option 2:
+        Traveler: I want to help you do the best you can.
 Mualani: Wow, you guys are exactly like Kachina described. No wonder she's already your biggest fan.
 Mualani: Guess I should make myself scarce, though. Kachina was the one who helped you out all day, so I don't want to intrude on your secret teachings.
-Traveler: It's just a simple piece of advice, actually.
+    Option 1:
+        Traveler: It's just a simple piece of advice, actually.
+    Option 2:
+        Traveler: A battle is more than just a contest of strength.
 Kachina: Huh? What do you mean?
 Traveler: Observation is also key.
 Kachina: Observation...
-Traveler: Study your opponent. Master their habits.
+    Option 1:
+        Traveler: Study your opponent. Master their habits.
+    Option 2:
+        Traveler: Let wisdom become another weapon in your arsenal.
 Paimon: Yeah! The person who hits the hardest isn't always the one who wins!
 Kachina: Oh, I... I think I get it...
 Kachina: You're saying... fight smarter not harder. Having the strength to win is just as important as knowing the right strategy.
@@ -230,9 +247,6 @@ Kachina: Mind sticking around a little longer, Mualani? I want to try out some n
 Mualani: Sure!
 Kachina: Thanks for taking the time to teach me, you two. I won't let you down!
 Paimon: Just give it your best shot!
-Traveler: Let wisdom become another weapon in your arsenal.
-Traveler: A battle is more than just a contest of strength.
-Traveler: I want to help you do the best you can.
 
 ### Additional Talk 4
 

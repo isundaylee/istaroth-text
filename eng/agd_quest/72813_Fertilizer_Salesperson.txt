@@ -15,8 +15,12 @@ Iwata: To get into the specifics, you want to mix some crops and some, ah, anima
 Iwata: Afterward, you cover it with a layer of branches and leaves and such to maintain the temperature.
 Iwata: After a while, they say that the ingredients will undergo some changes and even blend together, forming a sort of fertilizer.
 Iwata: But no matter how much I experiment, these materials just won't come together. It's really strange...
-Traveler: Do you have the wrong ingredients by any chance?
-Iwata: Crops, animal excrement, branches and leaves... Should be correct. That's what I've heard, at least.
+    Option 1:
+        Traveler: Do you have the wrong ingredients by any chance?
+        Iwata: Crops, animal excrement, branches and leaves... Should be correct. That's what I've heard, at least.
+    Option 2:
+        Traveler: Did something go wrong during the process?
+        Iwata: Pile the materials up, cover with branches to maintain their temperature. No, this should be correct...
 Iwata: Where did I go wrong...
 Iwata: Forget it. Let me just try again. Traveler, could I ask you for a favor?
 Iwata: I'll make another batch of fertilizer. Once it's done, I'd like you to check on it together with me.
@@ -24,8 +28,6 @@ Iwata: Given how much you've seen and learned, you might know what went wrong du
 Traveler: Sure.
 Iwata: Alright, I'm counting on you, Traveler! I'll make some preparations over there first.
 Iwata: Making this sort of fertilizer requires some time, so please come find me in a bit. Until then, please help me watch that fertilizer pile.
-Traveler: Did something go wrong during the process?
-Iwata: Pile the materials up, cover with branches to maintain their temperature. No, this should be correct...
 
 ## Talk 2
 
@@ -56,7 +58,10 @@ Gorou: Lately, a lot of residents have been complaining of a terrifying stench n
 Gorou: So for safety, I came to investigate, and wound up following the smell all the way here.
 Gorou: That's how I found you.
 Gorou: Iwata, I've heard that you've been researching fertilizer, but the way that you're going about it is...
-Traveler: ...A disturbance to the peace?
+    Option 1:
+        Traveler: ...A disturbance to the peace?
+    Option 2:
+        Traveler: ...Far too intense?
 Gorou: Basically. Either way, Iwata, could you please dispose of that fertilizer? We'll try to help you find some other way.
 Ookubo Daisuke: Sir! General Gorou!
 Gorou: I'm here. What's happened?
@@ -67,11 +72,12 @@ Gorou: Fertilizer this, fertilizer that... What is it with me and fertilizer tod
 Gorou: I've got it. I'll be with you shortly. Head back first and help to maintain order.
 Gorou: Iwata, please deal with the matter of the fertilizer. We'll discuss this further later.
 Gorou: Traveler, why don't you come with me?
-Traveler: Doesn't seem like there's anything else to do.
+    Option 1:
+        Traveler: Doesn't seem like there's anything else to do.
+    Option 2:
+        Traveler: A fertilizer... salesperson?
 Paimon: Someone selling fertilizer? Paimon can't help feel like that's familiar somehow... Nothing's coming to mind, though...
 Paimon: Ah well, whatever. Let's just go over there and see what's up!
-Traveler: A fertilizer... salesperson?
-Traveler: ...Far too intense?
 
 ## Talk 4
 
@@ -90,7 +96,10 @@ Ookubo Daisuke: General, I'm positive that she's a Shogunate spy!
 Alrani: I'm not! And I wasn't! I already told you, I'm a researcher! I was just collecting material for my thesis!
 Hiroyuki: Cut the crap! Do you seriously expect us to believe that you'd walk into a battlefield over a thesis? You're definitely playing at something else!
 Alrani: ...What could I really dare to play at other than my thesis anyway...
-Traveler: Oh, it's you...
+    Option 1:
+        Traveler: Oh, it's you...
+    Option 2:
+        Traveler: Alrani?
 Alrani: Traveler! Oh, this is wonderful! Please tell them I'm not a bad person! I'm just here to write my thesis!
 Gorou: You know her?
 Traveler: Well, you could say that...
@@ -107,7 +116,6 @@ Gorou: That actually sounds like a decent plan. Traveler, could we trouble you t
 Gorou: Just in case of any incidents, I'll stay here and guard this... fertilizer saleswoman.
 Traveler: Alright.
 Gorou: It's up to you then. Come back as quickly as possible.
-Traveler: Alrani?
 
 ## Talk 6
 
@@ -146,26 +154,35 @@ Gorou: Well, since you did claim to be a fertilizer salesperson earlier, and you
 Gorou: Well, there is something you can do for us. We have a man named Iwata living here who's researching fertilizer. Miss Alrani, please lend him a hand.
 Gorou: If you can help him produce some fertilizer that isn't also a public disturbance, then you're free to do research here, just like Mr. Kaushik.
 Alrani: F—Fertilizer? Wait, I... I'm just...
-Traveler: She'll be fine!
+    Option 1:
+        Traveler: She'll be fine!
+    Option 2:
+        Traveler: You got this, Alrani.
 Kaushik: Alrani, this is a good opportunity to collect research material. Since you're here in Inazuma, that must mean that your thesis is still...
 Alrani: Uh... Ugh...
 Kaushik: You know what the standards for graduation are at the Akademiya. If you can't graduate several years in a row...
 Alrani: I—I'll do it! I'll do it, alright?
 Alrani: I—I've learned about the fertilizer at Mr. Vahid's... I'll get this done in one go, just you all watch!
-Traveler: Graduation begets character growth...
+    Option 1:
+        Traveler: Graduation begets character growth...
+    Option 2:
+        Traveler: Graduation equals strong motivation...
 Gorou: Well, then we'll call this a day for now. Miss Alrani, the fertilizer matter is in your hands. I've got some other matters to handle, so if you'll excuse me...
 Gorou: Ah, yes. Please remind Iwata to, uh, move his fertilizer a bit further away.
 Kaushik: Alright, I'll continue with my research now. If you have any questions, Alrani, just feel free to ask me.
-Traveler: Graduation equals strong motivation...
-Traveler: You got this, Alrani.
 
 ## Talk 9
 
 Iwata: Traveler, you're back. I've disposed of that pile of fertilizer.
 Iwata: *sigh* I suppose I'll have to find another place to conduct my experiments...
 Iwata: Hmm? This person is...
-Traveler: An assistant Gorou found you.
-Alrani: Hello, I'm Alrani...
+    Option 1:
+        Traveler: An assistant Gorou found you.
+        Alrani: Hello, I'm Alrani...
+    Option 2:
+        Traveler: A fertilizer specialist from Sumeru.
+        Alrani: Hello there, I'm Alrani... Wait a moment. A fertilizer specialist?
+        Alrani: I... I just learned a little about them.
 Alrani: Well, either way... The general they called Gorou requested that I assist you with your fertilizer research.
 Alrani: It's a pleasure to be working with you from now on.
 Iwata: Is that so... That's great! If we succeed, then we'll be able to plant more crops here on Watatsumi Island!
@@ -174,9 +191,6 @@ Iwata: Eh? Oh! Oh, I get it.
 Iwata: Yes, the pleasure is all mine, Miss Alrani!
 Alrani: Yeah, I'll do my best.
 Alrani: I'll do my best. This is for my thesis...
-Traveler: A fertilizer specialist from Sumeru.
-Alrani: Hello there, I'm Alrani... Wait a moment. A fertilizer specialist?
-Alrani: I... I just learned a little about them.
 
 ## Talk 10
 

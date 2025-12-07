@@ -46,7 +46,10 @@ Furina: ...That's all I have to say. We do not discuss this matter again.
 Furina: Ah, the opera's about to start. Toodles!
 Neuvillette: ...
 Paimon: Did Furina not notice us standing by the door? Wonder what's up with her. She was smiling... Huh, she didn't seem in the mood to care if we were listening in or not...
-Traveler: She seems deeply troubled...
+    Option 1:
+        Traveler: She seems deeply troubled...
+    Option 2:
+        Traveler: She seems to be deliberately hiding something...
 Neuvillette: I assume you've been outside for a while now?
 Paimon: Oh, you noticed? Seems Furina didn't even realize we were here.
 Neuvillette: She was in a great panic, though I cannot discern the reason. Our discussion reached impasses time and again — a state of affairs that we cannot allow to continue.
@@ -65,7 +68,6 @@ Neuvillette: This may be cruel to her, but all Fontaine is in crisis — the "in
 Traveler: In that case, we will need help.
 Neuvillette: But who will lend us their aid to do such a thing?
 Traveler: Oh, I think I know who to call.
-Traveler: She seems to be deliberately hiding something...
 
 ## Talk 3
 
@@ -207,13 +209,17 @@ Mage "N" (???): "The voice from the sky," hmm? I fear that description is wrong 
 Mage "N" (???): You're feeling lost now, just as you were feeling previously. I sensed that confusion, and thus came to you. Guiding people is an irresistible hobby of mine, after all.
 Traveler: Who are you? And what do you want with us?
 Mage "N" (???): Consider me a passerby, just accepting a commission from my friend's disciple on a whim.
-Traveler: Allow me to ask you...
+    Option 1:
+        Traveler: Allow me to ask you...
+    Option 2:
+        Traveler: Will Fontaine's prophecy come true?
 Mage "N": The prophecy... Yes, what has been prophesized will be fulfilled. You may view such things as "the history of the future."
 Paimon: What... Th—Then, is there any way we can stop it?
 Mage "N": I believe you have witnessed a failed attempt with your own eyes. Can everything in Teyvat so easily be changed?
-Traveler: There it is again... "fate."
-Traveler: Can there really be no exceptions?
-Traveler: Will Fontaine's prophecy come true?
+    Option 1:
+        Traveler: There it is again... "fate."
+    Option 2:
+        Traveler: Can there really be no exceptions?
 
 ## Talk 9
 
@@ -260,23 +266,34 @@ Mage "N" (???): You're feeling lost now, just as you were feeling previously. I 
 Traveler: Who are you? And what do you want with us?
 Mage "N" (???): Consider me a passerby, just accepting a commission from my friend's disciple on a whim.
 Traveler: (Friend's disciple... So, this is one of the friends of Mona's master? The enigmatic N of the Hexenzirkel?)
-Traveler: Allow me to ask you...
+    Option 1:
+        Traveler: Allow me to ask you...
+    Option 2:
+        Traveler: Will Fontaine's prophecy come true?
 Mage "N": The prophecy... Yes, what has been prophesized will be fulfilled. You may view such things as "the history of the future."
 Paimon: What... Th—Then, is there any way we can stop it?
 Mage "N": I believe you have witnessed a failed attempt with your own eyes. Can everything in Teyvat so easily be changed?
-Traveler: There it is again... "fate."
-Traveler: Can there really be no exceptions?
-Traveler: Will Fontaine's prophecy come true?
+    Option 1:
+        Traveler: There it is again... "fate."
+    Option 2:
+        Traveler: Can there really be no exceptions?
 
 ## Talk 11
 
 Charlotte: You defeated the Hydro Archon in the very first duel you took part in at the opera house. That's one for the history books, alright!
+
 Charlotte: I didn't think that you'd wind up getting to the bottom of the case I'd been following all this time. I guess you could also see this as a happy coincidence...?
+
 Charlotte: This is the first time Monsieur Neuvillette's had a difference of opinion with the Oratrice. Even the Hydro Archon can't figure it out.
+
 Charlotte: A Fatui Harbinger... She's an extraordinary person. Her instinct must mean something.
+
 Charlotte: The Fortress of Meropide was almost destroyed in a single day... That I didn't witness that scene personally will always be a source of professional regret, I think.
+
 Charlotte: According to Monsieur Neuvillette, both Childe and that whale should have been in the Primordial Sea at that time.
+
 Charlotte: I nearly lost my awesome friend Navia... To be honest, that still gives me the shivers.
+
 Charlotte: The words of someone as extraordinary as a witch can probably only be truly understood when something surreal happens to you.
 
 ## Talk 12
@@ -288,7 +305,10 @@ Paimon: Ooh, you're from the Palais Mermonia, aren't you?
 Isadora: Yes, I'm Isadora. Monsieur Neuvillette sent me to look for you two before... I heard that afterward, you went to the Fortress of Meropide.
 Traveler: Err... So are you under the impression that we might be wanted criminals?
 Isadora: Haha, not at all. I'm well aware that you're friends of his. Actually, I'm here to pass along a message from him...
-Traveler: Let's hear it.
+    Option 1:
+        Traveler: Let's hear it.
+    Option 2:
+        Traveler: Did something happen?
 Isadora: Yes, inside the opera house. The Marechaussee Phantom has declared the incident a small-scale riot.
 Paimon: A riot?
 Isadora: Well, that said, I don't personally think it was that serious.
@@ -316,10 +336,11 @@ Paimon: When Neuvillette was talking to her in the Palais Mermonia, and she hear
 Paimon: It would be hard for her to ignore being accused by the public today.
 Paimon: Paimon thinks Furina's probably taken the opportunity to slip away to Poisson and try to relieve the sense of guilt that she's feeling.
 Paimon: Heh... Well, whaddya think? Paimon knows the answer, of course, but Paimon can do the analysis to back it up too. Cool, huh?
-Traveler: I see becoming a detective's done you some good.
+    Option 1:
+        Traveler: I see becoming a detective's done you some good.
+    Option 2:
+        Traveler: Looks like those detective novels have had an effect on you.
 Paimon: In that case, there's not a moment to lose. Poisson, here we come!
-Traveler: Looks like those detective novels have had an effect on you.
-Traveler: Did something happen?
 
 ## Talk 13
 
@@ -351,7 +372,10 @@ Traveler: (...Hmm, it's just like Charlotte said... Suddenly trying to consider 
 Paimon: We've always been moving to the next destination, so we haven't spent much time thinking about these kinds of things. We didn't have to either, with us always being on the road and whatnot...
 Traveler: Until that moment comes, I think I'll keep journeying on.
 Paimon: You mean still traveling?
-Traveler: Yes, cherishing every single moment...
+    Option 1:
+        Traveler: Yes, cherishing every single moment...
+    Option 2:
+        Traveler: That I have to look upon this world.
 Paimon: Huh. Wait, isn't that what we've always been doing?
 Black Screen Text: The banter goes back and forth between the two of you as time slips by.
 As night falls, you return to your accommodations and end this busy day.
@@ -359,7 +383,6 @@ Black Screen Text: The next few days are just as calm.
 Charlotte comes to find you and conducts the interview in the Spina di Rosula safehouse at the Fleuve Cendre.
 Black Screen Text: Navia, having finished her business in Poisson, even drops by to take a photo with the two of you.
 All goes well.
-Traveler: That I have to look upon this world.
 
 ### Additional Talk 4
 
@@ -385,13 +408,17 @@ Mage "N" (???): What a strange conclusion, but also such an interesting one... Y
 Mage "N" (???): And yet, even you feel confused. As such, I couldn't resist but come by for some tea and a chat.
 Traveler: Who are you? And what do you want with us?
 Mage "N" (???): Consider me a passerby, just accepting a commission from my friend's disciple on a whim.
-Traveler: Allow me to ask you...
+    Option 1:
+        Traveler: Allow me to ask you...
+    Option 2:
+        Traveler: Will Fontaine's prophecy come true?
 Mage "N": The prophecy... Yes, what has been prophesized will be fulfilled. You may view such things as "the history of the future."
 Paimon: What... Th—Then, is there any way we can stop it?
 Mage "N": People call such things "fate," and it is written in the stars — it cannot so easily be altered.
-Traveler: There it is again... "fate."
-Traveler: Can there really be no exceptions?
-Traveler: Will Fontaine's prophecy come true?
+    Option 1:
+        Traveler: There it is again... "fate."
+    Option 2:
+        Traveler: Can there really be no exceptions?
 
 ### Additional Talk 6
 
@@ -401,13 +428,17 @@ Traveler: Who are you? And what do you want with us?
 Mage "N" (???): Consider me a passerby, just accepting a commission from my friend's disciple on a whim.
 Traveler: (Friend's disciple... So, this is one of the friends of Mona's master?)
 Mage "N": Precisely. Call me N, a mage who wanders the world. At least, that's how my friends have suggested that I introduce myself.
-Traveler: Allow me to ask you...
+    Option 1:
+        Traveler: Allow me to ask you...
+    Option 2:
+        Traveler: Will Fontaine's prophecy come true?
 Mage "N": The prophecy... Yes, what has been prophesized will be fulfilled. You may view such things as "the history of the future."
 Paimon: What... Th—Then, is there any way we can stop it?
 Mage "N": People call such things "fate," and it is written in the stars — it cannot so easily be altered.
-Traveler: There it is again... "fate."
-Traveler: Can there really be no exceptions?
-Traveler: Will Fontaine's prophecy come true?
+    Option 1:
+        Traveler: There it is again... "fate."
+    Option 2:
+        Traveler: Can there really be no exceptions?
 
 ### Additional Talk 7
 
@@ -431,8 +462,10 @@ Mona: I'm in full support of her view — prophecies are very important, but how
 
 ### Additional Talk 9
 
-Mona: Why, yes — it was Charlotte! I assume you've heard of her, no? That daredevil journalist?
 Mona: I'm in full support of her view — prophecies are very important, but how can people allow their lives to be commandeered by just a few words?
+
+Mona: Why, yes — it was Charlotte! I assume you've heard of her, no? That daredevil journalist?
+[Missing Dialog 40212502]
 
 ### Additional Talk 10
 

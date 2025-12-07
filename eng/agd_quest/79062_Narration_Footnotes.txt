@@ -76,6 +76,7 @@ Detective (Narrator): #The voice in his head grew louder: "Must... go to... Pend
 
 Boborano: That experience was, honestly, not the best. Reminds me of my childhood, when I had to walk along the tracks my parents had designed.
 Albizzi: Back then, we even had to rotate on rack lines.
+
 Albizzi: I apologize. Empathy is not our giant guards' strong suit.
 
 ## Talk 18
@@ -399,8 +400,12 @@ Detective: Alright, I confess.
 Paimon: That was fast!
 Detective: Getting caught by you here was a backup plan. I don't know if what I've done will make things better or not.
 Detective: Time to come clean. I am the narrator, the one who's been guiding you all this time.
-Traveler: Yeah, I figured...
-Detective: Hahaha, okay. I guess my voice-acting skills have some room for improvement.
+    Option 1:
+        Traveler: Yeah, I figured...
+        Detective: Hahaha, okay. I guess my voice-acting skills have some room for improvement.
+    Option 2:
+        Traveler: Gasp! Shock! My mind is blown!
+        Detective: You're overdoing it a little bit there.
 Detective: Anyway, I only did what I did because—
 Paimon: Why are you suddenly spilling the beans?
 Detective: I poured my heart and soul into all this. I was worried you wouldn't ask.
@@ -444,8 +449,6 @@ Black Screen Text: "So we need a shot of the crime scene for evidence, a mugshot
 
 "3, 2, 1, say cheeeeese!"
 Traveler: (Weirdest photo experience of my life...)
-Traveler: Gasp! Shock! My mind is blown!
-Detective: You're overdoing it a little bit there.
 
 ## Talk 64
 

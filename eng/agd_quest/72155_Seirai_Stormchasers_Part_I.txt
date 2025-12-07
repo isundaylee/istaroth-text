@@ -17,6 +17,11 @@ Neko: Yet I still recall the sealing methods for the... meow, four stones. You m
 Neko: Hibiki said that the key is to use the ropes on the rock, and the piece of paper...
 Paimon: Ropes? Paper?
 Neko: The paper on the sticks by the rock's side must become the same as the paper on the rock itself...
+    Option 1:
+    Option 2:
+        Traveler: I—I see...
+        Neko: This island plays host to four such stones. Hibiki once said that they were meant to seal a bird of most prodigious size.
+        [Circling back to a pre-branch dialog]
 Traveler: Clear as mud.
 Neko: You seem confused. Perhaps your comprehension is lacking also... Paper with paper, and rock. Did you get that?
 Paimon: What is this, some weird game of rock-paper-scissors?
@@ -26,13 +31,14 @@ Traveler: S—Sure...
 Neko: Now, surely, you understand. This is how one seals the rocks, and where they are.
 Neko: Go now, and quickly. The shrine's maintenance yet requires my attention.
 Neko: Hah, now that the Offering Box has been repaired, the shrine shall soon return to its former thriving glory...
-Traveler: Again, you're really good with those claws...
+    Option 1:
+        Traveler: Again, you're really good with those claws...
+    Option 2:
+        Traveler: Such a detailed carving...
 Neko: Small beans it was, really.
 Neko: Visit the shrine after some days. Once it grows busy around these parts once more, I am certain that more humans will come to pay their respects.
 Neko: I may yet require your aid again then.
 Neko: Hibiki would be most gratified to see this shrine become lively again. Hmm, well, and that Domeki fellow, too... Meow...
-Traveler: Such a detailed carving...
-Traveler: I—I see...
 
 ## Talk 2
 
@@ -76,25 +82,39 @@ Paimon: Well, let's head for that village quick. Maybe we'll find something we c
 
 Etsuko: I'll need this book... and this one... and this one...
 Etsuko: Ah! Hello there. You're... an adventurer? Hmm. Am I right to say that you're here to investigate this island?
-Traveler: That is the case.
-Etsuko: I see... In that case, you can explore the periphery of this island a bit.
-Etsuko: But don't wander too close to the center of this island as you please. The storms there are not to be trifled with.
-Traveler: Is there no way to solve this issue?
-Etsuko: Not for now... Actually, I haven't even figured out the cause of these storms yet.
-Etsuko: That fellow Taisuke keeps insisting that the storm must have been the work of the Archon, meant to block ordinary people from violating a sacred site.
-Etsuko: I didn't believe a word of it at first, but then we discovered some very strange stone structures in the area.
-Etsuko: Taisuke read in a text he found that these structures are known as "Warding Stones."
-Etsuko: And according to the legends, these stone structures really are ritual implements that can be used to seal certain things.
-Etsuko: Unfortunately, the stone structures we found were all busted up, and not one looks like it's been repaired in who knows how many years...
-Etsuko: *sigh* We lack the clues we need to solve this mystery. How very frustrating... But since it's work, I suppose we've just got to give it a go.
-Traveler: Where did you find them?
-Etsuko: Not far. Taisuke's been there the whole time investigating. I just came back to help him grab some books. If you want to go have a look, I can just take you there.
+    Option 1:
+        Traveler: That is the case.
+        Etsuko: I see... In that case, you can explore the periphery of this island a bit.
+        Etsuko: But don't wander too close to the center of this island as you please. The storms there are not to be trifled with.
+        Traveler: Is there no way to solve this issue?
+        Etsuko: Not for now... Actually, I haven't even figured out the cause of these storms yet.
+        Etsuko: That fellow Taisuke keeps insisting that the storm must have been the work of the Archon, meant to block ordinary people from violating a sacred site.
+        Etsuko: I didn't believe a word of it at first, but then we discovered some very strange stone structures in the area.
+        Etsuko: Taisuke read in a text he found that these structures are known as "Warding Stones."
+        Etsuko: And according to the legends, these stone structures really are ritual implements that can be used to seal certain things.
+        Etsuko: Unfortunately, the stone structures we found were all busted up, and not one looks like it's been repaired in who knows how many years...
+        Etsuko: *sigh* We lack the clues we need to solve this mystery. How very frustrating... But since it's work, I suppose we've just got to give it a go.
+        Traveler: Where did you find them?
+        Etsuko: Not far. Taisuke's been there the whole time investigating. I just came back to help him grab some books. If you want to go have a look, I can just take you there.
+    Option 2:
+        Traveler: You could say that.
+    Option 3:
+        Traveler: That is the case.
+        Etsuko: I see... In that case, you can explore the periphery of this island a bit.
+        Etsuko: But don't wander too close to the center of this island as you please. The storms there are not to be trifled with.
+        Traveler: Are there only storms over there?
+        Etsuko: Yes. Strange, isn't it? It's almost like... something's drawn a boundary for the storms.
+        Etsuko: That fellow Taisuke keeps insisting that the storm must have been the work of the Archon, meant to block ordinary people from violating a sacred site.
+        Etsuko: I didn't believe a word of it at first, but then we discovered some very strange stone structures in the area.
+        Etsuko: Taisuke read in a text he found that these structures are known as "Warding Stones."
+        Etsuko: And according to the legends, these stone structures really are ritual implements that can be used to seal certain things.
+        Etsuko: Unfortunately, the stone structures we found were all busted up, and not one looks like it's been repaired in who knows how many years...
+        Etsuko: *sigh* We lack the clues we need to solve this mystery. How very frustrating... But since it's work, I suppose we've just got to give it a go.
+        Traveler: Where did you find them?
+        Etsuko: Not far. Taisuke's been there the whole time investigating. I just came back to help him grab some books. If you want to go have a look, I can just take you there.
 Etsuko: The quicker we solve the mystery behind that Warding Stone, the sooner we can report back to the Guild.
 Etsuko: Just... hold on a moment while I bundle this stuff up...
 Etsuko: Alright, that's that. Let's go!
-Traveler: Are there only storms over there?
-Etsuko: Yes. Strange, isn't it? It's almost like... something's drawn a boundary for the storms.
-Traveler: You could say that.
 
 ## Talk 6
 
@@ -105,33 +125,36 @@ Etsuko: Hey, Taisuke!
 Taisuke: Ah!? E—Etsuko, come on, you don't have to be so loud. You almost gave me a heart attack! I mean, you didn't, of course, but haven't you ever considered that the racket you were making might attract monsters?
 Etsuko: Yeah, yeah! Look, I called for you several times already, and you didn't respond at all!
 Etsuko: Well then. Guess who's got all the resources you asked for? And guess who's brought a little help from the Guild to boot?
-Traveler: Why hello there.
-Taisuke: Oh... Oh! Pleased to meet you, yes, nice to meet you indeed! My name is Taisuke, and I'm an adventurer with Inazuma's Adventurers' Guild...
-Etsuko: Yes, yes, very nice. We're all adventurers here, no need for the whole song-and-dance.
-Taisuke: Oh, don't say that! We should at least exercise some basic courtesy.
-Taisuke: We busy ourselves out in the wild so often. It's only right that we maintain a good attitude and outlook during our down-time.
-Etsuko: You... Ugh, never mind...
-Taisuke: I've told you that many times, haven't I? A good attitude starts with treating people with politeness...
-Etsuko: Okay, enough already. How are your Warding Stone studies going?
-Taisuke: Basically, we've made zero progress. All we've found is some strange tracks.
-Traveler: Well, that was quick.
-Etsuko: No progress, huh... We've been here for quite a while now. If we don't make some headway soon, we should probably ask the Guild for additional help.
-Taisuke: A—Additional help? Wouldn't that be the same as admitting that we're not up to the task?
-Etsuko: Taisuke, I believe I've said this before. We're professionals. Taking commissions is work.
-Etsuko: Our goal is to finish our work, not prove ourselves.
-Etsuko: If we screw up while trying to prove ourselves, we'd lose more than we'd gain.
-Traveler: That's professional ethics for you...
-Etsuko: Thanks, but I wouldn't claim to speak for anyone else.
-Etsuko: Some Guild members say that I've got no spirit... Others say that I just work for the sake of working.
-Etsuko: But whether they like it or not, I've got the highest commission completion efficiency in the Guild.
-Traveler: So, what's your reason for being an adventurer, then?
-Etsuko: Work. Mora. That's it, really.
-Traveler: Simple goals, I see...
-Etsuko: Well, maybe it's because my goals are so simple that the Guild tends to send me out to complete commissions more often than most.
-Etsuko: Heh, but it seems like I won't be able to clear this one solo.
-Taisuke: Miss Etsuko... Please keep your spirits up. The Guild did give us this commission, after all.
-Etsuko: I'm already giving it my 100%... It's just too much to ask for me to give my 120%.
-Etsuko: Well, whatever. Tell us about those strange tracks.
+    Option 1:
+        Traveler: Why hello there.
+        Taisuke: Oh... Oh! Pleased to meet you, yes, nice to meet you indeed! My name is Taisuke, and I'm an adventurer with Inazuma's Adventurers' Guild...
+        Etsuko: Yes, yes, very nice. We're all adventurers here, no need for the whole song-and-dance.
+        Taisuke: Oh, don't say that! We should at least exercise some basic courtesy.
+        Taisuke: We busy ourselves out in the wild so often. It's only right that we maintain a good attitude and outlook during our down-time.
+        Etsuko: You... Ugh, never mind...
+        Taisuke: I've told you that many times, haven't I? A good attitude starts with treating people with politeness...
+        Etsuko: Okay, enough already. How are your Warding Stone studies going?
+        Taisuke: Basically, we've made zero progress. All we've found is some strange tracks.
+        Traveler: Well, that was quick.
+        Etsuko: No progress, huh... We've been here for quite a while now. If we don't make some headway soon, we should probably ask the Guild for additional help.
+        Taisuke: A—Additional help? Wouldn't that be the same as admitting that we're not up to the task?
+        Etsuko: Taisuke, I believe I've said this before. We're professionals. Taking commissions is work.
+        Etsuko: Our goal is to finish our work, not prove ourselves.
+        Etsuko: If we screw up while trying to prove ourselves, we'd lose more than we'd gain.
+        Traveler: That's professional ethics for you...
+        Etsuko: Thanks, but I wouldn't claim to speak for anyone else.
+        Etsuko: Some Guild members say that I've got no spirit... Others say that I just work for the sake of working.
+        Etsuko: But whether they like it or not, I've got the highest commission completion efficiency in the Guild.
+        Traveler: So, what's your reason for being an adventurer, then?
+        Etsuko: Work. Mora. That's it, really.
+        Traveler: Simple goals, I see...
+        Etsuko: Well, maybe it's because my goals are so simple that the Guild tends to send me out to complete commissions more often than most.
+        Etsuko: Heh, but it seems like I won't be able to clear this one solo.
+        Taisuke: Miss Etsuko... Please keep your spirits up. The Guild did give us this commission, after all.
+        Etsuko: I'm already giving it my 100%... It's just too much to ask for me to give my 120%.
+        Etsuko: Well, whatever. Tell us about those strange tracks.
+    Option 2:
+        Traveler: An honor to make your acquaintance.
 Taisuke: They're a cat's tracks. They go from this Warding Stone's side and stretch all the way out.
 Etsuko: I remember you mentioning that they belonged to a cat... That doesn't sound like it would have anything to do with this Warding Stone.
 Taisuke: Well, but we could still follow these tracks to have a look...
@@ -143,7 +166,6 @@ Paimon: Looks like they're determined to look into that Warding Stone first...
 Paimon: Still, Paimon's quite concerned about those cat tracks.
 Paimon: Since they appeared just beside the Warding Stone, maybe they really do have something to do with it.
 Paimon: Let's follow them and see what we can find!
-Traveler: An honor to make your acquaintance.
 
 ## Talk 7
 
@@ -206,9 +228,14 @@ Paimon: Paimon isn't an animal!
 Traveler: Hey, hey, calm down...
 Paimon: Hmph!
 Paimon: Actually, hmm, we have met quite a few talking animals, haven't we?
-Traveler: We met a talking dragon, yes.
-Paimon: Eh? Dragons count as "animals"? Paimon feels like they belong in a higher class than that...
-Paimon: But well, Dvalin does talk...
+    Option 1:
+        Traveler: We met a talking dragon, yes.
+        Paimon: Eh? Dragons count as "animals"? Paimon feels like they belong in a higher class than that...
+        Paimon: But well, Dvalin does talk...
+    Option 2:
+        Traveler: Didn't we meet a talking snake?
+        Paimon: Oh! You mean that snake named Changsheng?
+        Paimon: Was that really not a "herb"?
 Paimon: Well, whatever the case, this is the first time Paimon's met a talking cat...
 Neko (???): Such wanton yammering! I am no "talking cat."
 Neko (???): This is the Asase Shrine, and I am Neko, the provisional head priestess.
@@ -219,7 +246,10 @@ Neko: But you are no fools, certainly, considering that you knew to follow mine 
 Neko: Most boring things would be if you were as dull as those other two humans, picking and scratching at rocks as they do.
 Paimon: Rocks, huh... Oh, you mean the Warding Stone from before?
 Neko: I know not what they are named. It is a pile of rocks with a rope tied across it, no?
-Traveler: So you were the one who asked those cats to...
+    Option 1:
+        Traveler: So you were the one who asked those cats to...
+    Option 2:
+        Traveler: So those cat footprints were your doing...
 Neko: I did indeed call upon some felines to frolic there. Consider it a test of your intellect.
 Neko: Hibiki unsealed these rocks a good, long time ago. It has much to do with those...
 Neko: ...Those purple, tingling, hair-raising, ill-meaning things.
@@ -244,9 +274,12 @@ Neko: As such, you shall help me to repair the box, and I will teach you the way
 Paimon: Do you really know how to work with those Warding Stones?
 Neko: Hah, naturally. Many a time have I seen Hibiki seal them... and unseal them, too.
 Neko: There should be no problem at all.
-Traveler: Should?
-Neko: Meow, meow, meow?
-Paimon: Seriously!? You're playing dumb about something like this!?
+    Option 1:
+        Traveler: Should?
+        Neko: Meow, meow, meow?
+        Paimon: Seriously!? You're playing dumb about something like this!?
+    Option 2:
+        Traveler: Well, I'd pass for a dab hand at repairs.
 Paimon: But if we wanna fix the box, we're going to need a lot of materials.
 Paimon: You know, like wooden planks, nails, ropes... Do we have that sort of stuff here at the shrine?
 Neko: I have maintained this shrine exceedingly well. No such detritus exists here.
@@ -257,24 +290,23 @@ Traveler: Where did the person in charge of maintenance live?
 Paimon: That's right! The person in charge of maintenance must've kept some spare supplies. We can go have a look...
 Neko: Mmm, that is a fair point you make. Bring forth your map — I shall mark the location out for you.
 Paimon: Wow, she really marked it out...
-Traveler: Huh, so that's how you make marks — with your claws...
+    Option 1:
+        Traveler: Huh, so that's how you make marks — with your claws...
+    Option 2:
+        Traveler: Those are some flexible claws you've got.
 Neko: But of course.
 Neko: There. I have given you the general location you require.
 Neko: I shall leave the box repairs to... you... Meow...
-Traveler: Those are some flexible claws you've got.
-Traveler: Well, I'd pass for a dab hand at repairs.
-Traveler: So those cat footprints were your doing...
-Traveler: Didn't we meet a talking snake?
-Paimon: Oh! You mean that snake named Changsheng?
-Paimon: Was that really not a "herb"?
 
 ## Talk 17
 
 Neko: The repairs... please... Meow, meow...
-Traveler: Why'd you stop speaking...
-Neko: Speaking your language is... tiring... Meow...
-Traveler: I'll get the box fixed, don't worry.
-Neko: This matter is in your hands, meow meow...
+    Option 1:
+        Traveler: Why'd you stop speaking...
+        Neko: Speaking your language is... tiring... Meow...
+    Option 2:
+        Traveler: I'll get the box fixed, don't worry.
+        Neko: This matter is in your hands, meow meow...
 
 ## Talk 18
 
@@ -289,7 +321,10 @@ Neko: This matter is in your hands, meow meow...
 Treasure Hoarder: Agh! No more, please! We yield, we yield!
 Traveler: What were you doing over here?
 Treasure Hoarder: We... We were just trying our luck, doing a little digging, you know?
-Traveler: Tell me the truth.
+    Option 1:
+        Traveler: Tell me the truth.
+    Option 2:
+        Traveler: Three... two...
 Treasure Hoarder: Wait! Please! We'll talk, we'll talk!
 Treasure Hoarder: We heard from some people that there was treasure to be had here on Seirai Island, and that the island itself wasn't all that populated...
 Treasure Hoarder: So we decided to come over and see what we could find.
@@ -308,7 +343,6 @@ Treasure Hoarder: Huh? Then... Well, then please, just go to our camp and take w
 Traveler: And what are you going to do?
 Treasure Hoarder: We... We've got other things to attend to, so let's part ways here!
 Treasure Hoarder: Come on lads, let's go! Move it!
-Traveler: Three... two...
 
 ## Talk 21
 

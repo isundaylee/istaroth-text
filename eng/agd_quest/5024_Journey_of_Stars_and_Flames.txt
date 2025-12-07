@@ -13,7 +13,10 @@ Vichama: That was amazing... Judging by your clothes, you're not from Natlan, ar
 Mallko: I've never seen a soul like you in the Night Kingdom.
 Bona: But, the Night Kingdom doesn't accept outlanders... right?
 "Cocouik": Croo...
-Traveler: You're...
+    Option 1:
+        Traveler: You're...
+    Option 2:
+        Traveler: Guthred.
 Guthred: Yes... Although, rather than a soul, it would be more accurate to say that I'm a "story" created by the people of Natlan.
 Guthred: I was his most trusted second-in-command. Five hundred years ago, we fought against the Abyss together, and I sacrificed myself during battle.
 Guthred: The shamans of the Masters of the Night-Wind recorded my story on a woven scroll. Even now, many in Natlan know my name.
@@ -21,12 +24,18 @@ Vichama: So, you're him, but also not him?
 Guthred: That's right. What you see is the "me" from the story. I was remembered as a glorious hero, even though the truth is quite the opposite.
 Guthred: It was in fragmented memories of my life that I finally began to understand the real "me."
 Guthred: Unlike my righteous and noble commander, I was obsessive and cruel, an approach I believed to be more efficient. Our differences caused many an argument between us.
-Traveler: No wonder you were ready to...
+    Option 1:
+        Traveler: No wonder you were ready to...
+    Option 2:
+        Traveler: ...sacrifice Ororon.
 Mallko: Y—You tried to... sacrifice someone?
 Guthred: ..."I" will stop at nothing to protect my commander's interests.
 Guthred: The most idealistic and righteous among us are the most fragile, so I must protect his edge. A strong hand is required to stand against a strong foe.
 Guthred: That is what "the glory of Khaenri'ah" means to me.
-Traveler: So, you still believe in him?
+    Option 1:
+        Traveler: So, you still believe in him?
+    Option 2:
+        Traveler: Even though he's a stranger to you now.
 Guthred: I do.
 Guthred: I have my reasons, as do all who believe in something. You will understand that soon enough.
 Guthred: Due to the limitations of the Ley Lines, we can go no further. The enemy's lair is close at hand.
@@ -36,9 +45,6 @@ Bona: You're a special one, Traveler! You've proved that again just now!
 "Cocouik" (Och-Kan): (The light will continue to guide your way through the endless darkness.)
 Guthred: Go now. For Natlan — and for all who lost their lives to the Abyss.
 Guthred: This time, we shall prevail, not for any single nation or faction, but for us all.
-Traveler: Even though he's a stranger to you now.
-Traveler: ...sacrifice Ororon.
-Traveler: Guthred.
 
 ## Talk 3
 
@@ -61,7 +67,10 @@ Kinich: That's the nicest send-off you're going to get out of Ajaw.
 ## Talk 4
 
 Mavuika: #Traveler, Paimon, you're here.
-Traveler: Mavuika...
+    Option 1:
+        Traveler: Mavuika...
+    Option 2:
+        Traveler: Sorry to keep you waiting.
 Mavuika: Judging by the confident look on your face, I assume your ancient name is complete?
 Paimon: Yep, it's good to go! Xilonen specifically reminded us to show it to you!
 Mavuika: "Tum{RUBY#[D]Hope}aini"... Yes, that fits you perfectly.
@@ -84,7 +93,6 @@ Mavuika: For our fallen heroes, our lifelong comrades, and all who forged the pa
 Mavuika: We will claim victory! In Natlan, no one fights alone!
 Everyone Together: No one fights alone!
 Mavuika: To battle!
-Traveler: Sorry to keep you waiting.
 
 ## Talk 5
 
@@ -125,10 +133,12 @@ Citlali: Natlan is also a land of memories and legends.
 Citlali: I live longer than humans, and in all that time, I've learned what life and death mean to people.
 Citlali: The dead draw solace from the living, and the living push forward in honor of the dead.
 Citlali: In life and death, we all leave marks on this world. We cannot let them be reduced to nothing.
-Traveler: I feel the same way.
+    Option 1:
+        Traveler: I feel the same way.
+    Option 2:
+        Traveler: That's why I am here.
 Citlali: Yes... Thank you for joining this fight.
 Citlali: I'll wait for your safe return.
-Traveler: That's why I am here.
 
 ## Talk 13
 
@@ -145,7 +155,10 @@ Mavuika: We're here. I'm sure you're familiar with the sight of the Night Kingdo
 Mavuika: The corrosion here is relatively mild, so this is our last pit stop.
 Mavuika: Once we set off, we must destroy our final enemy as soon as possible. Otherwise, no amount of resistance to Abyssal corrosion will save us from contamination.
 Paimon: So, there's no turning back after this, huh...
-Traveler: Paimon? What are you doing here?
+    Option 1:
+        Traveler: Paimon? What are you doing here?
+    Option 2:
+        Traveler: You look... different.
 Paimon: After you left, Paimon started to be able to see this place. It's a mystery to Paimon, too...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roar!
 Mavuika: The Sacred Flame is connecting us. The moment it sent us here, it made sure your consciousness could reach us.
@@ -154,7 +167,6 @@ Mavuika: But, while we're still here, I believe some of your friends may wish to
 Traveler: We don't have much time, right?
 Mavuika: True, but there's time enough to say goodbye.
 Mavuika: Come find me when you're ready to set off. I'll explain the next step of the plan.
-Traveler: You look... different.
 
 ## Talk 16
 
@@ -167,24 +179,26 @@ Xilonen: Go now and forge a new future for Natlan.
 ## Talk 17
 
 Mavuika: #Are you ready, Traveler?
-Traveler: I'm ready.
-Mavuika: Alright. Before we face our final enemy together, we need to split up.
-Mavuika: I'm sure you remember the "Abyss Tumors" from the previous battle. Eradicating them was crucial to stopping the endless onslaught of monsters.
-Mavuika: Our final enemy has a core that possesses similar qualities. It's hidden somewhere in the Night Kingdom.
-Mavuika: Since I'm more familiar with this place, I will go find and destroy this core while you go straight to the enemy's lair. We can reconvene there.
-Traveler: Understood.
-Mavuika: Alright, then it's time to act.
-Mavuika: All of Natlan is behind us. So let's gather our courage and march into the unknown without fear.
-Mavuika: No one fights alone.
-Paimon: Mavuika already left, so you should get moving. Oh, um, and Paimon should stop distracting you...
-Paimon: Paimon still remembers her promise! She's gonna cheer you on with all her might!
-Paimon: Paimon's not some kid who's afraid of the dark. She's gonna be brave this time, so don't you worry!
-Traveler: Wait for me, Paimon.
-Paimon: Always!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar!
-Paimon: You're not in this alone — we'll be with you in spirit the whole time!
-Traveler: I need a little longer.
-Mavuika: That's fine. It's best to move forward without regrets.
+    Option 1:
+        Traveler: I'm ready.
+        Mavuika: Alright. Before we face our final enemy together, we need to split up.
+        Mavuika: I'm sure you remember the "Abyss Tumors" from the previous battle. Eradicating them was crucial to stopping the endless onslaught of monsters.
+        Mavuika: Our final enemy has a core that possesses similar qualities. It's hidden somewhere in the Night Kingdom.
+        Mavuika: Since I'm more familiar with this place, I will go find and destroy this core while you go straight to the enemy's lair. We can reconvene there.
+        Traveler: Understood.
+        Mavuika: Alright, then it's time to act.
+        Mavuika: All of Natlan is behind us. So let's gather our courage and march into the unknown without fear.
+        Mavuika: No one fights alone.
+        Paimon: Mavuika already left, so you should get moving. Oh, um, and Paimon should stop distracting you...
+        Paimon: Paimon still remembers her promise! She's gonna cheer you on with all her might!
+        Paimon: Paimon's not some kid who's afraid of the dark. She's gonna be brave this time, so don't you worry!
+        Traveler: Wait for me, Paimon.
+        Paimon: Always!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Roar!
+        Paimon: You're not in this alone — we'll be with you in spirit the whole time!
+    Option 2:
+        Traveler: I need a little longer.
+        Mavuika: That's fine. It's best to move forward without regrets.
 
 ## Talk 18
 
@@ -204,12 +218,14 @@ Atea: You're a very talented person, Nechca. I'm sorry your life was cut so shor
 Nechca: It's okay. We still managed to do something important in this place!
 Nechca: #Good luck, Traveler! We're all counting on you!
 Atea: You can leave this place to us. When the monsters attack again, we'll fend them off.
-Traveler: Mualani's in the square over there.
+    Option 1:
+        Traveler: Mualani's in the square over there.
+    Option 2:
+        Traveler: I'm sure she'd like to see you again.
 Atea: We got to see each other in a dream, and that's enough.
 Atea: The square makes it possible to connect the living to the Night Kingdom. If the Abyss starts to corrode that area, its forces could once again surge into the land above.
 Atea: It pains me, not being able to see Mualani again. But, if I can do something to protect Natlan, then that is the only choice.
 Atea: Mualani will grow to surpass me as a warrior and accomplish greater feats than my own — I have no doubt.
-Traveler: I'm sure she'd like to see you again.
 
 ## Talk 19
 
@@ -253,12 +269,14 @@ Hine: For Natlan!
 
 Atea: I didn't expect to see you again so soon.
 Atea: You can leave this place to us. When the monsters attack again, we'll fend them off.
-Traveler: Mualani's in the square over there.
+    Option 1:
+        Traveler: Mualani's in the square over there.
+    Option 2:
+        Traveler: I'm sure she'd like to see you again.
 Atea: We got to see each other in a dream, and that's enough.
 Atea: The square makes it possible to connect the living to the Night Kingdom. If the Abyss starts to corrode that area, its forces could once again surge into the land above.
 Atea: It pains me, not being able to see Mualani again. But, if I can do something to protect Natlan, then that is the only choice.
 Atea: Mualani will grow to surpass me as a warrior and accomplish greater feats than my own — I have no doubt.
-Traveler: I'm sure she'd like to see you again.
 
 ## Talk 22
 
@@ -269,7 +287,10 @@ Traveler: I'm sure she'd like to see you again.
 Bona: Wow, you're as strong as ever.
 "Cocouik": Cheep!
 Vichama: Oh, who are these two?
-Traveler: An amazing adventurer and her companion.
+    Option 1:
+        Traveler: An amazing adventurer and her companion.
+    Option 2:
+        Traveler: My good friends.
 Bona: Hehe, you said it, not me. Everyone here is amazing, so of course that includes me and Coco.
 Bona: We all have our own journey, and we need to see it through to the end. Not all adventurers go down in history...
 Bona: But, right now, it's safe to say we're doing something extremely important.
@@ -277,7 +298,6 @@ Bona: But, right now, it's safe to say we're doing something extremely important
 Mallko: Definitely!
 Bona: Then, let's go. We're all with you!
 Bona: #I know your guide fairy and {REALNAME[ID(2)|HOSTONLY(true)]} couldn't join you here, but I'm sure they're still with you in spirit!
-Traveler: My good friends.
 
 ## Talk 24
 
@@ -301,13 +321,15 @@ Mallko: We meet again... Remember me? I'm Mallko. We met when you came to rescue
 Mallko: Vichama told me about the horrific battle on the surface. But now, the souls of the Night Kingdom have been revitalized.
 Vichama: More importantly, after everything, we finally get to fight side by side again.
 Vichama: It's all thanks to you and Citlali.
-Traveler: Running into you here...
+    Option 1:
+        Traveler: Running into you here...
+    Option 2:
+        Traveler: Is a surprise for me, too.
 Mallko: The path ahead has been heavily corroded by the Abyss. Navigation will be tricky. I can help illuminate your way, just like before.
 Vichama: I'll take care of recon and combat. I was in a bad place when you met me, but I was a capable warrior back in the day.
 Vichama: C'mon, follow me.
 Traveler: Thanks. I appreciate it.
 Mallko & Vichama: Of course!
-Traveler: Is a surprise for me, too.
 
 ## Talk 27
 
@@ -316,6 +338,7 @@ Traveler: Is a surprise for me, too.
 ## Talk 28
 
 Atea: We'll guard this place so that the Abyssal power doesn't spread.
+[Missing Dialog 50245902]
 
 ## Talk 29
 
@@ -343,16 +366,18 @@ Nuu: You, young hero, are about to make history. Heh, my deeds are nothing compa
 Nuu: When our ancestors first set out on their adventure, they could never have known they were about to found a tribe that would last thousands of years into the future.
 Nuu: When future generations look back on our accomplishment, they, too, will see our deeds for their greater significance.
 Mualani: #Hey, why don't we record Traveler's story on a stone tablet, just like the one on the mysterious island!
-Traveler: No objections here.
-Mualani: Haha, great! I better get on it, or someone might beat me to it!
+    Option 1:
+        Traveler: No objections here.
+        Mualani: Haha, great! I better get on it, or someone might beat me to it!
+    Option 2:
+        Traveler: Make sure you put it somewhere people can see it.
+        Mualani: Of course! Front and center — just like the first chief!
 Mualani: Everyone in my tribe wants you to become one of Natlan's greatest heroes. Me too, obviously...
 Mualani: But, as your friend, there's something I want even more, and it's way simpler...
 Mualani: Once this is all over, I wanna go to the hotsprings together. Paimon included!
 Mualani: That's what being friends is all about — quality time and good vibes!
 Traveler: It's a promise!
 Mualani: I'll hold you to it!
-Traveler: Make sure you put it somewhere people can see it.
-Mualani: Of course! Front and center — just like the first chief!
 
 ## Talk 33
 
@@ -362,7 +387,10 @@ Chasca: Thank you for everything. I will always be ready to return the favor.
 
 Vichama: That was amazing... Judging by your clothes, you're not from Natlan, are you?
 Mallko: I've never seen a soul like you in the Night Kingdom.
-Traveler: You're...
+    Option 1:
+        Traveler: You're...
+    Option 2:
+        Traveler: Guthred.
 Guthred: Yes... Although, rather than a soul, it would be more accurate to say that I'm a "story" created by the people of Natlan.
 Guthred: I was his most trusted second-in-command. Five hundred years ago, we fought against the Abyss together, and I sacrificed myself during battle.
 Guthred: The shamans of the Masters of the Night-Wind recorded my story on a woven scroll. Even now, many in Natlan know my name.
@@ -370,12 +398,18 @@ Vichama: So, you're him, but also not him?
 Guthred: That's right. What you see is the "me" from the story. I was remembered as a glorious hero, even though the truth is quite the opposite.
 Guthred: It was in fragmented memories of my life that I finally began to understand the real "me."
 Guthred: Unlike my righteous and noble commander, I was obsessive and cruel, an approach I believed to be more efficient. Our differences caused many an argument between us.
-Traveler: No wonder you were ready to...
+    Option 1:
+        Traveler: No wonder you were ready to...
+    Option 2:
+        Traveler: ...sacrifice Ororon.
 Mallko: Y—You tried to... sacrifice someone?
 Guthred: ..."I" will stop at nothing to protect my commander's interests.
 Guthred: The most idealistic and righteous among us are the most fragile, so I must protect his edge. A strong hand is required to stand against a strong foe.
 Guthred: That is what "the glory of Khaenri'ah" means to me.
-Traveler: So, you still believe in him?
+    Option 1:
+        Traveler: So, you still believe in him?
+    Option 2:
+        Traveler: Even though he's a stranger to you now.
 Guthred: I do.
 Guthred: I have my reasons, as do all who believe in something. You will understand that soon enough.
 Guthred: Due to the limitations of the Ley Lines, we can go no further. The enemy's lair is close at hand.
@@ -383,19 +417,16 @@ Vichama: But don't worry — all the souls of the Night Kingdom will lend you th
 Mallko: You will become the hero of a new era.
 Guthred: Go now. For Natlan — and for all who lost their lives to the Abyss.
 Guthred: This time, we shall prevail, not for any single nation or faction, but for us all.
-Traveler: Even though he's a stranger to you now.
-Traveler: ...sacrifice Ororon.
-Traveler: Guthred.
 
 ## Talk 35
 
+Wanjiru: I welcome...
 Menilek: I embrace...
-Sundjatta: I trust...
 Sanhaj: I acknowledge...
 Burkina: I follow...
+Sundjatta: I trust...
 Tupac: I walk with...
 All Together: Tenoch, the one and many.
-Wanjiru: I welcome...
 
 ## Talk 36
 
@@ -412,10 +443,16 @@ Chuychu: Need some help? Doctors can be really handy in an emergency, hehe.
 Chuychu: With your special powers, you should be able to make it through this place.
 Chuychu: Go, now. Go!
 Chuychu: Huh? What was that? I felt shaking all of a sudden...
-Traveler: Could it be...
+    Option 1:
+        Traveler: Could it be...
+    Option 2:
+        Traveler: That Mavuika's wrapped up everything on her end?
 Chuychu: Ooh, I was wondering where she went.
 Chuychu: Well, that just means we've got even less time to waste! I never liked causing trouble, and I definitely don't want to be the one who holds up the Pyro Archon's plan.
-Traveler: Chuychu...
+    Option 1:
+        Traveler: Chuychu...
+    Option 2:
+        Traveler: You went to see Chasca, didn't you?
 Chuychu: ...Yeah.
 Chuychu: I'm really glad she fulfilled her mission. She seemed a lot more... mature than before.
 Chuychu: All those years of worrying, but... better late than never, right?
@@ -425,8 +462,6 @@ Traveler: You're really strong, Chuychu.
 Chuychu: Alright, enough about that. All we can do is accept the past and continue to look forward.
 Chuychu: I would say our nation's future is looking very bright.
 Chuychu: #Go now, Traveler.
-Traveler: You went to see Chasca, didn't you?
-Traveler: That Mavuika's wrapped up everything on her end?
 
 ## Talk 38
 
@@ -487,13 +522,15 @@ Iansan: True strength isn't gifted from the heavens. It culminates little by lit
 Iansan: Natlan's history goes back thousands of years. Every person who calls this land home — past or present — has a hand in this opportunity.
 Iansan: Just like the Pyro Archon's concept of time — the past, the present, and the future exist at once. This moment is a convergence of all three.
 Iansan: I have full confidence in the outcome of this battle. Victory will belong to Natlan.
-Traveler: You have my word.
+    Option 1:
+        Traveler: You have my word.
+    Option 2:
+        Traveler: Your hard work will not be in vain.
 Iansan: Actually, I also have a more... personal request.
 Iansan: Once the war is over, come visit us in the Collective of Plenty, okay?
 Acatl: Haha, that's right! Our tribe can't wait to meet you.
 Iansan: Varesa and I will show you all our customs and fun activities.
 Iansan: I'll leave you in suspense for now. But I promise you won't be disappointed!
-Traveler: Your hard work will not be in vain.
 
 ## Talk 45
 

@@ -14,9 +14,15 @@ Gori: You'd better give him up — if anything happens, your business here is do
 Taisto: Or are you in cahoots with him? You with the Wild Hunt too, huh?
 Paimon: What happened? Did something leak out?
 Paimon: But we were so careful last night... How did anyone see us?
-Traveler: Something fishy about this...
+    Option 1:
+        Traveler: Something fishy about this...
+    Option 2:
+        Traveler: I doubt it's because of anything we did.
 Paimon: Wh—What do you mean?
-Traveler: They clearly know something...
+    Option 1:
+        Traveler: They clearly know something...
+    Option 2:
+        Traveler: Why else would they be talking about a "Wild Hunt shapeshifter"?
 Paimon: This is so confusing... What do we do? These people are no match for Flins, but they're super heated right now...
 Paimon: It's not like all the unusual stuff about him will make it any easier to explain, either.
 Traveler: Let's go buy some time.
@@ -62,8 +68,6 @@ Nefer: Oh?
 Paimon: What Paimon means to say is... We've got lots of new intel to share!
 Nefer: Hmm... Alright then. Jahoda, contact the others. We're going to need all hands on deck.
 Nefer: Let's have this discussion over at my place.
-Traveler: Why else would they be talking about a "Wild Hunt shapeshifter"?
-Traveler: I doubt it's because of anything we did.
 
 ## Talk 2
 
@@ -76,7 +80,10 @@ Nefer: #A reasonable course of action. Remember what we heard back at the tavern
 Nefer: Some of these must have been Rerir's doing. He must have been seeking more fragments.
 Paimon: This much is pretty easy to understand... But why would he pretend to be Sousi and put so much effort into getting the cannon up and running again?
 Jahoda: Maybe 'cause that'd be more efficient than having to clear anomalies himself?
-Traveler: Flins mentioned that if the cannon were fired at the Wild Hunt...
+    Option 1:
+        Traveler: Flins mentioned that if the cannon were fired at the Wild Hunt...
+    Option 2:
+        Traveler: ...The fragments would be blasted into oblivion too.
 Aino: Yeah, I'm confident that the ammo we're packing has the oomph to do that. But I am a mechanic, after all — for me, test data and their conclusions speak loudest.
 Aino: Why don't we find a few of those fragments ourselves and use kuuvahki to carry out a little experiment?
 Ineffa: Our lab could certainly accommodate such a test.
@@ -89,7 +96,10 @@ Traveler: (The fragments, the cannon, kuuvahki, Rerir, and the Abyss... There mu
 Traveler: (Besides, is getting revenge on Flins truly Rerir's sole aim?)
 Traveler: (We're missing some decisive connection here, but we're running out of time.)
 Lauma: There are three Wild Hunt sites that must be dealt with urgently... But I believe we have the capacity to handle it.
-Traveler: Since that's the case...
+    Option 1:
+        Traveler: Since that's the case...
+    Option 2:
+        Traveler: I'd like to investigate something on the Lightkeepers' end one more time.
 Aino: Works for me. Ineffa and I will take our workshop assistants to deal with one of the sites.
 Nefer: The Curatorium will handle another.
 Lauma: And we Frostmoon Scions shall deal with the remaining one.
@@ -98,15 +108,15 @@ Nefer: ...
 Paimon: Heh, Paimon didn't think she'd ever get to see everyone here carrying out a plan together like this...
 Jahoda: Never mind you — this is a first for me, too...
 Aino: Let's head out, then. We'll meet back up at my lab with the fragments.
-Traveler: If you run into Rerir, do not engage him.
+    Option 1:
+        Traveler: If you run into Rerir, do not engage him.
+    Option 2:
+        Traveler: He's grown much stronger since our last encounter.
 Nefer: Understood.
 Lauma: Time is of the essence now. Our foe could make his next move at any moment, so we must stay in contact with one another.
 Paimon: Gotcha. Stay safe, everyone!
 Jahoda: Huh...
 Jahoda: Anyone seen the lantern? Has Flins dropped by already?
-Traveler: He's grown much stronger since our last encounter.
-Traveler: I'd like to investigate something on the Lightkeepers' end one more time.
-Traveler: ...The fragments would be blasted into oblivion too.
 
 ## Talk 3
 
@@ -149,7 +159,10 @@ Paimon: Ah, and here's another similarity! "Kuuvahki in nearby soil completely d
 Flins: Kuuvahki and the Wild Hunt are mutually opposed forces.
 Flins: We Lightkeepers previously believed that these small Wild Hunt sites would temporarily go inactive due to being neutralized by the kuuvahki present in the soil.
 Flins: But now that we've synthesized all this data, there is a key issue this hypothesis cannot explain...
-Traveler: If the Wild Hunt's power had already been neutralized...
+    Option 1:
+        Traveler: If the Wild Hunt's power had already been neutralized...
+    Option 2:
+        Traveler: ...Why would another large-scale Wild Hunt occur soon after?
 Flins: Indeed. Despite the name, I would not call a Tideseal Stone's sealing powers "watertight," exactly — but for it to fail and the situation to deteriorate in such short order...
 Paimon: Urgh... Paimon feels like she's almost got it...
 Traveler: (The Wild Hunt was not suppressed by kuuvahki. Instead, it became stronger...)
@@ -159,10 +172,16 @@ Traveler: He can use kuuvahki?
 Flins: Yes, that might be it. It could be that when kuuvahki and Abyssal energies meet, the stronger side will suppress the weaker one.
 Flins: And while kuuvahki can indeed destroy small-scale Wild Hunt anomalies, should Rerir be strong enough... the kuuvahki might be his for the taking instead.
 Paimon: P—Paimon kinda gets where we're going with this!
-Traveler: The Abyss always seeks to corrupt...
+    Option 1:
+        Traveler: The Abyss always seeks to corrupt...
+    Option 2:
+        Traveler: This is just like the Abyssal threat the ancient dragons faced.
 Flins: What are you referring to?
 Paimon: We had a real close encounter with the Abyss in Natlan. It's a force that tries to taint everything... Ergh, it's hard to explain in detail, but basically, your reasoning makes sense!
-Traveler: So Rerir also grew stronger...
+    Option 1:
+        Traveler: So Rerir also grew stronger...
+    Option 2:
+        Traveler: ...On account of the cannon being fired?
 Flins: Was there a gap between him pretending to be Sergeant Major Sousi and the cannon being fired?
 Paimon: There was! Aino needed to make some adjustments after we finished those repairs. Rerir, disguised as Sousi, left at that point...
 Paimon: ...Leaving him more than enough time to shapeshift into you, return to the Lightkeepers' office, and set up the crime scene, before heading over to the cannon's target area and absorbing the kuuvahki.
@@ -186,9 +205,6 @@ Traveler: We'll just have to trust them.
 Flins: ...Let's go to the cannon's target site. That's where we should find Rerir — and that's where we'll stop him.
 Flins: One moment, just let me get this news to Lauma. Nasha Town is in their hands now.
 Paimon: Go, fly! Not a moment to lose!
-Traveler: ...On account of the cannon being fired?
-Traveler: This is just like the Abyssal threat the ancient dragons faced.
-Traveler: ...Why would another large-scale Wild Hunt occur soon after?
 
 ## Talk 4
 
@@ -200,7 +216,10 @@ Paimon: You've messed with the cannon again, huh? Sorry, but this round's not go
 "Rächer of Solnari": But will the inhabitants of Nasha Town understand why they wish to stop the cannon? I think not.
 "Rächer of Solnari": When all they see is the Wild Hunt surging up everywhere they look, the cannon must seem like their only lifeline.
 "Rächer of Solnari": This is the truth I have revealed to them.
-Traveler: So that's why you riled them all up...
+    Option 1:
+        Traveler: So that's why you riled them all up...
+    Option 2:
+        Traveler: ...You were baiting them into firing the cannon.
 "Rächer of Solnari": They did this all of their own volition.
 "Rächer of Solnari": The zealous worship of power leads only to annihilation of equally zealous proportions. True power does not heed the commands of the weak.
 Flins: You were waiting for us to leave Nasha Town, then.
@@ -223,14 +242,15 @@ Flins: Hence you fired that first shot hoping to regain enough power to seize th
 Paimon: Are you completely crazy? Weren't you afraid of dying?
 "Rächer of Solnari": Dying? Hahaha... Such power has no hope of killing me. It may destroy my form over and over, yet always, I rebuild it. It may smash my flesh and crush my bones, thousands of times and more, but that is of no consequence to me.
 "Rächer of Solnari": What truly infuriates me, however, is how you've destroyed my heart. All that suffering, everything I endured... and all for nothing!
-Traveler: Wanna go for another round, then?
+    Option 1:
+        Traveler: Wanna go for another round, then?
+    Option 2:
+        Traveler: It's going to turn out the same, you know.
 "Rächer of Solnari": I have adapted to the strength and flow of this kuuvahki. The next cannon shot will multiply my strength immeasurably.
 "Rächer of Solnari": It will not be a full restoration, no. But it will be more than enough to destroy any in this world who stand in my way.
 "Rächer of Solnari": Still, I suspect the kuuvahki will have rendered you down to nutrients for my consumption well before you have the time to kneel before me.
 Paimon: #Traveler...
 Paimon: Behind you... Look at that light...
-Traveler: It's going to turn out the same, you know.
-Traveler: ...You were baiting them into firing the cannon.
 
 ## Talk 5
 
@@ -347,11 +367,13 @@ Ineffa: A "manual brake"... Understood. Roger that.
 
 Suoma: You wretched monsters! You're not getting anywhere near the cannon!
 Lauma: The monsters you fear do not exist here. The madness you have fallen to has been the source of untold disasters.
+[Missing Dialog 60109927]
 
 ## Talk 18
 
 Bartol: You think we had a choice!?
 Lauma: "Destiny" is no excuse for greed and destruction.
+[Missing Dialog 60109929]
 
 ## Additional Conversations
 

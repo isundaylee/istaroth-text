@@ -51,8 +51,11 @@ Charlotte: Huh, you make it sound like you really needed this... Are you pressed
 Mona: What? No, of course not! It's just that once I knew the bonus was coming, I re-allocated some funds that I'd previously set aside for daily necessities, and purchased some expensive equipment... That's all.
 Paimon: Hehe, classic Mona...
 Charlotte: Aha, perfect! "Renowned Astrologist Broke and Starving — Do the Stars Really Have All the Answers?" ...The article practically writes itself!
-Traveler: Actually, that does sound like an interesting read.
-Mona: ...Aw! I beg your pardon!?
+    Option 1:
+        Traveler: Actually, that does sound like an interesting read.
+        Mona: ...Aw! I beg your pardon!?
+    Option 2:
+        Traveler: Sounds a little exaggerated, don't you think?
 Paimon: Mona's actually super rich — it's just that astrology research is really expensive.
 Mona: #"Super rich" is a bit of a stretch... Ugh, anyway, enough about that. What brings you back to Mondstadt this time, Traveler and Paimon?
 Paimon: Originally, we just came to catch up with a friend of ours... but some things have come up, and now we're helping Charlotte investigate the case of the Card Snatcher.
@@ -65,12 +68,13 @@ Mona: Well yes, obviously. Anyway, if past precedent is anything to go by, you'r
 Charlotte: Thanks for the offer, but there's no need. Relying on your astrological skills for all the juicy details would make this story a Mona-exclusive... but that's not quite the kind of exclusive report I'm going for here.
 Charlotte: But don't you worry — they call it "investigative journalism" for a reason... We journos have our ways!
 Mona: Alright. Well, best of luck with your investigation then. Thanks again for bringing the bonus, Charlotte. Do give my regards to the chief editor.
-Traveler: Take care of yourself, Mona...
+    Option 1:
+        Traveler: Take care of yourself, Mona...
+    Option 2:
+        Traveler: ...Also, we should play another game of Genius Invokation TCG sometime!
 Mona: I will — and yes, we should. I'll hold you to that.
 Charlotte: I think it's about time we started heading to the competition venue. The Mondstadt regional final should be starting shortly.
 Paimon: Alright! Paimon can't wait to find out who the finalists are.
-Traveler: ...Also, we should play another game of Genius Invokation TCG sometime!
-Traveler: Sounds a little exaggerated, don't you think?
 
 ## Talk 8
 
@@ -93,18 +97,22 @@ Kaeya: A "Card Snatcher"? ...Hmm, how very interesting. But, one question, Paimo
 Paimon: Huh? What makes you say that?
 Master of Ceremonies: Hello everyone, your attention please! The final is about to begin! Now, let's give a warm welcome to our two contestants!
 Kaeya: Guess we'll have to leave it there. Let's continue this conversation another time.
-Traveler: Good luck, Kaeya!
-Kaeya: Thanks, Traveler.
+    Option 1:
+        Traveler: Good luck, Kaeya!
+        Kaeya: Thanks, Traveler.
+    Option 2:
+        Traveler: Give it your best!
+        Kaeya: Don't worry, I will.
 Paimon: Go get 'em, Kaeya! We'll see you in a bit!
 Paimon: #So Traveler, who do you think's gonna win?
-Traveler: Pretty sure Timmie will win.
-Paimon: Yeah, Timmie seems to be a pretty strong TCG player.
+    Option 1:
+        Traveler: Pretty sure Timmie will win.
+        Paimon: Yeah, Timmie seems to be a pretty strong TCG player.
+    Option 2:
+        Traveler: I think Kaeya will win.
+        Paimon: Yeah, Kaeya's quite the crafty one. He must have some tricks up his sleeve.
 Paimon: Either way, whoever wins is bound to make headlines... Wait, speaking of headlines, isn't that Charlotte's job!?
 Paimon: Huh... maybe she got caught up trying out all the delicious Mondstadt snacks? Let's go look for her.
-Traveler: I think Kaeya will win.
-Paimon: Yeah, Kaeya's quite the crafty one. He must have some tricks up his sleeve.
-Traveler: Give it your best!
-Kaeya: Don't worry, I will.
 
 ## Talk 10
 
@@ -168,16 +176,18 @@ Adrian: Right, yeah, no, that makes sense. I'll go speak to the Knights of Favon
 Paimon: It sounds like that guy's just collecting rare card backs. Are you sure this is the person you're after, Charlotte?
 Charlotte: Well, it definitely doesn't add up. You really think someone out there's going from nation to nation shelling out huge sums of money for a few card backs bought from a grocery store?
 Charlotte: My gut tells me that there's more to this story than the card back alone. Hehe, this entire situation reeks of exclusive news!
-Traveler: Do you think there's real treasure involved?
-Paimon: Ooh, treasure! Maybe the card backs make a treasure map? You know, collect all the pieces, put 'em together, and they reveal where the treasure is buried!
+    Option 1:
+        Traveler: Do you think there's real treasure involved?
+        Paimon: Ooh, treasure! Maybe the card backs make a treasure map? You know, collect all the pieces, put 'em together, and they reveal where the treasure is buried!
+    Option 2:
+        Traveler: Maybe it was designed by a famous artist?
+        Paimon: Oh, you mean someone like Albedo? Hmm, that would explain why only some people understand the true value.
 Charlotte: Who knows... but wherever this leads, we're definitely onto something.
 Charlotte: Even though I didn't manage to get a good look at his face, his physique and the way he moved were identical to the Card Snatcher I saw last time. I'm sure it's the same guy.
 Charlotte: He was much more discreet this time, though. I guess he didn't want to risk trying anything with so many potential witnesses around.
 Paimon: From the sounds of it, we need to head to Liyue next, right? Paimon can't wait — we have tons of friends in Liyue, too!
 Paimon: But shouldn't we check in with Kaeya before we leave? Paimon at least wants to find out who won the final.
 Charlotte: Good idea, let's go.
-Traveler: Maybe it was designed by a famous artist?
-Paimon: Oh, you mean someone like Albedo? Hmm, that would explain why only some people understand the true value.
 
 ## Talk 16
 
@@ -188,7 +198,10 @@ Paimon: Oh, you mean someone like Albedo? Hmm, that would explain why only some 
 Master of Ceremonies: I hereby declare the winner of the Mondstadt regional final of the King of Invokations Grand Prix is... Timmie!
 Paimon: Wow! Timmie won, that's amazing!
 Kaeya: *sigh* I was beaten by the best. Timmie's a tough opponent — he had me on the back foot the entire time.
-Traveler: There's always next time.
+    Option 1:
+        Traveler: There's always next time.
+    Option 2:
+        Traveler: At least you are gracious in defeat.
 Kaeya: Haha, it's alright, you don't need to comfort me.
 Kaeya: This must be the journalist from Fontaine you mentioned earlier. Charlotte, was it? Enchantée.
 Kaeya: I'm Kaeya, Cavalry Captain of the Knights of Favonius. I trust you're enjoying your time in Mondstadt?
@@ -216,7 +229,10 @@ Kaeya: Either they don't want to play the game, or they're unable to. But they m
 Charlotte: I wonder if they'll show up at all during the King of Invokations Grand Prix...
 Kaeya: #Maybe, if you get lucky... and based on my experience, Traveler seems to have no shortage of that.
 Charlotte: Oh really? Well, that gives me one less thing to worry about.
-Traveler: Hearing that that put you at ease puts me at ease.
+    Option 1:
+        Traveler: Hearing that that put you at ease puts me at ease.
+    Option 2:
+        Traveler: Hopefully my luck won't run out any time soon...
 Charlotte: Anyway, our focus is still on tracking down the Card Snatcher.
 Charlotte: I heard Snezhnaya has an old saying: "If you try chasing two rabbits at once, you'll only end up empty-handed."
 Paimon: #Well... Traveler and Paimon can always split up and chase one rabbit each!
@@ -224,8 +240,6 @@ Paimon: Okay, now Paimon's feeling hungry. We can worry about all this later —
 Kaeya: Haha... You can always trust Paimon to know where life's priorities lie. If it's food you're after, I recommend taking a look at the nearby stalls.
 Kaeya: The tournament has brought quite a crowd, so there's a lot of fun to be had around the venue.
 Paimon: Sounds great! Thanks, Kaeya!
-Traveler: Hopefully my luck won't run out any time soon...
-Traveler: At least you are gracious in defeat.
 
 ## Additional Conversations
 

@@ -18,17 +18,21 @@ Paimon: Do shrine maidens usually wear masks?
 Hanachirusato: ...I have my reasons for that.
 Hanachirusato: The village in front of you is named Konda Village, and there is a... barrier within it that needs to be lifted.
 Hanachirusato: That barrier is hidden behind a certain secret. I'd like to entrust you with a little investigation, and with lifting that barrier.
-Traveler: Investigation?
-Hanachirusato: Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end.
-Paimon: Well, that sounds like a lot of work. Will there be payment?
+    Option 1:
+        Traveler: Investigation?
+        Hanachirusato: Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end.
+        Paimon: Well, that sounds like a lot of work. Will there be payment?
+    Option 2:
+        Traveler: Will there be a reward for that?
 Hanachirusato: Hehe... Of course.
 Hanachirusato: "To those who seek shall just reward be given in proportion to their wisdom and work."
 Hanachirusato: ...That's what she used to say. So no, there is no need to worry.
-Traveler: "She"?
-Hanachirusato: ...
+    Option 1:
+        Traveler: "She"?
+        Hanachirusato: ...
+    Option 2:
+        Traveler: I see. I'll get a move on, then.
 Hanachirusato: I shall be counting on you for this investigation, Destined One.
-Traveler: I see. I'll get a move on, then.
-Traveler: Will there be a reward for that?
 
 ## Talk 3
 
@@ -57,30 +61,37 @@ Paimon: Do shrine maidens usually wear masks?
 Hanachirusato: ...I have my reasons for that.
 Hanachirusato: The village in front of you is named Konda Village, and there is a... barrier within it that needs to be lifted.
 Hanachirusato: That barrier is hidden behind a certain secret. I'd like to entrust you with a little investigation, and with lifting that barrier.
-Traveler: Investigation?
-Hanachirusato: Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end.
-Paimon: Well, that sounds like a lot of work. Will there be payment?
+    Option 1:
+        Traveler: Investigation?
+        Hanachirusato: Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end.
+        Paimon: Well, that sounds like a lot of work. Will there be payment?
+    Option 2:
+        Traveler: Will there be a reward for that?
 Hanachirusato: Hehe... Of course.
 Hanachirusato: "To those who seek shall just reward be given in proportion to their wisdom and work."
 Hanachirusato: ...That's what she used to say. So no, there is no need to worry.
-Traveler: "She"?
-Hanachirusato: ...
+    Option 1:
+        Traveler: "She"?
+        Hanachirusato: ...
+    Option 2:
+        Traveler: I see. I'll get a move on, then.
 Hanachirusato: I shall be counting on you for this investigation, Destined One.
-Traveler: I see. I'll get a move on, then.
-Traveler: Will there be a reward for that?
 
 ## Talk 8
 
 Hanachirusato: Greetings.
-Traveler: About Konda Village...
-Hanachirusato: Konda Village has a long history. In the distant past, its people were once charged with the duty of guarding a certain barrier.
-Hanachirusato: But too many things have been lost to time, and this barrier has now become something that must be removed.
+    Option 1:
+        Traveler: About Konda Village...
+        Hanachirusato: Konda Village has a long history. In the distant past, its people were once charged with the duty of guarding a certain barrier.
+        Hanachirusato: But too many things have been lost to time, and this barrier has now become something that must be removed.
+    Option 2:
+        Traveler: About the barrier...
+        Hanachirusato: There is a barrier under Konda Village. For the sake of Narukami Island, we must lift it.
+        Hanachirusato: However, the path to the barrier is shrouded in Konda Village's secrets.
+        Hanachirusato: I believe that you will see through the mystery of the villagers' words and reach the place appointed by destiny, just as you did with the ward...
+    Option 3:
+        Traveler: Goodbye.
 Hanachirusato: I wish you all the best.
-Traveler: About the barrier...
-Hanachirusato: There is a barrier under Konda Village. For the sake of Narukami Island, we must lift it.
-Hanachirusato: However, the path to the barrier is shrouded in Konda Village's secrets.
-Hanachirusato: I believe that you will see through the mystery of the villagers' words and reach the place appointed by destiny, just as you did with the ward...
-Traveler: Goodbye.
 
 ## Talk 9
 
@@ -98,13 +109,15 @@ Takeru: *shh* Keep your voice down... I can tell you, but promise me you won't g
 Takeru: During thunderstorms...
 Takeru: ...things get spooky around here!
 Takeru: There's a strange spooky ghost lady!
-Traveler: Ooh.
+    Option 1:
+        Traveler: Ooh.
+    Option 2:
+        Traveler: I'll say hi to her when I see her...
 Takeru: Huh, how can you be so calm after I told you something like that?
 Takeru: When I told Grandpa Densuke, he didn't believe me either. He said that I must have been mistaken...
 Traveler: Any other unusual things going on?
 Takeru: I guess that would be the *broken cart* at the entrance of the village. I wonder who left it there?
 Takeru: See, that's it over there. There are hilichurls digging at it, too!
-Traveler: I'll say hi to her when I see her...
 
 ## Talk 11
 
@@ -132,7 +145,10 @@ Konda Densuke's Notes: "...Konda Village should've been prosperous. The Konda Cl
 Futaba: #Hello, strange {F#big sis}{M#big bro}! What's up?
 Traveler: Have you encountered anything strange lately?
 Futaba: Strange? Uh... I don't get it. What kinds of things would you consider strange?
-Traveler: Anything out of the ordinary.
+    Option 1:
+        Traveler: Anything out of the ordinary.
+    Option 2:
+        Traveler: Like something that is hard to explain.
 Futaba: Hmm... Hmm...
 Futaba: I know!
 Paimon: Did something come to mind?
@@ -155,16 +171,17 @@ Paimon: Huh? That old man is your dad?
 Futaba: Actually, I was adopted. He adopted me, so now I'm his daughter.
 Futaba: Oh! You can also go ask my nephew, Takeru.
 Paimon: Wait a second. Nephew...?
-Traveler: I see. He is the village chief's grandson.
-Futaba: That's right. *Takeru likes high places*, so maybe he's seen something from there...
+    Option 1:
+        Traveler: I see. He is the village chief's grandson.
+        Futaba: That's right. *Takeru likes high places*, so maybe he's seen something from there...
+    Option 2:
+        Traveler: "Nephew"?
+        Futaba: My dad's grandson. I'm my father's daughter, so he's my nephew.
 Paimon: This family's pretty complicated...
 Traveler: I see. Thank you.
 Futaba: Hehe. Glad that I could help!
 Futaba: *sigh* Why isn't Takeru here yet? We were supposed to hang out today.
 Futaba: Did he go up to the roof again...?
-Traveler: "Nephew"?
-Futaba: My dad's grandson. I'm my father's daughter, so he's my nephew.
-Traveler: Like something that is hard to explain.
 
 ## Talk 15
 
@@ -174,6 +191,7 @@ Paimon: Hee-hee, let's see what's inside...
 ## Talk 16
 
 Paimon: Missing text (2971908106)
+[Missing Dialog 721061902]
 
 ## Talk 17
 
@@ -187,17 +205,21 @@ Paimon: Missing text (2971908106)
 
 Paimon: This should be Konda Village.
 Paimon: Secrets... Hmm, yes, Paimon smells something suspicious!
-Traveler: Paimon's nose is better than a dog's...
-Paimon: How rude! Paimon was just saying the obvious.
+    Option 1:
+        Traveler: Paimon's nose is better than a dog's...
+        Paimon: How rude! Paimon was just saying the obvious.
+    Option 2:
+        Traveler: Well done, Paimon.
 Paimon: Hehe. It might look very peaceful here, but Paimon's sure that there's gotta be something dark going on.
 Traveler: Really?
 Paimon: There's gotta be some secrets here! Miss Masked Maiden said so.
 Paimon: Anyway, let's talk to the locals first. Maybe we can find something out...
-Traveler: Find out what?
-Paimon: Hehehe, the secret that the people of Konda Village are trying to hide!
-Traveler: A dark secret?
-Paimon: That's right!
-Traveler: Well done, Paimon.
+    Option 1:
+        Traveler: Find out what?
+        Paimon: Hehehe, the secret that the people of Konda Village are trying to hide!
+    Option 2:
+        Traveler: A dark secret?
+        Paimon: That's right!
 
 ## Talk 20
 
@@ -245,7 +267,10 @@ Traveler: You are...?
 Konda Densuke: My name is Konda Densuke, and I am the village chief.
 Konda Densuke: From the way you dress, you must be an outsi— I mean, outlander, right? It's been a long time since an outlander has come to the village.
 Konda Densuke: How can I help you? Need a place to rest your feet? Or do you need help to find your way up the mountain?
-Traveler: I'm looking for a place to rest.
+    Option 1:
+        Traveler: I'm looking for a place to rest.
+    Option 2:
+        Traveler: I want to go up the mountain.
 Paimon: No! We're here to ask about the secret of Konda Village!
 Traveler: ...Oh boy.
 Konda Densuke: Secret? Konda Village doesn't have any secrets.
@@ -258,12 +283,12 @@ Konda Densuke: Phew... Sorry, I might have overreacted.
 Konda Densuke: Konda Village is a peaceful place. Youngster, are you sure you don't have the wrong village?
 Paimon: But...
 Konda Densuke: If you don't believe me, *you can look around yourself*. I, Konda Densuke, will not stand in your way.
-Traveler: I want to go up the mountain.
 
 ## Talk 24
 
 Investigate (Ruts on the road): Missing text (1267749234)
 Investigate (Ruts on the road): Missing text (1557951738)
+[Missing Dialog 721061503]
 
 ## Talk 25
 

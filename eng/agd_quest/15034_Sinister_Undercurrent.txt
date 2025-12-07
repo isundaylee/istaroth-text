@@ -25,6 +25,7 @@ Paimon: You should get some rest. Paimon can tell how tired you are.
 
 Paimon: #Traveler! Traveler!
 Paimon: Geez! You're like "space out" city over there! What's up with you today?
+[Missing Dialog 0]
 
 ## Talk 5
 
@@ -54,7 +55,10 @@ Black Screen Text: You and Paimon head to Wanmin Restaurant. Sensing that someth
 Paimon: What? So in this dream, you were trapped in a weird place with thick fog everywhere, and then a spike came out of nowhere and stabbed you in the back?
 Paimon: Okay, well that's a new one. Are you sure it was a dream? 'Cause from the way you describe it, it sounds like you were really there...
 Paimon: But, then again, you woke up right where you went to bed. And you were definitely in a deep sleep this morning.
-Traveler: I don't know what to make of it, either...
+    Option 1:
+        Traveler: I don't know what to make of it, either...
+    Option 2:
+        Traveler: Maybe it was just a very lifelike dream.
 Paimon: Then, it's decided. Paimon will stay up and watch over you tonight! If anyone tries to mess with you, Paimon will beat 'em up!
 Paimon: Or, uh... Wake you up first and then we can beat 'em up together!
 Traveler: (Paimon's smile has a way of putting me at ease.)
@@ -80,7 +84,10 @@ Captain Wu: Chef Mao, I'll take a Grilled Tiger Fish over here!
 Chef Mao: Coming right up! *sigh*... If I knew we'd be this busy, I wouldn't have approved Shenhe's vacation...
 Skirk: At the end of the day, what happens to you is of little consequence to me. I'm not here to try and win you over. Trust me or not — the choice is yours.
 Skirk: If you want my help, now's the time to speak up. You have until I finish my drink.
-Traveler: What do you know about this situation?
+    Option 1:
+        Traveler: What do you know about this situation?
+    Option 2:
+        Traveler: Why are you here?
 Skirk: I was investigating an Abyssal disturbance in the area and happened to notice you.
 Skirk: Part of your soul is damaged, and the wound bears traces of Abyssal corrosion. Need I say more?
 Paimon: Neither of those things sound good...
@@ -117,8 +124,6 @@ Chef Mao: Coming!
 Paimon: Okay, what was going on there? It's like they didn't remember Skirk being there at all.
 Paimon: Even Paimon was half-convinced we hallucinated the whole thing... But, that Mora she left for us was definitely real.
 Paimon: Ooh... This whole situation is giving Paimon the creeps... But anyway, she told us to head to the Guili Plains, right? Let's not keep her waiting!
-Traveler: Why are you here?
-Traveler: Maybe it was just a very lifelike dream.
 
 ## Talk 11
 
@@ -141,7 +146,10 @@ Skirk: Together, these remnants form what you call "god remains." And it appears
 Skirk: ...What are you doing?
 Paimon: N—Nothing! Just wanted to make sure you were, um, real...
 Paimon: #She's definitely not a ghost, Traveler. Paimon poked her and she's solid...
-Traveler: After you left the restaurant...
+    Option 1:
+        Traveler: After you left the restaurant...
+    Option 2:
+        Traveler: The other diners acted like you were never there.
 Skirk: Your life hangs in the balance, and that's what you're fixated on? Strange set of priorities...
 Skirk: It was just a trick to avoid being perceived. If someone notices me, those memories are erased, simple as that.
 Skirk: Unlike you, I have no desire to establish a connection with the world. The weak and the lowly have no right to remember me. They're lucky they only have a few missing memories to show for it.
@@ -176,7 +184,6 @@ Paimon: Yeesh... You'd think she'd be a little friendlier since she's agreed to 
 Paimon: Well, whatever! If that's how it's gonna be, then she doesn't deserve our friendship! What she does deserve is a super embarrassing nickname...
 Paimon: Ah, Paimon's got it! "Frosty the Lavender Melon"! Hehe, serves that ice queen right.
 Paimon: Anyway, the important thing is that we get that piece of your soul back! So, let's follow her and see what sort of plan she's got!
-Traveler: The other diners acted like you were never there.
 
 ## Talk 14
 
@@ -192,9 +199,15 @@ Skirk: Now, we just need to figure out how to investigate that place you saw. Th
 Skirk: Both your description and the Abyssal disturbance I felt point to that space having some connection to the Abyss. It could even be a domain similar to this one.
 Skirk: The thief who stole that fragment of your soul is hiding there. But the Abyss is a chaotic and turbulent place. If we want to pinpoint their location, we need to see what that space looks like without the fog.
 Skirk: Abyssal power can grant a special form of sight. Have you ever wielded Abyssal power before?
-Traveler: No.
+    Option 1:
+        Traveler: No.
+    Option 2:
+        Traveler: Not that I'm aware of.
 Skirk: Okay, do you plan to learn?
-Traveler: ...For now, no.
+    Option 1:
+        Traveler: ...For now, no.
+    Option 2:
+        Traveler: I'm kind of at odds with the Abyss.
 Skirk: That tracks. All the information you have suggests the Abyss is something sinister, and that Abyssal power is a wild and dangerous force that always spells disaster.
 Paimon: And you're saying that's not true?
 Skirk: Depends on your perspective. Floods and hurricanes take countless lives too, but if one day you gained the power to control them, what was once a calamity is now just another tool in your arsenal.
@@ -206,7 +219,10 @@ Skirk: It means experiencing whatever the other person is dreaming. Everything t
 Skirk: Since you haven't studied the art of using Abyssal power and have no plans to jump in the deep end right now, I'll have to do the investigating for you.
 Skirk: With dream-mirroring, every time you slip into a deep sleep, I'll see with my own eyes whatever scene plays out in your mind. Then, I can guide you through the dream environment and we'll take back what was stolen from you.
 Paimon: Huh... You make it sound so simple!
-Traveler: So all I need to do is... wait?
+    Option 1:
+        Traveler: So all I need to do is... wait?
+    Option 2:
+        Traveler: Is there anything you need me to do?
 Skirk: Tough to say. This is an unprecedented situation for both of us. Even assuming we do manage to find where this entity is hiding, like I said, getting your soul fragment back won't be easy.
 Skirk: To play it safe, I need to give you some special training first.
 Paimon: #Wait, you're gonna teach Traveler some of your martial arts?
@@ -218,6 +234,3 @@ Paimon: She moves fast... Paimon can hardly keep up with her.
 Paimon: So, "special training," huh? Kind of a rare opportunity... With your skills, there's not a lot of people qualified to train you.
 Paimon: The last time something like this happened was probably... "Anti-Raiden Shogun Training," right? Feels like a lifetime ago.
 Paimon: Skirk seems pretty strong too though. Remember how she said that the All-Devouring Narwhal was just her master's "pet"? Huh, maybe we really will learn something here!
-Traveler: Is there anything you need me to do?
-Traveler: I'm kind of at odds with the Abyss.
-Traveler: Not that I'm aware of.

@@ -15,7 +15,10 @@ Paimon: You sparred with a bunch of them too, right? Nice to know it's all gonna
 Skirk: Don't get too smug. In sword fighting, techniques alone are not enough — you need a cohesive system to bring it all together. A "style," or "school" of fighting.
 Skirk: To use the human body as an analogy, your style is your skeleton — the foundation, the framework. Techniques are the muscles and other flesh attached to the bones. This is where your strength comes from.
 Skirk: Improving your sword fighting is like growing that body. If your frame got bigger and taller but you didn't add any muscle mass, you'd be weak and flimsy. Then again, if you packed on pounds of flesh without a big enough frame to support it, you'd end up bloated and unwieldy.
-Traveler: Understood.
+    Option 1:
+        Traveler: Understood.
+    Option 2:
+        Traveler: So what's the next step?
 Skirk: You need to do some introspection. Take a good, hard look at your past experiences, and figure out which parts of what you've learned are just techniques, and which parts can be used to form your own system of bladework.
 Skirk: Only then will you get the full utility out of all your thoughts and observations along the way. Only then will every strike you deliver make perfect sense.
 Paimon: Wait, is that it?
@@ -23,7 +26,6 @@ Paimon: #Paimon thought you were gonna teach Traveler some cool new moves... Lik
 Skirk: One day, you'll reach a new level of power where you realize that even that's as basic a trick as any other. But right now, our sword styles are so wildly different that teaching you mere techniques is pointless.
 Skirk: There are no shortcuts in the pursuit of power. Failure is your best teacher, and rigor is your coursework.
 Skirk: That's all I have to say. Time to make a start — train until you're satisfied with yourself.
-Traveler: So what's the next step?
 
 ## Talk 2
 
@@ -54,11 +56,13 @@ Traveler: ...
 Skirk: Huh... Looks like you've made some real progress. That concludes your training session.
 Paimon: Awesome! Paimon knew you could do it!
 Skirk: How do you feel?
-Traveler: Exhausted...
+    Option 1:
+        Traveler: Exhausted...
+    Option 2:
+        Traveler: I'm fighting to keep my eyes open...
 Skirk: As you should be. Time flies when you're training hard. You've actually been going for several days now with no rest.
 Paimon: Yeah, meanwhile Paimon's had a whole bunch of naps! But you were so focused, she didn't wanna interrupt you.
 Skirk: Go get some sleep — I'll be doing the same very soon. Let's hope you see that foggy place in your dream, so I can get this investigation over and done with.
-Traveler: I'm fighting to keep my eyes open...
 
 ## Talk 4
 
@@ -172,24 +176,30 @@ Traveler: I'm ready to start.
 Skirk: The way I see it, the pursuit of power is divided into three stages.
 Skirk: The first is mastering the use of standard weapons. Next is learning how to harness natural energy. And, after that, you're free to challenge even higher dimensions.
 Skirk: The "natural energy" of Teyvat is, of course, elemental energy. But that's not my area of expertise — I draw from a different source of power.
-Traveler: A different source of power?
+    Option 1:
+        Traveler: A different source of power?
+    Option 2:
+        Traveler: That must mean...
 Skirk: Abyssal power, yes. Also known as the power of the Void Realm.
 Skirk: My master, Surtalogi, is a true expert in that area. After all, he was one of the group of five that infamously stole the all-encompassing power of the Abyss, an act for which the people of Khaenri'ah gave them the epithet "The Five Sinners."
 Skirk: The elemental energy of Teyvat, on the other hand, is derived from the power of the Light Realm. These two forms of energy exist in direct opposition to each other. Suffice to say, there's not much I can teach you this time.
-Traveler: But, there's something familiar about the power you use.
+    Option 1:
+        Traveler: But, there's something familiar about the power you use.
+    Option 2:
+        Traveler: It almost seems related to Cryo in some way.
 Skirk: #A keen observation, Traveler.
 Skirk: Call it... respecting local norms. The Abyss stands in direct conflict with the will of this world. So, to make my life easier, I disguise my power to make it appear Cryo-like in nature.
 Skirk: It's a technique I learned from some Khaenri'ahn ruins, known as "the Seven-Shifting Serpent." If you ever change your mind about delving into Abyssal power, I can teach it to you.
-Traveler: Abyssal power doesn't suit me...
+    Option 1:
+        Traveler: Abyssal power doesn't suit me...
+    Option 2:
+        Traveler: I have the ability to purify Abyssal power.
 Skirk: So I've heard. You seem to have a knack for removing Abyssal power.
 Skirk: But... Is "purification" really what's going on there? Like I said — power does not simply disappear.
 Traveler: What are you trying to say?
 Skirk: ...Just thinking out loud. Let's focus on your elemental training. That's what's gonna help us if the situation gets tricky.
 Skirk: True growth comes from adversity. But only if you make the choice to pick yourself up again every time you fall.
 Skirk: So, it's time to push yourself to the limit — and then keep pushing. This is the only way to advance at pace.
-Traveler: I have the ability to purify Abyssal power.
-Traveler: It almost seems related to Cryo in some way.
-Traveler: That must mean...
 
 ## Talk 16
 
@@ -212,10 +222,12 @@ Traveler: (I can feel the power of the elements flowing through me. Sometimes, a
 Traveler: (If I close my eyes, I can almost hear their voices. But, it's not like some wild beast battling me for dominion. It's more like... saying hello to an old friend.)
 Traveler: ...!
 Skirk: Very good. It seems you've reached a deeper level of connection with the elements.
-Traveler: How long has it been this time?
+    Option 1:
+        Traveler: How long has it been this time?
+    Option 2:
+        Traveler: I'm exhausted...
 Skirk: Long enough for you to lose yourself in your training — which is a good sign. Relentless practice with the elements has drained all your strength, but it's also what allowed you to make progress.
 Skirk: Get some rest. When you wake up, we'll proceed to the final stage of your training.
-Traveler: I'm exhausted...
 
 ## Talk 19
 
@@ -225,11 +237,13 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 Traveler: (This place again...)
 Strange Creature: ♪~
-Traveler: Did you bring me here?
+    Option 1:
+        Traveler: Did you bring me here?
+    Option 2:
+        Traveler: Who are you?
 Strange Creature: ♪~
 Traveler: (No response. The strange creature just floated away.)
 Traveler: (What is that thing? What is it doing in Skirk's inner world? And... where is it taking me this time?)
-Traveler: Who are you?
 
 ## Talk 21
 
@@ -287,11 +301,17 @@ Traveler: (Once that's done, I'll find a chance to talk to her.)
 ## Talk 28
 
 Skirk: From your training so far, you have gained a better command of the sword and more control over your elemental abilities.
-Traveler: Thank you.
+    Option 1:
+        Traveler: Thank you.
+    Option 2:
+        Traveler: It's all thanks to your guidance.
 Skirk: That's only part of it. Experience is the real teacher. Your journey, the friends you have made, the dangers you have faced — these have taught you more than I ever could.
 Skirk: Now, it's time to focus on how you react under pressure. You must be able to think rationally, even in unpredictable combat situations. To simulate this, I'm going to attack, and you're going to block.
 Skirk: Ready?
-Traveler: Yes.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: Give me your worst.
 Skirk: Hm, not bad. That defensive stance looks near unbreakable.
 Skirk: #Just like your sister. Ah, that reminds me. You still don't know what happened to her, do you...
 Traveler: !!!
@@ -304,8 +324,6 @@ Skirk: How amusing. Almost sounds like you think you know me.
 Skirk: ...But, you don't. You can choose your own path — we are not the same.
 Skirk: Let's begin. Try to use reason over emotion. Make the most rational and advantageous decision in any given moment.
 Skirk: This is your final training session. Look alive.
-Traveler: Give me your worst.
-Traveler: It's all thanks to your guidance.
 
 ## Talk 29
 
@@ -377,9 +395,15 @@ Traveler: (Huh...)
 Traveler: (The dream is over. I can hear the crackling of a fire in the distance, and there's a fragrant aroma in the air... Mmm, grilled meat...)
 Paimon: You're awake!
 Paimon: You must be starving, right? Ta-da! A barbecue feast just for you!
-Traveler: I am a little hungry.
+    Option 1:
+        Traveler: I am a little hungry.
+    Option 2:
+        Traveler: Yeah, I'm starving.
 Paimon: Hehehe, of course you are! That's why Skirk and Paimon got this all ready for you. Dig in, before it gets cold!
-Traveler: You two...
+    Option 1:
+        Traveler: You two...
+    Option 2:
+        Traveler: So you're best friends now?
 Paimon: Eh, well, if you're around someone long enough, it's bound to happen. Plus, Skirk can cook! So, Paimon decided she can forgive the whole "ice queen" thing. Paimon's not one to hold a grudge...
 Skirk: Here's an idea. Let's save the chit-chat until after the meal.
 Black Screen Text: You all dig in and make quick work of the food.
@@ -388,7 +412,10 @@ Paimon: Okay, it's Paimon's turn to sleep now. Wake her up when it's time to go!
 Skirk: I have good news.
 Skirk: First, your training is complete — you have what it takes to wield immense power, now it's just a matter of putting it into practice. Continue to learn from your journey and hone your skills against formidable opponents.
 Skirk: Second, I've located the culprit we've been searching for. Next, we just need to retrieve the missing part of your soul, and our business will be concluded.
-Traveler: Thank you...
+    Option 1:
+        Traveler: Thank you...
+    Option 2:
+        Traveler: That was a lot faster than I expected.
 Skirk: When Ajax trained with me, he once told me he was "bursting with questions." So, I allowed him to ask me three of them before he left.
 Skirk: #You and I may never meet again, Traveler. So if there's anything you want to ask me, now's your opportunity. Just like Ajax, I'll answer three of your questions.
 Traveler: (After spending time in Skirk's inner world and witnessing her memories, there are so many questions I could ask. But, the most important one is...)
@@ -433,9 +460,6 @@ Traveler: (In all that time, she never established a connection with this world.
 Traveler: (...I doubt she'd give me a straight answer if I asked. Besides, I already used up my three questions. She was happy to give me cold, hard facts. But, I still feel like I haven't heard her true "voice.")
 Skirk: Wake up your companion. It's time to go.
 Skirk: Oh, and everything I just told you... Best keep it a secret from her as well.
-Traveler: That was a lot faster than I expected.
-Traveler: So you're best friends now?
-Traveler: Yeah, I'm starving.
 
 ## Talk 37
 

@@ -18,14 +18,18 @@ Ann: That's right. Come with me, this way!
 ## Talk 3
 
 ???: Ah! You there! You look most reliable, good knight. Please, help us!
-Traveler: We certainly do look reliable enough...
+    Option 1:
+        Traveler: We certainly do look reliable enough...
+    Option 2:
+        Traveler: What happened?
 ???: The evil minions of the fell dragon Narcissus have surrounded Petit Chou! We must help her!
 Paimon: "Petit Chou"...?
-Traveler: "Narcissus"...
-Paimon: Uh, never mind these weird names. This seems serious! Let's get over there and lend a hand!
+    Option 1:
+        Traveler: "Narcissus"...
+        Paimon: Uh, never mind these weird names. This seems serious! Let's get over there and lend a hand!
+    Option 2:
+        Traveler: Yeah, forget the names. Just lead the way.
 ??? (Ann): Thank you! My name is Ann, a member of the Narzissenkreuz Adventure Team. Please, come with me!
-Traveler: Yeah, forget the names. Just lead the way.
-Traveler: What happened?
 
 ## Talk 4
 
@@ -58,10 +62,12 @@ Paimon: Hmm. Isn't the Orchestre Jak's goal to defeat Narcissus and save Princes
 Colonel Kate: Aye, and there's the rub! He does not recognize her as our rightful Princess! He is, simply put, a problem waiting to happen!
 Colonel Kate: Today, he refuses to recognize her! What will he do tomorrow? Lead his Orchestre to overturn the kingdom!?
 Paimon: #(Uh, Traveler, what do we do? Jak does seem like the sorta guy who might do that!)
-Traveler: (That's an internal issue.)
+    Option 1:
+        Traveler: (That's an internal issue.)
+    Option 2:
+        Traveler: (Let's put a pin in that first.)
 Ann: Alright, alright. Our goals are aligned! We're all doing this for Princess Lyris and the Reconquista, right?
 Paimon: Hmm. It seems like the Narzissenkreuz Kingdom's situation is kinda complicated... Wait. What about your team?
-Traveler: (Let's put a pin in that first.)
 
 ## Talk 8
 
@@ -74,15 +80,46 @@ Paimon: Wait. So Petit Chou is a Finch...?
 Ann: Petit Chou is Petit Chou.
 Ann: Regardless, it's good that you're well, Petit Chou! Now let me introduce these two...
 Ann: Um, actually, I haven't yet asked you two your names...
-Traveler: I'm "a knight who looks most reliable."
-Paimon: #Are you seriously still hung up about that? He's Traveler, and Paimon's Paimon!
+    Option 1:
+        Traveler: I'm "a knight who looks most reliable."
+        Paimon: #Are you seriously still hung up about that? He's Traveler, and Paimon's Paimon!
+    Option 2:
+        Traveler: #Traveler's the name.
+        Paimon: And Paimon's Paimon!
 Petit Chou: #Thank you, Knight Traveler, Squire Paimon!
 Paimon: Squire...?
-Traveler: Squire Paimon, attend to my weapons.
-Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion. Actually, wait a moment... Your weapons need maintaining?
-Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
-Traveler: ...And don't you get that twisted.
-Paimon: Hah! That's more like it.
+    Option 1:
+        Traveler: Squire Paimon, attend to my weapons.
+        Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion. Actually, wait a moment... Your weapons need maintaining?
+        Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
+        Traveler: ...And don't you get that twisted.
+        Paimon: Hah! That's more like it.
+    Option 2:
+        Traveler: Squire Paimon, my shoulders ache.
+        Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion!
+        Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
+        Traveler: ...And don't you get that twisted.
+        Paimon: Hah! That's more like it.
+    Option 3:
+        Traveler: She's not my squire, we're companions.
+        Traveler: ...And don't you get that twisted.
+        Paimon: Hah! That's more like it.
+    Option 4:
+        Traveler: She's not my squire, we're companions.
+        Traveler: ...Although I have indeed considered getting a squire in the past.
+        Paimon: Do you really want one? Seems like this journey has been pretty tough for you, huh...
+    Option 5:
+        Traveler: Squire Paimon, attend to my weapons.
+        Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion. Actually, wait a moment... Your weapons need maintaining?
+        Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
+        Traveler: ...Although I have indeed considered getting a squire in the past.
+        Paimon: Do you really want one? Seems like this journey has been pretty tough for you, huh...
+    Option 6:
+        Traveler: Squire Paimon, my shoulders ache.
+        Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion!
+        Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
+        Traveler: ...Although I have indeed considered getting a squire in the past.
+        Paimon: Do you really want one? Seems like this journey has been pretty tough for you, huh...
 Petit Chou: I see, I see. My apologies, Paimon! I am Petit Chou, a member of the Narzissenkreuz Adventure Team. If not for your help, I might have...
 Ann: Well, Narcissus has girded his subordinates with the Aegis of Four Orthants, so our powers are unable to overcome them. That's how it is.
 Ann: But with you and your companion on our side, good knight, we shall have nothing to fear!
@@ -96,24 +133,26 @@ Ann: Narcissus filled Annapausis with bitter waters. That which we just defeated
 Petit Chou: This time, we attempted to infiltrate this place and rescue the Princess while the dragon was absent. However, we ran into a great many foes, and ultimately, we failed.
 Ann: #But now that we have you and Paimon on our side, Traveler, we have nothing to fear!
 Ann: #Moreover, we have a Princess, a kingdom, and a wicked dragon... Tradition and the stories dictate that we must also have a knight — yes, a mighty and righteous knight like you, Traveler.
-Traveler: Stories?
+    Option 1:
+        Traveler: Stories?
+    Option 2:
+        Traveler: Tradition?
+    Option 3:
+        Traveler: Well, I have defeated a dragon in the past.
 Paimon: #Paimon's not sure what you're going on about, but if it's dragons you want, Traveler's beaten 'em before.
 Ann: Really? You have?
-Traveler: Tradition?
-Traveler: Well, I have defeated a dragon in the past.
-Traveler: ...Although I have indeed considered getting a squire in the past.
-Paimon: Do you really want one? Seems like this journey has been pretty tough for you, huh...
-Traveler: Squire Paimon, my shoulders ache.
-Paimon: #Gah, you've got it all wrong! Paimon's no squire. She's Traveler's companion!
-Traveler: Indeed, there's been a misunderstanding. We're companions, of course.
-Traveler: She's not my squire, we're companions.
-Traveler: #Traveler's the name.
-Paimon: And Paimon's Paimon!
 
 ## Talk 10
 
 Paimon: Ugh! Paimon's starting to get confused about what counts as a dragon...
-Traveler: I'm confused as well...
+    Option 1:
+        Traveler: I'm confused as well...
+    Option 2:
+        Traveler: I never understood that in the first place.
+    Option 3:
+        Traveler: Categories are just a social construct. There is no objective meaning.
+        Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
+        Al: I agree with the knight here. Our categories should not define our essence.
 Al: Our purpose defines our essence. At this time, we are the heroes challenging the wicked dragon, and he is the wicked dragon. This is sufficient.
 Petit Chou: Huh, this must be what Al means when he says "A rose by any other name would smell just as sweet!"
 Al: That is precisely the case, dear Petit Chou. Were you not called "Petit Chou," you would still be my dearest younger sister.
@@ -126,15 +165,13 @@ Ann: But instead, Narcissus's evil has melded with the waters, which is why his 
 Paimon: Is that seriously how it happened...?
 Petit Chou: The fell dragon is truly terrifying. My talons hurt just looking at him...
 Ann: #Well, we have our knight, Traveler, so we should be fine even if he is present, yes?
-Traveler: It'd be best if he wasn't home all the same...
-Al: Humility becomes a knight indeed.
+    Option 1:
+        Traveler: It'd be best if he wasn't home all the same...
+        Al: Humility becomes a knight indeed.
+    Option 2:
+        Traveler: It's just a lil' dragon.
+        Petit Chou: #Hehe, that's our Traveler for you!
 Ann: Let us move on, then. With you by our side, we have nothing to fear!
-Traveler: It's just a lil' dragon.
-Petit Chou: #Hehe, that's our Traveler for you!
-Traveler: I never understood that in the first place.
-Traveler: Categories are just a social construct. There is no objective meaning.
-Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
-Al: I agree with the knight here. Our categories should not define our essence.
 
 ## Talk 11
 
@@ -167,11 +204,13 @@ Paimon: Looks like Colonel Kate's got problems, too...
 Ann: Well, he is up against immense firepower... or should I say, waterpower.
 Ann: What's next for you?
 Colonel Kate: I plan on going behind enemy lines to see what can be done there. After all, it should be quite easy to go up there now that the Bubble Formation has been broken. I mean, I can't lose to some new recruit, can I?
-Traveler: There's no shame in losing to me...
+    Option 1:
+        Traveler: There's no shame in losing to me...
+    Option 2:
+        Traveler: This isn't a competition...
 Colonel Kate: Hmph! Regardless, I shall return when the sun sinks into the sea, victory in hand! Let us meet again before the high tower.
 Black Screen Text: Colonel Kate bounces away.
 Paimon: Wait. There's neither sun nor sea here!
-Traveler: This isn't a competition...
 
 ## Talk 14
 
@@ -200,15 +239,17 @@ Colonel Kate: What!? Why didn't you say so earlier?
 Ann: We've been trying to tell you, but you haven't been listening!
 Colonel Kate: ...
 Colonel Kate: Um... Ha. Hahaha. Well then, it's good to see that everyone is well! So, Ann, who are these people again?
-Traveler: #I'm Traveler, and this is Paimon.
-Colonel Kate: #Traveler and Paimon, hmm? Pleased to make your acquaintance.
+    Option 1:
+        Traveler: #I'm Traveler, and this is Paimon.
+        Colonel Kate: #Traveler and Paimon, hmm? Pleased to make your acquaintance.
+    Option 2:
+        Traveler: #Traveler, reporting in!
+        Paimon: Paimon, reporting in!
+        Colonel Kate: #Very good, Traveler, Paimon! Very good!
 Colonel Kate: It's a pleasure to have new blood like you in Kate's Resistance Front. Let us fight for Princess Lyris and the Reconquista!
 Paimon: Kate's Resistance Front, huh. Are you guys the same thing as the Narzissenkreuz Adventure Team?
 Ann: Let me think... "We are now the same thing," is how I would put it.
 Colonel Kate: Indeed. We have the same objective and plan of action. It is only because I have more combat experience that I am a colonel with my own force.
-Traveler: #Traveler, reporting in!
-Paimon: Paimon, reporting in!
-Colonel Kate: #Very good, Traveler, Paimon! Very good!
 
 ## Talk 17
 
@@ -257,23 +298,27 @@ Al: Why a "duck," you ask? Are such definitions important? I have a supple body,
 Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
 Petit Chou: S—Seriously, brother, what are you talking about...
 Paimon: #(Actually, Traveler, what *is* Al talking about?)
-Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 1:
+        Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 2:
+        Traveler: (I don't know... but it's probably not important.)
 Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
 Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
 Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
 Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
 Ann: Look up, above Princess Lyris's tower — that is Narcissus.
 Paimon: Huh? That wasn't there before the water rose...
-Traveler: ...Isn't that just an Oceanid?
+    Option 1:
+        Traveler: ...Isn't that just an Oceanid?
+    Option 2:
+        Traveler: Good golly gosh, the fell dragon Narcissus!
+        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
 Ann: But that is the fell dragon Narcissus.
 Al: The dragon who invaded the Narzissenkreuz Kingdom.
 Petit Chou: And its wings are very huge and frightening.
 Paimon: ...But it's an Oceanid, isn't it?
 Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
 Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
-Traveler: Good golly gosh, the fell dragon Narcissus!
-Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
-Traveler: (I don't know... but it's probably not important.)
 
 ## Talk 25
 
@@ -295,14 +340,16 @@ Ann: #Alright, alright, Paimon, please don't be angry. Jak, this is knight Trave
 Jak: Hmph. A knight, you say... Then I suppose this Paimon is the squire?
 Paimon: No, no! Come on, why does everyone call Paimon that!?
 Traveler: Paimon is no squire.
-Traveler: Paimon is a bard whose task is to record my adventures.
-Petit Chou: Is that how it is? No wonder Paimon's such a good talker!
-Paimon: #Hey! You stop that, Traveler, or Paimon's gonna come up with a... lively limerick to give you a licking the likes of which you've never seen!
-Paimon: Anyway, we're companions, alright? Companions!
+    Option 1:
+        Traveler: Paimon is a bard whose task is to record my adventures.
+        Petit Chou: Is that how it is? No wonder Paimon's such a good talker!
+        Paimon: #Hey! You stop that, Traveler, or Paimon's gonna come up with a... lively limerick to give you a licking the likes of which you've never seen!
+        Paimon: Anyway, we're companions, alright? Companions!
+    Option 2:
+        Traveler: Paimon's my companion.
 Jak: I see. Then you are not some minor feudal warrior. Not in the usual sense, anyway. Are you, then, some "honorary knight," one with a title that comes with little benefit?
 Paimon: #Well, Traveler is an Honorary Knight, but he got it in Mondstadt for heroically doing battle with Stormterror!
 Jak: Ah, then you are a dutiful, capable warrior. Very good! In that case, welcome to Orchestre Jak.
-Traveler: Paimon's my companion.
 
 ## Talk 27
 
@@ -324,15 +371,21 @@ Paimon: Ooh, Paimon knows! The Orchestre's in charge of music and the Resistance
 ## Talk 30
 
 Ann: ...
-Traveler: You're pretty difficult yourself.
-Ann: He wasn't always like this. He once had a really good heart, and loved to cry. He would take care of the younger children...
-Ann: But one day, he said that he would never cry again, and later still, he changed. This might be due to Rene, I fear... and Rene changed too...
-Traveler: And who's Rene?
-Ann: Um, sorry, where was I? Right, our course of action. You should ask Jak and the others. He and Al might argue a lot, but they're actually good friends.
-Traveler: ...
-Ann: Alain split with them. But as for me...
-Traveler: See you.
-Ann: You should ask Jak and the others about our course of action. He and Al might argue a lot, but they're actually good friends.
+    Option 1:
+        Traveler: You're pretty difficult yourself.
+        Ann: He wasn't always like this. He once had a really good heart, and loved to cry. He would take care of the younger children...
+        Ann: But one day, he said that he would never cry again, and later still, he changed. This might be due to Rene, I fear... and Rene changed too...
+        Traveler: And who's Rene?
+        Ann: Um, sorry, where was I? Right, our course of action. You should ask Jak and the others. He and Al might argue a lot, but they're actually good friends.
+    Option 2:
+        Traveler: See you.
+        Ann: You should ask Jak and the others about our course of action. He and Al might argue a lot, but they're actually good friends.
+    Option 3:
+        Traveler: You're pretty difficult yourself.
+        Ann: He wasn't always like this. He once had a really good heart, and loved to cry. He would take care of the younger children...
+        Ann: But one day, he said that he would never cry again, and later still, he changed. This might be due to Rene, I fear... and Rene changed too...
+        Traveler: ...
+        Ann: Alain split with them. But as for me...
 
 ## Talk 31
 
@@ -346,36 +399,47 @@ Al: Why a "duck," you ask? Are such definitions important? I have a supple body,
 Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
 Petit Chou: S—Seriously, brother, what are you talking about...
 Paimon: #(Actually, Traveler, what *is* Al talking about?)
-Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 1:
+        Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 2:
+        Traveler: (I don't know... but it's probably not important.)
 Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
 Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
 Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
 Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
 Ann: Look up, above Princess Lyris's tower — that is Narcissus.
 Paimon: Huh? That wasn't there before the water rose...
-Traveler: ...Isn't that just an Oceanid?
+    Option 1:
+        Traveler: ...Isn't that just an Oceanid?
+    Option 2:
+        Traveler: Good golly gosh, the fell dragon Narcissus!
+        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
 Ann: But that is the fell dragon Narcissus.
 Al: The dragon who invaded the Narzissenkreuz Kingdom.
 Petit Chou: And its wings are very huge and frightening.
 Paimon: ...But it's an Oceanid, isn't it?
 Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
 Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
-Traveler: Good golly gosh, the fell dragon Narcissus!
-Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
-Traveler: (I don't know... but it's probably not important.)
 
 ## Talk 32
 
 Paimon: Jak! You...
 Petit Chou: Paimon! Don't...
 Jak: ...?
-Traveler: (Knock it off, or we're going to start this all over again.)
-Paimon: (Hmph, Paimon knows!)
-Paimon: *cough* Ann told us that you could explain the situation...
+    Option 1:
+        Traveler: (Knock it off, or we're going to start this all over again.)
+        Paimon: (Hmph, Paimon knows!)
+        Paimon: *cough* Ann told us that you could explain the situation...
+    Option 2:
+        Traveler: Is there anything I need to do?
 Al: Allow me to speak first then, honored Knight and Paimon. Concerning the tower before us, Narcissus has been unable to overcome it. As such, the Princess is still safe.
 Al: At that time, when all seemed lost, the Princess gave her greatest treasure to us, and that was the "time" that belonged to her.
 Paimon: ?
-Traveler: ...?
+    Option 1:
+        Traveler: ...?
+    Option 2:
+        Traveler: She gave you her what now?
+        Paimon: "Time," you say...
 Al: After she lost that time, the Princess and the tower she dwells in both fell into a stagnant, dreamless slumber. In remembrance of her, we named our fallen realm the Annapausis.
 Paimon: And what does that mean...?
 Al: Because it has completely stagnated, Narcissus has also been unable to taint anything within... That's more or less our situation.
@@ -384,16 +448,22 @@ Petit Chou: But it's true! Princess Lyris did share her time with us. Narcissus 
 Petit Chou: For example... My brother, Al, can usually only defeat one foe at once, but with more "time," he can vanquish four or even five at one go!
 Al: A most vivid example. Thank you for your explanation, dear Petit Chou.
 Petit Chou: #Hehe. Well, I hope you understand now, Traveler, Paimon.
-Traveler: Not at all, in fact.
-Paimon: Yeah. How do you even give your time to other people!?
-Jak: Do these details matter? Is this not similar to how feudal nobles would hire sharecroppers?
-Paimon: Share... croppers? How do those things even connect!? Are you trying to say that exchanging time for pay is a form of giving your time to others?
-Jak: Only a very small part of the wealth a sharecropper creates will belong to him. If this is understood and regarded as normal by all, then what is there about this situation that is hard to comprehend?
-Al: ...
-Paimon: (Ugh, he got Paimon!)
-Traveler: (Why are you debating with an Oceanid?)
-Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
-Paimon: That's true... Alright, uh, Paimon totally gets it!
+    Option 1:
+        Traveler: Not at all, in fact.
+        Paimon: Yeah. How do you even give your time to other people!?
+        Jak: Do these details matter? Is this not similar to how feudal nobles would hire sharecroppers?
+        Paimon: Share... croppers? How do those things even connect!? Are you trying to say that exchanging time for pay is a form of giving your time to others?
+        Jak: Only a very small part of the wealth a sharecropper creates will belong to him. If this is understood and regarded as normal by all, then what is there about this situation that is hard to comprehend?
+        Al: ...
+        Paimon: (Ugh, he got Paimon!)
+        Traveler: (Why are you debating with an Oceanid?)
+        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
+        Paimon: That's true... Alright, uh, Paimon totally gets it!
+    Option 2:
+        Traveler: Yes, yes, I understand.
+        Paimon: (What did you even understand!?)
+        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
+        Paimon: Ah... Alright then, Paimon totally gets it too!
 Al: Narcissus has spent long years since searching for the Princess's treasure. Only its power can cause time in the tower to flow again, and only then will its locked gates open.
 Al: Thus he summoned waters brimming with wicked intent to drown the kingdom, and created underlings unnumbered and many magical devices besides.
 Al: All this was done to hunt us Narzissenkreuz Adventure Team members down and seize the treasure that should have been in our hands.
@@ -417,13 +487,6 @@ Al: A very imaginative idea... but unfortunately, impractical.
 Ann: If we go up there, we should find a small fountain full of magic. Options may open to us should we reach it.
 Paimon: Are you feeling better now, Ann...?
 Ann: Thank you, Paimon, but you need not worry.
-Traveler: Yes, yes, I understand.
-Paimon: (What did you even understand!?)
-Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
-Paimon: Ah... Alright then, Paimon totally gets it too!
-Traveler: She gave you her what now?
-Paimon: "Time," you say...
-Traveler: Is there anything I need to do?
 
 ## Talk 33
 
@@ -446,11 +509,14 @@ Ann: In that case, our next task is the destruction of the Bubble Formations! Af
 Paimon: #In that case, leave it to Traveler. From what Petit Chou and Al have said, it seems like only his attacks will work...
 Petit Chou: Ohh...
 Paimon: #Paimon didn't mean to put you down! You guys have been fighting Narcissus and trying to save Princess Lyris for so long... But just leave this bit to Traveler, alright?
-Traveler: That's right. Leave it to me.
+    Option 1:
+        Traveler: That's right. Leave it to me.
+    Option 2:
+        Traveler: You may see it as a knight doing their duty.
+    Option 3:
+        Traveler: I'd like to see where this "story" goes, too.
 Al: You have my thanks.
 Ann: Alright! In that case, let me lead the way!
-Traveler: You may see it as a knight doing their duty.
-Traveler: I'd like to see where this "story" goes, too.
 
 ## Talk 35
 
@@ -465,11 +531,14 @@ Ann: Whatever the case, our next task is the destruction of the remaining Bubble
 Paimon: #In that case, leave it to Traveler. From what Petit Chou and Al have said, it seems like only his attacks will work...
 Petit Chou: Ohh...
 Paimon: #Paimon didn't mean to put you down! You guys have been fighting Narcissus and trying to save Princess Lyris for so long... But just leave this bit to Traveler, alright?
-Traveler: That's right. Leave it to me.
+    Option 1:
+        Traveler: That's right. Leave it to me.
+    Option 2:
+        Traveler: You may see it as a knight doing their duty.
+    Option 3:
+        Traveler: I'd like to see where this "story" goes, too.
 Al: You have my thanks.
 Ann: Alright! In that case, let me lead the way!
-Traveler: You may see it as a knight doing their duty.
-Traveler: I'd like to see where this "story" goes, too.
 
 ## Talk 36
 
@@ -501,8 +570,12 @@ Mori: But the air and water were later filled with the scent of evil, and everyo
 Mori: Only the Princess remains. So I protect her.
 Paimon: So that's Princess Lyris...
 Paimon: Right! It was mentioned earlier that the Princess lost her treasure, which is why everything stagnated. So this is where it was!
-Traveler: Problem solved!
-Ann: This is just a statue of the Princess. She's still in the tower.
+    Option 1:
+        Traveler: Problem solved!
+        Ann: This is just a statue of the Princess. She's still in the tower.
+    Option 2:
+        Traveler: Isn't the princess in the tower, though?
+        Ann: That's right. This is only a statue of her.
 Paimon: Seriously? Another "looks like it, but not really"?
 Mori: Woof, woof? Not the Princess?
 Ann: Nope. Princess Lyris is in her tower.
@@ -514,7 +587,10 @@ Mori: *sniffs*
 Mori: Woof, woof? Not the Princess?
 Ann: Told you so.
 Paimon: Well, it's an understandable mistake. In this Annapausis, a boar is a dog, an Oceanid is an evil dragon, and the evil dragon turned out to be a statue...
-Traveler: And a duck and a finch are siblings...
+    Option 1:
+        Traveler: And a duck and a finch are siblings...
+    Option 2:
+        Traveler: And a squirrel is a Colonel...
 Paimon: Exactly. Ugh, Paimon can feel her sense of what's real or not slipping away the longer we stay here...
 Ann: *cough* Well, um, let's not sweat the small stuff, alright?
 Mori: ?
@@ -524,28 +600,30 @@ Ann: #Me? Well, I'm going up with Traveler and Paimon to reclaim the Princess's 
 Mori: I see. Okay. Bye-bye.
 Paimon: Alright then. What do we do now?
 Ann: Use these bubbles. The Princess would make these back when she would play with us, and they would fly very high up indeed. We would fly around in those bubbles, touring the realm.
-Traveler: That sounds quite exciting...
+    Option 1:
+        Traveler: That sounds quite exciting...
+    Option 2:
+        Traveler: That sounds like the trick those Hydro Abyss Mages pull...
+        Ann: Hey! Don't say that about the Princess's magic!
 Paimon: Whatever the case, we just need to sit in the bubble, and it'll take us up there, right?
 Ann: That's right! In the meantime, I'll do my best to control the bubbles' direction.
-Traveler: That sounds like the trick those Hydro Abyss Mages pull...
-Ann: Hey! Don't say that about the Princess's magic!
-Traveler: And a squirrel is a Colonel...
-Traveler: Isn't the princess in the tower, though?
-Ann: That's right. This is only a statue of her.
 
 ## Talk 100
 
 Al: But before we ascend, we need to deal with the various Bubble Formations to make safe our path.
 Paimon: Bubble Formations... There's three of them, right? If that's the case, we've already taken them all out!
 Al: My, that's our mighty knight and Paimon for you! Ah, it's just a shame that I was unable to watch the battle between you and the Three Royal Blades of Narcissus in person!
-Traveler: They were super weak...
+    Option 1:
+        Traveler: They were super weak...
+    Option 2:
+        Traveler: It was a grinding battle, but we ultimately emerged triumphant.
+    Option 3:
+        Traveler: ...Sorry, the what of the what now?
+        Ann: #The three leaders who were defending the three Bubble Formations. They were quickly dispatched by Traveler, though, as if they were mere chaff.
 Al: Ah, what reliable allies you are. When you've the time, please do tell Petit Chou and I of that valorous deed!
 Petit Chou: Please do!
 Ann: In that case, to the fountain! We'll find a way to access the waters above and retrieve Princess Lyris's treasure!
 Ann: Al, Petit Chou, Jak, this place is yours to guard!
-Traveler: It was a grinding battle, but we ultimately emerged triumphant.
-Traveler: ...Sorry, the what of the what now?
-Ann: #The three leaders who were defending the three Bubble Formations. They were quickly dispatched by Traveler, though, as if they were mere chaff.
 
 ## Talk 101
 
@@ -603,7 +681,14 @@ Paimon: No, no, we've definitely met other dragons before...
 ### Additional Talk 5
 
 Paimon: Ugh! Paimon's starting to get confused about what counts as a dragon...
-Traveler: I'm confused as well...
+    Option 1:
+        Traveler: I'm confused as well...
+    Option 2:
+        Traveler: I never understood that in the first place.
+    Option 3:
+        Traveler: Categories are just a social construct. There is no objective meaning.
+        Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
+        Al: I agree with the knight here. Our categories should not define our essence.
 Al: Our purpose defines our essence. At this time, we are the heroes challenging the wicked dragon, and he is the wicked dragon. This is sufficient.
 Petit Chou: Huh, this must be what Al means when he says "A rose by any other name would smell just as sweet!"
 Al: That is precisely the case, dear Petit Chou. Were you not called "Petit Chou," you would still be my dearest younger sister.
@@ -616,15 +701,13 @@ Ann: But instead, Narcissus's evil has melded with the waters, which is why his 
 Paimon: Is that seriously how it happened...?
 Petit Chou: The fell dragon is truly terrifying. My talons hurt just looking at him...
 Ann: #Well, we have our knight, Traveler, so we should be fine even if he is present, yes?
-Traveler: It'd be best if he wasn't home all the same...
-Al: Humility becomes a knight indeed.
+    Option 1:
+        Traveler: It'd be best if he wasn't home all the same...
+        Al: Humility becomes a knight indeed.
+    Option 2:
+        Traveler: It's just a lil' dragon.
+        Petit Chou: #Hehe, that's our Traveler for you!
 Ann: Let us move on, then. With you by our side, we have nothing to fear!
-Traveler: It's just a lil' dragon.
-Petit Chou: #Hehe, that's our Traveler for you!
-Traveler: I never understood that in the first place.
-Traveler: Categories are just a social construct. There is no objective meaning.
-Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
-Al: I agree with the knight here. Our categories should not define our essence.
 
 ### Additional Talk 6
 
@@ -638,23 +721,27 @@ Al: Why a "duck," you ask? Are such definitions important? I have a supple body,
 Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
 Petit Chou: S—Seriously, brother, what are you talking about...
 Paimon: #(Actually, Traveler, what *is* Al talking about?)
-Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 1:
+        Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 2:
+        Traveler: (I don't know... but it's probably not important.)
 Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
 Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
 Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
 Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
 Ann: Look up, above Princess Lyris's tower — that is Narcissus.
 Paimon: Huh? That wasn't there before the water rose...
-Traveler: ...Isn't that just an Oceanid?
+    Option 1:
+        Traveler: ...Isn't that just an Oceanid?
+    Option 2:
+        Traveler: Good golly gosh, the fell dragon Narcissus!
+        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
 Ann: But that is the fell dragon Narcissus.
 Al: The dragon who invaded the Narzissenkreuz Kingdom.
 Petit Chou: And its wings are very huge and frightening.
 Paimon: ...But it's an Oceanid, isn't it?
 Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
 Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
-Traveler: Good golly gosh, the fell dragon Narcissus!
-Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
-Traveler: (I don't know... but it's probably not important.)
 
 ### Additional Talk 7
 
@@ -675,7 +762,14 @@ Paimon: No, no, we've definitely met other dragons before...
 ### Additional Talk 10
 
 Paimon: Ugh! Paimon's starting to get confused about what counts as a dragon...
-Traveler: I'm confused as well...
+    Option 1:
+        Traveler: I'm confused as well...
+    Option 2:
+        Traveler: I never understood that in the first place.
+    Option 3:
+        Traveler: Categories are just a social construct. There is no objective meaning.
+        Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
+        Al: I agree with the knight here. Our categories should not define our essence.
 Al: Our purpose defines our essence. At this time, we are the heroes challenging the wicked dragon, and he is the wicked dragon. This is sufficient.
 Petit Chou: Huh, this must be what Al means when he says "A rose by any other name would smell just as sweet!"
 Al: That is precisely the case, dear Petit Chou. Were you not called "Petit Chou," you would still be my dearest younger sister.
@@ -688,15 +782,13 @@ Ann: But instead, Narcissus's evil has melded with the waters, which is why his 
 Paimon: Is that seriously how it happened...?
 Petit Chou: The fell dragon is truly terrifying. My talons hurt just looking at him...
 Ann: #Well, we have our knight, Traveler, so we should be fine even if he is present, yes?
-Traveler: It'd be best if he wasn't home all the same...
-Al: Humility becomes a knight indeed.
+    Option 1:
+        Traveler: It'd be best if he wasn't home all the same...
+        Al: Humility becomes a knight indeed.
+    Option 2:
+        Traveler: It's just a lil' dragon.
+        Petit Chou: #Hehe, that's our Traveler for you!
 Ann: Let us move on, then. With you by our side, we have nothing to fear!
-Traveler: It's just a lil' dragon.
-Petit Chou: #Hehe, that's our Traveler for you!
-Traveler: I never understood that in the first place.
-Traveler: Categories are just a social construct. There is no objective meaning.
-Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
-Al: I agree with the knight here. Our categories should not define our essence.
 
 ### Additional Talk 11
 
@@ -710,23 +802,27 @@ Al: Why a "duck," you ask? Are such definitions important? I have a supple body,
 Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
 Petit Chou: S—Seriously, brother, what are you talking about...
 Paimon: #(Actually, Traveler, what *is* Al talking about?)
-Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 1:
+        Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 2:
+        Traveler: (I don't know... but it's probably not important.)
 Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
 Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
 Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
 Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
 Ann: Look up, above Princess Lyris's tower — that is Narcissus.
 Paimon: Huh? That wasn't there before the water rose...
-Traveler: ...Isn't that just an Oceanid?
+    Option 1:
+        Traveler: ...Isn't that just an Oceanid?
+    Option 2:
+        Traveler: Good golly gosh, the fell dragon Narcissus!
+        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
 Ann: But that is the fell dragon Narcissus.
 Al: The dragon who invaded the Narzissenkreuz Kingdom.
 Petit Chou: And its wings are very huge and frightening.
 Paimon: ...But it's an Oceanid, isn't it?
 Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
 Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
-Traveler: Good golly gosh, the fell dragon Narcissus!
-Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
-Traveler: (I don't know... but it's probably not important.)
 
 ### Additional Talk 12
 
@@ -737,7 +833,14 @@ Petit Chou: What!? That's... exactly like the fell dragon!
 ### Additional Talk 13
 
 Paimon: Ugh! Paimon's starting to get confused about what counts as a dragon...
-Traveler: I'm confused as well...
+    Option 1:
+        Traveler: I'm confused as well...
+    Option 2:
+        Traveler: I never understood that in the first place.
+    Option 3:
+        Traveler: Categories are just a social construct. There is no objective meaning.
+        Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
+        Al: I agree with the knight here. Our categories should not define our essence.
 Al: Our purpose defines our essence. At this time, we are the heroes challenging the wicked dragon, and he is the wicked dragon. This is sufficient.
 Petit Chou: Huh, this must be what Al means when he says "A rose by any other name would smell just as sweet!"
 Al: That is precisely the case, dear Petit Chou. Were you not called "Petit Chou," you would still be my dearest younger sister.
@@ -750,15 +853,13 @@ Ann: But instead, Narcissus's evil has melded with the waters, which is why his 
 Paimon: Is that seriously how it happened...?
 Petit Chou: The fell dragon is truly terrifying. My talons hurt just looking at him...
 Ann: #Well, we have our knight, Traveler, so we should be fine even if he is present, yes?
-Traveler: It'd be best if he wasn't home all the same...
-Al: Humility becomes a knight indeed.
+    Option 1:
+        Traveler: It'd be best if he wasn't home all the same...
+        Al: Humility becomes a knight indeed.
+    Option 2:
+        Traveler: It's just a lil' dragon.
+        Petit Chou: #Hehe, that's our Traveler for you!
 Ann: Let us move on, then. With you by our side, we have nothing to fear!
-Traveler: It's just a lil' dragon.
-Petit Chou: #Hehe, that's our Traveler for you!
-Traveler: I never understood that in the first place.
-Traveler: Categories are just a social construct. There is no objective meaning.
-Paimon: ...Come on, that can't be right! How would we be able to communicate and understand this world otherwise?
-Al: I agree with the knight here. Our categories should not define our essence.
 
 ### Additional Talk 14
 
@@ -771,27 +872,55 @@ Traveler: Wonderful. I'm a master musician.
 ### Additional Talk 16
 
 Jak: The name is merely an analogy, for we weave resistance like an orchestra in our struggle against Narcissus as we seek to rescue Ms. Lyris.
-Traveler: Don't you mean "Princess Lyris"?
+    Option 1:
+        Traveler: Don't you mean "Princess Lyris"?
+    Option 2:
+        Traveler: "Ms."...?
 Paimon: That's right. Isn't Lyris a Princess?
 Al: Well, both terms refer to the same person. But leaving that aside, we should...
 Jak: Listen well. The title "Princess" is a rigid, hierarchical term of address, a product of an oppressive system. It was a title whose merit is birth, not labor or wisdom.
 Ann: *sigh* Here we go again...
 Jak: If the universe was a more rational one, there would be no gods, no kings, and certainly no princes or princesses. Nor would there be mystical powers that only a few may wield.
 Jak: Do you follow me thus far?
-Traveler: There will always be those who desire special privileges.
-Traveler: It is a deplorable state of affairs.
+    Option 1:
+        Traveler: There will always be those who desire special privileges.
+        Traveler: It is a deplorable state of affairs.
+    Option 2:
+        Traveler: ...Didn't you put your name on your organization as well?
+        Jak: An orchestra must have a conductor, lest no music be made out of cacophony.
+    Option 3:
+        Traveler: This rabbit hole's not for me...
+    Option 4:
+        Traveler: There will always be those who desire special privileges.
+        Traveler: I'm following you.
 Paimon: Ugh... This sounds really deep, but it's also confusing Paimon...
 Paimon: But not doing anything all day while being able to enjoy delicious Sweet Madames is pretty nice. Is there anything wrong with that?
 Jak: See! If there are some who will reap the benefits despite doing no labor, then there must be some who shall have to do more to compensate.
-Traveler: Like me!
-Paimon: #Um, uh... Thanks a lot, Traveler... and sorry? Paimon promises that she'll eat less in the future. Honest!
+    Option 1:
+        Traveler: Like me!
+        Paimon: #Um, uh... Thanks a lot, Traveler... and sorry? Paimon promises that she'll eat less in the future. Honest!
+    Option 2:
+        Traveler: Paimon lacks the strength for labor. Thus, such compensation is my obligation.
+        Jak: ...It would indeed seem so. Your line of thinking is fair and responsible.
+        Paimon: #Um... Then, thanks a lot, Traveler...
+        Paimon: Wait! Paimon does do work in her own way, doesn't she?
+    Option 3:
+        Traveler: It doesn't matter to me. Paimon's happiness is mine as well.
+        Paimon: Hehe, Paimon hopes you can be happy, too!
+        Paimon: #Wait a minute. In that case, wouldn't Traveler be happy if he makes Paimon happy...?
+        Paimon: Hehe, that means making Paimon happy more is good for you too! That's how this works, right?
 Al: This has been a very interesting conversation, but please allow me to interject. Dear Jak, good knight, may we now begin discussing our next course of action in our rescue of Princess Lyris...
 Jak: #Hmph! Silencing voices you do not want to hear, I see! Oh, Traveler! Come, see the repression inherent in the system! Help! Help! Al's repressing me!
 Al: Jak, you...!
 Petit Chou: Al isn't doing that! He's a good person, he wouldn't bully you!
 Al: *sigh* Dear sister, please, do not lose your temper over this.
 Al: If you have more to say, Jak, why don't we find a corner and settle this like gentlemen? Hmm?
-Traveler: Can I trouble you all to stop for a second...
+    Option 1:
+        Traveler: Can I trouble you all to stop for a second...
+    Option 2:
+        Traveler: I've heard enough. See you around.
+    Option 3:
+        Traveler: Stop squabbling. We all have the same goal.
 Ann: Please, everyone. Aren't we comrades? We've all gathered to rescue Princess... or "Ms." Lyris, after all!
 Paimon (Jak & Al): ...
 Jak: Hmph. We count as such, I suppose. We shall cooperate... even though my final goal is to create a more beautiful world for Ms. Lyris.
@@ -809,21 +938,6 @@ Paimon: Okay, so... What do we do next, Ann?
 Ann: Hmm? Oh. Right! I almost forgot that we were here to save the Princess. Why, I was starting to think that I'd brought such capable help along, just to let them listen to two boys squabble!
 Ann: As for the situation... Ask Al and Jak to explain. I... need a moment to cool off.
 Paimon: Ann's having a tough time too, huh...
-Traveler: I've heard enough. See you around.
-Traveler: Stop squabbling. We all have the same goal.
-Traveler: Paimon lacks the strength for labor. Thus, such compensation is my obligation.
-Jak: ...It would indeed seem so. Your line of thinking is fair and responsible.
-Paimon: #Um... Then, thanks a lot, Traveler...
-Paimon: Wait! Paimon does do work in her own way, doesn't she?
-Traveler: It doesn't matter to me. Paimon's happiness is mine as well.
-Paimon: Hehe, Paimon hopes you can be happy, too!
-Paimon: #Wait a minute. In that case, wouldn't Traveler be happy if he makes Paimon happy...?
-Paimon: Hehe, that means making Paimon happy more is good for you too! That's how this works, right?
-Traveler: I'm following you.
-Traveler: ...Didn't you put your name on your organization as well?
-Jak: An orchestra must have a conductor, lest no music be made out of cacophony.
-Traveler: This rabbit hole's not for me...
-Traveler: "Ms."...?
 
 ### Additional Talk 17
 
@@ -841,6 +955,9 @@ Ann: Wonderful! It seems that Colonel Kate is still here. Let's go meet up with 
 
 ### Additional Talk 19
 
+Black Screen Text: Colonel Kate bounces away.
+[Missing Dialog 740010913]
+
 Colonel Kate: We charged bravely into the Bubble Formation!
 Paimon: Yes, yes, and where's your team?
 Colonel Kate: ...
@@ -849,21 +966,28 @@ Paimon: Looks like Colonel Kate's got problems, too...
 Ann: Well, he is up against immense firepower... or should I say, waterpower.
 Ann: What's next for you?
 Colonel Kate: I plan on going behind enemy lines to see what can be done there. After all, it should be quite easy to go up there now that the Bubble Formation has been broken. I mean, I can't lose to some new recruit, can I?
-Traveler: There's no shame in losing to me...
-Traveler: This isn't a competition...
+    Option 1:
+        Traveler: There's no shame in losing to me...
+    Option 2:
+        Traveler: This isn't a competition...
 Colonel Kate: Hmph! Regardless, I shall return when the sun sinks into the sea, victory in hand! Let us meet again before the high tower.
-Black Screen Text: Colonel Kate bounces away.
+[Missing Dialog 740016612]
+
 Paimon: Wait. There's neither sun nor sea here!
 Ann: Since the Bubble Formations are gone, let's head to the little fountain. It's just over there!
 
 ### Additional Talk 20
 
 ???: Ah! You there! You look most reliable, good knight. Please, help us!
-Traveler: We certainly do look reliable enough...
+    Option 1:
+        Traveler: We certainly do look reliable enough...
+    Option 2:
+        Traveler: What happened?
 ???: The evil minions of the fell dragon Narcissus have surrounded Petit Chou! We must help her!
 Paimon: "Petit Chou"...?
-Traveler: "Narcissus"...
-Paimon: Uh, never mind these weird names. This seems serious! Let's get over there and lend a hand!
+    Option 1:
+        Traveler: "Narcissus"...
+        Paimon: Uh, never mind these weird names. This seems serious! Let's get over there and lend a hand!
+    Option 2:
+        Traveler: Yeah, forget the names. Just lead the way.
 ??? (Ann): Thank you! My name is Ann, a member of the Narzissenkreuz Adventure Team. Please, come with me!
-Traveler: Yeah, forget the names. Just lead the way.
-Traveler: What happened?

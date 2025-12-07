@@ -9,8 +9,8 @@ Kaveh: So he said, "Why don't I win it, so I can let you play with it for a few 
 Kaveh: That made me very happy, and I nodded enthusiastically. But to my surprise, he didn't win, and when he got back home, he seemed extremely depressed.
 Kaveh: Later, he left home, saying that he wanted to do some investigating in the desert... The quicksand got him not long after that...
 Kaveh: ...For many years, I couldn't face up to it at all. If I'd just kept my mouth shut, maybe none of it would have ever happened.
+
 Traveler: Your father may have seen Sachin that year.
-Traveler: (Don't mention the results of the investigation.)
 Paimon: Wait... So the person we came across in our investigation, who went into the desert twenty years ago... it was...
 Kaveh: ...
 Kaveh: ...Haha... Is that why Sachin thought I looked familiar? I can't believe it...
@@ -19,6 +19,8 @@ Kaveh: ...
 Kaveh: I've tried telling myself so many times over the years that maybe his sudden depression wasn't because he didn't win the competition, maybe something else was going on that I wasn't aware of... But in the end, it all started with me mentioning the competition to him.
 Paimon: Aw, Kaveh...
 Kaveh: Don't worry. I... I destroyed the diadem. There will never be another tragedy like this again. Never again...
+
+Traveler: (Don't mention the results of the investigation.)
 Kaveh: Sorry... My mind was still on the Championship. Look at me, rambling away.
 Paimon: You look really upset... Are you sure you're okay?
 Kaveh: I'm fine. What's past is past — we need to look towards the future.
@@ -28,7 +30,10 @@ Kaveh: I'm fine. What's past is past — we need to look towards the future.
 Dori: Well, how did it go? I assume that Lord Sangemah Bay's assistance helped you discover something, yes?
 Paimon: You mean...
 Dori: Sachin was not a good person, and there's definitely something wrong with that Diadem of Knowledge!
-Traveler: Indeed.
+    Option 1:
+        Traveler: Indeed.
+    Option 2:
+        Traveler: We also discovered that.
 Dori: Then in that case, shouldn't you be doing something about it?
 Dori: For instance, telling the Akademiya that they should give up the Diadem—
 Paimon: We already told the Akademiya, but...
@@ -42,7 +47,6 @@ Dori: Ah, this was supposed to be the perfect plan! I feed you the information, 
 Dori: And now it was all for nothing! Grr, curse that Kaveh! The interest rate on the Mora he owes me is about to get much higher!
 Paimon: Ohhh, so that's why you told us about this. Yeah, Paimon did think you were being unusually generous...
 Dori: My diadem! Ugh, I'm furious! That's it, no extension on his payment this month, no matter what reason he gives!
-Traveler: We also discovered that.
 
 ## Talk 3
 

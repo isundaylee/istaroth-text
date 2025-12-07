@@ -27,10 +27,23 @@ Kaedehara Kazuha: The fire at the warehouse likely played a part in how the situ
 Kaedehara Kazuha: ...Do you have any thoughts?
 Paimon: Eh? Um, well... Paimon was thinking that maybe someone accidentally knocked over an oil lamp, and um...
 Paimon: Nope, never mind, Paimon's brain needs to rest for a while. Over to you!
-Traveler: They must have had an argument during the sale.
-Kaedehara Kazuha: That is the most likely conclusion based on everything we know. What started as a disagreement over the price escalated and ultimately turned into a tragedy.
-Kaedehara Kazuha: However, in this case, only one of the parties would have started the fire. That would make the other party innocent, and they would have no reason to hide themselves from the public.
-Kaedehara Kazuha: If this is indeed what happened, and the innocent man hasn't come forward yet, then it suggests they may have already lost their life.
+    Option 1:
+        Traveler: They must have had an argument during the sale.
+        Kaedehara Kazuha: That is the most likely conclusion based on everything we know. What started as a disagreement over the price escalated and ultimately turned into a tragedy.
+        Kaedehara Kazuha: However, in this case, only one of the parties would have started the fire. That would make the other party innocent, and they would have no reason to hide themselves from the public.
+        Kaedehara Kazuha: If this is indeed what happened, and the innocent man hasn't come forward yet, then it suggests they may have already lost their life.
+    Option 2:
+        Traveler: Perhaps the fire was deliberately used to hide the truth.
+        Kaedehara Kazuha: An interesting explanation. I was also considering this possibility.
+        Kaedehara Kazuha: Amenoma Yuuya is an expert on swords. He could have noticed some problematic details about Mr. Nagato's collectibles.
+        Kaedehara Kazuha: Maybe he recognized a blade as a fake, or a well-known stolen item. Either way, after arguing about it, the two men agreed to hide the truth of this matter.
+        Kaedehara Kazuha: They thought a fire would destroy everything, but then the Tenryou Commission began investigating and uncovered some incriminating details, so they fled to protect their secrets...
+        Kaedehara Kazuha: But it's a far-fetched theory... I can't imagine how they would have been able to reach an agreement.
+    Option 3:
+        Traveler: We are still missing crucial information.
+        Kaedehara Kazuha: Right, I very much agree with you. It seems highly likely that we're missing a piece of the puzzle...
+        Kaedehara Kazuha: Working off what we know so far, there are too many things that don't add up.
+        Kaedehara Kazuha: The chances are that there are still some clues left for us to discover.
 Kaedehara Kazuha: One fact that I keep coming back to is that Amenoma Yuuya is polite and well-mannered, while Mr. Nagato is introverted and passive. Neither seems like the type of person who is inclined towards initiating conflict.
 Kaedehara Kazuha: Mr. Nagato, being heavily in debt, is also the only one of them with a potential motive to disappear after the fire.
 Kaedehara Kazuha: The more I ponder it, the more puzzling it becomes... just what could have happened there?
@@ -43,16 +56,6 @@ Kaedehara Kazuha: Let's keep going, since we've come this far.
 Kaedehara Kazuha: If we can solve the case, both Mr. Amenoma and Mrs. Nagato will be able to get some closure.
 Paimon: Okay, but where should we go now?
 Kaedehara Kazuha: Let's head out of the city and check out the warehouse. There's still a chance we may be able to find some shreds of evidence.
-Traveler: Perhaps the fire was deliberately used to hide the truth.
-Kaedehara Kazuha: An interesting explanation. I was also considering this possibility.
-Kaedehara Kazuha: Amenoma Yuuya is an expert on swords. He could have noticed some problematic details about Mr. Nagato's collectibles.
-Kaedehara Kazuha: Maybe he recognized a blade as a fake, or a well-known stolen item. Either way, after arguing about it, the two men agreed to hide the truth of this matter.
-Kaedehara Kazuha: They thought a fire would destroy everything, but then the Tenryou Commission began investigating and uncovered some incriminating details, so they fled to protect their secrets...
-Kaedehara Kazuha: But it's a far-fetched theory... I can't imagine how they would have been able to reach an agreement.
-Traveler: We are still missing crucial information.
-Kaedehara Kazuha: Right, I very much agree with you. It seems highly likely that we're missing a piece of the puzzle...
-Kaedehara Kazuha: Working off what we know so far, there are too many things that don't add up.
-Kaedehara Kazuha: The chances are that there are still some clues left for us to discover.
 
 ## Talk 6
 
@@ -69,7 +72,10 @@ Kaedehara Kazuha: Hmm, now I'm picking up a strong scent in addition to the soun
 Paimon: But there's nothing here.
 Kaedehara Kazuha: It's gone now. But I can still sense the direction it left in.
 Kaedehara Kazuha: It felt very much like that ancient presence in Inazuma... the remnants of the Tatarigami.
-Traveler: Tatarigami...
+    Option 1:
+        Traveler: Tatarigami...
+    Option 2:
+        Traveler: That's one thing I didn't expect to encounter here.
 Kaedehara Kazuha: Indeed. But this unexpected spring of inauspicious energy may prove to be of benefit to our investigation.
 Kaedehara Kazuha: We should remain vigilant, and approach slowly.
 Paimon: Huh, so it's an underground warehouse...
@@ -91,16 +97,19 @@ Kaedehara Kazuha: Ah... hmm...
 Paimon: What's down there?
 Kaedehara Kazuha: Everything's buried in debris. I can't see anything.
 Kaedehara Kazuha: It looks like the fire caused a cave-in, reducing the entire warehouse to rubble.
-Traveler: So in the end, it was just a scare.
+    Option 1:
+        Traveler: So in the end, it was just a scare.
+    Option 2:
+        Traveler: I'm not sure if that's a good or bad thing...
 Paimon: That was too scary! Paimon was so sure that the warehouse bogeyman was about to jump out at us...
 Kaedehara Kazuha: All we can do now is keep searching in the direction that the Tatarigami energy's source left this place.
 Kaedehara Kazuha: Two ordinary humans, entangled with the Tatarigami... I fear much misfortune has already befallen them.
-Traveler: Let's hurry.
+    Option 1:
+        Traveler: Let's hurry.
+    Option 2:
+        Traveler: We cannot afford to delay any longer.
 Kaedehara Kazuha: Yes, let's go. If nothing else, it's vital that we find out where this Tatarigami energy is coming from.
 Kaedehara Kazuha: Quiet your mind and focus on what you sense around you... perhaps you, too, will perceive its ominous presence in the wind.
-Traveler: We cannot afford to delay any longer.
-Traveler: I'm not sure if that's a good or bad thing...
-Traveler: That's one thing I didn't expect to encounter here.
 
 ## Talk 8
 
@@ -114,19 +123,28 @@ Traveler: That's one thing I didn't expect to encounter here.
 
 Kaedehara Kazuha: From this point, the trail appears to split into two.
 Kaedehara Kazuha: The main source of the Tatarigami energy continued on into the distance. But a small portion remained here, and seems to be dissipating slowly.
-Traveler: Two parts, so would that correspond to...
+    Option 1:
+        Traveler: Two parts, so would that correspond to...
+    Option 2:
+        Traveler: ...Mr. Nagato and Amenoma Yuuya?
 Kaedehara Kazuha: Quite possibly. Let's search the area.
-Traveler: ...Mr. Nagato and Amenoma Yuuya?
 
 ## Talk 11
 
 Amenoma Tougo: Ah, if it isn't Kaedehara Kazuha! What brings you here today?
-Paimon: Huh? You two know each other?
+[Missing Dialog 120380202]
+
 Kaedehara Kazuha: Yes. The Kaedehara and Amenoma Clans were both members of the Raiden Gokaden. Historically, there have always been deep links between the two clans.
+[Missing Dialog 120380204]
+
+Paimon: Huh? You two know each other?
+[Missing Dialog 120380803]
+
 Kaedehara Kazuha: After I returned to Inazuma, I visited Mr. Amenoma to pay my respects.
 Traveler: Ah. I see.
 Kaedehara Kazuha: Yes. You may recall the story of the Raiden Gokaden from the Irodori Festival.
 Amenoma Tougo: Though all bladesmiths trace their craft back to the same source, over time, each of us has arrived at a different blade-making philosophy, spawning the development of different branches of the same art.
+[Missing Dialog 120380808]
 
 ## Talk 12
 
@@ -153,11 +171,17 @@ Kaedehara Kazuha: Yuuya started the fire that destroyed the warehouse, and wound
 Paimon: So... where is he...?
 Kaedehara Kazuha: He was not only mortally wounded, but also under the heavy influence of Tatarigami. Add to that the fact that its aura seems to have attracted a horde of monsters, and... I'm afraid he may no longer be with us.
 Kaedehara Kazuha: Whatever traces there may have been of his fate beyond after this point, they've since been disturbed by the hilichurls. There's nothing more for us to find here.
-Traveler: Let's ask the Tenryou Commission to do a thorough search later.
+    Option 1:
+        Traveler: Let's ask the Tenryou Commission to do a thorough search later.
+    Option 2:
+        Traveler: There are more important things right now.
 Kaedehara Kazuha: Yes, right now, we need to uncover some more important truths.
 Kaedehara Kazuha: If Amenoma Yuuya is attacking other people indiscriminately, then the longer we take to find him, the more people risk meeting the same tragic end.
 Paimon: Right, so let's get moving!
-Traveler: How did it come to this...
+    Option 1:
+        Traveler: How did it come to this...
+    Option 2:
+        Traveler: It's not in his nature.
 Kaedehara Kazuha: I wouldn't be surprised if he, too, fell prey to the influence of the Tatarigami.
 Kaedehara Kazuha: For a practitioner of the martial arts, the easiest desire to inflame would be their pursuit of further power and skill.
 Kaedehara Kazuha: All the clues that at first seemed disparate and disconnected... it seems that now we know the thread that runs between them.
@@ -165,8 +189,6 @@ Kaedehara Kazuha: I have a hypothesis that, if it's correct, not only explains t
 Paimon: ...Wait, you've figured it out? So these two cases are connected after all?
 Kaedehara Kazuha: I believe so... but it's something of an outlandish idea. I will only be able to confirm my suspicions once we've met him in person.
 Kaedehara Kazuha: On with the search. We must stay vigilant. At any point now, we may find ourselves in danger.
-Traveler: It's not in his nature.
-Traveler: There are more important things right now.
 
 ## Talk 16
 
@@ -323,14 +345,20 @@ Kagotsurube Isshin (Prized Isshin Blade): Once we have dealt with them, we shall
 Kaedehara Kazuha: And as for your end of the bargain, if you lose, you must release Amenoma Yuuya from your control.
 Kagotsurube Isshin (Prized Isshin Blade): I accept.
 Paimon: Don't do this, Kazuha!
-Traveler: This is a risky strategy.
+    Option 1:
+        Traveler: This is a risky strategy.
+    Option 2:
+        Traveler: You're dealing with a cursed blade that can possess people.
 Kaedehara Kazuha: This is the only way to save Amenoma Yuuya. If we don't do this, he'll forever be the blade's puppet.
 Kaedehara Kazuha: The cursed blade's strength is currently very weak, and I sense he's hesitating. This suggests his heart is still not completely devoid of honor.
 Kaedehara Kazuha: The power of the Tatarigami lies in intensifying existing obsessions. This is the reason Mr. Nagato and Amenoma Yuuya fell prey to it. Since I don't have any similar kinds of obsessions, I should be able to put up some resistance for a while.
 Paimon: But, even so...
 Kaedehara Kazuha: Even if things take a turn for the worse, I still have you both here with me.
 Kaedehara Kazuha: We have a chance here to save an innocent victim. I am willing to accept the risks entailed.
-Traveler: Alright, fine.
+    Option 1:
+        Traveler: Alright, fine.
+    Option 2:
+        Traveler: It's not like I can stop you.
 Kagotsurube Isshin (Prized Isshin Blade): Your disdain for me betrays your woeful ignorance. I agreed to this bet because there are things I wish to learn, too.
 Kagotsurube Isshin (Prized Isshin Blade): Now, take me in your hand.
 Kaedehara Kazuha: Ugh!
@@ -353,5 +381,3 @@ Paimon: What about Amenoma Yuuya? What should we do with him?
 Kaedehara Kazuha: The blade says he'll let Amenoma Yuuya trail us silently. Although he hasn't regained his own consciousness yet, he is not in any immediate danger.
 Paimon: Are we sure this is a good idea? It's a pretty treacherous journey...
 Paimon: Okay fine... just be careful.
-Traveler: It's not like I can stop you.
-Traveler: You're dealing with a cursed blade that can possess people.

@@ -7,11 +7,18 @@ Paimon: #Look, Traveler, there's a sealed gate over here!
 Paimon: Hehe, don't ask how, but Paimon's got the feeling that the strange things we picked up nearby must have something to do with getting it open.
 Paimon: Weird... Just what could be behind this gate?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: It could lead to a monster's lair...
-Paimon: Whoa... And where there be monsters, there be treasures too, right?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: That's not a given.
-Paimon: Oh, come on, stop being such a downer. We'll find out once we get inside!
+    Option 1:
+        Traveler: It could lead to a monster's lair...
+        Paimon: Whoa... And where there be monsters, there be treasures too, right?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Traveler: That's not a given.
+        Paimon: Oh, come on, stop being such a downer. We'll find out once we get inside!
+    Option 2:
+        Traveler: Maybe it's a treasure cave...
+        Paimon: Hehe! That's what Paimon's gut is telling her too!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Traveler: Don't get too excited now.
+        Paimon: Right, right. Let's just go in and find out! First we get this gate open, and then... Hehe. Fee, fie, foo, fum. Treasure, treasure, here we come!
 Legba (???): Hey, you two! Outlanders! And that... scarf-wearing Tepetlisaurus over there!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Arr?
 Legba (???): Heh, aren't you the energetic one? Seriously, though, haven't you told them that a seal's a seal because it's meant to seal off forbidden areas?
@@ -28,21 +35,18 @@ Paimon: Heh! When it comes to climbing up and down looking for stuff, you won't 
 Legba (???): Even tribal couriers might not match your speed. Well, you're still not permitted to enter these taboo grounds, but... my camp is nearby.
 Legba (???): How about I treat you to a quick bite, and then you can enjoy a comfy rest?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
-Traveler: We're not hungry yet.
-Paimon: Paimon... Well, Paimon is kinda hungry. Why don't we just take a short little break?
-Traveler: Same old Paimon.
-Paimon: Says you... Paimon's still growing, you know!
+    Option 1:
+        Traveler: We're not hungry yet.
+        Paimon: Paimon... Well, Paimon is kinda hungry. Why don't we just take a short little break?
+        Traveler: Same old Paimon.
+        Paimon: Says you... Paimon's still growing, you know!
+    Option 2:
+        Traveler: Since we've come this far already...
+        Paimon: Don't worry about it! You can rest, Paimon'll keep watch!
+        Traveler: You sure you won't just sleep sounder than I will?
+        Paimon: Seriously!? Grr... Paimon'll show you!
 Legba (???): Pfft... You two sure seem to get along well. Alright, come along now. My camp — and rest — await.
 Legba (???): I will prepare some hot food, guests from afar — and should chance allow, we may have much to talk about.
-Traveler: Since we've come this far already...
-Paimon: Don't worry about it! You can rest, Paimon'll keep watch!
-Traveler: You sure you won't just sleep sounder than I will?
-Paimon: Seriously!? Grr... Paimon'll show you!
-Traveler: Maybe it's a treasure cave...
-Paimon: Hehe! That's what Paimon's gut is telling her too!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Don't get too excited now.
-Paimon: Right, right. Let's just go in and find out! First we get this gate open, and then... Hehe. Fee, fie, foo, fum. Treasure, treasure, here we come!
 
 ## Talk 2
 
@@ -57,9 +61,16 @@ Legba: My name? Haha! Call me Legba. And you, friends?
 Black Screen Text: You introduce yourselves to Legba.
 Legba: #So, Paimon, Traveler, and {REALNAME[ID(2)|SHOWHOST(true)]} the little Tepetlisaurus... A marvelous fate it is, that had you meet here in Natlan.
 Legba: #Speaking of which, Traveler, what were you doing near the tribe's taboo grounds, hmm? Treasure-hunting? Secret-seeking?
-Traveler: The former, naturally.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Yeah, that's right! A well-protected place like this has gotta be home to treasure, right?
+    Option 1:
+        Traveler: The former, naturally.
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Paimon: Yeah, that's right! A well-protected place like this has gotta be home to treasure, right?
+    Option 2:
+        Traveler: Neither. Mere curiosity brought us here.
+        Paimon: Yup. Who wouldn't be curious after seeing a great sealed gate, anyway?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Legba: Decent people, I'd say.
+        Paimon: Hey!
 Legba: Whatever the case, don't get any funny ideas about the place, outsiders. I will not permit you to enter.
 Legba: That is where our ancient ancestors re-established contact with the Night, and since that day, more and more tribespeople have been able to enter the Night Kingdom's gates.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Er?
@@ -91,11 +102,23 @@ Black Screen Text: #You open your eyes to the sight of {REALNAME[ID(2)|SHOWHOST(
 It seems that he was licking you to wake you up.
 A moment later, you realize that he is trying to show you something — a strange obsidian statue...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Did you find this?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
+    Option 1:
+        Traveler: Did you find this?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
+    Option 2:
+        Traveler: Did you... spit this out?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo...
+        Paimon: C'mon, where did you get that idea?
+    Option 3:
+        Traveler: Did you find this?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
 Paimon: Uh... Don't you think this thing looks kinda ominous...?
-Traveler: You're a reader of omens now, are you?
-Paimon: Paimon's just telling you what she thinks... It looks like bad news!
+    Option 1:
+        Traveler: You're a reader of omens now, are you?
+        Paimon: Paimon's just telling you what she thinks... It looks like bad news!
+    Option 2:
+        Traveler: Looks pretty valuable...
+        Paimon: Nyeh... Surely something this ugly couldn't sell for much...
 Paimon: #But wait a sec! This means you ran off while we were sleeping, didn't you, {REALNAME[ID(2)|SHOWHOST(true)]}?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrrooo...
 Paimon: Not good... Where did you find this thing anyway? ...Was it some sort of super dangerous, super dirty place?
@@ -107,8 +130,15 @@ Legba: #I hurried here upon hearing {REALNAME[ID(2)|SHOWHOST(true)]}'s cries. Wh
 Legba: This... This is...
 Legba: Unbelievable. This obsidian statue... is the medium that our ancestors once used to communicate with the Night Kingdom, sealed behind that great gate, deep inside the forbidden grounds...
 Legba: Did you make the little Tepetlisaurus dig it out for you? You... You stole the tribal relic!? And to think, I even prepared this camp for you, and a place to rest...!
-Traveler: Hang on, we can explain...
-Paimon: It wasn't on purpose!
+    Option 1:
+        Traveler: Hang on, we can explain...
+        Paimon: It wasn't on purpose!
+    Option 2:
+        Traveler: We're busted! Run!
+        Paimon: What do you mean run!? It's not like we dug it up on purpose!
+    Option 3:
+        Traveler: Well, since you've caught us...
+        Paimon: C'mon! It's not that bad at all. We can just explain!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mrrooo...
 Black Screen Text: You explain the situation to Legba...
 Legba: So that's what happened. *sigh* To think it slipped my mind how this little one can simply tunnel everywhere... A failure on my part.
@@ -118,20 +148,6 @@ Legba: Whatever the case, I must trouble you all to return the statue to its rig
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Legba: Yes, that means you too, little troublemaker, hehe! Come, let's go!
 Legba: But just so you are aware — the paths in the ruins are winding and filled with mechanisms, so stay wary.
-Traveler: We're busted! Run!
-Paimon: What do you mean run!? It's not like we dug it up on purpose!
-Traveler: Well, since you've caught us...
-Paimon: C'mon! It's not that bad at all. We can just explain!
-Traveler: Looks pretty valuable...
-Paimon: Nyeh... Surely something this ugly couldn't sell for much...
-Traveler: Did you... spit this out?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo...
-Paimon: C'mon, where did you get that idea?
-Traveler: Neither. Mere curiosity brought us here.
-Paimon: Yup. Who wouldn't be curious after seeing a great sealed gate, anyway?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Legba: Decent people, I'd say.
-Paimon: Hey!
 
 ## Talk 3
 

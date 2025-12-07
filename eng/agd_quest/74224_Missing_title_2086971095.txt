@@ -14,7 +14,10 @@ Paimon: Still, what brings you here to Petrichor?
 Tailleferre: That's what I wanted to ask you — I'm chasing a rumor, but I suppose adventurers like you might already be well ahead of the game.
 Paimon: Rumors? What are you talking about?
 Tailleferre: Hmm? Don't you know about the big news out of Petrichor lately...?
-Traveler: About how we accidentally saved the world?
+    Option 1:
+        Traveler: About how we accidentally saved the world?
+    Option 2:
+        Traveler: About the Great Hypnosis of Petrichor?
 Tailleferre: Huh? What are you... No, no, I'm talking about the rediscovery of the legendary Faded Castle!
 Tailleferre: The last records of the place are several centuries ago. And here I thought that was what you were here for!
 Paimon: Oh, that... That might've had something to do with us, sure...
@@ -25,7 +28,10 @@ Tailleferre: As such, I rushed here as soon as I heard the news, trying to secur
 Tailleferre: But I suppose you were one step ahead of me, eh?
 Paimon: (Err, what should we tell her? That Boethius is actually a big baddie, who used all that music to do a whole bunch of evil stuff...?)
 Paimon: (Would knowing the truth sadden her...?)
-Traveler: The "Symphony" can no longer be used for evil.
+    Option 1:
+        Traveler: The "Symphony" can no longer be used for evil.
+    Option 2:
+        Traveler: It's going to take some time to explain all this...
 Tailleferre: Hmm? What are you two talking about? You haven't already found some ancient scores, have you?
 Paimon: Well, uh, what if... And Paimon's saying "if," Boethius was a really, really nasty guy, would you still want the musical scores he left behind?
 Tailleferre: Hmm... To be honest, while I'm not sure what you mean specifically by him being "really, really nasty," history has few kinds words for him apart from his music.
@@ -33,25 +39,28 @@ Tailleferre: From his romantic opera "The Flying Outlander," we can easily tell 
 Tailleferre: According to historians, he also had a hand in the wars that occurred before Fontaine's founding...
 Tailleferre: His musical achievements, however, are a different kettle of fish altogether. There might be false histories in his music, but they retain their value as art.
 Tailleferre: And as I see it, these things are all a part of history as well. Even the purest of art can be used to do wrong, and all musicians would do well to remember that.
-Traveler: Well, I'm sure you wouldn't use these things for evil.
-Tailleferre: Haha, I'm just a researcher. I am honored beyond words simply to hear these ancient melodies.
+    Option 1:
+        Traveler: Well, I'm sure you wouldn't use these things for evil.
+        Tailleferre: Haha, I'm just a researcher. I am honored beyond words simply to hear these ancient melodies.
+    Option 2:
+        Traveler: Impressive convictions.
+        Tailleferre: Hehe, well, it's just my personal opinion.
 Tailleferre: Speaking of which, since chance has seen fit for us to meet here, could I ask you to help me out with something?
 Tailleferre: You can consider it payment for the favor from last time!
-Traveler: You said you didn't need payment last time...
-Tailleferre: Hehe, in that case, this is just "help" then, right?
+    Option 1:
+        Traveler: You said you didn't need payment last time...
+        Tailleferre: Hehe, in that case, this is just "help" then, right?
+    Option 2:
+        Traveler: I'm gonna need to be paid...
+        Tailleferre: Don't worry, you'll be compensated. I'll have you know that the Musicians' Association isn't some gathering of paupers!
+    Option 3:
+        Traveler: I guessed this might happen...
 Tailleferre: Anyway, as I mentioned earlier, I'm here to look for the famous lost opera, "The Flying Outlander."
 Tailleferre: According to records left by someone named Ruggiero several hundred years back, it should be somewhere within the Faded Castle. Could you help me search for it?
 Tailleferre: I imagine you're much better versed in such matters than I, after all.
 Paimon: #Well, since she's asked, Traveler, and those scores don't have "that power" anymore... We might as well, right?
 Tailleferre: Alright, I'll take that to mean you've agreed. Hehe, splendid!
 Tailleferre: I'm counting on you, then. I'll wait for you in town in the meantime.
-Traveler: I'm gonna need to be paid...
-Tailleferre: Don't worry, you'll be compensated. I'll have you know that the Musicians' Association isn't some gathering of paupers!
-Traveler: I guessed this might happen...
-Traveler: Impressive convictions.
-Tailleferre: Hehe, well, it's just my personal opinion.
-Traveler: It's going to take some time to explain all this...
-Traveler: About the Great Hypnosis of Petrichor?
 
 ## Talk 3
 
@@ -76,9 +85,11 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 ## Talk 10
 
 Tailleferre: The scenery here truly is rather excellent. We order many an instrument from this town every year, but this is my first time visiting.
-Traveler: Tell me about the music score...
-Traveler: I've got no questions.
-Tailleferre: I'm counting on you, then. I'll wait for you in town in the meantime.
+    Option 1:
+        Traveler: Tell me about the music score...
+    Option 2:
+        Traveler: I've got no questions.
+        Tailleferre: I'm counting on you, then. I'll wait for you in town in the meantime.
 
 ## Talk 11
 
@@ -88,8 +99,10 @@ Paimon: Hehe, thanks! Still, what are you gonna do with the score? Are you gonna
 Tailleferre: Hmm... Making money is important, but I have no intention of keeping this for my own.
 Tailleferre: This ancient art is part of the common wealth of humanity. As such, I will release "The Flying Outlander" into the public domain once my research is complete.
 Tailleferre: After all, is not recovering this lost play and filling in a page of history heretofore missing the greater deed to do?
-Traveler: I'll be rooting for you!
+    Option 1:
+        Traveler: I'll be rooting for you!
+    Option 2:
+        Traveler: Don't forget the part I played.
+        Tailleferre: Of course. Your name will be on the title page for sure!
 Tailleferre: Well then, I suppose I should hurry back. Research and study await!
 Tailleferre: Ah yes, here's your payment. If chance should allow it, let us meet again!
-Traveler: Don't forget the part I played.
-Tailleferre: Of course. Your name will be on the title page for sure!

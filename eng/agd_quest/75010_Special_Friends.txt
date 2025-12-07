@@ -27,8 +27,12 @@ Wactana: Hey, hey, calm yourself, Half-Baked. See, that's why you've got your na
 "Half-Baked": Rawr...
 Wactana: Don't worry about him, he's just got too strong a sense of duty. Gets all antsy when there are strangers about. But it's also thanks to that dedication that I've got an easy time over here taking care of these Alpacas.
 Wactana: Anyway! What brings you people to my little spot?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Just roaming about. You know, on our adventures.
-Wactana: Ah, adventurers, then! That said, I imagine Half-Baked saw you as dangerous folks with the scary, scary auras.
+    Option 1:
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Just roaming about. You know, on our adventures.
+        Wactana: Ah, adventurers, then! That said, I imagine Half-Baked saw you as dangerous folks with the scary, scary auras.
+    Option 2:
+        Traveler: I've been considering an idyllic, pastoral life recently...
+        Wactana: Then you've come to the right place. Just leave all the Alpaca care to your Saurian, like I do, and the world's your oyster!
 Paimon: Huh. Paimon didn't know that Yumkasaurs could do that. And here we were thinking the Alpacas were about to get attacked! Guess it was all just a misunderstanding, huh?
 Wactana: Aye, and a common one it is, too. I know my fella looks fierce, but he's pretty close to yon' Alpacas. Why, I'd even call them friends!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo... Rawr! Rawr! Raaawr!
@@ -38,17 +42,17 @@ Paimon: Wow, guess so. But yeah, thinking about it, you usually just hang out wi
 Wactana: That would do 'im good, yes. Would be quite the adorable scene, too, don't you think — a lil' Tepetlisaur surrounded by Alpaca friends? Me, I could chow down on three bowls of Blazed Meat Stew before I got bored of it.
 Wactana: Still, that'll depend on whether my Alpacas agree or not. Friendship's not to be forced, and all. Wouldn't you say so, Half-Baked?
 "Half-Baked": Mrrmph.
-Traveler: #Oho, what's this? Someone doesn't wanna get friendly with our {REALNAME[ID(2)|SHOWHOST(true)]}?
-Paimon: #Hey, hey, no need to get all defensive! Let's just give {REALNAME[ID(2)|SHOWHOST(true)]} a chance to try this out for himself.
-Paimon: Kids only grow when they learn how to get by through their own hard work, right?
+    Option 1:
+        Traveler: #Oho, what's this? Someone doesn't wanna get friendly with our {REALNAME[ID(2)|SHOWHOST(true)]}?
+        Paimon: #Hey, hey, no need to get all defensive! Let's just give {REALNAME[ID(2)|SHOWHOST(true)]} a chance to try this out for himself.
+        Paimon: Kids only grow when they learn how to get by through their own hard work, right?
+    Option 2:
+        Traveler: #It's alright. Whatever happens, {REALNAME[ID(2)|SHOWHOST(true)]}'s still got us.
+        Paimon: Uh, Paimon knows you're trying to be nice just in case things don't work out... But there's no need to be this pessimistic from the get-go!
+        Paimon: #Kids need more encouragement to grow up strong and healthy! That's right, {REALNAME[ID(2)|SHOWHOST(true)]}, you can do it! Paimon believes in you!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Wactana: Well, your Tepetlisaur's got confidence coming out of its ears, or I'm blind. Guess I'll head back and get some rest. Just holler if there's trouble...
 Wactana: Wait, you know what? Might as well holler for Half-Baked instead. He's the Alpaca expert here, after all... Just kidding. Alright, little fella, you've got this. Good luck!
-Traveler: #It's alright. Whatever happens, {REALNAME[ID(2)|SHOWHOST(true)]}'s still got us.
-Paimon: Uh, Paimon knows you're trying to be nice just in case things don't work out... But there's no need to be this pessimistic from the get-go!
-Paimon: #Kids need more encouragement to grow up strong and healthy! That's right, {REALNAME[ID(2)|SHOWHOST(true)]}, you can do it! Paimon believes in you!
-Traveler: I've been considering an idyllic, pastoral life recently...
-Wactana: Then you've come to the right place. Just leave all the Alpaca care to your Saurian, like I do, and the world's your oyster!
 
 ## Talk 4
 
@@ -112,12 +116,14 @@ Scaredy-Cat Alpaca: Moo... Mmmmoo—
 Black Screen Text: #Faced with {REALNAME[ID(2)|SHOWHOST(true)]}'s enthusiasm, the timid-looking Alpaca seems unafraid, instead bending down and gently touching {REALNAME[ID(2)|SHOWHOST(true)]} with its nose...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
 Paimon: Hehe! Guess that means you're getting on great, huh?
-Traveler: #A friend of yours, {REALNAME[ID(2)|SHOWHOST(true)]}, is a friend of mine.
-Paimon: And Paimon's too... Wait, when did this become a competition?
+    Option 1:
+        Traveler: #A friend of yours, {REALNAME[ID(2)|SHOWHOST(true)]}, is a friend of mine.
+        Paimon: And Paimon's too... Wait, when did this become a competition?
+    Option 2:
+        Traveler: I'm kinda jealous...
+        Paimon: Huh? Jealous of who exactly...?
 Paimon: Still, it's kinda dangerous for this Alpaca to be out here completely on its own. We'd better go tell Wactana what's going on.
 Paimon: #Also, Paimon's sure she'll be happy to hear that {REALNAME[ID(2)|SHOWHOST(true)]}'s made a friend, too!
-Traveler: I'm kinda jealous...
-Paimon: Huh? Jealous of who exactly...?
 
 ## Talk 13
 
@@ -126,15 +132,17 @@ Wactana: I see you're back, little fella. How did it go? Make any Alpaca friends
 Wactana: Haha, aren't you a happy camper? Why, you're even making me feel all jolly!
 Paimon: #Hey, Wactana, shouldn't you be a bit more concerned about what happens to the Alpacas? The one {REALNAME[ID(2)|SHOWHOST(true)]} made friends with was in a real tight spot back there.
 Wactana: That so? Guess I gotta talk to Half-Baked real quick then, tell it to take more care.
-Traveler: You're way too chill about this.
-Wactana: I mean, I am living the dream! C'mon, be happy for me and stuff!
+    Option 1:
+        Traveler: You're way too chill about this.
+        Wactana: I mean, I am living the dream! C'mon, be happy for me and stuff!
+    Option 2:
+        Traveler: Half-Baked has it rough, huh...
+        Wactana: Sure... But he was always a massive worrywart. If I took him off Alpaca guard, he'd start losing fur from stress, I tell you!
+        Wactana: So this arrangement's best. Job satisfaction for him, free-and-easy living for me. Win-win, wouldn't you say?
 Wactana: #Ah, yes. If {REALNAME[ID(2)|SHOWHOST(true)]}'s fond of the Alpaca toy over by the side, I can let y'all have it.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
 Paimon: #Guess {REALNAME[ID(2)|SHOWHOST(true)]} doesn't know what "standing on ceremony" is, huh. Thanks then, Wactana!
 Wactana: Eh, no biggie. And if you wanna drop by again, you're always welcome.
-Traveler: Half-Baked has it rough, huh...
-Wactana: Sure... But he was always a massive worrywart. If I took him off Alpaca guard, he'd start losing fur from stress, I tell you!
-Wactana: So this arrangement's best. Job satisfaction for him, free-and-easy living for me. Win-win, wouldn't you say?
 
 ## Additional Conversations
 

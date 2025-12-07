@@ -55,13 +55,19 @@ Paimon: Huh!? What's this?
 Dainsleif: ...So the Black Serpent Knights have nothing to do with the Abyss Order's secret. Huh, I should have guessed.
 Paimon: So what exactly is going on with these hilichurls?
 Dainsleif: As I said, for these hilichurls, the end is nigh.
-Traveler: The hilichurls are preparing to meet their end...
+    Option 1:
+        Traveler: The hilichurls are preparing to meet their end...
+    Option 2:
+        Traveler: "End"...
 Dainsleif: They have grown old and fearful of the light, even become one with the darkness. And yet the curse continues to corrode them.
 Paimon: But why would the Black Serpent Knights wanna stay here and guard them?
 Black Serpent Knight of Old: !!!
 Paimon: Aah! More of them are closing in!
 Black Serpent Knight of Old: !!!
-Traveler: Let's try to avoid fighting them.
+    Option 1:
+        Traveler: Let's try to avoid fighting them.
+    Option 2:
+        Traveler: Fighting them is meaningless.
 Halfdan (???): !
 Paimon: ...It's him! The guy that came out of nowhere and disappeared again!
 Paimon: And now they're retreating... Did he just order them to do that?
@@ -84,14 +90,14 @@ Dainsleif: If you see these ruins as Khaenri'ah in the throes of disaster, and t
 Dainsleif: ...then suddenly, I can make sense of what I'm hearing. Their growls are less of a threat and more of a warning.
 Paimon: Then... what are they saying?
 Dainsleif: Though it is barely discernible, I can just about make it out. They keep repeating a word from the old language of Khaenri'ah... "Run."
-Traveler: So they're not talking to us...
+    Option 1:
+        Traveler: So they're not talking to us...
+    Option 2:
+        Traveler: So they're telling the hilichurls behind them to escape...
 Dainsleif: Even I have to admit, the fact their will is strong enough to survive 500 years of erosion... It is nothing short of a miracle born from hopelessness.
 Paimon: Oh... So Paimon had them all wrong...
 Dainsleif: It doesn't matter. Even I took them for enemies for a moment.
 Dainsleif: Let's keep heading toward the light at the top. I believe the Black Serpent Knights will no longer try to stop us.
-Traveler: So they're telling the hilichurls behind them to escape...
-Traveler: Fighting them is meaningless.
-Traveler: "End"...
 
 ## Talk 11
 
@@ -129,7 +135,10 @@ Dainsleif: Consider it tantamount to burning away an integral part of your body.
 Paimon: Huh!? Cleansing the curse costs you your life? Whoa... An irreversible curse, Paimon can't even imagine...
 Dainsleif: In any case, I can feel that the water's cleansing effect is not nearly potent enough. At most, it might suppress the curse but a little.
 Paimon: Hmm? So what's that contraption there? It looks kinda out of place...
-Traveler: An Abyss Order device?
+    Option 1:
+        Traveler: An Abyss Order device?
+    Option 2:
+        Traveler: Perhaps it's the Abyss Order's secret.
 Dainsleif: Frankly, I have never seen a device of this design before either. It is not unreasonable to suspect that it could belong to the Abyss Order. But what could they be planning to do here...
 Investigate (???): (*clunk* *clunk*...)
 Paimon: Yikes! That gave Paimon a fright... So all the doors are open now?
@@ -139,10 +148,11 @@ Dainsleif: Halfdan. Do you have something to say to me?
 Halfdan: ...
 Paimon: He ran off... but he didn't disappear like last time!
 Dainsleif: He's indicating that we should follow him. Are you coming?
-Traveler: This could be a useful lead.
+    Option 1:
+        Traveler: This could be a useful lead.
+    Option 2:
+        Traveler: He doesn't seem to hold any malice toward us.
 Paimon: True... So, uh... We going, then?
-Traveler: He doesn't seem to hold any malice toward us.
-Traveler: Perhaps it's the Abyss Order's secret.
 
 ## Talk 16
 
@@ -167,7 +177,10 @@ Dainsleif: Consider it tantamount to burning away an integral part of your body.
 Paimon: Huh!? Cleansing the curse costs you your life? Whoa... An irreversible curse, Paimon can't even imagine...
 Dainsleif: In any case, I can feel that the water's cleansing effect is not nearly potent enough. At most, it might suppress the curse but a little.
 Paimon: Hmm? So what's that contraption there? It looks kinda out of place...
-Traveler: An Abyss Order device?
+    Option 1:
+        Traveler: An Abyss Order device?
+    Option 2:
+        Traveler: Perhaps it's the Abyss Order's secret.
 Dainsleif: Frankly, I have never seen a device of this design before either. It is not unreasonable to suspect that it could belong to the Abyss Order. But what could they be planning to do here...
 Investigate (???): (*clunk* *clunk*...)
 Paimon: Yikes! That gave Paimon a fright... So all the doors are open now?
@@ -177,10 +190,11 @@ Dainsleif: Halfdan. Do you have something to say to me?
 Halfdan: ...
 Paimon: He ran off... but he didn't disappear like last time!
 Dainsleif: He's indicating that we should follow him. Are you coming?
-Traveler: This could be a useful lead.
+    Option 1:
+        Traveler: This could be a useful lead.
+    Option 2:
+        Traveler: He doesn't seem to hold any malice toward us.
 Paimon: True... So, uh... We going, then?
-Traveler: He doesn't seem to hold any malice toward us.
-Traveler: Perhaps it's the Abyss Order's secret.
 
 ## Talk 18
 

@@ -14,13 +14,15 @@ Muning: Scared, huh? Alright, move along, then! There's still someone waiting fo
 ## Talk 2
 
 Muning: How is everything down there? Did you encounter any danger?
-Traveler: (You describe your experiences to Muning.)
-Muning: Ah, I see. That does sound rather dangerous. I'm afraid I'll have to ask you to help take care of Jinwu and Zhiqiong, then.
-Traveler: Aren't you supposed to stop me?
-Muning: Well, that is my duty, yes. But you always run off too quickly for me to stop you, so I can't.
-Traveler: I don't run that fast.
-Muning: No, you do. That's what the report says, and what the report says is the truth.
-Traveler: Alright, guess I'm really, really fast, then.
-Muning: Exactly. As such, please do be careful.
-Traveler: All goes well, don't you fret.
-Muning: That's good, that's good. As long as things go well, the Qixing will have no reason to come down too hard on me...
+    Option 1:
+        Traveler: (You describe your experiences to Muning.)
+        Muning: Ah, I see. That does sound rather dangerous. I'm afraid I'll have to ask you to help take care of Jinwu and Zhiqiong, then.
+        Traveler: Aren't you supposed to stop me?
+        Muning: Well, that is my duty, yes. But you always run off too quickly for me to stop you, so I can't.
+        Traveler: I don't run that fast.
+        Muning: No, you do. That's what the report says, and what the report says is the truth.
+        Traveler: Alright, guess I'm really, really fast, then.
+        Muning: Exactly. As such, please do be careful.
+    Option 2:
+        Traveler: All goes well, don't you fret.
+        Muning: That's good, that's good. As long as things go well, the Qixing will have no reason to come down too hard on me...

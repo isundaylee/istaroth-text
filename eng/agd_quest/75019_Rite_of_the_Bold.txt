@@ -40,7 +40,10 @@ Pacal: Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks dif
 Pacal: #Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose...
 Pacal: #And haven't you two been the talk of the town lately, Traveler, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return.
 Pacal: It wouldn't be a stretch to call your recent deeds "legendary," and you've been a friend to us Children of Echoes thus far.
-Traveler: There's no need to thank me too much.
+    Option 1:
+        Traveler: There's no need to thank me too much.
+    Option 2:
+        Traveler: Missing text (1989908642)
 Pacal: Haha, quite the phenomenal youngster!
 Pacal: And it is in that capacity, Manqu, that I'm telling you — it is not our way to push guests into a fiery pit just to prove a hypothesis.
 Pacal: That's not how "I'd" treat my guests, anyway.
@@ -84,7 +87,10 @@ Paimon: Alright! Let's go get that first token, then!
 Manqu: No, not yet. Now that you are qualified, you must undertake a trial of witnesses...
 Manqu: Ancient custom dictates that the warrior and Saurian must together obtain the feather of a green quetzal deep in the woods, and offer up a stole of animal pelts...
 Manqu: And together, you must win fifty battles for our tribe, and offer up ninety-six gems of high quality...
-Traveler: Uh, I wouldn't be eligible to...
+    Option 1:
+        Traveler: Uh, I wouldn't be eligible to...
+    Option 2:
+        Traveler: Can you give me a discount on those for Mora?
 Pacal: Oh come now, Manqu, forget it. Where are those traditions even from? Some lost stone age?
 Pacal: The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that.
 Pacal: #Anyway, as I see it, neither Traveler nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof.
@@ -95,8 +101,6 @@ Traveler: Right on!
 Paimon: Wait? Here? Oh, do you mean we're going on stage?
 Pacal: Of course not, haha, the stage isn't a place for tunneling... Our duel grounds are in the mountain to the rear.
 Pacal: Come, let's head there — we'll have ourselves a good one!
-Traveler: Can you give me a discount on those for Mora?
-Traveler: Missing text (1989908642)
 
 ## Talk 7
 
@@ -114,4 +118,5 @@ Manqu: In that case, on your marks. The duel will soon begin.
 ## Talk 10
 
 Manqu: Well, now that we have some proof, we may go forth and obtain the token left by the Sage of the Stolen Flame.
+
 Manqu: The ruin's entrance isn't far. If I may be so bold, please proceed to the ruins near the Children of Echoes...

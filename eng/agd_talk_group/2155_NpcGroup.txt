@@ -3,18 +3,20 @@
 ## Talk 0
 
 Xamaran: ...
-Traveler: About the Sage-Lord of Fungi...
-Xamaran: ...You speak a name shrouded in the mists of the past, Wise One. It was our progenitor, abounding in might, yet more bereft of wisdom than even the Four-Legged.
-Xamaran: In your Two-Legged speech, Xamaran would call it "my foolish father."
-Paimon: Well, at least that rating's... easy to understand?
-Xamaran: We have had no business with one another for many long years. Indeed, I have almost forgotten this name, and cannot tell any further interesting tales concerning it. Your visit, however, sparks such interest.
-Xamaran: Well then... How does it fare?
-Paimon: Worse than you for sure.
-Xamaran: And that is well.
-Traveler: Listen quietly...
-Xamaran: ...Ignorance might be a blessing, and knowledge might bring forth calamity...
-Xamaran: ...Only that which graced with the ambrosia of knowledge can flourish into the strong...
-Xamaran: ...Only that which has been tested with the desolation of wandering can brave the wilderness...
+    Option 1:
+        Traveler: About the Sage-Lord of Fungi...
+        Xamaran: ...You speak a name shrouded in the mists of the past, Wise One. It was our progenitor, abounding in might, yet more bereft of wisdom than even the Four-Legged.
+        Xamaran: In your Two-Legged speech, Xamaran would call it "my foolish father."
+        Paimon: Well, at least that rating's... easy to understand?
+        Xamaran: We have had no business with one another for many long years. Indeed, I have almost forgotten this name, and cannot tell any further interesting tales concerning it. Your visit, however, sparks such interest.
+        Xamaran: Well then... How does it fare?
+        Paimon: Worse than you for sure.
+        Xamaran: And that is well.
+    Option 2:
+        Traveler: Listen quietly...
+        Xamaran: ...Ignorance might be a blessing, and knowledge might bring forth calamity...
+        Xamaran: ...Only that which graced with the ambrosia of knowledge can flourish into the strong...
+        Xamaran: ...Only that which has been tested with the desolation of wandering can brave the wilderness...
 
 ## Talk 1
 
@@ -26,7 +28,10 @@ Xamaran: Xamaran knows many legged ones who make no use of their feet. Yet Xamar
 Paimon: Hehe, that's natural, because Paimon is one of a kind.
 Xamaran: Xamaran knows the two-legged one over there. How strangely familiar.
 Paimon: #Traveler, do you know Sheeshroom?
-Traveler: No, I don't.
+    Option 1:
+        Traveler: No, I don't.
+    Option 2:
+        Traveler: Maybe I do, but I don't remember.
 Xamaran: Xamaran smells the heat of golden sand and the dampness from deep within the rainforest. That's the smell of Xamaran's hometown.
 Paimon: Hot sand and the rainforest? Do you mean Sumeru? We did just talk to a Sumeru scholar at the camp...
 Xamaran: Although Xamaran has been away from its hometown for long, Xamaran makes no mistakes.
@@ -35,7 +40,6 @@ Xamaran: Xamaran has dwelled here for many a year and found it a cozy and comfy 
 Xamaran: Yet foul energy is growing lately. Xamaran has been drained of strength fending off the evil and has ended up in this state. Xamaran must seek help from the two-legged.
 Paimon: Sheeshroom does look a little under the weather...
 Paimon: #Hm... Oh right, Traveler, we can lend the energy of the Adjuvant to Sheeshroom, perhaps? Maybe that'll make it feel better.
-Traveler: Maybe I do, but I don't remember.
 
 ## Talk 2
 

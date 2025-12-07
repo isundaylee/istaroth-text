@@ -18,12 +18,14 @@ Lan: In order to get people to trust in our ability and assign us more important
 Lan: ...I believe that we must hammer out some commissions of greater difficulty.
 Lan: There was a commission that came in not long ago from someone who wanted us to deal with a wandering Stonehide Lawachurl.
 Lan: It's been shelved for the moment due to a lack of candidates who can take that creature down, but if you're up for it, why don't you help us settle this matter?
-Traveler: Leave it to me.
-Lan: Great. We're counting on you, then — I'll remain here and continue selecting commissions.
-Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
-Traveler: Do you have any other commissions?
-Lan: I do, but those are all a bunch of trivial, menial tasks, all of which I still have to sort through. We'll just have to leave the Stonehide Lawachurl to you.
-Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
+    Option 1:
+        Traveler: Leave it to me.
+        Lan: Great. We're counting on you, then — I'll remain here and continue selecting commissions.
+        Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
+    Option 2:
+        Traveler: Do you have any other commissions?
+        Lan: I do, but those are all a bunch of trivial, menial tasks, all of which I still have to sort through. We'll just have to leave the Stonehide Lawachurl to you.
+        Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
 
 ## Talk 2
 
@@ -34,34 +36,45 @@ Lan: *Ash*, huh... The description is detailed enough, sure, but it's not going 
 Ash (Curious Cat): Meow...
 Paimon: Huh? Why would there be a cat here?
 Ash (Curious Cat): Meow... Meeeow...
-Traveler: A gray cat...
-Paimon: A gray cat, lost in the wild...
-Paimon: Ah, Lan mentioned a commission to look for a gray cat. Maybe this is the one! Paimon remembers that it was called Ash or something like that...
-Paimon: Who'd have thought that we'd find it here... Has it been hiding around here all this time?
+    Option 1:
+        Traveler: A gray cat...
+        Paimon: A gray cat, lost in the wild...
+        Paimon: Ah, Lan mentioned a commission to look for a gray cat. Maybe this is the one! Paimon remembers that it was called Ash or something like that...
+        Paimon: Who'd have thought that we'd find it here... Has it been hiding around here all this time?
+    Option 2:
+        Traveler: Maybe it's Ash...
+        Paimon: A gray cat, lost in the wild...
+        Paimon: You're right! Lan mentioned that commission earlier, didn't she? Huh. Who'd have thought that we'd find that cat here... Has it been hiding around here all this time?
 Paimon: Guess the Stonehide Lawachurl prevented anyone from searching for it here, and since it was too scared to leave, it just hid.
 Paimon: Sure is lucky that we came over, or it might've had to wait for a while longer, huh?
 Ash: Meow... Meow, meow!
-Traveler: Meow... Meeeow...
-Paimon: Hey, what are you doing? Paimon doesn't think it understands what you're saying anyway...
-Paimon: Let's just bring it back to Lan, and let her return it to the person who put the commission up.
+    Option 1:
+        Traveler: Meow... Meeeow...
+        Paimon: Hey, what are you doing? Paimon doesn't think it understands what you're saying anyway...
+        Paimon: Let's just bring it back to Lan, and let her return it to the person who put the commission up.
+    Option 2:
+        Traveler: Let's take the cat back to Lan.
+        Paimon: Yup, guess that's all we can do right now. She'll return it to the person who put that commission up.
+    Option 3:
+        Traveler: Let's take the cat back to Lan.
+        Paimon: Yup, guess that's all we can do right now. She'll return it to the person who put that commission up.
 Ash: Meow... Meow! Meow!
-Traveler: Meow... Meow! Meow!
-Paimon: Oh, come on! It's not going to understand you no matter how hard you try to copy it. Let's just bring it with us already.
-Traveler: It seems to agree with us.
-Paimon: How did you even— never mind. Let's just bring it back to Lan.
-Traveler: Let's take the cat back to Lan.
-Paimon: Yup, guess that's all we can do right now. She'll return it to the person who put that commission up.
-Traveler: Maybe it's Ash...
-Paimon: A gray cat, lost in the wild...
-Paimon: You're right! Lan mentioned that commission earlier, didn't she? Huh. Who'd have thought that we'd find that cat here... Has it been hiding around here all this time?
+    Option 1:
+        Traveler: Meow... Meow! Meow!
+        Paimon: Oh, come on! It's not going to understand you no matter how hard you try to copy it. Let's just bring it with us already.
+    Option 2:
+        Traveler: It seems to agree with us.
+        Paimon: How did you even— never mind. Let's just bring it back to Lan.
 
 ## Talk 4
 
 Lan: Have you defeated the Stonehide Lawachurl?
-Traveler: Sure did.
-Lan: Thanks, you've done us a favor. With this commission under our belt, we'll have no problem proving the Guild's ability.
-Traveler: We defeated it, and we also found Ash...
-Lan: Thanks, you've done us a fav— say what now?
+    Option 1:
+        Traveler: Sure did.
+        Lan: Thanks, you've done us a favor. With this commission under our belt, we'll have no problem proving the Guild's ability.
+    Option 2:
+        Traveler: We defeated it, and we also found Ash...
+        Lan: Thanks, you've done us a fav— say what now?
 
 ## Talk 5
 

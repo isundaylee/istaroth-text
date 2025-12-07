@@ -23,7 +23,10 @@ Paimon: Huh?
 ??? (Santon): I wouldn't feel the thrill if there was no danger at all! Worry not, I'm actually a famous hunter in Fontaine...
 Paimon: So, it's hunting in the forests that you're actually in love with!
 Paimon: You're just a poacher from Fontaine, aren't you!?
-Traveler: Poaching disrupts the ecosystem.
+    Option 1:
+        Traveler: Poaching disrupts the ecosystem.
+    Option 2:
+        Traveler: Guess we'll have to intervene!
 ??? (Santon): No, you've got it wrong. I'm no poacher! Poaching is a serious crime!
 ??? (Santon): If you get caught poaching in Fontaine, your life is over. I'd never dare to do that. We Fontaine hunters deal mostly with "fierce animals."
 Paimon: Deal with fierce animals?
@@ -36,8 +39,13 @@ Paimon: So that's what you do...?
 Paimon: #Overgrown crocodile? Could that be the one we met before, Traveler?
 ??? (Santon): You drove the legendary Gator Raja away?
 ??? (Santon): It is said that the Gator Raja is akin to an emerging giant sandbar as it rises from rushing river current, and is even capable of cutting the river's flow off! Is that true?
-Traveler: That's exactly how it happened!
-??? (Santon): Amazing!
+    Option 1:
+        Traveler: That's exactly how it happened!
+        ??? (Santon): Amazing!
+    Option 2:
+        Traveler: Legends are often exaggerated.
+        ??? (Santon): Is that so? I find that somewhat disappointing, somehow...
+        ??? (Santon): Ordinary crocodiles are already tough to handle, so dealing with the devious Gator Raja must be a truly perilous endeavor.
 ??? (Santon): I thought I felt the vibe of seasoned hunters off you guys. Guess I wasn't mistaken!
 Paimon: Of course not, we've been through a lot of adventures together.
 ??? (Santon): Other than the Gator Raja, there are two beasts out there — one is the Rishboland Raja that steals children and the other is the huge Sumpter Beast that blocks the passage to Liyue...
@@ -51,10 +59,6 @@ Traveler: Sure, if we do come across them.
 ??? (Santon): I'd appreciate it!
 ??? (Santon): Please take heed of the safety of the people, the ferocious animals and of course, yourselves!
 Paimon: Got it!
-Traveler: Legends are often exaggerated.
-??? (Santon): Is that so? I find that somewhat disappointing, somehow...
-??? (Santon): Ordinary crocodiles are already tough to handle, so dealing with the devious Gator Raja must be a truly perilous endeavor.
-Traveler: Guess we'll have to intervene!
 
 ## Talk 2
 
@@ -78,7 +82,10 @@ Paimon: Huh?
 ??? (Santon): I wouldn't feel the thrill if there was no danger at all! Worry not, I'm actually a famous hunter in Fontaine...
 Paimon: So, it's hunting in the forests that you're actually in love with!
 Paimon: You're just a poacher from Fontaine, aren't you!?
-Traveler: Guess we'll have to intervene!
+    Option 1:
+        Traveler: Guess we'll have to intervene!
+    Option 2:
+        Traveler: Poaching disrupts the ecosystem!
 ??? (Santon): No, you've got it wrong. I'm no poacher! Poaching is a serious crime!
 ??? (Santon): If you get caught poaching in Fontaine, your life is over. I'd never dare to do that. We Fontaine hunters deal mostly with "fierce animals."
 Paimon: Deal with fierce animals?
@@ -100,24 +107,27 @@ Traveler: Sure, if we do come across them.
 ??? (Santon): That would be much appreciated!
 ??? (Santon): Please take heed of the safety of the people, the ferocious animals and of course, yourselves!
 Paimon: You got it!
-Traveler: Poaching disrupts the ecosystem!
 
 ## Talk 3
 
 Santon: So, did you run into any of those ferocious creatures?
 Santon: If you happen to encounter the creatures, please drive them away. It would be a good thing, for people and animals both.
-Traveler: About the Gator Raja...
-Santon: They say that the Gator Raja haunts the waters on the east side of the city. But I've checked several times and have never seen the cunning beast.
-Traveler: About the Rishboland Raja...
-Santon: The story around here is that the Rishboland Raja comes out of the forest in the west at midnight and snatches naughty kids who aren't willing to go to bed.
-Santon: Parents probably made up the kidnapping part to scare their kids to bed, but Rishboland Tigers are indeed more active at night.
-Santon: Rumor has it that some wayfarers traveling at night were chased by a huge Rishboland tiger, though fortunately, there have been no casualties thus far.
-Traveler: About the Sumpter Beastlord...
-Santon: I've heard that some wild Sumpter Beasts are territorial and will attack intruders. I'm sure the Sumpter Beastlord is the same.
-Santon: Its turf is somewhere in the east.
-Santon: I wonder just how big the Sumpter Beastlord must be to have earned that moniker.
-Traveler: We're still looking into it.
-Santon: Well, keep up the good work!
+    Option 1:
+        Traveler: About the Gator Raja...
+        Santon: They say that the Gator Raja haunts the waters on the east side of the city. But I've checked several times and have never seen the cunning beast.
+    Option 2:
+        Traveler: About the Rishboland Raja...
+        Santon: The story around here is that the Rishboland Raja comes out of the forest in the west at midnight and snatches naughty kids who aren't willing to go to bed.
+        Santon: Parents probably made up the kidnapping part to scare their kids to bed, but Rishboland Tigers are indeed more active at night.
+        Santon: Rumor has it that some wayfarers traveling at night were chased by a huge Rishboland tiger, though fortunately, there have been no casualties thus far.
+    Option 3:
+        Traveler: About the Sumpter Beastlord...
+        Santon: I've heard that some wild Sumpter Beasts are territorial and will attack intruders. I'm sure the Sumpter Beastlord is the same.
+        Santon: Its turf is somewhere in the east.
+        Santon: I wonder just how big the Sumpter Beastlord must be to have earned that moniker.
+    Option 4:
+        Traveler: We're still looking into it.
+        Santon: Well, keep up the good work!
 
 ## Talk 4
 
@@ -155,8 +165,12 @@ Anaya: Well, I'm not so sure about the exact location... Maybe it's in the east.
 
 Santon: You've driven the savage creatures away?
 Santon: I haven't even seen any yet. So, how fearsome were those creatures?
-Traveler: They weren't really that intimidating...
-Santon: Sounds like it was a cakewalk for you.
+    Option 1:
+        Traveler: They weren't really that intimidating...
+        Santon: Sounds like it was a cakewalk for you.
+    Option 2:
+        Traveler: Oh, very fearsome!
+        Santon: Really? I wish I could have seen that for myself.
 Santon: I'm relieved to know those creatures are gone, though I'm bitter that I didn't get to see them.
 Santon: It's common to see stronger predators beat their rivals to the prey...
 Santon: Haha, but I won't lose next time!
@@ -168,8 +182,6 @@ Santon: The recent issues with The Withering have occupied a lot of manpower, th
 Santon: So jobs like "handling fierce animals" fell upon me.
 Paimon: So that's why.
 Santon: Thank you very much for your help! Here's your payment.
-Traveler: Oh, very fearsome!
-Santon: Really? I wish I could have seen that for myself.
 
 ## Additional Conversations
 

@@ -14,21 +14,29 @@ Madarame Hyakubei: Would you like to try growing some Naku Weeds? But I don't be
 Traveler: I have my own plot of land.
 Madarame Hyakubei: Oh, is that so? As expected of you... So, you have even been gifted land already?
 Madarame Hyakubei: Pardon me for asking, but is your land...
-Traveler: It's not in Inazuma.
-Madarame Hyakubei: #Oh! I have also heard tell of your feats in Mondstadt and Liyue, {F#Madam}{M#Sir}.
-Madarame Hyakubei: Indeed, it would be more surprising if you were not gifted land for such deeds!
+    Option 1:
+        Traveler: It's not in Inazuma.
+        Madarame Hyakubei: #Oh! I have also heard tell of your feats in Mondstadt and Liyue, {F#Madam}{M#Sir}.
+        Madarame Hyakubei: Indeed, it would be more surprising if you were not gifted land for such deeds!
+    Option 2:
+        Traveler: It's actually in a teapot.
+        Madarame Hyakubei: #A t—teapot? {F#Madam}{M#Sir}, please don't play such a joke on me.
+        Madarame Hyakubei: I have also heard tell of your feats in Mondstadt and Liyue.
+        Madarame Hyakubei: So I guess that your land is either in Liyue or in Mondstadt.
+        Madarame Hyakubei: #As expected of you, {F#Madam}{M#Sir}.
+    Option 3:
+        Traveler: It's not in Inazuma.
+        Madarame Hyakubei: #Oh! I have also heard tell of your feats in Mondstadt and Liyue, {F#Madam}{M#Sir}.
+        Madarame Hyakubei: Indeed, it would be more surprising if you were not gifted land for such deeds!
 Paimon: #Hey, Traveler, the land you're talking about is the Serenitea Pot that Granny gave us, right?
 Paimon: Can you really grow things in there? Granny didn't say anything about it before...
-Traveler: Let's go back and ask her.
-Paimon: Okay then, let's go back and ask Granny.
-Traveler: The adepti are very powerful after all.
-Paimon: Is that so? But Granny really is very strong, so...
-Paimon: Okay then, let's go back and ask Granny.
-Traveler: It's actually in a teapot.
-Madarame Hyakubei: #A t—teapot? {F#Madam}{M#Sir}, please don't play such a joke on me.
-Madarame Hyakubei: I have also heard tell of your feats in Mondstadt and Liyue.
-Madarame Hyakubei: So I guess that your land is either in Liyue or in Mondstadt.
-Madarame Hyakubei: #As expected of you, {F#Madam}{M#Sir}.
+    Option 1:
+        Traveler: Let's go back and ask her.
+        Paimon: Okay then, let's go back and ask Granny.
+    Option 2:
+        Traveler: The adepti are very powerful after all.
+        Paimon: Is that so? But Granny really is very strong, so...
+        Paimon: Okay then, let's go back and ask Granny.
 
 ## Talk 2
 

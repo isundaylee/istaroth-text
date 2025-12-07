@@ -30,6 +30,7 @@ Nilou: This isn't the way to the Akademiya. Better stick to the plan.
 ## Talk 7
 
 Paimon: #We might as well prepare for a fight, Traveler.
+
 Paimon: When we're done, we can take a walk around. After all, we missed out on a lot of stuff when we were locked up.
 
 ## Talk 8
@@ -44,11 +45,20 @@ Sheikh Zubayr: Always remember that your safety comes first. Don't forget that y
 
 Paimon: Aargh, don't lock us up! Let us out!
 Paimon: Waaah!
-Traveler: ...That's enough, Paimon.
+    Option 1:
+        Traveler: ...That's enough, Paimon.
+    Option 2:
+        Traveler: I don't think the guards can hear us anymore.
 Paimon: Oh yeah, hehe... Paimon got a bit carried away there. How was Paimon's acting just now? Great, huh?
-Traveler: Marvelous.
+    Option 1:
+        Traveler: Marvelous.
+    Option 2:
+        Traveler: Not bad, but worse than mine.
 Paimon: Hehe, everything's going according to plan so far! We made it into confinement, and Alhaitham's probably done with his part, too.
-Traveler: That was close.
+    Option 1:
+        Traveler: That was close.
+    Option 2:
+        Traveler: We can relax for the time being.
 Paimon: We even managed to trick Grand Sage Azar. Alhaitham sure knows how to cook up a plan.
 Paimon: What are we doing next? Paimon has trouble remembering things when she's worked up...
 Traveler: Let's review what we discussed during our strategy meeting.
@@ -70,15 +80,16 @@ Alhaitham: I'll work with Rahman's scholars to make some modifications to your A
 Alhaitham: However, as for whether she'll actually wake up... That will depend on our luck.
 Paimon: Oh~ No wonder you've been wearing your Akasha Terminal today. It's the one that Alhaitham modified.
 Paimon: Paimon thought they'd take our Akasha Terminals when they locked us up in here. Hmm, were they being careless?
-Traveler: That wasn't because of carelessness, but of their arrogance.
+    Option 1:
+        Traveler: That wasn't because of carelessness, but of their arrogance.
+    Option 2:
+        Traveler: They think the Akasha is completely under their control.
 Paimon: Alright, so what now?
-Traveler: We first need to find the place with the best signal in this room.
+    Option 1:
+        Traveler: We first need to find the place with the best signal in this room.
+    Option 2:
+        Traveler: Then we try to connect with Nahida.
 Paimon: Sounds easy enough. We can finally talk with Nahida after all this time... Let's do it!
-Traveler: Then we try to connect with Nahida.
-Traveler: They think the Akasha is completely under their control.
-Traveler: We can relax for the time being.
-Traveler: Not bad, but worse than mine.
-Traveler: I don't think the guards can hear us anymore.
 
 ## Talk 11
 
@@ -115,8 +126,10 @@ Mir: Uh... Okay, as long as you're happy.
 ## Talk 18
 
 Paimon: Eh, is this the right spot? Are you getting anything?
-Traveler: It's faint, but...I have a signal.
-Traveler: Preparing to connect with her consciousness now.
+    Option 1:
+        Traveler: It's faint, but...I have a signal.
+    Option 2:
+        Traveler: Preparing to connect with her consciousness now.
 Paimon: Aah, please work!
 Traveler: (Is this... a realm of consciousness?)
 Traveler: (Nahida's not moving. She really has sealed off her consciousness... I need to think of a way to wake her up.)
@@ -130,13 +143,7 @@ Nahida: ...
 Traveler: !!
 Traveler: !!
 Nahida: ...When did it first start?
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...Oh, right. It started from the moment I was born.
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I've kept studying...
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I can catch up...
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But, I'm stuck in the Sanctuary of Surasthana...
+[Missing Dialog 30221017]
 
 Traveler: Nahida!!!
 Traveler: (What now... Is there really nothing I can do?)
@@ -144,9 +151,7 @@ Traveler: (But... she's right here in front of me. I can't just give up like thi
 Traveler: (I had already left her behind once when The Doctor first appeared. I can't do that again...)
 Traveler: Nahida!!!
 Nahida: ...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's... so quiet here.
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Do archons have them?
+[Missing Dialog 30221033]
 
 Nahida: ...
 Nahida: It's... so quiet here.
@@ -154,7 +159,7 @@ Greater Lord Rukkhadevata (???): Since you're the God of Wisdom...
 Greater Lord Rukkhadevata (???): You've known the answers to all these questions since the very beginning, haven't you?
 Nahida: Who... are you? Whose voice is that? It sounds familiar...
 Greater Lord Rukkhadevata (???): ...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...You're right, though.
+[Missing Dialog 30221046]
 
 Traveler: !!
 Traveler: !!
@@ -168,13 +173,43 @@ Nahida: When I think of everything that's happened to me, I feel really angry no
 Traveler: ...
 Traveler: ...You should've been angry ages ago.
 Paimon: #Eh? Oh, you're back, Traveler. How's everything?
-Traveler: We're done here.
-Traveler: Nahida is awake.
+    Option 1:
+        Traveler: We're done here.
+    Option 2:
+        Traveler: Nahida is awake.
 Paimon: That's wonderful news! Great, we weren't locked up for nothing!
 Paimon: When you went to wake up Nahida, Paimon was listening for any sounds outside.
 Paimon: You were out for a long time... There are fewer and fewer scholars going about now. You think everyone's done with their Jnagarbha Day stuff?
 Traveler: I guess they finished entering all the Knowledge Capsules.
 Paimon: Yep, so that means our next act is... Nilou's performance!
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...Oh, right. It started from the moment I was born.
+
+[Missing Dialog 30229910]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I've kept studying...
+
+[Missing Dialog 30229912]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I can catch up...
+
+[Missing Dialog 30229915]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But, I'm stuck in the Sanctuary of Surasthana...
+
+[Missing Dialog 30229917]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's... so quiet here.
+
+[Missing Dialog 30229920]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Do archons have them?
+
+[Missing Dialog 30229922]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...You're right, though.
+
+[Missing Dialog 30229933]
 
 ## Talk 19
 
@@ -254,15 +289,24 @@ Observe the unconscious guards...: (If they were escorting someone before being 
 
 Paimon: #Ehhh, did you hear that, Traveler? It sounds like a lot of guards just ran by.
 Paimon: Does this mean the plan has moved onto the next stage?
-Traveler: Certainly sounds like it.
+    Option 1:
+        Traveler: Certainly sounds like it.
+    Option 2:
+        Traveler: It sounds like Nilou completed her task.
 Paimon: Yep yep! It's great that everything seems to be going well.
 Paimon: Come to think of it, when did Alhaitham replace the Knowledge Capsule that was about to be entered into the Akasha?
-Traveler: When he pretended that he had been corrupted...
+    Option 1:
+        Traveler: When he pretended that he had been corrupted...
+    Option 2:
+        Traveler: Do you remember when he rushed towards the Grand Sage?
 Paimon: Oh, so that's when he did it!
 Paimon: Paimon was too nervous to notice.
 Paimon: Speaking of, didn't Alhaitham also yoink the Divine Knowledge Capsule from that mercenary leader in Port Ormos when everyone else was distracted?
 Paimon: It's a time-tested trick of his...
-Traveler: He can maintain his composure when things get chaotic.
+    Option 1:
+        Traveler: He can maintain his composure when things get chaotic.
+    Option 2:
+        Traveler: That's why he can pull off this kind of thing...
 Paimon: Hmph. Why are we complimenting him? Yeah, he's smart and all, but he still makes Paimon's blood boil!
 Paimon: Let's review our plan for this stage again! It's not like we have anything else to do right now anyway, and it'll help us feel more confident.
 Paimon: Paimon remembers that Nilou's task was supposed to go a bit like this...
@@ -288,9 +332,6 @@ Dehya: Nilou of Zubayr Theater. I know her really well. We can trust her.
 Dehya: I'm kinda hesitant to ask her to participate in a dangerous plan like this, but we can ask her in person.
 Alhaitham: Alright. After the guards in the Akademiya are gone...
 Dehya: Then it'll be time for me and my stowaway brothers to shine.
-Traveler: That's why he can pull off this kind of thing...
-Traveler: Do you remember when he rushed towards the Grand Sage?
-Traveler: It sounds like Nilou completed her task.
 
 ## Talk 32
 
@@ -487,7 +528,10 @@ Cyno: You once said that I had no standing to judge you. So now, how about judgm
 
 Paimon: Hmm... How long do we have to wait? Paimon wants to know how things are going out there!
 Paimon: Paimon hasn't heard any sounds outside for a while. Hopefully something bad didn't happen...
-Traveler: Don't think like that.
+    Option 1:
+        Traveler: Don't think like that.
+    Option 2:
+        Traveler: We must trust our friends.
 Paimon: Yeah, but aren't you scared that we might be locked up in here for the rest of our lives?
 Paimon: Thinking about it, at least Paimon has you. We can still chat like this...
 Paimon: When Paimon thinks of Nahida being imprisoned alone in the Sanctuary of Surasthana, Paimon can't help but feel sorry for her...
@@ -499,7 +543,10 @@ Paimon: Thanks a lot. Need Paimon to rub your shoulders?
 Dehya: Uh... No, no, that's... Er, I'll pass.
 Paimon: What are you afraid of? Oh, are you ticklish?
 Dehya: Ugh, now isn't the time to talk about being ticklish...
-Traveler: How are things going outside?
+    Option 1:
+        Traveler: How are things going outside?
+    Option 2:
+        Traveler: How's Nahida?
 Dehya: Things in the city and on Cyno's side are both going well. The guards that stormed out of the Akademiya are all taken care of.
 Dehya: The Corps of Thirty is in charge of the city's defenses, but we already talked to Asfand. They've been fed up with the sages bossing them around.
 Dehya: As long as it doesn't break their employment contracts, they'll turn a blind eye.
@@ -508,12 +555,12 @@ Dehya: The Grand Sage is in his custody. Even I know how terrible it is to fall 
 Dehya: Cyno forced him to release Lesser Lord Kusanali. He has no choice but to obey.
 Dehya: So, hurry to the Sanctuary of Surasthana. Assuming nothing weird happened...
 Dehya: ...We should've already rescued our archon.
-Traveler: That all sounds amazing.
+    Option 1:
+        Traveler: That all sounds amazing.
+    Option 2:
+        Traveler: We managed to rescue her!
 Dehya: Honestly, I didn't expect our ragtag bunch to do this well. We just came together last minute to save the archon, you know?
 Dehya: All right, you two better go. I still have to clean up some messes in the city. See you around.
-Traveler: We managed to rescue her!
-Traveler: How's Nahida?
-Traveler: We must trust our friends.
 
 ## Talk 44
 
@@ -536,14 +583,20 @@ Nahida: This is the first time we've met in real life. Before, we've only met in
 Traveler: We finally meet, Nahida.
 Nahida: Thank you so much for coming to rescue me, but I also need to apologize...
 Nahida: During this time, I did some self-reflection. My sense of inferiority and yielding to the Akademiya led to all of this, and created so much trouble for you all.
-Traveler: Don't worry about it. You've also helped us a lot.
+    Option 1:
+        Traveler: Don't worry about it. You've also helped us a lot.
+    Option 2:
+        Traveler: You deserved to be freed.
 Paimon: Exactly! We're here because you're a good archon and one of our friends.
 Nahida: Hehe... Thanks, you two.
 Nahida: Whew... Amazing, so this is how it feels to walk out of that cage with my own body.
 Nahida: It's like I just had an endlessly long dream... I can't even tell if I just woke up or was only now born into this world.
 Nahida: My concept of "self" has become so clear...
 Nahida: But now doesn't seem to be the time to indulge in this feeling.
-Traveler: The Akademiya's god creation plan...
+    Option 1:
+        Traveler: The Akademiya's god creation plan...
+    Option 2:
+        Traveler: Saving Irminsul...
 Nahida: Um, this is really embarrassing. You all just rescued an archon, and now she needs your help to save her country, and even the entire world.
 Paimon: It's okay. With you here, Paimon's sure that everything will work out!
 Nahida: There's one more thing...
@@ -562,8 +615,6 @@ Nahida: After that, I'll make some adjustments and revoke the sages' permissions
 Nahida: ...After all, the Akademiya betrayed Greater Lord Rukkhadevata's trust.
 Nahida: This might take some time. In the meantime, you should also work on your own preparations.
 Nahida: If we don't stop the god creation plan in time, we'll be in for a tough fight.
-Traveler: Saving Irminsul...
-Traveler: You deserved to be freed.
 
 ## Talk 48
 
@@ -581,8 +632,10 @@ Traveler: You deserved to be freed.
 ### Additional Talk 1
 
 Paimon: Eh, is this the right spot? Are you getting anything?
-Traveler: It's faint, but...I have a signal.
-Traveler: Preparing to connect with her consciousness now.
+    Option 1:
+        Traveler: It's faint, but...I have a signal.
+    Option 2:
+        Traveler: Preparing to connect with her consciousness now.
 Paimon: Aah, please work!
 Traveler: (Is this... a realm of consciousness?)
 Traveler: (Nahida's not moving. She really has sealed off her consciousness... I need to think of a way to wake her up.)
@@ -596,13 +649,7 @@ Nahida: ...
 Traveler: !!
 Traveler: !!
 Nahida: ...When did it first start?
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...Oh, right. It started from the moment I was born.
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I've kept studying...
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I can catch up...
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But, I'm stuck in the Sanctuary of Surasthana...
+[Missing Dialog 30221017]
 
 Traveler: Nahida!!!
 Traveler: (What now... Is there really nothing I can do?)
@@ -610,9 +657,7 @@ Traveler: (But... she's right here in front of me. I can't just give up like thi
 Traveler: (I had already left her behind once when The Doctor first appeared. I can't do that again...)
 Traveler: Nahida!!!
 Nahida: ...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's... so quiet here.
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Do archons have them?
+[Missing Dialog 30221033]
 
 Nahida: ...
 Nahida: It's... so quiet here.
@@ -620,7 +665,7 @@ Greater Lord Rukkhadevata (???): Since you're the God of Wisdom...
 Greater Lord Rukkhadevata (???): You've known the answers to all these questions since the very beginning, haven't you?
 Nahida: Who... are you? Whose voice is that? It sounds familiar...
 Greater Lord Rukkhadevata (???): ...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...You're right, though.
+[Missing Dialog 30221046]
 
 Traveler: !!
 Traveler: !!
@@ -634,27 +679,66 @@ Nahida: When I think of everything that's happened to me, I feel really angry no
 Traveler: ...
 Traveler: ...You should've been angry ages ago.
 Paimon: #Eh? Oh, you're back, Traveler. How's everything?
-Traveler: We're done here.
-Traveler: Nahida is awake.
+    Option 1:
+        Traveler: We're done here.
+    Option 2:
+        Traveler: Nahida is awake.
 Paimon: That's wonderful news! Great, we weren't locked up for nothing!
 Paimon: When you went to wake up Nahida, Paimon was listening for any sounds outside.
 Paimon: You were out for a long time... There are fewer and fewer scholars going about now. You think everyone's done with their Jnagarbha Day stuff?
 Traveler: I guess they finished entering all the Knowledge Capsules.
 Paimon: Yep, so that means our next act is... Nilou's performance!
 
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...Oh, right. It started from the moment I was born.
+
+[Missing Dialog 30229910]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I've kept studying...
+
+[Missing Dialog 30229912]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): So I can catch up...
+
+[Missing Dialog 30229915]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But, I'm stuck in the Sanctuary of Surasthana...
+
+[Missing Dialog 30229917]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's... so quiet here.
+
+[Missing Dialog 30229920]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Do archons have them?
+
+[Missing Dialog 30229922]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): ...You're right, though.
+
+[Missing Dialog 30229933]
+
 ### Additional Talk 2
 
 Paimon: #Ehhh, did you hear that, Traveler? It sounds like a lot of guards just ran by.
 Paimon: Does this mean the plan has moved onto the next stage?
-Traveler: Certainly sounds like it.
+    Option 1:
+        Traveler: Certainly sounds like it.
+    Option 2:
+        Traveler: It sounds like Nilou completed her task.
 Paimon: Yep yep! It's great that everything seems to be going well.
 Paimon: Come to think of it, when did Alhaitham replace the Knowledge Capsule that was about to be entered into the Akasha?
-Traveler: When he pretended that he had been corrupted...
+    Option 1:
+        Traveler: When he pretended that he had been corrupted...
+    Option 2:
+        Traveler: Do you remember when he rushed towards the Grand Sage?
 Paimon: Oh, so that's when he did it!
 Paimon: Paimon was too nervous to notice.
 Paimon: Speaking of, didn't Alhaitham also yoink the Divine Knowledge Capsule from that mercenary leader in Port Ormos when everyone else was distracted?
 Paimon: It's a time-tested trick of his...
-Traveler: He can maintain his composure when things get chaotic.
+    Option 1:
+        Traveler: He can maintain his composure when things get chaotic.
+    Option 2:
+        Traveler: That's why he can pull off this kind of thing...
 Paimon: Hmph. Why are we complimenting him? Yeah, he's smart and all, but he still makes Paimon's blood boil!
 Paimon: Let's review our plan for this stage again! It's not like we have anything else to do right now anyway, and it'll help us feel more confident.
 Paimon: Paimon remembers that Nilou's task was supposed to go a bit like this...
@@ -680,6 +764,3 @@ Dehya: Nilou of Zubayr Theater. I know her really well. We can trust her.
 Dehya: I'm kinda hesitant to ask her to participate in a dangerous plan like this, but we can ask her in person.
 Alhaitham: Alright. After the guards in the Akademiya are gone...
 Dehya: Then it'll be time for me and my stowaway brothers to shine.
-Traveler: That's why he can pull off this kind of thing...
-Traveler: Do you remember when he rushed towards the Grand Sage?
-Traveler: It sounds like Nilou completed her task.

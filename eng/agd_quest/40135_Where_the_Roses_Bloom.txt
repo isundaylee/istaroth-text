@@ -91,6 +91,8 @@ Morris: ...
 
 ## Talk 12
 
+Morris: ...
+
 Yoimiya: Wait, what's going on? This wasn't in the script!
 Chevreuse: Drop the gun, Veronique!
 Veronique: ...Why? Why would you keep me from exacting revenge on this heartless monster?
@@ -123,7 +125,6 @@ Paimon: Huh? Two children? Paimon thought Baptiste was the only... Ah! You mean.
 Chevreuse: Even if she had the children against your will, you could have just ignored her letter entirely. Why kill her?
 Morris: I had just gotten engaged to be married to an heiress from another wealthy family, so if anyone were to find out about Elisa, my life would be completely ruined! I didn't have a choice!
 Chevreuse: No... you always had a choice. You just made the wrong choice, again.
-Morris: ...
 Veronique: ...Do you know how it feels to watch your mother be killed right in front of you?
 Veronique: My brother and I were hardly even school-age yet! We were hidden beneath the floorboards, grasping each other's hands like a lifeline. We were so terrified that we didn't even know when we could ever take a breath!
 Veronique: All we could do was to watch mother try to fight back, and then... collapse to the floor...
@@ -188,8 +189,10 @@ Veronique: Justice has not been delivered. At least... not today.
 Chevreuse: ...
 Paimon: Chevreuse...
 Chevreuse: Let's go. We should give an explanation to the crew.
-Traveler: Are you okay?
-Traveler: I think you made the right call.
+    Option 1:
+        Traveler: Are you okay?
+    Option 2:
+        Traveler: I think you made the right call.
 Chevreuse: Thank you for your concern. I'm fine.
 Chevreuse: I'm just thinking... About the things in life that have driven people to take justice into their own hands.
 
@@ -218,15 +221,24 @@ Furina: You should join us, Chevreuse. You missed the first few hours of the par
 Chevreuse: Alright, count me in.
 Kamisato Ayaka: Then I'll wait for you over there. There's still some good news that I'd like share with Chevreuse.
 Chevreuse: #Traveler, Paimon? Could you wait for me by the sea after the party ends? I'd like to go on a brief walk with the two of you.
-Traveler: Absolutely.
+    Option 1:
+        Traveler: Absolutely.
+    Option 2:
+        Traveler: See you then.
 Chevreuse: Thank you very much.
 Chevreuse: Sorry for the wait.
 Paimon: Oh, we weren't waiting long at all! Is there something else you wanted to tell us?
 Chevreuse: No, I don't have anything new to share. I just felt that... since you were my investigation partners, I should have another conversation with the two of you.
 Chevreuse: ...
 Chevreuse: #Traveler... how would you have responded to Baptiste's request if you were in my shoes?
-Traveler: I would have done the same as you.
-Chevreuse: Is that so... Thanks for sharing.
+    Option 1:
+        Traveler: I would have done the same as you.
+        Chevreuse: Is that so... Thanks for sharing.
+    Option 2:
+        Traveler: I would have helped him get his revenge.
+        Chevreuse: Hah... Just like the protagonist of the story, huh. Can't say it doesn't suit you.
+    Option 3:
+        Traveler: I don't know...
 Chevreuse: ...When I was young, my father often took me here to swim. We'd come, rain or shine, even when it was freezing cold.
 Chevreuse: He told me that swimming was the best activity to train one's strength of will. You could never give up before reaching the shore... especially when the water was cold.
 Paimon: Oh? Why's that?
@@ -247,10 +259,6 @@ Chevreuse: But the worse I feel, the more I know to never give up. The alternati
 Chevreuse: Anyway, how about a race? Neither of us will drown, but we can still see who swims faster?
 Traveler: I'm game.
 Paimon: Er... You guys go ahead! Paimon will grab the clapperboard to mark the start of the race...
-Traveler: I would have helped him get his revenge.
-Chevreuse: Hah... Just like the protagonist of the story, huh. Can't say it doesn't suit you.
-Traveler: I don't know...
-Traveler: See you then.
 
 ## Talk 14
 
@@ -282,8 +290,14 @@ Paimon: Oh, we weren't waiting long at all! Is there something else you wanted t
 Chevreuse: No, I don't have anything new to share. I just felt that... since you were my investigation partners, I should have another conversation with the two of you.
 Chevreuse: ...
 Chevreuse: #Traveler... how would you have responded to Baptiste's request if you were in my shoes?
-Traveler: I would have done the same as you.
-Chevreuse: Is that so... Thanks for sharing.
+    Option 1:
+        Traveler: I would have done the same as you.
+        Chevreuse: Is that so... Thanks for sharing.
+    Option 2:
+        Traveler: I would have helped him get his revenge.
+        Chevreuse: Hah... Just like the protagonist of the story, huh. Can't say it doesn't suit you.
+    Option 3:
+        Traveler: I don't know...
 Chevreuse: ...When I was young, my father often took me here to swim. We'd come, rain or shine, even when it was freezing cold.
 Chevreuse: He told me that swimming was the best activity to train one's strength of will. You could never give up before reaching the shore... especially when the water was cold.
 Paimon: Oh? Why's that?
@@ -304,20 +318,19 @@ Chevreuse: But the worse I feel, the more I know to never give up. The alternati
 Chevreuse: Anyway, how about a race? Neither of us will drown, but we can still see who swims faster?
 Traveler: I'm game.
 Paimon: Er... You guys go ahead! Paimon will grab the clapperboard to mark the start of the race...
-Traveler: I would have helped him get his revenge.
-Chevreuse: Hah... Just like the protagonist of the story, huh. Can't say it doesn't suit you.
-Traveler: I don't know...
 
 ## Talk 20
 
 Chevreuse: Thank you for coming on this walk with me. I feel a lot better after getting all that off my chest.
-Traveler: You're welcome.
+    Option 1:
+        Traveler: You're welcome.
+    Option 2:
+        Traveler: Anytime.
 Paimon: Huh!? We're nearly back at Baptiste's house!
 Chevreuse: Huh, you're right. I didn't realize we were so close.
 Paimon: He really did plant a lot of flowers. It's just like how he described it in the story.
 Chevreuse: #*gasp* Wait. Paimon, Traveler, look!
 Chevreuse: The Rainbow Roses in the garden... They're in full bloom now.
-Traveler: Anytime.
 
 ## Additional Conversations
 

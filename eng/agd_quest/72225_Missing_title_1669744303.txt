@@ -8,18 +8,23 @@ Ruu: #Traveler! Paimon! You're just in time...
 Traveler: What's the matter?
 Ku: Ow, ow, ow, think I sprained my ankle...
 Ruu: Big Brother Ku's hurt again. Could you please help us make offerings at the Perch?
-Traveler: You know, I have to admit that I expected this development...
-Paimon: Don't you worry about a thing! We've got this!
+    Option 1:
+        Traveler: You know, I have to admit that I expected this development...
+        Paimon: Don't you worry about a thing! We've got this!
+    Option 2:
+        Traveler: Leave it to me.
 Ruu: Thanks so much!
 Paimon: Ooh, right! Aren't you very sensitive to the elements and all, Ruu?
 Paimon: Why don't you do that yourself?
 Ruu: Uh... So, I did try before in previous ceremonies, but it didn't turn out so well.
-Traveler: Why did that happen?
-Ruu: I... don't know...
+    Option 1:
+        Traveler: Why did that happen?
+        Ruu: I... don't know...
+    Option 2:
+        Traveler: Then I'll do it in your stead.
+    Option 3:
+        Traveler: We'll leave the injured person to you.
 Paimon: Ah well. Guess we're handling this perch business.
-Traveler: Then I'll do it in your stead.
-Traveler: We'll leave the injured person to you.
-Traveler: Leave it to me.
 
 ## Talk 2
 
@@ -53,8 +58,11 @@ Ruu: They also say that "you must forge past obstacles three times to succeed on
 Paimon: But isn't that more like the "Rule of Four," then?
 Ruu: Huh, that's true! You're really good at numbers, Paimon!
 Paimon: Hehe, of course!
-Traveler: How is that the point?
-Paimon: Anyway, are you sure Ku will be fine?
+    Option 1:
+        Traveler: How is that the point?
+        Paimon: Anyway, are you sure Ku will be fine?
+    Option 2:
+        Traveler: How's Ku's injury, by the way?
 Ruu: Don't worry, he's always like this.
 Ku: Ugh, what an embarrassment... I just hope this won't affect the ceremony.
 Ku: I wouldn't know how to face you if it does, Ruu.
@@ -62,7 +70,6 @@ Ruu: Oh, don't be like that! You've always been so nice to me!
 Ku: ...
 Ruu: #Traveler, Paimon, you two go ahead first!
 Ruu: I'll stay here with Big Brother Ku. We'll take charge of the cleanup work once you're done with the offering!
-Traveler: How's Ku's injury, by the way?
 
 ## Talk 6
 

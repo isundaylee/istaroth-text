@@ -14,7 +14,10 @@ Traveler: ...
 Traveler: Paimon, it's fine, I sleep with my eyes closed.
 Paimon: Yeah, that's why you couldn't see that the sun's in your eyes!
 Kaedehara Kazuha: #I trust you slept well, Traveler?
-Traveler: Well enough.
+    Option 1:
+        Traveler: Well enough.
+    Option 2:
+        Traveler: I slept great!
 Kaedehara Kazuha: Sounds like the same story for everyone. I got up first today, so I took a walk around and picked some fruits for our breakfast.
 Paimon: And Paimon's been waiting for you to get up so she can finally dig in!
 Black Screen Text: You all enjoy breakfast together and get chatting...
@@ -42,7 +45,6 @@ Kaedehara Kazuha: ...I've also had a time like that in my life, so I understand 
 Xinyan: I agree. Still, it's a pity for today's adventure. Adventuring is always more fun when everyone's together.
 Paimon: Xinyan always has great team spirit...
 Xinyan: #Oh, one other thing. This morning, we saw a mirage on the island in the north. We can go take a look once you're done with your breakfast, Traveler.
-Traveler: I slept great!
 
 ## Talk 3
 
@@ -80,16 +82,18 @@ Paimon: Hmm, that makes sense. Alright, let's go then, but let's also make sure 
 ## Talk 6
 
 Mona: The door is locked.
-Traveler: Mona, do that thing where you turn into water, and slide under!
-Mona: Keep your nonsense to yourself, thank you very much.
+    Option 1:
+        Traveler: Mona, do that thing where you turn into water, and slide under!
+        Mona: Keep your nonsense to yourself, thank you very much.
+    Option 2:
+        Traveler: Kazuha, lift yourself into the air and jump over it!
+        Kaedehara Kazuha: ...Let's keep thinking this through.
 Paimon: Xinyan, why did you lock the door?
 Xinyan: You'd think I'd know this... Haha...
 Xinyan: Oh, actually... I usually put my key under the flower pot next to the door. So... maybe the key is nearby.
 Paimon: Oh! Is there a flower pot around here?
 Traveler: There are no pots, but there is... a flower.
 Xinyan: I guess it's worth a shot.
-Traveler: Kazuha, lift yourself into the air and jump over it!
-Kaedehara Kazuha: ...Let's keep thinking this through.
 
 ## Talk 7
 
@@ -109,7 +113,10 @@ Paimon: Wow, that flower is huuuge!
 Mona: It's so hot here... is it because of that flower?
 Blazing Heart: Heck yeah, I wasn't expecting visitors.
 Paimon: Aaaah!!! It talks!
-Traveler: So did the squirrel from yesterday.
+    Option 1:
+        Traveler: So did the squirrel from yesterday.
+    Option 2:
+        Traveler: So did the boat from yesterday.
 Paimon: Paimon knows! But this is different!
 Xinyan: Hi, we touched those drum-like plants growing on the beach outside, and were transported here. Are you the owner of this place?
 Blazing Heart: This is the hall of music, and I'm merely its gatekeeper. Tell me, my friends, are you here to pursue the ultimate expression of music?
@@ -131,7 +138,6 @@ Paimon: You mean we have to go hiking? Oh, Paimon thought some seawater would be
 Mona: Spring water and seawater could not be more dissimilar.
 Blazing Heart: Oh, but you may need my powers in order to see the spring. Give me your hand, friend, so that you can see through my eyes.
 Xinyan: Thanks! You shook my hand — guess that makes this friendship official!
-Traveler: So did the boat from yesterday.
 
 ## Talk 13
 

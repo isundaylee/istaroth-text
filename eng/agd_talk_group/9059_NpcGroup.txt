@@ -11,26 +11,35 @@ Traveler: How do you like it here?
 Shikanoin Heizou: Hehe, thanks for looking out for me.
 Shikanoin Heizou: But no need to worry, I'd say the peace and quiet you have here makes it an even better vacation spot than Watatsumi Island.
 Shikanoin Heizou: Too bad there are no cases to crack, though... It's almost too serene. Lacks a little intrigue.
-Traveler: I'm sorry about that...
-Shikanoin Heizou: Oh — no no, that's my problem. Gah, look at me, making you feel bad...
-Shikanoin Heizou: ...Hey, I have an idea! I think it'll give me a chance to redeem myself and serve as something fun to do.
+    Option 1:
+        Traveler: I'm sorry about that...
+        Shikanoin Heizou: Oh — no no, that's my problem. Gah, look at me, making you feel bad...
+        Shikanoin Heizou: ...Hey, I have an idea! I think it'll give me a chance to redeem myself and serve as something fun to do.
+    Option 2:
+        Traveler: Is there anything I can do for you?
+        Shikanoin Heizou: Oh? Well, I guess there is one thing.
 Shikanoin Heizou: Let's play a little game of mine!
 Shikanoin Heizou: Here's how it works: After you return here each day, I'll try to guess what you did that day, what you ate... even who you saw.
 Shikanoin Heizou: If I win, you'll think of something to do for me. But, if I lose, then I'll treat you to the best Kushikatsu place I know. How's that sound?
-Traveler: Is there anything I can do for you?
-Shikanoin Heizou: Oh? Well, I guess there is one thing.
 
 ## Talk 2
 
 Traveler: Would you like to have a chat with me?
 Shikanoin Heizou: Sure, of course! I've actually been waiting to give you a taste of the old Heizou treatment.
-Traveler: Wait... a taste of what now?
+    Option 1:
+        Traveler: Wait... a taste of what now?
+    Option 2:
+        Traveler: Is that a dressing down... or a beatdown?
 Shikanoin Heizou: Haha, no no no no, you've got it all wrong. You see, I've been hanging around here for a while now.
 Shikanoin Heizou: And whether it's from the more obvious details like the style and arrangement of your space, or the more subtle details like the type of decorations you've set out... Just by looking around, I've already gathered a lot of info about you.
 Shikanoin Heizou: I have deduced that not all the arrangements here is based on your personal taste, no... on the contrary, some of it is intentionally done with visiting friends in mind.
 Shikanoin Heizou: As for what led me to this conclusion...
-Traveler: Amazing! You really are quite the detective.
-Shikanoin Heizou: Oh? Using a compliment to change the subject, are we?
+    Option 1:
+        Traveler: Amazing! You really are quite the detective.
+        Shikanoin Heizou: Oh? Using a compliment to change the subject, are we?
+    Option 2:
+        Traveler: I want to gather info about you, too!
+        Shikanoin Heizou: Oh? Trying to change the subject, are we?
 Shikanoin Heizou: It appears you have some secrets that you'd prefer to leave unspoken.
 Shikanoin Heizou: In that case, let me start by telling you about myself. Now, where to begin...
 Shikanoin Heizou: You've already heard about who I am and who my connections are. And I'm sure you know my general likes and dislikes after all this time together...
@@ -42,9 +51,6 @@ Shikanoin Heizou: People have this real... glow about them when they're doing so
 Shikanoin Heizou: That's why I strive to keep those people safe from anyone looking to take advantage. Call me crazy, but when I see something beautiful, I wanna keep it that way.
 Shikanoin Heizou: By the way, you've got that spark in you too. It's hit me a few times in our time together, I could genuinely feel it.
 Shikanoin Heizou: Shh! That's my weakness, okay? So be sure to keep this one top-secret.
-Traveler: I want to gather info about you, too!
-Shikanoin Heizou: Oh? Trying to change the subject, are we?
-Traveler: Is that a dressing down... or a beatdown?
 
 ## Talk 3
 
@@ -55,25 +61,34 @@ Traveler: Are you going to arrest a criminal?
 Shikanoin Heizou: Excellent question! But naturally, the answer is no. I'll leave that task of apprehending criminals to colleagues who specialize in that kind of thing.
 Shikanoin Heizou: Actually, I was thinking of visiting the relatives of some convicted criminals. Some of them are elderly folks, some of them are just kids.
 Shikanoin Heizou: It was my conclusive evidence that landed their relatives in prison. If it wasn't for me, then they wouldn't be left all on their own now...
-Traveler: You shouldn't feel guilty about that...
-Shikanoin Heizou: Haha, don't worry. I know very well that the criminal is the one who should feel guilty.
-Shikanoin Heizou: Catching the culprit is what Detective Heizou is all about.
-Shikanoin Heizou: But when it comes to regrets... *sigh* I only regret that I couldn't stop the tragedy by nipping the crime in the bud.
-Shikanoin Heizou: For now, while the criminals are serving their time at correctional facilities, I'll help look after their families.
+    Option 1:
+        Traveler: You shouldn't feel guilty about that...
+        Shikanoin Heizou: Haha, don't worry. I know very well that the criminal is the one who should feel guilty.
+        Shikanoin Heizou: Catching the culprit is what Detective Heizou is all about.
+        Shikanoin Heizou: But when it comes to regrets... *sigh* I only regret that I couldn't stop the tragedy by nipping the crime in the bud.
+        Shikanoin Heizou: For now, while the criminals are serving their time at correctional facilities, I'll help look after their families.
+    Option 2:
+        Traveler: Wow, you really care a lot for them...
+        Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
+        Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
+        Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.
+    Option 3:
+        Traveler: Wow, you really care a lot for them...
+        Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
+        Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
+        Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.
 Shikanoin Heizou: After all, speaking just as plain old Heizou here, I'm a firm believer in helping those in need and being kind to other people.
-Traveler: So you're gonna go pay them a visit with some gifts?
-Shikanoin Heizou: Oh no, that wouldn't work out well. Tensions tend to rise the moment they see my face. There's a chance they would even start throwing punches at me.
-Shikanoin Heizou: You see, my intention is to just show them some care, so it's better not to reopen any old wounds.
-Shikanoin Heizou: Better if I just leave the items with a letter on their doorstep.
+    Option 1:
+        Traveler: So you're gonna go pay them a visit with some gifts?
+        Shikanoin Heizou: Oh no, that wouldn't work out well. Tensions tend to rise the moment they see my face. There's a chance they would even start throwing punches at me.
+        Shikanoin Heizou: You see, my intention is to just show them some care, so it's better not to reopen any old wounds.
+        Shikanoin Heizou: Better if I just leave the items with a letter on their doorstep.
+    Option 2:
+        Traveler: Or were you just gonna leave the stuff on their doorstep?
+        Shikanoin Heizou: Hehe, as my partner, I knew you'd catch on. You're already thinking a step ahead before I've explained anything.
+        Shikanoin Heizou: With the way we understand each other, it'd be waste of time to elaborate.
 Shikanoin Heizou: Anyway, we'll leave once you're ready.
 Shikanoin Heizou: My intuition tells me that with you coming along, this will be the smoothest and most enjoyable trip yet.
-Traveler: Or were you just gonna leave the stuff on their doorstep?
-Shikanoin Heizou: Hehe, as my partner, I knew you'd catch on. You're already thinking a step ahead before I've explained anything.
-Shikanoin Heizou: With the way we understand each other, it'd be waste of time to elaborate.
-Traveler: Wow, you really care a lot for them...
-Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
-Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
-Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.
 
 ## Talk 4
 
@@ -105,26 +120,35 @@ Traveler: How do you like it here?
 Shikanoin Heizou: Hehe, thanks for looking out for me.
 Shikanoin Heizou: But no need to worry, I'd say the peace and quiet you have here makes it an even better vacation spot than Watatsumi Island.
 Shikanoin Heizou: Too bad there are no cases to crack, though... It's almost too serene. Lacks a little intrigue.
-Traveler: I'm sorry about that...
-Shikanoin Heizou: Oh — no no, that's my problem. Gah, look at me, making you feel bad...
-Shikanoin Heizou: ...Hey, I have an idea! I think it'll give me a chance to redeem myself and serve as something fun to do.
+    Option 1:
+        Traveler: I'm sorry about that...
+        Shikanoin Heizou: Oh — no no, that's my problem. Gah, look at me, making you feel bad...
+        Shikanoin Heizou: ...Hey, I have an idea! I think it'll give me a chance to redeem myself and serve as something fun to do.
+    Option 2:
+        Traveler: Is there anything I can do for you?
+        Shikanoin Heizou: Oh? Well, I guess there is one thing.
 Shikanoin Heizou: Let's play a little game of mine!
 Shikanoin Heizou: Here's how it works: After you return here each day, I'll try to guess what you did that day, what you ate... even who you saw.
 Shikanoin Heizou: If I win, you'll think of something to do for me. But, if I lose, then I'll treat you to the best Kushikatsu place I know. How's that sound?
-Traveler: Is there anything I can do for you?
-Shikanoin Heizou: Oh? Well, I guess there is one thing.
 
 ## Talk 9
 
 Traveler: Would you like to have a chat with me?
 Shikanoin Heizou: Sure, of course! I've actually been waiting to give you a taste of the old Heizou treatment.
-Traveler: Wait... a taste of what now?
+    Option 1:
+        Traveler: Wait... a taste of what now?
+    Option 2:
+        Traveler: Is that a dressing down... or a beatdown?
 Shikanoin Heizou: Haha, no no no no, you've got it all wrong. You see, I've been hanging around here for a while now.
 Shikanoin Heizou: And whether it's from the more obvious details like the style and arrangement of your space, or the more subtle details like the type of decorations you've set out... Just by looking around, I've already gathered a lot of info about you.
 Shikanoin Heizou: I have deduced that not all the arrangements here is based on your personal taste, no... on the contrary, some of it is intentionally done with visiting friends in mind.
 Shikanoin Heizou: As for what led me to this conclusion...
-Traveler: Amazing! You really are quite the detective.
-Shikanoin Heizou: Oh? Using a compliment to change the subject, are we?
+    Option 1:
+        Traveler: Amazing! You really are quite the detective.
+        Shikanoin Heizou: Oh? Using a compliment to change the subject, are we?
+    Option 2:
+        Traveler: I want to gather info about you, too!
+        Shikanoin Heizou: Oh? Trying to change the subject, are we?
 Shikanoin Heizou: It appears you have some secrets that you'd prefer to leave unspoken.
 Shikanoin Heizou: In that case, let me start by telling you about myself. Now, where to begin...
 Shikanoin Heizou: You've already heard about who I am and who my connections are. And I'm sure you know my general likes and dislikes after all this time together...
@@ -136,9 +160,6 @@ Shikanoin Heizou: People have this real... glow about them when they're doing so
 Shikanoin Heizou: That's why I strive to keep those people safe from anyone looking to take advantage. Call me crazy, but when I see something beautiful, I wanna keep it that way.
 Shikanoin Heizou: By the way, you've got that spark in you too. It's hit me a few times in our time together, I could genuinely feel it.
 Shikanoin Heizou: Shh! That's my weakness, okay? So be sure to keep this one top-secret.
-Traveler: I want to gather info about you, too!
-Shikanoin Heizou: Oh? Trying to change the subject, are we?
-Traveler: Is that a dressing down... or a beatdown?
 
 ## Talk 10
 
@@ -149,22 +170,31 @@ Traveler: Are you going to arrest a criminal?
 Shikanoin Heizou: Excellent question! But naturally, the answer is no. I'll leave that task of apprehending criminals to colleagues who specialize in that kind of thing.
 Shikanoin Heizou: Actually, I was thinking of visiting the relatives of some convicted criminals. Some of them are elderly folks, some of them are just kids.
 Shikanoin Heizou: It was my conclusive evidence that landed their relatives in prison. If it wasn't for me, then they wouldn't be left all on their own now...
-Traveler: You shouldn't feel guilty about that...
-Shikanoin Heizou: Haha, don't worry. I know very well that the criminal is the one who should feel guilty.
-Shikanoin Heizou: Catching the culprit is what Detective Heizou is all about.
-Shikanoin Heizou: But when it comes to regrets... *sigh* I only regret that I couldn't stop the tragedy by nipping the crime in the bud.
-Shikanoin Heizou: For now, while the criminals are serving their time at correctional facilities, I'll help look after their families.
+    Option 1:
+        Traveler: You shouldn't feel guilty about that...
+        Shikanoin Heizou: Haha, don't worry. I know very well that the criminal is the one who should feel guilty.
+        Shikanoin Heizou: Catching the culprit is what Detective Heizou is all about.
+        Shikanoin Heizou: But when it comes to regrets... *sigh* I only regret that I couldn't stop the tragedy by nipping the crime in the bud.
+        Shikanoin Heizou: For now, while the criminals are serving their time at correctional facilities, I'll help look after their families.
+    Option 2:
+        Traveler: Wow, you really care a lot for them...
+        Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
+        Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
+        Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.
+    Option 3:
+        Traveler: Wow, you really care a lot for them...
+        Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
+        Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
+        Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.
 Shikanoin Heizou: After all, speaking just as plain old Heizou here, I'm a firm believer in helping those in need and being kind to other people.
-Traveler: So you're gonna go pay them a visit with some gifts?
-Shikanoin Heizou: Oh no, that wouldn't work out well. Tensions tend to rise the moment they see my face. There's a chance they would even start throwing punches at me.
-Shikanoin Heizou: You see, my intention is to just show them some care, so it's better not to reopen any old wounds.
-Shikanoin Heizou: Better if I just leave the items with a letter on their doorstep.
+    Option 1:
+        Traveler: So you're gonna go pay them a visit with some gifts?
+        Shikanoin Heizou: Oh no, that wouldn't work out well. Tensions tend to rise the moment they see my face. There's a chance they would even start throwing punches at me.
+        Shikanoin Heizou: You see, my intention is to just show them some care, so it's better not to reopen any old wounds.
+        Shikanoin Heizou: Better if I just leave the items with a letter on their doorstep.
+    Option 2:
+        Traveler: Or were you just gonna leave the stuff on their doorstep?
+        Shikanoin Heizou: Hehe, as my partner, I knew you'd catch on. You're already thinking a step ahead before I've explained anything.
+        Shikanoin Heizou: With the way we understand each other, it'd be waste of time to elaborate.
 Shikanoin Heizou: Anyway, we'll leave once you're ready.
 Shikanoin Heizou: My intuition tells me that with you coming along, this will be the smoothest and most enjoyable trip yet.
-Traveler: Or were you just gonna leave the stuff on their doorstep?
-Shikanoin Heizou: Hehe, as my partner, I knew you'd catch on. You're already thinking a step ahead before I've explained anything.
-Shikanoin Heizou: With the way we understand each other, it'd be waste of time to elaborate.
-Traveler: Wow, you really care a lot for them...
-Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
-Shikanoin Heizou: But once the case is solved, the criminal's family are the ones who will face public ridicule and discrimination.
-Shikanoin Heizou: Of course, it's my hope that they can move on from the events of the case sooner rather than later and just continue on with their lives.

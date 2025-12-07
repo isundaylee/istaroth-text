@@ -94,8 +94,12 @@ Azariq: Think about it! If we possess her power, we'll be able to recreate verda
 Azariq: Once we finish this quest, Matriarch Babel will recognize your contributions by appointing you her successor, and your outlander friend will also be rewarded accordingly.
 Azariq: Everyone wins here. You, me... and of course, your friend.
 Azariq: You'd agree with me too, wouldn't you, outlander?
-Traveler: I wouldn't be so sure.
-Paimon: Liloupar doesn't seem to like you much. Paimon doubts she'd come with you!
+    Option 1:
+        Traveler: I wouldn't be so sure.
+        Paimon: Liloupar doesn't seem to like you much. Paimon doubts she'd come with you!
+    Option 2:
+        Traveler: I respect Liloupar's decision.
+        Paimon: Yeah, although, uh... she looks like a bottle right now, you should've asked for her consent first.
 Liloupar: Hehe, well said. But allow me to remind you: the contract between my Master and I can only be broken by death.
 Azariq: You are right. My apologies.
 Jeht: ...!
@@ -117,8 +121,6 @@ Jeht: So what? The only reason I've let you live till now is that you never did 
 Azariq: I suggest you calm yourself down. We can still talk. There's no need to resort to violence.
 Jeht: I am calm! Pick up your blade!
 Azariq: *sigh* I didn't expect things would go this far... I can only hope you will forgive me.
-Traveler: I respect Liloupar's decision.
-Paimon: Yeah, although, uh... she looks like a bottle right now, you should've asked for her consent first.
 
 ## Talk 18
 
@@ -142,12 +144,14 @@ Azariq: Ha... Or what? Are you... *gasp* willing to be the first member of our t
 Black Screen Text: "The one who fails to return alive is the traitor... or so you just told me."
 Says Jeht.
 Paimon: ...!
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: Are you alright, Jeht?
+        Jeht: No. I... want to throw up, actually.
 Liloupar: Ahem. I understand if you may wish to mourn for your fellow tribesman or something... But I am obliged to tell you that this big thing will not hold up for much longer.
 Liloupar: My master, for your own safety, we should leave as soon as possible.
 Jeht: Yes... Let's go.
-Traveler: Are you alright, Jeht?
-Jeht: No. I... want to throw up, actually.
 
 ## Talk 20
 
@@ -161,15 +165,17 @@ Jeht: No. I... want to throw up, actually.
 
 Jeht: #You're awake! How are you feeling? Are you hurt? Can you still walk?
 Paimon: #Whoa... That was horrible... Are you alright, Traveler? Let's get out of here as soon as we can! Who knows if this big guy might explode again...
-Traveler: I feel a little dizzy, but don't worry, I still recognize you...
-Paimon: Hmph! Still joking, huh? Alright, alright! Let's get out of here!
+    Option 1:
+        Traveler: I feel a little dizzy, but don't worry, I still recognize you...
+        Paimon: Hmph! Still joking, huh? Alright, alright! Let's get out of here!
+    Option 2:
+        Traveler: My rear hurts, but my legs still work...
+        Jeht: I did a quick check on you. Your bones are fine. There's just a big bruise. Fortunately, you escaped serious injury.
+        Jeht: But if you have trouble walking, let me help.
 Liloupar: I am still here as well. My bottle remains intact.
 Paimon: Hmm... Jeht, Paimon's more worried about you, honestly. You okay there?
 Jeht: Just got a few more scratches. Nothing much.
 Liloupar: Alright, let us move on. A safe place, this is not.
-Traveler: My rear hurts, but my legs still work...
-Jeht: I did a quick check on you. Your bones are fine. There's just a big bruise. Fortunately, you escaped serious injury.
-Jeht: But if you have trouble walking, let me help.
 
 ## Talk 23
 
@@ -287,15 +293,17 @@ Jeht: #Listen here, Jinni. If anything happens to him, I'll get you for that.
 Liloupar: Harm? Oh, come now. Addiction, though... Now that is a more probable risk.
 Paimon: Addiction is not okay, either! It's unacceptable no matter what!
 Liloupar: The golden honey, the golden scheme... Departure breaks the heart, yet the kingdom lives on under the usurper's rule...
-Traveler: What are you saying?
-Liloupar: You have seen that which I speak of.
+    Option 1:
+        Traveler: What are you saying?
+        Liloupar: You have seen that which I speak of.
+    Option 2:
+        Traveler: You... It was you who murdered them...
+        Liloupar: It was not "murder"... It was punishment. For my lover, and for myself.
 Liloupar: I once believed that he would bring this land into a bright future, but he proved no different from the other shallow, mortal tyrants. I was furious... No, I was in pain.
 Liloupar: I was once deeply and madly in love with him, but when I was betrayed like that... Only destruction three times greater than that love could quell my sorrow and pain... Perhaps.
 Liloupar: In short... I used the hands and hearts of my own children to complete an impeccable killing. Such is the consequence of betrayal.
 Jeht: ...
 Jeht: Let's get moving. This is giving me goosebumps.
-Traveler: You... It was you who murdered them...
-Liloupar: It was not "murder"... It was punishment. For my lover, and for myself.
 
 ## Talk 45
 
@@ -359,10 +367,12 @@ Ferigees: ...
 Ferigees: So, you dispense your kindness to me? Despicable traitor, my shackles have nothing to do with you!
 Ferigees: Ugh... Agh... Ahh...! The shackles... they tighten... Leave! Leave now!
 Liloupar: My master, if I may so ask, please assist me in freeing my sister from her suffering...
-Traveler: Hold on, I don't get it...
+    Option 1:
+        Traveler: Hold on, I don't get it...
+    Option 2:
+        Traveler: You mean...
 Ferigees: Still so arrogant and inconstant... You disappoint me, my sister.
 Paimon: Gah! Paimon hasn't even figured out what's going on yet, and we're about to fight already!?
-Traveler: You mean...
 
 ## Talk 55
 

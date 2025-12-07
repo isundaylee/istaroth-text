@@ -34,59 +34,111 @@ Edgar (Kirya): ...Emilie?
 Edgar (Kirya): I... I'm alive? No, that's not possible. I saw her... Yelena... We were together...
 Emilie: ...No. That was an illusion, likely brought about by the residual toxin in your body coupled with the pollen in the air, neither of which are fatal.
 Edgar (Kirya): No, the amount of "Auguste" I drank... It should've been enough...
-Traveler: I'm sorry to say this, but...
-Edgar (Kirya): ...A fake? But, how...
-Emilie: ...We started making the preparations last night with one goal in mind.
-Emilie: ...To create a perfect accord.
-Edgar (Kirya): ...So, you switched the bottles of "Auguste" and then lied to me about Sylvain's death...
-Emilie: Convincing you that your revenge had been completed... was the easiest way to get you to let down your guard.
-Edgar (Kirya): Impossible... even if you found a way to switch out the bottles, there's no way you could have made an accord!
-Edgar (Kirya): If "Auguste" was so easy to replicate, Yelena wouldn't have...
-Emilie: It was a combination of Rainbow Roses, Glaze Lilies, and Cecilias... Those ingredients would have conflicted with each other if you tried to combine them in the past.
-Emilie: But recently, we found a way for them to work together.
-Edgar (Kirya): ...Rainbow Roses... Glaze Lilies... and Cecilias?
-Emilie: ..."Auguste" was created over ten years ago. All this time, people never stopped analyzing it, never stopped trying to recreate it.
-Emilie: Perfumery techniques are advancing day by day. We've found better ways to extract essential oils, separate oils and fats... we even discovered new ways to combine fragrances together.
-Emilie: The mythos surrounding "Auguste" may have been untouchable almost twenty years ago... But, now, it's time for it to become a thing of the past.
-Edgar (Kirya): The past...
-Emilie: You've been working as a perfumer for all these years... You should have always known that it is possible to make an accord, even if only in theory.
-Emilie: But, the meaning you assigned to "Auguste" became so inflated, you allowed yourself to get lost in it... just like the "Perfume Mania" that captivated the public all those years ago.
-Emilie: You believed in its "divinity" and "grandeur"... You believed it was entirely "one of a kind."
-Traveler: And, in the process, you forgot...
-Emilie: Your obsession with "Auguste" is also what allowed us to predict how you intended your plan to end... and to make preparations in advance.
-Paimon: We just didn't expect it to happen so fast...
-Traveler: Or that you would activate the Delusion.
-Edgar (Kirya): Ha... Haha...
-Edgar (Kirya): Well... you hit the nail on the head, now didn't you?
-Edgar (Kirya): So... Sylvain isn't dead...
-Edgar (Kirya): Since you've been preparing your accord since last night... I assume you've also figured out my method, then?
-Edgar (Kirya): That means the news of Sylvain's death, the crowd gathered outside the hotel this morning... It was all an act you put on with the Sheriff?
-Emilie: ...Yes. If we hadn't, you might have resorted to the Delusion out of desperation, or continued to use your "Spirit Borneol" and "Auguste" combination to wreak havoc...
-Edgar (Kirya): Who knows... Maybe I would have just offed myself then and there.
-Emilie: I know if you had things your way, you would carry the truth of "Edgar's" demise and the secrets of this garden to the grave, but I'm sorry, Master... I don't want to see any more death.
-Emilie: Sylvain only inhaled a small amount of poison. He's being detained as we speak.
-Emilie: All the crimes he concealed back then will be exposed in a court of law for everyone to see, and all his secrets will be revealed... The same goes for you as well.
-Edgar (Kirya): Is that so... Well, I suppose I'll be spending the rest of my days in a prison cell, then.
-Paimon: Woah... He accepted that kinda fast...
-Edgar (Kirya): ...I don't feel the need to justify my actions, nor do I intend to repent for them.
-Edgar (Kirya): I did what I set out to do. I may have lost in the end, but it was my choice every step of the way. And if I could do it all over again...
-Edgar (Kirya): Hah... But, there's no going back, is there?
-Collei: Be careful, everyone. This environment is dangerous, I'll lead the way...
-Shyam: ...Stick close... We can't let Edgar die...
-Edgar (Kirya): Looks like I'm almost out of time... Although, I do have one final question, Emilie.
-Emilie: ...Of course, Master.
-Edgar (Kirya): The combination you used to make your accord... How did you figure it out?
-Emilie: ...The scent of "Auguste" is complex and varied, yet the main ingredient consists of a single variety of flower.
-Emilie: So, as I was analyzing the sample yesterday, I got to thinking... What if the scent of the Auguste flower was already imbued with that complexity during its cultivation?
-Edgar (Kirya): You're saying... Yelena designed "Auguste" to have the scent of multiple flowers?
-Emilie: Rainbow Roses, Glaze Lilies, Cecilias... The perfumers of the past knew that if you combined their essential oils directly, they would just cancel each other out. It was a conundrum they could never solve.
-Emilie: But, if you cultivate a new flower species that intrinsically carries the unique features of those three scents, you can bypass that issue entirely... It goes without saying, that for the time, this idea was a stroke of genius.
-Edgar (Kirya): Rainbow Roses, Glaze Lilies, and Cecilias... Hah, those really do seem like flowers you would choose...
-Edgar (Kirya): ...Yelena.
-Black Screen Text: Not long after that, the Eremites rush over...
+    Option 1:
+        Traveler: I'm sorry to say this, but...
+        Edgar (Kirya): ...A fake? But, how...
+        Emilie: ...We started making the preparations last night with one goal in mind.
+        Emilie: ...To create a perfect accord.
+        Edgar (Kirya): ...So, you switched the bottles of "Auguste" and then lied to me about Sylvain's death...
+        Emilie: Convincing you that your revenge had been completed... was the easiest way to get you to let down your guard.
+        Edgar (Kirya): Impossible... even if you found a way to switch out the bottles, there's no way you could have made an accord!
+        Edgar (Kirya): If "Auguste" was so easy to replicate, Yelena wouldn't have...
+        Emilie: It was a combination of Rainbow Roses, Glaze Lilies, and Cecilias... Those ingredients would have conflicted with each other if you tried to combine them in the past.
+        Emilie: But recently, we found a way for them to work together.
+        Edgar (Kirya): ...Rainbow Roses... Glaze Lilies... and Cecilias?
+        Emilie: ..."Auguste" was created over ten years ago. All this time, people never stopped analyzing it, never stopped trying to recreate it.
+        Emilie: Perfumery techniques are advancing day by day. We've found better ways to extract essential oils, separate oils and fats... we even discovered new ways to combine fragrances together.
+        Emilie: The mythos surrounding "Auguste" may have been untouchable almost twenty years ago... But, now, it's time for it to become a thing of the past.
+        Edgar (Kirya): The past...
+        Emilie: You've been working as a perfumer for all these years... You should have always known that it is possible to make an accord, even if only in theory.
+        Emilie: But, the meaning you assigned to "Auguste" became so inflated, you allowed yourself to get lost in it... just like the "Perfume Mania" that captivated the public all those years ago.
+        Emilie: You believed in its "divinity" and "grandeur"... You believed it was entirely "one of a kind."
+        Traveler: And, in the process, you forgot...
+        Emilie: Your obsession with "Auguste" is also what allowed us to predict how you intended your plan to end... and to make preparations in advance.
+        Paimon: We just didn't expect it to happen so fast...
+        Traveler: Or that you would activate the Delusion.
+        Edgar (Kirya): Ha... Haha...
+        Edgar (Kirya): Well... you hit the nail on the head, now didn't you?
+        Edgar (Kirya): So... Sylvain isn't dead...
+        Edgar (Kirya): Since you've been preparing your accord since last night... I assume you've also figured out my method, then?
+        Edgar (Kirya): That means the news of Sylvain's death, the crowd gathered outside the hotel this morning... It was all an act you put on with the Sheriff?
+        Emilie: ...Yes. If we hadn't, you might have resorted to the Delusion out of desperation, or continued to use your "Spirit Borneol" and "Auguste" combination to wreak havoc...
+        Edgar (Kirya): Who knows... Maybe I would have just offed myself then and there.
+        Emilie: I know if you had things your way, you would carry the truth of "Edgar's" demise and the secrets of this garden to the grave, but I'm sorry, Master... I don't want to see any more death.
+        Emilie: Sylvain only inhaled a small amount of poison. He's being detained as we speak.
+        Emilie: All the crimes he concealed back then will be exposed in a court of law for everyone to see, and all his secrets will be revealed... The same goes for you as well.
+        Edgar (Kirya): Is that so... Well, I suppose I'll be spending the rest of my days in a prison cell, then.
+        Paimon: Woah... He accepted that kinda fast...
+        Edgar (Kirya): ...I don't feel the need to justify my actions, nor do I intend to repent for them.
+        Edgar (Kirya): I did what I set out to do. I may have lost in the end, but it was my choice every step of the way. And if I could do it all over again...
+        Edgar (Kirya): Hah... But, there's no going back, is there?
+        Collei: Be careful, everyone. This environment is dangerous, I'll lead the way...
+        Shyam: ...Stick close... We can't let Edgar die...
+        Edgar (Kirya): Looks like I'm almost out of time... Although, I do have one final question, Emilie.
+        Emilie: ...Of course, Master.
+        Edgar (Kirya): The combination you used to make your accord... How did you figure it out?
+        Emilie: ...The scent of "Auguste" is complex and varied, yet the main ingredient consists of a single variety of flower.
+        Emilie: So, as I was analyzing the sample yesterday, I got to thinking... What if the scent of the Auguste flower was already imbued with that complexity during its cultivation?
+        Edgar (Kirya): You're saying... Yelena designed "Auguste" to have the scent of multiple flowers?
+        Emilie: Rainbow Roses, Glaze Lilies, Cecilias... The perfumers of the past knew that if you combined their essential oils directly, they would just cancel each other out. It was a conundrum they could never solve.
+        Emilie: But, if you cultivate a new flower species that intrinsically carries the unique features of those three scents, you can bypass that issue entirely... It goes without saying, that for the time, this idea was a stroke of genius.
+        Edgar (Kirya): Rainbow Roses, Glaze Lilies, and Cecilias... Hah, those really do seem like flowers you would choose...
+        Edgar (Kirya): ...Yelena.
+        Black Screen Text: Not long after that, the Eremites rush over...
+    Option 2:
+        Traveler: That was a fake.
+    Option 3:
+        Traveler: I'm sorry to say this, but...
+        Edgar (Kirya): ...A fake? But, how...
+        Emilie: ...We started making the preparations last night with one goal in mind.
+        Emilie: ...To create a perfect accord.
+        Edgar (Kirya): ...So, you switched the bottles of "Auguste" and then lied to me about Sylvain's death...
+        Emilie: Convincing you that your revenge had been completed... was the easiest way to get you to let down your guard.
+        Edgar (Kirya): Impossible... even if you found a way to switch out the bottles, there's no way you could have made an accord!
+        Edgar (Kirya): If "Auguste" was so easy to replicate, Yelena wouldn't have...
+        Emilie: It was a combination of Rainbow Roses, Glaze Lilies, and Cecilias... Those ingredients would have conflicted with each other if you tried to combine them in the past.
+        Emilie: But recently, we found a way for them to work together.
+        Edgar (Kirya): ...Rainbow Roses... Glaze Lilies... and Cecilias?
+        Emilie: ..."Auguste" was created over ten years ago. All this time, people never stopped analyzing it, never stopped trying to recreate it.
+        Emilie: Perfumery techniques are advancing day by day. We've found better ways to extract essential oils, separate oils and fats... we even discovered new ways to combine fragrances together.
+        Emilie: The mythos surrounding "Auguste" may have been untouchable almost twenty years ago... But, now, it's time for it to become a thing of the past.
+        Edgar (Kirya): The past...
+        Emilie: You've been working as a perfumer for all these years... You should have always known that it is possible to make an accord, even if only in theory.
+        Emilie: But, the meaning you assigned to "Auguste" became so inflated, you allowed yourself to get lost in it... just like the "Perfume Mania" that captivated the public all those years ago.
+        Emilie: You believed in its "divinity" and "grandeur"... You believed it was entirely "one of a kind."
+        Traveler: That it was a bottle of perfume, nothing more.
+        Emilie: Your obsession with "Auguste" is also what allowed us to predict how you intended your plan to end... and to make preparations in advance.
+        Paimon: We just didn't expect it to happen so fast...
+        Traveler: Or that you would activate the Delusion.
+        Edgar (Kirya): Ha... Haha...
+        Edgar (Kirya): Well... you hit the nail on the head, now didn't you?
+        Edgar (Kirya): So... Sylvain isn't dead...
+        Edgar (Kirya): Since you've been preparing your accord since last night... I assume you've also figured out my method, then?
+        Edgar (Kirya): That means the news of Sylvain's death, the crowd gathered outside the hotel this morning... It was all an act you put on with the Sheriff?
+        Emilie: ...Yes. If we hadn't, you might have resorted to the Delusion out of desperation, or continued to use your "Spirit Borneol" and "Auguste" combination to wreak havoc...
+        Edgar (Kirya): Who knows... Maybe I would have just offed myself then and there.
+        Emilie: I know if you had things your way, you would carry the truth of "Edgar's" demise and the secrets of this garden to the grave, but I'm sorry, Master... I don't want to see any more death.
+        Emilie: Sylvain only inhaled a small amount of poison. He's being detained as we speak.
+        Emilie: All the crimes he concealed back then will be exposed in a court of law for everyone to see, and all his secrets will be revealed... The same goes for you as well.
+        Edgar (Kirya): Is that so... Well, I suppose I'll be spending the rest of my days in a prison cell, then.
+        Paimon: Woah... He accepted that kinda fast...
+        Edgar (Kirya): ...I don't feel the need to justify my actions, nor do I intend to repent for them.
+        Edgar (Kirya): I did what I set out to do. I may have lost in the end, but it was my choice every step of the way. And if I could do it all over again...
+        Edgar (Kirya): Hah... But, there's no going back, is there?
+        Collei: Be careful, everyone. This environment is dangerous, I'll lead the way...
+        Shyam: ...Stick close... We can't let Edgar die...
+        Edgar (Kirya): Looks like I'm almost out of time... Although, I do have one final question, Emilie.
+        Emilie: ...Of course, Master.
+        Edgar (Kirya): The combination you used to make your accord... How did you figure it out?
+        Emilie: ...The scent of "Auguste" is complex and varied, yet the main ingredient consists of a single variety of flower.
+        Emilie: So, as I was analyzing the sample yesterday, I got to thinking... What if the scent of the Auguste flower was already imbued with that complexity during its cultivation?
+        Edgar (Kirya): You're saying... Yelena designed "Auguste" to have the scent of multiple flowers?
+        Emilie: Rainbow Roses, Glaze Lilies, Cecilias... The perfumers of the past knew that if you combined their essential oils directly, they would just cancel each other out. It was a conundrum they could never solve.
+        Emilie: But, if you cultivate a new flower species that intrinsically carries the unique features of those three scents, you can bypass that issue entirely... It goes without saying, that for the time, this idea was a stroke of genius.
+        Edgar (Kirya): Rainbow Roses, Glaze Lilies, and Cecilias... Hah, those really do seem like flowers you would choose...
+        Edgar (Kirya): ...Yelena.
+        Black Screen Text: Not long after that, the Eremites rush over...
 Black Screen Text: Kirya accepts his fate without saying a word.
-Traveler: That it was a bottle of perfume, nothing more.
-Traveler: That was a fake.
 
 ## Talk 3
 
@@ -95,7 +147,10 @@ Crowd in Spirited Discussion: Ah, right! I heard about that! I think it's called
 Paimon: ...Seems like everyone in Fontaine is talking about the new perfume you're releasing!
 Emilie: I was hoping to release it without such a fuss, but... the news spread way faster than I expected.
 Emilie: I just hope it won't become the source of some new "myth"... especially after all the work we did to demystify "Auguste."
-Traveler: About this perfume...
+    Option 1:
+        Traveler: About this perfume...
+    Option 2:
+        Traveler: Did you use the accord from back in Sumeru?
 Emilie: I did! Although, I made a few modifications to the formula to make the scent more pleasant and long-lasting... I actually brought a few samples with me today. I hope they're to your liking.
 Emilie: Also... I was hoping you could try out the fragrance before I officially release it, and tell me your thoughts.
 Paimon: Of course! A good sense of taste and sense of smell go hand in hand, you know. Just leave it to Paimon!
@@ -128,7 +183,6 @@ Emilie: When someone dies, their thoughts, feelings, and intentions die with the
 Emilie: But... even if it's only a conjecture, I would like to believe my own interpretation.
 Emilie: The meaning we give to flowers, the symbolism we assign to our perfumes... They're constantly twisted and exploited in our imperfect world...
 Emilie: And yet, at the very outset, they're born from the simplest and most beautiful desires we hold in our heart.
-Traveler: Did you use the accord from back in Sumeru?
 
 ## Talk 4
 

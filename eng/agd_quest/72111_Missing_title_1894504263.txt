@@ -29,7 +29,13 @@ Konda Densuke: A bag for carrying Mora?
 Konda Densuke: This...
 Konda Densuke: ...This belongs to our family. There is nothing suspicious about it. That's right, it's very normal!
 Paimon: He's so suspicious! Something's definitely off!
-Traveler: Now then, please draw the marking that was on it.
+    Option 1:
+        Traveler: Now then, please draw the marking that was on it.
+    Option 2:
+        Traveler: Please tell me how much Mora there was inside.
+        Konda Densuke: Hahaha, what kind of question is that?
+        Konda Densuke: There's no way you would know how much Mora was in there without opening it up either, right?
+        Traveler: Now then, please draw the marking that was on it.
 Konda Densuke: ...
 Konda Densuke: Fine. This is indeed not my coin pouch.
 Konda Densuke: So many people have passed by my backyard, it's pretty normal for someone to have dropped it, right?
@@ -37,25 +43,25 @@ Konda Densuke: It's...
 Traveler: What's going on?
 Konda Densuke: *sigh* Aye, you've seen through me, alright. Now, I was really tempted to take the coin pouch for myself, you know?
 Konda Densuke: Oh Densuke, how could an old man like you have such mischievous thoughts!
-Traveler: Something's off here.
+    Option 1:
+        Traveler: Something's off here.
+    Option 2:
+        Traveler: You're hiding something else.
 Konda Densuke: I—I already admitted my desire to steal the Mora. What else could be the problem?
 Konda Densuke: Come now, I will surrender this coin pouch to the Shogunate.
 Paimon: Something doesn't feel right here...
-Traveler: Someone discarded this coin pouch intentionally.
+    Option 1:
+        Traveler: Someone discarded this coin pouch intentionally.
+    Option 2:
+        Traveler: You must be overthinking things, Paimon.
+        Paimon: #(That can't be right! Traveler, was Grandpa Densuke really just after the Mora?)
+        Paimon: (He must be hiding something else, right?)
+        Traveler: Someone discarded this coin pouch intentionally.
 Konda Densuke: Wh—What proof do you have for saying this?
 Paimon: The coin pouch is just one part of the mystery. We also found...
 Paimon: #...Found what? Hmm, your turn now, Traveler!
 Paimon: #(Traveler, what did we find in the gully earlier... ?)
 Traveler: This was intentionally left behind on a rainy night...
-Traveler: You must be overthinking things, Paimon.
-Paimon: #(That can't be right! Traveler, was Grandpa Densuke really just after the Mora?)
-Paimon: (He must be hiding something else, right?)
-Traveler: Someone discarded this coin pouch intentionally.
-Traveler: You're hiding something else.
-Traveler: Please tell me how much Mora there was inside.
-Konda Densuke: Hahaha, what kind of question is that?
-Konda Densuke: There's no way you would know how much Mora was in there without opening it up either, right?
-Traveler: Now then, please draw the marking that was on it.
 
 ## Talk 5
 
@@ -66,16 +72,18 @@ Traveler: We found this near the remains of a cart...
 ## Talk 6
 
 Konda Densuke: This is... ahem, where did you get this?
-Traveler: Downstream of the gully.
-Konda Densuke: ...
+    Option 1:
+        Traveler: Downstream of the gully.
+        Konda Densuke: ...
+    Option 2:
+        Traveler: We found it on the tree branches at the entrance to the village.
+        Konda Densuke: How could that be... You'll get nowhere, testing me like that.
 Konda Densuke: How can you prove that these two items are related?
 Paimon: Oh, they're related alright.
 Konda Densuke: Ridiculous! How can that be?
 Konda Densuke: Unless... there's some kind of secret code on the Mora?
 Paimon: There's nothing on the Mora, but we did find something elsewhere.
 Traveler: We found this near the remains of a cart...
-Traveler: We found it on the tree branches at the entrance to the village.
-Konda Densuke: How could that be... You'll get nowhere, testing me like that.
 
 ## Talk 7
 
@@ -103,9 +111,14 @@ Traveler: He did that to cover up the truth.
 Konda Densuke: That's right. I thought that you would stop the investigation once I confessed.
 Konda Densuke: If it was just me... As long as no one else was affected...
 Konda Densuke: Please don't report this to the Shogunate. This isn't about me saving face. I just don't want the entire village to be dragged down in the process.
-Traveler: I'm not interested in reporting you.
-Paimon: Yeah, that's not why we came here!
-Konda Densuke: Oh, thank goodness! Thank goodness...
+    Option 1:
+        Traveler: I'm not interested in reporting you.
+        Paimon: Yeah, that's not why we came here!
+        Konda Densuke: Oh, thank goodness! Thank goodness...
+    Option 2:
+        Traveler: I just want to know the truth...
+        Paimon: Yeah, we didn't come here to report you!
+        Konda Densuke: The truth? Hehe... You young people these days are so interesting.
 Konda Densuke: My conscience kept bothering me because of this cover-up, so I recorded everything in a diary.
 Konda Densuke: I threw the diary onto the roof. If you really want to read it, help yourself, but please don't ruin my recently renovated roof.
 Traveler: About the lock on the well...
@@ -115,9 +128,6 @@ Konda Densuke: Barrier? Oh, so people still know about that old legend...
 Konda Densuke: They say that in ancient times, underneath the ground we are standing on right now, lay the roots of the Thunder Sakura. Indeed, this was one of the five roots that protect the peace on Narukami Island.
 Konda Densuke: And guarding it and its barrier was said to be a responsibility assigned to us, the Konda Clan, by the Kitsune Saiguu herself.
 Konda Densuke: But this was a long, long time ago. I hardly recall anything about the details.
-Traveler: I just want to know the truth...
-Paimon: Yeah, we didn't come here to report you!
-Konda Densuke: The truth? Hehe... You young people these days are so interesting.
 
 ## Additional Conversations
 

@@ -9,20 +9,24 @@
 
 旅行者: 在这里还习惯吗？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-旅行者: 怎、怎么了？
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你才是这里的主人吧，紧张什么呢，不像样。
+    Option 1:
+        旅行者: 怎、怎么了？
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你才是这里的主人吧，紧张什么呢，不像样。
+    Option 2:
+        旅行者: 有话直说。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 哼。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …也没什么，只是在思考无聊的问题。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 你这个…住处，怎么有的地方空旷得很哪。
-旅行者: 够用了，这是留白的美。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 随意评论主人的生活风格是不礼貌的。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你好心招待我来，我自当感激不尽。
+    Option 1:
+        旅行者: 够用了，这是留白的美。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 随意评论主人的生活风格是不礼貌的。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你好心招待我来，我自当感激不尽。
+    Option 2:
+        旅行者: 没办法，我也想塞满点的。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 啊，我懂，总有力不能及的事情嘛。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 有时情况会慢慢变好，有时也只能保持现状。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 这是你的地盘，按你高兴的方式安排吧。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我只是过客。
-旅行者: 没办法，我也想塞满点的。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 啊，我懂，总有力不能及的事情嘛。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 有时情况会慢慢变好，有时也只能保持现状。
-旅行者: 有话直说。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 哼。
 
 ## Talk 2
 
@@ -61,16 +65,18 @@
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 他们为了逃避不喜欢的任务，什么都做得出来。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 可惜现在只有你我，肯定不会有那么戏剧性的场面了。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我不挑剔，你做什么我就吃什么。
-旅行者: 还是给点建议吧。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 那就做你最喜欢的吧。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 万一吃饭时尴尬到说不出话来，至少还可以享受食物。
-旅行者: 那我要准备一大桌甜食——
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …我错了。
-旅行者: 欸？怎么突然道歉…
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 谁道歉了！
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 只是在承认自己判断失误罢了。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 不过你能有些坏心思也算是好事。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你要是太过善良，我反而很难办呢。
+    Option 1:
+        旅行者: 还是给点建议吧。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 那就做你最喜欢的吧。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 万一吃饭时尴尬到说不出话来，至少还可以享受食物。
+    Option 2:
+        旅行者: 那我要准备一大桌甜食——
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: …我错了。
+        旅行者: 欸？怎么突然道歉…
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 谁道歉了！
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 只是在承认自己判断失误罢了。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 不过你能有些坏心思也算是好事。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你要是太过善良，我反而很难办呢。
 
 ## Talk 4
 
@@ -101,20 +107,24 @@
 
 旅行者: 在这里还习惯吗？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-旅行者: 怎、怎么了？
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你才是这里的主人吧，紧张什么呢，不像样。
+    Option 1:
+        旅行者: 怎、怎么了？
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你才是这里的主人吧，紧张什么呢，不像样。
+    Option 2:
+        旅行者: 有话直说。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 哼。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …也没什么，只是在思考无聊的问题。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 你这个…住处，怎么有的地方空旷得很哪。
-旅行者: 够用了，这是留白的美。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 随意评论主人的生活风格是不礼貌的。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你好心招待我来，我自当感激不尽。
+    Option 1:
+        旅行者: 够用了，这是留白的美。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 随意评论主人的生活风格是不礼貌的。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你好心招待我来，我自当感激不尽。
+    Option 2:
+        旅行者: 没办法，我也想塞满点的。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 啊，我懂，总有力不能及的事情嘛。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 有时情况会慢慢变好，有时也只能保持现状。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 这是你的地盘，按你高兴的方式安排吧。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我只是过客。
-旅行者: 没办法，我也想塞满点的。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 啊，我懂，总有力不能及的事情嘛。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 有时情况会慢慢变好，有时也只能保持现状。
-旅行者: 有话直说。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 哼。
 
 ## Talk 9
 
@@ -153,13 +163,15 @@
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 他们为了逃避不喜欢的任务，什么都做得出来。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 可惜现在只有你我，肯定不会有那么戏剧性的场面了。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我不挑剔，你做什么我就吃什么。
-旅行者: 还是给点建议吧。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 那就做你最喜欢的吧。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 万一吃饭时尴尬到说不出话来，至少还可以享受食物。
-旅行者: 那我要准备一大桌甜食——
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …我错了。
-旅行者: 欸？怎么突然道歉…
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 谁道歉了！
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 只是在承认自己判断失误罢了。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 不过你能有些坏心思也算是好事。
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 你要是太过善良，我反而很难办呢。
+    Option 1:
+        旅行者: 还是给点建议吧。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 那就做你最喜欢的吧。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 万一吃饭时尴尬到说不出话来，至少还可以享受食物。
+    Option 2:
+        旅行者: 那我要准备一大桌甜食——
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: …我错了。
+        旅行者: 欸？怎么突然道歉…
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 谁道歉了！
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 只是在承认自己判断失误罢了。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 不过你能有些坏心思也算是好事。
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: 你要是太过善良，我反而很难办呢。

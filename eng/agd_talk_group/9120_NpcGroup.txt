@@ -10,17 +10,19 @@ Flins: #For inviting me here, you have my sincerest gratitude, Traveler.
 Traveler: How do you like it here?
 Flins: Your concern is most touching. Fret not, for I am enjoying myself.
 Flins: Every conceivable need is met here — a testament to the host's meticulous thoughtfulness.
-Traveler: You're too kind.
-Flins: Hardly. I came here empty-handed, bearing not even a gift.
-Flins: But you treated me to dishes you prepared, and so I offered you sincere compliments in return. It's only polite.
+    Option 1:
+        Traveler: You're too kind.
+        Flins: Hardly. I came here empty-handed, bearing not even a gift.
+        Flins: But you treated me to dishes you prepared, and so I offered you sincere compliments in return. It's only polite.
+    Option 2:
+        Traveler: Let me know if anything is lacking.
+        Flins: Your home is rich in storage, fitting for an adventurer as well-traveled as yourself. I have no doubt that these nooks hold treasures aplenty.
+        Flins: If you have a moment, I would love for us to view the spoils of your journey together.
 Flins: But aside from this desire, born out of mere curiosity, all my other material needs are met.
 Traveler: You're very welcome!
 Flins: You are much too kind. If you truly wished for me to nitpick, then I suppose I might offer some critical suggestions regarding the allocation of accommodations here.
 Flins: If convenient, perhaps I could request for a room that is quieter, and in a more secluded spot?
 Flins: Accustomed as I am to living alone in a cemetery for many years, a gloomy environment is in fact more comfortable for me.
-Traveler: Let me know if anything is lacking.
-Flins: Your home is rich in storage, fitting for an adventurer as well-traveled as yourself. I have no doubt that these nooks hold treasures aplenty.
-Flins: If you have a moment, I would love for us to view the spoils of your journey together.
 
 ## Talk 2
 
@@ -33,18 +35,20 @@ Flins: When people deliberately seek conversation with others, it's... it is eas
 Flins: If we wish to speak, we should not hesitate. Whatever thoughts linger in your heart, say them, and do so decisively.
 Flins: No matter how trivial these thoughts may seem, what matters is that they are said and heard.
 Flins: For instance, if you see an insect on your way out today, or if you plan to go fishing later.
-Traveler: I thought of something. Why do you keep your hair long, Flins?
-Flins: You mean, why do I not cut it short and neat, like my colleagues? Why this look, of all choices?
-Flins: ...I see, I did not expect you to take an interest in my appearance. Hmm, yes, knowing this has helped me understand you better.
-Flins: Have you heard the saying? "One's appearance is a reflection of their innermost thoughts and experiences."
-Flins: There was a time when my long, smooth hair was a symbol of my status. It was a habit for me, back then...
-Flins: I suppose this will suffice as an answer to your question.
-Traveler: I thought of something. Do you know anything about Snezhnograd, Flins?
-Flins: I recall that you intend to visit Snezhnograd in the future. It is indeed necessary to gather relevant information before your departure.
-Flins: ...Regrettably, my memories of it are hazy, but what remains tells me that it was a beautiful place.
-Flins: The brilliant night sky, the never-ending blizzard... It seems that nowadays, it's become rather industrialized.
-Flins: Some fae still live there. Perhaps they have gotten used to the biting cold, and are no longer able to survive in a warm place.
-Flins: Hmm... I wonder what Snezhnograd looks like now...
+    Option 1:
+        Traveler: I thought of something. Why do you keep your hair long, Flins?
+        Flins: You mean, why do I not cut it short and neat, like my colleagues? Why this look, of all choices?
+        Flins: ...I see, I did not expect you to take an interest in my appearance. Hmm, yes, knowing this has helped me understand you better.
+        Flins: Have you heard the saying? "One's appearance is a reflection of their innermost thoughts and experiences."
+        Flins: There was a time when my long, smooth hair was a symbol of my status. It was a habit for me, back then...
+        Flins: I suppose this will suffice as an answer to your question.
+    Option 2:
+        Traveler: I thought of something. Do you know anything about Snezhnograd, Flins?
+        Flins: I recall that you intend to visit Snezhnograd in the future. It is indeed necessary to gather relevant information before your departure.
+        Flins: ...Regrettably, my memories of it are hazy, but what remains tells me that it was a beautiful place.
+        Flins: The brilliant night sky, the never-ending blizzard... It seems that nowadays, it's become rather industrialized.
+        Flins: Some fae still live there. Perhaps they have gotten used to the biting cold, and are no longer able to survive in a warm place.
+        Flins: Hmm... I wonder what Snezhnograd looks like now...
 
 ## Talk 3
 
@@ -64,11 +68,13 @@ Flins: ...To extinguish myself again? Hehehe, of course not.
 Flins: Thinking about my past experiences is merely a way for me to review my current judgments and position.
 Flins: To yearn for peace, and to forsake it for a new purpose — these paths do not conflict.
 Flins: I hope my prattling on and on does not bore you.
-Traveler: I'm not bored at all.
-Flins: Then all is well. The fact I can share these trivial thoughts with you is proof of our friendship.
-Traveler: I don't really understand...
-Flins: That is fine. There is always a difference between two individuals, and to fully bridge that gap of understanding is a nigh-insurmountable task.
-Flins: But it is precisely because we think differently that our conversations are meaningful.
+    Option 1:
+        Traveler: I'm not bored at all.
+        Flins: Then all is well. The fact I can share these trivial thoughts with you is proof of our friendship.
+    Option 2:
+        Traveler: I don't really understand...
+        Flins: That is fine. There is always a difference between two individuals, and to fully bridge that gap of understanding is a nigh-insurmountable task.
+        Flins: But it is precisely because we think differently that our conversations are meaningful.
 
 ## Talk 4
 
@@ -86,17 +92,19 @@ Flins: I am accustomed to acting in the dead of night. Perhaps I shall take a st
 Traveler: How do you like it here?
 Flins: Your concern is most touching. Fret not, for I am enjoying myself.
 Flins: Every conceivable need is met here — a testament to the host's meticulous thoughtfulness.
-Traveler: You're too kind.
-Flins: Hardly. I came here empty-handed, bearing not even a gift.
-Flins: But you treated me to dishes you prepared, and so I offered you sincere compliments in return. It's only polite.
+    Option 1:
+        Traveler: You're too kind.
+        Flins: Hardly. I came here empty-handed, bearing not even a gift.
+        Flins: But you treated me to dishes you prepared, and so I offered you sincere compliments in return. It's only polite.
+    Option 2:
+        Traveler: Let me know if anything is lacking.
+        Flins: Your home is rich in storage, fitting for an adventurer as well-traveled as yourself. I have no doubt that these nooks hold treasures aplenty.
+        Flins: If you have a moment, I would love for us to view the spoils of your journey together.
 Flins: But aside from this desire, born out of mere curiosity, all my other material needs are met.
 Traveler: You're very welcome!
 Flins: You are much too kind. If you truly wished for me to nitpick, then I suppose I might offer some critical suggestions regarding the allocation of accommodations here.
 Flins: If convenient, perhaps I could request for a room that is quieter, and in a more secluded spot?
 Flins: Accustomed as I am to living alone in a cemetery for many years, a gloomy environment is in fact more comfortable for me.
-Traveler: Let me know if anything is lacking.
-Flins: Your home is rich in storage, fitting for an adventurer as well-traveled as yourself. I have no doubt that these nooks hold treasures aplenty.
-Flins: If you have a moment, I would love for us to view the spoils of your journey together.
 
 ## Talk 7
 
@@ -109,18 +117,20 @@ Flins: When people deliberately seek conversation with others, it's... it is eas
 Flins: If we wish to speak, we should not hesitate. Whatever thoughts linger in your heart, say them, and do so decisively.
 Flins: No matter how trivial these thoughts may seem, what matters is that they are said and heard.
 Flins: For instance, if you see an insect on your way out today, or if you plan to go fishing later.
-Traveler: I thought of something. Why do you keep your hair long, Flins?
-Flins: You mean, why do I not cut it short and neat, like my colleagues? Why this look, of all choices?
-Flins: ...I see, I did not expect you to take an interest in my appearance. Hmm, yes, knowing this has helped me understand you better.
-Flins: Have you heard the saying? "One's appearance is a reflection of their innermost thoughts and experiences."
-Flins: There was a time when my long, smooth hair was a symbol of my status. It was a habit for me, back then...
-Flins: I suppose this will suffice as an answer to your question.
-Traveler: I thought of something. Do you know anything about Snezhnograd, Flins?
-Flins: I recall that you intend to visit Snezhnograd in the future. It is indeed necessary to gather relevant information before your departure.
-Flins: ...Regrettably, my memories of it are hazy, but what remains tells me that it was a beautiful place.
-Flins: The brilliant night sky, the never-ending blizzard... It seems that nowadays, it's become rather industrialized.
-Flins: Some fae still live there. Perhaps they have gotten used to the biting cold, and are no longer able to survive in a warm place.
-Flins: Hmm... I wonder what Snezhnograd looks like now...
+    Option 1:
+        Traveler: I thought of something. Why do you keep your hair long, Flins?
+        Flins: You mean, why do I not cut it short and neat, like my colleagues? Why this look, of all choices?
+        Flins: ...I see, I did not expect you to take an interest in my appearance. Hmm, yes, knowing this has helped me understand you better.
+        Flins: Have you heard the saying? "One's appearance is a reflection of their innermost thoughts and experiences."
+        Flins: There was a time when my long, smooth hair was a symbol of my status. It was a habit for me, back then...
+        Flins: I suppose this will suffice as an answer to your question.
+    Option 2:
+        Traveler: I thought of something. Do you know anything about Snezhnograd, Flins?
+        Flins: I recall that you intend to visit Snezhnograd in the future. It is indeed necessary to gather relevant information before your departure.
+        Flins: ...Regrettably, my memories of it are hazy, but what remains tells me that it was a beautiful place.
+        Flins: The brilliant night sky, the never-ending blizzard... It seems that nowadays, it's become rather industrialized.
+        Flins: Some fae still live there. Perhaps they have gotten used to the biting cold, and are no longer able to survive in a warm place.
+        Flins: Hmm... I wonder what Snezhnograd looks like now...
 
 ## Talk 8
 
@@ -140,8 +150,10 @@ Flins: ...To extinguish myself again? Hehehe, of course not.
 Flins: Thinking about my past experiences is merely a way for me to review my current judgments and position.
 Flins: To yearn for peace, and to forsake it for a new purpose — these paths do not conflict.
 Flins: I hope my prattling on and on does not bore you.
-Traveler: I'm not bored at all.
-Flins: Then all is well. The fact I can share these trivial thoughts with you is proof of our friendship.
-Traveler: I don't really understand...
-Flins: That is fine. There is always a difference between two individuals, and to fully bridge that gap of understanding is a nigh-insurmountable task.
-Flins: But it is precisely because we think differently that our conversations are meaningful.
+    Option 1:
+        Traveler: I'm not bored at all.
+        Flins: Then all is well. The fact I can share these trivial thoughts with you is proof of our friendship.
+    Option 2:
+        Traveler: I don't really understand...
+        Flins: That is fine. There is always a difference between two individuals, and to fully bridge that gap of understanding is a nigh-insurmountable task.
+        Flins: But it is precisely because we think differently that our conversations are meaningful.

@@ -49,11 +49,13 @@ Paimon: You're right. Everything's just too deliberate... There's definitely som
 
 Traveler: There's something fishy about their relationship with Benoit.
 Paimon: When we first met them a few days back, things still seemed fine, but there's something... awkward about the way they spoke today.
-Traveler: He's being coerced by his son-in-law.
-Paimon: Are you talking about how that son-in-law guy gave him a look and made him go inside after he'd only said one or two things?
+    Option 1:
+        Traveler: He's being coerced by his son-in-law.
+        Paimon: Are you talking about how that son-in-law guy gave him a look and made him go inside after he'd only said one or two things?
+    Option 2:
+        Traveler: Benoit's daughter is coercing him.
+        Paimon: Well, Paimon didn't quite think that far, but the way she spoke sure did give Paimon goosebumps...
 Paimon: Now that you mention it, Paimon kinda gets where that confused feeling was coming from.
-Traveler: Benoit's daughter is coercing him.
-Paimon: Well, Paimon didn't quite think that far, but the way she spoke sure did give Paimon goosebumps...
 
 ## Talk 7
 
@@ -68,10 +70,12 @@ Molli: Honestly, I'm more worried about Mr. Leroy than I am about my essay.
 Molli: He must feel terrible if he's ill. Mama told me that sick people need our care and concern.
 Molli: So, could you come with me to ask that son-in-law what sort of illness Mr. Leroy has?
 Molli: Maybe he ate too much cake, or he slept without a blanket? I can ask my parents about what to do!
-Traveler: Regardless, let's knock on the door first.
+    Option 1:
+        Traveler: Regardless, let's knock on the door first.
+    Option 2:
+        Traveler: Well, we made an agreement, didn't we?
 Molli: I know, I'm just... a bit scared of that scary son-in-law, because he's... well, scary. Could you help me speak to him?
 Paimon: Don't be afraid, Molli. We've got this.
-Traveler: Well, we made an agreement, didn't we?
 
 ## Talk 8
 
@@ -83,12 +87,19 @@ Molli: Could we ask what he's come down with? I could ask my parents to help get
 Athos: No need. We'll buy what medicines are needed ourselves — not that he has any lack of medicine, anyway.
 Paimon: We're just concerned for his health. You don't have to be so cold...
 Paimon: (Athos just doesn't want to let us see Benoit!)
-Traveler: (This is past cold, he's downright frigid...)
+    Option 1:
+        Traveler: (This is past cold, he's downright frigid...)
+    Option 2:
+        Traveler: (He sure turned down the temperature quickly...)
 Athos: You concern yourself too much with business that is not your own. Very well. Was there anything else? If not, I'll be heading back.
 Traveler: Wait.
 Athos: What is it?
-Traveler: Is Benoit really ill?
-Athos: Of course he is. Very seriously, in fact. Morticia and I will think of something, though. There's no need for you — or anyone else, for that matter — to worry.
+    Option 1:
+        Traveler: Is Benoit really ill?
+        Athos: Of course he is. Very seriously, in fact. Morticia and I will think of something, though. There's no need for you — or anyone else, for that matter — to worry.
+    Option 2:
+        Traveler: Why are you trying to prevent us from seeing Benoit?
+        Athos: And why must I allow completely unrelated people to see my father? Like I said earlier, he's in no condition to see guests.
 Morticia: Athos, what's that disturbance outside?
 Athos: Nothing, Morticia, just a few kids saying that they want to see Dad.
 Morticia: ...
@@ -110,24 +121,27 @@ Molli: Well, at least we got to say a few words to Mr. Leroy. *sigh* I do hope h
 Molli: Looks like I caused trouble for other people, Ms. Paimon. That... wasn't what I wanted...
 Paimon: Don't think that way! You weren't any trouble at all! In fact, Paimon thinks that Athos guy is the real problem here!
 Paimon: Hmph. The entire time, he was just...
-Traveler: You should go home first, Molli.
+    Option 1:
+        Traveler: You should go home first, Molli.
+    Option 2:
+        Traveler: Paimon and I will be heading back as well.
 Paimon: #Eh? Traveler, you...
 Molli: True, I should head back as well. My parents don't like it when I come here, you know? They'd get mad if they knew I came today...
 Molli: I don't know if we'll get to see Mr. Leroy again. I really wanted to tell him that his snacks were super tasty.
 Molli: Well, could you help me tell him that if you see him — after he gets better, I mean?
-Traveler: No problem.
+    Option 1:
+        Traveler: No problem.
+    Option 2:
+        Traveler: You have my word.
 Paimon: And Paimon's, too!
 Molli: #Alright. Thank you, Mr. Traveler!
 Molli: I've gotta go home now. See you!
 Paimon: #What do you think, Traveler? Paimon noticed you had "I've got something to say" written all over your face as soon as she looked at you!
-Traveler: Let's talk over there.
+    Option 1:
+        Traveler: Let's talk over there.
+    Option 2:
+        Traveler: Best not to speak too loudly right here.
 Paimon: Sure, let's go talk somewhere else.
-Traveler: Best not to speak too loudly right here.
-Traveler: You have my word.
-Traveler: Paimon and I will be heading back as well.
-Traveler: Why are you trying to prevent us from seeing Benoit?
-Athos: And why must I allow completely unrelated people to see my father? Like I said earlier, he's in no condition to see guests.
-Traveler: (He sure turned down the temperature quickly...)
 
 ## Talk 9
 
@@ -148,19 +162,25 @@ Traveler: Well, that's all I've got for now.
 Paimon: #Um, Traveler... Do you think Benoit's in some kinda danger?
 Traveler: Indeed.
 Paimon: Ohhh, Paimon's got a bad feeling about this. Should we report it to the Maison Gardiennage?
-Traveler: We've got no evidence.
+    Option 1:
+        Traveler: We've got no evidence.
+    Option 2:
+        Traveler: The situation is still pretty murky.
+    Option 3:
+        Traveler: We don't know how Benoit feels about all this.
 Paimon: Hmm, that's true, that's true. But in the end, we're here to help him, right?
 Paimon: Molli asked us to tell Benoit that his snacks were super tasty, and we gave her our word.
 Traveler: And our word is our sacred bond.
 Paimon: Hehe, Paimon knows you always keep your promises! Well, you've got a good brain, too, so what's our next move?
 Traveler: Let's do some investigating.
 Paimon: Yeah, let's get to the bottom of this case! Hmm... What should we investigate, specifically?
-Traveler: The identity of the couple.
+    Option 1:
+        Traveler: The identity of the couple.
+    Option 2:
+        Traveler: The couple's goals.
+    Option 3:
+        Traveler: How Benoit feels about them.
 Paimon: #That's right! Look out, world — Ace Detectives Paimon and Traveler are going to expose the truth!
-Traveler: The couple's goals.
-Traveler: How Benoit feels about them.
-Traveler: The situation is still pretty murky.
-Traveler: We don't know how Benoit feels about all this.
 
 ## Talk 12
 

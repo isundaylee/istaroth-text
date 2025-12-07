@@ -10,14 +10,16 @@ Kun: While it's impossible to finish building it so quickly, there are some smal
 Kun: She gave me a checklist and told me to look through the items and see what I can easily get hold of, but also that I needn't go out of my way to get them all.
 Kun: To be honest, though, I couldn't leave my post even if I wanted to. The Ministry of Civil Affairs is getting busier by the day, so I really don't know...
 Kun: It would be great if you had the time to help me make the trip. Baiwen did look like she was rather anxious for this to get done...
-Traveler: Leave it to me.
-Kun: Thanks for the help.
+    Option 1:
+        Traveler: Leave it to me.
+        Kun: Thanks for the help.
+    Option 2:
+        Traveler: You're really rebuilding the Jade Chamber?
+        Kun: I've heard Baiwen say that the schedule's already been sent out. But given how large that building is, I think that it will take some time to rebuild it...
+        Kun: They're just preparing some small items at the moment. Things will really get busy once they officially start the rebuilding process.
 Kun: Let me see... Hmm, they first want a book called "Meadow of Gems," and some small bamboo ornaments.
 Kun: You can ask Jifang about the book. As for the bamboo ornaments, I believe that Master Lu of Fanmu Carpenter's makes them.
 Kun: I'm sorry, but I'll have to leave this matter in your hands. Hmm, but it would indeed be good if the Jade Chamber could be rebuilt...
-Traveler: You're really rebuilding the Jade Chamber?
-Kun: I've heard Baiwen say that the schedule's already been sent out. But given how large that building is, I think that it will take some time to rebuild it...
-Kun: They're just preparing some small items at the moment. Things will really get busy once they officially start the rebuilding process.
 
 ## Talk 2
 
@@ -41,7 +43,10 @@ Qingzhou: Let me try to recall the name of that poem. Pray, give me a moment...
 Traveler: Do you remember where I can find that book?
 Qingzhou: Ah, so you wish to locate that book? I must confess that no such place comes to mind...
 Qingzhou: However, if you need it urgently, I could just write you out a copy of it myself.
-Traveler: Write it out?
+    Option 1:
+        Traveler: Write it out?
+    Option 2:
+        Traveler: From memory?
 Qingzhou: Ah, it was hardly a lengthy text. Memorizing it was no tall order.
 Qingzhou: More to the point, the book collector wouldn't let me loan it out.
 Qingzhou: And since poetry is not something that one can rush, I decided I'd simply write out a copy for my continued perusal... The book's contents were not very long, either, so I have it more or less memorized now.
@@ -50,7 +55,6 @@ Qingzhou: Ah, it is but a trifling matter, my liege. Still, perhaps you could do
 Qingzhou: As embarrassing as this is... I have been so focused on gathering inspiration here that only now do I realize: I have completely forgotten to eat today. Suddenly, I feel rather ravenous.
 Qingzhou: Could you help me get a serving of Triple-Layered Consommé? In exchange, I shall write you a copy of "Meadow of Gems."
 Qingzhou: I believe that I should just about be done by the time you return.
-Traveler: From memory?
 
 ## Talk 4
 

@@ -54,7 +54,10 @@ Mary-Ann: Aren't they beautiful?
 Paimon: Eh? That was quick!
 Mary-Ann: Well, they've been waiting for friends to arrive, after all. And with your arrival, ah, they were so excited! All they needed then was a little encouragement, a little rain to get them going.
 Paimon: Huh, so that's how it is... Nature really is amazing, huh?
-Traveler: I suspect this exceeds the realm of "amazing."
+    Option 1:
+        Traveler: I suspect this exceeds the realm of "amazing."
+    Option 2:
+        Traveler: Nature really is amazing!
 Mary-Ann: Do you like them, Ann?
 Ann: They're very beautiful, like gleaming gold.
 Mary-Ann: I knew you would. I love them too, after all.
@@ -85,16 +88,18 @@ Mary-Ann: The dandelions you spoke of, Paimon, reminded me a lot of that story. 
 Mary-Ann: But a single drop of water is weak and will dry up easily. Together, they will be strong... and yet, they will no longer be themselves. Is that how it is with dandelions, too?
 Mary-Ann: Do you think that's a good thing?
 Paimon: #Um... Paimon doesn't really get it. What do you think, Traveler?
-Traveler: They may be weak, but the distance is necessary.
+    Option 1:
+        Traveler: They may be weak, but the distance is necessary.
+    Option 2:
+        Traveler: It might not be a bad thing for them to unite.
+    Option 3:
+        Traveler: People can unite and yet maintain their personhood.
+        Mary-Ann: Hmm. Can they, really?
 Mary-Ann: #...I think I understand where you're coming from, Traveler.
 Paimon: What you're talking about sounds like what happened to Al, Petit Chou, and the others. To help us, they melded into one, turning into that big bubble...
 Ann: Yes. I still remember.
 Mary-Ann: Well. It might be meaningless to say this now.
 Mary-Ann: Let's have a little walk again, shall we? Ah, yes! I can take you to see our dog!
-Traveler: It might not be a bad thing for them to unite.
-Traveler: People can unite and yet maintain their personhood.
-Mary-Ann: Hmm. Can they, really?
-Traveler: Nature really is amazing!
 
 ## Talk 10
 
@@ -113,17 +118,21 @@ Traveler: Nature really is amazing!
 Paimon: Paimon wants to say that the book's contents were really weird, but it's really not much when compared to this, is it?
 Ann: The world should be like this, not like how it is outside. Children should be able to play under the sun and in the grass without fear of hindrance or harm.
 Paimon: This place does feel pretty comfy, yeah. Paimon feels way better than she did back when we were adventuring throughout the kingdom. There was no sunlight there at all!
-Traveler: Is that how it is?
+    Option 1:
+        Traveler: Is that how it is?
+    Option 2:
+        Traveler: One mystery follows another.
 Ann: ...
 Paimon: #Never mind that... This place really is nice! It's gotta be Princess Lyris's garden, right? Say, Traveler, when our adventures are over, why don't we find a place like this to live?
 Paimon: We can eat tasty fruits, plant lots of Sweet Flowers, and we can invite our friends over as guests! We could all live together happily. What do you say?
-Traveler: Eh, sure.
-Paimon: Hehe, then it's agreed! Still, we should focus on helping Ann find the Princess first, huh?
+    Option 1:
+        Traveler: Eh, sure.
+        Paimon: Hehe, then it's agreed! Still, we should focus on helping Ann find the Princess first, huh?
+    Option 2:
+        Traveler: ...Let's put a pin in that for now.
+        Paimon: Huh, that's true. We've gotta help Ann find the Princess first, don't we?
 Mary-Ann (???): Hide and seek, hide and seek, where did Mary and her friends go? ♪
 Paimon: Huh? Sounds like someone's singing over there...
-Traveler: ...Let's put a pin in that for now.
-Paimon: Huh, that's true. We've gotta help Ann find the Princess first, don't we?
-Traveler: One mystery follows another.
 
 ## Talk 14
 
@@ -140,7 +149,12 @@ Paimon: Well, uh, thanks for being polite and all, but... Ann, what's going on?
 Ann: I don't know... But this can't be Mori.
 Mary-Ann: He has always kept me company.
 Paimon: Hmm. Does this mean that we've been wrong all along about what dogs really look like?
-Traveler: Hard to say.
+    Option 1:
+        Traveler: Hard to say.
+    Option 2:
+        Traveler: I doubt it.
+    Option 3:
+        Traveler: Don't fuss over the details too much.
 Mary-Ann: Water can take any shape, and life can choose what form it must take. This, however, has nothing to do with its essence. That is a different matter.
 Paimon: Ah, didn't Al say something similarly weird?
 Mary-Ann: I have heard something similar said, that the body is a prison that restricts evolution. That person was once a child, like all the others.
@@ -162,7 +176,11 @@ Ann: But this is the end of the path. She has to be here!
 Paimon: But Mary-Ann said...
 Paimon: Um, so, that's gotta mean that one of you is mistaken, right?
 Paimon: #Right? Traveler?
-Traveler: Hmm...
+    Option 1:
+        Traveler: Hmm...
+    Option 2:
+        Traveler: Do you really want to hear what I have to say?
+        Paimon (Ann & "Mary-Ann"): ...
 Paimon: Of course! You've got the bigger brain here, don't you?
 Traveler: Paimon, all we experienced so far was just a "story."
 Paimon: Wait, b—but didn't we team up with the Narzissenkreuz Adventure Team to defeat Narcissus's henchmen? Wasn't that real?
@@ -188,10 +206,6 @@ Ann: I am... Ann. I must rescue Princess Lyris...
 Mary-Ann: #Alright, Traveler, Paimon, and dearest Ann. Our time is up. I enjoyed our time together, but I'm afraid it is time for you to leave.
 Mary-Ann: Why did you have to say it was fiction if you already knew? Spare a thought for Ann's feelings, at least...
 Paimon: Hmm?
-Traveler: Do you really want to hear what I have to say?
-Paimon (Ann & "Mary-Ann"): ...
-Traveler: I doubt it.
-Traveler: Don't fuss over the details too much.
 
 ## Talk 20
 
@@ -243,7 +257,10 @@ Paimon: Uh, well, we're...
 Paimon: Actually, Paimon's not sure either. We defeated the fell dragon Narcissus, and then we ended up here somehow...
 Mary-Ann: The "fell dragon Narcissus," you say? That must've been a frightening foe.
 Paimon: #Uh... Did you think so, Traveler?
-Traveler: Not really...
+    Option 1:
+        Traveler: Not really...
+    Option 2:
+        Traveler: In a manner of speaking, I suppose.
 Mary-Ann: My, I've heard that Narcissus has hurt many, and has turned many kingdoms to ash. Defeating him was an impressive feat indeed!
 Paimon: Ooh, so you know about him, too? Great! We're from the Narzissenkreuz Kingdom, and we're looking for Princess Lyris. Do you know where we might find her?
 Mary-Ann: "Princess Lyris," you say... I'm afraid I do not know.
@@ -256,20 +273,21 @@ Paimon (???): (You hear the sound of a bell...)
 Paimon: Eh? Is that the bell?
 Mary-Ann: Yes! That's the signal for teatime. In the past, the children would throw down their wooden swords the moment they heard this bell, and they would come into the hall to have snacks!
 Mary-Ann: They're not here now, but I think it best to follow the rules all the same. They'd be quite disappointed otherwise, I suspect. Well then, shall we?
-Traveler: Don't mind if I do.
-Paimon: Hurray, snacks!
-Black Screen Text: You and Paimon enjoy the snacks together.
+    Option 1:
+        Traveler: Don't mind if I do.
+        Paimon: Hurray, snacks!
+        Black Screen Text: You and Paimon enjoy the snacks together.
 They look very beautiful, but they are tasteless like pure water.
+    Option 2:
+        Traveler: Thanks, but I'm not hungry at the moment...
+        Paimon: Hehe! In that case, your share's Paimon's!
+        Black Screen Text: Paimon happily digs in.
+As you watch her enjoy the snacks, you find yourself feeling a little peckish, too.
 Mary-Ann: How were they?
 Paimon: Well, they were great... Although Paimon couldn't really... taste them? Are you on a low-sugar diet or something, Mary-Ann?
 Mary-Ann: Hmm? My apologies, Paimon. I just made them as I remember them, so I'm not sure if they'll taste all that good...
 Paimon: Oh, don't worry about it! At... at least Paimon's full now!
 Mary-Ann: Well, in that case, let me take you all out on a stroll!
-Traveler: Thanks, but I'm not hungry at the moment...
-Paimon: Hehe! In that case, your share's Paimon's!
-Black Screen Text: Paimon happily digs in.
-As you watch her enjoy the snacks, you find yourself feeling a little peckish, too.
-Traveler: In a manner of speaking, I suppose.
 
 ## Talk 24
 
@@ -295,11 +313,17 @@ Ann: I did, sort of. I could sense that she was speaking of something terrible t
 Paimon: Well, Paimon feels that that's unfair — not just to you, Ann, but to us too!
 Paimon: That's why we've gotta find out what happened, at least. If we do, we can come up with some sort of plan!
 Paimon: #Whether it be saving the Princess or figuring out what Mary-Ann said, or whatever, we just wanna help you, Ann! Isn't that right, Traveler?
-Traveler: This "story" isn't over, Ann.
+    Option 1:
+        Traveler: This "story" isn't over, Ann.
+    Option 2:
+        Traveler: We'll find a way.
 Ann: Okay...
 Paimon: #Still, if this is all just a story, then there's one thing Paimon doesn't get. What role do we play, Traveler?
 Traveler: I can't be sure, but I think we're most likely...
-Traveler: Undefined factors.
+    Option 1:
+        Traveler: Undefined factors.
+    Option 2:
+        Traveler: An accident.
 Traveler: And that's why we can bring this story to an end.
 Paimon: Ah, Paimon gets it. So that's why Ann found us and brought us into the story.
 Paimon: #You might not have thought about it, Ann, but since we've been able to knock this story off course, that means that we've opened all sorts of unknown possibilities. Isn't that right, Traveler?
@@ -308,8 +332,6 @@ Ann: #*sniff* Thank you, Knight Traveler. Thank you, Paimon...
 Paimon: That's why we also need your help, Ann. And since we need to continue our adventure, well... Can you think of anything that could help us figure out what to do next?
 Ann: Hmm... Let me think...
 Ann: My memories contain a place known as the *Narzissenkreuz Ordo*. This place appears to have very deep connections to past events.
-Traveler: An accident.
-Traveler: We'll find a way.
 
 ## Talk 99
 
@@ -337,12 +359,14 @@ Ann: Missing text (229786170)
 ## Talk 104
 
 Paimon: Huh, y'know, Paimon just realized that this name has something to do with the Kingdom and Adventure Team in Ann's story...
-Traveler: Only just?
-Paimon: C'mon, we were busy adventuring — there wasn't that much time for Paimon to think!
+    Option 1:
+        Traveler: Only just?
+        Paimon: C'mon, we were busy adventuring — there wasn't that much time for Paimon to think!
+    Option 2:
+        Traveler: Gasp! Shock! So that's it!
 Ann: Do you know of the Narzissenkreuz Ordo?
 Paimon: Yup, and we also met some people who are really connected to it. They might be able to help us.
 Paimon: In any case, let's go!
-Traveler: Gasp! Shock! So that's it!
 
 ## Talk 105
 

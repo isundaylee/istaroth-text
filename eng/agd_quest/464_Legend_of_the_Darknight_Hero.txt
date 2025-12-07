@@ -14,38 +14,46 @@ Paimon: If so, Paimon needs to take a deep breath first!
 Charles: Hahaha, it's not a particularly scary story, no... At least, not for most people...
 Charles: It's the tale of... the Darknight Hero!
 Paimon: Argh!!!
-Traveler: Paimon, he literally just said it's NOT a scary story.
-Paimon: Huh? Did the bartender just say something?
-Charles: You weren't even listening?
+    Option 1:
+        Traveler: Paimon, he literally just said it's NOT a scary story.
+        Paimon: Huh? Did the bartender just say something?
+        Charles: You weren't even listening?
+    Option 2:
+        Traveler: Argh!
+        Charles: Hey. Look, do you want to hear the story or not?
+        Paimon: Wha— What did the bartender just say?
 Charles: Anyway, the Darknight Hero.
 Charles: It is said that he appears in the middle of the night to fight evil and uphold justice.
 Charles: But to be honest, I don't have much interest in such rumors.
 Charles: Unless of course he can help take care of the more belligerent patrons after they've had a few too many...
 Charles: I would happily take that as proof of his existence.
-Traveler: Has anyone ever seen him?
-Charles: I'm told that there have been a handful of sightings. But in the depths of night, no one can get a good look at him.
-Charles: Perhaps that's why he only appears at night.
-Charles: Nevertheless, the sightings confirm that the Darknight Hero is more than just a groundless rumor.
+    Option 1:
+        Traveler: Has anyone ever seen him?
+        Charles: I'm told that there have been a handful of sightings. But in the depths of night, no one can get a good look at him.
+        Charles: Perhaps that's why he only appears at night.
+        Charles: Nevertheless, the sightings confirm that the Darknight Hero is more than just a groundless rumor.
+    Option 2:
+        Traveler: Why would he hide his identity?
+        Charles: I doubt anyone knows but him.
+        Charles: Maybe he enjoys being a man of mystery.
+        Charles: After all, it's a good way to get the ladies' attention.
 Charles: Any guy in the tavern could tell you that.
 Charles: Hehe, anyway... That's more or less everything I know.
 Charles: If you want to know more, ask around in the plaza. Ah, I need to serve some customers.
 Paimon: "Darknight Hero"... seems like your standard cookie-cutter urban legend.
 Paimon: But just a little darker.
 Paimon: Wonder who it could be. Once you're ready, let's head out to the *plaza* and ask around!
-Traveler: Why would he hide his identity?
-Charles: I doubt anyone knows but him.
-Charles: Maybe he enjoys being a man of mystery.
-Charles: After all, it's a good way to get the ladies' attention.
-Traveler: Argh!
-Charles: Hey. Look, do you want to hear the story or not?
-Paimon: Wha— What did the bartender just say?
 
 ## Talk 2
 
 Margaret: You want to find out about the Darknight Hero?
 Margaret: Look no further. It's me! I am the Darknight Hero.
-Traveler: You're kidding, right?
-Margaret: *giggle* You're right, I'm not. I was joking.
+    Option 1:
+        Traveler: You're kidding, right?
+        Margaret: *giggle* You're right, I'm not. I was joking.
+    Option 2:
+        Traveler: Just as I thought — it was you all along!
+        Margaret: ...I'm joking. Don't take everything so seriously.
 Traveler: Huh...
 Paimon: Heh...
 Margaret: Heh. Jokes aside, I do think that the Darknight Hero and I have one thing in common.
@@ -61,8 +69,6 @@ Margaret: Heh. No, it's nothing like that. I just have too much time on my hands
 Paimon: Same difference, you are the boss of the Cat's Tail after all...
 Margaret: Why don't you ask the guards at the *city gate*?
 Margaret: They do night shifts all the time, they must know something.
-Traveler: Just as I thought — it was you all along!
-Margaret: ...I'm joking. Don't take everything so seriously.
 
 ## Talk 3
 
@@ -80,9 +86,13 @@ Lawrence: He was dressed in black from head to toe, perfectly hidden in the nigh
 Lawrence: The way he crept up on those bad guys, it must have felt like a living nightmare.
 Paimon: Wow...
 Lawrence: Guess what I did next?
-Traveler: Ran away?
-Lawrence: I wasn't the bad guy! Why would I need to run away?
-Lawrence: ...Still, I did leave the scene. I didn't want to be a nuisance to the Darknight Hero.
+    Option 1:
+        Traveler: Ran away?
+        Lawrence: I wasn't the bad guy! Why would I need to run away?
+        Lawrence: ...Still, I did leave the scene. I didn't want to be a nuisance to the Darknight Hero.
+    Option 2:
+        Traveler: Became his sidekick?
+        Lawrence: Heh... I would probably have just gotten in the way as far as the Darknight Hero is concerned.
 Lawrence: ...So instead, I headed to the Knights of Favonius' residence.
 Traveler: You think the Darknight Hero might be one of the Knights?
 Lawrence: Correct. I thought, "Surely someone with such a strong sense of justice and who voluntarily protects Mondstadt is exactly the kind of person you'd find in the Knights of Favonius."
@@ -94,8 +104,6 @@ Lawrence: I'm sure they would warmly welcome someone of his abilities.
 Paimon: So the point you're trying to make is... You don't know who the Darknight Hero is either?
 Lawrence: Hey, don't be like that! At least by talking to me you've ruled out a few more people...
 Lawrence: Anyway, try asking at the *Flower Shop*. I heard a girl there's been talking about the time he rescued her.
-Traveler: Became his sidekick?
-Lawrence: Heh... I would probably have just gotten in the way as far as the Darknight Hero is concerned.
 
 ## Talk 4
 
@@ -112,24 +120,29 @@ Donna: But ever since the time I was rescued by the Darknight Hero... I—I just
 Paimon: Wowee, you saw the Darknight Hero? For real? What's he like?
 Donna: It all happened so fast... I was so scared...
 Donna: All I remember is seeing a flash of fire... but I felt safe. I only saw his silhouette but it felt so... familiar.
-Traveler: A flash of fire... a Vision, perhaps?
-Donna: Who knows? Now that you mention it, a Pyro Vision does seem like a good explanation.
-Donna: It lit up the whole area in an instant. I remember that very well.
+    Option 1:
+        Traveler: A flash of fire... a Vision, perhaps?
+        Donna: Who knows? Now that you mention it, a Pyro Vision does seem like a good explanation.
+        Donna: It lit up the whole area in an instant. I remember that very well.
+    Option 2:
+        Traveler: Familiar? Could it be someone you know?
+        Donna: Hmm... That I really do not know.
+        Donna: Perhaps it was... fate?
+        Donna: You know? When you meet someone and it feels like... like you've known them your whole life?
 Paimon: Oookay then! Well, thanks for the intel Donna. See you around!
 Paimon: So, based on what we know so far...
 Paimon: All we need to do is find a wealthy, Vision-wielding vigilante who is not one of the Knights.
 Paimon: Hmm... Nope, still no idea.
 Paimon: But we already asked so many people. Guess we got to see for ourselves.
 Paimon: Let's take a look around the city at nighttime — if we're lucky, we just might bump into him.
-Traveler: Familiar? Could it be someone you know?
-Donna: Hmm... That I really do not know.
-Donna: Perhaps it was... fate?
-Donna: You know? When you meet someone and it feels like... like you've known them your whole life?
 
 ## Talk 5
 
 Diluc: After managing to steer clear of the guards' patrol route... I never anticipated I'd run into you instead.
-Traveler: The Darknight Hero! I knew it was you all along!
+    Option 1:
+        Traveler: The Darknight Hero! I knew it was you all along!
+    Option 2:
+        Traveler: Diluc!? YOU are the Darknight Hero?
 Diluc: "Darknight Hero..."? Sounds awfully derivative to me. Please tell me you didn't come up with that.
 Paimon: How is this the first you've heard of the name? Every man and his dog in Mondstadt is yapping about the Darknight Hero!
 Diluc: I do not concern myself with idle chatter... Though, I suppose I may take the idleness of others as a sign that peace prevails.
@@ -148,12 +161,20 @@ Diluc: It was the Abyss Order.
 Paimon: Them again?
 Diluc: I don't know what the devil they're plotting this time. It seems they're performing some initial reconnaissance.
 Diluc: Considering that I've proven myself to be one step ahead of them on countless occasions, their persistence is... unusual.
-Traveler: Have you been dealing with them alone the whole time?
-Diluc: I assume so, unless you're aware of any other "Darknight Heroes" around these parts.
+    Option 1:
+        Traveler: Have you been dealing with them alone the whole time?
+        Diluc: I assume so, unless you're aware of any other "Darknight Heroes" around these parts.
+    Option 2:
+        Traveler: Why don't you get the Knights of Favonius to help?
+        Diluc: Hmph. Who would be helping whom is debatable.
 Diluc: The Knights are, for the most part, an utterly incompetent bunch.
 Diluc: I cannot trust them to take this matter over.
-Traveler: So this is a job for the mighty Diluc then.
-Diluc: *sigh* That's not my point. I am not doing this to impress anyone.
+    Option 1:
+        Traveler: So this is a job for the mighty Diluc then.
+        Diluc: *sigh* That's not my point. I am not doing this to impress anyone.
+    Option 2:
+        Traveler: It seems you have history with the Knights.
+        Diluc: What's past is past. I would prefer not to discuss it.
 Diluc: Well, I hope this conversation has been of service to you — because I would like to ask for a favor in return.
 Paimon: Ooh, what is it Master Diluc? Your wish is our command~
 Diluc: You must keep my identity a secret.
@@ -164,11 +185,6 @@ Diluc: They appear to just be small-timers. You should have no trouble dealing w
 Diluc: I cannot afford delays on account of a few lackeys. I shall have to let you take care of them.
 Diluc: Remember — don't tell a soul!
 Paimon: Hey! You're just gonna leave us like this!?
-Traveler: It seems you have history with the Knights.
-Diluc: What's past is past. I would prefer not to discuss it.
-Traveler: Why don't you get the Knights of Favonius to help?
-Diluc: Hmph. Who would be helping whom is debatable.
-Traveler: Diluc!? YOU are the Darknight Hero?
 
 ## Talk 6
 
@@ -218,7 +234,10 @@ Huffman: Greetings. I thought I heard something, so I came to check it out.
 Huffman: Did you see anything out of the ordinary?
 Paimon: Nope. Nuh-uh. Not here. Nothing. Zilch.
 Paimon: ...Unless you're looking for the Darknight Hero, in which case—
-Traveler: Shut it, Paimon!
+    Option 1:
+        Traveler: Shut it, Paimon!
+    Option 2:
+        Traveler: Ahem! *cough*...
 Huffman: The Darknight Hero? You saw him?
 Paimon: #Oh, ahh... The Darknight Hero, is ahh... him!
 Traveler: ...
@@ -228,13 +247,14 @@ Huffman: Wait a second... Aren't you the Traveler that just arrived in the city?
 Huffman: Rumors were circulating about the Darknight Hero long before you ever arrived here.
 Paimon: Oh... Ah...
 Huffman: ...Why would you lie to me about that?
-Traveler: Well...
+    Option 1:
+        Traveler: Well...
+    Option 2:
+        Traveler: Sorry...
 Huffman: Hmm. Never mind, you don't seem like bad folks.
 Huffman: But I do hope you will visit the Knights of Favonius soon, where we can discuss the Darknight Hero situation in more detail.
 Huffman: Some things are best not discussed in public.
 Huffman: Duty calls. I must be going. Stay safe, Traveler!
-Traveler: Sorry...
-Traveler: Ahem! *cough*...
 
 ### Additional Talk 4
 

@@ -20,22 +20,26 @@ Paimon: Do you mean the monster trapped inside? We've dealt with it already.
 Aradashan: Really? So the Big Iron Chunk was destroyed? Great news! Aradashan was about to shed leaves at the thought of them pouring out!
 Aradashan: #So Nara Traveler and Paimon took down the Big Iron Chunk here?
 Paimon: We've taken loads of monsters like them down in the past!
-Traveler: It's routine for us now.
+    Option 1:
+        Traveler: It's routine for us now.
+    Option 2:
+        Traveler: Have you really helped in any combat?
+        Paimon: Hehe, Paimon knows just where to hide!
 Aradashan: #Aradashan didn't expect Nara Traveler to be so powerful. Uh, can Nara Traveler help...?
 Paimon: Could it be related to the stone locks?
 Aradashan: So smart, Paimon! Aradashan is somewhat a bit surprised...
 Paimon: What is there to be surprised about!?
 Aradashan: Hehe, yes, it is related to the stone locks.
 Aradashan: #There are sixteen stone locks in total in the forest with Big Iron Chunks inside... Can Traveler defeat them?
-Traveler: Of course.
+    Option 1:
+        Traveler: Of course.
+    Option 2:
+        Traveler: If we see them.
 Aradashan: #Oh, Nara Traveler is such a nice Nara. Aradashan thanks Nara Traveler from the bottom of Aradashan's heart!
 Aradashan: Come see Aradashan once you've beaten all the Big Iron Chunks!
 Aradashan: If you could beat all the Big Iron Chunks, you must also be able to...
 Paimon: ?
 Aradashan: #Heh, Aradashan will save that for when Nara Traveler comes back!
-Traveler: If we see them.
-Traveler: Have you really helped in any combat?
-Paimon: Hehe, Paimon knows just where to hide!
 
 ## Talk 4
 
@@ -73,15 +77,17 @@ Traveler: I know you'll get there.
 Aradashan: #When you want to, Nara Traveler, just sing the Rhythm of the Great Dream like when you entered Vanarana.
 Aradashan: Then you can join and share our dream of the Bulky Iron Chunk.
 Paimon: Somehow that sounds more like a nightmare...
-Traveler: Do you dream about fighting, Paimon?
-Paimon: Paimon doesn't want to dream about fighting! Paimon only wants to dream about eating delicious food!
+    Option 1:
+        Traveler: Do you dream about fighting, Paimon?
+        Paimon: Paimon doesn't want to dream about fighting! Paimon only wants to dream about eating delicious food!
+    Option 2:
+        Traveler: It's not dangerous in dreams.
+        Paimon: True, it's their dream, after all. The Perpetual Mechanical Array won't be real and we won't get hurt.
 Aradashan: Aradashan will go train in dreams with Arasata, Arayuta, and Arasaha now!
 Arasata: #As a sign of my gratitude, Nara Traveler, I shall remember you with the first ray of dawn.
 Arayuta: #Nara Traveler, is as great as Nara Varuna!
 Arasaha: ...You will not be forgotten.
 Aradashan: Yes, let's meet again in the dream later!
-Traveler: It's not dangerous in dreams.
-Paimon: True, it's their dream, after all. The Perpetual Mechanical Array won't be real and we won't get hurt.
 
 ## Talk 9
 
@@ -102,7 +108,11 @@ Paimon: Do you mean the monster trapped inside? We've dealt with it already.
 Aradashan: Really? So the Big Iron Chunk was destroyed? Great news! Aradashan was about to shed leaves at the thought of them pouring out!
 Aradashan: #So Nara Traveler and Paimon took down the Big Iron Chunk here?
 Paimon: We've taken loads of monsters like them down in the past!
-Traveler: It's routine for us now.
+    Option 1:
+        Traveler: It's routine for us now.
+    Option 2:
+        Traveler: Have you really helped in any combat?
+        Paimon: Hehe, Paimon knows just where to hide!
 Aradashan: #Aradashan didn't expect Nara Traveler to be so powerful. Uh, can Nara Traveler help...?
 Paimon: Could it be related to the stone locks?
 Aradashan: So smart, Paimon! Aradashan is somewhat a bit surprised...
@@ -112,8 +122,6 @@ Aradashan: #There are sixteen stone locks in total in the forest with Big Iron C
 Traveler: Only 16? We've dealt with it.
 Aradashan: #Oh! Nara Traveler and Paimon are so amazing! Now Aradashan knows why the air and ground in the forest have become cleaner.
 Aradashan: Wait for Aradashan! Aradashan is going to get the friends!
-Traveler: Have you really helped in any combat?
-Paimon: Hehe, Paimon knows just where to hide!
 
 ## Talk 10
 
@@ -148,13 +156,19 @@ Aradashan: If we could defeat them with Ararakalari like Arabalika can, we would
 Paimon: So you wanted to beat the Big Iron Chunks yourselves...
 Paimon: Uh... How did that become our problem?
 Aradashan: Uh, we can't defeat the Big Iron Chunks right now, so if we released them from those stone locks just like that...
-Traveler: That would indeed be very dangerous.
+    Option 1:
+        Traveler: That would indeed be very dangerous.
+    Option 2:
+        Traveler: The consequences would be unimaginable.
 Aradashan: #But Nara Traveler is powerful and can defeat the Big Iron Chunks. With Nara Traveler's help, we can beat the mighty Bulky Iron Chunk!
 Paimon: So you called us here to deal with the Bulky Iron Chunk?
 Aradashan: Bulky Iron Chunk is mightier than Big Iron Chunk. We could only contain it with our Ararakalari.
 Aradashan: #So when Aradashan saw Nara Traveler defeat Big Iron Chunks, Aradashan thought Nara Traveler could defeat Bulky Chunk.
 Aradashan: #So Aradashan would like to ask Nara Traveler for another favor...
-Traveler: Whatever kind of iron chunk it is.
+    Option 1:
+        Traveler: Whatever kind of iron chunk it is.
+    Option 2:
+        Traveler: I'll help.
 Aradashan: #Oh, Nara Traveler is such a nice Nara!
 Arayuta: #Nara Traveler glows as bright as gold, just like Nara Varuna did in the tales!
 Arasata: #Nara Traveler is so helpful, like the rain in a drought!
@@ -162,8 +176,6 @@ Arasaha: Thank you.
 Paimon: But you said that the Bulky Iron Chunk is under a lake, right? So, how will we get there?
 Aradashan: It's okay. We just need to lower the water level and make a passage!
 Aradashan: #Please wait a while, Nara Traveler, and we'll see you in the lake.
-Traveler: I'll help.
-Traveler: The consequences would be unimaginable.
 
 ## Talk 11
 
@@ -280,13 +292,19 @@ Aradashan: If we could defeat them with Ararakalari like Arabalika can, we would
 Paimon: So you wanted to beat the Big Iron Chunks yourselves...
 Paimon: Uh... How did that become our problem?
 Aradashan: Uh, we can't defeat the Big Iron Chunks right now, so if we released them from those stone locks just like that...
-Traveler: That would indeed be very dangerous.
+    Option 1:
+        Traveler: That would indeed be very dangerous.
+    Option 2:
+        Traveler: The consequences would be unimaginable.
 Aradashan: #But Nara Traveler is powerful and can defeat the Big Iron Chunks. With Nara Traveler's help, we can beat the mighty Bulky Iron Chunk!
 Paimon: So you called us here to deal with the Bulky Iron Chunk?
 Aradashan: Bulky Iron Chunk is mightier than Big Iron Chunk. We could only contain it with our Ararakalari.
 Aradashan: #So when Aradashan saw Nara Traveler defeat Big Iron Chunks, Aradashan thought Nara Traveler could defeat Bulky Chunk.
 Aradashan: #So Aradashan would like to ask Nara Traveler for another favor...
-Traveler: Whatever kind of iron chunk it is.
+    Option 1:
+        Traveler: Whatever kind of iron chunk it is.
+    Option 2:
+        Traveler: I'll help.
 Aradashan: #Oh, Nara Traveler is such a nice Nara!
 Arayuta: #Nara Traveler glows as bright as gold, just like Nara Varuna did in the tales!
 Arasata: #Nara Traveler is so helpful, like the rain in a drought!
@@ -294,8 +312,6 @@ Arasaha: Thank you.
 Paimon: But you said that the Bulky Iron Chunk is under a lake, right? So, how will we get there?
 Aradashan: It's okay. We just need to lower the water level and make a passage!
 Aradashan: #Please wait a while, Nara Traveler, and we'll see you in the lake.
-Traveler: I'll help.
-Traveler: The consequences would be unimaginable.
 
 ## Talk 36
 

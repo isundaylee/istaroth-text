@@ -17,10 +17,12 @@ Paimon: Oh, looks like Sayu's team is already here. Well, guess we'll just... pl
 Ei: #Traveler... During the battle tomorrow, it is imperative you know your limits. If the enemy proves too much to handle... leave them to me.
 Traveler: But—
 Ei: I know... I understand your concerns, just as you know mine. We need not say any more than that. Just get some rest and prepare yourself for the battle to come.
-Traveler: Okay.
+    Option 1:
+        Traveler: Okay.
+    Option 2:
+        Traveler: Get some rest, Ei.
 Ei: ...
 Ei: Ah, one more thing... Thank you.
-Traveler: Get some rest, Ei.
 
 ## Talk 4
 
@@ -54,7 +56,10 @@ Inoue: ...Right away!
 Paimon: Three orders? So, Paimon gets one, too?
 Ei: Yes, I wanted to thank you for accompanying me. Without you by my side, I imagine the people here would be on edge even now.
 Ei: I have my reasons for being here, of course, but I would hate to tarnish the festive atmosphere.
-Traveler: This festival is for everyone.
+    Option 1:
+        Traveler: This festival is for everyone.
+    Option 2:
+        Traveler: Including you.
 Ei: Heh, indeed. The Mikawa Flower Festival... Hundreds of years have passed since I last partook in the festivities. Much is different this time — the people, the place, the games...
 Ei: Yet, the name endures, and the joy of celebration along with it... I suppose that, in itself, is a form of Eternity.
 Yumemizuki Mizuki: #Traveler, Paimon... and the Almighty Shogun?
@@ -73,7 +78,10 @@ Yumemizuki Mizuki: You've been under a lot of pressure yourselves, with the inve
 Paimon: #Of course we would! Right, Traveler?
 Ei: ...I will remain here. I rarely have time away from Tenshukaku, and I would like to continue perusing the stalls.
 Paimon: Aw... That's too bad...
-Traveler: Then, I'm not going, either...
+    Option 1:
+        Traveler: Then, I'm not going, either...
+    Option 2:
+        Traveler: Okay, I'll go...
 Yumemizuki Mizuki: #Ah, I almost forgot! Miko wanted to talk to you, Traveler. I'll take you to her first.
 Ei: Oh? Well why don't we all go—
 Inoue: Almighty Shogun! Your Dango Milk is ready...
@@ -81,10 +89,17 @@ Paimon: Oooh... Delicious!
 Yumemizuki Mizuki: No need, Shogun! Miko just had some quick things to go over with the judges, that's all — you and Paimon can wait here. We'll only be a minute!
 Traveler: Be right back.
 Yumemizuki Mizuki: ...Alright, now we can talk freely.
-Traveler: Miko doesn't need to see me, does she...
+    Option 1:
+        Traveler: Miko doesn't need to see me, does she...
+    Option 2:
+        Traveler: You needed to talk to me in private. Why?
 Yumemizuki Mizuki: I think something's off with the Shogun. You've been with her the whole day. Have you noticed anything?
-Traveler: S—Something off? No...
-Yumemizuki Mizuki: Up close, sometimes it's hard to see the whole picture... I think something is troubling her.
+    Option 1:
+        Traveler: S—Something off? No...
+        Yumemizuki Mizuki: Up close, sometimes it's hard to see the whole picture... I think something is troubling her.
+    Option 2:
+        Traveler: Yeah, she seems troubled...
+        Yumemizuki Mizuki: Exactly! You noticed, too...
 Traveler: (Something did seem off with Ei today... Maybe she's not used to leaving Tenshukaku? Or was it the reaction of the crowd...?)
 Traveler: (No, we've been through so much. Something so trivial wouldn't shake her... She must be keeping something to herself...)
 Yumemizuki Mizuki: I've witnessed a lot of cases where patients, for a variety of reasons, are unwilling or unable to seek help. Unfortunately, that only exacerbates the problem...
@@ -105,31 +120,34 @@ Paimon: Okay... Paimon will bring you back a Hot Spring Egg!
 Ei: ...There is no need to stay behind on my behalf. If you leave now, I'm sure you can catch up.
 Traveler: Something tells me YOU chose to stay behind on OUR behalf...
 Ei: ...What makes you say that?
-Traveler: You want everyone to relax.
+    Option 1:
+        Traveler: You want everyone to relax.
+    Option 2:
+        Traveler: You don't want people to be on edge because of you.
 Ei: ...If my presence makes them nervous or impedes their ability to relax, does that not defeat the purpose of going to the hot springs?
 Ei: I already disturbed their progress by coming to the festival. The last thing everyone needs is more distractions.
 Traveler: ...But, aren't you under pressure, too?
 Ei: As you know, this body is hardly that fragile. It can operate for another hundred years with no issue.
 Traveler: ...You didn't deny it.
 Ei: ...Hah. Mortals are weak in body and mind. If there is a choice of who to bear such a burden, naturally that person should be me.
-Traveler: What if you didn't have to worry about bothering anyone...
+    Option 1:
+        Traveler: What if you didn't have to worry about bothering anyone...
+    Option 2:
+        Traveler: Would you agree to go to the hot springs then?
 Ei: What does it matter? The world is not so easily bent to one's will...
 Traveler: I'll take that as a yes.
-Traveler: I have a pair of special coupons here...
+    Option 1:
+        Traveler: I have a pair of special coupons here...
+    Option 2:
+        Traveler: We can get into the bathhouse after closing.
 Ei: #Heh, what clever verbal tricks, Traveler... It appears you've been spending too much time with Miko.
 Traveler: It's an honest offer...
 Ei: You think you can get away with manipulating the Shogun? I wouldn't be so sure...
-Traveler: ...C'mon, let's go!
+    Option 1:
+        Traveler: ...C'mon, let's go!
+    Option 2:
+        Traveler: You'll go, won't you?
 Ei: *sigh* Persistent indeed... Very well. As you proposed, we shall set out at midnight.
-Traveler: You'll go, won't you?
-Traveler: We can get into the bathhouse after closing.
-Traveler: Would you agree to go to the hot springs then?
-Traveler: You don't want people to be on edge because of you.
-Traveler: Yeah, she seems troubled...
-Yumemizuki Mizuki: Exactly! You noticed, too...
-Traveler: You needed to talk to me in private. Why?
-Traveler: Okay, I'll go...
-Traveler: Including you.
 
 ## Talk 8
 
@@ -148,14 +166,20 @@ Ei: Yes, there are Royal Hot Springs near Tenshukaku. But, the plans were set in
 Ei: When the project was complete, I was already in the Plane of Euthymia... And, naturally, the body of the Shogun has no need for such luxuries.
 Traveler: Hiiragi Hiroshi...
 Ei: The members of the Kanjou Commission were once friends with Makoto and the Kitsune Saiguu. Although mere mortals, those who managed to survived back then were special individuals indeed.
-Traveler: What happened back then?
+    Option 1:
+        Traveler: What happened back then?
+    Option 2:
+        Traveler: Does it have anything to do with what's happening right now?
 Ei: ...What makes you say that?
 Traveler: The look on your face...
 Ei: ...
 Ei: ...Now I see why my officials claim that the hot springs facilitate conversation. Even I find myself divulging more than intended.
 Ei: ...You're correct. Following the dark disaster five hundred years ago, a Nightmare engulfed Inazuma.
 Ei: On a battlefield consumed in darkness, our soldiers fought against dark forces, creatures capable of possessing people and trapping them in nightmares. Even the Yumekui-Baku could do nothing to wake them.
-Traveler: As awful as that sounds...
+    Option 1:
+        Traveler: As awful as that sounds...
+    Option 2:
+        Traveler: It doesn't seem bad enough to make you this upset.
 Ei: ...Perhaps not. The battle was intense. Those who stood up in defense of this land knew the chance of survival was slim. In the face of certain death, surely a nightmare is nothing to fear...
 Ei: But, what if I told you this... If the person trapped in the nightmare was strong enough to overcome incapacitation, it would become a waking nightmare instead.
 Ei: The person would lose all capacity to distinguish dream from reality, perceiving everything in the real world as a continuation of the war.
@@ -163,9 +187,15 @@ Ei: And every precious thing in life as an enemy to be annihilated... That is a 
 Traveler: (...If I hadn't broken out of the nightmare yesterday, would that have happened to me? Then, Ei must be so worried because...)
 Traveler: Did that happen to someone... back then?
 Ei: ...Yes.
-Traveler: And...?
+    Option 1:
+        Traveler: And...?
+    Option 2:
+        Traveler: What happened...?
 Ei: I... unleashed Musou no Hitotachi and struck her down.
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: ...I'm sorry.
 Ei: No need. I have no regrets. I know it was the right decision, both for Inazuma's sake and her own.
 Ei: If necessary, I would do it again.
 Traveler: Ei...
@@ -182,7 +212,10 @@ Ei: ...So, who came up with this idea? I want the truth.
 Yumemizuki Mizuki: I guess... both of us?
 Yae Miko: Well, I happened to consult a certain clinical psychologist about how to get an old friend to open up...
 Yae Miko: In her expert opinion, doing something new with a trusted companion in a new environment can make someone less guarded... Looks like it worked like a charm.
-Traveler: I understand the reasoning...
+    Option 1:
+        Traveler: I understand the reasoning...
+    Option 2:
+        Traveler: But, why not do it yourself?
 Yumemizuki Mizuki: It's one thing to trust that Miko has good intentions, but would you let your guard down around her?
 Traveler: ...Good point.
 Yae Miko: Hehe...
@@ -194,11 +227,6 @@ Rie (???): Help! Help me!
 Traveler: What was that!?
 Traveler: (Then, Ei must be so worried because...)
 Yumemizuki Mizuki: Sounds like it came from outside. Let's check it out!
-Traveler: But, why not do it yourself?
-Traveler: ...I'm sorry.
-Traveler: What happened...?
-Traveler: It doesn't seem bad enough to make you this upset.
-Traveler: Does it have anything to do with what's happening right now?
 
 ## Talk 11
 
@@ -220,7 +248,10 @@ Rie: And, it was... It was me!
 Rie: In that moment, I thought about how people who see their doppelganger usually end up dead, and I fainted from the shock... I don't remember anything after that...
 Yae Miko: A doppelganger? In Inazuma City? But, we only detected traces of the Nightmare around Mt. Yougou...
 Rie: I heard that people encountered doppelgangers on Mt. Yougou, too! C—Could it be the work of some terrible youkai?
-Traveler: Don't worry about that...
+    Option 1:
+        Traveler: Don't worry about that...
+    Option 2:
+        Traveler: The strongest youkai in Inazuma are all right here.
 Yumemizuki Mizuki: Now that we have an understanding of the situation, why don't I take you to the Police Station to file a report?
 Rie: O—Okay...
 Yae Miko: ...The situation is getting worse. If the doppelganger is limited to the festival grounds, that's one thing... But, appearing on a random street in Inazuma City...
@@ -231,7 +262,6 @@ Haruto: A—Another victim... at the... the festival... Kappa... Kappa is... tra
 Yumemizuki Mizuki: What!?
 Yae Miko: But... Sara and the others were keeping watch!
 Ei: Make haste! Back to Mt. Yougou at once!
-Traveler: The strongest youkai in Inazuma are all right here.
 
 ## Talk 12
 
@@ -244,7 +274,10 @@ Kujou Sara: ...No, we have failed you. There is no trace of the enemy...
 Hitotsume Kozou: We split up for just a second, and the next thing we knew, he was on the ground!
 Youko: *whimper*... It... It must be some terrible youkai...
 Shikanoin Heizou: Other than the bake-danuki transformation, there was no trace of youkai power at the scene... It's almost like the culprit's methods are getting more sophisticated.
-Traveler: The doppelganger in Inazuma City...
+    Option 1:
+        Traveler: The doppelganger in Inazuma City...
+    Option 2:
+        Traveler: Also seemed to appear without warning...
 Shikanoin Heizou: Wait... there was a doppelganger in Inazuma City?
 Traveler: Yeah, seems like it...
 Shikanoin Heizou: Doppelgangers... Nightmares... Inazuma City... Mt. Yougou...
@@ -267,7 +300,6 @@ Shikanoin Heizou: ...You flatter me, Lady Guuji. I do have a few ideas...
 Shikanoin Heizou: Up to this point, we've only detected traces of the nightmare creature around Mt. Yougou... And, now, a doppelganger appears in Inazuma City.
 Shikanoin Heizou: Our original thought was that the culprit infiltrated the venue to evade capture... If so, there would be no reason for them to risk exposure by continuing to change form.
 Shikanoin Heizou: Rather than concluding that the nightmare creature, on top of everything, now has the ability to disappear without a trace, I think there's a different possibility...
-Traveler: Also seemed to appear without warning...
 
 ## Talk 13
 
@@ -350,7 +382,10 @@ Paimon: Sara!?
 Shikanoin Heizou: Ah, good morning, you two.
 Paimon: Heizou!? What's going on here?
 Shikanoin Heizou: I was wondering who was daring enough to sneak up on one of our detectives. Maybe I should have expected it to be you.
-Traveler: I guess that makes us "the hunted."
+    Option 1:
+        Traveler: I guess that makes us "the hunted."
+    Option 2:
+        Traveler: So, the Tenryou Commission's on the case.
 Kujou Sara: #Traveler, Paimon...
 Tenryou Commission Member: F—Forgive me, ma'am! I have failed as a detective... I... I did not realize someone was on my tail...
 Kujou Sara: #...Considering Traveler's skill, the fault is not with you.
@@ -411,7 +446,6 @@ Ei: Worry not. Miko and I discussed that issue. She claims to have a plan. The p
 Paimon: One of her genius plans, huh...
 Traveler: Somehow, "scheme" seems more accurate...
 Ei: ...Indeed. If you learn any details of said plan, I would like to know what I'm getting myself into.
-Traveler: So, the Tenryou Commission's on the case.
 
 ## Talk 20
 
@@ -436,7 +470,10 @@ Paimon: Serve the humans? He's not talking about the game development, is he...?
 Ginkaku: *whimper*... Shogun even forced great baku youkai to work all night...
 Yumemizuki Mizuki: Oh... you mean yesterday? That was my choice, actually...
 Paimon: Geez, where are these ideas coming from?
-Traveler: I think there are some misunderstandings...
+    Option 1:
+        Traveler: I think there are some misunderstandings...
+    Option 2:
+        Traveler: Kichiboushi and the others weren't forced into anything...
 Ginkaku: S—Stay back!
 Kinkaku: Humans want to enslave us again!
 Yumemizuki Mizuki: Hold on, something's not right! We should try a different approach...
@@ -450,7 +487,10 @@ Yae Miko: ...If we knew how, we would have done so back then.
 Kinkaku: G—Give us your worst! Kinkaku will never leave the Tanuki path! Kinkaku... Kinkaku will die before serving you!
 Traveler: ...I may have a solution.
 Ei: ...Truly?
-Traveler: If the nightmares come from the Abyss...
+    Option 1:
+        Traveler: If the nightmares come from the Abyss...
+    Option 2:
+        Traveler: There's something I can try...
 Ginkaku: Wh—What are you doing...!? No... Don't!
 Tetsunosuke: ...The humans are everywhere. We can't hide forever...
 Kinkaku: How long have we been hiding? One hundred years? Five hundred years?
@@ -507,8 +547,6 @@ Ei: The Protector of the Grove... It's been five hundred years since our last me
 Ei: The Doppelganger incident has been resolved, but the threat of the Nightmare remains. I will handle the meeting with Ioroi myself.
 Shikanoin Heizou (Shikanoin Heizou & Kujou Sara): Yes, Shogun!
 Kujou Sara (Shikanoin Heizou & Kujou Sara): Yes, Shogun!
-Traveler: There's something I can try...
-Traveler: Kichiboushi and the others weren't forced into anything...
 
 ## Talk 22
 
@@ -600,7 +638,10 @@ Yumemizuki Mizuki: There's just one problem... Since this entity can pass throug
 Yae Miko: Ah, the solution to that... is obvious. If the Nightmare Fragment despises all sources of joy and happiness...
 Yae Miko: Then, naturally, a joyous occasion would be an evil beyond measure — an enemy that must be annihilated at all costs...
 Yumemizuki Mizuki: So, if we want to lure it out...
-Traveler: We need a source of joy.
+    Option 1:
+        Traveler: We need a source of joy.
+    Option 2:
+        Traveler: Then, the obvious target would be...
 Paimon: ...The Mikawa Flower Festival!
 Yae Miko: Hehe, what joy could possibly compare to finishing one's work right before the deadline?
 Ei: ...I would imagine we can all think of a few. But, I agree — the Mikawa Flower Festival is the most plausible target.
@@ -611,7 +652,6 @@ Yae Miko: Alright, I will update everyone back at the festival and start the pre
 Yumemizuki Mizuki: Looks like another all-nighter for me.
 Yae Miko: ...Well, this was your idea. Oh, and don't forget — you need to finish "A Little Fox's Daydream" as well.
 Yumemizuki Mizuki: ...And, in a surprising twist, you were my nightmare all along!
-Traveler: Then, the obvious target would be...
 
 ## Talk 24
 

@@ -8,8 +8,12 @@ Paimon: Wha... What's going on?
 Earnshaw (???): Hmph. Nothing serious. Hero ran away again. It happens all the time — just say the word "inspection," and off Hero takes...
 Earnshaw (???): This time, Prince and Princess fled too... Had I not tripped when taking care of the flower field previously, leaving me with a yet-unhealed leg injury, dealing with those three rascals would've been easy.
 Earnshaw (???): Are you mountaineers? If you'd like a place to rest your feet, you can sit awhile in the house — I shall treat you in a bit once I have brought those three rapscallions back by their scruffs.
-Traveler: Yes, and we have vowed to conquer every high peak in Teyvat.
-Paimon: Wait, we vowed that? Paimon definitely wasn't consulted!
+    Option 1:
+        Traveler: Yes, and we have vowed to conquer every high peak in Teyvat.
+        Paimon: Wait, we vowed that? Paimon definitely wasn't consulted!
+    Option 2:
+        Traveler: We're just passing through.
+        Paimon: Yup, and we definitely wouldn't sidetrack from our original goal because "the mountain was just there" or something like that!
 Paimon: #Well, let's introduce ourselves all the same! Paimon's Paimon, and he's Traveler. We're adventurers — and if you're looking for people, there's no one more experienced than us!
 Paimon: If your legs aren't feeling too good, leave the searching to us!
 Earnshaw (???): Adventurers... Then why don't you wear those green uniforms?
@@ -23,13 +27,20 @@ Paimon: Really? Th—They, uh, sound like... rather kiddy names?
 Earnshaw: My daughter named them. If it was not for her raising hue and cry, I would not have raised such delicate creatures.
 Earnshaw: When they were still pups, they were quite silly and rather cute, but they quickly grew into disobedient little rascals. Try to control them a little, and ah, they resist and they flee.
 Earnshaw: They don't go very far, of course, but one does need to retrieve them all the same. Ah, for a "Hero" to fear something like a tooth inspection... What a joke.
-Traveler: Won't they come back once they get hungry?
-Paimon: Or they might awaken the wild spirit in their blood, return to the mountain forests, and become apex predators! That would be a pretty cool story, wouldn't it?
+    Option 1:
+        Traveler: Won't they come back once they get hungry?
+        Paimon: Or they might awaken the wild spirit in their blood, return to the mountain forests, and become apex predators! That would be a pretty cool story, wouldn't it?
+    Option 2:
+        Traveler: They will probably just play until sundown before returning.
+        Paimon: Yes! there's no place like home, after all.
 Earnshaw: No, no, rules must remain rules. If we let them off once, they will do this a second and third time. And once they get used to doing ill, they will not change for the better easily.
 Paimon: But they're just little doggies, aren't they? Do we really have to be so strict with them?
 Earnshaw: Well, they do have a bad example to follow. That silly daughter of mine left home several years ago and hasn't returned. Well, if they had done exactly as she had, that would have saved me some time!
 Earnshaw: But if she were to return and find her precious dogs, whom she raised hell just to own, gone, she'd bawl for all she's worth... Even though this is all her fault, anyway.
-Traveler: (Sounds like we've walked into a family issue.)
+    Option 1:
+        Traveler: (Sounds like we've walked into a family issue.)
+    Option 2:
+        Traveler: (Best not to ask further.)
 Paimon: Alright, then... So we just need to bring them back home, right?
 Earnshaw: Yes. The forests are dangerous, and get even more so at night. Those dogs do not know how delicate they are. Even if they do not love it, they are safer in here.
 Earnshaw: Hero's run off to the north. For an old dog to still be so playful... Seriously...
@@ -39,11 +50,6 @@ Earnshaw: The other two haven't gone far. They're just mucking about in the flow
 Paimon: Well, this sounds simple. Just leave it to us! You just wait here, Earnshaw. We'll be right back.
 Earnshaw: *Careful about the flowers, by the way. Don't tread on them.*
 Paimon: #Gotcha, we will! *Don't tread on the flowers*, right? Well, never mind Paimon, but Traveler's pretty agile too.
-Traveler: (Best not to ask further.)
-Traveler: They will probably just play until sundown before returning.
-Paimon: Yes! there's no place like home, after all.
-Traveler: We're just passing through.
-Paimon: Yup, and we definitely wouldn't sidetrack from our original goal because "the mountain was just there" or something like that!
 
 ## Talk 2
 
@@ -74,15 +80,17 @@ Lanoire: #Alrighty. Mr. Traveler, Ms. Paimon, you guys rest a while. I'll be rig
 Paimon: Why don't we go with you? It'll be just like when we went on adventures in the Fortress.
 Lanoire: You wanna come with me? That would be great!
 Lanoire: Let me think... then let's call this adventure "Operation Rescue Hero"!
-Traveler: Heroes should be able to get themselves out of trouble on their own.
-Lanoire: But he's just a doggy, and an old one at that! So, it's up to us brave young warriors to rescue him from the dust and mud!
+    Option 1:
+        Traveler: Heroes should be able to get themselves out of trouble on their own.
+        Lanoire: But he's just a doggy, and an old one at that! So, it's up to us brave young warriors to rescue him from the dust and mud!
+    Option 2:
+        Traveler: And what about Prince and Princess?
+        Lanoire: Well... the name would be too long if we tried put them all in! Let's just say that rescuing Hero includes bringing Prince and Princess back inside too.
 Earnshaw: You can go together, just remember not to let Hero eat anything too strange. He more than likely ran off to the north hut to play, if you head north you should run into him.
 Lanoire: Okay! *If he acts up and doesn't want to come home with us, I'll just take his food away*. Then he'll definitely be a good boy and come home!
 Earnshaw: Excellent. Also, *don't trample the flowers behind the fence*!
 Lanoire: #Well, you definitely don't have to worry about Ms. Paimon stepping on any! But don't worry, Grandpa. Mr. Traveler and I will be careful.
 Lanoire: #Mr. Traveler, Ms. Paimon, let's go!
-Traveler: And what about Prince and Princess?
-Lanoire: Well... the name would be too long if we tried put them all in! Let's just say that rescuing Hero includes bringing Prince and Princess back inside too.
 
 ## Talk 4
 
@@ -96,8 +104,12 @@ Earnshaw: Great. You kids play with Lanoire for a little while.
 
 Paimon: Paimon thought that this would be easier... Who knew they'd be so capricious...
 Earnshaw: Well then, children, I hope you now understand that the more capricious they are, the more we need to teach them the rules.
-Traveler: Well, we at least remembered not to tread on the flowers...
-Paimon: If only you could also fly, eh? That would've made things way easier.
+    Option 1:
+        Traveler: Well, we at least remembered not to tread on the flowers...
+        Paimon: If only you could also fly, eh? That would've made things way easier.
+    Option 2:
+        Traveler: Looks like we need a few rules laid down just for you, Paimon.
+        Paimon: Eh? C'mon, Paimon's not like that... Nor is she some kinda disobedient pet!
 Earnshaw: Well, if you're tired, rest here a while before going. Come, have some of this Tasses Ragout I just made while you're at it.
 Paimon: Ooh, goodies! But... Oh, we shouldn't. This doesn't seem right.
 Earnshaw: Come now, do you not trust my skills? I would not speak for other dishes, but I'm very confident in my Ragout, at least.
@@ -123,16 +135,18 @@ Earnshaw: All the same, thank you for helping to bring Hero and the others back.
 Earnshaw: You adventurers often sleep out in the wild, don't you? Well, remember to eat well and dress warmly. Don't starve, or catch a chill.
 Paimon: Yup. You take care of your leg too, Earnshaw!
 Earnshaw: See you. Take good care of yourselves!
-Traveler: Looks like we need a few rules laid down just for you, Paimon.
-Paimon: Eh? C'mon, Paimon's not like that... Nor is she some kinda disobedient pet!
 
 ## Talk 7
 
 Paimon: This operation... is trickier than Paimon expected.
 Lanoire: That's because the giant in the garden really loves those little purple flowers, and he has all kinds of rules.
 Earnshaw: Unruly children should learn to follow the rules while they're still young. It's even harder to teach an old dog new tricks.
-Traveler: You hear that, Paimon?
-Paimon: Huh? What's that got to do with Paimon? She's not an unruly child. Hmph!
+    Option 1:
+        Traveler: You hear that, Paimon?
+        Paimon: Huh? What's that got to do with Paimon? She's not an unruly child. Hmph!
+    Option 2:
+        Traveler: Unruly children get locked up in the garden.
+        Paimon: Hehe, but Paimon's definitely not gonna step on any flowers! Besides, she could fly over a high wall without a witch's help!
 Earnshaw: Have you all tired yourselves out? I just happened to make some Tasses Ragout today, please, sit down and have some.
 Lanoire: #Yes, yes! Mr. Traveler, Ms. Paimon, let's eat together!
 Paimon: #Alright! We couldn't turn down an invitation like that from Lanoire, could we, Traveler? Hehe.
@@ -142,7 +156,11 @@ Black Screen Text: Having been invited inside, you enjoy a simple but delicious 
 Over the meal, you share stories from your journey that astonish the old man and make the little girl burst out laughing.
 A joyful time passes amid conversation and laughter...
 Lanoire: What do you think? Isn't Grandpa's cooking even better than Wolsey's?
-Traveler: It really is.
+    Option 1:
+        Traveler: It really is.
+    Option 2:
+        Traveler: Meh, about the same...
+        Paimon: Paimon thinks Earnshaw's Tasses Ragout is way more delicious! It tastes like... home, if that makes sense?
 Lanoire: #Mr. Traveler, Ms. Paimon, guess what! I helped, too!
 Lanoire: Though for now I can only help a little bit, Grandpa says that as long as I practice, I'll also being able to make Delicious Tasses Ragout someday!
 Lanoire: Hehe, when that day comes, you'll both have to come back and try it for yourselves!
@@ -159,10 +177,6 @@ Paimon: Sounds good. Paimon's sure Caterpillar is looking forward to hearing the
 Earnshaw: You're great kids, thanks for coming to see Lanoire and keeping her company. Here's some Tasses Ragout for the road.
 Earnshaw: You adventurers often sleep out in the wild, don't you? Well, remember to eat well and dress warmly. Don't starve, or catch a chill.
 Paimon: We will! You be sure to look after yourselves, as well.
-Traveler: Meh, about the same...
-Paimon: Paimon thinks Earnshaw's Tasses Ragout is way more delicious! It tastes like... home, if that makes sense?
-Traveler: Unruly children get locked up in the garden.
-Paimon: Hehe, but Paimon's definitely not gonna step on any flowers! Besides, she could fly over a high wall without a witch's help!
 
 ## Talk 8
 
@@ -191,25 +205,29 @@ Earnshaw: Alright. Now, don't be a hero if you run into any trouble on your jour
 ## Talk 13
 
 Traveler: (There are a few opened letters on the table...)
-Traveler: (Read the first letter.)
-Investigate (Letter #1): "Dear Earnshaw, sorry for being unable to contact you for so long. For various reasons, I moved to the Fortress of Meropide and have been living here for quite some time now."
-Investigate (Letter #1): "Life here isn't so bad though! Though, the Tasses Ragout isn't as good as it is back home, and I don't have the company of any cute animals."
-Investigate (Letter #1): "But I have something even more precious in my life now! Speaking of which, I might be able to return home fairly soon."
-Investigate (Letter #1): "If the door is still open for me to return, please write me back! Even one sentence will do, just telling me how you're doing."
-Traveler: (Read the second letter.)
-Investigate (Letter #2): "You didn't write back. Are you still angry? Dad, listen to me. Don't be mad. Why punish yourself for someone else's mistake?"
-Investigate (Letter #2): "Look, I'm the one at fault here. I know I've made mistakes, but that's all in the past now. We can have a fresh start."
-Investigate (Letter #2): "My chronic illness has been flaring up again recently. Nothing like being unwell to make you appreciate the joys of being in good health, huh? I hope all is well with you."
-Investigate (Letter #2): "If you really don't want to tell me how you've been doing, could you at least tell me about Prince, Princess, and Hero? Are they doing okay?"
-Investigate (Letter #2): "I look forward to your response."
-Traveler: (Read the third letter.)
-Investigate (Letter #3): "You're really a stubborn one, Dad. I have some news I was planning to share with you when we saw each other, but I've decided to go ahead and tell you now."
-Investigate (Letter #3): "That precious thing in my life I mentioned? Her name is Lanoire, and she's absolutely lovely. She's like a little flower sprouting out of a crack in the rock, determined to grow even in the absence of sunlight or rain."
-Investigate (Letter #3): "I'd like to bring her home, I just know you'll adore her! Even if your door is closed to me, at the very least, please open it for her, even if just a crack, just to see her."
-Investigate (Letter #3): "After that, I'll bring her to the Court of Fontaine. I'm going to work hard!"
-Investigate (Letter #3): "She still hasn't had a good look at this world, so once we leave the Fortress of Meropide, I'm going to give her all the sunlight the world has to offer!"
-Investigate (Letter #3): "Lutz won't let me write too much, so I'll leave it at that for now. Wishing you well!"
-Traveler: (We should go...)
+    Option 1:
+        Traveler: (Read the first letter.)
+        Investigate (Letter #1): "Dear Earnshaw, sorry for being unable to contact you for so long. For various reasons, I moved to the Fortress of Meropide and have been living here for quite some time now."
+        Investigate (Letter #1): "Life here isn't so bad though! Though, the Tasses Ragout isn't as good as it is back home, and I don't have the company of any cute animals."
+        Investigate (Letter #1): "But I have something even more precious in my life now! Speaking of which, I might be able to return home fairly soon."
+        Investigate (Letter #1): "If the door is still open for me to return, please write me back! Even one sentence will do, just telling me how you're doing."
+    Option 2:
+        Traveler: (Read the second letter.)
+        Investigate (Letter #2): "You didn't write back. Are you still angry? Dad, listen to me. Don't be mad. Why punish yourself for someone else's mistake?"
+        Investigate (Letter #2): "Look, I'm the one at fault here. I know I've made mistakes, but that's all in the past now. We can have a fresh start."
+        Investigate (Letter #2): "My chronic illness has been flaring up again recently. Nothing like being unwell to make you appreciate the joys of being in good health, huh? I hope all is well with you."
+        Investigate (Letter #2): "If you really don't want to tell me how you've been doing, could you at least tell me about Prince, Princess, and Hero? Are they doing okay?"
+        Investigate (Letter #2): "I look forward to your response."
+    Option 3:
+        Traveler: (Read the third letter.)
+        Investigate (Letter #3): "You're really a stubborn one, Dad. I have some news I was planning to share with you when we saw each other, but I've decided to go ahead and tell you now."
+        Investigate (Letter #3): "That precious thing in my life I mentioned? Her name is Lanoire, and she's absolutely lovely. She's like a little flower sprouting out of a crack in the rock, determined to grow even in the absence of sunlight or rain."
+        Investigate (Letter #3): "I'd like to bring her home, I just know you'll adore her! Even if your door is closed to me, at the very least, please open it for her, even if just a crack, just to see her."
+        Investigate (Letter #3): "After that, I'll bring her to the Court of Fontaine. I'm going to work hard!"
+        Investigate (Letter #3): "She still hasn't had a good look at this world, so once we leave the Fortress of Meropide, I'm going to give her all the sunlight the world has to offer!"
+        Investigate (Letter #3): "Lutz won't let me write too much, so I'll leave it at that for now. Wishing you well!"
+    Option 4:
+        Traveler: (We should go...)
 
 ## Talk 15
 
@@ -261,15 +279,17 @@ Lanoire: #Alrighty. Mr. Traveler, Ms. Paimon, you guys rest a while. I'll be rig
 Paimon: Why don't we go with you? It'll be just like when we went on adventures in the Fortress.
 Lanoire: You wanna come with me? That would be great!
 Lanoire: Let me think... then let's call this adventure "Operation Rescue Hero"!
-Traveler: Heroes should be able to get themselves out of trouble on their own.
-Lanoire: But he's just a doggy, and an old one at that! So, it's up to us brave young warriors to rescue him from the dust and mud!
+    Option 1:
+        Traveler: Heroes should be able to get themselves out of trouble on their own.
+        Lanoire: But he's just a doggy, and an old one at that! So, it's up to us brave young warriors to rescue him from the dust and mud!
+    Option 2:
+        Traveler: And what about Prince and Princess?
+        Lanoire: Well... the name would be too long if we tried put them all in! Let's just say that rescuing Hero includes bringing Prince and Princess back inside too.
 Earnshaw: You can go together, just remember not to let Hero eat anything too strange. He more than likely ran off to the north hut to play, if you head north you should run into him.
 Lanoire: Okay! *If he acts up and doesn't want to come home with us, I'll just take his food away*. Then he'll definitely be a good boy and come home!
 Earnshaw: Excellent. Also, *don't trample the flowers behind the fence*!
 Lanoire: #Well, you definitely don't have to worry about Ms. Paimon stepping on any! But don't worry, Grandpa. Mr. Traveler and I will be careful.
 Lanoire: #Mr. Traveler, Ms. Paimon, let's go!
-Traveler: And what about Prince and Princess?
-Lanoire: Well... the name would be too long if we tried put them all in! Let's just say that rescuing Hero includes bringing Prince and Princess back inside too.
 
 ## Talk 101
 

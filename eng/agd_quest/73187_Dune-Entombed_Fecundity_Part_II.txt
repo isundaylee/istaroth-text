@@ -19,11 +19,20 @@ Paimon: Whoa! It's huge...
 Jeht: Hmph! This kind of scrap can be dug up everywhere in the desert. Why did you ask us to come here specifically? Are we gonna play at war inside or something?
 Azariq: Be patient, little wildcat. This one's interior is in perfect condition! We can activate it and use it to cross those dangerous quicksand-filled areas!
 Liloupar: Hmph... A tribesman who knows the inner workings of machinery? An eye-opener, to be sure.
-Jeht: ...
+[Missing Dialog 731875006]
+
 Traveler: Azariq, how do you know how to activate it?
-Traveler: Jeht, what's on your mind?
 Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
 Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+Azariq: #C'mon, I'm here to help! Traveler, you're a knowledgeable sort. You must have seen this sort of machine before, right?
+Traveler: We've seen one in the rainforest before.
+Paimon: Ah, you mean that giant iron mountain! And we even studied it with Ararycan and Jazari, didn't we?
+Jeht: I've seen similar machines in the desert before as well. But this is the first time I've seen one that's this intact.
+Jeht: Dad once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Paimon: But this big guy seems... a little different from the one we saw before.
+Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
+
+Traveler: Jeht, what's on your mind?
 Jeht: Azariq, you knew all these things... But you never once told me about them.
 Azariq: *sigh* Don't get mad at me, little wildcat.
 Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
@@ -36,6 +45,12 @@ Jeht: Dad once said that these are war machines left over from 500 years ago... 
 Paimon: But this big guy seems... a little different from the one we saw before.
 Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
 
+Jeht: ...
+    Option 1:
+        [Missing Dialog 731875507]
+    Option 2:
+        [Missing Dialog 731875510]
+
 ## Talk 5
 
 Azariq: Look, this is it!
@@ -43,11 +58,25 @@ Paimon: Whoa! It's huge...
 Jeht: Hmph! This kind of scrap can be dug up everywhere in the desert. Why did you ask us to come here specifically? Are we gonna play at war inside or something?
 Azariq: Be patient, little wildcat. This one's interior is in perfect condition! We can activate it and use it to cross those dangerous quicksand-filled areas!
 Liloupar: Hmph... A tribesman who knows the inner workings of machinery? An eye-opener, to be sure.
-Jeht: ...
+[Missing Dialog 731875106]
+
 Traveler: Azariq, how do you know how to activate it?
-Traveler: Jeht, what's on your mind?
 Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
 Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+Azariq: #C'mon, I'm here to help! Traveler, you're a knowledgeable sort. You must have seen this sort of machine before, right?
+Traveler: It's a war machine left by the people of Dahri.
+Jeht: I've seen some machines like this in the desert before, but they're not quite the same... This is the first time I've seen one so complete.
+Jeht: Dad also once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Azariq: From 500 years ago? Interesting... Almost all records of that period have been destroyed, insofar as I've read.
+    Option 1:
+        Traveler: You could put it like that...
+    Option 2:
+        Traveler: It's a long story...
+Paimon: Uh, Paimon can't quite explain it... Anyway, it was a long, long time ago!
+Paimon: Come to think of it, this big guy does look different from the one we saw before.
+Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
+
+Traveler: Jeht, what's on your mind?
 Jeht: Azariq, you knew all these things... But you never once told me about them.
 Azariq: *sigh* Don't get mad at me, little wildcat.
 Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
@@ -57,11 +86,19 @@ Traveler: It's a war machine left by the people of Dahri.
 Jeht: I've seen some machines like this in the desert before, but they're not quite the same... This is the first time I've seen one so complete.
 Jeht: Dad also once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
 Azariq: From 500 years ago? Interesting... Almost all records of that period have been destroyed, insofar as I've read.
-Traveler: You could put it like that...
-Traveler: It's a long story...
+    Option 1:
+        Traveler: You could put it like that...
+    Option 2:
+        Traveler: It's a long story...
 Paimon: Uh, Paimon can't quite explain it... Anyway, it was a long, long time ago!
 Paimon: Come to think of it, this big guy does look different from the one we saw before.
 Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
+
+Jeht: ...
+    Option 1:
+        [Missing Dialog 731875507]
+    Option 2:
+        [Missing Dialog 731875510]
 
 ## Talk 6
 
@@ -74,6 +111,7 @@ Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
 ## Talk 8
 
 Paimon: But it hasn't been turned on in quite a while, has it? That might cause some problems...
+[Missing Dialog 731879913]
 
 ## Talk 9
 
@@ -214,10 +252,12 @@ Azariq: Alright, let's go and see what's in there first.
 ## Talk 37
 
 Azariq: Well? Do you want to explore here some more or go back to that big iron ball?
-Traveler: (Return to the surface) Let's go back.
-Azariq: Alright! Jeht, time to go!
-Traveler: I'd like to explore here some more.
-Azariq: *sigh* Oh, the curiosity... But, as you wish.
+    Option 1:
+        Traveler: (Return to the surface) Let's go back.
+        Azariq: Alright! Jeht, time to go!
+    Option 2:
+        Traveler: I'd like to explore here some more.
+        Azariq: *sigh* Oh, the curiosity... But, as you wish.
 
 ## Talk 38
 
@@ -245,8 +285,12 @@ Black Screen Text: "Take a bite and use it to quench your thirst. But be careful
 Jeht: #Traveler, are you okay...?
 Paimon: You suddenly froze up again, and you wouldn't respond to anyone... You really scared us there!
 Liloupar: #Do not fret, he is fine.
-Traveler: Don't worry, Jeht. I just zoned out for a bit.
-Paimon: Phew, okay... Stop scaring us like that, though!
+    Option 1:
+        Traveler: Don't worry, Jeht. I just zoned out for a bit.
+        Paimon: Phew, okay... Stop scaring us like that, though!
+    Option 2:
+        Traveler: Don't worry, Paimon. I'll be fine.
+        Paimon: Ugh, fine, if you say so! Jeht was also really worried about you, you know?
 Liloupar: My apologies if my troubled memories bothered you. But thanks to your help, my power has been restored... partly, in any case.
 Liloupar: Pomegranates... Ah, pomegranates... The sweet fruit made from the congealed blood of the victimized... Should I have the chance to share it with you, my master, I surely will.
 Liloupar: How I desire to see the plump arils burst between your teeth, and how the rich juice overflows from your lips...
@@ -257,20 +301,20 @@ Liloupar: Now, now, little girl, are you sulking again?
 Jeht: I'm not! I just said we should go!
 Azariq: Careful, the little wildcat is about to bite.
 Jeht: ...!
-Traveler: Don't worry, Paimon. I'll be fine.
-Paimon: Ugh, fine, if you say so! Jeht was also really worried about you, you know?
 
 ## Talk 43
 
 Jeht: #Traveler, have you found anything?
 Paimon: Not yet! What about you?
-Traveler: Have you found anything?
-Jeht: Not really... But I think we just need to move along the walls as we search.
-Traveler: About Azariq...
-Jeht: ...What about him?
-Jeht: Well... I know you may have doubts about him, but he's Matriarch Babel's most trusted subordinate, so it does us no good being suspicious all the time.
-Jeht: That said, he does know a little too much, which makes me uneasy... But that's just a gut feeling, you know?
-Liloupar: Ah, but intuition can be quite accurate sometimes...
+    Option 1:
+        Traveler: Have you found anything?
+        Jeht: Not really... But I think we just need to move along the walls as we search.
+    Option 2:
+        Traveler: About Azariq...
+        Jeht: ...What about him?
+        Jeht: Well... I know you may have doubts about him, but he's Matriarch Babel's most trusted subordinate, so it does us no good being suspicious all the time.
+        Jeht: That said, he does know a little too much, which makes me uneasy... But that's just a gut feeling, you know?
+        Liloupar: Ah, but intuition can be quite accurate sometimes...
 
 ## Talk 44
 
@@ -306,23 +350,27 @@ Jeht: Alright... Now it looks like there's only one passage left for us to open.
 Paimon: What!? There's more!? Paimon's legs are already sore!
 Jeht: Oh? And you know this because you walk on your own two feet?
 Paimon: #Uh... Nah! Paimon was just, uh, speaking for Traveler! Yeah! Y—You must be tired, right?
-Traveler: Not really.
-Jeht: #Haha, Traveler is a veteran adventurer after all. You'd better exercise more, or he'll leave you behind sooner or later.
-Paimon: #N—No way! Traveler will definitely wait for Paimon, no matter what...
+    Option 1:
+        Traveler: Not really.
+        Jeht: #Haha, Traveler is a veteran adventurer after all. You'd better exercise more, or he'll leave you behind sooner or later.
+        Paimon: #N—No way! Traveler will definitely wait for Paimon, no matter what...
+    Option 2:
+        Traveler: Ooh, I'm beat. Super beat.
+        Paimon: #See? What did Paimon tell you? We've walked for so long that even Traveler's tired!
+        Jeht: #Hahaha! He was just messing with you. This much walking is hardly a challenge for a veteran adventurer, you know?
+        Jeht: But if you're really so tired, Paimon, why don't you let me carry you around? Hehehe.
+        Paimon: N—No need! That would just be embarrassing...
 Liloupar: Hmm... My memory is gradually coming together. I can now guide you to the next location.
-Traveler: Ooh, I'm beat. Super beat.
-Paimon: #See? What did Paimon tell you? We've walked for so long that even Traveler's tired!
-Jeht: #Hahaha! He was just messing with you. This much walking is hardly a challenge for a veteran adventurer, you know?
-Jeht: But if you're really so tired, Paimon, why don't you let me carry you around? Hehehe.
-Paimon: N—No need! That would just be embarrassing...
 
 ## Talk 53
 
 Jeht: #Traveler, are we leaving now?
-Traveler: (Return to the surface) Let's go.
-Jeht: Alright! Azariq, time to go!
-Traveler: I'd like to stay here a little longer.
-Jeht: Please be careful. We'll wait for you here.
+    Option 1:
+        Traveler: (Return to the surface) Let's go.
+        Jeht: Alright! Azariq, time to go!
+    Option 2:
+        Traveler: I'd like to stay here a little longer.
+        Jeht: Please be careful. We'll wait for you here.
 
 ## Talk 99
 
@@ -340,10 +388,12 @@ Jeht: Please be careful. We'll wait for you here.
 ### Additional Talk 1
 
 Azariq: There should be a mechanism around here that can help open the gate. Let's all keep our eyes peeled.
-Traveler: You sure are knowledgeable, Azariq.
-Azariq: It's completely normal. Like I said, I have many friends on the outside and I've learned a lot from them... Don't you underestimate us tribespeople, alright?
-Traveler: Have you found anything?
-Azariq: Hmm... If I were you, I'd start from those pipelines. After all, that's the one thing we've no shortage of.
+    Option 1:
+        Traveler: You sure are knowledgeable, Azariq.
+        Azariq: It's completely normal. Like I said, I have many friends on the outside and I've learned a lot from them... Don't you underestimate us tribespeople, alright?
+    Option 2:
+        Traveler: Have you found anything?
+        Azariq: Hmm... If I were you, I'd start from those pipelines. After all, that's the one thing we've no shortage of.
 
 ### Additional Talk 2
 
@@ -353,9 +403,16 @@ Jeht: Hmph! This kind of scrap can be dug up everywhere in the desert. Why did y
 Azariq: Be patient, little wildcat. This one's interior is in perfect condition! We can activate it and use it to cross those dangerous quicksand-filled areas!
 Liloupar: Hmph... A tribesman who knows the inner workings of machinery? An eye-opener, to be sure.
 Jeht: ...
-Traveler: Azariq, how do you know how to activate it?
-Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
-Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+    Option 1:
+        Traveler: Azariq, how do you know how to activate it?
+        Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
+        Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+    Option 2:
+        Traveler: Jeht, what's on your mind?
+        Jeht: Azariq, you knew all these things... But you never once told me about them.
+        Azariq: *sigh* Don't get mad at me, little wildcat.
+        Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
+        Jeht: ...
 Azariq: #C'mon, I'm here to help! Traveler, you're a knowledgeable sort. You must have seen this sort of machine before, right?
 Traveler: We've seen one in the rainforest before.
 Paimon: Ah, you mean that giant iron mountain! And we even studied it with Ararycan and Jazari, didn't we?
@@ -363,8 +420,3 @@ Jeht: I've seen similar machines in the desert before as well. But this is the f
 Jeht: Dad once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
 Paimon: But this big guy seems... a little different from the one we saw before.
 Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
-Traveler: Jeht, what's on your mind?
-Jeht: Azariq, you knew all these things... But you never once told me about them.
-Azariq: *sigh* Don't get mad at me, little wildcat.
-Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
-Jeht: ...

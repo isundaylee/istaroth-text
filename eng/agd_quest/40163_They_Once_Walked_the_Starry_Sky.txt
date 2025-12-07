@@ -61,8 +61,12 @@ Kirara: Oh, you're Nilou! I've heard a lot about you from my deliveries in Sumer
 Paimon: Yeah, that's her new identity here in Simulanka. Speaking of new identities, looks like you've got a new outfit yourself, Kirara...
 Kirara: Yeah, I know! It confused the heck out of me yesterday... I just woke up in a set of brand-new clothes I'd never seen before.
 Paimon: That must mean you have a big part to play here, too!
-Traveler: As a cat burglar?
-Kirara: I think Miss Lynette would be better suited to that role, being a magician and all...
+    Option 1:
+        Traveler: As a cat burglar?
+        Kirara: I think Miss Lynette would be better suited to that role, being a magician and all...
+    Option 2:
+        Traveler: As a Nekomata-in-Boots?
+        Kirara: Is... Is that a thing? I guess I am wearing a pair of boots, but still...
 Nilou: Did you by any chance hear a voice speaking to you before you got here, Miss Kirara?
 Kirara: A voice... Oh, yeah, I did hear something, but I was so freaked out, my tails got all tangled. So I... didn't catch much of what was said, hehe...
 Chestnut: S—S—Sorry for the interruption...
@@ -85,8 +89,6 @@ Almond: May the Goddess of Fate be with you and bless your journey, Madame Fairy
 Almond: Please do visit us in the Forest of Blessings again, once peace has returned to this land!
 Paimon: We will! We'll definitely meet again!
 Nilou: Take care, Grandpa Almond!
-Traveler: As a Nekomata-in-Boots?
-Kirara: Is... Is that a thing? I guess I am wearing a pair of boots, but still...
 
 ## Talk 3
 
@@ -261,8 +263,20 @@ Paimon: Oh, sounds easy enough. Let's give it a try!
 Nilou: ...It worked!
 "B" (Statue of the Goddess of Prophecy): ...
 "B" (Statue of the Goddess of Prophecy): ...To which course of fate do you seek answers, my child of Simulanka?
-Traveler: Ask how to leave this world
-"B" (Statue of the Goddess of Prophecy): ...
+    Option 1:
+        Traveler: Ask how to leave this world
+        "B" (Statue of the Goddess of Prophecy): ...
+    Option 2:
+        Traveler: Ask how to defeat the dragon
+        "B" (Statue of the Goddess of Prophecy): The Hero from another world, supported by their companions, shall restore peace to this world...
+    Option 3:
+        Traveler: Ask about Simulanka's future
+        "B" (Statue of the Goddess of Prophecy): ...
+    Option 4:
+        Traveler: Ask how to resolve the Metropole's crisis
+        "B" (Statue of the Goddess of Prophecy): ...Go, and push the gear that connects up to the starry sky. When that time comes, I shall dance, and return the tracks beneath my people's feet back to the stars in the sky.
+    Option 5:
+        Traveler: I have no more questions.
 Nilou: So, Miss Navia was right... The Goddess of Prophecy didn't tell us anything about the future.
 Paimon: Fair enough... Guess we'll just have to play it by ear.
 Traveler: If we want to push the celestial gear...
@@ -283,38 +297,40 @@ Paimon: Okay, fine... Guess there's only one way to find out.
 Navia: That's the spirit! I'll come with you. Miss Nilou, will you be joining us?
 Nilou: I think I'll stay behind. That way, if something does go wrong, you'll have someone on the ground to get you some help.
 Paimon: That makes sense! If the train does break down, you can make us a giant origami crane to come bail us out! ...Or if a crane's too difficult, a Finch could work!
-Traveler: Ask how to defeat the dragon
-"B" (Statue of the Goddess of Prophecy): The Hero from another world, supported by their companions, shall restore peace to this world...
-Traveler: Ask about Simulanka's future
-"B" (Statue of the Goddess of Prophecy): ...
-Traveler: Ask how to resolve the Metropole's crisis
-"B" (Statue of the Goddess of Prophecy): ...Go, and push the gear that connects up to the starry sky. When that time comes, I shall dance, and return the tracks beneath my people's feet back to the stars in the sky.
-Traveler: I have no more questions.
 
 ## Talk 21
 
 Navia: How are you doing? Found them all?
-Traveler: Yep, here they are.
-Traveler: I need some more time...
-Navia: Sure, no worries. I'll be right here, so just come find me once you've retrieved them. I'm counting on you!
+    Option 1:
+        Traveler: Yep, here they are.
+    Option 2:
+        Traveler: I need some more time...
+        Navia: Sure, no worries. I'll be right here, so just come find me once you've retrieved them. I'm counting on you!
 
 ## Talk 22
 
 Nilou: ...It worked!
 "B" (Statue of the Goddess of Prophecy): ...
 "B" (Statue of the Goddess of Prophecy): ...To which course of fate do you seek answers, my child of Simulanka?
-Traveler: Ask how to leave this world
-Traveler: Ask how to defeat the dragon
-Traveler: Ask about Simulanka's future
-Traveler: Ask how to resolve the Metropole's crisis
-Traveler: I have no more questions.
-"B" (Statue of the Goddess of Prophecy): ...
-"B" (Statue of the Goddess of Prophecy): The Hero from another world, supported by their companions, shall restore peace to this world...
-"B" (Statue of the Goddess of Prophecy): ...
-"B" (Statue of the Goddess of Prophecy): ...Go, and push the gear that connects up to the starry sky. When that time comes, I shall dance, and return the tracks beneath my people's feet back to the stars in the sky.
+    Option 1:
+        Traveler: Ask how to leave this world
+        "B" (Statue of the Goddess of Prophecy): ...
+    Option 2:
+        Traveler: Ask how to defeat the dragon
+        "B" (Statue of the Goddess of Prophecy): The Hero from another world, supported by their companions, shall restore peace to this world...
+    Option 3:
+        Traveler: Ask about Simulanka's future
+        "B" (Statue of the Goddess of Prophecy): ...
+    Option 4:
+        Traveler: Ask how to resolve the Metropole's crisis
+        "B" (Statue of the Goddess of Prophecy): ...Go, and push the gear that connects up to the starry sky. When that time comes, I shall dance, and return the tracks beneath my people's feet back to the stars in the sky.
+    Option 5:
+        Traveler: I have no more questions.
 Nilou: So, Miss Navia was right... The Goddess of Prophecy didn't tell us anything about the future.
 Paimon: Fair enough... Guess we'll just have to play it by ear.
 Traveler: If we want to push the celestial gear...
+[Missing Dialog 401631216]
+
 Navia: Then first, we have to restore the sky back to its original state by putting the stars back in their positions. But it looks like we haven't recovered all the lost stars yet.
 Nilou: Well, at least we know what we're looking for now. We just need to keep going. That said... the Metropole is huge, where do we even start?
 Navia: Oh, that's the easy part. I already compiled a list of the lost stars' locations based on eyewitness reports from across the city. Here you go, they should all be marked.
@@ -356,6 +372,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+[Missing Dialog 401631033]
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
@@ -369,12 +387,10 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+[Missing Dialog 401631047]
 
 ## Talk 24
 
-Navia: How are you doing? Found them all?
-Traveler: Yep, here they are.
-Navia: Wow, you guys are efficient! Now, let's go hang 'em up in the sky!
 Paimon: In the sky...? How do we get up there?
 Navia: Hehe, I got us covered! We will, of course, be taking... the Aerial Express!
 Paimon: Is that a flying train!?
@@ -390,6 +406,14 @@ Paimon: Okay, fine... Guess there's only one way to find out.
 Navia: That's the spirit! I'll come with you. Miss Nilou, will you be joining us?
 Nilou: I think I'll stay behind. That way, if something does go wrong, you'll have someone on the ground to get you some help.
 Paimon: That makes sense! If the train does break down, you can make us a giant origami crane to come bail us out! ...Or if a crane's too difficult, a Finch could work!
+
+Navia: How are you doing? Found them all?
+    Option 1:
+        Traveler: Yep, here they are.
+    Option 2:
+        [Missing Dialog 401631303]
+
+Navia: Wow, you guys are efficient! Now, let's go hang 'em up in the sky!
 
 ## Talk 25
 

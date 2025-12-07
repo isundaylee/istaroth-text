@@ -13,7 +13,10 @@ Katheryne: Missing text (4073544202)
 Paimon: Whoa... That does sound pretty serious...
 Katheryne: Truth be told, we have never encountered anything like this before.
 Katheryne: The Adventurers' Guild is currently stretched beyond capacity. We are relying on our members across the land to rally together and support the relief effort at this trying time.
-Traveler: I will surely do my part.
+    Option 1:
+        Traveler: I will surely do my part.
+    Option 2:
+        Traveler: Thanks for the info! I'd better hop to it~
 Katheryne: One moment, safety must come first...
 Fischl: Katheryne! Vassal of the Immernachtreich, do mine ears deceive me, or didst thou cry out mine holy name in earnest supplication not one moment ago?
 Katheryne: Ah, you've arrived.
@@ -36,7 +39,10 @@ Fischl: Rejoice! For to join the Prinzessin der Verurteilung on her majestic mis
 Oz: This young lady is my master, Princess Fischl. She hails from a world beyond known as Immernachtreich. I am mein Fräulein's humble familiar, Oz the Raven.
 Paimon: Wow... That all sounds very impressive...
 Paimon: #My name's Paimon, and Traveler's a traveler. We look forward to working with you!
-Traveler: Did you say... "a world beyond"?
+    Option 1:
+        Traveler: Did you say... "a world beyond"?
+    Option 2:
+        Traveler: "Immernachtreich..."? Never heard of that place before.
 Katheryne: In time, you will understand... The more time you spend with Miss Fischl, the clearer everything will become...
 Fischl: Hmph, blind to the glory of the Immernachtreich, realm of everlasting night... Though, one could hardly expect more from a lowly traveler... Hence, it is not blasphemy, but ignorance, that be the cause of this transgression. One will therefore show clemency.
 Paimon: Clemency?
@@ -44,8 +50,6 @@ Oz: Mein Fräulein means to say: "Hello."
 Paimon: These guys are the weirdest double act Paimon's ever seen... The girl sounds strange enough as it is, but every time her pet bird talks, it gets even weirder...
 Oz: I am sure that you must have many questions. Perhaps we can walk — or indeed fly — and talk.
 Paimon: Oh, and that's another thing... What's all this about traveling in pairs? This is clearly a party of four!
-Traveler: "Immernachtreich..."? Never heard of that place before.
-Traveler: Thanks for the info! I'd better hop to it~
 
 ## Talk 2
 
@@ -82,16 +86,18 @@ Traveler: Please lead the way, O fair Princess.
 Paimon: Look, another victim!
 Fischl: Pray tell, O Knight, what tragedy befell this unfortunate subject of mine?
 Adler: Um... He— He's been sleeping all day and shows no signs of waking up.
-Traveler: Did he touch the meteorite?
-Adler: He did. And now he's fast asleep, occasionally he also sleep-talks.
+    Option 1:
+        Traveler: Did he touch the meteorite?
+        Adler: He did. And now he's fast asleep, occasionally he also sleep-talks.
+    Option 2:
+        Traveler: Are there any other symptoms besides the deep sleep?
+        Adler: Not that I've seen so far, although occasionally he talks in his sleep.
 Adler (Unconscious Victim): Can't go on... n—need to rest...
 Paimon: Wh—What's going on? Why is he saying that?
 Fischl: His dark dream harbors a forbidden fruit, poised between the jaws of a ferocious beast... Woe betide the weak should they peer into its eyes, as black as a moonless midnight, for they shall surely be lured into the abyss...
 Paimon: Do you mean... There's something luring him in his dream?
 Oz: Though we have no evidence to prove it, mein Fräulein's intuition has never failed her before.
 Paimon: Hmm... Well, let's keep investigating anyway!
-Traveler: Are there any other symptoms besides the deep sleep?
-Adler: Not that I've seen so far, although occasionally he talks in his sleep.
 
 ## Talk 6
 
@@ -145,9 +151,11 @@ Paimon: Ooooh, so that's what you're for? To translate?
 Oz: I fear you misunderstand — I am no translator, but a humble conveyor of mein Fräulein's royal will. I would venture that what her *Vision* is reacting to in this vicinity is, quite simply, *elemental energy*.
 Fischl: Ahem, thank you, Oz. Those whose minds are muddled by the mundane matters of this woeful world are unable to fathom my noble intent as swiftly as thou art...
 Paimon: So, there's elemental energy in the meteorite? And your Vision flashes in response to it?
-Traveler: With a Vision, can you trace the elemental energy back to its source?
+    Option 1:
+        Traveler: With a Vision, can you trace the elemental energy back to its source?
+    Option 2:
+        Traveler: Shouldn't the source of the energy also respond in like fashion?
 Paimon: Paimon thinks... probably yes? Anyway, no harm in giving it a try! Let's look for *shards of meteorite* using Fischl's *Vision* — clearing them away will help make the area less dangerous.
-Traveler: Shouldn't the source of the energy also respond in like fashion?
 
 ## Talk 10
 

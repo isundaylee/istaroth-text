@@ -119,16 +119,19 @@ Mualani: From his reaction, it looks like you got it spot on. The bond between y
 Bennett: #Alright, Asha. I like that idea, but we should make sure Traveler thinks it sounds fun too, right?
 Bennett: It's always important to check in with your friends and respect their opinions!
 Asha: ♪
-Traveler: A chance to challenge our team captain — just what I've been waiting for.
-Bennett: "Then let the games begin."
-Bennett: Haha... Sorry, with you looking at me like that, I just can't say that with a straight face.
+    Option 1:
+        Traveler: A chance to challenge our team captain — just what I've been waiting for.
+        Bennett: "Then let the games begin."
+        Bennett: Haha... Sorry, with you looking at me like that, I just can't say that with a straight face.
+    Option 2:
+        Traveler: As long as you two are happy, that's all that matters.
+        Bennett: #Hey, we can't be the only ones having fun! I want you to enjoy it too, Traveler.
+        Bennett: C'mon, no stress! Let's just have fun!
+    Option 3:
+        Traveler: Even against all five of you, I'd still come out on top.
+        Bennett: I like the confidence! Alright then, I'll give it my all, too.
+        Paimon: Hey, how could you even think of going against Paimon! We're a team!
 Tikraq: Alright, well if both teams are ready, then follow me! I'll be the referee.
-Traveler: As long as you two are happy, that's all that matters.
-Bennett: #Hey, we can't be the only ones having fun! I want you to enjoy it too, Traveler.
-Bennett: C'mon, no stress! Let's just have fun!
-Traveler: Even against all five of you, I'd still come out on top.
-Bennett: I like the confidence! Alright then, I'll give it my all, too.
-Paimon: Hey, how could you even think of going against Paimon! We're a team!
 
 ## Talk 9
 
@@ -153,7 +156,13 @@ Paimon: Hey, how could you even think of going against Paimon! We're a team!
 ## Talk 14
 
 Bennett: #Haha, that was so much fun! Thanks for a good match, Traveler! The Asha and I had a great time!
-Traveler: I'd say it was pretty even.
+    Option 1:
+        Traveler: I'd say it was pretty even.
+    Option 2:
+        Traveler: You and the Asha made a brilliant team.
+    Option 3:
+        Traveler: I should have asked for Paimon's help.
+        Paimon: Oh, so now you remember Paimon? Bit late for that!
 Mualani: Nice work up there, guys!
 Tikraq: #Congratulations for taking home the win, Traveler. And a big shout out to our magnanimous benefactor and his Asha companion for their amazing teamwork!
 Asha: ♪
@@ -167,9 +176,6 @@ Tikraq: Hehe! Well, we're now just one step away from completing the Airborne As
 Tikraq: Could our two heroes please light up the Airborne Asha's brushes!
 Black Screen Text: (Play Asha landmark timeline)
 Tikraq: Looks amazing, right? I can recommend a viewpoint that'd be perfect for a group photo!
-Traveler: You and the Asha made a brilliant team.
-Traveler: I should have asked for Paimon's help.
-Paimon: Oh, so now you remember Paimon? Bit late for that!
 
 ## Talk 15
 

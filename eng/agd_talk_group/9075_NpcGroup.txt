@@ -9,20 +9,24 @@
 
 Traveler: How do you like it here?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-Traveler: Wh—What is it?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hey, you own this place. What are you so nervous about? It's not a good look.
+    Option 1:
+        Traveler: Wh—What is it?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Hey, you own this place. What are you so nervous about? It's not a good look.
+    Option 2:
+        Traveler: If there's something you want to say, just say it.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...It's nothing. I was just thinking about something inane.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: In your, uh... realm, some areas are completely empty.
-Traveler: There's no need to fill everything to the brim. Empty space has a beauty of its own.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You're right. Look at me, coming around here, criticizing your lifestyle choices.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It's generous of you to host me in your home. The least I could do is be grateful.
+    Option 1:
+        Traveler: There's no need to fill everything to the brim. Empty space has a beauty of its own.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: You're right. Look at me, coming around here, criticizing your lifestyle choices.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: It's generous of you to host me in your home. The least I could do is be grateful.
+    Option 2:
+        Traveler: I'd place more things if I could, but I can't.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I get it. There are always going to be those things that are just beyond our ability to manage.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: With some things, they improve over time. With other things, the most you can do is to maintain the status quo.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: This is your home. Arrange it as you wish.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm just another person passing through.
-Traveler: I'd place more things if I could, but I can't.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I get it. There are always going to be those things that are just beyond our ability to manage.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: With some things, they improve over time. With other things, the most you can do is to maintain the status quo.
-Traveler: If there's something you want to say, just say it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph.
 
 ## Talk 2
 
@@ -61,16 +65,18 @@ Traveler: Do puppets need to eat?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hah, the extreme lengths they'll go to to get out of the missions they dislike...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hehe, it's truly a pity that only the two of us are here. A party of two won't have any good drama.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, I'm not picky, so I'll eat whatever you make.
-Traveler: Still, give me something to work with.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Why don't you make some of your personal favorites?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So even if it gets painfully awkward during our meal, we can still at least enjoy the food.
-Traveler: Got it. I'll go prepare a whole feast of desserts!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Okay, my mistake.
-Traveler: Eh? Why are you apologizing all of a sudden?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: That wasn't an apology!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I was just conceding an error in my judgment.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, it's probably a good thing that you have a mean streak.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I don't think I could stand to be around you if you were completely incorruptible.
+    Option 1:
+        Traveler: Still, give me something to work with.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Why don't you make some of your personal favorites?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: So even if it gets painfully awkward during our meal, we can still at least enjoy the food.
+    Option 2:
+        Traveler: Got it. I'll go prepare a whole feast of desserts!
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Okay, my mistake.
+        Traveler: Eh? Why are you apologizing all of a sudden?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: That wasn't an apology!
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I was just conceding an error in my judgment.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, it's probably a good thing that you have a mean streak.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I don't think I could stand to be around you if you were completely incorruptible.
 
 ## Talk 4
 
@@ -101,20 +107,24 @@ Traveler: Good night.
 
 Traveler: How do you like it here?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-Traveler: Wh—What is it?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hey, you own this place. What are you so nervous about? It's not a good look.
+    Option 1:
+        Traveler: Wh—What is it?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Hey, you own this place. What are you so nervous about? It's not a good look.
+    Option 2:
+        Traveler: If there's something you want to say, just say it.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...It's nothing. I was just thinking about something inane.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: In your, uh... realm, some areas are completely empty.
-Traveler: There's no need to fill everything to the brim. Empty space has a beauty of its own.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You're right. Look at me, coming around here, criticizing your lifestyle choices.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It's generous of you to host me in your home. The least I could do is be grateful.
+    Option 1:
+        Traveler: There's no need to fill everything to the brim. Empty space has a beauty of its own.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: You're right. Look at me, coming around here, criticizing your lifestyle choices.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: It's generous of you to host me in your home. The least I could do is be grateful.
+    Option 2:
+        Traveler: I'd place more things if I could, but I can't.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I get it. There are always going to be those things that are just beyond our ability to manage.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: With some things, they improve over time. With other things, the most you can do is to maintain the status quo.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: This is your home. Arrange it as you wish.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm just another person passing through.
-Traveler: I'd place more things if I could, but I can't.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I get it. There are always going to be those things that are just beyond our ability to manage.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: With some things, they improve over time. With other things, the most you can do is to maintain the status quo.
-Traveler: If there's something you want to say, just say it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph.
 
 ## Talk 9
 
@@ -153,13 +163,15 @@ Traveler: Do puppets need to eat?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hah, the extreme lengths they'll go to to get out of the missions they dislike...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hehe, it's truly a pity that only the two of us are here. A party of two won't have any good drama.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, I'm not picky, so I'll eat whatever you make.
-Traveler: Still, give me something to work with.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Why don't you make some of your personal favorites?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So even if it gets painfully awkward during our meal, we can still at least enjoy the food.
-Traveler: Got it. I'll go prepare a whole feast of desserts!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Okay, my mistake.
-Traveler: Eh? Why are you apologizing all of a sudden?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: That wasn't an apology!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I was just conceding an error in my judgment.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, it's probably a good thing that you have a mean streak.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I don't think I could stand to be around you if you were completely incorruptible.
+    Option 1:
+        Traveler: Still, give me something to work with.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Why don't you make some of your personal favorites?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: So even if it gets painfully awkward during our meal, we can still at least enjoy the food.
+    Option 2:
+        Traveler: Got it. I'll go prepare a whole feast of desserts!
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Okay, my mistake.
+        Traveler: Eh? Why are you apologizing all of a sudden?
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: That wasn't an apology!
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I was just conceding an error in my judgment.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, it's probably a good thing that you have a mean streak.
+        #{REALNAME[ID(1)|HOSTONLY(true)]}: I don't think I could stand to be around you if you were completely incorruptible.

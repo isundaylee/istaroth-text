@@ -8,8 +8,11 @@ Paimon: Hehe, you've got good taste in art!
 ???: It's too bad, though... I heard the people on this street hired a scary guard to catch any troublemakers who go around painting on the walls.
 Paimon: Huh? A guard? Paimon didn't notice any big, scary guards!
 ???: Indeed. His name's Cozatl, I think. He looks totally normal. In fact... he looks just like me...
-Traveler: Ahem... Paimon, doodling on walls isn't exactly upstanding behavior.
-Paimon: S—Sorry... Hey, wait! You were doing it too!
+    Option 1:
+        Traveler: Ahem... Paimon, doodling on walls isn't exactly upstanding behavior.
+        Paimon: S—Sorry... Hey, wait! You were doing it too!
+    Option 2:
+        Traveler: Sorry about this. We'll clean it up right away.
 ???: It's fine, really! I've always thought the people around here were way too uptight anyway. This is Natlan — what kind of wall doesn't have a little graffiti on it?
 ???: Besides, as long as I clean it up before anyone sees, it'll be like it never happened!
 Paimon: Hehe... Mr. Cozatl, you're the best!
@@ -23,7 +26,10 @@ Paimon: Huh? What's bothering you?
 ???: *sigh* If only there were two talented and reliable adventurers around here with a bit of artistic sense...
 ???: After all, he's a super famous designer, and he's always been a very generous, free-spirited person — I can't imagine him giving his assistants anything less than an impressive reward...
 Paimon: Whoa! That sounds like a reward fit for our Mora pouches! Hehe, we're in!
-Traveler: Paimon, you're so easy to convince.
+    Option 1:
+        Traveler: Paimon, you're so easy to convince.
+    Option 2:
+        Traveler: You figured out Paimon's weakness so fast.
 Paimon: Hey, don't say that! Helping people in need is an adventurer's duty too!
 ???: Great, it's settled then. I'll give Zolin — that's the guy — a heads-up. Just meet him at the cafe across the street later.
 ???: Oh, and since it's a bidding competition, you might find some rivals who'll play dirty. Watch your backs.
@@ -32,8 +38,6 @@ Paimon: Pfft! We've dealt with way worse than a bunch of crooked bidders!
 Paimon: Okay! And leave your Lil' Floaty guy to us!
 ???: #Of course. It shouldn't be a challenge for the legendary Traveler and Paimon.
 Paimon: So you recognized us from the start!
-Traveler: You figured out Paimon's weakness so fast.
-Traveler: Sorry about this. We'll clean it up right away.
 
 ## Talk 2
 
@@ -70,11 +74,13 @@ Black Screen Text: Under Zolin's direction, you quickly complete the preparation
 Zolin: #Ahem. Mr. Traveler, please take these pigments.
 Paimon: Whoa, the colors are so weird! Are you sure they actually work?
 Zolin: Ahem! Of course they work, and I'll have you know they're very useful! That's what being a color master is all about — turning the odd and ordinary into something brilliant! It's about drawing out the best colors in the most unexpected ways!
-Traveler: Okay, got it!
-Paimon: Wait, really? You're not just pretending to understand, are you...?
-Paimon: Hehe, alright then! Shall Paimon begin coloring the wall as our color master commands?
-Traveler: I don't quite get it...
-Paimon: Hehe, Paimon doesn't either. But anyway, we'll just go with what Zolin says and splash some color on!
+    Option 1:
+        Traveler: Okay, got it!
+        Paimon: Wait, really? You're not just pretending to understand, are you...?
+        Paimon: Hehe, alright then! Shall Paimon begin coloring the wall as our color master commands?
+    Option 2:
+        Traveler: I don't quite get it...
+        Paimon: Hehe, Paimon doesn't either. But anyway, we'll just go with what Zolin says and splash some color on!
 
 ## Talk 10
 
@@ -214,10 +220,12 @@ Alvo: #Traveler, Paimon, you two are champions of justice. I'm sure you won't sh
 Zolin: I—I...
 Zolton: !!!
 Paimon: Zolton, are you trying to say something...?
-Traveler: There's something fishy about this.
+    Option 1:
+        Traveler: There's something fishy about this.
+    Option 2:
+        Traveler: I don't agree with your conclusion.
 Zolton: ~
 Alvo: ...Fine. Since you insist, I won't argue. Investigate all you want. Just don't disgrace yourself in the process.
-Traveler: I don't agree with your conclusion.
 
 ## Talk 21
 
@@ -257,9 +265,12 @@ Zolton: ~~!
 ???: You know, once Lil' Floaty admitted that Zolton was the real designer, he seems... more relaxed, somehow.
 ???: And he said he'd "work on his linework and grow into a good assistant"... What a simple and straightforward guy...
 ???: By the way, I really have to thank you two. Without your help, I don't think either of us would've found our way back.
-Traveler: Just doing an adventurer's duty.
-Paimon: Hehe, exactly! Helping people find their way is what great adventurers do!
-Paimon: But hey, Cozatl. You still have some explaining to do, don't you?
+    Option 1:
+        Traveler: Just doing an adventurer's duty.
+        Paimon: Hehe, exactly! Helping people find their way is what great adventurers do!
+        Paimon: But hey, Cozatl. You still have some explaining to do, don't you?
+    Option 2:
+        Traveler: This whole thing... you set it up, didn't you?
 ???: Haha, I knew that question was coming. I was kinda hoping you'd be too busy to bring it up...
 ???: As you've probably guessed, I used the pretense of a design bid to lure Zolin back. Then I paired him with someone who had... let's say, a pretty shady reputation.
 ???: And I invited you as assistants to act as reputable witnesses.
@@ -271,10 +282,11 @@ Paimon: Cozatl...
 Black Screen Text: Cozatl turns and leaves, without looking back.
 Zolton: ~~~
 Zolin: #Umm... Excuse me, Traveler, Paimon! Zolton would love for you to help with the studio's finishing touches, if you'd be be willing.
-Traveler: It would be my honor.
+    Option 1:
+        Traveler: It would be my honor.
+    Option 2:
+        Traveler: Looks like the assistant job's not over just yet.
 Paimon: Yay! Let's get painting!
-Traveler: Looks like the assistant job's not over just yet.
-Traveler: This whole thing... you set it up, didn't you?
 
 ## Talk 25
 
@@ -356,9 +368,11 @@ Paimon: Okay, Paimon gets that part now. But what's that got to do with things b
 ???: What a headache... If they ever try to get forceful, poor Lil' Floaty might be in real trouble...
 Paimon: #No worries there! Traveler is super strong, so those guys wouldn't stand a chance!
 Paimon: #Plus, as righteous adventurers, we don't let the bad guys get away with anything. Right, Traveler?
-Traveler: Well, after everything you just said... How could I refuse?
+    Option 1:
+        Traveler: Well, after everything you just said... How could I refuse?
+    Option 2:
+        Traveler: Besides, looks like our time as assistants isn't over yet.
 ???: You two are lifesavers. How about we meet on the main road at the Easybreeze Market tomorrow? I'll put together a detailed plan too, just in case.
-Traveler: Besides, looks like our time as assistants isn't over yet.
 
 ## Additional Conversations
 

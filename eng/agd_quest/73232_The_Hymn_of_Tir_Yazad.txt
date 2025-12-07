@@ -15,15 +15,21 @@ Sorush: I have obtained the Twin-Horned Chaplet, so why is the Harvisptokhm reje
 Paimon: Um, is there something wrong, Sorush? You don't look so good.
 Sorush: *sob* It's the Twin-Horned Chaplet... Something is... coming in!
 Paimon: Hey, Sorush!
+
 Black Screen Text: The roots of the ancient tree spread and interweave, each connection giving off a faint light.
 As light and shadow intertwine, one image after another flashes by.
+
 Black Screen Text: Amidst the desolate mountains, heroes wield various weapons, the Pari lined up behind them.
 And though the dark clouds hem them in, they do not move a single step back.
+
 Black Screen Text: In the darkest depths, titanic machinery glimmers softly.
 Covering the flight of the people from the roiling black flames.
+
 Black Screen Text: Upon the boundless wilderness, a masked sword-wielder and a one-armed sage stand back-to-back.
 Under the aegis of Khvarena, they resist the swarm of monsters rushing in like the tide.
+
 Black Screen Text: The Khvarena guide the path of all, and it is their destination as well.
+
 Black Screen Text: The countless lights converge into tiny motes, the white glow ascending from the tree's base.
 Eventually, the once-dark sky lights up.
 
@@ -103,9 +109,13 @@ Zurvan: I gathered the might of Khvarena according to the divine bird's last wis
 Zurvan: Half of his body had become that of a monster, but I did not sense an aura of monstrosity in him. When I discovered him, he was holding a ring tightly in his hand.
 Zurvan: I brought him back to the sea of flowers, and when he awoke, he claimed to be a Dahri swordsman who had only survived because he had been cursed.
 Zurvan: For a time, I traveled with this masked swordsman, and we resisted the Dev that invaded the sea of flowers.
-Traveler: A masked swordsman...
-Paimon: A masked swordsman from Khaenri'ah. Do you think that could be...
-Zurvan: Oh? So you do know him. That makes my explanation way easier.
+    Option 1:
+        Traveler: A masked swordsman...
+        Paimon: A masked swordsman from Khaenri'ah. Do you think that could be...
+        Zurvan: Oh? So you do know him. That makes my explanation way easier.
+    Option 2:
+        Traveler: He was cursed...
+        Zurvan: Yes. It is said that the people of Dahri were cursed to varying degrees during that catastrophe.
 Zurvan: Not long after that, people in scholarly garb led by a one-armed sage came forth from lands east of the desert.
 Zurvan: They claimed to have once fought shoulder-to-shoulder with the heroes of Dahri. They said that those heroes had walked their path despite the ill repute they had garnered...
 Zurvan: And that it was to carry the will those heroes had borne, and to completely destroy the disaster from the dark depths that they had followed the heroes' path to this place.
@@ -124,14 +134,14 @@ Zurvan: As for Sorush, I leave her to you. Do guide her well in your journey —
 Sorush: I do not intend to be lectured by you, Pale Floater...
 Paimon: Hehe, don't be like that! You gotta listen to your teachers, y'know? Still, Zurvan, you say it like we won't meet again or something.
 Zurvan: Well, you don't intend to stay here with me, do you? You humans are all like that. You will never stop to settle down.
-Traveler: We will return.
+    Option 1:
+        Traveler: We will return.
+    Option 2:
+        Traveler: We will meet again.
 Zurvan: Haha! Well, I'm afraid I shan't believe you. This isn't my first time hearing such words.
 Zurvan: Speaking of which, I wonder how that masked swordsman is now... If you see him, do say hello to him for me.
 Zurvan: You are both travelers, after all. I'm certain your paths will cross.
 Zurvan: Alright, alright, go off to where you need to be. Don't miss me too much now.
-Traveler: We will meet again.
-Traveler: He was cursed...
-Zurvan: Yes. It is said that the people of Dahri were cursed to varying degrees during that catastrophe.
 
 ## Talk 16
 
@@ -196,12 +206,14 @@ Zurvan: As for Sorush, I leave her to you. Do guide her well in your journey —
 Sorush: I do not intend to be lectured by you, Pale Floater...
 Paimon: Hehe, don't be like that! You gotta listen to your teachers, y'know? Still, Zurvan, you say it like we won't meet again or something.
 Zurvan: Well, you don't intend to stay here with me, do you? You humans are all like that. You will never stop to settle down.
-Traveler: We will return.
+    Option 1:
+        Traveler: We will return.
+    Option 2:
+        Traveler: We will meet again.
 Zurvan: Haha! Well, I'm afraid I shan't believe you. This isn't my first time hearing such words.
 Zurvan: Speaking of which, I wonder how that masked swordsman is now... If you see him, do say hello to him for me.
 Zurvan: You are both travelers, after all. I'm certain your paths will cross.
 Zurvan: Alright, alright, go off to where you need to be. Don't miss me too much now.
-Traveler: We will meet again.
 
 ## Talk 23
 
@@ -212,7 +224,10 @@ Paimon: What? Paimon thought you said we were the best choice for this job.
 Paimon: Or do you just say that to literally everyone?
 Katheryne: Well, of course not. I believed you could do it.
 Katheryne: Ah, yes. We did ask you to contact the Nagarjunites previously. Were they of any help to you, I wonder?
-Traveler: It's a bit complicated...
+    Option 1:
+        Traveler: It's a bit complicated...
+    Option 2:
+        Traveler: You could say so, sort of...
 Katheryne: It seems that things got complicated.
 Katheryne: However, it is all ultimately a part of your adventures, and experience is itself an irreplaceable treasure.
 Katheryne: Since you've managed to successfully finish that commission, the Guild should now have permission to investigate those Khaenri'ahn ruins. If any related commissions do come up, you'll also get first priority in our considerations.
@@ -221,4 +236,3 @@ Katheryne: Well... The Adventurers' Guild is obligated to keep the identities of
 Katheryne: However, the person who gave us that token did claim to have been a light novelist.
 Paimon: A light novelist? Wait a moment. Didn't we hear that there was this Skeptic elder...
 Katheryne: Hmm, it does look like you do know something about this, but well, that has nothing to do with the Guild. Either way, the remuneration from the Akademiya is here with me. Please, feel free to take it.
-Traveler: You could say so, sort of...

@@ -34,16 +34,24 @@ Paimon: Uh, it was about them being important items for some ritual or something
 Nasejuna: Well, while I can see that the proper terms were not remembered, that is the essence of the matter, yes.
 Nasejuna: The two of you have been acknowledged by Khvarena's Envoy, and yet you know little of our glorious history. I fear that you may be led astray by heresies and heterodoxies from the forest.
 Nasejuna: Allow me, then, to explain the true history of Barsom and the Kory Drums.
-Traveler: I'll be honest, I'm not so concerned with this...
-Paimon: Yeah, the stuff Nasejuna says is even harder to understand than the stuff Sorush talks about... Paimon didn't catch any of it the first time...
-Sorush: Hmph. In that case, say it more often, Nasejuna, until even one such as Paimon can remember every last word.
-Paimon: #Uhh... In that case, let's just hear it once, shall we? Traveler has a good memory. It'll be fine as long as he remembers.
+    Option 1:
+        Traveler: I'll be honest, I'm not so concerned with this...
+        Paimon: Yeah, the stuff Nasejuna says is even harder to understand than the stuff Sorush talks about... Paimon didn't catch any of it the first time...
+        Sorush: Hmph. In that case, say it more often, Nasejuna, until even one such as Paimon can remember every last word.
+        Paimon: #Uhh... In that case, let's just hear it once, shall we? Traveler has a good memory. It'll be fine as long as he remembers.
+    Option 2:
+        Traveler: Story time, is it? Joy.
+        Nasejuna: This is no idle yarn to be told after tea. It is the tale of our meeting with the Pari, the scions of the divine bird, and the long years of war we have endured here in this land thereafter.
+        Paimon: Uh, Paimon would prefer "idle yarns," in that case...
 Nasejuna: ...Long ago, our predecessors worked to quell the disaster that occurred in this land and formed a profound friendship with the Pari.
 Nasejuna: Barsom's familiar had a preference for music, so we crafted Kory Drums for her. During the ceremony where our bonds with the Pari were made official, five drums had to be gathered and played according to scores.
 Nasejuna: Though the Kory Drums are long lost, the drum scores have withstood the corrosion of the sandstorms. As you can see, they have been almost perfectly preserved.
 Nasejuna: Words shall nary describe the true magnificence of that occasion. When the Kory Drums sounded, all things reverberated in unison. It felt as if their sound could freely traverse space and time...
 Nasejuna: Those who witnessed it were all shaken to the core. Even the elements themselves were stirred.
-Traveler: Sounds like a very lively time.
+    Option 1:
+        Traveler: Sounds like a very lively time.
+    Option 2:
+        Traveler: I'm getting a headache just thinking about it.
 Nasejuna: *sigh* It's a shame that we Skeptics failed to pass on our legacy, resulting in the loss of all the Kory Drums. And however loudly we cried out, Barsom's familiar would never again utter a word in response.
 Paimon: Barsom's familiar... Is this the Rashnu Sorush mentioned before? Is that who you're talking about? But why wouldn't she respond to the Order of Skeptics' call?
 Sorush: The Pari and the Order of Skeptics both value tradition and ceremony, so there is routine to our actions.
@@ -60,10 +68,6 @@ Nasejuna: He rambled on and on about how "warring against the Yae Publishing Hou
 Nasejuna: But he's still an elder who knows more about our heritage than I do, so I have to ask him for information regardless of any... disagreements we might have.
 Nasejuna: He's reluctant to answer any questions that don't have to do with light novels and card games, though. It took me three whole questions to receive a single reply...
 Nasejuna: Anyway, it took me a great deal of effort just to gather clues about the Kory Drums.
-Traveler: I'm getting a headache just thinking about it.
-Traveler: Story time, is it? Joy.
-Nasejuna: This is no idle yarn to be told after tea. It is the tale of our meeting with the Pari, the scions of the divine bird, and the long years of war we have endured here in this land thereafter.
-Paimon: Uh, Paimon would prefer "idle yarns," in that case...
 
 ## Talk 7
 
@@ -106,10 +110,12 @@ Black Screen Text: Nasejuna cleans the stone crevice before putting a small pack
 The large rock blocking the way splinters into smaller pieces, and when the dust finally clears, a Gray Gate appears in its wake.
 Nasejuna: *cough* Well, that's it for those stones blocking the way.
 Paimon: Wait, why's there still a gate in the way?
-Traveler: There's always another gate to go through, huh?
+    Option 1:
+        Traveler: There's always another gate to go through, huh?
+    Option 2:
+        Traveler: It does seem quite sturdy...
 Nasejuna: We used to be able to pass through. As for breaking the seal on this Gray Gate, we will need your help, you two.
 Paimon: Well, guess that falls to us, huh?
-Traveler: It does seem quite sturdy...
 
 ## Talk 12
 
@@ -147,12 +153,14 @@ Paimon: Well, Paimon thinks that sticking together is our best chance of fixing 
 Sorush: Hehe. Your concern, Paimon, is rather wasted on one destined for so grand a sacrifice as I.
 Sorush: Or perhaps I should say that evaluating the choices and fates of others is, itself, an overly prideful act.
 Paimon: #Paimon just... just... Ugh, Traveler, help Paimon out here!
-Traveler: We're just here to complete a commission.
-Paimon: Eh? Shouldn't we be saying that "we can't just let you be"?
-Nasejuna: Forgive my saying so, but such thoughts might be a bit unprofessional for adventurers and specialists.
-Traveler: We're to respect their wishes and wish them well.
-Paimon: Aren't we also supposed to ask them to "leave it to us"?
-Sorush: I do thank you for your aid, of course, but do not forget. I am the main character of this hymn.
+    Option 1:
+        Traveler: We're just here to complete a commission.
+        Paimon: Eh? Shouldn't we be saying that "we can't just let you be"?
+        Nasejuna: Forgive my saying so, but such thoughts might be a bit unprofessional for adventurers and specialists.
+    Option 2:
+        Traveler: We're to respect their wishes and wish them well.
+        Paimon: Aren't we also supposed to ask them to "leave it to us"?
+        Sorush: I do thank you for your aid, of course, but do not forget. I am the main character of this hymn.
 
 ## Talk 15
 
@@ -233,23 +241,25 @@ Paimon: Uh, that's what you say... But even though Sorush always acts all high a
 Sorush: That does not sound like something that shall be written into a hymn of praise.
 Traveler: Well, I'd say it's praise enough by Paimon's standards.
 Sorush: #Well, what about you, then, Traveler? Do you desire... Do you want to play the Kory Drums and awaken the familiar of Barsom for me?
-Traveler: Eh, Nasejuna can do it. Being a bystander's alright. Sometimes.
-Nasejuna: Ah, a sensible person, I see. After all, such an important ritual should indeed be left in the hands of one who understands our traditions the most, and who occupies a most suitable position...
-Sorush: Silence! I did tell you before that a Pari's word is final. Doubt not my judgment.
-Nasejuna: ...As you will.
-Sorush: #Traveler, I propose to give you, and no one else, this honorable task. Do you accept?
-Traveler: You need not speak in such a winding manner, Sorush.
-Paimon: #That's right! If you want to ask Traveler for help, just say "I'll leave it to you" or something. No need for all this weird talk!
-Sorush: This is not "weird talk." These are words that befit a Pari's stature. Well then. I shall take that as your acquiesence.
+    Option 1:
+        Traveler: Eh, Nasejuna can do it. Being a bystander's alright. Sometimes.
+        Nasejuna: Ah, a sensible person, I see. After all, such an important ritual should indeed be left in the hands of one who understands our traditions the most, and who occupies a most suitable position...
+        Sorush: Silence! I did tell you before that a Pari's word is final. Doubt not my judgment.
+        Nasejuna: ...As you will.
+        Sorush: #Traveler, I propose to give you, and no one else, this honorable task. Do you accept?
+        Traveler: You need not speak in such a winding manner, Sorush.
+        Paimon: #That's right! If you want to ask Traveler for help, just say "I'll leave it to you" or something. No need for all this weird talk!
+        Sorush: This is not "weird talk." These are words that befit a Pari's stature. Well then. I shall take that as your acquiesence.
+    Option 2:
+        Traveler: I'm not a bad performer.
+        Paimon: Exactly. Cooking, combat, errands, espionage, we can do it all! This is definitely way easier than extinguishing the Sign of Apaosha — we're not gonna trip up here!
+        Nasejuna: And yet adventurers you remain, rough folk of the outdoors. It would be best if I handle such critical matters related to our history and tradition as this...
+        Sorush: #Nasuraia. He is the Yasnapati I have chosen, and now he willingly serves. Will you bar our path?
+        Nasejuna: I... I have no reason to doubt your decisions, astute as they are...
+        Sorush: #Then it is concluded. Speak no more. Come, Traveler. This momentous task is yours.
+        Traveler: Don't you worry.
+        Sorush: Oh, I have no fear. You are my Yasnapati, after all.
 Paimon: #Well if you say so, Sorush, then leave this to us! Just relax, Nasejuna. We know the Kory Drums are very important. Traveler's not going to ruin them or anything!
-Traveler: I'm not a bad performer.
-Paimon: Exactly. Cooking, combat, errands, espionage, we can do it all! This is definitely way easier than extinguishing the Sign of Apaosha — we're not gonna trip up here!
-Nasejuna: And yet adventurers you remain, rough folk of the outdoors. It would be best if I handle such critical matters related to our history and tradition as this...
-Sorush: #Nasuraia. He is the Yasnapati I have chosen, and now he willingly serves. Will you bar our path?
-Nasejuna: I... I have no reason to doubt your decisions, astute as they are...
-Sorush: #Then it is concluded. Speak no more. Come, Traveler. This momentous task is yours.
-Traveler: Don't you worry.
-Sorush: Oh, I have no fear. You are my Yasnapati, after all.
 
 ## Talk 34
 
@@ -291,31 +301,34 @@ Paimon: Uh, that's what you say... But even though Sorush always acts all high a
 Sorush: That does not sound like something that shall be written into a hymn of praise.
 Traveler: Well, I'd say it's praise enough by Paimon's standards.
 Sorush: #Well, what about you, then, Traveler? Do you desire... Do you want to play the Kory Drums and awaken the familiar of Barsom for me?
-Traveler: Eh, Nasejuna can do it. Being a bystander's alright. Sometimes.
-Nasejuna: Ah, a sensible person, I see. After all, such an important ritual should indeed be left in the hands of one who understands our traditions the most, and who occupies a most suitable position...
-Sorush: Silence! I did tell you before that a Pari's word is final. Doubt not my judgment.
-Nasejuna: ...As you will.
-Sorush: #Traveler, I propose to give you, and no one else, this honorable task. Do you accept?
-Traveler: You need not speak in such a winding manner, Sorush.
-Paimon: #That's right! If you want to ask Traveler for help, just say "I'll leave it to you" or something. No need for all this weird talk!
-Sorush: This is not "weird talk." These are words that befit a Pari's stature. Well then. I shall take that as your acquiesence.
+    Option 1:
+        Traveler: Eh, Nasejuna can do it. Being a bystander's alright. Sometimes.
+        Nasejuna: Ah, a sensible person, I see. After all, such an important ritual should indeed be left in the hands of one who understands our traditions the most, and who occupies a most suitable position...
+        Sorush: Silence! I did tell you before that a Pari's word is final. Doubt not my judgment.
+        Nasejuna: ...As you will.
+        Sorush: #Traveler, I propose to give you, and no one else, this honorable task. Do you accept?
+        Traveler: You need not speak in such a winding manner, Sorush.
+        Paimon: #That's right! If you want to ask Traveler for help, just say "I'll leave it to you" or something. No need for all this weird talk!
+        Sorush: This is not "weird talk." These are words that befit a Pari's stature. Well then. I shall take that as your acquiesence.
+    Option 2:
+        Traveler: I'm not a bad performer.
+        Paimon: Exactly. Cooking, combat, errands, espionage, we can do it all! This is definitely way easier than extinguishing the Sign of Apaosha — we're not gonna trip up here!
+        Nasejuna: And yet adventurers you remain, rough folk of the outdoors. It would be best if I handle such critical matters related to our history and tradition as this...
+        Sorush: #Nasuraia. He is the Yasnapati I have chosen, and now he willingly serves. Will you bar our path?
+        Nasejuna: I... I have no reason to doubt your decisions, astute as they are...
+        Sorush: #Then it is concluded. Speak no more. Come, Traveler. This momentous task is yours.
+        Traveler: Don't you worry.
+        Sorush: Oh, I have no fear. You are my Yasnapati, after all.
+    Option 3:
+        Traveler: I've learned many forest tunes from the Aranara.
+        Paimon: Yup, and the Aranara sure do love music! And since Rashnu is someone who will respond to humans who call out to her using the music of the Kory Drums, she's definitely a music-loving Pari too, huh?
+        Paimon: Hehe, Paimon wonders if she'll enjoy Aranara music too...
+        Nasejuna: The musical scores of the Kory Drums cannot be compared to some forest ditties! They are part of Order of Skeptics tradition... Perhaps I should be the one to perform instead, rather than let outsiders do it...
+        Sorush: #Nasuraia, you too have merely understood this task from mere writings. The way I see it, would he, experienced in the performing arts as he is, not be the more reliable choice?
+        Traveler: The principles are the same. This should be no problem.
+        Nasejuna: But...
+        Sorush: #No buts. So I have decided, and so it shall be — Traveler shall do this deed.
 Paimon: #Well if you say so, Sorush, then leave this to us! Just relax, Nasejuna. We know the Kory Drums are very important. Traveler's not going to ruin them or anything!
-Traveler: I'm not a bad performer.
-Paimon: Exactly. Cooking, combat, errands, espionage, we can do it all! This is definitely way easier than extinguishing the Sign of Apaosha — we're not gonna trip up here!
-Nasejuna: And yet adventurers you remain, rough folk of the outdoors. It would be best if I handle such critical matters related to our history and tradition as this...
-Sorush: #Nasuraia. He is the Yasnapati I have chosen, and now he willingly serves. Will you bar our path?
-Nasejuna: I... I have no reason to doubt your decisions, astute as they are...
-Sorush: #Then it is concluded. Speak no more. Come, Traveler. This momentous task is yours.
-Traveler: Don't you worry.
-Sorush: Oh, I have no fear. You are my Yasnapati, after all.
-Traveler: I've learned many forest tunes from the Aranara.
-Paimon: Yup, and the Aranara sure do love music! And since Rashnu is someone who will respond to humans who call out to her using the music of the Kory Drums, she's definitely a music-loving Pari too, huh?
-Paimon: Hehe, Paimon wonders if she'll enjoy Aranara music too...
-Nasejuna: The musical scores of the Kory Drums cannot be compared to some forest ditties! They are part of Order of Skeptics tradition... Perhaps I should be the one to perform instead, rather than let outsiders do it...
-Sorush: #Nasuraia, you too have merely understood this task from mere writings. The way I see it, would he, experienced in the performing arts as he is, not be the more reliable choice?
-Traveler: The principles are the same. This should be no problem.
-Nasejuna: But...
-Sorush: #No buts. So I have decided, and so it shall be — Traveler shall do this deed.
 
 ## Talk 50
 
@@ -360,8 +373,12 @@ Rashnu: You are Sorush. I recognize you.
 Sorush: #That's right. This is my Yasnapati, Traveler, and his companion, Paimon. And that is the Nasuraia of the Order of Skeptics.
 Rashnu: The Skeptics... Yasnapati... *yawn* I do not wish to know... about these human affairs.
 Rashnu: Humans and their drums... are so noisy. I threw them into different places so I could... sleep in peace.
-Traveler: ...Oh, the scent of lies!
-Paimon: Well, that wasn't Paimon's fault!
+    Option 1:
+        Traveler: ...Oh, the scent of lies!
+        Paimon: Well, that wasn't Paimon's fault!
+    Option 2:
+        Traveler: Wait. So this was all a misunderstanding?
+        Paimon: Well that's one huge misunderstanding, wouldn't you say? Even Paimon doesn't do that.
 Nasejuna: How...? But our documents recorded this so very clearly...
 Nasejuna: Nor did Lady Sorush say anything against this...
 Sorush: ...You must have slumbered too long here, Rashnu, muddling your memory of these affairs. Surely the scattering of the Korybantes was meant to select those who might clear the trials...
@@ -382,8 +399,6 @@ Traveler: I'm afraid this isn't something we can butt into.
 Paimon: Yeah. Nasejuna and Sorush have known each other for a long time... They can settle this stuff between them, can't they?
 Paimon: Whatever the case, if you'll come with us to the Vourukasha Oasis, Rashnu, Sorush will be one step closer to getting the Chaplet.
 Rashnu: Together... now?
-Traveler: Wait. So this was all a misunderstanding?
-Paimon: Well that's one huge misunderstanding, wouldn't you say? Even Paimon doesn't do that.
 
 ## Talk 59
 

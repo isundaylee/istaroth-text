@@ -67,33 +67,41 @@ Ann: #Yes, much better. Thank you, Knight Traveler...
 Ann: ...Or should I drop that title? It was all fake, after all...
 Paimon: Don't say that, Ann...
 Ann: But...
-Traveler: On the contrary, your story has only just begun.
+    Option 1:
+        Traveler: On the contrary, your story has only just begun.
+    Option 2:
+        Traveler: On the contrary, our story has only just begun.
 Paimon: #Traveler's right, y'know. We've still got a whole bunch of adventures waiting up ahead for us!
 Paimon: Ahem. And... how shall one proceed in peace of mind without a reliable knight at hand, oh lovely maiden?
-Traveler: Hmm...
+    Option 1:
+        Traveler: Hmm...
+    Option 2:
+        Traveler: You're getting tired, Paimon...
 Paimon: C'mon! Paimon was just trying to encourage Ann...
 Ann: Pfft...
 Ann: You're quite the knight yourself, Paimon. You're positive, and you've got a good heart. It makes me happy, truly.
 Paimon: ...Oh, c'mon, why're you getting so serious all of a sudden...
 Ann: #You're just less powerful than Knight Traveler, that's all.
 Paimon: #Hmph. Everyone's got things they're good at! Traveler's got a good brain and sword-arm, and Paimon... Paimon...
-Traveler: ...A powerful eater?
-Paimon: And that goes to show just how strong she is!
+    Option 1:
+        Traveler: ...A powerful eater?
+        Paimon: And that goes to show just how strong she is!
+    Option 2:
+        Traveler: ...Has powerfully white hair?
+        Paimon: Yup, and that's a real symbol of purity!
+    Option 3:
+        Traveler: ...Is a powerful giver of nicknames?
+        Paimon: Yup, that's Paimon — a gifted speaker indeed!
+    Option 4:
+        Traveler: You really are impressive, Paimon. See...
+        Traveler: You've cheered Ann up already.
+        Ann: Yes, you truly are impressive, Paimon.
+        Paimon: You two... And here Paimon thought that you'd try to tease her or something...
+        Paimon: You're weird — yup, both of you! Hmph...
 Paimon: But that aside, didn't you say before that the "Narzissenkreuz Ordo has deep links with the past," Ann? That's why we came in the first place.
 Ann: Yes. However, my head's still a complete mess...
 Paimon: That's true... Hmm, Paimon knows! Let's put what we've discovered together real quick. When we were exploring the Annapausis...
 Paimon: #Uh... Oh boy, Paimon's head's a mess too. Any ideas, Traveler?
-Traveler: ...Has powerfully white hair?
-Paimon: Yup, and that's a real symbol of purity!
-Traveler: ...Is a powerful giver of nicknames?
-Paimon: Yup, that's Paimon — a gifted speaker indeed!
-Traveler: You really are impressive, Paimon. See...
-Traveler: You've cheered Ann up already.
-Ann: Yes, you truly are impressive, Paimon.
-Paimon: You two... And here Paimon thought that you'd try to tease her or something...
-Paimon: You're weird — yup, both of you! Hmph...
-Traveler: You're getting tired, Paimon...
-Traveler: On the contrary, our story has only just begun.
 
 ## Additional Conversations
 
@@ -135,12 +143,14 @@ Ann: Though the Narzissenkreuz Institute of old did not have sunlight, it was ve
 Paimon: Ann...
 Ann: ...
 Paimon: #Ann looks like she's in pain, Traveler...
-Traveler: Can you recall anything else?
+    Option 1:
+        Traveler: Can you recall anything else?
+    Option 2:
+        Traveler: No need to push yourself.
 Ann: #I'm sorry, Knight Traveler... As for the rest, each time I try to recall it, I grow very frightened... and very sad. This is the best I can do for now.
 Ann: I can sense that many terrible things happened here. I can sense many emotions — rage, terror, but also hope, trust, and admiration.
 Ann: But all of them make me feel a strange sort of pain, like there are all sorts of shards or impurities embedded in my body. I don't want to... I can't...
 Paimon: Alright, alright! Leave that aside first — there's no need to force it. The more you try to force yourself to remember, the less you'll be able to remember!
-Traveler: No need to push yourself.
 
 ### Additional Talk 3
 
@@ -167,7 +177,10 @@ Ann: I... don't know.
 Ann: #Sorry, and thank you, Knight Traveler, Paimon.
 Paimon: Eh? Come on, it's fine. We said we were gonna help you!
 Ann: No. I truly am happy that the two of you are the first two friends I met since I became "me." For that, you have my thanks.
-Traveler: Pleased to have met you too, Ann.
+    Option 1:
+        Traveler: Pleased to have met you too, Ann.
+    Option 2:
+        Traveler: Don't mention it.
 Paimon: Gah, why are the two of you being so... formal?
 Paimon: Isn't becoming friends something that just, y'know, happens? When you called out to us and asked for our help, Ann, that was the moment Paimon thought — that's right, you're our friend, and we've gotta help you!
 Ann: *sniff* Thank you so much, Paimon...
@@ -175,7 +188,6 @@ Paimon: Don't be like that, Ann. If you really wanna thank us, then keep your ch
 Ann: Yes... Yes! You're exactly right, Paimon.
 Ann: Besides, I have your help — I shouldn't waste it by standing still. I must recall more, and tell you all about it.
 Paimon: Uh, not that you have to push yourself too hard to recall the past...
-Traveler: Don't mention it.
 
 ### Additional Talk 6
 
@@ -271,12 +283,14 @@ Paimon: Argh! Paimon wants lots of things, but...
 Paimon: We've been having lots of fun traveling together, so we don't really need anything special. Instead, Caterpillar, can you help us help Ann and Seymour?
 Ann: Paimon...
 Paimon: #What do you think, Traveler? Is that alright?
-Traveler: It's decided then.
+    Option 1:
+        Traveler: It's decided then.
+    Option 2:
+        Traveler: I don't mind.
 Caterpillar: I understand. Then, let us work together.
 Ann: Alright!
 Seymour: Understood.
 Caterpillar: #Now, I plan to work with Seymour and Ann to see if we can use our experiences and the information available here to figure something new out. Traveler, Paimon, let's meet back here later.
-Traveler: I don't mind.
 
 ### Additional Talk 8
 
@@ -319,15 +333,19 @@ Seymour: Yes. Do you need to take a photo, Oceanid Ann? I am equipped with the m
 Ann: Oh, there's no need, but thank you.
 Seymour: Understood.
 Paimon: Wow, Seymour's getting played left and right over here!
-Traveler: Let's call a quick halt, please...
-Paimon: Really... Anyway, wanna go to the Annapausis, Seymour? That way, you can meet that "Mary-Ann" and see if she's the one you're looking for or not.
+    Option 1:
+        Traveler: Let's call a quick halt, please...
+        Paimon: Really... Anyway, wanna go to the Annapausis, Seymour? That way, you can meet that "Mary-Ann" and see if she's the one you're looking for or not.
+    Option 2:
+        Traveler: Do you want to go to the Annapausis, Seymour?
+        Paimon: Yeah. That way, you can meet that "Mary-Ann" and see if she's the one you're looking for or not!
 Ann: What you say makes sense, Paimon.
 Seymour: Affirmative. A reasonable suggestion.
 Paimon: Well, then let's go!
 Ann: #Actually, Knight Traveler, Paimon, I don't think we'll need to trouble you this time. I can show Seymour the way!
-Traveler: Are you sure you'll be fine?
-Ann: Yes. I know Seymour's very reliable.
+    Option 1:
+        Traveler: Are you sure you'll be fine?
+        Ann: Yes. I know Seymour's very reliable.
+    Option 2:
+        Traveler: Take care, now.
 Paimon: Okay! We'll meet back here later, alright?
-Traveler: Take care, now.
-Traveler: Do you want to go to the Annapausis, Seymour?
-Paimon: Yeah. That way, you can meet that "Mary-Ann" and see if she's the one you're looking for or not!

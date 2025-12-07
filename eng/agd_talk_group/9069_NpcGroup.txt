@@ -11,34 +11,45 @@ Traveler: How do you like it here?
 Tighnari: Hmm, this place has a peaceful environment and a wonderful view. Very pleasant.
 Tighnari: ...Perhaps a little too pleasant.
 Tighnari: Look, I've already mapped out an itinerary of my stay.
-Traveler: You're planning on doing some forest-watching here?
-Tighnari: Haha, that would be going too far. This place was constructed by magic, right? I don't sense any dangers.
-Tighnari: And I'm guessing that the only ones who can get in here are those you have specifically invited.
-Tighnari: If they're your friends, I'm sure they won't cause any major disturbances.
-Tighnari: ...Right? They wouldn't, would they?
-Traveler: Are you conducting research?
-Tighnari: Erm... half and half.
-Tighnari: I'm just wandering around here and there, observing various flora as I always do.
-Tighnari: This is equal parts research and normal life.
-Tighnari: But I should probably take a more relaxed approach while I'm here. I'll only plan 60% of my typical itinerary.
-Tighnari: Should you need me, come find me any time.
+    Option 1:
+        Traveler: You're planning on doing some forest-watching here?
+        Tighnari: Haha, that would be going too far. This place was constructed by magic, right? I don't sense any dangers.
+        Tighnari: And I'm guessing that the only ones who can get in here are those you have specifically invited.
+        Tighnari: If they're your friends, I'm sure they won't cause any major disturbances.
+        Tighnari: ...Right? They wouldn't, would they?
+    Option 2:
+        Traveler: Are you conducting research?
+        Tighnari: Erm... half and half.
+        Tighnari: I'm just wandering around here and there, observing various flora as I always do.
+        Tighnari: This is equal parts research and normal life.
+        Tighnari: But I should probably take a more relaxed approach while I'm here. I'll only plan 60% of my typical itinerary.
+        Tighnari: Should you need me, come find me any time.
 
 ## Talk 2
 
 Traveler: Want to chat?
 Tighnari: Of course. Anything you want to talk about?
 Tighnari: If you let me start the conversation, it would definitely be about plants.
-Traveler: It's fine. I was expecting that, anyway.
+    Option 1:
+        Traveler: It's fine. I was expecting that, anyway.
+    Option 2:
+        Traveler: Teach me something, Professor.
 Tighnari: Oh? So you're ready for class?
 Tighnari: Then let us begin with the basics. Botany is a branch of biology that focuses on the morphology, taxonomy, ecology, genetics, and evolution of plants.
 Tighnari: The basic taxonomical classification of plants is as follows:
-Traveler: Zzz... zzz...
+    Option 1:
+        Traveler: Zzz... zzz...
+    Option 2:
+        Traveler: *yawn*
 Tighnari: No daydreaming, sleepyhead! This is what you asked for.
 Tighnari: ...Heh, alright, I'm only teasing. People who don't work in this field don't have to bash their heads against the books.
 Tighnari: However, you spend a considerable amount of time traveling and traipsing through the outdoors. It would behoove you to learn a thing or two about common plants.
 Tighnari: For instance, discerning a plant's growth patterns to orient position, how to use stems and leaves to acquire potable water...
 Tighnari: Which fruits are edible and palatable, which herbs are suitable for cooking with meat...
-Traveler: Oh no, I'm starting to drool...
+    Option 1:
+        Traveler: Oh no, I'm starting to drool...
+    Option 2:
+        Traveler: Professor, I'm hungry.
 Tighnari: Hey, what's the matter with you!? Is this what happens when you hear anything remotely about food?
 Traveler: It's mostly Paimon's fault...
 Tighnari: Ah yes, your little partner...
@@ -47,9 +58,6 @@ Tighnari: Even if it's only for the sake of protecting your companion, you shoul
 Tighnari: Ah... Sorry, I slipped into training mode there for a second, look at me, talking to you like you're a rookie Forest Ranger. ...Please forgive me.
 Tighnari: Anyway, you're smart enough to understand what I meant.
 Tighnari: If you ever wish to learn more about flora, my door is open any time.
-Traveler: Professor, I'm hungry.
-Traveler: *yawn*
-Traveler: Teach me something, Professor.
 
 ## Talk 3
 
@@ -62,8 +70,12 @@ Traveler: Hmm... Nope.
 Tighnari: Oh? So then, why did you ask?
 Tighnari: Alright, I'll go ahead. Please answer one question for me.
 Tighnari: Yes or no: Do you want to rub my ears?
-Traveler: Wha... You're turning this back to me!?
-Tighnari: Don't blame me, I gave you the opportunity to go first.
+    Option 1:
+        Traveler: Wha... You're turning this back to me!?
+        Tighnari: Don't blame me, I gave you the opportunity to go first.
+    Option 2:
+        Traveler: Ah! I'm busted!
+        Tighnari: Your gaze seems to have been wandering slowly earwards the whole time we've been talking.
 Tighnari: Actually, uh... I don't really mind if someone I'm close to rubs my ears, you know?
 Tighnari: I'm not sure why, but everyone always seems to think that it would make me angry.
 Tighnari: Over time, "Do not discuss ears or tails in Tighnari's presence" became something of an unspoken rule.
@@ -72,14 +84,14 @@ Tighnari: It's probably for the best, anyway. It might get irritating if people 
 Traveler: So you're saying that I can...?
 Tighnari: Of course.
 Tighnari: They might not feel as nice as you're imagining, though. They honestly just feel like anything you'd find on a regular cat or dog.
-Traveler: Well, I'll be the judge of that.
+    Option 1:
+        Traveler: Well, I'll be the judge of that.
+    Option 2:
+        Traveler: Hehe, so about your tail...
 Tighnari: I give you an inch, so you take a mile?
 Tighnari: ... *sigh* Okay, fine.
 Tighnari: As long as you're happy.
 Tighnari: I'd be willing to take hundreds of group photos with you, so a pat or three is nothing.
-Traveler: Hehe, so about your tail...
-Traveler: Ah! I'm busted!
-Tighnari: Your gaze seems to have been wandering slowly earwards the whole time we've been talking.
 
 ## Talk 4
 
@@ -100,34 +112,45 @@ Traveler: How do you like it here?
 Tighnari: Hmm, this place has a peaceful environment and a wonderful view. Very pleasant.
 Tighnari: ...Perhaps a little too pleasant.
 Tighnari: Look, I've already mapped out an itinerary of my stay.
-Traveler: You're planning on doing some forest-watching here?
-Tighnari: Haha, that would be going too far. This place was constructed by magic, right? I don't sense any dangers.
-Tighnari: And I'm guessing that the only ones who can get in here are those you have specifically invited.
-Tighnari: If they're your friends, I'm sure they won't cause any major disturbances.
-Tighnari: ...Right? They wouldn't, would they?
-Traveler: Are you conducting research?
-Tighnari: Erm... half and half.
-Tighnari: I'm just wandering around here and there, observing various flora as I always do.
-Tighnari: This is equal parts research and normal life.
-Tighnari: But I should probably take a more relaxed approach while I'm here. I'll only plan 60% of my typical itinerary.
-Tighnari: Should you need me, come find me any time.
+    Option 1:
+        Traveler: You're planning on doing some forest-watching here?
+        Tighnari: Haha, that would be going too far. This place was constructed by magic, right? I don't sense any dangers.
+        Tighnari: And I'm guessing that the only ones who can get in here are those you have specifically invited.
+        Tighnari: If they're your friends, I'm sure they won't cause any major disturbances.
+        Tighnari: ...Right? They wouldn't, would they?
+    Option 2:
+        Traveler: Are you conducting research?
+        Tighnari: Erm... half and half.
+        Tighnari: I'm just wandering around here and there, observing various flora as I always do.
+        Tighnari: This is equal parts research and normal life.
+        Tighnari: But I should probably take a more relaxed approach while I'm here. I'll only plan 60% of my typical itinerary.
+        Tighnari: Should you need me, come find me any time.
 
 ## Talk 7
 
 Traveler: Want to chat?
 Tighnari: Of course. Anything you want to talk about?
 Tighnari: If you let me start the conversation, it would definitely be about plants.
-Traveler: It's fine. I was expecting that, anyway.
+    Option 1:
+        Traveler: It's fine. I was expecting that, anyway.
+    Option 2:
+        Traveler: Teach me something, Professor.
 Tighnari: Oh? So you're ready for class?
 Tighnari: Then let us begin with the basics. Botany is a branch of biology that focuses on the morphology, taxonomy, ecology, genetics, and evolution of plants.
 Tighnari: The basic taxonomical classification of plants is as follows:
-Traveler: Zzz... zzz...
+    Option 1:
+        Traveler: Zzz... zzz...
+    Option 2:
+        Traveler: *yawn*
 Tighnari: No daydreaming, sleepyhead! This is what you asked for.
 Tighnari: ...Heh, alright, I'm only teasing. People who don't work in this field don't have to bash their heads against the books.
 Tighnari: However, you spend a considerable amount of time traveling and traipsing through the outdoors. It would behoove you to learn a thing or two about common plants.
 Tighnari: For instance, discerning a plant's growth patterns to orient position, how to use stems and leaves to acquire potable water...
 Tighnari: Which fruits are edible and palatable, which herbs are suitable for cooking with meat...
-Traveler: Oh no, I'm starting to drool...
+    Option 1:
+        Traveler: Oh no, I'm starting to drool...
+    Option 2:
+        Traveler: Professor, I'm hungry.
 Tighnari: Hey, what's the matter with you!? Is this what happens when you hear anything remotely about food?
 Traveler: It's mostly Paimon's fault...
 Tighnari: Ah yes, your little partner...
@@ -136,9 +159,6 @@ Tighnari: Even if it's only for the sake of protecting your companion, you shoul
 Tighnari: Ah... Sorry, I slipped into training mode there for a second, look at me, talking to you like you're a rookie Forest Ranger. ...Please forgive me.
 Tighnari: Anyway, you're smart enough to understand what I meant.
 Tighnari: If you ever wish to learn more about flora, my door is open any time.
-Traveler: Professor, I'm hungry.
-Traveler: *yawn*
-Traveler: Teach me something, Professor.
 
 ## Talk 8
 
@@ -151,8 +171,12 @@ Traveler: Hmm... Nope.
 Tighnari: Oh? So then, why did you ask?
 Tighnari: Alright, I'll go ahead. Please answer one question for me.
 Tighnari: Yes or no: Do you want to rub my ears?
-Traveler: Wha... You're turning this back to me!?
-Tighnari: Don't blame me, I gave you the opportunity to go first.
+    Option 1:
+        Traveler: Wha... You're turning this back to me!?
+        Tighnari: Don't blame me, I gave you the opportunity to go first.
+    Option 2:
+        Traveler: Ah! I'm busted!
+        Tighnari: Your gaze seems to have been wandering slowly earwards the whole time we've been talking.
 Tighnari: Actually, uh... I don't really mind if someone I'm close to rubs my ears, you know?
 Tighnari: I'm not sure why, but everyone always seems to think that it would make me angry.
 Tighnari: Over time, "Do not discuss ears or tails in Tighnari's presence" became something of an unspoken rule.
@@ -161,14 +185,14 @@ Tighnari: It's probably for the best, anyway. It might get irritating if people 
 Traveler: So you're saying that I can...?
 Tighnari: Of course.
 Tighnari: They might not feel as nice as you're imagining, though. They honestly just feel like anything you'd find on a regular cat or dog.
-Traveler: Well, I'll be the judge of that.
+    Option 1:
+        Traveler: Well, I'll be the judge of that.
+    Option 2:
+        Traveler: Hehe, so about your tail...
 Tighnari: I give you an inch, so you take a mile?
 Tighnari: ... *sigh* Okay, fine.
 Tighnari: As long as you're happy.
 Tighnari: I'd be willing to take hundreds of group photos with you, so a pat or three is nothing.
-Traveler: Hehe, so about your tail...
-Traveler: Ah! I'm busted!
-Tighnari: Your gaze seems to have been wandering slowly earwards the whole time we've been talking.
 
 ## Talk 9
 

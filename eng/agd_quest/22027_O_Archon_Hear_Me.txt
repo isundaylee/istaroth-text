@@ -11,11 +11,13 @@ Shouta: I think that pretty lacquerware is very valuable. If I used those as off
 Shouta: However, I don't have money to buy any lacquerware. That's why I want to make one for myself.
 Shouta: I heard that Nanatsuki from Yayoi Lacquerware is very good at making them...
 Shouta: #Could you go ask her about the lacquerware, {F#big sis}{M#big bro}?
-Traveler: No problem. Let's go.
-Shouta: #Thank you, {F#big sis}{M#big bro}!
-Traveler: Not going yourself?
-Shouta: Nanatsuki is pretty serious most of the time. I don't have the guts to go ask for her help myself...
-Shouta: #But if you're with me, {F#big sis}{M#big bro}, things will probably go better...
+    Option 1:
+        Traveler: No problem. Let's go.
+        Shouta: #Thank you, {F#big sis}{M#big bro}!
+    Option 2:
+        Traveler: Not going yourself?
+        Shouta: Nanatsuki is pretty serious most of the time. I don't have the guts to go ask for her help myself...
+        Shouta: #But if you're with me, {F#big sis}{M#big bro}, things will probably go better...
 
 ## Talk 2
 

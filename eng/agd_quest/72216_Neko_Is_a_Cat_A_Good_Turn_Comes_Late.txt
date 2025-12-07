@@ -14,11 +14,14 @@ Traveler: Trouble is, we don't know where she is...
 ## Talk 3
 
 Etsuko: Indeed, "Hibiki," "Asase Shrine," "Domeki"... these names are all quite concerning, actually.
-Traveler: And where did you two pop out from?
-Etsuko: Well, you were all making such a racket, so of course we'd come over.
-Etsuko: Still, there's something that I think you must know.
-Etsuko: Taisuke, if you'd do the honors.
-Taisuke: Ah right, of course, Miss Etsuko. So what we're going to say... concerns Seirai Island.
+    Option 1:
+        Traveler: And where did you two pop out from?
+        Etsuko: Well, you were all making such a racket, so of course we'd come over.
+        Etsuko: Still, there's something that I think you must know.
+        Etsuko: Taisuke, if you'd do the honors.
+        Taisuke: Ah right, of course, Miss Etsuko. So what we're going to say... concerns Seirai Island.
+    Option 2:
+        Traveler: Do you know something?
 Taisuke: The history of this place is very obscure, and while the Guild has attempted to specifically search for information regarding it, we've found very little...
 Taisuke: According to what information we did manage to get, this was a gathering place for pirates several centuries ago. Then, it was the Shogunate who cleared all the pirates out and moved the inhabitants to other places...
 Taisuke: Unless I'm mistaken, this "Domeki" we speak of may well have been the pirate leader "Ako Domeki," who chose to fight the Shogunate head-on. The records do clearly record his name.
@@ -47,7 +50,6 @@ Etsuko: It's a real happy camper right now. No need for you to be a wet blanket.
 Taisuke: I got it. Haha, Miss Etsuko, you really are...
 Etsuko: ...Just trying to finish our commissions more efficiently. C'mon, let's get to work.
 Etsuko: Seirai Island... It seems that this place is still full of many mysteries...
-Traveler: Do you know something?
 
 ## Talk 4
 
@@ -73,7 +75,10 @@ Neko: Well then, stone human. Do you require me to do anything else?
 Ooshima Junpei: Well, not really... Well, since you're here, Lady Priestess, I can chisel that last bit of stone off now!
 Ooshima Junpei: Three... two... one!
 Ooshima Junpei: Wh—What's with this cloud...
-Traveler: It turned into the shape of a cat...
+    Option 1:
+        Traveler: It turned into the shape of a cat...
+    Option 2:
+        Traveler: What in the world...
 Neko: It's Hibiki.
 Traveler: Eh?
 Ooshima Junpei: Hibiki?
@@ -92,4 +97,3 @@ Neko: You... you are a good person! Better than that meal! Hibiki will like you 
 Neko: I must call all those little rascals together and make plans for her return. And... yes, of course, of course, the many people who will come to visit the shrine. I will need to give instructions concerning that as well...
 Neko: And there are all these other matters that must be settled first...
 Neko: Oh, Hibiki... meow meow, meow! This is wonderful, wonderful!
-Traveler: What in the world...

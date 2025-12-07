@@ -20,8 +20,12 @@
 Titu: That voice is more complete now, but... Somehow, it's not as frightening as before.
 Titu: My head still hurts a little, though.
 Paimon: #How you feeling, Traveler?
-Traveler: It's no big deal.
-Paimon: That's good...
+    Option 1:
+        Traveler: It's no big deal.
+        Paimon: That's good...
+    Option 2:
+        Traveler: Now that's what they call "surround sound."
+        Paimon: What? That's not what Paimon was asking at all!
 Paimon: #Anyway! How are you feeling, {REALNAME[ID(2)|SHOWHOST(true)]}?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mmm?
 Paimon: Yeah, looks like you're fine, too.
@@ -41,8 +45,6 @@ Paimon: Wait, was that stone even there before?
 Titu: #Did it... just appear as you approached the large Inscription, Traveler?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hmm?
 Paimon: Well, whatever. Let's take a look around that rock first, shall we?
-Traveler: Now that's what they call "surround sound."
-Paimon: What? That's not what Paimon was asking at all!
 
 ## Talk 6
 
@@ -58,7 +60,10 @@ You hear the sound of inchoate flesh and blood merging, the sick, giant, sticky,
 But you also hear something like thousands of hands, thousands constantly resisting, pushing outward...
 Black Screen Text: You hear the endless battle in the narrow darkness.
 It is... torment unto eternity.
-Traveler: They cannot find peace...
+    Option 1:
+        Traveler: They cannot find peace...
+    Option 2:
+        Traveler: They fight on still...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Titu: Those heroes are still locked in battle to this day, preventing the Abyss from flooding out from the Iridescent Inscription.
 Titu: The stories I tell have purpose. We must always remember those brave warriors and their sacrifices.
@@ -77,7 +82,10 @@ Traveler: This is no end for heroes.
 Titu: I know that. I wish to give them peace, too. But I don't have that power. I'm just... a storyteller.
 Paimon: #Traveler...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh!
-Traveler: Don't worry. We're strong together.
+    Option 1:
+        Traveler: Don't worry. We're strong together.
+    Option 2:
+        Traveler: Let's rewrite this story's ending.
 Titu: #...Really? You'd do that, Traveler?
 Paimon: #Of course he would. Cross Paimon's heart!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -88,12 +96,12 @@ Titu: *sigh* You're even more impressive than I could have imagined. To be willi
 Titu: #And I am a storyteller... so I will record the tales of heroes. Well then, Traveler, O hero from another land, please... Show me how you shall valiantly triumph over the Abyss.
 Traveler: That we shall do.
 Titu: So... Shall we unseal the Iridescent Inscription now, or do you want to make some preparations first?
-Traveler: Let's go now.
-Titu: #Alright. I wish you success, Traveler!
-Traveler: One moment. Let's prep real quick.
-Titu: #Sure. Do all you need to... and be careful, Traveler.
-Traveler: Let's rewrite this story's ending.
-Traveler: They fight on still...
+    Option 1:
+        Traveler: Let's go now.
+        Titu: #Alright. I wish you success, Traveler!
+    Option 2:
+        Traveler: One moment. Let's prep real quick.
+        Titu: #Sure. Do all you need to... and be careful, Traveler.
 
 ## Talk 7
 
@@ -113,7 +121,11 @@ Titu: #You're back! {REALNAME[ID(2)|SHOWHOST(true)]} and I were worried, honestl
 Titu: But hah, what did I say, little fella? They're fine, see?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Oooroo...
 Paimon: Heh. Not that we could explain where we went just now...
-Traveler: It's a long story for sure...
+    Option 1:
+        Traveler: It's a long story for sure...
+    Option 2:
+        Traveler: We saw a glowing cat...
+        Titu: I—I see...
 Titu: #In any case, thank you, Traveler. I never expected that the Abyss here could truly be purified.
 Titu: The Iridescent Inscription, too, is gone — almost as if it no longer needed to stay. The tormented voices have also fallen silent.
 Titu: And that golden light! How it flowed like water, spreading across the ground.
@@ -141,8 +153,6 @@ Titu: Speaking of that— Oh, I should probably... head back to the sentry post 
 Titu: I'd almost forgotten about that amidst all the excitement...
 Titu: ...Ugh. I sure hope Yukom doesn't tear me a new one for being gone so long!
 Paimon: Yeah, uh, you should totally get back there pronto!
-Traveler: We saw a glowing cat...
-Titu: I—I see...
 
 ## Talk 9
 
@@ -151,38 +161,45 @@ Titu: I—I see...
 ## Talk 11
 
 Titu: #Hah... What do you think, Traveler. Shall we unseal the Iridescent Inscription now?
-Traveler: Yes. Let's begin.
-Titu: Then I'll get to it... But please, be very careful.
-Traveler: Give me a moment more to prepare.
-Titu: No worries. Just tell me once you're done...
+    Option 1:
+        Traveler: Yes. Let's begin.
+        Titu: Then I'll get to it... But please, be very careful.
+    Option 2:
+        Traveler: Give me a moment more to prepare.
+        Titu: No worries. Just tell me once you're done...
 
 ## Talk 13
 
 Titu: #Ah, it's you, mighty Traveler! How's it all going, been on any more adventures? If you've heard any amazing stories, I'm all ears!
 Titu: Tell you what, I've got a brother at the Saurian Relics Association. Name's Manqu, and man, if I told him what we saw at the Shadow Pins...
 Titu: He'd go so green with envy, it might kill him! Gonna wait till I get back from my post to break it to him, though.
-Traveler: About marked young Saurians...
-Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
-Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
-Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
-Traveler: About the tales of those heroes...
-Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
-Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
-Titu: So I've got to give this all the consideration it's due!
-Traveler: About storytellers...
-Titu: We sure are an amazing bunch!
-Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, who all storytellers revere...
-Titu: They say he had every scroll ever written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he also mooched a lot of food and drink off them along the way...
-Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
-Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
-Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
-Titu: So, if only in terms of the variety of the main cast, I'm the winner!
-Traveler: I saw you in Ochkanatlan...
-Titu: What? Me? ... Haha, you must be joking. "I've" never been there, that's for sure. "I" am simply a storyteller from the Children of Echoes.
-Titu: "Titu" is just a name. Anyone could be called "Titu." Perhaps the one you saw was someone using that name...
-Titu: Hehe, and that makes me another who is using it, of course.
-Traveler: See you! Guard your post well!
-Titu: #Alright, alright. See you, Traveler.
+    Option 1:
+        Traveler: About marked young Saurians...
+        Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
+        Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
+        Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
+    Option 2:
+        Traveler: About the tales of those heroes...
+        Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
+        Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
+        Titu: So I've got to give this all the consideration it's due!
+    Option 3:
+        Traveler: About storytellers...
+        Titu: We sure are an amazing bunch!
+        Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, who all storytellers revere...
+        Titu: They say he had every scroll ever written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he also mooched a lot of food and drink off them along the way...
+        Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
+        Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
+        Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
+        Titu: So, if only in terms of the variety of the main cast, I'm the winner!
+    Option 4:
+        Traveler: I saw you in Ochkanatlan...
+        Titu: What? Me? ... Haha, you must be joking. "I've" never been there, that's for sure. "I" am simply a storyteller from the Children of Echoes.
+        Titu: "Titu" is just a name. Anyone could be called "Titu." Perhaps the one you saw was someone using that name...
+        Titu: Hehe, and that makes me another who is using it, of course.
+    Option 5:
+        Traveler: See you! Guard your post well!
+        Titu: #Alright, alright. See you, Traveler.
 
 ## Talk 15
 
@@ -229,41 +246,49 @@ Yukom: As for Titu... Why hasn't that guy come to take over this post yet? Ugh. 
 Titu: #Ah, it's you, mighty Traveler! How are things going? Have you gone on another adventure? If you've heard any more amazing stories, I'm all ears!
 Titu: Tell you what, I've got a brother at the Saurian Relics Association. Name's Manqu, and man, if I told him what we saw at the Shadow Pins...
 Titu: He'd go so green with envy, it might kill him! Gonna wait till I get back from my post to break it to him, though.
-Traveler: About marked Saurian young...
-Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
-Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
-Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
-Traveler: About the tales of those heroes...
-Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
-Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
-Titu: So yeah, I've got to give this all the consideration it's due!
-Traveler: About storytellers...
-Titu: We're an amazing bunch, we are!
-Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, whom all storytellers revere...
-Titu: They say he had every scroll written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he often tricked people, mooching food and drink off them.
-Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
-Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
-Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
-Titu: So, if only in terms of the variety of main characters, I'm the winner here!
-Traveler: See you! Guard your post well!
-Titu: #Alright, alright. See you, Traveler.
+    Option 1:
+        Traveler: About marked Saurian young...
+        Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
+        Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
+        Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
+    Option 2:
+        Traveler: About the tales of those heroes...
+        Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
+        Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
+        Titu: So yeah, I've got to give this all the consideration it's due!
+    Option 3:
+        Traveler: About storytellers...
+        Titu: We're an amazing bunch, we are!
+        Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, whom all storytellers revere...
+        Titu: They say he had every scroll written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he often tricked people, mooching food and drink off them.
+        Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
+        Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
+        Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
+        Titu: So, if only in terms of the variety of main characters, I'm the winner here!
+    Option 4:
+        Traveler: See you! Guard your post well!
+        Titu: #Alright, alright. See you, Traveler.
 
 ## Talk 101
 
 Yukom: *sigh* I didn't expect this round of guard duty to last that long. Well, Titu's finally back, at least...
-Traveler: Hey there! Who are you?
-Yukom: Haha, me? You're a curious guest. Call me Yukom. As you can see, I'm a guard at this sentry post — one of them, anyway.
-Yukom: #But word to the wise, brother — you probably shouldn't just walk up to and talk to someone in the wilds here like that...
-Yukom: This is the outer edge of the Children of Echoes' lands. Once you leave this area, you'll enter territory where any warrior's fair game to spar.
-Traveler: What are you doing here, exactly?
-Yukom: Oh, you know, guarding, standing... waiting.
-Yukom: Alright, so I'm a little bored, and a bit tired, too. This is the Children of Echoes' sentry post, which people take turns to stand guard over every day.
-Yukom: This is my "duty" within the tribe.
-Traveler: Titu's back. Not gonna take a break?
-Yukom: What does it look like I'm doing, eh? And now that he is, I no longer need to stare at those ominous winds, strange mutterings, and twisting shadows.
-Yukom: #Just need to watch others work — that's the best kinda rest, brother!
-Traveler: See you!
-Yukom: Aye, see you. Take care!
+    Option 1:
+        Traveler: Hey there! Who are you?
+        Yukom: Haha, me? You're a curious guest. Call me Yukom. As you can see, I'm a guard at this sentry post — one of them, anyway.
+        Yukom: #But word to the wise, brother — you probably shouldn't just walk up to and talk to someone in the wilds here like that...
+        Yukom: This is the outer edge of the Children of Echoes' lands. Once you leave this area, you'll enter territory where any warrior's fair game to spar.
+    Option 2:
+        Traveler: What are you doing here, exactly?
+        Yukom: Oh, you know, guarding, standing... waiting.
+        Yukom: Alright, so I'm a little bored, and a bit tired, too. This is the Children of Echoes' sentry post, which people take turns to stand guard over every day.
+        Yukom: This is my "duty" within the tribe.
+    Option 3:
+        Traveler: Titu's back. Not gonna take a break?
+        Yukom: What does it look like I'm doing, eh? And now that he is, I no longer need to stare at those ominous winds, strange mutterings, and twisting shadows.
+        Yukom: #Just need to watch others work — that's the best kinda rest, brother!
+    Option 4:
+        Traveler: See you!
+        Yukom: Aye, see you. Take care!
 
 ## Talk 102
 

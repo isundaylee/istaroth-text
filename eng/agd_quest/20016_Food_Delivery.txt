@@ -9,11 +9,13 @@ Sara: Sorry, I know you must be hungry, but could you do something for me?
 Sara: There's been a steady increase in volume of delivery orders recently. I tend to divide them up by region and then label each dish with the name of the person who ordered it.
 Sara: But I've lost the label for this *Calla Lily Seafood Soup*. All I know is that it's for someone in Springvale.
 Sara: Could you take this *Calla Lily Seafood Soup* over to Springvale for me and find out who ordered it?
-Traveler: I guess, but...
-Sara: Rest assured there'll be a hearty meal waiting for you on your return!
-Sara: I'm counting on you!
-Traveler: I only came here to eat; I'm starving!
-Sara: Once you've done what I ask, I'll treat you to something from the Good Hunter special menu! Much obliged.
+    Option 1:
+        Traveler: I guess, but...
+        Sara: Rest assured there'll be a hearty meal waiting for you on your return!
+        Sara: I'm counting on you!
+    Option 2:
+        Traveler: I only came here to eat; I'm starving!
+        Sara: Once you've done what I ask, I'll treat you to something from the Good Hunter special menu! Much obliged.
 
 ## Talk 2
 

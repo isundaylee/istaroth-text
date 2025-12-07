@@ -83,17 +83,19 @@ Paimon: Struck by lightning!?
 Dehya: We were fighting, and just as things started looking grim, the weather suddenly became extremely strange. Lightning started attacking everyone, almost as if it were alive.
 Dehya: Luckily, there were only two of us, and both of us were nimble enough to dodge most of the strikes. There were a lot of Fatui, though, and they were being torn to shreds by the bolts of lightning.
 Tighnari: With that, all the Fatui soldiers were forced to retreat...
-Traveler: Your wound...
-Tighnari: It's alright.
+    Option 1:
+        Traveler: Your wound...
+        Tighnari: It's alright.
+    Option 2:
+        Traveler: ...I'm really sorry.
+        Tighnari: Why are you sorry?
+        Traveler: I might have triggered the thunder and lightning...
+        Tighnari: Huh... It's alright, I'm sure you also never expected this to happen. Don't blame yourself.
 Tighnari: My wound aside, you look like... you've seen something unpleasant. Is Haypasia alright?
 Traveler: She's okay for now, but I want to tell you something.
 Tighnari: Ugh...!
 Dehya: Hey! Didn't I tell you not to move?
 Tighnari: Just in case... Ugh! Let's... go to Haypasia's place, and talk about things there.
-Traveler: ...I'm really sorry.
-Tighnari: Why are you sorry?
-Traveler: I might have triggered the thunder and lightning...
-Tighnari: Huh... It's alright, I'm sure you also never expected this to happen. Don't blame yourself.
 
 ## Talk 15
 
@@ -116,7 +118,10 @@ Tighnari: Don't say that. I haven't even thanked you for your help back there.
 Dehya: Don't mention it.
 Dehya: Well, if nothing else, all this proves that The Doctor really did have some urgent matter to attend to, and left Sumeru in a hurry.
 Traveler: Yeah, and I also have a theory.
-Traveler: I think The Balladeer is the reason why The Doctor is targeting Haypasia.
+    Option 1:
+        Traveler: I think The Balladeer is the reason why The Doctor is targeting Haypasia.
+    Option 2:
+        Traveler: Her consciousness connected to The Balladeer, and she has seen his past...
 Dehya: Hmm. Maybe the Fatui want to cover up some secret of The Balladeer? Is that why they tried to seize Haypasia?
 Paimon: You said The Balladeer claimed that Haypasia has seen his past... So what could be there?
 Traveler: For now, I'm still not really sure.
@@ -131,7 +136,6 @@ Traveler: Yes, please do get some rest.
 Tighnari: Yeah, yeah... alright.
 Dehya: #Okay, that wraps things up for us here at Pardis Dhyai. Traveler, it's about time we rendezvous with the others at the Grand Bazaar.
 Dehya: Let's continue to keep a low profile. You can head there once you're ready.
-Traveler: Her consciousness connected to The Balladeer, and she has seen his past...
 
 ## Talk 16
 
@@ -206,7 +210,10 @@ Nilou: Yep, you got it!
 Alhaitham: All the preparations are done. Now, can we finally conclude this meeting?
 Traveler: Yeah. Tomorrow, we are going to save a god.
 Dehya: So, have you thought up what you'd like to say, boss?
-Traveler: It's hard to believe everything that has happened till now...
+    Option 1:
+        Traveler: It's hard to believe everything that has happened till now...
+    Option 2:
+        Traveler: And our actions will bring change to many things tomorrow.
 Paimon: Yep yep! It's a grand plan, and we're all super awesome!
 Traveler: That's right, so...
 Traveler: Just get a good night's sleep, everyone!
@@ -218,4 +225,3 @@ Alhaitham: Oh, huh, nothing.
 Paimon: Alright, let's all go home and get a good night's sleep, so we can be up early tomorrow!
 Nilou: Okay, so I guess that means it's time to say goodnight now.
 Paimon: Yep! Goodnight, everyone.
-Traveler: And our actions will bring change to many things tomorrow.

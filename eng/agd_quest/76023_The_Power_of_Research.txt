@@ -8,6 +8,7 @@ Paimon: L—Lightning! It's going to hurt a lot if we get hit, right?
 ## Talk 2
 
 Fanngel (???): W—Waaaah! I almost got s—struck just now!
+
 Fanngel (???): If this keeps up... Argh! Wait, someone's coming? Help! Please!
 
 ## Talk 3
@@ -30,12 +31,24 @@ Fanngel: For example, the entire structure for lifting it into the air...
 Paimon: Huh? If it can't get up in the air, how is it supposed to collect data from high altitudes?
 Fanngel: Uhm... Well... Ah — It's all because... You see... Many of the greatest leaps in human knowledge come when the researchers themselves step in. Even if it means becoming the subject of their own experiments.
 Fanngel: They say Heinry's team drank tens of thousands of bottles of Fonta to perfect the flavor we have today. So... You get what I'm saying, right?
-Traveler: Not really.
-Paimon: Staring at us won't make us understand, you know.
-Fanngel: *sigh* You are way too smart not to get this. But fine, if you insist...
+    Option 1:
+        Traveler: Not really.
+        Paimon: Staring at us won't make us understand, you know.
+        Fanngel: *sigh* You are way too smart not to get this. But fine, if you insist...
+    Option 2:
+        Traveler: You want to conduct the experiment yourself?
+        Fanngel: Huh!? Not me! It's enough of a miracle that the Fanngel Effect hasn't affected you two. If I were the one to try it, it'd be a total disaster...
+        Fanngel: Not that I'd mind trying. Sooner or later, the curse will devour me anyway. But the research on kuuvahki is too important to be left unfinished...
 Fanngel: #How about this — I'll just redesign the Fannta bottle to be shaped like you two... or we don't even have to call it Fannta anymore. It could be Paita, Monta, or Traveler-ta.
 Fanngel: Please, for the sake of scientific progress, take the Collector 2.0 with you into the skies!
-Traveler: Since it's for scientific progress, I'll do it.
+    Option 1:
+        Traveler: Since it's for scientific progress, I'll do it.
+    Option 2:
+        Traveler: Since it's for scientific progress... How about Paimon does it?
+        Paimon: Huh? We're both part of this co-branding, aren't we? Then why is Paimon the only one being sent off...?
+        Fanngel: I'm not sure that'll do... Even in the name of scientific progress, we can't run experiments on someone so small! I was just thinking of making you a glider or something...
+        Traveler: I've got one already. I was only joking.
+        Paimon: #You gave Paimon a scare... Don't joke around like that! But don't worry, Paimon will be going with you, Traveler!
 Fanngel: Oh, so you already have a glider! That's amazing! Then we can check that off the list.
 Fanngel: Alright, let me explain the latest changes! Just yesterday, it occurred to me... since the thunderstorms here are bursting with kuuvahki...
 Fanngel: Instead of avoiding it, why not harness it? In other words, we can actively attract the lightning! This relay device was built for exactly that purpose.
@@ -48,14 +61,6 @@ Fanngel: This will be the final experiment. *Channel the lightning to the lightn
 Fanngel: I'll let you know as soon as we've got enough data. And I'll do everything I can to keep you safe. So, ready to go?
 Traveler: For the sake of science.
 Fanngel: That's the spirit — for the sake of science!
-Traveler: Since it's for scientific progress... How about Paimon does it?
-Paimon: Huh? We're both part of this co-branding, aren't we? Then why is Paimon the only one being sent off...?
-Fanngel: I'm not sure that'll do... Even in the name of scientific progress, we can't run experiments on someone so small! I was just thinking of making you a glider or something...
-Traveler: I've got one already. I was only joking.
-Paimon: #You gave Paimon a scare... Don't joke around like that! But don't worry, Paimon will be going with you, Traveler!
-Traveler: You want to conduct the experiment yourself?
-Fanngel: Huh!? Not me! It's enough of a miracle that the Fanngel Effect hasn't affected you two. If I were the one to try it, it'd be a total disaster...
-Fanngel: Not that I'd mind trying. Sooner or later, the curse will devour me anyway. But the research on kuuvahki is too important to be left unfinished...
 
 ## Talk 5
 
@@ -134,12 +139,14 @@ Paimon: Paimon suddenly feels like renaming Fonta might not be enough...
 Fanngel: No problem! As long as you're willing to keep helping with the experiment, then putting your likenesses on the Fannta label would be more than fair!
 Paimon: #So that means everyone who buys Fannta will get to see Paimon and Traveler on the label?
 Fanngel: Yes! You'll be known around Teyvat. But for two scientific pioneers like yourselves, that's still a pretty modest reward. So, what do you say? Shall we keep going?
-Traveler: Will Fann — Fonta's development team really agree to that?
-Fanngel: I've known Heinry for years. I'm sure he'll agree if I say the right words. If not... well, we can always add his name to the label too!
-Fanngel: After all, what we seek has never been glory, but scientific progress itself.
+    Option 1:
+        Traveler: Will Fann — Fonta's development team really agree to that?
+        Fanngel: I've known Heinry for years. I'm sure he'll agree if I say the right words. If not... well, we can always add his name to the label too!
+        Fanngel: After all, what we seek has never been glory, but scientific progress itself.
+    Option 2:
+        Traveler: For the sake of scientific progress!
 Paimon: In that case, let's get back to the experiment!
 Fanngel: Excellent! I knew you were people of extraordinary insight. Once you're ready, I'll go set up the parameters for the next experiment.
-Traveler: For the sake of scientific progress!
 
 ## Talk 30
 
@@ -194,14 +201,18 @@ Fanngel: Give me some time to dig into it. Could you come by again tomorrow?
 ### Additional Talk 3
 
 Fanngel: Hmm... Data sorting is a meticulous task. I'll have to remain fully focused...
-Traveler: About your thesis...
-Fanngel: Once my thesis is finished and published, I'll make sure to send you a copy. Well then, time for me to get back to my research...
-Traveler: About kuuvahki...
-Fanngel: Our understanding of kuuvahki is still quite limited. I'm considering spending more time in Nod-Krai to conduct further field research.
-Traveler: About the collector's lightning protection...
-Fanngel: It's pretty effective, right? I take my research seriously, after all.
-Traveler: Best of luck with your thesis!
-Fanngel: You too! Best of luck with your adventures!
+    Option 1:
+        Traveler: About your thesis...
+        Fanngel: Once my thesis is finished and published, I'll make sure to send you a copy. Well then, time for me to get back to my research...
+    Option 2:
+        Traveler: About kuuvahki...
+        Fanngel: Our understanding of kuuvahki is still quite limited. I'm considering spending more time in Nod-Krai to conduct further field research.
+    Option 3:
+        Traveler: About the collector's lightning protection...
+        Fanngel: It's pretty effective, right? I take my research seriously, after all.
+    Option 4:
+        Traveler: Best of luck with your thesis!
+        Fanngel: You too! Best of luck with your adventures!
 
 ### Additional Talk 4
 
@@ -209,8 +220,11 @@ Fanngel: F—Finally, it worked! Warriors, my name is Fanngel. I'm a researcher 
 Fanngel: I saw everything just now. You were absolutely incredible! May I ask your names?
 Paimon: #Paimon's Paimon, and this is Traveler. We're adventurers. Have you been stuck here for a long time?
 Fanngel: If not for the two of you, I might've been stuck much longer... You're the first ones to make it through the thunderstorm safely!
-Traveler: Surely you should be the first one?
-Fanngel: N—No, of course not! I... don't have your luck.
+    Option 1:
+        Traveler: Surely you should be the first one?
+        Fanngel: N—No, of course not! I... don't have your luck.
+    Option 2:
+        Traveler: Then how did you get here?
 Fanngel: You probably won't believe me... but this abnormal weather is probably a result of my being cursed...
 Paimon: Cursed? Wait, do sciencey people really believe in that kind of thing?
 Fanngel: Indeed. In fact, that's why I got into science in the first place — to find a way to break this curse. I know it sounds crazy, but if you'd gone through half the things I have, you'd understand.
@@ -218,8 +232,11 @@ Fanngel: Whenever I cook, even when I'm just mixing a salad, it somehow catches 
 Paimon: That really does sound unlucky... Isn't there a way to break the curse?
 Fanngel: Science, of course! That's the only way!
 Paimon: That sounds reasonable enough, but something feels off...
-Traveler (Fanngel): It sounds about as reasonable as Paimon single-handedly fighting Abyssal monsters...
-Paimon: #Hmph, how about Paimon single-handedly fighting Traveler? Honestly... Paimon's always cheering the loudest when you're fighting!
+    Option 1:
+        Traveler (Fanngel): It sounds about as reasonable as Paimon single-handedly fighting Abyssal monsters...
+        Paimon: #Hmph, how about Paimon single-handedly fighting Traveler? Honestly... Paimon's always cheering the loudest when you're fighting!
+    Option 2:
+        Traveler: Isn't a blessing usually the way to break a curse?
 Fanngel: *sigh* I tried all the traditional methods when I was younger, but none of them worked. In the end, it was the Fontaine Research Institute that saved me. They taught me how to fight against it.
 Fanngel: Since mixing salads caused fires, I invented a cooling system for food! In fact, that very system ended up being used in Fonta vending machines.
 Fanngel: Now everyone can easily enjoy ice-cold Fonta, and that's thanks in part to the Fanngel Effect. Heinry's been so grateful to me for this, hehe.
@@ -239,16 +256,16 @@ Fanngel: So, may I ask for your help? If you're willing to help me complete my e
 Fanngel: I'll make sure to propose that both your names be added to Fannta!
 Paimon: #Fann-Traveler-Paimon-ta? That's quite an impressive name!
 Paimon: #Traveler, let's help!
-Traveler: Alright, but I imagine sales will take quite a hit...
-Paimon: You think the name's too long? Then let's go with "Fannta Paimon"!
-Fanngel: #Traveler, you're not joining the co-branding? How modest of you. I'll be sure to give you a special thanks in the acknowledgments section of my thesis!
+    Option 1:
+        Traveler: Alright, but I imagine sales will take quite a hit...
+        Paimon: You think the name's too long? Then let's go with "Fannta Paimon"!
+        Fanngel: #Traveler, you're not joining the co-branding? How modest of you. I'll be sure to give you a special thanks in the acknowledgments section of my thesis!
+    Option 2:
+        Traveler: That sounds great.
 Fanngel: We managed to get the Airspace Data Collector into the air earlier, but unfortunately, it didn't quite get high enough. All you need to do now is lift it up a little more.
 Fanngel: To get it higher, you'll need to *stack more assembly modules*. Simple and effective, huh? I'm counting on you!
 Paimon: Sounds simple enough. We've got this!
 Fanngel: In that case, shall we start setting things up? When adjusting the assembly modules, just make sure the *blue strong "unipolar" field is facing the collector*.
-Traveler: That sounds great.
-Traveler: Isn't a blessing usually the way to break a curse?
-Traveler: Then how did you get here?
 
 ### Additional Talk 5
 

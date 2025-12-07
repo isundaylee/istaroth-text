@@ -18,42 +18,47 @@ Xudong: We're the Gourmet Supremos. We're currently traveling around the world i
 Parvaneh: Ugh, I'm begging you, can you please not say that name out loud...
 Xudong: Hahaha, come on, it's fine! Anyway, Traveler, are you also going in to collect Sakura Blooms?
 Xudong: If so, I'm afraid you'll be disappointed. This place has been blocked by some kind of weird contraption. There's no way in.
-Traveler: I'm just passing through.
-Xudong: Oh, is that so? Alright then. But if it strikes your fancy, it would be nice if you could help us give this barrier a bit of thought.
-Xudong: Parvaneh found a method in her book.
-Xudong: It says that you need to touch a Thunder Sakura Bough before you can get through this barrier.
-Xudong: But as for those Thunder Sakura Boughs... To be honest, we have no idea what they really look like.
-Xudong: Well, that's the run-down of our situation. We're still trying to find a way in.
-Traveler: Why do you want to get in?
-Xudong: We'd like to get some of the Sakura Blooms inside ourselves, of course.
-Xudong: I've heard that the Sakura Blooms here have the best mouthfeel, and are perfect for cooking.
-Xudong: Well, we'll keep trying our luck around here. Let us know if you find some leads, Traveler.
-Parvaneh: ...Mr. Xudong. Is that really how you ask someone for a favor?
-Xudong: Eh? *cough* Oh right. Traveler, if you could help us bring some Sakura Blooms out from inside...
-Julie: If you could do that, never mind the payment, Xudong here will also make you some really awesome food!
-Xudong: You're really good at making these deals, huh, Julie...
-Xudong: Well, that's how it is, Traveler. Please help us, if you don't mind.
-Traveler: The method you mentioned earlier...
-Xudong: Oh? You're really going in?
-Xudong: Well, that method was recorded inside Parvaneh's dictionary—
-Parvaneh: I told you! It's not a dictionary. It's a travelogue from the Akademiya!
-Xudong: Well, whatever the case, she found a way.
-Xudong: It says you need to touch a Thunder Sakura Bough before you can get through this barrier.
-Xudong: But as for those Thunder Sakura Boughs... To be honest, we have no idea what they really look like.
-Parvaneh: There aren't any photos in this book either.
-Xudong: I'm officially sick of eating grilled fish. If I can get my hands on some of those Sakura Blooms, I'm sure I can whip something nice up...
-Xudong: I've heard that the ones here have the best mouthfeel, and make for perfect cooking ingredients. But why, oh why does there have to be a barrier here...
-Xudong: Well, we'll keep trying our luck around here. Let us know if you find some leads, Traveler.
-Parvaneh: ...Mr. Xudong. Is that really how you ask someone for a favor?
-Xudong: Eh? *cough* Oh right. Traveler, if you could help us bring some Sakura Blooms out from inside...
-Julie: If you could do that, never mind the payment, Xudong here will also make you some really awesome food!
-Xudong: You're really good at making these deals, huh, Julie...
-Xudong: Well, that's how it is, Traveler. Please help us, if you don't mind.
+    Option 1:
+        Traveler: I'm just passing through.
+        Xudong: Oh, is that so? Alright then. But if it strikes your fancy, it would be nice if you could help us give this barrier a bit of thought.
+        Xudong: Parvaneh found a method in her book.
+        Xudong: It says that you need to touch a Thunder Sakura Bough before you can get through this barrier.
+        Xudong: But as for those Thunder Sakura Boughs... To be honest, we have no idea what they really look like.
+        Xudong: Well, that's the run-down of our situation. We're still trying to find a way in.
+        Traveler: Why do you want to get in?
+        Xudong: We'd like to get some of the Sakura Blooms inside ourselves, of course.
+        Xudong: I've heard that the Sakura Blooms here have the best mouthfeel, and are perfect for cooking.
+        Xudong: Well, we'll keep trying our luck around here. Let us know if you find some leads, Traveler.
+        Parvaneh: ...Mr. Xudong. Is that really how you ask someone for a favor?
+        Xudong: Eh? *cough* Oh right. Traveler, if you could help us bring some Sakura Blooms out from inside...
+        Julie: If you could do that, never mind the payment, Xudong here will also make you some really awesome food!
+        Xudong: You're really good at making these deals, huh, Julie...
+        Xudong: Well, that's how it is, Traveler. Please help us, if you don't mind.
+    Option 2:
+        Traveler: The method you mentioned earlier...
+        Xudong: Oh? You're really going in?
+        Xudong: Well, that method was recorded inside Parvaneh's dictionary—
+        Parvaneh: I told you! It's not a dictionary. It's a travelogue from the Akademiya!
+        Xudong: Well, whatever the case, she found a way.
+        Xudong: It says you need to touch a Thunder Sakura Bough before you can get through this barrier.
+        Xudong: But as for those Thunder Sakura Boughs... To be honest, we have no idea what they really look like.
+        Parvaneh: There aren't any photos in this book either.
+        Xudong: I'm officially sick of eating grilled fish. If I can get my hands on some of those Sakura Blooms, I'm sure I can whip something nice up...
+        Xudong: I've heard that the ones here have the best mouthfeel, and make for perfect cooking ingredients. But why, oh why does there have to be a barrier here...
+        Xudong: Well, we'll keep trying our luck around here. Let us know if you find some leads, Traveler.
+        Parvaneh: ...Mr. Xudong. Is that really how you ask someone for a favor?
+        Xudong: Eh? *cough* Oh right. Traveler, if you could help us bring some Sakura Blooms out from inside...
+        Julie: If you could do that, never mind the payment, Xudong here will also make you some really awesome food!
+        Xudong: You're really good at making these deals, huh, Julie...
+        Xudong: Well, that's how it is, Traveler. Please help us, if you don't mind.
 
 ## Talk 1
 
 Xudong: Hey traveler! This way! I've been looking for you.
-Traveler: That's right you are...
+    Option 1:
+        Traveler: That's right you are...
+    Option 2:
+        Traveler: The All-Star... something?
 Xudong: We're the Gourmet Supremos. All-Star Gourmet!
 Parvaneh: As I said, who would remember such a silly name...
 Julie: Really? I think it's quite memorable...
@@ -74,17 +79,18 @@ Xudong: All right, let's not talk about that. Traveler, we'd like to ask you a f
 Xudong: We want to cook something special with the local ingredients of Inazuma.
 Xudong: In order to ensure the freshness of the food, we are going to collect the ingredients in the forest north of the city.
 Xudong: But... I heard there are many monsters over there, so I'd like to invite you to come with us. Other than the reward, we'll take care of your meals. What do you say? Would you like to help?
-Traveler: What kind of ingredients do you want to collect?
-Xudong: Let's decide when we get there. Making food with unknown ingredients is the principle of Gourmet Supremos.
-Parvaneh: To put it bluntly, this guy never thinks about what kind of food he's going to make, or what kind of ingredients he's looking for. He just goes with the flow.
-Xudong: Hahaha, you're not wrong. But no matter what the ingredients are, I'll be able to cook something delicious.
-Xudong: Thank you, Traveler.
-Traveler: Isn't Julie an adventurer?
-Julie: Me? I can deal with the monsters, but when I do that, sometimes I get so focused that I get into all kinds of trouble.
-Parvaneh: Meaning that when she's dealing with the monsters, she won't be able to deal with anything else except the monsters, until they drop dead.
-Parvaneh: Then this idiot would chase the monsters and follow them to all sorts of weird places. And when she kills them, she'll completely forget where she is and get lost in the end.
-Xudong: Her extreme focus is what makes Julie a great adventurer. But when she gets lost, it takes a long time to find her...
-Julie: Well, there's a reason for it...
-Parvaneh: Therefore, we'd like to ask you, a more self-restrained traveler, to help us deal with those monsters.
-Xudong: That's right. We'll be counting on you, Traveler.
-Traveler: The All-Star... something?
+    Option 1:
+        Traveler: What kind of ingredients do you want to collect?
+        Xudong: Let's decide when we get there. Making food with unknown ingredients is the principle of Gourmet Supremos.
+        Parvaneh: To put it bluntly, this guy never thinks about what kind of food he's going to make, or what kind of ingredients he's looking for. He just goes with the flow.
+        Xudong: Hahaha, you're not wrong. But no matter what the ingredients are, I'll be able to cook something delicious.
+        Xudong: Thank you, Traveler.
+    Option 2:
+        Traveler: Isn't Julie an adventurer?
+        Julie: Me? I can deal with the monsters, but when I do that, sometimes I get so focused that I get into all kinds of trouble.
+        Parvaneh: Meaning that when she's dealing with the monsters, she won't be able to deal with anything else except the monsters, until they drop dead.
+        Parvaneh: Then this idiot would chase the monsters and follow them to all sorts of weird places. And when she kills them, she'll completely forget where she is and get lost in the end.
+        Xudong: Her extreme focus is what makes Julie a great adventurer. But when she gets lost, it takes a long time to find her...
+        Julie: Well, there's a reason for it...
+        Parvaneh: Therefore, we'd like to ask you, a more self-restrained traveler, to help us deal with those monsters.
+        Xudong: That's right. We'll be counting on you, Traveler.

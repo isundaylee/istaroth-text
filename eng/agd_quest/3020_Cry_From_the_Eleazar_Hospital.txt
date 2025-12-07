@@ -83,7 +83,8 @@ Paimon: Huh, why do you say that?
 Alhaitham: Allow me to jog your memory. Recall your time at Port Ormos.
 Alhaitham: Don't you think his symptoms look familiar?
 Traveler: ...
-Traveler: ...
+[Missing Dialog 30200928]
+
 Traveler: ...! The Eremite guy who went mad!
 Paimon: Oh! Now that you mention it... They're acting the same way!
 Alhaitham: Correct. The Akademiya is behind all of this.
@@ -147,6 +148,8 @@ Paimon: ...
 Traveler: Uh, so what do we do with him?
 Alhaitham: He won't last long if we leave him here. Let's take him with us.
 Alhaitham: We'll work out our next step after we return to Aaru Village.
+
+Traveler: ...
 
 ## Talk 15
 
@@ -365,7 +368,10 @@ Dehya: I was really counting on him not going through with it.
 Isak: Dehya!
 Paimon: That was crazy! Have you all lost your minds!? What if he'd actually cut your arm off!
 Dehya: Hmm, then I'd just have to hold my claymore with my left arm.
-Traveler: Please don't do that ever again!
+    Option 1:
+        Traveler: Please don't do that ever again!
+    Option 2:
+        Traveler: I'll be worried about you!
 Dehya: Okay, I'm sorry... But sometimes when you're out on a limb, you gotta double down to seal the deal, you know?
 Cyno: Don't ever make a promise like that again. I can deal with the likes of them.
 Cyno: If it came down to it, you would not lose to them either.
@@ -378,12 +384,13 @@ Alhaitham: Whatever it takes? You just might be scholar material.
 Dehya: Huh? Are you serious?
 Alhaitham: The Eremites once said that I was a lunatic. Perhaps a little madness is essential to be successful in research.
 Dehya: Why does it feel like he's using his praise for me as an excuse to brag about himself?
-Traveler: I think he was just stating the truth.
+    Option 1:
+        Traveler: I think he was just stating the truth.
+    Option 2:
+        Traveler: That's just how he is.
 Dehya: Okay, let's get moving. We should head back to the village and rest up. Today was just a trial run — noon tomorrow is gonna be the hard part.
 Black Screen Text: You all return to Aaru Village and rest in your rooms in preparation for tomorrow's hostage exchange.
 Black Screen Text: But what are the chances of success? What are the stakes? There is no way of knowing...
-Traveler: That's just how he is.
-Traveler: I'll be worried about you!
 
 ## Additional Conversations
 

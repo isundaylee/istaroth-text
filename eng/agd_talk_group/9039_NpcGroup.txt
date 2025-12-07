@@ -9,7 +9,10 @@ Diona: *sniff* ...All clear! No scent of alcohol on you!
 
 Traveler: *How do you like it here?*
 Diona: Hmph, adequate.
-Traveler: Just adequate?
+    Option 1:
+        Traveler: Just adequate?
+    Option 2:
+        Traveler: Any suggestions?
 Diona: Well, the grass here isn't as soft as the spot where I usually take my afternoon nap.
 Diona: There aren't as many butterflies here as in the meadow I like to go to.
 Diona: And I can't hunt freely here like out in the wilderness.
@@ -17,7 +20,6 @@ Traveler: I'll... look into making some improvements.
 Diona: But... there's no smell of alcohol hanging in the air here...
 Diona: ...And no drunkards kicking up a fuss.
 Diona: So... I think we can keep it the way it is...
-Traveler: Any suggestions?
 
 ## Talk 2
 
@@ -25,16 +27,18 @@ Traveler: *Would you like to have a chat with me?*
 Diona: Uhh, I'm actually pretty busy here!
 Diona: ...Still, I suppose a quick chat won't hurt.
 Diona: Let's do it — I know lots of great topics!
-Traveler: Do you chat with other people a lot?
-Diona: Well... the old drunkards try to chat with me all the time.
-Diona: I never answer them, but that's still not enough to shut them up!
+    Option 1:
+        Traveler: Do you chat with other people a lot?
+        Diona: Well... the old drunkards try to chat with me all the time.
+        Diona: I never answer them, but that's still not enough to shut them up!
+    Option 2:
+        Traveler: What do you like to chat about?
+        Diona: ...I like to share my hunting tips with others, but...
+        Diona: ...The guys at the tavern only wanna talk about the harvest, girls they like, card game strategies... stuff like that.
+        Diona: I hate it. I make it pretty obvious that I'm not listening, but there's always someone at the bar rattling on to me.
 Diona: I always make a point of making them the most disgusting cocktail I can come up with.
 Diona: But they drain every last drop and then ask for another glass! Ugh!
 Diona: Why do things have to be this way...?
-Traveler: What do you like to chat about?
-Diona: ...I like to share my hunting tips with others, but...
-Diona: ...The guys at the tavern only wanna talk about the harvest, girls they like, card game strategies... stuff like that.
-Diona: I hate it. I make it pretty obvious that I'm not listening, but there's always someone at the bar rattling on to me.
 
 ## Talk 3
 
@@ -44,12 +48,14 @@ Diona: #...Actually... there is something I wanted your help with, Traveler.
 Diona: See, most of the time I'm either making cocktails or hunting, so I always tie my hair up like this.
 Diona: But... it's so relaxed here, there are no chores to do, plus nobody else has to see, soooo...
 Diona: I was wondering... would it be better if I... wore my hair down...?
-Traveler: Whatever you like.
+    Option 1:
+        Traveler: Whatever you like.
+    Option 2:
+        Traveler: I'm sure wearing it down would look just as lovely.
 Diona: Heh, really!?
 Diona: Well, in that case... could you help me with it?
 Diona: ...Wait! Firstly! I want to make it quite clear that this is not because I just enjoy the feeling of having my hair brushed, okay!? Ahem...
 Diona: And be gentle by the way. If you start tearing out hairs, hehe... I might just bite back!
-Traveler: I'm sure wearing it down would look just as lovely.
 
 ## Talk 4
 
@@ -70,16 +76,18 @@ Traveler: Would you like to have a chat with me?
 Diona: Uhh, I'm actually pretty busy here!
 Diona: ...Still, I suppose a quick chat won't hurt.
 Diona: Let's do it — I know lots of great topics!
-Traveler: Do you chat with other people a lot?
-Diona: Well... the old drunkards try to chat with me all the time.
-Diona: I never answer them, but that's still not enough to shut them up!
+    Option 1:
+        Traveler: Do you chat with other people a lot?
+        Diona: Well... the old drunkards try to chat with me all the time.
+        Diona: I never answer them, but that's still not enough to shut them up!
+    Option 2:
+        Traveler: What do you like to chat about?
+        Diona: ...I like to share my hunting tips with others, but...
+        Diona: ...The guys at the tavern only wanna talk about the harvest, girls they like, card game strategies... stuff like that.
+        Diona: I hate it. I make it pretty obvious that I'm not listening, but there's always someone at the bar rattling on to me.
 Diona: I always make a point of making them the most disgusting cocktail I can come up with.
 Diona: But they drain every last drop and then ask for another glass! Ugh!
 Diona: Why do things have to be this way...?
-Traveler: What do you like to chat about?
-Diona: ...I like to share my hunting tips with others, but...
-Diona: ...The guys at the tavern only wanna talk about the harvest, girls they like, card game strategies... stuff like that.
-Diona: I hate it. I make it pretty obvious that I'm not listening, but there's always someone at the bar rattling on to me.
 
 ## Talk 7
 
@@ -89,18 +97,23 @@ Diona: #...Actually... there is something I wanted your help with, Traveler.
 Diona: See, most of the time I'm either making cocktails or hunting, so I always tie my hair up like this.
 Diona: But... it's so relaxed here, there are no chores to do, plus nobody else has to see, soooo...
 Diona: I was wondering... would it be better if I... wore my hair down...?
-Traveler: Whatever you like.
+    Option 1:
+        Traveler: Whatever you like.
+    Option 2:
+        Traveler: I'm sure wearing it down would look just as lovely.
 Diona: Heh, really!?
 Diona: Well, in that case... could you help me with it?
 Diona: ...Wait! Firstly! I want to make it quite clear that this is not because I just enjoy the feeling of having my hair brushed, okay!? Ahem...
 Diona: And be gentle by the way. If you start tearing out hairs, hehe... I might just bite back!
-Traveler: I'm sure wearing it down would look just as lovely.
 
 ## Talk 8
 
 Traveler: How do you like it here?
 Diona: Hmph, adequate.
-Traveler: Just adequate?
+    Option 1:
+        Traveler: Just adequate?
+    Option 2:
+        Traveler: Any suggestions?
 Diona: Well, the grass here isn't as soft as the spot where I usually take my afternoon nap.
 Diona: There aren't as many butterflies here as in the meadow I like to go to.
 Diona: And I can't hunt freely here like out in the wilderness.
@@ -108,7 +121,6 @@ Traveler: I'll... look into making some improvements.
 Diona: But... there's no smell of alcohol hanging in the air here...
 Diona: ...And no drunkards kicking up a fuss.
 Diona: So... I think we can keep it the way it is...
-Traveler: Any suggestions?
 
 ## Talk 9
 

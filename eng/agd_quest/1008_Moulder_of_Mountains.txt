@@ -14,7 +14,9 @@
 ## Talk 3
 
 Paimon: Paimon was gonna ask him about where to find the adeptus, but... he seems pretty one-track-mind about rescuing his brother right now.
+
 Paimon: Hmm... So, he said that Li Dang got trapped in amber somewhere on Mt. Hulao, and that they were following the path the whole way up.
+
 Paimon: So, let's follow *the path down from here*, and make sure to be on the lookout for amber on the way.
 
 ## Talk 4
@@ -31,12 +33,14 @@ Li Dang: *coughing*
 Li Dang: Wh—What happened? ...Y—You rescued me? Thank you...
 Li Dang: Oh! And have you seen my brother? His name is Li Ding, we were climbing the mountain together.
 Li Dang: I just hope he didn't get trapped in amber too...
-Traveler: He's the one who sent us looking for you.
-Li Dang: Phew... so he's safe then...?
+    Option 1:
+        Traveler: He's the one who sent us looking for you.
+        Li Dang: Phew... so he's safe then...?
+    Option 2:
+        Traveler: He's at the top of the mountain.
+        Li Dang: He made it to the top? That means he should be okay...
 Li Dang: Thank you! I will head up to find my brother now.
 Li Dang: Here's hoping I don't run into any more amber on the way...
-Traveler: He's at the top of the mountain.
-Li Dang: He made it to the top? That means he should be okay...
 
 ## Talk 7
 
@@ -58,8 +62,12 @@ Mountain Shaper: Foolish mortal, come forth and receive your punishment at once!
 Mountain Shaper: ...You intrude upon the sanctity of Mt. Hulao, you destroy the amber of my mountain, and you free a thief whose freedom is not yours to give.
 Mountain Shaper: The thieves' ignorance was an affront to the adepti... but your actions are an abomination of the highest order!
 Paimon: Wait! We can explain...
-Traveler: Here, look at this...
-Mountain Shaper: ...A Sigil of Permission? One was unaware that such things still exist in the mortal realm.
+    Option 1:
+        Traveler: Here, look at this...
+        Mountain Shaper: ...A Sigil of Permission? One was unaware that such things still exist in the mortal realm.
+    Option 2:
+        Traveler: Moon Carver sent us...
+        Mountain Shaper: Moon Carver... trusted a mere mortal as his messenger?
 Mountain Shaper: Is this... a Sigil of Permission? One is surprised to find that such things still exist in the mortal realm.
 Mountain Shaper: In the beginning, Rex Lapis cast them for the mortals with his own hand. Few were made then, and thousands of years on, fewer still remain...
 Mountain Shaper: Speak. One shall listen to the matter which brings you here, then one shall verify the truth thereof.
@@ -74,16 +82,16 @@ Mountain Shaper: Once one has dealt with certain matters here that require my at
 Traveler: Can someone explain the amber situation to me?
 Paimon: Paimon can! Adepti always have magical powers in storybooks, seems it's true in real life too.
 Paimon: You know, like how grass is actually adepti hair, and rivers are actually adepti saliva... There must be something similar going on with the amber.
-Traveler: So is rain... adepti tears?
+    Option 1:
+        Traveler: So is rain... adepti tears?
+    Option 2:
+        Traveler: Amber must be crystallized adepti... ew, gross.
 Mountain Shaper: ...Your nonsense knows no bounds. This amber is produced by a flower that one has planted here, called the karst crawler.
 Mountain Shaper: The majority of the plant is hidden underground. When stepped on, it produces amber to trap the invader.
 Mountain Shaper: After taking up residence here, one planted many karst crawlers to ensure that the tranquility of the mountain would remain undisturbed. Over the years, they have helped to prevent many disturbances, but in the process they have also trapped many curious things...
 Paimon: Oh, so the amber is... alive?
 Mountain Shaper: Correct. Thus, one may not leave this place in its current state, for fear of the risk to innocent lives in one's absence.
 Mountain Shaper: One will depart as soon as one has attended to this matter. One trusts that the manner of your departure will be swifter in nature.
-Traveler: Amber must be crystallized adepti... ew, gross.
-Traveler: Moon Carver sent us...
-Mountain Shaper: Moon Carver... trusted a mere mortal as his messenger?
 
 ## Additional Conversations
 
@@ -92,25 +100,29 @@ Mountain Shaper: Moon Carver... trusted a mere mortal as his messenger?
 
 ### Additional Talk 1
 
-Li Ding: My brother told me everything... Thank you both so much for rescuing him!
-Li Ding: *sigh* Our family has nothing to live on... We heard tell of treasures hidden in the amber of Mt. Hulao, and with nowhere else to turn, we came looking for them...
-Li Dang: We weren't thinking straight... We thought that we could sneak up into the mountain and grab just enough treasure to sell and support our family with.
-Li Dang: As you can see, the adeptus punished us for our greed. The amber swallowed me up, and if you hadn't come to my rescue, who knows when I would've gotten out.
-Traveler: ...Messengers?
-Traveler: Of your transgression, your predicament, and your repentance, one has become aware.
-Li Ding: Luckily, the adeptus was merciful. They sent you two as their messengers to save us...
-Li Ding: Yes! You two saved my brother just as I was praying for the adeptus' forgiveness, right here on top of the mountain.
-Li Dang: You are adepti messengers, no doubt about it.
-Paimon: Whoa, your adepti messenger impression is really good. It's like this is the part you were born to play!
-Li Ding: Thank you... yes, we are truly sorry, my brother and I have learned our lesson.
-Li Ding: We are truly blessed to receive the mercy of the adeptus. We promise that we will change our ways and make an honest living from now on. Even if it means sweating it out down at the docks.
-Li Ding: Anyway, we have trespassed in the realm of the adeptus for long enough. We should get going. Thank you, mighty adepti messengers...
-Li Dang: Yes, thank you, messengers...
-Paimon: ...Boy, it'd be super helpful if we actually were adepti messengers.
 Paimon: 'Cause it seems like this adeptus has got a real temper problem...
 Paimon: But it's not like we've done anything wrong, so... hopefully we'll be okay... hehe...
 Mountain Shaper: Who dares trespass on my mountain? Who is it that frees the thief from his incarceration?
 Mountain Shaper: Foolish mortal, come forth and receive your punishment at once!
+
+Li Ding: My brother told me everything... Thank you both so much for rescuing him!
+Li Ding: *sigh* Our family has nothing to live on... We heard tell of treasures hidden in the amber of Mt. Hulao, and with nowhere else to turn, we came looking for them...
+Li Dang: We weren't thinking straight... We thought that we could sneak up into the mountain and grab just enough treasure to sell and support our family with.
+Li Dang: As you can see, the adeptus punished us for our greed. The amber swallowed me up, and if you hadn't come to my rescue, who knows when I would've gotten out.
+Li Ding: Luckily, the adeptus was merciful. They sent you two as their messengers to save us...
+    Option 1:
+        Traveler: ...Messengers?
+        Li Ding: Yes! You two saved my brother just as I was praying for the adeptus' forgiveness, right here on top of the mountain.
+        Li Dang: You are adepti messengers, no doubt about it.
+    Option 2:
+        Traveler: Of your transgression, your predicament, and your repentance, one has become aware.
+        Paimon: Whoa, your adepti messenger impression is really good. It's like this is the part you were born to play!
+        Li Ding: Thank you... yes, we are truly sorry, my brother and I have learned our lesson.
+Li Ding: We are truly blessed to receive the mercy of the adeptus. We promise that we will change our ways and make an honest living from now on. Even if it means sweating it out down at the docks.
+Li Ding: Anyway, we have trespassed in the realm of the adeptus for long enough. We should get going. Thank you, mighty adepti messengers...
+Li Dang: Yes, thank you, messengers...
+Paimon: ...Boy, it'd be super helpful if we actually were adepti messengers.
+[Missing Dialog 10089716]
 
 ### Additional Talk 2
 

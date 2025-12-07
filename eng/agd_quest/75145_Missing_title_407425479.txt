@@ -11,9 +11,17 @@ Traveler: D—Did the volcano just... erupt?
 Paimon: No... It's been super duper quiet... D—Did you see it erupt?
 Paimon: #Traveler? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? What's with those faces?
 Paimon: You look like a pair of detectives from a light novel who've suddenly realized the truth about the killer...
-Traveler: We saw some sort of "truth," alright...
-Traveler: (You explain what you saw to Paimon...)
-Paimon: #Huh? You saw the same stuff you did when we first arrived in Natlan and met {REALNAME[ID(2)|SHOWHOST(true)]}?
+    Option 1:
+        Traveler: We saw some sort of "truth," alright...
+        Traveler: (You explain what you saw to Paimon...)
+        Paimon: #Huh? You saw the same stuff you did when we first arrived in Natlan and met {REALNAME[ID(2)|SHOWHOST(true)]}?
+    Option 2:
+        Traveler: The true identity of the cake murderer is... Paimon!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Paimon: Darn it! How did you know? Paimon was certain no one saw her eating Little Miss Cake... Just kidding, Paimon actually stole the Blazed Meat Stew!
+        Paimon: So, you... Wait, what did you just see?
+        Traveler: (You explain what you saw to Paimon...)
+        Paimon: So, you saw some weird words again...
 Paimon: And some strange images?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
 Paimon: You said you saw some strange words before... Umm, Paimon didn't see anything, so she can't be sure, but... might they have been written by the same person?
@@ -25,12 +33,6 @@ Paimon: Hmm. Do you think we can help the little one remove his... what was it c
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Hehe, let's go there then. Gotta help you grow big and strong, after all!
 Paimon: Oh right! One of the six tribes of Natlan, the Collective of Plenty, lives beside the volcano. Maybe we can ask them for help!
-Traveler: The true identity of the cake murderer is... Paimon!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Darn it! How did you know? Paimon was certain no one saw her eating Little Miss Cake... Just kidding, Paimon actually stole the Blazed Meat Stew!
-Paimon: So, you... Wait, what did you just see?
-Traveler: (You explain what you saw to Paimon...)
-Paimon: So, you saw some weird words again...
 
 ## Talk 4
 
@@ -42,9 +44,17 @@ Traveler: D—Did the volcano just... erupt?
 Paimon: No... It's been super duper quiet... D—Did you see it erupt?
 Paimon: #Traveler? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? What's with those faces?
 Paimon: You look like a pair of detectives from a light novel who've suddenly realized the truth about the killer...
-Traveler: We saw some sort of "truth," alright...
-Traveler: (You explain what you saw to Paimon...)
-Paimon: #Huh? You saw the same stuff you did when we first arrived in Natlan and met {REALNAME[ID(2)|SHOWHOST(true)]}?
+    Option 1:
+        Traveler: We saw some sort of "truth," alright...
+        Traveler: (You explain what you saw to Paimon...)
+        Paimon: #Huh? You saw the same stuff you did when we first arrived in Natlan and met {REALNAME[ID(2)|SHOWHOST(true)]}?
+    Option 2:
+        Traveler: The true identity of the cake murderer is... Paimon!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Paimon: Darn it! How did you know? Paimon was certain no one saw her eating Little Miss Cake... Just kidding, Paimon actually stole the Blazed Meat Stew!
+        Paimon: So, you... Wait, what did you just see?
+        Traveler: (You explain what you saw to Paimon...)
+        Paimon: So, you saw some weird words again...
 Paimon: And some strange images?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
 Paimon: You said you saw some strange words before... Umm, Paimon didn't see anything, so she can't be sure, but... might they have been written by the same person?
@@ -56,12 +66,6 @@ Paimon: #Maybe that's where we'll find the answers to {REALNAME[ID(2)|SHOWHOST(t
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Anyway... Paimon thinks we should keep an ear out for information about the volcano.
 Paimon: Hmm. Come to think of it, one of the six tribes of Natlan, the Collective of Plenty, lives beside it, don't they? Maybe we can ask them for help!
-Traveler: The true identity of the cake murderer is... Paimon!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Darn it! How did you know? Paimon was certain no one saw her eating Little Miss Cake... Just kidding, Paimon actually stole the Blazed Meat Stew!
-Paimon: So, you... Wait, what did you just see?
-Traveler: (You explain what you saw to Paimon...)
-Paimon: So, you saw some weird words again...
 
 ## Talk 5
 

@@ -40,7 +40,10 @@ Traveler: The Chasm?
 Paimon: Paimon's never heard of any commission like that...
 Lan: Oh, uh, you don't know about the Guild's commissions yet? Sorry, that's my mistake.
 Lan: Well, The Chasm has been closed for a long time now. No one can go in without the Qixing's say-so, not even the Adventurers' Guild.
-Traveler: No special pass for you guys?
+    Option 1:
+        Traveler: No special pass for you guys?
+    Option 2:
+        Traveler: They don't close one eye with you lot?
 Lan: Well, we wouldn't dream of being a bother to the people at Yujing Terrace. It would be a counterproductive thing to do, messing with pre-established policy like that.
 Lan: Even Ms. Ganyu, who seems like the most amicable of the bunch, would probably just smile at us and say "why don't you have some tea while you wait here?"
 Lan: And then she'll leave you hanging for most of the day, until you start wondering whether she'd forgotten all about you till she was nearly off from work...
@@ -56,19 +59,22 @@ Traveler: No idea who you're talking about.
 Lan: I'm talking about you.
 Paimon: C'mon, she was definitely talking about you!
 Lan: Don't play dumb. Who do you think I'm talking about, Rex Lapis?
-Traveler: Hehe.
+    Option 1:
+        Traveler: Hehe.
+    Option 2:
+        Traveler: I'll have you know that I do some important work, you know.
 Lan: Alright, quit your bragging.
 Lan: Whatever the case... You have our thanks for your help so far, and we'd like you to consider helping us again.
 Lan: It's fine if the timing isn't convenient for you. It's just that... If you do end up passing through The Chasm, please help me look for a fellow named Muning.
 Paimon: Muning... Who's that supposed to be?
 Lan: He's a specialist sent to The Chasm by the Ministry of Civil Affairs. We've got some personal matters that need settling. You can ask him about it if you meet him there.
 Lan: Just pass this message along: "You still owe Lan money for drinks. Don't you forget that." He'll get the picture.
-Traveler: Got it.
+    Option 1:
+        Traveler: Got it.
+    Option 2:
+        Traveler: I'll keep an eye out on the way in.
 Lan: Wait, hold on a moment! There's one more thing. If you take this commission up, just negotiate your payment directly with Muning.
 Lan: Don't ask me why the arrangement is like this... We did this at the Ministry's insistence. Best not to question their decisions and all...
-Traveler: I'll keep an eye out on the way in.
-Traveler: I'll have you know that I do some important work, you know.
-Traveler: They don't close one eye with you lot?
 
 ## Talk 8
 
@@ -87,12 +93,14 @@ Lan: In order to get people to trust in our ability and assign us more important
 Lan: ...I believe that we must hammer out some commissions of greater difficulty.
 Lan: There was a commission that came in not long ago from someone who wanted us to deal with a wandering Stonehide Lawachurl.
 Lan: It's been shelved for the moment due to a lack of candidates who can take that creature down, but if you're up for it, why don't you help us settle this matter?
-Traveler: Leave it to me.
-Lan: Great. We're counting on you, then — I'll remain here and continue selecting commissions.
-Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
-Traveler: Do you have any other commissions?
-Lan: I do, but those are all a bunch of trivial, menial tasks, all of which I still have to sort through. We'll just have to leave the Stonehide Lawachurl to you.
-Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
+    Option 1:
+        Traveler: Leave it to me.
+        Lan: Great. We're counting on you, then — I'll remain here and continue selecting commissions.
+        Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
+    Option 2:
+        Traveler: Do you have any other commissions?
+        Lan: I do, but those are all a bunch of trivial, menial tasks, all of which I still have to sort through. We'll just have to leave the Stonehide Lawachurl to you.
+        Lan: If we had more adventurers as capable as you around, we wouldn't have this problem...
 
 ## Talk 9
 
@@ -103,13 +111,15 @@ Lan: There's an adventurer who said that he found a clue to treasure in the vici
 Lan: In the end, he gave up looking and reported it to the Guild instead, and now the Guild is offering a reward for anyone able to solve this mysterious so-called "clue."
 Lan: Any adventurer who wants to give it a go can follow the clue and see where it takes them. If they solve the riddle and find the treasure, the Guild will offer a reward.
 Lan: But so far, nobody has found even a trace of the treasure...
-Traveler: Can I try?
-Lan: Oh, well, if you think you're up to it.
+    Option 1:
+        Traveler: Can I try?
+        Lan: Oh, well, if you think you're up to it.
+    Option 2:
+        Traveler: And if I find it...?
+        Lan: Well, like it says in the adventurer's code, finders keepers!
+        Lan: All the Guild wants out of it is experience in solving riddles like this. That is the most important thing for adventurers.
 Lan: If you really are interested, there's no harm in giving it a go.
 Lan: I'll mark the location mentioned in the clue on the map for you, then you can go take a look.
-Traveler: And if I find it...?
-Lan: Well, like it says in the adventurer's code, finders keepers!
-Lan: All the Guild wants out of it is experience in solving riddles like this. That is the most important thing for adventurers.
 
 ## Talk 10
 
@@ -132,15 +142,17 @@ Traveler: What sword?
 Lan: My older brother's sword. If I find it, I can finally give him a proper burial...
 Lan: It's the only fitting way to go for a martial artist like him.
 Lan: It's a flat blade, sharp enough to slice an airborne hair in two. It's named "Unseen Razor."
-Traveler: How did you become Master of the Liyue branch?
-Lan: Ugh, why does everyone ask me the same question... I will make an exception for you, though, and give you the full story.
-Lan: I used to be a mercenary. I joined the Adventurers' Guild so I could take advantage of their superior intelligence network and track down the sword.
-Lan: I may not be very literate but I can read the word "sword." So I just took on every single commission that had something to do with a sword.
-Lan: Then, just when I'd finished my eighth— Or was it my ninth commission? Anyway, I'd just finished it, and then word came from the headquarters in Snezhnaya that I'd apparently completed two S-rank commissions.
-Lan: ...And suddenly I found myself promoted to branch Guild Master. It was all very strange indeed.
-Traveler: I'll let you know if I find anything.
-Lan: Oh, thanks! I love meeting people like you who are up for everything.
-Lan: I am grateful to you, newcomer. It looks like it was worth me joining the Guild after all.
+    Option 1:
+        Traveler: How did you become Master of the Liyue branch?
+        Lan: Ugh, why does everyone ask me the same question... I will make an exception for you, though, and give you the full story.
+        Lan: I used to be a mercenary. I joined the Adventurers' Guild so I could take advantage of their superior intelligence network and track down the sword.
+        Lan: I may not be very literate but I can read the word "sword." So I just took on every single commission that had something to do with a sword.
+        Lan: Then, just when I'd finished my eighth— Or was it my ninth commission? Anyway, I'd just finished it, and then word came from the headquarters in Snezhnaya that I'd apparently completed two S-rank commissions.
+        Lan: ...And suddenly I found myself promoted to branch Guild Master. It was all very strange indeed.
+    Option 2:
+        Traveler: I'll let you know if I find anything.
+        Lan: Oh, thanks! I love meeting people like you who are up for everything.
+        Lan: I am grateful to you, newcomer. It looks like it was worth me joining the Guild after all.
 
 ## Talk 13
 

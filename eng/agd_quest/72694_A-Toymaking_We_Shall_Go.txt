@@ -7,7 +7,10 @@ Katheryne: Traveler and Paimon, you're right on cue!
 Paimon: Right on cue for what?
 Katheryne: For a commission that's suited for you! I was just about to reach out to you.
 Paimon: A commission that's suited for us... Don't tell Paimon that you want us to look for things or drive hilichurls off.
-Traveler: Or to pick some garbage up on the rooftop...
+    Option 1:
+        Traveler: Or to pick some garbage up on the rooftop...
+    Option 2:
+        Traveler: Or to fetch some suspicious-looking goods...
 Katheryne: Oh, don't misunderstand. The commission is indeed suited for you, and by "suited" I mean...
 Katheryne: It's fun, and there are rich rewards to be had as well.
 Paimon: Rich rewards!
@@ -17,7 +20,6 @@ Katheryne: The requester is a toy merchant from Fontaine. His name is Bertrand. 
 Katheryne: He's a businessman, after all. That explains why he promised some very generous rewards when he put up the request at the Adventurers' Guild.
 Katheryne: But he somehow can't leave Ritou at the moment. Please go and ask him about the details of the commission.
 Paimon: Sure, we'll head to Ritou and look for him right away!
-Traveler: Or to fetch some suspicious-looking goods...
 
 ## Talk 2
 
@@ -32,7 +34,10 @@ Paimon: Hold your horses! We're not here to buy your toys.
 Bertrand: Oh, you aren't toy buyers... So if you've got something to say, tell me quick. Don't waste my time.
 Bertrand: And be concise, my time is precious.
 Paimon: Whoa... What a change of attitude!
-Traveler: We're here to help.
+    Option 1:
+        Traveler: We're here to help.
+    Option 2:
+        Traveler: You put up a request at the Adventurers' Guild, didn't you?
 Bertrand: Ah, so you're the assistants sent by the Adventurers' Guild! Welcome! You could've told me earlier!
 Bertrand: Yes, I did put up that request. How should I address you two?
 Paimon: (A sudden change of attitude again...)
@@ -40,8 +45,12 @@ Paimon: Paimon is... Uh, Paimon.
 Bertrand: Then, how about you?
 Traveler: #I'm Traveler...
 Bertrand: #Traveler? I think I've heard this name somewhere. Were you once... a wanted criminal too?
-Traveler: More than once, actually...
-Bertrand: Well, I might've heard your name when the Tenryou Commission arres... Um, asked me to answer a few questions.
+    Option 1:
+        Traveler: More than once, actually...
+        Bertrand: Well, I might've heard your name when the Tenryou Commission arres... Um, asked me to answer a few questions.
+    Option 2:
+        Traveler: A wanted criminal "too"?
+        Bertrand: Haha, that's a long story. I was once arrested by the Tenryou Commission due to a small accident...
 Paimon: What on earth did you do to get yourself arrested by the Tenryou Commission?
 Bertrand: *sigh* It was not a big deal. I just missed something when I made the last batch of toys... It really was a small mistake.
 Paimon: Not a big deal?
@@ -82,9 +91,6 @@ Bertrand: Today, let's try the first step — Source Material Collection!
 Bertrand: Here, take this Material Collector. Remember to directly put anything you collect into the Collector, lest it be contaminated by other elements.
 Traveler: Leave it to me.
 Bertrand: Thanks. Let me adjust the device one last time. I'm counting on you to collect the materials!
-Traveler: A wanted criminal "too"?
-Bertrand: Haha, that's a long story. I was once arrested by the Tenryou Commission due to a small accident...
-Traveler: You put up a request at the Adventurers' Guild, didn't you?
 
 ## Talk 3
 
@@ -94,10 +100,12 @@ Bertrand: Have you collected the source materials using the Collector? The sourc
 
 Bertrand: Heh! If that's the amount I'm getting for one of these, then I just need to sell 20,000 of them to pay off my debt!
 Bertrand: As simple as that... Uh, you seem to have some questions, I presume?
-Traveler: What do you plan to sell?
-Bertrand: I plan to sell toys, but... Unfortunately, the toys are yet to be produced. Please check them out once I have them ready.
-Traveler: Nothing...
-Bertrand: If you've nothing to say, then don't bother me. I'm currently making a batch of important products.
+    Option 1:
+        Traveler: What do you plan to sell?
+        Bertrand: I plan to sell toys, but... Unfortunately, the toys are yet to be produced. Please check them out once I have them ready.
+    Option 2:
+        Traveler: Nothing...
+        Bertrand: If you've nothing to say, then don't bother me. I'm currently making a batch of important products.
 
 ## Talk 5
 
@@ -119,7 +127,10 @@ Bertrand: Impossible.
 Bertrand: What are you thinking? That's only the first step of the three processes. We're far from getting things done.
 Paimon: Paimon gets it, so we need to complete all the processes, huh?
 Bertrand: Yep, we need all three processes in order to produce the toys.
-Traveler: That's so troublesome...
+    Option 1:
+        Traveler: That's so troublesome...
+    Option 2:
+        Traveler: That's so much work...
 Bertrand: Look at you, always wanting a quick fix. It takes patience to make toys. We must infuse every process with...
 Paimon: With what? Oh, Paimon gets it. It's toys we're making, after all, so we must infuse every process with real passion!
 Bertrand: Yep, my passion for Mora!
@@ -129,4 +140,3 @@ Paimon: Hehe, Paimon was just trying to make conversation.
 Paimon: Then, Bertrand, what do we do next? Should we move on to the following processes?
 Bertrand: No worries. Since I've recently adjusted the machine, and this particular process hasn't been tested yet, I need to check if it works well with the materials.
 Bertrand: This requires some time. Please come back later.
-Traveler: That's so much work...

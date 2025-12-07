@@ -13,14 +13,20 @@ Honglang: What's with this Domain...
 Traveler: Hey there, about the commission...
 Honglang: Eh? You... Oh, so you're the one Ms. Katheryne called in?
 Honglang: I've heard that you're flexible, highly experienced, and one of our top adventurers to boot...
-Traveler: That's about right.
+    Option 1:
+        Traveler: That's about right.
+    Option 2:
+        Traveler: I guess you could say that...
 Honglang: Wonderful! That's very reassuring indeed.
 Traveler: Still, could you tell me about this Domain...?
 Honglang: Ah, yes, right. Sorry. Let me fill you in...
 Honglang: Well, here's what happened: some time back, a team of adventurers found this strange, large door out in the wild... You're looking at it right now, naturally.
 Honglang: Once they had passed through this gate, the team entered an unknown Domain.
 Honglang: According to the first batch of adventurers, the Domain was just an "empty room" when they first entered it.
-Traveler: One moment. What do you mean?
+    Option 1:
+        Traveler: One moment. What do you mean?
+    Option 2:
+        Traveler: An empty... room?
 Honglang: I'm just giving an example. To be precise, it was an area "about 52 paces in length, 52 paces in breadth, and of unknown height."
 Honglang: For 52 paces either way, the area was an ordinary stone-tiled floor, but all the areas beyond were filled with a deep gray smoke.
 Honglang: Also, when someone tried to cross over the border into the area beyond the first 52 paces...
@@ -31,14 +37,15 @@ Honglang: They did, of course. But thrown objects would return to their original
 Paimon: So, you'd like our help in investigating this place?
 Honglang: That is the case. However... you won't just be doing "exploration."
 Honglang: I don't think it's possible to explain out here. Let's continue inside.
-Traveler: An empty... room?
-Traveler: I guess you could say that...
 
 ## Talk 3
 
 Paimon: This...
 Paimon: You sure this is the same place as that "empty room" you talked about?
-Traveler: This just looks like a normal Domain...
+    Option 1:
+        Traveler: This just looks like a normal Domain...
+    Option 2:
+        Traveler: Well, this place looks familiar...
 Paimon: Exactly! Isn't this just an ordinary ruin? Y'know, the ones we visit all the time?
 Honglang: This is indeed the Domain we mean to explore.
 Honglang: And as for the reason why it looks like this...
@@ -60,7 +67,10 @@ Paimon: Wow! Does this mean that it could create, say, the entire Liyue Harbor i
 Honglang: We've tried this, but to no avail. Perhaps our desire to create Liyue Harbor just wasn't strong enough.
 Honglang: Whatever the case, we are currently gathering adventurers to enter this Domain and cause all manner of changes according to their desires.
 Honglang: We hope that we might be able to figure out some of the rules and principles behind the changes this Domain undergoes, and thus get answers from there.
-Traveler: In that case, how should I operate this place?
+    Option 1:
+        Traveler: In that case, how should I operate this place?
+    Option 2:
+        Traveler: Is there some special method to all this?
 Honglang: Well, you see that mechanism over there? That's a "trigger" that we put in place. One of our adventurers dreamed this one up, in fact.
 Honglang: In simple terms, his desire was "to be able to change this Domain only when we touch this mechanism."
 Honglang: The Domain answered these wishes, but to ensure that this mechanism remains here, we have to periodically invite him back...
@@ -70,8 +80,6 @@ Honglang: But if you look at it from a different angle, this Domain really is qu
 Honglang: Well, talk is cheap, though... So why don't you give it a go yourself?
 Honglang: See that golden "Adventure Coin" over there? That's a little something we created using our willpower as well.
 Honglang: Try getting ahold of that coin, would you?
-Traveler: Is there some special method to all this?
-Traveler: Well, this place looks familiar...
 
 ## Talk 4
 
@@ -94,19 +102,22 @@ Honglang: Try getting ahold of that coin, would you?
 ## Talk 8
 
 Honglang: This Domain... What secrets lie inside it...
-Traveler: What can you tell me about this Domain's initial appearance?
-Honglang: Um, honestly, we can't be sure ourselves.
-Paimon: Didn't you say that this place was this big, gloomy, empty room?
-Honglang: Well, that was... also something that the team of adventurers "desired," you see.
-Honglang: When entering this Domain, each of them only had one thought in mind...
-Honglang: "How I wish this place was a space heretofore unexplored by anyone."
-Honglang: And so this Domain responded to their desires, turning into something most strange.
-Honglang: So as to what this Domain might have originally been like... I suspect that it might have been "nothing at all."
-Traveler: Is it safe to adventure in here?
-Honglang: As long as you do as I instructed, I'm confident that nothing will go wrong.
-Honglang: Still, I suggest that you not come into this with any particularly large wishes, just to avoid... you know, any unforeseen results.
-Traveler: See you.
-Honglang: Yes, see you. Do be careful while operating this Domain, now.
+    Option 1:
+        Traveler: What can you tell me about this Domain's initial appearance?
+        Honglang: Um, honestly, we can't be sure ourselves.
+        Paimon: Didn't you say that this place was this big, gloomy, empty room?
+        Honglang: Well, that was... also something that the team of adventurers "desired," you see.
+        Honglang: When entering this Domain, each of them only had one thought in mind...
+        Honglang: "How I wish this place was a space heretofore unexplored by anyone."
+        Honglang: And so this Domain responded to their desires, turning into something most strange.
+        Honglang: So as to what this Domain might have originally been like... I suspect that it might have been "nothing at all."
+    Option 2:
+        Traveler: Is it safe to adventure in here?
+        Honglang: As long as you do as I instructed, I'm confident that nothing will go wrong.
+        Honglang: Still, I suggest that you not come into this with any particularly large wishes, just to avoid... you know, any unforeseen results.
+    Option 3:
+        Traveler: See you.
+        Honglang: Yes, see you. Do be careful while operating this Domain, now.
 
 ## Talk 9
 

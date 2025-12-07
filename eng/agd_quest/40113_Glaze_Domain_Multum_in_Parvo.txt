@@ -104,16 +104,18 @@ Idyia: Master Thief Kaeya and Mage Klee, if you could earmark some time in your 
 Klee: Earmark? What does that mean?
 Kaeya: It just means we mustn't forget to do it. Don't worry, we can handle that.
 Idyia: #Finally, we have our General, Miss Sangonomiya, and our Knight, Traveler. If there's no objections, please come with me to retrieve the first component.
-Traveler: Understood.
+    Option 1:
+        Traveler: Understood.
+    Option 2:
+        Traveler: You have my sword!
+        Idyia: Wow... Spoken like a true knight.
+        Sangonomiya Kokomi: Hehe... Then for my part, my strategic mind is at your service.
 Idyia: Alright. Well, if anyone finds anything, come back here and we'll regroup.
 Idyia: Please take care while you're out on the road, and look after each other... especially our little mage here.
 Klee: You got it! I'll take extra-special care of Kaeya.
 Kaeya: I'll be on my best behavior.
 Idyia: ...
 Idyia: Okay, we'll leave it there for now. You two, please follow me.
-Traveler: You have my sword!
-Idyia: Wow... Spoken like a true knight.
-Sangonomiya Kokomi: Hehe... Then for my part, my strategic mind is at your service.
 
 ## Talk 31
 
@@ -172,7 +174,10 @@ Sangonomiya Kokomi: Wishful thinking is only going to lead to disappointment, Id
 Klee: #Hey, Mr. Honorary Knight and Miss General are here! Oh, and our mascot!
 Klee: You beat us! I was sure we were gonna be the first ones back!
 Kaeya: Hey. How'd it go?
-Traveler: Mission complete!
+    Option 1:
+        Traveler: Mission complete!
+    Option 2:
+        Traveler: Where a knight's sword goes, victory soon follows!
 Kaeya: Haha. Impressive. I doubt you'd find many other knights of such caliber even among the Knights of Favonius.
 Idyia: How about our Master Thief and Mage? Did you find anything?
 Klee: You bet! We made a huuuge discovery!
@@ -186,7 +191,6 @@ Idyia: I'll sit this one out. I'm beat after trying to make those repairs... I n
 Klee: Miss General, you should come, too! You can hide behind me and give me smart advice while I protect you!
 Sangonomiya Kokomi: Wonderful. It would be an honor to serve as adviser for our young mage.
 Klee: Hee-hee, let's go!!!
-Traveler: Where a knight's sword goes, victory soon follows!
 
 ## Talk 42
 

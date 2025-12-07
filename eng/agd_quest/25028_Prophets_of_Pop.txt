@@ -14,10 +14,14 @@ Impatient Tribesperson: Just in time — My muscles could do with some stretchin
 
 ## Talk 2
 
+Milu Nui: Agh! My records aren't children's songs!
+
 Milu Nui: Ah... My record... It was the original... The original!
 Lillo: I'm very sorry. If there's anything I can do for you, please let me know...
-Traveler: At least that wasn't the only record of yours...
-Traveler: At least your music wasn't lost...
+    Option 1:
+        Traveler: At least that wasn't the only record of yours...
+    Option 2:
+        Traveler: At least your music wasn't lost...
 Milu Nui: Ah, forget it. And there's no way to restore something this shattered...
 Milu Nui: Now that it's come to this, I just want to ask you a question...
 Milu Nui: ...When you were listening to my record, did you think it was good?
@@ -32,7 +36,7 @@ Milu Nui: Sorry?
 Lillo: I mean to say that your songs are outstanding! Believe you me, the baby Saurians crowd around and run about every time I play your music. Never seen them happier!
 Milu Nui: What? Ugh... But my record...
 Lillo: I know how you feel, and I'm very sorry that such an excellent record was destroyed... Look, I'll help you record a new one! No one's stealing anything from you as long as I'm around — I guarantee it!
-Milu Nui: Agh! My records aren't children's songs!
+[Missing Dialog 250280719]
 
 ## Talk 3
 
@@ -112,14 +116,16 @@ Lillo (Calm Tribesperson): You're the ones Mr. Milu Nui asked to pick up the rec
 Lillo (Calm Tribesperson): We're all People of the Springs. That guy... He used to be an alright sort. No clue where he's been getting all these bad habits lately.
 Lillo (Calm Tribesperson): Ah yes, I forgot to introduce myself. You can call me Lillo — and again, I apologize for my... compatriot's behavior.
 Lillo: ...Bah. I'm no good at formal conversation. If we were back with the tribe, I'd have treated you to a drink of water at least.
-Traveler: Eh, I'm an adventurer. I'm used to this...
-Lillo: Huh, that so? ...Y'know what, judging by your appearance, and how you acquitted yourself back there, you do seem to be an experienced adventurer.
+    Option 1:
+        Traveler: Eh, I'm an adventurer. I'm used to this...
+        Lillo: Huh, that so? ...Y'know what, judging by your appearance, and how you acquitted yourself back there, you do seem to be an experienced adventurer.
+    Option 2:
+        Traveler: You've worked with people from Liyue before?
+        Lillo: That's right. I was once hired by a gentleman from Liyue. Accompanied him into the mountains to prospect for ore veins.
+        Lillo: I learned a lot from working with him — and when he left, he even gave me a name in his nation's style, "Yiyang."
+        Lillo: According to him, it means "to soar elegantly in the air." Not that I really understand where he got that, though...
 Lillo: Anyway, never mind that. Let's clean our surroundings up. I'll pack the record so it doesn't get damaged again...
 Lillo: Then I'll go with you to see Mr. Milu Nui. I must apologize to him in person.
-Traveler: You've worked with people from Liyue before?
-Lillo: That's right. I was once hired by a gentleman from Liyue. Accompanied him into the mountains to prospect for ore veins.
-Lillo: I learned a lot from working with him — and when he left, he even gave me a name in his nation's style, "Yiyang."
-Lillo: According to him, it means "to soar elegantly in the air." Not that I really understand where he got that, though...
 
 ## Additional Conversations
 
@@ -145,9 +151,11 @@ Milu Nui: This record combines the sounds of battle, shouts, and all manner of n
 Milu Nui: And we also managed to help our musician friends retrieve some of those involuntarily "borrowed" records in the process.
 Milu Nui: All in all, I'd say that it's all gone rather smoothly thus far, and we've got a good thing going here.
 Milu Nui: #Ah, yes. We were just about to retrieve another unreturned "borrowed" recording. If you're willing, Traveler, would you lend us a hand?
-Traveler: Leave it to me.
-Milu Nui: Thank you! Once I finish this record, I'll make sure your name's first on the acknowledgments list!
+    Option 1:
+        Traveler: Leave it to me.
+        Milu Nui: Thank you! Once I finish this record, I'll make sure your name's first on the acknowledgments list!
+    Option 2:
+        Traveler: Well, I guess this counts as helping you with that record, hmm?
+        Milu Nui: Why of course! Indeed, once I finish this record, I'll make sure your name's first on the acknowledgments list!
 Milu Nui: And as for you, Lillo... Would the second slot work?
 Lillo: #It would be my honor. Come, Traveler. Let us go.
-Traveler: Well, I guess this counts as helping you with that record, hmm?
-Milu Nui: Why of course! Indeed, once I finish this record, I'll make sure your name's first on the acknowledgments list!

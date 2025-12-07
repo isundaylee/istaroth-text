@@ -12,7 +12,10 @@ Traveler: Are you star gazing?
 Iron Ingot: Yes... and no. It's the Lantern Rite, after all. It only seems fitting to look upon such an elegant sight during these festive times.
 Iron Ingot: I've even been learning how to write poetry, too. The other guys tell me that girls these days are really into that sort of thing.
 Iron Ingot: Hah, I'm sure Ziwei will...
-Traveler: Learning poetry?
+    Option 1:
+        Traveler: Learning poetry?
+    Option 2:
+        Traveler: Ziwei?
 Iron Ingot: Uh — ahem, well, I've heard a lot of constellation names from Ziwei. *sigh* They all sound so beautiful...
 Iron Ingot: So you see, I have to thank her somehow!
 Iron Ingot: I was thinking that I should write a poem on a Xiao Lantern and find a place to release it together with Ziwei... We'll eat snacks and sing songs...
@@ -26,7 +29,6 @@ Iron Ingot: But I still need to come up with a poem... and I'm afraid running ar
 Iron Ingot: Could you help me go check out those two spots?
 Traveler: Sure.
 Iron Ingot: Thanks for your help, I'm counting on you!
-Traveler: Ziwei?
 
 ## Talk 3
 
@@ -38,19 +40,23 @@ Iron Ingot: Alright, let me have a look here... Hmm, the surrounding scenery at 
 Iron Ingot: Anyway, never mind... Still, these spots look bright and impressive.
 Iron Ingot: I've got it! I know which one to pick... But, there's still something I'd like to ask of you, Traveler.
 Iron Ingot: My friends told me that when you go to see someone, it's best to bring something to eat. What do you think I should prepare when I go to see Ziwei?
-Traveler: Grilled Tiger Fish.
-Iron Ingot: Grilled Tiger Fish, hmm... Don't you think that'd be a little too oily? Maybe something a little more light and refined, like Almond Tofu...
+    Option 1:
+        Traveler: Grilled Tiger Fish.
+        Iron Ingot: Grilled Tiger Fish, hmm... Don't you think that'd be a little too oily? Maybe something a little more light and refined, like Almond Tofu...
+    Option 2:
+        Traveler: Almond Tofu.
 Iron Ingot: Yeah, Almond Tofu! That would be perfect!
 Iron Ingot: Traveler, could you please help me prepare a serving of Almond Tofu? In the meantime, I'll keep working on my poem here. Now how should this next line go...
 Iron Ingot: "And countless sparks fly"... Oh, that's a good line!
-Traveler: Almond Tofu.
 
 ## Talk 4
 
 Iron Ingot: Oh, when did you get back? Did you prepare the Almond Tofu?
-Traveler: Yep, it's ready.
-Traveler: I still need a little more time...
-Iron Ingot: Ah, okay. Don't worry, I can keep working on my poem in the meantime...
+    Option 1:
+        Traveler: Yep, it's ready.
+    Option 2:
+        Traveler: I still need a little more time...
+        Iron Ingot: Ah, okay. Don't worry, I can keep working on my poem in the meantime...
 
 ## Talk 5
 
@@ -78,18 +84,22 @@ Ziwei: Yes... Well, even though I don't really know what your wish is, the poem 
 Ziwei: But you shouldn't let others see your wish before releasing the Xiao Lantern, otherwise it will never come true.
 Ziwei: And so, what exactly do you need from me?
 Iron Ingot: Well, I...
-Traveler: He found a very suitable spot for releasing a Xiao Lantern.
+    Option 1:
+        Traveler: He found a very suitable spot for releasing a Xiao Lantern.
+    Option 2:
+        Traveler: So if you'd like to release a lantern tonight, you can go together with him.
 Ziwei: Releasing a Xiao Lantern? Oh, I'm sorry... I was actually hoping to go somewhere away from all the lanterns.
 Ziwei: The Xiao Lanterns are so bright that they obstruct my view of the stars. I think I'll be going as far as I can away from the festivities.
 Ziwei: Thanks for the kind offer, but I should get going. Happy Lantern Rite.
 Iron Ingot: O—Oh...
-Traveler: And there she goes...
+    Option 1:
+        Traveler: And there she goes...
+    Option 2:
+        Traveler: Keep your chin up.
 Iron Ingot: I... I'm fine. Clearly, I must have made my poem too abstract. Ziwei didn't get it at all.
 Iron Ingot: Don't worry, I won't let it get to me. She'll finally understand my meaning one day.
 Iron Ingot: Thanks for your help anyway, Traveler. Here, these are for you.
 Iron Ingot: Oh, I guess I should at least release this Xiao Lantern now...
-Traveler: Keep your chin up.
-Traveler: So if you'd like to release a lantern tonight, you can go together with him.
 
 ## Talk 9
 

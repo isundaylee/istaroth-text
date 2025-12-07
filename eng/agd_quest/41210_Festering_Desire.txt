@@ -20,7 +20,10 @@ Traveler: Hey there. It's us again.
 Albedo: Hmm? Why are you here?
 Albedo: Are you lost?
 Paimon: No we're not!
-Traveler: Sucrose has commissioned us to probe you for secrets.
+    Option 1:
+        Traveler: Sucrose has commissioned us to probe you for secrets.
+    Option 2:
+        Traveler: Sucrose says that you conceal some unspeakable secret.
 Albedo: A secret?
 Paimon: Hey! What are you doing!?
 Paimon: Our mission calls for a delicate approach!
@@ -30,7 +33,10 @@ Albedo: Actually, you've arrived at just the right moment. I have business with 
 Albedo: Here you go.
 Paimon: Huh? What's this?
 Albedo: As you can see, it is a sword.
-Traveler: Into forging, are you?
+    Option 1:
+        Traveler: Into forging, are you?
+    Option 2:
+        Traveler: Is smithing part of an alchemist's qualifications, too?
 Albedo: I did not make this sword. However, I did add some alchemical touches to it.
 Albedo: Would you like to try it out?
 Traveler: You're giving it to me?
@@ -43,8 +49,6 @@ Albedo: An ordinary person would be unable to wield it at all. However, you are 
 Paimon: Huh...?
 Albedo: Or perhaps I should say that only you are immune to the curse. As such, who could I find to help me, if not you?
 Albedo: We gain little from saying more. Go find some monsters nearby — after all, some things are best discovered through practice.
-Traveler: Is smithing part of an alchemist's qualifications, too?
-Traveler: Sucrose says that you conceal some unspeakable secret.
 
 ## Talk 4
 
@@ -70,7 +74,10 @@ Albedo: Watch out!
 
 Paimon: Now that's rich — Treasure Hoarders calling us thieves!
 Albedo: They certainly arrived quickly.
-Traveler: Wait, you're the thief they were talking about?
+    Option 1:
+        Traveler: Wait, you're the thief they were talking about?
+    Option 2:
+        Traveler: You didn't filch anything from them, did you?
 Albedo: Goodness, no.
 Paimon: They seem to have been talking about this sword. What's going on?
 Albedo: Why are you looking at me like that? Of course I didn't steal this sword.
@@ -116,7 +123,6 @@ Albedo: This sword is still very weak at present. However, it is able to absorb 
 Albedo: In some sense, you could even say that it is a living thing.
 Albedo: Well then, Traveler, adventure with it to your heart's content. I need you to help it grow.
 Albedo: I believe that we will soon have all the proof that we need.
-Traveler: You didn't filch anything from them, did you?
 
 ## Talk 32
 

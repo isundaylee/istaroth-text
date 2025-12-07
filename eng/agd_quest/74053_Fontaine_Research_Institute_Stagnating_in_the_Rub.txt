@@ -78,14 +78,20 @@ Nacker: What Ms. Chalmet said was indeed the truth. I hope that I can say the sa
 Chronie: Whenever the truth is placed right before me, I never pretend that it's not there. That would be a mistake.
 Nacker: Is that so? Well, it takes only the slightest bit of effort to fixate on something, but it always takes more brain power to avert your gaze from it.
 Paimon: It's clear they're not having an argument with each other, but why does Paimon still feel like the vibe is even scarier than if they were...
-Traveler: Hurry and think of something, almighty Paimon!
-Paimon: Eh!? Why Paimon? Um... Um... how about we just get down to business!?
+    Option 1:
+        Traveler: Hurry and think of something, almighty Paimon!
+        Paimon: Eh!? Why Paimon? Um... Um... how about we just get down to business!?
+    Option 2:
+        Traveler: Let's... deal with the Survey Anchor first, shall we?
 Nacker: You're right. Ms. Chalmet, let's go examine the Anchor.
 Chalmet: O—Okay then. That said, the area where it's located is still blocked. I'll go ahead and open those ports and unblock it...
 Nacker: #Traveler, as I recall, you were an adventurer who came for the recruitment, yes? Well... when assisting our Institute in its work, you'll sometimes be required to carry out certain... precise operations.
 Nacker: I'd like to see your practical capabilities first. Could you please go and help Ms. Chalmet operate the Energy Transfer Terminal to clear the area where the Survey Anchor is of obstructions?
-Traveler: I guess I could...
-Paimon: Paimon thinks she's heard of this story somewhere before! It's something like... "Your test began the moment you set foot in this area"!
+    Option 1:
+        Traveler: I guess I could...
+        Paimon: Paimon thinks she's heard of this story somewhere before! It's something like... "Your test began the moment you set foot in this area"!
+    Option 2:
+        Traveler: So, the review has already begun?
 Nacker: You could say that. If you pass the final review, then we'll do a detailed competency assessment for you.
 Nacker: After all, everybody excels at different things, and the work they can take on also differs.
 Traveler: And so their compensation will differ as well?
@@ -93,8 +99,6 @@ Nacker: Hahaha! How very blunt of you, but you're not wrong.
 Paimon: #Ooh! Then we've got to show them our worth, Traveler!
 Nacker: Just treat this as an early assessment. Ms. Chalmet is over there. She'll explain to you how to operate the Terminal.
 Nacker: Please follow her instructions and unblock the area as soon as you can. I'll be watching you from the side.
-Traveler: So, the review has already begun?
-Traveler: Let's... deal with the Survey Anchor first, shall we?
 
 ## Talk 12
 
@@ -120,9 +124,11 @@ Chalmet: She was feeling nauseous, so she stayed up there to rest.
 Chalmet: But don't worry, she's already taken her medicine. She just needs a little time...
 Chalmet: Huh? Ms. Chronie, what are you doing here...
 Chronie: A bunch of meka monsters suddenly showed up outside! They're on my heels, about to storm in!
-Traveler: Well, thank you for that!
+    Option 1:
+        Traveler: Well, thank you for that!
+    Option 2:
+        Traveler: Leave it to me.
 Paimon: #Look out, Traveler! Over there!
-Traveler: Leave it to me.
 
 ## Talk 16
 
@@ -205,9 +211,12 @@ Nacker: I have. Allow me to give you two a brief report...
 Nacker: #With Traveler's assistance, the Anchor was successfully retrieved without any equipment.
 Choiseul: That's unbelievable! You were able to retrieve one without the use of any instruments? Goodness! Thank heavens.
 Choiseul: The entire Institute right now only has three complete sets of such equipment, and I was honestly worried as to how we might retrieve the Anchors as soon as possible.
-Traveler: I didn't really do anything special...
-Paimon: Yeah... It felt just like any other commission that we've done!
-Choiseul: No, no, for you to have retrieved an Anchor at all is special enough as-is.
+    Option 1:
+        Traveler: I didn't really do anything special...
+        Paimon: Yeah... It felt just like any other commission that we've done!
+        Choiseul: No, no, for you to have retrieved an Anchor at all is special enough as-is.
+    Option 2:
+        Traveler: It was nothing compared to other things I've been through.
 Chronie: Is there any critical data in the Anchor, Mr. Choiseul?
 Choiseul: Haha, of course not...
 Choiseul: ...some insignificant data, Ms. Chronie.
@@ -216,13 +225,19 @@ Choiseul: E—Energy flow? I mean, uh... Of course! It's necessary... and must e
 Chronie: What I'd really like to know is... Why the Fontaine Research Institute would place these Survey Anchors to monitor the Arkhium energy flow after the explosion?
 Choiseul: Certainly. Obviously, these Survey Anchors are... Uh... used for monitoring...
 Paimon: Ms. Chronie talks so fast! Like...
-Traveler: A Dendro Slime on fire.
+    Option 1:
+        Traveler: A Dendro Slime on fire.
+    Option 2:
+        Traveler: A Whopperflower spitting fireballs.
 Chronie: Allow me to be more specific. How exactly is the Fontaine Research Institute planning to deal with this explosion?
 Choiseul: Uh... yes, I was just about to answer that question. This was an excellent question to ask, as many people... are concerned about it...
 Raimondo: Ms. Chronie, I am so delighted that you've come to visit again. I must stress on behalf of Mr. Choiseul that the institute has never changed its solution to the explosion.
 Raimondo: Once we have recovered all of the retrievable research assets at the old site, we will demolish the old Central Laboratory and do our best to restore the area's natural environment to its original state.
 Paimon: By the Central Laboratory, you mean that building floating in the air? How are you going to demolish a building like that?
-Traveler: Shoot it down with a cannon?
+    Option 1:
+        Traveler: Shoot it down with a cannon?
+    Option 2:
+        Traveler: Blow it up, just like before?
 Raimondo: Of course we shan't be using such crude and simple solutions. This demolition will utilize our newly-researched "Experimental Field Generator."
 Raimondo: This device can deactivate the Gravity-Altering Field that surrounds the Institute's ruins and land them on the ground safely...
 Chronie: But wasn't this device also within said ruins? And wasn't it also a work of Edwin Eastinghouse that used... Arkhium as its energy source...?
@@ -256,9 +271,6 @@ Raimondo: #How about you take Traveler to retrieve the last two Survey Anchors?
 Raimondo: The energy flow control operations are nearing completion, all that's left is to compile the data. *sigh* Oh well, at least it's under control...
 Chronie: ...Are you guys heading somewhere else? I'll come along too!
 Paimon: This reporter lady sure has pretty good ears...
-Traveler: Blow it up, just like before?
-Traveler: A Whopperflower spitting fireballs.
-Traveler: It was nothing compared to other things I've been through.
 
 ## Talk 25
 
@@ -282,8 +294,12 @@ Choiseul: Uh... that's right! The new Fontaine Research Institute has nothing to
 Choiseul: Please go report on it. Go to the ruins of the Institute and see the mistakes Edwin Eastinghouse made.
 Choiseul: Looking back again, the Institute now is just what we've been working toward, the cause we stand for! But allow me to emphasize once again that...
 Paimon: And here we go again... Paimon's about to fall asleep...
-Traveler: I truly admire how much you guys have to say.
-Paimon: Not to mention how every sentence seems to magically make people fall asleep... Paimon's already feeling sleepy from just half a sentence...
+    Option 1:
+        Traveler: I truly admire how much you guys have to say.
+        Paimon: Not to mention how every sentence seems to magically make people fall asleep... Paimon's already feeling sleepy from just half a sentence...
+    Option 2:
+        Traveler: Maybe you should call me after you're done talking...
+        Paimon: Yeah, this doesn't have anything to do with us — and this is a good time for a break, anyway.
 Raimondo: No, no, it's important business. So please, come this way...
 Black Screen Text: Under Raimondo's guidance, you sign many complicated documents. Thanks to your prior experience, you finish signing them before you know it this time...
 Raimondo: #...Alright, that should be all of them. Thank you, Traveler. You are now an Externally Contracted Assistant Researcher for the Fontaine Research Institute.
@@ -298,8 +314,6 @@ Nacker: #...Well then, please follow me, Traveler. We must get to the ruins.
 Traveler: Sure thing!
 Chronie: Don't forget me!
 Nacker: Yes, and you. How could I possibly forget you?
-Traveler: Maybe you should call me after you're done talking...
-Paimon: Yeah, this doesn't have anything to do with us — and this is a good time for a break, anyway.
 
 ## Talk 27
 
@@ -315,13 +329,15 @@ Chronie: Forget it. I... I'm not that good at using a wind glider, and I'm not r
 Nacker: Very well. Now I'll go over a few things to keep in mind when it comes to allogravity-condensed water.
 Black Screen Text: Nacker details considerations when making use of said allogravity-condensed water.
 Paimon: So in a nutshell, it's the same as when swimming or diving.
-Traveler: I feel like this is more "flying or diving."
-Nacker: I suppose you could call it "anti-gravity diving" if you had to.
+    Option 1:
+        Traveler: I feel like this is more "flying or diving."
+        Nacker: I suppose you could call it "anti-gravity diving" if you had to.
+    Option 2:
+        Traveler: Diving in midair will be quite a novelty.
+        Nacker: In that case, please do enjoy experiencing it for yourself.
 Nacker: Is everybody ready? Ms. Chronie, you can still back out now if you'd like, and simply wait here for us to return.
 Chronie: Reporters never back down. I'll be right behind you guys! I'll... try to, anyway...
 Nacker: Alright then, if you insist. Let's get going now.
-Traveler: Diving in midair will be quite a novelty.
-Nacker: In that case, please do enjoy experiencing it for yourself.
 
 ## Talk 29
 
@@ -352,7 +368,10 @@ Raimondo: Even if I am listed alongside him as a suspect... his chances of being
 ## Talk 31
 
 Chronie: How suspicious...
-Traveler: What's suspicious? Show me too!
+    Option 1:
+        Traveler: What's suspicious? Show me too!
+    Option 2:
+        Traveler: Hi, Ms. Chronie!
 Chronie: #Oh! Traveler, you gave me a fright. How are you able to walk around without making any noise?
 Paimon: You were just too focused! Speaking of it, you followed us all the way here. Have you managed to find anything?
 Chronie: Not really. Since Mr. Nacker said all that, I don't really want to get in trouble.
@@ -371,7 +390,6 @@ Nacker: You don't need to worry about me. Mr. Edwin taught me how to use the Gen
 Nacker: No one in the Institute can control this big guy as freely as I can... Not even Raimondo.
 Paimon: Hmm... Guess we'll have to leave it to a professional then. Be careful!
 Nacker: Go now. We'll meet again on the surface.
-Traveler: Hi, Ms. Chronie!
 
 ## Talk 32
 
@@ -388,8 +406,13 @@ Nacker: Of all the inert Arkhium we found, this one was the best in terms of pur
 Traveler: And then boom it went.
 Nacker: That came down to Mr. Edwin. I trust that this wasn't the cause, or at least, it shouldn't take all the blame.
 Paimon: Whoa... I—It's not gonna blow up again, is it?
-Traveler: When that happens, I'm gonna need you to take us to the skies, Paimon.
-Paimon: Paimon doesn't have super strength! But... if it really does blow up, then P—Paimon could give it a shot...
+    Option 1:
+        Traveler: When that happens, I'm gonna need you to take us to the skies, Paimon.
+        Paimon: Paimon doesn't have super strength! But... if it really does blow up, then P—Paimon could give it a shot...
+    Option 2:
+        Traveler: When that happens, let's jump into the water below.
+        Paimon: Jumping into water from a high place such as this is gonna hurt when we, y'know, "splash"...
+        Paimon: Worst case scenario, P—Paimon will tug on your clothes and help to absorb the impact...?
 Nacker: Hahaha, don't worry. Now that Mr. Edwin's not around, we're completely safe.
 Nacker: Alright, I'm about to use Raimondo's catalyst to transform this Arkhium into Tri-State Arkhium and activate that big fellow outside.
 Nacker: Then, these ruins should be able to safely land on the ground.
@@ -399,9 +422,6 @@ Nacker: It's fine. These will be used for reference in the Institute and won't b
 Nacker: Unless you secretly keep a few for yourself... which I trust you won't do.
 Nacker: Oh, right, and when you're taking photos, please look for Ms. Chronie while doing so. I've got no idea where she's run off to... or where she's hiding.
 Nacker: I really don't want to start the Generator only to suddenly find a lady tossed into midair.
-Traveler: When that happens, let's jump into the water below.
-Paimon: Jumping into water from a high place such as this is gonna hurt when we, y'know, "splash"...
-Paimon: Worst case scenario, P—Paimon will tug on your clothes and help to absorb the impact...?
 
 ## Talk 34
 
@@ -420,7 +440,10 @@ Desnos: What happened? How did it explode again...
 ## Talk 37
 
 Raimondo: #Traveler! You're back. How's the work coming along?
-Traveler: Everything's going swimmingly.
+    Option 1:
+        Traveler: Everything's going swimmingly.
+    Option 2:
+        Traveler: It's fine.
 Paimon: There are still some finishing touches that "ought to be left to a professional," so Mr. Nacker is still up there.
 Traveler: I feel like I haven't really contributed that much...
 Raimondo: #Don't say that. You're our safety rope! Without you, dear Traveler, how could we have dared let Mr. Nacker go up there by himself? It could be said that the trip was a brilliant success.
@@ -433,7 +456,12 @@ Traveler: So there's no honorary title for Paimon, then?
 Raimondo: Honorary titles must remain limited in quantity and stay relatively rare. Otherwise, how would we get sponsors and support through awarding them?
 Paimon: Oh... Alright then...
 Traveler: Then allow me to award Paimon...
-Traveler: The honorary title of "Best Companion."
+    Option 1:
+        Traveler: The honorary title of "Best Companion."
+    Option 2:
+        Traveler: The honorary title of "Best Travel Guide."
+    Option 3:
+        Traveler: A super awesome title!
 Paimon: Hey, just what kind of nonsense titles are those! ...Hmph, we're already best buddies, Paimon doesn't need a title for that!
 Paimon: #You better make Traveler's really awesome!
 Raimondo: Of course. This honorary title is of the highest standing. Besides, haven't you also been promoted to Assistant to the Honorary Senior Researcher? Come on, let's get that photo taken.
@@ -450,9 +478,6 @@ Choiseul: Please give us a second, Ms. Chronie. This shouldn't take too long.
 Chronie: Oh, don't worry. It's not like the things you said just now weren't all cliches anyway.
 Chronie: Weren't you guys going to take a photo together? I just so happen to have a Kamera with me. Please go and stand in position.
 Chronie: I traveled a long way to get here, so please at least make it worth the trip, okay?
-Traveler: The honorary title of "Best Travel Guide."
-Traveler: A super awesome title!
-Traveler: It's fine.
 
 ## Talk 38
 
@@ -492,7 +517,10 @@ Chalmet: Wait, do we even have any medicine left...?
 ## Talk 41
 
 Chronie: Uh... was that an... explosion just now?
-Traveler: What else could it have been...
+    Option 1:
+        Traveler: What else could it have been...
+    Option 2:
+        Traveler: We're just taking a photo together. Is such a ceremonious greeting necessary?
 Choiseul: I... don't believe that was an explosion. All things considered, uh... it was probably a controllable...
 Paimon: That was an explosion! Paimon was nearly blown away just now. If not, what else could it have been!?
 Chronie: Mr. Choiseul! Could you please explain this to us. Was this something that you had anticipated?
@@ -510,7 +538,6 @@ Raimondo: Please get to the ruins as quickly as you can. I'll find my own way up
 Traveler: Your own way?
 Raimondo: I have my ways. After the explosion, I was among one of the first up there to conduct disaster investigation and evaluation.
 Raimondo: Things at that time were much more complicated than they are now... Anyway, enough talk. Let's get moving. Hopefully, Mr. Nacker won't meet the same fate that Edwin did...
-Traveler: We're just taking a photo together. Is such a ceremonious greeting necessary?
 
 ## Talk 42
 
@@ -529,8 +556,12 @@ Chalmet: Ms. Chronie, please, drink this medicine. Exposed Survey Anchors radiat
 Chalmet: However, this energy level won't leave permanent adverse effects on the body. Just take this medicine and you'll be fine.
 Chronie: Blech! It tastes terrible. Forget it. I guess this is also a kind of first-hand experience...
 Chalmet: #Traveler, these two bottles are for the two of you. Please drink them quickly.
-Traveler: I'm feeling fine. Let Paimon drink it.
-Paimon: But Paimon isn't feeling any discomfort either... Plus, the medicine doesn't taste so good, right? Um, Paimon would rather not take it...
+    Option 1:
+        Traveler: I'm feeling fine. Let Paimon drink it.
+        Paimon: But Paimon isn't feeling any discomfort either... Plus, the medicine doesn't taste so good, right? Um, Paimon would rather not take it...
+    Option 2:
+        Traveler: Thanks, but I'm not feeling any discomfort at all...
+        Paimon: Paimon neither!
 Nacker: Really? That's really quite interesting, and is completely at odds with the results of the "Applications of Arkhium Risk Report: 3rd Edition." We all should have been affected by the same amount of Arkhium energy...
 Paimon: Harrumph! We're constantly journeying over mountains and seas... We're way stronger than the people you've got working here!
 Nacker: Correction: You can now assume that all of the Fontaine Research Institute's staff are now working out in the open, beneath the sun and stars. Your report might consider mentioning the difficult work conditions we are enduring, Ms. Chronie.
@@ -540,38 +571,46 @@ Nacker: Please approach the storage room, and report any dizziness, nausea, itch
 Chronie: #Hold on there! Are you using Traveler as a guinea pig? Without fulfilling your obligation to inform him of the risks first?
 Nacker: #It is clearly stated in "Institute (abbr.) Externally Contracted Employee Agreement, Appendix C.41," which he signed!
 Nacker: Prior to being officially employed, the applicant shall be subject to a harmless Arkhium energy flow tolerance test, and the Institute has the right to terminate the contract based upon the results of said test.
-Traveler: I hate reading text.
+    Option 1:
+        Traveler: I hate reading text.
+    Option 2:
+        Traveler: Who the heck reads all that!?
 Nacker: You chose not to exercise your right to read the text, but each document was clearly marked, "Please sign your name after carefully reading the document and making sure there are no mistakes."
 Nacker: However, seeing as you seem completely unaffected by the energy flow... I believe you may be just the person we're looking for.
 Nacker: In any case, let's get down to business. Take three steps toward the storage room, then hold still for thirty seconds.
 Black Screen Text: You follow Nacker's series of complicated instructions and slowly approach the storage room at a steady pace.
 However, just like before, you don't feel any discomfort.
 Paimon: We've gone this far, but Paimon still doesn't feel anything. Do you feel any discomfort?
-Traveler: Ah! My head! It feels like it's gonna explode!
-Paimon: #Huh!? What's wrong? Traveler, are you alright!?
-Traveler: Pfft...
-Paimon: Okay, okay, that was good acting! You nearly fooled Paimon there, sheesh... But...
+    Option 1:
+        Traveler: Ah! My head! It feels like it's gonna explode!
+        Paimon: #Huh!? What's wrong? Traveler, are you alright!?
+        Traveler: Pfft...
+        Paimon: Okay, okay, that was good acting! You nearly fooled Paimon there, sheesh... But...
+    Option 2:
+        Traveler: I'm feeling the same as always.
+    Option 3:
+        Traveler: I'm feeling the same as always.
 Paimon: Hehe, that's a relief, then. Paimon was worrying about how she'd carry you out of here if you were to suddenly pass out.
 Paimon: Although, we've come all this way, and we can't see Nacker or the others anymore, and it doesn't seem like we can hear them either. What do we do next?
 Paimon: Paimon knows! Maybe they'll chuck some sort of box in here and communicate with us through that!
-Traveler: That would be quite handy.
+    Option 1:
+        Traveler: That would be quite handy.
+    Option 2:
+        Traveler: Do they even have technology that cool?
 Paimon: We'll find out soon enough! Heh, Paimon can't wait to see what kind of cool gadgets they might use to communicate with us...
 Nacker: #Traveler! Can you hear me!?
 Paimon: Oh! So they rely on the technology of shouting really loud!
-Traveler: I can hear you!
+    Option 1:
+        Traveler: I can hear you!
+    Option 2:
+        Traveler: (Shh...)
+        Paimon: What are you doing!? Stop joking around at a time like this!
+        Paimon: We can hear you!
 Nacker: Do you guys feel any discomfort!?
 Traveler: Everything's good!
 Nacker: That's great! Please continue on to the Survey Anchor. You should be able to see it now!
 Nacker: Once you retrieve it, it will temporarily fall into a dormant state and stop radiating energy, and then we'll be able to come in! *cough*... Ahem...
 Paimon: Be careful! If you feel uncomfortable, then we'll get out of here.
-Traveler: (Shh...)
-Paimon: What are you doing!? Stop joking around at a time like this!
-Paimon: We can hear you!
-Traveler: Do they even have technology that cool?
-Traveler: I'm feeling the same as always.
-Traveler: Who the heck reads all that!?
-Traveler: Thanks, but I'm not feeling any discomfort at all...
-Paimon: Paimon neither!
 
 ## Talk 45
 
@@ -599,7 +638,10 @@ Black Screen Text: You tell Raimondo of your encounters with Nacker, and his att
 Raimondo: Hmph... Sweet talk! Did he tell you guys, then, that it was people like him — Edwin's successors — who are reaping the benefits of this mess by stealing all kinds of information and selling it for a fortune?
 Paimon: Hmm... You guys are telling completely different stories. Paimon doesn't know who to believe anymore. If only he were here, then we could find out the truth. Paimon doesn't see him at all, though...
 Paimon: If he's not here, where could he have gone?
-Traveler: Maybe he successfully escaped.
+    Option 1:
+        Traveler: Maybe he successfully escaped.
+    Option 2:
+        Traveler: Maybe he's already...
 Raimondo: I don't think he was killed at the very least... I'll explain why later. For now, though, we must stabilize this Arkhium as quickly as we can.
 Raimondo: The suppression system shut down, and the ore is presently in an excited state. That is what caused the explosion.
 Paimon: What caused the explosion? But this big rock doesn't look blown up at all.
@@ -619,7 +661,6 @@ Raimondo: #Only you are capable of doing this, Traveler. Please, for the Court o
 Traveler: Since it's urgent, I'll just get the job done first...
 Paimon: But once this is all over, you'd better explain everything clearly!
 Raimondo: If all goes well, I will tell you everything I know.
-Traveler: Maybe he's already...
 
 ## Talk 50
 
@@ -700,11 +741,13 @@ Raimondo: But I promise that I would never have you steer from your moral standa
 Raimondo: All I ask is for you to remain quiet. You need not do anything else. You might be wondering why I would have you remain silent while telling you the truth.
 Raimondo: I'll just come out and say it now. Your coming here is the only good fortune that our Institute has had in nearly a hundred years.
 Raimondo: No matter what happens or what the cost is, we must maintain good relations with you. I'm sure Mr. Choiseul feels the same way.
-Traveler: Is telling the truth also a "cost" as far as you're concerned?
+    Option 1:
+        Traveler: Is telling the truth also a "cost" as far as you're concerned?
+    Option 2:
+        Traveler: Is transparency something you'd consider a "cost" as well?
 Paimon: Yeah! You're only just telling us the truth now, which you should have done ages ago. Just what sorta "cost" is that?
 Raimondo: #Dear sir, Paimon. Telling the truth honestly is, in truth, the greatest price one can pay.
 Raimondo: Let's go back. I ask sincerely for your understanding and to provide all... necessary cooperation.
-Traveler: Is transparency something you'd consider a "cost" as well?
 
 ## Talk 61
 
@@ -736,14 +779,16 @@ Raimondo: This is not a problem, as its internal structure is indeed different. 
 Choiseul: Ah, Raimondo... People never bother to tell the good guys from the bad guys, much less the nature of a piece of rock.
 Choiseul: They'll just say, hey, this rock looks like Arkhium, and it works like Arkhium, so why isn't it called Arkhium?
 Raimondo: Relax, Choiseul. I've already prepared the explanation script.
-Traveler: (Keep listening...)
-Raimondo: See? "...The energy source that drives the Experimental Field Generator is not Arkhium, but a new one called Tri-State Arkhium."
-Raimondo: "This type of ore is an inert variant of Arkhium that was created through a special transformation process. After entering the all-new 'silent excitement state,' it is much more stable than the original's excited state."
-Choiseul: This won't do! They'll still just say that we're doing some kind of rhetorical trick!
-Raimondo: "This rhetoric is also based on strict academic classification. All in all, you will witness its excellence after this display."
-Choiseul: *sigh* But this certainly won't be able to satisfy that group of reporters.
-Raimondo: They can never be satisfied. Mr. Choiseul, all we need to do is put on a display... That's all.
-Traveler: (Stop listening...)
+    Option 1:
+        Traveler: (Keep listening...)
+        Raimondo: See? "...The energy source that drives the Experimental Field Generator is not Arkhium, but a new one called Tri-State Arkhium."
+        Raimondo: "This type of ore is an inert variant of Arkhium that was created through a special transformation process. After entering the all-new 'silent excitement state,' it is much more stable than the original's excited state."
+        Choiseul: This won't do! They'll still just say that we're doing some kind of rhetorical trick!
+        Raimondo: "This rhetoric is also based on strict academic classification. All in all, you will witness its excellence after this display."
+        Choiseul: *sigh* But this certainly won't be able to satisfy that group of reporters.
+        Raimondo: They can never be satisfied. Mr. Choiseul, all we need to do is put on a display... That's all.
+    Option 2:
+        Traveler: (Stop listening...)
 
 ## Talk 66
 
@@ -885,15 +930,17 @@ Choiseul: Right, right! Let's take another group photo together. The one we took
 Choiseul: This new photo must be decent enough to be worthy of your status as our Honorary Senior Researcher.
 Black Screen Text: Choiseul and Raimondo stand in the same position as before, and an Institute researcher takes a photo for everyone...
 Choiseul: Perfect! Look at us — a decent bunch of decent people!
-Traveler: The ostentatious awards ceremony has finally ended...
-Paimon: Paimon hopes we won't ever have to attend such a... pompous ceremony ever again...
+    Option 1:
+        Traveler: The ostentatious awards ceremony has finally ended...
+        Paimon: Paimon hopes we won't ever have to attend such a... pompous ceremony ever again...
+    Option 2:
+        Traveler: The scene just isn't explosive enough.
+        Paimon: Hey! Stoppit! No more exploding! Any more explosions and Paimon'll have nightmares!
 Choiseul: This certificate and trophy are for you. I'll post a copy on the Institute bulletin board later.
 Choiseul: *sigh* I hope our researchers will follow your example. On this path, we must strive to take the lead, overcome all obstacles, and put in 120% of our...
 Traveler: I actually have more questions for you.
 Raimondo: Of course. I know what you want to ask. Even though your questions are all... um, extremely complicated, I'm willing to answer them.
 Raimondo: In any case, I believe we'll have more opportunities to work together in the future, Honorary Senior Researcher.
-Traveler: The scene just isn't explosive enough.
-Paimon: Hey! Stoppit! No more exploding! Any more explosions and Paimon'll have nightmares!
 
 ### Additional Talk 5
 
@@ -935,27 +982,38 @@ Choiseul: But before that, let's take a group photo together. The one we took be
 Choiseul: This new photo must be decent enough to be worthy of your status as our Honorary Senior Researcher.
 Black Screen Text: Choiseul and Raimondo stand in the same position as before, and an Institute researcher takes a photo for everyone...
 Choiseul: Perfect! Look at us — a decent bunch of decent people!
-Traveler: The ostentatious awards ceremony has finally ended...
-Paimon: Paimon hopes we won't ever have to attend such a... pompous ceremony ever again...
+    Option 1:
+        Traveler: The ostentatious awards ceremony has finally ended...
+        Paimon: Paimon hopes we won't ever have to attend such a... pompous ceremony ever again...
+    Option 2:
+        Traveler: The scene just isn't explosive enough.
+        Paimon: Hey! Stoppit! No more exploding! Any more explosions and Paimon'll have nightmares!
 Choiseul: This certificate and trophy are for you. I'll post a copy of the cert on the Institute bulletin board later.
 Choiseul: *sigh* I hope our researchers will follow your example. On this path, we must strive to take the lead, overcome all obstacles, and put in 120% of our...
 Traveler: I actually have more questions for you.
 Raimondo: Of course. I know what you want to ask. Even though your questions are all... um, extremely complicated, I'm willing to answer them.
 Raimondo: In any case, I believe we'll have more opportunities to work together in the future, Honorary Senior Researcher.
-Traveler: The scene just isn't explosive enough.
-Paimon: Hey! Stoppit! No more exploding! Any more explosions and Paimon'll have nightmares!
 
 ### Additional Talk 6
 
 Traveler: The kinetic core that disappeared must have been taken away by someone... If there's anyone who had the opportunity to commit this crime, it would probably be...
+
 Traveler: After the explosion... Well, the previous one, researchers of Edwin's stripe don't seem to have been very well-received...
+
 Traveler: The explosion that happened when we were taking the photo was quite a shock... What could have caused it?
+
 Traveler: Will it really be okay to let someone unsuitable for the role be the leader...?
+
 Traveler: ...The Arkhium has been activated from its inert state and is releasing a great amount of energy.
+
 Traveler: It's clear that Mr. Nacker is responsible for everything. He stole the kinetic core... which affected the activation of the Arkhium fragments.
+
 Traveler: There are many unrecovered activated fragments around the ruins of the Central Laboratory. The entire place is a huge, dangerous bomb!
+
 Traveler: It seems apparent that Nacker's the scapegoat of the current management system. He's a senior researcher, and yet he's been reduced to doing random tasks...
+
 Traveler: It's obvious! The second explosion must have been caused by Mr. Choiseul and Mr. Raimondo's chaotic operations!
+
 Traveler: That shouldn't be the case...
 
 ### Additional Talk 7

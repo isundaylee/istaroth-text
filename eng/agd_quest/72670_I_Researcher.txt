@@ -8,9 +8,13 @@ Traveler: Hello there.
 Hosseini: Why hello! Someone suitable's arrived at last, I suppose... *cough*
 Hosseini: And it's someone I know, too! Well, that's my worries about insufficient samples gone out the window!
 Hosseini: I've been waiting this whole time, and if it isn't old folks, it's children... That's simply insufficient...
-Traveler: ...I'm sorry, who are you again?
-Hosseini: Eh? You've forgotten me already?
-Hosseini: Oh, come on, I'm not some kind of nefarious villain, there's no need to pretend that we're not familiar or anything.
+    Option 1:
+        Traveler: ...I'm sorry, who are you again?
+        Hosseini: Eh? You've forgotten me already?
+        Hosseini: Oh, come on, I'm not some kind of nefarious villain, there's no need to pretend that we're not familiar or anything.
+    Option 2:
+        Traveler: What are you planning to do!?
+        Hosseini: Oh, come on! Do I look like some mad scientist who grabs passersby to use for human experimentation? There's no need to take that cautious tone with me...
 Hosseini: I mean, look, it's me! We met on Ritou, remember? *cough*
 Traveler: You still seem shady to me...
 Hosseini: Ugh, alright, maybe you did forget me. *sigh* Alright, let me introduce myself again.
@@ -33,8 +37,6 @@ Hosseini: However, before I give the Energy Amplifier into your keeping, could w
 Hosseini: It is proper procedure to first ascertain if the volunteer can defend themselves... *cough* No responsible academic study should play around with the lives of its volunteers, after all.
 Hosseini: Once you are ready, head to the designated locations and clear out the monster encampments there.
 Hosseini: I will wait for your return. Do remember to stay safe.
-Traveler: What are you planning to do!?
-Hosseini: Oh, come on! Do I look like some mad scientist who grabs passersby to use for human experimentation? There's no need to take that cautious tone with me...
 
 ## Talk 2
 
@@ -45,8 +47,12 @@ Hosseini: Its operation is very elementary — I trust you will understand it wi
 Hosseini: However, do note that this is an authentic ancient relic. You will land me in no small amount of hot water should you lose it or break it.
 Hosseini: As such, take your time to get used to it first before using it in tests.
 Hosseini: How are things going? Is the Energy Amplifier proving easy to use?
-Traveler: It's not too complicated.
-Hosseini: Indeed. Compared to some of the instruments we use at the Akademiya, the Energy Amplifier certainly is a simpler tool.
+    Option 1:
+        Traveler: It's not too complicated.
+        Hosseini: Indeed. Compared to some of the instruments we use at the Akademiya, the Energy Amplifier certainly is a simpler tool.
+    Option 2:
+        Traveler: There are still some things I don't get.
+        Hosseini: Well, that's normal. Don't worry, as a non-professional user, you only need to grasp its basic operations.
 Hosseini: At your level, larger-scale tests should be no problem at all.
 Hosseini: I've heard passing adventurers mention that they've discovered some strange new Domain of late.
 Hosseini: No one has ever traversed this terrain before, and it is teeming with monsters that are stronger than the ones you see wandering about in the wilds.
@@ -56,8 +62,6 @@ Hosseini: I reckon that even this domain shall not prove too difficult for you.
 Traveler: That's a given.
 Hosseini: You know, I wouldn't have believed a word of it if someone else had told me that, but on the other hand, I have full faith that you'll be fine... *cough*
 Hosseini: Well then, allow me to mark the location of this domain for you on your map. Happy testing!
-Traveler: There are still some things I don't get.
-Hosseini: Well, that's normal. Don't worry, as a non-professional user, you only need to grasp its basic operations.
 
 ## Talk 3
 

@@ -31,11 +31,24 @@ Xiao: It's not that.
 Xiao: There were those among the adepti who loved gatherings and idle chit chat. Sometimes, they would call up a few others for a drink. Even I got dragged along to their gatherings, many times.
 Xiao: The adepti all have their specialties, making most of them proud and arrogant. Everything they say is straight from the heart... It never gets too complicated.
 Xiao: But this time...
-Traveler: I understand. It's all Zhongli's fault.
-Xiao: That's not what I meant!
-Xiao: Or perhaps I should say Zhong... Rex Lapis is really good at adapting to human life. You could say that he actually enjoys doing so.
+    Option 1:
+        Traveler: I understand. It's all Zhongli's fault.
+        Xiao: That's not what I meant!
+        Xiao: Or perhaps I should say Zhong... Rex Lapis is really good at adapting to human life. You could say that he actually enjoys doing so.
+    Option 2:
+        Traveler: I understand. It's all Venti's fault.
+        Xiao: N—No, I didn't mean that...
+        Xiao: So you know his true identity. I'll get straight to the point then.
+        Xiao: The Anemo Archon is a free spirit, and his temperament is as carefree as the music he plays on the flute. It's easy for a god like him to live in harmony with humans...
+    Option 3:
+        Traveler: I understand. It's all Zhongli's fault.
+        Xiao: That's not what I meant!
+        Xiao: Or perhaps I should say Zhong... Rex Lapis is really good at adapting to human life. You could say that he actually enjoys doing so.
 Xiao: And that's something I might never be able to do.
-Traveler: You don't have to be like them.
+    Option 1:
+        Traveler: You don't have to be like them.
+    Option 2:
+        Traveler: You do you.
 Xiao: Hmm... That does sound like something you would say.
 Xiao: No matter. I know my circumstances.
 Xiao: Whenever I think of the ordinary conversations I've had with you, it feels... strangely novel.
@@ -81,11 +94,6 @@ Xiangling: Oh, the Almond Tofu I made probably tastes and feels a little differe
 Xiao: Okay.
 Xiangling: Hehe, that's all!
 Xiangling: Alrighty, we should head back now. We can't keep Paimon waiting!
-Traveler: You do you.
-Traveler: I understand. It's all Venti's fault.
-Xiao: N—No, I didn't mean that...
-Xiao: So you know his true identity. I'll get straight to the point then.
-Xiao: The Anemo Archon is a free spirit, and his temperament is as carefree as the music he plays on the flute. It's easy for a god like him to live in harmony with humans...
 
 ## Talk 6
 
@@ -188,7 +196,10 @@ Paimon: Even though you're always mocking Paimon, you're still pretty popular wi
 Paimon: No, wait! Paimon said she wouldn't talk to you again...
 Traveler: I'm not the only well-connected person here though.
 Paimon: Huh? Who else is there?
-Traveler: You, of course.
+    Option 1:
+        Traveler: You, of course.
+    Option 2:
+        Traveler: Take a look in the mirror.
 Paimon: Huh... Huh!?
 Paimon: Does that mean... Paimon's the most distinguished guest?
 Paimon: Well, that was unexpected, ehehe...
@@ -214,12 +225,14 @@ Hu Tao: Here you go, take the match... and don't burn yourself! But if things go
 Black Screen Text: Amidst everyone's laughter and applause, Paimon clumsily lights the incense...
 Black Screen Text: You all have a relaxed heart-to-heart chat all the way until nightfall.
 Black Screen Text: Now that everyone's had their fill of delicious food and tea, it's time to say goodbye.
-Traveler: Take a look in the mirror.
 
 ### Additional Talk 2
 
 Hu Tao: It's getting late. I won't take up any more of your time. You're all free to go as you please.
-Traveler: The food and desserts were delicious.
+    Option 1:
+        Traveler: The food and desserts were delicious.
+    Option 2:
+        Traveler: Thanks for the treat, Director.
 Paimon: Yep! The tea was amazing, too!
 Hu Tao: You don't have to go all polite on me. Just remember to come when I invite you next time!
 Hu Tao: Hmm... Let's see...
@@ -239,8 +252,11 @@ Zhongli: Just Zhongli will do.
 Zhongli: I live as a mortal in Liyue Harbor now. I am just one among many who begin work at sunrise, and retire to rest at sundown.
 Zhongli: If we were to consider status and seniority, as Zhongli, I should be respectfully referring to you as Adeptus Xiao.
 Xiao: Heaven forbid!
-Traveler: Adeptus Xiao!
-Xiao: ...Not you too!
+    Option 1:
+        Traveler: Adeptus Xiao!
+        Xiao: ...Not you too!
+    Option 2:
+        Traveler: Let's stop teasing him now.
 Zhongli: Haha, I meant what I said.
 Zhongli: I heard that during the Lantern Rite music festival, you conferred with Streetward Rambler and Cloud Retainer. I take it as you've gained a lot more knowledge about the past?
 Zhongli: The same truth will sound different coming from different people. As more bear witness to a story, feelings and interpretations expand in variety too.
@@ -262,7 +278,10 @@ Paimon: Everyone's gone now...
 Paimon: Paimon always feels a little empty inside when a lively celebration ends...
 Paimon: But at least you'll always stay by Paimon's side!
 Paimon: #No no no, Paimon got it mixed up! Paimon, the best and most distinguished travel guide, will always stay by your side, Traveler!
-Traveler: It's my honor.
+    Option 1:
+        Traveler: It's my honor.
+    Option 2:
+        Traveler: I'm afraid there'll be a lot to ask of you in the future too, most distinguished Paimon.
 Paimon: Hmph, good that you're aware of that!
 Paimon: Xiao, is there anything else you wanna do? We could take you on a tour of Liyue Harbor!
 Xiao: No need.
@@ -271,9 +290,6 @@ Xiao: The events of today occurred so abruptly. I appreciate your kindness.
 Traveler: The feeling's mutual. You don't have to thank me every time.
 Xiao: Okay.
 Xiao: I'll... see you next time, then.
-Traveler: I'm afraid there'll be a lot to ask of you in the future too, most distinguished Paimon.
-Traveler: Let's stop teasing him now.
-Traveler: Thanks for the treat, Director.
 
 ### Additional Talk 3
 
@@ -344,12 +360,19 @@ Xingqiu: Huh!? Guoba would do that? Is he that uncompromising?
 Xingqiu: But now that I think of it, Xiangling told me that Guoba used to be the Stove God...
 Zhongli: Hahaha, it sounds like you've heard the rumors.
 Xiao: ...
-Traveler: You seem pretty quiet today. Is everything okay?
+    Option 1:
+        Traveler: You seem pretty quiet today. Is everything okay?
+    Option 2:
+        Traveler: Not used to being around so many people?
 Xiao: I'm doing fine.
 Xiao: Not long ago... before Lantern Rite, I met an old friend.
 Xiao: Thanks to his help, things have been a lot more stable than before.
-Traveler: That's good to hear. Give everything you don't eat to Paimon.
-Paimon: Right! ...Wait, what?
+    Option 1:
+        Traveler: That's good to hear. Give everything you don't eat to Paimon.
+        Paimon: Right! ...Wait, what?
+    Option 2:
+        Traveler: An old friend?
+        Xiao: You should know him. He's...
 Venti (???): Whoosh... whoosh...
 Traveler: (Huh? The wind?)
 Venti (???): "Seeds of story, brought by the wind..."
@@ -361,9 +384,6 @@ Zhongli: ...
 Hu Tao: Hm? If I'm not mistaken, there's someone knocking at the door.
 Hu Tao: Don't just sit there, Zhongli! Go welcome our guest in!
 Venti (???): No such need! I'm coming in!
-Traveler: An old friend?
-Xiao: You should know him. He's...
-Traveler: Not used to being around so many people?
 
 ### Additional Talk 7
 
@@ -385,8 +405,11 @@ Venti: I met Xingqiu at a light novel convention. Ah, how I wish we'd met sooner
 Venti: I never expected that there'd be another person in this world who could interpret Zhenyu's new novel as thoroughly as I could!
 Xingqiu: Venti, you're being too humble. Considering your poetic talent, your fundamentals are way more impressive.
 Zhongli: Ahem... Could this new guest be Master Xingqiu's friend?
-Traveler: He's my old pal too.
-Venti: Yeah! Xiao, you remember me too, right? We had a chat not long ago.
+    Option 1:
+        Traveler: He's my old pal too.
+        Venti: Yeah! Xiao, you remember me too, right? We had a chat not long ago.
+    Option 2:
+        Traveler: Looks like Xiao knows him, too.
 Xiao: ...Yes, yes.
 Xiao: Monsters become more active than usual as we get closer to Lantern Rite.
 Xiao: I was patrolling Dihua Marsh a few days ago when I happened to run into this... this...
@@ -464,7 +487,10 @@ Xiao: Uhhh...
 Paimon: Uh, all of a sudden, they started proposing toasts! Should... should we...
 Traveler: Xiao!
 Xiao: What's with the urgency!?
-Traveler: Are you done eating? Wanna head out for a walk?
+    Option 1:
+        Traveler: Are you done eating? Wanna head out for a walk?
+    Option 2:
+        Traveler: I ate too much. Could you come take a walk with me?
 Xiao: Sure.
 Hu Tao: Have you two finished eating?
 Hu Tao: It's always nice to have a breath of fresh air after a meal. Helps with digestion.
@@ -473,8 +499,6 @@ Traveler: You're still hungry, right?
 Paimon: Uhh... yeah...
 Traveler: Don't worry, we'll be back soon.
 Paimon: Okay then... Don't forget to come back!
-Traveler: I ate too much. Could you come take a walk with me?
-Traveler: Looks like Xiao knows him, too.
 
 ### Additional Talk 8
 

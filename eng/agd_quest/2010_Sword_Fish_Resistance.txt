@@ -54,8 +54,12 @@ Ookubo Daisuke: Your Excellency, I'll take my leave.
 Teppei: Your Excellency, I couldn't help but overhear Ookubo mention something about... a third party supporter? What was that about?
 Sangonomiya Kokomi: Not long ago, someone wrote to me saying that they wished to support the Watatsumi Island resistance effort. To that end, they also furnished us with a great deal of supplies.
 Sangonomiya Kokomi: Thanks to them, we can finally start recruiting troops on the scale we need to openly confront the Shogun's Army on the front line.
-Traveler: Sounds great.
-Sangonomiya Kokomi: I am not without my doubts about the whole affair... but Watatsumi Island is hardly affluent, and these supplies are a much-needed lifeline for us.
+    Option 1:
+        Traveler: Sounds great.
+        Sangonomiya Kokomi: I am not without my doubts about the whole affair... but Watatsumi Island is hardly affluent, and these supplies are a much-needed lifeline for us.
+    Option 2:
+        Traveler: Can this mystery sponsor be trusted?
+        Sangonomiya Kokomi: I am not without my doubts... but Watatsumi Island is hardly affluent, and these supplies are a much-needed lifeline for us.
 Sangonomiya Kokomi: The sender's conditions were also reasonable. They simply ask us to dedicate ourselves fully to fighting against the Shogun's Army.
 Sangonomiya Kokomi: Whatever other motives they may have, we are at least aligned on this. So let's consider them an anonymous ally.
 Sangonomiya Kokomi: Naturally, we shouldn't let our guard down. If you discover anything out of the ordinary, please report it to me at once.
@@ -87,8 +91,6 @@ Sangonomiya Kokomi: Of course. I'll arrange something and brief you shortly.
 Teppei: #Alright! One successful operation, coming right up! Hehe Traveler, you may have swiped the captaincy of Swordfish II, but watch this space, 'cause this guy's on his way up!
 Paimon: Okay, sure. Well, be careful out there. Don't push yourself too hard.
 Paimon: #Well Traveler, let's move out.
-Traveler: Can this mystery sponsor be trusted?
-Sangonomiya Kokomi: I am not without my doubts... but Watatsumi Island is hardly affluent, and these supplies are a much-needed lifeline for us.
 
 ## Talk 7
 
@@ -122,9 +124,11 @@ Koutoku: I now formally cede the position of captain to you. Swordfish II awaits
 Traveler: Are there any other ronin to deal with?
 Yoshihisa: There are two hard-hit areas. This was one of them, but thanks to you, this area is now secure. Their only remaining stronghold is located at the shallows on the *east side of the island*.
 Yoshihisa: That said, the ones over there are tougher, and there's more of them.
-Traveler: We should go take a look.
+    Option 1:
+        Traveler: We should go take a look.
+    Option 2:
+        Traveler: Kokomi said we need to secure the rearguard.
 Paimon: You got that right. Watatsumi Island is busy fighting the Shogun's Army on the front line. We can't let these guys mess up things at the rear!
-Traveler: Kokomi said we need to secure the rearguard.
 
 ## Talk 12
 
@@ -153,7 +157,10 @@ Koutoku: All right then. We'll deal with them all in one go and rendezvous with 
 ## Talk 16
 
 Paimon: #That should be the last of them... Traveler, you didn't get hurt, did you?
-Traveler: I'm fine.
+    Option 1:
+        Traveler: I'm fine.
+    Option 2:
+        Traveler: Just a little tired.
 Paimon: Cool... Paimon wonders how everything is going with Koutoku and Yoshihisa. Should we go over and check on them?
 Yoshihisa: Captain!
 Koutoku: Captain, the other two camps have been cleared. The entire rearguard of Watatsumi Island is now secure.
@@ -164,13 +171,16 @@ Koutoku: What? No way could you have taken them down without the new captain her
 Yoshihisa: Oh come on, you were just being a coward...
 Paimon: Hey, cut the attitude!
 Paimon: #These guys, honestly... Traveler, forget them, *let's go*!
-Traveler: Just a little tired.
 
 ## Talk 17
 
 Sangonomiya Kokomi: #How was it, Traveler? Did your initiation go smoothly?
-Traveler: Without a hitch.
-Sangonomiya Kokomi: Hehe... I'm sure you're playing it down a little. Koutoku and the others put you through your paces, I presume?
+    Option 1:
+        Traveler: Without a hitch.
+        Sangonomiya Kokomi: Hehe... I'm sure you're playing it down a little. Koutoku and the others put you through your paces, I presume?
+    Option 2:
+        Traveler: There was a short test to begin with.
+        Sangonomiya Kokomi: Mm, yes. That's standard for the team.
 Sangonomiya Kokomi: But with your level of ability, I'm sure it was a walk in the park.
 Sangonomiya Kokomi: Since you're back, I take it that the ronin are now gone from Watatsumi Island?
 Paimon: You bet. We sure showed them who's boss!
@@ -188,21 +198,25 @@ Sangonomiya Kokomi: It's not urgent, so there is no need to leave immediately. I
 Sangonomiya Kokomi: When Teppei returns, you can catch up with him, then pick a day when the weather's good to set sail for the islands.
 Paimon: Is Teppei really gonna be okay?
 Paimon: #He has a tendency to dive into action without thinking things through... Paimon can't help but feel a little worried about him. Oh Traveler, why don't we go wait for him at the *training grounds*?
-Traveler: There was a short test to begin with.
-Sangonomiya Kokomi: Mm, yes. That's standard for the team.
 
 ## Talk 18
 
 Teppei: #Long time no see, Traveler!
 Teppei: So, how's Swordfish II treating you? Getting along okay with everyone?
-Traveler: Well enough.
+    Option 1:
+        Traveler: Well enough.
+    Option 2:
+        Traveler: Eh, they can be a pain in the butt...
 Teppei: Hehe, well you're in luck, because this seasoned veteran's got a few leadership tips for you!
 Teppei: Raising their pay will boost morale, while giving them a few bounties will act as an incentive to go the extra mile. It's also important to maintain strict discipline at all times, and finally... uh, wait, what was it, what was it...
 Paimon: Wow... Where'd ya learn all that, Teppei?
 Teppei: I read it in a novel from the Yae Publishing House... it was a long time ago. You wouldn't believe how many Dango it took to convince my friend to let me borrow it.
 Paimon: You're seriously gonna use a novel to tell people how to run an army? Pretty sure that's called being an "armchair general"...
 Teppei: Haw-haw, that's where you underestimate me! That's right, I'm learning military management on the job now, just like you.
-Traveler: Wait, you mean...
+    Option 1:
+        Traveler: Wait, you mean...
+    Option 2:
+        Traveler: You too?
 Teppei: You'd better believe it! Thanks to my outstanding achievements in the recent naval battle, I've officially been made the captain of my very own special operations unit!
 Teppei: It's a brand new unit: Herring I! What do you think? Pretty awesome, right?
 Teppei: I spoke to Her Excellency and she says our uniforms are in production.
@@ -218,8 +232,6 @@ Paimon: Hah, in your dreams, mister!
 Teppei: *clears throat*... I wouldn't be so confident if I were you. I'm at the top of my game right now. This is my time to shine!
 Paimon: Paimon is so surprised that Teppei's been made a platoon captain... He must have been working super hard.
 Paimon: Let's take a break then go check out these *Archon War ruins*!
-Traveler: You too?
-Traveler: Eh, they can be a pain in the butt...
 
 ## Additional Conversations
 

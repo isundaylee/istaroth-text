@@ -21,8 +21,11 @@ Vile: Traveler? I've heard stories about you. I didn't think I'd be saved by *th
 Paimon: Oh, so you're the...
 Vile: Hahaha... I didn't know how I could pay you back initially, but now, I think I'll just give you the intel for free.
 Vile: People in our circle know how important the network is.
-Traveler: Really?
-Vile: Well, you did save my life.
+    Option 1:
+        Traveler: Really?
+        Vile: Well, you did save my life.
+    Option 2:
+        Traveler: Thank you, friend.
 Paimon: LUCKY!
 Paimon: But... it's lucky for Kaeya, isn't it? He's supposed to pay for the intel...
 Vile: Listen well then, the intel on the Arcadian Ruins...
@@ -32,14 +35,15 @@ Vile: There's also this map that came with it.
 Paimon: Could... this be the X-marks-the-spot?
 Paimon: So the clue is more like a riddle...
 Paimon: #Well, should be a piece of cake for ya, right Traveler? Paimon'll leave it to you then!
-Traveler: Sure thing.
+    Option 1:
+        Traveler: Sure thing.
+    Option 2:
+        Traveler: Sure... I hope.
 Paimon: Well, if you can't solve it, we can ask Kaeya. He seems like a nerd too.
 Vile: I'll leave you the intel so you can review it at any time.
 Paimon: Thanks, Vile.
 Paimon: "Three six-armed giants reside in the city in the lake. Two guard the statue, one, the treasure."
 Paimon: What does that mean? If you don't wanna ask Kaeya, you better figure it out!
-Traveler: Sure... I hope.
-Traveler: Thank you, friend.
 
 ## Talk 4
 
@@ -94,26 +98,37 @@ Paimon: Oh, so it's not a clue. No wonder someone as clever as Paimon wasn't abl
 Kaeya: Hahaha... I'm just joking.
 Paimon: Hmph... Take this more seriously, Kaeya!
 Kaeya: Haha, this riddle is hard to figure out. Clear spring... Is it referring to Springvale?
-Traveler: Maybe when there are people bathing in the spring water?
-Traveler: When the water level changes?
 Kaeya: "Passion rushing through the clear spring..." So when does passion rush through a clear spring?
-Kaeya: Such inappropriate behavior... I feel like it has been creeping into Mondstadt for quite a while now.
-Kaeya: Unless... that's something you two get up to?
-Kaeya: Oh, my apologies. I shouldn't judge what one does in their own time.
-Paimon: What's wrong with you? What kind of people do you think we are?
-Traveler: Hmm... Maybe it's when the water level of the clear spring changes?
-Kaeya: Haha. The thing is, if the "rushing passion" isn't coming from the clear spring, then it's coming from the people bathing.
-Kaeya: Not a bad idea! Like when... there's a waterfall, for example...
-Kaeya: It appears the solution to this enigma relates to the waterfall behind Springvale.
-Kaeya: Only the clear spring that blesses Mondstadt can reveal the passion described here.
 Kaeya: And the "heart" of the waterfall must refer to the cliff on the left side of the waterfall. I noticed it once when I was out on patrol in the area.
 Kaeya: The ending, "cold and alone," probably has something to do with Cryo, which can be controlled by a Vision.
-Traveler: Thanks for the help, Kaeya.
 Kaeya: You should probably *take someone who can manipulate Cryo with you*.
+Traveler: Thanks for the help, Kaeya.
 Kaeya: It's nothing. If a Knight of Favonius couldn't even answer a riddle, how could we be trusted to solve criminal mysteries?
 Paimon: Let's go take a look in Springvale. We'll leave you to your "criminal mysteries"!
 Kaeya: Erm...
 Paimon: No, wait... Leave you to SOLVING your criminal mysteries!
+
+Traveler: Maybe when there are people bathing in the spring water?
+
+Kaeya: Such inappropriate behavior... I feel like it has been creeping into Mondstadt for quite a while now.
+
+Kaeya: Unless... that's something you two get up to?
+
+Kaeya: Oh, my apologies. I shouldn't judge what one does in their own time.
+
+Paimon: What's wrong with you? What kind of people do you think we are?
+
+Kaeya: Haha. The thing is, if the "rushing passion" isn't coming from the clear spring, then it's coming from the people bathing.
+
+Traveler: Hmm... Maybe it's when the water level of the clear spring changes?
+
+Traveler: When the water level changes?
+
+Kaeya: Not a bad idea! Like when... there's a waterfall, for example...
+
+Kaeya: It appears the solution to this enigma relates to the waterfall behind Springvale.
+
+Kaeya: Only the clear spring that blesses Mondstadt can reveal the passion described here.
 
 ## Talk 10
 

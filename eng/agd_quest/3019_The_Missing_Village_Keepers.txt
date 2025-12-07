@@ -94,13 +94,15 @@ Paimon: Ahh, sorry!!!
 Traveler: Sorry.
 Cyno: It's part of being a matra.
 Cyno: The rumor we heard just now seems like a strong lead. But we need to check a few more places.
-Traveler: Maybe we could check the scholars' homes?
+    Option 1:
+        Traveler: Maybe we could check the scholars' homes?
+    Option 2:
+        Traveler: Maybe we'll find something there.
 Cyno: Very well.
 Paimon: Isak!
 Isak: Ah, I'm here!
 Cyno: Where's your grandpa's house?
 Isak: I can take you there. Just follow me.
-Traveler: Maybe we'll find something there.
 
 ## Talk 7
 
@@ -128,8 +130,10 @@ Traveler: I can't handle this scent very well...
 Cyno: Did you first encounter this scent at Tighnari's house?
 Traveler: No, it was in the forest where a scholar was meditating.
 Cyno: In the forest... from a scholar...
-Traveler: Let's keep looking for more clues.
-Traveler: It'd be more efficient if we split up.
+    Option 1:
+        Traveler: Let's keep looking for more clues.
+    Option 2:
+        Traveler: It'd be more efficient if we split up.
 
 ## Talk 9
 
@@ -150,7 +154,10 @@ Isak: But who would come looking for Grandpa? He doesn't have any friends.
 Cyno: We'd have to ask whoever lured him away with the incense.
 Traveler: Lured him away... So that's what happened!
 Paimon: Huh? So you can lure someone away with just a scent?
-Traveler: You get lured away by food all the time.
+    Option 1:
+        Traveler: You get lured away by food all the time.
+    Option 2:
+        Traveler: You fall for that kind of thing all the time, Paimon.
 Paimon: Hey, what's wrong with liking good food!? Everyone's got something they love in life!
 Cyno: Exactly. Most scholars are fond of incense, since the smell supposedly helps them clear their minds and discover new knowledge.
 Cyno: Even deep within the clutches of madness, they still yearn for their knowledge-seeking days, and will follow the scent whenever it presents itself.
@@ -164,7 +171,6 @@ Cyno: It's highly likely.
 Isak: Please, you have to save my grandpa! Grandpa's never done anything wrong. Please help him!
 Paimon: Sounds like we'd better help get him back! Don't you worry, Isak, we won't let whoever took him get away with it!
 Cyno: Let's head to Aaru Village and inform Candace and the others about what we learned here. After that, we'll set off to find the scholars.
-Traveler: You fall for that kind of thing all the time, Paimon.
 
 ## Talk 11
 
@@ -230,7 +236,10 @@ Dehya: Even if a child from the desert got the chance to obtain an Akasha Termin
 Dehya: Geniuses like Setaria are one in a million. The other children never get a single chance to try and rewrite their fate... Even though the Akademiya knows very well that we're humans, just as they are.
 Paimon: That's terrible...
 Dehya: I would tear down this wall with my own hands if I could.
-Traveler: (I understand how she feels...)
+    Option 1:
+        Traveler: (I understand how she feels...)
+    Option 2:
+        Traveler: (But I hope she doesn't do anything drastic here...)
 Paimon: Hey Dehya, uh, you're not thinking about doing anything scary, are you?
 Dehya: Uh, no, not at all. This place just... gets me thinking, that's all.
 Dehya: Besides, we're here to procure information, aren't we?
@@ -239,7 +248,6 @@ Dehya: Shhh!
 Dehya: Caravan Ribat is crawling with people, so be careful what you say. We don't want anyone to find out what we're here for.
 Dehya: Our mission started the moment we arrived here.
 Dehya: Let's go check out the tavern. Maybe we'll find someone I know.
-Traveler: (But I hope she doesn't do anything drastic here...)
 
 ## Talk 14
 
@@ -361,7 +369,10 @@ Candace: Still, it's perfectly understandable why I'm angry — I'm sure everyon
 Delavar: Ah yes, yes M—Ma'am...
 Engur: Please don't beat us anymore... We're gonna die...
 Paimon: Well, looks like Cyno taught her well...
-Traveler: She mastered it really quickly too...
+    Option 1:
+        Traveler: She mastered it really quickly too...
+    Option 2:
+        Traveler: Now she's just as terrifying as he is...
 Candace: You fear death yourselves, yet you do not hesitate to place the lives of others at risk. The absurdity is mind-boggling.
 Candace: The ones you call "mad scholars" are known to us as "the Village Keepers." They are vital members of our community, and some even count them as family...
 Candace: You come here, to my village, and you treat my people as nothing more than stepping stones towards your goal... Tell me, what would you do to you in my position?
@@ -405,7 +416,10 @@ Uncle Anpu: It strikes me now that this secretive character shares the same goal
 Dehya: Which means... it's highly likely that the Akademiya was purposely spreading a false rumor to trick the Radicals into delivering the Village Keepers right into their hands.
 Dehya: Huh, they were the ones who brought them here to begin with... Now they're trying to take them back? We aren't gonna let that happen.
 Cyno: ...Not the Akademiya again.
-Traveler: In Sumeru City, Setaria also mentioned...
+    Option 1:
+        Traveler: In Sumeru City, Setaria also mentioned...
+    Option 2:
+        Traveler: King Deshret's resurrection is just the Akademiya's misinformation campaign.
 Dehya: Just as I thought.
 Dehya: But what could they want with the Village Keepers...?
 Cyno: People are nothing but tools in the eyes of the Akademiya. A change in their plans likely means they've found another way to exploit the scholars.
@@ -417,8 +431,6 @@ Cyno: Yes. Pack up and get ready to leave.
 Dehya: You got it. Candace, I'll let you deal with the Radicals. Leave everything outside the village to us.
 Candace: Alright.
 Paimon: Let's meet back here once everyone's ready!
-Traveler: King Deshret's resurrection is just the Akademiya's misinformation campaign.
-Traveler: Now she's just as terrifying as he is...
 
 ## Talk 98
 

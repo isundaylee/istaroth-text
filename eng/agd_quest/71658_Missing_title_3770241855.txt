@@ -44,11 +44,13 @@ Xiao: So whether I'm here or in the city... it makes no difference.
 
 Keqing: What did you think of this year's fireworks display?
 Keqing: I just hope this festival can be everything that people want it to be.
-Traveler: They were lovely.
+    Option 1:
+        Traveler: They were lovely.
+    Option 2:
+        Traveler: I liked them a lot.
 Keqing: Really? I hope you're not just saying that to reassure me. I want you to be straight with me if you have any suggestions.
 Keqing: Anyway... If you have any time during the festival, take a look around the city. There's a lot to see, but it won't last. So make the most of it.
 Keqing: If only I had a little more free time... I'd love to take you around and show you everything we did to make the city look special during the festival.
-Traveler: I liked them a lot.
 
 ## Talk 6
 
@@ -65,11 +67,13 @@ Chongyun: Uh... I've forgotten too.
 
 Hu Tao: #Well hello there, Traveler! A happy and healthy Lantern Rite to you!
 Hu Tao: And what brings you here on this finest of days? Not business, I presume? So what is it? Need my help?
-Traveler: Just came to see you.
+    Option 1:
+        Traveler: Just came to see you.
+    Option 2:
+        Traveler: Just here to chat with you.
 Hu Tao: Oh, I see! So you just missed me all of a sudden? Oh, you — why'd you have to go and be so thoughtful, hmm? I couldn't possibly bring myself to scare you with a ghost story now!
 Hu Tao: To tell the truth, this Lantern Rite's been a busy one for me. I got Xiangling to give me a few recipes and I've been trying my hand at them. Since you're here, why don't you have a taste...
 Hu Tao: Wh—What's that look for!? ...You're not leaving already are you? C'mon, don't go — I promise they don't taste that bad! And I promise, it's not a prank!
-Traveler: Just here to chat with you.
 
 ## Talk 8
 
@@ -87,16 +91,21 @@ Shenhe: If Lantern Rite could continue indefinitely... that would be even better
 
 Xiangling: Okay, so we have one group booked for two tables for a banquet tomorrow night... and another group who needs their order delivered around the same time... Phew...
 Xiangling: #Oh! Hey, Traveler! Happy Lantern Rite!
-Traveler: ...Are you alright?
-Xiangling: Could be worse, could be worse! Festivals are always a little busy, you know how it is.
+    Option 1:
+        Traveler: ...Are you alright?
+        Xiangling: Could be worse, could be worse! Festivals are always a little busy, you know how it is.
+    Option 2:
+        Traveler: How's Guoba these days?
+        Xiangling: Hehe, aw, thanks for asking! Well, neither the stove nor the atmosphere are dying down any time soon, so Guoba's as happy as can be.
 Xiangling: If you're craving anything off the Wanmin menu, don't worry about being a burden. However busy it gets, I'll always make time to cook for you.
-Traveler: How's Guoba these days?
-Xiangling: Hehe, aw, thanks for asking! Well, neither the stove nor the atmosphere are dying down any time soon, so Guoba's as happy as can be.
 
 ## Talk 10
 
 Yun Jin: #Oh, Traveler! I didn't expect to run into you in Qingce Village, of all places.
-Traveler: I was a little worried when I couldn't find you in the city...
+    Option 1:
+        Traveler: I was a little worried when I couldn't find you in the city...
+    Option 2:
+        Traveler: How have you been lately?
 Yun Jin: Thanks for your concern. I'm touched.
 Yun Jin: A few days ago, Granny Ruoxin invited me to come out here and give a performance. It's mostly old folks and children who live out this way, so I didn't know whether it would be to their tastes. But everyone seemed to enjoy it, so I'm very proud of myself.
 Traveler: How do you know Granny Ruoxin?
@@ -104,17 +113,18 @@ Yun Jin: She was a famous opera singer in her youth, too. She's still got it, if
 Yun Jin: In show business, while you're onstage, you constantly have to be in control of everything you're doing to manage your image. So when you're offstage, it's a relief to finally loosen up a little.
 Yun Jin: I have some excellent tea here. Would you care to stay for some refreshments before you depart?
 Yun Jin: Watching the Xiao Lanterns from the village is quite a unique experience in its own right. If you'd like, I can tell you all about it.
-Traveler: How have you been lately?
 
 ## Talk 11
 
 Yanfei: #Perfect timing, Traveler! Lemme make some space for you... There! Look, isn't that an amazing view? I can never get tired of it.
-Traveler: Do you have time off for the festival?
+    Option 1:
+        Traveler: Do you have time off for the festival?
+    Option 2:
+        Traveler: Are you off work today?
 Yanfei: Yep! I got a letter from my dad — he said all is well with him and mom on their travels, and wished me and Granny a Happy Lantern Rite.
 Yanfei: So typical of my dad. He wrote the exact same thing last year — it's like his go-to Lantern Rite greeting!
 Yanfei: But hey, I guess he doesn't overthink these things, and that's where I get my carefree side from, too. Look at me, I've taken a few days vacation just so I can enjoy the view.
 Yanfei: Oh, this reminds me — I should mention you when I write back! When you meet interesting new people, you've gotta share it with your family.
-Traveler: Are you off work today?
 
 ## Talk 12
 
@@ -147,8 +157,10 @@ Ganyu: I hope everything's going well for you. Don't be like me, worrying all th
 Ganyu: Oh, uh... it's nothing though, just... as you can see, there's a lot going on during the Lantern Rite, and I was originally supposed to head back to Yujing Terrace to assist with the preparations...
 Ganyu: However, Lady Ningguang urged me to take a proper vacation. She said that there's nothing so urgent that it can't wait, and that this festival is a time to reconnect with friends and family...
 Ganyu: But if I really spent this vacation with Cloud Retainer, it wouldn't be long before she started asking me "How has your career developed this year?" "Any new crushes one should know about?"...
-Traveler: Oof, I can imagine...
-Ganyu: Yes... I can handle overtime, but not that...
+    Option 1:
+        Traveler: Oof, I can imagine...
+        Ganyu: Yes... I can handle overtime, but not that...
+    Option 2:
+        Traveler: Seriously though... Got a crush on anyone at the moment?
+        Ganyu: What the— Don't you start that as well!
 Ganyu: Besides that... I do feel better getting some of this off my chest. So... thank you for being here and listening to me.
-Traveler: Seriously though... Got a crush on anyone at the moment?
-Ganyu: What the— Don't you start that as well!

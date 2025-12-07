@@ -80,9 +80,13 @@ Kaedehara Kazuha: Will the rain ever stop?
 Paimon: Kazuha! We found you!
 Kaedehara Kazuha: Good timing. I was just reflecting on my life so far, and I think I'm all up to date.
 Kaedehara Kazuha: So, what do you think of the Kaedehara Clan's bonsai?
-Traveler: Looks like it carries lots of history.
-Kaedehara Kazuha: Old things often carry around some form of regret. The Kaedehara Clan is no exception.
-Kaedehara Kazuha: But that's okay. Partings produce reunions, if not at home then in a distant land.
+    Option 1:
+        Traveler: Looks like it carries lots of history.
+        Kaedehara Kazuha: Old things often carry around some form of regret. The Kaedehara Clan is no exception.
+        Kaedehara Kazuha: But that's okay. Partings produce reunions, if not at home then in a distant land.
+    Option 2:
+        Traveler: Things weren't perfect, but you have nothing to feel ashamed of.
+        Kaedehara Kazuha: Indeed.
 Mona: This mirage is quite fascinating. It presents life like a stage play, with each scene more captivating than the last.
 Kaedehara Kazuha: They say that astrologists have seen it all. So if this mirage intrigued you, that says it was a worthwhile encounter.
 Fischl: Ahem... How fares thy mood?
@@ -90,8 +94,6 @@ Oz: Mein Fräulein inquires as to your present wellbeing, Lord Kazuha, hoping yo
 Paimon: There's no way anyone could be cheerful after reliving all that...
 Kaedehara Kazuha: Haha, you have a point. Thank you all for your concern. Fortunately, all those things are past and gone now.
 Kaedehara Kazuha: When I first saw this bonsai, I thought of the possibility that... I needed to wait for you. Perhaps that was why I had to be here on my own.
-Traveler: Things weren't perfect, but you have nothing to feel ashamed of.
-Kaedehara Kazuha: Indeed.
 
 ## Talk 16
 
@@ -143,7 +145,10 @@ Traveler: Carry on without us, I need a moment with Paimon.
 ## Talk 17
 
 Paimon: So, those strange houses today, huh... And a... a mirage-bonsai? Basically, lots of weird stuff today! Do you think we should tell Venti about it?
-Traveler: I thought you were gonna ask me that.
+    Option 1:
+        Traveler: I thought you were gonna ask me that.
+    Option 2:
+        Traveler: Let's give him a call.
 Dodocommunication Device: Dodoco! Dodoco!
 Dodocommunication Device: Dodoco! Dodoco! Dodoco!
 Paimon: There's no answer... That's weird, why is he ignoring us?
@@ -163,4 +168,3 @@ Mona: Hmm, how can I explain this concept to non-experts... Oh, I know! It's lik
 Mona: Not only that, but the room is getting colder.
 Paimon: Ohh! Paimon gets it now! So you wanna find where that crack is, right?
 Mona: You could say that. I need to see the crack first before deciding what to do next.
-Traveler: Let's give him a call.

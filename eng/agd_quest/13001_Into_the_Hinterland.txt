@@ -61,7 +61,10 @@ Tighnari: His inarticulate speech and bodily tremors indicate psyche disruption.
 Tighnari: We've purified the Ley Line energy over there. Follow this path out and you'll soon see the village.
 Tighnari: When he gets to the village, someone will bring him to Collei for help. I already prepared medication that will return him to normal.
 Karkata (Mechanical Crab): Kolu!
-Traveler: It looks like it's...
+    Option 1:
+        Traveler: It looks like it's...
+    Option 2:
+        Traveler: Expecting something?
 Tighnari: Hmm... So you think you did a "good job" and want a part as your reward?
 Karkata (Mechanical Crab): Kolu!
 Paimon: It's so hard to understand...
@@ -75,7 +78,6 @@ Paimon: Okay, it definitely doesn't understand you.
 Tighnari: It seems like it possesses limited understanding only towards matters related to mechanical components.
 Tighnari: "Help others to get parts." That's probably its thought process. As for why it — rather, its owner — is collecting so many components, I'm not sure.
 Tighnari: It's getting late. Let's set up camp for the night. We'll explore further tomorrow after a night's rest.
-Traveler: Expecting something?
 
 ## Talk 9
 
@@ -87,14 +89,16 @@ Tighnari: Good. It's as I predicted: Elemental power confers a degree of resista
 Paimon: How do you know that?
 Tighnari: I haven't entered the contaminated region for a proper investigation, but I've conducted quite a few controlled experiments.
 Tighnari: My observations during our time here have all but confirmed my hypothesis. Look at these flowers. How are they different from normal?
-Traveler: They're more colorful?
+    Option 1:
+        Traveler: They're more colorful?
+    Option 2:
+        Traveler: They're brighter?
 Tighnari: This flower species is formally known as the "Sumeru Rose," but it is also known as the "Ley Line Lodestar."
 Tighnari: They're sensitive to Ley Lines and emit varying amounts of light in response. Excessive brightness indicates a dangerous level of Ley Line activity in the surrounding area.
 Tighnari: From the looks of things, the Ley Lines around here are already out of control.
 Paimon: You're saying that the contamination here is coming from Ley Lines?
 Tighnari: I can't confirm that right now, but I think that is the case.
 Tighnari: Let's take another look around and see if we can discover more clues.
-Traveler: They're brighter?
 
 ## Talk 10
 
@@ -120,7 +124,11 @@ Tighnari: My guess is that they mistook you for a bird when you flew over, so th
 Tighnari: Never mind. The tent's up, so you two go rest. I'll forage for food.
 Karkata (Mechanical Crab): Kolu!
 Tighnari: Oh? You found some already.
-Traveler: You have my gratitude.
+    Option 1:
+        Traveler: You have my gratitude.
+    Option 2:
+        Traveler: It's more useful than Paimon.
+        Paimon: Hey!
 Karkata (Mechanical Crab): Kolu!
 Paimon: Paimon understands it this time! It wants mechanical parts again!
 Tighnari: Sorry, no part this time.
@@ -139,8 +147,6 @@ Tighnari: Yes.
 Tighnari: Even though most animals fled because of the Ley Lines, we can't completely let down our guard.
 Tighnari: It's settled, then. I'll set up some pest-repelling devices so poisonous insects don't come crawling into the tent.
 Tighnari: Have a good night. Not too good, though.
-Traveler: It's more useful than Paimon.
-Paimon: Hey!
 
 ## Talk 11
 
@@ -149,16 +155,26 @@ Paimon: Hey!
 ## Talk 12
 
 Tighnari: Hm? You're awake earlier than I expected. Did you sleep well?
-Traveler: Very well.
-Tighnari: That's good. I was worried that you two wouldn't be able to sleep, so I used two of my homemade incenses.
-Tighnari: Don't worry, they're made from all-natural ingredients. They have a light fragrance and aren't harmful to the body.
+    Option 1:
+        Traveler: Very well.
+        Tighnari: That's good. I was worried that you two wouldn't be able to sleep, so I used two of my homemade incenses.
+        Tighnari: Don't worry, they're made from all-natural ingredients. They have a light fragrance and aren't harmful to the body.
+    Option 2:
+        Traveler: I'm still a little sleepy.
+        Tighnari: You have to maintain constant vigilance in dangerous places like this. Yawning all the time like that is no good.
+        Tighnari: If you can't stay awake, it's okay. Go sleep some more. I'm not tired yet.
+        Traveler: I can manage.
+        Tighnari: Really? You don't need to push yourself. I'm used to staying up all night because many plant and animal species can only be observed during nighttime.
 Tighnari: Speaking of which, have you seen the crab?
 Tighnari: It was scampering around over there just now, but I don't know where it went.
 Traveler: Are you wary of it?
 Tighnari: So you can tell. My suspicion is less towards the crab, and more directed to its unrevealed owner.
 Tighnari: A Ley Line effluence of this magnitude occurred without any warning. Someone probably disrupted the natural flow of the Ley Lines.
 Tighnari: Until we fully understand the situation, take extra caution. The Akademiya has banned mechanical life form research for years, so the origin of these creatures is very suspect.
-Traveler: Banned research?
+    Option 1:
+        Traveler: Banned research?
+    Option 2:
+        Traveler: The Akademiya previously conducted research on mechanical life forms?
 Tighnari: Topics related to mechanical life forms were popular in the Spantamad for a time. Some of my juniors had also thrown themselves into such research.
 Tighnari: They proposed an intriguing idea: Use our knowledge to create a "new and practical" life form that could help humanity "conquer nature."
 Tighnari: However, no matter which modules or parts are installed, a machine is innately a construct that receives and executes commands. They can never possess self-awareness like us or other living organisms.
@@ -167,7 +183,10 @@ Tighnari: The irony is that the researchers became even more impetuous afterward
 Traveler: Do you not like this area of research?
 Tighnari: Hmm... That's a difficult question to answer.
 Tighnari: I'm interested in the topic of mechanical life, but I don't like the researchers' attitudes.
-Traveler: Anything in particular, or...?
+    Option 1:
+        Traveler: Anything in particular, or...?
+    Option 2:
+        Traveler: Because the "conquest of nature" is bad?
 Tighnari: It's just my personal opinion.
 Tighnari: My ancestors and the Valuka Shuna of the desert coexisted together and supported one another. The bloodline of my people was born from this symbiotic relationship.
 Tighnari: So to me, all life is important. To understand life, you must first respect it.
@@ -186,8 +205,12 @@ Karkata (Mechanical Crab): Kelukulo.
 Tighnari: #Alright, suit yourself. Oh and thanks for the coffee, but I'm about to go to sleep. Leave it with Traveler.
 Tighnari: The night watch is yours. Stay safe.
 Paimon: #S—Sorry, Traveler, Paimon slept through the entire night...
-Traveler: It's okay.
-Paimon: Really? You're not mad?
+    Option 1:
+        Traveler: It's okay.
+        Paimon: Really? You're not mad?
+    Option 2:
+        Traveler: Your punishment is solo watch duty.
+        Paimon: Hehe. Don't worry, Paimon will be sure to stay awake next time!
 Tighnari: #Good morning, Traveler and Paimon. Quick question, do you feel off at all?
 Traveler: I'm a little dizzy.
 Tighnari: Me too. The farther in we go, the closer we get to the source of the Ley Line effluence. We'll be heading out earlier today. I'll take down the tent.
@@ -197,15 +220,6 @@ Tighnari: Also, retrieve the pest-repelling devices from last night. We don't wa
 Paimon: Got it! Paimon will take care of the fire!
 Traveler: I'll retrieve the pest-repelling devices.
 Tighnari: Alright. Let's meet back here later.
-Traveler: Your punishment is solo watch duty.
-Paimon: Hehe. Don't worry, Paimon will be sure to stay awake next time!
-Traveler: Because the "conquest of nature" is bad?
-Traveler: The Akademiya previously conducted research on mechanical life forms?
-Traveler: I'm still a little sleepy.
-Tighnari: You have to maintain constant vigilance in dangerous places like this. Yawning all the time like that is no good.
-Tighnari: If you can't stay awake, it's okay. Go sleep some more. I'm not tired yet.
-Traveler: I can manage.
-Tighnari: Really? You don't need to push yourself. I'm used to staying up all night because many plant and animal species can only be observed during nighttime.
 
 ## Talk 13
 

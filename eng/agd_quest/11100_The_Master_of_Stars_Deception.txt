@@ -10,12 +10,14 @@
 ## Talk 2
 
 Paimon: #Hey, Traveler... Is it just Paimon, or is there something weird about those hilichurls over there?
-Traveler: They do give off a sinister energy.
-Paimon: Paimon thinks so too. We've seen plenty of hilichurls before, and they're always the bad guys... but this is different.
+    Option 1:
+        Traveler: They do give off a sinister energy.
+        Paimon: Paimon thinks so too. We've seen plenty of hilichurls before, and they're always the bad guys... but this is different.
+    Option 2:
+        Traveler: They seem unusually agitated.
+        Paimon: Right! Maybe it has something to do with that sorta... dark energy they're giving off?
 Paimon: Uh-oh, this is right by the Wangshu Inn, too. The guests are in great danger!
 Paimon: #Now that we've seen it, if we don't do anything about it, Paimon will feel really guilty... Let's go take care of them, Traveler!
-Traveler: They seem unusually agitated.
-Paimon: Right! Maybe it has something to do with that sorta... dark energy they're giving off?
 
 ## Talk 3
 
@@ -26,27 +28,31 @@ Paimon: Right! Maybe it has something to do with that sorta... dark energy they'
 Paimon: These super evil hilichurls are more difficult to defeat than the usual kind, too.
 Paimon: Hey, seems like people are gathering over there... Wonder what they're doing?
 Paimon: Whoa, see that guy in the mask? He—He scared off all the hilichurls!
-Traveler: Could he be an adeptus?
+    Option 1:
+        Traveler: Could he be an adeptus?
+    Option 2:
+        Traveler: Looked like he was using some sort of adeptus art...
 Paimon: Oh, you mean like Xiao? Now that you mention it, this guy's mask is kinda similar to the one that he wears...
 Paimon: But the magic he was using seemed even more adeptus-y than Xiao's. Shall we go say hi?
-Traveler: Looked like he was using some sort of adeptus art...
 
 ## Talk 5
 
 Paimon: Ahem. Hello! Allow us to introduce ourselves, this—
 Starsnatcher (???): Please, if you're here to thank me, there's no need. Cleansing the world of evil is the duty of the adepti. Think nothing of it — One certainly doesn't.
 Starsnatcher (???): ...Wait, who are you? One had assumed you were followers, but on closer inspection it seems that we have not met.
-Traveler: We're just travelers passing by.
-Paimon: #My name's Paimon! And this is my sidekick, Traveler.
-Starsnatcher (???): One sees. One, too, shall introduce oneself, for it is good manners to comply.
+    Option 1:
+        Traveler: We're just travelers passing by.
+        Paimon: #My name's Paimon! And this is my sidekick, Traveler.
+        Starsnatcher (???): One sees. One, too, shall introduce oneself, for it is good manners to comply.
+    Option 2:
+        Traveler: We are following the trail of the adepti.
+        Paimon: #My name's Paimon! And this is my sidekick, Traveler.
+        Starsnatcher (???): Then it is right that our paths coincide. I, too, shall introduce myself, for with good manners to comply.
 Starsnatcher (???): Ahem... The one before you is the adeptus, Master of Stars, though one is better known to one's followers as "Starsnatcher."
 Starsnatcher: One descended from one's mountain abode to cleanse the world of evil, whereupon fate saw fit that our paths should cross. Now... tell me that which you wish for.
 Paimon: Our wishes? Paimon thought that the adepti in Liyue were just really good in battle... You mean you can grant people's wishes, too?
 Starsnatcher: Hah... There are different levels of adepti... Are not the stars loftier than the mountains, clouds, and moon?
 Starsnatcher: Yet, it is unbecoming of an adepti to boast of one's powers. One would have you first speak to one's followers, and only then make your verdict.
-Traveler: We are following the trail of the adepti.
-Paimon: #My name's Paimon! And this is my sidekick, Traveler.
-Starsnatcher (???): Then it is right that our paths coincide. I, too, shall introduce myself, for with good manners to comply.
 
 ## Talk 6
 
@@ -96,37 +102,48 @@ Paimon: Ahh... Nope, it makes them way more complicated... But basically, what y
 Starsnatcher: Indeed. You are perceptive, my diminutive friend.
 Paimon: Okay. Um, so we also have one other question...
 Starsnatcher: Oh? You need but ask.
-Traveler: Why do you wear a mask?
+    Option 1:
+        Traveler: Why do you wear a mask?
+    Option 2:
+        Traveler: Go on, take it off, lemme see...
+        Paimon: Hey! Isn't that a bit inappropriate?
+        Starsnatcher: Hm. Indeed, it would be inappropriate for one to remove one's mask.
 Starsnatcher: One... wanders among mortals, doing good and cleansing evil. One reveals not one's visage to avoid further disturbance to this realm than is necessary.
 Paimon: Ah, got it.
 Starsnatcher: Now, then — what are your wishes?
-Traveler: I want to know where my sibling is.
-Starsnatcher: Hmm... One senses that a tragic tale lies behind this wish...
+    Option 1:
+        Traveler: I want to know where my sibling is.
+        Starsnatcher: Hmm... One senses that a tragic tale lies behind this wish...
+    Option 2:
+        Unknown Role (TALK_ROLE_NONE): I want power rivaling that of the gods.
+        Starsnatcher: Indeed, a great many obstacles may be overcome given commensurate power. But one cannot but wonder — what grudge have you against the gods?
+    Option 3:
+        Traveler: I'd like to get rich quick!
+        Paimon: #Now hold on a second! What about your sister!?
+        Starsnatcher: This is a common mortal sentiment. That you hail not from Liyue is manifest in your appearance, but one senses their materialistic influence upon you.
 Starsnatcher: So be it. This wish is not beyond one's power to grant...
 Starsnatcher: But first, one must see some proof of your... faith.
 Paimon: ...What's that supposed to mean?
 Starsnatcher: The way of the adepti cannot be grasped from words alone. One must seek... the profound truths that lie beyond them... Should you fail to perceive one's hidden meaning, then regrettably, one may lend you no aid.
 Paimon: What do we do? Paimon doesn't understand him at all!
-Traveler: I think he wants us to sweeten the deal...
+    Option 1:
+        Traveler: I think he wants us to sweeten the deal...
+    Option 2:
+        Traveler: I think he wants some Mora...
 Paimon: Oh, that's right! Some of those believers mentioned that they had to pay a pretty sum for the adeptus' help, didn't they?
 Paimon: Well Paimon's not forking over any Mora, and we don't have anything valuable enough on us...
 Paimon: You don't even have a Vision...
-Traveler: I don't think people put Visions up for sale.
+    Option 1:
+        Traveler: I don't think people put Visions up for sale.
+    Option 2:
+        Traveler: No need to rub it in...
 Paimon: Hey! Why don't we make him a tasty snack? No one can resist the temptation of good food, can they?
-Traveler: No one who shares your values, for sure...
+    Option 1:
+        Traveler: No one who shares your values, for sure...
+    Option 2:
+        Traveler: Nom! Sounds good.
 Paimon: Yep, a tasty snack is sure to work! Hehehe...
 Paimon: Why don't we head over to Wanwen Bookhouse and see if they've got any new recipes in?
-Traveler: Nom! Sounds good.
-Traveler: No need to rub it in...
-Traveler: I think he wants some Mora...
-Unknown Role (TALK_ROLE_NONE): I want power rivaling that of the gods.
-Starsnatcher: Indeed, a great many obstacles may be overcome given commensurate power. But one cannot but wonder — what grudge have you against the gods?
-Traveler: I'd like to get rich quick!
-Paimon: #Now hold on a second! What about your sister!?
-Starsnatcher: This is a common mortal sentiment. That you hail not from Liyue is manifest in your appearance, but one senses their materialistic influence upon you.
-Traveler: Go on, take it off, lemme see...
-Paimon: Hey! Isn't that a bit inappropriate?
-Starsnatcher: Hm. Indeed, it would be inappropriate for one to remove one's mask.
 
 ## Additional Conversations
 

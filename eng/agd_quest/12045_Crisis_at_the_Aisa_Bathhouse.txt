@@ -52,7 +52,10 @@ Yumemizuki Mizuki: Sorry to keep you waiting. I have to keep our staff calm to e
 Yumemizuki Mizuki: The panicky little girl is Hyakujitsuhaku Shion, and the lazy lady is Shiba Murasaki. They're both baku, just like me.
 Paimon: Wait... so the older-looking one is actually younger? And the younger-looking one is older?
 Yumemizuki Mizuki: That's right. How we choose to appear is just a matter of personal preference. It's more reflective of our personality than our age.
-Traveler: Come on, Paimon. We've seen weirder stuff than this.
+    Option 1:
+        Traveler: Come on, Paimon. We've seen weirder stuff than this.
+    Option 2:
+        Traveler: Wow! I never would have guessed!
 Yumemizuki Mizuki: Anyway, enough about them — back to you two. Per the terms of the VIP pass, you're entitled to free use of all our services: so the spa, the fine dining, and psychological consultancy.
 Yumemizuki Mizuki: I would recommend starting with the psychological consultancy. Between me and you, one of the steps involves getting your bad dreams eaten.
 Yumemizuki Mizuki: #Since I ate one of Traveler's good dreams by accident, this seemed like the best way to make amends.
@@ -77,7 +80,6 @@ Traveler: Was all that just so you could be paired with me?
 Yumemizuki Mizuki: Don't get me wrong, Paimon is genuinely better suited to Shion. But in all honesty — yes, I had my own reasons for wanting to treat you myself.
 Yumemizuki Mizuki: Your psychology is so unique. I just had to investigate further to satisfy my own curiosity.
 Yumemizuki Mizuki: Please, come with me.
-Traveler: Wow! I never would have guessed!
 
 ## Talk 3
 
@@ -153,13 +155,20 @@ Yumemizuki Mizuki: It's quite a bit more complicated than that. It deals with pe
 Paimon: That sounds super mysterious...
 Yumemizuki Mizuki: ...Sorry, that probably made no sense at all. Anyway, don't worry about the details. For your purposes, Paimon, just think of it as Shion gulped your dreams away.
 Yumemizuki Mizuki: #How are you feeling, Traveler?
-Traveler: Just like Paimon described.
+    Option 1:
+        Traveler: Just like Paimon described.
+    Option 2:
+        Traveler: Cozy.
 Yumemizuki Mizuki: Really? Hmm... I still think there's more work to be done...
 Paimon: What do you mean?
 Yumemizuki Mizuki: You have quite a reputation for resilience and positivity. So, I expected to find very few negative emotions in you at all.
 Yumemizuki Mizuki: But when I was deep in your subconscious earlier, the sheer weight of the emotions hidden there was overwhelming...
-Traveler: Eh, I'm sure it's fine...
-Yumemizuki Mizuki: Well, even if you've buried those feelings deep enough to hide them from yourself, you can't hide them from a trained psychologist.
+    Option 1:
+        Traveler: Eh, I'm sure it's fine...
+        Yumemizuki Mizuki: Well, even if you've buried those feelings deep enough to hide them from yourself, you can't hide them from a trained psychologist.
+    Option 2:
+        Traveler: I... do have quite a lot of baggage from my past...
+        Yumemizuki Mizuki: Yes. You certainly do.
 Yumemizuki Mizuki: But that's not what concerns me the most. Despite all your negative emotions, I couldn't find a single bad dream. So I just gave your mood a boost for now.
 Paimon: #Huh. Well... maybe {F#s}he's just an eternal optimist at heart?
 Yumemizuki Mizuki: Optimist or not, everyone has bad dreams. Maybe they're just hidden even deeper in your mind... You're a unique case, as I suspected.
@@ -173,9 +182,6 @@ Paimon: You know, this place provides a really great service. It's such a shame 
 Yumemizuki Mizuki: Don't start worrying about our bottom line again, or my work so far will count for nothing... Look — as long as we keep providing a great customer experience, we're sure to attract more business eventually.
 Paimon: Hmm... If you say so.
 Yumemizuki Mizuki: #I think Traveler's recovered from the therapy session now. Let's head to the hot springs.
-Traveler: I... do have quite a lot of baggage from my past...
-Yumemizuki Mizuki: Yes. You certainly do.
-Traveler: Cozy.
 
 ## Talk 7
 
@@ -188,7 +194,10 @@ Traveler: You know each other?
 Yae Miko: She never mentioned? Interesting... We've known each other since before I became the Guuji. I've told her all about you... but it sounds like she's forgotten all about me.
 Yumemizuki Mizuki: #You'll have to forgive me. I just didn't want to scare Traveler off... and "Hi, I'm Miko's friend" seemed like a sure-fire way to do that.
 Paimon: Pff...
-Traveler: Truth...
+    Option 1:
+        Traveler: Truth...
+    Option 2:
+        Traveler: I wouldn't go that far...
 Yae Miko: Ah, I've missed your way with words.
 Yumemizuki Mizuki: So, Lady Guuji. To what do we owe the honor?
 Yae Miko: Why, I simply came to see the business that my dear friend has invested in... Oh, and also to urge you to sell your shares before their value plummets to nothing.
@@ -205,7 +214,10 @@ Yae Miko: I heard people have been lining up since the early morning for Emura I
 Yumemizuki Mizuki: ...Surely you know I'm not going to quit?
 Yae Miko: *sigh* ...True, very true.
 Paimon: ...So that's it? You're just gonna leave?
-Traveler: Aren't you two friends?
+    Option 1:
+        Traveler: Aren't you two friends?
+    Option 2:
+        Traveler: Aren't you going to help?
 Yae Miko: Oh, I'd love to help, little one. But I don't want to upset my old friend.
 Paimon: Miko's acting all mysterious again...
 Yumemizuki Mizuki: I understand why she doesn't want to help. The two of us are technically competitors, after all.
@@ -213,7 +225,10 @@ Paimon: Huh?
 Yumemizuki Mizuki: Light novels are one way for people to pursue happiness in their free time. So are hot springs, and so is therapy.
 Yumemizuki Mizuki: Miko and I disagree quite significantly over the question of how to make people happy.
 Paimon: Paimon is so confused by your friendship...
-Traveler: It's definitely a quirky relationship.
+    Option 1:
+        Traveler: It's definitely a quirky relationship.
+    Option 2:
+        Traveler: It's definitely a complicated relationship.
 Paimon: Paimon's curious though. After today, it's hard to believe that anyone could offer a better therapy service than the yumekui-baku. Which begs the question...
 Paimon: Who is this Emura Ichigensai guy, anyway?
 Yumemizuki Mizuki: ...Something of a mystery. I tried to look into his background when he first started poaching my customers, but I couldn't find anything.
@@ -222,14 +237,13 @@ Paimon: Well, we at least know where he is today though, right? Miko happened to
 Yumemizuki Mizuki: That's true... But I'm sure he'll find a way to avoid me again if I go looking for him...
 Paimon: Then... why don't we go instead? We can pose as potential customers to get information out of him!
 Yumemizuki Mizuki: As I keep reminding you, this is my problem, not yours...
-Traveler: Unless the Aisa Bathhouse ends up having to close...
+    Option 1:
+        Traveler: Unless the Aisa Bathhouse ends up having to close...
+    Option 2:
+        Traveler: ...In which case, it becomes our problem too.
 Paimon: Exactly. You provide an amazing service here, and we want all our friends to experience it as well.
 Yumemizuki Mizuki: Huh. Well, now it just seems rude if I reject your help... In return, all I can offer is an even better service on your next visit.
 Paimon: Sure thing! Just leave this to us!
-Traveler: ...In which case, it becomes our problem too.
-Traveler: It's definitely a complicated relationship.
-Traveler: Aren't you going to help?
-Traveler: I wouldn't go that far...
 
 ## Talk 8
 
@@ -240,11 +254,13 @@ Paimon: Oh, okay...
 Paimon: Ninety-seven... What number are you up to so far?
 Kanai: Fifty-three. Be patient. I'll call your number when it's your turn.
 Paimon: Geez, what a charmer... Looks like we're in for a long wait, huh?
-Traveler: Shall I knock him out, so we can barge straight in?
-Paimon: Sounds kinda therapeutic in its own way... But we don't really have a good excuse to resort to violence here. And we definitely don't wanna scare off our target.
-Paimon: Why don't we pass the time by talking to some of his other patients? It looks like there's a few of them standing over there.
-Traveler: Shall we talk to the other patients while we wait?
-Paimon: Hey, good idea! Hmm, it looks like there's a few of them over there. Let's go see what we can find out.
+    Option 1:
+        Traveler: Shall I knock him out, so we can barge straight in?
+        Paimon: Sounds kinda therapeutic in its own way... But we don't really have a good excuse to resort to violence here. And we definitely don't wanna scare off our target.
+        Paimon: Why don't we pass the time by talking to some of his other patients? It looks like there's a few of them standing over there.
+    Option 2:
+        Traveler: Shall we talk to the other patients while we wait?
+        Paimon: Hey, good idea! Hmm, it looks like there's a few of them over there. Let's go see what we can find out.
 
 ## Talk 9
 
@@ -264,7 +280,10 @@ Umihiko: Meanwhile, Aisa Bathhouse boasts about their strange and mysterious met
 Susukida: Exactly. Overpriced and ineffective. But counselling from Emura Ichigensai? I can't get enough! I know I'm done after today, but I'd take any excuse to keep coming back!
 Umihiko: Me too... Probably see you tomorrow, then.
 Paimon: Whatever the truth of the matter is, Paimon is starting to seriously dislike these guys!
-Traveler: Stay calm, Paimon.
+    Option 1:
+        Traveler: Stay calm, Paimon.
+    Option 2:
+        Traveler: Remember, we're here to gather information.
 Paimon: Fine... Yeah, so we're mostly here to see what all the fuss is about. You guys seem to be experts by now — is there anything we need to do to prepare for our session?
 Susukida: No, you don't need to do anything.
 Susukida: Just show up, take a seat, and he takes care of the rest. I remember he lit some incense... it smelled wonderful, and instantly relaxed me...
@@ -273,7 +292,10 @@ Susukida: I don't know why I lose my temper so easily... I'm pretty messed up, r
 Emura Chuuya (Emura Ichigensai): Yes, in the sense that all negative emotions are defects of the mind. But I can remove these defective feelings, leaving your mind healthy, whole, and free of distressing thoughts.
 Emura Chuuya (Emura Ichigensai): Now, receive my guidance...
 Susukida: I don't actually remember the guidance... But anyway, it clearly worked. I guess whatever he said disappeared from my mind and took my problems along with it.
-Traveler: Sounds a little unbelievable.
+    Option 1:
+        Traveler: Sounds a little unbelievable.
+    Option 2:
+        Traveler: How can we be sure it works?
 Susukida: So rude! Your counselling session will change your mind — in more ways than one!
 Paimon: We're only being cautious. What's wrong with that? You said it yourselves, the whole reason everyone's coming to this guy is because they're worried about getting scammed out of their Mora.
 Umihiko: That's a fair point. You just need some reassurance, right? In that case... I can let you in on a little secret.
@@ -285,13 +307,13 @@ Umihiko: So you can rest assured that whatever treatment you get from Emura Ichi
 Paimon: Huh... What a ridiculous story...
 Umihiko: Doubt it all you want! I heard it straight from my relative, who knows him personally.
 Paimon: What should we do now? We may have burned our bridges with these two...
-Traveler: At least we got some information.
+    Option 1:
+        Traveler: At least we got some information.
+    Option 2:
+        Traveler: Now to meet the man himself.
 Paimon: Yeah! There's still a lot of people ahead of us, though... Why don't you take a rest while Paimon keeps watch? Just like how we do it out on the road.
 Black Screen Text: The long wait makes you sleepy. Before you know it, you've fallen asleep...
 Black Screen Text: You detect a faint fragrance, and begin following it to its source...
-Traveler: Now to meet the man himself.
-Traveler: How can we be sure it works?
-Traveler: Remember, we're here to gather information.
 
 ## Talk 10
 
@@ -389,7 +411,10 @@ Shiba Murasaki: He hasn't shown his face here since.
 Paimon: Whoa...
 Shiba Murasaki: Anyway, now everyone's had a look at his record — do we think there's any chance that this guy and Emura Ichigensai are the same person?
 Shiba Murasaki: Because it sounds to me like after he didn't get what he wanted, he decided to have his revenge by lying to our customers and getting them to leave.
-Traveler: That makes sense!
+    Option 1:
+        Traveler: That makes sense!
+    Option 2:
+        Traveler: Is it really that simple?
 Yumemizuki Mizuki: Bad dreams are formed from a buildup of negative emotions in the subconscious. You can't simply trick people into not having them anymore. If Murasaki was right, then surely they'd have seen his lies for what they are by now...
 Shiba Murasaki: There's no point hemming and hawing! Let's report this guy to the Tenryou Commission for fraudulent business practices. If he can complain, so can we!
 Susukida: Is anyone there?
@@ -409,7 +434,10 @@ Yumemizuki Mizuki: Now then. You only got part way through the VIP experience la
 Paimon: Oh, true! How could Paimon forget about that? Especially the snacks!
 Black Screen Text: After a dip in the hot springs and some delicious snacks, you and Paimon feel wonderfully relaxed.
 Paimon: Wow, Paimon feels incredible now. Nothing beats the complete service package!
-Traveler: We should go talk to Mizuki about booking our next appointment.
+    Option 1:
+        Traveler: We should go talk to Mizuki about booking our next appointment.
+    Option 2:
+        Traveler: Definitely coming back again.
 Paimon: Agreed! Although, Paimon didn't notice her inside just now. What could she be doing out at this hour? Hmm... Let's ask around.
 Paimon: Hey there, Mr. Aikawa. Do you have any idea where Mizuki went?
 Aikawa Susumu: Oh, you're looking for Mizuki? She actually tends to disappear for a while around this time every evening. It's the one part of the day where she gets to relax herself.
@@ -418,8 +446,6 @@ Paimon: She takes the evenings to "relax," huh...
 Traveler: Like the first time we met her...
 Paimon: She probably tells people she's relaxing, but actually she's digesting the bad dreams, right? Hope she's not having any digestive trouble...
 Paimon: Remember the place from last time? Let's head there and check on her.
-Traveler: Definitely coming back again.
-Traveler: Is it really that simple?
 
 ## Talk 15
 
@@ -450,7 +476,10 @@ Traveler: ...
 Black Screen Text: As you imagine forgetting your pain and longing, the joy of reunion that you are looking forward to one day disappears along with it.
 Black Screen Text: As you imagine letting go of your hopelessness, you also feel your fighting spirit slip through your fingers.
 Black Screen Text: As you imagine being free from your painful regrets, the formative experiences of your journey lose their roots.
-Traveler: But... if I forget all of that...
+    Option 1:
+        Traveler: But... if I forget all of that...
+    Option 2:
+        Traveler: Would I even still be me?
 Yumemizuki Mizuki: ...You really are different from other people.
 Yumemizuki Mizuki: Discovering what troubles people is easy for me — even in your case. But although I see your troubles clearly, I still don't completely understand you.
 Yumemizuki Mizuki: *sigh*... Thanks for checking in on me. As a psychologist, I know how to take care of myself, but you showing that you care is still appreciated.
@@ -459,7 +488,6 @@ Paimon: Alright. Goodnight!
 Traveler: Goodnight.
 Yumemizuki Mizuki: Bye for now. If you still want to book another appointment tomorrow, make sure to come see me early.
 Yumemizuki Mizuki: #Traveler, if I really could make you forget all of your troubles for good, would you want me to try?
-Traveler: Would I even still be me?
 
 ## Additional Conversations
 

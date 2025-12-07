@@ -9,7 +9,10 @@ Chalmet: We meet again, Honorary Senior Researcher. I apologize... My... my lowe
 Chalmet: I was planning to move a box over here and organize the materials inside.
 Chalmet: I... I never imagined the box would be so heavy, and I couldn't quite keep my footing when I lifted it, so all the strain went straight to my waist...
 Chalmet: Now I... It feels like my waist is broken, ow...
-Traveler: Need me to carry you to a doctor?
+    Option 1:
+        Traveler: Need me to carry you to a doctor?
+    Option 2:
+        Traveler: I can call someone for you.
 Chalmet: No, no need... I've hurt my lower back before, I just need to rest a bit...
 Paimon: Paimon wonders just how many files are inside, for it to be this heavy...
 Chalmet: There must be... Well, a ton of files. After all, the Institute once promoted a style of work called "Document Everything" for some time.
@@ -19,10 +22,11 @@ Chalmet: And because there were so many documents, every single office was force
 Paimon: So everything had to be written down? That sounds really annoying...
 Chalmet: It was! Later, that style was slowly phased out, and only implemented to a limited extent.
 Chalmet: But let's not discuss that now... Honorary Senior Researcher, can you help me handle the file box? Though my waist hurts, I still need to organize the files inside...
-Traveler: Sure...
-Traveler: You just recuperate.
-Chalmet: No need to worry, I only need my hands to organize documents, I won't hurt my lower back further.
-Traveler: I can call someone for you.
+    Option 1:
+        Traveler: Sure...
+    Option 2:
+        Traveler: You just recuperate.
+        Chalmet: No need to worry, I only need my hands to organize documents, I won't hurt my lower back further.
 
 ## Talk 2
 
@@ -73,13 +77,15 @@ Chalmet: *sigh* When will the Institute finally assign me an assistant...
 ## Talk 12
 
 Chalmet: You... Why did you bring both boxes of files over?
-Traveler: I forgot which one it was!
-Chalmet: Pffft... I guess that's just how you roll. Thanks! Both boxes have files I need to organize, anyway.
+    Option 1:
+        Traveler: I forgot which one it was!
+        Chalmet: Pffft... I guess that's just how you roll. Thanks! Both boxes have files I need to organize, anyway.
+    Option 2:
+        Traveler: I thought you would need them both.
+        Chalmet: Your instincts are accurate as ever. Both boxes do indeed contain files I need to organize.
 Chalmet: Since you've brought them both over, I should get going now. This is going to be a huge task!
 Chalmet: Please, take these, and thank you again for your help, Honorary Senior Researcher.
 Chalmet: *sigh* When will the Institute finally assign me an assistant...
-Traveler: I thought you would need them both.
-Chalmet: Your instincts are accurate as ever. Both boxes do indeed contain files I need to organize.
 
 ## Talk 13
 

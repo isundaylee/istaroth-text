@@ -10,14 +10,16 @@ Beidou: Your bones are still holding you up, then?
 Traveler: *How do you like it here?*
 Beidou: Yeah, pretty good! Feels nice to sit and relax in such a scenic place!
 Beidou: But...
-Traveler: But what?
-Beidou: But you know that I'll be craving the billowing waves of the open ocean before too long! It's where I belong.
-Beidou: The churning ocean waves are the best lullaby.
+    Option 1:
+        Traveler: But what?
+        Beidou: But you know that I'll be craving the billowing waves of the open ocean before too long! It's where I belong.
+        Beidou: The churning ocean waves are the best lullaby.
+    Option 2:
+        Traveler: But you miss the sea already?
+        Beidou: Haha! You get me!
+        Beidou: Days spent sailing through a storm, conquering the surging waters... yeah, those are happy days!
 Beidou: Oh, don't get me wrong. I'm thrilled that you invited me here.
 Beidou: I'll have to return the favor sometime by hosting you onboard the ship!
-Traveler: But you miss the sea already?
-Beidou: Haha! You get me!
-Beidou: Days spent sailing through a storm, conquering the surging waters... yeah, those are happy days!
 
 ## Talk 2
 
@@ -25,17 +27,19 @@ Traveler: *Would you like to have a chat with me?*
 Beidou: Sure! I'm down to chat about anything!
 Beidou: But, you must be a little weary of hearing about my sea travels from all the stories people tell?
 Beidou: Let's change it up! Tell me about your adventures!
-Traveler: Um... I fought a dragon once.
-Beidou: Whoa, nice! How big was it?
-Beidou: Hahaha, incredible!
-Beidou: So I fought a sea dragon, and you fought a sky dragon.
-Beidou: If we went adventuring together, we'd be invincible!
-Traveler: Most of them involve fighting hilichurls...
-Beidou: How's that? I certainly don't see many of those out at sea!
-Beidou: But adventure isn't just about how many storms you've survived in the past — it's about knowing that there are plenty more storms up ahead, and you don't know what they've got in store for ya!
-Beidou: Hey, that sounded pretty profound now that I think about it...
+    Option 1:
+        Traveler: Um... I fought a dragon once.
+        Beidou: Whoa, nice! How big was it?
+        Beidou: Hahaha, incredible!
+        Beidou: So I fought a sea dragon, and you fought a sky dragon.
+        Beidou: If we went adventuring together, we'd be invincible!
+        Traveler: Most of them involve fighting hilichurls...
+        Beidou: How's that? I certainly don't see many of those out at sea!
+        Beidou: But adventure isn't just about how many storms you've survived in the past — it's about knowing that there are plenty more storms up ahead, and you don't know what they've got in store for ya!
+        Beidou: Hey, that sounded pretty profound now that I think about it...
+    Option 2:
+        Traveler: Probably bigger than your ship.
 Beidou: Haha, this was a great chat! And now, a toast! Cheers!
-Traveler: Probably bigger than your ship.
 
 ## Talk 3
 
@@ -44,18 +48,20 @@ Beidou: What do you think? I wanna take you out to sea on an adventure, of cours
 Beidou: I can teach you how to steer a ship if you're interested.
 Beidou: You know, no two waves are ever the same...
 Beidou: If you're free, it'd be a shame not to take the opportunity to show you 'round the seas.
-Traveler: I'll need to prepare.
-Beidou: Sure thing. Just say the word.
-Beidou: Oh, uh... And if you've got any unfinished business, best take care of that first then call me when you're done.
-Beidou: One voyage takes about one and a half years, but that's just a rough estimate.
-Beidou: So, you should tie up any loose ends before we set sail!
+    Option 1:
+        Traveler: I'll need to prepare.
+        Beidou: Sure thing. Just say the word.
+        Beidou: Oh, uh... And if you've got any unfinished business, best take care of that first then call me when you're done.
+        Beidou: One voyage takes about one and a half years, but that's just a rough estimate.
+        Beidou: So, you should tie up any loose ends before we set sail!
+    Option 2:
+        Traveler: I'm worried that I'll get seasick.
+        Beidou: Don't be afraid. Don't let that hold you back.
+        Beidou: You'll get used to the ocean's movements soon enough. If you're really struggling, I have some medicinal herbs.
+        Beidou: I guarantee you, it'll be fine. Trust me on this.
+        Beidou: It'd be a pity if you missed out on a voyage across the seas because of something like that!
 Beidou: Anyway — let me know when you're done prepping, and we'll pick a date to set off!
 Beidou: The thought of you and I conquering the seas together... I can't wait!
-Traveler: I'm worried that I'll get seasick.
-Beidou: Don't be afraid. Don't let that hold you back.
-Beidou: You'll get used to the ocean's movements soon enough. If you're really struggling, I have some medicinal herbs.
-Beidou: I guarantee you, it'll be fine. Trust me on this.
-Beidou: It'd be a pity if you missed out on a voyage across the seas because of something like that!
 
 ## Talk 4
 
@@ -77,17 +83,19 @@ Traveler: *Would you like to have a chat with me?*
 Beidou: Sure! I'm down to chat about anything!
 Beidou: But, you must be a little weary of hearing about my sea travels from all the stories people tell?
 Beidou: Let's change it up! Tell me about your adventures!
-Traveler: Um... I fought a dragon once.
-Beidou: Whoa, nice! How big was it?
-Beidou: Hahaha, incredible!
-Beidou: So I fought a sea dragon, and you fought a sky dragon.
-Beidou: If we went adventuring together, we'd be invincible!
-Traveler: Most of them involve fighting hilichurls...
-Beidou: How's that? I certainly don't see many of those out at sea!
-Beidou: But adventure isn't just about how many storms you've survived in the past — it's about knowing that there are plenty more storms up ahead, and you don't know what they've got in store for ya!
-Beidou: Hey, that sounded pretty profound now that I think about it...
+    Option 1:
+        Traveler: Um... I fought a dragon once.
+        Beidou: Whoa, nice! How big was it?
+        Beidou: Hahaha, incredible!
+        Beidou: So I fought a sea dragon, and you fought a sky dragon.
+        Beidou: If we went adventuring together, we'd be invincible!
+        Traveler: Most of them involve fighting hilichurls...
+        Beidou: How's that? I certainly don't see many of those out at sea!
+        Beidou: But adventure isn't just about how many storms you've survived in the past — it's about knowing that there are plenty more storms up ahead, and you don't know what they've got in store for ya!
+        Beidou: Hey, that sounded pretty profound now that I think about it...
+    Option 2:
+        Traveler: Probably bigger than your ship.
 Beidou: Haha, this was a great chat! And now, a toast! Cheers!
-Traveler: Probably bigger than your ship.
 
 ## Talk 7
 
@@ -97,32 +105,36 @@ Beidou: What do you think? I wanna take you out to sea on an adventure, of cours
 Beidou: I can teach you how to steer a ship if you're interested.
 Beidou: You know, no two waves are ever the same...
 Beidou: If you're free, it'd be a shame not to take the opportunity to show you 'round the seas.
-Traveler: I'll need to prepare.
-Beidou: Sure thing. Just say the word.
-Beidou: Oh, uh... And if you've got any unfinished business, best take care of that first then call me when you're done.
-Beidou: One voyage takes about one and a half years, but that's just a rough estimate.
-Beidou: So, you should tie up any loose ends before we set sail!
+    Option 1:
+        Traveler: I'll need to prepare.
+        Beidou: Sure thing. Just say the word.
+        Beidou: Oh, uh... And if you've got any unfinished business, best take care of that first then call me when you're done.
+        Beidou: One voyage takes about one and a half years, but that's just a rough estimate.
+        Beidou: So, you should tie up any loose ends before we set sail!
+    Option 2:
+        Traveler: I'm worried that I'll get seasick.
+        Beidou: Don't be afraid. Don't let that hold you back.
+        Beidou: You'll get used to the ocean's movements soon enough. If you're really struggling, I have some medicinal herbs.
+        Beidou: I guarantee you, it'll be fine. Trust me on this.
+        Beidou: It'd be a pity if you missed out on a voyage across the seas because of something like that!
 Beidou: Anyway — let me know when you're done prepping, and we'll pick a date to set off!
 Beidou: The thought of you and I conquering the seas together... I can't wait!
-Traveler: I'm worried that I'll get seasick.
-Beidou: Don't be afraid. Don't let that hold you back.
-Beidou: You'll get used to the ocean's movements soon enough. If you're really struggling, I have some medicinal herbs.
-Beidou: I guarantee you, it'll be fine. Trust me on this.
-Beidou: It'd be a pity if you missed out on a voyage across the seas because of something like that!
 
 ## Talk 8
 
 Traveler: How do you like it here?
 Beidou: Yeah, pretty good! Feels nice to sit and relax in such a scenic place!
 Beidou: But...
-Traveler: But what?
-Beidou: But you know that I'll be craving the billowing waves of the open ocean before too long! It's where I belong.
-Beidou: The churning ocean waves are the best lullaby.
+    Option 1:
+        Traveler: But what?
+        Beidou: But you know that I'll be craving the billowing waves of the open ocean before too long! It's where I belong.
+        Beidou: The churning ocean waves are the best lullaby.
+    Option 2:
+        Traveler: But you miss the sea already?
+        Beidou: Haha! You get me!
+        Beidou: Days spent sailing through a storm, conquering the surging waters... yeah, those are happy days!
 Beidou: Oh, don't get me wrong. I'm thrilled that you invited me here.
 Beidou: I'll have to return the favor sometime by hosting you onboard the ship!
-Traveler: But you miss the sea already?
-Beidou: Haha! You get me!
-Beidou: Days spent sailing through a storm, conquering the surging waters... yeah, those are happy days!
 
 ## Talk 9
 

@@ -4,26 +4,29 @@
 ## Talk 1
 
 Raimondo: Any questions? Honorary Senior Researcher?
-Traveler: What will happen to Nacker and Edwin?
-Raimondo: They will temporarily stay at the Fortress of Meropide where they will repent for their misconduct.
-Raimondo: That said, the Edwin I know doesn't do "repent."
-Raimondo: No matter, as long as Edwin is kept away from research equipment and Arkhium.
-Raimondo: As for Nacker... I don't believe he'll cause more trouble for us.
-Raimondo: I... I can only hope I don't run into situations that would require their expertise...
-Traveler: Did Fusilier use to worship Edwin?
-Raimondo: ...Edwin Eastinghouse is a genius. People in the same field either gave up on themselves or became his followers.
-Raimondo: Miss Fusilier is a very passionate and creative researcher, often achieving great results with minimal resources.
-Raimondo: After joining the Tech Sect III of the Arkhium Research Project, she was put in charge of the structural design of the suppressor and had frequent run-ins with Edwin.
-Raimondo: Maybe that's when she started idolizing Edwin. Just like the other followers, Edwin's approval became her only pursuit.
-Raimondo: After the explosion, she refused to believe that Edwin was the one who caused it, so she applied to join the investigation in an attempt to clear Edwin's name.
-Raimondo: Now that you've dealt with Edwin, what do you make of him?
-Paimon: A freak of nature who cares only for his research! He always tries to push the blame to others, and he can't even remember Miss Fusilier's name!
-Raimondo: That sounds like him, all right. Other than his research, there's rarely anything that's worth a second of his attention.
-Raimondo: And he cares for nothing else as long as his research runs smoothly. Not even when his own subordinates stole the Institute's assets to sell.
-Raimondo: I only approved Fusilier's application to join the investigation... so she would come to realize she was chasing an image of him she fabricated.
-Raimondo: Now that image has finally been shattered, I can only hope she picks herself up soon... The Fontaine Research Institute cannot afford to lose more of its people.
-Traveler: Goodbye.
-Raimondo: Goodbye, Honorary Senior Researcher.
+    Option 1:
+        Traveler: What will happen to Nacker and Edwin?
+        Raimondo: They will temporarily stay at the Fortress of Meropide where they will repent for their misconduct.
+        Raimondo: That said, the Edwin I know doesn't do "repent."
+        Raimondo: No matter, as long as Edwin is kept away from research equipment and Arkhium.
+        Raimondo: As for Nacker... I don't believe he'll cause more trouble for us.
+        Raimondo: I... I can only hope I don't run into situations that would require their expertise...
+    Option 2:
+        Traveler: Did Fusilier use to worship Edwin?
+        Raimondo: ...Edwin Eastinghouse is a genius. People in the same field either gave up on themselves or became his followers.
+        Raimondo: Miss Fusilier is a very passionate and creative researcher, often achieving great results with minimal resources.
+        Raimondo: After joining the Tech Sect III of the Arkhium Research Project, she was put in charge of the structural design of the suppressor and had frequent run-ins with Edwin.
+        Raimondo: Maybe that's when she started idolizing Edwin. Just like the other followers, Edwin's approval became her only pursuit.
+        Raimondo: After the explosion, she refused to believe that Edwin was the one who caused it, so she applied to join the investigation in an attempt to clear Edwin's name.
+        Raimondo: Now that you've dealt with Edwin, what do you make of him?
+        Paimon: A freak of nature who cares only for his research! He always tries to push the blame to others, and he can't even remember Miss Fusilier's name!
+        Raimondo: That sounds like him, all right. Other than his research, there's rarely anything that's worth a second of his attention.
+        Raimondo: And he cares for nothing else as long as his research runs smoothly. Not even when his own subordinates stole the Institute's assets to sell.
+        Raimondo: I only approved Fusilier's application to join the investigation... so she would come to realize she was chasing an image of him she fabricated.
+        Raimondo: Now that image has finally been shattered, I can only hope she picks herself up soon... The Fontaine Research Institute cannot afford to lose more of its people.
+    Option 3:
+        Traveler: Goodbye.
+        Raimondo: Goodbye, Honorary Senior Researcher.
 
 ## Talk 2
 
@@ -69,7 +72,10 @@ Paimon: Whoa! Look out! Something's coming!
 ## Talk 10
 
 Nacker: Institute dogs! How much did Choiseul and Raimondo pay you!?
-Traveler: Just a title.
+    Option 1:
+        Traveler: Just a title.
+    Option 2:
+        Traveler: Not one Mora. I volunteered.
 Nacker: You... You... Listen to me, let me go. My "Field Generator" is almost done.
 Nacker: Once I successfully synchronize it with the Arkhium Kinetic Core, then... Then I'll be the greatest kinetic engineer ever!
 Fusilier: ...Taking credit for someone else's work and claiming to be the greatest engineer. Shame on you.
@@ -77,7 +83,10 @@ Fusilier: Now I finally know why Mr. Ed... Edwin never wanted you to take part i
 Nacker: Edwin doesn't know a thing about what to do with it! You're also from the Institute... You know the true value of this thing!
 Nacker: Help me! I can... develop it with you! Then, we'll both be famous, and incomparable!
 Nacker: Edwin, Raimondo, Choiseul... None of them can surpass our fame!
-Traveler: Looks like what Raimondo said was true.
+    Option 1:
+        Traveler: Looks like what Raimondo said was true.
+    Option 2:
+        Traveler: It must've been tough for you, Nacker, to hold all of that in for such a long time.
 Fusilier: Edwin... Mr. Edwin's achievements... belong to the Institute. I'm only here to claim them, nothing more, nothing less.
 Paimon: Miss Fusilier... suddenly changed how she addresses Edwin.
 Nacker: Don't be a fool, girl! You don't know what Concini can give us!
@@ -87,17 +96,21 @@ Chaussivert: I had enough of this nonsense. Shut up.
 Nacker: And who the heck are you!?
 Chaussivert: The one who watches over Lumidouce Harbor. One more word, and you'll taste my fist.
 Chaussivert: #Traveler, help me tie him up and take that core or whatever. It's time we head back.
-Traveler: It must've been tough for you, Nacker, to hold all of that in for such a long time.
-Traveler: Not one Mora. I volunteered.
 
 ## Talk 11
 
 Nacker: Edwin... I knew it! You lured them over... You've always been jealous of me! Afraid that my research would surpass yours!
 Edwin Eastinghouse: You're right. I am so jealous of how totally oblivious and ignorant you are. No wonder you led such a blissful life back at the Institute.
 Paimon: Only if Choiseul was here to see this... He'd faint.
-Traveler: He better never wake up.
+    Option 1:
+        Traveler: He better never wake up.
+    Option 2:
+        Traveler: I'm about to faint, too...
 Edwin Eastinghouse: You go back to the Institute with them and repent... I need to get back to my research... You didn't break anything, did you?
-Traveler: Who said you can go back to your research!?
+    Option 1:
+        Traveler: Who said you can go back to your research!?
+    Option 2:
+        Traveler: Stop right there! I'm warning you!
 Edwin Eastinghouse: What are you gonna do? Take me back to the Institute? How am I supposed to continue my research, then?
 Edwin Eastinghouse: That fool Raimondo will definitely turn the Institute into a mess. And that idiot Choiseul... Ugh! The mere thought of it gives me a headache.
 Paimon: You're the one who turned the Institute into a mess! Stop shifting the blame to someone else!
@@ -124,8 +137,6 @@ Nacker: Darn...
 Edwin Eastinghouse: Oh, please...
 Chaussivert: Lemarcq and I will escort those two back. Say, we've been the errand boys for a long time, so the Institute will definitely compensate us, right?
 Chaussivert: Remember, keep your mouths shut along the way, or you might meet an early end.
-Traveler: Stop right there! I'm warning you!
-Traveler: I'm about to faint, too...
 
 ## Talk 12
 
@@ -152,7 +163,12 @@ Choiseul: Mr. Chaussivert, Mr. Lemarcq, yes? I've heard about the assistance you
 Chaussivert: Hahaha! I didn't think someone like me would ever be associated with the Institute.
 Choiseul: Don't say that about yourself, dear sir! You're sincere and kind-hearted, so you're definitely a good person. Maybe we'll enlist your help in the future.
 Choiseul: As for you... Honorary Senior Researcher, you did us a great favor once again. How should we ever repay you?
-Traveler: Just don't get blown up again.
+    Option 1:
+        Traveler: Just don't get blown up again.
+    Option 2:
+        Traveler: What about a promotion?
+        Choiseul: Well... theoretically, your current title already resides at the top... But let me see what I can do.
+        Choiseul: How about something like... Chief Honorary Senior Researcher? Hahahah!
 Paimon: By the way... Where's Miss Fusilier?
 Raimondo: ...We should give her some room to calm down. Looks like the image of Edwin Eastinghouse she had created in her head has completely shattered.
 Raimondo: Edwin and Nacker need to calm down as well... I hope they can reflect on their own mistakes.
@@ -160,9 +176,6 @@ Traveler: Will they stay in the Fortress of Meropide all their life?
 Raimondo: Judging by how dangerous they are, I hope they never leave that place.
 Raimondo: However, given the state of things here at the Fontaine Research Institute... I can only hope I don't run into situations that would require their expertise...
 Raimondo: I thank you again on behalf of the Fontaine Research Institute, Honorary Senior Researcher. If you have any further questions, I'm at your service.
-Traveler: What about a promotion?
-Choiseul: Well... theoretically, your current title already resides at the top... But let me see what I can do.
-Choiseul: How about something like... Chief Honorary Senior Researcher? Hahahah!
 
 ## Additional Conversations
 

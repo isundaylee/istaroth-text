@@ -159,16 +159,20 @@ Ningguang: Director Hu... Good luck to us both.
 ### Additional Talk 4
 
 Traveler: (She's not here... But these are her things...)
-Traveler: (Check the Staff of Homa)
-Traveler (Staff of Homa): (The flaming staff lies quietly on the ground, as if aware that its owner has left the world.)
-Traveler: (Check the burnt Homa Altar)
-Traveler (Homa Altar): (The fire in the altar has almost gone out. But some stray sparks flicker and frolic within the ashes... in true Hu Tao fashion.)
-Traveler: (Check the broken rattan figure)
-Traveler (Rattan Figure): (Do you remember who the rattan figure was made for? I'm sure you do.)
-Traveler: (*Check the fissures on the tree*)
-Traveler (Tree Shaped Like "Tao Dou"): (That crooked tree at the center of the border looks just like this year's Mingxiao lantern. There are some cracks in the middle of the trunk... they seem to lead to somewhere far away.)
-Traveler: (Examine the fissures)
-Traveler (Tree Shaped Like "Tao Dou"): (Something just flew out of your backpack...)
+    Option 1:
+        Traveler: (Check the Staff of Homa)
+        Traveler (Staff of Homa): (The flaming staff lies quietly on the ground, as if aware that its owner has left the world.)
+    Option 2:
+        Traveler: (Check the burnt Homa Altar)
+        Traveler (Homa Altar): (The fire in the altar has almost gone out. But some stray sparks flicker and frolic within the ashes... in true Hu Tao fashion.)
+    Option 3:
+        Traveler: (Check the broken rattan figure)
+        Traveler (Rattan Figure): (Do you remember who the rattan figure was made for? I'm sure you do.)
+    Option 4:
+        Traveler: (*Check the fissures on the tree*)
+        Traveler (Tree Shaped Like "Tao Dou"): (That crooked tree at the center of the border looks just like this year's Mingxiao lantern. There are some cracks in the middle of the trunk... they seem to lead to somewhere far away.)
+        Traveler: (Examine the fissures)
+        Traveler (Tree Shaped Like "Tao Dou"): (Something just flew out of your backpack...)
 
 ### Additional Talk 5
 
@@ -192,8 +196,12 @@ Paimon: Anyway, you stay in bed and get some rest! Paimon will go get Baizhu to 
 Black Screen Text: As you walk out of Bubu Pharmacy's back room, you are greeted by the peaceful and festive view of Liyue Harbor. A sense of relief washes over you.
 Black Screen Text: Just then, you feel something cool against your face... You've been ambushed again.
 Hu Tao (???): One more time, guess whooo~?
-Traveler: I recognize those dulcet tones anywhere, Zhongli.
-Hu Tao: Good! If you have the energy to joke around, it means you're making a good recovery!
+    Option 1:
+        Traveler: I recognize those dulcet tones anywhere, Zhongli.
+        Hu Tao: Good! If you have the energy to joke around, it means you're making a good recovery!
+    Option 2:
+        Traveler: Happy Lantern Rite, Director Hu.
+        Hu Tao: Good! You still recognize me. So the fetor didn't fry your brain.
 Hu Tao: I'm so glad! Looks like I can stop worrying now... Welcome back, my hero!
 Traveler: You are the real hero.
 Hu Tao: Hahaha, don't be silly. It's just the two of us here, you really want to talk in glib pleasantries? 'Cause I can out-glib you any day of the week if that's how you wanna do this.
@@ -210,8 +218,6 @@ Hu Tao: Such a marvelous view. Really puts me in a poetic mood! Hee-hee, okay, I
 Hu Tao: As fresh festivities fill the streets, while lanterns light the sky like countless times before...
 Hu Tao: I dwell not on the twists and turns of bygone years, but remember this: that with each new day, I receive the gift of life once more.
 Hu Tao: #Thank you, Traveler. Happy Lantern Rite.
-Traveler: Happy Lantern Rite, Director Hu.
-Hu Tao: Good! You still recognize me. So the fetor didn't fry your brain.
 
 ### Additional Talk 7
 

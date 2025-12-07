@@ -59,12 +59,14 @@ Edgar: No need. I've grown attached to these flowers, and this is my last chance
 Edgar: ...I would imagine Sheriff Shyam is here for a more important reason?
 Collei: Ah, that night watch! You mentioned earlier, we still need to confirm our plans...
 Shyam: That's right. I've stationed some of my men around the surrounding area, but we still don't have anyone standing guard next to Sylvain's room.
-Traveler: Next to Sylvain's room...
+    Option 1:
+        Traveler: Next to Sylvain's room...
+    Option 2:
+        Traveler: You mean, in Lucien's room?
 Shyam: #Exactly. After some discussion, we concluded that Sylvain has the highest risk of being attacked next. You're the most skilled fighter here, Traveler...
 Shyam: And Emilie's expertise is sure to come in handy in a pinch... That's why I want you two stationed next to Sylvain's room. So, are you up for it?
 Traveler: Fine with me. What about you, Emilie?
 Emilie: #Sounds perfectly reasonable. I'll be glad to have your help tonight, Traveler.
-Traveler: You mean, in Lucien's room?
 
 ## Talk 4
 
@@ -82,19 +84,31 @@ Paimon: ...But Collei still looks quite worried. Let's go talk to her!
 ## Talk 7
 
 Traveler: If applied to the outside... You would still be able to smell "Auguste," even in the daytime...
+
 Traveler: If poured into the flower pot, the liquid would seep into the soil... That might prevent the substance from taking effect...
+
 Traveler: There's a sticky substance on the edge of the flower petals. It's one I recognize...
+
 Traveler: If you stick the petals together with Slime Condensate, then, in the daytime, the Glaze Lily would act almost like a hidden container.
+
 Traveler: In Fontaine, I experienced how drinking Primordial Seawater made me more attuned to the element of Hydro... But, that substance would be hard to get around here.
+
 Traveler: All kinds of essential oils commonly found in alchemical products can temporarily increase elemental affinity... But, it would be difficult to force someone to use them without knowing it.
+
 Traveler: The incense I smelled earlier seemed familiar... Thinking back on it, I'm almost certain it was the scent of Spirit Borneol.
+
 Traveler: In Sumeru, scholars use Spirit Borneol to aid meditation and stimulate their connection to the Dendro Archon...
+
 Traveler: Creating such an intricate mechanism out of a Glaze Lily... setting up the Spirit Borneol in advance... and arranging for Sylvain and Lucien to stay at the hotel...
 Traveler: ...It all points to one person — the "expert" in charge of the entire exhibition.
+
 Traveler: The Mora spent to rent out the hotel... the way the Auguste flower was cultivated... the "method" used to disguise his appearance...
 Traveler: ...It all points to one person — the boy who inherited Yelena's legacy, her younger brother.
+
 Traveler: Kirya and Edgar... are one and the same.
+
 Traveler: That doesn't sound right... I need to think about this some more.
+
 Traveler: Hmm... I can't seem piece this together in a way that makes sense.
 
 ## Talk 8
@@ -189,7 +203,10 @@ Sylvain: Listen, it's not like it was good for business! But, all that talk abou
 Sylvain: Unless you were particularly sensitive to elemental energy, or had an entire bottle shoved down your throat like Edgar, you could use the product for decades and be completely fine!
 Emilie: It may be true that there are no records of "Auguste" poisoning in Fontaine...
 Emilie: But, even if no one was acutely poisoned... Willfully bringing a product to market despite explicit knowledge of its harmful effects is still a serious crime!
-Traveler: The divine and noble "Auguste" originated from a Delusion...
+    Option 1:
+        Traveler: The divine and noble "Auguste" originated from a Delusion...
+    Option 2:
+        Traveler: If the truth came out, the market for your product would be destroyed.
 Sylvain: Hmph...
 Emilie: That explains why you were so intent on keeping Yelena and Kirya's involvement a secret all this time, despite readily confessing to all your financial crimes...
 Emilie: The Fatui, Delusions, "Auguste"... If the Marechaussee Phantom discovered the connection between the three, there would've been enough evidence to send you to the Fortress of Meropide for life.
@@ -250,7 +267,10 @@ Edgar: Would you be willing to grant that request, Sheriff?
 Shyam: Well... Alright. I'll talk to the Akademiya. No matter who you were in Fontaine, or what crimes you committed...
 Shyam: The man we grew to know in Sumeru proved himself to be a good person. Your request is granted.
 Edgar: You have my thanks, Sheriff.
-Traveler: But, if we wait until tomorrow...
+    Option 1:
+        Traveler: But, if we wait until tomorrow...
+    Option 2:
+        Traveler: Doesn't that mean something could still happen tonight?
 Emilie: Happen tonight...? Ah, you mean the possibility that Kirya might try to finish what he started?
 Paimon: Yeah! All we know is that he uses "Auguste" to poison people, but we still have no idea how to catch him in the act...
 Paimon: If he targets Sylvain or Edgar again, we might not be able to stop him!
@@ -278,8 +298,6 @@ Edgar: That's why everyone else needs to keep to the shadows... *coughing*
 Emilie: ...You're still recovering. You need to rest.
 Edgar: *sigh* This old bag of bones doesn't bounce back like it used to... I suppose I'll just have to leave the rest to you.
 Shyam: Alright, we can figure out a plan to keep watch later. Right now, I say we split up and start spreading that information before it's too late.
-Traveler: Doesn't that mean something could still happen tonight?
-Traveler: If the truth came out, the market for your product would be destroyed.
 
 ## Talk 17
 
@@ -324,13 +342,15 @@ Shyam: Keep it moving, everyone... No loitering!
 ## Talk 24
 
 Shyam: So, did you find anything?
-Traveler: There are no signs of forced entry.
+    Option 1:
+        Traveler: There are no signs of forced entry.
+    Option 2:
+        Traveler: The only way in would've been through Sylvain's room.
 Paimon: Paimon can show you... Here, it'd be something like this!
 Shyam: But... Entering through the room next door without alerting Sylvain... Wait, you don't think Sylvain could've been the one who...
 Emilie: ...No, his reaction to the loss of his brother seemed genuine, and he doesn't have a motive.
 Shyam: Then, what could've happened last night... I know Sylvain is still in shock, but he's our only available witness. We have to take his statement.
 Emilie: I agree. Also, I've made some new discoveries, so we might as well head next door and go through everything together.
-Traveler: The only way in would've been through Sylvain's room.
 
 ## Talk 25
 
@@ -345,7 +365,10 @@ Shyam: No signs of a struggle at the scene, and no external injuries on Lucien's
 Emilie: I did notice a few things about the body: Lucien's pupils were dilated and his skin was flushed... Very similar to Master's symptoms after the attack yesterday.
 Emilie: There weren't any traces of liquid in his mouth or nose, so it's unlikely he was forced to ingest anything... The more plausible explanation is that he inhaled a substance without knowing it... and I'd say that substance was likely "Auguste."
 Sylvain: "Auguste"...? No, that's not possible... Inhaling "Auguste" won't kill you! And, anyway, it would have been for just one night!
-Traveler: "Just one night"?
+    Option 1:
+        Traveler: "Just one night"?
+    Option 2:
+        Traveler: So, you're saying prolonged exposure is dangerous?
 Sylvain: N—No... that's not what I meant...!
 Sylvain: Emilie! You ran your tests, didn't you? Go on, tell everyone whether you found any poison!
 Emilie: ...No, I didn't find any common toxins.
@@ -360,7 +383,6 @@ Edgar: Even if we could keep it a secret for another ten or twenty years... Do y
 Edgar: No... He would never give up... not if he's doing all of this for Yelena.
 Traveler: Yelena...?
 Edgar: ...
-Traveler: So, you're saying prolonged exposure is dangerous?
 
 ## Talk 26
 
@@ -373,19 +395,25 @@ Paimon: Still nothing unusual... Paimon took a peek into the room next door, and
 Traveler: Shyam hasn't issued a warning either...
 Emilie: Perhaps Kirya's true motive was simply forcing Sylvain to confess his crimes?
 Emilie: No, that can't be right... If all he wanted was for Sylvain to be convicted for his true crimes, he could have tipped off the Marechaussee Phantom years ago...
-Traveler: And he already killed Lucien...
+    Option 1:
+        Traveler: And he already killed Lucien...
+    Option 2:
+        Traveler: There's no reason to stop there.
 Emilie: There must be something we're missing... something extremely important...
 Paimon: Maybe we just need to calm down a little... How about some tea? That herbal blend from earlier was pretty tasty...
-Traveler: We can't abandon our post.
+    Option 1:
+        Traveler: We can't abandon our post.
+    Option 2:
+        Traveler: There's nothing here that we can use to make tea.
 Paimon: You're right... Um, maybe we can look for a different distraction, then? Like... Like looking at the flowers!
 Paimon: Oh, there's a Glaze Lily here? Paimon didn't notice it earlier!
-Traveler: Because they don't bloom during the day.
+    Option 1:
+        Traveler: Because they don't bloom during the day.
+    Option 2:
+        Traveler: Because they only bloom at night.
 Emilie: Flowers... Glaze Lilies... Incense...
 Emilie: Oh no... Sylvain's room! Quick!
 Paimon: Wait, what—
-Traveler: Because they only bloom at night.
-Traveler: There's nothing here that we can use to make tea.
-Traveler: There's no reason to stop there.
 
 ## Additional Conversations
 
@@ -423,7 +451,10 @@ Edgar: *sigh*...
 ### Additional Talk 2
 
 Collei: Emilie still isn't back... I hope she didn't run into any trouble...
-Traveler: She's extremely meticulous...
+    Option 1:
+        Traveler: She's extremely meticulous...
+    Option 2:
+        Traveler: I'm sure she's prepared to handle anything that might come her way.
 Collei: Yeah, that's true...
 Shyam: #Traveler, I had my men start spreading the information you requested. The crowd is gone now, too... But, I have to admit, I'm not really sure what's going on...
 Shyam: After listening to Emilie's plan, I started getting the materials together and arranging personnel... I barely had a second to spare last night...
@@ -432,7 +463,6 @@ Traveler: It's pretty simple, actually...
 Paimon: The key clue was right in front of us the entire time!
 Traveler: Feel like you've been waiting to say that for a while...
 Paimon: Hehe, let's go! We'll show you where the culprit hid "Auguste"!
-Traveler: I'm sure she's prepared to handle anything that might come her way.
 
 ### Additional Talk 3
 
@@ -475,14 +505,16 @@ Collei: Ah, yes. I definitely remember that.
 Emilie: In Sumeru, it's not uncommon to use incense indoors, so its presence wouldn't arouse suspicion. The flowers in the room could also serve to mask the scent...
 Shyam: Flowers were pretty important to his plan, huh... The Glaze Lily is native to Liyue. It would be completely unnatural to have one here in Sumeru if it weren't for the exhibition. What a coincidence...
 Emilie: ...Actually, it's not a coincidence at all.
-Traveler: The exhibition, the hotel...
+    Option 1:
+        Traveler: The exhibition, the hotel...
+    Option 2:
+        Traveler: It was all a meticulously designed trap.
 Paimon: No wonder he was willing to pay a small fortune to rent out the hotel...
 Collei: He probably used the Mora Yelena left him, don't you think? That money was supposed to set him free...
 Collei: But, in the end... It was just a tool for his revenge.
 Emilie: There's a saying among forensic doctors in Fontaine: "Every step you take leaves a mark."
 Emilie: But up until this point, we haven't been able to detect any trace of Kirya's activities. That's not because he was coming and going undetected, or because he's some kind of evil spirit.
 Emilie: But because he's been disguised as someone else this entire time.
-Traveler: It was all a meticulously designed trap.
 
 ### Additional Talk 7
 

@@ -10,8 +10,10 @@ Paimon: #Yeah, c'mon, let's get back to the Dawn Winery, Traveler.
 
 ## Talk 2
 
-Paimon: Let's sort Diluc's letters for him.
 Paimon: Well, since he said he doesn't mind, why don't we read them as we go?
+
+Paimon: Let's sort Diluc's letters for him.
+[Missing Dialog 705130702]
 
 ## Talk 3
 
@@ -19,8 +21,12 @@ Paimon: Whoa, there are so many letters here.
 Paimon: It looks like Diluc read them just before he left. He must have been in a hurry...
 Paimon: Adelinde asked us to put this one at the top of the pile, but how are we supposed to tell the order of the other ones?
 Paimon: Guess we'll have to read them to get an idea of when they came in.
-Traveler: We really shouldn't be reading other people's mail...
-Paimon: That's true. In that case, let's just tidy them up a little.
+    Option 1:
+        Traveler: We really shouldn't be reading other people's mail...
+        Paimon: That's true. In that case, let's just tidy them up a little.
+    Option 2:
+        Traveler: Wait, let me think...
+        Paimon: Bad idea? Yeah, you're probably right... Okay, let's just tidy them up a little.
 Diluc: You're here? You move fast.
 Paimon: Whoa! There he is!
 Diluc: What are you agonizing over?
@@ -31,22 +37,26 @@ Diluc: ...And I can see from the looks on your faces that they've grabbed your i
 Diluc: These letters deal with events that are past and gone. I only held onto them in case any of the information they contain proves useful later down the line.
 Diluc: I just dug them out to confirm a few details, I've been following some rather unique developments recently.
 Diluc: You were involved in the events in question anyway. You can read them if you want to. It's not a bad thing to be curious.
-Traveler: Are you in a hurry?
+    Option 1:
+        Traveler: Are you in a hurry?
+    Option 2:
+        Traveler: Do you still have other business to attend to?
 Diluc: ...
-Traveler: You seem to be in a huge rush...
+    Option 1:
+        Traveler: You seem to be in a huge rush...
+    Option 2:
+        Traveler: You don't look like you just got back from the city...
 Paimon: Hey, that's a good point... Actually, you kinda smell like wild mountain fruit... Oh! Did you go to those mountains where the Valberries come from?
 Diluc: Very perceptive. Yes, I did make a trip to the Stormbearer Mountains.
 Diluc: I'll fill you in later.
 Black Screen Text: Diluc swiftly goes upstairs...
 Paimon: No fair! We still have some super important things to discuss with Diluc... not to mention a whole bunch of questions!
-Traveler: Paimon, you need to calm down.
+    Option 1:
+        Traveler: Paimon, you need to calm down.
+    Option 2:
+        Traveler: It's been a long time since Diluc's presence last overawed you, huh.
 Paimon: Ugh... Alright, let's just sort these letters for him.
 Paimon: Well, since he said he doesn't mind, why don't we read them as we go?
-Traveler: It's been a long time since Diluc's presence last overawed you, huh.
-Traveler: You don't look like you just got back from the city...
-Traveler: Do you still have other business to attend to?
-Traveler: Wait, let me think...
-Paimon: Bad idea? Yeah, you're probably right... Okay, let's just tidy them up a little.
 
 ## Talk 4
 
@@ -57,13 +67,15 @@ Paimon: #Shall we read another one, Traveler?
 
 Diluc: There, it's done.
 Diluc: The ley line deposit will disappear before long.
-Traveler: That battle went very smoothly.
+    Option 1:
+        Traveler: That battle went very smoothly.
+    Option 2:
+        Traveler: That battle was a lot of fun.
 Paimon: All thanks to the power of teamwork!
 Paimon: See, even Captain Pyro needs his trusty sidekicks sometimes. It can't be Master Diluc saving the day by himself every single time. Many hands make light work!
 Diluc: Sidekicks, hmm...
 Diluc: It's been a long time since I last worked with others. It's not so bad.
 Diluc: If the opportunity arises, let's team up again in the future.
-Traveler: That battle was a lot of fun.
 
 ## Talk 6
 
@@ -104,7 +116,10 @@ Diluc: If the ley line anomaly was just a diversion tactic, the Abyss Order coul
 Diluc: But anyway, I have no interest in talking to the Knights of Favonius. I prefer to get to the bottom of things myself rather than waste time negotiating with them.
 Diluc: And it was easy enough for me find out the Abyss Order's plans. Take a few Abyss Mages hostage, and they soon start talking.
 Diluc: As for the Knights of Favonius, I've sent someone to enlist their cooperation where it's needed.
-Traveler: So this is a joint initiative between you and the Knights.
+    Option 1:
+        Traveler: So this is a joint initiative between you and the Knights.
+    Option 2:
+        Traveler: It almost sounds like you're doing the Knights of Favonius a favor.
 Diluc: It's their job to handle situations like this. They ought to be present when things come to a head.
 Diluc: I don't like working closely with the Knights of Favonius because of our differences in philosophy, but that doesn't mean we can't watch each others' backs when it counts.
 Paimon: Whoa... seems like you have even more control over things now than you used to, Diluc.
@@ -125,7 +140,10 @@ Diluc: Yes. Passiveness is not my style.
 Diluc: Though I had my suspicions at the start, everything I've come across so far in my investigation suggests that the Abyss Order was not behind this.
 Diluc: Since this arose from natural causes, it's time to wrap things up.
 Paimon: #Traveler... Um, so what should we do...?
-Traveler: Well, in for one Mora, in for the lot...
+    Option 1:
+        Traveler: Well, in for one Mora, in for the lot...
+    Option 2:
+        Traveler: We help Diluc out.
 Paimon: Right, sure! After all, he did just give us this amazing grape juice...
 Paimon: Wait, no... what was it... After all, "even when the odds of success are nine to one, you must never lower your guard."
 Diluc: ...
@@ -133,8 +151,6 @@ Diluc: Well said.
 Diluc: In that case, let's get going.
 Paimon: Okie-Dokey, Captain Pyro! You can take it a little easier this time!
 Paimon: Come on, let's go! This is the final battle, then we can put all this trouble behind us!
-Traveler: We help Diluc out.
-Traveler: It almost sounds like you're doing the Knights of Favonius a favor.
 
 ## Talk 8
 

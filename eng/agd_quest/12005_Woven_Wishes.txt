@@ -80,7 +80,10 @@ Kamisato Ayaka: Then please stand well back, where it is safe. Now... it is time
 
 Paimon: Well, that's that resolved then!
 Kamisato Ayaka: ...Phew.
-Traveler: That was amazing, Ayaka.
+    Option 1:
+        Traveler: That was amazing, Ayaka.
+    Option 2:
+        Traveler: You made that look so easy!
 Kamisato Ayaka: No, please, I... It was nothing, I was simply doing my duty.
 Kurisu: Miss Kamisato, Traveler, a—are you hurt!?
 Kamisato Ayaka: Don't worry. We're fine.
@@ -106,7 +109,10 @@ Kurisu: I'm afraid we must part ways — I must get these goods back to the Asso
 Kamisato Ayaka: Very well, and thank you for the silk, Mr. Kurisu.
 Paimon: See ya then, bye! Safe journey home, don't go getting robbed again!
 Kamisato Ayaka: Traveler, thank you for stepping in to help out.
-Traveler: No worries, it's what I signed up for.
+    Option 1:
+        Traveler: No worries, it's what I signed up for.
+    Option 2:
+        Traveler: It was no trouble.
 Paimon: But... how come those vagrants didn't seem to know who you were? They must move in completely different circles, maybe they've never seen anyone from the Kamisato Clan before?
 Kamisato Ayaka: Perhaps. Either way, I'm glad they didn't recognize me. The fewer people who know what happened today, the better.
 Paimon: Hee-hee, it's not every day an important person like you helps out someone like Kurisu. It really shows what a great person you are.
@@ -117,8 +123,6 @@ Kamisato Ayaka: Ah! Sorry, I'm getting off topic.
 Traveler: No problem.
 Kamisato Ayaka: Right. Let's head back to Ogura Textiles & Kimonos and give our hard-won silk to the shopkeeper.
 Paimon: Okay!
-Traveler: It was no trouble.
-Traveler: You made that look so easy!
 
 ## Talk 5
 
@@ -151,43 +155,50 @@ Ogura Mio: Welcome back!
 Ogura Mio: So, any luck at the International Trade Association? Did they have any silk in stock?
 Kamisato Ayaka: Yes, they did.
 Kamisato Ayaka: Here.
+
 Ogura Mio: Excellent news! So, apart from the silk, I think everything else I need, I've got in store already...
 Ogura Mio: I just need to go and take stock of our materials — it won't take me a moment. I'll be right back.
 Paimon: They'd better be all there!
 Kamisato Ayaka: I do hope nothing else is missing.
 Kamisato Ayaka: Traveler, on the subject of garments, I've been meaning to acquire a new outfit for you, too.
-Traveler: It's a kind thought, but I'm fine with my current outfit.
 Kamisato Ayaka: It's just... I wasn't sure how you'd feel about the idea of dressing in Inazuman attire...
-Traveler: These clothes are special to me.
-Traveler: If I'm too concerned about my appearance, I'll lose my edge in battle.
+Traveler: It's a kind thought, but I'm fine with my current outfit.
 Kamisato Ayaka: Oh? Are you sure?
+    Option 1:
+        Traveler: These clothes are special to me.
+    Option 2:
+        Traveler: If I'm too concerned about my appearance, I'll lose my edge in battle.
 Kamisato Ayaka: Is that so...
 Kamisato Ayaka: Impressive... So, travelers of your stature hold themselves to a dress code, as well as a code of conduct.
 Paimon: Hmm... More like, when you're away from home, you've gotta live by certain rules to survive, whether you like it or not.
-Traveler: Do they do Paimon sizes here?
 Paimon: But Paimon would still love to check out some Inazuman outfits!
+Traveler: Do they do Paimon sizes here?
 Paimon: Just what is that supposed to mean? They make them in whatever size the customer asks for!
-Traveler: Ayaka, you're too kind.
-Traveler: Thanks, but Paimon and I are fine as we are.
 Kamisato Ayaka: Hahaha, ah, your interactions are so adorable to watch... Ahem! I mean, um... I can certainly find someone to tailor a Paimon-sized outfit, if Paimon so wishes.
+    Option 1:
+        Traveler: Ayaka, you're too kind.
+    Option 2:
+        Traveler: Thanks, but Paimon and I are fine as we are.
 Kamisato Ayaka: Hm, well if you're sure... As you wish.
-Traveler: They dress very strangely.
-Traveler: They dress very stylishly.
 Kamisato Ayaka: Something else I've been wondering is... how do people in other nations dress?
-Paimon: It's so true — people dress in all kinds of ways!
-Paimon: Some people like to wear a hood, some cover up half their face with a mask, some just straight-up dress like a peacock... Oh, and some have their tummy on show, others wear skin-tight leotards and leggings... If you can imagine it, Paimon guarantees that someone out there is wearing it!
-Kamisato Ayaka: Really? So there is no single standard, and people just dress however they like?
-Kamisato Ayaka: So fascinating... Somehow, I feel a little envious...
-Paimon: Wait, so you wanna dress like a peacock now?
-Kamisato Ayaka: No, of course not! I—I just mean... I admire those who are able to do as they please.
-Kamisato Ayaka: I would very much like to travel across the seven nations... and see how people live.
-Paimon: They sure do! Each nation has its own unique style — traditional, fancy-schmancy, casual... All very different, but each style is suited to its region.
-Kamisato Ayaka: The study of clothing is a profound discipline, and I have much still to learn.
-Kamisato Ayaka: When clothing becomes part of the expression of one's personality, even an extension of one's body... That is quite a wonderful thing.
-Kamisato Ayaka: So I am not against dressing up, far from it.
-Paimon: Paimon agrees! You couldn't have put it any better!
-Kamisato Ayaka: Paimon, you're so adorable that you could wear anything and it would look lovely on you.
-Paimon: Wow! Hee-hee, Paimon just got a compliment!
+    Option 1:
+        Traveler: They dress very strangely.
+        Paimon: It's so true — people dress in all kinds of ways!
+        Paimon: Some people like to wear a hood, some cover up half their face with a mask, some just straight-up dress like a peacock... Oh, and some have their tummy on show, others wear skin-tight leotards and leggings... If you can imagine it, Paimon guarantees that someone out there is wearing it!
+        Kamisato Ayaka: Really? So there is no single standard, and people just dress however they like?
+        Kamisato Ayaka: So fascinating... Somehow, I feel a little envious...
+        Paimon: Wait, so you wanna dress like a peacock now?
+        Kamisato Ayaka: No, of course not! I—I just mean... I admire those who are able to do as they please.
+        Kamisato Ayaka: I would very much like to travel across the seven nations... and see how people live.
+    Option 2:
+        Traveler: They dress very stylishly.
+        Paimon: They sure do! Each nation has its own unique style — traditional, fancy-schmancy, casual... All very different, but each style is suited to its region.
+        Kamisato Ayaka: The study of clothing is a profound discipline, and I have much still to learn.
+        Kamisato Ayaka: When clothing becomes part of the expression of one's personality, even an extension of one's body... That is quite a wonderful thing.
+        Kamisato Ayaka: So I am not against dressing up, far from it.
+        Paimon: Paimon agrees! You couldn't have put it any better!
+        Kamisato Ayaka: Paimon, you're so adorable that you could wear anything and it would look lovely on you.
+        Paimon: Wow! Hee-hee, Paimon just got a compliment!
 Ogura Mio: Sorry to keep you waiting! I've checked my inventory.
 Kamisato Ayaka: Thank you, is there anything else you're missing?
 Ogura Mio: Fortunately not! I have all the materials I need. As for the size — would you like me to go by the dimensions given on the design?
@@ -199,8 +210,8 @@ Ogura Mio: Until then, I'm sure you'll find somewhere nearby to pass the time.
 Paimon: Good idea! Let's check out the whole area, we don't wanna leave any loose ends.
 Kamisato Ayaka: Haha, there will be no loose ends while you're in my company. I already decided where to go while we wait.
 Kamisato Ayaka: For our next stop, I'd like to take you both for a meal.
-Traveler: Perfect, I'm getting a little hungry myself.
 Paimon: Fooood! Ooh, Paimon likes this plan!
+Traveler: Perfect, I'm getting a little hungry myself.
 Kamisato Ayaka: Mm-hmm, I picked the venue especially for you — a humble local eatery called Kiminami Restaurant.
 Kamisato Ayaka: I thought that the relaxed atmosphere there would suit our day much better than the prohibitively formal one of a high-end restaurant.
 Kamisato Ayaka: Shall we head off?

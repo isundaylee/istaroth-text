@@ -9,13 +9,20 @@ Paimon: We've only just met! What does she mean, "help"?
 Tsuyuko: Haha, sorry for being rude...
 Tsuyuko: It's just that I made a wish previously, and according to the divination result, there will always be help on the way whenever I am troubled or having a hard time.
 Tsuyuko: So you, O helpful guests, must be here to assist me, right?
-Traveler: That's just an excuse, isn't it?
-Paimon: Well, whatever, let's just hear what she has to say first...
+    Option 1:
+        Traveler: That's just an excuse, isn't it?
+        Paimon: Well, whatever, let's just hear what she has to say first...
+    Option 2:
+        Traveler: Okay.
+        Paimon: How is this any way to ask for help...
 Tsuyuko: Thank you so much, then. Let me give you the backstory.
 Tsuyuko: The deep pool directly across from the Sangonomiya Shrine is the entrance to Enkanomiya. Legend has it that this place was the origin of the Watatsumi people.
 Tsuyuko: In days of old, the beauties of Watatsumi were renowned for their soft skin, which would conceal seven types of skin blemish...
 Tsuyuko: ...This, of course, being mostly a consequence of our ancestors' lack of sunlight in the depths of Enkanomiya...
-Traveler: *coughs*
+    Option 1:
+        Traveler: *coughs*
+    Option 2:
+        Traveler: So, uh, about the reason you need help...
 Tsuyuko: Oh, sorry. In the past, I would usually give guided tours to people coming to Watatsumi Island, so I just...
 Tsuyuko: Well. In order to commemorate Watatsumi Omikami and our ancestors, we traditionally bring tributes that we let sink down towards Enkanomiya.
 Tsuyuko: It has been said, and it is recorded in our ancient writings, that our ancestors from Byakuyakoku relied on the meager light of the Dainichi Mikoshi in order to survive the sharpened claws of the Dragonheir of the Depths.
@@ -29,8 +36,11 @@ Tsuyuko: I apologize, I digressed again... In short, Watatsumi Island's "Holy So
 Traveler: "Holy Soil"...What is that?
 Tsuyuko: Just as the human heart runs deep and water flows downhill, the spirit of Watatsumi Island constantly feels the call of Enkanomiya, down in the depths.
 Tsuyuko: As a result, our soil is slowly bleaching, becoming Holy Soil. If this continues, Watatsumi Island will one day become a desert as pale as the moonlight.
-Traveler: That sounds scary...
-Tsuyuko: Does it, though? To me, it's nothing more than just a superstition spread by the elderly. Although there may be some truth to it, it still lacks logical credibility.
+    Option 1:
+        Traveler: That sounds scary...
+        Tsuyuko: Does it, though? To me, it's nothing more than just a superstition spread by the elderly. Although there may be some truth to it, it still lacks logical credibility.
+    Option 2:
+        Traveler: So how can we solve this problem?
 Tsuyuko: According to tradition, every several centuries, we must take advantage of a moment when the spirit veins flow smoothly to break the barrier that blocks the connection between Enkanomiya and Sangonomiya...
 Tsuyuko: We will need to dive down to Enkanomiya and retrieve a Jade Coral Branch left behind by our Omikami, which was used to suppress the Dragonheir of the Depths.
 Tsuyuko: Then, we must use the Jade Coral Branch to perform the Watatsumi Mitama Omatsuri ritual, thus causing the sunken "spirit" to return, which will stop the erosion of the Holy Soil.
@@ -38,8 +48,12 @@ Traveler: Wait, if we remove the thing that's suppressing the Dragonheir of the 
 Tsuyuko: You deduce correctly.
 Tsuyuko: We have many Jade Coral Branches that can be used for this suppression, but if this continues, the Dragonheir of the Depths may one day break through the barrier and invade Watatsumi on the surface.
 Tsuyuko: So, I want to ask you if you could...
-Traveler: Retrieve the Jade Coral Branch?
-Paimon: #Traveler's really good at finding things!
+    Option 1:
+        Traveler: Retrieve the Jade Coral Branch?
+        Paimon: #Traveler's really good at finding things!
+    Option 2:
+        Traveler: Eliminate the Dragonheir of the Depths?
+        Paimon: #Traveler is great at fighting all kinds of monsters!
 Tsuyuko: At this stage, that is not what we need...
 Paimon: You mean you're gonna ask for our help again at a later stage?
 Tsuyuko: ...Hmmm... Well, let's see how it goes?
@@ -77,30 +91,27 @@ Traveler: Sounds complicated...
 Tsuyuko: It's okay, if you are afraid that you will forget, please look for me at the Sangonomiya Shrine, and I will go over the steps with you again.
 Tsuyuko: Finally... I know it is poor etiquette to simply stop you in your tracks and entrust such an important matter to you on an unofficial basis. Please accept my apologies for this.
 Tsuyuko: But in any case, this is a matter of great importance to Watatsumi Island... The Sangonomiya Shrine will be very grateful for your aid.
-Traveler: Eliminate the Dragonheir of the Depths?
-Paimon: #Traveler is great at fighting all kinds of monsters!
-Traveler: So how can we solve this problem?
-Traveler: So, uh, about the reason you need help...
-Traveler: Okay.
-Paimon: How is this any way to ask for help...
 
 ## Talk 2
 
 Tsuyuko: You're back. Is there something I can do for you?
-Traveler: About the locations of the Goshou Rocks...
-Tsuyuko: The *"eye"* is on the *island to the west*, the *"fang"* is on the *northwest coast*, the *"fin"* is on the *coast due north*, and the *"tail"* is on the *shoal in the southeast*.
-Tsuyuko: Near each of the four seals is a stone tablet that records ritual-related matters... But they have stood for many an age, and the handwriting is now barely legible.
-Tsuyuko: By obtaining the four "Spirit Pearls" of these four seals, you can unlock the seal of the "heart".
-Tsuyuko: And at the appointed, critical time, we break the barrier, retrieve the Jade Coral Branch, perform the Watatsumi Mitama Omatsuri ritual...
-Tsuyuko: ...But the knowledge I gained at the Akademiya tells me that the spread of Holy Soil is due to Watatsumi Island's geological make-up.
-Tsuyuko: As the seawater encroaches on land, the soil dries and hardens. The saline and alkaline components will leach the land's nutrients away and render the soil inert, thus rendering it no longer suitable for agriculture.
-Tsuyuko: The Jade Coral Branches contain Omikami's power, and they can replenish the missing elements in the soil, thus staving off the effects of bleaching.
-Tsuyuko: Ahem. Sorry, I digress.
-Traveler: About the names of the Goshou Rocks...
-Tsuyuko: Ah, you must want to know why these seals are named the way they are?
-Tsuyuko: The Omikami has an envoy, and the clergy set a seal upon its skeleton and used its power to break the connection between Watatsumi and Enkanomiya.
-Tsuyuko: If you don't believe me, you can look at the map yourself. The bulge on the left is the "eye" and the one stretching out at the bottom right is the "tail"...
-Tsuyuko: Okay, don't look at me like that! That's the explanation I got from my fellow shrine maidens! It's hard for me to accept it too!
-Traveler: So, what's with the "Holy Soil"...
-Tsuyuko: Basically, the bleaching of the soil is said to be due to absorption of the spirit of Watatsumi Island by Byakuyakoku. If it sinks all the way to the bottom, then Watatsumi will become a desert.
-Tsuyuko: But thanks to the suppressive power of Sangonomiya Shrine and our Omikami's might, which our Divine Priestess has inherited, this Holy Soil has not spread to encompass the rest of the island.
+    Option 1:
+        Traveler: About the locations of the Goshou Rocks...
+        Tsuyuko: The *"eye"* is on the *island to the west*, the *"fang"* is on the *northwest coast*, the *"fin"* is on the *coast due north*, and the *"tail"* is on the *shoal in the southeast*.
+        Tsuyuko: Near each of the four seals is a stone tablet that records ritual-related matters... But they have stood for many an age, and the handwriting is now barely legible.
+        Tsuyuko: By obtaining the four "Spirit Pearls" of these four seals, you can unlock the seal of the "heart".
+        Tsuyuko: And at the appointed, critical time, we break the barrier, retrieve the Jade Coral Branch, perform the Watatsumi Mitama Omatsuri ritual...
+        Tsuyuko: ...But the knowledge I gained at the Akademiya tells me that the spread of Holy Soil is due to Watatsumi Island's geological make-up.
+        Tsuyuko: As the seawater encroaches on land, the soil dries and hardens. The saline and alkaline components will leach the land's nutrients away and render the soil inert, thus rendering it no longer suitable for agriculture.
+        Tsuyuko: The Jade Coral Branches contain Omikami's power, and they can replenish the missing elements in the soil, thus staving off the effects of bleaching.
+        Tsuyuko: Ahem. Sorry, I digress.
+    Option 2:
+        Traveler: About the names of the Goshou Rocks...
+        Tsuyuko: Ah, you must want to know why these seals are named the way they are?
+        Tsuyuko: The Omikami has an envoy, and the clergy set a seal upon its skeleton and used its power to break the connection between Watatsumi and Enkanomiya.
+        Tsuyuko: If you don't believe me, you can look at the map yourself. The bulge on the left is the "eye" and the one stretching out at the bottom right is the "tail"...
+        Tsuyuko: Okay, don't look at me like that! That's the explanation I got from my fellow shrine maidens! It's hard for me to accept it too!
+    Option 3:
+        Traveler: So, what's with the "Holy Soil"...
+        Tsuyuko: Basically, the bleaching of the soil is said to be due to absorption of the spirit of Watatsumi Island by Byakuyakoku. If it sinks all the way to the bottom, then Watatsumi will become a desert.
+        Tsuyuko: But thanks to the suppressive power of Sangonomiya Shrine and our Omikami's might, which our Divine Priestess has inherited, this Holy Soil has not spread to encompass the rest of the island.

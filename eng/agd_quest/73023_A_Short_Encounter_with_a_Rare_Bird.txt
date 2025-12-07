@@ -16,7 +16,10 @@ Shefket (???): Can I have a piece of that Shroomboar you just hunted?
 Paimon: Shroomboar... That wild boar with mushrooms on its back?
 Shefket (???): Yup, exactly. They're always rolling in the mud of Sumeru, so spores stick to their fur and grow into mushrooms.
 Shefket (???): Haha, some say the mushrooms gradually eat away at the wild boar while they grow... Likewise, the Shroomboar's meat gains a unique mushroom aroma, and becomes expensive...
-Traveler: Sounds creepy.
+    Option 1:
+        Traveler: Sounds creepy.
+    Option 2:
+        Traveler: Sounds scary.
 Shefket (???): Haha! It's just a rumor. Shroomboars can eat the mushrooms on each other's backs during the winter or when they have nothing to eat.
 Shefket (???): Mushrooms, on the other hand, can spread their spores even further with the wild boars carrying them... It's actually a healthy symbiotic relationship...
 Shefket: Ooh, forgive me, I don't think I've introduced myself. I'm Shefket, and you?
@@ -40,7 +43,6 @@ Shefket: #Traveler, have you seen a Dusk Bird before? It's a gorgeous bird found
 Shefket: It's a bird unique to Sumeru. Even the Akademiya researchers often use it to send messages... Though it's capable of long distance travel, it hates rain and will hide away on rainy days.
 Shefket: Well, it's time for me to go. A Dusk Bird... I hope I'll be able to capture one on my own... Haha, I can't keep relying on others.
 Shefket: But if you're willing... Ahem... I hope you'll keep an eye out for me. I'm willing to buy the Dusk Birds you capture.
-Traveler: Sounds scary.
 
 ## Talk 4
 
@@ -59,8 +61,12 @@ Paimon: Missing text (3426392962)
 
 Paimon: Oh, you're that field researcher!
 Shefket: What do you mean? Haha, my name is Shefket. We've met before. You even sold some Shroomboar meat to me.
-Traveler: Really?
-Paimon: Yup! He paid us much higher than the price of ordinary wild boar meat...
+    Option 1:
+        Traveler: Really?
+        Paimon: Yup! He paid us much higher than the price of ordinary wild boar meat...
+    Option 2:
+        Traveler: That did happen...
+        Paimon: Yes, Paimon remembers now! It's the animal lover, Shefket!
 Paimon: So, Shefket, what are you doing here?
 Shefket: Hahaha! It's embarrassing to say, but my research is still ongoing...
 Shefket: I need a Dusk Bird, but I still haven't caught one... My research progress is worrying... And that's not the worst.
@@ -84,8 +90,6 @@ Shefket: No, there isn't. Its quality just isn't very good... Oh, I mean, I can 
 Shefket: Well, I'll have to go around and gather more feathers. It's the only way I can find out what happened to the entire colony of Dusk Birds...
 Shefket: I heard there's a different colony of Dusk Birds in the *north of Apam Woods*. It looks like I'll have to look for Dusk Birds there...
 Shefket: #Hmm, time to leave now! May we meet again, Traveler and Paimon!
-Traveler: That did happen...
-Paimon: Yes, Paimon remembers now! It's the animal lover, Shefket!
 
 ## Talk 8
 
@@ -108,12 +112,22 @@ Paimon: ...Did Shefket deceive us?
 Orhan: Shefket... Shefket again... Oh, Dendro Archon! You've been utterly duped by that guy.
 Orhan: He disguises himself as a Forest Ranger to trick people, but he's actually working with the Treasure Hoarders to sell the precious materials he gathers from rare animals...
 Paimon: How could that be...
-Traveler: I have to admit...
+    Option 1:
+        Traveler: I have to admit...
+    Option 2:
+        Traveler: Shefket tricked us...
 Orhan: You're not the first adventurer to be tricked by him. He's always making adventurers help him and hiding behind them. He's as slippery as an eel...
 Paimon: #What do we do, Traveler? We've hunted quite a few Dusk Birds...
-Traveler: Let's hope they serve balanced meals in prison...
-Paimon: NOOOO! Paimon doesn't want to get locked up by the Corps of Thirty!
-Orhan: ...It's not that serious. The Dusk Bird colony is quite huge, so Dusk Birds are not that rare. You didn't know what you were doing either, so it's not serious enough to get locked up for that.
+    Option 1:
+        Traveler: Let's hope they serve balanced meals in prison...
+        Paimon: NOOOO! Paimon doesn't want to get locked up by the Corps of Thirty!
+        Orhan: ...It's not that serious. The Dusk Bird colony is quite huge, so Dusk Birds are not that rare. You didn't know what you were doing either, so it's not serious enough to get locked up for that.
+    Option 2:
+        Traveler: Is it too late for us to flee from Sumeru?
+        Paimon: It can't be helped. We'll have to return another time for the parts of Sumeru we haven't explored yet.
+        Orhan: I can't just watch as you flee right in front of me, and the Corps of Thirty has surrounded the area to combat the recent rise in poaching!
+        Traveler: Nooo, I don't want to get locked up by the Corps of Thirty!
+        Orhan: ...Calm down. The Dusk Bird colony is quite huge, so Dusk Birds are not that rare. You didn't know what you were doing either, so it's not serious enough to get locked up for that.
 Paimon: Paimon gets it...
 Orhan: But you can't escape being punished for it... I want to say that, but... Ahem, there's an opportunity for you to redeem yourselves!
 Paimon: An opportunity to redeem ourselves?
@@ -133,12 +147,6 @@ Orhan: Pamuk, around Vimara Village...
 Pamuk: Got it, Boss! Don't worry, I'll spread the fake information!
 Orhan: Alright, we're gonna get that poacher this time!
 Orhan: #I'll leave the rest to you, Traveler. We must draw him out of hiding.
-Traveler: Is it too late for us to flee from Sumeru?
-Paimon: It can't be helped. We'll have to return another time for the parts of Sumeru we haven't explored yet.
-Orhan: I can't just watch as you flee right in front of me, and the Corps of Thirty has surrounded the area to combat the recent rise in poaching!
-Traveler: Nooo, I don't want to get locked up by the Corps of Thirty!
-Orhan: ...Calm down. The Dusk Bird colony is quite huge, so Dusk Birds are not that rare. You didn't know what you were doing either, so it's not serious enough to get locked up for that.
-Traveler: Shefket tricked us...
 
 ## Talk 10
 
@@ -179,14 +187,16 @@ Paimon: The liar has finally been apprehended.
 Paimon: So, Orhan, what took you so long?
 Orhan: Oh, that... Ferit and Pamuk never returned, and I couldn't find them. After much consideration, I decided to come here myself. Haha...
 Orhan: Didn't I make it just in time? My timing was perfect.
-Traveler: That sounds questionable...
+    Option 1:
+        Traveler: That sounds questionable...
+    Option 2:
+        Traveler: Just a little later and it wouldn't have made a difference...
 Shefket: Hmph! What? I expected many of the Corps of Thirty to be lying in ambush here. But it's just one?
 Shefket: I planned to feign capture and look for an opportunity to escape, but hah! It doesn't look necessary at all now!
 Paimon: Huh?
 Shefket: Don't tell me you think just the two of you and... a lousy guard from the Corps of Thirty can capture me?
 Shefket: Today's your unlucky day because it just happens to be the day I promised to deliver the goods to the Treasure Hoarders, so they're lying in ambush just over there. You're not the only one who can call for reinforcements!
 Shefket: Hurry! Get rid of them!
-Traveler: Just a little later and it wouldn't have made a difference...
 
 ## Talk 12
 
@@ -208,11 +218,17 @@ Orhan: #*sigh* If it wasn't for Traveler, I would have gotten a good beating fro
 Orhan: #I must admit, I wasn't expecting Traveler to take the Treasure Hoarders down so easily...
 Paimon: #Of course! Traveler is stronger than he looks!
 Orhan: No wonder. I mean, I got taken out with great ease when I tried to stop you earlier, but this... exceeded my expectations a little.
-Traveler: You're too kind.
+    Option 1:
+        Traveler: You're too kind.
+    Option 2:
+        Traveler: It's going to get to my head if you don't stop!
 Orhan: #Alright, Shefket. We... I mean Traveler has taken down the Treasure Hoarders you were relying on. Now, do you have anything else to say?
 Shefket: I—I... Actually, the mental trauma I experienced as a child is the cause of all this...
 Shefket: Let me explain... It happened when I was just a young boy...
-Traveler: Nobody cares!
+    Option 1:
+        Traveler: Nobody cares!
+    Option 2:
+        Traveler: Stop making up stories!
 Orhan: Alright, you've caught this guy and atoned for your crimes. Next time, choose wisely when you decide to believe someone!
 Orhan: If only you listened to me from the very beginning...
 Paimon: Hey! You attacked us without saying a word!
@@ -221,8 +237,6 @@ Orhan: But I hope there isn't a next time. Be careful, and don't just believe an
 Traveler: Got it, got it!
 Paimon: Paimon'll bear that in mind.
 Black Screen Text: Orhan leaves with Shefket in his custody...
-Traveler: Stop making up stories!
-Traveler: It's going to get to my head if you don't stop!
 
 ## Talk 18
 

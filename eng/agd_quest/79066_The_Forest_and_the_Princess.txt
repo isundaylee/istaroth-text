@@ -21,7 +21,11 @@ Souffache: I—I'm afraid... My legs are rather useless when it comes to flight 
 Cimest: How about you, Saborn? Will you go?
 Saborn: Uhh, m—my eyesight... Alas, I fear I would be unable to see their movements clearly enough to judge...
 Cimest: Good, that's settled then. The two of you will stay to handle affairs within the kingdom, while I shall assist in managing the selection process at the original location myself.
-Traveler: Something fun going on?
+    Option 1:
+        Traveler: Something fun going on?
+    Option 2:
+        Traveler: Might I submit myself as a candidate for the trial, Your Highness?
+        Paimon: Ooh, ooh! We're good at flying, and adventuring too! Can we participate?
 Cimest: Oh, greetings to both of you, and welcome to the Kingdom of Breezes and Bells. You're very welcome to sign up for the "Guardian of the Kingdom" selection trials.
 Cimest: You have not previously participated in the selection trials of our Kingdom of Breezes and Bells, if I am not mistaken?
 Paimon: How does Your Highness know this?
@@ -30,18 +34,22 @@ Cimest: Oh! That's enough chit-chat, I suppose. As it so happens, I was just abo
 Cimest: Ministers, the kingdom's affairs are in your hands. Do try not to let anyone cut this tree down while I'm away finding our true Guardian, if you could?
 Saborn (Saborn & Souffache): *sigh* As you wish, Your Highness.
 Cimest: The two of you, please come with me. Before the selection officially begins, there are a few things I still need to tell you.
-Traveler: Might I submit myself as a candidate for the trial, Your Highness?
-Paimon: Ooh, ooh! We're good at flying, and adventuring too! Can we participate?
 
 ## Talk 2
 
 Cimest: Please wait here a moment. I will introduce the trial for you, as well as a few things that you'll need to watch out for.
 Paimon: Wow... Her Highness sure is a decisive decision-maker, huh? Guess that's a true princess for you...
-Traveler: I declared I'd accept the trial quite suddenly...
+    Option 1:
+        Traveler: I declared I'd accept the trial quite suddenly...
+    Option 2:
+        Traveler: But Your Highness didn't seem particularly surprised...
 Cimest: Hmm? Oh... Perhaps my introduction seemed a little too forthcoming. My apologies.
 Cimest: In truth, there have been many squirrels who — like you — have suddenly turned up and declared their intention to undergo the trial, so I am already accustomed to receiving such "candidates."
 Cimest: At least... There were many, before that dragon attacked the kingdom.
-Traveler: You said it was to retrieve a relic...
+    Option 1:
+        Traveler: You said it was to retrieve a relic...
+    Option 2:
+        Traveler: Is it being kept somewhere dangerous?
 Cimest: It is indeed. As I mentioned, not long ago, a giant dragon passed through our kingdom.
 Cimest: We tried our best to drive it away, but before leaving, it trampled both the trial ground and the sacred site where the relic was kept to smithereens.
 Cimest: Our original, stable trial environment is now very different from the way it used to be. The wind currents have become unpredictable, causing a dramatic increase in the difficulty of some trial stages.
@@ -54,8 +62,6 @@ Cimest: Simply put, in this trial, the candidate must help their squirrel compan
 Cimest: Don't worry, it isn't complicated. All you have to do is observe the direction of the currents and make decisions accordingly.
 Cimest: Of course, you need not worry about the issue of direction. In this kingdom, no wind can stop me from flying wherever I will.
 Cimest: Alright, let us begin. Please make sure you're both ready.
-Traveler: Is it being kept somewhere dangerous?
-Traveler: But Your Highness didn't seem particularly surprised...
 
 ## Talk 3
 
@@ -64,9 +70,11 @@ Cimest: Your ability to judge the wind's currents was also remarkable. It seems 
 Cimest: Let us make haste to the site where the relic is being kept... Hopefully we won't have another run-in with that dragon.
 Cimest (???): "...I am a voice, but not life..."
 Paimon: #Huh, what was that? It sounded like... someone's voice? Traveler, did you hear that?
-Traveler: I definitely heard it...
+    Option 1:
+        Traveler: I definitely heard it...
+    Option 2:
+        Traveler: ...But I have no idea what it meant.
 Paimon: Whoa, The Princess is way ahead... Let's forget about that for now and catch up with her first.
-Traveler: ...But I have no idea what it meant.
 
 ## Talk 4
 
@@ -83,36 +91,50 @@ Souffache: Saborn, that's quite enough. As for the exact method, we can discuss 
 
 Cimest: ...I didn't expect you to be able to judge the wind currents so accurately.
 Cimest: If you were flying squirrels like I am, navigating those wind currents would pose you no challenge, of that I am certain...
-Traveler: Paimon's a natural when it comes to flying.
+    Option 1:
+        Traveler: Paimon's a natural when it comes to flying.
+    Option 2:
+        Traveler: If everyone had to use wind gliders, I'd be unbeatable.
 Cimest: Pfff... Is that so? I'm glad to hear that, because you two are the most Guardian-like candidates I've ever seen.
 Cimest: Then let us continue. The current wind conditions are just right.
 Traveler: No problem!
 Paimon: Hehe, everything's going great! Maybe we're the Guardians that Her Highness has been looking for.
-Traveler: Your Highness was outstanding, too.
+    Option 1:
+        Traveler: Your Highness was outstanding, too.
+    Option 2:
+        Traveler: Your Highness is the only true Guardian.
 Cimest: Thank you for your kind words. I had in fact passed the trial many times before the dragon destroyed the sacred site.
 Cimest: Purely in terms of flying ability, I am confident that no other squirrel is my equal. Previous candidates found even the first few stages too difficult.
 Paimon: Huh? But if Your Highness already passed the trial, how come you didn't take the relic?
 Cimest: ...Unfortunately, the relic has yet to acknowledge me.
-Traveler: So even Guardians require the relic's acknowledgment?
+    Option 1:
+        Traveler: So even Guardians require the relic's acknowledgment?
+    Option 2:
+        Traveler: Why does that relic get to call all the shots...
 Cimest: That I do not know. Perhaps it thought I didn't pass the trial...
-Traveler: Surely there aren't hidden stages?
+    Option 1:
+        Traveler: Surely there aren't hidden stages?
+    Option 2:
+        Traveler: Do the trial stages change for each challenger?
 Cimest: All I know is, the relic has never lit up for me.
 Cimest: But you... Not only have you come precisely at our kingdom's hour of need, but your capabilities are undeniable. That is why I believe you will earn the relic's acknowledgement.
 Cimest: Let us continue. The final stage of the trial awaits.
-Traveler: Do the trial stages change for each challenger?
-Traveler: Why does that relic get to call all the shots...
-Traveler: Your Highness is the only true Guardian.
-Traveler: If everyone had to use wind gliders, I'd be unbeatable.
 
 ## Talk 7
 
 Paimon: So... This is where the relic was being kept?
-Traveler: These footprints are massive.
+    Option 1:
+        Traveler: These footprints are massive.
+    Option 2:
+        Traveler: That dragon must be huge...
 Cimest: Perhaps in driving the dragon away, we also drove it into a rage.
 Cimest: The relic is down there. Pass the trial, and you may claim it.
 Paimon: Paimon thought that the relic would be protected by some kind of seal, or guard, or... something.
 Paimon: But it looks like it's just lying there, and it doesn't seem like anything's stopping someone from just taking it...
-Traveler: Just a hop and a step away.
+    Option 1:
+        Traveler: Just a hop and a step away.
+    Option 2:
+        Traveler: Why don't we just jump down and take it?
 Cimest: What you say is correct. This relic does indeed have a "seal" — namely, the "trial" that you have seen.
 Cimest: According to the kingdom's records, one must pass the trial in order to retrieve the relic.
 Cimest: Conversely, if it is taken by someone who has not yet passed the trial, it will lose its "meaning" as a relic.
@@ -122,8 +144,6 @@ Cimest: Without satisfying these two conditions, the best-case scenario is that 
 Paimon: "The best-case scenario"... Does that mean something worse could happen, too?
 Traveler: Those who act in defiance of the rules shall be cursed.
 Paimon: C—Cursed! Uhh, in that case, let's just... go ahead and accept the trial...
-Traveler: Why don't we just jump down and take it?
-Traveler: That dragon must be huge...
 
 ## Talk 8
 
@@ -131,14 +151,20 @@ Paimon: #We passed! Traveler, we're Guardians now! So is this the relic that's u
 Paimon: Huh? There's something carved onto it, like a line of text maybe? Let Paimon take a closer look...
 Paimon: "Stories follow rules, unfolding in cyclical patterns, but each should follow its own course."
 Paimon: #Uhh, Paimon doesn't get it. Do you get it, Traveler?
-Traveler: It's probably some roundabout way of cheering us on?
+    Option 1:
+        Traveler: It's probably some roundabout way of cheering us on?
+    Option 2:
+        Traveler: It's probably meant to encourage challengers.
 Cimest: Those words have always been there. Even I do not know their origin...
 Cimest: I sense that they may hold some great significance for the kingdom... But I have yet to grasp their meaning.
 Cimest: Whatever the case, given your performance in the trial, you are undoubtedly the most suitable candidate for the title of "Guardian" that I've ever met.
 Cimest: Your abilities and judgment are beyond question. Meeting you at a time like this is truly a blessing for our kingdom.
 Cimest: Now that we have retrieved the relic, we may hold the ceremony right away.
 Cimest: I am fully confident that your courage and abilities will have won you the relic's respect.
-Traveler: You flatter me, Your Highness.
+    Option 1:
+        Traveler: You flatter me, Your Highness.
+    Option 2:
+        Traveler: Nothing can stand in our way!
 Paimon: Hehe, it was nothing! We're just glad we could help you, Your Highness.
 Paimon: Whoa! When did you guys get here? Paimon didn't even notice you arrive!
 Souffache: We flew over, of course! We were among the best flyers around when we were young, you know. How else would we have been able to serve the princess?
@@ -148,7 +174,10 @@ Souffache: Your Highness, everything is exactly as the legends said!
 Saborn: It seems that our kingdom finally has a "future" to look forward to!
 Cimest: We shall find out soon enough.
 Cimest: Now, please place your hand upon the relic. Let it light up and proclaim that you are henceforth the "Guardian of the Kingdom"!
-Traveler: ...Erm, do... do you think it's not bright enough?
+    Option 1:
+        Traveler: ...Erm, do... do you think it's not bright enough?
+    Option 2:
+        Traveler: Has... it even lit up at all?
 Paimon: Let Paimon take a look... Ehh? M—Maybe it's been there so long that... it just can't light up anymore?
 Paimon: Kinda like how candles that've been lying around too long won't burn very brightly.
 Saborn: How... How could that be? All the details match, yet the relic still...
@@ -161,21 +190,22 @@ Cimest: Then let us create a precedent for future rulers to follow.
 Cimest: #Traveler, Paimon, come forward.
 Cimest: As Princess of the Kingdom of Breezes and Bells, I hereby declare...
 Cimest: #That Traveler and Paimon shall henceforth be recognized as the kingdom's "Paladins of Breezes and Bells"!
-Traveler: At your service, Your Highness.
+    Option 1:
+        Traveler: At your service, Your Highness.
+    Option 2:
+        Traveler: It is my honor, Your Highness.
 Paimon: Hooray! A "Paladin of Breezes and Bells"... Hehe, such a cool title!
 Traveler: Definitely cooler than just being any old guardian.
 Saborn: B—But surely that means we still haven't found our "Guardian"? And if that is so, then we won't be able to fulfill our "calling."
 Souffache: And if we cannot fulfill our "calling"... We'll no longer have a "future" to look forward to, just like the kingdoms that came before us...
 Cimest: ...Fret not, I will find a way.
-Traveler: You have my sword.
+    Option 1:
+        Traveler: You have my sword.
+    Option 2:
+        Traveler: Shouldst thou require my aid, I am at thy service.
 Cimest: My thanks, good Paladin. I will indeed need your help.
 Cimest: But first, I will need to put the pieces of this puzzle together...
 Cimest: After some time has passed, please return to my kingdom to meet me. When the time is nigh, we shall set forth in search of the kingdom's future together.
-Traveler: Shouldst thou require my aid, I am at thy service.
-Traveler: It is my honor, Your Highness.
-Traveler: Has... it even lit up at all?
-Traveler: Nothing can stand in our way!
-Traveler: It's probably meant to encourage challengers.
 
 ## Talk 9
 
@@ -183,14 +213,20 @@ Paimon: #We passed! Traveler, we're Guardians now! So is this the relic that's u
 Paimon: Huh? There's something carved onto it, like a line of text maybe? Let Paimon take a closer look...
 Paimon: "Stories follow rules, unfolding in cyclical patterns, but each should follow its own course."
 Paimon: #Uhh, Paimon doesn't get it. Do you get it, Traveler?
-Traveler: It's probably some roundabout way of cheering us on?
+    Option 1:
+        Traveler: It's probably some roundabout way of cheering us on?
+    Option 2:
+        Traveler: It's probably meant to encourage challengers.
 Cimest: Those words have always been there. Even I do not know their origin...
 Cimest: I sense that they may hold some great significance for the kingdom... But I have yet to grasp their meaning.
 Cimest: Whatever the case, given your performance in the trial, you are undoubtedly the most suitable candidate for the title of "Guardian" that I've ever met.
 Cimest: Your abilities and judgment are beyond question. Meeting you at a time like this is truly a blessing for our kingdom.
 Cimest: Now that we have retrieved the relic, we may hold the ceremony right away.
 Cimest: I am fully confident that your courage and abilities will have won you the relic's respect.
-Traveler: You flatter me, Your Highness.
+    Option 1:
+        Traveler: You flatter me, Your Highness.
+    Option 2:
+        Traveler: Nothing can stand in our way!
 Paimon: Hehe, it was nothing! We're just glad we could help you, Your Highness.
 Paimon: Whoa! When did you guys get here? Paimon didn't even notice you arrive!
 Souffache: We flew over, of course! We were among the best flyers around when we were young, you know. How else would we have been able to serve the princess?
@@ -200,7 +236,10 @@ Souffache: Your Highness, everything is exactly as the legends said!
 Saborn: It seems that our kingdom finally has a "future" to look forward to!
 Cimest: We shall find out soon enough.
 Cimest: Now, please place your hand upon the relic. Let it light up and proclaim that you are henceforth the "Guardian of the Kingdom"!
-Traveler: ...Erm, do... do you think it's not bright enough?
+    Option 1:
+        Traveler: ...Erm, do... do you think it's not bright enough?
+    Option 2:
+        Traveler: Has... it even lit up at all?
 Paimon: Let Paimon take a look... Ehh? M—Maybe it's been there so long that... it just can't light up anymore?
 Paimon: Kinda like how candles that've been lying around too long won't burn very brightly.
 Saborn: How... How could that be? All the details match, yet the relic still...
@@ -213,18 +252,27 @@ Cimest: Then let us create a precedent for future rulers to follow.
 Cimest: #Traveler, Paimon, come forward.
 Cimest: As Princess of the Kingdom of Breezes and Bells, I hereby declare...
 Cimest: #That Traveler and Paimon shall henceforth be recognized as the kingdom's "Paladins of Breezes and Bells"!
-Traveler: At your service, Your Highness.
+    Option 1:
+        Traveler: At your service, Your Highness.
+    Option 2:
+        Traveler: It is my honor, Your Highness.
 Paimon: Hooray! A "Paladin of Breezes and Bells"... Hehe, such a cool title!
 Traveler: Definitely cooler than just being any old guardian.
 Saborn: B—But surely that means we still haven't found our "Guardian"? And if that is so, then we won't be able to fulfill our "calling."
 Souffache: And if we cannot fulfill our "calling"... We'll no longer have a "future" to look forward to, just like the kingdoms that came before us...
 Cimest: ...Fret not, I will find a way.
-Traveler: Wait, speaking of choosing a Guardian...
+    Option 1:
+        Traveler: Wait, speaking of choosing a Guardian...
+    Option 2:
+        Traveler: They're currently choosing a champion over at Rainsong Pond...
 Paimon: You mean that Faurobert who could jump super high?
 Paimon: You're right! The whole reason they held that contest was to find a champion to come rescue the princess...
 Paimon: Although it doesn't seem like the princess needs saving. If you were looking for a super-strong champion to win your contest, they just so happen to have one!
 Paimon: In fact, there's bound to be heaps of potential champions over there!
-Traveler: Wait... By "contest," you mean "trial."
+    Option 1:
+        Traveler: Wait... By "contest," you mean "trial."
+    Option 2:
+        Traveler: And by "champion," you mean "Guardian."
 Cimest: What an extraordinary coincidence...
 Cimest: Though our trial doesn't really have anything to do with jumping. Still, from what you've said, it sounds like they've found the strongest candidate to complete their calling.
 Cimest: ...It seems a trip over to Rainsong Pond is in order. Thank you for informing me.
@@ -233,22 +281,21 @@ Cimest: So what? A Guardian's most vital asset is what is in their heart, not th
 Cimest: Ministers, you are to stay and look after the kingdom while I am gone. I will go to Rainsong Pond myself.
 Cimest: My loyal Paladin, I hope that the "Champion" over at Rainsong Pond is as fearless and skilled as you are.
 Paimon: Well... Skilled is certainly accurate...
-Traveler: But as for fearless...
+    Option 1:
+        Traveler: But as for fearless...
+    Option 2:
+        Traveler: ...That remains to be seen.
 Cimest: Oh? You mean to say that this "Champion" of theirs is actually... a sheep in wolf's clothing?
 Cimest: Hahaha! Then all the more reason to go meet him in person!
 Cimest: Alright, that's settled then. Oh, and if I'm going over to Rainsong Pond... Perhaps I'd better bring some gifts...
-Traveler: ...That remains to be seen.
-Traveler: And by "champion," you mean "Guardian."
-Traveler: They're currently choosing a champion over at Rainsong Pond...
-Traveler: It is my honor, Your Highness.
-Traveler: Has... it even lit up at all?
-Traveler: Nothing can stand in our way!
-Traveler: It's probably meant to encourage challengers.
 
 ## Talk 10
 
 Paimon: So... This is where the relic was being kept?
-Traveler: These footprints are massive.
+    Option 1:
+        Traveler: These footprints are massive.
+    Option 2:
+        Traveler: That dragon must be huge...
 Cimest: Perhaps in driving the dragon away, we also drove it into a rage.
 Traveler: That dragon is actually...
 Black Screen Text: You tell the story of the dragon to Princess Cimest in its entirety, sparing no detail...
@@ -261,7 +308,10 @@ Cimest: Now, let us focus on the relic.
 Cimest: The relic is down there. Pass the trial, and you may claim it.
 Paimon: Paimon thought that the relic would be protected by some kind of seal, or guard, or... something.
 Paimon: But it looks like it's just lying there, and it doesn't seem like anything's stopping someone from just taking it...
-Traveler: Just a hop and a step away.
+    Option 1:
+        Traveler: Just a hop and a step away.
+    Option 2:
+        Traveler: Why don't we just jump down and take it?
 Cimest: What you say is correct. This relic does indeed have a "seal" — namely, the "trial" that you have seen.
 Cimest: According to the kingdom's records, one must pass the trial in order to retrieve the relic.
 Cimest: Conversely, if it is taken by someone who has not yet passed the trial, it will lose its "meaning" as a relic.
@@ -271,8 +321,6 @@ Cimest: Without satisfying these two conditions, the best-case scenario is that 
 Paimon: "The best-case scenario"... Does that mean something worse could happen, too?
 Traveler: Those who act in defiance of the rules shall be cursed.
 Paimon: C—Cursed! Uhh, in that case, let's just... go ahead and accept the trial...
-Traveler: Why don't we just jump down and take it?
-Traveler: That dragon must be huge...
 
 ## Talk 11
 

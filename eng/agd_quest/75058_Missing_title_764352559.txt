@@ -22,8 +22,12 @@ Titu: Oh wow! I've heard that even now, there are still Saurians who can sense a
 Titu: #I suppose you really are no ordinary Tepetlisaurus, {REALNAME[ID(2)|SHOWHOST(true)]}.
 Paimon: So you can do that too, huh? ...Hmph! You've got some way to go before you can be as good a guide as Paimon.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hmm?
-Traveler: Paimon's jealous.
-Paimon: Says who? Paimon's way more broad-minded than she looks! That was just her way of praising him!
+    Option 1:
+        Traveler: Paimon's jealous.
+        Paimon: Says who? Paimon's way more broad-minded than she looks! That was just her way of praising him!
+    Option 2:
+        Traveler: See, Paimon's praising you!
+        Paimon: Well, that's true, but don't let it go to your head now...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err... Err?
 Paimon: *sigh* The little guy didn't catch that at all. Bah, if only he was a little smarter...
 Traveler: I'm sure he'll understand someday...
@@ -34,5 +38,3 @@ Paimon: #Sorry, {REALNAME[ID(2)|SHOWHOST(true)]}.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrraa, Rawr!
 Paimon: You're quick to reply though, Paimon'll give you that!
 Paimon: Alright, we'll follow you and see if we can find any golden patterns.
-Traveler: See, Paimon's praising you!
-Paimon: Well, that's true, but don't let it go to your head now...

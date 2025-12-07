@@ -8,7 +8,10 @@ Lutong: Yes, Mr. Garcia, this is where Slimes are most often found.
 Garcia: I am most certain of that. However...
 Garcia: Would you agree that the Slimes are mildly overwhelming in quantity?
 Lutong: Mr. Garcia, this is how we end up when we are caught short financially.
-Traveler: You are... Garcia?
+    Option 1:
+        Traveler: You are... Garcia?
+    Option 2:
+        Traveler: What brings you here?
 Garcia: Traveler! What a coincidence!
 Traveler: What are you doing here?
 Garcia: Haha. Why, I'm here for...
@@ -29,7 +32,6 @@ Lutong: Yes.
 Garcia: Lutong, do we... um... do we have any Mora left?
 Lutong: Well, I believe we'll find a way to get by after we pay the Traveler.
 Garcia: Splendid. Traveler, I'd appreciate it if you could kindly retrieve some Slime Condensate for me.
-Traveler: What brings you here?
 
 ## Talk 2
 
@@ -69,23 +71,27 @@ Lutong: I guess this is what they call destiny...
 Lutong: Once again, Mr. Garcia, I sincerely suggest that we sell a few books to raise some Mora.
 Garcia: No! Not for the world! Lutong, my dear, you are asking me to put my soul up for sale!
 Lutong: But sir, no one bids for souls.
-Traveler: Why are you still here?
+    Option 1:
+        Traveler: Why are you still here?
+    Option 2:
+        Traveler: Do you need some more Slime Condensate?
 Garcia: Oh, Traveler? What brings you here?
 Garcia: Um... My last experiment failed. There was something wrong with my dilution of the Slime Condensate...
 Garcia: Instead of lubricating the bearings of the Numbering Machine, the lubricant actually made them more likely to get stuck.
 Garcia: As such, I need more Slime Condensate for further experiments. Could you...
-Traveler: Leave it to me.
+    Option 1:
+        Traveler: Leave it to me.
+    Option 2:
+        Traveler: Don't you have a way to earn Mora?
+        Garcia: It's not that we don't...
+        Lutong: It's a question of ability.
+        Garcia: Thank you very much for this timely explanation, my dear Lutong.
+        Garcia: Well, it's most certainly a shame... Although I have finished building the Numbering Machine, its functions are incalculably underwhelming.
+        Garcia: It cannot even fully function as an automatic calculator, requiring manual aid to facilitate its operation.
+        Garcia: But... I will enhance it! I firmly believe that my Numbering Machine will be a great invention!
+        Garcia: An... An invention that heralds a new era! And after that, I'm sure I'll find a way to earn Mora...
+        Garcia: H—However, before that...
 Lutong: Traveler, please help us collect the Slime Condensate. I'll have your payment ready.
-Traveler: Don't you have a way to earn Mora?
-Garcia: It's not that we don't...
-Lutong: It's a question of ability.
-Garcia: Thank you very much for this timely explanation, my dear Lutong.
-Garcia: Well, it's most certainly a shame... Although I have finished building the Numbering Machine, its functions are incalculably underwhelming.
-Garcia: It cannot even fully function as an automatic calculator, requiring manual aid to facilitate its operation.
-Garcia: But... I will enhance it! I firmly believe that my Numbering Machine will be a great invention!
-Garcia: An... An invention that heralds a new era! And after that, I'm sure I'll find a way to earn Mora...
-Garcia: H—However, before that...
-Traveler: Do you need some more Slime Condensate?
 
 ### Additional Talk 2
 
@@ -97,20 +103,24 @@ Garcia: Traveler, ha... It's all right. I'm fine. Do I look I have a problem?
 Garcia: Now I am 100% committed to the research on the Numbering Machine, and I feel that I am only one step away from success.
 Garcia: If you're willing to help, would you please get some Slime Condensate for me?
 Garcia: Since you are here, I don't have to go back to the city to hire people. Now that I have made a little money now, I can offer you a better payment.
-Traveler: Sure.
+    Option 1:
+        Traveler: Sure.
+    Option 2:
+        Traveler: That sounds good to me...
 Garcia: I will leave this part to you, Traveler. As for me, I have to think about how to change the structure of the mechanism...
-Traveler: That sounds good to me...
 
 ### Additional Talk 3
 
 Lutong: Traveler, thanks for coming.
-Traveler: About Garcia...
+    Option 1:
+        Traveler: About Garcia...
+    Option 2:
+        Traveler: He is still...
 Lutong: You're right, it's Ms. Kaia. Though Mr. Garcia doesn't talk about it, he gets distracted more and more often at work.
 Lutong: And he never went to that café again. Now he just asks me to buy it for him.
 Lutong: Even Mr. Ahangar came to tell me that he could talk to Mr. Garcia if it's necessary.
 Lutong: I don't know how to straighten Mr. Garcia out, as I have no experience dealing with this kind of situation.
 Lutong: *sigh* Looks like there is another hurdle in front of me and Mr. Garcia...
-Traveler: He is still...
 
 ### Additional Talk 4
 

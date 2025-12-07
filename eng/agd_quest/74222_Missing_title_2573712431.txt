@@ -8,22 +8,26 @@
 ## Talk 2
 
 Moce: Stay on your guard, citizen!
-Traveler: What are you doing?
-Moce: Me? It is as you see. I am busy dealing with the barbarian threat! They have been stepping up their attacks — perhaps they might even have sent spies!
-Moce: This is no trivial matter! Vigilance must be maintained until reinforcements arrive!
-Moce: If there is anything else, please bring it up with my adjutant, citizen.
-Traveler: A child, out here on their own...
-Moce: Hmm? A child? Where from? Did some new legionnaire disobey orders and bring their family into the camp again...?
-Moce: *sigh* Dominus Cassiodor is far too gentle with these greenhorns. If this were to have happened three decades prior, a Tribunus would've had a whip out by now...
-Traveler: Have there been any suspicious happenings lately?
-Moce: Not at present. That said, the barbarians are akin to cunning beasts. Ever will they strike when your guard has been lowered, for surprise is their greatest weapon!
-Moce: By methods most foul they infiltrate our cities and seek out our secrets. Even the slightest lapse in discipline may lead to catastrophe.
-Moce: *sigh* Thirty years ago, when I followed Dominus Boethius to conquest in the far north, they were but a pack of primitives without any such skill for subterfuge. Where did they learn these tricks?
-Traveler: Thirty years ago... Your parents wouldn't even have been born yet...
-Moce: Hmm? What did you just say, citizen? I fear my hearing's been going as I age.
-Moce: *sigh* Time truly is cruel. During the conquest of Bituria, I could hear the barbarians' bells calling them to muster from miles away.
-Traveler: Goodbye.
-Moce: Fare ye well, citizen! You may report suspicious people to me at any time!
+    Option 1:
+        Traveler: What are you doing?
+        Moce: Me? It is as you see. I am busy dealing with the barbarian threat! They have been stepping up their attacks — perhaps they might even have sent spies!
+        Moce: This is no trivial matter! Vigilance must be maintained until reinforcements arrive!
+        Moce: If there is anything else, please bring it up with my adjutant, citizen.
+    Option 2:
+        Traveler: A child, out here on their own...
+        Moce: Hmm? A child? Where from? Did some new legionnaire disobey orders and bring their family into the camp again...?
+        Moce: *sigh* Dominus Cassiodor is far too gentle with these greenhorns. If this were to have happened three decades prior, a Tribunus would've had a whip out by now...
+    Option 3:
+        Traveler: Have there been any suspicious happenings lately?
+        Moce: Not at present. That said, the barbarians are akin to cunning beasts. Ever will they strike when your guard has been lowered, for surprise is their greatest weapon!
+        Moce: By methods most foul they infiltrate our cities and seek out our secrets. Even the slightest lapse in discipline may lead to catastrophe.
+        Moce: *sigh* Thirty years ago, when I followed Dominus Boethius to conquest in the far north, they were but a pack of primitives without any such skill for subterfuge. Where did they learn these tricks?
+        Traveler: Thirty years ago... Your parents wouldn't even have been born yet...
+        Moce: Hmm? What did you just say, citizen? I fear my hearing's been going as I age.
+        Moce: *sigh* Time truly is cruel. During the conquest of Bituria, I could hear the barbarians' bells calling them to muster from miles away.
+    Option 4:
+        Traveler: Goodbye.
+        Moce: Fare ye well, citizen! You may report suspicious people to me at any time!
 
 ## Talk 3
 
@@ -63,16 +67,20 @@ Giovanni: In any case, I am counting on you. Should you discover anything, repor
 ## Talk 9
 
 Giovanni: Have you made any discoveries, citizen?
-Traveler: I found a few...
-Traveler: It's nothing.
-Giovanni: Stay safe! Report to me should anything arise!
+    Option 1:
+        Traveler: I found a few...
+    Option 2:
+        Traveler: It's nothing.
+        Giovanni: Stay safe! Report to me should anything arise!
 
 ## Talk 10
 
 Giovanni: To think that... There can be no mistake. This is one of the barbarians' signal poles, by which they send their vile messages!
-Traveler: You sure about that?
+    Option 1:
+        Traveler: You sure about that?
+    Option 2:
+        Traveler: You said it was a wooden sword just now...
 Giovanni: *sigh* I cannot believe that their spies truly have infiltrated our ranks. It seems Tribunus Mettius's fears were not unfounded.
 Giovanni: Once I report this matter to him, I will have discharged my duty.
 Giovanni: You have my thanks regardless, citizen. If not for you, our defenses might have collapsed well before the heathen hordes arrived!
 Giovanni: I will surely mention your contribution when making my report.
-Traveler: You said it was a wooden sword just now...

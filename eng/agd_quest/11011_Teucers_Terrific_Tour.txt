@@ -24,11 +24,13 @@ Teucer: Will this picture do? I drew it myself. I bring it with me everywhere!
 Granny Shan: Hmm... I'll manage. Still, I must warn you that custom builds can really be quite expensive...
 Paimon: Ah, we should be fine, Childe was pretty generous with that entertainment fund...
 Paimon: Um... But then again, throwing money around willy-nilly is, y'know, kinda irresponsible...
-Traveler: What do you really mean...?
-Paimon: Well, um, so... Yes, technically speaking, these funds are earmarked for Teucer's entertainment... But, if there's any left over when we're done...
+    Option 1:
+        Traveler: What do you really mean...?
+        Paimon: Well, um, so... Yes, technically speaking, these funds are earmarked for Teucer's entertainment... But, if there's any left over when we're done...
+    Option 2:
+        Traveler: You think we should pocket the change?
+        Paimon: Eh-heh, your words not mine! But yes, we're on the same page here.
 Paimon: Either way... it's time to talk prices!
-Traveler: You think we should pocket the change?
-Paimon: Eh-heh, your words not mine! But yes, we're on the same page here.
 
 ## Talk 3
 
@@ -80,7 +82,10 @@ Childe: No problem. Don't blink, though, or you might miss it.
 ## Talk 6
 
 Paimon: Teucer. So you did come here!
-Traveler: Don't you ever run off like that again, young man!
+    Option 1:
+        Traveler: Don't you ever run off like that again, young man!
+    Option 2:
+        Traveler: Your brother would have been worried sick.
 Teucer: Shh... Quiet, my brother's giving his speech!
 Childe: ...From this day forward, you will honor the oaths you have made to Her Majesty the Tsaritsa, and you will stop at nothing to bring Snezhnaya victory.
 Childe: You shall sweep through this land like the icy winds of the furthest north, as strong as the hoar frost of Zapolyarny Palace. You will chill the very marrow in our enemies' bones!
@@ -109,7 +114,6 @@ Childe: Am I hearing a hint of objection to this idea?
 Fatui Recruit (Fatui Recruits): Not at all, sir!
 Childe: That's the spirit!
 Childe: Now, come at me, you lot.
-Traveler: Your brother would have been worried sick.
 
 ## Talk 7
 
@@ -133,17 +137,21 @@ Paimon: Uh, given Liyue's climate, the area around the harbor's mouth probably n
 Paimon: Paimon is kinda the Traveler's exclusive personal tour guide, but... since this is a special occasion, Paimon can make an exception to help Teucer get to know the place.
 Paimon: This place is Liyue's commercial hub, and it's been the biggest port in the seven nations ever since it was decided that Liyue would take on the world through trade.
 Paimon: Other than merchant vessels, many fishing boats and industrial transports dock here to replenish their, uh, fishery supplies and daily necessie— necessities, which, thanks to the... immense... throughput capacity of the wharf... Um...
-Traveler: Paimon, Teucer won't understand a word you're saying...
+    Option 1:
+        Traveler: Paimon, Teucer won't understand a word you're saying...
+    Option 2:
+        Traveler: How about a topic kids would be interested in...
 Paimon: Uh... Yeah, Paimon can't remember how the rest goes anyway...
 Paimon: Well, guess Paimon will just have to explain this Paimon-style! So, this harbor is like Teyvat's mouth, and it's the biggest mouth you've ever seen.
 Paimon: All the nations float their boats over the sea into the mouth. The harbor goes om-nom-nom-nom-nom and has a taste of each boat and the cargo it has on board...
 Paimon: Then, Liyue Harbor rubs its big round belly in satisfaction, because it's all stuffed full of delicious Mora!
-Traveler: That's how you explain throughput capacity?
+    Option 1:
+        Traveler: That's how you explain throughput capacity?
+    Option 2:
+        Traveler: Yes, this is all very... Paimon-style...
 Teucer: Hey, what's that big metal hook over there? I wanna see!
 Paimon: Wait, Teucer, don't run off!
 Paimon: Ugh, after all that, he wasn't even listening!
-Traveler: Yes, this is all very... Paimon-style...
-Traveler: How about a topic kids would be interested in...
 
 ## Talk 10
 
@@ -202,12 +210,15 @@ Paimon: Still... Hehe... Surely there must be a little room for negotiation, rig
 ## Talk 17
 
 Paimon: For our next stop... why don't we head to *Wanmin Restaurant*?
+
 Paimon: It would be a mighty crying shame to come all the way to Liyue and never try the food!
 
 ## Talk 18
 
 Paimon: Looks like we'll be hanging out with Childe's kid brother for a while...
+
 Teucer: So, so, so where are we going to play first?
+
 Paimon: Um... how about we start with the *toy store*?
 
 ## Talk 19
@@ -240,17 +251,21 @@ Uncle Gao: Hey! Whose fish are you calling small? Little kids shouldn't go aroun
 Paimon: He's just a curious kid... No need to get worked up...
 Paimon: That said... These fish are actually pretty big by Paimon's standards. Just how big are the ones you're used to, Teucer?
 Teucer: Um, maybe two hundred times your size?
-Traveler: That's crazy big...
+    Option 1:
+        Traveler: That's crazy big...
+    Option 2:
+        Traveler: Actually, that's still pretty small...
+        Paimon: Hey! Two hundred of Paimon would squish you flat, you know!
 Teucer: There are legends in my hometown about it. It's supposed to be a super delicious fish.
 Teucer: I told my brother about it, and he went out to sea to catch one for me.
 Teucer: A few days later, he returned with a humongous fish slung over his shoulder. Anthon and I were so happy...
 Paimon: Are you sure that was a fish? Paimon thinks it sounds more like some sort of... leviathan...
-Traveler: Sounds like a topic that would interest Xiangling...
+    Option 1:
+        Traveler: Sounds like a topic that would interest Xiangling...
+    Option 2:
+        Traveler: Your brother spoils you too much.
+        Teucer: Hee-hee...
 Teucer: #Hey, Mr. Nice Guy, let's go over there to see the boats!
-Traveler: Your brother spoils you too much.
-Teucer: Hee-hee...
-Traveler: Actually, that's still pretty small...
-Paimon: Hey! Two hundred of Paimon would squish you flat, you know!
 
 ## Talk 24
 
@@ -261,14 +276,16 @@ Teucer: But I think I might get it mixed up with Commodore Hook...
 Paimon: Commodore Hook? Is this another one of your weird toy names...
 Teucer: My brother always sends me a really big toy for my birthday.
 Teucer: Commodore Hook, Blacksteel Jack, Iron Tony... We keep them all in our backyard.
-Traveler: Are they as big as that anchor?
+    Option 1:
+        Traveler: Are they as big as that anchor?
+    Option 2:
+        Traveler: They're all made of metal?
 Teucer: Yeah, and that's why I can't bring them with me all the time. It's a shame...
 Paimon: Wow, using Fatui funds for personal gain. To think Snezhnaya would let their Harbingers do that, all for some giant toys...
 Paimon: But suddenly, it doesn't seem so strange that Teucer would treat a Ruin Guard as a giant toy...
 Teucer: But my favorite has to be Mr. Cyclops. Even though I mostly came here to see my brother, the other big thing I wanted to do was play with Mr. Cyclops!
 Teucer: Ooh, are they selling fish over there? Let's have a look!
 Paimon: Hey! Quit! Running! Off!
-Traveler: They're all made of metal?
 
 ## Talk 25
 
@@ -278,12 +295,14 @@ Teucer: I miss my brother...
 Paimon: What? But we were just with him!
 Teucer: Yeah, but for such a short time that it doesn't count!
 Teucer: Take me to see my brother! I don't want to play anymore!
-Traveler: That's children for you...
-Paimon: Yep, you can have all the patience in the world, but it won't help you at a time like this...
+    Option 1:
+        Traveler: That's children for you...
+        Paimon: Yep, you can have all the patience in the world, but it won't help you at a time like this...
+    Option 2:
+        Traveler: Guess we've got no choice...
 Paimon: Well, we've played with Teucer long enough, haven't we? Paimon thinks we've tried our best here...
 Paimon: Childe said that he'd be by *the river near Qingxu Pool*. Why don't we look for him there?
 Teucer: Yay! Let's go, let's go!
-Traveler: Guess we've got no choice...
 
 ## Additional Conversations
 

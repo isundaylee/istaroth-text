@@ -31,7 +31,10 @@ Keqing: How high and far a kite can fly depends as much on the weather condition
 Charlotte: But as soon as there's no wind, you can only flail about helplessly like a Sweet-Flower Medaka out of water. Experience doesn't matter at that point.
 Keqing: Exactly. Liyue is now a nation ruled by humans after all. It's about time we had the power to make a kite fly, don't you think?
 Keqing: Plus, the easier we can make it to enjoy, the more people will want to participate!
-Traveler: That's not a bad idea!
+    Option 1:
+        Traveler: That's not a bad idea!
+    Option 2:
+        Traveler: Sounds awesome!
 Charlotte: Right!? I also thought it was a novel idea! Plus, it shouldn't cost much to do.
 Keqing: With Miss Charlotte's help, everything has gone smoothly. Our new mechanical kites are already available to purchase from a stall in the harbor. We're having trouble keeping up with demand.
 Keqing: We also gave quite a bit of thought to the price. We didn't want it to be too much more expensive than a traditional kite.
@@ -71,26 +74,29 @@ Keqing: Ah, I almost forgot. The Ministry of Civil Affairs is hosting a kite-fly
 Keqing: #Traveler, if you're interested, you're more than welcome to bring a kite and participate.
 Keqing: The rules are simple. Whoever flies their kite the highest and furthest within the time limit will receive a special honor along with a secret prize.
 Charlotte: I've already prepared more than enough empty film for the event. I can see the spectacle already!
-Traveler: We'll be there!
-Paimon: Paimon was on board the moment you said "secret prize!"
+    Option 1:
+        Traveler: We'll be there!
+        Paimon: Paimon was on board the moment you said "secret prize!"
+    Option 2:
+        Traveler: We've got it in the bag.
+        Paimon: #Uh, maybe tone it down a bit, Traveler. What if we don't win?
+        Paimon: It's better to keep a low profile until the competition starts. Then, we'll give them a show they never saw coming! That secret prize is ours!
 Keqing: Then I'll look forward to seeing your performance.
 Paimon: You bet, see you then!
 Paimon: #Wait, Traveler! Take a peek to your right... Do you see those two people lurking over there?
 Traveler: Yeah, I see them.
 Paimon: Is it just Paimon, or were they staring at us the whole time we were talking to Keqing and Charlotte just now? They seem fishy.
-Traveler: The Qixing do attract a lot of attention.
-Paimon: Huh? Well, yes. But...
-Paimon: Something's up. Paimon just has a bad feeling.
+    Option 1:
+        Traveler: The Qixing do attract a lot of attention.
+        Paimon: Huh? Well, yes. But...
+        Paimon: Something's up. Paimon just has a bad feeling.
+    Option 2:
+        Traveler: I agree.
+        Paimon: Great, so it wasn't just Paimon.
 Paimon: Do you think they could be Treasure Hoarders? They always seem to be stirring up trouble during Lantern Rite.
 Paimon: Paimon's sick of waiting around for something bad to happen. We should strike first! You know, foil their plans before they even begin!
 Paimon: You go right. Paimon will go left!
 Traveler: Wait, Paimon!
-Traveler: I agree.
-Paimon: Great, so it wasn't just Paimon.
-Traveler: We've got it in the bag.
-Paimon: #Uh, maybe tone it down a bit, Traveler. What if we don't win?
-Paimon: It's better to keep a low profile until the competition starts. Then, we'll give them a show they never saw coming! That secret prize is ours!
-Traveler: Sounds awesome!
 
 ## Talk 3
 
@@ -110,7 +116,10 @@ Jiehu: Indeed! Moon Carver and myself have descended upon the mortal realm for a
 Paimon: Looks like you did your research. But in our experience, the harder you try to lead us on, the more likely it is that we've got a big fish on our hands!
 Paimon: #Traveler, we'll go straight to the Millelith and have you arrested for impersonating Adepti!
 Houzhang: Preposterous! Utterly preposterous!
-Traveler: If you really are who you claim to be...
+    Option 1:
+        Traveler: If you really are who you claim to be...
+    Option 2:
+        Traveler: Perhaps you can prove it?
 Paimon: Right! Tell us something that only an Adeptus would know, and it better not be some common knowledge that any person on the street could tell you.
 Jiehu: *sighs*
 Jiehu: During the last Lantern Rite, we gathered at Mt. Hulao with Rex Lapis and made use of Cloud Retainer's Supreme Cuisine Machine to prepare Bamboo Shoot Soup. Perhaps you have some recollection?
@@ -132,7 +141,10 @@ Jiehu: ...*sigh* Alas, one can only let bygones be bygones...
 Traveler: I suppose they really are the adepti...
 Paimon: Uh, that might've been more detail than we needed... Seems like you two are the real deal and Paimon's sorry for suspecting you...
 Paimon: But uh, for beings as forgiving as yourselves, this is just water under the bridge... right?
-Traveler: Take it as a compliment to the quality of your disguise...
+    Option 1:
+        Traveler: Take it as a compliment to the quality of your disguise...
+    Option 2:
+        Traveler: Few people will be able to see through it!
 Houzhang: #You indeed have an agile mind, Traveler. Cloud Retainer was not mistaken in her high estimation of you.
 Paimon: Paimon's still curious about something. It's just...
 Paimon: Paimon can understand why Mountain Shaper is here, but why did you decide to come to the city, Moon Carver? It's not really your thing, is it?
@@ -156,8 +168,6 @@ Houzhang: Thank you for your kind words. We shall now depart.
 Paimon: We got all worked up for nothing, huh? All that trouble and it turned out to be people we knew all along...
 Paimon: Well, it's still pretty early. Let's head over and check out the kite stalls.
 Paimon: Paimon wants to see what kinds of kites we can buy to use in the competition. The bigger and prettier the better!
-Traveler: Few people will be able to see through it!
-Traveler: Perhaps you can prove it?
 
 ## Talk 4
 
@@ -181,12 +191,14 @@ Longzhou: Yes. The Communications Office handles shipments and transports around
 Longzhou: The problem is, many of my colleagues have taken leave during Lantern Rite to spend time with their families. So, our available workforce has seen a dramatic decrease recently.
 Longzhou: If you were willing to help out, then I could get a head start on my next appointment...
 Paimon: You do seem really pressed for time...
-Traveler: We'll help.
-Longzhou: Wonderful! You will of course be compensated for your efforts!
+    Option 1:
+        Traveler: We'll help.
+        Longzhou: Wonderful! You will of course be compensated for your efforts!
+    Option 2:
+        Traveler: We expect to be compensated...
+        Longzhou: Of course, of course! Hard work deserves ample rewards.
 Longzhou: Now, at this time of day... Gaming should be somewhere in the vicinity. Just follow the main road until you see the head of a Wushou dance costume. Should be on your right.
 Zhenyuan: Be sure to come back if you'd like to buy a kite! I'll even give you a discount!
-Traveler: We expect to be compensated...
-Longzhou: Of course, of course! Hard work deserves ample rewards.
 
 ## Talk 6
 
@@ -209,7 +221,10 @@ Paimon: Huh? You know us?
 Gaming: Haha, there probably aren't many in Liyue who don't. I've heard quite a bit about you two, you're quite well-known around these parts!
 Gaming: Oh! And please excuse Longzhou if he forgot to thank you. Take my thanks in his place.
 Gaming: He's a good guy. He's just been super busy lately, running around from place to place... Don't be too hard on him, yeah?
-Traveler: No worries.
+    Option 1:
+        Traveler: No worries.
+    Option 2:
+        Traveler: No thanks necessary.
 Gaming: So, you here for Lantern Rite?
 Paimon: Yep! It's always so lively this time of year. We were actually hoping we could tag along to Yilong Wharf and have a look around.
 Gaming: Perfect! We'll go together then!
@@ -223,7 +238,6 @@ Gaming: Don't worry! I understand. I joke around like that with my friends, too.
 Gaming: You need to pack anything up before we hit the road? I can wait.
 Paimon: Nope. Our things are always packed and ready. We're pretty much travel experts at this point.
 Gaming: Oh! That's right! Then let's get going. If we run into any trouble, you can count on me to protect you. I am a guard after all.
-Traveler: No thanks necessary.
 
 ## Talk 7
 
@@ -243,7 +257,10 @@ Gaming: Yeah, it's not uncommon for deliveries to get intercepted. That's why th
 Paimon: Paimon was impressed by your moves back there. You seem like a real pro at your job.
 Gaming: Oh! That's not a skill I learned on the job. It's just a hobby.
 Gaming: Have you ever heard of Wushou dancing?
-Traveler: I've heard about it somewhere.
+    Option 1:
+        Traveler: I've heard about it somewhere.
+    Option 2:
+        Traveler: I don't think so.
 Gaming: Really? Wushou dancing is famous in Chenyu Vale.
 Gaming: Performers might be invited to promote the opening of a business or to spread good fortune during a holiday season.
 Gaming: But I must admit, it has nothing on the popularity of the Liyue opera.
@@ -254,7 +271,6 @@ Paimon: Ah, Paimon gets it. So you must sleep a lot then.
 Gaming: Not really. Just yesterday, I stayed up all night playing cards.
 Paimon: Oh, uh...
 Gaming: Let's go. The docks are just up ahead.
-Traveler: I don't think so.
 
 ## Talk 10
 
@@ -380,6 +396,8 @@ Zhigui: Alright then. Please do let me know if you'd like more tea. You're welco
 ## Talk 20
 
 Black Screen Text: "It's Gaming!"
+[Missing Dialog 401390807]
+
 Gaming's Granny (Granny): Gaming! When did you get here? Oh, you've lost even more weight. How long are you planning on staying this time?
 Gaming's Aunt (Aunty): How's work been? It sounds tough... You should visit home more often!
 Gaming's Elder Uncle (Uncle): The last time I spoke with your dad, he couldn't stop talking about you. He seems worried. Causing trouble again, are you?
@@ -397,7 +415,10 @@ Paimon: As long you don't wind up drowning Paimon, hehe!
 
 Paimon: Ah! What are you doing here?
 Xianyun: The way you speak, one might have presumed you were displeased to be in one's presence.
-Traveler: Greetings, Cloud Retainer.
+    Option 1:
+        Traveler: Greetings, Cloud Retainer.
+    Option 2:
+        Traveler: Greetings, Xianyun.
 Xianyun: Take note, Paimon. You could learn a thing or two about how to respect your elders.
 Paimon: Starting on the "elder" stuff already, huh...
 Paimon: Shouldn't you be back in your cave tinkering away at some kite-related thingamabob or something? What brings you out here?
@@ -417,7 +438,10 @@ Xianyun: A great thought has illuminated one's mind once again. One is reminded 
 Xianyun: Perhaps you two could wait here whilst one performs this task. It'll be but a moment.
 Paimon: Huh? Wait here? You're really just gonna ditch us here to watch your stuff?
 Paimon: That woman really just does whatever she wants.
-Traveler: Let me go see what she's up to.
+    Option 1:
+        Traveler: Let me go see what she's up to.
+    Option 2:
+        Traveler: I'll leave the stuff-watching to you!
 Paimon: #Hey, not you too, Traveler! All this Paimon-ditching is super not appreciated!
 Paimon: Ugh, just... come back soon, okay? Paimon... Paimon doesn't want anyone to try and steal this stuff!
 Fenglian: Welcome! Please have a look around. We only sell teas of the finest quality, sourced directly from Qiaoying Village. Might I recommend the Sunglo variety? It's one of our specialties!
@@ -487,8 +511,6 @@ Paimon: What did she call it again? "A crude piece of mortal machinery"? Paimon 
 Traveler: That does sound like something she would do.
 Paimon: Totally! We should probably act like we didn't see anything, though. You know, in consideration of her feelings and all.
 Paimon: After all, that is the "propriety with which one should comport oneself" when it comes to an elder, right?
-Traveler: I'll leave the stuff-watching to you!
-Traveler: Greetings, Xianyun.
 
 ## Additional Conversations
 
@@ -533,7 +555,10 @@ Keqing: How high and far a kite can fly depends as much on the weather condition
 Charlotte: But as soon as there's no wind, you can only flail about helplessly like a Sweet-Flower Medaka out of water. Experience doesn't matter at that point.
 Keqing: Exactly. Liyue is now a nation ruled by humans after all. It's about time we had the power to make a kite fly, don't you think?
 Keqing: Plus, the easier we can make it to enjoy, the more people will want to participate!
-Traveler: That's not a bad idea!
+    Option 1:
+        Traveler: That's not a bad idea!
+    Option 2:
+        Traveler: Sounds awesome!
 Charlotte: Right!? I also thought it was a novel idea! Plus, it shouldn't cost much to do.
 Keqing: With Miss Charlotte's help, everything has gone smoothly. Our new mechanical kites are already available to purchase from a stall in the harbor. We're having trouble keeping up with demand.
 Keqing: We also gave quite a bit of thought to the price. We didn't want it to be too much more expensive than a traditional kite.
@@ -573,26 +598,29 @@ Keqing: Ah, I almost forgot. The Ministry of Civil Affairs is hosting a kite-fly
 Keqing: #Traveler, if you're interested, you're more than welcome to bring a kite and participate.
 Keqing: The rules are simple. Whoever flies their kite the highest and furthest within the time limit will receive a special honor along with a secret prize.
 Charlotte: I've already prepared more than enough empty film for the event. I can see the spectacle already!
-Traveler: We'll be there!
-Paimon: Paimon was on board the moment you said "secret prize!"
+    Option 1:
+        Traveler: We'll be there!
+        Paimon: Paimon was on board the moment you said "secret prize!"
+    Option 2:
+        Traveler: We've got it in the bag.
+        Paimon: #Uh, maybe tone it down a bit, Traveler. What if we don't win?
+        Paimon: It's better to keep a low profile until the competition starts. Then, we'll give them a show they never saw coming! That secret prize is ours!
 Keqing: Then I'll look forward to seeing your performance.
 Paimon: You bet, see you then!
 Paimon: #Wait, Traveler! Take a peek to your right... Do you see those two people lurking over there?
 Traveler: Yeah, I see them.
 Paimon: Is it just Paimon, or were they staring at us the whole time we were talking to Keqing and Charlotte just now? They seem fishy.
-Traveler: The Qixing do attract a lot of attention.
-Paimon: Huh? Well, yes. But...
-Paimon: Something's up. Paimon just has a bad feeling.
+    Option 1:
+        Traveler: The Qixing do attract a lot of attention.
+        Paimon: Huh? Well, yes. But...
+        Paimon: Something's up. Paimon just has a bad feeling.
+    Option 2:
+        Traveler: I agree.
+        Paimon: Great, so it wasn't just Paimon.
 Paimon: Do you think they could be Treasure Hoarders? They always seem to be stirring up trouble during Lantern Rite.
 Paimon: Paimon's sick of waiting around for something bad to happen. We should strike first! You know, foil their plans before they even begin!
 Paimon: You go right. Paimon will go left!
 Traveler: Wait, Paimon!
-Traveler: I agree.
-Paimon: Great, so it wasn't just Paimon.
-Traveler: We've got it in the bag.
-Paimon: #Uh, maybe tone it down a bit, Traveler. What if we don't win?
-Paimon: It's better to keep a low profile until the competition starts. Then, we'll give them a show they never saw coming! That secret prize is ours!
-Traveler: Sounds awesome!
 
 ### Additional Talk 5
 
@@ -612,7 +640,10 @@ Jiehu: Indeed! Moon Carver and myself have descended upon the mortal realm for a
 Paimon: Looks like you did your research. But in our experience, the harder you try to lead us on, the more likely it is that we've got a big fish on our hands!
 Paimon: #Traveler, we'll go straight to the Millelith and have you arrested for impersonating Adepti!
 Houzhang: Preposterous! Utterly preposterous!
-Traveler: If you really are who you claim to be...
+    Option 1:
+        Traveler: If you really are who you claim to be...
+    Option 2:
+        Traveler: Perhaps you can prove it?
 Paimon: Right! Tell us something that only an Adeptus would know, and it better not be some common knowledge that any person on the street could tell you.
 Jiehu: *sighs*
 Jiehu: During the last Lantern Rite, we gathered at Mt. Hulao with Rex Lapis and made use of Cloud Retainer's Supreme Cuisine Machine to prepare Bamboo Shoot Soup. Perhaps you have some recollection?
@@ -634,7 +665,10 @@ Jiehu: ...*sigh* Alas, one can only let bygones be bygones...
 Traveler: I suppose they really are the adepti...
 Paimon: Uh, that might've been more detail than we needed... Seems like you two are the real deal and Paimon's sorry for suspecting you...
 Paimon: But uh, for beings as forgiving as yourselves, this is just water under the bridge... right?
-Traveler: Take it as a compliment to the quality of your disguise...
+    Option 1:
+        Traveler: Take it as a compliment to the quality of your disguise...
+    Option 2:
+        Traveler: Few people will be able to see through it!
 Houzhang: #You indeed have an agile mind, Traveler. Cloud Retainer was not mistaken in her high estimation of you.
 Paimon: Paimon's still curious about something. It's just...
 Paimon: Paimon can understand why Mountain Shaper is here, but why did you decide to come to the city, Moon Carver? It's not really your thing, is it?
@@ -658,5 +692,3 @@ Houzhang: Thank you for your kind words. We shall now depart.
 Paimon: We got all worked up for nothing, huh? All that trouble and it turned out to be people we knew all along...
 Paimon: Well, it's still pretty early. Let's head over and check out the kite stalls.
 Paimon: Paimon wants to see what kinds of kites we can buy to use in the competition. The bigger and prettier the better!
-Traveler: Few people will be able to see through it!
-Traveler: Perhaps you can prove it?

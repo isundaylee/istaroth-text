@@ -14,8 +14,12 @@ Paimon: Hi! Hello!
 Mposo: *cough* It's rare for people to venture out this way. What can I help you with? *cough* ... Is that a little Tepetlisaurus?
 Mposo: Are you from the Children of Echoes? I didn't realize they were so interested in fashion these days *cough* ... I've never seen such clothes — not to mention a flying pet!
 Paimon: Hey! Who are you calling a pet!?
-Traveler: Paimon's more of a companion...
-Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 1:
+        Traveler: Paimon's more of a companion...
+        Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 2:
+        Traveler: Hehe, that's modernity for you!
+        Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 Paimon: And for your information, we're not from the Children of Echoes either!
 Mposo: In that case, this little Tepetlisaurus...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
@@ -38,8 +42,14 @@ Mposo: Haha, it looks like he doesn't even know it yet... There are always sauri
 Mposo: However, most of them don't bring companions. It should go without saying that other saurians don't want to accompany them — after all, they never come back... *cough*
 Mposo: #This is a dangerous road you tread, Traveler and Paimon.
 Paimon: #Hehe, don't worry about us! We laugh in the face of danger. Isn't that right, Traveler!?
-Traveler: I won't get out of bed for anything less than the possibility of death!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 1:
+        Traveler: I won't get out of bed for anything less than the possibility of death!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 2:
+        Traveler: That's right, Paimon. We stand tall, even 'neath a crumbling wall!
+        Paimon: Paimon doesn't understand what you said, but she knows it doesn't sound good!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
+        Paimon: #Hmph, don't you dare start copying him!
 Mposo: Haha... *cough* Such a brave little fellow!
 Mposo: A saurian with a mark on its head... There was a little Tatankasaurus in the tribe like this a good many years ago. It would rarely interact with tribespeople, or even other Tatankasaurs.
 Mposo: *cough* Maybe lonely souls are easily drawn together — back then, it and I got along quite well.
@@ -61,12 +71,6 @@ Paimon: That's not a "show of strength"! That's us helping you complete your cho
 Mposo: Haha... *cough* When you ask someone for help, it's always nice to show them kindness in return... Besides, as we say here in the Collective of Plenty:
 Mposo: "If you can't move a rock, how do you expect to move a volcano?"
 Mposo: *cough* ...Just show me how strong you are, please...
-Traveler: That's right, Paimon. We stand tall, even 'neath a crumbling wall!
-Paimon: Paimon doesn't understand what you said, but she knows it doesn't sound good!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
-Paimon: #Hmph, don't you dare start copying him!
-Traveler: Hehe, that's modernity for you!
-Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 
 ## Talk 14
 
@@ -76,8 +80,12 @@ Paimon: Hi! Hello!
 Mposo: *cough* It's rare for people to venture out this way. What can I help you with? *cough* ... Is that a little Tepetlisaurus?
 Mposo: Are you from the Children of Echoes? I didn't realize they were so interested in fashion these days *cough* ... I've never seen such clothes — not to mention a flying pet!
 Paimon: Hey! Who are you calling a pet!?
-Traveler: Paimon's more of a companion...
-Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 1:
+        Traveler: Paimon's more of a companion...
+        Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 2:
+        Traveler: Hehe, that's modernity for you!
+        Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 Paimon: And for your information, we're not from the Children of Echoes either!
 Mposo: In that case, this little Tepetlisaurus...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
@@ -102,8 +110,6 @@ Mposo: Think of it as a reward for your hard work *cough* ... Besides, if you do
 Paimon: #In that case... Traveler!
 Traveler: Okay!
 Paimon: Hehe, I'll leave it to you then!
-Traveler: Hehe, that's modernity for you!
-Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 
 ## Talk 15
 
@@ -114,13 +120,16 @@ Mposo: Did you open it?
 Paimon: Uh... Seems like the seal opened after those golden patterns flew over here...
 Paimon: We didn't break it... did we?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
-Traveler: It opened on its own...
-Traveler: Seals can loosen over time...
+    Option 1:
+        Traveler: It opened on its own...
+    Option 2:
+        Traveler: Seals can loosen over time...
 Mposo: Haha, there's no need to be nervous *cough* ... The truth is, I'm a guard on patrol. The name's Mposo...
 Mposo: Sometimes, I also like to study the ruins *cough* ... I'm ashamed to say, I've been trying to open this thing for a long time...
 Mposo: *cough* ...I didn't expect someone to just... show up and settle the matter on my behalf...
 Mposo: This place hasn't seen travelers from another tribe in quite some time. So, tell me, are you here to investigate the volcano?
-Black Screen Text: You introduce yourselves to Mposo and explain that you wish to visit the volcano.
+[Missing Dialog 751460614]
+
 Mposo: Ah, adventurers who wish to enter the volcano... *cough* I tried to go in there once and... well, *cough* it's a truly dangerous place.
 Mposo: But I imagine your desire may have something to do with your little companion here...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
@@ -153,6 +162,9 @@ Paimon: Paimon sees...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrwar? Mrrroo?
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
 
+Black Screen Text: You introduce yourselves to Mposo and explain that you wish to visit the volcano.
+[Missing Dialog 751461018]
+
 ## Talk 17
 
 [Missing Talk]: Talk 7514607 could not be retrieved
@@ -170,8 +182,12 @@ Paimon: Hi! Hello!
 Mposo: *cough* It's rare for people to venture out this way. What can I help you with? *cough* ... Is that a little Tepetlisaurus?
 Mposo: Are you from the Children of Echoes? I didn't realize they were so interested in fashion these days *cough* ... I've never seen such clothes — not to mention a flying pet!
 Paimon: Hey! Who are you calling a pet!?
-Traveler: Paimon's more of a companion...
-Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 1:
+        Traveler: Paimon's more of a companion...
+        Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 2:
+        Traveler: Hehe, that's modernity for you!
+        Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 Paimon: And for your information, we're not from the Children of Echoes either!
 Mposo: In that case, this little Tepetlisaurus...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
@@ -199,8 +215,14 @@ Mposo: Haha, it looks like he doesn't even know it yet... There are always sauri
 Mposo: However, most of them don't bring companions. It should go without saying that other saurians don't want to accompany them — after all, they never come back... *cough*
 Mposo: #This is a dangerous road you tread, Traveler and Paimon.
 Paimon: #Hehe, don't worry about us! We laugh in the face of danger. Isn't that right, Traveler!?
-Traveler: I won't get out of bed for anything less than the possibility of death!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 1:
+        Traveler: I won't get out of bed for anything less than the possibility of death!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 2:
+        Traveler: That's right, Paimon. We stand tall, even 'neath a crumbling wall!
+        Paimon: Paimon doesn't understand what you said, but she knows it doesn't sound good!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
+        Paimon: #Hmph, don't you dare start copying him!
 Mposo: Haha... *cough* Such a brave little fellow!
 Mposo: A saurian with a mark on its head... There was a little Tatankasaurus in the tribe like this a good many years ago. It would rarely interact with tribespeople, or even other Tatankasaurs.
 Mposo: *cough* Maybe lonely souls are easily drawn together — back then, it and I got along quite well.
@@ -222,24 +244,20 @@ Paimon: That's not a "show of strength"! That's us helping you complete your cho
 Mposo: Haha... *cough* When you ask someone for help, it's always nice to show them kindness in return. Besides, as we say here in the Collective of Plenty:
 Mposo: "If you can't move a rock, how do you expect to move a volcano?"
 Mposo: *cough* ...Just show me how strong you are, please...
-Traveler: That's right, Paimon. We stand tall, even 'neath a crumbling wall!
-Paimon: Paimon doesn't understand what you said, but she knows it doesn't sound good!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
-Paimon: #Hmph, don't you dare start copying him!
-Traveler: Hehe, that's modernity for you!
-Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 
 ### Additional Talk 2
 
 Mposo: *sigh* The volcano's been erupting more often lately — a worrying sign.
 Mposo: If you want to go in there, you need to be extremely careful...
 Paimon: Yeah, but first, we need to find a way to get to the Skyfire Circlet, right?
-Traveler: Piece of cake!
+    Option 1:
+        Traveler: Piece of cake!
+    Option 2:
+        Traveler: You can fly us up, Paimon...
+        Paimon: ...If Paimon had the strength to pick you up, Paimon would drop you straight into the crater!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Mposo: Haha, I wish you— *cough*
 Mposo: #No, luck isn't an option. Traveler, Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}, you must succeed!
-Traveler: You can fly us up, Paimon...
-Paimon: ...If Paimon had the strength to pick you up, Paimon would drop you straight into the crater!
 
 ### Additional Talk 3
 
@@ -250,8 +268,12 @@ Paimon: We didn't break it... did we?
 Paimon: Sh—Should we be getting ready to run?
 Mposo: *cough* There's no need for that. *sigh* I've spent years researching that thing — never would've thought you'd get it open like that.
 Mposo: It's just a shame... *cough* Everything behind the light wall has been buried under rocks. For all we know, this may have once been an important route into a "satellite city."
-Traveler: Satellite city...?
-Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 1:
+        Traveler: Satellite city...?
+        Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 2:
+        Traveler: Isn't this place called the "excavation site"?
+        Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 Mposo: They say it was once an ancient dragon outpost, destroyed during the war between Xbalanque, the first Pyro Archon, and the dragons...
 Mposo: The members of the Saurian Relics Association all agree that these ruins were built as a satellite city to protect the main dragon city located at the center of the volcano...
 Paimon: The d—dragons built a city... inside a volcano!?
@@ -269,8 +291,6 @@ Mposo: Otherwise... *cough*
 Paimon: So that's how we do it...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrwar? Mrrroo?
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
-Traveler: Isn't this place called the "excavation site"?
-Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 
 ### Additional Talk 4
 
@@ -281,7 +301,10 @@ Mposo: Did you open it?
 Paimon: Uh... Seems like the seal opened after those golden patterns flew over here...
 Paimon: We didn't break it... did we?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Grawr...
-Traveler: It opened on its own...
+    Option 1:
+        Traveler: It opened on its own...
+    Option 2:
+        Traveler: Seals can loosen over time...
 Mposo: Haha, there's no need to be nervous *cough* ... The truth is, I'm a guard on patrol. The name's Mposo...
 Mposo: Sometimes, I also like to study the ruins *cough* ... I'm ashamed to say, I've been trying to open this thing for a long time...
 Mposo: *cough* ...I didn't expect someone to just... show up and settle the matter on my behalf...
@@ -321,7 +344,6 @@ Mposo: Otherwise... *cough*
 Paimon: Paimon sees...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrwar? Mrrroo?
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
-Traveler: Seals can loosen over time...
 
 ### Additional Talk 5
 
@@ -331,8 +353,12 @@ Paimon: Hi! Hello!
 Mposo: *cough* It's rare for people to venture out this way. What can I help you with? *cough* ... Is that a little Tepetlisaurus?
 Mposo: Are you from the Children of Echoes? I didn't realize they were so interested in fashion these days *cough* ... I've never seen such clothes — not to mention a flying pet!
 Paimon: Hey! Who are you calling a pet!?
-Traveler: Paimon's more of a companion...
-Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 1:
+        Traveler: Paimon's more of a companion...
+        Paimon: Exactly! Paimon's a guide and a companion. Paimon's no one's pet!
+    Option 2:
+        Traveler: Hehe, that's modernity for you!
+        Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 Paimon: And for your information, we're not from the Children of Echoes either!
 Mposo: In that case, this little Tepetlisaurus...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
@@ -351,8 +377,6 @@ Mposo: Think of it as a reward for your hard work *cough* ... Besides, if you do
 Paimon: #In that case... Traveler!
 Traveler: Okay!
 Paimon: Hehe, I'll leave it to you then!
-Traveler: Hehe, that's modernity for you!
-Paimon: What are you still looking so pleased about!? Take back that part about Paimon being a pet, right now!
 
 ### Additional Talk 6
 
@@ -363,14 +387,16 @@ Paimon: We didn't break it... did we?
 Paimon: Sh—Should we be getting ready to run?
 Mposo: *cough* There's no need for that. *sigh* I spent years researching that wall of light, but I could never find a way to open it...
 Mposo: It's just a shame... *cough* Everything behind it has been buried under rocks. For all we know, this was once an important route into the satellite city.
-Traveler: Satellite city...?
-Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 1:
+        Traveler: Satellite city...?
+        Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 2:
+        Traveler: Isn't this place called the "excavation site"?
+        Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 Mposo: They say it was once an ancient dragon outpost, destroyed during the war between Xbalanque, the first Pyro Archon, and the dragons...
 Mposo: The members of the Saurian Relics Association all agree that these ruins were built as a satellite city to protect the main dragon city located at the center of the volcano...
 Mposo: Alright, just like I said before *cough* ...all this stuff is yours.
 Mposo: Thank you *cough* ... for helping to clear away those rocks.
-Traveler: Isn't this place called the "excavation site"?
-Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 
 ### Additional Talk 7
 
@@ -381,7 +407,10 @@ Mposo (???): Did you open it?
 Paimon: Uh... Seems like the seal opened after those golden patterns flew over here...
 Paimon: We didn't break it... did we?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-Traveler: It opened on its own...
+    Option 1:
+        Traveler: It opened on its own...
+    Option 2:
+        Traveler: Seals can loosen over time...
 Mposo: Haha, there's no need to be nervous *cough* ... The truth is, I'm a guard on patrol. The name's Mposo...
 Mposo: Sometimes, I also like to study the ruins *cough* ... I'm ashamed to say, I've been trying to open this thing for a long time...
 Mposo: *cough* ...I didn't expect someone to just... show up and settle the matter on my behalf...
@@ -390,8 +419,12 @@ Paimon: Oh ho, now there's a familiar sounding title! You must have been talking
 Mposo: Hmph, Duniya's a good kid... I can only assume it was Dutse who told you that one...
 Mposo: *cough* Anyway, there's no need to be so guarded. *sigh* I spent years researching that wall of light, but I could never find a way to open it...
 Mposo: It's just a shame... *cough* Everything behind it has been buried under rocks. For all we know, this was once an important route into the satellite city.
-Traveler: Satellite city...?
-Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 1:
+        Traveler: Satellite city...?
+        Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 2:
+        Traveler: Isn't this place called the "excavation site"?
+        Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 Mposo: They say it was once an ancient dragon outpost, destroyed during the war between Xbalanque, the first Pyro Archon, and the dragons...
 Mposo: The members of the Saurian Relics Association all agree that these ruins were built as a satellite city to protect the main dragon city located at the center of the volcano...
 Mposo: Alright *cough* ... Ah, I don't know how to thank you. Hmm... How about you keep all this stuff here, then?
@@ -399,9 +432,6 @@ Paimon: Really? We can just take it and go?
 Mposo: Of course... As far as I'm concerned, uncovering the mystery of these ruins is far more important than any of this stuff left lying around.
 Mposo: Consider it your reward for dealing with all those fallen rocks *cough* ... Besides, it may well be of more use to you than to me...
 Mposo: Thank you *cough* ... for helping to clear away those rocks.
-Traveler: Isn't this place called the "excavation site"?
-Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
-Traveler: Seals can loosen over time...
 
 ### Additional Talk 8
 
@@ -412,14 +442,21 @@ Mposo (???): Did you open it?
 Paimon: Uh... Seems like the seal opened after those golden patterns flew over here...
 Paimon: We didn't break it... did we?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-Traveler: It opened on its own...
+    Option 1:
+        Traveler: It opened on its own...
+    Option 2:
+        Traveler: Seals can loosen over time...
 Mposo: Haha, there's no need to be nervous *cough* ... The truth is, I'm a guard on patrol. The name's Mposo...
 Mposo: Sometimes, I also like to study the ruins *cough* ... I'm ashamed to say, I've been trying to open this thing for a long time...
 Mposo: *cough* ...I didn't expect someone to just... show up and settle the matter on my behalf...
 Mposo: *cough* There's no need for that. *sigh* I spent years researching that wall of light, but I could never find a way to open it...
 Mposo: It's just a shame... *cough* Everything behind it has been buried under rocks. For all we know, this was once an important route into the satellite city.
-Traveler: Satellite city...?
-Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 1:
+        Traveler: Satellite city...?
+        Mposo: Yes, one of the cities built around the main city to protect it...
+    Option 2:
+        Traveler: Isn't this place called the "excavation site"?
+        Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
 Mposo: They say it was once an ancient dragon outpost, destroyed during the war between Xbalanque, the first Pyro Archon, and the dragons...
 Mposo: The members of the Saurian Relics Association all agree that these ruins were built as a satellite city to protect the main dragon city located at the center of the volcano...
 Mposo: Alright *cough* ... Ah, I don't know how to thank you. Hmm... How about you keep all this stuff here, then?
@@ -427,6 +464,3 @@ Paimon: Really? We can just take it and go?
 Mposo: Of course... As far as I'm concerned, uncovering the mystery of these ruins is far more important than any of this stuff left lying around.
 Mposo: Consider it your reward for dealing with all those fallen rocks *cough* ... Besides, it may well be of more use to you than to me...
 Mposo: Thank you *cough* ... for helping to clear away those rocks.
-Traveler: Isn't this place called the "excavation site"?
-Mposo: Haha... *cough* Sure, but that wasn't always its name. That's just what the tribespeople call it these days...
-Traveler: Seals can loosen over time...

@@ -39,7 +39,10 @@ Dainsleif: Whatever the Abyss Order is planning, an important truth has been rev
 Paimon: What sort of truth?
 Dainsleif: That their goal... is still to obtain the eye of the first Field Tiller. They haven't stopped searching for it.
 Dainsleif: I am the only person who knows its location. Perhaps implanting that particular memory was an attempt to interfere with my mind in some way...
-Traveler: Is the eye still safe?
+    Option 1:
+        Traveler: Is the eye still safe?
+    Option 2:
+        Traveler: What if that "memory" is real?
 Dainsleif: Your concerns are not entirely unfounded. I don't believe the Abyss Order is capable of altering reality like that just yet...
 Dainsleif: However, considering their single-minded pursuit of the eye, I would say an equal level of caution is in order on our part.
 Dainsleif: Come with me. We must check whether the eye is still in our possession.
@@ -48,10 +51,11 @@ Traveler: (...But, what if someone follows us? If we go straight there, and some
 Traveler: (Maybe that's the reason the Abyss Order implanted that memory in the first place... To force Dain to confirm the eye's location...)
 Dainsleif: ...
 Traveler: (Given what I know of him, though, I'm sure Dain has already thought of that possibility... It seems like he might already have a plan...)
-Traveler: Let's go.
+    Option 1:
+        Traveler: Let's go.
+    Option 2:
+        Traveler: Lead the way, Dain.
 Dainsleif: ...Of course.
-Traveler: Lead the way, Dain.
-Traveler: What if that "memory" is real?
 
 ## Talk 4
 
@@ -70,18 +74,27 @@ Black Screen Text: You return to Vimara Village to gather intel based on what yo
 Dainsleif: Ah, so that was the commission that brought you here to Vimara Village...
 Dainsleif: "Someone who seems to only exist in people's memories"... That is indeed quite intriguing. I would agree that it's unlikely you have a simple missing person's case on your hands. However, any possible connection to the Abyss Order is still unclear.
 Dainsleif: It appears all we have by way of clues is increased Hilichurl activity, and that is certainly not much to go off of.
-Traveler: Well, then...
+    Option 1:
+        Traveler: Well, then...
+    Option 2:
+        Traveler: How about the intel you promised me?
 Paimon: #Right! That mysterious voice {F#she}{M#he} heard in {F#her brother's}{M#his sister's} memory... The one who called himself a Sinner... Who is he?
 Dainsleif: ...
 Dainsleif: #Traveler, let me ask you this... Do you believe your sibling to have betrayed you?
-Traveler: #I want to have faith in her.
+    Option 1:
+        Traveler: #I want to have faith in her.
+    Option 2:
+        Traveler: In a manner of speaking, yeah.
 Dainsleif: Hmm... I sense hesitation in your words. After all, you still haven't figured out the whole truth of what happened.
 Dainsleif: There's still hope for the two of you to reconcile. Irreparable damage has not yet been done.
 Dainsleif: The Sinner you wish to know about... His situation is different. He and his fellow sinners have long betrayed me, and long betrayed their nation.
 Dainsleif: His name is Vedrfolnir, "The Visionary."
 Dainsleif: I'm loath to admit it, but... He is also my kin. My older brother.
 Paimon: Your... brother?
-Traveler: What happened between the two of you?
+    Option 1:
+        Traveler: What happened between the two of you?
+    Option 2:
+        Traveler: What really happened in Khaenri'ah back then?
 Dainsleif: There were five of them... The Five Sinners of Khaenri'ah.
 Dainsleif: "The Wise" Hroptatyr, "The Visionary" Vedrfolnir, "Gold" Rhinedottir, "The Foul" Surtalogi, and "Rächer of Solnari" Rerir.
 Dainsleif: No matter how eroded my memory may become, I will never forget their names... One day... I shall have my vengeance.
@@ -94,9 +107,15 @@ Dainsleif: The six of us, together... We should have been the ones to prevent th
 Dainsleif: Yet, deep within, the five of them craved something more. They could not resist the call of the Abyss, and divided among themselves a power that could destroy the world.
 Dainsleif: So they became Sinners, but also transcendent beings, each in possession of world-shattering power.
 Dainsleif: And when the cataclysm occurred, not one of them stood up in defense of their nation, not one came forward to prevent the tragedy... And for that, they shall never have my forgiveness.
-Traveler: And then...
+    Option 1:
+        Traveler: And then...
+    Option 2:
+        Traveler: My sibling came into contact with your brother.
 Dainsleif: ...Indeed. If they are not stopped, the day is sure to come when they will also betray the entire world.
-Traveler: It must be hard to talk about all of this.
+    Option 1:
+        Traveler: It must be hard to talk about all of this.
+    Option 2:
+        Traveler: But thank you for telling me.
 Dainsleif: Of course. As I said, I never intended to hide anything from you.
 Paimon: So, Dain, what have you been looking into all this time?
 Dainsleif: I've continued to investigate the questions surrounding the Loom of Fate. It's been quite some time since the initial operation was launched.
@@ -118,14 +137,11 @@ Traveler: (What's the connection between all this?)
 Dainsleif: It's certainly possible. I'll join your investigation tomorrow. This missing person's case could very well turn out to be the key to unraveling these mysteries.
 Paimon: Well, if we're teaming up with Dain again, we're gonna need all the energy we can get! Let's try investigating somewhere a little further away tomorrow.
 Paimon: *yawn*... So tired... Paimon used way too much brain juice yesterday. It's all Dain's fault, saying all that complicated stuff...
-Traveler: I didn't sleep well, either...
+    Option 1:
+        Traveler: I didn't sleep well, either...
+    Option 2:
+        Traveler: My head's a mess.
 Paimon: Well, let's go find Dain. We've got a lot to do today.
-Traveler: My head's a mess.
-Traveler: But thank you for telling me.
-Traveler: My sibling came into contact with your brother.
-Traveler: What really happened in Khaenri'ah back then?
-Traveler: In a manner of speaking, yeah.
-Traveler: How about the intel you promised me?
 
 ## Talk 6
 
@@ -138,18 +154,22 @@ Paimon: Why do you always have to pop up out of nowhere like that!? Is it your l
 Dainsleif: It's hardly personal... or intentional, for that matter. As long as you and I are both in pursuit of the Abyss Order, we're bound to cross paths.
 Paimon: Ah, so you're here to investigate the Abyss Order, then! That would explain the monsters you were fighting just now...
 Dainsleif: Naturally. Hold on... Are you not here for the same purpose?
-Traveler: We're also on their tail...
+    Option 1:
+        Traveler: We're also on their tail...
+    Option 2:
+        Traveler: But, I'll admit, we ran into them on accident.
 Dainsleif: Hm, no matter. It may have taken you a while to catch on, but I'm sure you've also realized by now... That there's something strange about this place.
 Dainsleif: The Abyss Order is most certainly planning something in this area... or worse, their plan could already be in motion.
 Paimon: So you think the Abyss Order is behind the Hilichurl activity in the area?
 Dainsleif: As things stand, I highly doubt that is their primary motive. I would imagine the increased Hilichurl activity is merely a byproduct of whatever it is they're really trying to accomplish.
 Paimon: Still, the Hilichurl activity is causing a lot of problems for the people here. We should stick around for a while and protect the village, don't you think?
 Dainsleif: The best way to protect them is by figuring out what the Abyss Order is truly planning. That is how we prevent further tragedy.
-Traveler: Well, let's see what more we can learn from the villagers.
+    Option 1:
+        Traveler: Well, let's see what more we can learn from the villagers.
+    Option 2:
+        Traveler: And after that... You also owe us many answers.
 Dainsleif: And you shall have them. I never intended to hide anything from you.
 Dainsleif: Don't worry... There should be ample time to talk.
-Traveler: And after that... You also owe us many answers.
-Traveler: But, I'll admit, we ran into them on accident.
 
 ## Talk 7
 

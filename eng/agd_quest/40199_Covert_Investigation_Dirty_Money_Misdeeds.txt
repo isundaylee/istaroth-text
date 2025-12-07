@@ -13,31 +13,51 @@ Black Screen Text: You follow Yelan through an uninhabited region in the northea
  With Yelan's help, you find a covert location from which to scout the beach.
 Black Screen Text: But you don't see any members of the Dark Financier's crew, nor anything else suspicious about the area.
 Paimon: So... We can all agree this is just a normal stretch of wilderness, right? Paimon doesn't see any bad guys to nab around here.
-Traveler: Have some patience, Paimon.
+    Option 1:
+        Traveler: Have some patience, Paimon.
+    Option 2:
+        Traveler: It's not time for nabbing bad guys — at least, not yet.
 Yelan: #Well, it didn't take long for you to understand our role here, Traveler. Thinking like a top agent already... Impressive.
 Yelan: Like I said, we need to start small. If we want to track down the man himself, our best bet is to start with his goods. So, right now, finding his stock is our number one priority.
 Yelan: And to do that, locating his hidden stronghold is imperative.
 Yelan: Which brings us to why we're here. Pretty good vantage point from up here, don't you think?
 Paimon: Huh, guess so... Paimon can see the port at Yilong Wharf, the boats in the distance, and some kind of tower... What's that for?
 Yelan: It's a lighthouse. The Millelith use it to monitor the situation at sea. In addition, the flashing of the light can also serve as a means of communication.
-Traveler: I think I understand what makes this place so important...
-Yelan: Oh? Let's hear it.
-Traveler: Spying on the Millelith helps with their operations...
-Yelan: #Not too far off at all, Traveler.
+    Option 1:
+        Traveler: I think I understand what makes this place so important...
+        Yelan: Oh? Let's hear it.
+        Traveler: Spying on the Millelith helps with their operations...
+        Yelan: #Not too far off at all, Traveler.
+    Option 2:
+        Traveler: I don't really get what's so special about this place, though...
+        Yelan: Why not take a wild guess?
+        Traveler: It's somewhere you can observe the Millelith while staying out of sight?
+        Yelan: See? Your intuition is spot on.
+    Option 3:
+        Traveler: I think I understand what makes this place so important...
+        Yelan: Oh? Let's hear it.
+        Traveler: It's the perfect spot for counter-surveillance?
+        Yelan: #Not too far off at all, Traveler.
+    Option 4:
+        Traveler: I think I understand what makes this place so important...
+        Yelan: Oh? Let's hear it.
+        Traveler: It helps them avoid dangerous routes when transporting their goods?
+        Yelan: #Not too far off at all, Traveler.
+    Option 5:
+        Traveler: I don't really get what's so special about this place, though...
+        Yelan: Why not take a wild guess?
+        Traveler: It's somewhere you can spy from to gain the upper hand?
+        Yelan: See? Your intuition is spot on.
+    Option 6:
+        Traveler: I don't really get what's so special about this place, though...
+        Yelan: Why not take a wild guess?
+        Traveler: It seems more like a look-out point rather than a stronghold.
+        Yelan: See? Your intuition is spot on.
 Yelan: The Millelith maintain an impeccable level of security in Chenyu Vale through consistent patrolling.
 Yelan: This location offers a perfect vantage point to observe their lighthouse signals and deduce their patterns of behavior, which is a huge help if you need to move goods under the radar.
 Yelan: So, we should be able to find traces of the Dark Financier's scouts in this area...
 Paimon: O—Okay... Paimon doesn't quite follow, but she'll take your word for it...
 Yelan: It's simple. Just take this *Forensic Imaging Device* and investigate the surrounding area. As long as we're meticulous, I'm positive we'll find something.
-Traveler: It's the perfect spot for counter-surveillance?
-Traveler: It helps them avoid dangerous routes when transporting their goods?
-Traveler: I don't really get what's so special about this place, though...
-Yelan: Why not take a wild guess?
-Traveler: It's somewhere you can observe the Millelith while staying out of sight?
-Yelan: See? Your intuition is spot on.
-Traveler: It's somewhere you can spy from to gain the upper hand?
-Traveler: It seems more like a look-out point rather than a stronghold.
-Traveler: It's not time for nabbing bad guys — at least, not yet.
 
 ## Talk 3
 
@@ -46,9 +66,11 @@ Yelan: Once you equip the *Forensic Imaging Device*, you can start looking for c
 ## Talk 4
 
 Paimon: Aaannd nothing out of the ordinary here either...
-Traveler: If we've learned anything from the last place...
+    Option 1:
+        Traveler: If we've learned anything from the last place...
+    Option 2:
+        Traveler: ...It's that the more normal it looks, the more it could be hiding.
 Yelan: That's right. No detail is too small to investigate. I believe in you.
-Traveler: ...It's that the more normal it looks, the more it could be hiding.
 
 ## Talk 5
 
@@ -59,26 +81,34 @@ Paimon: What if the Millelith noticed them spying and decided to investigate?
 Yelan: These objects suggest the Dark Financier's scouts were likely disguised as fishermen. People like that are trained not to crack under pressure...
 Yelan: All they'd need to do is come up with a believable excuse, like needing a place to rest. The Millelith can't investigate or apprehend a civilian without probable cause.
 Paimon: Ugh, Paimon can just see their smug faces, getting away with something like that...
-Traveler: The good news is, we managed to find evidence here.
+    Option 1:
+        Traveler: The good news is, we managed to find evidence here.
+    Option 2:
+        Traveler: These clues should help move the investigation forward.
 Yelan: Not to mention, the traces on these objects are fresh, which means the scout here is still active and wasn't among those caught by Officer Edler.
 Yelan: So we need to stay vigilant. We can't let them know we're still on their tail.
 Black Screen Text: Yelan takes out an elaborate set of tools and creates exact replicas of the key and coded messages found at the scene...
  She then restores the scene to its original state, erasing any signs that an investigation has taken place.
 Yelan: I had a hunch this area was being used as a look-out, and I was right. But that still leaves the question of where the goods are hidden...
 Yelan: #Any ideas, Traveler?
-Traveler: I might be on to something...
-Traveler: Surveillance operations are time sensitive...
+    Option 1:
+        Traveler: I might be on to something...
+        Traveler: Surveillance operations are time sensitive...
+    Option 2:
+        Traveler: Nope, not really...
+        Traveler: But they're definitely transmitting messages...
+    Option 3:
+        Traveler: I might be on to something...
+        Traveler: So if you needed to send a message, it would need to happen fast.
+    Option 4:
+        Traveler: Nope, not really...
+        Traveler: And a carrier pigeon can only fly so fast...
 Yelan: #Spot on again, Traveler. Looks like you don't need anyone to hold your hand when it comes to deductive reasoning.
 Yelan: Given a carrier pigeon's speed, the two locations should be close enough to deliver messages quickly. That means the base we're looking for should be within a certain radius...
 Yelan: Ruling out areas within line of sight of the lighthouse as well as places with a lot of foot traffic...
 Paimon: That just leaves... The shallows to the north of Mt. Mingyuan?
 Yelan: That certainly sounds plausible. You have the cover of the mountains, and the advantage of hiding right under the authorities' noses.
 Yelan: Well, our next destination is decided then. Let's go.
-Traveler: So if you needed to send a message, it would need to happen fast.
-Traveler: Nope, not really...
-Traveler: But they're definitely transmitting messages...
-Traveler: And a carrier pigeon can only fly so fast...
-Traveler: These clues should help move the investigation forward.
 
 ## Talk 6
 
@@ -89,7 +119,10 @@ Yelan: Mm, this isn't their home turf, so I doubt they had time to set more trap
 Yelan: I'll take it from here. The last thing we want is to leave traces behind in there. Caution is the name of the game.
 Yelan: You two keep a look-out. Make sure no one barges in while I'm in there.
 Paimon: #You got it! This is a first for us, but Traveler can do anything! He's got your back!
-Traveler: I trust Yelan's timing...
+    Option 1:
+        Traveler: I trust Yelan's timing...
+    Option 2:
+        Traveler: I doubt these guys will come back while we're here...
 Paimon: G—Good point... Yelan doesn't make mistakes like that...
 Black Screen Text: Yelan opens the door to the stronghold and observes the space. It appears to be an ordinary cellar...
 Due to construction difficulties, the top and side walls couldn't be completely sealed, causing water from the soil to seep into the space...
@@ -99,7 +132,10 @@ This means she can touch the items in the space without leaving traces behind, b
 Yelan: Alright, that's done. I've noted the features of all the porcelain items, vases, and teas stored here.
 Yelan: We need to keep a look-out for these features at the auction and pinpoint the person attempting to purchase the corresponding goods. Then we can let them lead us to our main target.
 Paimon: Wow, that was fast! You must do that all the time, huh?
-Traveler: What now?
+    Option 1:
+        Traveler: What now?
+    Option 2:
+        Traveler: What's our next move?
 Yelan: Now... we wait. There are countless auctions in Fontaine. We can't possibly monitor them all. Besides, that would be a waste of personnel.
 Yelan: I'll continue to conduct surveillance in the area, keep tabs on the situation, and attempt to decipher their coded messages.
 Yelan: Once his two lackeys move the goods, we can shift our focus to the upcoming auction, and then we'll have somewhere to start.
@@ -108,8 +144,6 @@ Paimon: Wait... and then follow them straight to the guy behind this whole thing
 Yelan: This whole time, Officer Edler has been leading her two stalkers on a wild goose chase around Qiaoying Village. Once they decide it's all a waste of time, it'll be her turn to tail them instead.
 Yelan: Not to mention, our operation has already put them under extreme pressure. We've forced their hand. I doubt they'll last more than two days before making a move.
 Yelan: So, let's meet back up at Yilong Wharf in two days. Find me near the harbor.
-Traveler: What's our next move?
-Traveler: I doubt these guys will come back while we're here...
 
 ## Talk 7
 

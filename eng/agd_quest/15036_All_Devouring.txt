@@ -31,7 +31,10 @@ Skirk: In the Guili Plains, you asked me why this enemy chose you as his target.
 Skirk: Now, the answer is clear. It's not just the fact that your strength is impressive. It's also because of your ability to, as you put it, "purify" Abyssal power.
 Skirk: Whatever that actually means... The fact is that ability allowed him to do something that should have been completely impossible:
 Skirk: Namely, break through my defenses and steal my power.
-Traveler: So, you were his real target?
+    Option 1:
+        Traveler: So, you were his real target?
+    Option 2:
+        Traveler: He was after you from the very beginning?
 Skirk: No, he couldn't have known I'd come to his domain. He only stole your soul fragment because he knew the value of its power. I doubt he expected it to come in handy so soon.
 Skirk: Call it "fate" if you want. I believe that's the term they use in this world for arbitrary coincidences like this.
 Skirk: In any case, it works to our advantage. Once I realized what he was using that power for, it gave me the chance to get back what you lost.
@@ -60,7 +63,6 @@ Traveler: I think we should get out of here.
 Skirk: Wise decision. Final victory doesn't always come after a single battle.
 Skirk: You've got your soul fragment back, so we both got what we came for. Let the enemy draw breath while he can. It won't be for long.
 Skirk: #Get us out of here, Traveler. You'll need to lead the way this time.
-Traveler: He was after you from the very beginning?
 
 ## Talk 6
 
@@ -98,7 +100,10 @@ Skirk: There. I got it back.
 Paimon: Phew... Uh... We should be safe here, right?
 Skirk: I no longer sense his presence. Can't have followed us out of that Abyssal domain.
 Skirk: Weaklings like him will find that my power is not so easily controlled. He won't be leaving that place until he's managed to digest it.
-Traveler: The All-Devouring Narwhal...
+    Option 1:
+        Traveler: The All-Devouring Narwhal...
+    Option 2:
+        Traveler: With its power, he even managed to steal from you of all people...
 Skirk: You seem surprised.
 Skirk: I suppose that's fair... You've seen but a fraction of what that whale is capable of. That gaping maw could swallow a planet whole.
 Skirk: It's called the All-Devouring Narwhal for a reason — "devouring" is what it does best. It can extract power from anything, dead or alive, as long as it manages to make physical contact.
@@ -114,14 +119,15 @@ Skirk: This isn't my first taste of failure or losing power. When you fall, you 
 Paimon: But... What if that monster finds you before you're all better?
 Paimon: Plus, how are you gonna get home? It's not like you can just go "swoosh" and open a door to the Abyss again. Not without your full strength!
 Paimon: So, sticking with us for the time being doesn't sound so bad, does it?
-Traveler: It's not out of pity.
+    Option 1:
+        Traveler: It's not out of pity.
+    Option 2:
+        Traveler: You said I don't want to be in your debt. Well, I still am.
 Skirk: ...
 Skirk: Fair enough. Then, take this.
 Paimon: Uh, what is it?
 Skirk: A bag of Mora. Nothing in this world is free — I know that much.
 Skirk: I'll leave the planning to you. Hurry up and decide where to go. We shouldn't linger.
-Traveler: You said I don't want to be in your debt. Well, I still am.
-Traveler: With its power, he even managed to steal from you of all people...
 
 ## Talk 8
 
@@ -143,7 +149,10 @@ Paimon: Aaaah! You heard all that?
 Skirk: A... sonorous voice like yours is hard to miss. I wouldn't be surprised if the sound of it traveled to the nearest mountain top.
 Paimon: Then, did you, by chance, happen to hear Paimon's little, um... joke earlier?
 Skirk: You mean when you called me "Frosty the Lavender Melon"?
-Traveler: Guess you did, heh...
+    Option 1:
+        Traveler: Guess you did, heh...
+    Option 2:
+        Traveler: Paimon's whispering needs some work.
 Paimon: No, no. Sorry, Paimon totally misspoke just now. She didn't say that at all! It was... a Paimon look-alike! Yeah, she's a piece of work, that one. Always impersonating Paimon and giving people weird nicknames! Hehe...
 Paimon: #...Okay, fine. The truth is Paimon didn't like you all that much at the start — but things are different now! You helped Traveler in a big way, so... Whaddaya say? Friends?
 Skirk: ...
@@ -179,7 +188,6 @@ Skirk: No, I think the problem's with me.
 Skirk: I need to meditate for the next two days. Deep introspection should help me find the issue.
 Paimon: Whoa, sounds intense! We'll watch over you in the meantime, then!
 Skirk: Thanks. See you in two days.
-Traveler: Paimon's whispering needs some work.
 
 ## Additional Conversations
 
@@ -189,14 +197,17 @@ Traveler: Paimon's whispering needs some work.
 ### Additional Talk 1
 
 Skirk: He'll know something about Master, I'm sure of it... Next time, I need to be ready.
-Traveler: How's the shoulder?
-Skirk: Fine. It was just a scratch.
-Skirk: It'll take time to recover my strength, of course, but adapting to situations like this is nothing new for me.
-Traveler: Your outfit looks different...
-Skirk: Oh, this? It's a "Starcrystal Suit." Abyssal energy is scarce in Teyvat. Wearing this helps me access it more freely.
-Skirk: It stores concentrated Abyssal energy that I can draw from on the go. When the energy runs out, it reverts back to its original form.
-Traveler: Let's go.
-Skirk: Ah, found somewhere to rest? Well, lead the way then.
+    Option 1:
+        Traveler: How's the shoulder?
+        Skirk: Fine. It was just a scratch.
+        Skirk: It'll take time to recover my strength, of course, but adapting to situations like this is nothing new for me.
+    Option 2:
+        Traveler: Your outfit looks different...
+        Skirk: Oh, this? It's a "Starcrystal Suit." Abyssal energy is scarce in Teyvat. Wearing this helps me access it more freely.
+        Skirk: It stores concentrated Abyssal energy that I can draw from on the go. When the energy runs out, it reverts back to its original form.
+    Option 3:
+        Traveler: Let's go.
+        Skirk: Ah, found somewhere to rest? Well, lead the way then.
 
 ### Additional Talk 2
 

@@ -65,6 +65,7 @@ Traveler: Let's take another look around first.
 
 Durin: Wait! Where am I meant to go? What am I supposed to do?
 Traveler: Go make your wish come true, Durin.
+[Missing Dialog 160049917]
 
 ## Talk 15
 
@@ -172,7 +173,10 @@ Durin: Aghhh...
 Albedo: Hmm... It seems the act of suppressing the power counts as an "event" in the story. In other words, we would need ink to write it in.
 Paimon: So, what now? Did we use too much earlier?
 Paimon: How are we supposed to write a happy ending with only this much left...?
-Traveler: It's possible...
+    Option 1:
+        Traveler: It's possible...
+    Option 2:
+        Traveler: It's just not time for the story to end.
 Paimon: But...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hm... Well, this is Durin's story. As long as he's alive and well, why should it end?
 Albedo: If there really is such a direct correlation between the story and his fate, I may have a potential hypothesis.
@@ -182,14 +186,20 @@ Albedo: Reviving Durin in the evil dragon's place was an act of grafting this Du
 Albedo: But there is a fundamental difference between a being's "story" and its "fate."
 Albedo: As Miss Barbeloth reminded us, the fate of every living being in Teyvat has been woven into the fabric of time. It's most natural path, therefore, is to proceed along its given track.
 Albedo: But Durin's story, on the other hand...
-Traveler: Needs an author...
+    Option 1:
+        Traveler: Needs an author...
+    Option 2:
+        Traveler: ...To continue writing it.
 Albedo: As Durin's connection to this world wore thin, not only have people started to forget him, he's started to lose control of the Abyssal power within.
 Albedo: In other words, his story can't continue... because the author's ink is drying up. That's what it seems like to me.
 "M" (Narrator): It would seem the little dragon had made a group of fine friends indeed...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Save it. The question is — are you here to help him, or stand in his way?
 "M" (Narrator): This is as far... as the story can go... What path... will you choose?
 Durin: I...
-Traveler: If the story ends now...
+    Option 1:
+        Traveler: If the story ends now...
+    Option 2:
+        Traveler: ...Durin will just vanish.
 Durin: I suppose... the final decision is up to me.
 Durin: It's hard to believe I never actually left my mother's story. If that's true, I'd like to go there and see for myself.
 Albedo: By "there," I take it you mean... the blank pages of the unwritten chapter ahead?
@@ -199,9 +209,6 @@ Durin: ...I'm not afraid.
 Traveler: Then go for it. We'll be with you all the way.
 Albedo: I second that. It would seem this is one answer you need to go seize for yourself.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So be it. Whatever obstacles stand in your way, we'll tear them down together.
-Traveler: ...Durin will just vanish.
-Traveler: ...To continue writing it.
-Traveler: It's just not time for the story to end.
 
 ## Talk 31
 
@@ -337,16 +344,21 @@ Durin: Thank you, Mom...
 
 Paimon: If we go this way, we'll be returning to the castle.
 Durin: Returning to the castle...
-Traveler: There's nothing challenging for you back there.
+    Option 1:
+        Traveler: There's nothing challenging for you back there.
+    Option 2:
+        Traveler: You'll end up stuck in one place.
 Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
 Durin: ...I see.
-Traveler: You'll end up stuck in one place.
 
 ## Talk 40
 
 Durin: Is everyone okay?
 Paimon: We're fine, thanks — and hey, we all saw how you fought back there. That was awesome!
-Traveler: Is that a new outfit?
+    Option 1:
+        Traveler: Is that a new outfit?
+    Option 2:
+        Traveler: It looks a lot more... free.
 Durin: I have to admit, I do feel like something in me has changed...
 Durin: I owe you all so much. Without your help, I don't know if I could have ever made it this far.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Just a shame I could only help out from the sidelines. Like I said before, it's not every day that you get to put fate in its place...
@@ -374,7 +386,6 @@ Paimon: So, it's party time next— ...Huh!?
 Alice (???): Dodoco— Dodoco—
 Alice: Congratulations on completing your mission! Now then, as per our agreement, it's about time you returned that book.
 Paimon: She must've known the moment we finished... just like she said she would!
-Traveler: It looks a lot more... free.
 
 ## Talk 41
 

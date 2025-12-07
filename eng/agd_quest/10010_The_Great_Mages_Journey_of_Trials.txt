@@ -13,10 +13,18 @@ Paimon: Dodoco... needs help?
 Paimon: Oh, for Pete's sake... Is that the task?
 Klee: What? No, for Klee's sake! And for Dodoco, too!
 Paimon: No, Paimon knows that. She was asking about the task. You know what that is, right? It's like a...
-Traveler: A task.
-Klee: ?
-Paimon: ...Thank you, Honorary Knight of Fav-Obvious.
-Paimon: Anyway, um... A task is... Gah, why is it so hard to describe!? It's like... helping Dodoco! Yeah! That's a task!
+    Option 1:
+        Traveler: A task.
+        Klee: ?
+        Paimon: ...Thank you, Honorary Knight of Fav-Obvious.
+        Paimon: Anyway, um... A task is... Gah, why is it so hard to describe!? It's like... helping Dodoco! Yeah! That's a task!
+    Option 2:
+        Traveler: It's something that needs doing.
+        Paimon: Yeah, something that needs doing!
+        Klee: Oh! So, like... when I go blast-fishing with Jumpy Dumpty?
+        Paimon: No, no! A "task" isn't just something you wanna do!
+        Klee: I'm confused...
+        Paimon: *sigh* It's like... When your mom tells you to do something! That's a "task"!
 Klee: Oh! Thanks, Paimon. That kinda makes more sense, although not really.
 Klee: Anyway, let's go help Dodoco now!
 Paimon: Hold on. What kind of help does Dodoco need?
@@ -36,12 +44,6 @@ Paimon: Seems like part of a story about Dodoco...
 Klee: Oh, I know where that forest is! It's where I go to blast— Ahem, where I go to play a lot!
 Klee: C'mon, everyone! Follow me!
 Paimon: Alright, let's go!
-Traveler: It's something that needs doing.
-Paimon: Yeah, something that needs doing!
-Klee: Oh! So, like... when I go blast-fishing with Jumpy Dumpty?
-Paimon: No, no! A "task" isn't just something you wanna do!
-Klee: I'm confused...
-Paimon: *sigh* It's like... When your mom tells you to do something! That's a "task"!
 
 ## Talk 3
 
@@ -130,8 +132,11 @@ Jean: I see. I take it those other times were on purpose, then?
 Klee: Um, they weren't... not on purpose?
 Jean: *sigh*... I noticed the destroyed camp on the way here, and I saw the monsters fleeing along the shore of Starfell Lake.
 Jean: #Am I correct in assuming that's all the damage, Traveler?
-Traveler: The rest was Paimon's doing.
-Paimon: ...Yeah. You know Paimon, clearing out monsters with a single punch! She's just awesome like that.
+    Option 1:
+        Traveler: The rest was Paimon's doing.
+        Paimon: ...Yeah. You know Paimon, clearing out monsters with a single punch! She's just awesome like that.
+    Option 2:
+        Traveler: That's all the damage.
 Jean: Klee.
 Jean: Come with me. Let's head back.
 Klee: Ohh... Is it confinement for Klee again?
@@ -143,4 +148,3 @@ Paimon: Haha, awesome! Paimon's been craving some Sweet Madame!
 Black Screen Text: Jean treats you, Paimon, and Klee to a meal at the Good Hunter... 
 Ah, along with Dodoco, the newly crowned "Dodo-Sorcerer" of course. 
 With that, the trial comes to a successful close.
-Traveler: That's all the damage.

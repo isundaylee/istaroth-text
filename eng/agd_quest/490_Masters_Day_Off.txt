@@ -34,9 +34,9 @@ Barbara: Great! That puts my mind at rest. May the Anemo Archon protect you... a
 Paimon: Hi Jean, are you feeling better now?
 Jean: Much better. I was not expecting you to come here. Thank you for your concern.
 Paimon: Are you sure? We saw you beneath the tree just now, leaning on your sword — it looked like you were struggling.
+Paimon: Are you sure you aren't pushing yourself too hard?
 Traveler: You can always rely on the other knights.
 Traveler: You can always rely on us.
-Paimon: Are you sure you aren't pushing yourself too hard?
 Jean: Oh... Thank you, that means a lot to me. Hearing that boosts my spirits.
 Jean: But I must find a way to cope with minor setbacks like this on my own. Otherwise, how can I be the protector that Mondstadt needs me to be? The protector that Vennessa was...
 Paimon: You truly revere Vennessa, huh?
@@ -48,24 +48,28 @@ Paimon: Oooh, that makes sense now.
 Paimon: You too want to be as gentle as the Dandelion Knight and yet as fierce as the Lionfang Knight?
 Jean: Yes. I know it sounds like a huge honor, inheriting both these titles from Vennessa...
 Jean: But I see it more as a huge responsibility.
+Jean: After all, it is a lot to live up to.
 Traveler: I could get used to Jean the Lionfang Knight...
 Traveler: Actually, Dandelion Knight suits you better.
-Jean: After all, it is a lot to live up to.
 Paimon: Paimon thinks so too!
 Jean: ...
 Paimon: Jean?
 Jean: Who's there?
+[Missing Dialog 4900325]
+
 Abyss Mage: Hmph... Caught red-handed.
 Abyss Mage: Finally, an opportunity comes to get rid of the Master in her moment of weakness... and then you two show up and ruin everything.
 Paimon: How did they know about Jean's condition?
 Paimon: Choosing this moment to strike is a low blow, even for this lot.
 Jean: As long as my name is the Dandelion Knight, I swear I shall not be defeated by such despicable means!
 Abyss Mage: Hmm, since this opportunity has slipped away, I shall now be slipping away in a similar fashion...
+[Missing Dialog 4900332]
+
 Jean: Stop! *cough*
 Jean: After him... *cough*
+Paimon: Jean, you're still recovering...
 Traveler: You should go back and rest.
 Traveler: He could be luring Jean into a trap...
-Paimon: Jean, you're still recovering...
 Jean: No. I must go after him...
 Paimon: *sigh* Jean, you can't keep doing this to yourself. Why can't you trust us to handle it?
 Jean: I do trust you... But to let an enemy get away like this would be a major dereliction of duty.
@@ -191,24 +195,39 @@ Kaeya: Hehe... I'm only indulging you since it's such a special day today.
 
 ## Talk 14
 
-Traveler: There you are.
-Traveler: Are you having a good time?
 Jean: Oh, it is you.
+    Option 1:
+        Traveler: There you are.
+    Option 2:
+        Traveler: Are you having a good time?
 Jean: Yes, I am just... getting some air.
 Paimon: Uh-oh, it seems like something's bothering Jean.
-Traveler: Actually, I knew nothing about this whole thing either.
-Traveler: You're looking more upbeat now.
 Jean: #Traveler, I want to thank you again—
-Jean: Either way, it is good to be here together with everyone. It has lifted my spirits.
+Traveler: Actually, I knew nothing about this whole thing either.
+    Option 1:
+        Jean: Either way, it is good to be here together with everyone. It has lifted my spirits.
+    Option 2:
+        Jean: It is good to be here together with everyone. It has lifted my spirits.
+Jean: And it has taught me something.
+Paimon: What's that?
+Jean: I am definitely more of a Dandelion Knight than a Lionfang Knight.
+Jean: The Lionfang Knight represents Vennessa's past — a past in which she fought hard for Mondstadt.
+Jean: But it was the Dandelion Knight that represented her hopes for the future — a future belonging to the newly formed Knights of Favonius...
+Paimon: Jean, Vennessa would be so proud of who you are right now.
+Jean: I do believe that Vennessa watches over us, whether from high up above, or from the wind all around us.
+Traveler: Let the Wind lead.
+Jean: #Let the Wind lead. The winds of freedom will guide us along the path that lies ahead. I hope you will continue to join us on that path, Traveler.
+
+Traveler: You're looking more upbeat now.
 Jean: It is good to be here together with everyone. It has lifted my spirits.
 Jean: And it has taught me something.
 Paimon: What's that?
 Jean: I am definitely more of a Dandelion Knight than a Lionfang Knight.
 Jean: The Lionfang Knight represents Vennessa's past — a past in which she fought hard for Mondstadt.
-Paimon: Jean, Vennessa would be so proud of who you are right now.
 Jean: But it was the Dandelion Knight that represented her hopes for the future — a future belonging to the newly formed Knights of Favonius...
-Traveler: Let the Wind lead.
+Paimon: Jean, Vennessa would be so proud of who you are right now.
 Jean: I do believe that Vennessa watches over us, whether from high up above, or from the wind all around us.
+Traveler: Let the Wind lead.
 Jean: #Let the Wind lead. The winds of freedom will guide us along the path that lies ahead. I hope you will continue to join us on that path, Traveler.
 
 ## Talk 15

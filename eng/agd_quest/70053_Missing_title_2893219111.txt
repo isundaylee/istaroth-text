@@ -6,32 +6,994 @@ Yoimiya: I told my father to use all sorts of vibrant colors in the formula. Her
 Yoimiya: And wouldn't you know it, Sayu dropped by yesterday! We even ended up chatting about you.
 Yoimiya: *sigh* So much has happened while you've been away. There's so much you need to catch up on!
 Yoimiya: But that's more than enough about me! I didn't even say a proper hello... or ask what you're doing out here.
-Traveler: It's been a while, Yoimiya.
-Yoimiya: Sure has! And what a coincidence to run into you here, luck must be on my side. Is there anything special going on here today?
-Traveler: I'm on a quest to take pictures of lovely scenery, and I bumped into you on the way.
-Yoimiya: Ooh, pictures of Amakane Island? I like it here too! I especially love coming here to test my fireworks whenever I've got the time.
+    Option 1:
+        Traveler: It's been a while, Yoimiya.
+        Yoimiya: Sure has! And what a coincidence to run into you here, luck must be on my side. Is there anything special going on here today?
+        Traveler: I'm on a quest to take pictures of lovely scenery, and I bumped into you on the way.
+        Yoimiya: Ooh, pictures of Amakane Island? I like it here too! I especially love coming here to test my fireworks whenever I've got the time.
+    Option 2:
+        Traveler: You could say so.
+        Yoimiya: #Ooh, mysterious! Spill the beans, what brings the great Traveler to a place like this?
+        Traveler: I'm on a quest to take pictures of lovely scenery, and I bumped into you on the way.
+        Yoimiya: Ooh, pictures of Amakane Island? I like it here too! I especially love coming here to test my fireworks whenever I've got the time.
+    Option 3:
+        Traveler: It's been a while, Yoimiya.
+        Yoimiya: Sure has! And what a coincidence to run into you here, luck must be on my side. Is there anything special going on here today?
+        Traveler: I'm on a quest to find the lovely Yoimiya, and I'm taking some pictures along the way.
+        Yoimiya: Aww, really? You're making me blush! Come on, let's take some pictures together!
+    Option 4:
+        Traveler: You could say so.
+        Yoimiya: #Ooh, mysterious! Spill the beans, what brings the great Traveler to a place like this?
+        Traveler: I'm on a quest to find the lovely Yoimiya, and I'm taking some pictures along the way.
+        Yoimiya: Aww, really? You're making me blush! Come on, let's take some pictures together!
 Yoimiya: Ooh, wait, I've got an idea! I just so happen to have brought some new fireworks with me.
 Yoimiya: Once you've got the Kamera ready, we can set these off. That way, it'll make for an even more momentous memento!
 Traveler: And I can take a picture of you while we're here.
 Yoimiya: Awesome! I bet a picture with fireworks going off in the background will be the best kind of picture there is.
 Yoimiya: But lemme think... How should I pose for the picture?
-Traveler: Let's go with a fun pose.
-Yoimiya: Will this work?
-Traveler: Perfect. I'll line up the Kamera!
-Yoimiya: I'm ready.
-Traveler: Let's go with the cool pose instead.
-Yoimiya: Alright then.
-Traveler: The fun pose might work better.
-Yoimiya: Alright then.
-Traveler: How about we switch to the formal pose?
-Yoimiya: Alright then.
-Traveler: Let me think about it a bit more.
-Yoimiya: Sure. Let me know when you've decided.
-Traveler: We should try a cool pose.
-Yoimiya: Okay! Something like this?
-Traveler: I think a formal pose is best.
-Yoimiya: Okay! Something like this?
-Traveler: I'm on a quest to find the lovely Yoimiya, and I'm taking some pictures along the way.
-Yoimiya: Aww, really? You're making me blush! Come on, let's take some pictures together!
-Traveler: You could say so.
-Yoimiya: #Ooh, mysterious! Spill the beans, what brings the great Traveler to a place like this?
+    Option 1:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 2:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 3:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 4:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 5:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 6:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 7:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 8:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 9:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 10:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 11:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 12:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 13:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 14:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 15:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 16:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 17:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 18:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 19:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 20:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 21:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 22:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 23:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 24:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 25:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 26:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 27:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 28:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 29:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 30:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 31:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 32:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 33:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 34:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 35:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 36:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 37:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 38:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 39:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 40:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 41:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 42:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 43:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 44:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 45:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 46:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 47:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 48:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 49:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 50:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 51:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 52:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 53:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 54:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 55:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 56:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 57:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 58:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 59:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 60:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 61:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 62:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 63:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 64:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Yoimiya: I'm ready.
+    Option 65:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 66:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 67:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 68:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 69:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 70:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 71:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 72:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 73:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 74:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 75:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 76:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 77:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 78:
+        Traveler: Let's go with a fun pose.
+        Yoimiya: Will this work?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 79:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 80:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 81:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 82:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 83:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 84:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 85:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 86:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 87:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 88:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 89:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 90:
+        Traveler: We should try a cool pose.
+        Yoimiya: Okay! Something like this?
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 91:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 92:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 93:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 94:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 95:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 96:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 97:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 98:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 99:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.
+    Option 100:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 101:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 102:
+        Traveler: I think a formal pose is best.
+        Yoimiya: Okay! Something like this?
+        Traveler: Let's go with the cool pose instead.
+        Yoimiya: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Yoimiya: Alright then.
+        Traveler: The fun pose might work better.
+        Yoimiya: Alright then.
+        Traveler: Let me think about it a bit more.
+        Yoimiya: Sure. Let me know when you've decided.

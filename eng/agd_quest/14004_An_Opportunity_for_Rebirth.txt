@@ -23,16 +23,20 @@ Paimon: Just where is that thing? This is taking longer than Paimon thought...
 
 Paimon: Nothing in the water, either... Paimon thought it might have gotten blown in...
 Paimon: We've looked everywhere, and still not seen anything that looks like a hat...
-Traveler: Let's turn back. We can't scour the entire Fortress.
+    Option 1:
+        Traveler: Let's turn back. We can't scour the entire Fortress.
+    Option 2:
+        Traveler: We can just buy him a hat.
 Paimon: Huh, that's a good idea! If he's just looking to cover his head, then it shouldn't matter what kind of hat he's wearing.
 Paimon: Why don't we check out the Rag and Bone Shop? If memory serves, they've got all kinds of stuff in there!
-Traveler: You sure get fired up quick when it comes to shopping...
-Paimon: Hehe, you'll let Paimon pick out some other stuff too, right? If we're going to the shop anyway...
+    Option 1:
+        Traveler: You sure get fired up quick when it comes to shopping...
+        Paimon: Hehe, you'll let Paimon pick out some other stuff too, right? If we're going to the shop anyway...
+    Option 2:
+        Traveler: ...I'm only paying for the hat.
+        Paimon: Huh? How did you know what Paimon was thinking!?
+        Paimon: *sigh* This is bad, nothing gets past you nowadays...
 Paimon: Well, either way, let's go check it out first.
-Traveler: ...I'm only paying for the hat.
-Paimon: Huh? How did you know what Paimon was thinking!?
-Paimon: *sigh* This is bad, nothing gets past you nowadays...
-Traveler: We can just buy him a hat.
 
 ## Talk 7
 
@@ -47,7 +51,10 @@ Paimon: Ah, there's no need to put yourself down like that! Paimon's just ventin
 Chamboduc: Well, your heroic actions at Erinnyes have long made their way to the Fortress of Meropide.
 Chamboduc: We heard that you were personally received by His Grace when you made your way down here, you know. Ah, you were the envy of all...
 Chamboduc: And you're now one of His Grace's favorite people, so of course, everyone wants to be introduced to you.
-Traveler: Ah, so it's because of him...
+    Option 1:
+        Traveler: Ah, so it's because of him...
+    Option 2:
+        Traveler: And here I thought I had made it as a hero...
 Chamboduc: Haha, I figured you'd appreciate honesty over flattery.
 Chamboduc: After all, I also only joined up here because I'd heard Mr. Alvard was a good friend of the Duke.
 Chamboduc: And though I've only caught scant sight of His Grace since then, as fate would have it, I've become fast friends with Mr. Alvard himself.
@@ -72,7 +79,6 @@ Paimon: But anyway, we don't need to get into that right now. We can discuss Pai
 Paimon: Thank you so much! We'll be off, then.
 Chamboduc: No problem, and thank you for your patronage! I'd appreciate it if you could put in a nice word for our establishment the next time you speak to His Grace.
 Paimon: That's a real sneaky way of getting good reviews...
-Traveler: And here I thought I had made it as a hero...
 
 ## Talk 8
 
@@ -108,7 +114,10 @@ Wriothesley: Prisoners are still people, after all. There are as many crimes and
 Wriothesley: The idea of the criminal as a selfish, heartless brute is just a stereotype. Such labels could never capture the complexity of even a single individual person.
 Wriothesley: What kind of a person a prisoner may be, and why they have committed a crime — we'd never know these things if they don't share their story with us.
 Paimon: Huh, you've got a point... Anyway, it's all good as long as it makes sense to you.
-Traveler: What's this "Beret Society"?
+    Option 1:
+        Traveler: What's this "Beret Society"?
+    Option 2:
+        Traveler: There are people here who enjoy working?
 Wriothesley: Although most of the societies here will just turn individual brawls into mass ones...
 Wriothesley: The Beret Society does appear to be an exception in that it's instead trying to experiment with some novel and interesting things.
 Wriothesley: If you have some time, why don't we grab something at the Coupon Cafeteria? It'll give us some time to catch up, too.
@@ -116,14 +125,16 @@ Wriothesley: And if you're still interested in the Berets after that, I can take
 Paimon: Paimon's not the biggest fan of that cafeteria, but if we're gonna catch up...
 Traveler: Let's go, then.
 Wriothesley: Alright then, please follow me.
-Traveler: There are people here who enjoy working?
 
 ## Talk 9
 
 Wolsey: Welcome, Your Grace, and the Traveler. Would you like three orders of today's Welfare Meal?
 Wolsey: Unfortunately, we weren't informed of your visit in advance, so we didn't prepare any Super Deluxe Welfare Meals today...
 Wriothesley: I'll pass on the food, then. What about you?
-Traveler: I'm not hungry.
+    Option 1:
+        Traveler: I'm not hungry.
+    Option 2:
+        Traveler: Super Deluxe or bust.
 Paimon: ...Then, Paimon will also pass. Paimon will save her stomach for something better!
 Wriothesley: What a pity... It would seem that none of us can properly appreciate your skills, Wolsey.
 Wolsey: Haha, then I must beg Your Grace to find me some more ingredients, so I can come up with some more Welfare Meal recipes.
@@ -136,14 +147,26 @@ Black Screen Text: After a while, Wolsey brings out the drinks for everyone.
 Wriothesley: Our first meeting took place on short notice, and we were both swamped by everything that happened after, so there was no time for more casual chit-chat.
 Wriothesley: I'm actually quite fond of stories, you know. Of course, the others have already told me a lot about your deeds in Fontaine, but I'd love to hear it straight from the source.
 Paimon: Whoa, that'd be quite the long story...
-Traveler: We fought tooth and nail for the sake of justice.
-Wriothesley: Impressive. Not all who possess the courage to risk their life for their ideals also have the strength to make it out unscathed.
-Wriothesley: Had you not possessed these remarkable qualities, I probably wouldn't have had the chance to make your acquaintance in the first place.
+    Option 1:
+        Traveler: We fought tooth and nail for the sake of justice.
+        Wriothesley: Impressive. Not all who possess the courage to risk their life for their ideals also have the strength to make it out unscathed.
+        Wriothesley: Had you not possessed these remarkable qualities, I probably wouldn't have had the chance to make your acquaintance in the first place.
+    Option 2:
+        Traveler: I'm still trying to learn more about Fontaine.
+        Wriothesley: I see. Certainly, that'd fit your title as the Traveler.
+        Wriothesley: Seeing everything for yourself, recording everything to the best of your ability, and making lots of friends along the way... I'm sure that by the end of your journey, you'll possess an unmatched amount of perspectives and opportunities.
+    Option 3:
+        Traveler: To be honest, I really wasn't that involved with a lot of it...
+        Wriothesley: Haha, that's a bit too humble for you.
+        Wriothesley: Even the most unintentional action can catalyze new developments, and force many fates onto brand new paths.
 Paimon: Paimon gets the sense that you're trying to flatter us...
 Paimon: That guy we talked to earlier was obviously trying to get us to put in a good word for him, but you're the Duke, right? Why would you need to get on our good side?
 Wriothesley: Well, after all, you did help the Fortress and I maintain our autonomy.
 Wriothesley: Is it so strange that I would want to give a few words of praise out of genuine admiration?
-Traveler: Just a little bit.
+    Option 1:
+        Traveler: Just a little bit.
+    Option 2:
+        Traveler: It's because you don't ever talk about yourself.
 Wriothesley: Ah, so this is a matter of trust. Which is unfortunate, since I don't have nearly as interesting of a story to offer about myself.
 Wriothesley: I was convicted and sent here at an early age. I only became the top dog after spending a long time figuring out its inner workings.
 Wriothesley: Power and control come in many forms, some fair and ethical, others less so. And since we're all sinners here, the victor calls the shots, no matter how they managed to get to the top.
@@ -151,7 +174,10 @@ Wriothesley: So, what do you think? Didn't put you much more at ease, now did it
 Paimon: Uh, kinda... You're really different from most of the people we've met so far...
 Wriothesley: Haha, I'm perfectly aware of that, too. But even so, that doesn't make me think any less of you.
 Wriothesley: I would very much like to maintain friendly relations with you two.
-Traveler: That's how I feel as well.
+    Option 1:
+        Traveler: That's how I feel as well.
+    Option 2:
+        Traveler: I must thank you for your generosity, but...
 Guelet: Your Grace, after following your instructions, we were able to find a box of undeclared contraband in the latest shipment of cargo.
 Guelet: They were extremely well-hidden, and we've confirmed that the senders have been using this method to smuggle goods for a while. We're trying to trace the goods to their source.
 Wriothesley: Got it. Leave the box here, and contact me immediately if you make any progress. You're dismissed.
@@ -165,8 +191,12 @@ Paimon: Whoa, this is certainly a box of curiosities! Mora, snacks, yarn balls, 
 Paimon: Wait, if you've confiscated this entire box, then does that mean... all of this belongs to you now?
 Wriothesley: Yep. We can't just send them back up now, can we?
 Paimon: #Whaaaat? But that's just insane profit! Traveler, why don't you become a Duke as well?
-Traveler: And what about you, Paimon?
-Paimon: Paimon will be your vault-keeper!
+    Option 1:
+        Traveler: And what about you, Paimon?
+        Paimon: Paimon will be your vault-keeper!
+    Option 2:
+        Traveler: Let's get that title, then.
+        Wriothesley: It's only been a couple minutes since we agreed to continue friendly relations with each other, and you're already planning to overthrow me?
 Wriothesley: Jokes aside, I didn't know you would be so interested in this box. How about this, then? You can pick anything you want from it. Consider it a gift from me.
 Paimon: Really? You'll let Paimon pick anything?
 Paimon: No takebacks! Paimon will have you know that she's got a real good eye for treasure!
@@ -175,7 +205,10 @@ Paimon: Alright... Paimon's gonna have a look...
 Paimon: Paimon wants... this one! This dark, sparkly gem — you just know it must be worth a ton of Mora!
 Paimon: Umm... Uhh...
 Paimon: Actually, never mind. Paimon doesn't want this gem anymore... Can Paimon pick something else instead?
-Traveler: Paimon, what's wrong?
+    Option 1:
+        Traveler: Paimon, what's wrong?
+    Option 2:
+        Traveler: Are you feeling unwell?
 Paimon: There's something... weird about this gem. Paimon remembered a lot of bad things when she picked it up...
 Paimon: Paimon couldn't even tune them out... It's as if the gem was just drawing them out of Paimon's brain. It was super spooky...
 Wriothesley: Is that so? Let me give it a try.
@@ -183,34 +216,28 @@ Wriothesley: Uhh...
 Wriothesley: Paimon's right. I, too, experienced some unpleasant flashbacks.
 Traveler: Huh, let me try...
 Wriothesley: Are you sure? I wouldn't exactly call it fun.
-Traveler: I want to make sure I know exactly what you saw.
+    Option 1:
+        Traveler: I want to make sure I know exactly what you saw.
+    Option 2:
+        Traveler: My constitution is a bit different from everyone else's.
 Wriothesley: Fair enough. Go ahead. I don't think it'll have a permanent effect.
 Traveler: !!!
 Paimon: #Are you okay, Traveler? You also saw something, right?
-Traveler: Yeah, it's just as you said.
+    Option 1:
+        Traveler: Yeah, it's just as you said.
+    Option 2:
+        Traveler: I relived some... rather unforgettable memories.
 Wriothesley: I'll take this gem, then, and run a thorough investigation on its properties. Paimon, feel free to pick something else.
 Paimon: Then... Actually, never mind. Paimon's gonna pass. Paimon was thinking about one of the snacks, but who knows if it'll also make Paimon sick...
-Traveler: An astute decision.
+    Option 1:
+        Traveler: An astute decision.
+    Option 2:
+        Traveler: It doesn't hurt to be careful.
 Wriothesley: You do have a point. In that case, we should destroy the entire box and all of its contents.
 Wriothesley: Seems like we're almost done with our drinks, too. Let's go check out the Society's gathering place, then.
 Wriothesley: I can introduce you, and we can also continue our conversation while we're at it.
 Paimon: Wait, are you this free every day or something?
 Wriothesley: Just noticed? I wasn't exactly busy the first time we met, either.
-Traveler: It doesn't hurt to be careful.
-Traveler: I relived some... rather unforgettable memories.
-Traveler: My constitution is a bit different from everyone else's.
-Traveler: Are you feeling unwell?
-Traveler: Let's get that title, then.
-Wriothesley: It's only been a couple minutes since we agreed to continue friendly relations with each other, and you're already planning to overthrow me?
-Traveler: I must thank you for your generosity, but...
-Traveler: It's because you don't ever talk about yourself.
-Traveler: I'm still trying to learn more about Fontaine.
-Wriothesley: I see. Certainly, that'd fit your title as the Traveler.
-Wriothesley: Seeing everything for yourself, recording everything to the best of your ability, and making lots of friends along the way... I'm sure that by the end of your journey, you'll possess an unmatched amount of perspectives and opportunities.
-Traveler: To be honest, I really wasn't that involved with a lot of it...
-Wriothesley: Haha, that's a bit too humble for you.
-Wriothesley: Even the most unintentional action can catalyze new developments, and force many fates onto brand new paths.
-Traveler: Super Deluxe or bust.
 
 ## Additional Conversations
 

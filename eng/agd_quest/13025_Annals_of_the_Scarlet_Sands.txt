@@ -75,8 +75,12 @@ Dehya: None of the things he's doing right now make any sense if he's just tryin
 Dehya: If all he wants to do is steer clear of me, then maybe he shouldn't have brought me into this world in the first place.
 Paimon: Oh no, Dehya, please don't feel that way...
 Dehya: I'm just angry because I can't wrap my head around any of his actions.
-Traveler: Maybe there's another way of looking at all of this...
-Dehya: Another way? I dunno... I knew him, and he was nothing more than a childish brute. I can't understand what's going through his head.
+    Option 1:
+        Traveler: Maybe there's another way of looking at all of this...
+        Dehya: Another way? I dunno... I knew him, and he was nothing more than a childish brute. I can't understand what's going through his head.
+    Option 2:
+        Traveler: Can you try to believe in him... just one more time?
+        Dehya: I don't know, I really don't know... I don't think I can do it.
 Dehya: But I guess you do have a point... We haven't uncovered the whole truth yet. We still need to figure out his exact actions and reasoning for these last few years.
 Shahzaman: I'll do my best to help. Of course, anything between the two of you would need to be resolved between you and him alone.
 Shahzaman: I don't know Kusayla's exact whereabouts. Outside of supplying his brigade with some goods, I tried my best to avoid getting involved any further with him.
@@ -89,8 +93,6 @@ Dunyarzad: My father has indeed done something wrong, but if I think about it, I
 Dunyarzad: I feel like... our only course of action is to turn everything we know over to the Corps of Thirty, and let them render judgment...
 Shahzaman: Yes. I am prepared to accept whatever verdict they choose.
 Shahzaman: It's time to face my mistakes...
-Traveler: Can you try to believe in him... just one more time?
-Dehya: I don't know, I really don't know... I don't think I can do it.
 
 ## Talk 3
 
@@ -135,13 +137,19 @@ Dehya: When did he die? What happened to him?
 Tikriti: A few years ago, Kusayla broke up Dakan Al-Ahmar, and went to the Deshret's Relics headquarters by himself.
 Paimon: So is that when you guys started acting up?
 Bashar: We would prefer to call it "taking revenge." Every last person in Deshret's Relics must pay in blood for what they did!
-Traveler: So that's why they turned on each other...
+    Option 1:
+        Traveler: So that's why they turned on each other...
+    Option 2:
+        Traveler: It was all motivated by revenge...
 Idrisi: Let me start from the beginning. Dehya, do you know how the head of the Relics maintained order internally?
 Dehya: Overwhelming strength, and unquestionable authority?
 Idrisi: Those were a part of it, yes. But just those on their own weren't enough. They had another tool at their disposal. They called it a person's "record."
 Idrisi: Regardless of whether they joined by their own will or were coerced, every person in Deshret's Relics were forced to leave a record of themselves at headquarters.
 Idrisi: Whether it be their deepest sin, some unforgivable act, or their most immoral exploit, the record served both as a symbol of loyalty and the perfect material for blackmail.
-Traveler: So you mean...
+    Option 1:
+        Traveler: So you mean...
+    Option 2:
+        Traveler: Kusayla thought there was no escaping the records.
 Idrisi: That's precisely it. Every one of us have a record... me, Bashar, Tikriti, and all the boys who grew up with Dehya and ended up joining our ranks.
 Idrisi: But you, Dehya... you were never asked to provide a record, were you?
 Dehya: I... I never even knew this was a requirement...
@@ -175,7 +183,10 @@ Bashar: We forged boss's handwriting and sent out many letters to his former fri
 Bashar: We were also able to attract many mercenaries who shared our goal. We've endured unspeakable pain to win many impossible battles...
 Bashar: Deshret's Relics have become weaker and weaker, and now... we finally have an opportunity to directly strike their headquarters.
 Paimon: Uh... Paimon doesn't know what to say anymore.
-Traveler: Responding to violence with more violence will only cause more pain.
+    Option 1:
+        Traveler: Responding to violence with more violence will only cause more pain.
+    Option 2:
+        Traveler: Do you have any idea the amount of damage you've done?
 Idrisi: Hah, we do know right from wrong. But we were sinners from the very beginning... We do not deserve the freedom that the boss won for us with his life.
 Idrisi: Boss always loved his old-fashioned hero stories... those tales about sacrificing yourself to save the world.
 Idrisi: We used to always laugh at him for it, but in the end, he really went and lived those stories out himself...
@@ -190,17 +201,16 @@ Dehya: I grew up with these guys, and I know they're not bad people. It's just t
 Dehya: All I know is that Deshret's Relics must be destroyed.
 Dehya: Furthermore... I want to go see the place for myself. I want to know if my father is still there...
 Dehya: I know you don't want to get involved in this, so there's no need for you to tag along. I can do this on my own.
-Traveler: I'm on your side, Dehya.
+    Option 1:
+        Traveler: I'm on your side, Dehya.
+    Option 2:
+        Traveler: No, I made a promise to Dunyarzad to support you.
 Paimon: Yeah, Paimon feels like we'd only regret it if we don't see this through to the end...
 Dehya: Thank you. We'll be a lot stronger together with you.
 Idrisi: Haha, I bet boss would lose his mind if he ever knew you'd join us at the very last moment like this.
 Tikriti: Considering all the losses and injuries we've sustained... We can't afford to turn down someone as powerful as you.
 Dehya: He can think whatever he wants...
 Dehya: ...But the fact is, I owe him this much.
-Traveler: No, I made a promise to Dunyarzad to support you.
-Traveler: Do you have any idea the amount of damage you've done?
-Traveler: Kusayla thought there was no escaping the records.
-Traveler: It was all motivated by revenge...
 
 ## Additional Conversations
 

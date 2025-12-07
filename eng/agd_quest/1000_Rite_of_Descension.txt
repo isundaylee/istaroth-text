@@ -19,15 +19,17 @@
 
 Paimon: If you wanna find the Geo Archon, this is the only chance you'll get all year.
 Paimon: Guess it's a good thing Venti brought it up earlier, otherwise we definitely would've missed this year's Rite of Descension.
-Traveler: Do you know when it is?
-Paimon: Uhh... might be today, might also be tomorrow...
+    Option 1:
+        Traveler: Do you know when it is?
+        Paimon: Uhh... might be today, might also be tomorrow...
+    Option 2:
+        Traveler: Do you know where it is?
+        Paimon: Well, Venti brought up the time, but Paimon... knows nothing about where it is... Ehe.
 Paimon: Look, we're already in Liyue so let's go ask some of the locals.
 Paimon: Oh, right. About the Geo Archon, "Morax..."
 Paimon: Did you know? The Mora that we use is named after this god.
 Paimon: But it's seen as impolite for people from outside Liyue to refer to the Geo Archon by that name.
 Paimon: So we should refer to the Geo Archon by the name Rex Lapis, like the people of Liyue do.
-Traveler: Do you know where it is?
-Paimon: Well, Venti brought up the time, but Paimon... knows nothing about where it is... Ehe.
 
 ## Talk 5
 
@@ -41,7 +43,10 @@ Guanhai: I wish you well on your travels! Liyue always welcomes you!
 Linlang: Rite of Descension... Oh yeah, that reminds me, isn't that today?
 Linlang: Once a year, Rex Lapis bestows upon us his divine prediction, guiding us on how to run Liyue for the coming year.
 Linlang: Last year it was the Yuheng of the Liyue Qixing that was given the honor of asking for the divine prediction.
-Traveler: Liyue Qixing?
+    Option 1:
+        Traveler: Liyue Qixing?
+    Option 2:
+        Traveler: Yuheng?
 Paimon: Ooh! Paimon knows this one!
 Paimon: Mondstadt is to freedom as Liyue is to contracts. Liyue has a strong focus on business and trade.
 Paimon: The Liyue Qixing — the seven leaders of the seven enterprises of Liyue — hold true control over Liyue.
@@ -50,7 +55,6 @@ Linlang: But true control over Liyue will always be held by Rex Lapis.
 Linlang: The Qixing is comprised of mere mortals. Rex Lapis is a god. Mondstadt's god is nowhere to be seen, whilst our god is forever with us.
 Linlang: Stay in Liyue long enough and you'll see...
 Linlang: Given that you just left your godless city, it's time you experienced what it's like to be in a city whose god has walked with it through all of history.
-Traveler: Yuheng?
 
 ## Talk 7
 
@@ -128,8 +132,10 @@ Paimon: Oh no, the Millelith! Looks like they're nabbing suspects who got too cl
 Paimon: Paimon's freaking out. The killer is amongst us!
 Paimon: Wait... we got close... are we suspects!?
 Paimon: Wait, where are you going?
-Traveler: (It was a god we faced off against when we first arrived in this world too...)
-Traveler: (We can't fall into their hands...)
+    Option 1:
+        Traveler: (It was a god we faced off against when we first arrived in this world too...)
+    Option 2:
+        Traveler: (We can't fall into their hands...)
 
 ## Talk 20
 
@@ -154,7 +160,10 @@ Traveler: (We can't fall into their hands...)
 ## Talk 25
 
 Paimon: *panting* Phew... Paimon's exhausted...
-Traveler: I'm even more beat.
+    Option 1:
+        Traveler: I'm even more beat.
+    Option 2:
+        Traveler: Just what muscles does magical floating use exactly?
 Paimon: So insensitive! You have no idea just how tiring floating arou— Wait!
 Paimon: Just who are you exactly?
 Childe (???): Call me Childe.
@@ -166,8 +175,15 @@ Paimon: You're Fatui! One of The Harbingers!
 Childe: Oh, no. Don't worry, I'm not looking for a fight.
 Childe: Signora gave you quite the bad impression huh? Tsk, that woman... Can't say I'm a fan either.
 Childe: Right, let's forget all about her, shall we? I'm here to help you.
-Traveler: Help?
-Childe: Yes. Help.
+    Option 1:
+        Traveler: Help?
+        Childe: Yes. Help.
+    Option 2:
+        Traveler: I don't need help from the Fatui.
+        Childe: Come now, don't be like that.
+    Option 3:
+        Traveler: Go. Leave.
+        Childe: Sure, I may be one of the Harbingers, but hear me out.
 Childe: I'm not a bad guy... Okay perhaps I'm kind of a bad guy, but I'm not here to give you any trouble.
 Childe: Would it be too much to ask for you to keep the sword sheathed?
 Childe: #Haha, I thank you for your knightly nobility, Traveler.
@@ -180,11 +196,6 @@ Childe: Hahaha. Guess I shouldn't try to deny that.
 Childe: Okay, sure. Maintaining a distance between strangers is probably a good idea. Either way, I'm already used to it at this stage.
 Childe: But right now, if you want to clear yourselves of any suspicion — you need to get yourselves to Northland Bank.
 Childe: Staying here isn't an option. As the old Liyue saying goes: "The walls have ears."
-Traveler: I don't need help from the Fatui.
-Childe: Come now, don't be like that.
-Traveler: Go. Leave.
-Childe: Sure, I may be one of the Harbingers, but hear me out.
-Traveler: Just what muscles does magical floating use exactly?
 
 ## Talk 26
 
@@ -200,7 +211,10 @@ Childe: All I know is that it's a sigil. A sigil to keep the "mighty and illumin
 Paimon: Adepti?
 Childe: If you head north from the harbor, then west from Guili Plains, you will eventually reach a stone forest known as Jueyun Karst.
 Childe: The people of Liyue believe it to be the abode of the adepti.
-Traveler: They really believe that?
+    Option 1:
+        Traveler: They really believe that?
+    Option 2:
+        Traveler: Isn't it just a legend?
 Childe: Legend or not, they believe it. As such, offerings to the adepti are made at its borders. Nobody dares venture in.
 Childe: But I have no need for believing — not when I know for a fact that the adepti truly exist.
 Paimon: Hate to admit it but your Fatui intel seems alright. But, why would we go looking for adepti anyway?
@@ -210,15 +224,16 @@ Paimon: Justice?
 Childe: The Qixing will already have dispatched the Millelith. They'll be seeking out the assassin from amongst the onlookers.
 Childe: But how could a mere mortal kill a god that can sweep aside entire armies? Rex Lapis never gave up his power as a god.
 Childe: This level of crude response is beyond what is called for. How suspicious...
-Traveler: You think they're trying to hide the true culprit?
-Childe: Or... to hide something else. Hard to say.
+    Option 1:
+        Traveler: You think they're trying to hide the true culprit?
+        Childe: Or... to hide something else. Hard to say.
+    Option 2:
+        Traveler: You think the Qixing did it and they're trying to pin it on someone else?
+        Childe: Your thinking is even more radical than my own, Honorary Knight.
 Childe: Even now, the Northland Bank wouldn't be able to hold the Millelith off for long, but the adepti can clear you of any wrongdoing.
 Childe: Liyue was founded by the Geo Archon and the adepti — of course, it was built by force.
 Childe: Look for them. And be faster than the Qixing's messengers, so you may give your version of events first.
 Childe: If there is anyone that can help you in Liyue now, it can only be the mighty and illuminated adepti.
-Traveler: You think the Qixing did it and they're trying to pin it on someone else?
-Childe: Your thinking is even more radical than my own, Honorary Knight.
-Traveler: Isn't it just a legend?
 
 ## Additional Conversations
 
@@ -241,6 +256,7 @@ Guanhai: Oh! Are you also visitors here for the Rite of Descension?
 Guanhai: To think I've lived in Liyue all these years and never come to see this before.
 Guanhai: I guess it's like they say. Locals never visit the tourist spots.
 Guanhai: I wish you well on your travels! Liyue always welcomes you!
+
 Paimon: Thanks! So we wanna know where to go if we wanna see the Rite of Descension?
 Guanhai: Hmm... You're not at all close. Not to mention that if I gave you directions, as outlanders, you'd get lost along the way.
 Guanhai: So better to head to Yujing Terrace, to the high ground.
@@ -261,8 +277,10 @@ Guanhai: To be honest, I don't think I can be bothered going this year.
 Linlang: Rite of Descension... Oh yeah, that reminds me, isn't that today?
 Linlang: Once a year, Rex Lapis bestows upon us his divine prediction, guiding us on how to run Liyue for the coming year.
 Linlang: Last year it was the Yuheng of the Liyue Qixing that was given the honor of asking for the divine prediction.
-Traveler: Liyue Qixing?
-Traveler: Yuheng?
+    Option 1:
+        Traveler: Liyue Qixing?
+    Option 2:
+        Traveler: Yuheng?
 Paimon: Ooh! Paimon knows this one!
 Paimon: Mondstadt is to freedom as Liyue is to contracts. Liyue has a strong focus on business and trade.
 Paimon: The Liyue Qixing — the seven leaders of the seven enterprises of Liyue — hold true control over Liyue.
@@ -271,6 +289,7 @@ Linlang: But true control over Liyue will always be held by Rex Lapis.
 Linlang: The Qixing is comprised of mere mortals. Rex Lapis is a god. Mondstadt's god is nowhere to be seen, whilst our god is forever with us.
 Linlang: Stay in Liyue long enough and you'll see...
 Linlang: Given that you just left your godless city, it's time you experienced what it's like to be in a city whose god has walked with it through all of history.
+
 Paimon: Great! Then we can start our experience off with the Rite of Descension.
 Linlang: Good choice. Then get going. To the high ground.
 
@@ -306,6 +325,7 @@ Bolai: Haha. To be on the pulse of the predictions and the market is what makes 
 Bolai: Among The Seven, Rex Lapis is the oldest deity.
 Bolai: His keen sense of strategy is well trusted among his people.
 Bolai: Understanding the predictions as soon as possible can make all the difference in making your fortune!
+
 Paimon: F—Fortune! So where can we see this Rite of Descension anyway?
 Bolai: Hmm... You're not at all close. Not to mention that if I gave you directions, as outlanders, you'd get lost along the way.
 Bolai: So better to head to Yujing Terrace, to the high ground.
@@ -346,6 +366,7 @@ Changshun: Haha, seems you know a lot! Making a wish during this time is sure to
 Changshun: I've already made my wish, so you can take this.
 Paimon: Great, thanks!
 Traveler: #I wish I could find my sister soon...
+
 Paimon: Great! Now that we're all done with the wishing, guess we can just wait here for things to get started.
 Paimon: Hmm, who knows how long that Ms. Ningguang lady is gonna take.
 
@@ -366,6 +387,7 @@ Ivanovich: Oh yeah, not sure if you knew, but most of the adepti appear in the f
 Ivanovich: I heard that when attending these kinds of formal occasions, Rex Lapis himself appears as a celestial cross between two of Liyue's ancient mythical creatures...
 Ivanovich: ...Sorry, I shouldn't interrupt your wish. Please, take this.
 Traveler: I wish I could get some leads from the Geo Archon...
+
 Paimon: Great! Now that we're all done with the wishing, guess we can just wait here for things to get started.
 Paimon: Hmm, who knows how long that Ms. Ningguang lady is gonna take.
 

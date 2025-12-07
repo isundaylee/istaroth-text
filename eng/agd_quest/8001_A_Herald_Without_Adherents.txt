@@ -11,16 +11,20 @@ Dainsleif: Judging by your expression, it seems you just experienced something q
 Dainsleif: Could it be that you encountered an Abyss Herald in those ruins?
 Paimon: Huh!? How did you know that?
 Dainsleif: I've been on the Abyss Herald's trail. I didn't expect to find you here as well.
-Traveler: Actually, the Abyss Herald wasn't all we encountered...
+    Option 1:
+        Traveler: Actually, the Abyss Herald wasn't all we encountered...
+    Option 2:
+        Traveler: There was something even stranger than the Abyss Herald in the ruins.
 Dainsleif: An inverted Statue of The Seven... holding Abyssal power in its hands? No, I have never seen such a thing during my time fighting the Abyss... though I have had my suspicions.
 Dainsleif: Tell me the rest of what happened in there. So you escaped the ruin depths filled with Abyssal power, and then?
 Paimon: And then, as we got close to the exit, an Abyss Herald suddenly appeared and blocked our way.
 Paimon: We fought a big battle with that thing. Maybe it hasn't gotten too far yet...
 Dainsleif: Yes, this is a rare opportunity indeed. Come, let's catch up to it.
-Traveler: Yes, sir!
+    Option 1:
+        Traveler: Yes, sir!
+    Option 2:
+        Traveler: Wait, I thought I was the one who commissioned you...
 Paimon: Let's go! A rare opportunity! With Dain helping out, maybe we'll be able to solve more mysteries about the Abyss!
-Traveler: Wait, I thought I was the one who commissioned you...
-Traveler: There was something even stranger than the Abyss Herald in the ruins.
 
 ## Talk 2
 
@@ -28,23 +32,29 @@ Paimon: Those Abyss Mages just now... were they trying to ambush us?
 Dainsleif: No, they were just digging through these abandoned Ruin Guards looking for something of value.
 Paimon: Oh, is that so... The Traveler here seems to like doing that a lot, too...
 Paimon: Looking for Chaos Devices, Chaos Circuits... You know, that kinda stuff.
-Traveler: Yep, those are important materials!
+    Option 1:
+        Traveler: Yep, those are important materials!
+    Option 2:
+        Traveler: Abyss Mages probably weren't looking for stuff like that...
 Dainsleif: They wouldn't be searching for such ordinary objects.
 Dainsleif: In fact, I was nearby investigating precisely because Abyss Mages often come out from that ruin to explore.
 Dainsleif: They seem to be searching the remains of Ruin Guards for a certain valuable object to take back to the ruins.
 Dainsleif: However, they look disappointed, so it would seem they haven't found it yet...
 Paimon: Well then, why didn't you grab one of them just now and ask what they were up to?
-Traveler: Yeah, Master Diluc's done that before...
+    Option 1:
+        Traveler: Yeah, Master Diluc's done that before...
+    Option 2:
+        Traveler: You should be rougher with them.
 Dainsleif: I certainly don't mean to be merciful towards these monsters of the Abyss...
 Dainsleif: But I have a feeling that their plan with this object is of major importance to the entire Abyss Order.
 Dainsleif: One cannot discover the truth behind it through interrogation.
 Dainsleif: Or rather, these Abyss Mages likely fear something else much more than they do a painful interrogation...
-Traveler: Fear...
+    Option 1:
+        Traveler: Fear...
+    Option 2:
+        Traveler: Something related to what we saw in the ruins?
 Paimon: Uhh... Paimon is getting goosebumps thinking about all this!
 Dainsleif: Alright, we shouldn't waste too much time here. Let's continue our search.
-Traveler: Something related to what we saw in the ruins?
-Traveler: You should be rougher with them.
-Traveler: Abyss Mages probably weren't looking for stuff like that...
 
 ## Talk 3
 
@@ -52,7 +62,10 @@ Paimon: Wow... Besides the Abyss Order, Ruin Guards sure are active around here.
 Paimon: Seems wherever we find an Abyss Mage hideout, there's often a bunch of Ruin Guards roaming around too. Is that just a coincidence, or...?
 Dainsleif: There are no coincidences in the world. Everything is the fruit of seeds planted long ago.
 Dainsleif: Just like your appearance in that tavern... Time is just waiting for those seeds to sprout.
-Traveler: But I only heard about you by chance...
+    Option 1:
+        Traveler: But I only heard about you by chance...
+    Option 2:
+        Traveler: I don't really understand...
 Dainsleif: Forget it. Just some needless musings.
 Dainsleif: The connection between the Abyss Order and the Ruin Guards is by no means incidental.
 Dainsleif: Rather, they are both branches that have grown out and up from the same roots below.
@@ -69,13 +82,23 @@ Paimon: You have memories of being there? But that nation was destroyed 500 year
 Dainsleif: ...
 Dainsleif: Is that so? Well, everyone has their secrets. You did not pry into mine, so I shall not pry into yours...
 Dainsleif: But if you would like to tell me, I will listen... So, the Khaenri'ah you saw, what was it like?
-Traveler: (Well, I can't hide it from him any longer...)
+    Option 1:
+        Traveler: (Well, I can't hide it from him any longer...)
+    Option 2:
+        Traveler: (Dain and Khaenri'ah... It's worth a shot.)
+    Option 3:
+        Traveler: (The person who woke me up...)
+    Option 4:
+        Traveler: (And that sea of flames...)
 Paimon: So that's the complete story, huh... Paimon thought that you ran into that unknown god first...
 Dainsleif: #I see... So your first memory after coming to this world was being awoken by your {F#brother}{M#sister} from within that meteorite...
 Paimon: #It seems your {F#brother}{M#sister} woke up first, but the question is, how long before you...
 Dainsleif: #And then, your {F#brother}{M#sister} told you that the destruction of Khaenri'ah plunged the whole world into chaos and that you two should leave this world called Teyvat?
 Paimon: #"The destruction of Khaenri'ah"? {F#He}{M#She} said that?
-Traveler: Correct.
+    Option 1:
+        Traveler: Correct.
+    Option 2:
+        Traveler: That's what I heard at the time.
 Dainsleif: That destruction you witnessed, that's... history from 500 years ago.
 Dainsleif: It seems the first time you awoke in this world was indeed during that period.
 Paimon: #Huh... So your {F#brother}{M#sister} must have understood this world better than you did because {F#he}{M#she} woke up first.
@@ -87,7 +110,10 @@ Dainsleif: But now, since you have come to gain some understanding of Teyvat, yo
 Paimon: Ah! If that's the case, you must've been flipping through all sorts of books during our adventure these past few months.
 Paimon: Before going to Mondstadt, you had just looked at some vague materials. Later, we managed to gather a whole bunch of old books from all around Mondstadt and Liyue, but you told Paimon they were useless...
 Paimon: #So the whole time you were just trying to learn more about Khaenri'ah so you could find your {F#brother}{M#sister}?
-Traveler: It's the second most promising lead after looking for The Seven.
+    Option 1:
+        Traveler: It's the second most promising lead after looking for The Seven.
+    Option 2:
+        Traveler: Despite only having a place name to go on.
 Paimon: Oh yeah... You can travel around the seven nations to find The Seven, but where can you go to find a nation that was destroyed 500 years ago...?
 Dainsleif: I probably know more about Khaenri'ah than both of you.
 Dainsleif: Khaenri'ah was a nation without a god — not because it had a god that died or abandoned them, but because it never had a god to begin with.
@@ -98,18 +124,16 @@ Paimon: You mean that...
 Dainsleif: 500 years ago, the gods descended upon the world and brought desolation to Khaenri'ah.
 Dainsleif: The "pride of humankind" was uprooted and crushed, like a weed removed from the garden of the gods...
 Paimon: How could that be...? The history books don't say anything about that...
-Traveler: That's horrible...
+    Option 1:
+        Traveler: That's horrible...
+    Option 2:
+        Traveler: #What a dangerous world... I need to hurry up and find my {F#brother}{M#sister}.
 Dainsleif: Yes. Well, continuing to discuss the past now will only dampen our spirits.
-Traveler: (But, the next time I see Venti or Zhongli...)
+    Option 1:
+        Traveler: (But, the next time I see Venti or Zhongli...)
+    Option 2:
+        Traveler: (I need to hear what explanation the gods have for their actions.)
 Dainsleif: Let's keep moving. I will tell you more of what you want to know as we continue our search.
-Traveler: (I need to hear what explanation the gods have for their actions.)
-Traveler: #What a dangerous world... I need to hurry up and find my {F#brother}{M#sister}.
-Traveler: Despite only having a place name to go on.
-Traveler: That's what I heard at the time.
-Traveler: (Dain and Khaenri'ah... It's worth a shot.)
-Traveler: (The person who woke me up...)
-Traveler: (And that sea of flames...)
-Traveler: I don't really understand...
 
 ## Talk 4
 
@@ -123,7 +147,10 @@ Dainsleif: "...'Loom of Fate,' initial operation."
 Dainsleif: They... the Abyss, seem to be carrying out a large operation. The keyword here is "Loom of Fate."
 Dainsleif: It seems like they are still launching the operation, or rather, are still conducting preliminary tests...
 Paimon: "Loom of Fate"? What's that? Is it literally a... fate-weaving machine?
-Traveler: The Abyss Mage came from those ruins...
+    Option 1:
+        Traveler: The Abyss Mage came from those ruins...
+    Option 2:
+        Traveler: Is it related to the inverted statue?
 Paimon: From the horrible feeling Paimon's been getting, those eerie ruins are super likely to be related to this fate-weaving operation.
 Paimon: So Dain, what message does this talisman contain?
 Dainsleif: I'm reading it now...
@@ -131,7 +158,10 @@ Dainsleif: Hmm... An ambitious operation, but some parts are difficult to unders
 Paimon: How so?
 Dainsleif: In short, the first phase of the plan is related to Osial, Overlord of the Vortex.
 Paimon: The Overlord of the Vortex!? You mean that god in the ocean?
-Traveler: We weren't able to destroy it last time...
+    Option 1:
+        Traveler: We weren't able to destroy it last time...
+    Option 2:
+        Traveler: It was just crushed by the Jade Chamber...
 Paimon: What do they want with Osial? Ohh...
 Traveler: Could it be the same as with Dvalin?
 Dainsleif: I know of your past heroics regarding Dvalin, and I also know of the Abyss Order's role in the Stormterror incident.
@@ -142,31 +172,37 @@ Dainsleif: No... From the contents of the talisman, this operation goes one step
 Dainsleif: They won't just corrupt Osial's mind. They also plan to use the ancient technology behind the "Field Tillers" to completely transform Osial's body.
 Paimon: Is... that even possible?
 Paimon: So wait, the Abyss Order wants to make some sort of... Cybernetic Squid-God of Mass Destruction!?
-Traveler: Sounds about right.
+    Option 1:
+        Traveler: Sounds about right.
+    Option 2:
+        Traveler: These nicknames keep getting longer!
 Dainsleif: Very few people today truly understand the civilization of Khaenri'ah, though of course, the accuracy of that understanding itself is difficult to judge.
 Dainsleif: Only the Abyss Order has consistently sought out the remnants of Khaenri'ah. Despite being far from human, they seek out this lost human civilization quite persistently.
 Dainsleif: The talisman's message states that they will use "the Defiled Statue" as a base, attaching Osial's limbs to construct a mechanized god.
 Dainsleif: And the new core that shall replace the orb usually held by the Statue of The Seven... is the eye of the very first Field Tiller.
 Paimon: "The eye of the very first Field Tiller"? ...Ohh, Paimon gets it! All those Abyss Mages are looking for this special eye, right?
 Dainsleif: It would seem so.
-Traveler: They haven't found it yet. We still have time.
+    Option 1:
+        Traveler: They haven't found it yet. We still have time.
+    Option 2:
+        Traveler: Let's find the eye before they do.
 Paimon: This whole thing keeps getting more complicated. But basically, it all has to do with that eerie Statue of The Seven we saw, right?
 Dainsleif: Yes. According to the talisman, the eye should be placed in the hands of the Defiled Statue...
 Dainsleif: Thereby imbuing the newly born god with the power to "topple the divine thrones of Celestia."
-Traveler: (Celestia...)
+    Option 1:
+        Traveler: (Celestia...)
+    Option 2:
+        Traveler: (Topple the divine thrones...)
 Paimon: Oh boy... The Abyss Order sure isn't holding back with this plan.
 Paimon: Hmm. Since no one knows where the first Field Tiller is, how about we take the information about the statue as the starting point for our investigation?
-Traveler: That statue... It looked like the Anemo Archon...
+    Option 1:
+        Traveler: That statue... It looked like the Anemo Archon...
+    Option 2:
+        Traveler: Should we ask the Church of Favonius about it?
 Paimon: Yeah, that Tone-Deaf Bard is too difficult to track down anyway. Let's go to the *Cathedral* first and ask around, maybe we'll learn something.
 Dainsleif: The Cathedral... Hmph.
 Paimon: Huh? What's the matter, Dain?
 Dainsleif: Nothing. Let's get moving.
-Traveler: Should we ask the Church of Favonius about it?
-Traveler: (Topple the divine thrones...)
-Traveler: Let's find the eye before they do.
-Traveler: These nicknames keep getting longer!
-Traveler: It was just crushed by the Jade Chamber...
-Traveler: Is it related to the inverted statue?
 
 ## Talk 5
 
@@ -176,7 +212,10 @@ Paimon: So... did Khaenri'ah have a lot of ruins that needed to be guarded?
 Dainsleif: No. "Ruin Guard" is the name modern people have given these machines. No one called them that 500 years ago.
 Dainsleif: These "Ruin Guards" were known as "Field Tillers" by the people of Khaenri'ah.
 Paimon: "Field Tillers"? What a strange name.
-Traveler: They were farming equipment!?
+    Option 1:
+        Traveler: They were farming equipment!?
+    Option 2:
+        Traveler: So what's with the lethal weapons...?
 Dainsleif: It's not like you think. "Field Tiller" was just a code name. The people of Khaenri'ah liked to give code names to their weapons.
 Dainsleif: "The land is not to be tilled with farming tools, but rather is to be fought for with steel and blood." —This is how the "Field Tiller" came about.
 Paimon: "Fought for with steel and blood"? Well that's an interesting way of understanding "tilling"... Paimon doesn't think it's a very positive interpretation.
@@ -185,12 +224,13 @@ Dainsleif: After the destruction of Khaenri'ah, these masterless "Field Tillers"
 Dainsleif: They wandered aimlessly over the centuries, gradually spreading to every corner of Teyvat.
 Dainsleif: Perhaps resonating with the sorrow of other civilizations lost to time, they found their way to various ruins across the land, where they lie dormant.
 Paimon: That sounds... so sad...
-Traveler: Wandering aimlessly for 500 years...
+    Option 1:
+        Traveler: Wandering aimlessly for 500 years...
+    Option 2:
+        Traveler: It seems... we should put an end to their suffering.
+        Paimon: Yeah... Paimon thinks you've been doing a real good job of that.
 Dainsleif: Once you understand more, those details won't mean much to you.
 Dainsleif: But no matter their past, all that remains of them now is the danger they pose... so destroy them all.
-Traveler: It seems... we should put an end to their suffering.
-Paimon: Yeah... Paimon thinks you've been doing a real good job of that.
-Traveler: So what's with the lethal weapons...?
 
 ## Talk 6
 

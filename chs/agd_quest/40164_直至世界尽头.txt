@@ -20,9 +20,12 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+[Missing Dialog 401642811]
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+[Missing Dialog 401642815]
 
 ## Talk 3
 
@@ -64,6 +67,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 ## Talk 12
 
 魔女M (黑屏文字点击): 「…去见证这个世界吧，我的…」
+[Missing Dialog 401640702]
+
 旅行者: ……
 娜维娅: 妮露小姐你没事吧？
 妮露: #我没事，但旅行者好像晕过去了…
@@ -76,8 +81,10 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 旅行者: ……
 派蒙: #啊，他醒了！
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 早上好，赖床鬼。你刚才一定做了个香甜的美梦吧？看你这么高兴，我也为你感到开心。
-旅行者: 刚才…
-旅行者: 发生了什么…
+    Option 1:
+        旅行者: 刚才…
+    Option 2:
+        旅行者: 发生了什么…
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 你们一群人突然就从瀑布上掉了下来，其中有一个还不争气地晕了过去。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我先提醒你，那种摔到地上就能去其他世界的桥段，只在稻妻某些可笑的轻小说里管用。
 派蒙: 把你放下来后，你在妮露腿上昏迷了一小会，然后就醒过来了。
@@ -85,11 +92,15 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 旅行者: 抱…抱歉…
 妮露: 呃…没关系…你…你没事就好。
 娜维娅: 有撞到哪里吗？现在还觉得晕吗？
-旅行者: 现在还好…
-旅行者: 刚才似乎有人在我脑中说话…
+    Option 1:
+        旅行者: 现在还好…
+    Option 2:
+        旅行者: 刚才似乎有人在我脑中说话…
 娜维娅: 真的吗？说了些什么？
-旅行者: 「去见证这个世界…」
-旅行者: 「和大家好好相处…」
+    Option 1:
+        旅行者: 「去见证这个世界…」
+    Option 2:
+        旅行者: 「和大家好好相处…」
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 这里的雾气会让人*产生幻觉*，据说是那头邪龙的杰作。你该不会是因为害怕吸进太多了吧？
 娜维娅: 说起来…这位阿帽先生是你们认识的人吗？
 妮露: 哦，没错。阿帽是须弥教令院的学生，我们在学院争霸赛上认识的。他当时是因论派代表。
@@ -168,9 +179,11 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 娜维娅: 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 碍事的东西就该早点消失。
 派蒙: 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
-旅行者: 没什么了，出发吧。
-旅行者: 再等一会儿…
-娜维娅: 嗯，确保万无一失再前进吧。
+    Option 1:
+        旅行者: 没什么了，出发吧。
+    Option 2:
+        旅行者: 再等一会儿…
+        娜维娅: 嗯，确保万无一失再前进吧。
 
 ## Talk 20
 
@@ -187,9 +200,11 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 ## Talk 23
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
-旅行者: 好了，出发吧。
-旅行者: 再等一会儿…
-娜维娅: 嗯，确保万无一失再前进吧。
+    Option 1:
+        旅行者: 好了，出发吧。
+    Option 2:
+        旅行者: 再等一会儿…
+        娜维娅: 嗯，确保万无一失再前进吧。
 
 ## Talk 24
 
@@ -201,8 +216,9 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 25
 
-派蒙: 咦？那是…和星轨王城不一样的神像？
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 是「命运女神」的神像。
+魔女M (「M」): 这个世界…就拜托你了…
+[Missing Dialog 401643111]
+
 杜林: 呜……
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ……
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …没事了，杜林。这里没有人会伤害你。
@@ -247,7 +263,6 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 旅行者: 我作为游历诸多世界的旅者，赐予你祝福。愿你不论身处何处，都有同伴与善意相随。
 杜林: ……
 杜林: 妈妈…
-魔女M (「M」): 这个世界…就拜托你了…
 小杜林 (杜林): …唔。怎么了？你们为什么都这样看着我？
 小杜林 (杜林): …欸！我的…我的爪子？这是我的爪子？还有翅膀和尾巴？我的身体…难道说…！
 娜维娅: 哇！很可爱嘛！和以前的感觉完全不一样呢！
@@ -265,8 +280,10 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 小杜林 (杜林): 欸？可你刚才说…要做我的朋友…
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …我！啰嗦…你不喜欢就不做好了！
 小杜林 (杜林): 欸？我…呜…
-旅行者: ……
-旅行者: 阿帽…
+    Option 1:
+        旅行者: ……
+    Option 2:
+        旅行者: 阿帽…
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …嘁。好了好了，我陪就是了！
 小杜林 (杜林): …真的？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 用不着拿这种事欺负你。
@@ -274,13 +291,17 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ……
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 回上面去吧，这里简直闷的慌…
 派蒙: 嘻嘻，终于有个他不擅长对付的角色了呢…
-旅行者: 派蒙…
-旅行者: 别幸灾乐祸…
+    Option 1:
+        旅行者: 派蒙…
+    Option 2:
+        旅行者: 别幸灾乐祸…
 派蒙: 我知道啦，但总觉得是很新鲜的事嘛。
 娜维娅: 那我们也上去吧。
 小杜林 (杜林): ……
 妮露: 别害怕，杜林，我们会陪在你身边的。
 小杜林 (杜林): 嗯，谢谢你们给予我的祝福。这是我这么久以来…最幸福的一天。
+派蒙: 咦？那是…和星轨王城不一样的神像？
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 是「命运女神」的神像。
 
 ## Talk 26
 
@@ -517,6 +538,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+[Missing Dialog 401642918]
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
@@ -569,11 +592,14 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 娜维娅: 这是…希穆兰卡的杜林？他在抬头看着什么，一颗星星…
 妮露: 看样子…这是「M」女士离开后的事呢…
+
 妮露: 这次是…一个矿洞？
 绮良良: 难道说，是积木矿窟的工人挖得太深，挖到了下一页的世界吗？
 妮露: 这么说来…这矿灯和上一页天上的星星好像…
+
 妮露: 赐福森林…这本书，一直都在记录希穆兰卡发生的事…
 绮良良: 光是落在一个地方，都会留下这么大的脚印…也难怪人们会害怕他…
+
 娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
 ## Talk 51

@@ -42,7 +42,10 @@ Mary-Ann: I will live on as myself and see what the world you risked everything 
 Paimon: Huh? The Holy Blade of Narzissenkreuz is...
 Narzissenkreuz: I see. Your will has been conveyed, Mary-Ann. The Holy Blade's purpose has been fulfilled, and its significance in the story has ended.
 Paimon: #Hmm... Paimon doesn't totally get it, but does it mean that Traveler won't be able to use that cool title anymore?
-Traveler: Fine by me.
+    Option 1:
+        Traveler: Fine by me.
+    Option 2:
+        Traveler: That's too bad.
 Narzissenkreuz: Let us return to the original topic. You said that you'd like to see the outside. But this is now Guillotin's world. I doubt there will be much to see.
 Narzissenkreuz: However, if you can bring yourself to like it, that would be ideal.
 Mary-Ann: Ann, Rene... Shall we travel together?
@@ -53,7 +56,6 @@ Mary-Ann: Just like when you and Jakob would tell me about what you saw in Sumer
 Ann: Except I'm afraid our journey will have to wait a teeny bit longer. Caterpillar did say that we would have a reunion, or something...
 Narzissenkreuz: That's right. He should be here soon. Let's wait a little longer for him, shall we?
 Paimon: #Alright, you two do you. Let's take this opportunity to talk to Mary-Ann, Traveler!
-Traveler: That's too bad.
 
 ## Talk 2
 
@@ -200,7 +202,12 @@ Seymour: I hope you will consider this when evaluating my performance and will n
 Mary-Ann: Of course not!
 Ann: You have always been strong and brave. You are much more resilient than "we" are, Seymour.
 Seymour: Indeed. My designer, Alain Guillotin, is Fontaine's leading engineer, and the components I am made of represent the best of the nation's material science and craftsmanship.
-Traveler: That's not what she meant...
+    Option 1:
+        Traveler: That's not what she meant...
+    Option 2:
+        Traveler: You're most formidable, Seymour!
+        Seymour: Thank you for your accurate assessment.
+        Paimon: But that's not what Ann was trying to say...
 Seymour: What are your next orders, Ms. Mary-Ann?
 Ann (Mary-Ann & Ann): ...
 Ann: You decide, Mary-Ann. As far as Seymour is concerned, I'm just Ann.
@@ -239,12 +246,11 @@ Traveler: I hope you all have a wonderful trip.
 Mary-Ann: Yes! And I am confident we will meet again in the future.
 Seymour: Then, it is time for me to return to Ms. Mamere's coordinates.
 Paimon: We can come too! Caterpillar, come with us, would you?
-Traveler: Let's go, Seymour.
+    Option 1:
+        Traveler: Let's go, Seymour.
+    Option 2:
+        Traveler: Caterpillar, let's see this through to the end.
 Caterpillar: Very well. I will accompany you.
-Traveler: Caterpillar, let's see this through to the end.
-Traveler: You're most formidable, Seymour!
-Seymour: Thank you for your accurate assessment.
-Paimon: But that's not what Ann was trying to say...
 
 ## Talk 75
 
@@ -302,7 +308,10 @@ Mamere: #I haven't heard from Father since the message Traveler passed on. And t
 Paimon: (Oh, it looks like Mamere doesn't know what happened while you were in a daze...)
 Mamere: Everyone in Merusea Village helped me during that time. That's what made me realize what Father meant...
 Mamere: Oh, yes! I've been learning a new style of painting while I was with them!
-Traveler: Is it even more novel than before?
+    Option 1:
+        Traveler: Is it even more novel than before?
+    Option 2:
+        Traveler: Is it even more... novel than before?
 Mamere: I think it will be easier to understand! Even the Melusines of Merusea Village can tell what I'm painting now, rather than just saying "Oh, how lovely!"
 Paimon: Wow! Paimon can't wait to see your priceless masterpieces!
 Mamere: Hehe.
@@ -327,7 +336,6 @@ Mamere (Mamere Inside the House): Thanks, Paimon!
 Mamere (Mamere Inside the House): Paintings to give them, paintings to give...
 Traveler: Be a good dog and look after Mamere, alright?
 Seymour: I will. It is what I want to do.
-Traveler: Is it even more... novel than before?
 
 ## Talk 82
 
@@ -359,12 +367,15 @@ Narzissenkreuz: The play is called "Ajax," or "Aias." He was the second-stronges
 ## Talk 103
 
 Mary-Ann: No one needs saving... and that's great.
+
 Mary-Ann: Just let me decay here on my own, until everything has broken down, until nothing more than a puddle of dirty water is left...
+
 Mary-Ann: Please, stop! I'm begging you! Stay away! This is our Annapausis.
 
 ## Talk 104
 
 Narzissenkreuz: You are most talented, Ann. Would you like to inherit Narzissenkreuz's...
+
 Ann: I'll pass!
 
 ## Talk 105
@@ -394,10 +405,12 @@ Caterpillar: I jest, I jest. For now, the only thing I can be sure of is that I 
 Caterpillar: There's a lot to consider. I don't know where I'll go, but there are a few things I need to find.
 Paimon: Is that so...
 Caterpillar: #So, goodbye, Traveler, and farewell, Paimon. Meeting you both has been the most fortunate thing to happen in this "life" of mine.
-Traveler: Goodbye, Caterpillar.
+    Option 1:
+        Traveler: Goodbye, Caterpillar.
+    Option 2:
+        Traveler: Likewise, Caterpillar.
 Paimon: Yeah! Take care, Caterpillar. Don't let anyone find out who you really are! That'd be a pain!
 Black Screen Text: The hilichurl smiles before turning to leave.
-Traveler: Likewise, Caterpillar.
 
 ## Talk 109
 

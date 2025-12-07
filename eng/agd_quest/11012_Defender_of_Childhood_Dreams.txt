@@ -26,10 +26,13 @@ Childe: Haha, alright. Follow me.
 
 Childe: It's a good thing that you two found me first... Looks like using the Foul Legacy Transformation while I was still injured took more out of me than I'd thought...
 Childe: I've no idea what I'd do if Teucer saw me like this — look at me, deflated as a burst balloon...
-Traveler: You're not afraid that I might end you right here?
-Childe: Haha! As I recall, you have siblings too, yes?
-Childe: I figured that you probably wouldn't take me out in front of my little brother.
-Paimon: Really milking this situation, huh?
+    Option 1:
+        Traveler: You're not afraid that I might end you right here?
+        Childe: Haha! As I recall, you have siblings too, yes?
+        Childe: I figured that you probably wouldn't take me out in front of my little brother.
+        Paimon: Really milking this situation, huh?
+    Option 2:
+        Traveler: Was this worth the effort?
 Childe: Like I said... I can never pass on an opportunity to test my limits.
 Childe: And that's why I, Tartaglia, am always getting stronger. *chuckles*
 Childe: Anyway, childhood dreams are all too easily shattered. Even if you just leave them be, they will fall to pieces all by themselves.
@@ -47,13 +50,14 @@ Childe: Indeed. I had it made to order by a smith some time back. I had intended
 Paimon: Wow... Now Paimon thinks about it, Childe's family are really lucky to have him, aren't they?
 Childe: Hah. I'll also need you to explain my abrupt departure to Teucer.
 Childe: You'll help me out, won't you?
-Traveler: "You make a pinkie promise, you keep it all your life..."
+    Option 1:
+        Traveler: "You make a pinkie promise, you keep it all your life..."
+    Option 2:
+        Traveler: ...I break a pinkie promise, I get thrown on the ice...
 Childe: Hahaha... "The cold will kill the pinkie that once betrayed your friend, the frost will freeze your tongue off so you never lie again."
 Childe: Ah, that nursery rhyme brings back so many delightful memories. Teucer taught you that one, did he?
 Traveler: Go in peace.
 Childe: ...Alright. Thank you.
-Traveler: ...I break a pinkie promise, I get thrown on the ice...
-Traveler: Was this worth the effort?
 
 ## Talk 3
 
@@ -68,14 +72,16 @@ Childe: Ah, yes. I almost forgot. Remuneration for your services — which I rea
 Paimon: Aha, so you do have a heart after all!
 Childe: One other thing: don't forget our promise, now. Let's have a rematch when we get the chance.
 Childe: —This time, with my honor as a Harbinger on the line.
-Traveler: I'm looking forward to it.
+    Option 1:
+        Traveler: I'm looking forward to it.
+    Option 2:
+        Traveler: I'm not gonna lose to you.
 Paimon: You'd best go rest up first! Don't come crying to us when you lose all over again!
 Childe: Hahaha... Regardless of who wins or loses our next bout, I'd also like to invite you over to my home.
 Childe: I'll introduce you to my other siblings, Tonia and Anthon. They're great kids, and I'm very proud of them both.
 Paimon: We'll take you up on that offer! Mostly because we already made a pinkie promise to Teucer.
 Childe: Haha, I'm sure that he'll be very excited to see you too. Well, that settles it. I'm looking forward to it, now...
 Childe: Farewell, my friends — till we meet again, in Snezhnaya.
-Traveler: I'm not gonna lose to you.
 
 ## Talk 4
 
@@ -88,13 +94,20 @@ Traveler: I'm not gonna lose to you.
 ## Talk 6
 
 Teucer: I can't find him anywhere... where did he go...
-Traveler: I found your brother a moment ago.
-Teucer: Really? Where is he?
+    Option 1:
+        Traveler: I found your brother a moment ago.
+        Teucer: Really? Where is he?
+    Option 2:
+        Traveler: He's already headed back.
+        Teucer: What? Why... why would he leave without me?
 Traveler: A huge number of people suddenly wanted to buy Mr. Cyclopses!
 Paimon: Y—Yeah, so he had to leave in a real hurry. He didn't abandon you here on purpose.
 Teucer: Oh... Th—That's great!
 Teucer: But still, I was kinda hoping we could play here a little longer...
-Traveler: This is for you. From your brother.
+    Option 1:
+        Traveler: This is for you. From your brother.
+    Option 2:
+        Traveler: Mr. Cyclops will keep you company in his stead.
 Teucer: Wow! Look at this!
 Teucer: I never knew that they made Mr. Cyclopses in this size!
 Teucer: Look, it even has my name on it! It's my very own Mr. Cyclops!
@@ -104,9 +117,6 @@ Paimon: You had a tour of Liyue, met your brother, visited the Institute of Toy 
 Paimon: Do you think you're ready to head back to Snezhnaya now?
 Teucer: Hehe... Don't worry, I know I can't get my way all the time. That'd just be annoying for everyone else.
 Teucer: So... let's go!
-Traveler: Mr. Cyclops will keep you company in his stead.
-Traveler: He's already headed back.
-Teucer: What? Why... why would he leave without me?
 
 ## Talk 7
 
@@ -157,21 +167,26 @@ Paimon: Um... What?
 Teucer: My brother told us all about you in a letter he sent back home. Sister Tonia read it to me.
 Teucer: I actually recognized you the moment I saw you. I just... couldn't remember your name.
 Paimon: What a strange twist of fate.
-Traveler: It was a pleasure meeting you too, Teucer.
-Teucer: Hee-hee...
+    Option 1:
+        Traveler: It was a pleasure meeting you too, Teucer.
+        Teucer: Hee-hee...
+    Option 2:
+        Traveler: Your brother didn't say anything bad about me, did he?
+        Teucer: Not at all. In fact, he said that if he ever had the chance, he'd quit his job and join you on your adventures!
 Andrei: Young master Teucer, the boat to Snezhnaya will dock soon. We'd best prepare for boarding.
 Teucer: Gee, time really flies when you're having fun...
 Teucer: #Well then, see you, Mr. Nice Guy!
 Teucer: I'll wait for you back home. You definitely, definitely have to come visit Snezhnaya sometime!
-Traveler: You have a deal!
-Teucer: Pinkie promise?
+    Option 1:
+        Traveler: You have a deal!
+        Teucer: Pinkie promise?
+    Option 2:
+        Traveler: Wanna make a pinkie promise?
+        Teucer: Yeah! Pinkie promise, pinkie promise!
 Paimon: You make a pinkie promise, you keep it all your life. You break a pinkie promise, Paimon throws you on the ice. The cold will kill the pinkie that once betrayed your friend, the frost will freeze your tongue off so you never lie again.
 Teucer: Hee-hee... It's a promise, then!
 Paimon: Bye-bye, Teucer! Have a safe trip~!
-Traveler: Wanna make a pinkie promise?
-Teucer: Yeah! Pinkie promise, pinkie promise!
-Traveler: Your brother didn't say anything bad about me, did he?
-Teucer: Not at all. In fact, he said that if he ever had the chance, he'd quit his job and join you on your adventures!
+[Missing Dialog 110120426]
 
 ## Talk 15
 
@@ -207,7 +222,10 @@ Childe: You bet. Now, I'll count down from three, and then we touch it together.
 ## Talk 20
 
 Teucer: This... This is everything I've ever dreamed of! It's Mr. Cyclops world!
-Traveler: This is the surprise your brother prepared for you.
+    Option 1:
+        Traveler: This is the surprise your brother prepared for you.
+    Option 2:
+        Traveler: Mr. Cyclops is the coolest!
 Paimon: Wow... He actually pulled it off! And the way he knocked those Ruin Guards around was like they really were kids' toys...
 Paimon: But Paimon wonders if he'll be alright after using Foul Legacy Transformation again...
 Teucer: Awesome! Hee-hee!
@@ -216,7 +234,6 @@ Teucer: Wait... Where'd he go? Where'd my brother go?
 Paimon: Aren't you guys supposed to be playing hide-and-seek?
 Teucer: Oh, that's right! I was so excited that I forgot all about our game!
 Teucer: #Well mister, let's look for him together, okay?
-Traveler: Mr. Cyclops is the coolest!
 
 ## Talk 21
 

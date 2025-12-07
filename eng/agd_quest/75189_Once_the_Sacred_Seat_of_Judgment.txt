@@ -51,13 +51,15 @@ Paimon: It's so golden and shiny... Paimon wants to touch it!
 Secret Source Servant: "Haha, it would be best not to... It will not distinguish between 'friend' or 'foe'... It simply consumes everything it touches."
 Secret Source Servant: "...A crass and brutal approach. Hmph, the designs these fools came up with..."
 Paimon: Still, we can use it to open the shield covering the permit, right?
-Traveler: It's worth a shot...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 1:
+        Traveler: It's worth a shot...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 2:
+        Traveler: A serious proposal — a rarity from our dear Paimon...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Grroah, Raowrr!
+        Secret Source Servant: "Indeed. I, too, did not expect our white herald to have such hidden depths... Such hidden wisdom. A shock, to be sure."
+        Paimon: ...Paimon doesn't get what you're so shocked about.
 Paimon: Anyway... Let's find a way to make this thing ascend, shall we?
-Traveler: A serious proposal — a rarity from our dear Paimon...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Grroah, Raowrr!
-Secret Source Servant: "Indeed. I, too, did not expect our white herald to have such hidden depths... Such hidden wisdom. A shock, to be sure."
-Paimon: ...Paimon doesn't get what you're so shocked about.
 
 ## Talk 6
 

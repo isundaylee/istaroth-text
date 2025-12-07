@@ -187,7 +187,12 @@ Paimon: ...Which must be why he's always been so unlucky... until he finally cam
 Venti: What are your thoughts about staying in Natlan, Bennett?
 Mualani: Oh, yeah... I could help introduce you to the Wayob! Would you rather go with the Masters of the Night-Wind or the Collective of Plenty?
 Bennett: ...
-Traveler: The Masters of the Night-Wind!
+    Option 1:
+        Traveler: The Masters of the Night-Wind!
+    Option 2:
+        Traveler: The Collective of Plenty!
+    Option 3:
+        Traveler: Maybe he'd rather return to Mondstadt?
 Chasca: You don't have to answer that right away.
 Aroni: #Traveler, could I take a look at your album for a second?
 Traveler: Sure, here you go.
@@ -222,8 +227,6 @@ Paimon: Someone actually showed up!? Quick, don't let them see...!
 Traveler: What's up?
 Rhythmos: Good heroes, sorry to interrupt! I'm just here to let you know that the grand opening of the resort is about to begin on Tete Isle. We're just waiting for you to join us, and then we can start the show!
 Mualani: Oh no, I totally spaced out! What time is it? Forget it... Let's just go!
-Traveler: The Collective of Plenty!
-Traveler: Maybe he'd rather return to Mondstadt?
 
 ## Talk 17
 
@@ -324,8 +327,10 @@ Bennett: ...
 Bennett: Trust me, Mom and Dad... Some day, I'm gonna be the most legendary adventurer in all of Teyvat!
 Traveler: ...
 Paimon: Bennett...
-Traveler: C'mon...
+    Option 1:
+        Traveler: C'mon...
+    Option 2:
+        Traveler: Let's go keep him company.
 Paimon: Bennett, are you okay?
 Bennett: I... I'm fine.
 Bennett: They're finally at peace.
-Traveler: Let's go keep him company.

@@ -17,31 +17,46 @@
 戴因斯雷布: 比如，你们之前告诉我说，教会传下的那个「老故事」…
 旅行者: 「暴君的遗怨」！
 戴因斯雷布: 没错。正是你口中那位修女提到的，曾被误认为暴君遗怨的奇怪事件。
-旅行者: 如果从天而降的火球是导弹…
+    Option 1:
+        旅行者: 如果从天而降的火球是导弹…
+    Option 2:
+        旅行者: 当时的蒙德想不通火球是什么…
+    Option 3:
+        旅行者: 其实芭芭拉是祈礼牧师来着…
 派蒙: 啊，我懂了！所以「暴君的遗怨」，其实是从奔狼领逃走的那座机器，自动发射的导弹！
 派蒙: 它在「狼的试炼」里损坏以后，游荡到了「旧蒙德」的废墟，住了下来…
 派蒙: 只要有人接近，就咚咚咚——地发射。直到有一天，它终于坏掉了，所以从天而降的火球也消失了。
 派蒙: 那时候的蒙德人还没大量接触过「遗迹守卫」，就只能解读成是「暴君的遗怨」了！
 戴因斯雷布: 看来，我们该去那个现在叫做*「风龙废墟」*的地方，开始地毯式搜查了。
-旅行者: 不。
+    Option 1:
+        旅行者: 不。
+    Option 2:
+        旅行者: 不用了。
 戴因斯雷布: 哦？你的意思是…
 旅行者: 我有…现成的「记忆」。
 派蒙: 咦…你是说…
 派蒙: 哦！我也懂了！没错没错，那台*「坐在高塔上的守卫」*，确实很让人印象深刻呢！
-旅行者: 不用了。
-旅行者: 当时的蒙德想不通火球是什么…
-旅行者: 其实芭芭拉是祈礼牧师来着…
 
 ## Talk 2
 
 派蒙: 他们走了…
 派蒙: #呜…旅行者，别这么伤心…我们会找到他们的！往好的一面想吧！这次至少已经找到很有用的线索了！
-旅行者: 我…没有伤心。
-派蒙: 欸？真的吗？唔…
+    Option 1:
+        旅行者: 我…没有伤心。
+        派蒙: 欸？真的吗？唔…
+    Option 2:
+        旅行者: 派蒙说得没错，希望已经出现了。
+        派蒙: 嗯，是吧是吧！
 派蒙: 总之，以目前的情形而言，寻找亲人的突破口，除了「七神」以外，又多了一个「戴因」吧？
-旅行者: 我们去稻妻以后，也需要多留意。
+    Option 1:
+        旅行者: 我们去稻妻以后，也需要多留意。
+    Option 2:
+        旅行者: 「旅行」的目标又多了一个。
 派蒙: 没错。对了，他们刚才说的话好难懂，你听明白了吗？
-旅行者: 差不多明白了。
+    Option 1:
+        旅行者: 差不多明白了。
+    Option 2:
+        旅行者: #注意力只在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}身上，没仔细听。
 派蒙: 唔…那我们来稍微梳理一下吧。
 派蒙: #首先是那个深渊使徒，它把你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}叫做「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}」殿下。
 派蒙: #看来你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}正在统领深渊教团，而且地位比深渊使徒更高…虽然不知道是不是最高的统治者就是了。
@@ -51,17 +66,15 @@
 派蒙: #也就是，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说的，「戴因正在与{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}为敌」的意思吧？
 派蒙: 但是，如果深渊教团的怪物，是当年戴因守护的人民，那为什么戴因要与深渊教团敌对呢？
 派蒙: #另外，为什么…我一直在陪你寻找的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}，现在却和深渊教团的怪物站在一起？
-旅行者: 情报并不太多。
+    Option 1:
+        旅行者: 情报并不太多。
+    Option 2:
+        旅行者: 再多想也没意义了。
 派蒙: 嗯，没错。
 派蒙: #那——旅行者，打起精神来！
 派蒙: 我们的旅行不会结束，该动身了！离开这个讨厌的地方，先回到阳光照耀的地面上去吧。
 派蒙: #如果你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}要你「抵达终点」…好啊，那你就抵达给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}看！
 派蒙: 「旅行者」，我们走吧！
-旅行者: 再多想也没意义了。
-旅行者: #注意力只在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}身上，没仔细听。
-旅行者: 「旅行」的目标又多了一个。
-旅行者: 派蒙说得没错，希望已经出现了。
-派蒙: 嗯，是吧是吧！
 
 ## Talk 3
 
@@ -72,12 +85,25 @@
 派蒙: 那，那个人，难道就是…？！
 旅行者: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！
 Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…
-旅行者: 终于找到你了！
+    Option 1:
+        旅行者: 终于找到你了！
+    Option 2:
+        旅行者: 快跟我走！这里很危险！
 派蒙: #等…等等，旅行者，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}刚才替深渊使徒挡住了攻击…
 派蒙: #你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}，好像和「深渊」…
 Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}，为什么你和戴因在一起？
-旅行者: …什么？
-旅行者: （我们分离了这么久…）
+    Option 1:
+        旅行者: …什么？
+        旅行者: （我们分离了这么久…）
+    Option 2:
+        旅行者: 你问…戴因？
+        旅行者: （我们分离了这么久…）
+    Option 3:
+        旅行者: …什么？
+        旅行者: （为什么在说…无关的事？）
+    Option 4:
+        旅行者: 你问…戴因？
+        旅行者: （为什么在说…无关的事？）
 派蒙: 欸？
 派蒙: #旅行者，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}…认识戴因？
 戴因斯雷布: ……
@@ -86,7 +112,10 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BR
 Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…你不该和这个人同行。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 这个人…是我的「敌人」。
 戴因斯雷布: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}…
-旅行者: 等一下！
+    Option 1:
+        旅行者: 等一下！
+    Option 2:
+        旅行者: #别再说我不明白的话了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}！
 Unknown Role (TALK_ROLE_MATE_AVATAR): ……
 Unknown Role (TALK_ROLE_MATE_AVATAR): #但这是必须对你说的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。不要与戴因一起来阻止我。不要阻止「深渊」。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 那个人…戴因斯雷布。他是坎瑞亚末代宫廷卫队的「末光之剑」。在五百年前，他未能阻止坎瑞亚的灭国。
@@ -94,7 +123,10 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 那时他身受不死诅咒，流浪荒野
 派蒙: 你说…戴因是坎瑞亚人？！五百年前经历灭国的坎瑞亚人？！
 派蒙: 而且你说「人民化作怪物」…是说现在的深渊教团，不止是「和坎瑞亚有关联」的程度，根本就是坎瑞亚的「遗民」本身吗？！
 派蒙: 呜…还有「戴因是你的敌人」什么的，一下子完全搞不清状况了…
-旅行者: #先跟我走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！我们回家！
+    Option 1:
+        旅行者: #先跟我走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！我们回家！
+    Option 2:
+        旅行者: 这些事以后再告诉我，我们回家吧！
 Unknown Role (TALK_ROLE_MATE_AVATAR): 家…
 Unknown Role (TALK_ROLE_MATE_AVATAR): #嗯，当然，有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}在的地方就是「家」。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 但我还不能与你去往下一个世界、寻找新的家园…至少现在不能。
@@ -102,11 +134,6 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 在「深渊」淹没神座之前，我与
 旅行者: 天…理？
 Unknown Role (TALK_ROLE_MATE_AVATAR): #听我说，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。
-旅行者: 这些事以后再告诉我，我们回家吧！
-旅行者: #别再说我不明白的话了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}！
-旅行者: （为什么在说…无关的事？）
-旅行者: 你问…戴因？
-旅行者: 快跟我走！这里很危险！
 
 ## Talk 5
 
@@ -133,26 +160,32 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 我已经有过一次旅行。所以，你
 戴因斯雷布: 正如深渊教团所想，若能将「眼」置于「污秽逆位神像」之手…
 戴因斯雷布: 以此作为基底，接合「漩涡之魔神」奥赛尔的肢体，制造机械魔神…
 戴因斯雷布: 就能为新诞生的污秽魔神，赋予「动摇天空岛上神座」的力量。
-旅行者: 极端又危险的行为…
+    Option 1:
+        旅行者: 极端又危险的行为…
+    Option 2:
+        旅行者: 一定要阻止深渊教团。
 戴因斯雷布: 没错。
 派蒙: 那那那，这「眼睛」该怎么处理？
-旅行者: 找个隐秘的地方藏起来吧。
+    Option 1:
+        旅行者: 找个隐秘的地方藏起来吧。
+    Option 2:
+        旅行者: 交给西风教会保管吧。
 戴因斯雷布: 不。由我来保管它。
 派蒙: 欸？！你？戴因…你该不会拿它去做奇怪的事吧！
 戴因斯雷布: 随你质疑我的立场吧，但我必须确保它的力量不被旁人利用。
 戴因斯雷布: 隐秘之地会被挖掘，而教会——在我眼中不值得信任。
 派蒙: 呃…嗯…
 戴因斯雷布: 不仅如此，为了永绝后患，我们还要「处理」那座「污秽逆位神像」。
-旅行者: 怎么处理？
+    Option 1:
+        旅行者: 怎么处理？
+    Option 2:
+        旅行者: 可以交给教会去办吗？
 戴因斯雷布: 不能让教会介入，我们自己处理。至于「处理」的意思…自然是销毁了。
 派蒙: 销、销毁？！那可是七天神像啊！不仅是很有意义的文物，而且是真正的、神灵的…
 派蒙: 幸亏之前瞒着芭芭拉，否则她现在一定会疯的！
 戴因斯雷布: 呵…七神之物，难道还要我帮他们悉心爱护？
 戴因斯雷布: 走吧，回*那座遗迹*。我们去砸毁逆位的神像，而且，运气好的话，还能遇到「深渊使徒」。
 戴因斯雷布: 有我在，它就没可能再从你眼前消失一次了。
-旅行者: 可以交给教会去办吗？
-旅行者: 交给西风教会保管吧。
-旅行者: 一定要阻止深渊教团。
 
 ## Talk 8
 

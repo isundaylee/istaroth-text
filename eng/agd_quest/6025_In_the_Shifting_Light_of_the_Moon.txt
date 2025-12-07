@@ -58,7 +58,10 @@ Flins: Yes, it's a known phenomenon. Mirage-like illusions tend to appear in Nod
 Flins: From a distance, they appear quite real.
 Flins: I myself thought that Misters Durin and Albedo were locked in battle with Abyssal monsters when I first arrived.
 Albedo: But after sharing intel and investigating a little further, we can confirm that these illusions are harmless. There is no great cause for concern.
-Traveler: I see.
+    Option 1:
+        Traveler: I see.
+    Option 2:
+        Traveler: I'm glad that they weren't real.
 Varka: Hmm. All the mirage stories I've heard are either animals, rocks, or small houses. Abyssal monsters, though? That's a first.
 Flins: It's a first for me, too, so I'm planning to look into it further just to be on the safe side. I intend to inspect a few more locations.
 Varka: What about you two? Any plans?
@@ -70,7 +73,6 @@ Varka: Okay. Well, I suggest we investigate this mirage business in the meantime
 Flins: Hah, well said.
 Paimon: Right? Whatever's happening in Nod-Krai, she always seems to be the first one to know.
 Paimon: Let's go see what she knows. We can invite her and her staff to the festival while we're at it.
-Traveler: I'm glad that they weren't real.
 
 ## Talk 8
 
@@ -102,7 +104,10 @@ Durin: For my part, I'd like to understand the Abyss better. Even a little knowl
 Albedo: This is certainly a rare opportunity to study the Abyss. But even rarer, perhaps, is the chance to make contact with the ancients.
 Nefer: The Curatorium will take the lead on investigating the Hyperboreans. We put in the work to learn what we know so far — it seems only fair that we get some quantity of exclusive intel.
 Varka: That just leaves our trusty team of two unassigned.
-Traveler: Seems like it, yeah.
+    Option 1:
+        Traveler: Seems like it, yeah.
+    Option 2:
+        Traveler: Wait, we're a team? Since when?
 Varka: Since you became an Honorary Knight, of course. This was part of my grand plan all along, hahaha!
 Paimon: Oh yeah! By the way, we managed to convince Columbina to come to the Moon-Prayer Night celebrations. Would you and Jahoda like to join too?
 Nefer: #She agreed to that? Huh. Quite an achievement. Never underestimate Traveler, I guess.
@@ -118,7 +123,10 @@ Traveler: A spaceship at Starsand Shoal...
 Paimon: That's gotta be the one you came to Teyvat in. You said you saw the same thing through the Moon Marrow, right?
 Jahoda: Huh? You already know about it? Ugh... And I thought it was gonna blow people's minds, turns out I'm the last to find out...
 Jahoda: Wait, back up! You came here in a spaceship!? Now MY mind is blown. What's it like on the inside? What's it like flying through space? Ahhh, I wanna know everything!
-Traveler: M—Maybe that's a conversation for next time...
+    Option 1:
+        Traveler: M—Maybe that's a conversation for next time...
+    Option 2:
+        Traveler: This is still a huge discovery on your part.
 Paimon: Yep, exactly! Huuuge discovery! You're the best... uh, second-best intel-broker in the world! After your boss, of course.
 Jahoda: W—Wow, really? Hehe, well, I dunno if I'm all that, but...
 Varka: I guess that decides where we're heading next.
@@ -131,8 +139,6 @@ Nefer: *sigh*
 Jahoda: What's up, Boss? Aren't we gonna head out?
 Nefer: Tell me, Jahoda. When did the Curatorium start giving out intel for free?
 Jahoda: Oh, uh... S—Sorry, Boss!
-Traveler: This is still a huge discovery on your part.
-Traveler: Wait, we're a team? Since when?
 
 ## Talk 9
 
@@ -273,20 +279,26 @@ Jahoda: What about a clockwork meka model from Fontaine? I've got a whole bunch 
 Nefer: None of these sound like things she would be even remotely interested in. But we don't interact with her enough to know what she likes...
 Varka: Yeah. It would really save us the guesswork if someone could find out what she's into.
 Paimon: #Wait, what the... Uh, Traveler, they're all looking at you!
-Traveler: Okay, I got it...
+    Option 1:
+        Traveler: Okay, I got it...
+    Option 2:
+        Traveler: I'll find a chance to ask her.
 Varka: Great! Haha, problem solved. Now, I need to stop by Dori's. Gonna need her help sourcing a bunch of stuff for the festival.
 Lauma: #Then let's leave it there for now. We all have our own business to attend to. Traveler — if you find out what Kuutar likes, let us know right away.
 Traveler: Gotcha.
 Durin: Is something the matter?
-Traveler: That's my line, Durin.
+    Option 1:
+        Traveler: That's my line, Durin.
+    Option 2:
+        Traveler: You seem a little down.
 Durin: Ah, I'm fine. It's just... I'm still feeling a little rattled after witnessing the horrors of the Abyss.
 Durin: But it's okay. This is something I have to work through... I'll be alright. Thanks for your concern.
 Paimon: Well, don't put too much pressure on yourself. If you ever feel like something's wrong, physically or mentally, we're here to talk.
-Traveler: Don't forget, I'm a member of the Knights of Favonius.
+    Option 1:
+        Traveler: Don't forget, I'm a member of the Knights of Favonius.
+    Option 2:
+        Traveler: You can always rely on me.
 Durin: Hah, come on, stop treating me like a kid.
-Traveler: You can always rely on me.
-Traveler: You seem a little down.
-Traveler: I'll find a chance to ask her.
 
 ## Talk 99
 
@@ -294,7 +306,10 @@ Lauma: Let's talk here. To tell the truth, I am very surprised to hear that Kuut
 Lauma: I once asked her if she'd be willing to stay with the Frostmoon Scions. I could introduce her to everyone, and we could be a family to one another.
 Lauma: She did not answer, but she has not appeared here since.
 Lauma: I took this to mean her answer was "no," but if that were the case, she would not have accepted this invitation...
-Traveler: Speaking of answers, she asked us to pass along a message:
+    Option 1:
+        Traveler: Speaking of answers, she asked us to pass along a message:
+    Option 2:
+        Traveler: There is no need.
 Lauma: Ah...
 Lauma: I see... Maybe she is right. Maybe the Frostmoon Scions of today no longer need a Moon Goddess.
 Lauma: But my wish was not for her to come here and be worshiped as a deity. I simply wanted to offer her a place to stay.
@@ -310,7 +325,6 @@ Paimon: Sure thing, let's go. Bye for now, Lauma!
 Lauma: Thank you all. Goodbye.
 Traveler: (A traveler needs blessings, not burdens...)
 Traveler: (It sounds good in principle. But will blessings alone be enough for Columbina?)
-Traveler: There is no need.
 
 ## Additional Conversations
 
@@ -357,7 +371,10 @@ Lauma: This puffin circled in the air several times, but didn't spot anything ou
 Paimon: Huh... Well, it definitely makes sense to get a bird's eye view.
 Lauma: Indeed. Other than that, I was also thinking that the world these phantoms see is also different from ours.
 Varka: Oh, I get what you mean. The "wild fruit" exist in both times and spaces, but there might also be things that only exist in that space-time, which we can't see.
-Traveler: Because we don't see their whole world.
+    Option 1:
+        Traveler: Because we don't see their whole world.
+    Option 2:
+        Traveler: We only see small fragments.
 Paimon: Good point... Great thinking, Lauma!
 Lauma: Blunthorn Rhinos can use kuuvahki to shift great rocks, but this one says it couldn't get that ship to budge by even an inch.
 Lauma: The Sniffer Mole tried too. But despite being a skilled digger, it could not get through.
@@ -366,7 +383,6 @@ Varka: So, just like us humans, there was nothing they could do about this space
 Lauma: Yes. Still, they deserve our thanks.
 Lauma: We are grateful for all your efforts, dear friends. Now go, and enjoy your feast.
 Varka: I've noticed some other human phantoms gathered nearby. C'mon. Let's go talk to them.
-Traveler: We only see small fragments.
 
 ### Additional Talk 6
 

@@ -35,7 +35,10 @@ Nahida: I remember you mentioned that the Eremites in Port Ormos are all making 
 Nahida: Although it's all just a boatload of nonsense, the faith of her homeland may turn out to be Setaria's soft spot.
 Paimon: Oh, Paimon gets it now... You want to take advantage of the guilt Setaria feels about her homeland.
 Paimon: Although she knows she should return home to help the people of the desert, all she's done is conspire with the sages...
-Traveler: If King Deshret were to criticize Setaria's actions...
+    Option 1:
+        Traveler: If King Deshret were to criticize Setaria's actions...
+    Option 2:
+        Traveler: If King Deshret were to make demands of Setaria...
 Paimon: Hmm, so how do we set that up?
 Nahida: Well, King Deshret is long gone, and Setaria is also too smart to fall for any simple tricks...
 Nahida: If we simply engaged her under the guise of King Deshret's believers, she'd definitely be wary of us, and we may not get anywhere.
@@ -50,12 +53,13 @@ Nahida: That's no problem at all. I'll just share all their senses with you once
 Paimon: #Huh, that is pretty convenient... But why does {F#she}{M#he} have to do this? Can't you do it yourself?
 Nahida: Although I've been observing humans for a while, I've never been good at imitating them...
 Paimon: Hmm, you're not wrong... It's always been painfully obvious whenever you try to pass as Katheryne.
-Traveler: Alright.
+    Option 1:
+        Traveler: Alright.
+    Option 2:
+        Traveler: I'll try my best.
 Nahida: *sigh* If it was at all possible, I would've preferred to leave these people alone, but seeing how things are now, I probably should just accept it and push on.
 Paimon: Yeah, don't beat yourself up over it! We're only doing this to help everyone, and we'll only be borrowing them for a little while anyway.
 Nahida: Alright, then let's give it a go tomorrow afternoon.
-Traveler: I'll try my best.
-Traveler: If King Deshret were to make demands of Setaria...
 
 ## Talk 7
 
@@ -75,17 +79,26 @@ Setaria: Ah, okay then. You just seemed a little distracted for a moment there.
 Harut (Cat): Meow!
 Setaria: Strange... Your cats seem pretty worked up. Is something wrong?
 Setaria: I always thought they were quiet, happy kitties... Oh, what are their names again?
-Traveler: Hamru and Tamru.
-Setaria: Hmm, are you sure? Those aren't ringing a bell for some reason...
-Nabiya: Ah, well... A—Actually, they have many names. Which names I use depends on my mood.
-Setaria: Huh, I see. I imagine that must be hard for the kitties, too.
+    Option 1:
+        Traveler: Hamru and Tamru.
+        Setaria: Hmm, are you sure? Those aren't ringing a bell for some reason...
+        Nabiya: Ah, well... A—Actually, they have many names. Which names I use depends on my mood.
+        Setaria: Huh, I see. I imagine that must be hard for the kitties, too.
+    Option 2:
+        Traveler: Harut and Marut.
+        Setaria: Ahh, that's right! They are just little darlings, aren't they? Harut and Marut...
 Nabiya: Ahem, so which fortune do you want me to read for you today? You must have come for another echo of the divine voice of wisdom.
 Setaria: Hmm... I'd like to get another reading on my love prospects, but to be perfectly honest with you, I feel like I've been a real mess recently...
 Nabiya: A mess?
 Setaria: Well, erm... Could you do a reading on how long it'll take me to finish my current project at work? I really just want to get it over with...
 Nabiya: I hear you... No problem at all. Uh, the gods will reveal the truth.
 Nabiya: ...
-Traveler: Hummm... Ah, the gods have spoken!
+    Option 1:
+        Traveler: Hummm... Ah, the gods have spoken!
+    Option 2:
+        Traveler: Ohohoho... The gods have spoken!
+        Setaria: Pfft... Sorry, your new laugh is just so hilarious, I couldn't help it...
+        Nabiya: Oh! Uh, please pay no mind to those kinds of details.
 Nabiya: The gods are asking...
 Nabiya: "Setaria, why haven't you gone home?"
 Setaria: Why haven't I gone... home? Do the gods really know everything I've been thinking about...?
@@ -106,11 +119,6 @@ Nahida: To have something she's been trying desperately to avoid show up out of 
 Paimon: Nahida, it seems like you understand human emotions really well after all!
 Nahida: All I know are some abstract Haravatat theories. In any case, my time with you has shown a lot of them to be utterly useless. I'm still trying to make sense of everything...
 Nahida: Anyway, enough of that. Let's hurry and catch up to Setaria.
-Traveler: Ohohoho... The gods have spoken!
-Setaria: Pfft... Sorry, your new laugh is just so hilarious, I couldn't help it...
-Nabiya: Oh! Uh, please pay no mind to those kinds of details.
-Traveler: Harut and Marut.
-Setaria: Ahh, that's right! They are just little darlings, aren't they? Harut and Marut...
 
 ## Talk 9
 
@@ -120,13 +128,25 @@ Setaria: Ahh, that's right! They are just little darlings, aren't they? Harut an
 
 Setaria: ...It's okay, I just got caught up in something.
 Setaria: Oh, actually, didn't you ask me to help you look for work? What kind of work were you looking for again?
-Traveler: Uh, gardening work.
-Setaria: Gardening? But don't you hate everything to do with plants? I still remember getting mad at you for secretly throwing away the bonsai that I gave you as a present.
-Akim: Erm... Well, uh, you see, a friend told me that the secret to self-improvement is to work on things you're not so good at.
-Setaria: ...Fair enough. I didn't think that was something you would consider.
+    Option 1:
+        Traveler: Uh, gardening work.
+        Setaria: Gardening? But don't you hate everything to do with plants? I still remember getting mad at you for secretly throwing away the bonsai that I gave you as a present.
+        Akim: Erm... Well, uh, you see, a friend told me that the secret to self-improvement is to work on things you're not so good at.
+        Setaria: ...Fair enough. I didn't think that was something you would consider.
+    Option 2:
+        Traveler: Uh, masonry work.
+        Setaria: Oh, right, your old man's craft... How could I forget?
+    Option 3:
+        Traveler: Uh, masonry work.
+        Setaria: Oh, right, your old man's craft... How could I forget?
 Setaria: Speaking of, how's he doing? Is he feeling any better?
-Traveler: He's feeling a lot better, and he's walking more now.
-Setaria: Ah, that's good to hear. I've been thinking a lot about him... If I could get some more time off, I'd love to pay him a visit.
+    Option 1:
+        Traveler: He's feeling a lot better, and he's walking more now.
+        Setaria: Ah, that's good to hear. I've been thinking a lot about him... If I could get some more time off, I'd love to pay him a visit.
+    Option 2:
+        Traveler: He's feeling a lot better. He can lift stuff now.
+        Setaria: Huh? Wasn't he nursing a leg injury? If I recall correctly, his strong arms had always been his pride and joy.
+        Akim: Uhh, he... sprained his arm a while back while trying to show off his strength. I thought you'd heard.
 Setaria: Actually, while we're talking about him... Is he still living in Port Ormos?
 Akim: Yeah, he's been retired there for a while.
 Setaria: If you could find the time, please write him a letter. Let him know that recently, faith in King Deshret has taken root in Port Ormos, and has begun to spread across Sumeru...
@@ -138,15 +158,12 @@ Setaria: Akim...? You don't mean... You've also become a believer of King Deshre
 Akim: What's so strange about becoming a believer of the wise King Deshret? In fact, aren't you the strange one — the one who still can't pick a side?
 Setaria: C—Can't pick a side... Me?
 Paimon: #Whoa, Traveler! Paimon had no idea you'd be so good at this.
-Traveler: Before I knew it, I really started getting into the role.
+    Option 1:
+        Traveler: Before I knew it, I really started getting into the role.
+    Option 2:
+        Traveler: I wasn't too harsh, was I?
 Nahida: You really zeroed in on the issue and put it right in front of her. It might feel a bit overwhelming for Setaria...
 Nahida: But once everything is over, I'll be sure to pay a visit to her mind and explain everything. Anyway, let's keep going.
-Traveler: I wasn't too harsh, was I?
-Traveler: He's feeling a lot better. He can lift stuff now.
-Setaria: Huh? Wasn't he nursing a leg injury? If I recall correctly, his strong arms had always been his pride and joy.
-Akim: Uhh, he... sprained his arm a while back while trying to show off his strength. I thought you'd heard.
-Traveler: Uh, masonry work.
-Setaria: Oh, right, your old man's craft... How could I forget?
 
 ## Talk 11
 
@@ -154,12 +171,20 @@ Setaria: Oh, right, your old man's craft... How could I forget?
 
 ## Talk 12
 
+Nabiya: "Setaria, why haven't you gone home?"
+[Missing Dialog 30160731]
+
+Akim: What's so strange about becoming a believer of the wise King Deshret? In fact, aren't you the strange one — the one who still can't pick a side?
+[Missing Dialog 30160924]
+
 Setaria: ...So, Qishan, have you noticed anything weird in the city lately?
 Setaria: Like... as if someone was trying to preach to you about something.
-Traveler: No, I've been spending all my time studying in the basement.
-Traveler: No, I've been spending all my time studying in the attic.
-Setaria: Wait, did you just say attic? I thought this place didn't have an attic... Also, don't you usually study in the basement?
-Qishan: Uh, well... The restaurant recently added an attic. I've been studying there because it has better lighting.
+    Option 1:
+        Traveler: No, I've been spending all my time studying in the basement.
+    Option 2:
+        Traveler: No, I've been spending all my time studying in the attic.
+        Setaria: Wait, did you just say attic? I thought this place didn't have an attic... Also, don't you usually study in the basement?
+        Qishan: Uh, well... The restaurant recently added an attic. I've been studying there because it has better lighting.
 Qishan: Oh right, speaking of strange things...
 Qishan: I celebrated the Sabzeruz Festival so many times that I lost count. That was really weird.
 Setaria: Wait, how could you be aware of that!? That should be impossible. Nothing in the report indicated anything like that...
@@ -184,14 +209,14 @@ Setaria: Y—You know my name?
 Rima: King Deshret is immortal, and all who defy him will one day pay the price.
 Rima: You must face the truth, Setaria. You tread a treacherous path, and the longer you ignore it, the tighter the Akademiya's grasp on you will become, and the deeper you will be ensnared.
 Rima: Child of King Deshret, never forget that the desert that belongs to you lies elsewhere.
-Akim: What's so strange about becoming a believer of the wise King Deshret? In fact, aren't you the strange one — the one who still can't pick a side?
-Nabiya: "Setaria, why haven't you gone home?"
 Setaria: ...
 Setaria: *sigh* ...It seems that no matter where I run, I only keep finding more believers of King Deshret. I have to say, this is a familiar feeling...
 Setaria: I've also been running from my guilt this whole time... Guilt over my part in the sages' plans, and from ignoring the letters from the children of my homeland.
 Setaria: But no matter how much I may try to ignore or get rid of it, my guilt always comes back.
-Traveler: You should follow your heart.
-Traveler: It's not too late to turn back.
+    Option 1:
+        Traveler: You should follow your heart.
+    Option 2:
+        Traveler: It's not too late to turn back.
 Rima: You won't necessarily lose your research opportunities by facing the truth. Besides, did you really want to conduct your research while carrying such heavy feelings of guilt?
 Setaria: How do you know me so well? Are you truly just a believer of King Deshret, or are you the god himself?
 Rima: That's not important. The important thing is to pass judgment on the Akademiya and its sages, and to correct their mistakes.
@@ -239,7 +264,10 @@ Nahida: After all, the Akademiya should still be unable to confirm the existence
 Paimon: Yep, yep! Exactly, just what Paimon was thinking!
 Traveler: I somehow doubt that...
 Paimon: Ugh... Anyway, enough about that! Let's just make sure to be on our guard!
-Traveler: Speaking of which...
+    Option 1:
+        Traveler: Speaking of which...
+    Option 2:
+        Traveler: Don't you feel like something is off?
 Paimon: Off? What do you feel is off?
 Traveler: It's just a little too quiet around here.
 Paimon: It's the middle of the night — of course it's quiet! You're not getting paranoid, are you?
@@ -248,7 +276,6 @@ Nahida: If you look around, there seems to be fewer people on the streets. I'm n
 Paimon: Huh, maybe it's just a coincidence? Maybe Setaria figured out a way to not only distract the guards, but also to get everyone to go to sleep early, just so we can exchange the documents in peace.
 Nahida: I also can't quite figure out why things feel a little off... But, now that we're here, let's go ahead and meet her as we planned.
 Paimon: Well, regardless... as long as you're here with us, Paimon feels a little safer!
-Traveler: Don't you feel like something is off?
 
 ## Talk 15
 
@@ -262,25 +289,31 @@ Paimon: Missing text (671980282)
 
 Paimon: This should be far enough... Phew, Paimon needs to catch her breath first.
 Paimon: Is Nahida going to be okay? We only made it out because of her...
-Traveler: She can jump between minds. Hopefully she'll be fine?
+    Option 1:
+        Traveler: She can jump between minds. Hopefully she'll be fine?
+    Option 2:
+        Traveler: I'm not sure... that guy was pretty terrifying.
 Paimon: Paimon wasn't counting on running into a new Harbinger here, let alone such a high-ranking one! That guy was number two... so scary...
 Paimon: He called himself "The Doctor"... Remember Tighnari told us about him. Setaria did say that someone who once got expelled from the Akademiya came back recently...
 Paimon: ...and that even the sages are wary of him. Yep, sounds like she must've been talking about The Doctor.
-Traveler: We underestimated the scale of this problem.
+    Option 1:
+        Traveler: We underestimated the scale of this problem.
+    Option 2:
+        Traveler: We underestimated the number of parties involved.
 Paimon: Yeah. Now that The Doctor's in the picture, we're no longer just dealing with the Akademiya — they're in cahoots with the Fatui.
 Paimon: But what are the Fatui after this time? Another Gnosis?
 Traveler: We need to find a way to reunite with Nahida.
 Paimon: Yeah, things would be a lot easier with Nahida's help.
 Paimon: Nahida said "We'll meet again outside of the city," but we can't just keep waiting around, right?
-Traveler: Let's start our own investigation.
+    Option 1:
+        Traveler: Let's start our own investigation.
+    Option 2:
+        Traveler: Let's go find someone else who might be involved.
 Paimon: Eh? You mean...
 Traveler: Let's go find Tighnari.
 Paimon: Oh! Right, wasn't he invited by the sages to work on some project when we were staying with him in the Avidya Forest? That has to be the same project.
 Paimon: Even though he turned it down at that time, he might still know something.
 Paimon: There's no time to lose. Let's go to Gandharva Ville!
-Traveler: Let's go find someone else who might be involved.
-Traveler: We underestimated the number of parties involved.
-Traveler: I'm not sure... that guy was pretty terrifying.
 
 ## Additional Conversations
 
@@ -334,7 +367,10 @@ Nahida: Later on, she was chosen by the Sun. The star was given a place in the d
 Nahida: Soon after, the star witnessed the Sun scorching the earth, which brought forth many disasters.
 Nahida: The star began to waver. Instead of staying beside such a sun, wouldn't it be better to return and light up part of the night sky?
 Nahida: But in the end, she couldn't give up the radiance of daytime. To cope with her shame, the star buried her guilt and closed her eyes...
-Traveler: This is no longer just a metaphor...
+    Option 1:
+        Traveler: This is no longer just a metaphor...
+    Option 2:
+        Traveler: Those are Setaria's true thoughts, right?
 Paimon: From the sound of it, Setaria's just hung up on the research opportunities here...
 Paimon: But she doesn't really support the Akademiya. She still feels guilty about not doing more for the desert, right...? She's just running away from her problems!
 Nahida: Indeed. When they are presented with complex moral issues, many people will simply plug their ears and go with the flow until the problem can't be fixed anymore.
@@ -345,7 +381,6 @@ Nahida: That way, not only can we get useful intel from her, but she can also us
 Nahida: From my past observations, Setaria will take a day off from the Akademiya every ten days to do some shopping in the city.
 Nahida: Tomorrow afternoon just happens to be a shopping day for her. That'll be our chance.
 Nahida: To prepare, let's go check out some of her favorite spots, and have a quick chat with a few of the vendors there.
-Traveler: Those are Setaria's true thoughts, right?
 
 ### Additional Talk 5
 

@@ -28,21 +28,27 @@ Paimon: (According to that Ms. Gendou, this Ms. Gendou is...)
 Traveler: (Yeah, a Fatui knockoff.)
 Gendou Ringo: Ah, we meet again. Want to check your fortune as well? Or...
 Gendou Ringo: If you need a listening ear or if you have something to discuss, I can help too.
-Traveler: We're just passing through.
+    Option 1:
+        Traveler: We're just passing through.
+    Option 2:
+        Traveler: No, thanks!
 Paimon: Ms. Gendou is so friendly!
 Gendou Ringo: Is that so? Hehe, that's what many people have told me lately. It feels good.
 Gendou Ringo: It's always been my dream to work at a beautiful shrine like this.
 Traveler: (Yeah, she's a Fatui knockoff.)
 Paimon: (Still, she seems like she actually enjoys this job.)
-Traveler: (Don't let your guard down.)
+    Option 1:
+        Traveler: (Don't let your guard down.)
+    Option 2:
+        Traveler: (Wait for Ms. Gendou to contact us.)
 Gendou Ringo: #So Traveler, how may I help you today?
-Traveler: I'm just here to see you.
-Gendou Ringo: Me... Huh? Ah? S—Sorry, I don't understand what you... what you mean...
-Gendou Ringo: P—Please allow me to cool down a little...
-Traveler: It's nothing.
-Gendou Ringo: I get it now. Come find me if you have any questions.
-Traveler: (Wait for Ms. Gendou to contact us.)
-Traveler: No, thanks!
+    Option 1:
+        Traveler: I'm just here to see you.
+        Gendou Ringo: Me... Huh? Ah? S—Sorry, I don't understand what you... what you mean...
+        Gendou Ringo: P—Please allow me to cool down a little...
+    Option 2:
+        Traveler: It's nothing.
+        Gendou Ringo: I get it now. Come find me if you have any questions.
 
 ## Talk 7
 
@@ -152,23 +158,29 @@ Gendou Ringo: Okay, please give me your bamboo slip.
 ## Talk 28
 
 Fortune Slip Hanger: (If a "Misfortune" or "Great Misfortune" is drawn, tying it over here can help change the luck.)
-Traveler: Hang it up.
-Fortune Slip Hanger: I don't care.
-Fortune Slip Hanger: (...)
+    Option 1:
+        Traveler: Hang it up.
+    Option 2:
+        Fortune Slip Hanger: I don't care.
+        Fortune Slip Hanger: (...)
 
 ## Talk 29
 
 Fortune Slip Hanger: (If a "Misfortune" or "Great Misfortune" is drawn, tying it over here can help change the luck.)
-Traveler: Hang it up.
-Fortune Slip Hanger: I'm fine with it.
-Fortune Slip Hanger: (...)
+    Option 1:
+        Traveler: Hang it up.
+    Option 2:
+        Fortune Slip Hanger: I'm fine with it.
+        Fortune Slip Hanger: (...)
 
 ## Talk 30
 
 Fortune Slip Hanger: (If a "Misfortune" or "Great Misfortune" is drawn, tying it over here can help change the luck.)
-Traveler: Hang it up.
-Fortune Slip Hanger: I'm fine with it.
-Fortune Slip Hanger: (...)
+    Option 1:
+        Traveler: Hang it up.
+    Option 2:
+        Fortune Slip Hanger: I'm fine with it.
+        Fortune Slip Hanger: (...)
 
 ## Talk 31
 
@@ -249,6 +261,7 @@ Gendou Ringo: See you! May your day be blessed.
 ### Additional Talk 6
 
 Gendou Ringo: ...
+[Missing Dialog 721034202]
 
 ### Additional Talk 7
 

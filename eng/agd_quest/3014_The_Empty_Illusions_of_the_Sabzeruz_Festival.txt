@@ -6,32 +6,59 @@
 ## Talk 1
 
 Traveler: The Moon, illusions, and lies... What do they all mean?
+
 Traveler: What's happening right now seems to have happened before. This feeling has been getting stronger and stronger...
+
 Traveler: The Grand Sage said, "Go celebrate the birth of that god to your heart's content." Did he mean something more?
+
 Traveler: Dehya sold her greatsword to raise additional funds, and she was injured because she wasn't used to her new weapon.
+
 Traveler: My mind feels exhausted, even though I haven't done too much thinking. What is going on?
+
 Traveler: We've already experienced the Sabzeruz Festival many times. And... the day of the festival seems to be in a perpetual samsara.
+
 Traveler: People in Sumeru don't dream. What a strange phenomenon.
+
 Traveler: Okay, Nahida said, "The Akasha relies on the power of a Gnosis to operate, as it is the manifestation of the God of Wisdom's power. It compiles the wisdom of the entire populace, and it grants knowledge to the people."
+
 Traveler: Mercenaries rely heavily on muscle memory, and Dehya was able to use her experiences to avoid injury in later samsara cycles.
+
 Traveler: The beep is a prompt tone for Akasha operations. We still hear it every night, even though we removed our Akasha Terminals.
+
 Traveler: All the bizarre spaces I saw outside the city had one thing in common: a lack of human presence.
+
 Traveler: Those spaces remind me of... dreams. Like the one I had in the Avidya Forest, except these have no sign of human presence.
+
 Traveler: Those spaces kept disappearing before my eyes, but as soon as that beep sounded, many more spaces materialized.
+
 Traveler: Those dreamscapes kept vanishing, but as soon as that beep sounded, more new spaces appeared.
+
 Traveler: ..Was that space actually the real world? But wouldn't a real space just randomly disappearing like that be catastrophic?
+
 Traveler: My impression is that each day in this samsara only ends at the sound of that beep from the Akasha.
+
 Traveler: That should be it... The flow of time is endlessly cycling within one single day.
+
 Traveler: If all our memories of a day are erased at the end of that day, then we would unwittingly relive the same day again and again.
+
 Traveler: We are all in a dream. It isn't that the people of Sumeru don't dream. Rather, the Akasha is taking their dreams from them.
+
 Nahida: The Akasha relies on the power of a Gnosis to operate.
+
 Nahida: It is a manifestation of the God of Wisdom's power.
+
 Nahida: It compiles the wisdom of the entire populace.
+
 Nahida: And it grants knowledge to the people.
+
 Traveler: They say that alchemical divination is the Dendro Archon's divine revelation. So then, if Nahida has referred to herself as the Moon...
+
 Traveler: Now that I think about it, wasn't "illusions" a hint that we're all dreaming?
+
 Traveler: Now that I think about it, wasn't "illusions" hinting at the Sages' deception of Sumeru's people?
+
 Traveler: That doesn't sound right... I need to carefully think things through...
+
 Traveler: Hmm... I can't seem to cohesively piece everything together.
 
 ## Talk 2
@@ -46,25 +73,31 @@ Paimon: Let's go and question them.
 Paimon: Hello sir, why can't we leave the city today?
 Guard: Here we go again... Don't ask me, I don't know either.
 Guard: We just received an order that no one is allowed to enter or exit Sumeru today. They didn't tell us anything else.
-Traveler: Of course the Akademiya wouldn't share their plans with a pawn.
+    Option 1:
+        Traveler: Of course the Akademiya wouldn't share their plans with a pawn.
+    Option 2:
+        Traveler: So the Akademiya doesn't trust you at all.
 Guard: Hmph, angering me won't get you anywhere. If I had that kind of insider info, I would have left this stupid post a long time ago.
 Paimon: It looks like he really doesn't know.
 Paimon: If we can't get anything out of him, let's take matters into our own hands. Why don't we climb over the walls? Those guards can't be everywhere at once.
 Paimon: This is a good spot, and the guard hasn't noticed us at all. Let's hurry...
 Traveler: Paimon, stay here.
 Paimon: Huh!? Why? Are you going to leave Paimon behind?
-Traveler: Leaving the city might trigger disruptions to our memories...
+    Option 1:
+        Traveler: Leaving the city might trigger disruptions to our memories...
+    Option 2:
+        Traveler: We need someone to stay and witness events from this side.
 Paimon: B—But what if things get really weird out there and you get into some trouble? Th—Then Paimon won't be able to help you!
 Paimon: Ugh... Paimon knows that Paimon can't do much, but we've always been together, haven't we?
-Traveler: Don't worry, Paimon.
+    Option 1:
+        Traveler: Don't worry, Paimon.
+    Option 2:
+        Traveler: If we leave together, it'll just be the same as before.
 Paimon: ...
 Paimon: ...Okay, Paimon will wait for you.
 Paimon: Promise Paimon that you'll come back as soon as possible. Just a quick look!
 Traveler: Okay, okay...
 Paimon: And please be careful!
-Traveler: If we leave together, it'll just be the same as before.
-Traveler: We need someone to stay and witness events from this side.
-Traveler: So the Akademiya doesn't trust you at all.
 
 ## Talk 3
 
@@ -77,7 +110,10 @@ Paimon: Paimon waited for you for hours and hours at the city wall, and you neve
 Traveler: Wh—What did I promise?
 Nahida: #Paimon, calm down. {F#She's}{M#He's} here now. I don't think {F#she}{M#he} understood what you were saying.
 Paimon: *sniff*... Paimon doesn't care. Paimon wanted to go look for you, but you also said that Paimon should stay... Paimon was so worried and so scared the entire day...
-Traveler: Although I don't remember doing any of this...
+    Option 1:
+        Traveler: Although I don't remember doing any of this...
+    Option 2:
+        Traveler: Still... Sorry, Paimon.
 Traveler: I won't leave you behind.
 Paimon: *sniff* ...Okay, Paimon will forgive you. The most important thing is that you didn't actually disappear... Paimon was so scared that you had gone into another world!
 Nahida: Okay, Paimon, can you tell us your perspective of what really happened yesterday...
@@ -90,10 +126,16 @@ Nahida: What's your perspective, Traveler? You sure you don't have any memory of
 Traveler: Yes, I don't even know that "yesterday" existed.
 Nahida: I guess that explains everything. You also lost your memories the last two times you tried to leave the city. Those days' memories can't be awoken.
 Paimon: So if we leave the city, our memories will be completely erased?
-Traveler: So they didn't just restrict access to Sumeru City...
+    Option 1:
+        Traveler: So they didn't just restrict access to Sumeru City...
+    Option 2:
+        Traveler: They're also erasing the memories of those who leave...
 Paimon: It really sounds like something big outside of the city is being hidden on purpose!
 Paimon: But this way, we'll also never discover what's outside...
-Traveler: If our memories will be erased...
+    Option 1:
+        Traveler: If our memories will be erased...
+    Option 2:
+        Traveler: Can we leave behind something other than memories?
 Paimon: Something like a message? But how can we send it back?
 Nahida: ...Don't look at me like that. I... I'm not used to being stared at.
 Nahida: Well... Okay, okay. You want something that can pass on messages, right? Give me some time, and take care of Dunyarzad for me.
@@ -110,9 +152,6 @@ Traveler: I still think you should stay.
 Paimon: Ahh... Alright. Paimon isn't as worried about being separated since it happened once yesterday, but... Paimon still isn't happy about it...
 Traveler: See you tomorrow, Paimon.
 Paimon: Okay! See you tomorrow, Traveler!
-Traveler: Can we leave behind something other than memories?
-Traveler: They're also erasing the memories of those who leave...
-Traveler: Still... Sorry, Paimon.
 
 ## Talk 6
 
@@ -170,15 +209,20 @@ Nahida: Aww, I thought that one would be the hardest question. That's why I put 
 Paimon: Pff, that wasn't hard at all. Even Paimon guessed that! Everything about you is different. We just didn't wanna expose you is all.
 Paimon: Now that you mention it... Nahida, you've been hinting to us since the very beginning...
 Paimon: It's funny thinking back to when we were asking all over the place for info about Lesser Lord Kusanali. Paimon didn't expect to meet you like this!
-Traveler: I have a lot of questions for you.
+    Option 1:
+        Traveler: I have a lot of questions for you.
+    Option 2:
+        Traveler: But this doesn't seem like a good time.
 Nahida: Yes, those can wait until we're back in real life.
 Nahida: On the other hand, I'd be happy to answer any more questions you have about here and now.
-Traveler: But this doesn't seem like a good time.
 
 ## Talk 94
 
 Paimon: ...That covers everything that's happened so far.
-Traveler: So that message...
+    Option 1:
+        Traveler: So that message...
+    Option 2:
+        Traveler: Was what I left for myself when I left the city?
 Nahida: Yes. Although the signal was choppy and had some interference, we still managed to receive two messages from you when you were outside.
 Paimon: Okay, now that you understand what's going on, let's hear the messages together!
 Traveler: "...Can't go back... There are countless spaces here. Our Sabzeruz Festival in Sumeru City is just one of them..."
@@ -197,7 +241,6 @@ Paimon: Oh, right, Paimon did hear a beep from the Akasha. Did it come from here
 Nahida: The message. It should've come from the Traveler's Akasha Terminal.
 Paimon: After the beep, Traveler said, "Even the final space has also disappeared..."
 Nahida: Traveler, what do you think that "final space" could have been?
-Traveler: Was what I left for myself when I left the city?
 
 ## Talk 95
 
@@ -300,7 +343,9 @@ Nahida: Aww, I thought that one would be the hardest question. That's why I put 
 Paimon: Pff, that wasn't hard at all. Even Paimon guessed that! Everything about you is different. We just didn't wanna expose you is all.
 Paimon: Now that you mention it... Nahida, you've been hinting to us since the very beginning...
 Paimon: It's funny thinking back to when we were asking all over the place for info about Lesser Lord Kusanali. Paimon didn't expect to meet you like this!
-Traveler: I have a lot of questions for you.
+    Option 1:
+        Traveler: I have a lot of questions for you.
+    Option 2:
+        Traveler: But this doesn't seem like a good time.
 Nahida: Yes, those can wait until we're back in real life.
 Nahida: On the other hand, I'd be happy to answer any more questions you have about here and now.
-Traveler: But this doesn't seem like a good time.

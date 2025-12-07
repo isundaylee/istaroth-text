@@ -60,11 +60,13 @@ Kamisato Ayaka: What? A—Are you sure?
 Shimizu: Of course! If you like what you see, then please, be my guest. Same goes for your two friends here.
 Kamisato Ayaka: Traveler, Paimon... What do you think?
 Paimon: It seems like everyone wants to do something nice for Ayaka! So if they insist... who are we to resist!
-Traveler: If they're offering, who are we to refuse?
+    Option 1:
+        Traveler: If they're offering, who are we to refuse?
+    Option 2:
+        Traveler: I'm enjoying being a VIP by association!
 Kamisato Ayaka: Well, if that's how you feel, then... okay! We'll take you up on your kind offer, sir! Let's each do a draw.
 Shimizu: Alrighty then! Whenever you're ready.
 Shimizu: Draw a slip and reveal your fortune!
-Traveler: I'm enjoying being a VIP by association!
 
 ## Talk 5
 
@@ -127,19 +129,38 @@ Kamisato Ayaka: If I ever get the chance... Hee-hee, I wanna go again.
 Traveler: I'd like to go again, too.
 Kamisato Ayaka: You too? Great!
 Kamisato Ayaka: You know, we're kind of similar, with both of us having a brother.
-Kamisato Ayaka: #Sometimes, I feel like I can relate to the determination you must have... to get your {F#brother}{M#sister} back.
+[Missing Dialog 120080310]
+
 Traveler: #Yes, {F#he}{M#she} means an awful lot to me.
+Kamisato Ayaka: ...
+Kamisato Ayaka: I understand.
+Kamisato Ayaka: Family bonds are inseparable — no one can break them... They are the most important roots we have in this world.
+Kamisato Ayaka: #You will find {F#him}{M#her}. Come what may, you must never give up.
+Kamisato Ayaka: I will always be here for you as your... Ahem! As your friend. I will always support you.
+    Option 1:
+        Traveler: Thank you, Ayaka.
+    Option 2:
+        Traveler: Today made me very happy, too.
+    Option 3:
+        Traveler: Thanks for being a splendid host today.
+Kamisato Ayaka: ...!
+Kamisato Ayaka: As long as you're happy, I'm happy.
+
 Traveler: #Finding {F#him}{M#her} is the whole reason for my journey.
 Kamisato Ayaka: ...
 Kamisato Ayaka: I understand.
 Kamisato Ayaka: Family bonds are inseparable — no one can break them... They are the most important roots we have in this world.
 Kamisato Ayaka: #You will find {F#him}{M#her}. Come what may, you must never give up.
 Kamisato Ayaka: I will always be here for you as your... Ahem! As your friend. I will always support you.
-Traveler: Thank you, Ayaka.
-Traveler: Today made me very happy, too.
-Traveler: Thanks for being a splendid host today.
+    Option 1:
+        Traveler: Thank you, Ayaka.
+    Option 2:
+        Traveler: Today made me very happy, too.
+    Option 3:
+        Traveler: Thanks for being a splendid host today.
 Kamisato Ayaka: ...!
 Kamisato Ayaka: As long as you're happy, I'm happy.
+
 Kamisato Ayaka: What do you think of my dance? Did you... like it?
 Paimon: It was so pretty!
 Paimon: Beautiful, elegant, and... and something else Paimon can't put into words. *thinking* Paimon doesn't really know what it was, but, it is art.
@@ -147,8 +168,10 @@ Traveler: It was delightful.
 Kamisato Ayaka: Phew... I'm not very good at this kind of dance. So as long as I didn't embarrass myself, that's all that matters.
 Kamisato Ayaka: I just... had a sudden urge, and I ran with it...
 Kamisato Ayaka: Hahaha... In a way, that sort of sums up today for me. Dancing like nobody's watching.
-Traveler: There's nothing wrong with that.
-Traveler: You're a pleasure to be around!
+    Option 1:
+        Traveler: There's nothing wrong with that.
+    Option 2:
+        Traveler: You're a pleasure to be around!
 Kamisato Ayaka: ...
 Kamisato Ayaka: That goes for you too.
 Kamisato Ayaka: When I'm with you... time seems to slow down and speed up at the same time.
@@ -158,6 +181,12 @@ Traveler: Goodnight, Ayaka.
 Kamisato Ayaka: Goodnight, Traveler.
 Traveler: ...
 Traveler: ♪
+
+Kamisato Ayaka: #Sometimes, I feel like I can relate to the determination you must have... to get your {F#brother}{M#sister} back.
+    Option 1:
+        [Missing Dialog 120081711]
+    Option 2:
+        [Missing Dialog 120081712]
 
 ## Talk 11
 
@@ -176,7 +205,10 @@ Traveler: It was delightful.
 Kamisato Ayaka: Phew... I'm not very good at this kind of dance. So as long as I didn't embarrass myself, that's all that matters.
 Kamisato Ayaka: I just... had a sudden urge, and I ran with it...
 Kamisato Ayaka: Hahaha... In a way, that sort of sums up today for me. Dancing like nobody's watching.
-Traveler: There's nothing wrong with that.
+    Option 1:
+        Traveler: There's nothing wrong with that.
+    Option 2:
+        Traveler: You're a pleasure to be around!
 Kamisato Ayaka: ...
 Kamisato Ayaka: That goes for you too.
 Kamisato Ayaka: When I'm with you... time seems to slow down and speed up at the same time.
@@ -186,7 +218,6 @@ Traveler: Goodnight, Ayaka.
 Kamisato Ayaka: Goodnight, Traveler.
 Traveler: ...
 Traveler: ♪
-Traveler: You're a pleasure to be around!
 
 ## Talk 13
 
@@ -217,20 +248,38 @@ Kamisato Ayaka: Festivals are great! There aren't many rules, everyone has that 
 Kamisato Ayaka: If I ever get the chance... Hee-hee, I wanna go again.
 Traveler: I'd like to go again, too.
 Kamisato Ayaka: You too? Great!
-Kamisato Ayaka: You know, we're kind of similar, me with my brother, you with your sister.
-Kamisato Ayaka: #Sometimes, I feel like I can relate to the determination you must have... to get your {F#brother}{M#sister} back.
+[Missing Dialog 120080309]
+
 Traveler: #Yes, {F#he}{M#she} means an awful lot to me.
+Kamisato Ayaka: ...
+Kamisato Ayaka: I understand.
+Kamisato Ayaka: Family bonds are inseparable — no one can break them... They are the most important roots we have in this world.
+Kamisato Ayaka: #You will find {F#him}{M#her}. Come what may, you must never give up.
+Kamisato Ayaka: I will always be here for you as your... Ahem! As your friend. I will always support you.
+    Option 1:
+        Traveler: Thank you, Ayaka.
+    Option 2:
+        Traveler: Today made me very happy, too.
+    Option 3:
+        Traveler: Thanks for being a splendid host today.
+Kamisato Ayaka: ...!
+Kamisato Ayaka: As long as you're happy, I'm happy.
+
 Traveler: #Finding {F#him}{M#her} is the whole reason for my journey.
 Kamisato Ayaka: ...
 Kamisato Ayaka: I understand.
 Kamisato Ayaka: Family bonds are inseparable — no one can break them... They are the most important roots we have in this world.
 Kamisato Ayaka: #You will find {F#him}{M#her}. Come what may, you must never give up.
 Kamisato Ayaka: I will always be here for you as your... Ahem! As your friend. I will always support you.
-Traveler: Thank you, Ayaka.
-Traveler: Today made me very happy, too.
-Traveler: Thanks for being a splendid host today.
+    Option 1:
+        Traveler: Thank you, Ayaka.
+    Option 2:
+        Traveler: Today made me very happy, too.
+    Option 3:
+        Traveler: Thanks for being a splendid host today.
 Kamisato Ayaka: ...!
 Kamisato Ayaka: As long as you're happy, I'm happy.
+
 Kamisato Ayaka: What do you think of my dance? Did you... like it?
 Paimon: It was so pretty!
 Paimon: Beautiful, elegant, and... and something else Paimon can't put into words. *thinking* Paimon doesn't really know what it was, but, it is art.
@@ -238,8 +287,10 @@ Traveler: It was delightful.
 Kamisato Ayaka: Phew... I'm not very good at this kind of dance. So as long as I didn't embarrass myself, that's all that matters.
 Kamisato Ayaka: I just... had a sudden urge, and I ran with it...
 Kamisato Ayaka: Hahaha... In a way, that sort of sums up today for me. Dancing like nobody's watching.
-Traveler: There's nothing wrong with that.
-Traveler: You're a pleasure to be around!
+    Option 1:
+        Traveler: There's nothing wrong with that.
+    Option 2:
+        Traveler: You're a pleasure to be around!
 Kamisato Ayaka: ...
 Kamisato Ayaka: That goes for you too.
 Kamisato Ayaka: When I'm with you... time seems to slow down and speed up at the same time.
@@ -249,6 +300,13 @@ Traveler: Goodnight, Ayaka.
 Kamisato Ayaka: Goodnight, Traveler.
 Traveler: ...
 Traveler: ♪
+
+Kamisato Ayaka: You know, we're kind of similar, me with my brother, you with your sister.
+Kamisato Ayaka: #Sometimes, I feel like I can relate to the determination you must have... to get your {F#brother}{M#sister} back.
+    Option 1:
+        [Missing Dialog 120081711]
+    Option 2:
+        [Missing Dialog 120081712]
 
 ## Talk 18
 
@@ -306,6 +364,8 @@ Kamisato Ayaka: Alright! Traveler, shall we?
 Kamisato Ayaka: Oh, wait! Um... Just one thing...
 Kamisato Ayaka: I need to explain myself. I got a little nervous back there and... I—I just made up any old excuse. But don't think of this as me taking you sight-seeing, please!
 Kamisato Ayaka: I brought you here because... because I genuinely wanted to spend time with you.
-Traveler: I sensed that.
+    Option 1:
+        Traveler: I sensed that.
+    Option 2:
+        Traveler: Don't worry, Ayaka, no misunderstanding here.
 Kamisato Ayaka: ...Okay, great!
-Traveler: Don't worry, Ayaka, no misunderstanding here.

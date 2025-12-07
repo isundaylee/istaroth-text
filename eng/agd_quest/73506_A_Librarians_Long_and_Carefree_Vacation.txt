@@ -7,7 +7,10 @@ Effendi: Greetings! Welcome to the Citadel of Regzar. Would you be interested in
 Paimon: Are there any easy jobs where we can earn loads of Mora for just standing around? Oh, better yet, for sitting around! That's the kind of task we're interested in now.
 Effendi: Uh, ahem... We don't currently have any commissions like that. However, I do have some relatively simple requests from residents that will pay several thousand Mora.
 Paimon: Really, that's all? That isn't nearly enough for Paimon.
-Traveler: The more Mora, the better.
+    Option 1:
+        Traveler: The more Mora, the better.
+    Option 2:
+        Traveler: We want something a little more lucrative.
 Paimon: Yeah. Effendi, are there any high-paying commissions available?
 Effendi: Ah, I see. Let me think... Spantamad recently initiated a research project on the Ley Lines and is looking for paid volunteers.
 Effendi: There are several researchers in Spantamad who specialize in studying Ley Lines, so there is a great demand for Ley Lines data. Researchers often need to enter Domains to investigate Ley Line Disorders.
@@ -15,16 +18,19 @@ Effendi: They have been understaffed for some time, even after recruiting a good
 Effendi: They offer substantial pay, but they also have strict requirements for the quality of the volunteers. Are you interested?
 Traveler: What are the requirements?
 Effendi: Yes, let's walk through the recruitment process... First of all, "are you proficient with one or more types of weapon?"
-Traveler: I'm skilled with one-handed swords.
+    Option 1:
+        Traveler: I'm skilled with one-handed swords.
+    Option 2:
+        Traveler: Actually, I am proficient with all sorts of weapons.
 Effendi: Very good. "How's your understanding of elements? Are you capable of using elemental powers?"
-Traveler: I know a lot about Elemental Reactions.
+    Option 1:
+        Traveler: I know a lot about Elemental Reactions.
+    Option 2:
+        Traveler: I am experienced at using elemental powers in battle.
 Effendi: Alright... I'll put you down as the Traveler, right? Okay, I've finished the registration. I'll be coordinating the necessary supplies and payments for volunteers later.
 Effendi: You'll have to find Gafoor for more details about the job. However, he has an important visitor today, so I don't think he'll be in the Akademiya.
 Effendi: According to the standard protocol for receiving visitors, he will most likely bring the visitor to the Puspa Café. You can go there and talk to him when his time with the visitor has finished.
 Effendi: He sounded like he was in quite the rush to recruit volunteers when he contacted me, but now he's showing a visitor around. Seriously, who could be so important...?
-Traveler: I am experienced at using elemental powers in battle.
-Traveler: Actually, I am proficient with all sorts of weapons.
-Traveler: We want something a little more lucrative.
 
 ## Talk 2
 
@@ -37,7 +43,10 @@ Gafoor: Oh, well it's nothing, really. It's just that ever since you left the Ak
 Gafoor: Cyrus is also disappointed. He's always valued you as a proud disciple.
 Gafoor: To be honest, it's a real shame that you left the Akademiya, Lisa.
 Gafoor: With your wisdom and intellect, had you stayed in the Akademiya, you would have become a Herbad by now.
-Traveler: (It's Lisa!)
+    Option 1:
+        Traveler: (It's Lisa!)
+    Option 2:
+        Traveler: (What is she doing here?)
 Paimon: Hold on... That's Lisa! The librarian Lisa! Our Lisa!
 Paimon: Paimon heard that Lisa had studied at the Akademiya before, but that was a long time ago. What's Lisa doing here now?
 Lisa: If I'm reading the situation right, you're reminiscing about the past to convince me to come back, aren't you?
@@ -51,7 +60,10 @@ Lisa: Our teacher knows exactly why I left the Akademiya after only two years. H
 Lisa: Giving up my life in Mondstadt and returning to the Akademiya as a Spantamad researcher... The price of seeking wisdom is no longer something I'm willing to pay.
 Lisa: So please, don't bother trying to get me to come back.
 Paimon: Wow, so Lisa used to be a Spantamad researcher? Paimon's never heard her mention it before.
-Traveler: Keep your voice down.
+    Option 1:
+        Traveler: Keep your voice down.
+    Option 2:
+        Traveler: Shh, Paimon.
 Lisa: Besides, taking care of a library IS important work. I've never considered it a waste of my time.
 Lisa: "Wisdom is hidden in every corner of the world. Never underestimate wisdom, no matter how small it may appear!" That's what our teacher always said.
 Lisa: A good scholar wouldn't overlook the small details, Gafoor. *sigh* I'm sorry, I'm still not used to calling you "Professor." Nevertheless, the underlying meaning of what you just said is simply wrong.
@@ -64,7 +76,10 @@ Lisa: Well, if it isn't you two.
 Lisa: Long time no see, cutie, Paimon.
 Gafoor: Excuse me, but what business do you two have here?
 Paimon: Uh well, actually, we're here to participate in a research project on Ley Lines for Spantamad! We just finished registering with Effendi.
-Traveler: Which is when we happened to run into you, Lisa.
+    Option 1:
+        Traveler: Which is when we happened to run into you, Lisa.
+    Option 2:
+        Traveler: We didn't want to interrupt your conversation.
 Lisa: A research project on Ley Lines? Oh darling, you haven't joined the Akademiya, have you?
 Traveler: Only as project volunteers.
 Paimon: Right, Effendi told us a research project is looking for paid volunteers. That's what we came to see Gafoor about.
@@ -89,7 +104,10 @@ Lisa: Yes?
 Gafoor: I wish you the best of luck in Mondstadt.
 Lisa: ...Thank you.
 Lisa: Well then, cuties, now that the recruiter is gone, we can sit down and have a good chat.
-Traveler: Recruiter?
+    Option 1:
+        Traveler: Recruiter?
+    Option 2:
+        Traveler: You mean Gafoor?
 Lisa: Hehe, much has been happening within the Akademiya, and Gafoor is paving the way for his future.
 Paimon: By the way, Lisa, what brought you to Sumeru? Are the Knights okay with you being gone?
 Lisa: Of course, Jean gave me an extended paid vacation. It's rare that I get any time off, so I thought to myself, "Why not go on a trip and relax a little?"
@@ -111,10 +129,6 @@ Lisa: I prefer to take things at my own pace when it comes to tiring tasks like 
 Lisa: It's a pity I didn't even have time to visit that child in Gandharva Ville yet. Gafoor found me just after I arrived in Sumeru.
 Lisa: Speaking of which, what about you two? What brings my favorite cuties to Sumeru?
 Black Screen Text: You tell Lisa about all that's happened after coming to Sumeru.
-Traveler: You mean Gafoor?
-Traveler: We didn't want to interrupt your conversation.
-Traveler: Shh, Paimon.
-Traveler: (What is she doing here?)
 
 ## Talk 3
 
@@ -153,10 +167,12 @@ Lisa: I wanted to walk around Sumeru with you, but now doesn't seem like the rig
 ### Additional Talk 4
 
 Lisa: What a pity. It's very rare for us to meet like this.
-Traveler: I'm not that busy.
-Lisa: Oh? Then would you like to spend some time with me, darling? That would be wonderful.
+    Option 1:
+        Traveler: I'm not that busy.
+        Lisa: Oh? Then would you like to spend some time with me, darling? That would be wonderful.
+    Option 2:
+        Traveler: Maybe later.
 Lisa: I plan to spend the next few days visiting around Sumeru City. At the end of my stay, I'll leave from Gandharva Ville and return to Mondstadt via Liyue.
 Lisa: Who knows, perhaps we'll bump into each other again in Sumeru City or Gandharva Ville.
 Lisa: Hmm, come to think of it, there's something romantic about such a chance encounter like this. It's like icing on the cake for this little vacation of mine.
 Lisa: If you see me around, be sure to come and say hello, otherwise I might start feeling lonely, hehe.
-Traveler: Maybe later.

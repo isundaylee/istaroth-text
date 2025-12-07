@@ -8,7 +8,10 @@ Miitoboru: But this boat... does this boat even have a deck? This is a dinghy at
 Miitoboru: Who would've thought that I, the notorious pirate ship commanded by Ako Domeki would one day end up like this.
 Paimon: So you're a big pirate ship? But who's Ako Domeki?
 Miitoboru: What? You don't even know who Ako Domeki is?
-Traveler: Never heard of them.
+    Option 1:
+        Traveler: Never heard of them.
+    Option 2:
+        Traveler: I... may have heard of them?
 Miitoboru: Ako Domeki Zaemon? Defender of Seirai? The name of the most feared pirate ever to sail the seas... *sigh* Who would've thought...
 Paimon: Nope, the name doesn't ring a bell... Alright Miitoboru, you told us to come here, so tell us... What is this all about?
 Miitoboru: It feels so weird being called that all of a sudden. Ugh... You see, as I said, I'm here because I drifted here...
@@ -21,14 +24,15 @@ Paimon: Treasure!
 Miitoboru: I'm a pirate ship after all! Call it a pirate ship's intuition, or some kind of sixth sense — either way, the moment I woke up, I could sense that this area is filled with valuable treasures.
 Miitoboru: You have my word, a pirate ship always finds its treasure, argh! Or may I be blighted with barnacles! What say ye, me hearties — do we have an accord?
 Paimon: #Traveler, let's help Miitoboru. If he finds his body and we get treasure in return, everybody wins!
-Traveler: He had you at "treasure," huh?
+    Option 1:
+        Traveler: He had you at "treasure," huh?
+    Option 2:
+        Traveler: I had a feeling that might swing it for you.
 Paimon: #Hee-hee... Traveler...
 Miitoboru: #So, Traveler... Will you help me, or not?
 Traveler: We'd be delighted.
 Miitoboru: Great! Well, there's a place I wanted to go to as soon as I woke up. Based on my pirate ship's intuition, there's be some big treasure hidden there! Argh! Let's head there and search for it!
 Paimon: Time to set sail!
-Traveler: I had a feeling that might swing it for you.
-Traveler: I... may have heard of them?
 
 ## Talk 2
 
@@ -52,9 +56,14 @@ Paimon: It'd better be! No more playing tricks on us this time!
 Miitoboru: You have my word! ...But, um... the next place is a little far away, and I'm not sure of the precise location. All I know is that... it's somewhere northwest of here...
 Paimon: But there are so many islands in the northwest! You gotta give us a little more than that!
 Paimon: Wait a minute... If you mean one of the larger islands, there are only two of them in the northwest.
-Traveler: The island full of raven statues...
-Miitoboru: Hmm... Now that you mention it, I do sense the cawing of ravens coming from over there...
-Miitoboru: But not just the sound of ravens, no... there be music as well...
+    Option 1:
+        Traveler: The island full of raven statues...
+        Miitoboru: Hmm... Now that you mention it, I do sense the cawing of ravens coming from over there...
+        Miitoboru: But not just the sound of ravens, no... there be music as well...
+    Option 2:
+        Traveler: The island where musical flowers grow...
+        Miitoboru: Musical flowers, hmm? Indeed... among the sounds I'm sensing, I hear music drifting across the sea...
+        Miitoboru: But not just the sound of music, no... there's the non-stop cawing of ravens, too...
 Miitoboru: To be precise, the "cawing" is coming from the east, and the "music" is coming from the southwest.
 Paimon: So you're hearing two sounds? Ugh... where could this darn treasure be...
 Paimon: But where can you hear the sounds from both islands at the same time...?
@@ -64,15 +73,14 @@ Traveler: Excellent work, Paimon.
 Miitoboru: Argh! Then let's go over and take a look! Hahahaha...
 Miitoboru: You know... I must say, it seems you two are quite close.
 Paimon: You bet! We've been on loads of adventures together and found lots of treasure before!
-Traveler: Paimon is the best companion one could ask for!
+    Option 1:
+        Traveler: Paimon is the best companion one could ask for!
+    Option 2:
+        Traveler: Paimon is the best guide in all of Teyvat!
 Miitoboru: Argh... if only I'd been able to speak back when we were sailing on the sea, then maybe I would've been able to communicate with my companions just like you two...
 Miitoboru: You seem to have so much fun together, I'm a little jealous.
 Paimon: Hee-hee...
 Miitoboru: Alright! Time to find the center location of these two big islands!
-Traveler: Paimon is the best guide in all of Teyvat!
-Traveler: The island where musical flowers grow...
-Miitoboru: Musical flowers, hmm? Indeed... among the sounds I'm sensing, I hear music drifting across the sea...
-Miitoboru: But not just the sound of music, no... there's the non-stop cawing of ravens, too...
 
 ## Talk 5
 
@@ -86,12 +94,14 @@ Miitoboru: But not just the sound of music, no... there's the non-stop cawing of
 
 Paimon: Well, surprise, surprise... There's nothing here either, except yet another shipwreck... well, half a shipwreck, anyway.
 Paimon: Was there no treasure this whole time? Um... Oh... But wait, both times Miitoboru thought he was sensing treasure, it turned out to be shipwrecks... Does that mean this is his body!?
-Traveler: Maybe boats have a special platonic bond that draws them together.
-Paimon: What does that mean? ...Ohhh, like they're ship-friends?
+    Option 1:
+        Traveler: Maybe boats have a special platonic bond that draws them together.
+        Paimon: What does that mean? ...Ohhh, like they're ship-friends?
+    Option 2:
+        Traveler: It is possible.
+        Paimon: Huh... Not only did it break into two pieces, but the parts are also completely tattered...
 Paimon: #Hey, Traveler, why don't we take a picture of the boat and show it to Miitoboru...
 Paimon: Then he can confirm whether it's his body or not!
-Traveler: It is possible.
-Paimon: Huh... Not only did it break into two pieces, but the parts are also completely tattered...
 
 ## Talk 8
 
@@ -159,7 +169,10 @@ Paimon: Really? So this is the valuable treasure you were talking about?
 Miitoboru: Ahem, Paimon, you may not be aware, but the mightier the pirate ship, the longer its voyage at sea, you see... Eventually, the only food available onboard is dry fish...
 Miitoboru: At times like this, a couple of bird eggs on a reef nearby can easily become the most valuable treasure to a crew.
 Paimon: Miitoboru...
-Traveler: Your excuses are so lame...
+    Option 1:
+        Traveler: Your excuses are so lame...
+    Option 2:
+        Traveler: That's nonsense.
 Miitoboru: Okay, fine... But how the heck did I end up sensing eggs? How strange...
 Miitoboru: I swear I sensed something!
 Paimon: But there's nothing else on the reef...
@@ -179,7 +192,10 @@ Paimon: We don't know that for sure! Maybe... maybe your body is still in one pi
 Traveler: You mean they're... wood-relatives?
 Paimon: Yup, could share the same roots! Even it's if not, there are loads of shipwrecks around here. These planks probably just belong to one of them.
 Miitoboru: But...
-Traveler: Paimon is right.
+    Option 1:
+        Traveler: Paimon is right.
+    Option 2:
+        Traveler: There are other possibilities.
 Miitoboru: I... *sigh* Thank you, both of you...
 Paimon: By the way, Miitoboru, wasn't there something about your name mentioned in that memory? Do you remember your name now?
 Miitoboru: ...It's a pity, but I'm afraid I didn't see much more than you did. I still can't recall my name...
@@ -192,11 +208,11 @@ Miitoboru: Argh... but I swore there'd be treasure in this deal for you...
 Paimon: Hey, it's okay, Miitoboru... we're friends now!
 Traveler: Friends don't do deals.
 Miitoboru: Well, in that case... Whether it's treasure or not, let's hope you two can find something rather than nothing there.
-Traveler: It's fine either way.
+    Option 1:
+        Traveler: It's fine either way.
+    Option 2:
+        Traveler: Whatever the booty, we'll take it!
 Miitoboru: Haha, good! Let's go to the closer location first!
-Traveler: Whatever the booty, we'll take it!
-Traveler: There are other possibilities.
-Traveler: That's nonsense.
 
 ## Talk 14
 
@@ -209,8 +225,10 @@ Traveler: That's nonsense.
 ## Talk 16
 
 Paimon: Sure enough, no treasure here...
-Traveler: Does that really matter?
-Traveler: Treasure isn't the be-all and end-all...
+    Option 1:
+        Traveler: Does that really matter?
+    Option 2:
+        Traveler: Treasure isn't the be-all and end-all...
 Paimon: Paimon knows that! ...Paimon just can't help feeling a little disappointed, that's all...
 Paimon: There's a wooden sword here. It looks like a children's toy...
 Traveler: Then it's perfect for Paimon.
@@ -228,7 +246,8 @@ Miitoboru: It took all my strength to get here.
 Paimon: Aw, Miitoboru... But what about the wooden sword? What does this have to do with it?
 Miitoboru: Zaemon once seized a sword-wielding Maguu with his barbed spear. The Maguu drifted here with us. The wooden sword was probably crafted by local children, imitating the Maguu's sword...
 Miitoboru: The body of the mighty pirate ship that once fought against the Shogunate, now reduced to a children's toy, of all things... Argh... my mind is awash with strange and complex feelings.
-Paimon: So Miitoboru, should we take this with us? After all... it is a part of you...
+[Missing Dialog 790211422]
+
 Miitoboru: ...No, there's no point taking this now. Hmph, young scallywags... the little landlubbers got me this time!
 Miitoboru: ...*sigh* Although it's disappointing now that I remember the truth, somehow I feel relieved, too... At least I know what happened. I won't be deceiving myself with my wishful thinking any longer.
 Miitoboru: The only thing I'm worried about now is my old mateys who drifted here with me... I wish I could know how they're doing.
@@ -236,10 +255,16 @@ Traveler: I'm sure they'll be fine.
 Miitoboru: Aye, let's hope so... Okay, there's one last place...
 Miitoboru: I can feel it... it's the last piece of my body.
 
+Paimon: So Miitoboru, should we take this with us? After all... it is a part of you...
+[Missing Dialog 790212326]
+
 ## Talk 17
 
 Paimon: Sure enough, no treasure here...
-Traveler: Does that really matter?
+    Option 1:
+        Traveler: Does that really matter?
+    Option 2:
+        Traveler: Treasure isn't the be-all and end-all...
 Paimon: Paimon knows that! ...Paimon just can't help feeling a little disappointed, that's all...
 Paimon: There's a wooden sword here. It looks like a children's toy...
 Traveler: Then it's perfect for Paimon.
@@ -270,7 +295,6 @@ Miitoboru: The only thing I'm worried about now is my old mateys who drifted her
 Traveler: I'm sure they'll be fine.
 Miitoboru: Aye, let's hope so... Okay, there's one last place...
 Miitoboru: I can feel it... it's the last piece of my body.
-Traveler: Treasure isn't the be-all and end-all...
 
 ## Talk 18
 
@@ -281,13 +305,15 @@ Traveler: Treasure isn't the be-all and end-all...
 Paimon: There are a lot of wooden planks on this conch house... But they don't look like what we're after...
 Paimon: Oh! Could it be the one on the stone?
 Paimon: What is it, though? A board nailed onto two wooden strips, with a wooden mallet next to it...
-Traveler: This is a musical instrument...
+    Option 1:
+        Traveler: This is a musical instrument...
+    Option 2:
+        Traveler: I think you hit the wooden strips with the mallet...
 Paimon: This? Is a musical instrument? Can it really make a decent sound?
 Paimon: #Traveler, why don't we try it out first before giving it to Miitoboru?
 Paimon (The Wooden Instrument): (The intact wood strips made a cool and crisp sound, while the damaged wood strips only made a muffled, heavy sound like ordinary wood...)
 Paimon: Paimon's pretty sure this instrument hasn't been repaired in a looong time...
 Paimon: #Well, Traveler, this must be the last fragment of Miitoboru's body. Come on, let's go tell him!
-Traveler: I think you hit the wooden strips with the mallet...
 
 ## Talk 20
 
@@ -312,16 +338,20 @@ Miitoboru: Ah... It gladdens my heart to know that they are safe, but I... Even 
 Miitoboru: Oh, how I wish we had returned together. With them, I would have been willing to go anywhere, no matter how dangerous...
 Miitoboru: There are so many grand adventures for us to go on, so many treasures out there in the world, waiting for us to discover them.
 Miitoboru: Why did I have to be left here, abandoned like this? I could do nothing but watch them leave and embark on a new journey... without me.
-Traveler: That's how partings go, I guess...
-Miitoboru: Aye... I still feel the sadness now that I remember it, even after all this time.
+    Option 1:
+        Traveler: That's how partings go, I guess...
+        Miitoboru: Aye... I still feel the sadness now that I remember it, even after all this time.
+    Option 2:
+        Traveler: But they said goodbye to you with a smile...
+        Miitoboru: Laugh when you feel like crying, and press on when you feel like giving up. That's how you survive out on the ocean.
 Miitoboru: Anyway, thank you for helping me remember all of this, thank you kindly. I'm afraid, though, that they seem to have taken most of the treasure with them when they left...
-Traveler: It doesn't matter.
+    Option 1:
+        Traveler: It doesn't matter.
+    Option 2:
+        Traveler: Finding your memory is the most important thing.
 Paimon: Yeah! In a way, all the things you sensed really were invaluable treasures — to you, at least!
 Miitoboru: Aye, it's true. Tis a shame I can't repay your kindness... As a ship, there's only so much I can do...
 Miitoboru: But, um... In the future, if I ever need your help again...
 Paimon: #We'll be here for you whenever you need us, Miitoboru! Right, Traveler?
 Traveler: Of course!
 Miitoboru: Fantastic, thank you both! And if you ever voyage in these seas again, I will be your trusty companion!
-Traveler: Finding your memory is the most important thing.
-Traveler: But they said goodbye to you with a smile...
-Miitoboru: Laugh when you feel like crying, and press on when you feel like giving up. That's how you survive out on the ocean.

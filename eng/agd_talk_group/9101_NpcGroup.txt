@@ -14,7 +14,10 @@ Ajaw: Really, Kinich? Man, you have low standards.
 Ajaw: Don't get me wrong, it's quite impressive for a basic slum. But it's a far cry from the Nation of Flame when I was the ruler.
 Ajaw: Back then, I had a grand castle at the highest point in the nation, with an endless stream of worshipers coming to pay tribute to the Almighty Dragonlord, K'uhul Ajaw.
 Ajaw: You could not fathom the gifts they would bring... Fine wine made from the freshest red fruits, opulent chests full of treasure... And that was the bare minimum!
-Traveler: Very impressive.
+    Option 1:
+        Traveler: Very impressive.
+    Option 2:
+        Traveler: This must be quite the humble change of pace.
 Kinich: You'd think that as an almighty dragonlord and supreme ruler, you'd know how to be a good guest as well as a good host.
 Ajaw: Hmph...
 Kinich: Thank you for inviting me here.
@@ -27,7 +30,6 @@ Traveler: This is kinda sudden. I've got nothing in mind...
 Kinich: Fair enough... Then let's just say, I owe you one for now.
 Kinich: Let me know once you've thought of something.
 Kinich: And of course, in the unlikely event that the price isn't right, I'll tell you right away.
-Traveler: This must be quite the humble change of pace.
 
 ## Talk 2
 
@@ -39,27 +41,31 @@ Kinich: But you don't look like you're in a bind or anything... Maybe just a reg
 Traveler: I'd like to hear about your Saurian hunts.
 Kinich: That won't exactly be a fun and light-hearted conversation.
 Ajaw: #Aw, what's wrong, Kinich? Don't want your friend to know what a cruel hunter you really are? Scared the gory details will keep him up at night?
-Traveler: I'll be fine.
+    Option 1:
+        Traveler: I'll be fine.
+    Option 2:
+        Traveler: Hmm... Mind if we skip the gruesome bits?
 Kinich: Don't listen to Ajaw. It's nothing that terrifying.
 Kinich: Saurians are our companions. But if the Abyss corrupts them beyond redemption, or people lead them astray...
 Kinich: Then someone has to step up, and end their lives before they do any more harm.
 Kinich: Any wild beast will fight savagely when it's backed into a corner, let alone a fierce Saurian.
 Kinich: So, I usually start by using poison arrows to dull the target's senses, then lure it into a trap to immobilize it. Once it's incapacitated, I head in and finish the job.
-Traveler: Sounds like dangerous work...
-Kinich: I won't deny that, but even "danger" can be tamed with enough experience and preparation.
-Kinich: If you're interested in Saurian-hunting, I'll let you know the next time I receive a suitable commission.
-Kinich: We can pick poisonous berries, set some traps together... And you'll get your share of the reward, too.
-Traveler: So what was the toughest Saurian you ever had to deal with?
-Kinich: Ajaw.
-Ajaw: Excuse me? How dare you mock me to my face! You big-mouthed bipedal bug!
-Kinich: Greed and conceit are common vices of evil dragons. They're easy ones to exploit.
-Kinich: And the big, lumbering types have more strength than coordination. As long as you're agile enough, you just keep dodging their attacks until you find an opening.
-Kinich: But Ajaw's unique — not only evil and powerful, but clear-minded too. It's an extremely rare combination.
-Ajaw: Hah, so NOW you try and sing my praises? Well, if you're looking to curry favor, it won't work. The Almighty Dragonlord wasn't born yesterday!
-Kinich: Scratch my last statement. If you really were clear-minded, you'd know none of that was meant as a compliment.
-Ajaw: Aw, don't be shy! How many times do I need to tell you? Bottom-feeders like you have a valuable role to play — you give the almighty dragonlord something to look down on from the top of the food chain! So please, fawn away!
-Kinich: *sigh*... So yeah. You see what I have to deal with?
-Traveler: Hmm... Mind if we skip the gruesome bits?
+    Option 1:
+        Traveler: Sounds like dangerous work...
+        Kinich: I won't deny that, but even "danger" can be tamed with enough experience and preparation.
+        Kinich: If you're interested in Saurian-hunting, I'll let you know the next time I receive a suitable commission.
+        Kinich: We can pick poisonous berries, set some traps together... And you'll get your share of the reward, too.
+    Option 2:
+        Traveler: So what was the toughest Saurian you ever had to deal with?
+        Kinich: Ajaw.
+        Ajaw: Excuse me? How dare you mock me to my face! You big-mouthed bipedal bug!
+        Kinich: Greed and conceit are common vices of evil dragons. They're easy ones to exploit.
+        Kinich: And the big, lumbering types have more strength than coordination. As long as you're agile enough, you just keep dodging their attacks until you find an opening.
+        Kinich: But Ajaw's unique — not only evil and powerful, but clear-minded too. It's an extremely rare combination.
+        Ajaw: Hah, so NOW you try and sing my praises? Well, if you're looking to curry favor, it won't work. The Almighty Dragonlord wasn't born yesterday!
+        Kinich: Scratch my last statement. If you really were clear-minded, you'd know none of that was meant as a compliment.
+        Ajaw: Aw, don't be shy! How many times do I need to tell you? Bottom-feeders like you have a valuable role to play — you give the almighty dragonlord something to look down on from the top of the food chain! So please, fawn away!
+        Kinich: *sigh*... So yeah. You see what I have to deal with?
 
 ## Talk 3
 
@@ -67,8 +73,12 @@ Traveler: Anything you want to do?
 Kinich: Up to you. I have no current jobs, so I'm down for whatever.
 Kinich: Would you like something to drink? Some Quenepa and Cacahuatl Juice, perhaps?
 Ajaw: Whoa! Hey, me first! Gimme some of that! Gimme gimme gimme!
-Traveler: And how much will this "cost" me?
-Kinich: Heh. This one's free.
+    Option 1:
+        Traveler: And how much will this "cost" me?
+        Kinich: Heh. This one's free.
+    Option 2:
+        Traveler: What's that?
+        Kinich: A phlogiston juice blend that I created myself.
 Kinich: In Natlan, Cacahuatl is mainly used to make chocolate and a beverage called Xocoatl. The most valuable part of the plant is the fermented seeds.
 Kinich: But everything has its use. The white fleshy part can be pressed to extract the juice, which makes a delicious drink when mixed with the right ingredients.
 Ajaw: Are you done with the backstory? Gimme my juice, already! I can't wait any longer!
@@ -81,8 +91,6 @@ Kinich: Not that you'd understand that, because you can't tell one cup of juice 
 Ajaw: You little...!
 Traveler: Well... Your explanation's made me curious, that's for sure!
 Kinich: In that case, two cups of the juice, coming right up.
-Traveler: What's that?
-Kinich: A phlogiston juice blend that I created myself.
 
 ## Talk 4
 
@@ -106,7 +114,10 @@ Ajaw: Really, Kinich? Man, you have low standards.
 Ajaw: Don't get me wrong, it's quite impressive for a basic slum. But it's a far cry from the Nation of Flame when I was the ruler.
 Ajaw: Back then, I had a grand castle at the highest point in the nation, with an endless stream of worshipers coming to pay tribute to the Almighty Dragonlord, K'uhul Ajaw.
 Ajaw: You could not fathom the gifts they would bring... Fine wine made from the freshest red fruits, opulent chests full of treasure... And that was the bare minimum!
-Traveler: Very impressive.
+    Option 1:
+        Traveler: Very impressive.
+    Option 2:
+        Traveler: This must be quite the humble change of pace.
 Kinich: You'd think that as an almighty dragonlord and supreme ruler, you'd know how to be a good guest as well as a good host.
 Ajaw: Hmph...
 Kinich: Thank you for inviting me here.
@@ -119,7 +130,6 @@ Traveler: This is kinda sudden. I've got nothing in mind...
 Kinich: Fair enough... Then let's just say, I owe you one for now.
 Kinich: Let me know once you've thought of something.
 Kinich: And of course, in the unlikely event that the price isn't right, I'll tell you right away.
-Traveler: This must be quite the humble change of pace.
 
 ## Talk 7
 
@@ -131,27 +141,31 @@ Kinich: But you don't look like you're in a bind or anything... Maybe just a reg
 Traveler: I'd like to hear about your Saurian hunts.
 Kinich: That won't exactly be a fun and light-hearted conversation.
 Ajaw: #Aw, what's wrong, Kinich? Don't want your friend to know what a cruel hunter you really are? Scared the gory details will keep him up at night?
-Traveler: I'll be fine.
+    Option 1:
+        Traveler: I'll be fine.
+    Option 2:
+        Traveler: Hmm... Mind if we skip the gruesome bits?
 Kinich: Don't listen to Ajaw. It's nothing that terrifying.
 Kinich: Saurians are our companions. But if the Abyss corrupts them beyond redemption, or people lead them astray...
 Kinich: Then someone has to step up, and end their lives before they do any more harm.
 Kinich: Any wild beast will fight savagely when it's backed into a corner, let alone a fierce Saurian.
 Kinich: So, I usually start by using poison arrows to dull the target's senses, then lure it into a trap to immobilize it. Once it's incapacitated, I head in and finish the job.
-Traveler: Sounds like dangerous work...
-Kinich: I won't deny that, but even "danger" can be tamed with enough experience and preparation.
-Kinich: If you're interested in Saurian-hunting, I'll let you know the next time I receive a suitable commission.
-Kinich: We can pick poisonous berries, set some traps together... And you'll get your share of the reward, too.
-Traveler: So what was the toughest Saurian you ever had to deal with?
-Kinich: Ajaw.
-Ajaw: Excuse me? How dare you mock me to my face! You big-mouthed bipedal bug!
-Kinich: Greed and conceit are common vices of evil dragons. They're easy ones to exploit.
-Kinich: And the big, lumbering types have more strength than coordination. As long as you're agile enough, you just keep dodging their attacks until you find an opening.
-Kinich: But Ajaw's unique — not only evil and powerful, but clear-minded too. It's an extremely rare combination.
-Ajaw: Hah, so NOW you try and sing my praises? Well, if you're looking to curry favor, it won't work. The Almighty Dragonlord wasn't born yesterday!
-Kinich: Scratch my last statement. If you really were clear-minded, you'd know none of that was meant as a compliment.
-Ajaw: Aw, don't be shy! How many times do I need to tell you? Bottom-feeders like you have a valuable role to play — you give the almighty dragonlord something to look down on from the top of the food chain! So please, fawn away!
-Kinich: *sigh*... So yeah. You see what I have to deal with?
-Traveler: Hmm... Mind if we skip the gruesome bits?
+    Option 1:
+        Traveler: Sounds like dangerous work...
+        Kinich: I won't deny that, but even "danger" can be tamed with enough experience and preparation.
+        Kinich: If you're interested in Saurian-hunting, I'll let you know the next time I receive a suitable commission.
+        Kinich: We can pick poisonous berries, set some traps together... And you'll get your share of the reward, too.
+    Option 2:
+        Traveler: So what was the toughest Saurian you ever had to deal with?
+        Kinich: Ajaw.
+        Ajaw: Excuse me? How dare you mock me to my face! You big-mouthed bipedal bug!
+        Kinich: Greed and conceit are common vices of evil dragons. They're easy ones to exploit.
+        Kinich: And the big, lumbering types have more strength than coordination. As long as you're agile enough, you just keep dodging their attacks until you find an opening.
+        Kinich: But Ajaw's unique — not only evil and powerful, but clear-minded too. It's an extremely rare combination.
+        Ajaw: Hah, so NOW you try and sing my praises? Well, if you're looking to curry favor, it won't work. The Almighty Dragonlord wasn't born yesterday!
+        Kinich: Scratch my last statement. If you really were clear-minded, you'd know none of that was meant as a compliment.
+        Ajaw: Aw, don't be shy! How many times do I need to tell you? Bottom-feeders like you have a valuable role to play — you give the almighty dragonlord something to look down on from the top of the food chain! So please, fawn away!
+        Kinich: *sigh*... So yeah. You see what I have to deal with?
 
 ## Talk 8
 
@@ -159,8 +173,12 @@ Traveler: Anything you want to do?
 Kinich: Up to you. I have no current jobs, so I'm down for whatever.
 Kinich: Would you like something to drink? Some Quenepa and Cacahuatl Juice, perhaps?
 Ajaw: Whoa! Hey, me first! Gimme some of that! Gimme gimme gimme!
-Traveler: And how much will this "cost" me?
-Kinich: Heh. This one's free.
+    Option 1:
+        Traveler: And how much will this "cost" me?
+        Kinich: Heh. This one's free.
+    Option 2:
+        Traveler: What's that?
+        Kinich: A phlogiston juice blend that I created myself.
 Kinich: In Natlan, Cacahuatl is mainly used to make chocolate and a beverage called Xocoatl. The most valuable part of the plant is the fermented seeds.
 Kinich: But everything has its use. The white fleshy part can be pressed to extract the juice, which makes a delicious drink when mixed with the right ingredients.
 Ajaw: Are you done with the backstory? Gimme my juice, already! I can't wait any longer!
@@ -173,8 +191,6 @@ Kinich: Not that you'd understand that, because you can't tell one cup of juice 
 Ajaw: You little...!
 Traveler: Well... Your explanation's made me curious, that's for sure!
 Kinich: In that case, two cups of the juice, coming right up.
-Traveler: What's that?
-Kinich: A phlogiston juice blend that I created myself.
 
 ## Talk 9
 

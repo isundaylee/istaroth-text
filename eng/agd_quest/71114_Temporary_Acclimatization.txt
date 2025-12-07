@@ -19,20 +19,25 @@ Traveler: So, about the favor you'd like to ask of us...
 Woliu: Ah, that... Well, it's really a small thing. I'd like to request that you help me place these monitoring instruments on that mountain.
 Woliu: I have just ordered these mechanical instruments from Fontaine. Once placed, they will continuously bore down through the earth until they've obtained the deep soil samples that I require.
 Woliu: With those samples, I'll be able to measure the influence the local hydrology has had on the soil quality of the nearby mountains.
-Traveler: That sounds straightforward enough.
+    Option 1:
+        Traveler: That sounds straightforward enough.
+    Option 2:
+        Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.
 Woliu: If that's... what you think. I've been meaning to hire a few adventurers for the task, but no one has accepted my commission so far, and I've heard that there are a lot of Treasure Hoarders in the area...
 Woliu: But judging from your looks, you're not at all scared of those bullies, are you?
-Traveler: Just leave them to me.
+    Option 1:
+        Traveler: Just leave them to me.
+    Option 2:
+        Traveler: If they're smart, they should be scared of me.
 Woliu: Then, I leave the placement of the instruments to you. All you need is to place them on the nearby hill.
 Woliu: I still need to stay here to adjust some more instruments. Just come back to me once you've placed the batch that I've given you.
-Traveler: If they're smart, they should be scared of me.
-Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.
 
 ## Talk 2
 
 Woliu: Hmm... It should be over this way. The scenery here is quite excellent, so we can take our time.
 Woliu: A lot of professional photographers came here to record the scenery during the "Our Chenyu Vale Trek" photography competition not too long ago.
 Woliu: You'll be able to get a great view of the surrounding vistas from on top of the bridge.
+[Missing Dialog 711149923]
 
 ## Talk 3
 
@@ -70,7 +75,6 @@ Woliu: Come this way. That drawbridge isn't far from here.
 
 ## Talk 8
 
-Black Screen Text: After chasing away the Treasure Hoarders, you bring the people they cornered to a nearby pavilion to catch their breath.
 Ms. Qiu: Thank you, I really don't know how to express my gratitude...
 Traveler: You are... Ms. Qiu?
 Ms. Qiu: #Ah... It's you, Traveler! Well, fancy running into you again! This is really... This is the second time that you've done me such a huge favor!
@@ -87,8 +91,10 @@ Ms. Qiu: So! I made the executive decision to put a pause on our studies and com
 Yifeng: ...Well, and because we'd just about run out of funds.
 Ms. Qiu: H—Hey, haven't I told you about my plan already? As long as this documentary becomes a smash hit, we'll make our investment back in no time.
 Yifeng: #Well, and then we found ourselves cornered by Treasure Hoarders on a drawbridge. Thankfully, the great Traveler came to save us.
-Traveler: Isn't this place... a bit far from Qiaoying Village?
-Traveler: But why are you here if you want to photograph Qiaoying Village?
+    Option 1:
+        Traveler: Isn't this place... a bit far from Qiaoying Village?
+    Option 2:
+        Traveler: But why are you here if you want to photograph Qiaoying Village?
 Ms. Qiu: *sigh* Well, I wanted to get some majestic shots of the scenery, so the film would look a bit more imposing...
 Ms. Qiu: But we got a bit too distracted while shooting and caught the attention of those Treasure Hoarders. We fled all the way here but were still cornered by them in the end...
 Paimon: Wait, so the "pro photographers" Woliu mentioned earlier were...
@@ -112,10 +118,15 @@ Woliu: Anyway, let me give you your reward. I'll go place my final instrument sh
 Woliu: I've got to find her fast, or she'll probably be off archon-knows-where again, shooting her film.
 Woliu: Hmm, I suppose she did just say that she can be found at Qiaoying Village. I'll just go check that out later.
 
+Black Screen Text: After chasing away the Treasure Hoarders, you bring the people they cornered to a nearby pavilion to catch their breath.
+
 ## Talk 9
 
 Ms. Qiu: *sigh* Maybe we should've grabbed the Qiaoying Village shots first after all...
-Traveler: Is everything okay?
+    Option 1:
+        Traveler: Is everything okay?
+    Option 2:
+        Traveler: Looks like you didn't lose any equipment, at least.
 Ms. Qiu: #Ah, Traveler, Paimon! Thanks to you, we were able to save all of our stuff.
 Ms. Qiu: I suppose, though, that if we were to ever return to that area in the future, we shall have to bring a few adventurers with us.
 Paimon: So, um, about your feature film on tea... How is the shooting for that going?
@@ -136,7 +147,6 @@ Ms. Qiu: Yifeng, Xingye, make sure you get the best angle for our lighting! We'r
 Xingye: But Boss, we don't even have any actors here with us...
 Yifeng: Isn't it all up to chance whether or not we can grab a scenery shot in one take...?
 Ms. Qiu: J—Just hurry up and set up the equipment! And then wait here!
-Traveler: Looks like you didn't lose any equipment, at least.
 
 ## Additional Conversations
 

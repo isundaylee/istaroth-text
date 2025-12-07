@@ -20,8 +20,12 @@ Paimon: Guys, guys... why so serious? That ain't rock 'n' roll, man.
 Arataki Itto: Hey, look at that! My favorite melon's a fast learner! Also, I hear you're gonna be taking the stage tonight! Itching for a little competition, huh?
 Paimon: Uhh... Paimon was just joking! ...Gah, seriously, Dvorak? Unbelievable...
 Arataki Itto: Getting cold feet? Don't blame you. I am the reigning champion of The Great Singalong, after all.
-Traveler: Oh, Paimon. Backing down from a challenge ain't very rock 'n' roll.
-Paimon: What— Paimon is too rock 'n' roll! Paimon was just being humble!
+    Option 1:
+        Traveler: Oh, Paimon. Backing down from a challenge ain't very rock 'n' roll.
+        Paimon: What— Paimon is too rock 'n' roll! Paimon was just being humble!
+    Option 2:
+        Traveler: Come on, Paimon. You can beat Itto!
+        Paimon: Oh, ya think so? 'Cause Paimon totally thinks so too.
 Arataki Itto: Then bring it on.
 Paimon: Oh, Paimon's bringin' it alright! Paimon's bringin' it all the way home! Hmph!
 Traveler: Oh by the way — did you ever find that dog?
@@ -39,8 +43,6 @@ Arataki Itto: Hahahahaha! Game on, Mini Melon!
 Paimon: Paimon better get some practice in at the Jam Zone soon. No way is Paimon gonna lose to Itto!
 Kuki Shinobu: By the way, we invited a ton of people this time, including some people you know. A few have already shown up, and they're asking about you — wanna go say hi?
 Paimon: Cool! Yeah, let's go see them! Paimon's curious to find out who you invited.
-Traveler: Come on, Paimon. You can beat Itto!
-Paimon: Oh, ya think so? 'Cause Paimon totally thinks so too.
 
 ## Talk 4
 
@@ -66,13 +68,15 @@ Gorou: Yes, of course... Um, ahem, actually, I was hoping to ask for your opinio
 Traveler: Sure, what is it?
 Gorou: Does Ms. Hina look familiar to you at all? I have this strange feeling like I've seen her somewhere before...
 Paimon: Oh... Umm...
-Traveler: I feel like I've met her before... but...
-Gorou: But you don't remember where?
+    Option 1:
+        Traveler: I feel like I've met her before... but...
+        Gorou: But you don't remember where?
+    Option 2:
+        Traveler: ...Nope, sorry. Doesn't ring any bells.
+        Gorou: Hmm. Maybe it's just me...
 Paimon: #Eh, she probably just looks similar to someone you know. Like how Traveler looks similar to his sister! There's no mystery here. Don't overthink it.
 Gorou: I see... That does make sense...
 Paimon: #Traveler, let's get outta here...
-Traveler: ...Nope, sorry. Doesn't ring any bells.
-Gorou: Hmm. Maybe it's just me...
 
 ## Talk 5
 
@@ -166,7 +170,6 @@ Dvorak: Take it away!
 
 ## Talk 9
 
-Black Screen Text: The time flies by, and night soon falls...
 Dvorak: Ladies and gentlemen!
 Dvorak: Tonight is a night to celebrate, and I trust you're all having a wonderful time!
 Dvorak: It's been a non-stop rock 'n' roll ride this evening, and we're almost at the end. But first, it is my huge honor to invite two very special guests to the stage...
@@ -176,13 +179,15 @@ Dvorak: The two of them will be performing a brand-new song written specially fo
 Dvorak: "I Got Reincarnated as an Onikabuto... And Flipped the World Upside Down"!
 Dvorak: Take it away!
 
+Black Screen Text: The time flies by, and night soon falls...
+[Missing Dialog 401589921]
+
 ## Talk 10
 
 [Missing Talk]: Talk 4015804 could not be retrieved
 
 ## Talk 11
 
-Black Screen Text: After an exhilarating song to end the night, many people begin to leave...
 Yoimiya: So that's rock music, huh? It's a little different than I imagined.
 Thoma: Really? It's different from what I'd heard before... Could be a relatively new genre of rock, I suppose.
 Arataki Itto: So, how'd you like my performance? Did I dominate this lil' melon here or what? Hahahahaha!
@@ -191,18 +196,22 @@ Yoimiya: Oh, stop it, you two. I think both of you were sensational!
 Thoma: Hear, hear! Really mind-blowing stuff, guys.
 Kuki Shinobu: I call it a draw. You're very evenly matched.
 Arataki Itto: Oh, you think? Okay, well what about you, my compadre? Who do you think is the most rock 'n' roll?
-Traveler: Itto.
-Traveler: Paimon.
-Traveler: You're both rockstars.
-Traveler: Anyway, what nice weather we've been having lately!
-Arataki Itto: Hahahahaha! That's right, compadre you tell 'em. Behold the majesty of the Rock 'N' Roll King of Hanamizaka!
-Paimon: Argh! Traitor! That's it, Paimon's not talking to you for the next minute!
-Paimon: #Hehehe, Traveler's always got Paimon's back! Take that, Bull-Chucker! Hah!
-Arataki Itto: #Huh? Oh, my gullible little melon. You don't really believe that do you? He just didn't wanna hurt your feelings!
-Paimon: Hmm... Really? Do you really think that?
-Arataki Itto: Ah, fine... My compadre wouldn't lie to me. I can handle the truth...
-Arataki Itto: *sigh*... Rock on, Mini Melon... Rock on.
-Arataki Itto: Hey, don't try to change the subject!
+    Option 1:
+        Traveler: Itto.
+        Arataki Itto: Hahahahaha! That's right, compadre you tell 'em. Behold the majesty of the Rock 'N' Roll King of Hanamizaka!
+        Paimon: Argh! Traitor! That's it, Paimon's not talking to you for the next minute!
+    Option 2:
+        Traveler: Paimon.
+        Paimon: #Hehehe, Traveler's always got Paimon's back! Take that, Bull-Chucker! Hah!
+        Arataki Itto: #Huh? Oh, my gullible little melon. You don't really believe that do you? He just didn't wanna hurt your feelings!
+    Option 3:
+        Traveler: You're both rockstars.
+        Paimon: Hmm... Really? Do you really think that?
+        Arataki Itto: Ah, fine... My compadre wouldn't lie to me. I can handle the truth...
+        Arataki Itto: *sigh*... Rock on, Mini Melon... Rock on.
+    Option 4:
+        Traveler: Anyway, what nice weather we've been having lately!
+        Arataki Itto: Hey, don't try to change the subject!
 Dvorak: Haha, let's not argue anymore, shall we? Itto and Paimon, you both gave incredibly moving performances...
 Dvorak: I owe you all an enormous debt of gratitude. Without your help, this music festival never would've happened.
 Arataki Itto: Don't mention it, Jack-Attack! Hey, if we hadn't met, I wouldn't even know what the spirit of rock 'n' roll means!
@@ -230,6 +239,9 @@ Dvorak: Itto, what can I say... It's truly been an honor to work with you.
 Arataki Itto: #Hahahahaha! Well, Jack-Attack, I can't take all the credit — let's not forget Traveler's part in all this!
 Arataki Itto: #A lot of people only showed up because they knew he'd be here. If we do this again, we gotta make sure we find a way to get him on stage.
 Arataki Itto: How's that sound, compadre? Get that rock 'n' roll spirit ready, 'cause next time, it'll be your turn to rock our collective socks off!
+
+Black Screen Text: After an exhilarating song to end the night, many people begin to leave...
+[Missing Dialog 401589931]
 
 ## Talk 12
 

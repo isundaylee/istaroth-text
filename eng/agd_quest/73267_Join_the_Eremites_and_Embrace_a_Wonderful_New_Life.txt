@@ -62,7 +62,10 @@ Ayten: I've been working out this whole time, and I've even been training with K
 Karima: That one time doesn't count! It was because I didn't eat enough for lunch that day!
 Ayten: ...Anyway, I've been following the training plan you gave me...
 Ayten: So let me take the test again! Let's see if I'm good enough to join the Eremites!
-Traveler: Ah, so this is what you meant by...
+    Option 1:
+        Traveler: Ah, so this is what you meant by...
+    Option 2:
+        Traveler: ...Someone who wants to join?
 Atiyah: Ahem! Alright then, Ayten. As a member of the Eremites, I will conduct the test once again!
 Ayten: Alright! C'mon, Karima, you join in too. Let's do this together!
 Karima: But I don't wanna join the Eremites... I just want to stay here in the village and protect everyone...
@@ -73,8 +76,13 @@ Atiyah: Alright, Ayten, stop pouting. If we get the chance, I'll bring you to go
 Ayten: Really!? You'd do that?
 Atiyah: We Eremites don't lie, kiddo.
 Atiyah: But before we begin the test, let's have this traveler show us the expected standards.
-Traveler: Wait, I'm involved in this now?
-Atiyah: ...I haven't had the chance to do any demonstrations before. I couldn't just run around doing those and leave these kids here by themselves. That would be too dangerous... Anyway, thanks for your help, Traveler.
+    Option 1:
+        Traveler: Wait, I'm involved in this now?
+        Atiyah: ...I haven't had the chance to do any demonstrations before. I couldn't just run around doing those and leave these kids here by themselves. That would be too dangerous... Anyway, thanks for your help, Traveler.
+    Option 2:
+        Traveler: Don't you usually do the demonstrations?
+        Atiyah: Oh, come on, do I look like I had time to demonstrate between my job and looking out for these kids?
+        Atiyah: I'm counting on you, Traveler.
 Atiyah: #*cough* Anyway, our Traveler here's a very capable adventurer. I had to do a lot to get him to come and give you a demonstration.
 Atiyah: Better watch carefully now.
 Ayten: Alright!
@@ -83,10 +91,6 @@ Atiyah: No matter whether you're a mercenary or a guard, you will always wind up
 Atiyah: When that happens, we often live by the principle that the quicker we can get away, the better.
 Atiyah: Thank you, Traveler. Now, let us quickly demonstrate... How to make a swift retreat!
 Atiyah: Here's our starting point. Now then, please demonstrate.
-Traveler: Don't you usually do the demonstrations?
-Atiyah: Oh, come on, do I look like I had time to demonstrate between my job and looking out for these kids?
-Atiyah: I'm counting on you, Traveler.
-Traveler: ...Someone who wants to join?
 
 ## Talk 6
 
@@ -106,16 +110,20 @@ Ayten: Ooh, awesome! My dad carved me a wooden sword that I carry with me. What 
 Karima: I do have a small bow, though my mother only gave me arrows without tips...
 Atiyah: Hahaha! That's alright! You have a sword and a bow, and your boundless courage. That's all anyone really needs to begin their adventures.
 Atiyah: But remember not to run around aimlessly when you're outside the village. Stick with me and the Traveler at all times.
-Traveler: You're really taking them outside the village?
+    Option 1:
+        Traveler: You're really taking them outside the village?
+    Option 2:
+        Traveler: We're going out with two kids in tow...
 Atiyah: Oh, don't you worry. I've scouted that area beforehand. There's just a bunch of sickly scorpions out there. They barely retain any offensive capabilities, so we should be alright.
 Atiyah: And whatever happens, the two of us will be there!
-Traveler: So you're counting me in now?
+    Option 1:
+        Traveler: So you're counting me in now?
+    Option 2:
+        Traveler: I don't remember agreeing to this...
 Atiyah: Oh, come on, we're already here. You know, "in for one Mora, in for a thousand" and such! I'll make sure to pay you according to the Guild's regulations!
 Atiyah: Well, buckle up, kids. We're heading off!
 Ayten: Woohoo!
 Karima: I must admit... I'm a bit nervous.
-Traveler: I don't remember agreeing to this...
-Traveler: We're going out with two kids in tow...
 
 ## Talk 8
 
@@ -126,14 +134,20 @@ Traveler: We're going out with two kids in tow...
 Ayten: Those scorpions are huge! Uh, should we really get any closer to them?
 Karima: I shot them with my bow, but they didn't even flinch...
 Karima: But you... you defeated them so easily...
-Traveler: Well, that's many years of training for you.
+    Option 1:
+        Traveler: Well, that's many years of training for you.
+    Option 2:
+        Traveler: You two are still young.
 Karima: But... Miss Candace said I'd improved...
 Atiyah: Chin up, Karima! You'll become strong eventually — but you've got to take it all one day at a time.
 Atiyah: You too, Ayten. If you keep training hard like this, it's only a matter of time before we'll let you in.
 Ayten: Ohh, if only I could get Miss Dehya to teach me...
 Karima: The next time I see Miss Candace, I'll get her to teach me more!
 Atiyah: Hahaha! That's the spirit!
-Traveler: And in the end, you didn't get anyone to join.
+    Option 1:
+        Traveler: And in the end, you didn't get anyone to join.
+    Option 2:
+        Traveler: What about your job, then?
 Atiyah: *cough* Hey now, didn't they ever tell you not to harp on a man's private woes?
 Atiyah: We can talk about work later... and it's not as if my advertising has had no effect at all.
 Atiyah: Lots of young men and women have left the village to see the outside world after hearing what I had to say... even if they didn't really want to join us.
@@ -142,5 +156,3 @@ Atiyah: Here's a little something for you, by the way. Thanks for coming all the
 Atiyah: *sigh* Now, how am I going to explain this to the rest of the Eremites when I go back for a debriefing...
 Ayten: Uh, Uncle Atiyah, you haven't given us our tests yet.
 Atiyah: That so? Ah, yes... yes. Let's go back to the village first, and then we'll do the test there.
-Traveler: What about your job, then?
-Traveler: You two are still young.

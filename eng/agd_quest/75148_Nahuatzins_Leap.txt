@@ -10,6 +10,7 @@
 ## Talk 2
 
 Paimon: Huh, that Qucusaurus... Paimon didn't believe it when those tribespeople said Qucusaurs were stealing statues from the ruins, but it looks like it's true...
+
 Paimon: Whoa... Did it just... Did it jump into the crater?
 
 ## Talk 3
@@ -20,15 +21,17 @@ Paimon: That's gotta be the volcano's mouth, right? What a view...
 Paimon: Hmm... When we asked for directions earlier, weren't we told that there's a ton of gaseous phlogiston in the volcano's mouth?
 Paimon: Oh wait, that's right! We can *find a way to pass through gaseous phlogiston*, just like the Qucusaurus from back there!
 Paimon: But, uh... *gulp* Kinda high up, aren't we?
-Traveler: Don't you worry, Paimon, I'll carry you.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Err, you wanna go in too? Well... Ugh, alright. I—If that's the case, Paimon's not that scared anymore.
+    Option 1:
+        Traveler: Don't you worry, Paimon, I'll carry you.
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Paimon: Err, you wanna go in too? Well... Ugh, alright. I—If that's the case, Paimon's not that scared anymore.
+    Option 2:
+        Traveler: As long as you grab me just as we land...
+        Paimon: Ugh, Paimon couldn't do that! Never mind the strength problem — think about the timing!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Paimon: And you too! Stop "rawring" along with this craziness! *sigh* ...Y'know what, now you two've gone and killed all the tension!
 Paimon: And it's not just that we're high up — don't forget about the gaseous phlogiston!
 Paimon: A—Anyway, let's make sure we're all set before we go!
-Traveler: As long as you grab me just as we land...
-Paimon: Ugh, Paimon couldn't do that! Never mind the strength problem — think about the timing!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: And you too! Stop "rawring" along with this craziness! *sigh* ...Y'know what, now you two've gone and killed all the tension!
 
 ## Talk 4
 
@@ -45,6 +48,7 @@ Paimon: Oh! Could this statue be the one that Kimosi said a Qucusaurus stole?
 ## Talk 5
 
 Paimon: Hey! That Qucusaurus... looks like it flew off holding something strange. Was that a statue?
+
 Paimon: Whoa... Did it just... Did it jump into the crater?
 
 ## Talk 6

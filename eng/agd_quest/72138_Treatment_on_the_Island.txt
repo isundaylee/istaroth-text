@@ -6,16 +6,25 @@
 Yasumoto: Yeargh!!! I'm... I'm nobody suspicious, I swear! Just a local doctor!
 Yasumoto: If you don't believe me, I can take you to my place. If you want anything, take it. Please just let me go!
 Yasumoto: Or take me to your General, Lord Kujou! H—He knows me!
-Traveler: I think there's been a misunderstanding...
+    Option 1:
+        Traveler: I think there's been a misunderstanding...
+    Option 2:
+        Traveler: How suspicious...
 Yasumoto: Huh...? Oh, you don't look like someone from the Shogunate... or from Sangonomiya.
 Yasumoto: Are you... an outlander? What are you doing here?
-Traveler: Well...
+    Option 1:
+        Traveler: Well...
+    Option 2:
+        Traveler: It's a long story...
 Yasumoto: Well, anyway, you'd better leave here as soon as possible. Yashiori Island is very dangerous now.
 Yasumoto: So far, there is no sign that the Tatarigami will disappear, and the Tenryou Commission is not going to withdraw any time soon.
 Yasumoto: The island is no longer inhabitable, let alone suitable for sightseeing.
 Yasumoto: If you're fleeing arrest by the commissioner, head west.
 Yasumoto: The Tenryou Commission does not welcome unknown fugitives. But the pirates might take you in.
-Traveler: What happened on the island?
+    Option 1:
+        Traveler: What happened on the island?
+    Option 2:
+        Traveler: You look dejected.
 Yasumoto: Hmm... Have a look for yourself. See what the city folks and Sangonomiya's people have done to us!
 Yasumoto: First, it was the explosion in Tatarasuna. The sky was stained with strange colors that night...
 Yasumoto: Many of my relatives and friends lost their jobs and now live in poverty. Many others were badly injured, and they were terrible to look upon when they finally returned home.
@@ -45,9 +54,6 @@ Yasumoto: So, I hope you can help me gather the right ingredients in these locat
 Yasumoto: Come meet me here once you've gathered the plants. Don't worry about the reward. I still have some savings.
 Yasumoto: Although it's an assignment given by a stranger, I hope you will consider it. Thank you very much.
 Yasumoto: By the way, please be careful on your way.
-Traveler: You look dejected.
-Traveler: It's a long story...
-Traveler: How suspicious...
 
 ## Talk 2
 
@@ -57,12 +63,14 @@ Yasumoto: Have you gathered the herbs I mentioned?
 ## Talk 3
 
 Yasumoto: Blarghhh!! Ahem... ha... ha...
-Traveler: Are you all right?
+    Option 1:
+        Traveler: Are you all right?
+    Option 2:
+        Traveler: It doesn't look very tasty...
 Yasumoto: Well... ahem, it tastes bitter and my tongue has gone numb. Local paralysis might be caused by the Tatarigami.
 Yasumoto: It tastes horrible. But seems harmless.
 Yasumoto: It may take a long time to observe the side effects of the medicine. I don't know... Hey?
 Yasumoto: #They... They're coming toward us! Traveler! Get rid of them!
-Traveler: It doesn't look very tasty...
 
 ## Talk 4
 
@@ -79,7 +87,10 @@ Yasumoto: Of course, I'll compensate you fairly. Haha.
 ## Talk 5
 
 Yasumoto: #Thank you, Traveler. I'm sorry if I've caused you any inconvenience.
-Traveler: No, it's fine.
+    Option 1:
+        Traveler: No, it's fine.
+    Option 2:
+        Traveler: It's nothing.
 Yasumoto: I have mixed a new remedy with the herbs you gathered. But I don't have any test subjects to assess the efficacy of the medicine.
 Yasumoto: #Traveler, can you please...
 Traveler: Please tell me straight-forward.
@@ -87,7 +98,6 @@ Yasumoto: #Traveler, can I ask you to witness the efficacy of my new remedy?
 Yasumoto: The new prescription is still unstable and there's no way to foresee the worst consequences.
 Yasumoto: So I hope at least someone can witness my success... Or help me deal with the consequences, if the worst comes to the worst.
 Traveler: Alright.
-Traveler: It's nothing.
 
 ## Talk 6
 
@@ -99,9 +109,11 @@ Yasumoto: But the last failure wasted some fresh herbs. I need some more herbs t
 Yasumoto: #In your upcoming journey, Traveler, please watch out for any useful herbs on the island. Just leave them in the bamboo basket in front of the house in the mornings.
 Yasumoto: I will give you the reward as I've promised. But I'm afraid you'll have to wait a while.
 Yasumoto: #Traveler, it's fine if you're busy. Maybe I can find someone else to help.
-Traveler: You got it!
+    Option 1:
+        Traveler: You got it!
+    Option 2:
+        Traveler: Sure, I'll take care of it.
 Yasumoto: #Goodbye, traveler Traveler. I hope you will have a safe journey on Yashiori Island.
-Traveler: Sure, I'll take care of it.
 
 ## Talk 7
 

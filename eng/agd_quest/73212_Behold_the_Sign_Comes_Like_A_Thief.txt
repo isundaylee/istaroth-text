@@ -62,14 +62,23 @@ Paimon: And then, the caravan and the robbers fought while running all along the
 Paimon: Hm. Paimon thinks that's a good deduction!
 Traveler: That doesn't make any sense!
 Paimon: Hmph!
-Traveler: The trashed goods should have been discarded after the bandits got to them...
+    Option 1:
+        Traveler: The trashed goods should have been discarded after the bandits got to them...
+    Option 2:
+        Traveler: The things they left behind were to ensure they moved fast and light.
 Paimon: Really...
 Traveler: Because we didn't see any signs of a struggle along the way.
 Paimon: So, that's how it was... Still, Paimon's theory was close... Like ninety-percent accurate close!
 Paimon: Huh... Paimon can't help feeling something's wrong...
-Traveler: About what?
+    Option 1:
+        Traveler: About what?
+    Option 2:
+        Traveler: Time for Paimon to use her intuition!
 Paimon: Don't you... think these clues are too neatly laid out? It's like they were placed in a line to lead us over somewhere...
-Traveler: You... might be a bit too suspicious.
+    Option 1:
+        Traveler: You... might be a bit too suspicious.
+    Option 2:
+        Traveler: Possibly, but we don't have enough evidence for that.
 Paimon: Hey! Look, the cart's right there!
 Paimon: Paimon can barely recognize it... Though the Tanit marking's there, it looks a bit... blurry...
 Paimon: Alright. We can close this case now!
@@ -86,23 +95,32 @@ Eremite Assassin (???): It would be cruel of you to disappoint her kindness.
 Paimon: #Uh... Traveler...
 Traveler: Paimon. Hide.
 Paimon: A—Alright!
-Traveler: Possibly, but we don't have enough evidence for that.
-Traveler: Time for Paimon to use her intuition!
-Traveler: The things they left behind were to ensure they moved fast and light.
 
 ## Talk 13
 
 Paimon: Hmph... They left absolutely nothing intact. Oh, Paimon's getting mad! These hilichurls really know how to break stuff!
-Traveler: Wait, it doesn't look like it was destroyed by hilichurls...
-Paimon: Huh? But... the hilichurls have their camp here, don't they?
-Traveler: I don't see any carts around us...
-Paimon: Yeah... You're right! There aren't any carts or even wrecks here... The shack left behind by the hilichurls also doesn't seem to have any cart parts... How strange.
+    Option 1:
+        Traveler: Wait, it doesn't look like it was destroyed by hilichurls...
+        Paimon: Huh? But... the hilichurls have their camp here, don't they?
+        Traveler: I don't see any carts around us...
+        Paimon: Yeah... You're right! There aren't any carts or even wrecks here... The shack left behind by the hilichurls also doesn't seem to have any cart parts... How strange.
+    Option 2:
+        Traveler: Wait, the raid might not have happened here...
+        Paimon: But the hilichurls placed their camp right in the middle of the road... Look there. If they block that spot off, won't it be easy to rob someone?
+        Traveler: I don't see any carts around us...
+        Paimon: Yeah... You're right! There aren't any carts or even wrecks here... The shack left behind by the hilichurls also doesn't seem to have any cart parts... How strange.
+    Option 3:
+        Traveler: Wait, it doesn't look like it was destroyed by hilichurls...
+        Paimon: Huh? But... the hilichurls have their camp here, don't they?
+        Traveler: Look. No cart in the camp either.
+        Paimon: Yeah! If the hilichurls raided the caravan, they would've taken the carts apart on the spot. But we're not seeing any carts, or any parts... Paimon thinks that's kind of weird!
+    Option 4:
+        Traveler: Wait, the raid might not have happened here...
+        Paimon: But the hilichurls placed their camp right in the middle of the road... Look there. If they block that spot off, won't it be easy to rob someone?
+        Traveler: Look. No cart in the camp either.
+        Paimon: Yeah! If the hilichurls raided the caravan, they would've taken the carts apart on the spot. But we're not seeing any carts, or any parts... Paimon thinks that's kind of weird!
 Traveler: Let's follow the road a while longer.
 Paimon: Alright. But if it wasn't the hilichurls, then who?
-Traveler: Look. No cart in the camp either.
-Paimon: Yeah! If the hilichurls raided the caravan, they would've taken the carts apart on the spot. But we're not seeing any carts, or any parts... Paimon thinks that's kind of weird!
-Traveler: Wait, the raid might not have happened here...
-Paimon: But the hilichurls placed their camp right in the middle of the road... Look there. If they block that spot off, won't it be easy to rob someone?
 
 ## Talk 14
 
@@ -174,22 +192,30 @@ Babel: The courtesy is unneeded.
 Babel: Greetings, esteemed Master of the Jinni.
 Babel: Regarding the attempt on your life, rest assured, I am still investigating.
 Babel: I can promise your safety when you are amongst the Tanit, but should you walk the desert sands... Be very careful.
-Traveler: About the Eternal Oasis...
-Babel: Allow me to offer my deepest thanks on behalf of the Tanit and Jeht herself for your deeds...
-Babel: The Eternal Oasis not only bears great importance to Jeht, but it also stands as a central pillar of our faith.
-Babel: Claiming the Eternal Oasis means claiming the sovereignty that once belonged to the Queen of All Oases, Nabu Malikata... For her descendants, this inheritance means everything.
-Traveler: I don't quite understand... Just what is it actually worth?
-Babel: Hahaha. Perhaps it can't even be traded for a single coin...
-Babel: But it is beyond value nonetheless.
-Traveler: Has Jeht been busy?
-Babel: Yes. As we now hold the Eternal Oasis, we must prevent all with dubious intent from ever breaching its thresholds. The Tanit stands now as defenders of the Eternal Oasis.
-Babel: And the one most suited to complete this task is, to my mind, undoubtedly Jeht. She is guarding her parents, is she not?
-Traveler: About the traitors...
-Babel: I suppose it is due to the fact that we have opened a path to the Eternal Oasis that has caused these traitors to grow restless.
-Babel: Our goddess, to them, is a symbol of status above all others, and might bring them unfathomable wealth... I cannot tolerate such blasphemy.
-Traveler: You still believe she'll wake up.
-Babel: Of course... Sooner or later, she will reclaim the mantle of her divinity and lead us to become a blooming nation. But before that happens, I... and the Tanit, will continue to serve her will.
-Traveler: We went there. She wasn't there.
-Babel: She "was" present. You just didn't "see" her. But she "was" and will always "be there."
-Traveler: Bye.
-Babel: Farewell, esteemed Master of the Jinni.
+    Option 1:
+        Traveler: About the Eternal Oasis...
+        Babel: Allow me to offer my deepest thanks on behalf of the Tanit and Jeht herself for your deeds...
+        Babel: The Eternal Oasis not only bears great importance to Jeht, but it also stands as a central pillar of our faith.
+        Babel: Claiming the Eternal Oasis means claiming the sovereignty that once belonged to the Queen of All Oases, Nabu Malikata... For her descendants, this inheritance means everything.
+        Traveler: I don't quite understand... Just what is it actually worth?
+        Babel: Hahaha. Perhaps it can't even be traded for a single coin...
+        Babel: But it is beyond value nonetheless.
+    Option 2:
+        Traveler: Has Jeht been busy?
+        Babel: Yes. As we now hold the Eternal Oasis, we must prevent all with dubious intent from ever breaching its thresholds. The Tanit stands now as defenders of the Eternal Oasis.
+        Babel: And the one most suited to complete this task is, to my mind, undoubtedly Jeht. She is guarding her parents, is she not?
+    Option 3:
+        Traveler: About the traitors...
+        Babel: I suppose it is due to the fact that we have opened a path to the Eternal Oasis that has caused these traitors to grow restless.
+        Babel: Our goddess, to them, is a symbol of status above all others, and might bring them unfathomable wealth... I cannot tolerate such blasphemy.
+        Traveler: You still believe she'll wake up.
+        Babel: Of course... Sooner or later, she will reclaim the mantle of her divinity and lead us to become a blooming nation. But before that happens, I... and the Tanit, will continue to serve her will.
+    Option 4:
+        Traveler: Bye.
+        Babel: Farewell, esteemed Master of the Jinni.
+    Option 5:
+        Traveler: About the traitors...
+        Babel: I suppose it is due to the fact that we have opened a path to the Eternal Oasis that has caused these traitors to grow restless.
+        Babel: Our goddess, to them, is a symbol of status above all others, and might bring them unfathomable wealth... I cannot tolerate such blasphemy.
+        Traveler: We went there. She wasn't there.
+        Babel: She "was" present. You just didn't "see" her. But she "was" and will always "be there."

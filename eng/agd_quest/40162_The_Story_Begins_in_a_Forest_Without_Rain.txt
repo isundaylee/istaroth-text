@@ -43,10 +43,16 @@ Almond: This is the place. If you could just wait a moment, the Fairy should beâ
 Nilou (???): #...! Traveler, Paimon!
 Paimon: Huh? Paimon knows that voice...
 Nilou: ...It's really you! I'm so happy to see you!
-Traveler: Yep... Same here...
+    Option 1:
+        Traveler: Yep... Same here...
+    Option 2:
+        Traveler: Maybe... calm down a bit first...
 Nilou: Ah! Sorry, sorry...
 Paimon: So Nilou is the Forest Fairy? Well, you certainly look the part!
-Traveler: Your outfit is lovely.
+    Option 1:
+        Traveler: Your outfit is lovely.
+    Option 2:
+        Traveler: It's perfect for you.
 Nilou: Hehe, thank you! But to be honest, I'm still getting used to it...
 Nilou: It's the weirdest thing. I remember I was reading a book at the Grand Bazaar, and then I guess I must have fallen asleep at some point, because... well, then I woke up dressed like this...
 Nilou: And, in my dream, someone spoke to me. They said: "You are the Fairy of the Forest of Blessings. Now go, save the forest with your magic."
@@ -78,8 +84,6 @@ Nilou: And, who knows, maybe I'll find my own magic along the way! All I can do 
 Paimon: At least you're optimistic!
 Traveler: We'll be there to cheer you on, too.
 Nilou: Thank you! Then, let's go.
-Traveler: It's perfect for you.
-Traveler: Maybe... calm down a bit first...
 
 ## Talk 10
 
@@ -102,7 +106,10 @@ Chestnut: Says the guy who messed the whole thing up in the first place!
 Ginkgo: Amazing! You did it!
 Paimon: Now, the Tonic will flow into everyone's cups without getting stuck, right?
 Paimon: Gotta say, though, Paimon is starting to get pretty curious about this Magic Tonic... Um, could she have a teeny tiny sip? Just a little taste! Please!
-Traveler: Paimon...
+    Option 1:
+        Traveler: Paimon...
+    Option 2:
+        Traveler: Stop being greedy...
 Paimon: It's not greed! It's curiosity!
 Chestnut: Well... if it's really just one sip, I guess that would be fine...
 Ginkgo: Just... Be careful! This is one of the last cups left in the entire Forest! We're supposed to save it for our research!
@@ -129,15 +136,16 @@ Nilou: Magic... doesn't have to be spectacular...
 Chestnut: That's enough out of you. All your boasting is confusing our kind Fairy!
 Nilou: Oh, no, it's alright. I actually think I understand the magic of this world a bit better now. Thank you.
 Ginkgo: The honor was all ours, my lady.
-Traveler: Stop being greedy...
 
 ## Talk 12
 
 Stream: Still no good...
-Traveler: Let's keep trying!
-Paimon: Yeah, don't give up just yet! Our rhythm was probably off. Let's give it a few more tries!
-Traveler: Let's take a break.
-Paimon: Sure, it's good to take a breather. We can come back to this later!
+    Option 1:
+        Traveler: Let's keep trying!
+        Paimon: Yeah, don't give up just yet! Our rhythm was probably off. Let's give it a few more tries!
+    Option 2:
+        Traveler: Let's take a break.
+        Paimon: Sure, it's good to take a breather. We can come back to this later!
 
 ## Talk 14
 
@@ -256,7 +264,10 @@ Nilou: ...No.
 Paimon: No? Hmm... What are we missing?
 Traveler: Aren't you supposed to say some magic words?
 Nilou: Magic words? But, how am I supposed to know what the Goddess said to bring them to life?
-Traveler: It doesn't matter what she said...
+    Option 1:
+        Traveler: It doesn't matter what she said...
+    Option 2:
+        Traveler: Focus on what you want to say.
 Paimon: Ooh, good point! You're the Forest Fairy, Nilou, what do you want to say to the new resident of your domain?
 Nilou: ...
 Black Screen Text: Nilou picks up the hamster, and kisses it gently on the forehead...
@@ -286,7 +297,10 @@ Nilou: Well... All I did was say my wishes for her out loud. Maybe the magic is 
 Paimon: This place is seeming more like a fairytale by the second.
 Nilou: I mean... we're somewhere called the Forest of Blessings, so it kind of makes sense.
 Paimon: Well, anyway, Paimon thinks this magic suits you perfectly, Nilou!
-Traveler: What about the space under the Tavern...
+    Option 1:
+        Traveler: What about the space under the Tavern...
+    Option 2:
+        Traveler: What had you so concerned?
 Nilou: ...When I brought Padisarah to life just now, I was able to sense the magic flowing through the Forest â€” in the flowers and trees, and inside the creatures that live here...
 Nilou: But for some reason, there's a hollowed-out space beneath the Tavern where I couldn't sense anything at all...
 Almond: We're back, my lady!
@@ -307,8 +321,6 @@ Traveler: She means sunsettias, snapdragons, and Nilotpala Lotuses.
 Paimon: What? How did you get that so fast?
 Traveler: "Fairytale logic," Paimon.
 Paimon: Logic, huh? Lucky guess, more like...
-Traveler: What had you so concerned?
-Traveler: Focus on what you want to say.
 
 ## Talk 27
 
@@ -343,10 +355,12 @@ Almond: Yes, this is it... This is exactly the Magic Tonic we need!
 Nilou: Grandpa Almond, could you take the concoction to the room underneath the Tavern and place it next to the transparent bottle you found? I'll handle the rest.
 Almond: Of course! As you command, so it shall be done!
 Nilou: Phew... I still get nervous at times like this. It's just like when you step on stage, and you can tell that every single person's gaze is fixed right on you.
-Traveler: Relax, Nilou.
+    Option 1:
+        Traveler: Relax, Nilou.
+    Option 2:
+        Traveler: We're right here with you!
 Nilou: Hehe, thanks, you two! I can't tell you how great it is to have you by my side. Almost makes me feel like I've been blessed by the Goddess of Fate, too!
 Nilou: Let's go. We shouldn't keep everyone waiting.
-Traveler: We're right here with you!
 
 ## Talk 33
 
@@ -358,10 +372,12 @@ Almond: Yes, this is it... This is exactly the Magic Tonic we need!
 Nilou: Grandpa Almond, could you take the concoction to the room underneath the Tavern and place it next to the transparent bottle you found? I'll handle the rest.
 Almond: Of course! As you command, so it shall be done!
 Nilou: Phew... I still get nervous at times like this. It's just like when you step on stage, and you can tell that every single person's gaze is fixed right on you.
-Traveler: Relax, Nilou.
+    Option 1:
+        Traveler: Relax, Nilou.
+    Option 2:
+        Traveler: We're right here with you!
 Nilou: Hehe, thanks, you two! I can't tell you how great it is to have you by my side. Almost makes me feel like I've been blessed by the Goddess of Fate, too!
 Nilou: Let's go. We shouldn't keep everyone waiting.
-Traveler: We're right here with you!
 
 ## Talk 38
 
@@ -380,11 +396,18 @@ Almond: That's why I was waiting near the Cliff of Prophecy... Haha, wonderful, 
 Paimon: Is the Cliff of Prophecy that place with the huge mural? 'Cause that is where we woke up, but we don't remember anything about how we got there. Also, we didn't get a change of clothes like Nilou... Are we definitely the Heroes?
 Almond: If not you, then who else? You've already helped the Fairy revitalize our Forest. To us, that makes you heroes, prophesized or not.
 Paimon: Alright! Either way, we're going to keep adventuring, even if just to figure out how we can get back to our world.
-Traveler: We can also help resolve any crises along the way.
-Paimon: Yep, that's exactly right! Helping people we meet on the road is kind of our thing!
+    Option 1:
+        Traveler: We can also help resolve any crises along the way.
+        Paimon: Yep, that's exactly right! Helping people we meet on the road is kind of our thing!
+    Option 2:
+        Traveler: We can also help resolve your dragon problem along the way.
+        Paimon: Yep! We've beaten up plenty of dragons already, so what's one more?
 Almond: As expected, the words of the Goddess of Prophecy always come true.
 Nilou: I'll come with you. It can't hurt to have a magical Fairy tag along, right?
-Traveler: Thought you'd never ask!
+    Option 1:
+        Traveler: Thought you'd never ask!
+    Option 2:
+        Traveler: It would be our honor, my lady.
 Paimon: Heroes and fairies, dragons and new adventures... Heh, this is sounding more and more like a fairytale by the second!
 Almond: Hmm, I would say your next stop should be Constellation Metropole. It's Simulanka's most prosperous city, just across the sea.
 Almond: Once you've arrived at the Astral Garden at the highest point in the city, maybe you can try seeking divine counsel from the Goddess of Prophecy herself.
@@ -397,6 +420,3 @@ Almond: I'll head to the station first thing tomorrow morning and wake up that l
 Paimon: Sounds great! Paimon definitely feels tired after being on the go for so long. There's a spot in the Tavern with Paimon's name on it!
 Citrus: Oh? Sounds like someone is ready to order!
 Paimon: Oooh, well, if you're offering... Paimon will take a glass of Bulle Fruit Tonic! ...Um, but hold the Tonic, hehe!
-Traveler: It would be our honor, my lady.
-Traveler: We can also help resolve your dragon problem along the way.
-Paimon: Yep! We've beaten up plenty of dragons already, so what's one more?

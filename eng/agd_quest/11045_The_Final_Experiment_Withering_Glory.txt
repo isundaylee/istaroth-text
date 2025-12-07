@@ -7,16 +7,20 @@
 
 Albedo: I imagine you must have encountered more than a few conundrums during your travels.
 Albedo: I'd like to observe your intelligence by means of a practical test of your capabilities — much as we did for the physical test.
-Traveler: No problem.
+    Option 1:
+        Traveler: No problem.
+    Option 2:
+        Traveler: Wouldn't a written test suffice...?
 Albedo: I'd like you to explore these ruins and return with your findings.
 Albedo: There are two puzzles located at the far ends of the ruins. After completion, you should be able to activate the mechanism in the center.
 Albedo: As with the physical test, there are no restrictions. Everything you do is an action I wish to observe.
-Traveler: I'm getting good at these.
-Albedo: A tried and tested adventurer I see.
+    Option 1:
+        Traveler: I'm getting good at these.
+        Albedo: A tried and tested adventurer I see.
+    Option 2:
+        Traveler: Where there's a will, there's a way.
+        Albedo: Remember that this is a test of intellect. So should you get lucky in any way, that won't be factored in as part of the test.
 Albedo: So, let's see you in action. Start wherever you like.
-Traveler: Where there's a will, there's a way.
-Albedo: Remember that this is a test of intellect. So should you get lucky in any way, that won't be factored in as part of the test.
-Traveler: Wouldn't a written test suffice...?
 
 ## Talk 2
 
@@ -29,6 +33,7 @@ Examine Easel: (Albedo's artwork are laid out here. His creative process isn't e
 ## Talk 4
 
 Albedo: Seelie like these are a common sight in the mountains.
+
 Albedo: #Returning them to their rightful places is up to you, Traveler.
 
 ## Talk 5
@@ -56,21 +61,32 @@ Observe Picture: (Hopefully, his research into these symbols will bear fruit all
 ## Talk 10
 
 Albedo: Oh? Seems that the water level has suddenly decreased.
+
 Albedo: We should be able to see what's in the water now, let's have a look.
 
 ## Talk 11
 
 Albedo: You're back! Good timing, I've just about reached a conclusion.
 Albedo: You took quite a while. Did you get held up on the way back?
-Traveler: Not really.
+    Option 1:
+        Traveler: Not really.
+    Option 2:
+        Traveler: Quite literally, by a sister no less.
+        Albedo: Aha, I wouldn't worry, she's just doing her job.
 Albedo: Time for the results. We got a myriad of data today, and it was very difficult to finish all the research in one go.
 Albedo: But the integral preliminary conclusion that I can offer you is... You're very much like a human from this world.
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: That's it?
 Paimon: You couldn't tell that just by looking?
 Paimon: We spent all day working our butts off for that!?
 Albedo: Please, I understand that this may have seemed self-evident to you, but in fact nothing in this world should be taken for granted.
 Albedo: Have you ever considered that the world of Teyvat may have a natural hostility to outlanders?
-Traveler: Only the gods would know.
+    Option 1:
+        Traveler: Only the gods would know.
+    Option 2:
+        Traveler: Perhaps.
 Albedo: I mentioned the natural laws of this world. You're able to converse with me here without consequence, and nothing seems amiss. But it's arguably a small miracle.
 Albedo: The only other life form that, like you, has come here from afar, is the seed that I mentioned. Under the effects of Teyvat's natural laws, it isn't even able to sprout, let alone bloom.
 Albedo: But after I observed you, I had another idea.
@@ -79,13 +95,19 @@ Paimon: Whoa! It looks like — something's appearing!
 Albedo: The transition from nothing into something, from shoot to stem... And now to fruition.
 Albedo: Is not nurturing otherworldly life also nurturing the world itself?
 Paimon: Aww...
-Traveler: It was beautiful.
+    Option 1:
+        Traveler: It was beautiful.
+    Option 2:
+        Traveler: It was so short-lived.
 Albedo: *sigh* It would seem that that's as far as we go. A transient bloom of incomparable beauty... Life's proudest achievement.
 Paimon: Paimon thought, with all our efforts, it might have bloomed forever. And it didn't even have any fruit...
 Albedo: Life is a manifold tapestry of free entities, its value shouldn't derive from how long it stays with us. Even a momentary burst is precious.
 Albedo: A short life can be well-lived. A life lived efficiently, lived to perfection, is necessarily one unburdened by loneliness.
 Albedo: So, do you understand what I meant about us conversing here arguably being a small miracle?
-Traveler: Well, I haven't withered just yet.
+    Option 1:
+        Traveler: Well, I haven't withered just yet.
+    Option 2:
+        Traveler: #(I wonder how my {F#brother}{M#sister} is...)
 Paimon: Eh? Things feel a little heavy right now...
 Paimon: #Hehehe, don't be sad, Traveler, you've got Paimon to look after you.
 Paimon: Albedo, Paimon really wants to be your friend.
@@ -102,12 +124,6 @@ Albedo: But what was that sediment I saw forming at the bottom of the vial? It s
 Albedo: Those born of earth are bound by its imperfections, but those born of chalk are free of impurities... You and I are alike, both composed of a substance that has yet to be fully defined...
 Albedo: If one day, I lose control... destroy Mondstadt... destroy everything...
 Albedo: Can I rely on you to stop me?
-Traveler: #(I wonder how my {F#brother}{M#sister} is...)
-Traveler: It was so short-lived.
-Traveler: Perhaps.
-Traveler: That's it?
-Traveler: Quite literally, by a sister no less.
-Albedo: Aha, I wouldn't worry, she's just doing her job.
 
 ## Talk 12
 

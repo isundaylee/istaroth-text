@@ -210,7 +210,10 @@ Razor: Teacher is... not at the usual place.
 Lisa: Oh please, it's not as if I'm glued to my chair. I like to get out for a little fresh air every once in a while.
 Lisa: Mika's here today, so I thought it'd be a good time to introduce him to Bennett and Razor. They're all out and about quite often, so it's helpful for them to get to know one another.
 Mika: Hello, everyone. My name is Mika.
-Traveler: Hi, Mika. Good to see you again.
+    Option 1:
+        Traveler: Hi, Mika. Good to see you again.
+    Option 2:
+        Traveler: Hello, Mika. Nice to meet you.
 Mika: I—I look forward to working with you...
 Bennett: No need to be so formal! We've known them for ages, they're cool!
 Razor: Windblume... fun?
@@ -231,7 +234,6 @@ Paimon: Okay! Bye for now!
 Paimon: Let's head over to Starsnatch Cliff next! Maybe we'll be able to find some people there.
 Paimon: And even if we don't find any familiar faces... You can see really far from up at the top. Maybe we can find people that way!
 Lisa: Aw, you're working so hard. Do be sure to get some rest when you can. If you get tired, you know you're always welcome to visit me for a break and a cup of tea.
-Traveler: Hello, Mika. Nice to meet you.
 
 ## Talk 7
 
@@ -299,7 +301,6 @@ Collei: Looking back, it seems silly that I ever thought like that. We're nothin
 Sucrose: Aw, Collei... don't say that.
 Collei: ...
 Collei: Um, Sucrose, would it be okay if I... told you a bit about my past?
-Black Screen Text: The two girls come to a stop at a place with some lovely scenery...
 Sucrose: ...
 Sucrose: (I already knew bits and pieces about her, but still... Why did she have to go through all that?)
 Collei: I'm sorry, we've only just met and I'm already dumping all of this on you... This is why I get so frustrated at myself. I'm always doing this... I get into a spiral of self-doubt, and then I end up having to find somewhere to vent it all out...
@@ -336,6 +337,9 @@ Amber: We're not what Collei needs right now. She needs a new friend — someone
 Klee: I don't get it... Is there a difference?
 Amber: There is! You'll understand once you're a little older, Klee. People can draw different kinds of strength from different kinds of friends, and right now, Collei needs someone that's just not the same ol' me!
 
+Black Screen Text: The two girls come to a stop at a place with some lovely scenery...
+[Missing Dialog 400980861]
+
 ## Talk 9
 
 Paimon: Missing text (3323379122)
@@ -363,7 +367,6 @@ Paimon: Sounds like a plan!
 Paimon: Paimon will have this one... And this one, and this one...
 Traveler: Hear that? ...It's the sound of Mora pouring out of my wallet...
 Paimon: Hey, Paimon's really hungry! And don't forget, Paimon's also ordering for you, too. It's not like Paimon's gonna eat everything by herself!
-Black Screen Text: Now that Paimon mentions it, you realize that you, too, are ravenous...
 Paimon: Whew! Paimon is super full...
 Traveler: (It feels pretty good to just relax and take in the scenery after all that great food.)
 Beatrice: Is everything packed up and ready? What do you think about meeting up at five to go to my house?
@@ -414,8 +417,10 @@ Paimon: What do you think about Mondstadt so far?
 Scarlett: It certainly lives up to its name as the city of romance and freedom.
 Paimon: Hehe, we think so too!
 Scarlett: So. About the prophecy...
-Traveler: No problem.
-Traveler: I'll let you know if we find the answer.
+    Option 1:
+        Traveler: No problem.
+    Option 2:
+        Traveler: I'll let you know if we find the answer.
 Scarlett: Thank you. You're very friendly, it's been a real pleasure to meet you.
 Scarlett: I'll leave you to it, then. Hope you continue to enjoy the city, and have a wonderful day.
 Paimon: She definitely isn't dressed like a local, huh. Where do you think her hometown could be...?
@@ -427,6 +432,9 @@ Rosaria: ...
 Scarlett: I never thought I'd have someone secretly following me even in a free city like Mondstadt.
 Rosaria: ...
 Scarlett: Good day to you, Miss.
+
+Black Screen Text: Now that Paimon mentions it, you realize that you, too, are ravenous...
+[Missing Dialog 400981205]
 
 ## Talk 12
 

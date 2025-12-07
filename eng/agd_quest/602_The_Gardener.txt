@@ -66,8 +66,13 @@ Alice: Of course not. To me, you're both extraordinary individuals. I find you f
 Alice: In any case, now I see why you asked Venti for help. The raw materials you seek are extremely valuable. The misuse of even the tiniest amount could cause unimaginable chaos.
 Alice: That said, we're happy to give you what you need, but there is one condition. You need to prove you can wield them, and so you must pass the Hexenzirkel's trial.
 Albedo: #I understand. I figured something like this might happen. That's why I asked Traveler to come along.
-Traveler: Wait, I'm joining you in this thing?
-Albedo: Haha, I can think of no better partner for such an endeavor.
+    Option 1:
+        Traveler: Wait, I'm joining you in this thing?
+        Albedo: Haha, I can think of no better partner for such an endeavor.
+    Option 2:
+        Traveler: You're not even gonna try to talk me into it?
+        Albedo: Oh? You need convincing? I thought you'd want to keep an eye on me. Who knows what sort of... outlandish things I might attempt without someone to keep me in check.
+        Traveler: Fine. I'm not going to argue with you.
 Alice: Hm, so you know our tricks, huh...
 Albedo: Aunt Alice has always loved a spectacle — any chance to witness friends come together to support one another.
 Alice: Well, success means little if you have no one to celebrate it with, no?
@@ -80,12 +85,11 @@ Alice: Hahaha, thank you for being so understanding. Then, whenever you two are 
 Albedo: #Are you ready, Traveler?
 Traveler: Just about.
 Albedo: Then let me make a formal request. Will you go through this trial with me?
-Traveler: Of course.
+    Option 1:
+        Traveler: Of course.
+    Option 2:
+        Traveler: Let's do this.
 Alice: Then, my dear children, get ready for a taste of the Dodo-King's magic.
-Traveler: Let's do this.
-Traveler: You're not even gonna try to talk me into it?
-Albedo: Oh? You need convincing? I thought you'd want to keep an eye on me. Who knows what sort of... outlandish things I might attempt without someone to keep me in check.
-Traveler: Fine. I'm not going to argue with you.
 
 ## Talk 5
 
@@ -211,7 +215,10 @@ Paimon: Oh, Paimon almost forgot! If the Windblume Star has already been chosen,
 Venti: Hmm, wanna take a guess?
 Paimon: Venti! You're back!
 Venti: Haha, well I couldn't keep my two dear friends in the dark about this year's Windblume, now could I? What do you think of... The Cecilia?
-Traveler: It's quite fitting.
+    Option 1:
+        Traveler: It's quite fitting.
+    Option 2:
+        Traveler: I like it.
 Venti: "The true feelings of the prodigal son." A sentiment as sweet and warm as a gentle spring breeze — perfect for the season!
 Venti: #Traveler, give me your hand.
 Traveler: Huh?
@@ -229,7 +236,6 @@ Venti: "When no love remains for the songs to tell, the world becomes naught but
 Venti: "Cruel is said fate, cruel it may be, were it not for a hero who could set us all free."
 Venti: "Through shadows so cold, he sought wisdom untold, chasing a fragrance, the wind only knows."
 Venti: "Thus wistfulness waned and faded into night, as he stepped from the darkness, and into the light."
-Traveler: I like it.
 
 ## Talk 14
 

@@ -59,7 +59,11 @@ Paimon: Well, this got off to a slow start. Let's try somewhere else.
 Kaedehara Kazuha (???): Hey, you two. Looking for someone?
 Paimon: Huh? Paimon knows that voice... it's Kazuha!
 Kaedehara Kazuha: #Nice to see you again, Traveler and Paimon.
-Traveler: It's been too long.
+    Option 1:
+        Traveler: It's been too long.
+    Option 2:
+        Traveler: How've you been?
+        Kaedehara Kazuha: Very well, thank you. Even better now that you're here.
 Kaedehara Kazuha: Captain Beidou needed to return to Liyue to take care of some business, so I've been taking the chance to get to walk around town. It's a nice surprise to run into you two here.
 Kaedehara Kazuha: Looks like you have questions. May I be of any help?
 Paimon: Well, long story short...
@@ -85,8 +89,6 @@ Kaedehara Kazuha: Ah, I just noticed the logo at her waist. Isn't that Komaniya 
 Paimon: Huh? Do you know that company, Kazuha?
 Kaedehara Kazuha: Yes, I've heard of it. They provide delivery services in Inazuma.
 Paimon: Hmm... Looks like she's having some trouble. Why don't we go and introduce ourselves?
-Traveler: How've you been?
-Kaedehara Kazuha: Very well, thank you. Even better now that you're here.
 
 ## Talk 10
 
@@ -125,8 +127,13 @@ Kirara: C—Could I trouble you to take a moment and leave a five-star review?
 Hu Tao: Five stars? That's an odd number... Let's make it an even six! No, much too low — service this good deserves at least eight! In fact, nine: one extra for going the extra mile!
 Kirara: Oh, five stars will be plenty, really... But your enthusiasm means a lot!
 Kirara: Alright, I should be on my way now. Thanks again for the directions.
-Traveler: You're welcome.
-Paimon: Yeah! Don't mention it.
+    Option 1:
+        Traveler: You're welcome.
+        Paimon: Yeah! Don't mention it.
+    Option 2:
+        Traveler: Do you handle all of the deliveries?
+        Kirara: No... Not necessarily. Business has been picking up lately, so the company has hired lots of new staff. But I handle all the international deliveries, because I'm the quickest — I am a youkai, after all.
+        Paimon: So chances are that we'll see you on the road again soon.
 Kirara: Cool! Well, I look forward to seeing you all again soon. Although... hopefully next time it won't be because I'm lost...
 Kaedehara Kazuha: I heard you reciting a poem just now, Director Hu. May I ask from where you drew your inspiration?
 Hu Tao: Oh? Do you share a liking for poetry as well?
@@ -169,9 +176,6 @@ Traveler: Bit of a jarring change of genre there...
 Paimon: Hehe...
 Hu Tao: My turn! Chi~!
 Black Screen Text: Hu Tao and Kazuha play a thrilling match of Genius Invokation TCG...
-Traveler: Do you handle all of the deliveries?
-Kirara: No... Not necessarily. Business has been picking up lately, so the company has hired lots of new staff. But I handle all the international deliveries, because I'm the quickest — I am a youkai, after all.
-Paimon: So chances are that we'll see you on the road again soon.
 
 ## Talk 12
 
@@ -206,8 +210,12 @@ Hu Tao: Good thing I was able to "Send Off" of all those Summons of yours.
 Hu Tao: I have to say, it's hard to believe that this was your first time playing!
 Kaedehara Kazuha: I owe it all to Paimon Sensei's teaching.
 Paimon: Huh? You really mean that? Yay, hehe!
-Traveler: I agree. Paimon Sensei is the best teacher.
-Paimon: Aww shucks, now Paimon's embarrassed, hehe...
+    Option 1:
+        Traveler: I agree. Paimon Sensei is the best teacher.
+        Paimon: Aww shucks, now Paimon's embarrassed, hehe...
+    Option 2:
+        Traveler: Look, Paimon Sensei's ego is so inflated, she's floating.
+        Paimon: Hey, Paimon's always been able to float in the air!
 Paimon: Well, Kazuha, did you enjoy Genius Invokation TCG?
 Kaedehara Kazuha: Yes indeed, there is a good variety of card abilities, and the tempo of the match can swing in an instant. I understand now why it's become so popular all across Teyvat.
 Keqing: Oh, seems the world's gained yet another TCG player.
@@ -222,7 +230,10 @@ Keqing: Why so surprised? Practically everyone at Yujing Terrace is playing Geni
 Kaedehara Kazuha: #It would be my pleasure to join you for a match. However, I can't borrow Traveler's deck forever. Our match might have to wait until after I manage to obtain my own Casket of Tomes.
 Keqing: Oh, that shouldn't be a problem. When we get back to the tournament venue, I'll ask a member of the Genius Invokation TCG Society to provide one for you.
 Keqing: #And please don't think about returning the favor — I assure you, it's no inconvenience. Besides, a friend of Traveler is a friend of us all.
-Traveler: Thanks, Keqing.
+    Option 1:
+        Traveler: Thanks, Keqing.
+    Option 2:
+        Traveler: And so begins Kazuha's TCG journey.
 Kaedehara Kazuha: I am grateful for your kindness, Keqing.
 Keqing: Pleasure. Also, Hu Tao, the final is about to start. I just came to make sure you're aware.
 Hu Tao: Don't worry, it might look like my mind's on other things, but I'm still listening!
@@ -245,9 +256,6 @@ Keqing: Alright. See you later.
 Traveler: Good luck in the final, Director.
 Hu Tao: With so many people rooting for me, I'm sure the match will be over before I can say "hyu!"
 Paimon: Alright, let's go find Chongyun.
-Traveler: And so begins Kazuha's TCG journey.
-Traveler: Look, Paimon Sensei's ego is so inflated, she's floating.
-Paimon: Hey, Paimon's always been able to float in the air!
 
 ## Talk 17
 
@@ -290,11 +298,13 @@ Chongyun: Not a lot. He seemed to be in a hurry — he just packed up his things
 Paimon: This guy sure talks to himself a lot...
 Paimon: Well, it sounds like a pretty solid lead, so Paimon thinks we should follow it. But first, we should stop by the venue.
 Chongyun: Then I guess I'll take Little Fang and Little Yu home now. Though I'd really rather help track down that thief...
-Traveler: Don't worry, leave the Card Snatcher to us.
-Chongyun: Sure. I'm counting on you.
+    Option 1:
+        Traveler: Don't worry, leave the Card Snatcher to us.
+        Chongyun: Sure. I'm counting on you.
+    Option 2:
+        Traveler: You okay? Try not to let it get to you.
+        Chongyun: Yeah, you're right... When I get back, I should probably meditate for a while to calm myself down. Thanks for your concern.
 Paimon: Whoa, is it just Paimon, or did things suddenly get gloomier here after Chongyun left? Come on, let's get outta here.
-Traveler: You okay? Try not to let it get to you.
-Chongyun: Yeah, you're right... When I get back, I should probably meditate for a while to calm myself down. Thanks for your concern.
 
 ## Talk 19
 
@@ -331,7 +341,10 @@ Charlotte: Inazuma? Does this mean you found a new lead on the card snatcher?
 Paimon: Sure did! Investigating is what we do best! ...Well, okay, guess luck played a part in it too.
 Kaedehara Kazuha: I still have some things to take care of here in Liyue, so I'm afraid I won't be able to accompany you to Inazuma.
 Paimon: Okay, but remember to keep working on your Genius Invokation skills. You never know when Paimon Sensei will show up for a surprise inspection!
-Traveler: You're getting pretty strict, Paimon Sensei.
+    Option 1:
+        Traveler: You're getting pretty strict, Paimon Sensei.
+    Option 2:
+        Traveler: You really care for your students, Paimon Sensei.
 Ningguang: I've also heard some things about this card snatcher you're pursuing.
 Paimon: Already? Wow, nothing gets past Ningguang, huh...
 Ningguang: A new card back appeared on the market recently. It's extremely rare, and bears an image of a treasure chest.
@@ -345,4 +358,3 @@ Charlotte: Hmm... The mystery of this Card Snatcher gets more baffling at every 
 Paimon: It doesn't matter. Given how much he likes to talk to himself, he's sure to spill all his secrets sooner or later.
 Ningguang: Every journey into the unknown is a mystery waiting to be solved. But often, it is encounters with the unexpected that make the journey all the more interesting.
 Ningguang: For instance, it was certainly a pleasant surprise for me today to meet top talents from all around Teyvat.
-Traveler: You really care for your students, Paimon Sensei.

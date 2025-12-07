@@ -21,11 +21,13 @@ Verenata: Hmm... You two are pretty reliable. If that's the case, I've a favor t
 Verenata: The dish we're trying to make usually uses... fish.
 Verenata: But Lutine told me that... the outside world has something called "bacon," and that it tastes delicious. Monsieur Neuvillette has also enjoyed it before.
 Verenata: So, I think that if we can get some "bacon," we might be able to cook something incredible... Just like Carabosse always says, "knowledge is power"!
-Traveler: I'm not sure this has anything to do with knowledge...
-Paimon: It's the knowledge of what to do with cooking ingredients... kinda-sorta?
+    Option 1:
+        Traveler: I'm not sure this has anything to do with knowledge...
+        Paimon: It's the knowledge of what to do with cooking ingredients... kinda-sorta?
+    Option 2:
+        Traveler: "Fontaine is bacon"...
+        Paimon: ?
 Paimon: Anyway, don't worry about it. We've got this bacon thing down pat!
-Traveler: "Fontaine is bacon"...
-Paimon: ?
 
 ## Talk 5
 
@@ -35,18 +37,25 @@ Paimon: Hey, c'mon, enough about the pages! Aren't you trying to make "That Dish
 Canotila: Hmm... Well, since you've overheard, I suppose there really is nothing for it... You two must be included in this as well.
 Canotila: #A question, if I may! Mister Traveler, what ingredient symbolizes "birth" to you?
 Canotila: Something that "bestows life" and represents "newborn." I believe you know what I'm looking for, yes?
-Traveler: ?
-Paimon: ?
-Canotila: ...I want a bird egg. Just a bird egg.
+    Option 1:
+        Traveler: ?
+        Paimon: ?
+        Canotila: ...I want a bird egg. Just a bird egg.
+    Option 2:
+        Traveler: You mean... like a bird egg?
+        Canotila: Hehe, yeah! That's right! Sharp as always, I see!
+    Option 3:
+        Traveler: You mean... like a bird egg?
+        Canotila: Hehe, yeah! That's right! Sharp as always, I see!
 Canotila: But I suppose you can see the rub too, can't you? We Melusines have short arms and can't climb trees well, so it'll be... very troublesome for one of us to get any bird eggs.
-Traveler: Don't worry, leave it to me.
+    Option 1:
+        Traveler: Don't worry, leave it to me.
+    Option 2:
+        Traveler: You're not going to need a fresh one, are you...
+        Canotila: Huh? A fresh bird egg?
+        Canotila: #Hmm. That does sound much better than an "ordinary bird egg"! In that case, Mister Traveler, I'll need you to get fresh bird eggs!
+        Paimon: No, no, wait! They're not really any different! An ordinary bird egg will work just fine!
 Canotila: Anyway, I leave this to you, alright?
-Traveler: You're not going to need a fresh one, are you...
-Canotila: Huh? A fresh bird egg?
-Canotila: #Hmm. That does sound much better than an "ordinary bird egg"! In that case, Mister Traveler, I'll need you to get fresh bird eggs!
-Paimon: No, no, wait! They're not really any different! An ordinary bird egg will work just fine!
-Traveler: You mean... like a bird egg?
-Canotila: Hehe, yeah! That's right! Sharp as always, I see!
 
 ## Talk 6
 
@@ -80,7 +89,13 @@ Serene: Hmm... So that's why you were collecting components, yes?
 Paimon: Yeah! Though we're not really sure how to fix him right now... We were thinking that after getting the components, we could go somewhere like the Fontaine Research Institute and find someone to help us...
 Serene: If that's the case, then please take this.
 Paimon: Huh? Are these... components? Are you just giving them to us?
-Traveler: Thank you.
+    Option 1:
+        Traveler: Thank you.
+    Option 2:
+        Traveler: Do you need us to help you with anything?
+        Serene: Huh? Ah, no! I didn't mean to use this to get your help or anything!
+        Serene: #Well, either Traveler or Mamere are going to need those components, right? So just accept them!
+        Traveler: Thank you.
 Serene: I should be the one thanking you. Thank you for taking care of Mamere.
 Serene: That child's always alone and never tells me about anything...
 Serene: So, seeing her joyously talking with someone — and that someone being an outsider human friend as well — makes me happy.
@@ -90,10 +105,6 @@ Traveler: Right, where can we find more components?
 Serene: Hmm... Let me think. You can check the areas around the village. If you're lucky, you might be able to pick up some scattered components.
 Serene: But, this method alone isn't that efficient...
 Serene: So, why don't you ask the villagers if they need help with anything? I'm sure they'll give you components in exchange for that help.
-Traveler: Do you need us to help you with anything?
-Serene: Huh? Ah, no! I didn't mean to use this to get your help or anything!
-Serene: #Well, either Traveler or Mamere are going to need those components, right? So just accept them!
-Traveler: Thank you.
 
 ## Talk 10
 
@@ -117,17 +128,21 @@ Verenata: Ah! Ah! I just remembered there are notes that need to be collated! I 
 Puca: #I—I have also remembered that I need to meet with Mister Chesil tomorrow! I have to go now too! See you, Mister Traveler and Paimon!
 Canotila: Hmm... Golden butterflies...
 Paimon: Wait! Huh? Why did they all run off?
-Traveler: Maybe they don't want anyone else to know.
+    Option 1:
+        Traveler: Maybe they don't want anyone else to know.
+    Option 2:
+        Traveler: That's what we call a birthday surprise...
 Paimon: Hmm. So, they're planning to host a big birthday dinner for Serene?
 Paimon: Come to think of it, we haven't actually gotten to try the Melusines' dishes! If it's a birthday celebration, the food should be extra fancy, right?
 Paimon: #Ooohh, Paimon's starting to look forward to this birthday thing... Traveler, why don't we find and help them?
-Traveler: That's a birthday gift for someone else...
+    Option 1:
+        Traveler: That's a birthday gift for someone else...
+    Option 2:
+        Traveler: Don't you try to sneak a bite, Paimon.
 Paimon: Paimon... Paimon knows that! But... if we prepare a dish with the Melusines, you'll figure out how to make it, won't you? You know, in case Paimon wants some later...
 Paimon: No, wait! Paimon means "we"! We can eat it together in the future!
 Traveler: You're really something else, Paimon...
 Paimon: Hehe. Anyway, let's go check up on them and see if they need our help to prepare anything!
-Traveler: Don't you try to sneak a bite, Paimon.
-Traveler: That's what we call a birthday surprise...
 
 ## Talk 11
 
@@ -152,19 +167,23 @@ Paimon: Hehe, right? So, what do you need us to do?
 Puca: Hmm... The other ingredients are pretty easy to prepare, but we still need that white and sweet thing...
 Paimon: Huh? You mean sugar?
 Puca: No! Not that! Sugar is dangerous! *sigh* Eating that just once will make you always want to eat it. In the end... you'll get all round and stuff...
-Traveler: Just like a Breacher Primus?
+    Option 1:
+        Traveler: Just like a Breacher Primus?
+    Option 2:
+        Traveler: Just like Paimon?
+        Paimon: Hey! Paimon isn't round!
 Puca: Anyway, absolutely no sugar! I almost fell into its sweet trap in the past... We can't let the same thing happen to Serene!
 Paimon: But what else is white and sweet besides sugar?
-Traveler: Flour, perhaps?
-Paimon: Huh? How's flour supposed to be sweet?
-Paimon: No, wait, you can taste a little sweetness if you sample it for long enough...
+    Option 1:
+        Traveler: Flour, perhaps?
+        Paimon: Huh? How's flour supposed to be sweet?
+        Paimon: No, wait, you can taste a little sweetness if you sample it for long enough...
+    Option 2:
+        Traveler: (Stares at Paimon.)
+        Paimon: Wh—Why are you staring at Paimon like that?
 Puca: Um, well, I am referring to flour. First, we'll need to make it round. Then we bake it till it's tasty and crispy...
 Puca: But... I've used up all my flour... and Xana doesn't have any, either. We'll need to go out and get more...
 Paimon: #No problem, leave it to us! Traveler, let's check if we're carrying any flour!
-Traveler: (Stares at Paimon.)
-Paimon: Wh—Why are you staring at Paimon like that?
-Traveler: Just like Paimon?
-Paimon: Hey! Paimon isn't round!
 
 ## Talk 15
 
@@ -210,7 +229,12 @@ Paimon: Yeah! This way, all the ingredients for the dish should be ready!
 Puca: #Hehe, you really are awesome, Mister Traveler!
 Canotila: Alright! We'll leave the cooking to you, Verenata!
 Verenata: A—Alright! You can count on me! I've learned the greatest, bestest, most powerful-est cooking methods from Carabosse and Lutine!
-Traveler: You got this!
+    Option 1:
+        Traveler: You got this!
+    Option 2:
+        Traveler: As long as it doesn't turn out like your potions...
+        Paimon: Ahh! Don't make Paimon remember that smell!
+        Verenata: I got it this time! Don't worry about it!
 Verenata: Carabosse once said that the most important thing in cooking is vigor, and the will to never give up! We must never surrender to the ingredients, no matter what!
 Paimon: This style of cooking is already entirely different from what Paimon's familiar with...
 Verenata: No worries, no worries! Nothing will go wrong! Probably!
@@ -234,18 +258,19 @@ Canotila: Hmm, I'd say that Serene's a bit noisier and nosier at times, actively
 Puca: That's just the way she is...
 Canotila: #But either way, Mister Traveler and Paimon are better at... caring for people?
 Canotila: Anyway, we would like the two of you to accept our "goodwill"!
-Traveler: Hehe, awesome! This looks delicious!
-Paimon: #Huh? Traveler, you can't be serious... right?
+    Option 1:
+        Traveler: Hehe, awesome! This looks delicious!
+        Paimon: #Huh? Traveler, you can't be serious... right?
+    Option 2:
+        Traveler: Hmm. Uh, thanks?
 Puca: #Hehe, you look so happy right now, Mister Traveler!
 Canotila: Alright, let's go give the Poissonchant Pie to Serene!
-Traveler: Okay. Let's go!
+    Option 1:
+        Traveler: Okay. Let's go!
+    Option 2:
+        Traveler: Am I coming along as well?
+        Puca: Yup. I mean, you helped prepare the ingredients after all! And besides, the more people who eat together, the merrier, right?
 Paimon: Will this... really be okay?
-Traveler: Am I coming along as well?
-Puca: Yup. I mean, you helped prepare the ingredients after all! And besides, the more people who eat together, the merrier, right?
-Traveler: Hmm. Uh, thanks?
-Traveler: As long as it doesn't turn out like your potions...
-Paimon: Ahh! Don't make Paimon remember that smell!
-Verenata: I got it this time! Don't worry about it!
 
 ### Additional Talk 2
 
@@ -268,20 +293,24 @@ Canotila: Well, you're really noisy sometimes, but as long as you don't suddenly
 Serene: I... everyone...
 Canotila: Come on, that's no way to look at your own birthday. Anyway, if we don't eat the Poissonchant Pie we spent so long preparing soon, it'll get cold.
 Canotila: #Come, let's eat! You too, Mister Traveler and Paimon!
-Traveler: My taste buds were born for such adventure!
-Paimon: Wait, how does this count as an adventure?
+    Option 1:
+        Traveler: My taste buds were born for such adventure!
+        Paimon: Wait, how does this count as an adventure?
+    Option 2:
+        Traveler: Do I... really have to eat this...
+        Paimon: (Uh... Well, here goes nothing. Paimon should have a nibble at least...)
 Black Screen Text: You enjoy the strange Poissonchant Pie with the Melusines...
 Though it looks rather strange, the taste isn't as bad as you expected. On the contrary, it's quite delicious, so long as you can stomach the stares of the fish heads, their eyes still gleaming with a strange light...
 Paimon: Huh? It... tastes pretty good...
-Traveler: Another!
-Verenata: Ah, but we don't have any more... If you're still hungry, though, we can make more together in the future!
+    Option 1:
+        Traveler: Another!
+        Verenata: Ah, but we don't have any more... If you're still hungry, though, we can make more together in the future!
+    Option 2:
+        Traveler: Humanity might not yet be ready for this wonder...
+        Paimon: Yeah, though it tastes good, it looks...
 Canotila: Come on, make a wish — and make sure it's a wish for yourself!
 Serene: Well, if that's the case, my wish has already come true.
 Serene: #Thank you everyone! Thank you, Traveler and Paimon.
-Traveler: Humanity might not yet be ready for this wonder...
-Paimon: Yeah, though it tastes good, it looks...
-Traveler: Do I... really have to eat this...
-Paimon: (Uh... Well, here goes nothing. Paimon should have a nibble at least...)
 
 ### Additional Talk 3
 

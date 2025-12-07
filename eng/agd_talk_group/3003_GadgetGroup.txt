@@ -11,11 +11,13 @@ About the smuggling case...: "Please refer to the appendix for the list of names
 About the smuggling case...: "The smuggling case was solved by the joint forces of the Gardes and Marechaussee Phantom."
 About the smuggling case...: "The principal offenders have received judgment based on the severity of their crimes."
 About the smuggling case...: "Please refer to the appendix for the list of names."
-Traveler: Continue Reading
-About the smuggling case...: "The principal offenders Domenico, Inika, Youna and others have been caught. They have been sent to the Fortress of Meropide following trial."
-About the smuggling case...: "Those with close connections or mutual interests with the offenders but who did not participate in the case will not stand trial."
-About the smuggling case...: "Among them, surveillance of Esseim has ceased on account of his good behavior. All other personnel remain on our watchlist."
-Traveler: Leave
+    Option 1:
+        Traveler: Continue Reading
+        About the smuggling case...: "The principal offenders Domenico, Inika, Youna and others have been caught. They have been sent to the Fortress of Meropide following trial."
+        About the smuggling case...: "Those with close connections or mutual interests with the offenders but who did not participate in the case will not stand trial."
+        About the smuggling case...: "Among them, surveillance of Esseim has ceased on account of his good behavior. All other personnel remain on our watchlist."
+    Option 2:
+        Traveler: Leave
 
 ## Talk 2
 

@@ -5,7 +5,10 @@
 
 Katheryne: Hmm... It seems that the situation has been getting worse over the last two days. The exploration team's movements will be limited as a result...
 Katheryne: Who can I get to take this commission up...
-Traveler: What's going on?
+    Option 1:
+        Traveler: What's going on?
+    Option 2:
+        Traveler: Has something happened?
 Katheryne: #Ah! Traveler and Paimon. Your timing truly is impeccable.
 Paimon: Impeccable, you say?
 Paimon: Sounds like we've got trouble on our hands again.
@@ -25,14 +28,15 @@ Katheryne: To make things trickier, most adventurers are not very familiar with 
 Katheryne: So the one who accepts this commission will have to be someone with no fear of danger and who knows The Chasm like the back of their hand...
 Katheryne: And just as I was puzzling over this matter, you two dropped by.
 Paimon: #So that's how it is. Things do seem quite serious, Traveler...
-Traveler: Right. Let's go have a look.
+    Option 1:
+        Traveler: Right. Let's go have a look.
+    Option 2:
+        Traveler: I suppose we can help Khedive out.
 Paimon: Then let's go now, shall we?
 Katheryne: Ah, about that... Khedive did say that you just have to look for that other researcher from Sumeru.
 Katheryne: Or, to quote him verbatim, "If anyone's willing to help, tell them to go to the campsite at The Chasm. That guy will be there prepping, just as usual."
 Traveler: Alright, then we'll be off.
 Katheryne: Thank you. The Chasm's safety is in your hands!
-Traveler: I suppose we can help Khedive out.
-Traveler: Has something happened?
 
 ## Talk 2
 
@@ -52,7 +56,10 @@ Hosseini: ...I'm quite sure that I've never introduced myself as such.
 Hosseini: Whatever the case, I received a request from a fellow researcher named Khedive. I owe him a favor regarding research funds from way back...
 Hosseini: So I'm here at The Chasm to help him solve this problem.
 Hosseini: Well, I hope that explanation's clear enough. In which case, let me ask the question: Why are you two here at The Chasm?
-Traveler: Well, we also just so happen to have received a commission from Khedive...
+    Option 1:
+        Traveler: Well, we also just so happen to have received a commission from Khedive...
+    Option 2:
+        Traveler: We're your backup.
 Hosseini: Ah, so that's you! And to think I was worried when Khedive mentioned that he was going to get some people to help out.
 Hosseini: Since it's you, I guess there's nothing to worry about.
 Hosseini: I must admit that if I were to attempt to resolve the dark mud issue here at The Chasm myself, it would take a lot of time and energy. But with your help, our odds are... well, higher.
@@ -69,7 +76,6 @@ Hosseini: But theory is, as you know, ultimately theory, and theories must all b
 Traveler: Well, allow me, then...
 Hosseini: Hmm, alright, I'll leave it to you.
 Hosseini: I will observe from the sides.
-Traveler: We're your backup.
 
 ## Talk 3
 

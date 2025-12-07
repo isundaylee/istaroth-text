@@ -20,14 +20,16 @@ Sayid: Well, then. Have you encountered a problem that you need a "researcher" t
 Traveler: Well, here's what happened...
 Sayid: Islands out at sea... and murals that you found there. How fascinating.
 Sayid: So you're looking for a researcher who can help you decipher those murals, I gather?
-Traveler: Are you willing to help us out?
-Sayid: Of course, I have never rejected an opportunity to study the unknown.
+    Option 1:
+        Traveler: Are you willing to help us out?
+        Sayid: Of course, I have never rejected an opportunity to study the unknown.
+    Option 2:
+        Traveler: We can pay you.
+        Sayid: Hahaha. From the look of things, you must be highly-experienced adventurers.
+        Sayid: However, I would say that these stories of the unknown are the greatest possible remuneration for me. You need not pay me anything else.
 Sayid: Now then, let us not delay. Could I have a look at those murals?
 Traveler: Here are the ones we recorded down.
 Sayid: Oh, not bad, not bad at all. My apologies, please give me a moment to think...
-Traveler: We can pay you.
-Sayid: Hahaha. From the look of things, you must be highly-experienced adventurers.
-Sayid: However, I would say that these stories of the unknown are the greatest possible remuneration for me. You need not pay me anything else.
 
 ## Talk 4
 
@@ -113,7 +115,10 @@ Sayid: They then stayed on that island.
 Sayid: As for this mural, it shows five objects with five different markings within them.
 Sayid: Just like five cups filled with water, with each one containing a different amount of it.
 Sayid: This sort of artwork usually hints at a change in the state of something.
-Traveler: A change in state...
+    Option 1:
+        Traveler: A change in state...
+    Option 2:
+        Traveler: ...What does that mean, exactly?
 Sayid: However, I cannot guess at what this "something" is exactly.
 Sayid: Still, if this is an island in the middle of the ocean, then this "something" could always be "seawater."
 Sayid: Next, let's look at this mural.
@@ -126,13 +131,14 @@ Sayid: Here, I'm sure you can observe that this mountain has been specially mark
 Sayid: I suspect that this place must have been important to these people.
 Sayid: Finally, we come to this one. Clearly, they found some way to leave this island and thus departed.
 Sayid: The story the murals tell should be as such.
-Traveler: Thank you.
-Sayid: It was nothing. In fact, I have always been quite interested in this sort of research.
+    Option 1:
+        Traveler: Thank you.
+        Sayid: It was nothing. In fact, I have always been quite interested in this sort of research.
+    Option 2:
+        Traveler: Why did they have to use murals, though?
+        Sayid: Sometimes, images are more intuitive than language when it comes to recording and transmitting information.
 Sayid: Thank you for bringing me this story and these murals. I never thought that I would encounter such things in Mondstadt.
 Sayid: Perhaps I should take some time out to walk around outside...
-Traveler: Why did they have to use murals, though?
-Sayid: Sometimes, images are more intuitive than language when it comes to recording and transmitting information.
-Traveler: ...What does that mean, exactly?
 
 ## Talk 20
 
@@ -177,11 +183,13 @@ Paimon: Let's look around and see what we can find!
 ### Additional Talk 5
 
 Paimon: Still, it feels as though these murals are hiding some other message. If only we could get someone to help us decipher it...
-Traveler: Perhaps we should put up a commission at the Adventurers' Guild.
-Paimon: Hey! If we do that, and the murals turn out to be clues to some treasure, aren't we just giving it up for free?
-Paimon: That won't do! Let's look for... oh, let's go look for a researcher and get them to help us out!
+    Option 1:
+        Traveler: Perhaps we should put up a commission at the Adventurers' Guild.
+        Paimon: Hey! If we do that, and the murals turn out to be clues to some treasure, aren't we just giving it up for free?
+        Paimon: That won't do! Let's look for... oh, let's go look for a researcher and get them to help us out!
+    Option 2:
+        Traveler: Let's rope a researcher into this business, shall we?
+        Paimon: Hmm, that would be best. But where would we find one...
 Paimon: Ooh, Paimon's heard people say that you can normally find researchers in the library, right?
 Paimon: Let's go back there and try our luck, shall we?
 Paimon: Who knows, we might just find the researcher we need there!
-Traveler: Let's rope a researcher into this business, shall we?
-Paimon: Hmm, that would be best. But where would we find one...

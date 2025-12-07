@@ -10,7 +10,10 @@ Zhongli: Yes. Thank you.
 Granny Shan: It's rare to see customers who want to buy this type of kite nowadays. In the early days, we used to get orders from people of all walks of life...
 Paimon: Well, this is Mr. Zhongli from the Wangsheng Funeral Parlor, so he's probably well-versed in all these walks of life.
 Paimon: We've talked about a whole bunch of things while traveling with him...
-Traveler: Fashion, economics, jewelry and jade pottery...
+    Option 1:
+        Traveler: Fashion, economics, jewelry and jade pottery...
+    Option 2:
+        Traveler: Tea, perfumes, flora and fauna...
 Paimon: He seems to know Liyue's favorite topics, money and government, really well, but he likes talking about less useful topics instead.
 Zhongli: Well, that's because I prefer to share fun things with you.
 Granny Shan: Children's toys are very fun things, that's for sure. I enjoy watching the children at play as much as anyone else. But there is more to it than that.
@@ -20,18 +23,28 @@ Zhongli: Indeed. These are decorations used in the Rite of Parting. The seven ki
 Granny Shan: I took the liberty of coloring outside the lines when doing the insignia of the Anemo Archon.
 Granny Shan: As for the kite that honors the Geo Archon, one must follow the contract given right down to the last letter. These patterns are ancient, and you can also find them in the Golden House.
 Paimon: Ah, Paimon's heard that name before—
-Traveler: Shh!
+    Option 1:
+        Traveler: Shh!
+    Option 2:
+        Traveler: Paimon, stop talking...
 Paimon: Huh?
 Zhongli: The design of this kite displays a firm grasp on the cyclicality and eternity so dear to the Electro Archon.
 Zhongli: These markings of tree and leaf pay due honor to wisdom and the passage of time. All this, on a single kite — truly astonishing.
 Zhongli: Justice flows across the surface of the waters, war rages like a flame, as does that which the Cryo Archon once... yes, these details are masterfully done.
 Granny Shan: Hehehe, the compliments of a learned man truly are pleasant.
 Zhongli: Well then, Granny Shan, I shall take these back with me. As for the payment...
-Traveler: Uh-oh!
+    Option 1:
+        Traveler: Uh-oh!
+    Option 2:
+        Traveler: "As for the payment," he says!
 Childe: Well, allow me.
 Paimon: Hey, it's Childe!
-Traveler: Did you arrange to meet here?
-Childe: Haha. No, I was merely passing through.
+    Option 1:
+        Traveler: Did you arrange to meet here?
+        Childe: Haha. No, I was merely passing through.
+    Option 2:
+        Traveler: You ambushed us!
+        Childe: Haha, no way. I was just passing through!
 Childe: I see Mr. Zhongli's the same as ever. When paying— Well, when getting others to pay for him, he neither looks at the price tag nor his wallet.
 Childe: He knows a great deal about money, and about the trials of the common man. He just doesn't consider poverty to be something that could ever happen to him.
 Childe: Or perhaps you could say that he cannot imagine himself lacking money.
@@ -41,11 +54,6 @@ Zhongli: The Rite of Parting requires helping hands as well as materials. We sho
 Childe: #Oh, by the way, Traveler, take this bag of money. You probably won't want to let Zhongli do the bargaining, if you know what I mean.
 Childe: Hmm... It seems I missed out on some interesting information.
 Childe: ...I suppose I'll just have to find a more opportune moment next time.
-Traveler: You ambushed us!
-Childe: Haha, no way. I was just passing through!
-Traveler: "As for the payment," he says!
-Traveler: Paimon, stop talking...
-Traveler: Tea, perfumes, flora and fauna...
 
 ## Talk 2
 
@@ -59,8 +67,10 @@ Zhongli: Let me see... we are still missing some wooden implements over at Yujin
 Traveler: Fetch me 50 tree branches, and 20 stacks of timber!
 Tic: No problem. That'll be *twenty thousand Mora* for a single trip. How does that sound?
 Zhongli: Done.
-Traveler: Wait, let's talk prices.
-Traveler: We have a deal.
+    Option 1:
+        Traveler: Wait, let's talk prices.
+    Option 2:
+        Traveler: We have a deal.
 
 ## Talk 4
 
@@ -97,8 +107,10 @@ Tac: A full day of odd jobs at Yujing Terrace? Hmm... No problem. *Twenty-five t
 Paimon: Whoa, that's expensive. Um, could you give us a bit of a discount on account of the whole Hero of Mondstadt thing?
 Tac: Hero of Mondstadt? Never heard of them.
 Zhongli: Well, you may never have heard of this hero, but it seems you've heard of Mora nonetheless, thus I will simply pay the whole sum.
-Traveler: Wait, let's talk prices.
-Traveler: We'll pay in full.
+    Option 1:
+        Traveler: Wait, let's talk prices.
+    Option 2:
+        Traveler: We'll pay in full.
 
 ## Talk 9
 
@@ -134,8 +146,10 @@ Zhongli: Adventure... venturing into the mountains to capture a few crystalflies
 Traveler: Brave adventurer, we have need of 5 crystalflies.
 Toe: Eh? That's not hard, almost a bit too easy for a reserve adventurer... Eh, never mind. I'll only charge you *fifteen thousand Mora*. What say you?
 Zhongli: A most fair price.
-Traveler: No, let's negotiate...
-Traveler: Yes, a fair price.
+    Option 1:
+        Traveler: No, let's negotiate...
+    Option 2:
+        Traveler: Yes, a fair price.
 
 ## Talk 14
 
@@ -148,14 +162,18 @@ Paimon: #Hey, don't get mad... Ah, guess we have no choice but to pay in full, T
 
 ## Talk 16
 
-Toe: Hiring help? Sure, but let me just say first that I'm a reserve member of the Adventurers' Guild. I take adventuring commissions, but I don't do anything clerical.
 Traveler: Brave adventurer, we have need of 5 crystalflies.
+[Missing Dialog 10131104]
+
+Toe: Hiring help? Sure, but let me just say first that I'm a reserve member of the Adventurers' Guild. I take adventuring commissions, but I don't do anything clerical.
 Zhongli: Adventure... venturing into the mountains to capture a few crystalflies seems adventurous enough.
+[Missing Dialog 10131303]
+
 Toe: Eh? That's not hard, almost a bit too easy for a reserve adventurer... Eh, never mind. I'll only charge you *fifteen thousand Mora*. What say you?
-Traveler: Ugh, we brought too little money...
 Zhongli: A most fair price.
-Traveler (Thank you! These paints should last me for a while.): Please go look for someone named Childe...
+Traveler: Ugh, we brought too little money...
 Toe: This is all you've got? Then no can do.
+Traveler (Thank you! These paints should last me for a while.): Please go look for someone named Childe...
 Toe: Childe? No, no, no. He's putting up the money? Still, no. Wouldn't that mean that I have to make two trips rather than one?
 Toe: How about this. Let's make a trade. I'll take what you're offering right now, and...
 Toe: Get me a piece of *iron ore*. I'll take that as payment to go see that Childe person. What do you think?
@@ -181,7 +199,10 @@ Childe: Haha. Well, how does this sound: You give me the information I need, and
 Paimon: What info do you need!?
 Traveler: No!
 Paimon: #Huh? Traveler, does that mean you know what he's after?
-Traveler: What else could the Fatui want?
+    Option 1:
+        Traveler: What else could the Fatui want?
+    Option 2:
+        Traveler: Are you forgetting what happened in Mondstadt?
 Paimon: Yikes! You're right, Signora...
 Childe: ...
 Childe: #You both need to calm down... I don't know what's gotten into you, Traveler.
@@ -191,7 +212,6 @@ Zhongli: Next, we need some Everlasting Incense. For this, we need to go to Bubu
 Zhongli: Is... everything okay?
 Childe: Everything is fine. I was just informing them that they need not return the surplus Mora.
 Childe: Now, if you'll excuse me, I must be going.
-Traveler: Are you forgetting what happened in Mondstadt?
 
 ## Talk 21
 

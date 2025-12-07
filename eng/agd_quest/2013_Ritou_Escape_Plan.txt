@@ -47,13 +47,19 @@ Paimon: I suppose it's time we find Thoma. Now where did he say he would meet us
 Hiiragi Chisato: Ah, you've finally arrived... Allow me to introduce myself, I am Hiiragi Chisato.
 Hiiragi Chisato: This is... technically the second time we have met. It's a pleasure to see you again.
 Paimon: Wow, she's the daughter of the Hiiragi Clan alright...
-Traveler: The pleasure is mine.
+    Option 1:
+        Traveler: The pleasure is mine.
+    Option 2:
+        Traveler: I'm delighted to see you again.
 Hiiragi Chisato: N—No need to be so formal — I've long marveled at your accomplishments... and at last we have the chance to meet.
 Paimon: Is it Paimon, or does something seem a bit off here?
 Hiiragi Chisato: The reason why I wanted to secretly meet you here is... Well, I feared that I might never have another opportunity to discuss this with you...
 Paimon: D—Discuss what?
 Hiiragi Chisato: Ahem... I should like to ask for your help with... delivering a letter.
-Traveler: ...
+    Option 1:
+        Traveler: ...
+    Option 2:
+        Traveler: I'm leaving.
 Paimon: Ugh, like father, like daughter! Couldn't you be more original?
 Hiiragi Chisato: N—No! You misunderstand me — please... allow me to explain.
 Hiiragi Chisato: I was hoping that you could deliver a letter to Narukami Island in my stead. It is to be given to Kujou Kamaji of the Tenryou Commission.
@@ -61,19 +67,21 @@ Hiiragi Chisato: My father has always forbidden me from communicating with him. 
 Hiiragi Chisato: There is no one who would dare defy my father's will on Ritou, but you are outlanders — outlanders seeking to get to Narukami Island. It would be regrettable to let such an opportunity pass...
 Paimon: Ah, Paimon gets the whole picture now...
 Hiiragi Chisato: Of course, in doing so, I will also do everything in my power to help you leave Ritou. That is my promise.
-Traveler: Hmm, seems like a reasonable deal.
+    Option 1:
+        Traveler: Hmm, seems like a reasonable deal.
+    Option 2:
+        Traveler: Seeing as we don't have any other options...
 Hiiragi Chisato: To be perfectly honest... as long as you remain in Inazuma, my father will have no intention of letting you leave Ritou.
 Paimon: Yeah, we figured as much. It was pretty obvious he was just trying to hold us up here.
 Hiiragi Chisato: I secretly overheard a conversation between my father and a very arrogant-sounding woman just a few days ago.
 Hiiragi Chisato: They seemed to be discussing how to keep you here on Ritou. In fact, it was the first time I had ever heard my father speak so respectfully to someone who wasn't the shogun.
-Traveler: An arrogant-sounding woman...
+    Option 1:
+        Traveler: An arrogant-sounding woman...
+    Option 2:
+        Traveler: Seems we need to get off Ritou as fast as we can.
 Hiiragi Chisato: We don't have much time. I'll tell you my plans to help you off the island. It just so happens that a shipment of goods is...
 Hiiragi Chisato: (Hiiragi Chisato tells the Traveler her plans.)
 Hiiragi Chisato: Very well, I'll be waiting for you at the border. I'm counting on you to deliver my letter.
-Traveler: Seems we need to get off Ritou as fast as we can.
-Traveler: Seeing as we don't have any other options...
-Traveler: I'm leaving.
-Traveler: I'm delighted to see you again.
 
 ## Talk 9
 
@@ -82,7 +90,10 @@ Shinnojou: My lady! This is an unexpected honor. You are correct, these goods ha
 Kenzaburou: Is there something wrong, Lady Hiiragi?
 Hiiragi Chisato: No, as you were. My father simply has some concerns of the shipment's safety, and has ordered that myself and an additional qualified escort be dispatched to ensure safe transport of the goods.
 Kenzaburou: My lady, you aren't suggesting that you intend to escort the shipment personally, are you? There's certainly no need for you to trouble yourself with such a matter, and as for this "qualified escort"...
-Traveler: I look forward to working with you.
+    Option 1:
+        Traveler: I look forward to working with you.
+    Option 2:
+        Traveler: You dare question my abilities?
 Hiiragi Chisato: Please, do not cause us any further delay. If memory serves me right, my father has already asserted that this shipment must arrive on time. I'm certain punishment will be duly dispensed if it fails to do so.
 Kenzaburou: Yes, of course my lady. I—It's just that... Well, we don't know who this—
 Hiiragi Chisato: Now, need I remind you of the penalty if anything were to happen to me en route? I'm sure you are all quite familiar with my father's temperament.
@@ -94,7 +105,6 @@ Shinnojou: Well, the request is from Lady Hiiragi herself. It is our duty to ser
 Kenzaburou: Yes, but... that's not the problem here...
 Hiiragi Chisato: Well then, if we're through here, I suggest we set off at once. Dawdling will only allow potential thieves more time to prepare, no?
 Kenzaburou: Y—Yes, my lady. You heard her, there's no time to lose!
-Traveler: You dare question my abilities?
 
 ## Talk 10
 
@@ -109,7 +119,10 @@ Traveler: You dare question my abilities?
 Shinnojou: Whew, we can take refuge in the village up ahead. How are you faring, my lady?
 Hiiragi Chisato: I'm perfectly alright. You may stop here. The road to Narukami Island is just over there.
 Hiiragi Chisato: In my letter, I've requested Kamaji to grant you a special Travel Permit from the Tenryou Commission. Consider it a token of my appreciation.
-Traveler: Thank you, Chisato.
+    Option 1:
+        Traveler: Thank you, Chisato.
+    Option 2:
+        Traveler: Please be careful.
 Shinnojou: My lady...?
 Kenzaburou: Huh! So that's how it is. I had a feeling something was amiss, but Shinnojou, you...
 Shinnojou: No, Lady Hiiragi would never hide anything from us, I'm sure of it. But who is this "Kamaji" you speak of, my lady?
@@ -126,7 +139,6 @@ Hiiragi Chisato: I wish you a safe journey. I'm sure we will meet again.
 Paimon: Bye Chisato!
 Kenzaburou: Come now! Quit your staring and let's get moving. We've got goods to shift.
 Shinnojou: *whimpers* Al—Alright... *sobs*
-Traveler: Please be careful.
 
 ## Additional Conversations
 

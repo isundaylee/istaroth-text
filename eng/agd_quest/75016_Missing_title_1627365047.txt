@@ -3,15 +3,23 @@
 
 ## Talk 2
 
+Manqu: #Alright. I'll be forthright. You must have seen many little Tepetlisaurs before, yes? {REALNAME[ID(2)|SHOWHOST(true)]} is different from them.
+    Option 1:
+        [Missing Dialog 750160228]
+    Option 2:
+        [Missing Dialog 750160230]
+
 Manqu (???): Excuse me. You two are... travelers from beyond these lands, yes?
 Manqu (???): Heh... Sorry, but is this little Tepetlisaur your companion?
 Manqu (???): Even got a lovely scarf tied to his tail, I see! Haha, he sure is a little bundle of energy.
 Paimon: #Yup, this is {REALNAME[ID(2)|SHOWHOST(true)]}. We met as soon as we arrived in Natlan, and he's been traveling with us since.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Manqu (???): Traveling together, are you? Hmm. Well, then, forgive me for being presumptuous, but that kind of behavior is dangerous indeed...
-Traveler: Traveling together with a Saurian, you mean?
-Traveler: Don't worry, I've been careful not to get eaten...
-Paimon: #C'mon, {REALNAME[ID(2)|SHOWHOST(true)]} wouldn't do that to you!
+    Option 1:
+        Traveler: Traveling together with a Saurian, you mean?
+    Option 2:
+        Traveler: Don't worry, I've been careful not to get eaten...
+        Paimon: #C'mon, {REALNAME[ID(2)|SHOWHOST(true)]} wouldn't do that to you!
 Paimon: Humans and Saurians living together is pretty normal here, isn't it?
 Paimon: #Or do you mean that traveling is dangerous, and so {REALNAME[ID(2)|SHOWHOST(true)]} shouldn't wander off too far?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
@@ -26,14 +34,17 @@ Manqu: #Ah, such energy. Looks like Traveler and Paimon have been taking good ca
 Paimon: #Of course we have! We've feasted a ton in our time together, haven't we, {REALNAME[ID(2)|SHOWHOST(true)]}?
 Paimon: #Hey, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off!
 Manqu: Shame. He's such a vigorous little one too...
-Traveler: So, what's the danger exactly?
-Traveler: Mind your tone, would you?
+    Option 1:
+        Traveler: So, what's the danger exactly?
+    Option 2:
+        Traveler: Mind your tone, would you?
 Manqu: My apologies. Eloquence is not my strong suit... But I really do think it is a shame.
 Manqu: #Alright. I'll be forthright. You must have seen many little Tepetlisaurs before, yes? {REALNAME[ID(2)|SHOWHOST(true)]} is different from them.
-Traveler: Yeah, he has a beautiful ribbon on his tail!
-Traveler: You mean the red mark on his horn?
-Manqu: #Alright. I'll be forthright. You must have seen many little Tepetlisaurs before, yes? {REALNAME[ID(2)|SHOWHOST(true)]} is different from them.
-Manqu: Haha, that was your doing, no? But that's not what I'm talking about — rather, I speak of the mark on his horn.
+    Option 1:
+        Traveler: Yeah, he has a beautiful ribbon on his tail!
+        Manqu: Haha, that was your doing, no? But that's not what I'm talking about — rather, I speak of the mark on his horn.
+    Option 2:
+        Traveler: You mean the red mark on his horn?
 Manqu: That is not a mark that an ordinary Saurian would bear. In truth, records indicate this to be the "Flame{RUBY#[D]Xiuhcoatl}lord's Blessing."
 Manqu: How to put it... Saurians with this mark often possess incredible power, such as greater strength than other Saurians, swifter swimming speed, or being able to leap to greater heights.
 Traveler: That sounds like a perk to me.
@@ -42,13 +53,17 @@ Manqu: This is the power of the far more ancient dragons, and Natlan's Saurians 
 Manqu: The Wayob and the Night Kingdom also reject this power, and as such, refuse to accept such Saurians.
 Manqu: And in the process of growing, they will sometimes be killed by this power, or driven mad by it... Both dangerous possibilities.
 Manqu: Perhaps, I believe, you should deliver him to the Children of Echoes. They will deal with the matter appropriately.
-Traveler: "Deal with the matter"?
-Traveler: That phrasing is ice-cold.
+    Option 1:
+        Traveler: "Deal with the matter"?
+    Option 2:
+        Traveler: That phrasing is ice-cold.
 Manqu: Again, apologies for my clumsy words. But I believe it best to leave this to us locals.
 Traveler: ...Thanks for letting me know.
 Manqu: But you do not intend to give up on him, I presume?
-Traveler: Giving up should never be the first resort.
-Traveler: I do not abandon my companions.
+    Option 1:
+        Traveler: Giving up should never be the first resort.
+    Option 2:
+        Traveler: I do not abandon my companions.
 Manqu: ...*sigh* Alright. Very well, outlander. Your resolve is evident.
 Manqu: I do not know if I should reveal this to you, for this is a secret that only we locals know...
 Manqu: #...But if you wish to save {REALNAME[ID(2)|SHOWHOST(true)]}, you must take him on a pilgrimage to the volcano.
@@ -60,8 +75,10 @@ Manqu: But you are an outlander, a traveler from afar, unbound by the old-fashio
 Manqu: And if you succeed, you will prove beyond doubt that the inscriptions on some ancient relics and crumbling scrolls remain true to this day.
 Manqu: This is of utmost importance to me... so if you would like to try, I will help you find that token.
 Manqu: And as for you, you will be able to save your companion.
-Traveler: Sounds like a win-win.
-Traveler: It's worth a shot...
+    Option 1:
+        Traveler: Sounds like a win-win.
+    Option 2:
+        Traveler: It's worth a shot...
 Manqu: In that case, I shall let you know if I find the place. Alternatively, you could come find me. My research will take me near the Children of Echoes for the time being...
 Manqu: Until we meet again, then, friend.
 Black Screen Text: The Saurian Relics Association member, Manqu, turns and departs.
@@ -87,7 +104,11 @@ Manqu (???): Even got a lovely scarf tied to his tail, I see! Haha, he sure is a
 Paimon: #Yup, this is {REALNAME[ID(2)|SHOWHOST(true)]}. We met as soon as we arrived in Natlan, and he's been traveling with us since.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Manqu (???): Traveling together, are you? Hmm. Well, then, forgive me for being presumptuous, but that kind of behavior is dangerous indeed...
-Traveler: Traveling together with a Saurian, you mean?
+    Option 1:
+        Traveler: Traveling together with a Saurian, you mean?
+    Option 2:
+        Traveler: Don't worry, I've been careful not to get eaten...
+        Paimon: #C'mon, {REALNAME[ID(2)|SHOWHOST(true)]} wouldn't do that to you!
 Paimon: Humans and Saurians living together is pretty normal here, isn't it?
 Paimon: #Or do you mean that traveling is dangerous, and so {REALNAME[ID(2)|SHOWHOST(true)]} shouldn't wander off too far?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
@@ -102,11 +123,17 @@ Manqu: #Ah, such energy. Looks like Traveler and Paimon have been taking good ca
 Paimon: #Of course we have! We've feasted a ton in our time together, haven't we, {REALNAME[ID(2)|SHOWHOST(true)]}?
 Paimon: #Hey, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off!
 Manqu: Shame. He's such a vigorous little one too...
-Traveler: So, what's the danger exactly?
+    Option 1:
+        Traveler: So, what's the danger exactly?
+    Option 2:
+        Traveler: Mind your tone, would you?
 Manqu: My apologies. Eloquence is not my strong suit... But I really do think it is a shame.
 Manqu: #Alright. I'll be forthright. You must have seen many little Tepetlisaurs before, yes? {REALNAME[ID(2)|SHOWHOST(true)]} is different from them.
-Traveler: Yeah, he has a beautiful ribbon on his tail!
-Manqu: Haha, that was your doing, no? But that's not what I'm talking about — rather, I speak of the mark on his horn.
+    Option 1:
+        Traveler: Yeah, he has a beautiful ribbon on his tail!
+        Manqu: Haha, that was your doing, no? But that's not what I'm talking about — rather, I speak of the mark on his horn.
+    Option 2:
+        Traveler: You mean the red mark on his horn?
 Manqu: That is not a mark that an ordinary Saurian would bear. In truth, records indicate this to be the "Flame{RUBY#[D]Xiuhcoatl}lord's Blessing."
 Manqu: How to put it... Saurians with this mark often possess incredible power, such as greater strength than other Saurians, swifter swimming speed, or being able to leap to greater heights.
 Traveler: That sounds like a perk to me.
@@ -115,11 +142,17 @@ Manqu: This is the power of the far more ancient dragons, and Natlan's Saurians 
 Manqu: The Wayob and the Night Kingdom also reject this power, and as such, refuse to accept such Saurians.
 Manqu: And in the process of growing, they will sometimes be killed by this power, or driven mad by it... Both dangerous possibilities.
 Manqu: Perhaps, I believe, you should deliver him to the Children of Echoes. They will deal with the matter appropriately.
-Traveler: "Deal with the matter"?
+    Option 1:
+        Traveler: "Deal with the matter"?
+    Option 2:
+        Traveler: That phrasing is ice-cold.
 Manqu: Again, apologies for my clumsy words. But I believe it best to leave this to us locals.
 Traveler: ...Thanks for letting me know.
 Manqu: But you do not intend to give up on him, I presume?
-Traveler: Giving up should never be the first resort.
+    Option 1:
+        Traveler: Giving up should never be the first resort.
+    Option 2:
+        Traveler: I do not abandon my companions.
 Manqu: ...*sigh* Alright. Very well, outlander. Your resolve is evident.
 Manqu: I do not know if I should reveal this to you, for this is a secret that only we locals know...
 Manqu: #...But if you wish to save {REALNAME[ID(2)|SHOWHOST(true)]}, you must take him on a pilgrimage to the volcano.
@@ -131,7 +164,10 @@ Manqu: But you are an outlander, a traveler from afar, unbound by the old-fashio
 Manqu: And if you succeed, you will prove beyond doubt that the inscriptions on some ancient relics and crumbling scrolls remain true to this day.
 Manqu: This is of the utmost importance to me... so if you would like to try, I will help you find that token.
 Manqu: And as for you, you will be able to save your companion.
-Traveler: Sounds like a win-win.
+    Option 1:
+        Traveler: Sounds like a win-win.
+    Option 2:
+        Traveler: It's worth a shot...
 Manqu: In that case, I shall let you know if I find the place. Alternatively, you could come find me. My research will take me near the Children of Echoes for the time being...
 Manqu: Until we meet again, then, friend.
 Black Screen Text: The Saurian Relics Association member, Manqu, turns and departs.
@@ -148,13 +184,6 @@ Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
 Traveler: You come along too!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: It's worth a shot...
-Traveler: I do not abandon my companions.
-Traveler: That phrasing is ice-cold.
-Traveler: You mean the red mark on his horn?
-Traveler: Mind your tone, would you?
-Traveler: Don't worry, I've been careful not to get eaten...
-Paimon: #C'mon, {REALNAME[ID(2)|SHOWHOST(true)]} wouldn't do that to you!
 
 ## Talk 5
 

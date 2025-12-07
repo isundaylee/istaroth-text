@@ -11,8 +11,12 @@ Louqua: Unbelievable... No signs of Abyssal corruption whatsoever. The same goes
 Louqua: In that case, just get some rest, and enjoy your victory.
 Paimon: That means... There's officially nothing to worry about!
 Paimon: You won, hahahaha! You actually won!
-Traveler: Finally, it's time to relax.
-Paimon: Paimon knew you could do it! The Abyss is no match for you!
+    Option 1:
+        Traveler: Finally, it's time to relax.
+        Paimon: Paimon knew you could do it! The Abyss is no match for you!
+    Option 2:
+        Traveler: Finally, someone to speak for me.
+        Paimon: Is that all Paimon is to you...? You know what? Never mind. You get a free pass on all Paimon-teasing today!
 Iansan: #You did it again, Traveler. Your strength is remarkable!
 Iansan: And now, Natlan is finally free from the threat of the Abyss!
 Mualani: Welcome back, great hero... I can't wait to tell your story to everyone!
@@ -27,7 +31,10 @@ Iansan: I don't think it would be quite so simple, Kachina. But, still...
 Iansan: If something like that really did happen, I'd come for you, too, no matter what it took.
 Mualani: Couldn't have said it better myself!
 Kinich: Bravery aside, I try not to act on impulse... But, I suppose there's an exception to every rule.
-Traveler: Before you praise me too much...
+    Option 1:
+        Traveler: Before you praise me too much...
+    Option 2:
+        Traveler: I have something to say.
 Traveler: In the Ley Lines, I encountered many souls of the dead, and I could hear everyone rooting for me from above.
 Paimon: Wait, really? Who did you see?
 Traveler: I saw Atea, Vichama, Chuychu, and all six heroes from five hundred years ago... Not to mention, I heard the messages you left for me in my ancient name.
@@ -57,9 +64,6 @@ Paimon: Haha, slow down! There's no rush!
 Paimon: Mavuika, if this ceremony is to celebrate defeating the Abyss, don't you deserve the same honor?
 Mavuika: What's the point of holding a victory feast for yourself? Besides, I'm already the Pyro Archon — that's enough honor for a lifetime.
 Mavuika: Let's go. Everyone's waiting for us.
-Traveler: I have something to say.
-Traveler: Finally, someone to speak for me.
-Paimon: Is that all Paimon is to you...? You know what? Never mind. You get a free pass on all Paimon-teasing today!
 
 ## Talk 3
 
@@ -170,7 +174,10 @@ Sadigua: #Most importantly, Traveler is kind and brave, someone who treasures th
 Soncco: #Yeah, {F#s}he's super strong! Tell us more!
 Ayun: Hey, just let him finish the story!
 Paimon: #The man telling the story keeps looking this way, Traveler. Paimon thinks he recognizes you...
-Traveler: Well, we've really made a name ourselves in Natlan.
+    Option 1:
+        Traveler: Well, we've really made a name ourselves in Natlan.
+    Option 2:
+        Traveler: Listening to all this is a little embarrassing, though...
 Sadigua: The second hero is also an outlander.
 Sadigua: Many years ago, he forged a connection with this land and used his body as a vessel for the souls of his fallen comrades.
 Sadigua: His goal was to give them a home and, with that, a chance to be reborn into this world.
@@ -200,7 +207,6 @@ Matho: So, no one wants to be the Pyro Archon anymore?
 Paimon: #Hehe, sounds fun. What do you say, Traveler? Wanna let Paimon be "Tum{RUBY#[D]Hope}aini" for the day?
 Traveler: Sure! Then, I'll be Paimon.
 Paimon: Alrighty then! Let's go, Paimon. A new adventure awaits!
-Traveler: Listening to all this is a little embarrassing, though...
 
 ## Additional Conversations
 
@@ -264,15 +270,19 @@ Iansan: Haha, of course! You've got serious potential!
 ### Additional Talk 11
 
 Chasca: After you got back, you mentioned that you saw Chuychu in the Night Kingdom... So, she helped you, then?
-Traveler: Yeah, she brought a lot of Saurians.
+    Option 1:
+        Traveler: Yeah, she brought a lot of Saurians.
+    Option 2:
+        Traveler: And helped get through a tricky part of the Night Kingdom.
 Chasca: Good. I'm sure that made her happy.
 Chasca: ...
-Traveler: There's still time.
+    Option 1:
+        Traveler: There's still time.
+    Option 2:
+        Traveler: To see her in your dreams.
 Chasca: It's alright. I don't think she's going to come see me.
 Chasca: She's probably sick of nagging her older sister.
 Chasca: Still, thank you for telling me. Natlan has a bright future because of you, and I have a chance to make up for my regrets.
-Traveler: To see her in your dreams.
-Traveler: And helped get through a tricky part of the Night Kingdom.
 
 ### Additional Talk 12
 
@@ -293,40 +303,45 @@ Huamanga: No matter how prejudiced I may have been in the past, he now has my ut
 ### Additional Talk 15
 
 Mavuika: Ah, our hero is here! Is there something you want to discuss?
-Traveler: About the stances of the Heavenly Principles and the Shades...
-Mavuika: The forces of the Abyss have always sought to corrode Teyvat. The Ley Lines were created by the Heavenly Principles, and it is only with their protection that Teyvat is able to nurture all forms of life.
-Mavuika: If the Abyss had free reign, this world would become a living hell. We saw that for ourselves...
-Mavuika: Any attempt by humanity to harness the power of the Abyss is met with swift punishment. The Heavenly Principles and the Shades show no mercy in that regard.
-Mavuika: That unyielding approach is also the source of great sorrow and hatred... The situation goes beyond a simple discussion of "right" versus "wrong."
-Mavuika: Perhaps the truth will reveal itself during your future adventures.
+    Option 1:
+        Traveler: About the stances of the Heavenly Principles and the Shades...
+        Mavuika: The forces of the Abyss have always sought to corrode Teyvat. The Ley Lines were created by the Heavenly Principles, and it is only with their protection that Teyvat is able to nurture all forms of life.
+        Mavuika: If the Abyss had free reign, this world would become a living hell. We saw that for ourselves...
+        Mavuika: Any attempt by humanity to harness the power of the Abyss is met with swift punishment. The Heavenly Principles and the Shades show no mercy in that regard.
+        Mavuika: That unyielding approach is also the source of great sorrow and hatred... The situation goes beyond a simple discussion of "right" versus "wrong."
+        Mavuika: Perhaps the truth will reveal itself during your future adventures.
+    Option 2:
+        Traveler: About the Ode of Resurrection somehow taking effect before victory...
+        Mavuika: Oh, isn't it obvious?
+        Mavuika: The Ode of Resurrection didn't take effect at all.
+        Mavuika: Your own strength is what allowed you to keep fighting, as well as the moral support from everyone in Natlan.
+        Mavuika: Still, "moral support" is also an important, if under appreciated, effect of the Ode of Resurrection.
+    Option 3:
+        Traveler: About Natlan's Gnosis...
+        Mavuika: The Captain's subordinates sent us a letter he left behind. After our duel at the Stadium, he asked the Tsaritsa to remove him from the responsibility of obtaining the Gnosis, and his request was granted.
+        Mavuika: The Captain respected the outcome of that match and refused to violate his principles. But, since this is the final Gnosis, I doubt the Tsaritsa will let the situation stand.
+        Mavuika: Perhaps a replacement Harbinger will be sent here soon. I'll make sure to be prepared.
+    Option 4:
+        Traveler: About the next stop on my journey...
+        Mavuika: A direct conflict with the Fatui is unavoidable the moment you step foot in Snezhnaya.
+        Mavuika: So, make sure you're ready for any scenario. On a related note, I've acquired some new intel about the fragment that suddenly appeared in the sky.
+        Mavuika: Such fragments are known as "Ancient Moon's Remnants," relics of Secret Source technology from the era of the Ancient Dragons. Coincidentally, a small squad of Fatui infiltrated our borders around the same time it appeared.
+        Mavuika: Our investigation revealed them to be subordinates of The Doctor. Their stronghold is in Nod-Krai, a land with a long history not far from Snezhnaya.
+        Mavuika: The people there can use a very special power. It is said that this mysterious power predates even the seven elements of Teyvat.
+        Mavuika: Ancient Moon's Remnants, The Doctor, a mysterious power... The project that connects all three must be ambitious indeed.
+    Option 5:
+        Traveler: About the tribe my ancient name will belong to...
+        Mavuika: Tribe? Oh, you're thinking along the lines of how the names of the six heroes were inherited...
+        Mavuika: In truth, apart from a few ancient names associated with a certain tribal culture or tradition, most ancient names can be inherited by anyone.
+        Mavuika: Your name likely falls under that category. The Wayob will select someone who shares your character and name them as your successor.
+        Mavuika: Of course, that won't happen for a very long time.
+        Traveler: I don't have any other questions...
 Mavuika: The long journey of the Pyro Archon has now come to an end. Together, we overcame darkness and death to accomplish something truly remarkable.
 Mavuika: As we celebrate your glory, allow me thank you once again — this time, just as "Mavuika."
 Mavuika: Thank you for the respect, understanding, and support every step of the way.
 Traveler: It was my honor.
 Mavuika: An honor we share.
 Mavuika: You can keep chatting with your friends nearby. I think I'll stay here for now... and watch over them.
-Traveler: About the Ode of Resurrection somehow taking effect before victory...
-Mavuika: Oh, isn't it obvious?
-Mavuika: The Ode of Resurrection didn't take effect at all.
-Mavuika: Your own strength is what allowed you to keep fighting, as well as the moral support from everyone in Natlan.
-Mavuika: Still, "moral support" is also an important, if under appreciated, effect of the Ode of Resurrection.
-Traveler: About Natlan's Gnosis...
-Mavuika: The Captain's subordinates sent us a letter he left behind. After our duel at the Stadium, he asked the Tsaritsa to remove him from the responsibility of obtaining the Gnosis, and his request was granted.
-Mavuika: The Captain respected the outcome of that match and refused to violate his principles. But, since this is the final Gnosis, I doubt the Tsaritsa will let the situation stand.
-Mavuika: Perhaps a replacement Harbinger will be sent here soon. I'll make sure to be prepared.
-Traveler: About the next stop on my journey...
-Mavuika: A direct conflict with the Fatui is unavoidable the moment you step foot in Snezhnaya.
-Mavuika: So, make sure you're ready for any scenario. On a related note, I've acquired some new intel about the fragment that suddenly appeared in the sky.
-Mavuika: Such fragments are known as "Ancient Moon's Remnants," relics of Secret Source technology from the era of the Ancient Dragons. Coincidentally, a small squad of Fatui infiltrated our borders around the same time it appeared.
-Mavuika: Our investigation revealed them to be subordinates of The Doctor. Their stronghold is in Nod-Krai, a land with a long history not far from Snezhnaya.
-Mavuika: The people there can use a very special power. It is said that this mysterious power predates even the seven elements of Teyvat.
-Mavuika: Ancient Moon's Remnants, The Doctor, a mysterious power... The project that connects all three must be ambitious indeed.
-Traveler: About the tribe my ancient name will belong to...
-Mavuika: Tribe? Oh, you're thinking along the lines of how the names of the six heroes were inherited...
-Mavuika: In truth, apart from a few ancient names associated with a certain tribal culture or tradition, most ancient names can be inherited by anyone.
-Mavuika: Your name likely falls under that category. The Wayob will select someone who shares your character and name them as your successor.
-Mavuika: Of course, that won't happen for a very long time.
-Traveler: I don't have any other questions...
 
 ### Additional Talk 16
 

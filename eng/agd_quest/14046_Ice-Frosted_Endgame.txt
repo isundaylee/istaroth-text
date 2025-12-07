@@ -31,10 +31,16 @@ Paimon: ...The results are in. A landslide victory for Escoffier!
 Escoffier: Hmph, quite rightly too. Piece of cake.
 Traveler: (Her tail seems very happy with the results.)
 Paimon: Oh yeah, look at that... And Savanna looks pretty chipper too, considering she lost!
-Traveler: This wasn't for you, was it?
+    Option 1:
+        Traveler: This wasn't for you, was it?
+    Option 2:
+        Traveler: You did this for Savanna's sake.
 Escoffier: ...
 Escoffier: Ahem! Now, where were we? Ah yes, do you have any more questions for me, after everything that's happened?
-Traveler: What are your future plans?
+    Option 1:
+        Traveler: What are your future plans?
+    Option 2:
+        Traveler: Are you going to stay at the Fleuve Cendre?
 Escoffier: ...Huh? I thought Navia would have filled you in... And actually, I said all this to Savanna before I left. Although, as we saw, I don't think any of it sank in...
 Escoffier: I had two reasons for leaving. One was the food safety incident, of course, but the other was that the Hotel Debord had reached a point where it didn't need me anymore.
 Escoffier: So, I decided to step down, and look for new opportunities to improve myself.
@@ -47,7 +53,11 @@ Paimon: What!? Paimon didn't notice at all!
 Escoffier: Hehe... Half of the art of cooking is dissecting the recipes of previous chefs, and figuring out the exact constellation of elements that gave their work its signature taste.
 Escoffier: And the other half... It lies in freeing yourself from the confines of the kitchen. You've got to go out and explore the endless possibilities out there!
 Paimon: Uh-oh... Paimon's suddenly not sure she wants to try your cooking anymore...
-Traveler: Well, I'm always down to be your taste-tester.
+    Option 1:
+        Traveler: Well, I'm always down to be your taste-tester.
+    Option 2:
+        Traveler: You should definitely make Paimon test all of your most experimental dishes.
+        Paimon: Hey!
 Escoffier: Hehe, don't worry, it's not gonna be a free-for-all like in Modeste's time. Before I put anything into my food, I'll obviously do my research, make sure it doesn't contain any harmful substances.
 Escoffier: In the meantime... Take this. It's a recipe for Petit Gateau Debord: Revised Version. I tweaked it to suit your needs as busy adventurers. Hope you enjoy, and remember — feedback is always welcome!
 Paimon: Alright... So, do you ever see yourself returning to Hotel Debord?
@@ -56,7 +66,10 @@ Traveler: (Good luck to Savanna, I guess...)
 Paimon: ...*sigh* Y'know, Paimon's still a little disappointed that we never got to see the Treasure of Remuria...
 Paimon: Surely Monica wouldn't have gotten drawn in so deeply if it wasn't for all the mystery surrounding the original Gateau Debord.
 Paimon: She practically dedicated her life to finding the lost pieces of Modeste's diary, then went to all that trouble to infiltrate the Hotel Debord... and in the end, it was all for nothing.
-Traveler: She sold her soul for a dream... then had a rude awakening.
+    Option 1:
+        Traveler: She sold her soul for a dream... then had a rude awakening.
+    Option 2:
+        Traveler: Her life's work became a grand exercise in futility.
 Escoffier: Since you mention the treasure... Between Modeste's writings and what we saw in those ruins, I think I may have figured out the truth...
 Escoffier: The so-called Treasure of Remuria was most likely a substance that the Remurians extracted from Lumitoiles... better known to us as lumiline.
 Paimon: Huh!? So then... why all the hype back in the early days of Gateau Debord?
@@ -65,7 +78,10 @@ Escoffier: And as for lumiline... It may well have been somewhat valuable in anc
 Escoffier: Even if Savelli hadn't destroyed it all, I doubt it'd be worth that much these days.
 Paimon: So after all that, there was nothing in those ruins but worthless junk!
 Paimon: ...Feels strange to say it, but Paimon almost feels sorry for Monica. She sacrificed it all, only to get nothing in return...
-Traveler: She got exactly what she deserved.
+    Option 1:
+        Traveler: She got exactly what she deserved.
+    Option 2:
+        Traveler: Yes Paimon, poor, poor Monica...
 Navia: Hey!
 Escoffier: Huh? Navia?
 Navia: You just got back from that underwater ruin, right? Well, check it out: They ran a special issue!
@@ -73,12 +89,6 @@ Navia: Did you see anything like this down there? "Freshly unearthed from the ru
 Navia: Experts say it has immense artistic and historical value! ...It could be worth an absolute fortune!
 Paimon: Wait... Isn't that the jar they used to hold the Treasure!?
 Navia: ...If only it was still in one piece! Some butterfingers must have dropped it or something! Ugh, it's such a shame!
-Traveler: Yes Paimon, poor, poor Monica...
-Traveler: Her life's work became a grand exercise in futility.
-Traveler: You should definitely make Paimon test all of your most experimental dishes.
-Paimon: Hey!
-Traveler: Are you going to stay at the Fleuve Cendre?
-Traveler: You did this for Savanna's sake.
 
 ## Talk 7
 
@@ -89,10 +99,12 @@ Escoffier: I smell... coffee!
 Arouet: Hello! What can I get for you?
 Traveler: I need coffee, stat!
 Arouet: Sure thing. For here or to go?
-Traveler: To go, please!
+    Option 1:
+        Traveler: To go, please!
+    Option 2:
+        Traveler: I'm grabbing it for a friend.
 Arouet: Huh? Ohh, I see... First cup of the season, huh? Yeah, I get it. Young people these days do love their little surprises, hehe...
 Traveler: (...? Not convinced we're on the same page here. But I'm not here to chat — let's get this coffee to Escoffier!)
-Traveler: I'm grabbing it for a friend.
 
 ## Talk 9
 
@@ -102,7 +114,10 @@ Traveler: How goes the investigation?
 Escoffier: Heh... I think I've figured out where the problem lies. Honestly, it's ridiculous, I don't know whether to laugh or cry...
 Paimon: Wait, what investigation? What are you guys talking about?
 Escoffier: I'll save it for when everyone else gets here. It's so stupidly small, I can't believe it's caused so much drama...
-Traveler: And yet... look at this kitchen...
+    Option 1:
+        Traveler: And yet... look at this kitchen...
+    Option 2:
+        Traveler: Seems like you had your own share of failed experiments last night.
 Escoffier: Ahem... Yes, except my failures were stepping stones to success!
 Vaneigem: Escoffier! Have you seen Savanna?
 Escoffier: Huh? No, not since yesterday... Why, what's wrong?
@@ -116,7 +131,10 @@ Gaspard: We were, but then... just after you left, we found this stuff in her ho
 Paimon: Oh... Looks like a map, with a bunch of random places circled... What does it mean?
 Escoffier: Wait a second, this feels familiar... I'm sure these places are all connected somehow...
 Escoffier: Ah! Of course, from the Codex... They're all places that Modeste explored on his adventures!
-Traveler: Modeste?
+    Option 1:
+        Traveler: Modeste?
+    Option 2:
+        Traveler: The founder of the Hotel Debord?
 Escoffier: Yeah... But I don't understand — the adventure logs in the Codex are too fragmented to be of any use. How come this map shows all the missing details?
 Vaneigem: The Codex Debord? Then, this place marked in red out at sea — could that be the fabled birthplace of Gateau Debord?
 Paimon: Seriously? So now she's set her sights on finding the original recipe and beating Escoffier that way? Geez, Savanna... anything to overcome a gateau plateau, huh?
@@ -135,8 +153,6 @@ Black Screen Text: Meanwhile, somewhere deep beneath the sea...
 Savanna: ...You're finally here.
 Savanna: Of course... I should have put two and two together as soon as I read your threat letter... The food safety incident, the demand for a cooking contest, the instruction to blackmail Monica...
 Savanna: ...Even the suggestion that Escoffier was keeping secrets from me... It was all part of your grand plan — wasn't it, Monica?
-Traveler: The founder of the Hotel Debord?
-Traveler: Seems like you had your own share of failed experiments last night.
 
 ## Talk 10
 
@@ -209,7 +225,10 @@ Paimon: Aww... What a perfect ending to a crazy journey... Look how happy everyo
 Escoffier: Hmph... So, got your mojo back now?
 Savanna: Yeah... Thanks to you, Escoffier. In fact, no... thanks to all of you.
 Paimon: Ahh, friends again! So nice to see them finally settle their beef.
-Traveler: Yeah, it's nice.
+    Option 1:
+        Traveler: Yeah, it's nice.
+    Option 2:
+        Traveler: Umm... Maybe not ALL their beef...
 Escoffier: Good. So, now that's out the way...
 Escoffier: It's time for payback! You cheated in our last bake-off, and I demand a rematch, right now!
 Paimon (Paimon & Alphonse & Gaspard): ...Huh?
@@ -221,7 +240,6 @@ Vaneigem: Right, and also... Does it have to be right now? Savanna's only just g
 Escoffier: No excuses! This is a cooking contest between two top chefs, and nothing will stand in its way!
 Escoffier: So grab your spatula and get ready — 'cause this rematch is happening, today! Right now! This instant!
 Paimon: Hey! So, um... This whole time you were salty about losing...
-Traveler: Umm... Maybe not ALL their beef...
 
 ## Talk 11
 
@@ -238,7 +256,10 @@ Escoffier: I think Modeste's Codex mentioned this place... a public bath from th
 Paimon: Huh? Some Blubberbeasts have come to join the party... How did they get here?
 Blubberbeast: ...!
 Paimon: Aw! They ran off!
-Traveler: Guess they're not used to seeing humans.
+    Option 1:
+        Traveler: Guess they're not used to seeing humans.
+    Option 2:
+        Traveler: Let's head further in.
 Escoffier: That could be easier said than done... Something's blocking the entrance.
 Paimon: Hmm... Well, did Modeste mention it in his adventure logs by any chance? They must have gotten through somehow.
 Escoffier: Good point... Umm... Yes, that's right, it's coming back to me now...
@@ -248,7 +269,6 @@ Paimon: ...See, this is why you should always bring snacks — you never know wh
 Escoffier: There's no time for that. Romaritime Flowers and Lumitoile will have to do... They may not look appetizing to us, but who knows — they could be Blubberbeast delicacies!
 Paimon: Huh? Wait, we're seriously gonna try this?
 Black Screen Text: You collect the Romaritime Flowers and Lumitoiles in the surrounding area...
-Traveler: Let's head further in.
 
 ## Talk 14
 
@@ -359,14 +379,18 @@ Escoffier: Will you listen to yourself? You're completely delusional!
 Monica: Hmph, my eyes are wide open! Just wait till I get my hands on this treasure, you'll see what a fool you've been!
 Paimon: Wait... What's that sound!?
 Escoffier: *cough* Just when I thought she couldn't get any crazier... She's lucky the whole place didn't collapse!
-Traveler: Seems like she escaped in the commotion.
+    Option 1:
+        Traveler: Seems like she escaped in the commotion.
+    Option 2:
+        Traveler: Let's find another route, and go after her.
 Paimon: Uh-oh... Savanna's gone, too!
 Escoffier: Monica must have taken her... Ugh, what a coward! She's only taking her hostage because she knows that she's no match for you!
-Traveler: Well, there is one piece of good news.
+    Option 1:
+        Traveler: Well, there is one piece of good news.
+    Option 2:
+        Traveler: At least Savanna is safe for now.
 Paimon: That's true. Even if she finds the treasure, she'll need Savanna alive if she wants to get out of here in one piece.
 Escoffier: Hmm... Well, our path's been blocked, so let's look for another route.
-Traveler: At least Savanna is safe for now.
-Traveler: Let's find another route, and go after her.
 
 ## Talk 25
 
@@ -376,10 +400,16 @@ Read (Barely-Legible Engraving): "...The desire to break free from forms of fles
 ## Talk 26
 
 Escoffier: That's strange... these don't look Remurian to me. More like last-century Fontaine.
-Traveler: They don't look that worn, either.
+    Option 1:
+        Traveler: They don't look that worn, either.
+    Option 2:
+        Traveler: Could they have been left by previous adventurers?
 Paimon: Adventurers from last-century Fontaine, huh... *gasp* Modeste and Savelli! Do you think they camped here?
 Escoffier: By the looks of it, this was a one-person camp. They adventured together, but... maybe one of them came back alone at a later date?
-Traveler: Let's rummage around.
+    Option 1:
+        Traveler: Let's rummage around.
+    Option 2:
+        Traveler: They may have left a journal or something.
 Escoffier: Huh? You really think so?
 Paimon: Trust our adventurers' instincts! We're pros at this stuff, just like you're a pro in the kitchen!
 Traveler: Well... I'm a pro, at least.
@@ -429,8 +459,6 @@ Escoffier (Savelli): ...The final loose end is the evidence here, at the bottom 
 Traveler: Oh no... We've got to stop Monica!
 Paimon: Huh? What's wrong? Didn't we say Savanna should be safe for now?
 Escoffier: So we thought, but if Monica finds out what happened to the treasure... There's no telling what she might do!
-Traveler: They may have left a journal or something.
-Traveler: Could they have been left by previous adventurers?
 
 ## Talk 27
 
@@ -456,7 +484,10 @@ Monica: Aah... Aaaah!!!
 ## Talk 28
 
 Paimon: Aaah! Why is this place still shaking!?
-Traveler: Maybe it's because of the fighting?
+    Option 1:
+        Traveler: Maybe it's because of the fighting?
+    Option 2:
+        Traveler: Or maybe because Monica was too trigger-happy with her explosives!
 Paimon: Hmph! Either way, it's all her fault!
 Paimon: #Enough chit-chat, let's get outta here! Traveler, Escoffier, come on!
 Escoffier: Okay! I'm coming... Huh?
@@ -468,11 +499,12 @@ Monica: ...S—Savanna?
 Monica: When did you... wake up...
 Savanna: Phew... Heh...
 Savanna: ...I may be a lousy chef, but it looks like I'm not a complete waste of space.
-Traveler: Hey, we need to go!
+    Option 1:
+        Traveler: Hey, we need to go!
+    Option 2:
+        Traveler: We're out of time!
 Escoffier: #Traveler... Okay, let's go!
 Monica: ...
-Traveler: We're out of time!
-Traveler: Or maybe because Monica was too trigger-happy with her explosives!
 
 ## Talk 29
 

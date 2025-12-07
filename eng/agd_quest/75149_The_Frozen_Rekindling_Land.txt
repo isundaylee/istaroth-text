@@ -13,7 +13,10 @@
 Secret Source Servant: *whirr-click*...
 Secret Source Servant: "It seems you have finally restored the two Astral Assemblages to normal operation... Soon, the phlogiston concentration here should be sufficient to reactivate the communications device..."
 Secret Source Servant: "In the meantime, please wait a little longer. You have already done well, for a human."
-Traveler: Wait, we're back to talking again?
+    Option 1:
+        Traveler: Wait, we're back to talking again?
+    Option 2:
+        Traveler: ...Are you Ehecatl?
 Secret Source Servant: "I am not. Ehecatl's existence has dissipated in full... not long ago, in fact. And though names matter little here, the name left to this body is..."
 Secret Source Servant: "'Almighty Amaru, the Hallowed Lord'... *sigh* The original bearer of this name was a fool through and through."
 Secret Source Servant (Amaru): "You may simply name it 'Amaru.'"
@@ -24,7 +27,6 @@ Secret Source Servant (Amaru): "This is that very spot, and that is why I placed
 Secret Source Servant (Amaru): Increase in phlogiston concentration detected... Circuit check complete... *whirring*
 Secret Source Servant (Amaru): Lift shaft — Celestial Axis, restarted.
 Secret Source Servant (Amaru): "It appears we are almost done. Please proceed deeper within."
-Traveler: ...Are you Ehecatl?
 
 ## Talk 3
 
@@ -58,17 +60,21 @@ Paimon: Is your head okay? After all, you did fall from really high up...
 Paimon: You're not hurt, are you?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Hmm, you seem fine. What about you, Traveler? Are you okay?
-Traveler: Well, I certainly look like I'm in one piece...
-Paimon: Pfft, "in one piece"? Are you serious? *sigh* Paimon's just glad you're not hurt.
+    Option 1:
+        Traveler: Well, I certainly look like I'm in one piece...
+        Paimon: Pfft, "in one piece"? Are you serious? *sigh* Paimon's just glad you're not hurt.
+    Option 2:
+        Traveler: I was so scared, something leaked out... Seen any bits of my soul floating around?
+        Paimon: Ha-ha, very funny! If you can joke like that, you must be feeling absolutely peachy!
 Paimon: Still... Who'd have thought there'd be such a huge space underneath this volcano? It's super dark here, though...
-Traveler: Time for you to shine, Paimon! Give us some light!
-Paimon: Oh, no problem, let Paimon just go ahead and... AS IF! Paimon's no glow-in-the-dark pixie! There's nothing here to work with, fire's the only way we're getting any light!
+    Option 1:
+        Traveler: Time for you to shine, Paimon! Give us some light!
+        Paimon: Oh, no problem, let Paimon just go ahead and... AS IF! Paimon's no glow-in-the-dark pixie! There's nothing here to work with, fire's the only way we're getting any light!
+    Option 2:
+        Traveler: Pass me a torch, Paimon.
+        Paimon: Uh-huh, just keep assuming we have one — maybe one might even magically manifest itself...
 Paimon: Let's just... explore the area a bit first, okay?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Pass me a torch, Paimon.
-Paimon: Uh-huh, just keep assuming we have one — maybe one might even magically manifest itself...
-Traveler: I was so scared, something leaked out... Seen any bits of my soul floating around?
-Paimon: Ha-ha, very funny! If you can joke like that, you must be feeling absolutely peachy!
 
 ## Talk 6
 
@@ -169,11 +175,13 @@ Ehecatl: "*sigh* ... Onward then, Chosen of Dragons... Alas, the pain of a body 
 Ehecatl: ...
 Paimon: The light around Ehecatl's gone... It's not moving anymore, either.
 Paimon: Paimon's still kinda confused... Was that really Ehecatl talking, or was someone else speaking through it?
-Traveler: I'm sure we'll find out...
+    Option 1:
+        Traveler: I'm sure we'll find out...
+    Option 2:
+        Traveler: Let's continue on for now...
 Paimon: True. Still, about the Astral Assemblages he mentioned just now... Does he mean something like that big fireball from earlier? And what's this Celestial Axis thing? We don't have any idea what that is...
 Paimon: Oh well, let's take a look around and see if we can find those strange things he mentioned!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Let's continue on for now...
 
 ## Talk 11
 

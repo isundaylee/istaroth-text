@@ -33,12 +33,14 @@ Traveler: Would you like us to help?
 Chasca: No need. You've already done plenty by getting the Abyss off our backs. Without them draining our resources, our warriors can handle these rustbuckets, no problem.
 Chasca: Besides, like our ancestors used to say: "One's own nest is one's own to protect." We can't go dumping all our problems onto you.
 Paimon: C'mon, what happened to "birds of a feather"? We're your friends! Plus, we'll be leaving for Nod-Krai soon, so y'know... while we're still here...
-Traveler: It'd be nice to spend some time together.
+    Option 1:
+        Traveler: It'd be nice to spend some time together.
+    Option 2:
+        Traveler: Not like we have anything else to do...
 Chasca: Huh, fair point... It's been a while since we got to fight together. One last hurrah, then, for old time's sake? We could hit the beach. The automatons have been pretty active there lately.
 Paimon: Awesome! Let's go, let's go!
 Ifa: *sigh* If hunting down war machines is just sport to you, you guys really are built different. Still, guess I should tag along too — just on the off-chance someone ends up getting carried away...
 Cacucu: No way, bro!
-Traveler: Not like we have anything else to do...
 
 ## Talk 3
 
@@ -66,7 +68,10 @@ Paimon: She spoke!
 Ineffa (Humanoid Machine): #...Paimon ...Traveler...
 Traveler: ...!
 Paimon: What!? Y—You heard that too, right?
-Traveler: Yeah... loud and clear.
+    Option 1:
+        Traveler: Yeah... loud and clear.
+    Option 2:
+        Traveler: She said our names...
 Ifa: ...Take a look at this. I found it on the ground next to her. See the picture on top? That's... you guys, right?
 Paimon: Really!? ...Wait, a blond person with a white balloon? That can't be right!
 Traveler: It's definitely right.
@@ -78,13 +83,14 @@ Ifa: If you put in the wrong code or try to open it by force, it triggers a self
 Traveler: So is this message supposed to be for me?
 Chasca: Sure looks that way... question is, who's the messenger?
 Ineffa (Humanoid Machine): ...
-Traveler: I guess if we want answers...
+    Option 1:
+        Traveler: I guess if we want answers...
+    Option 2:
+        Traveler: We have to wake her up somehow.
 Chasca: So, we gotta revive a hi-tech humanoid and crack open a cryptex... I only know one person with that kind of expertise. Shall we?
 Paimon: Sounds like a plan! Time to head to the Children of Echoes and find Xilonen!
 Cacucu: You bet, bro!
 Velimiru (???): ...Hmph.
-Traveler: We have to wake her up somehow.
-Traveler: She said our names...
 
 ## Talk 6
 
@@ -138,7 +144,10 @@ Paimon: Whoa, slow down... Could you simplify that for Paimon?
 Xilonen: Okay... If I call it a "curse," is that easier to understand? Imagine you're a bigshot shaman from the Masters of the Night-Wind, and you send your disciple on an errand to the Flower-Feather Clan.
 Xilonen: To stop him treating it like a vacation, you might put a curse on him that causes a physical and mental breakdown if he strays from the right path. That way, you can be sure he'll stick to the straight and narrow, and won't go frolicking off.
 Paimon: Geez... Sounds like the horror-story version of Granny Itztli that parents tell their kids about...
-Traveler: Citlali would never take a disciple, though...
+    Option 1:
+        Traveler: Citlali would never take a disciple, though...
+    Option 2:
+        Traveler: Citlali would never do something like that...
 Xilonen: The point is, manufacturers often hardwire restrictions like this into autonomous machines to make sure they operate as intended.
 Chasca: But why would you curse a machine to lose their memories? What purpose could that possibly serve? ...In her case, all it's done is make it harder for her to complete her tasks.
 Ineffa (Humanoid Machine): ...Task failed. Sincere apologies.
@@ -181,7 +190,6 @@ Chasca: Are you serious right now?
 Xilonen: If she's a robo-maid, maybe doing some household chores will jog her memory. *yawn*... Just this area will do, thanks, no need to tidy the whole workshop.
 Paimon: Hey, c'mon! The poor thing's only just woken up. Don't you think this is a bit much?
 Ineffa (Humanoid Machine): Understood. Commencing task.
-Traveler: Citlali would never do something like that...
 
 ## Talk 7
 
@@ -198,16 +206,19 @@ Traveler: Citlali would never do something like that...
 ## Talk 10
 
 Ineffa (Humanoid Machine): Sorting small objects.
-Traveler: Blue Book
-Ineffa (Humanoid Machine): "Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai"... Clear and concise descriptions of physical motions, but no plot. Category: Martial arts instruction.
-Chasca: Wait... Isn't that a light novel that Citlali left here by mistake?
+    Option 1:
+        Traveler: Blue Book
+        Ineffa (Humanoid Machine): "Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai"... Clear and concise descriptions of physical motions, but no plot. Category: Martial arts instruction.
+        Chasca: Wait... Isn't that a light novel that Citlali left here by mistake?
+    Option 2:
+        Traveler: Red Book
+        Ineffa (Humanoid Machine): "The Good Thing About Being Reincarnated as a Hilichurl Is That I Only Need to Eat Sunsettias to Become Stronger"... Discusses energy acquisition from the Sunsettia fruit. Category: Nutritional science.
+        Xilonen: *sigh*... Maybe I should keep a closer eye on what Nepecha's reading...
+    Option 3:
+        Traveler: Green Book
+        Ineffa (Humanoid Machine): "Introduction to Ancient Machines"... Grammatically elegant and rhetorically sophisticated. Author displays a high level of linguistic mastery. Category: Classical literature.
+        Paimon: What in the world? That isn't "classical literature"!
 Black Screen Text: The books on the table are sorted into piles.
-Traveler: Red Book
-Ineffa (Humanoid Machine): "The Good Thing About Being Reincarnated as a Hilichurl Is That I Only Need to Eat Sunsettias to Become Stronger"... Discusses energy acquisition from the Sunsettia fruit. Category: Nutritional science.
-Xilonen: *sigh*... Maybe I should keep a closer eye on what Nepecha's reading...
-Traveler: Green Book
-Ineffa (Humanoid Machine): "Introduction to Ancient Machines"... Grammatically elegant and rhetorically sophisticated. Author displays a high level of linguistic mastery. Category: Classical literature.
-Paimon: What in the world? That isn't "classical literature"!
 
 ## Talk 12
 

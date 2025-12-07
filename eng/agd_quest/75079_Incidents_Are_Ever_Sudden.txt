@@ -10,8 +10,11 @@
 ## Talk 2
 
 Temach: #Welcome... Hmm, it looks like one of you has already mastered the skill of flying. So, is this the young man who wants to learn how to fly?
-Traveler: I already have a gliding license.
-Temach: Gliding license? First time I've heard of that.
+    Option 1:
+        Traveler: I already have a gliding license.
+        Temach: Gliding license? First time I've heard of that.
+    Option 2:
+        Traveler: What can you teach me?
 Temach: Here, we aim to have Saurian and rider stride toward improvement together. Your partner...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah, rawr!
 Temach: ...Hmm, sorry, little guy, but I doubt Pakpaka Flying School is the place for you to show off your skills. Not your fault, though, so don't take it personally.
@@ -21,7 +24,6 @@ Paimon: There's no way a Tepetlisaurus's potential for flight can match that of 
 Temach: #Either way, young man, if you're interested in our flying training, I recommend that you try our training course!
 Temach: You'll need to be able to dodge obstacles and turn with agility to ride a Qucusaurus. You'll know just how good you are after trying the training course!
 Temach: To be honest, we've worked really hard to promote it. We've got the prizes prepared, races organized, the works. If you pass, go to Lamizana to claim your prize.
-Traveler: What can you teach me?
 
 ## Talk 3
 
@@ -146,11 +148,13 @@ Paran: ...Uncle Hawka? Why would he care about me? Ugh, I'm sorry, we've had som
 ### Additional Talk 7
 
 Lliwa: How troublesome...
-Traveler: What's wrong?
-Lliwa: Well, I have a little brother who's a lot younger than me. Maybe he's just in his rebellious years, but he doesn't get along with anyone...
-Lliwa: Bah, I'll only add to your troubles by telling you about this. Things will probably get better when he grows up!
-Traveler: Sorry to bother you.
-Lliwa: It's no trouble. See you around.
+    Option 1:
+        Traveler: What's wrong?
+        Lliwa: Well, I have a little brother who's a lot younger than me. Maybe he's just in his rebellious years, but he doesn't get along with anyone...
+        Lliwa: Bah, I'll only add to your troubles by telling you about this. Things will probably get better when he grows up!
+    Option 2:
+        Traveler: Sorry to bother you.
+        Lliwa: It's no trouble. See you around.
 
 ### Additional Talk 8
 
@@ -163,22 +167,27 @@ Cisik: Want to try out the training course?
 ### Additional Talk 10
 
 Temach: We still have a few more flying challenges. Details are written on the board. Give 'em a try if you're keen... Of course, there are prizes to be won.
-Traveler: About the Pakpaka Flying School...
-Temach: Honestly, I have no clue why it's called that. But speaking of Pakpaka... Have you ever heard the story of Kuntur and the evil sorcerer Rumi?
-Temach: The warriors of the tribe were defeated by that wicked mage, and he turned them into Pakpaka... which doesn't sound all that good. Maybe Pakpakas fly very quickly, or something — I don't know.
-Traveler: About Lamizana...
-Temach: Haha... He's a good fighter, but not necessarily a good teacher. And as an opponent in flying competitions... I guess he's passable?
-Temach: But I mean, why would you come here if you didn't have issues with flying? So, if I were to be too strict... *sigh* Well, it's not like things like this have never happened in the past.
-Temach: That's why I focus on encouraging people nowadays. I'm sure that approach will get results just fine too.
-Traveler: Gotta go.
-Temach: See you. You're welcome back any time.
+    Option 1:
+        Traveler: About the Pakpaka Flying School...
+        Temach: Honestly, I have no clue why it's called that. But speaking of Pakpaka... Have you ever heard the story of Kuntur and the evil sorcerer Rumi?
+        Temach: The warriors of the tribe were defeated by that wicked mage, and he turned them into Pakpaka... which doesn't sound all that good. Maybe Pakpakas fly very quickly, or something — I don't know.
+    Option 2:
+        Traveler: About Lamizana...
+        Temach: Haha... He's a good fighter, but not necessarily a good teacher. And as an opponent in flying competitions... I guess he's passable?
+        Temach: But I mean, why would you come here if you didn't have issues with flying? So, if I were to be too strict... *sigh* Well, it's not like things like this have never happened in the past.
+        Temach: That's why I focus on encouraging people nowadays. I'm sure that approach will get results just fine too.
+    Option 3:
+        Traveler: Gotta go.
+        Temach: See you. You're welcome back any time.
 
 ### Additional Talk 11
 
 Cisik: Welcome to Pakpaka Flying School!
-Traveler: What do you do here?
-Cisik: We give all cadets the necessary guidance and help they need. Things have changed a lot, you know. Back in the day, students couldn't expect that kind of tender loving care.
-Cisik: But then there was this one time when the coach was a little... strict with their words, and the student in question just happened to have quite a temper... *sigh* Yeah, that's not a fun one to talk about.
-Cisik: Anyway, our teaching policy's been shaken up since then. And I mean, nobody slaps a smiling face, and nobody hates compliments, am I right?
-Traveler: I'll be off, then.
-Cisik: Here's to a pleasant day!
+    Option 1:
+        Traveler: What do you do here?
+        Cisik: We give all cadets the necessary guidance and help they need. Things have changed a lot, you know. Back in the day, students couldn't expect that kind of tender loving care.
+        Cisik: But then there was this one time when the coach was a little... strict with their words, and the student in question just happened to have quite a temper... *sigh* Yeah, that's not a fun one to talk about.
+        Cisik: Anyway, our teaching policy's been shaken up since then. And I mean, nobody slaps a smiling face, and nobody hates compliments, am I right?
+    Option 2:
+        Traveler: I'll be off, then.
+        Cisik: Here's to a pleasant day!

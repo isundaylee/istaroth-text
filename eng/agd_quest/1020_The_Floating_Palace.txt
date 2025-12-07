@@ -6,24 +6,30 @@
 ## Talk 1
 
 Paimon: Look, up there! That's the Jade Chamber.
-Traveler: That's pretty high up.
+    Option 1:
+        Traveler: That's pretty high up.
+    Option 2:
+        Traveler: Question is, how do we get up there?
 Paimon: Hmm... Uhh...
 Paimon: Ah, this is bad... Paimon's supposed to be your guide, but Paimon doesn't know where the way up to the Jade Chamber is...
-Traveler: You're only realizing that now!?
+    Option 1:
+        Traveler: You're only realizing that now!?
+    Option 2:
+        Traveler: We should have asked that emissary, Ganyu.
 Paimon: Ugh...
 Paimon: Well, since we want to go to the Jade Chamber, heading to its location on the map is the sensible thing to do!
 Paimon: Let's look around. There has to be a way up there nearby!
-Traveler: We should have asked that emissary, Ganyu.
-Traveler: Question is, how do we get up there?
 
 ## Talk 2
 
 Paimon: Hey, look! There's some sort of mechanism thingy!
 Paimon: Since this is the right place, it must have something to do with the Jade Chamber.
-Traveler: Maybe it's the way to the Jade Chamber?
-Paimon: Yes, this must be the way!
-Traveler: It looks like some sort of trap.
-Paimon: No way! Just trust Paimon's instincts!
+    Option 1:
+        Traveler: Maybe it's the way to the Jade Chamber?
+        Paimon: Yes, this must be the way!
+    Option 2:
+        Traveler: It looks like some sort of trap.
+        Paimon: No way! Just trust Paimon's instincts!
 
 ## Talk 3
 
@@ -42,30 +48,36 @@ Paimon: Oh! Hang on a moment. Look down there!
 Paimon: Looks like we've gotten close to the *Guizhong Ballista*.
 Paimon: Hmm... Uh... Paimon has a new idea!
 Paimon: Why don't we shoot you up to the Jade Chamber using the Ballista?
-Traveler: No thanks. I don't have a death wish.
-Paimon: Oh... Right. This method does seem a bit unsafe...
+    Option 1:
+        Traveler: No thanks. I don't have a death wish.
+        Paimon: Oh... Right. This method does seem a bit unsafe...
+    Option 2:
+        Traveler: Do you really hate me that much?
+        Paimon: Uhh... No. Paimon may have just forgotten to think about the safety measures...
 Traveler: Still, I do remember that the Ballista had a scope.
 Paimon: Oh, that's right!
 Paimon: Now that you mention it, we could use the Guizhong Ballista to see if there's another way up nearby!
-Traveler: Do you really hate me that much?
-Paimon: Uhh... No. Paimon may have just forgotten to think about the safety measures...
 
 ## Talk 5
 
 Huaqing: Halt!
 Huaqing: Who trespasses on these hallowed grounds?
-Traveler: We're just passing through...
+    Option 1:
+        Traveler: We're just passing through...
+    Option 2:
+        Traveler: Hallowed what now? These are the wilds around Mt. Tianheng...
 Paimon: Exactly. What're you talking about?
 Paimon: We're invited guests! What makes you think you can treat us like this?
 Paimon: No... Wait... Maybe this was Ningguang's plan all along!
 Paimon: She pretended to invite us to the Jade Chamber, but set up a Millelith ambush here to arrest us!
-Traveler: I'm quite sure that's not the case.
+    Option 1:
+        Traveler: I'm quite sure that's not the case.
+    Option 2:
+        Traveler: We haven't explained the invitation to them yet...
 Paimon: Grr... Now Paimon's mad! ...You! Over there! This is a trick, isn't it? How shameless!
 Huaqing: What? We're just on guard duty. What do you mean, "shameless"?
 Yang: What nonsense! Seize these suspicious intruders at once!
 Paimon: Well, here they come — line 'em up and knock 'em down!
-Traveler: We haven't explained the invitation to them yet...
-Traveler: Hallowed what now? These are the wilds around Mt. Tianheng...
 
 ## Talk 6
 
@@ -91,7 +103,10 @@ Paimon: So, this was all a misunderstanding? Paimon never would've thought...
 Traveler: Thinking isn't that hard, Paimon.
 Keqing: Anyway, for a mortal to be able to repair an adepti mechanism is quite the mystery, even to the Qixing.
 Paimon: Hehe, that was...
-Traveler: (Shh, Paimon, don't complicate the matter!)
+    Option 1:
+        Traveler: (Shh, Paimon, don't complicate the matter!)
+    Option 2:
+        Traveler: (We only did a tiny part of the work there...)
 Paimon: Eh? Oh, right. So, Lady Yuheng, might you have any idea why Lady Tianquan invited us to go to the Jade Chamber?
 Keqing: Just call me Keqing.
 Keqing: I'd say that Ningguang's purpose is to request that the savior of Mondstadt take a more neutral stance... Or at least, to not wholly side with the adepti.
@@ -108,7 +123,10 @@ Keqing: Forget it. I shouldn't speak of them this way. This skepticism is mine a
 Keqing: Either way, I will admit that the actions of the adepti this time were quite restrained.
 Keqing: Rex Lapis' death is indeed an extraordinary circumstance. But to think that they would call for a council of adepti rather than come down here directly...
 Keqing: How surprisingly civilized of them.
-Traveler: Any chance you could talk it out with them?
+    Option 1:
+        Traveler: Any chance you could talk it out with them?
+    Option 2:
+        Traveler: Ningguang would prefer to negotiate, wouldn't she?
 Keqing: Well, for Ningguang... She would talk anything and everything out if she could. But I doubt we can do that here.
 Keqing: The time of the adepti has long passed. If even the Liyue Qixing don't want to face that truth, then what future is there for Liyue?
 Paimon: Phew... Another super bold statement...
@@ -116,7 +134,10 @@ Keqing: *sigh* I'll stop here. Honestly, I hadn't intended to say so much. But y
 Keqing: You should both be off to the Jade Chamber. Don't be late, now. Ningguang's schedule is packed to the gills all the way till next year.
 Keqing: The cream of Liyue's mercantile crop all see "ascending to the Jade Chamber" as the greatest honor. Each brings rich gifts as they visit, all to curry a little favor with Ningguang.
 Paimon: Favor?
-Traveler: Paimon, that's not the point.
+    Option 1:
+        Traveler: Paimon, that's not the point.
+    Option 2:
+        Traveler: Paimon, get serious.
 Paimon: But... But!
 Paimon: Wait, that's right! Greeting gifts are a staple of Liyue's culture. We need to get one, not to curry favor or anything — just to... respect Liyue's culture!
 Traveler: Ah, so eager...
@@ -124,18 +145,19 @@ Keqing: Alright, alright. You can decide on your greeting gift yourselves. Let m
 Keqing: You didn't actually have to come to Mt. Tianheng. Go back to Liyue Harbor, find a guide at the Yuehai Pavilion, and...
 Keqing: Well then. May we meet again, Traveler.
 Paimon: Well, that Yuheng may not respect the gods, but Paimon thinks she's a pretty cool person.
-Traveler: She made a good impression on me, too.
+    Option 1:
+        Traveler: She made a good impression on me, too.
+    Option 2:
+        Traveler: I agree with some of her views.
 Paimon: So... What should we give to Ningguang when we see her?
 Traveler: You really have shifted focus, haven't you, Paimon...
 Paimon: Oh, right! Paimon dreamed of an amazing snack last night — *Sugar-Frosted Slime!*
 Paimon: Paimon has a feeling that it would be perfect for a super rich person like Ningguang!
 Paimon: Why don't we go with that for a gift?
-Traveler: So, do you have a recipe?
-Paimon: Nope! But Paimon's sure that we just need to make it with some boom shaka-laka!
+    Option 1:
+        Traveler: So, do you have a recipe?
+        Paimon: Nope! But Paimon's sure that we just need to make it with some boom shaka-laka!
+    Option 2:
+        Traveler: And... how would we make this thing you dreamed up?
+        Paimon: With a certain boom shaka-laka, of course!
 Paimon: Let's go gather ingredients. Time waits for no one, and neither will our riches!
-Traveler: And... how would we make this thing you dreamed up?
-Paimon: With a certain boom shaka-laka, of course!
-Traveler: I agree with some of her views.
-Traveler: Paimon, get serious.
-Traveler: Ningguang would prefer to negotiate, wouldn't she?
-Traveler: (We only did a tiny part of the work there...)

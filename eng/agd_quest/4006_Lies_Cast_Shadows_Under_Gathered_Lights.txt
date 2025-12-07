@@ -14,7 +14,6 @@ Paimon: Let's go see, shall we? Things are getting interesting, huh? We're about
 
 ## Talk 3
 
-Black Screen Text: While court is adjourned, you meet with Lyney and Lynette backstage in the opera house.
 Lyney: Well, this is awkward. I didn't think the Hydro Archon would dig all that up.
 Lyney: #I'm sorry, Traveler and Paimon.
 Lynette: Yeah, sorry.
@@ -35,8 +34,10 @@ Lyney: You met a Fatuus who works as a magician, a trickster by trade... all by 
 Lyney: But still, I'm asking you to trust me. I am no criminal... at least, not in this case.
 Lynette: Sorry, please forgive us.
 Paimon: Well, you both say that, but...
-Traveler: Explain the other issue first.
-Traveler: Where did you actually go while the trick was being performed?
+    Option 1:
+        Traveler: Explain the other issue first.
+    Option 2:
+        Traveler: Where did you actually go while the trick was being performed?
 Paimon: Right, let's hear your answer first. And no lies, now!
 Lyney: Of course. I'll answer any question you ask.
 Lyney: We've been trying to find out how the Oratrice operates. We want to know why it has a consciousness? Why can it deliver sentences accurately?
@@ -61,8 +62,10 @@ Lyney: It was never my wish to proceed under this cloud of mistrust either...
 Lyney: But like I said earlier, you can be the judge. If you want to leave because you don't trust the Fatui, there's nothing I can do to stop you.
 Paimon: #Well, Traveler, you decide. Paimon'll follow your lead however you choose.
 Traveler: I believe in the facts.
-Traveler: I will defend you from these charges.
-Traveler: I believe that judgment will be dispensed as it should.
+    Option 1:
+        Traveler: I will defend you from these charges.
+    Option 2:
+        Traveler: I believe that judgment will be dispensed as it should.
 Lyney: Okay. Thank you.
 Lynette: Thanks for giving us a chance.
 Paimon: The current problem is that the scales are tipped pretty badly against you two...
@@ -71,6 +74,8 @@ Traveler: Actually, we already have the key evidence we need.
 Paimon: ...Huh?
 Traveler: The adjournment's almost over. Let's go back.
 Paimon: Hmm. Oh, Paimon thinks she gets what you mean...
+
+Black Screen Text: While court is adjourned, you meet with Lyney and Lynette backstage in the opera house.
 
 ## Talk 4
 
@@ -116,35 +121,54 @@ Paimon: Hmm, that does remind Paimon, though. What was with that sound?
 ## Talk 11
 
 Furina: As the countdown began, he entered the tunnel.
+
 Furina: When the flatbed trolley passed, he opened the box and got into an altercation with Halsey, which caused the loud thud.
 Furina: He did not realize that this sound could be heard by everyone in the opera house, which is why he claimed earlier that he could not hear the sound.
+
 Furina: Finally, he used the vase to knock her out, before making her change clothes to prevent others from recognizing her.
+
 Furina: At this time, Cowell arrived in the tunnel, having heard that strange noise, and caught Lyney red-handed.
 Furina: So Lyney proceeded to knock him out too before stuffing him into that box.
+
 Furina: Afterward, Lyney passed the unconscious Halsey to his accomplice through the magic box in the audience stands, before operating the devices such that Cowell's death would be ruled an accident.
+
 Furina: And there you have it, that's the truth behind what happened...
 Neuvillette: Does the defendant's side have any objections to Lady Furina's description of the events?
 Traveler: (The key to refuting Lady Furina is the order of events — what Lyney experienced and what he saw...)
+
 Traveler: (According to Lyney, he left via the vent after entering the tunnel. He couldn't have had that altercation with Halsey.)
+
 Traveler: (Lyney went to the room that contains the Oratrice's core. This is the actual truth.)
+
 Traveler: (Lyney did not take part in the underground altercation. He only witnessed traces of the aftermath.)
+
 Paimon: Ahem! Attention! Ace Detective Paimon has something to say!
 Paimon: When the countdown started, Lyney did indeed go into the tunnel.
 Paimon: But he immediately used a vent to access the opera house basement, which is where the underground core of the Oratrice is stored.
 Paimon: Once he reached that area, he heard a voice in what should have been an empty room. Since he felt something was amiss, he returned immediately.
 Paimon: The crime scene had already developed by the time he reached the tunnel again, and in order to complete the magic trick, he did not remain there for any length of time.
 Paimon: Finally, he reached the surface, and that was when the accident happened from his point of view. Therefore, he's innocent!
+
 Furina: Lyney did not need to take part in the dissolution of the young woman at all. Indeed, he did leave the scene via the vent.
+
 Furina: Having made modifications to the props beforehand, his accomplice Cowell then caused Halsey to vanish using the Water from the Primordial Sea.
+
 Furina: But upon his return, in cruel avarice, Lyney desired sole credit and prepared to do away with his partner-in-crime.
+
 Furina: Ultimately, he knocked Cowell out, and the tool meant to cover the crime up also became a murder weapon.
+
 Furina: Now, as much as I regret having come to such a viciously straightforward conclusion, it does seem that the famed Fatui is quite the cold-blooded and ruthless organization...
+
 Furina: Am I right, Mr. Lyney?
 Traveler: (We've used up all the evidence we collected. There's no way for us to make a rebuttal here.)
 Traveler: (Is this the end of the road?)
+
 Traveler: (The strange sound wasn't from a fight, it was Liliane's attempt to break out when she was frightened.)
+
 Traveler: (The flower vase was not broken to cover anything up, but was smashed during the struggle between Liliane and Cowell...)
+
 Traveler: (Liliane was afraid that she would be recognized if she left, so she changed clothes and hid, biding her time... Just what one might expect of an experienced thief.)
+
 Paimon: Aaand it's Ace Detective Paimon Time!
 Paimon: Having been selected out of the blue, Liliane panicked.
 Paimon: Her panic only intensified after she entered the tunnel and had water poured on her head. So she kicked the door open, producing the thud we all heard.
@@ -153,6 +177,7 @@ Paimon: He did not know that Liliane was not from Fontaine, but was a thief who'
 Paimon: Mistakenly believing that the Water from the Primordial Sea needed time to take effect, he tried to force Liliane back into the box.
 Paimon: The two broke the flower vase during the struggle, but Liliane came out on top, knocking Cowell out and putting him in the box.
 Paimon: With no way of escaping, she changed her clothes and hid in the costume trunk until the performance ended.
+
 Traveler: (Hmm, seems this won't produce a particularly effective rebuttal.)
 
 ## Talk 12
@@ -160,7 +185,10 @@ Traveler: (Hmm, seems this won't produce a particularly effective rebuttal.)
 Paimon: Hello there. What are you investigating?
 Maurice: Hmm? Oh, this location has also been cordoned off because the magic troupe members are currently considered prime suspects. The investigation team is still collecting evidence.
 Maurice: The seats were all booked in advance, so we were able to deduce the missing woman's identity by checking the guest list.
-Traveler: Could you tell us who she is?
+    Option 1:
+        Traveler: Could you tell us who she is?
+    Option 2:
+        Traveler: We're Lyney and Lynette's attorneys.
 Maurice: Sure, it's not like this is confidential information. We will publish it later anyway when we petition the public to help us find the missing person.
 Maurice: Her name is Halsey. She's a painter from Fontaine who's made a bit of a name for herself.
 Maurice: Apparently, she wasn't a regular at the opera house, but she'd been feeling some pressure with her work lately, which made her decide to come see the magic show.
@@ -172,7 +200,6 @@ Paimon: Huh... Okay then.
 Traveler: Thanks for letting us know all this.
 Maurice: No need to be so formal. If you do happen to see the missing girl, please be sure to contact us.
 Maurice: It is of utmost importance that we get to the bottom of these disappearances.
-Traveler: We're Lyney and Lynette's attorneys.
 
 ## Talk 13
 
@@ -194,40 +221,63 @@ Paimon: Alright, thanks for your help. This'll be useful info!
 ## Talk 14
 
 Traveler (The Deceased's Identity): (The deceased's name is Cowell, Lyney's assistant. He would've been able to tamper with the equipment...)
+
 Traveler (Information About the Missing Lady's Identity): (Halsey is the missing person and an ordinary audience member... or did she have her own scheme all along?)
+
 Traveler (Probability of Third Person Being Involved): (Could there have been a third person involved? Is that really a possibility?)
+
 Traveler (Strange Sound During the Magic Show): (The sound we heard may have come from a clash between the missing Halsey and the criminal.)
+
 Traveler (Lyney's Statement): (Lyney was not in the tunnel at that moment, which gave our criminal ample time.)
+
 Traveler (Entrances and Exits to the Opera House): (No one entered or left the opera house through its entrances, so where would the criminal have wanted to take Halsey?)
+
 Traveler (The Young Lady's Clothes): (Halsey's clothing was in the tunnel. So there must have been some fear that she would attract attention...)
+
 Traveler (Tunnel Vent): (It would have been tough for both people to fit into that vent. They would likely have bumped into Lyney as well.)
+
 Traveler (Broken Flower Vase): (The vase was not broken by chance. It was used to cover important evidence — the water!)
+
 Traveler (Dropped Hook Rope): (Now it seems like the hook rope was not meant for another magic trick, but was instead some form of triggering mechanism.)
+
 Traveler ("Water from the Primordial Sea"): (The Water from the Primordial Sea should already have been prepped before Halsey entered the magic box.)
+
 Traveler (Audience-Side Magic Box Structure): (I remember there was something else within the inner layer of that box...)
+
 Traveler (Onstage Magic Box Structure): (Lynette was in the magic box onstage the entire time. Did she have something to do with this?)
+
 Traveler (Special Rope): #(The rope that held the water tank up was lit by the fireworks and snapped. As such, the focus here is on the water and not the tank.)
+
 Traveler (Gardes Investigation Report): The Gardes Investigation Report indicates that the fireworks released near the end of the show ignited and burned through the rope suspending the water tank above the stage. This caused the water tank to fall and kill Cowell in the box below.
-Traveler (The Magic Trick): Lyney gave a detailed account of how the trick was supposed to work: By using a box inside a box, the idea was for the box containing the audience member to be transported across via a tunnel underneath, and Lyney himself would also use this tunnel to get to the other side.
-Traveler (The Young Lady's Clothes): The clothes belonging to Halsey — the lady who went missing — were found in the tunnel. The reason for this remains unknown.
 Traveler (Gardes Investigation Report): If Lyney is no longer under suspicion, only the other members of the troupe would have been able to tamper with the props.
+
+Traveler (The Magic Trick): Lyney gave a detailed account of how the trick was supposed to work: By using a box inside a box, the idea was for the box containing the audience member to be transported across via a tunnel underneath, and Lyney himself would also use this tunnel to get to the other side.
 Traveler (The Magic Trick): Having changed her outfit, Lynette and her assistant would take charge of on-stage interactions.
+
+Traveler (The Young Lady's Clothes): The clothes belonging to Halsey — the lady who went missing — were found in the tunnel. The reason for this remains unknown.
+
 Traveler (Lyney's Statement): Lyney claims that he headed to the chamber containing the Oratrice core upon entering the tunnel and did not witness the crime taking place, and thus did not hear the thud.
 Traveler (Lyney's Statement): As a member of the magic troupe, Cowell must have known in advance that Lyney would leave, and he may have thusly judged that he had enough time to commit the crime.
+
 Traveler (Strange Sound During the Magic Show): During the switching performance, there was an audible thump that many audience members heard.
+
 Traveler (The Deceased's Identity): The deceased is one of Lyney's assistants, named Cowell. He was well-trusted by all his colleagues. His job was setting up and inspecting the props, as well as assisting with the show and keeping the crowd engaged.
+
 Traveler (Dropped Hook Rope): A rope that has fallen to the ground. A metal hook has been tied to one end of this rope. Its use is unclear.
+
 Traveler ("Water from the Primordial Sea"): The liquid the Gardes found in Cowell's luggage seems to have the ability to dissolve Fontainians into water...
+
 Traveler (Audience-Side Magic Box Structure): The magic box at the center of the audience stands has 2 layers, and beneath it is an entrance to an underground tunnel. This was how the lucky audience member was meant to have been transported without the audience noticing.
 Traveler (Audience-Side Magic Box Structure): By cleverly concealing the tools used to commit the murder among the rest, the wool would be pulled over everyone's eyes, and they could be used when the time came without arousing suspicion...
 
 ## Talk 15
 
-Black Screen Text: The brief adjournment ends, and the nail-biting trial reconvenes.
 Neuvillette: Both parties have returned to their positions. Let us continue the trial.
 Neuvillette: When last we left off, Mr. Lyney acknowledged the new evidence presented by Lady Furina as fact. Therefore, Lady Furina may continue stating her reconstruction of the events.
 Furina: That took long enough. Now then, if everyone would lend me their attention.
 Furina: At this stage, let's revisit that scene from Lyney's perspective.
+
+Black Screen Text: The brief adjournment ends, and the nail-biting trial reconvenes.
 
 ## Talk 16
 
@@ -267,7 +317,10 @@ Navia: In your opinion, do you think it's right to treat a trial like it's an op
 Paimon: Um, well...
 Traveler: Not always.
 Navia: And why would that be?
-Traveler: Doing so makes it easy for the truth to fall by the wayside.
+    Option 1:
+        Traveler: Doing so makes it easy for the truth to fall by the wayside.
+    Option 2:
+        Traveler: Something serious like a trial shouldn't be treated like entertainment.
 Navia: Hahaha! See, Silver and Melus? I told you they'd be different!
 Melus: Most astute of you, Demoiselle. I, too, think that the Traveler's response was most excellent.
 Melus: No matter how wonderful the script or how fervent the audience's expectations may be, the trials that go on stage here must be based in fact.
@@ -277,7 +330,10 @@ Navia: Now, I need to make some preparations, following which our joint investig
 Paimon: Wait, since when did we become assistants!?
 Navia: Hmm? Oh. Well, I can be the assistant, sure — or your companion, if you like. I'm really not that fussy.
 Paimon: Hmph. That's more like it.
-Traveler: I think you're missing the point, Paimon...
+    Option 1:
+        Traveler: I think you're missing the point, Paimon...
+    Option 2:
+        Traveler: Seems you've already agreed, then.
 Melus: Far be it from me to brag, but I believe that Demoiselle's intuition will be instrumental in uncovering the truth.
 Melus: You wish to save a friend from false accusations, and we wish to unravel the disappearances. In this sense, our goals are aligned.
 Paimon: Hmm, you have a point. You're quite the talker, aren't you, mister?
@@ -285,8 +341,6 @@ Paimon: And what about you over there? What do you think? You seem like you've g
 Silver: I have nothing to add.
 Paimon: Oh, alrighty then...
 Navia: We'll be making some preparations first. Just be sure to let us know if they start revealing Lyney's tricks. Thanks!
-Traveler: Seems you've already agreed, then.
-Traveler: Something serious like a trial shouldn't be treated like entertainment.
 
 ## Talk 17
 
@@ -312,9 +366,11 @@ Paimon: Uh... "The back"? You mean the inside of the door? What's different abou
 Lyney: Haha, very good indeed. I thought you might not be able to catch that, given that you were sitting in the first row.
 Lyney: The back of this door was patterned. Those patterns are now gone, replaced by a smooth wooden board.
 Lyney: So if you put two and two together, what do you get?
-Traveler: Wait, does that mean...
+    Option 1:
+        Traveler: Wait, does that mean...
+    Option 2:
+        Traveler: There's another box inside this one?
 Lyney: Haha, exactly! Alright, let's go. I'll tell you how it works as we head down.
-Traveler: There's another box inside this one?
 
 ## Talk 18
 
@@ -391,9 +447,11 @@ Silver: It seems someone could fit through here.
 Navia: Hmm, could this have been the suspect's escape route?
 Melus: Alone, perhaps. But if they had to pull another person with them, this space would be too narrow.
 Paimon: But there are no other ways in or out of here.
-Traveler: Other than those that go through the magic boxes.
+    Option 1:
+        Traveler: Other than those that go through the magic boxes.
+    Option 2:
+        Traveler: And Lyney and Lynette were in the two magic boxes.
 Paimon: Ah, you're right! Let Paimon write that down...
-Traveler: And Lyney and Lynette were in the two magic boxes.
 
 ## Talk 24
 
@@ -457,13 +515,19 @@ Navia: Anyway, give these a try, fresh out of the oven! There's three for each o
 Paimon: Only three?
 Navia: Well, eating too many sweet treats might send all that sugar to your head. You wouldn't be able to think clearly about the case on a sugar rush, would you?
 Melus: Tea is ready to be served as well. This is Demoiselle's favorite, strong black tea with a floral fragrance that clears the mind and lifts the spirit.
-Traveler: Thank you.
+    Option 1:
+        Traveler: Thank you.
+    Option 2:
+        Traveler: Why don't you take a break as well?
 Melus: No need for concern. I'm merely doing as I should.
 Navia: Alright then, down to business. As Paimon mentioned previously, the tunnel seems to be something of a secret chamber...
 Navia: However, we can assume that Lyney and Lynette were not alone within it. Some criminal also occupied its sealed confines.
 Navia: The magician twins could have committed the crimes, of course, but they lack any logical motive.
 Paimon: Exactly! Why would they do such a thing right when everyone was watching?
-Traveler: So apart from the twins...
+    Option 1:
+        Traveler: So apart from the twins...
+    Option 2:
+        Traveler: We're left with two other people: the missing girl and the deceased.
 Navia: The flower vase and the thud we heard during the performance could indicate some altercation between Halsey and the criminal in the tunnel.
 Navia: Resulting in the shattering of the vase, the discarding of her clothes, and her abduction...
 Navia: Perhaps the criminal thought that since she was chosen from the crowd, she would be too easy to identify if she was still wearing the same clothes...
@@ -483,7 +547,10 @@ Paimon: What? Five? Oh, that can't be right... Paimon only counted three... hone
 Melus: Please, don't worry about it. At my age, a few less sweets might actually be a good thing.
 Paimon: Ugh, no, no... Being greedy is one thing, but Paimon knows how to count!
 Paimon: Besides, Paimon knows that if she ate too many, then others wouldn't have enough.
-Traveler: It's fine. If you ate them, you ate them.
+    Option 1:
+        Traveler: It's fine. If you ate them, you ate them.
+    Option 2:
+        Traveler: Oh, it's fine. Everyone knows how much you love eating.
 Paimon: Wait, even you don't believe Paimon!? Oh! ...How could you!?
 Paimon: If Paimon ate those two extra macarons, then may they turn into stone in her stomach!
 Navia: Haha, alright, we get it. Well, I suppose one of us might have gotten too engrossed in our chat and eaten them by mistake! No big deal.
@@ -503,9 +570,6 @@ Navia: It would be awkward if you got all tongue-tied on stage during the trial.
 Paimon: Alright. Thanks for your help — and for the snacks!
 Navia: Haha, it was nothing. A small task for the Spina di Rosula. Silver, Melus, it's time to go.
 Navia: I'll be back if I find anything new!
-Traveler: Oh, it's fine. Everyone knows how much you love eating.
-Traveler: We're left with two other people: the missing girl and the deceased.
-Traveler: Why don't you take a break as well?
 
 ## Talk 25
 
@@ -527,14 +591,20 @@ Traveler: Why don't you take a break as well?
 ### Additional Talk 1
 
 Paimon: So... we're just going back now?
-Traveler: The problem seems to have been solved for now.
+    Option 1:
+        Traveler: The problem seems to have been solved for now.
+    Option 2:
+        Traveler: We're not needed here anymore.
 Paimon: That's true, but...
 Lyney: #Traveler, Paimon, please wait...
 Traveler: ...
 Paimon: Lyney...
 Lyney: I know you may not want to speak to me right now. Maybe you don't even want to look at me...
 Lyney: But still, let me thank you again for defending me to the end, even after you learned that I am a member of the Fatui.
-Traveler: I just didn't wish to see anyone be falsely accused.
+    Option 1:
+        Traveler: I just didn't wish to see anyone be falsely accused.
+    Option 2:
+        Traveler: I just wanted to be sure that we're square.
 Lyney: I guess. But regardless, I'd like the opportunity to set things straight...
 Lyney: I didn't approach you with any ulterior motives or ill-intent. I've spoken to you as myself, just plain "Lyney," this entire time.
 Lyney: As for why I'm a Fatuus, it's because the goals of the House of the Hearth align with those of an orphan like me. That's all.
@@ -558,7 +628,10 @@ Lyney: The answer he gave me was: "She caught the eye of a most eminent person a
 Paimon: Oh no... So he was gonna...
 Paimon: Ugh, but wouldn't Fontaine's laws deal with such people?
 Lyney: As far as outsiders are concerned, this is a relationship akin to "adoption" or "foster care," and they have their ways of escaping the eye of the law.
-Traveler: Villains.
+    Option 1:
+        Traveler: Villains.
+    Option 2:
+        Traveler: So what happened after that?
 Lyney: I managed to ferret out the location of the mansion of that so-called "eminent person," and hurried through the night... But by the time I leaped over the walls, avoided the guards, and made my way in...
 Lyney: All I saw was the moonlit ground covered in blood... and The Knave, standing there in the darkness.
 Paimon: So she'd already taken care of that guy...
@@ -568,7 +641,10 @@ Lyney: "The House of the Hearth welcomes you, for your interests align with ours
 Lyney: I was hesitant to trust her. I mean, I had just been betrayed by nobles.
 Lyney: But she was also quick to destroy the noble who had taken us in at first, giving us back our freedom.
 Paimon: So that's how the two of you joined the House of the Hearth.
-Traveler: That's all in the past, though.
+    Option 1:
+        Traveler: That's all in the past, though.
+    Option 2:
+        Traveler: The Knave is after the Gnosis, isn't she?
 Lyney: She... has her own plans.
 Lyney: She has gained permission from the Tsaritsa to first use the Gnosis' power once she obtains it. She plans to use it to find a way to break the prophecy and save Fontaine.
 Paimon: So she believes in that prophecy too?
@@ -577,27 +653,33 @@ Lyney: Today's case has also proven that people from Fontaine can indeed dissolv
 Lyney: Everyone at Hotel Bouffes d'ete, including The Knave, has their roots in Fontaine. And we will always defend our homeland.
 Lyney: To us orphans, the only connection we have left to this world, apart from our "family," is our homeland.
 Paimon: So from small deeds like distributing Magic Pockets to huge schemes like stealing a Gnosis, everything is aimed at dealing with that prophecy...
-Traveler: I'm sorry...
+    Option 1:
+        Traveler: I'm sorry...
+    Option 2:
+        Traveler: But I still can't completely trust you.
 Lyney: It's alright, I understand. The only thing I can do is relate all this to you.
 Lyney: I just hope you can understand that even as a member of the House, I have never stopped making my own decisions, and that I believe what I'm doing is right.
 Lyney: If you should need anything at all in the future, feel free to find me. I will do my best to help you, as plain "Lyney."
-Traveler: I understand.
+    Option 1:
+        Traveler: I understand.
+    Option 2:
+        Traveler: Goodbye.
 Paimon: Uh... bye, Lyney.
-Traveler: Goodbye.
-Traveler: But I still can't completely trust you.
-Traveler: The Knave is after the Gnosis, isn't she?
-Traveler: So what happened after that?
-Traveler: I just wanted to be sure that we're square.
-Traveler: We're not needed here anymore.
 
 ### Additional Talk 2
 
 Navia: Hey there! What was with the disappearing act you pulled right as the trial ended?
 Paimon: Were you looking for us, Navia?
 Navia: Well, this whole thing isn't exactly over, is it? I do feel that we're getting closer to solving the serial disappearances case, though. Don't you think so too?
-Traveler: Well, I...
+    Option 1:
+        Traveler: Well, I...
+    Option 2:
+        Traveler: I'm sorry, Navia.
 Navia: Hmm? What's wrong, my dear partner?
-Traveler: I was really only trying to defend Lyney.
+    Option 1:
+        Traveler: I was really only trying to defend Lyney.
+    Option 2:
+        Traveler: I wasn't necessarily looking into serial disappearances case.
 Paimon: Besides, are you sure we're the ones who can crack a case that's been cold for decades now?
 Paimon: And given that there's new evidence from the trial, there should be a trail of breadcrumbs for the Hydro Archon's people to follow now, right?
 Navia: Ah...
@@ -611,13 +693,13 @@ Navia: Wait, shall we have a farewell meal? You know, to commemorate our time as
 Paimon: Huh? Do we really need to get that formal? ...Well, guess you really did treat us as partners, huh.
 Navia: Well, I just like to have a proper ending to every important memory, that way there are no regrets later.
 Navia: Anyway, it would just be a meal, so it shouldn't take up too much of your time.
-Traveler: Well, if you say so...
+    Option 1:
+        Traveler: Well, if you say so...
+    Option 2:
+        Traveler: Let's go have that meal, then.
 Paimon: You don't have to twist Paimon's arm! If Boss Navia's treating, count Paimon in!
 Navia: Wonderful! In that case, why don't we return to the Court of Fontaine and head to the Hotel Debord? I believe we'll make it just in time for dinner.
 Paimon: Alright then, let's have our farewell meal!
-Traveler: Let's go have that meal, then.
-Traveler: I wasn't necessarily looking into serial disappearances case.
-Traveler: I'm sorry, Navia.
 
 ### Additional Talk 3
 
@@ -674,19 +756,25 @@ Furina: In other words, you believe that he knew nothing of the incident?
 Paimon: That's right.
 Traveler: Moreover, I believe my opposition's reasoning is flawed.
 Furina: Huh? M—My reasoning?
-Traveler: The onstage equipment was clearly tampered with in a premeditated fashion.
+    Option 1:
+        Traveler: The onstage equipment was clearly tampered with in a premeditated fashion.
+    Option 2:
+        Traveler: However, you say that Cowell bumped into Lyney by chance.
 Paimon: If that's the case, then if Cowell hadn't entered the tunnel, who was the entire setup meant to kill?
 Paimon: Assuming that what you say is true, Lyney only needed to kidnap the young girl to cause a new disappearance case. What would the point of killing someone onstage be?
 Audience (Approving Audience Member): Oh, they have a point...
 Navia: Haha, that's right, you tell them! And that's why they're partners of mine. They've managed to turn things around!
 Furina: W—Well. Your denial is very strident, I'll give you that! But what proof do you have to back your claims?
-Traveler: Do you happen to remember...
+    Option 1:
+        Traveler: Do you happen to remember...
+    Option 2:
+        Traveler: How you refuted Lyney's alibi initially?
 Furina: Of course I do. If he had been in the magic box the whole time, how could he have not heard that sound? Why do you ask?
 Furina: Ah. You're saying that he wasn't...
-Traveler: Your claim has now become my weapon...
-Traveler: Your claim has also become a critical clue...
-Traveler: How you refuted Lyney's alibi initially?
-Traveler: However, you say that Cowell bumped into Lyney by chance.
+    Option 1:
+        Traveler: Your claim has now become my weapon...
+    Option 2:
+        Traveler: Your claim has also become a critical clue...
 
 ### Additional Talk 15
 
@@ -725,12 +813,14 @@ Lyney: Just like the trick as it transpired, the end result must have been utter
 Lynette: If only we knew how Halsey disappeared...
 Paimon: Well, that would be nice, but the tunnel only has three exits, and none of them seem very likely.
 Paimon: And it's not like this is a magic trick where you can just make a real, live person disappear. Y'know, like you did from that water tank, Lynette...
-Traveler: Magic...
+    Option 1:
+        Traveler: Magic...
+    Option 2:
+        Traveler: Escaping from the water tank...
 Traveler: (Wait. Could it have been the water...?)
 Furina: Excuse my interruption, dear opponents, but do you not see that the crowd is growing impatient? There is no greater sin in this opera house than an awkward delay in the performance.
 Neuvillette: If the defense is unable to make further effective arguments, we will move on to the next stage of the trial.
 Traveler: Hold on a second!
-Traveler: Escaping from the water tank...
 
 ### Additional Talk 19
 
@@ -739,7 +829,10 @@ Paimon: Lynette escaped from the water tank, vanishing gradually and leaving onl
 Paimon: If there's a similar method where a person could be transformed into water...
 Furina: Hahaha! Just a moment, please. I do hope you know how preposterous you sound at the moment.
 Furina: How could a person ever be transformed into water? This is reality we're talking about here, not some magic trick!
-Traveler: I request that we examine Cowell's personal effects.
+    Option 1:
+        Traveler: I request that we examine Cowell's personal effects.
+    Option 2:
+        Traveler: We might find something there.
 Furina: Must we, really? I should think that of anyone, your friend Lyney already knows this truth very well...
 Furina: Magic tricks are ultimately just illusions and misdirection... but Halsey's disappearance is very real. We're talking about two completely different things.
 Lyney: #Even so... I trust Traveler's judgment.
@@ -775,7 +868,6 @@ Lyney: Of course. Thank you, Your Honor.
 Lyney: If we uphold this hypothesis, I believe that many of this case's seemingly unrelated clues can be connected together.
 Paimon: Right, like the metal hook. That one didn't make sense at all!
 Paimon: Let's think about this. Cowell's methods must have something to do with that "Water from the Primordial Sea."
-Traveler: We might find something there.
 
 ### Additional Talk 20
 
@@ -839,13 +931,15 @@ Liliane: I wasn't going to take that lying down, so I knocked him out and stuffe
 Liliane: There was nowhere to run from there, though, so I had to change my clothes and hide in a box containing performance costumes.
 Liliane: I slipped out after the first Garde arrived at the scene and continued hiding inside the opera house.
 Paimon: Can a person even hide in there?
-Traveler: If they're a practiced hand at concealment, probably...
+    Option 1:
+        Traveler: If they're a practiced hand at concealment, probably...
+    Option 2:
+        Traveler: A professional thief could make it work.
 Liliane: But I swear I didn't know that the water tank would fall down. Really, I swear it!
 Liliane: Had I known that, I wouldn't have put him in the magic box! I may be a thief, but I'm no killer!
 Paimon: Well, that makes everything pretty clear now, doesn't it?
 Traveler: Yeah. Now it's time to refute the Hydro Archon's previous reasoning.
 Traveler: (This time, we need to tell the entire story from Liliane's perspective.)
-Traveler: A professional thief could make it work.
 
 ### Additional Talk 21
 

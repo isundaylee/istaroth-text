@@ -20,8 +20,12 @@ Lisa: Simply put, Mondstadt's elemental sphere and ley lines are now akin to a y
 Lisa: For a mage, it couldn't get much worse. My skin is one elemental particle away from a full-blown breakout.
 Jean: If it weren't for this interference, the Knights of Favonius would have better ways to help you than just putting up missing person posters.
 Jean: #We simply ask that you repose in Mondstadt while we help you seek out your {F#brother}{M#sister}.
-Traveler: I really should help out as well.
-Paimon: Paimon will help too!
+    Option 1:
+        Traveler: I really should help out as well.
+        Paimon: Paimon will help too!
+    Option 2:
+        Traveler: Guess we leave it up to you then. Where's the inn?
+        Paimon: Hey! Don't be such a slug! We should be a part of this too!
 Kaeya: Good. In that case we need a plan.
 Jean: With Stormterror now directly attacking Mondstadt, we may have an opportunity to cut this problem off at the source.
 Jean: Lisa has revealed the sources of Stormterror's power with her detection magic.
@@ -31,13 +35,13 @@ Lisa: Stormterror's ability to whip up these kinds of storms can be attributed t
 Jean: Our objective is to deal with *three* of the four temples.
 Jean: I trust everyone understands why we are only dealing with three.
 Paimon: Paimon doesn't.
-Traveler: It must be a local thing...
+    Option 1:
+        Traveler: It must be a local thing...
+    Option 2:
+        Traveler: We'll ask later...
 Jean: Knights of Favonius, time is against us.
 Jean: The storm is rampant. There is no point in maintaining a defensive position.
 Jean: Alright. We need to take initiative and act before the situation escalates.
-Traveler: We'll ask later...
-Traveler: Guess we leave it up to you then. Where's the inn?
-Paimon: Hey! Don't be such a slug! We should be a part of this too!
 
 ## Talk 3
 

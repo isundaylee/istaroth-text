@@ -5,8 +5,12 @@
 
 Magnifico: Ker-chak! Behold, a miracle of light and shadow — Fontaine's latest industrial achievement!
 Paimon: What? That's nothing new to us. Also, you haven't told us what you need help with yet!
-Traveler: Yes, just come out with it.
-Paimon: From the looks of it, you probably want us to help you take a photo, right?
+    Option 1:
+        Traveler: Yes, just come out with it.
+        Paimon: From the looks of it, you probably want us to help you take a photo, right?
+    Option 2:
+        Traveler: Pay up and I'll help.
+        Paimon: We're super cool, so Mora up front.
 Magnifico: Oh... Well, sure! Here's your deposit. Please take it.
 Paimon: Wait. This is a ton of Mora!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrraa!
@@ -21,26 +25,30 @@ Magnifico: Come on, you think I'd deceive you? Or should I double-check the sum 
 Paimon: Hehehe... Hahaha! Well, looks like you've come to the right people, because Paimon is a renowned Saurian tamer here in Natlan!
 Paimon: #Don'cha worry. So long as Traveler and Paimon are here, any Saurian you wish to tame will be tamed!
 Paimon: Tepetlisaurs? Easy-peasy? Qucusaurs? Cheddar-cheesy! Iktomisaurs? Lemon-squeezy... Uh, we also do Koholasaurs, Yumkasaurs, Tachankasaurs...
-Traveler: Tachankasaurs?
+    Option 1:
+        Traveler: Tachankasaurs?
+    Option 2:
+        Traveler: One moment there, Paimon...
 Paimon: ...Bigheadasaurs, Miniarmasaurs, Gigagogglesaurs, Scarysaurs, Superscarysaurs, Somewhatscarysaurs, Weirdosaurs, Normiesaurs, Skinnysaurs, Hulkasaurs...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hoohroo!
-Traveler: What are you talking about, Paimon?
+    Option 1:
+        Traveler: What are you talking about, Paimon?
+    Option 2:
+        Traveler: Back it up, Paimon. Listen to yourself!
 Paimon: And... the Rawoorasaurs!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawoo, rawoo!
 Paimon: And the Wraahrasaurs!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wraah! Rawr!
 Paimon: Anyway, you name 'em, we can handle 'em!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hrrm, Hrmm!
-Traveler: *sigh* Alright, we'll help you.
-Paimon: #Of course we will. We've already taken a deposit of that size, after all! Right, {REALNAME[ID(2)|SHOWHOST(true)]}?
-Magnifico: Ah, wonderful. Wonderful!
-Traveler: Sorry, I've got things to do.
-Paimon: But we've already taken the deposit...
-Magnifico: Ha, it's fine. Just wait till you have the time! It's not like I'll melt into a helpless puddle without your help, eh?
-Traveler: Back it up, Paimon. Listen to yourself!
-Traveler: One moment there, Paimon...
-Traveler: Pay up and I'll help.
-Paimon: We're super cool, so Mora up front.
+    Option 1:
+        Traveler: *sigh* Alright, we'll help you.
+        Paimon: #Of course we will. We've already taken a deposit of that size, after all! Right, {REALNAME[ID(2)|SHOWHOST(true)]}?
+        Magnifico: Ah, wonderful. Wonderful!
+    Option 2:
+        Traveler: Sorry, I've got things to do.
+        Paimon: But we've already taken the deposit...
+        Magnifico: Ha, it's fine. Just wait till you have the time! It's not like I'll melt into a helpless puddle without your help, eh?
 
 ## Talk 2
 
@@ -70,7 +78,11 @@ Magnifico: *humming* Hmm... Not here... Not here either...
 Magnifico: Dammit, dammit, damn it all! Gah! You sickened blackguard, you cosseted, coddled nincompoop! Arrrgh!
 Magnifico: You... You...!
 Paimon: Hey, hey, calm down!
-Traveler: It's practically smoking!
+    Option 1:
+        Traveler: It's practically smoking!
+    Option 2:
+        Traveler: What's going on? You getting a divorce?
+        Paimon: What!?
 Magnifico: Phew... Well... It's a goner now, isn't it?
 Paimon: ...
 Magnifico: Heh. Don't look at me like that. If nothing else, I feel better now!
@@ -79,18 +91,18 @@ Paimon: Alright, just... stop for now. Chill out, and don't panic. We're here to
 Magnifico: *sigh* I'm sorry... Phew. Alright. What do I need? Ah, yes. I need to shine one light on the *left side of the Iktomisaurus's face*, and the other on the *contours of its back*.
 Paimon: No problem! Let's do this!
 Black Screen Text: And so, Magnifico begins tinkering with his Kamera once more, leaving you all to think about how to make a suitable light source...
-Traveler: What's going on? You getting a divorce?
-Paimon: What!?
 
 ## Talk 5
 
 Magnifico: "Louis, Louis!" ...Ah! You scared me half to death there!
 Magnifico: So, have you changed your mind, or are you just here to say hello?
-Traveler: To say hello, and help while we're at it.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Hoohroo~
-Magnifico: Haha. That's wonderful, then. Let us get started!
-Traveler: We're just passing through.
-Magnifico: Alright then, best of luck!
+    Option 1:
+        Traveler: To say hello, and help while we're at it.
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Hoohroo~
+        Magnifico: Haha. That's wonderful, then. Let us get started!
+    Option 2:
+        Traveler: We're just passing through.
+        Magnifico: Alright then, best of luck!
 
 ## Talk 6
 
@@ -114,8 +126,13 @@ Paimon: Ooh, a final payment...
 Paimon: Wait... Of only one Mora?
 Magnifico: Great... And now, our true protagonists are about to make an appearance! Come on in, don't be shy! You're a star, so make that entrance dazzle!
 Magnifico: Phew, and that's a wrap! Here, take this copy as a gift... and know that you have obtained this masterpiece before any Fontainian gallery could!
-Traveler: Thanks. We'll treasure it.
-Paimon: But, the final payment...
+    Option 1:
+        Traveler: Thanks. We'll treasure it.
+        Paimon: But, the final payment...
+    Option 2:
+        Traveler: Doesn't look like it'll be worth much Mora...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrooh? Wroo...
+        Paimon: Yeah... Paimon's disappointed too... She thought the final payment would be more substantial than the deposit...
 Magnifico: I'll be heading to this location next... Here, let me mark it out on your map. Who knows, perhaps our next meeting might be just around the corner!
 Magnifico: And when it comes, I might even need your help once more!
 Paimon: Ugh, you're practically taking us for granted, aren't you?
@@ -124,9 +141,6 @@ Magnifico: See you, and good luck, my friends!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Raaawr!
 Black Screen Text: Magnifico picks up his luggage and leaps into a hot-air balloon.
 You watch the balloon first shake violently, causing him to give a hearty laugh. Then it quickly regains stability before floating far away.
-Traveler: Doesn't look like it'll be worth much Mora...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrooh? Wroo...
-Paimon: Yeah... Paimon's disappointed too... She thought the final payment would be more substantial than the deposit...
 
 ## Additional Conversations
 

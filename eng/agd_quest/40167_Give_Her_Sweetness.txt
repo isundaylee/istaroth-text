@@ -75,7 +75,10 @@ Candace: I would still urge you to head to Caravan Ribat and report the incident
 Yakup: Well... alright. We'll just take another quick break before we head over...
 Candace: Good. Let's go.
 Candace: #Alright, we should be out of ear-shot. So... what do you think, Traveler?
-Traveler: ...I'm not sure about their goods.
+    Option 1:
+        Traveler: ...I'm not sure about their goods.
+    Option 2:
+        Traveler: ...I'm not sure about their identity.
 Candace: Yes, I feel the same way. Their leader was clearly hiding something. I think we can safely say those weren't simple firework shipments.
 Candace: And now, whatever "hazardous materials" they were transporting have fallen into the hands of another group of bandits.
 Paimon: So one group of bad guys attacked the other...
@@ -83,7 +86,6 @@ Candace: It's very possible. In any case, our biggest concern right now is the g
 Traveler: The Sabzeruz Festival is coming up...
 Candace: I see what you mean. Their methods were precise and effective. It's very likely they're exploiting the visions granted by the gem.
 Candace: The situation could be even more precarious than we thought. Mmm... I don't think we should hide this any longer. Let's head back to Caravan Ribat and explain the situation to the guards.
-Traveler: ...I'm not sure about their identity.
 
 ## Talk 6
 
@@ -98,7 +100,10 @@ Cyno: Just doing my duty. By the way, I brought something that I think might hel
 Paimon: Um... okay! Thanks!
 Cyno: Well, find any clues? They say the "proof is in the pudding," after all.
 Paimon: *coughing*...! Did you have to tell that joke when Paimon had a mouthful of pudding! She almost choked...
-Traveler: Very funny...
+    Option 1:
+        Traveler: Very funny...
+    Option 2:
+        Traveler: Don't tell me you did all that just to make a joke...
 Cyno: Anyway, back to the matter at hand. Tell me about this robbery case of yours.
 Cyno: ...I see, so you and Candace already did a preliminary investigation.
 Paimon: Yep! Candace can tell you the rest when she gets back. That merchant group was really suspicious!
@@ -114,9 +119,13 @@ Cyno: ...
 Cyno: Do you know why Henna Berries can't tell a lie?
 Paimon: Um... Wh—Why?
 Cyno: Because... they're always going to be "read" straight through.
-Traveler: ...
-Cyno: Get it? Like the color... I can explain it if you need.
-Paimon: We get it! We get it!
+    Option 1:
+        Traveler: ...
+        Cyno: Get it? Like the color... I can explain it if you need.
+        Paimon: We get it! We get it!
+    Option 2:
+        Traveler: Haha, good one.
+        Cyno: You think so? Then, tell me your secret!
 Paimon: S—Seriously! There's no secret!
 Cyno: Is that so? You're not afraid of ending up like the bass in the lake?
 Paimon: What...?
@@ -142,9 +151,6 @@ Cyno: Oh, and these are the items I was supposed to get. Could you take them bac
 Paimon: Sure thing! We've got this!
 Cyno: I would hope so. I just handed it to you.
 Paimon: Enough already!
-Traveler: Haha, good one.
-Cyno: You think so? Then, tell me your secret!
-Traveler: Don't tell me you did all that just to make a joke...
 
 ## Talk 7
 
@@ -173,7 +179,6 @@ Paimon: Wait, it's you two? What kind of terrible plan were you talking about ju
 Paimon: Something about explosions, and the Flower Carriage...
 Alhaitham: The connections we make reveal a lot about the mind. The fact that you went to a dark place simply shows the way you think.
 Kaveh: Honestly, Paimon, what did you think we were doing? We were just discussing the birthday surprise.
-Black Screen Text: Not long ago...
 Kaveh: Like I said, that's not it! We have more than just a heartless, transactional relationship... You're overthinking the whole thing!
 Alhaitham: It was your theory in the first place... that Mehrak disappeared after working for you all this time without anything in return.
 Kaveh: I think I'm allowed some dramatics! Mehrak hasn't come back since I sent it out for coffee!
@@ -236,6 +241,8 @@ Alhaitham: I'm needed at the House of Daena. See you later.
 Paimon: Yep! Bye-bye!
 Tighnari: ...Huh?
 
+Black Screen Text: Not long ago...
+
 ## Talk 8
 
 Yakup: If you don't know what to say, then don't say anything at all! You have to stop interrupting me!
@@ -288,7 +295,10 @@ Kaveh: Of course! I'll get something to you first thing tomorrow!
 Nahida: Oh, so it was a conversation about architecture. Hmm... I think innovation can be a good thing.
 Faruzan: Don't mind us, Archon. Kaveh is an intelligent young man. He just goes overboard sometimes. Really lets his imagination run wild... Don't worry. It's a simple fix.
 Nahida: I see...
-Traveler: Nothing to worry about...
+    Option 1:
+        Traveler: Nothing to worry about...
+    Option 2:
+        Traveler: He'll revise the design right away...
 Nahida: Alright, if you say so...
 Nahida: Still, I'd be happy to take a look at the plans. I might be able to give some pointers.
 Faruzan (Faruzan & Kaveh): ...!
@@ -329,7 +339,6 @@ Kaveh: Thanks...
 Kaveh: (Madame Faruzan said she doesn't normally yell at her juniors, but I feel like I just got a glimpse of a true senior researcher...)
 Kaveh: (Even though there's nothing "senior" about her appearance...)
 Tighnari: Alright, it's decided. Let's meet tomorrow at Pardis Dhyai.
-Traveler: He'll revise the design right away...
 
 ## Talk 12
 

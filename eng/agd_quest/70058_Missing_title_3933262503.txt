@@ -3,7 +3,11 @@
 Xiao: It's you. Long time no see.
 Xiao: I was just preparing to release some Xiao Lanterns. Care to join me?
 Traveler: Sure.
-Traveler: You're not going to ask why I'm here?
+    Option 1:
+        Traveler: You're not going to ask why I'm here?
+    Option 2:
+        Traveler: Wait, did you know I was coming here?
+        Xiao: I didn't know, but I can sense your scent.
 Xiao: You walk with a carefree stride, and you're holding a Kamera. It's obvious that you came here to take pictures.
 Xiao: This temple sits between mountains and rivers. It's a tranquil place.
 Xiao: Sometimes, visitors come here to paint, and sometimes I see the younger ones bring their Kameras with them.
@@ -14,21 +18,969 @@ Traveler: We can keep it as a memento of you releasing your Xiao Lanterns.
 Xiao: I just came to release them. I never considered keeping mementos.
 Xiao: Be that as it may, I think it's a good idea. We'll do as you suggest.
 Xiao: In your opinion, how should I hold myself in this photo?
-Traveler: Let's go with a fun pose.
-Xiao: Okay, how's this?
-Traveler: Perfect. I'll line up the Kamera!
-Xiao: I'm ready.
-Traveler: Let's go with the cool pose instead.
-Xiao: Alright then.
-Traveler: The fun pose might work better.
-Xiao: Alright then.
-Traveler: How about we switch to the formal pose?
-Xiao: Alright then.
-Traveler: Let me think about it a bit more.
-Xiao: Of course. Just let me know when you've decided.
-Traveler: We should try a cool pose.
-Xiao: Okay, how's this?
-Traveler: I think a formal pose is best.
-Xiao: Okay, how's this?
-Traveler: Wait, did you know I was coming here?
-Xiao: I didn't know, but I can sense your scent.
+    Option 1:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 2:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 3:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 4:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 5:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 6:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 7:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 8:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 9:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 10:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 11:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 12:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 13:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 14:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 15:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 16:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 17:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 18:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 19:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 20:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 21:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 22:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 23:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 24:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 25:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 26:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 27:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 28:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 29:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 30:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 31:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 32:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 33:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 34:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 35:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 36:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 37:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 38:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 39:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 40:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 41:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 42:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 43:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 44:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 45:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 46:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 47:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 48:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 49:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 50:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 51:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 52:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 53:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 54:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 55:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 56:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 57:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 58:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 59:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 60:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 61:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 62:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 63:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 64:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Perfect. I'll line up the Kamera!
+        Xiao: I'm ready.
+    Option 65:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 66:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 67:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 68:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 69:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 70:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 71:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 72:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 73:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 74:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 75:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 76:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 77:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 78:
+        Traveler: Let's go with a fun pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 79:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 80:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 81:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 82:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 83:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 84:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 85:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 86:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 87:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 88:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 89:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 90:
+        Traveler: We should try a cool pose.
+        Xiao: Okay, how's this?
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 91:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 92:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 93:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 94:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 95:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 96:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 97:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        [Circling back to a pre-branch dialog]
+    Option 98:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 99:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.
+    Option 100:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let's go with the cool pose instead.
+        [Circling back to a pre-branch dialog]
+    Option 101:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        [Circling back to a pre-branch dialog]
+    Option 102:
+        Traveler: I think a formal pose is best.
+        Xiao: Okay, how's this?
+        Traveler: Let's go with the cool pose instead.
+        Xiao: Alright then.
+        Traveler: How about we switch to the formal pose?
+        Xiao: Alright then.
+        Traveler: The fun pose might work better.
+        Xiao: Alright then.
+        Traveler: Let me think about it a bit more.
+        Xiao: Of course. Just let me know when you've decided.

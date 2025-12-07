@@ -25,6 +25,7 @@ Akashi: Alright then, let me see your true abilities. Don't forget to come find 
 Akashi: Huh, so you couldn't hit them either.
 Akashi: I guess this just isn't my day. Something must be hindering my progress somehow.
 Akashi: Would you like to try a couple more times? I mean, t's not like the targets are gonna run away like those unagi fry!
+[Circling back to a previous dialog]
 
 ## Talk 3
 
@@ -32,10 +33,12 @@ Akashi: Wow! You got it!
 Akashi: *sigh* You looked like a real pro out there, though. I doubt someone without proper training like myself could reach your standards — not even if I trained for a few years more.
 Akashi: And I haven't seen a live, jumping unagi for a long time either, what with coming here every day to train and all.
 Akashi: Do you like unagi, by the way?
-Traveler: I do.
+    Option 1:
+        Traveler: I do.
+    Option 2:
+        Traveler: Not exactly my thing.
 Akashi: Is that so? As for me, I love them — so much so that I'd love to try raising some one day. Don't you think they look cute?
 Akashi: Well, unagi on a dinner platter are best of course. Lovely to look at and to taste — one heck of a combination!
 Akashi: Speaking of which, do you think I've got my priorities wrong? I mean, I'm only practicing archery because I want to raise unagi, but I only want to do that because I love them.
 Akashi: In the end, I love them when they're living free. So there's probably no point trying to raise them, you know?
 Akashi: In any case, thanks for the demonstration. Please take these. Good luck!
-Traveler: Not exactly my thing.

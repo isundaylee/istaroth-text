@@ -22,6 +22,7 @@
 ## Talk 5
 
 Paimon: Yet another place crawling with monsters...
+
 Paimon: Let's clear the area and see if there are any survivors.
 
 ## Talk 6
@@ -82,6 +83,7 @@ Paimon: The latest intel said the Children of Echoes need support too. Let's hea
 ## Talk 15
 
 Paimon: Wait, over there! It's Chasca and Chuychu...
+
 Chasca: #Traveler!? Over here, hurry!
 
 ## Talk 16
@@ -158,6 +160,9 @@ Toto: Roar...
 
 ## Talk 31
 
+Paimon: Huh?
+[Missing Dialog 50120921]
+
 Chimalli: Thank you so much, you saved the day. The enemy attacks grow stronger with each wave... We're nearly at breaking point.
 Chimalli: Given how few of us are left, I think it's time we cut our losses. This base is as good as gone.
 Paimon: Yeah. Everyone needs to stick together. Best to regroup somewhere else.
@@ -176,7 +181,8 @@ Chimalli: We may be few in number, but our will remains strong. We will join the
 Paimon: Okay... Well, take care of yourselves.
 Chimalli: Don't worry, it'll be just like another Night Warden War. We'll force the Abyss back if it's the last thing we do.
 Traveler: What's that?
-Paimon: Huh?
+[Missing Dialog 50122119]
+
 Paimon: Shoot, that creepy Abyss thing is raining down a dangerous-looking substance again!
 Chimalli: ...That's over towards People of the Springs territory. From what I've heard, their defenses have been substantially weakened by the Abyss invasion.
 Paimon: Then let's head over and check on them!
@@ -245,10 +251,12 @@ Maztla: We've got enough people to hold our own here, and it's high time you too
 Paimon: #It's true, we've been fighting pretty much non-stop. Traveler, you must be exhausted, what do you think?
 Traveler: Right now, there are bigger things to worry about.
 Paimon: What is it?
-Traveler: As long as that dark monstrosity remains unbeaten...
+    Option 1:
+        Traveler: As long as that dark monstrosity remains unbeaten...
+    Option 2:
+        Traveler: Gathering together might actually put a target on the Children of Echoes' back.
 Paimon: Oh, you're right. Well then, guess we'd better go warn them...
 Paimon: Um... It's your decision, if you wanna set off right away, Paimon will come with you!
-Traveler: Gathering together might actually put a target on the Children of Echoes' back.
 
 ## Talk 44
 
@@ -333,7 +341,10 @@ Chasca: Ugh... Aaargh...
 Paimon: Chasca!?
 Chasca: ...
 Paimon: What... happened?
-Traveler: I think she's okay now.
+    Option 1:
+        Traveler: I think she's okay now.
+    Option 2:
+        Traveler: Let's give her some space while she cools down.
 Paimon: What was that just now? It looked like Abyssal energy was flowing out of her, but then a split-second later, it disappeared...
 Traveler: Chasca managed to rein it in.
 Paimon: Chuychu did say that Chasca needs to let off steam now and then, or she'll end up losing herself. But this time, she wrestled back control.
@@ -351,7 +362,6 @@ Menilek: "...And, finally, transcended."
 Chasca: ...
 Paimon: ...
 Chasca: Let's take Chuychu somewhere safer.
-Traveler: Let's give her some space while she cools down.
 
 ## Talk 53
 

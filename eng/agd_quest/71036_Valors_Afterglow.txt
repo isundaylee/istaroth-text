@@ -8,8 +8,12 @@
 ## Talk 2
 
 Zhiqiong: #Hello, Traveler! How have things been?
-Traveler: Pretty good. Are you feeling better?
-Zhiqiong: Thanks for your concern. I'm quite fine now, thanks. I'm sorry for causing you trouble before.
+    Option 1:
+        Traveler: Pretty good. Are you feeling better?
+        Zhiqiong: Thanks for your concern. I'm quite fine now, thanks. I'm sorry for causing you trouble before.
+    Option 2:
+        Traveler: Well, still alive in spite of everything. How are you doing?
+        Zhiqiong: I'm alright... But I wouldn't say I'm super good. I mean, you did hog all the exploration glory, didn't you?
 Paimon: C'mon, Zhiqiong, just stop running around everywhere already, or you'll end up like you did the last time.
 Zhiqiong: Alright, I won't. Thanks to your efforts, The Chasm has become a lot safer. The geological peculiarities here have also, well, stabilized a fair bit.
 Zhiqiong: However, Jinwu and Khedive still need to conduct further analysis on that mysterious crystal's... Uh...
@@ -19,13 +23,13 @@ Zhiqiong: After a while, we can go and collect them, and Khedive will then sift 
 Zhiqiong: Previously, there were too many hazardous areas for us to do anything but perform data analysis from our campsite...
 Zhiqiong: But now that you've cleared much of the way for us, we can use the beacons to get more accurate data.
 Zhiqiong: *sigh* Well, having something to do is better than having nothing at all on your plate. Ah, right! Do you mind coming with me if you're free?
-Traveler: Lead the way.
-Zhiqiong: Alright then, let's go!
-Traveler: Sooo, what's in it for me?
-Paimon: Come on, that's way too direct! ...Although Paimon would like to know, too...
-Zhiqiong: Haha, this should be a milk run, but I doubt Jinwu won't have anything for you in return.
-Traveler: Well, still alive in spite of everything. How are you doing?
-Zhiqiong: I'm alright... But I wouldn't say I'm super good. I mean, you did hog all the exploration glory, didn't you?
+    Option 1:
+        Traveler: Lead the way.
+        Zhiqiong: Alright then, let's go!
+    Option 2:
+        Traveler: Sooo, what's in it for me?
+        Paimon: Come on, that's way too direct! ...Although Paimon would like to know, too...
+        Zhiqiong: Haha, this should be a milk run, but I doubt Jinwu won't have anything for you in return.
 
 ## Talk 4
 
@@ -39,9 +43,20 @@ Traveler: Ask away.
 Zhiqiong: The famous adventurer Stanley of Mondstadt is so famed because he passed through the Mare Jivari, but he lost a dear friend during that adventure.
 Zhiqiong: Even though few people know what the name of that friend was, the memory of him stays with us adventurers because he went on that adventure.
 Zhiqiong: I was thinking... and please, don't laugh if you find me immature. Do you think that this friend of Stanley's, who did not return, has not in fact passed on, but instead can be said to be truly "alive"?
-Traveler: The only thing that matters is life itself.
-Zhiqiong: But to be remembered... Even if you were to pass on early, would that not be considered an extension of your life?
-Zhiqiong: You would live on in a different fashion, in the admiration, memories... in the eyes of others.
+    Option 1:
+        Traveler: The only thing that matters is life itself.
+        Zhiqiong: But to be remembered... Even if you were to pass on early, would that not be considered an extension of your life?
+        Zhiqiong: You would live on in a different fashion, in the admiration, memories... in the eyes of others.
+    Option 2:
+        Traveler: I suppose being remembered is also a form of success.
+        Zhiqiong: Well... I've never thought of living a "successful" life. Rather, even if I "fail," I would like to leave an impression on others.
+        Zhiqiong: At least they would say, "Zhiqiong also did once face the challenges of The Chasm!"
+        Zhiqiong: At least then, I wouldn't be forgotten like those who sacrificed themselves in deserted places, or... you know, like me now.
+    Option 3:
+        Traveler: I've never thought about this issue.
+        Zhiqiong: Is that so...? I guess that might be because an outsider like you naturally becomes the topic of conversation no matter where you go.
+        Zhiqiong: I suppose it's like how children born with golden spoons in their mouths might find the idea of poverty to be an exciting, but ultimately unnecessary, avenue for adventure.
+        Zhiqiong: Ah, uh, sorry... I didn't mean it like that. I was just saying... Never mind. Just forget I said anything.
 Traveler: Don't be so concerned about what other people think.
 Zhiqiong: That's what a lot of people have told me. "Be yourself," "just do your job"... These things sound like guidance, but really, they're asking me to give up.
 Zhiqiong: I've said before, I think, but I don't go on adventures for anyone else... or for myself, even.
@@ -49,22 +64,16 @@ Zhiqiong: Hmm, have you thought about this before?
 Zhiqiong: This world has been ordered by the gods, and though we ordinary mortals have not been given "eyes" by them, we nonetheless do not wish to go quietly and be forgotten just like that.
 Zhiqiong: I believe that this discontent is not meaningless, and that's why I go around exploring dangerous areas. I mean...
 Zhiqiong: I mean, to wrestle with things that even the gods would fear with our frail forms... isn't that what makes us "human"? That's what I believe.
-Traveler: Still, you're not the only person who has the right to bestow meaning upon an adventure.
-Zhiqiong: I know... I won't forget the help everyone gave me... and I won't forget the trouble I caused you, either. This adventure, after all, wasn't undertaken by me alone.
+    Option 1:
+        Traveler: Still, you're not the only person who has the right to bestow meaning upon an adventure.
+        Zhiqiong: I know... I won't forget the help everyone gave me... and I won't forget the trouble I caused you, either. This adventure, after all, wasn't undertaken by me alone.
+    Option 2:
+        Traveler: Back to playing the hero now, are we?
+        Zhiqiong: Heh, I'm still a long way off from where you are... Rather than a "hero," I'd call myself someone who "isn't afraid of dying so that they might truly live."
+        Zhiqiong: This was something that a senior from Sumeru told me, and she herself heard it from the Eremites.
+        Zhiqiong: That makes sense...
+        Paimon: Well, Paimon thinks you're more like "someone who keeps chasing after misfortune"!
 Zhiqiong: Isn't that what adventurers are?
-Traveler: Back to playing the hero now, are we?
-Zhiqiong: Heh, I'm still a long way off from where you are... Rather than a "hero," I'd call myself someone who "isn't afraid of dying so that they might truly live."
-Zhiqiong: This was something that a senior from Sumeru told me, and she herself heard it from the Eremites.
-Zhiqiong: That makes sense...
-Paimon: Well, Paimon thinks you're more like "someone who keeps chasing after misfortune"!
-Traveler: I suppose being remembered is also a form of success.
-Zhiqiong: Well... I've never thought of living a "successful" life. Rather, even if I "fail," I would like to leave an impression on others.
-Zhiqiong: At least they would say, "Zhiqiong also did once face the challenges of The Chasm!"
-Zhiqiong: At least then, I wouldn't be forgotten like those who sacrificed themselves in deserted places, or... you know, like me now.
-Traveler: I've never thought about this issue.
-Zhiqiong: Is that so...? I guess that might be because an outsider like you naturally becomes the topic of conversation no matter where you go.
-Zhiqiong: I suppose it's like how children born with golden spoons in their mouths might find the idea of poverty to be an exciting, but ultimately unnecessary, avenue for adventure.
-Zhiqiong: Ah, uh, sorry... I didn't mean it like that. I was just saying... Never mind. Just forget I said anything.
 
 ## Talk 5
 
@@ -122,36 +131,46 @@ Zhiqiong: It's going to be a while before we will go and retrieve the beacons. I
 ### Additional Talk 2
 
 Zhiqiong: Do you need something?
-Traveler: About your maps...
-Zhiqiong: Eh? My maps? There's honestly not much to be said about them. Before I joined the Adventurers' Guild, I was the mine cartographer.
-Zhiqiong: Of course, I wasn't just some person sitting behind a desk... In fact, we couldn't be more different.
-Zhiqiong: I was once commissioned by them to map out the terrain of Qiaoying Village... and after all that work, they canceled the construction project just like that, with only a word.
-Zhiqiong: People like them get assistants to do the dirty exploration work and information-gathering for them, and then they start drawing... But those like me? We can't do that.
-Zhiqiong: As... well, half a miner myself, I've long gotten used to passing through the dangerous underground passages. It's just the way the job works.
-Zhiqiong: Also, after that great change, the lower levels of The Chasm have really been truly unstable.
-Paimon: Eh? Unstable? Is that very dangerous?
-Zhiqiong: You bet it is. The terrain here is slowly but constantly changing. A path today might be a rock wall next month. It's almost as if... How should I say this...
-Zhiqiong: It's almost as if The Chasm itself is changing shape as it likes.
-Paimon: Uh... things can't be that spooky, right?
-Traveler: Tell me about your life as an adventurer.
-Zhiqiong: Haha, what? My "life"? You don't have to be so polite. I'm just a newbie. I've barely started my journey, unlike you.
-Zhiqiong: I have completed some commissions from the Guild, of course, but I'm not that experienced yet, so I haven't done much solo exploration. I don't think I've left any tales of my deeds behind either...
-Zhiqiong: So I've been thinking that The Chasm might be just the place for me to make my mark for future generations to remember me by.
-Zhiqiong: The Chasm might be, to quote the great adventurer Alice, my "Rubicon"!
-Traveler: The Rubicon... is that hilichurl language?
-Paimon: Paimon's never heard of that one either...
-Zhiqiong: Well, I'm not too sure myself, but given that Alice is an adventurer who has seen the entire world, so that must be some place she's been to... right?
-Traveler: Your Rubicon, huh? That's pretty impressive.
-Paimon: Wait, you don't even know what that is!
-Zhiqiong: Haha, regardless, thanks for your encouragement!
-Traveler: What do you think about Clitopho?
-Zhiqiong: Him? I don't trust him. We've had to deal with the Treasure Hoarders above the mines for who-knows how long. They're up to no good. I know it!
-Zhiqiong: Don't you trust a word that he says. Turning over a new leaf... Washing his hands of the situation...
-Zhiqiong: While they say such pretty words, they'll be reaching their filthy hands into your back pocket.
-Zhiqiong: Even Rex Lapis would have trouble protecting your wallet from them then!
-Zhiqiong: I'm not prejudiced or anything... I'm just telling you to be wary. The Treasure Hoarders are never to be trusted.
-Traveler: That does sound like prejudice to me, though.
-Zhiqiong: ...Maybe it is. You've probably seen a great many more things than I have, so I guess you might be more generous to them. But as for me, I'll always keep an eye at the back of my head, just for them.
-Zhiqiong: And I'll keep doing that until this guy can prove that he's got nothing more to do with those despicable "former" companions of his.
-Traveler: See you around.
-Zhiqiong: See you!
+    Option 1:
+        Traveler: About your maps...
+        Zhiqiong: Eh? My maps? There's honestly not much to be said about them. Before I joined the Adventurers' Guild, I was the mine cartographer.
+        Zhiqiong: Of course, I wasn't just some person sitting behind a desk... In fact, we couldn't be more different.
+        Zhiqiong: I was once commissioned by them to map out the terrain of Qiaoying Village... and after all that work, they canceled the construction project just like that, with only a word.
+        Zhiqiong: People like them get assistants to do the dirty exploration work and information-gathering for them, and then they start drawing... But those like me? We can't do that.
+        Zhiqiong: As... well, half a miner myself, I've long gotten used to passing through the dangerous underground passages. It's just the way the job works.
+        Zhiqiong: Also, after that great change, the lower levels of The Chasm have really been truly unstable.
+        Paimon: Eh? Unstable? Is that very dangerous?
+        Zhiqiong: You bet it is. The terrain here is slowly but constantly changing. A path today might be a rock wall next month. It's almost as if... How should I say this...
+        Zhiqiong: It's almost as if The Chasm itself is changing shape as it likes.
+        Paimon: Uh... things can't be that spooky, right?
+    Option 2:
+        Traveler: Tell me about your life as an adventurer.
+        Zhiqiong: Haha, what? My "life"? You don't have to be so polite. I'm just a newbie. I've barely started my journey, unlike you.
+        Zhiqiong: I have completed some commissions from the Guild, of course, but I'm not that experienced yet, so I haven't done much solo exploration. I don't think I've left any tales of my deeds behind either...
+        Zhiqiong: So I've been thinking that The Chasm might be just the place for me to make my mark for future generations to remember me by.
+        Zhiqiong: The Chasm might be, to quote the great adventurer Alice, my "Rubicon"!
+        Traveler: The Rubicon... is that hilichurl language?
+        Paimon: Paimon's never heard of that one either...
+        Zhiqiong: Well, I'm not too sure myself, but given that Alice is an adventurer who has seen the entire world, so that must be some place she's been to... right?
+    Option 3:
+        Traveler: What do you think about Clitopho?
+        Zhiqiong: Him? I don't trust him. We've had to deal with the Treasure Hoarders above the mines for who-knows how long. They're up to no good. I know it!
+        Zhiqiong: Don't you trust a word that he says. Turning over a new leaf... Washing his hands of the situation...
+        Zhiqiong: While they say such pretty words, they'll be reaching their filthy hands into your back pocket.
+        Zhiqiong: Even Rex Lapis would have trouble protecting your wallet from them then!
+        Zhiqiong: I'm not prejudiced or anything... I'm just telling you to be wary. The Treasure Hoarders are never to be trusted.
+        Traveler: That does sound like prejudice to me, though.
+        Zhiqiong: ...Maybe it is. You've probably seen a great many more things than I have, so I guess you might be more generous to them. But as for me, I'll always keep an eye at the back of my head, just for them.
+        Zhiqiong: And I'll keep doing that until this guy can prove that he's got nothing more to do with those despicable "former" companions of his.
+    Option 4:
+        Traveler: See you around.
+        Zhiqiong: See you!
+    Option 5:
+        Traveler: Tell me about your life as an adventurer.
+        Zhiqiong: Haha, what? My "life"? You don't have to be so polite. I'm just a newbie. I've barely started my journey, unlike you.
+        Zhiqiong: I have completed some commissions from the Guild, of course, but I'm not that experienced yet, so I haven't done much solo exploration. I don't think I've left any tales of my deeds behind either...
+        Zhiqiong: So I've been thinking that The Chasm might be just the place for me to make my mark for future generations to remember me by.
+        Zhiqiong: The Chasm might be, to quote the great adventurer Alice, my "Rubicon"!
+        Traveler: Your Rubicon, huh? That's pretty impressive.
+        Paimon: Wait, you don't even know what that is!
+        Zhiqiong: Haha, regardless, thanks for your encouragement!

@@ -13,20 +13,26 @@ Kaedehara Kazuha: When I'm by myself, I often look outside just to appreciate th
 Kaedehara Kazuha: With no one around, one's heart will naturally calm.
 Kaedehara Kazuha: Tomorrow is uncertain, but at least I'll always have the stability of the present.
 Kaedehara Kazuha: A pity that I can't reside here for long, for my blade will dull.
-Traveler: You can come here for a rest whenever you want.
+    Option 1:
+        Traveler: You can come here for a rest whenever you want.
+    Option 2:
+        Traveler: You are always welcome here.
 Kaedehara Kazuha: I am most thankful.
 Kaedehara Kazuha: Each year yields scorching summers and frigid winters. The hottest and coldest days are difficult for me to weather.
 Kaedehara Kazuha: But the weather here is always comfortable...
 Kaedehara Kazuha: It is truly a blessing to leisurely pass one's time here.
-Traveler: You are always welcome here.
 
 ## Talk 2
 
 Traveler: *Would you like to have a chat with me?*
 Kaedehara Kazuha: Alright... but what to talk about...? Let me think.
 Kaedehara Kazuha: The rainy season recently set itself upon us. Any topics pertaining to rain?
-Traveler: I always seem to run into heavy rain outside...
-Kaedehara Kazuha: Hm, if the rain is heavy, I'll usually seek shelter.
+    Option 1:
+        Traveler: I always seem to run into heavy rain outside...
+        Kaedehara Kazuha: Hm, if the rain is heavy, I'll usually seek shelter.
+    Option 2:
+        Traveler: Any recommendations for shelter?
+        Kaedehara Kazuha: Hmm...
 Kaedehara Kazuha: Caves are my primary choice, but if there's a wild animal inside, you must first contest it.
 Kaedehara Kazuha: My second choice is an abandoned temple, but there are usually drafts and the omnipresent scent of mold.
 Kaedehara Kazuha: If there are no other options, I'll shelter under a tree.
@@ -37,8 +43,6 @@ Kaedehara Kazuha: If someone with a blade knocks on the door during a rainy nigh
 Kaedehara Kazuha: Understanding this, there's no need to bother them. Besides, the world is vast and there is always somewhere to go.
 Kaedehara Kazuha: No need for worry. The outdoors won't always be rainy, and one's life won't always be overcast.
 Kaedehara Kazuha: Turn your gaze skyward on a clear night, and you will see thousands of stars.
-Traveler: Any recommendations for shelter?
-Kaedehara Kazuha: Hmm...
 
 ## Talk 3
 
@@ -47,24 +51,28 @@ Kaedehara Kazuha: Hmm... please take this.
 Kaedehara Kazuha: I heard that the maple leaves back home have already turned red. I want to go back and take a look, but it's a long journey. I can't return for now...
 Kaedehara Kazuha: I was wandering the market the other day and saw these well-preserved maple leaves, so I bought some.
 Kaedehara Kazuha: Although I can't confirm whether they're from my hometown, they still help blunt my homesickness.
-Traveler: You're very fond of maple leaves, then?
-Kaedehara Kazuha: Yes.
-Kaedehara Kazuha: In the past, I collected maple leaves upon the autumnal winds and carried them on my person.
-Kaedehara Kazuha: When I was on the boat, I scattered them across the surface of the ocean and watched them float to distant shores.
-Kaedehara Kazuha: Perhaps another homesick soul will have picked up one of those leaves...
+    Option 1:
+        Traveler: You're very fond of maple leaves, then?
+        Kaedehara Kazuha: Yes.
+        Kaedehara Kazuha: In the past, I collected maple leaves upon the autumnal winds and carried them on my person.
+        Kaedehara Kazuha: When I was on the boat, I scattered them across the surface of the ocean and watched them float to distant shores.
+        Kaedehara Kazuha: Perhaps another homesick soul will have picked up one of those leaves...
+    Option 2:
+        Traveler: It looks quite beautiful.
+        Kaedehara Kazuha: Indeed... From a purely visual perspective, red maple leaves have a unique beauty to them.
+        Kaedehara Kazuha: Every year in my hometown, people enjoy the scene of falling red leaves.
+        Kaedehara Kazuha: The maple leaves are a crimson sunset and fall like scarlet rain.
+        Kaedehara Kazuha: A thick layer of fallen leaves on the ground, the chirping of autumn insects, and the wandering birds...
 Traveler: I also want to see your hometown.
 Kaedehara Kazuha: Ah... How improper of me.
 Kaedehara Kazuha: I should have taken the initiative to invite you... But I was absorbed by my own homesickness.
-Traveler: Don't worry about it.
+    Option 1:
+        Traveler: Don't worry about it.
+    Option 2:
+        Traveler: I sympathize with you.
 Kaedehara Kazuha: ...Thank you.
 Kaedehara Kazuha: Then take this maple leaf as a keepsake. Our promise is thus made.
 Kaedehara Kazuha: When the maple leaves next bloom red, we shall go to my hometown together.
-Traveler: I sympathize with you.
-Traveler: It looks quite beautiful.
-Kaedehara Kazuha: Indeed... From a purely visual perspective, red maple leaves have a unique beauty to them.
-Kaedehara Kazuha: Every year in my hometown, people enjoy the scene of falling red leaves.
-Kaedehara Kazuha: The maple leaves are a crimson sunset and fall like scarlet rain.
-Kaedehara Kazuha: A thick layer of fallen leaves on the ground, the chirping of autumn insects, and the wandering birds...
 
 ## Talk 4
 
@@ -83,8 +91,12 @@ Kaedehara Kazuha: Tonight's wind is gentle, so there should be a plentitude of w
 Traveler: Would you like to have a chat with me?
 Kaedehara Kazuha: Alright... but what to talk about...? Let me think.
 Kaedehara Kazuha: The rainy season recently set itself upon us. Any topics pertaining to rain?
-Traveler: I always seem to run into heavy rain outside...
-Kaedehara Kazuha: Hm, if the rain is heavy, I'll usually seek shelter.
+    Option 1:
+        Traveler: I always seem to run into heavy rain outside...
+        Kaedehara Kazuha: Hm, if the rain is heavy, I'll usually seek shelter.
+    Option 2:
+        Traveler: Any recommendations for shelter?
+        Kaedehara Kazuha: Hmm...
 Kaedehara Kazuha: Caves are my primary choice, but if there's a wild animal inside, you must first contest it.
 Kaedehara Kazuha: My second choice is an abandoned temple, but there are usually drafts and the omnipresent scent of mold.
 Kaedehara Kazuha: If there are no other options, I'll shelter under a tree.
@@ -95,8 +107,6 @@ Kaedehara Kazuha: If someone with a blade knocks on the door during a rainy nigh
 Kaedehara Kazuha: Understanding this, there's no need to bother them. Besides, the world is vast and there is always somewhere to go.
 Kaedehara Kazuha: No need for worry. The outdoors won't always be rainy, and one's life won't always be overcast.
 Kaedehara Kazuha: Turn your gaze skyward on a clear night, and you will see thousands of stars.
-Traveler: Any recommendations for shelter?
-Kaedehara Kazuha: Hmm...
 
 ## Talk 7
 
@@ -105,24 +115,28 @@ Kaedehara Kazuha: Hmm... please take this.
 Kaedehara Kazuha: I heard that the maple leaves back home have already turned red. I want to go back and take a look, but it's a long journey. I can't return for now...
 Kaedehara Kazuha: I was wandering the market the other day and saw these well-preserved maple leaves, so I bought some.
 Kaedehara Kazuha: Although I can't confirm whether they're from my hometown, they still help blunt my homesickness.
-Traveler: You're very fond of maple leaves, then?
-Kaedehara Kazuha: Yes.
-Kaedehara Kazuha: In the past, I collected maple leaves upon the autumnal winds and carried them on my person.
-Kaedehara Kazuha: When I was on the boat, I scattered them across the surface of the ocean and watched them float to distant shores.
-Kaedehara Kazuha: Perhaps another homesick soul will have picked up one of those leaves...
+    Option 1:
+        Traveler: You're very fond of maple leaves, then?
+        Kaedehara Kazuha: Yes.
+        Kaedehara Kazuha: In the past, I collected maple leaves upon the autumnal winds and carried them on my person.
+        Kaedehara Kazuha: When I was on the boat, I scattered them across the surface of the ocean and watched them float to distant shores.
+        Kaedehara Kazuha: Perhaps another homesick soul will have picked up one of those leaves...
+    Option 2:
+        Traveler: It looks quite beautiful.
+        Kaedehara Kazuha: Indeed... From a purely visual perspective, red maple leaves have a unique beauty to them.
+        Kaedehara Kazuha: Every year in my hometown, people enjoy the scene of falling red leaves.
+        Kaedehara Kazuha: The maple leaves are a crimson sunset and fall like scarlet rain.
+        Kaedehara Kazuha: A thick layer of fallen leaves on the ground, the chirping of autumn insects, and the wandering birds...
 Traveler: I also want to see your hometown.
 Kaedehara Kazuha: Ah... How improper of me.
 Kaedehara Kazuha: I should have taken the initiative to invite you... But I was absorbed by my own homesickness.
-Traveler: Don't worry about it.
+    Option 1:
+        Traveler: Don't worry about it.
+    Option 2:
+        Traveler: I sympathize with you.
 Kaedehara Kazuha: ...Thank you.
 Kaedehara Kazuha: Then take this maple leaf as a keepsake. Our promise is thus made.
 Kaedehara Kazuha: When the maple leaves next bloom red, we shall go to my hometown together.
-Traveler: I sympathize with you.
-Traveler: It looks quite beautiful.
-Kaedehara Kazuha: Indeed... From a purely visual perspective, red maple leaves have a unique beauty to them.
-Kaedehara Kazuha: Every year in my hometown, people enjoy the scene of falling red leaves.
-Kaedehara Kazuha: The maple leaves are a crimson sunset and fall like scarlet rain.
-Kaedehara Kazuha: A thick layer of fallen leaves on the ground, the chirping of autumn insects, and the wandering birds...
 
 ## Talk 8
 
@@ -132,12 +146,14 @@ Kaedehara Kazuha: When I'm by myself, I often look outside just to appreciate th
 Kaedehara Kazuha: With no one around, one's heart will naturally calm.
 Kaedehara Kazuha: Tomorrow is uncertain, but at least I'll always have the stability of the present.
 Kaedehara Kazuha: A pity that I can't reside here for long, for my blade will dull.
-Traveler: You can come here for a rest whenever you want.
+    Option 1:
+        Traveler: You can come here for a rest whenever you want.
+    Option 2:
+        Traveler: You are always welcome here.
 Kaedehara Kazuha: I am most thankful.
 Kaedehara Kazuha: Each year yields scorching summers and frigid winters. The hottest and coldest days are difficult for me to weather.
 Kaedehara Kazuha: But the weather here is always comfortable...
 Kaedehara Kazuha: It is truly a blessing to leisurely pass one's time here.
-Traveler: You are always welcome here.
 
 ## Talk 9
 

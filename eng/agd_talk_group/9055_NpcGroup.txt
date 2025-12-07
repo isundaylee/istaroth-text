@@ -10,16 +10,18 @@ Gorou: So what's up, everything alright?
 Traveler: Are you settling in okay?
 Gorou: Yeah, you bet! Don't worry, I'm exceedingly good at adapting to new environments.
 Gorou: There've been times in the past when I've had to make do with a rock for a pillow, or just find a patch of grass to lie down on. In the army, you learn how to sleep well wherever you are.
-Traveler: So do you feel that life here is too relaxed?
-Gorou: Haha, why would you think that?
-Gorou: If your bowstring is always drawn tight, it will eventually snap.
-Gorou: Relaxation is an essential part of improving as a fighter. So as far as I'm concerned, this place is the perfect antidote to the tension of battle!
+    Option 1:
+        Traveler: So do you feel that life here is too relaxed?
+        Gorou: Haha, why would you think that?
+        Gorou: If your bowstring is always drawn tight, it will eventually snap.
+        Gorou: Relaxation is an essential part of improving as a fighter. So as far as I'm concerned, this place is the perfect antidote to the tension of battle!
+    Option 2:
+        Traveler: Well, you can finally take it easy here...
+        Gorou: *sigh*... Seems so.
+        Gorou: Time of peace is hard to come by. I will cherish every moment of it.
 Gorou: Which brings me to you. I wanted to take this opportunity to express my sincere gratitude for everything you've done for me. Thank you!
 Gorou: You've always been genuine with me, it truly warms my heart.
 Gorou: Anyway, don't worry, I'm not here to just take advantage and lounge around. I'm ready to switch to combat mode at a moment's notice!
-Traveler: Well, you can finally take it easy here...
-Gorou: *sigh*... Seems so.
-Gorou: Time of peace is hard to come by. I will cherish every moment of it.
 
 ## Talk 2
 
@@ -39,12 +41,14 @@ Traveler: I want to hear more about the Ever-Victorious General.
 Gorou: ...You want to hear my story?
 Gorou: Uhh...
 Gorou: Soldiers love boasting about my military achievements to other people, but I always feel that talking about my own experience gives the impression I'm boasting.
-Traveler: I want to hear it!
+    Option 1:
+        Traveler: I want to hear it!
+    Option 2:
+        Traveler: I would never think you're boasting.
 Gorou: Heh, you know I can't say no to you, don't you? ...Wait, that's why you asked, isn't it?
 Gorou: Heh... Alright, I guess there's no way out of this one...
 Gorou: Let me think... Okay, let me tell you the thrilling tale of my one-man scouting mission to the north of Nazuchi Beach.
 Gorou: Here's what I remember from that day...
-Traveler: I would never think you're boasting.
 
 ## Talk 3
 
@@ -57,18 +61,22 @@ Gorou: Wow, you didn't take much persuading! Thank you!
 Gorou: I used to go mountain climbing with my resistance comrades all the time. It was a great way to test our physical limits while also having some fun together... I have so many treasured memories.
 Gorou: But something tells me that the chance to climb a mountain with you would become the happiest memory of them all.
 Gorou: In fact, I would love to share every happy moment with you.
-Traveler: I understand.
+    Option 1:
+        Traveler: I understand.
+    Option 2:
+        Traveler: Gorou, I also want to thank you.
 Gorou: Hah, you're too kind! Alright... how about we find a relatively safe mountain trail and see who makes it to the top the fastest? Are you up to the challenge!?
 Gorou: The loser has to treat the winner to a three-course meal... and at least one of the courses has to be dessert...
-Traveler: I... just want to touch your tail...
-Gorou: Uh? What a weird request...
-Gorou: But, fine... if you win, of course!
+    Option 1:
+        Traveler: I... just want to touch your tail...
+        Gorou: Uh? What a weird request...
+        Gorou: But, fine... if you win, of course!
+    Option 2:
+        Traveler: I want to use your tail as a pillow when I go to sleep...
+        Gorou: What!? My tail... as a pillow...
 Gorou: I... Fine, I'll allow it. But only if you win.
 Gorou: For the sake of my tail, I will give it everything I got! If you're serious about winning this, you're gonna have your work cut out for you!
 Gorou: Right! We should probably warm up first...
-Traveler: I want to use your tail as a pillow when I go to sleep...
-Gorou: What!? My tail... as a pillow...
-Traveler: Gorou, I also want to thank you.
 
 ## Talk 4
 
@@ -100,16 +108,18 @@ Gorou: Do you mind if I take a dip now? Ooh! You wanna join me?
 Traveler: Are you settling in okay?
 Gorou: Yeah, you bet! Don't worry, I'm exceedingly good at adapting to new environments.
 Gorou: There've been times in the past when I've had to make do with a rock for a pillow, or just find a patch of grass to lie down on. In the army, you learn how to sleep well wherever you are.
-Traveler: So do you feel that life here is too relaxed?
-Gorou: Haha, why would you think that?
-Gorou: If your bowstring is always drawn tight, it will eventually snap.
-Gorou: Relaxation is an essential part of improving as a fighter. So as far as I'm concerned, this place is the perfect antidote to the tension of battle!
+    Option 1:
+        Traveler: So do you feel that life here is too relaxed?
+        Gorou: Haha, why would you think that?
+        Gorou: If your bowstring is always drawn tight, it will eventually snap.
+        Gorou: Relaxation is an essential part of improving as a fighter. So as far as I'm concerned, this place is the perfect antidote to the tension of battle!
+    Option 2:
+        Traveler: Well, you can finally take it easy here...
+        Gorou: *sigh*... Seems so.
+        Gorou: Time of peace is hard to come by. I will cherish every moment of it.
 Gorou: Which brings me to you. I wanted to take this opportunity to express my sincere gratitude for everything you've done for me. Thank you!
 Gorou: You've always been genuine with me, it truly warms my heart.
 Gorou: Anyway, don't worry, I'm not here to just take advantage and lounge around. I'm ready to switch to combat mode at a moment's notice!
-Traveler: Well, you can finally take it easy here...
-Gorou: *sigh*... Seems so.
-Gorou: Time of peace is hard to come by. I will cherish every moment of it.
 
 ## Talk 9
 
@@ -129,12 +139,14 @@ Traveler: I want to hear more about the Ever-Victorious General.
 Gorou: ...You want to hear my story?
 Gorou: Uhh...
 Gorou: Soldiers love boasting about my military achievements to other people, but I always feel that talking about my own experience gives the impression I'm boasting.
-Traveler: I want to hear it!
+    Option 1:
+        Traveler: I want to hear it!
+    Option 2:
+        Traveler: I would never think you're boasting.
 Gorou: Heh, you know I can't say no to you, don't you? ...Wait, that's why you asked, isn't it?
 Gorou: Heh... Alright, I guess there's no way out of this one...
 Gorou: Let me think... Okay, let me tell you the thrilling tale of my one-man scouting mission to the north of Nazuchi Beach.
 Gorou: Here's what I remember from that day...
-Traveler: I would never think you're boasting.
 
 ## Talk 10
 
@@ -147,15 +159,19 @@ Gorou: Wow, you didn't take much persuading! Thank you!
 Gorou: I used to go mountain climbing with my resistance comrades all the time. It was a great way to test our physical limits while also having some fun together... I have so many treasured memories.
 Gorou: But something tells me that the chance to climb a mountain with you would become the happiest memory of them all.
 Gorou: In fact, I would love to share every happy moment with you.
-Traveler: I understand.
+    Option 1:
+        Traveler: I understand.
+    Option 2:
+        Traveler: Gorou, I also want to thank you.
 Gorou: Hah, you're too kind! Alright... how about we find a relatively safe mountain trail and see who makes it to the top the fastest? Are you up to the challenge!?
 Gorou: The loser has to treat the winner to a three-course meal... and at least one of the courses has to be dessert...
-Traveler: I... just want to touch your tail...
-Gorou: Uh? What a weird request...
-Gorou: But, fine... if you win, of course!
+    Option 1:
+        Traveler: I... just want to touch your tail...
+        Gorou: Uh? What a weird request...
+        Gorou: But, fine... if you win, of course!
+    Option 2:
+        Traveler: I want to use your tail as a pillow when I go to sleep...
+        Gorou: What!? My tail... as a pillow...
 Gorou: I... Fine, I'll allow it. But only if you win.
 Gorou: For the sake of my tail, I will give it everything I got! If you're serious about winning this, you're gonna have your work cut out for you!
 Gorou: Right! We should probably warm up first...
-Traveler: I want to use your tail as a pillow when I go to sleep...
-Gorou: What!? My tail... as a pillow...
-Traveler: Gorou, I also want to thank you.

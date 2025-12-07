@@ -21,7 +21,11 @@ Lanoire: #Mr. Traveler and Ms. Paimon must be tired, too. It's a shame Bran and 
 Lanoire: ...I kinda wanna go back.
 Paimon: Back where?
 Lanoire: Back to Meropide, of course!
-Traveler: The Fortress of Meropide isn't your home.
+    Option 1:
+        Traveler: The Fortress of Meropide isn't your home.
+    Option 2:
+        Traveler: Going back now probably wouldn't be a great idea.
+        Paimon: That's right, getting out of there wasn't easy... Plus, if we go back now, Paimon thinks it would be bad news for Estienne and the others.
 Paimon: Don't you want to go back to your real home, Lanoire? Look, you can see it from here. We just have to go over there, and we'll have reached the end of our adventure.
 Paimon: And speaking of which, Paimon thinks we've met your family before. Now that she thinks about it, a lot of the details add up.
 Black Screen Text: You explain how you helped Earnshaw find Prince, Princess, and Hero before...
@@ -57,8 +61,6 @@ Caterpillar: I look forward to hearing them, too.
 Caterpillar: For now, it's time for you to go home, Lanoire. This goodbye is only temporary, we'll see each other again.
 Lanoire: Okay... then... until next time, Cater!
 Lanoire: #Mr. Traveler, Ms. Paimon... Let's go!
-Traveler: Going back now probably wouldn't be a great idea.
-Paimon: That's right, getting out of there wasn't easy... Plus, if we go back now, Paimon thinks it would be bad news for Estienne and the others.
 
 ## Talk 3
 
@@ -72,7 +74,11 @@ Lanoire: #Mr. Traveler and Ms. Paimon must be tired, too. It's a shame Bran and 
 Lanoire: ...I kinda wanna go back.
 Paimon: Back where?
 Lanoire: Back to Meropide, of course!
-Traveler: The Fortress of Meropide isn't your home.
+    Option 1:
+        Traveler: The Fortress of Meropide isn't your home.
+    Option 2:
+        Traveler: Going back now probably wouldn't be a great idea.
+        Paimon: That's right, getting out of there wasn't easy... Plus, if we go back now, Paimon thinks it would be bad news for Estienne and the others.
 Paimon: Don't you want to go back to your real home, Lanoire? Look, you can see it from here. We just have to go over there, and we'll have reached the end of our adventure.
 Caterpillar: A kind man named Earnshaw lives in that cabin. He's your family, Lanoire.
 Caterpillar: Look, Lanoire, there's nothing to worry about. Go home, I know Earnshaw will take good care of you.
@@ -106,8 +112,6 @@ Caterpillar: I look forward to hearing them, too.
 Caterpillar: For now, it's time for you to go home, Lanoire. This goodbye is only temporary, we'll see each other again.
 Lanoire: Okay... then... until next time, Cater!
 Lanoire: #Mr. Traveler, Ms. Paimon... Let's go!
-Traveler: Going back now probably wouldn't be a great idea.
-Paimon: That's right, getting out of there wasn't easy... Plus, if we go back now, Paimon thinks it would be bad news for Estienne and the others.
 
 ## Talk 4
 
@@ -126,16 +130,24 @@ Lanoire: I recognized Prince, Princess, and Hero as soon as I saw them!
 Lanoire: Mom said that she was always very quick to change her mind, and she pestered her dad... Oh, I mean Grandpa, for ages until he finally agreed to get her puppies. She really liked dressing them up, but...
 Lanoire: But soon she had something else she became even more fond of, so she didn't get to watch them grow up.
 Lanoire: Why won't she come back? If she doesn't come back soon, I'm gonna grow up as well.
-Traveler: She'll come back and see you grow up.
-Lanoire: Really? But I thought she wasn't coming back because she found something she liked more...
+    Option 1:
+        Traveler: She'll come back and see you grow up.
+        Lanoire: Really? But I thought she wasn't coming back because she found something she liked more...
+    Option 2:
+        Traveler: ...
 Lanoire: So is this place going to be my home from now on?
 Earnshaw: That's right, child. This place is your home now...
 Lanoire: Okay... Mm, I smell Tasses Ragout!
 Earnshaw: You can eat as much as you'd like.
 Lanoire: ...I'm back in my own home now. This way, I think Cater will be happy too.
 Earnshaw: "Cater"... Is he the one who took care of her? If it's alright, could you invite him to rest a while here at the cabin?
-Traveler: He's got other things to take care of.
-Lanoire: That's right. He knows a lot, so lots of people go to him for help.
+    Option 1:
+        Traveler: He's got other things to take care of.
+        Lanoire: That's right. He knows a lot, so lots of people go to him for help.
+    Option 2:
+        Traveler: He's kinda shy...
+        Lanoire: When we were in Meropide, he was really good at hide-and-seek! Nobody could find him if he really wanted to hide.
+        Paimon: Uh... He's quite shy, so he's watching us from a distance. As long as he knows Lanoire's home safe and sound, he'll be content.
 Earnshaw: Is that so? Well, that's a pity. Could you help me get a message to him then? No matter when, he will always be welcome here with open arms.
 Earnshaw: If you ever get the chance, invite him over to be our guest.
 Traveler: We'll tell him.
@@ -148,14 +160,12 @@ Paimon: You're finally back in your real home, Lanoire. You must be tired. We'll
 Lanoire: #Mr. Traveler, Ms. Paimon, are you guys leaving too?
 Traveler: We've got our own adventures to go on.
 Lanoire: Okay then... When I grow a little older, can we go on adventures together? Oh, and Cater can come along as well!
-Traveler: One day, perhaps.
+    Option 1:
+        Traveler: One day, perhaps.
+    Option 2:
+        Traveler: We can discuss it when you're older.
 Lanoire: #Okay... Thank you, Mr. Traveler and Ms. Paimon. See you guys later!
 Earnshaw: You guys are leaving now? Thank you... Thank you guys... Safe journeys.
-Traveler: We can discuss it when you're older.
-Traveler: He's kinda shy...
-Lanoire: When we were in Meropide, he was really good at hide-and-seek! Nobody could find him if he really wanted to hide.
-Paimon: Uh... He's quite shy, so he's watching us from a distance. As long as he knows Lanoire's home safe and sound, he'll be content.
-Traveler: ...
 
 ## Additional Conversations
 
@@ -178,16 +188,24 @@ Lanoire: I recognized Prince, Princess, and Hero as soon as I saw them!
 Lanoire: Mom said that she was always very quick to change her mind, and she pestered her dad... Oh, I mean Grandpa, for ages until he finally agreed to get her puppies. She really liked dressing them up, but...
 Lanoire: But soon she had something else she became even more fond of, so she didn't get to watch them grow up.
 Lanoire: Why won't she come back? If she doesn't come back soon, I'm gonna grow up as well.
-Traveler: She'll come back and see you grow up.
-Lanoire: Really? But I thought she wasn't coming back because she found something she liked more...
+    Option 1:
+        Traveler: She'll come back and see you grow up.
+        Lanoire: Really? But I thought she wasn't coming back because she found something she liked more...
+    Option 2:
+        Traveler: ...
 Lanoire: So is this place going to be my home from now on?
 Earnshaw: That's right, child. This place is your home now...
 Lanoire: Okay... Mm, I smell Tasses Ragout!
 Earnshaw: You can eat as much as you'd like.
 Lanoire: ...I'm back in my own home now. This way, I think Cater will be happy too.
 Earnshaw: "Cater"... Is he the one who took care of her? If it's alright, could you invite him to rest a while here at the cabin?
-Traveler: He's got other things to take care of.
-Lanoire: That's right. He knows a lot, so lots of people go to him for help.
+    Option 1:
+        Traveler: He's got other things to take care of.
+        Lanoire: That's right. He knows a lot, so lots of people go to him for help.
+    Option 2:
+        Traveler: He's kinda shy...
+        Lanoire: When we were in Meropide, he was really good at hide-and-seek! Nobody could find him if he really wanted to hide.
+        Paimon: Uh... He's quite shy, so he's watching us from a distance. As long as he knows Lanoire's home safe and sound, he'll be content.
 Earnshaw: Is that so? Well, that's a pity. Could you help me get a message to him then? No matter when, he will always be welcome here with open arms.
 Earnshaw: If you ever get the chance, invite him over to be our guest.
 Traveler: We'll tell him.
@@ -200,14 +218,12 @@ Paimon: You're finally back in your real home, Lanoire. You must be tired. We'll
 Lanoire: #Mr. Traveler, Ms. Paimon, are you guys leaving too?
 Traveler: We've got our own adventures to go on.
 Lanoire: Okay then... When I grow a little older, can we go on adventures together? Oh, and Cater can come along as well!
-Traveler: One day, perhaps.
+    Option 1:
+        Traveler: One day, perhaps.
+    Option 2:
+        Traveler: We can discuss it when you're older.
 Lanoire: #Okay... Thank you, Mr. Traveler and Ms. Paimon. See you guys later!
 Earnshaw: You guys are leaving now? Thank you... Thank you guys... Safe journeys.
-Traveler: We can discuss it when you're older.
-Traveler: He's kinda shy...
-Lanoire: When we were in Meropide, he was really good at hide-and-seek! Nobody could find him if he really wanted to hide.
-Paimon: Uh... He's quite shy, so he's watching us from a distance. As long as he knows Lanoire's home safe and sound, he'll be content.
-Traveler: ...
 
 ### Additional Talk 2
 
@@ -220,14 +236,16 @@ Caterpillar: She won't. Children tend to quickly forget both meetings and farewe
 Caterpillar: I'm simply a character in a story — brave at times, yet also an evil monster at others...
 Caterpillar: Let this fantastical story be a memory consigned to her past. She has the real world now, one that's hundreds of times better than any fantasy narrative.
 Caterpillar: #Traveler, Paimon, thank you.
-Traveler: Don't mention it.
+    Option 1:
+        Traveler: Don't mention it.
+    Option 2:
+        Traveler: About that payment...
+        Caterpillar: Certainly. I will do what I can.
 Caterpillar: As I mentioned before, there are places better suited to retelling history, like the *Narzissenkreuz Ordo...*
 Paimon: Sounds like a very mysterious place... Where is it? How do we get there?
 Caterpillar: It is very mysterious indeed. The outside world has changed so much over the centuries... which is why you may need to seek out a new way to the Narzissenkreuz Ordo.
 Paimon: Aww, why does it have to be like that... Although, we are quite the adventurer duo, and we've been through it all! So wherever this historical ruins or mysterious place may be, it won't be a problem for us!
 Paimon: We'll find it for sure!
-Traveler: About that payment...
-Caterpillar: Certainly. I will do what I can.
 
 ### Additional Talk 3
 
@@ -240,13 +258,15 @@ Caterpillar: She won't. Children tend to quickly forget both meetings and farewe
 Caterpillar: I'm simply a character in a story — brave at times, yet also an evil monster at others...
 Caterpillar: Let this fantastical story be a memory consigned to her past. She has the real world now, one that's hundreds of times better than any fantasy narrative.
 Caterpillar: #Traveler, Paimon, thank you.
-Traveler: Don't mention it.
+    Option 1:
+        Traveler: Don't mention it.
+    Option 2:
+        Traveler: About that payment...
+        Caterpillar: Certainly. I will do what I can.
 Caterpillar: As I mentioned before, there are places better suited to retelling history, like the *Narzissenkreuz Ordo...*
 Paimon: Oh! We've been there before!
 Caterpillar: If so, that'll save us a lot of time trying to find the way there. Let's go.
 Paimon: Okay!
-Traveler: About that payment...
-Caterpillar: Certainly. I will do what I can.
 
 ### Additional Talk 4
 

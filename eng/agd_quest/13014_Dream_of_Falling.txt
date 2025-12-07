@@ -17,7 +17,10 @@ Paimon: She seems to be in the same condition as Ilman earlier.
 Nahida: Yes, but luckily, she hasn't been injured or jolted awake yet. Let's carefully move her somewhere safer.
 Kathya: See you tomorrow, Professor Aisha...
 Kathya: Hmm... Huh? Wh—Why am I back here again?
-Traveler: Nobody else is here.
+    Option 1:
+        Traveler: Nobody else is here.
+    Option 2:
+        Traveler: You were dreaming just now.
 Kathya: Dreaming? But what about Professor Aisha...?
 Kathya: Oh, I see. It was all just a dream... Well, that makes sense. After all, it hasn't changed a single bit.
 Paimon: Huh? What's "it"?
@@ -45,7 +48,10 @@ Nahida: Let me see. Hmm, oh...
 Nahida: ...
 Paimon: Huh, we've never seen that look on Nahida's face before.
 Nahida: ...
-Traveler: (Wait, could it be...!?)
+    Option 1:
+        Traveler: (Wait, could it be...!?)
+    Option 2:
+        Traveler: (An expression pleading for help?)
 Paimon: Sh—She looks a little unwell. Um, hold on, we'll be right back!
 Paimon: What's wrong, Nahida? You can't tell what's wrong with the plant, either?
 Nahida: No, I immediately understood what's happening with that plant... I'm just not sure if I should say it.
@@ -60,12 +66,18 @@ Paimon: Yeah, that's a tricky one... Seems like you've already got a good idea o
 Traveler: I'll tell her.
 Nahida: But wouldn't that mean I'm just pushing it all on you? What if she just gets angry at you instead?
 Paimon: It's all right. There are all kinds of people, and the examples you observed are just the most extreme cases.
-Traveler: I've seen many situations like this before.
+    Option 1:
+        Traveler: I've seen many situations like this before.
+    Option 2:
+        Traveler: There's always a way to work through it.
 Nahida: O—Okay... Thank you.
 Paimon: Let's go back and tell her.
 Kathya: Huh! It'll never bloom!?
 Kathya: But how's that possible? If a plant is unable to bloom, doesn't that mean it can't reproduce, either? All that's left for it to do is slowly wither away!
-Traveler: It seems like that may be exactly what your teacher intended.
+    Option 1:
+        Traveler: It seems like that may be exactly what your teacher intended.
+    Option 2:
+        Traveler: She meant to convey a message through the plant's true nature.
 Kathya: Are you saying... she never intended to return? Seriously? So everything she said was a lie...
 Paimon: But she meant well! Since the separation was inevitable, she hoped that you would be able to come to grips with such a cruel parting a little later in life.
 Traveler: She really cared about you.
@@ -74,7 +86,10 @@ Nahida: I guess she had hoped that you could understand and respect her choice a
 Kathya: ...I see. Sorry, I don't want to sound ungrateful, but it's just... just so much to take in.
 Kathya: The dreams are so beautiful, yet reality is heartlessly cold.
 Kathya: I really thought she had come back. I had so much to tell her...
-Traveler: I can understand your grief.
+    Option 1:
+        Traveler: I can understand your grief.
+    Option 2:
+        Traveler: We're trying to investigate these dreams.
 Nahida: These dreams may not be as pure and beautiful as they seem. Some kind of power may be exploiting your feelings.
 Kathya: R—Really?
 Nahida: Yes. So with that in mind, until our investigation is completed, please return to the event and ignore any further temptations from your dreams.
@@ -93,11 +108,6 @@ Traveler: But what would be the motive?
 Paimon: Yeah, they're just causing these people to dream. What are they after?
 Nahida: This is exactly what we need to investigate. Anyway, let's pay another visit to "A Moment of Dreams."
 Nahida: I have a bad feeling about all of this... I hope things haven't gotten any worse.
-Traveler: We're trying to investigate these dreams.
-Traveler: She meant to convey a message through the plant's true nature.
-Traveler: There's always a way to work through it.
-Traveler: (An expression pleading for help?)
-Traveler: You were dreaming just now.
 
 ## Talk 4
 
@@ -119,7 +129,10 @@ Paimon: That's right! These aren't just dreams — it's serious!
 Nasser: All right... I get it, I get it.
 Pawlin: So does that mean once we have some conclusive results from the investigation, we can continue to enjoy these dreams?
 Nasser: Yeah, I still want to visit my sister in my dreams...
-Traveler: No, not necessarily.
+    Option 1:
+        Traveler: No, not necessarily.
+    Option 2:
+        Traveler: It will depend on the results of our investigation.
 Nasser: I'm sorry if what I'm about to say sounds a little offensive, great Dendro Archon, but...
 Nasser: We had a discussion with the folks who just arrived here... In all of our dreams, we were able to reunite with people who were very close to us.
 Nasser: They all seemed as if they were alive again, which makes us reluctant to wake up.
@@ -130,7 +143,10 @@ Nasser: I don't think everyone will be on board with the plan to abandon these d
 Nasser: Before the conclusion of the investigation, they'll at least want to meet the people in their dreams one last time and say goodbye.
 Pedrush: We've never had such a difficult situation before. It appears that not many people are willing to cooperate.
 Paimon: So they still want to return to their dreams despite knowing the danger?
-Traveler: It's hard to clearly say who's right and who's wrong here.
+    Option 1:
+        Traveler: It's hard to clearly say who's right and who's wrong here.
+    Option 2:
+        Traveler: Everyone has their own perspectives.
 Nahida: That's right. Compared with these sweet and beautiful dreams, our warnings of danger are dull and emotionless... It looks like the situation will inevitably spiral out of control.
 Nahida: The more time we waste, the more people will ignore our warnings and return to their alluring dreams.
 Paimon: So, what should we do?
@@ -138,21 +154,21 @@ Nahida: ...Seems we have to go into a dream and find out the truth for ourselves
 Nahida: Pedrush, is there anyone here who's experiencing a marvelous dream right now?
 Pedrush: Ah, let me think... Yes, this way.
 Nahida: Good, please take us there.
-Traveler: Everyone has their own perspectives.
-Traveler: It will depend on the results of our investigation.
 
 ## Talk 5
 
 Paimon: What's wrong, Traveler? You look a little disoriented.
-Traveler: ...No, it's nothing.
-Paimon: Oh, okay. Just remember that Paimon is always here for you!
+    Option 1:
+        Traveler: ...No, it's nothing.
+        Paimon: Oh, okay. Just remember that Paimon is always here for you!
+    Option 2:
+        Traveler: It seems this whole dream situation is getting to me, too.
+        Paimon: Really? Paimon didn't notice anything...
 Paimon: Anyway, seems like we've made it into the dream!
 Nahida: Hmm, I thought we would arrive at some familiar scene, but we seem to have landed in a completely unfamiliar place.
 Paimon: Whoa, so many giant plants, even in the sky. Amazing...
 Nahida: Theoretically, we should have gone straight into Debbi's dream. Things do seem to have gone a bit sideways here...
 Nahida: Anyway, let's see if we can find any leads.
-Traveler: It seems this whole dream situation is getting to me, too.
-Paimon: Really? Paimon didn't notice anything...
 
 ## Talk 6
 
@@ -169,7 +185,10 @@ Paimon: Hey, this place looks familiar! Isn't it Puspa Café?
 Paimon: Oh, Paimon sees Debbi. She's right over there! Looks like we've come to the right place.
 Nahida: These alluring dreams often portray a scene from real life, which concurs with our previous findings.
 Paimon: Really? But what about that space we were in just now?
-Traveler: Maybe it was like some kind of hub.
+    Option 1:
+        Traveler: Maybe it was like some kind of hub.
+    Option 2:
+        Traveler: The dreams may be connected.
 Paimon: You can't mean... this is another collective dream!?
 Nahida: Yes, given that so many people have been experiencing these beautiful dreams, I would say it's very likely that they're interconnected.
 Nahida: Compared to an interconnected dream, independent individual dreams would be much harder to manage and manipulate.
@@ -179,7 +198,6 @@ Nahida: If this space is exclusive to Debbi's dream, then the others beside her 
 Nahida: Anyway, we should confirm that first, just to be sure.
 Paimon: Huh? How do we do that?
 Nahida: Just leave it to me.
-Traveler: The dreams may be connected.
 
 ## Talk 9
 
@@ -288,37 +306,69 @@ Paimon: We've finally made it. The destination is right ahead!
 ## Talk 27
 
 Moseis: Heh, you haven't won just yet
+
 Moseis: This dream is mine!
+
 Moseis: If I go into hiding here, not even an archon can ever find me!
+
 Moseis: And as long as people yearn for happiness...
+
 Moseis: They will return here and rebuild this paradise!
+
 Moseis: Missing text (0)
+
 Paimon: Hey! Stop!
+
 Paimon: Missing text (0)
+
 Nahida: Missing text (0)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Paimon: Wh—What's that?
+
 Nahida: The dream is spiraling out of control and is collapsing now
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 Moseis: Missing text (0)
+
 Moseis: Missing text (0)
+
 Moseis: Missing text (0)
+
 Moseis: Oh no! Emira!
+
 Moseis: Emira... Emira!
+
 Moseis: Missing text (0)
+
 Emira: Missing text (0)
+
 Emira: Missing text (0)
+
 Emira: Missing text (0)
+
 Moseis: Emira, are you alright?
+
 Emira: I... I don't feel well
+
 Moseis: Missing text (0)
+
 Emira: Missing text (0)
+
 Moseis: No... no... no!
+
 Moseis: Please, no!!!
+
 Moseis: Missing text (0)
 
 ## Talk 28

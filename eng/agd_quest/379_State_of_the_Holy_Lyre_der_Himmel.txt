@@ -24,12 +24,14 @@ Paimon: What do you mean "hehe"!?
 Venti: Anyway, we won't be able to call Dvalin with it.
 Venti: The lyre itself is fine, but the strings...
 Venti: You're up, outlander!
-Traveler: Are you talking about me?
+    Option 1:
+        Traveler: Are you talking about me?
+    Option 2:
+        Traveler: I don't know how to fix instruments.
 Venti: Relax! It's not broken.
 Venti: It's just that the intensity of its Anemo power has greatly diminished.
 Venti: #Traveler, do you still have Dvalin's Teardrop Crystal with you?
 Traveler: *nods*
-Traveler: I don't know how to fix instruments.
 
 ## Talk 3
 
@@ -44,8 +46,13 @@ Paimon: Praising yourself? Really?
 Jean: ...I was talking about the Holy Lyre.
 Venti: #Thanks to Traveler having purified the crystal, the Holy Lyre won't continue to lose power.
 Venti: That said, its power is far from replenished. It'd be great if we could get more tears.
-Traveler: We'll help.
-Paimon: How can we gather more?
+    Option 1:
+        Traveler: We'll help.
+        Paimon: How can we gather more?
+    Option 2:
+        Traveler: Right. How do we do that?
+    Option 3:
+        Traveler: How can we make Dvalin cry? By hitting him?
 Venti: I can surmise that Dvalin will already be crying...
 Venti: Suffering alone in some deserted place...
 Jean: Dvalin...
@@ -59,5 +66,3 @@ Paimon: Is that all you're going to do? Just sing?
 Venti: Wouldn't be much of a bard if I didn't now, would I?
 Paimon: Hmph. You're so cheeky... You deserve an ugly nickname.
 Paimon: Oh, Paimon knows! From now on, you'll be known as "*Tone-Deaf Bard*"!
-Traveler: Right. How do we do that?
-Traveler: How can we make Dvalin cry? By hitting him?

@@ -16,12 +16,19 @@ Ivanovich: Traveler, could you please help me check the Bulletin Board and see i
 ## Talk 2
 
 Bulletin Board: This is the Feiyun Slope Bulletin Board. You can find community news and shop advertisements posted here. Please do not post unimportant matters.
-Traveler: Let's look for information on the Ministry's personnel transfers...
-Bulletin Board: "The Ministry of Civil Affair's personnel transfers are as follows..."
-Paimon: Hang on a minute. That's got nothing to do with business permits, does it?
-Traveler: Let's look up the status of Feiyun Slope's water supply contamination...
-Bulletin Board: "Regarding the recent contamination of Feiyun Slope's water supply..."
-Paimon: Come on, Ivanovich has things to do. We don't have time to be worried about this right now.
+    Option 1:
+        Traveler: Let's look for information on the Ministry's personnel transfers...
+        Bulletin Board: "The Ministry of Civil Affair's personnel transfers are as follows..."
+        Paimon: Hang on a minute. That's got nothing to do with business permits, does it?
+        Bulletin Board: This is the Feiyun Slope Bulletin Board. You can find community news and shop advertisements posted here. Please do not post unimportant matters.
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: Let's look up the status of Feiyun Slope's water supply contamination...
+        Bulletin Board: "Regarding the recent contamination of Feiyun Slope's water supply..."
+        Paimon: Come on, Ivanovich has things to do. We don't have time to be worried about this right now.
+        Bulletin Board: This is the Feiyun Slope Bulletin Board. You can find community news and shop advertisements posted here. Please do not post unimportant matters.
+        [Circling back to a pre-branch dialog]
+    Option 3:
 Traveler: Let's look for news about new business permit applications...
 Bulletin Board: "If you should wish to apply for a new business permit, you are required to undertake the following procedures..."
 Paimon: This should be the new business permit that Ivanovich wants to apply for. Let's copy the procedures down.
@@ -67,11 +74,13 @@ Nervous An: Let me see... Yes, this will do. I'll take this document with me, th
 ## Talk 8
 
 Jiayi: Orderly lines please, orderly lines!
-Traveler: Ivanovich is looking to get a new business permit...
-Jiayi: Oh? You're here as his representative? I see. May I have your business premises certificate and... Uh, what was it again? Right — a business safety certificate. Do you have them both with you?
-Traveler: You're in charge of these certificates?
-Jiayi: No, no, I'm ad-hoc help, just like you. Clerk Zhao has her hands full at the moment, so I've been called in to help collect and file those certificates.
-Jiayi: *sigh* It's really tiring work... So, have you brought both your business premises certificate and business safety certificate?
+    Option 1:
+        Traveler: Ivanovich is looking to get a new business permit...
+        Jiayi: Oh? You're here as his representative? I see. May I have your business premises certificate and... Uh, what was it again? Right — a business safety certificate. Do you have them both with you?
+    Option 2:
+        Traveler: You're in charge of these certificates?
+        Jiayi: No, no, I'm ad-hoc help, just like you. Clerk Zhao has her hands full at the moment, so I've been called in to help collect and file those certificates.
+        Jiayi: *sigh* It's really tiring work... So, have you brought both your business premises certificate and business safety certificate?
 
 ## Talk 9
 
@@ -120,14 +129,16 @@ Ivanovich: I really hope that I won't ever have to work through so many procedur
 ### Additional Talk 1
 
 Ivanovich: I can finally rest for a while. Any more of this and I would have collapsed for sure...
-Traveler: What's with the huge number of procedures?
-Ivanovich: Haha. Well, this is Liyue Harbor, after all. Contracts are of utmost importance.
-Ivanovich: Don't we all feel safer when all things big and small are written down in black and white?
-Ivanovich: Well, I say that, but this really is too much. I'm getting dizzy already...
-Traveler: Is Snezhnaya like this too?
-Ivanovich: You mean in the way we do things? Well, not exactly...
-Ivanovich: But if you want specifics, I could probably go on and on.
-Ivanovich: You'll see what I mean, though, if you ever get the opportunity to set foot in Snezhnaya.
+    Option 1:
+        Traveler: What's with the huge number of procedures?
+        Ivanovich: Haha. Well, this is Liyue Harbor, after all. Contracts are of utmost importance.
+        Ivanovich: Don't we all feel safer when all things big and small are written down in black and white?
+        Ivanovich: Well, I say that, but this really is too much. I'm getting dizzy already...
+    Option 2:
+        Traveler: Is Snezhnaya like this too?
+        Ivanovich: You mean in the way we do things? Well, not exactly...
+        Ivanovich: But if you want specifics, I could probably go on and on.
+        Ivanovich: You'll see what I mean, though, if you ever get the opportunity to set foot in Snezhnaya.
 
 ### Additional Talk 2
 

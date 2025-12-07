@@ -13,15 +13,19 @@ Ineffa: Affirmative. This species' habits indicate a propensity to use rooftops 
 Ineffa: However, I have not found any traces of my target thus far. Initial deduction: Target has escaped detection radius, or may have brought its "prize" to a more secluded nest.
 Ineffa: Commencing backup plan: Return to designated supplier and purchase a new screw of the same model.
 Ineffa: Anyway. Are you two also here in pursuit of some small animal?
-Traveler: Oh, no, not at all.
+    Option 1:
+        Traveler: Oh, no, not at all.
+    Option 2:
+        Traveler: We're just looking for some photo-op material.
 Paimon: Yeah. We originally wanted to find a spot with a good view so we could snag some panoramic shots of Nasha Town in all its hustling, bustling glory!
 Paimon: We didn't expect to run into you while you were on the hunt for a "thief." Guess that's a super-rare "unexpected deviation" too, huh?
-Traveler: And since the opportunity's presented itself...
+    Option 1:
+        Traveler: And since the opportunity's presented itself...
+    Option 2:
+        Traveler: Could we take a picture of you?
 Ineffa: Yes. Please indicate preferred standing position, facing, and recommended facial expression. I will do my best to comply.
 Ineffa: Estimation: The odds of my coming to the roof, meeting you, and having my picture taken by you are even lower than that of the falcon returning me the screw.
 Ineffa: So please, be sure to accurately capture this rare "pleasant surprise."
-Traveler: Could we take a picture of you?
-Traveler: We're just looking for some photo-op material.
 
 ## Talk 2
 
@@ -47,14 +51,18 @@ Traveler: One moment. The inspiration's not quite coming yet...
 ### Additional Talk 4
 
 Ineffa: #Hello, Traveler, Paimon. Have you eaten? Do you have any special plans today?
-Traveler: We're just looking around.
+    Option 1:
+        Traveler: We're just looking around.
+    Option 2:
+        Traveler: And looking for some photo-op material while we're at it.
 Ineffa: Understood. Walking around and capturing what you see in the frame is a reasonable way to relax.
 Ineffa: However, I do not detect a Kamera on your person. Did you leave it somewhere in your hurry to leave home?
-Traveler: And looking for some photo-op material while we're at it.
 
 ### Additional Talk 5
 
 Ineffa: Have you found suitable photo-taking material? Haste is unnecessary. The good things in life are worth uncovering patiently.
-Traveler: We're good. Let the photo-op begin!
-Ineffa: Understood. However, I do not detect a Kamera on your person. Did you leave it somewhere in your hurry to leave home?
-Traveler: One moment. The inspiration's not quite coming yet...
+    Option 1:
+        Traveler: We're good. Let the photo-op begin!
+        Ineffa: Understood. However, I do not detect a Kamera on your person. Did you leave it somewhere in your hurry to leave home?
+    Option 2:
+        Traveler: One moment. The inspiration's not quite coming yet...

@@ -187,7 +187,10 @@ Cyno: This isn't what I'm looking for. It's a—
 Kaveh: *huffing*... Finally, I made it. I heard that you caught a Swiftfly, Cyno. Mind letting me see what it looks like?
 Kaveh: ...Hold on, isn't this the mechanical bait that I released earlier? Why would you catch that instead of a Swiftfly!?
 Faruzan: Wait a minute. If we consider this from a different angle, isn't it a good thing that the bait you made was convincing enough to fool even Cyno?
-Traveler: You released...
+    Option 1:
+        Traveler: You released...
+    Option 2:
+        Traveler: ...Bait?
 Kaveh: That's right. During a previous interior design project, I felt that the artificial flowers on the wall were a little bland, so I decided on placing a few moving mechanical butterflies to add some pizazz.
 Kaveh: In order to make them both small and nimble, I consulted with Madam Faruzan.
 Kaveh: Not long ago, the two of us took all those mechanical butterflies and released them into the city—
@@ -209,7 +212,6 @@ Cyno: Looks like the match continues. I'll be looking elsewhere.
 Faruzan: Hmm, strange... Has something else diverted their attention?
 Faruzan: Come! Let's search in the direction the bait returned from!
 Paimon: We'll go have a look, too!
-Traveler: ...Bait?
 
 ## Talk 13
 
@@ -260,13 +262,15 @@ Paimon: Looks like Faruzan and Kaveh's devices are everywhere now...
 Layla: I'll keep up the search. That said, I've noticed that the number of butterflies in the city has already decreased a lot compared to when the event started.
 Layla: Probably because the other contestants are coming up with their own ways to catch butterflies... Alright, I'll do my best, too. Huh?
 Paimon: What's this?
-Traveler: Could it be...
+    Option 1:
+        Traveler: Could it be...
+    Option 2:
+        Traveler: A Swiftfly?
 Layla: Oh, what a coincidence. I guess I just need to catch it now, right?
 Layla: Oh, um, please wait! Ah, there it goes...
 Paimon: It's so fast! Paimon thought Alhaitham said they were only a little faster!
 Layla: No, come back!
 Paimon: #C'mon, Traveler! Let's go, too!
-Traveler: A Swiftfly?
 
 ## Talk 16
 
@@ -398,11 +402,13 @@ Dori: Here you go! Two servings of tahchin! See? I told you there's nothing Lord
 Paimon: #Yay! Uh... Huh? What are you looking at, Traveler?
 Traveler: I thought I saw someone just now...
 Paimon: Oh? Who? Someone we know?
-Traveler: Never mind...
+    Option 1:
+        Traveler: Never mind...
+    Option 2:
+        Traveler: They're gone.
 Dori: Was it someone suspicious? Have we attracted some unwanted attention?
 Paimon: Huh? What's happening, Dori? Is there something else going on?
 Dori: I don't know who you saw just now, but I do have some hard-to-come-by information about the Extravaganza. If you want to know more, we can talk business later.
-Traveler: They're gone.
 
 ## Talk 97
 
@@ -442,7 +448,10 @@ Layla: Um, it's just something I read in an academic publication. I really love 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You're overthinking it. Power is just a tool. It just seems to me that you don't have the resolve to win this. Well, suit yourself. Wallow in your immature ideals if you like.
 Paimon: Hey! Seriously? Just walking off after saying a bunch of mean stuff like that?
 Layla: Um, did I say something wrong just now?
-Traveler: No, it's good to have your own convictions.
+    Option 1:
+        Traveler: No, it's good to have your own convictions.
+    Option 2:
+        Traveler: It was just a difference in perspectives, that's all.
 Layla: Thank you so much. I've made up my mind not to use astrology for this. I think I'll just try my luck in the city.
 Layla: To be honest, I've always been pretty good at observation, and if I'm fortunate, I might be able to find that special butterfly species...
 Bahir: Lord Cyno seems to have found a Swiftfly! Come on, let's go check it out!
@@ -452,7 +461,6 @@ Alae: Oh, no time to lose! Let's go see!
 Layla: As expected of Cyno... Ah, actually, shouldn't you two go have a look as well? The moment when he catches the butterfly will likely be one worth recording, after all.
 Layla: I'll head into the city shortly to start my own search. I'll see you later.
 Paimon: Alright. In that case, let's go see Cyno first, and then we can check on what everyone else is up to!
-Traveler: It was just a difference in perspectives, that's all.
 
 ## Additional Conversations
 

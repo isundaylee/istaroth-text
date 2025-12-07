@@ -15,8 +15,12 @@ Traveler: Ah, so this is a souvenir store.
 Roialte: Ha! Just as well we came, then.
 Roialte: It's not every day we come to Natlan on business, so some mementos are a must.
 Iaune: I've also gotten Estelle some gifts. She gave me a beautiful hat previously, and I should like to return the favor.
-Traveler: Was it a birthday gift?
-Iaune: No, no, it wasn't anywhere near my birthday when she gave it to me.
+    Option 1:
+        Traveler: Was it a birthday gift?
+        Iaune: No, no, it wasn't anywhere near my birthday when she gave it to me.
+    Option 2:
+        Traveler: So she just suddenly gave you a gift?
+        Iaune: Y—Yes, and unprompted, too. I've wondered why myself...
 Iaune: She caught me that day after I had gotten off work, and before I knew it, she had placed the hat on my head.
 Iaune: She even said something about spotting it on the way over and thinking it would suit me, so she bought it on the spot.
 Iaune: I was going to thank her and pay her for it, but the moment she heard me mention repayment, she kicked me and stormed off...
@@ -34,13 +38,13 @@ Roialte: Ah, and don't worry about the price. I shall pay for this gift.
 Iaune: Mr. Roialte...
 Roialte: Oh, shush, young man. Pick your present carefully.
 Roialte: #Here, take this as payment, Traveler, as thanks for bringing us here. You have saved more than one life this day.
-Traveler: I wish Iaune luck.
-Roialte: Ah, and doesn't he have it in abundance? He'll be fine.
+    Option 1:
+        Traveler: I wish Iaune luck.
+        Roialte: Ah, and doesn't he have it in abundance? He'll be fine.
+    Option 2:
+        Traveler: I wish Estelle happiness.
+        Roialte: With a lad like Iaune? I imagine our good lady would struggle to be unhappy, if anything.
 Roialte: *sigh* Still, just look at him. I'll have Semaine teach him a thing or two once we get back to Fontaine...
-Traveler: I wish Estelle happiness.
-Roialte: With a lad like Iaune? I imagine our good lady would struggle to be unhappy, if anything.
-Traveler: So she just suddenly gave you a gift?
-Iaune: Y—Yes, and unprompted, too. I've wondered why myself...
 
 ## Talk 3
 
@@ -48,13 +52,15 @@ Iaune: What's that person up there on the platform doing? Why does he have to cl
 Roialte: He seems to be doing some sort of exercise...
 Iaune: What sort of exercise would require one to leap off a cliff with a rope tied to oneself? Is this some sort of SSSP training?
 Roialte: #If my assessment isn't off, he seems to be having quite a grand time, Traveler...
-Traveler: Wanna give it a try?
-Roialte: #Dear Traveler, on account of the fact we have yet to finalize your payment, might I ask you not to attempt murder against us?
-Iaune: Just looking at it leaves me deathly faint. If I jumped down... I should develop acrophobia even if I didn't have it already...
-Roialte: We're counting on you, then — we'd prefer to have a simple meeting in a safe place, where possible.
-Traveler: Shall we keep moving forward, then?
-Iaune: Y—Yes... Let's, but could we keep closer to the mountain? I'd prefer not to look over the cliff...
-Roialte: #Phew... Indeed. If we were to fall, dear Traveler... I fear you'd have to go back to the Maison Gestion for the remainder of your compensation, given the state we'd be in upon landing.
+    Option 1:
+        Traveler: Wanna give it a try?
+        Roialte: #Dear Traveler, on account of the fact we have yet to finalize your payment, might I ask you not to attempt murder against us?
+        Iaune: Just looking at it leaves me deathly faint. If I jumped down... I should develop acrophobia even if I didn't have it already...
+        Roialte: We're counting on you, then — we'd prefer to have a simple meeting in a safe place, where possible.
+    Option 2:
+        Traveler: Shall we keep moving forward, then?
+        Iaune: Y—Yes... Let's, but could we keep closer to the mountain? I'd prefer not to look over the cliff...
+        Roialte: #Phew... Indeed. If we were to fall, dear Traveler... I fear you'd have to go back to the Maison Gestion for the remainder of your compensation, given the state we'd be in upon landing.
 
 ## Talk 4
 
@@ -72,31 +78,107 @@ Roialte: Hahahaha, precisely! And if everyone was like that, then we Gestionnair
 Roialte: So, now do you understand why we were the ones the Maison sent to establish preliminary contact?
 Iaune: No, sir, I do not. All I see is our office's seal on this notice — and only ours!
 Roialte: Oh dearie me, and isn't it our office that has a most enthusiastic and capable young man on staff?
-Traveler: You don't look like you're from around here...
-Roialte: Most observant of you! We are Gestionnaires of Fontaine's Maison Gestion. Roialte's my name, and this is Iaune.
-Traveler: #And I'm Traveler.
-Iaune: #Good day to you, Mr. Traveler.
-Traveler: I see you two were having a lively discussion.
-Roialte: Indeed we were! Ample discussion is necessary prior to progressing any task... Especially when said task is not proceeding as expected.
-Traveler: What are you two doing here, exactly?
-Roialte: In truth, our work here in Natlan is to find out "what work there is to do."
-Roialte: Simply put, we were sent to look for opportunities for collaboration, be they in trade, travel... or whatever else.
-Roialte: So long as we can find something for the gentlemen back at the Maison to busy themselves with, we shall have succeeded.
-Iaune: We haven't even any leads at the moment, though. *sigh* Never mind everything else, we haven't even found a single proper contact.
-Roialte: #But today we have met just such a person. In my view, this good-hearted gentleman will resolve all the questions that confound us.
-Traveler: What questions are those?
-Roialte: #I shall be direct, then. Dear Mr. Traveler, do you know who is in charge here?
-Traveler: Erm... the Pyro Archon?
-Iaune: Uhhh...
-Roialte: That... stands to reason.
-Roialte: *cough* Anyway... Natlan is a nation of many tribes, so there must always be many matters to attend to in meetings. As for the venue for such meetings...
-Traveler: That would be here.
-Roialte: Alright. In that case, where may we find an office that oversees business affairs here, so that we may submit our official documentation there?
+    Option 1:
+        Traveler: You don't look like you're from around here...
+        Roialte: Most observant of you! We are Gestionnaires of Fontaine's Maison Gestion. Roialte's my name, and this is Iaune.
+        Traveler: #And I'm Traveler.
+        Iaune: #Good day to you, Mr. Traveler.
+        Traveler: I see you two were having a lively discussion.
+        Roialte: Indeed we were! Ample discussion is necessary prior to progressing any task... Especially when said task is not proceeding as expected.
+        Traveler: What are you two doing here, exactly?
+        Roialte: In truth, our work here in Natlan is to find out "what work there is to do."
+        Roialte: Simply put, we were sent to look for opportunities for collaboration, be they in trade, travel... or whatever else.
+        Roialte: So long as we can find something for the gentlemen back at the Maison to busy themselves with, we shall have succeeded.
+        Iaune: We haven't even any leads at the moment, though. *sigh* Never mind everything else, we haven't even found a single proper contact.
+        Roialte: #But today we have met just such a person. In my view, this good-hearted gentleman will resolve all the questions that confound us.
+        Traveler: What questions are those?
+        Roialte: #I shall be direct, then. Dear Mr. Traveler, do you know who is in charge here?
+        Traveler: Erm... the Pyro Archon?
+        Iaune: Uhhh...
+        Roialte: That... stands to reason.
+        Roialte: *cough* Anyway... Natlan is a nation of many tribes, so there must always be many matters to attend to in meetings. As for the venue for such meetings...
+        Traveler: That would be here.
+        Roialte: Alright. In that case, where may we find an office that oversees business affairs here, so that we may submit our official documentation there?
+    Option 2:
+        Traveler: Fontainians, I presume?
+    Option 3:
+        Traveler: Fontainians, I presume?
+    Option 4:
+        Traveler: You don't look like you're from around here...
+        Roialte: Most observant of you! We are Gestionnaires of Fontaine's Maison Gestion. Roialte's my name, and this is Iaune.
+        Traveler: #And I'm Traveler.
+        Iaune: #Good day to you, Mr. Traveler.
+        Traveler: I see you two were having a lively discussion.
+        Roialte: Indeed we were! Ample discussion is necessary prior to progressing any task... Especially when said task is not proceeding as expected.
+        Traveler: Are you here to sell Fonta?
+        Roialte: Fonta... I fear such a project would be far beyond the remit of our office.
+        Roialte: In truth, our work here in Natlan is to find out "what work there is to do."
+        Roialte: Simply put, we were sent to look for opportunities for collaboration, be they in trade, travel... or whatever else.
+        Roialte: So long as we can find something for the gentlemen back at the Maison to busy themselves with, we shall have succeeded.
+        Iaune: We haven't even any leads at the moment, though. *sigh* Never mind everything else, we haven't even found a single proper contact.
+        Roialte: #But today we have met just such a person. In my view, this good-hearted gentleman will resolve all the questions that confound us.
+        Traveler: What questions are those?
+        Roialte: #I shall be direct, then. Dear Mr. Traveler, do you know who is in charge here?
+        Traveler: Erm... the Pyro Archon?
+        Iaune: Uhhh...
+        Roialte: That... stands to reason.
+        Roialte: *cough* Anyway... Natlan is a nation of many tribes, so there must always be many matters to attend to in meetings. As for the venue for such meetings...
+        Traveler: That would be here.
+        Roialte: Alright. In that case, where may we find an office that oversees business affairs here, so that we may submit our official documentation there?
+    Option 5:
+        Traveler: You don't look like you're from around here...
+        Roialte: Most observant of you! We are Gestionnaires of Fontaine's Maison Gestion. Roialte's my name, and this is Iaune.
+        Traveler: #And I'm Traveler.
+        Iaune: #Good day to you, Mr. Traveler.
+        Traveler: I see you two were having a lively discussion.
+        Roialte: Indeed we were! Ample discussion is necessary prior to progressing any task... Especially when said task is not proceeding as expected.
+        Traveler: What are you two doing here, exactly?
+        Roialte: In truth, our work here in Natlan is to find out "what work there is to do."
+        Roialte: Simply put, we were sent to look for opportunities for collaboration, be they in trade, travel... or whatever else.
+        Roialte: So long as we can find something for the gentlemen back at the Maison to busy themselves with, we shall have succeeded.
+        Iaune: We haven't even any leads at the moment, though. *sigh* Never mind everything else, we haven't even found a single proper contact.
+        Roialte: #But today we have met just such a person. In my view, this good-hearted gentleman will resolve all the questions that confound us.
+        Traveler: I do know a thing or two about Natlan...
+        Roialte: Wonderful!
+        Roialte: #I shall be direct, then. Dear Mr. Traveler, do you know who is in charge here?
+        Traveler: Erm... the Pyro Archon?
+        Iaune: Uhhh...
+        Roialte: That... stands to reason.
+        Roialte: *cough* Anyway... Natlan is a nation of many tribes, so there must always be many matters to attend to in meetings. As for the venue for such meetings...
+        Traveler: That would be here.
+        Roialte: Alright. In that case, where may we find an office that oversees business affairs here, so that we may submit our official documentation there?
+    Option 6:
+        Traveler: You don't look like you're from around here...
+        Roialte: Most observant of you! We are Gestionnaires of Fontaine's Maison Gestion. Roialte's my name, and this is Iaune.
+        Traveler: #And I'm Traveler.
+        Iaune: #Good day to you, Mr. Traveler.
+        Traveler: I see you two were having a lively discussion.
+        Roialte: Indeed we were! Ample discussion is necessary prior to progressing any task... Especially when said task is not proceeding as expected.
+        Traveler: Are you here to sell Fonta?
+        Roialte: Fonta... I fear such a project would be far beyond the remit of our office.
+        Roialte: In truth, our work here in Natlan is to find out "what work there is to do."
+        Roialte: Simply put, we were sent to look for opportunities for collaboration, be they in trade, travel... or whatever else.
+        Roialte: So long as we can find something for the gentlemen back at the Maison to busy themselves with, we shall have succeeded.
+        Iaune: We haven't even any leads at the moment, though. *sigh* Never mind everything else, we haven't even found a single proper contact.
+        Roialte: #But today we have met just such a person. In my view, this good-hearted gentleman will resolve all the questions that confound us.
+        Traveler: I do know a thing or two about Natlan...
+        Roialte: Wonderful!
+        Roialte: #I shall be direct, then. Dear Mr. Traveler, do you know who is in charge here?
+        Traveler: Erm... the Pyro Archon?
+        Iaune: Uhhh...
+        Roialte: That... stands to reason.
+        Roialte: *cough* Anyway... Natlan is a nation of many tribes, so there must always be many matters to attend to in meetings. As for the venue for such meetings...
+        Traveler: That would be here.
+        Roialte: Alright. In that case, where may we find an office that oversees business affairs here, so that we may submit our official documentation there?
 Roialte: Besides, I believe that matters of trade between two nations require a formal coordination committee to be convened. We must put a list of participants together as soon as possible.
 Traveler: You can discuss it with people from each of the various tribes.
 Roialte: Uhm, do you... mean to say that there are no overall administrative offices, offices responsible for individual industries, or intermediate departments that transmit and issue tasks here?
-Traveler: Things just aren't that difficult around here.
-Iaune: On the contrary, this could make things far more difficult...
+    Option 1:
+        Traveler: Things just aren't that difficult around here.
+        Iaune: On the contrary, this could make things far more difficult...
+    Option 2:
+        Traveler: Or maybe I could just take you guys straight to the Archon?
+        Roialte: I... do not believe that the matter at hand is of sufficient import to warrant such a meeting.
 Roialte: *sigh* Very well, then, I guess that's just how things are. If nothing else, those in our office specialize in accepting present realities that cannot be changed.
 Roialte: Come on then, lad, time we got to work. We'll do a round, visit each of the tribes in turn and see if there are any business opportunities to be had.
 Roialte: #Dear Traveler, could we ask you to show us the way once more?
@@ -105,13 +187,6 @@ Iaune: That's the silver lining. Were we in Fontaine, it could take a month for 
 Roialte: Ha! Only a month? Only if it didn't take any detours along the way!
 Roialte: #Alright, back to business. In your opinion, Traveler...
 Roialte: Which tribe should we visit this time?
-Traveler: Or maybe I could just take you guys straight to the Archon?
-Roialte: I... do not believe that the matter at hand is of sufficient import to warrant such a meeting.
-Traveler: I do know a thing or two about Natlan...
-Roialte: Wonderful!
-Traveler: Are you here to sell Fonta?
-Roialte: Fonta... I fear such a project would be far beyond the remit of our office.
-Traveler: Fontainians, I presume?
 
 ## Talk 5
 

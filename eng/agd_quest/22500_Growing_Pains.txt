@@ -8,18 +8,25 @@ Traveler: No playtime today?
 Little Lulu: Oh, hello! No, playtime doesn't seem to come at all these days.
 Little Lulu: Little Meng's in a bad mood and prefers to sulk by himself, and Little Fei keeps disappearing all the time.
 Little Lulu: I asked Little Meng what's wrong, but he wouldn't tell me. They're both acting so strange these days, I honestly don't know what's gotten into them.
-Traveler: Welcome to the grown-up world, kiddo.
-Little Lulu: Wait, so when you grow up you stop being happy? Then why do Little Meng and Little Fei want to grow up so bad...
-Little Lulu: I guess I'll just not grow up, then.
-Little Lulu: Anyway, we're getting sidetracked. I actually need your help with something.
+    Option 1:
+        Traveler: Welcome to the grown-up world, kiddo.
+        Little Lulu: Wait, so when you grow up you stop being happy? Then why do Little Meng and Little Fei want to grow up so bad...
+        Little Lulu: I guess I'll just not grow up, then.
+        Little Lulu: Anyway, we're getting sidetracked. I actually need your help with something.
+    Option 2:
+        Traveler: Are you unhappy, too?
+        Little Lulu: Me? No, I'm okay. But... I do need your help with something.
+    Option 3:
+        Traveler: Are you unhappy, too?
+        Little Lulu: Me? No, I'm okay. But... I do need your help with something.
 Little Lulu: Can you fetch something from Ying'er's place for me? We already talked about it, so she should have it ready by now.
-Traveler: My pleasure.
-Little Lulu: Yay! Thanks!
-Traveler: Ying'er's place, eh...
-Little Lulu: I don't know what you're thinking about, but it's not that. I just asked Ying'er to make something for me. And she said she would.
-Little Lulu: And now I'm asking you very nicely to help collect it for me.
-Traveler: Are you unhappy, too?
-Little Lulu: Me? No, I'm okay. But... I do need your help with something.
+    Option 1:
+        Traveler: My pleasure.
+        Little Lulu: Yay! Thanks!
+    Option 2:
+        Traveler: Ying'er's place, eh...
+        Little Lulu: I don't know what you're thinking about, but it's not that. I just asked Ying'er to make something for me. And she said she would.
+        Little Lulu: And now I'm asking you very nicely to help collect it for me.
 
 ## Talk 2
 
@@ -31,6 +38,7 @@ Ying'er: I've had an enormous number of orders. It's far too many for me to hand
 Ying'er: On top of that, Lulu's just a child. It would be a little inappropriate to give her the same type of perfume worn by adult women.
 Ying'er: So I was racking my brains trying to think of a way to make my perfume more child-friendly. I've now decided on a suitable formula, but I haven't got around to making it yet.
 Ying'er: If it absolutely can't wait, expediting it would not be impossible, but...
+[Missing Dialog 225000209]
 
 ## Talk 3
 
@@ -51,12 +59,14 @@ Ying'er: Bring the Mint Essential Oil to me, I'll handle the rest.
 
 Ying'er: The perfume is ready. A bespoke variety made with Mint Essential Oil.
 Ying'er: Here you go. It's ready for Little Lulu now.
-Traveler: Okay.
-Traveler: Why Mint?
-Ying'er: It counteracts some of the more... hmm, stimulating elements with its neutral scent...
-Ying'er: To be honest, I was very surprised to receive an order from Lulu.
-Ying'er: It does make me reminisce about being that age, when one has one's first taste of love, oh how it makes the heart flutter... If only I had been a little more worldly wise back then...
-Ying'er: Ahem... Anyway, I should let you get back to Lulu.
+    Option 1:
+        Traveler: Okay.
+    Option 2:
+        Traveler: Why Mint?
+        Ying'er: It counteracts some of the more... hmm, stimulating elements with its neutral scent...
+        Ying'er: To be honest, I was very surprised to receive an order from Lulu.
+        Ying'er: It does make me reminisce about being that age, when one has one's first taste of love, oh how it makes the heart flutter... If only I had been a little more worldly wise back then...
+        Ying'er: Ahem... Anyway, I should let you get back to Lulu.
 
 ## Talk 6
 
@@ -65,12 +75,14 @@ Traveler: I did.
 Little Lulu: Thank you! Ying'er makes the best perfume ever.
 Little Lulu: I wonder what Little Meng and Little Fei will do when they smell it...
 Little Lulu: I think that however they react, it will be a lot of fun to watch.
-Traveler: They're going to love it.
-Little Lulu: Hope so. That would be the best.
+    Option 1:
+        Traveler: They're going to love it.
+        Little Lulu: Hope so. That would be the best.
+    Option 2:
+        Traveler: Who do you prefer to play with?
+        Little Lulu: Hmm? I don't prefer either of them... I prefer both of them! Little Meng and Little Fei are both my best friends.
 Little Lulu: Thanks for helping me. I'll go home soon and have a go of my new perfume.
 Little Lulu: If it's good, then I can keep using it again and again.
-Traveler: Who do you prefer to play with?
-Little Lulu: Hmm? I don't prefer either of them... I prefer both of them! Little Meng and Little Fei are both my best friends.
 
 ## Talk 7
 
@@ -88,15 +100,17 @@ Ying'er: Hmm, it seems you can't quite afford it.
 ## Talk 10
 
 Ying'er: Mint Essential Oil, you got it?
-Traveler: How do I make it?
-Ying'er: We did it together not long ago, you don't remember? Huh, so you're just as quick to forget as you are to get involved in the first place...
-Ying'er: Let me give you a recap then. Go fetch three leaves of Mint, then extract the essential oil at a Crafting Bench.
-Ying'er: Bring the essential oil to me, and I will take it from there.
-Traveler: What uses does Mint Essential Oil have?
-Ying'er: How to put this... it neutralizes some of the more stimulating elements in the concoction.
-Ying'er: But more importantly, the scent is a good match for a child like Lulu.
-Ying'er: A girl's scent is far more than a purely nasal affair...
-Ying'er: This perfume must capture Lulu's youthful lust for life, her wide-eyed innocence... *giggle*
+    Option 1:
+        Traveler: How do I make it?
+        Ying'er: We did it together not long ago, you don't remember? Huh, so you're just as quick to forget as you are to get involved in the first place...
+        Ying'er: Let me give you a recap then. Go fetch three leaves of Mint, then extract the essential oil at a Crafting Bench.
+        Ying'er: Bring the essential oil to me, and I will take it from there.
+    Option 2:
+        Traveler: What uses does Mint Essential Oil have?
+        Ying'er: How to put this... it neutralizes some of the more stimulating elements in the concoction.
+        Ying'er: But more importantly, the scent is a good match for a child like Lulu.
+        Ying'er: A girl's scent is far more than a purely nasal affair...
+        Ying'er: This perfume must capture Lulu's youthful lust for life, her wide-eyed innocence... *giggle*
 
 ## Additional Conversations
 
@@ -110,11 +124,13 @@ Ying'er: Mint is an appropriate scent for a child like Lulu.
 ### Additional Talk 2
 
 Ying'er: Here you are, one bespoke Mint perfume made specially for Lulu by yours truly. You can take it to her now.
-Traveler: Okay.
-Traveler: What did Lulu want this for?
-Ying'er: She didn't tell me, and I didn't ask her.
-Ying'er: No girl is without her secrets. Keeping some things hidden, displaying a penchant for tact, it's all part of a girl's charm.
-Ying'er: Alright, off you go now, get this back to Lulu.
+    Option 1:
+        Traveler: Okay.
+    Option 2:
+        Traveler: What did Lulu want this for?
+        Ying'er: She didn't tell me, and I didn't ask her.
+        Ying'er: No girl is without her secrets. Keeping some things hidden, displaying a penchant for tact, it's all part of a girl's charm.
+        Ying'er: Alright, off you go now, get this back to Lulu.
 
 ### Additional Talk 3
 

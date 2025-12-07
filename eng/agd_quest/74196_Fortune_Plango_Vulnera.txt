@@ -20,7 +20,12 @@ Scylla: #Let us play it together, Traveler, Paimon! Then, you shall gain access 
 
 ## Talk 4
 
+Black Screen Text: Scylla leaves amidst the turbulent waves...
+[Missing Dialog 741962025]
+
 Black Screen Text: After everything is over, you return to where it all began, the town of Petrichor...
+[Missing Dialog 741962001]
+
 Paimon: Is the Symphony that Remus left to us... finally coming to an end?
 Paimon: We've completed the Requiem, and the souls imprisoned in the ocean depths all seem to have left.
 Paimon: The townspeople should be back to normal as well, right?
@@ -37,11 +42,14 @@ Paimon: Hey, what do you mean, "disturb"?
 Scylla: Haha, I jest. Still, are you not due to return to your own place? Let us part ways here, then.
 Scylla: Or so I would say, but further visits on your part would be appreciated. I might get lonely now that everyone is gone, after all!
 Paimon: Hehe! Aw, you just miss us already, don'cha, you big lunk?
-Traveler: See you around, big guy.
-Traveler: We will meet again.
+    Option 1:
+        Traveler: See you around, big guy.
+    Option 2:
+        Traveler: We will meet again.
 Scylla: Heh. Looking at you, even I begin to look forward to the future of terrestrial beings!
 Scylla: Well then. Until we meet again.
-Black Screen Text: Scylla leaves amidst the turbulent waves...
+[Missing Dialog 741962221]
+
 Paimon: Well, where should we go next?
 Paimon: Oh, right! We should get back to Mr. Este to tell him that everything's fine now. We did promise to, after all!
 Paimon: And there's Osse, too... Hmm, what should we call him now? This could get complicated...
@@ -170,7 +178,10 @@ Cassiodor: That is why the Imperator... why fate brought you here, my friend!
 Paimon: Monsieur Os... Is that you...?
 Cassiodor: It's finally... over...
 Cassiodor: It seems that I shall soon fade...
-Traveler: Monsieur Os...
+    Option 1:
+        Traveler: Monsieur Os...
+    Option 2:
+        Traveler: Cassiodor...
 Cassiodor: It's alright. I have finished walking the road I was meant to, and fulfilled that which I was meant to fulfill. This world shall no longer have Cassiodor, nor shall it have the Golden Hunter.
 Cassiodor: I am certain that the people of this present world shall continue to live normal, happy lives...
 Paimon: But... But...
@@ -181,7 +192,6 @@ Cassiodor: Please, play the Requiem, for me, and for my Imperator's wishes. Let 
 Cassiodor: "If water loses its clarity, how shall it become water again? If a tree leaves the soil, where shall it go to put down roots?"
 Cassiodor: "Though rock and metal may crash and clamor, humans cannot live without water and soil."
 Cassiodor: Perhaps we shall meet again someday, in a fertile land full of flowing water...
-Traveler: Cassiodor...
 
 ## Talk 15
 
@@ -200,7 +210,10 @@ Traveler: Cassiodor...
 Osse: Meow!? Meow!
 Paimon: Whoa, big guy! You scared Osse!
 Scylla: You mean Cassiodor? No... that familiar feeling has disappeared. Where has Cassiodor gone off to? Has he returned to one of those stone bodies again...?
-Traveler: Cassiodor...
+    Option 1:
+        Traveler: Cassiodor...
+    Option 2:
+        Traveler: Is no longer with us.
 Paimon: Cassiodor... Monsieur Os, he... he's disappeared... along with Boethius and Phobos...
 Black Screen Text: After explaining the whole tale to Scylla, you spend some time comforting Osse...
 Paimon: That's right. Now, all that's left is "Osse"...
@@ -212,7 +225,6 @@ Scylla: So long as we complete Remus's final symphony, we shall be able to send 
 Scylla: Life flows like water. They will join the current, and one day, they will surely be reborn as mortals.
 Scylla: Well then. Let us begin.
 Scylla: Perform this final movement, this final Requiem.
-Traveler: Is no longer with us.
 
 ## Talk 19
 
@@ -244,7 +256,10 @@ Paimon: Hey, what do you mean, "disturb"?
 Scylla: Haha, I jest. Still, are you not due to return to your own place? Let us part ways here, then.
 Scylla: Or so I would say, but further visits on your part would be appreciated. I might get lonely now that everyone is gone, after all!
 Paimon: Hehe! Aw, you just miss us already, don'cha, you big lunk?
-Traveler: See you around, big guy.
+    Option 1:
+        Traveler: See you around, big guy.
+    Option 2:
+        Traveler: We will meet again.
 Scylla: Heh. Looking at you, even I begin to look forward to the future of terrestrial beings!
 Scylla: Well then. Until we meet again.
 Black Screen Text: Scylla leaves amidst the turbulent waves...
@@ -252,7 +267,6 @@ Paimon: Well, where should we go next?
 Paimon: Oh, right! We should get back to Mr. Este to tell him that everything's fine now. We did promise to, after all!
 Paimon: And there's Osse, too... Hmm, what should we call him now? This could get complicated...
 Paimon: Anyway, let's get back to town first.
-Traveler: We will meet again.
 
 ## Talk 99
 

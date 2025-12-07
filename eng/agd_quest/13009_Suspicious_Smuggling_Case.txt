@@ -29,14 +29,16 @@ Black Screen Text: After searching outside the city for some time, you see a fam
 Paimon: Huh? It's Cyno! Uh, what are you doing here?
 Cyno: Ah, it's you two. I knew I sensed a familiar presence.
 Cyno: I'm currently in the middle of an investigation here. We'll have to chat some other time.
-Traveler: So you're investigating something here, too?
+    Option 1:
+        Traveler: So you're investigating something here, too?
+    Option 2:
+        Traveler: Does that mean...
 Cyno: There's been a recent case of Canned Knowledge smuggling. It seems that the smugglers are following an elaborate and dangerous scheme. I just happened to acquire some intel which led me here.
 Paimon: Hey, whaddya know! We're also here to investigate that!
 Cyno: I see, well the situation might be more problematic than you anticipated. I've already questioned several people, but gained very little information.
 Cyno: Long story short, I was able to learn of the secret location where the Canned Knowledge is being sold. You're welcome to accompany me if you're interested.
 Paimon: Whoa, sounds pretty complicated... but having Cyno around will definitely make things easier.
 Paimon: Alright, let's go round up those bad guys!
-Traveler: Does that mean...
 
 ## Talk 3
 
@@ -62,7 +64,10 @@ Cyno: And when is the next batch coming?
 Amenzu: I—I don't know.
 Amainu: He's telling the truth, honest! Normally, we should have received a shipment three days ago, but we didn't get anything.
 Amainu: The stock we have right now is from eight days ago, which is why there isn't much left.
-Traveler: Seems this isn't getting us anywhere.
+    Option 1:
+        Traveler: Seems this isn't getting us anywhere.
+    Option 2:
+        Traveler: Cyno wasn't kidding when he said intel was hard to come by.
 Cyno: I know exactly why they didn't receive their last batch. Three days ago is exactly when I started my investigation.
 Cyno: I suspect whoever's running this whole thing knew that I was coming, so they cut all contact with these dealers.
 Cyno: When you were trying to escape, you said something about me working alone. Where did you hear that from?
@@ -76,7 +81,10 @@ Cyno: Hmm? Do you have a potential suspect? You'd better bring them to me for ju
 Paimon: Wh—Whoa, judgment!?
 Cyno: That's right. I won't turn a blind eye on any dangerous suspect.
 Paimon: Oh, uh, sounds like we shouldn't ever let Cyno meet Dori...
-Traveler: Actually, we were mistaken.
+    Option 1:
+        Traveler: Actually, we were mistaken.
+    Option 2:
+        Traveler: We don't know any merchants.
 Cyno: I see. Anyway, I'll think of a way to deal with these two and then continue gathering information.
 Cyno: If you manage to learn anything, you can find me at Caravan Ribat.
 Cyno: And as for you, I don't ever want to catch you buying Canned Knowledge again. If you possess any unused Knowledge Capsules, then you should submit them to the authorities immediately.
@@ -84,7 +92,10 @@ Mutair: Okay, okay, I got it... Just keep your nose out of my business.
 Paimon: Hey, what's with the attitude, mister!
 Mutair: What, you got a problem with that, too? Listen, buying Canned Knowledge is a deal between two people: the buyer and the seller. We don't need people like you butting in on our business here.
 Mutair: Think about it. If the Akademiya is hoarding something as convenient and useful like Canned Knowledge, then they must've been planning only to use it for themselves! Am I right?
-Traveler: They must have their own reasons.
+    Option 1:
+        Traveler: They must have their own reasons.
+    Option 2:
+        Traveler: You may have a point...
 Cyno: The Akademiya has clearly published the potential dangers of Canned Knowledge. I don't like having to repeat things, and besides, I'm sure you wouldn't listen anyway.
 Cyno: I just hope you understand that your actions are what fuels the smuggling of Canned Knowledge.
 Cyno: If I ever catch you again, I will personally see to it that you are punished.
@@ -92,9 +103,6 @@ Cyno: #Alright, Traveler, I need to go now.
 Mutair: Hah! Y—You think you can scare me?
 Paimon: #Phew... Traveler, why don't we go talk to Dori? She's got loads of connections and might be able to tell us something about all this.
 Paimon: If Paimon remembers correctly, she's usually at the Palace of Alcazarzaray. Let's go!
-Traveler: You may have a point...
-Traveler: We don't know any merchants.
-Traveler: Cyno wasn't kidding when he said intel was hard to come by.
 
 ## Talk 4
 
@@ -136,7 +144,10 @@ Paimon: The Court of Desolation? What's that?
 Dori: Rumor has it that it's a site of ruins from the age of King Deshret. It's said that with the treasures inside, one can see beyond life and death, but any research of the ruins is strictly banned by the Akademiya.
 Dori: Word on the street is that there'll be an auction taking place in the desert. They're auctioning rare Canned Knowledge, some of which is related to the Court of Desolation.
 Dori: Once I heard about the auction, I began to suspect that all the Canned Knowledge popping up on the market is just a diversion. I'd wager that their real target is the Court of Desolation.
-Traveler: Why use Canned Knowledge to distribute information?
+    Option 1:
+        Traveler: Why use Canned Knowledge to distribute information?
+    Option 2:
+        Traveler: What's the purpose of hosting an auction?
 Dori: Because studying those ruins is not just a simple matter — it requires knowledge spanning several fields. So if they're aiming to quickly assemble a research team, Canned Knowledge would be the best solution.
 Dori: As for the auction, chances are they're trying to attract and scout out anyone with interest or expertise on the subject.
 Dori: On the other hand, no one can say for sure that they will ever succeed in finding the Court of Desolation. So they might as well just make a fortune while they're at it by hyping up the related Canned Knowledge at the auction.
@@ -150,7 +161,6 @@ Dori: No need to worry, little one. Cyno's the one heading this investigation, i
 Dori: All you'll need to do is tell him to go the merchant's guild and pay the bill once the mission is completed. Just, uh... be sure to not send him directly here though, okay? That would leave me completely in the open.
 Dori: I'm sure the former General Mahamatra of the Akademiya would never leave any debt unpaid. Oh, the Mora... I can see it already, loads of shiny Mora coming Dori's way!
 Paimon: #Traveler, we'd better get going. If Dori keeps at it, we'll be out of Mora!
-Traveler: What's the purpose of hosting an auction?
 
 ## Talk 6
 
@@ -158,7 +168,10 @@ Paimon: Cyno! We've got news for you! What the smugglers are really after is a c
 Paimon: They are hosting an auction in the desert to sell Canned Knowledge about those ruins!
 Cyno: The Court of Desolation...
 Cyno: I won't ask how you came by this intel, but is it reliable?
-Traveler: Yes, it should be.
+    Option 1:
+        Traveler: Yes, it should be.
+    Option 2:
+        Traveler: It's all we have to go on for the moment.
 Paimon: We also heard that the Court of Desolation contains treasures from the time of King Deshret. Is that true?
 Cyno: Partially. It was a secret place built by a dark sect from the age of King Deshret. The ruins do contain treasures, but the place is also rife with unknown dangers.
 Cyno: According to past research, one must forfeit their life as the price of entering. They are not some ordinary ruins, so the Akademiya has strictly prohibited any related research.
@@ -175,7 +188,6 @@ Paimon: Huh? People tailing us?
 Cyno: That's right. Let's begin to leave town and see what happens. I'm sure they'll reveal themselves as soon as we make a move.
 Cyno: Don't worry. I'll make short work of them.
 Paimon: That's Cyno for ya... but we can lend a hand too, you know!
-Traveler: It's all we have to go on for the moment.
 
 ## Talk 7
 
@@ -195,14 +207,16 @@ Paimon: Huh? Who are you?
 Jhuba: That doesn't matter. All you need to know is that someone wishes to inform you that it's not too late to turn back.
 Jhuba: Ah, you must be Cyno. I've heard a lot about you — you've got quite a reputation. But this time, you're in over your head. Unless you turn around right now, I'm afraid that even you won't return unscathed.
 Jhuba: And as for you two... why bother sticking your noses in trouble that doesn't even concern you, hmm?
-Traveler: Canned Knowledge is becoming a problem here.
+    Option 1:
+        Traveler: Canned Knowledge is becoming a problem here.
+    Option 2:
+        Traveler: We're here to help Cyno.
 Paimon: That's right. We won't just sit back and do nothing!
 Jhuba: Heh, have you really thought it through? You're not just doing this for recognition, are you, Cyno?
 Jhuba: My employer said that he's willing to compromise, as long as you just walk away. He could, for example, reduce the amount of Canned Knowledge on the market. I'm sure that would help your investigation appear to be successful enough.
 Jhuba: On top of that, he's willing to give you a cut of the profit. So you see, you get both Mora and a boost to your reputation. I can't think of a reason why you would pass that up.
 Cyno: Is that so? Well, I can't think of a reason why I'd accept. I've heard enough, get out of my way.
 Jhuba: Sorry, no can do. We're getting paid to ensure you disappear. Since you won't turn back willingly, then we're gonna have to make you go back.
-Traveler: We're here to help Cyno.
 
 ## Talk 9
 
@@ -230,10 +244,12 @@ Cyno: He survived with a fractured wrist. It took two months for him to recover,
 Cyno: His name is Taj Radkani, a very well-respected matra. You will have the chance to meet him someday.
 Cyno: Anyway, our mission will be dangerous. I'm already used to such grueling conditions, but I don't want to see you two get hurt.
 Paimon: Don't worry, Paimon will stay alert! We'll see danger coming a mile away!
-Traveler: We've also experienced a lot of sticky situations.
+    Option 1:
+        Traveler: We've also experienced a lot of sticky situations.
+    Option 2:
+        Traveler: Let's all do our best.
 Cyno: Good. Don't worry, it won't be long till we're at the bottom of this.
 Cyno: And once this is all over, I'll sweep away any other hidden dangers.
-Traveler: Let's all do our best.
 
 ## Additional Conversations
 
@@ -246,34 +262,52 @@ Nabil: How's the case coming? Any progress?
 
 ### Additional Talk 2
 
+Paimon: Hmm, alright. Since you asked so nicely, we'll help!
+Traveler: Do you have any further intel regarding this case?
+[Missing Dialog 130090113]
+
+Nabil: According to some research, using large amounts of Canned Knowledge could lead to some serious consequences, and unfortunately, most people have yet to realize that.
+Nabil: Rumors also have it that some particularly dangerous Canned Knowledge has made its way into the market. Regardless of whether the rumors are true or not, this case calls for urgent action.
+[Missing Dialog 130090116]
+
 Nabil (???): Wait, you two! Just a moment, please!
 Nabil (???): #You're Traveler and Paimon, right? I thought you two looked familiar. People have been talking all about you.
 Nabil (???): It's a pleasure to meet you. Do you have a moment? There's something I'd like to discuss with you.
-Traveler: Umm, who are you?
-Traveler: Have we met before?
+    Option 1:
+        Traveler: Umm, who are you?
+    Option 2:
+        Traveler: Have we met before?
 Nabil: My name is Nabil. I'm a matra in the Akademiya. You're friends with Cyno, right? I've heard him mention you before.
 Nabil: Currently, Cyno is out investigating a case involving smuggled Canned Knowledge. It's been days since we've last heard from him.
 Paimon: Oh no, do you think he's in trouble?
 Nabil: Uh, well... To be completely honest, it's pretty hard to imagine anything that could pose a threat to Cyno. But since we haven't heard from him, we're starting to suspect that the case might be more complicated than we had originally thought.
 Nabil: Word has it that you two are brave, smart, and extremely capable adventurers. Do you think you could lend us a hand and help investigate the smuggling?
-Paimon: Hmm, alright. Since you asked so nicely, we'll help!
-Traveler: Do you have any further intel regarding this case?
+[Missing Dialog 130092111]
+
 Nabil: Large amounts of Canned Knowledge from unknown origins have been appearing on the market recently. Cyno suspected that there's a secret route being used to move the capsules.
-Nabil: According to some research, using large amounts of Canned Knowledge could lead to some serious consequences, and unfortunately, most people have yet to realize that.
-Nabil: Rumors also have it that some particularly dangerous Canned Knowledge has made its way into the market. Regardless of whether the rumors are true or not, this case calls for urgent action.
+[Missing Dialog 130092114]
+
 Nabil: Last we heard from Cyno, he was investigating somewhere outside Sumeru City. It seems that he had found some leads at the time, but we haven't heard from him since.
 Paimon: Sounds like we'd better go look for him. C'mon!
 
 ### Additional Talk 3
 
-Paimon: Cyno, there you are! We finally found you!
 Cyno: Ah, it's you two. I knew I sensed a familiar presence.
+[Missing Dialog 130090204]
+
+Cyno: I see, well the situation might be more problematic than you anticipated. I've already questioned several people, but gained very little information.
+Cyno: Long story short, I was able to learn of the secret location where the Canned Knowledge is being sold. You're welcome to accompany me if you're interested.
+[Missing Dialog 130090211]
+
+Paimon: Cyno, there you are! We finally found you!
+[Missing Dialog 130092202]
+
 Cyno: But I'm very busy at the moment. We'll have to chat some other time.
 Traveler: We heard about the case of smuggled Canned Knowledge.
 Paimon: That's right! Nabil asked us to come check on the situation.
 Cyno: So Nabil told you about this? Hmm, divulging my location without authorization... I'll let it slide for now — this isn't the time for that.
-Cyno: I see, well the situation might be more problematic than you anticipated. I've already questioned several people, but gained very little information.
-Cyno: Long story short, I was able to learn of the secret location where the Canned Knowledge is being sold. You're welcome to accompany me if you're interested.
+[Missing Dialog 130092207]
+
 Paimon: Whoa, sounds pretty complicated. But having a chance to catch bad guys with Cyno, it's like we're a part of the matra!
 Paimon: Alright, sign us up!
 
@@ -313,8 +347,10 @@ Paimon: The Court of Desolation? What's that?
 Dori: Rumor has it that it's a site of ruins from the age of King Deshret. It's said that with the treasures inside, one can see beyond life and death, but any research of the ruins is strictly banned by the Akademiya.
 Dori: Word on the street is that there'll be an auction taking place in the desert. They're auctioning rare Canned Knowledge, some of which is related to the Court of Desolation.
 Dori: Once I heard about the auction, I began to suspect that all the Canned Knowledge popping up on the market is just a diversion. I'd wager that their real target is the Court of Desolation.
-Traveler: Why use Canned Knowledge to distribute information?
-Traveler: What's the purpose of hosting an auction?
+    Option 1:
+        Traveler: Why use Canned Knowledge to distribute information?
+    Option 2:
+        Traveler: What's the purpose of hosting an auction?
 Dori: Because studying those ruins is not just a simple matter — it requires knowledge spanning several fields. So if they're aiming to quickly assemble a research team, Canned Knowledge would be the best solution.
 Dori: As for the auction, chances are they're trying to attract and scout out anyone with interest or expertise on the subject.
 Dori: On the other hand, no one can say for sure that they will ever succeed in finding the Court of Desolation. So they might as well just make a fortune while they're at it by hyping up the related Canned Knowledge at the auction.
@@ -326,5 +362,8 @@ Dori: I've got it! 500,000 Mora per kit! It's quite the bargain. We'll even offe
 Paimon: What! That's super expensive!
 Dori: No need to worry, little one. Cyno's the one heading this investigation, isn't he? I'll be sure to bill all the expenses to him.
 Dori: All you'll need to do is tell him to go the merchant's guild and pay the bill once the mission is completed. Just, uh... be sure to not send him directly here though, okay? That would leave me completely in the open.
-Dori: I'm sure the General Mahamatra of the Akademiya would never leave any debt unpaid, and I can only imagine the funds he's allocated for investigations... Oh, maybe I should charge him more!
+[Missing Dialog 130090448]
+
 Paimon: #Traveler, we'd better get going. If Dori keeps at it, we'll be out of Mora!
+
+Dori: I'm sure the General Mahamatra of the Akademiya would never leave any debt unpaid, and I can only imagine the funds he's allocated for investigations... Oh, maybe I should charge him more!

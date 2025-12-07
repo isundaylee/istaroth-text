@@ -74,7 +74,10 @@ Quinn: Huh? Bea? Bea!
 Quinn: Weird, what's up with her...
 Quinn: Did I say something wrong? Eh... Windblume is as Windblume does, what can I say...
 Paimon: Um... what?
-Traveler: What does that even mean?
+    Option 1:
+        Traveler: What does that even mean?
+    Option 2:
+        Traveler: I'm new here, your local customs are a bit confusing for me.
 Flora: Haha, stop arguing already!
 Quinn: Maybe I should... go and apologize to her after closing... hmm...
 Quinn: ...I don't understand why she's upset, but what I do know is that I will have to apologize regardless. *sigh* That's life, I guess.
@@ -86,7 +89,6 @@ Flora: You're right, but isn't that typical of us Mondstadt folk?
 Flora: *sigh* Well, between the delicious food, exquisite drink, and fresh flowers... Traveler, I hope you get to enjoy yourself during the festival, too.
 Paimon: It sounds like such a happy festival! Even if the whole Windblume thing is still a total mystery...
 Paimon: Let's look around and see what this is all about!
-Traveler: I'm new here, your local customs are a bit confusing for me.
 
 ## Talk 6
 
@@ -102,7 +104,10 @@ Venti: Anxiously? Why, these people are deep in concentration, diligently search
 Paimon: Uh-huh... Seems a bit suspicious to Paimon...
 Venti: Hehe, so, I guess you've already found out about the Windblume Festival, then?
 Venti: How are you finding Mondstadt in such a festive mood? Do you like it?
-Traveler: It's certainly buzzing with excitement and happiness.
+    Option 1:
+        Traveler: It's certainly buzzing with excitement and happiness.
+    Option 2:
+        Traveler: Still not exactly sure how to celebrate the festival itself.
 Venti: Paimon, what about you?
 Paimon: ...Paimon could be persuaded with some delicious food-related bribery!
 Venti: Ah, I think you'll come around then. Speaking of which, I'll bet you two don't have a lot on your plate right now.
@@ -130,11 +135,14 @@ Venti: Now listen up, if you see me make this gesture... it means I think they s
 Venti: But if you see me make this gesture... it means I think they should play it safe and avoid being hasty.
 Venti: And if I make this gesture... it means I think they should give up while they're ahead and avoid any emotional over-investment.
 Venti: You got that, Traveler?
-Traveler: Can you repeat it once more?
-Venti: Okay... make sure you pay attention this time.
+    Option 1:
+        Traveler: Can you repeat it once more?
+        Venti: Okay... make sure you pay attention this time.
+        Venti: Now listen up, if you see me make this gesture... it means I think they should forge ahead and seize the opportunity.
+        [Circling back to a pre-branch dialog]
+    Option 2:
 Traveler: Got it.
 Venti: That's decided then!
-Traveler: Still not exactly sure how to celebrate the festival itself.
 
 ## Talk 8
 
@@ -157,19 +165,22 @@ Marvin: I wanna tell him that, even though Marla doesn't come from a wealthy fam
 Marvin: ...Does that sound too childish? I... I hope he doesn't yell at me... Uhh...
 Paimon: Awwww... there-there...
 Venti: ...
-Traveler: I think you should tell him. Be brave and seize the opportunity.
-Paimon: Yeah! Tell him what's in your heart. Use the love between you and Marla to move him. Shouldn't it be something to celebrate?
+    Option 1:
+        Traveler: I think you should tell him. Be brave and seize the opportunity.
+        Paimon: Yeah! Tell him what's in your heart. Use the love between you and Marla to move him. Shouldn't it be something to celebrate?
+    Option 2:
+        Traveler: I think you should take some more time to consider things.
+        Paimon: Yeah, if your father is set in his ways, approaching this head-on might not be the best thing to do...
+        Paimon: Not to mention, the Windblume Festival is too formal an occasion. Why not be a bit more spontaneous about it?
+    Option 3:
+        Traveler: I think that's a bad idea. Best not to tell him.
+        Paimon: Uhh, Paimon thinks so too, you don't wanna get shouted at. Don't make any rash moves!
 Marvin: I see... understood. Thank you.
 Paimon: Another thing, didn't you say you were going to give flowers to your father? What about Marla? Don't you wanna give her something?
 Marvin: Oh! Ah, now that you mention it, I wanted the bard to teach me how to compose a love poem...
 Traveler: Yes, better not neglect her.
 Marvin: Of course, and I'll give her some flowers too... Yeah, I—I'll pick some later.
 Marvin: Thank you for your help!
-Traveler: I think you should take some more time to consider things.
-Paimon: Yeah, if your father is set in his ways, approaching this head-on might not be the best thing to do...
-Paimon: Not to mention, the Windblume Festival is too formal an occasion. Why not be a bit more spontaneous about it?
-Traveler: I think that's a bad idea. Best not to tell him.
-Paimon: Uhh, Paimon thinks so too, you don't wanna get shouted at. Don't make any rash moves!
 
 ## Talk 9
 
@@ -187,19 +198,22 @@ Ellin: Knowing Master Jean's conscientious nature, I'm afraid she'll send a gift
 Ellin: She's so busy, I wouldn't want my gift to create more work for her. If I can get this bouquet on her desk, that's enough for me.
 Ellin: But then... won't an untraceable bouquet create suspicion? Oh! What should I do?
 Venti: ...
-Traveler: I agree, you should avoid signing it.
-Paimon: Jean's definitely the kind of woman who'd come looking for you if she saw your name! If you really wanna spare her the effort, best leave it unsigned.
-Ellin: Right! Glad you agree! It's not without its risks, but her extreme conscientiousness is what I like about her. So for me, raising a bit of suspicion is a risk worth taking...
+    Option 1:
+        Traveler: I agree, you should avoid signing it.
+        Paimon: Jean's definitely the kind of woman who'd come looking for you if she saw your name! If you really wanna spare her the effort, best leave it unsigned.
+        Ellin: Right! Glad you agree! It's not without its risks, but her extreme conscientiousness is what I like about her. So for me, raising a bit of suspicion is a risk worth taking...
+    Option 2:
+        Traveler: I think you should ponder the matter a while longer.
+        Paimon: No rush, mull it over!
+        Paimon: In any case, it's totally up to you. Is it more important to you for her to remember the person who sent her the flowers, or for her to simply feel respected and loved?
+        Ellin: Huh... I never thought about it that way... Hmm... The important thing is... how I feel.
+    Option 3:
+        Traveler: I disagree, you should definitely sign your name.
+        Paimon: For sure! A random anonymous gift will definitely get thrown away!
+        Ellin: R—Really? You sound so sure! Well, I guess I better include my name...
 Ellin: That's that taken care of, then. A thousand thanks for your advice, I'll remember it!
 Paimon: You're welcome, chin up!
 Ellin: Will do!
-Traveler: I think you should ponder the matter a while longer.
-Paimon: No rush, mull it over!
-Paimon: In any case, it's totally up to you. Is it more important to you for her to remember the person who sent her the flowers, or for her to simply feel respected and loved?
-Ellin: Huh... I never thought about it that way... Hmm... The important thing is... how I feel.
-Traveler: I disagree, you should definitely sign your name.
-Paimon: For sure! A random anonymous gift will definitely get thrown away!
-Ellin: R—Really? You sound so sure! Well, I guess I better include my name...
 
 ## Talk 10
 
@@ -219,24 +233,27 @@ Traveler: That sounds like it might just cause her some disturbance.
 Albert: But it's all in good faith, don't you see?! When Barbara-sama catches sight of it, she'll feel the burning flames of our everlasting love!
 Albert: So, what do you think?
 Venti: ...
-Traveler: You know what? Go for it.
-Paimon: Something that size is bound to be... impressive. She'll love it!
-Albert: Right?! I knew it was a great idea, haha.
+    Option 1:
+        Traveler: You know what? Go for it.
+        Paimon: Something that size is bound to be... impressive. She'll love it!
+        Albert: Right?! I knew it was a great idea, haha.
+    Option 2:
+        Traveler: Give this one some more thought, perhaps.
+        Paimon: A two-story gift? More like a gift out of a horror story!
+        Albert: Huh... You think so...?
+        Albert: But, how else will she know of our existence?
+        Paimon: Gee, how WILL she know...
+        Albert: Umm... well... now that you mention it, um...
+    Option 3:
+        Traveler: Are you serious? You need to put a stop to all this immediately!
+        Paimon: A level-headed adult? Huh... more like a dunderheaded infant!
+        Albert: Huh? But — gifts have to make a lasting impression!
+        Paimon: Oh, it'll create a lasting impression alright! The Knights of Favonius will have you escorted away.
+        Albert: Really? B—But...
+        Paimon: But nothing!
+        Albert: Okay, okay! *sigh* I've got it.
 Albert: Thanks for your suggestions, both of you. I gotta go.
 Paimon: He sure left in a hurry!
-Traveler: Give this one some more thought, perhaps.
-Paimon: A two-story gift? More like a gift out of a horror story!
-Albert: Huh... You think so...?
-Albert: But, how else will she know of our existence?
-Paimon: Gee, how WILL she know...
-Albert: Umm... well... now that you mention it, um...
-Traveler: Are you serious? You need to put a stop to all this immediately!
-Paimon: A level-headed adult? Huh... more like a dunderheaded infant!
-Albert: Huh? But — gifts have to make a lasting impression!
-Paimon: Oh, it'll create a lasting impression alright! The Knights of Favonius will have you escorted away.
-Albert: Really? B—But...
-Paimon: But nothing!
-Albert: Okay, okay! *sigh* I've got it.
 
 ## Talk 11
 
@@ -323,6 +340,8 @@ Venti: The vendors in Mondstadt have arranged all sorts of festive activities. D
 *Conversations not present as sub-quests.*
 
 Paimon: Tone-Deaf Bard! We dished out some advice, just like you said! How did we do?
+[Missing Dialog 414101602]
+
 Venti: You did a great job, hehe! Thank you!
 Venti: So, who else needs some help around here...
 Kaeya (???): Hmm, what are you three up to? Mind if I get in on the action?
@@ -331,8 +350,8 @@ Kaeya: Haha, it's the greatest bard in town. And now, the greatest romantic advi
 Kaeya: Still, don't you have other business to attend to?
 Venti: Oh! You mean, teaching people how to compose love poems?
 Kaeya: Exactly that. I heard you were teaching classes in the plaza, so I came right away.
-Traveler: I thought Kaeya wouldn't need any help in that department.
 Paimon: Uh, Kaeya? You wanna learn how to compose love poems, too?
+Traveler: I thought Kaeya wouldn't need any help in that department.
 Kaeya: I'm not too shabby. Nevertheless, I'd like to register for the fast-track classes.
 Venti: How come? You're a smooth talker, do you really need my guidance?
 Kaeya: The real question is, are you willing to take me on as a student?
@@ -353,8 +372,8 @@ Venti: Still, correcting homework... this is indeed a vital step.
 Venti: And I am curious to see the fruits of my students' labor... Hm. Congratulations, Kaeya, your demands have been accepted!
 Kaeya: As I expected, a reasonable and down-to-earth teacher.
 Venti: Hoooold your horses, I have a demand for you, too!
-Traveler: A showdown between the pros.
 Paimon: Cool... a coercion contest...
+Traveler: A showdown between the pros.
 Venti: I will pay special attention to your homework and guarantee that you will see improvement in your studies! But as for your tuition fee... some Windblume Festival-exclusive Applebloom Cider should do the trick.
 Venti: Hehe, what with you and Master Diluc being on such good terms and all, that shouldn't be a problem, should it?
 Kaeya: Haha — steady now, let's not overestimate my abilities. Still, one bottle of the good stuff in exchange for your guidance... Not an opportunity to pass up.

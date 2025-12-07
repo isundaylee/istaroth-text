@@ -22,8 +22,12 @@ Diluc: But I for one am confident that the people of Mondstadt will not forget h
 
 Stanley: Tell me, Stanley... Tell me what should I do...?
 Paimon: Huh? Why does he keep repeating his own name?
-Traveler: He's hiding something.
-Paimon: Could there be another person called Stanley?
+    Option 1:
+        Traveler: He's hiding something.
+        Paimon: Could there be another person called Stanley?
+    Option 2:
+        Traveler: There's another Stanley.
+        Venti: Surely not. Even I've never heard tell of a second Stanley.
 Stanley: *sobs* Oh, Stanley...
 Stanley: It should have been me! I should have been the one to die in the Mare Jivari that day... Why won't your spirit come and stop me from using your name? Why, Stanley, why?
 Stanley: If only you hadn't had to save a rookie like me, you would have never died in that windless corner of the world...
@@ -41,8 +45,6 @@ Stanley: I'm sorry, Stanley... I'm getting too old... now...
 Stanley: *sigh* ...
 Stanley: Are you guys planning on eavesdropping much longer?
 Paimon: Yikes! We're busted!
-Traveler: There's another Stanley.
-Venti: Surely not. Even I've never heard tell of a second Stanley.
 
 ## Talk 5
 
@@ -65,14 +67,13 @@ Stanley: Oh, I see... Well, thank you for not telling him about my secret.
 Venti: Eh? All of a sudden you're facing the facts? That isn't like you...
 Stanley: Just now... I couldn't bear to look at him. His adventurer's spirit is so pure... unblemished...
 Stanley: I'm just a weary old feckless fraud, but that kid is a brand-new shining star, full of potential... I cannot allow his dreams to be crushed.
-Paimon: You're not a total fraud... Stanley's adventure stories and experiences — they're all true, aren't they?
 Stanley: Stories... Experiences... What's the point of them anymore?
-Stanley: To be honest, my memories of adventuring, and of Stanley... they're hazy these days.
 Stanley: That's my biggest secret of all. And my biggest fear.
-Stanley: All these years, I've been livin' to tell his story. But his personality, and the details of his life, I don't remember them clearly anymore. Ah-ha...
-Traveler: His whole life, he's been drowning in guilt...
-Traveler: All that remains is this imaginary friend...
 Stanley: But the one thing I can never forget... is that he died in a windless land, where his spirit can never be recovered!
+    Option 1:
+        Traveler: His whole life, he's been drowning in guilt...
+    Option 2:
+        Traveler: All that remains is this imaginary friend...
 Venti: Exactly... Even in his memory, the real Stanley isn't the living, breathing friend he knew at all.
 Venti: Instead, he's become fixed on the image of him as that battle-scarred warrior... and that image has held him captive his entire life.
 Stanley: I'm too old... I never let go, but still so much has slipped away...
@@ -87,10 +88,40 @@ Venti: This calls for a celebration! And by celebration, I do of course mean lib
 Paimon: And by libation, you mean you're not leaving this tavern till you're too drunk to walk, right?
 Venti: Haha... no. The wine here's too expensive. Jack still owes me some wine though — he promised me a rare vintage in exchange for helping him out, remember?
 Venti: I'll head off to fetch the wine. See you shortly! Let's meet at the *usual place*.
-Traveler: It's anybody's guess.
-Traveler: I think I know where... possibly.
-Traveler: Okay, see you there!
 Paimon: Huh? Where's that supposed to be? Why has Paimon never heard of it? Hey, Tone-Deaf Bard!
+    Option 1:
+        Traveler: It's anybody's guess.
+    Option 2:
+        Traveler: I think I know where... possibly.
+    Option 3:
+        Traveler: Okay, see you there!
+Paimon: Hey!
+
+Paimon: You're not a total fraud... Stanley's adventure stories and experiences — they're all true, aren't they?
+Stanley: To be honest, my memories of adventuring, and of Stanley... they're hazy these days.
+Stanley: All these years, I've been livin' to tell his story. But his personality, and the details of his life, I don't remember them clearly anymore. Ah-ha...
+Traveler: His whole life, he's been drowning in guilt...
+Venti: Exactly... Even in his memory, the real Stanley isn't the living, breathing friend he knew at all.
+Venti: Instead, he's become fixed on the image of him as that battle-scarred warrior... and that image has held him captive his entire life.
+Stanley: I'm too old... I never let go, but still so much has slipped away...
+Stanley: I'm completely and utterly worthless!
+Stanley: No adventurer should have to go that way... No adventurer ever...
+Stanley: I... I can't believe it...
+Stanley: Thank you all! And thank you, Lord Barbatos...
+Stanley: I'm sorry, it's gonna take me some time to calm back down...
+Stanley: But, I think that... I'm gonna be okay...
+Venti: Ah, wonderful! Stanley reconnected with his true self, and Jack can finally go his own way.
+Venti: This calls for a celebration! And by celebration, I do of course mean libation!
+Paimon: And by libation, you mean you're not leaving this tavern till you're too drunk to walk, right?
+Venti: Haha... no. The wine here's too expensive. Jack still owes me some wine though — he promised me a rare vintage in exchange for helping him out, remember?
+Venti: I'll head off to fetch the wine. See you shortly! Let's meet at the *usual place*.
+Paimon: Huh? Where's that supposed to be? Why has Paimon never heard of it? Hey, Tone-Deaf Bard!
+    Option 1:
+        Traveler: It's anybody's guess.
+    Option 2:
+        Traveler: I think I know where... possibly.
+    Option 3:
+        Traveler: Okay, see you there!
 Paimon: Hey!
 
 ## Talk 6
@@ -116,8 +147,12 @@ Paimon: What happened to your friend?
 Traveler: (Same situation as with Stanley's friend...)
 Venti: Say, Paimon, do you wish to hear the next part of the story?
 Paimon: Yes, of course! The suspense is killing Paimon!
-Traveler: Paimon, go pick us a couple of apples.
-Paimon: Now's the time you suddenly get a craving for apples? Really?
+    Option 1:
+        Traveler: Paimon, go pick us a couple of apples.
+        Paimon: Now's the time you suddenly get a craving for apples? Really?
+    Option 2:
+        Traveler: Paimon, could you fetch us some meat or fish?
+        Paimon: But Venti's telling his story! What makes you suddenly wanna have a meat feast!?
 Venti: Hahaha, getting a little... peckish or something...
 Traveler: Oh, so peckish.
 Paimon: Huh! Paimon's had it up to here with you!
@@ -126,8 +161,6 @@ Venti: But then, maybe it's right that true friends can tell what the other is t
 Venti: A refreshing drink, a gentle breeze... *sigh* Moments like this always take me back...
 Venti: Back to a song that I first heard from him...
 Traveler: I'm listening.
-Traveler: Paimon, could you fetch us some meat or fish?
-Paimon: But Venti's telling his story! What makes you suddenly wanna have a meat feast!?
 
 ## Talk 7
 

@@ -7,6 +7,8 @@
 
 Paimon: Over there! It looks like they're sleeping...
 Caribert (Mysterious Voice): ...In the end, he whispered softly,
+[Missing Dialog 80210603]
+
 Paimon: ...It almost sounds like a poem, or some kind of story.
 Paimon: Well, now that the Hilichurls have calmed down, Vimara Village should be safe at least.
 Paimon: Let's put this situation to the side for now. Dain said this might be our chance to find the missing villager, so we should head back to Vimara Village before it's too late.
@@ -20,7 +22,10 @@ Paimon: Well, that's good to hear.
 Paimon: Oh! Also... You didn't happen to come across any clues about the missing villager while we were gone, did you?
 Amadhiah: Huh? Someone's gone missing, you say? Who would that be?
 Paimon: Huh...?
-Traveler: You don't remember?
+    Option 1:
+        Traveler: You don't remember?
+    Option 2:
+        Traveler: Things just got even more complicated.
 Paimon: You know... The young guy from Vimara Village... The one you've been looking for all this time. You posted a commission with the Sumeru Adventurers' Guild...
 Paimon: That's kind of the whole reason we're here, actually... Your missing person's commission.
 Amadhiah: Ah, I do apologize, you two... I hope I'm not worrying you too much. I'm sure it's just my age making me forgetful again...
@@ -28,10 +33,11 @@ Amadhiah: At least right now, I can't seem to recall whatever it is you're refer
 Paimon: But, how is that... *sigh* Alright. Thanks for your help, Grandpa Amadhiah.
 Paimon: Something's definitely not right. We just talked to Grandpa Amadhiah about the missing villager. There's no way he could've forgotten all about him just like that...
 Paimon: #What do you think, Traveler? Could everyone's memories of the missing villager have been erased again?
-Traveler: It's too early to say.
+    Option 1:
+        Traveler: It's too early to say.
+    Option 2:
+        Traveler: We should check in with the others first.
 Paimon: You're right. We should narrow down the possibilities first... Let's go ask someone else, then!
-Traveler: We should check in with the others first.
-Traveler: Things just got even more complicated.
 
 ## Talk 3
 
@@ -43,9 +49,11 @@ Bahram: Oh! I know who you're talking about...
 Paimon: Really? You remember?
 Bahram: There aren't many young people who've earned that kind of praise from me. If you're certain that's what I said...
 Bahram: Then, there's only person who fits the bill — no doubt about it... But, why'd you say he's gone missing?
-Traveler: Have you seen him recently?
+    Option 1:
+        Traveler: Have you seen him recently?
+    Option 2:
+        Traveler: Do you know where he went?
 Bahram: Yeah! I just saw him leave the village. There was someone else with him too. They couldn't have gone far.
-Traveler: Do you know where he went?
 
 ## Talk 4
 
@@ -79,29 +87,31 @@ Paimon: Hey, Atossa! How's it going?
 Atossa: Oh, it's you two. I was just about to go looking for you. I wanted to thank you.
 Atossa: I was part of the search party, so I... remember what happened to Caribert now.
 Atossa: Honestly... I just... can't believe I forgot something so important...
-Traveler: Maybe he wanted you to forget him.
-Atossa: He always seemed to appear out of nowhere, and now... he left just as quickly...
-Atossa: If Caribert wants me to forget about the time we spent together, then I'm willing to try.
-Atossa: I relied on him for a lot of things. But, I'm sure with enough time, even the deepest of attachments can fade.
-Black Screen Text: "You must get along with each other, the two of you."
-Traveler: I'm sure he wouldn't want you to forget him.
-Atossa: It's funny, but... I have this feeling he told me the same thing. I just can't seem to remember when...
-Atossa: I guess it doesn't really matter, anyway. Life is made up of a series of memories. As long as I hold onto our time together... He'll always be a part of my life.
-Atossa: I'm just happy I got to meet him. So, who cares what happens in the future, right?
-Atossa: ...
-Atossa: Okay, I'll admit, I'm just putting on a brave face.
-Atossa: I was dumped... wasn't I?
-Atossa: ...Otherwise, why would he just leave like that without saying goodbye?
-Traveler: I'm sure... he had his reasons.
-Atossa: Hehe, you don't need to comfort me. I'll be okay.
-Atossa: It's just like Caribert said... It's the things we overcome that make life more precious.
-Atossa: And, y'know... If he has a heart, maybe he'll come back and see me one day.
-Atossa: Anyway, thanks for all your hard work, you two. I promised I'd help Granny Jehiet with something, so I should head back. Goodbye!
-Paimon: Well... That should be it, right? Everyone's lives can go back to normal now...
-Paimon: Oh, right! Weren't you about to tell Paimon what happened after your conversation with Caribert?
-Traveler: (Right... What was it that happened...? I can't remember...)
-Traveler: (Huh? It feels like there's something in my pocket...)
-Paimon: Uh. A picture? Where'd that come from? Let Paimon see...
+    Option 1:
+        Traveler: Maybe he wanted you to forget him.
+        Atossa: He always seemed to appear out of nowhere, and now... he left just as quickly...
+        Atossa: If Caribert wants me to forget about the time we spent together, then I'm willing to try.
+        Atossa: I relied on him for a lot of things. But, I'm sure with enough time, even the deepest of attachments can fade.
+        Black Screen Text: "You must get along with each other, the two of you."
+    Option 2:
+        Traveler: I'm sure he wouldn't want you to forget him.
+        Atossa: It's funny, but... I have this feeling he told me the same thing. I just can't seem to remember when...
+        Atossa: I guess it doesn't really matter, anyway. Life is made up of a series of memories. As long as I hold onto our time together... He'll always be a part of my life.
+        Atossa: I'm just happy I got to meet him. So, who cares what happens in the future, right?
+        Atossa: ...
+        Atossa: Okay, I'll admit, I'm just putting on a brave face.
+        Atossa: I was dumped... wasn't I?
+        Atossa: ...Otherwise, why would he just leave like that without saying goodbye?
+        Traveler: I'm sure... he had his reasons.
+        Atossa: Hehe, you don't need to comfort me. I'll be okay.
+        Atossa: It's just like Caribert said... It's the things we overcome that make life more precious.
+        Atossa: And, y'know... If he has a heart, maybe he'll come back and see me one day.
+        Atossa: Anyway, thanks for all your hard work, you two. I promised I'd help Granny Jehiet with something, so I should head back. Goodbye!
+        Paimon: Well... That should be it, right? Everyone's lives can go back to normal now...
+        Paimon: Oh, right! Weren't you about to tell Paimon what happened after your conversation with Caribert?
+        Traveler: (Right... What was it that happened...? I can't remember...)
+        Traveler: (Huh? It feels like there's something in my pocket...)
+        Paimon: Uh. A picture? Where'd that come from? Let Paimon see...
 
 ## Talk 7
 
@@ -111,12 +121,18 @@ Unknown Role (TALK_ROLE_NONE): Missing text (1974234626)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Well... How about a conversation?
 Unknown Role (TALK_ROLE_MATE_AVATAR): The chance to just stop and talk like this is certainly not easy to come by... Wouldn't you agree?
-Traveler: Yeah.
+    Option 1:
+        Traveler: Yeah.
+    Option 2:
+        Traveler: I almost can't believe it's real.
 Unknown Role (TALK_ROLE_MATE_AVATAR): That battle earlier was tough...
 Unknown Role (TALK_ROLE_MATE_AVATAR): The one against Dain, I mean.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I didn't expect that after everything, he would still hesitate to raise his sword against me...
 Unknown Role (TALK_ROLE_MATE_AVATAR): Were it not for that... Perhaps I'd still be no match for the Twilight Sword. Even after five hundred years.
-Traveler: What exactly are you planning?
+    Option 1:
+        Traveler: What exactly are you planning?
+    Option 2:
+        Traveler: What are you going to do with the Loom of Fate?
 Unknown Role (TALK_ROLE_MATE_AVATAR): The Loom of Fate, huh... I still haven't found a way to utilize it to its full potential, but there's still time...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...Before the Heavenly Principles "awaken."
 Traveler: The Heavenly Principles are still asleep?
@@ -157,8 +173,6 @@ Traveler (#Aether): You're only telling me this now...
 Traveler (#Aether): ...!
 Traveler (#Aether): ...!!!
 Unknown Role (TALK_ROLE_MATE_AVATAR): "..."
-Traveler: What are you going to do with the Loom of Fate?
-Traveler: I almost can't believe it's real.
 
 ## Talk 9
 
@@ -177,18 +191,26 @@ Amadhiah: A missing villager... Did I really forget something so important? As t
 
 Paimon: Looks like the same thing is happening over here too. The Hilichurls are calm...
 Caribert (Mysterious Voice): ...You see? We're both still here.
+[Missing Dialog 80210303]
+
 Traveler: (It's that voice again...)
 
 ## Talk 13
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Well... How about a conversation?
 Unknown Role (TALK_ROLE_MATE_AVATAR): The chance to just stop and talk like this is certainly not easy to come by... Wouldn't you agree?
-Traveler: Yeah.
+    Option 1:
+        Traveler: Yeah.
+    Option 2:
+        Traveler: I almost can't believe it's real.
 Unknown Role (TALK_ROLE_MATE_AVATAR): That battle earlier was tough...
 Unknown Role (TALK_ROLE_MATE_AVATAR): The one against Dain, I mean.
 Unknown Role (TALK_ROLE_MATE_AVATAR): I didn't expect that after everything, he would still hesitate to raise his sword against me...
 Unknown Role (TALK_ROLE_MATE_AVATAR): Were it not for that... Perhaps I'd still be no match for the Twilight Sword. Even after five hundred years.
-Traveler: What exactly are you planning?
+    Option 1:
+        Traveler: What exactly are you planning?
+    Option 2:
+        Traveler: What are you going to do with the Loom of Fate?
 Unknown Role (TALK_ROLE_MATE_AVATAR): The Loom of Fate, huh... I still haven't found a way to utilize it to its full potential, but there's still time...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...Before the Heavenly Principles "awaken."
 Traveler: The Heavenly Principles are still asleep?
@@ -229,8 +251,6 @@ Traveler (#Aether): You're only telling me this now...
 Traveler (#Aether): ...!
 Traveler (#Aether): ...!!!
 Unknown Role (TALK_ROLE_MATE_AVATAR): "..."
-Traveler: What are you going to do with the Loom of Fate?
-Traveler: I almost can't believe it's real.
 
 ## Talk 14
 
@@ -238,15 +258,24 @@ Paimon: *yawn*... So sleepy. Paimon's head still feels all fuzzy...
 Paimon: Paimon woke up a little earlier than you, so Paimon will fill you in. The villagers said they saw us sleeping near the village yesterday. They couldn't wake us up no matter how hard they tried, so they decided to just bring us back here.
 Paimon: Oh, and Dain came by just now. It looked like he was injured...
 Paimon: He didn't say anything, though. Just made sure that you were alright and left... Kinda seemed like he had a lot on his mind... But, that's Dain for you...
-Traveler: He never changes, does he?
+    Option 1:
+        Traveler: He never changes, does he?
+    Option 2:
+        Traveler: I'm having trouble thinking straight right now...
 Paimon: Hmm, let's think for a second. We were in that memory, and we saw that guy you called Caribert...
 Paimon: He was the missing villager we'd been trying to find, right? And after that... Paimon doesn't remember what happened...
-Traveler: Caribert and I talked for a while...
+    Option 1:
+        Traveler: Caribert and I talked for a while...
+    Option 2:
+        Traveler: He told me about the Loom of Fate.
 Paimon: Wait, really? What a score!
 Traveler: (I guess our commission is complete, then. The missing villager, the person who only existed in people's memories, was Caribert all along...)
 Traveler: (But, now that he's gone, I'm not sure how to explain things to the villagers...)
 Paimon: Well... What happened after that?
-Traveler: After that...
+    Option 1:
+        Traveler: After that...
+    Option 2:
+        Traveler: Huh, I can't seem to remember...
 Traveler: (Maybe I'm just tired? I feel like something else happened, but why can't I remember...?)
 Traveler: (I'm not sure why... But, it almost feels like I lost something...)
 Bahram: Ah, there you are! Haha, sleep well?
@@ -259,17 +288,18 @@ Bahram: There he was, sleeping under that tree all by himself. His parents came 
 Bahram: And, after that, well... We all started to feel like that really is what happened... Kinda strange that we forgot all about it for so long...
 Traveler: (So, that's how Caribert said his goodbyes... That was the last memory he gave them.)
 Bahram: Oh, and we also remembered his name — Caribert. Now, that's not a name you hear everyday. Would've been helpful if we remembered it sooner.
-Traveler: That is a unique name.
+    Option 1:
+        Traveler: That is a unique name.
+    Option 2:
+        Traveler: Make sure you remember it this time.
 Bahram: Well, I hope he's happy wherever he is. And we're all relieved now that we know what happened.
 Paimon: Seems like everyone thinks Caribert left the village. That's probably for the best... At least they have some sort of explanation now.
-Traveler: Caribert is gone. The Loom of Fate is now complete...
+    Option 1:
+        Traveler: Caribert is gone. The Loom of Fate is now complete...
+    Option 2:
+        Traveler: And no one else will try to change the villagers' memories.
 Paimon: Hmm, Paimon wonders how Atossa's doing. Maybe we should go check on her? If she hasn't "remembered" like everyone else, we can tell her what happened.
 Paimon: Paimon didn't see her in the village just now, so... She's probably at the tree! C'mon, let's go talk to her!
-Traveler: And no one else will try to change the villagers' memories.
-Traveler: Make sure you remember it this time.
-Traveler: Huh, I can't seem to remember...
-Traveler: He told me about the Loom of Fate.
-Traveler: I'm having trouble thinking straight right now...
 
 ## Talk 15
 
@@ -284,7 +314,10 @@ Traveler: I'm having trouble thinking straight right now...
 Paimon: Right! Paimon totally forgot about the Ley Line disturbances. We're in someone else's memory...
 Paimon: Just like how you entered your sibling's memory last time!
 Paimon: That would also explain why we seem to be at a time before he went missing... It's a memory, after all.
-Traveler: If we really are in someone's memory...
+    Option 1:
+        Traveler: If we really are in someone's memory...
+    Option 2:
+        Traveler: Then this is our chance to find him.
 Paimon: Right! If he's someone who only exists in people's memories, then we're finally on the same turf!
 Paimon: But, didn't Bahram just say he saw him leave the village with someone? Where should we go look for him...
 Paimon: Who knows how long this Ley Line disturbance is gonna last... We might not have that much time. And we don't even know whose memory this is...
@@ -295,7 +328,6 @@ Traveler: Implant memories into the minds of others.
 Paimon: Right, that! Could we try to figure out a bit more about him using what we know of his ability?
 Paimon: Like, does it maybe leave a trace that would somehow give him away?
 Traveler: (Hmm... Implanting memories into the minds of others must be an imperfect process. There's no way the new memories could perfectly blend in with the old ones. There has to be some kind of tell...)
-Traveler: Then this is our chance to find him.
 
 ## Additional Conversations
 
@@ -318,9 +350,11 @@ Paimon: Oh, right! That's exactly what Atossa described!
 Atossa: Come to think of it, every time we talked, it always seemed to be around dusk, just like right now.
 Atossa: Time always passed by really slowly. Even when it felt like we'd been talking for hours, the sun would still be at the same position in the sky...
 Paimon: Yep, that has to be it! This is definitely Atossa's memory!
-Traveler: Let's go.
+    Option 1:
+        Traveler: Let's go.
+    Option 2:
+        Traveler: To the tree.
 Paimon: Yeah! That's where they'll be!
-Traveler: To the tree.
 
 ### Additional Talk 3
 
@@ -338,7 +372,10 @@ Caribert: I suppose you could call it the realm of my consciousness. I'm someone
 Traveler: You look quite exhausted.
 Caribert: Ah, it's nothing. I still have enough strength to play the part of a good host. I've always hoped that I'd get the chance to talk to you like this, and now, the time has finally arrived.
 Traveler: (This is a rare opportunity for me as well. I should try to learn as much information from Caribert as I can.)
-Traveler: What exactly happened to you?
+    Option 1:
+        Traveler: What exactly happened to you?
+    Option 2:
+        Traveler: What exactly is the Loom of Fate?
 Caribert: Extreme sorrow and pain... Hope and regret coursing through your veins... and a degree of Abyssal power that defies comprehension...
 Caribert: Father told me that once I possessed all those elements, I would become the Loom of Fate.
 Caribert: But, despite his intentions for me, I never truly became the Loom of Fate. I was merely used as a means for its "construction"...
@@ -355,7 +392,10 @@ Caribert: Yes. I have the ability to control the Loom in its semi-completed form
 Caribert: ...After all, its existence cost me my life.
 Traveler: (So the memories that suddenly appeared in Dain's mind were implanted by Caribert through the half-finished Loom of Fate...)
 Traveler: (That makes sense... But, I'm still lost as to why he went so far as to "introduce" himself to all the residents of Vimara Village...)
-Traveler: But why did you implant memories of yourself...
+    Option 1:
+        Traveler: But why did you implant memories of yourself...
+    Option 2:
+        Traveler: Into the people of Vimara Village?
 Caribert: Ah, that... I was wrong to implant those memories. I'm sorry I caused so much trouble, not only for everyone in the village, but for you as well.
 Caribert: I just... wanted them to feel like I once existed in this world...
 Caribert: As if... I had a chance at life.
@@ -377,15 +417,24 @@ Traveler: ...
 Caribert: Any chance at living was stripped away from me when I was eight years old, my consciousness left to mature in an illusory world of nothingness.
 Caribert: Even the form you see before you is nothing but an invention based on my father's appearance — an imagined version of what I would look like if I had had the chance to grow up.
 Traveler: (...In the end, this all stems from the tragedy that occurred in Khaenri'ah back then...)
-Traveler: You know...
+    Option 1:
+        Traveler: You know...
+    Option 2:
+        Traveler: Everyone is looking for you.
 Caribert: I know... But, there's nothing I can do to make them find me.
 Caribert: If I could exist in the real world, I would return without a second thought and surprise them with the suddenness of it all. But, well... That's not possible for me.
 Traveler: As I understand it...
-Traveler: Even though you only appeared in their memories...
+    Option 1:
+        Traveler: Even though you only appeared in their memories...
+    Option 2:
+        Traveler: Your existence was a great comfort to them.
 Caribert: ...
 Traveler: They all believe you once lived among them.
 Caribert: I know.
-Traveler: Well, now that I've found you, let's continue this conversation some other time.
+    Option 1:
+        Traveler: Well, now that I've found you, let's continue this conversation some other time.
+    Option 2:
+        Traveler: Dain might still need my help...
 Caribert: Captain Dainsleif, Twilight Sword, you mean? Ah, no need to meet up with him. Things should already be settled on his end.
 Traveler: Settled?
 Caribert: Exactly. As someone who could only exist in people's memories, the fact that I'm able to talk to you in my consciousness like this can only mean one thing...
@@ -397,7 +446,10 @@ Caribert: Captain Dainsleif has had the eye inside his body this whole time, has
 Caribert: #His plan was to lure the Abyss Order to a false location, capitalizing on their pursuit of the eye in order to have the chance to confront the princess...
 Caribert: He would then hand the eye to you, and tell you to take it away from that location.
 Caribert: That way, Captain Dainsleif could accomplish his own goal and ensure the safety of the eye all at once — a very thorough plan.
-Traveler: But...
+    Option 1:
+        Traveler: But...
+    Option 2:
+        Traveler: Dain never handed me the eye.
 Caribert: That's right. Because, in his mind... he had given it to you already.
 Traveler: (Wait, does that mean he gave Dain a... false memory!?)
 Traveler: You made him think that! When?
@@ -411,7 +463,10 @@ Caribert: That was when I implanted the memory of him handing you the eye.
 Caribert: Given the tense situation at that time, Captain Dainsleif failed to notice anything out of the ordinary and took that memory to be real.
 Caribert: #...I'm sorry, Traveler, but I needed the Loom of Fate to be completed, and to do that, we had to retrieve the eye.
 Traveler: (So, Dain had the eye this whole time... until the Abyss Order took it away. I'm not sure there's anything we could have done.)
-Traveler: Now that the Loom of Fate is complete...
+    Option 1:
+        Traveler: Now that the Loom of Fate is complete...
+    Option 2:
+        Traveler: What are you planning on doing with it?
 Caribert: #I promise I'm not trying to conceal anything from you... But, I truly have no idea what the princess is planning.
 Caribert: Teyvat's Ley Line system is deeply entrenched in the planet. Creating new Ley Lines can neither "replace" nor "extend" the ones that already exist...
 Caribert: In the face of everything they could be planning, I fear I'm too insignificant to even get a glimpse of the bigger picture.
@@ -428,14 +483,9 @@ Traveler: (So the thing that caused the Hilichurls to calm down back then was Ca
 Traveler: (So that was his goal... That was the only thing he wanted.)
 Traveler: (He had a device as powerful as the Loom of Fate at his disposal, and all he wanted to do with it was to offer the Hilichurls a moment of comfort and peace...)
 Caribert: I can't change the world, not when I lost the very right to exist within it. Implanting those memories... that was the most worthwhile thing I could offer.
-Traveler: Perhaps.
+    Option 1:
+        Traveler: Perhaps.
+    Option 2:
+        Traveler: I think... It was very meaningful indeed.
 Caribert: All that's left of my existence is a wisp of residual consciousness tied to the Loom of Fate. In truth, that trace of my consciousness should have dissipated long ago... My goal was the one thing that allowed me to hold on all this time.
 Caribert: But now, the bedtime story... is finished, and it's finally time to rest.
-Traveler: I think... It was very meaningful indeed.
-Traveler: What are you planning on doing with it?
-Traveler: Dain never handed me the eye.
-Traveler: Dain might still need my help...
-Traveler: Your existence was a great comfort to them.
-Traveler: Everyone is looking for you.
-Traveler: Into the people of Vimara Village?
-Traveler: What exactly is the Loom of Fate?

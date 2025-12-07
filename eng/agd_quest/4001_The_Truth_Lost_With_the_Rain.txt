@@ -16,11 +16,15 @@ Paimon: Ah, you're right! Florent mentioned that Callas probably only ended up w
 Navia: According to Jacques' family members, he already told them that he had been discovered and that he had no choice before he left home that day.
 Navia: Hmm, if I had to guess, he probably received an order from the Sinthe boss to kill my father. Had he refused, he and his family's lives would have been forfeit.
 Paimon: So, Jacques fired the first shot?
-Traveler: If I was Jacques...
-Traveler: I wouldn't have fired a shot at all.
+    Option 1:
+        Traveler: If I was Jacques...
+    Option 2:
+        Traveler: I wouldn't have fired a shot at all.
 Navia: Oh? And why is that?
-Traveler: Could he guarantee his safety after killing Callas?
-Traveler: Could he guarantee his family's safety after killing Callas?
+    Option 1:
+        Traveler: Could he guarantee his safety after killing Callas?
+    Option 2:
+        Traveler: Could he guarantee his family's safety after killing Callas?
 Paimon: Ooh, that's a good point! Jacques probably already knew that he was just being used as a tool for murder. And once he had completed his mission, he'd be of no more use to his boss...
 Navia: So, what would make more sense from his perspective would be to turn his back on the order, and seek protection from my father.
 Traveler: Seems the third person was the one who derailed everything.
@@ -30,22 +34,26 @@ Navia: It's obvious that our enemy has become more antsy after the secret of the
 Paimon: Do you think he knew, even then, that we'd follow this lead to the end?
 Navia: Given everything that's happened since... it's quite possible.
 Navia: But who among the three suspects would have the ability to control privately owned Gardemeks?
-Traveler: Florent.
-Traveler: Thierry.
-Traveler: Marcel.
-Navia: Florent? It is true that he was closest to my father, and thus had the best chance of learning about his dealings with Jacques...
-Navia: But as Spina di Rosula's adviser, his work mostly deals with personnel and security, so he shouldn't have much means when it comes to finances.
-Paimon: So you're saying he's too broke to afford a meka army?
-Navia: Exactly, he can't. And even if he could, I don't think he would be able to dispatch a whole group so quickly.
+    Option 1:
+        Traveler: Florent.
+        Navia: Florent? It is true that he was closest to my father, and thus had the best chance of learning about his dealings with Jacques...
+        Navia: But as Spina di Rosula's adviser, his work mostly deals with personnel and security, so he shouldn't have much means when it comes to finances.
+        Paimon: So you're saying he's too broke to afford a meka army?
+        Navia: Exactly, he can't. And even if he could, I don't think he would be able to dispatch a whole group so quickly.
+    Option 2:
+        Traveler: Thierry.
+        Navia: Thierry, you say? Hmm, it is possible that he's figured out a way to convert the Gardemeks for personal use...
+        Navia: But I didn't feel like he was lying when he was talking to us about the meka. I also don't think he'd be able to keep that kind of tampering under wraps.
+        Paimon: Yeah, had he actually tampered with the meka, we'd be able to prove it with a simple check of the Gardes' inventory.
+        Paimon: If the meka were taken from the Gardes, it should be pretty easy to find out when and how that happened.
+    Option 3:
+        Traveler: Marcel.
+        Navia: Uncle Marcel? Hmm, my father did really trust him, and they worked together on a large number of projects. Maybe that's how he got to know Jacques.
+        Navia: And with funds from the Confrerie, he could also afford a large number of Gardemeks...
+        Navia: It's still really hard for me to imagine, though. After all, Uncle Marcel has been around since I was just a child...
+        Navia: Also, wouldn't this mean he has been spending a whole lot of Mora and energy to fight his own Sinthe business?
 Traveler: Maybe it was someone else...
-Navia: Thierry, you say? Hmm, it is possible that he's figured out a way to convert the Gardemeks for personal use...
-Navia: But I didn't feel like he was lying when he was talking to us about the meka. I also don't think he'd be able to keep that kind of tampering under wraps.
-Paimon: Yeah, had he actually tampered with the meka, we'd be able to prove it with a simple check of the Gardes' inventory.
-Paimon: If the meka were taken from the Gardes, it should be pretty easy to find out when and how that happened.
-Navia: Uncle Marcel? Hmm, my father did really trust him, and they worked together on a large number of projects. Maybe that's how he got to know Jacques.
-Navia: And with funds from the Confrerie, he could also afford a large number of Gardemeks...
-Navia: It's still really hard for me to imagine, though. After all, Uncle Marcel has been around since I was just a child...
-Navia: Also, wouldn't this mean he has been spending a whole lot of Mora and energy to fight his own Sinthe business?
+
 Navia: Ugh, who could it be...?
 Traveler: I think...
 
@@ -87,7 +95,10 @@ Navia: Looking back on it, though, I now believe the most important clue was som
 Traveler: So they could have belonged to someone who got dissolved?
 Navia: Precisely. It's all thanks to you that I made the connection now. Back then, we all just thought they were some costumes that Jacques used to disguise himself at the banquet.
 Navia: But considering it now, it's almost certain that they belonged to a third person at the scene. With one extra person, we'll also need to reconsider why the two shots were fired.
-Traveler: Maybe your father got into an argument with Jacques...?
+    Option 1:
+        Traveler: Maybe your father got into an argument with Jacques...?
+    Option 2:
+        Traveler: But it's also possible that the third person was to blame.
 Navia: You're right, we still don't know what happened, but my intuition tells me that we're on the right track to figuring it all out. I'm finally headed towards the truth...
 Melus: Jacques was an empathetic man who was infinitely remorseful for his past actions. It's unlikely that he turned on Boss with zero warning.
 Melus: I think this "third person" is probably the key to the full truth.
@@ -108,7 +119,6 @@ Navia: So you do know something else, Melus.
 Melus: Yes, I do. In fact, even before that banquet, Boss already knew of the connection between Sinthe and the serial disappearances case.
 Melus: But what drove all the tensions to the boiling point was the revelation that you, Demoiselle, had been selected as the next target to "disappear."
 Navia: What...
-Traveler: But it's also possible that the third person was to blame.
 
 ## Talk 5
 
@@ -176,7 +186,10 @@ Coralie: He tried to be as careful as he could, but even so, he was still found 
 Navia: They found out about his betrayal?
 Adele: Papa didn't say that exactly, but Papa did tell me that I should never be ungrateful.
 Coralie: Before he left that day, he told me that he had no choice. It was only later that I realized it was his final farewell to the two of us.
-Traveler: Wait, does that mean...
+    Option 1:
+        Traveler: Wait, does that mean...
+    Option 2:
+        Traveler: Someone ordered Jacques to take out Callas?
 Coralie: I don't know that for sure, but you could say that's... the conclusion I eventually came to.
 Coralie: Which is why I'm the one who should feel guilty. Callas had always taken great care of us, both when he was still alive, and after he passed away...
 Coralie: Even if he fired the shot that killed my husband, it was likely in self-defense. It is impossible for me to hate him for what he had done.
@@ -192,7 +205,6 @@ Coralie: Thank you. I'm very grateful to hear this from you.
 Coralie: Even though your personality is quite different from your father's, your determination when you speak is really similar...
 Navia: ...You really think so?
 Navia: That's the first time anyone's said that to me.
-Traveler: Someone ordered Jacques to take out Callas?
 
 ## Talk 13
 
@@ -325,7 +337,10 @@ Navia: I understand. Well, partner, what do you think we should do? We still hav
 Paimon: Uh... Erm...
 Traveler: Let's split up.
 Navia: Hmm, split up? What do you mean?
-Traveler: You can go to Erinnyes, while I'll go investigate "that place."
+    Option 1:
+        Traveler: You can go to Erinnyes, while I'll go investigate "that place."
+    Option 2:
+        Traveler: I'm confident in my combat abilities.
 Navia: Hahaha, just as expected of my partner!
 Navia: Since this is a trial about the serial disappearances case, the culprit's attention will be focused on Erinnyes, leaving his home base wide open...
 Navia: You're right, this is our best opportunity. Alright then, let's do this. I'll stall them at the opera house and charge Marcel as the true culprit.
@@ -339,7 +354,6 @@ Melus: We heard that you'll be leaving Poisson and figured that you might requir
 Melus: It's our hope that your confidence will be bolstered with the two of us by your side.
 Navia: #Hahaha, thank you so much. Then, let's make haste for Erinnyes! Paimon, Traveler, I'll see you at the opera house!
 Paimon: See you then!
-Traveler: I'm confident in my combat abilities.
 
 ## Additional Conversations
 

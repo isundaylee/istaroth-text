@@ -39,6 +39,7 @@ Little Dragon: Yeah, I guess I do feel that way sometimes...
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh? Looks like there's another path over here.
 "M" (Narrator): The secrets he sought led the stray to discover another path forward, though it was overgrown with bristling thorns.
+[Missing Dialog 160039918]
 
 ## Talk 9
 
@@ -67,7 +68,10 @@ Durin: What makes you think that?
 "M" (Narrator): Once upon a time, the stray tore apart his own story and was forgotten by the world beyond the castle.
 "M" (Narrator): He believed the story had cursed him, and that his misfortune had rubbed off upon the little dragon.
 Durin: The story's curse...
-Traveler: (So he thought, the fact that he was forgotten...)
+    Option 1:
+        Traveler: (So he thought, the fact that he was forgotten...)
+    Option 2:
+        Traveler: (Affected Durin too...)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It was just a suspicion before, but now I think it's something we have to try.
 Paimon: Wait, what do you mean? Try what?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: One of the story's branches is a path I can't take. If you follow it out of here, I won't be part of your story anymore.
@@ -77,7 +81,6 @@ Traveler: Not this again...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He's not like me. He deserves for the world to remember him.
 Traveler: What do you think, Durin?
 Durin: Well... maybe Hat Guy has his reasons for thinking that way, but that's not the kind of decision I can make so easily.
-Traveler: (Affected Durin too...)
 
 ## Talk 11
 
@@ -90,7 +93,10 @@ Durin: When I first left Simulanka, I encountered all sorts of difficulties.
 Durin: And it was mainly because, just like the other characters in the storybook world, I only knew how to handle things the way the story said to.
 Durin: But actually, the real world is full of endless possibilities. And if I'd thought about it differently, I'd have realized none of those "difficulties" existed in the first place.
 Durin: What I'm trying to say is, who says we can't make paper boats fly, even in the world beyond the story? We just have to find a way.
-Traveler: Let's give it a shot.
+    Option 1:
+        Traveler: Let's give it a shot.
+    Option 2:
+        Traveler: Anything is possible.
 Little Dragon: Okay! Let's do it!
 "M" (Narrator): Finally, the little dragon and his friends decided to climb aboard the paper boat...
 "M" (Narrator): ...And to their wonder, it really did take flight.
@@ -99,7 +105,6 @@ Little Dragon: Whoa! So it really can fly, after all!
 Paimon: Wow, we should've just tried that earlier...
 Durin: C'mon, it's time to leave this place.
 "M" (Narrator): Carried by the wind, the boat took flight, bound for the place foretold by the prophecy.
-Traveler: Anything is possible.
 
 ## Talk 12
 
@@ -120,7 +125,10 @@ Traveler: Anything is possible.
 ## Talk 16
 
 Paimon: Hold on... That looks familiar!
-Traveler: Wait, isn't that...
+    Option 1:
+        Traveler: Wait, isn't that...
+    Option 2:
+        Traveler: The Durin?
 Durin: Yep, that's The Durin alright.
 Paimon: But, what's it doing here?
 "M" (Narrator): Beside the story's branches, there appeared... an origami boat from another tale.
@@ -132,7 +140,6 @@ Durin: Whenever I'm lost in Teyvat, I can't help thinking about it. Imagine how 
 "M" (Narrator): So did the little dragon become enraptured by this fantasy — and fantasy it was, for in the world beyond the castle, no paper boat had ever flown before.
 Little Dragon: Oh, yeah... How could a paper boat even fly...
 Paimon: Ugh... Way to kill the mood, narrator.
-Traveler: The Durin?
 
 ## Talk 17
 
@@ -177,8 +184,11 @@ Paimon: Oh no, but Durin... Ugh, way to go, Hat Guy!
 
 Paimon: So, that was the "secret"...?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh...
-Traveler: I see...
-Paimon: But, but... What does that mean?
+    Option 1:
+        Traveler: I see...
+        Paimon: But, but... What does that mean?
+    Option 2:
+        Traveler: I'm confused...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You still don't get it? Simulanka Durin and Teyvat Durin share a special kind of connection: their fates are mirror images of one another.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: While they were in two separate worlds, there may have been some mutual influence, but their fates were independent.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: But when Simulanka Durin came to Teyvat, a version of his fate already existed there. So, how can two fates exist at the same time?
@@ -203,18 +213,21 @@ Durin: Well, yeah... but it's not that. I just feel like... you want to help, bu
 Durin: Why would you think that?
 Traveler: (He once made the whole world forget him, so he was worried Durin might be affected by what he did...)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It doesn't matter now. Judging from the answer this book has given us, I was probably overthinking it.
-Traveler: Make that "definitely."
+    Option 1:
+        Traveler: Make that "definitely."
+    Option 2:
+        Traveler: Anyway, we're in this together now.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Just as well. With the Ley Lines rejecting him like this, the people who still remember him are his only remaining connection to this place.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If that last fragile tie was broken, who can say what devastation his unbound body might unleash?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: And to think I'm one of the people keeping you here, instrumental in helping change your fate... Huh, can't say I saw it coming.
 Durin: Well, if it's good enough for Hat Guy, it's good enough for me... After all, he is about as odd as humans get.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Excuse me?
 Durin: With some people, even if you try asking a simple question, they'll always give you a complicated answer — and the more you ask, the more complicated it gets. Truth is, Hat Guy's just that kinda guy.
-Traveler: Sometimes, for sure...
+    Option 1:
+        Traveler: Sometimes, for sure...
+    Option 2:
+        Traveler: But he isn't always like that.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Whatever. All I needed was a yes or no, so we can quit it with all the back and forth.
-Traveler: But he isn't always like that.
-Traveler: Anyway, we're in this together now.
-Traveler: I'm confused...
 
 ## Additional Conversations
 
@@ -233,10 +246,12 @@ Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is
 
 Paimon: If we go this way, we'll be returning to the castle.
 Durin: Returning to the castle...
-Traveler: There's nothing challenging for you back there.
+    Option 1:
+        Traveler: There's nothing challenging for you back there.
+    Option 2:
+        Traveler: You'll end up stuck in one place.
 Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
 Durin: ...I see.
-Traveler: You'll end up stuck in one place.
 
 ### Additional Talk 3
 

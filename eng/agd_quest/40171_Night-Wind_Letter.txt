@@ -90,7 +90,13 @@ Citlali: Haha... Hello there, you two. We were just, um... Ororon and I, we were
 Citlali: You know, acting out some scenes from a light novel, quoting the lines... I didn't actually mean what I was saying. Right, Ororon?
 Ororon: Huh? Uh... Yes, that's right.
 Ororon: #I owe you an apology too, Traveler. I asked you for help, but I forgot to watch my back, and Granny caught me... And now we're play-acting.
-Traveler: There's no need to apologize.
+    Option 1:
+        Traveler: There's no need to apologize.
+    Option 2:
+        Traveler: Just watch your back next time.
+    Option 3:
+        Traveler: Play acting, huh? Can I join in?
+        Paimon: Come on. Now's not the time for games.
 Paimon: So, what are you two up to, exactly? Did something happen to this poor guy?
 Citlali: Yeah — Leyla's his name. He got into some trouble during a clairvoyance session.
 Traveler: Clairvoyance?
@@ -111,9 +117,16 @@ Paimon: Oh! Because of your special constitution, right? But isn't that kinda ri
 Ororon: I'll be fine — Granny's just worrying too much. I'm feeling fine now, so I should be able to do it safely. Besides, it's probably our only hope of bringing Leyla back.
 Citlali: Don't kid yourself. What happens if it's not as safe as you're hoping, hmm? We both know you'll risk it all to try and rescue him anyway. Honestly, you're such an idiot sometimes.
 Paimon: Um... This is a tricky one. It's true that Ororon can be self-sacrificing to a fault, but it's also true that Citlali tends to worry too much...
-Traveler: I'm with Citlali on this. Ororon is being an idiot.
-Ororon: Call me an idiot all you want — I know I can bring his spirit back. I just need your support.
-Citlali: Hey! That's enough, you little squirt. Since when does the grandkid call the shots? Granny obviously knows how to handle this.
+    Option 1:
+        Traveler: I'm with Citlali on this. Ororon is being an idiot.
+        Ororon: Call me an idiot all you want — I know I can bring his spirit back. I just need your support.
+        Citlali: Hey! That's enough, you little squirt. Since when does the grandkid call the shots? Granny obviously knows how to handle this.
+    Option 2:
+        Traveler: I'm with Ororon. Citlali's the one being an idiot.
+        Citlali: Hey! That's Granny Itztli to you! Who do you take me for? I obviously know how to handle this.
+    Option 3:
+        Traveler: I bet you've got a plan, huh, Citlali?
+        Citlali: Hehe, you're darn right Granny Itztli's got a plan! Why else do you think I'd be here?
 Paimon: Huh? You do?
 Ororon: Wait, really? You actually know a way to save him?
 Citlali: Yes! I mean, it's a crude solution... but that's beside the point! The point being, don't interfere when Granny's already got things under control!
@@ -137,24 +150,19 @@ Ororon: But Granny, it's amazing that you can use a person as a clairvoyance med
 Citlali: Hmph, you can't flatter your way out of this one! But you're not wrong. A person without a spirit is just a physical shell — which, for our purposes, makes them an inanimate object.
 Citlali: #Traveler, just over there is my spiritloom, which will record the fragments I see during clairvoyance. Once I begin, please arrange them on a woven scroll for me.
 Citlali: Let me know when you're ready. We should get to work.
-Traveler: I'm with Ororon. Citlali's the one being an idiot.
-Citlali: Hey! That's Granny Itztli to you! Who do you take me for? I obviously know how to handle this.
-Traveler: I bet you've got a plan, huh, Citlali?
-Citlali: Hehe, you're darn right Granny Itztli's got a plan! Why else do you think I'd be here?
-Traveler: Just watch your back next time.
-Traveler: Play acting, huh? Can I join in?
-Paimon: Come on. Now's not the time for games.
 
 ## Talk 6
 
 Ororon: #Traveler, could I trouble you to keep gathering the roaming spirits over the next few days? Just make sure to use this censer — Granny already applied her spell to it.
-Traveler: About the spiritloom...
-Ororon: Oh, you liked playing with that, huh? Feel free to try it again whenever you want. There should be some other clairvoyance records you can arrange on a woven scroll. It's pretty fun.
-Ororon: Don't worry about Granny. I'm sure she only left it here so you can get some practice.
-Traveler: About the Mare Jivari...
-Ororon: The Mare Jivari? Terrible place to grow vegetables, for one thing.
-Ororon: And if you're wondering how I would know that — well, it's because Granny told me. If you want to know more, you should probably ask her when she gets back.
-Ororon: She has some scrolls on the subject in her house, but my rule is: If you can't grow vegetables there, I'm not interested. So I've never given them a second look. Truly sorry.
+    Option 1:
+        Traveler: About the spiritloom...
+        Ororon: Oh, you liked playing with that, huh? Feel free to try it again whenever you want. There should be some other clairvoyance records you can arrange on a woven scroll. It's pretty fun.
+        Ororon: Don't worry about Granny. I'm sure she only left it here so you can get some practice.
+    Option 2:
+        Traveler: About the Mare Jivari...
+        Ororon: The Mare Jivari? Terrible place to grow vegetables, for one thing.
+        Ororon: And if you're wondering how I would know that — well, it's because Granny told me. If you want to know more, you should probably ask her when she gets back.
+        Ororon: She has some scrolls on the subject in her house, but my rule is: If you can't grow vegetables there, I'm not interested. So I've never given them a second look. Truly sorry.
 
 ## Talk 7
 
@@ -163,10 +171,12 @@ Ororon: #You can do it, Traveler! Together, we'll bring Leyla back for sure.
 ## Talk 8
 
 Citlali: Are you ready? Don't worry, the spiritloom is very easy to use.
-Traveler: Alright, I'll give it a try.
-Citlali: I know this is your first time working with it, but I have a feeling you'll do great.
-Traveler: I need a little more time.
-Citlali: Sure.
+    Option 1:
+        Traveler: Alright, I'll give it a try.
+        Citlali: I know this is your first time working with it, but I have a feeling you'll do great.
+    Option 2:
+        Traveler: I need a little more time.
+        Citlali: Sure.
 
 ## Additional Conversations
 

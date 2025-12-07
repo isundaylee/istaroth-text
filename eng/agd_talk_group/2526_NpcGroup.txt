@@ -51,11 +51,15 @@ Traveler: So, about the favor you'd like to ask of us...
 Woliu: Ah, that... Well, it's really a small thing. I'd like to request that you help me place these monitoring instruments on that mountain.
 Woliu: I have just ordered these mechanical instruments from Fontaine. Once placed, they will continuously bore down through the earth until they've obtained the deep soil samples that I require.
 Woliu: With those samples, I'll be able to measure the influence the local hydrology has had on the soil quality of the nearby mountains.
-Traveler: That sounds straightforward enough.
+    Option 1:
+        Traveler: That sounds straightforward enough.
+    Option 2:
+        Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.
 Woliu: If that's... what you think. I've been meaning to hire a few adventurers for the task, but no one has accepted my commission so far, and I've heard that there are a lot of Treasure Hoarders in the area...
 Woliu: But judging from your looks, you're not at all scared of those bullies, are you?
-Traveler: Just leave them to me.
+    Option 1:
+        Traveler: Just leave them to me.
+    Option 2:
+        Traveler: If they're smart, they should be scared of me.
 Woliu: Then, I leave the placement of the instruments to you. All you need is to place them on the nearby hill.
 Woliu: I still need to stay here to adjust some more instruments. Just come back to me once you've placed the batch that I've given you.
-Traveler: If they're smart, they should be scared of me.
-Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.

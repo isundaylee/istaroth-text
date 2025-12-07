@@ -55,7 +55,10 @@ Razor: I and Uncle Brown Cat, catch boars, protect everyone.
 Paimon: Wow, Razor, this is a big step for you! Paimon remembers you used to hide away from the hunters.
 Draff: Hehe, you can say that again! Razor was the star of the show this time. He let the wolves know we'd be coming, so we were able to get through Wolvendom without anyone getting hurt.
 Razor: Helping everyone, helping lupical, makes me happy. But... much talking. Very tired now.
-Traveler: Still, it's a sign of progress.
+    Option 1:
+        Traveler: Still, it's a sign of progress.
+    Option 2:
+        Traveler: I'm happy for you.
 Paimon: Yeah! But, um... Actually, we came here today because we have some really important news...
 Black Screen Text: You tell Razor about Varka's letter...
 Razor: Oh...
@@ -64,7 +67,10 @@ Paimon: Razor... Do you mean, you don't want to know about your real parents?
 Razor: I want to know, but... don't want to know.
 Paimon: Uhh... So you do wanna know, but at the same time, you don't wanna know? Sounds complicated...
 Draff: Traveler, come and take a look at the trap I just placed. Let's give Razor some space to process things.
-Traveler: What is it?
+    Option 1:
+        Traveler: What is it?
+    Option 2:
+        Traveler: Seems like you have something to say.
 Draff: Yes, I have some thoughts about all this after seeing how Razor reacted.
 Draff: We've been hunting together a lot recently. The kid might not talk much, but still, I feel like I've come to understand him a little over the time we've spent together.
 Draff: Here's what I think... He definitely wants to find out about his parents. It's just that his fear of the unknown is overwhelming everything else he's feeling.
@@ -77,7 +83,10 @@ Draff: But now this thing with his parents is added into the mix... It might pus
 Paimon: Seems like a similar take to Lisa's. Maybe all mature adults think like this, huh?
 Paimon: Wait, but then again... Master Jean had a different view. She said it's more about trusting other people and in your own instincts!
 Paimon: #Uhh... Traveler, what do you think?
-Traveler: He'll have to face this sooner or later...
+    Option 1:
+        Traveler: He'll have to face this sooner or later...
+    Option 2:
+        Traveler: I will be there for him as a friend through this...
 Draff: Gotcha. Well, knowing that he's got a friend like you to rely on makes me feel much better about this whole thing.
 Traveler: Paimon, how about this:
 Black Screen Text: You tell Paimon about how you plan to approach the situation...
@@ -98,9 +107,6 @@ Razor: ...Okay. Thank you. I decide... I want to go with you, to see teacher.
 Draff: Haha, that's the spirit, kiddo!
 Draff: Well, you folks had better be heading off, then. I'm just about finished here, so I'll be heading home very shortly myself. I'd better try and get plenty of father-daughter time in before the Weinlesefest starts, hahaha...
 Paimon: Bye, Draff, see you again next time.
-Traveler: I will be there for him as a friend through this...
-Traveler: Seems like you have something to say.
-Traveler: I'm happy for you.
 
 ## Talk 11
 
@@ -150,10 +156,12 @@ Traveler: (Will Venti be coming...?)
 Lisa: Make sure you don't miss the opening ceremony, cutie. Everyone will be there. Razor, you should go too — it'll be a good opportunity to ask around.
 Razor: Okay. Ask many people... I will try.
 Paimon: Don't worry, we'll be right there with you. We can be your go-betweens. You know, like you were with the wolves, for Draff!
-Traveler: Interesting comparison...
+    Option 1:
+        Traveler: Interesting comparison...
+    Option 2:
+        Traveler: We'll be there with you. Just like we promised.
 Razor: Okay. Then, I will go back now. I need to tell lupical about human mother and human father.
 Paimon: Great! See you at the opening ceremony!
-Traveler: We'll be there with you. Just like we promised.
 
 ## Talk 12
 
@@ -179,7 +187,10 @@ Paimon: Just some tone-deaf bard. But he's also a know-it-all and loves nothing 
 ## Talk 15
 
 Paimon: Hey, Tone-Deaf Bard!
-Traveler: It's been a while.
+    Option 1:
+        Traveler: It's been a while.
+    Option 2:
+        Traveler: So nice to see you again.
 Venti: #Traveler, Paimon, how do you do? Haha, I had a feeling I'd run into you soon, during this most enchanting of festivals.
 Paimon: Spoken like a true poet... Hmm, but reading between the lines here — if one bottle is tipsy, and two is merry, just how many is "enchanting," exactly?
 Venti: Hahaha, oh, don't say that. This festival has so much more to offer than just drinking.
@@ -221,7 +232,10 @@ Venti: We've known each other for so long, and you still don't trust my intentio
 Razor: ...I trust. I... want to try.
 Razor: I want to... make wine, and find answers.
 Razor: If I know how to make wine, then I know what is in father and mother's wine.
-Traveler: By reliving their actions, maybe we will understand...
+    Option 1:
+        Traveler: By reliving their actions, maybe we will understand...
+    Option 2:
+        Traveler: ...what kind of people they were.
 Razor: Right.
 Razor: I want to... know about them.
 Paimon: Well, if you say so, Razor. Guess we'll have to take Tone-Deaf Bard's word on this one. We'll give it a try, and as first-time wine-makers, there's no shame if it turns out bad!
@@ -232,8 +246,6 @@ Razor: I will tell poem to teacher.
 Razor: Then... I need to think alone.
 Paimon: That's the spirit. So, how about we meet again in two days? Let's say same place, right here?
 Razor: Okay. I will remember. See you, then.
-Traveler: ...what kind of people they were.
-Traveler: So nice to see you again.
 
 ## Additional Conversations
 
@@ -248,27 +260,40 @@ Lisa: Go on now, cuties. I'll leave Razor in your hands.
 ### Additional Talk 2
 
 Jean: #Traveler, is there something else you would like to discuss?
-Traveler: About the expedition...
-Jean: It was good of Mika to bring the letter back all this way. Knowing that everyone is safe and sound is the best encouragement I could ask for.
-Jean: Still... I hadn't counted on The Captain making an appearance.
-Jean: The Grand Master has a rather... unconventional way of describing things, but even then... I've never heard him give such high recognition to anyone before.
-Jean: #Traveler, if you ever encounter The Captain on your own journey, be on your guard. He is not someone to be underestimated.
-Traveler: About Mika...
-Jean: Mika tells me that rather than rejoining the expedition party, Grand Master told him to return to his post in Eula's Reconnaissance Company after delivering the letter.
-Jean: Land surveyors are usually situated in the vanguard of an army on the move, and are tasked with exploring previously uncharted territory. It looks like the expedition must have entered into a much less intense phase...
-Jean: Have you had the chance to speak with Mika yet? When he's with people he hasn't met before, he tenses up and stands bolt upright...
-Jean: I really wish he had a little more self-confidence.
-Traveler: About the Weinlesefest...
-Jean: There is still some preparation to do, but don't worry. Everything's on track.
-Jean: Actually, while we're on the topic, I have an assignment I'd like to give you, namely:
-Jean: Enjoy the festival to the fullest. Any objections?
+    Option 1:
+        Traveler: About the expedition...
+        Jean: It was good of Mika to bring the letter back all this way. Knowing that everyone is safe and sound is the best encouragement I could ask for.
+        Jean: Still... I hadn't counted on The Captain making an appearance.
+        Jean: The Grand Master has a rather... unconventional way of describing things, but even then... I've never heard him give such high recognition to anyone before.
+        Jean: #Traveler, if you ever encounter The Captain on your own journey, be on your guard. He is not someone to be underestimated.
+        Jean: #Traveler, is there something else you would like to discuss?
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: About Mika...
+        Jean: Mika tells me that rather than rejoining the expedition party, Grand Master told him to return to his post in Eula's Reconnaissance Company after delivering the letter.
+        Jean: Land surveyors are usually situated in the vanguard of an army on the move, and are tasked with exploring previously uncharted territory. It looks like the expedition must have entered into a much less intense phase...
+        Jean: Have you had the chance to speak with Mika yet? When he's with people he hasn't met before, he tenses up and stands bolt upright...
+        Jean: I really wish he had a little more self-confidence.
+        Jean: #Traveler, is there something else you would like to discuss?
+        [Circling back to a pre-branch dialog]
+    Option 3:
+        Traveler: About the Weinlesefest...
+        Jean: There is still some preparation to do, but don't worry. Everything's on track.
+        Jean: Actually, while we're on the topic, I have an assignment I'd like to give you, namely:
+        Jean: Enjoy the festival to the fullest. Any objections?
+        Jean: #Traveler, is there something else you would like to discuss?
+        [Circling back to a pre-branch dialog]
+    Option 4:
 Traveler: Goodbye.
 Jean: Goodbye. I wish you a very pleasant Weinlesefest.
 
 ### Additional Talk 3
 
 Mika: Ah! Uh, h—hi there, umm... You must be looking for Captain Kaeya...? Please, don't mind me!
-Traveler: Actually, I was looking for you.
+    Option 1:
+        Traveler: Actually, I was looking for you.
+    Option 2:
+        Traveler: I just wanted to say hi.
 Mika: Huh? Wait, but... wha—!? Oh geez, Captain Kaeya... Wh—What should I say?
 Kaeya: Haha, oh, Mika... How have you not changed one bit after being out on the front line this long?
 Kaeya: You were just asking me about the Stormterror incident, weren't you? Well, allow me to introduce you to the legendary Honorary Knight.
@@ -279,7 +304,6 @@ Paimon: Aw, he just left... Well, that's too bad. Paimon was gonna ask him all a
 Kaeya: That is a pity, it really is. But don't take it the wrong way. The way he sees it, every pair of eyes in Mondstadt is focused squarely on you.
 Kaeya: Give it some time and this'll all sort itself out. Next time you see him, I'm sure you'll get along just fine.
 Kaeya: In fact, let me share a little secret with you: Try talking to him about exploring the wild. You'll win his trust in no time.
-Traveler: I just wanted to say hi.
 
 ### Additional Talk 4
 
@@ -308,27 +332,31 @@ Lisa: And you must be tired from running around trying to find Razor. Why don't 
 ### Additional Talk 8
 
 Venti: Ah, good. I was hoping we might get to chat some more.
-Traveler: Can I hear the poem again?
-Venti: You need a refresher? Okay, I'll perform the first half again.
-Venti: "Fill up the barrels and store them away,
+    Option 1:
+        Traveler: Can I hear the poem again?
+        Venti: You need a refresher? Okay, I'll perform the first half again.
+        Venti: "Fill up the barrels and store them away,
 Then wait, wait for a windier day.
 Wax the bottles, seal them tight,
 For the south wind that soothes, for the north wind that bites."
-Venti: "How does this fine wine taste to the tongue?
+        Venti: "How does this fine wine taste to the tongue?
 As 'Mondstadt' to the ear: like a sweet dream of freedom.
 And what are the fruits that went into the brew?
 An explorer's courage, a love tender and true."
-Venti: "A defender's will, strong as yesteryear,
+        Venti: "A defender's will, strong as yesteryear,
 Joining the thousand winds in a song of good cheer,
 Turning sour into sweet, bitter notes fade away,
 As we wait, wait for a windier day."
-Traveler: What are your thoughts on the Weinlesefest?
-Venti: I am fond of each and every one of Mondstadt's festivals, but if I'm honest, Weinlesefest has an extra-special place in my heart.
-Venti: You know, the Anemo Archon goes into a slumber after the west wind dies down, leaving the north wind to blow during the winter.
-Venti: Which means, this festival is the big feast before the winter slumber!
-Traveler: About Razor...
-Venti: I wouldn't worry yourself too much about him.
-Venti: Staying true to their journey and discovering joy and freedom for themselves is what Mondstadters do best.
-Venti: The same goes for you. You have to find the thing that makes you happy. Haha, mostly because your happiness is very important to me.
-Traveler: Goodbye.
-Venti: See you around. Remember, there's no rush. Take your time, and you'll find all the answers that you're looking for.
+    Option 2:
+        Traveler: What are your thoughts on the Weinlesefest?
+        Venti: I am fond of each and every one of Mondstadt's festivals, but if I'm honest, Weinlesefest has an extra-special place in my heart.
+        Venti: You know, the Anemo Archon goes into a slumber after the west wind dies down, leaving the north wind to blow during the winter.
+        Venti: Which means, this festival is the big feast before the winter slumber!
+    Option 3:
+        Traveler: About Razor...
+        Venti: I wouldn't worry yourself too much about him.
+        Venti: Staying true to their journey and discovering joy and freedom for themselves is what Mondstadters do best.
+        Venti: The same goes for you. You have to find the thing that makes you happy. Haha, mostly because your happiness is very important to me.
+    Option 4:
+        Traveler: Goodbye.
+        Venti: See you around. Remember, there's no rush. Take your time, and you'll find all the answers that you're looking for.

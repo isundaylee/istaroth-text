@@ -37,10 +37,12 @@ Ororon: #Haha, exactly. Except, we're the ones handing you lemons this time, Gra
 Ifa: And, to up the ante a bit... Whoever catches the biggest fish gets a pint of Ororon's Aphimead.
 Paimon: Now that's an offer Paimon can get behind!
 Paimon: #Hehehe, did you forget who you're dealing with here? We never back away from a challenge, and Traveler is a tough opponent!
-Traveler: Let's do this, bro!
-Ifa: Got your game face on, I see! Alright, I'm down!
-Traveler: I'll take you on, grandson.
-Ororon: Alright, then it's winner takes all — meaning not only all the fish, but the aphid staff's mead too.
+    Option 1:
+        Traveler: Let's do this, bro!
+        Ifa: Got your game face on, I see! Alright, I'm down!
+    Option 2:
+        Traveler: I'll take you on, grandson.
+        Ororon: Alright, then it's winner takes all — meaning not only all the fish, but the aphid staff's mead too.
 
 ## Talk 3
 
@@ -56,79 +58,157 @@ Paimon: Ifa, you're up!
 Cacucu: You've got this, bro! Teamwork makes the dream work!
 Ororon: Sorry, Cacucu. There's no room for teamwork here.
 Ifa: Whoa, look alive, bros... I've got something!
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Ifa reels in the rod with all his strength. Looks like he's caught something big...
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But... it's another unexpected catch.
-Paimon: Huh... Looks like Ifa reeled in a koholasaur... towing a capybara? Not sure what's going on there...
-Ororon: Impressive! Ifa's always had a way with animals.
-Ifa: Wait, I think there's something wrong with this koholasaur's tail... I think he might've cut it on a rock, and I'm guessing this capybara was trying to help.
-Ororon: Or, the capybara was trying to eat his tail.
-Ifa: No way, bro. Cacucu, can you go ask?
-Cacucu: Yep, yep... You got it, bro!
-Ifa: See? Haha! Knew I was right... No, wait. That's not what's important right now.
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Ifa quickly checks the koholasaur's tail. Luckily, it's just a scratch.
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): After a simple triage, the koholasaur and his capybara companion leave.
-Ororon: Aw, a new friendship. Looks like today is their lucky day, too.
-Ifa: "Too"?
-Ororon: That's right. It's my turn, and I have a feeling I'm going to win this thing!
-Cacucu: Teamwork makes the dream work, bro!
-Ifa: Guessing that's your way of rooting for us, little guy? Where did you even learn that...
-Traveler: Cacucu, fishing cheerleader extraordinaire!
-Ororon: "Fishing cheerleader" sounds too lackluster. We're fighting for something important. It needs to have a bit more impa... Huh!?
-Ifa: What is that!? Quick, out of the way!
-Paimon: Okay, this one looks a bit unusual... But, it's another capybara! And he charged at us! Didn't you say they're supposed to be gentle creatures?
-Ororon: He must be fighting for something important, too. Hm, I can sense it...
-Ororon: ...Or, maybe not...
-Capybara (Capybara (Furious)): ...!
-Ororon: I guess that's just us. But, he is upset.
-Cacucu: Oh, hey, little dude!
-Capybara (Capybara (Confused)): ?
-Cacucu: Haha! Awesome, bro!
-Paimon: Wh—What? Is Cacucu trying to... talk him down or something?
-Ifa: Comfort him, more like. He might not look it, but Cacucu has an amazing bedside manner.
-Paimon: Huh. Even with his, um... limited vocabulary?
-Ororon: When you're talking to a capybara, I don't think human vocabulary matters much, Paimon.
-Paimon: Oh... right!
-Ororon: We just need to trust the little broski.
-Ororon: Besides, when you're trying to communicate, I think tone carries more weight than the actual words.
-Ororon: For example, "hello" means "I'm happy."
-Ororon: But, "hello"... means "I'm frustrated."
-Ororon: And, "hello!"... That's anger, a sign to run and hide because danger is near.
-Paimon: Okay, Paimon doesn't completely follow, but she'll take your word for it...
-Traveler: You learn something every day, huh? Thanks!
-Ororon: Oh, my pleasure! It's the method I came up with to communicate with the aphids.
-Ifa: Aphid STAFF... remember, bro?
-Ororon: No, not just the staff. There are aphids who didn't want to join, you know. I understand their feelings, of course, and I respect their decision.
-Ifa: ...Then, maybe you can throw some of that understanding my way, bro. I'm at my wit's end here.
-Ororon: Huh, really? I thought you'd be proud. See, look over there.
-Capybara (Capybara (Gentle)): ——.
-Cacucu: Hahaha! For real?
-Capybara (Capybara (Exasperated)): ——.
-Cacucu: Wow! Wow!
-Paimon: Whoa, looks like they really hit it off.
-Ifa: Okay, well, I am a little proud, but... Huh? Ororon!
-Ororon: Don't worry. I've got this.
-Ororon: Hello, Capybara King. Do you want something to eat? I have a fresh batch of Ifa's cookies here.
-Capybara: Rrooo...
-Ifa: Capybara King?
-Paimon: Huh, he ate them! Looks like that perked him up for sure!
-Cacucu: Oh dear! Oh dear!
-Paimon: Hold on... How did our fishing competition turn into a petting zoo?
-Traveler: Hey, it's not a bad result!
-Paimon: Huh, true... Well, guess this makes Ororon the winner?
-Paimon: Considering he managed to catch this, um... Capybara King or whatever.
-Traveler: It's a fine name, indeed.
-Ifa: Sure, Ororon wins. None of us managed to catch an actual fish, anyway.
-Cacucu: Haha!
-Ororon: Nice, then I get the mead! Although, it was mine to begin with...
-Paimon: Well, you get to keep it! That's something, right?
-Ororon: True, and the Capybara King left us a little something extra, too. Look, I think it's a gift.
-Ifa: A "Gift Egg" and a picture? Huh, the location in this picture looks familiar...
-Paimon: Does that mean the Capybara King wants us to go there? Kinda seems like that, right?
-Traveler: Couldn't hurt to go and see.
-Ifa: Yeah, definitely something to check out if you've got some time.
-Traveler: Maybe there'll be something awesome waiting for us.
-Ifa: Yeah, who knows... But we should come prepared just in case.
-Traveler: Pretty fun, don't you think?
+    Option 1:
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Ifa reels in the rod with all his strength. Looks like he's caught something big...
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): But... it's another unexpected catch.
+    Option 2:
+        Paimon: Huh... Looks like Ifa reeled in a koholasaur... towing a capybara? Not sure what's going on there...
+        Ororon: Impressive! Ifa's always had a way with animals.
+        Ifa: Wait, I think there's something wrong with this koholasaur's tail... I think he might've cut it on a rock, and I'm guessing this capybara was trying to help.
+        Ororon: Or, the capybara was trying to eat his tail.
+        Ifa: No way, bro. Cacucu, can you go ask?
+        Cacucu: Yep, yep... You got it, bro!
+        Ifa: See? Haha! Knew I was right... No, wait. That's not what's important right now.
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Ifa quickly checks the koholasaur's tail. Luckily, it's just a scratch.
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): After a simple triage, the koholasaur and his capybara companion leave.
+    Option 3:
+        Paimon: Huh... Looks like Ifa reeled in a koholasaur... towing a capybara? Not sure what's going on there...
+        Ororon: Impressive! Ifa's always had a way with animals.
+        Ifa: Wait, I think there's something wrong with this koholasaur's tail... I think he might've cut it on a rock, and I'm guessing this capybara was trying to help.
+        Ororon: Or, the capybara was trying to eat his tail.
+        Ifa: No way, bro. Cacucu, can you go ask?
+        Cacucu: Yep, yep... You got it, bro!
+        Ifa: See? Haha! Knew I was right... No, wait. That's not what's important right now.
+        Ororon: Aw, a new friendship. Looks like today is their lucky day, too.
+        Ifa: "Too"?
+        Ororon: That's right. It's my turn, and I have a feeling I'm going to win this thing!
+        Cacucu: Teamwork makes the dream work, bro!
+        Ifa: Guessing that's your way of rooting for us, little guy? Where did you even learn that...
+        Traveler: Cacucu, fishing cheerleader extraordinaire!
+        Ororon: "Fishing cheerleader" sounds too lackluster. We're fighting for something important. It needs to have a bit more impa... Huh!?
+        Ifa: What is that!? Quick, out of the way!
+        Paimon: Okay, this one looks a bit unusual... But, it's another capybara! And he charged at us! Didn't you say they're supposed to be gentle creatures?
+        Ororon: He must be fighting for something important, too. Hm, I can sense it...
+        Ororon: ...Or, maybe not...
+        Capybara (Capybara (Furious)): ...!
+        Ororon: I guess that's just us. But, he is upset.
+        Cacucu: Oh, hey, little dude!
+        Capybara (Capybara (Confused)): ?
+        Cacucu: Haha! Awesome, bro!
+        Paimon: Wh—What? Is Cacucu trying to... talk him down or something?
+        Ifa: Comfort him, more like. He might not look it, but Cacucu has an amazing bedside manner.
+        Paimon: Huh. Even with his, um... limited vocabulary?
+        Ororon: When you're talking to a capybara, I don't think human vocabulary matters much, Paimon.
+        Paimon: Oh... right!
+        Ororon: We just need to trust the little broski.
+        Ororon: Besides, when you're trying to communicate, I think tone carries more weight than the actual words.
+        Ororon: For example, "hello" means "I'm happy."
+        Ororon: But, "hello"... means "I'm frustrated."
+        Ororon: And, "hello!"... That's anger, a sign to run and hide because danger is near.
+        Paimon: Okay, Paimon doesn't completely follow, but she'll take your word for it...
+        Traveler: You learn something every day, huh? Thanks!
+        Ororon: Oh, my pleasure! It's the method I came up with to communicate with the aphids.
+        Ifa: Aphid STAFF... remember, bro?
+        Ororon: No, not just the staff. There are aphids who didn't want to join, you know. I understand their feelings, of course, and I respect their decision.
+        Ifa: ...Then, maybe you can throw some of that understanding my way, bro. I'm at my wit's end here.
+        Ororon: Huh, really? I thought you'd be proud. See, look over there.
+        Capybara (Capybara (Gentle)): ——.
+        Cacucu: Hahaha! For real?
+        Capybara (Capybara (Exasperated)): ——.
+        Cacucu: Wow! Wow!
+        Paimon: Whoa, looks like they really hit it off.
+        Ifa: Okay, well, I am a little proud, but... Huh? Ororon!
+        Ororon: Don't worry. I've got this.
+        Ororon: Hello, Capybara King. Do you want something to eat? I have a fresh batch of Ifa's cookies here.
+        Capybara: Rrooo...
+        Ifa: Capybara King?
+        Paimon: Huh, he ate them! Looks like that perked him up for sure!
+        Cacucu: Oh dear! Oh dear!
+        Paimon: Hold on... How did our fishing competition turn into a petting zoo?
+        Traveler: Hey, it's not a bad result!
+        Paimon: Huh, true... Well, guess this makes Ororon the winner?
+        Paimon: Considering he managed to catch this, um... Capybara King or whatever.
+        Traveler: It's a fine name, indeed.
+        Ifa: Sure, Ororon wins. None of us managed to catch an actual fish, anyway.
+        Cacucu: Haha!
+        Ororon: Nice, then I get the mead! Although, it was mine to begin with...
+        Paimon: Well, you get to keep it! That's something, right?
+        Ororon: True, and the Capybara King left us a little something extra, too. Look, I think it's a gift.
+        Ifa: A "Gift Egg" and a picture? Huh, the location in this picture looks familiar...
+        Paimon: Does that mean the Capybara King wants us to go there? Kinda seems like that, right?
+        Traveler: Couldn't hurt to go and see.
+        Ifa: Yeah, definitely something to check out if you've got some time.
+        Traveler: Maybe there'll be something awesome waiting for us.
+        Ifa: Yeah, who knows... But we should come prepared just in case.
+    Option 4:
+        Paimon: Huh... Looks like Ifa reeled in a koholasaur... towing a capybara? Not sure what's going on there...
+        Ororon: Impressive! Ifa's always had a way with animals.
+        Ifa: Wait, I think there's something wrong with this koholasaur's tail... I think he might've cut it on a rock, and I'm guessing this capybara was trying to help.
+        Ororon: Or, the capybara was trying to eat his tail.
+        Ifa: No way, bro. Cacucu, can you go ask?
+        Cacucu: Yep, yep... You got it, bro!
+        Ifa: See? Haha! Knew I was right... No, wait. That's not what's important right now.
+        Ororon: Aw, a new friendship. Looks like today is their lucky day, too.
+        Ifa: "Too"?
+        Ororon: That's right. It's my turn, and I have a feeling I'm going to win this thing!
+        Cacucu: Teamwork makes the dream work, bro!
+        Ifa: Guessing that's your way of rooting for us, little guy? Where did you even learn that...
+        Traveler: Cacucu, fishing cheerleader extraordinaire!
+        Ororon: "Fishing cheerleader" sounds too lackluster. We're fighting for something important. It needs to have a bit more impa... Huh!?
+        Ifa: What is that!? Quick, out of the way!
+        Paimon: Okay, this one looks a bit unusual... But, it's another capybara! And he charged at us! Didn't you say they're supposed to be gentle creatures?
+        Ororon: He must be fighting for something important, too. Hm, I can sense it...
+        Ororon: ...Or, maybe not...
+        Capybara (Capybara (Furious)): ...!
+        Ororon: I guess that's just us. But, he is upset.
+        Cacucu: Oh, hey, little dude!
+        Capybara (Capybara (Confused)): ?
+        Cacucu: Haha! Awesome, bro!
+        Paimon: Wh—What? Is Cacucu trying to... talk him down or something?
+        Ifa: Comfort him, more like. He might not look it, but Cacucu has an amazing bedside manner.
+        Paimon: Huh. Even with his, um... limited vocabulary?
+        Ororon: When you're talking to a capybara, I don't think human vocabulary matters much, Paimon.
+        Paimon: Oh... right!
+        Ororon: We just need to trust the little broski.
+        Ororon: Besides, when you're trying to communicate, I think tone carries more weight than the actual words.
+        Ororon: For example, "hello" means "I'm happy."
+        Ororon: But, "hello"... means "I'm frustrated."
+        Ororon: And, "hello!"... That's anger, a sign to run and hide because danger is near.
+        Paimon: Okay, Paimon doesn't completely follow, but she'll take your word for it...
+        Traveler: You learn something every day, huh? Thanks!
+        Ororon: Oh, my pleasure! It's the method I came up with to communicate with the aphids.
+        Ifa: Aphid STAFF... remember, bro?
+        Ororon: No, not just the staff. There are aphids who didn't want to join, you know. I understand their feelings, of course, and I respect their decision.
+        Ifa: ...Then, maybe you can throw some of that understanding my way, bro. I'm at my wit's end here.
+        Ororon: Huh, really? I thought you'd be proud. See, look over there.
+        Capybara (Capybara (Gentle)): ——.
+        Cacucu: Hahaha! For real?
+        Capybara (Capybara (Exasperated)): ——.
+        Cacucu: Wow! Wow!
+        Paimon: Whoa, looks like they really hit it off.
+        Ifa: Okay, well, I am a little proud, but... Huh? Ororon!
+        Ororon: Don't worry. I've got this.
+        Ororon: Hello, Capybara King. Do you want something to eat? I have a fresh batch of Ifa's cookies here.
+        Capybara: Rrooo...
+        Ifa: Capybara King?
+        Paimon: Huh, he ate them! Looks like that perked him up for sure!
+        Cacucu: Oh dear! Oh dear!
+        Paimon: Hold on... How did our fishing competition turn into a petting zoo?
+        Traveler: Pretty fun, don't you think?
+        Paimon: Huh, true... Well, guess this makes Ororon the winner?
+        Paimon: Considering he managed to catch this, um... Capybara King or whatever.
+        Traveler: It's a fine name, indeed.
+        Ifa: Sure, Ororon wins. None of us managed to catch an actual fish, anyway.
+        Cacucu: Haha!
+        Ororon: Nice, then I get the mead! Although, it was mine to begin with...
+        Paimon: Well, you get to keep it! That's something, right?
+        Ororon: True, and the Capybara King left us a little something extra, too. Look, I think it's a gift.
+        Ifa: A "Gift Egg" and a picture? Huh, the location in this picture looks familiar...
+        Paimon: Does that mean the Capybara King wants us to go there? Kinda seems like that, right?
+        Traveler: Couldn't hurt to go and see.
+        Ifa: Yeah, definitely something to check out if you've got some time.
+        Traveler: Maybe there'll be something awesome waiting for us.
+        Ifa: Yeah, who knows... But we should come prepared just in case.
 
 ## Talk 99
 

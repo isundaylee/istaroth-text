@@ -77,12 +77,14 @@ Mualani: Responsibility, duty, unavoidable burden... Everyone in Natlan views th
 Mualani: But, I believe we WILL be rid of the Abyss one day, and the efforts of all who fought against them will become a story for the ages!
 Mualani: To think that my name could survive in ballads passed down to future generations... It's kind of romantic.
 Mualani: Everyone has something that drives them forward, you know?
-Traveler: You can do it.
-Mualani: We have to — not only for ourselves, but for our future.
+    Option 1:
+        Traveler: You can do it.
+        Mualani: We have to — not only for ourselves, but for our future.
+    Option 2:
+        Traveler: You make me want to contribute.
+        Mualani: Haha, be my guest! Heroes are always welcome in Natlan.
 Mualani: Anyway, let's head to the Stadium. Our fishing trip can wait until Kachina's back with us.
 Mualani: The sea's not going anywhere!
-Traveler: You make me want to contribute.
-Mualani: Haha, be my guest! Heroes are always welcome in Natlan.
 
 ## Talk 3
 
@@ -98,8 +100,10 @@ Kinich: Looks like I'm just in time.
 Paimon: Kinich, you're here!
 Kinich: Yeah, a commission ran longer than expected, but I made it. I heard about the incident with your tribe, Mualani. Is everyone alright?
 Mualani: #Yeah, it's all taken care of. Our new friend here's got some tricks up his sleeve, by the way. He's just as strong as Kachina made him out to be.
-Traveler: I could've done better.
-Traveler: If only I'd been a bit more perceptive.
+    Option 1:
+        Traveler: I could've done better.
+    Option 2:
+        Traveler: If only I'd been a bit more perceptive.
 Paimon: Hey, look! Is it about to start?
 Mualani: That's right. Someone will come out and recite a eulogy, and then we'll sing the Ode of Resurrection together.
 Mualani: C'mon, let's find a spot with a good view. When the singing starts, just follow my lead, and you'll be fine.
@@ -109,13 +113,6 @@ Ntotila: We are the inheritors of memory and legend.
 Ntotila: Those who grew alongside sun and wind.
 Ntotila: Those who forged our own destiny and future.
 Ntotila: That is Natlan's fire, the lifeblood of our nation.
-Traveler (Crowd): The tale continues on
-Traveler (Crowd): Glory passed through generations
-Traveler (Crowd): Courage ignites the sky and earth
-Traveler (Crowd): Once more, victory heralds Natlan's path
-Traveler (Crowd): We'll wait for you, we'll sing for you
-Traveler (Crowd): Come back, brothers, come back, heroes
-Traveler (Crowd): Once again, once again, burn bright!
 Mualani: ...
 Mavuika: I could not find Kachina within the Night Kingdom, or locate her Ancient Name.
 Mualani: ...What?
@@ -175,6 +172,20 @@ Mavuika: Once again, I apologize for the outcome of this ceremony. If there are 
 Paimon: Um, did she just... ask us to come along?
 Kinich: I believe she did. Let's go. I'd like to know what's going on myself.
 
+Traveler (Crowd): The tale continues on
+
+Traveler (Crowd): Glory passed through generations
+
+Traveler (Crowd): Courage ignites the sky and earth
+
+Traveler (Crowd): Once more, victory heralds Natlan's path
+
+Traveler (Crowd): We'll wait for you, we'll sing for you
+
+Traveler (Crowd): Come back, brothers, come back, heroes
+
+Traveler (Crowd): Once again, once again, burn bright!
+
 ## Talk 5
 
 Mavuika: If we can find Kachina's Ancient Name, I can use the link between them to pinpoint her position within the Night Kingdom.
@@ -196,7 +207,10 @@ Mavuika: #Traveler, I certainly didn't expect our first conversation to be so se
 Mavuika: I've heard all about your accomplishments. Ever since you arrived, I've been hoping to meet you and offer you Natlan's highest level of hospitality.
 Paimon: Um... Why?
 Mavuika: "Why"? Is that not what happened in the other nations you've visited?
-Traveler: It's kind of complicated.
+    Option 1:
+        Traveler: It's kind of complicated.
+    Option 2:
+        Traveler: But, looks like we're really making a name for ourselves.
 Paimon: Yeah, things were pretty complicated at the start... and, y'know, in the middle... But, our reputation's solid nowadays!
 Mavuika: Haha, that's more like it. After all, I've heard you're someone who transcends fate.
 Traveler: You know quite a lot about me.
@@ -221,7 +235,6 @@ Mavuika: I have never subscribed to the belief that the "right" choice is the on
 Mavuika: Let's go. There's still a way for the Sacred Flame to last a little longer.
 Iansan: You mean...
 Mavuika: Yes. Come with me.
-Traveler: But, looks like we're really making a name for ourselves.
 
 ## Talk 7
 
@@ -311,7 +324,9 @@ Mavuika: The Abyss poses the same threat to you as it does to her. It is very po
 Mualani: Kachina's waiting for us to rescue her — that's all that matters.
 Chasca: I failed to protect her during our campaign, but I can make it up to her now. I choose to go as well.
 Paimon: #Um, Traveler? What do you think?
-Traveler: This isn't how it should end for her.
+    Option 1:
+        Traveler: This isn't how it should end for her.
+    Option 2:
+        Traveler: I promised she would have the chance to learn from me.
 Mavuika: Understood. Then, I'll support you in any way I can.
 Mavuika: The Masters of the Night-Wind have a technique that can extract an Ancient Name from the Ley Lines.
-Traveler: I promised she would have the chance to learn from me.

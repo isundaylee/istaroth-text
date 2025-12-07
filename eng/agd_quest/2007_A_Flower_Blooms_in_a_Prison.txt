@@ -16,11 +16,17 @@ Paimon: *sigh* This was possibly the scariest-looking hot pot Paimon's ever seen
 Thoma: You can say that again... But hey, at least I got the most points... Ugh, wait a moment... that doesn't feel good...
 Kamisato Ayaka: I'm afraid it's your own fault for adding all those strange ingredients Thoma. The soup flavor wasn't quite the same afterwards...
 Kamisato Ayaka: #Even with Traveler's normal ingredients, I still couldn't guess any of them correctly.
+[Missing Dialog 20071009]
+
+Thoma: Whew... I feel like a new man.
+[Missing Dialog 20071014]
+
 Paimon: #But weren't you the one who added those little cakes Ayaka? Hehe, I think Traveler ended up eating one.
 Paimon: Boiling cakes in hot pot... bleurgh... think of the texture...
 Kamisato Ayaka: I must apologize... To be perfectly honest, I thought the cakes would be a tasty addition.
 Thoma: Uh oh, I'm definitely not okay... Ugh, I need to lie down.
-Thoma: Whew... I feel like a new man.
+[Missing Dialog 20071113]
+
 Paimon: Uh, you know, Thoma... all you had to do was guess wrong on purpose and it would've been someone else's turn. Talk about being competitive...
 Thoma: Haha, guess I've been feeling unlucky recently and wanted the God of Hot Pot's blessing.
 Thoma: Perhaps I did get a little carried away... Still, I couldn't be beaten at my own game first time around!
@@ -112,9 +118,11 @@ Kujou Sara: He's in serious condition, be sure he gets immediate medical attenti
 Kujou Sara: But remember...
 Kujou Sara: Once he's recovered, it won't be long until I bring him right back.
 Yoimiya: Uh, well... Ahem, you can bet we'll do all we can to keep that from happening.
-Traveler: Thank you...
+    Option 1:
+        Traveler: Thank you...
+    Option 2:
+        Traveler: We will protect Master Masakatsu.
 Kujou Sara: Hm... leave this place.
-Traveler: We will protect Master Masakatsu.
 
 ## Talk 10
 
@@ -157,11 +165,13 @@ Masakatsu: Don't worry, I think I can make it to the infirmary without keeling o
 Yoimiya: Thank you, all of you! I'll take him to get treated. I'll treat you to a round of drinks once this is all over!
 Paimon: Don't worry about us, just take care of Master Masakatsu!
 Paimon: Whew, good thing we were able to rescue him.
-Traveler: Luck was on our side this time.
+    Option 1:
+        Traveler: Luck was on our side this time.
+    Option 2:
+        Traveler: All thanks to that person.
 Paimon: Right, Kujou Sara... Do you think she was making up for how the guards were treating him?
 Paimon: It seems as though there are some okay people among the ranks of the Tenryou Commission... Oh! Though Paimon would never agree with their actions in the Vision Hunt Decree, of course.
 Paimon: How about we go tell Ayaka and the others the good news?
-Traveler: All thanks to that person.
 
 ## Additional Conversations
 
@@ -213,17 +223,21 @@ Kamisato Ayaka: Well, for the moment, all we can do is to try and reduce the har
 Kamisato Ayaka: For example, by providing Vision bearers with safe refuge, or manufacturing counterfeit Visions for them as a contingency measure.
 Paimon: You're telling Paimon that there are people out there who can make fake Visions!?
 Kamisato Ayaka: Don't underestimate the talents of the craftspeople in Hanamizaka. To the naked eye, their counterfeits are indistinguishable from the genuine article.
-Traveler: Must have been where Venti went...
+    Option 1:
+        Traveler: Must have been where Venti went...
+    Option 2:
+        Traveler: I kind of want one, too...
 Kamisato Ayaka: The problem we are facing right now is that Master Masakatsu, who was providing us with counterfeit Visions, has recently been arrested by the Tenryou Commission.
 Paimon: Oh darn! So they found out about it? Ugh...
 Kamisato Ayaka: Yes... We knew it was not a long-term solution and that it was only a matter of time before it would be exposed... But we cannot simply abandon Master Masakatsu.
-Traveler: He has saved many others.
+    Option 1:
+        Traveler: He has saved many others.
+    Option 2:
+        Traveler: It is only right that he should be saved, too.
 Kamisato Ayaka: Exactly, I feel the same way. But given mine and Thoma's identities as part of the Yashiro Commission, breaking him out of prison would risk dragging down the reputation of the entire Kamisato Clan should we be caught. That would only serve to cast suspicion on any future activity we might seek to attempt.
 Traveler: So you're offloading that job to me, huh?
 Kamisato Ayaka: Hehe, by no means do we intend to place the burden of such a task on your shoulders alone.
 Kamisato Ayaka: When you are ready, go to Hanamizaka, and look for a fireworks shop run by the Naganohara family. There, you will find someone who can help you.
-Traveler: It is only right that he should be saved, too.
-Traveler: I kind of want one, too...
 
 ### Additional Talk 6
 

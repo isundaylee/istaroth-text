@@ -13,14 +13,16 @@ Harris: My adventurer friend passed the recipe on to me. He hopes I can revive t
 Harris: In fact, I've never even heard of some of the ingredients that the recipe requires. Even some of the cooking techniques are new to me.
 Harris: So, I'm cooking a modified version which only uses the most essential ingredients...
 Harris: Would you be willing to help me gather the unusual ingredients from the recipe?
-Traveler: Leave it to me!
-Harris: Nice to see you're so enthusiastic about this.
+    Option 1:
+        Traveler: Leave it to me!
+        Harris: Nice to see you're so enthusiastic about this.
+    Option 2:
+        Traveler: What ingredients do you need?
 Harris: I heard that a few boar somehow got lost in the mountains and became encased in ice... I'm curious to find out how such an ordeal affects the flavor of the meat.
 Harris: So, perhaps you could fetch me ten portions of Chilled Meat.
 Traveler: To clarify, you mean...
 Harris: Yes, as in the meat of those frozen boar. Being encased in ice must keep it pretty fresh, don't you think? So, when someone tells me about some poor boar trapped in the ice, all I hear is "Chilled Meat"...
 Harris: Thanks for doing this for me. Come and find me once you've got the ingredients.
-Traveler: What ingredients do you need?
 
 ## Talk 2
 

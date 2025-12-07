@@ -27,42 +27,52 @@ Paimon: Here comes Albedo, let's go see him.
 ## Talk 6
 
 Albedo: I'm back. Did you see anything interesting?
-Traveler: Couldn't make heads or tails of anything.
-Albedo: Not to worry, they're all for alchemical purposes, you'd be hard pressed to find an everyday use for them.
+    Option 1:
+        Traveler: Couldn't make heads or tails of anything.
+        Albedo: Not to worry, they're all for alchemical purposes, you'd be hard pressed to find an everyday use for them.
+    Option 2:
+        Traveler: Your things aren't very organized.
+        Albedo: Hmm, agreed. I'd love to find a moment to put them all in order. Still, experiments come first...
 Albedo: Well, on with the research.
 Albedo: There may be significant differences between different worlds.
 Albedo: Take Teyvat, for example. Here, those with Visions can manipulate the elements.
 Albedo: But worlds may well exist where only one person is able to do so, or even everyone.
 Albedo: #So, leaving elements to one side... Do you possess any... unique abilities, Traveler? Ones that don't exist in this world?
 Albedo: I think answering this question calls for the same methodology as last time. In other words, time for the next experiment.
-Traveler: Am I battling slimes again?
+    Option 1:
+        Traveler: Am I battling slimes again?
+    Option 2:
+        Traveler: I drank my fill, thanks...
 Albedo: No, no! You shan't be required to exert quite so much effort this time around.
 Albedo: Now, see this pillar here. Use your willpower to try and break it.
-Traveler: Sorry, I just can't do it.
-Albedo: That was your best effort? Hmm... Well, can't be helped, I suppose.
-Paimon: What's with the disappointment!? Isn't that, like, impossible?
+    Option 1:
+        Traveler: Sorry, I just can't do it.
+        Albedo: That was your best effort? Hmm... Well, can't be helped, I suppose.
+        Paimon: What's with the disappointment!? Isn't that, like, impossible?
+    Option 2:
+        Traveler: Paimon, you give it a shot.
+        Paimon: You think Paimon knows how to do that stuff?
+        Albedo: That was your best effort? Hmm... Well, can't be helped, I suppose.
 Albedo: Ah! Have you tried using your elemental power with food? I don't mean for cooking as such — rather, channeling your power into the ingredients themselves.
 Albedo: I'm curious to see how the taste and texture respond. It may even help with... proliferation...
-Traveler: Alchemists certainly have active imaginations.
+    Option 1:
+        Traveler: Alchemists certainly have active imaginations.
+    Option 2:
+        Traveler: Sure you're not just peckish?
 Albedo: Haha, I suppose I have a curiosity for things that others find surprising.
 Albedo: Anyway, why don't you cook us up a Sunshine Sprat? I've just finished preparing the recipe.
 Paimon: Cooking? Paimon was looking forward to more mad scientist stuff!
 Albedo: Not only is this recipe a staple for me, it's also worth experimenting with and highly nutritious!
 Paimon: Hmph, Paimon bets you're just hungry!
 Paimon: It does sound yummy though... Okay, Paimon approves!
-Traveler: I know what you're getting at.
+    Option 1:
+        Traveler: I know what you're getting at.
+    Option 2:
+        Traveler: I'll save you a fin or two.
 Paimon: Mm-hmm, good buddies are always on the same page!
 Albedo: I'll leave you to it, then. Looking forward to the results.
 Albedo: If there's anything left over, maybe Timaeus can finish the last morsels.
 Paimon: Uhh... Paimon doesn't think we'll have that problem.
-Traveler: I'll save you a fin or two.
-Traveler: Sure you're not just peckish?
-Traveler: Paimon, you give it a shot.
-Paimon: You think Paimon knows how to do that stuff?
-Albedo: That was your best effort? Hmm... Well, can't be helped, I suppose.
-Traveler: I drank my fill, thanks...
-Traveler: Your things aren't very organized.
-Albedo: Hmm, agreed. I'd love to find a moment to put them all in order. Still, experiments come first...
 
 ## Talk 7
 
@@ -81,7 +91,10 @@ Paimon: We just didn't know how to channel elemental power into the food. It's a
 Albedo: Not to worry, at least we put some food to good use, no need to feel disheartened.
 Albedo: And here's your portion, enjoy! I can box it up if you like.
 Paimon: Woohoo, thanks! Glad you were paying attention.
-Traveler: You're Paimon's new favorite.
+    Option 1:
+        Traveler: You're Paimon's new favorite.
+    Option 2:
+        Traveler: Not often that Paimon gets this much attention.
 Albedo: I can tell that you're good friends. Paimon was keeping an eye on you and your safety during the whole experiment.
 Albedo: Not that Paimon would have been able to do much if things had gone wrong, but anyway...
 Paimon: Hey! You were being nice a second ago!
@@ -97,7 +110,6 @@ Albedo: I must have dropped them somewhere in the area where you were looking ju
 Paimon: So... guess we'd better take a look?
 Traveler: There should be some elemental traces on the lost items.
 Paimon: Oh yeah! You could use Elemental Sight!
-Traveler: Not often that Paimon gets this much attention.
 
 ## Talk 10
 
@@ -112,7 +124,10 @@ Paimon: We just didn't know how to channel elemental power into the food. It's a
 Albedo: Not to worry, at least we put some food to good use, no need to feel disheartened.
 Albedo: And here's your portion, enjoy! I can box it up if you like.
 Paimon: Woohoo, thanks! Glad you were paying attention.
-Traveler: You're Paimon's new favorite.
+    Option 1:
+        Traveler: You're Paimon's new favorite.
+    Option 2:
+        Traveler: Not often that Paimon gets this much attention.
 Albedo: I can tell that you're good friends. Paimon was keeping an eye on you and your safety during the whole experiment.
 Albedo: Not that Paimon would have been able to do much if things had gone wrong, but anyway...
 Paimon: Hey! You were being nice a second ago!
@@ -128,7 +143,6 @@ Albedo: I must have dropped them somewhere in the area where you were looking ju
 Paimon: So... guess we'd better take a look?
 Traveler: There should be some elemental traces on the lost items.
 Paimon: Oh yeah! You could use Elemental Sight!
-Traveler: Not often that Paimon gets this much attention.
 
 ## Talk 12
 
@@ -158,15 +172,19 @@ Paimon: You mean... We failed again...?
 Albedo: Don't be disheartened, this falls entirely within my expectations. Besides, getting these items back? I'd call this a very worthwhile experiment.
 Albedo: I have to commend your deduction that the items would contain elemental traces.
 Albedo: Right then. Up until now, our research has focused on your otherworldly identity. Our research on your identity as one of us is just beginning.
-Traveler: With you to the end.
+    Option 1:
+        Traveler: With you to the end.
+    Option 2:
+        Traveler: ...How do I get off this train?
 Albedo: In essence, the differences between humans are reflected in our intellectual and physical capabilities. Let's start with physical.
 Albedo: Looking out from where we're standing, can you see what Sucrose is doing?
 Traveler: Nope.
 Albedo: And if you jumped from here and landed on that cliff — the one over there — could you see her then?
 Traveler: Nope.
 Albedo: So what about if you planted a single blow on the mountain face here and it burst into a million fragments? Then could you see her?
-Traveler: Nope.
+    Option 1:
+        Traveler: Nope.
+    Option 2:
+        Traveler: Sounds like we're still on the superpower test.
 Albedo: Hmm, then I shouldn't get too excited. Still, we'll gain a more thorough understanding with an experiment.
 Albedo: I know of a location that will be perfect for a physical test. Please, follow me.
-Traveler: Sounds like we're still on the superpower test.
-Traveler: ...How do I get off this train?

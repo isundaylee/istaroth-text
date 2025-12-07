@@ -17,19 +17,23 @@ Paimon: Okay, since we're already at the Akademiya... why not try looking for so
 
 Dara: Whoa! Stop! Stop that! Just stop!
 Dara: *panting* Come on, this is absolutely unnecessary. It's just a case of books, take it if you like!
-Traveler: That's all?
+    Option 1:
+        Traveler: That's all?
+    Option 2:
+        Traveler: You sure there's nothing else?
 Dara: I swear it! This is all we dug out here!
 Dara: Other than books, we did find some bottled mud and rocks... Well, there were some nice gems, actually...
 Traveler: Did you take them?
 Paimon: Hey! You better give those gems back! Those are precious geological samples!
 Dara: Geological... samples...
-Traveler: Give them back.
+    Option 1:
+        Traveler: Give them back.
+    Option 2:
+        Traveler: On the count of THREE.
 Dara: Yes! Sure! As you say! All of them! Quick, put everything back now...
 Dara: See... Everything is back in the case. So, that's our cue to hit the road... Hehe...
 Paimon: Great, that should be everything Sadife wants. Let's bring the case back to him.
 Paimon: Still, he actually visited the desert alone, collected all those samples and wrote so many notes! Paimon thinks he's a great researcher!
-Traveler: On the count of THREE.
-Traveler: You sure there's nothing else?
 
 ## Talk 5
 
@@ -38,16 +42,20 @@ Traveler: You sure there's nothing else?
 ## Talk 6
 
 Sadife: Traveler, you've returned! About my case...
-Traveler: Here.
+    Option 1:
+        Traveler: Here.
+    Option 2:
+        Traveler: I got it.
 Sadife: Excellent! Thank you so much... To think you had a recommendation letter, and yet I still made you do so much work... Please accept this payment.
-Traveler: As the Purbirunis always say...
+    Option 1:
+        Traveler: As the Purbirunis always say...
+    Option 2:
+        Traveler: Is it that "Wisdom shall not be sold for gold"?
 Sadife: Huh? So you actually know about that? Yes, Purbiruni does have this commandment...
 Sadife: But this admonishment is to prevent us from betraying the principles of research for monetary or other external reasons.
 Sadife: After all, a researcher who pursues research for profit... is unworthy of the title.
 Sadife: But you went to such great lengths to help me, and thus you deserve a reward commensurate with your efforts.
 Sadife: Thanks again for your help, and please do not hesitate to reach out in case you need anything.
-Traveler: Is it that "Wisdom shall not be sold for gold"?
-Traveler: I got it.
 
 ## Talk 7
 
@@ -56,7 +64,10 @@ Paimon: Hmm, this should be the place. Let's... start... digging...
 ## Talk 8
 
 Khedive: Look who's here, eh? Did you find a Purbiruni? Not that hard, right?
-Traveler: We did, but...
+    Option 1:
+        Traveler: We did, but...
+    Option 2:
+        Traveler: Something happened...
 Khedive: Hmm? You seem pretty hesitant. Did someone give you any trouble?
 Black Screen Text: You tell Khedive about everything that happened with Sadife...
 Khedive: Ah, Sadife... He's known for his stubbornness, even his teachers can't always deal with him...
@@ -64,9 +75,15 @@ Khedive: He even turns down every single source of funding, and insists on worki
 Paimon: So that's "Wisdom shall not be sold for gold" at work?
 Khedive: Well, that's the Purbiruni rule... Haha, Pursina is much more flexible.
 Khedive: Well... To be fair, it's just because I am rather well off.
-Traveler: How did you make your money?
+    Option 1:
+        Traveler: How did you make your money?
+    Option 2:
+        Traveler: Why are you so rich?
 Khedive: What's with that skeptical face? I earned my wealth with hard work, okay? Do you even know how hard futures trading is?
-Traveler: F-Futures trading?
+    Option 1:
+        Traveler: F-Futures trading?
+    Option 2:
+        Traveler: You make money through futures trading?
 Khedive: I tell you... One has to know transaction volumes, market trends, and then make the right investment decisions...
 Khedive: At first I thought I'd just invest a little bit for fun, I didn't want it to impact my research...
 Khedive: Who would have thought that... Ugh! I made more and more Mora, and the money I had sitting in the exchange grew and grew...
@@ -75,9 +92,6 @@ Khedive: However, whenever I'm in Sumeru City, I'm drawn to the exchange, and fi
 Khedive: So my bank account balance kept increasing, while my research... No progress AT ALL!
 Khedive: So! Here I am, having hired an entire team for an expedition to The Chasm. Staying far away from anywhere with an exchange is the only way I can get any research done!
 Khedive: Without satisfactory results, I... I won't leave The Chasm!
-Traveler: You make money through futures trading?
-Traveler: Why are you so rich?
-Traveler: Something happened...
 
 ## Additional Conversations
 
@@ -87,7 +101,10 @@ Traveler: Something happened...
 ### Additional Talk 1
 
 Iris: *sigh* This paltry funding is by no means enough for my research...
-Traveler: Um, excuse me...
+    Option 1:
+        Traveler: Um, excuse me...
+    Option 2:
+        Traveler: About a Purbiruni researcher...
 Iris: A Purbiruni researcher? Right, you must be looking for Sadife. A guest for him... Quite unusual.
 Iris: He's been back taking care of things at the Akademiya lately, and should be nearby... What's the matter?
 Traveler: About Khedive's recommendation letter...
@@ -101,7 +118,6 @@ Iris: No way. Khedive is the exception. Don't go getting any unrealistic thought
 Iris: Especially those majoring in Astrology and minoring in History and Biology... In their fields, the unlucky ones can't even manage to apply for research funding.
 Iris: Also, they always repeat something like "Wisdom shall not be sold for gold"...
 Iris: *ahem* I shouldn't have said that... There's your man. Go ask him about anything else you want to know.
-Traveler: About a Purbiruni researcher...
 
 ### Additional Talk 2
 

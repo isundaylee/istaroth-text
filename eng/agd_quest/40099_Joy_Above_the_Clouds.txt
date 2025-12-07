@@ -19,7 +19,10 @@ Paimon: Huh!? This is kinda sudden!
 Paimon: Not that we don't trust you, Timaeus, but um... Could you elaborate a little? After you catch your breath...?
 Timaeus: Of course, of course... Phew.
 Timaeus: Do you still remember the time I, uh, ahem, collaborated with a certain Miss Ying'er?
-Traveler: Rings a bell.
+    Option 1:
+        Traveler: Rings a bell.
+    Option 2:
+        Traveler: Remind me.
 Timaeus: Well basically, she helped me out a lot with my research into potion-making once, and we've stayed in touch through letters ever since...
 Paimon: Wait, so Ying'er is the girl from Liyue that Sucrose mentioned earlier?
 Paimon: We always assumed you were hard at work every time we saw you at the Crafting Bench... So you've just been writing letters to Ying'er the whole time!?
@@ -74,7 +77,6 @@ Sucrose: Wow, that's amazing! You really know how to do everything under the sun
 Albedo: Then we'll let you lead the way.
 Traveler: Follow me.
 Paimon: This is it! We're off to find the sacred location of the Lantern of Utmost Joy!
-Traveler: Remind me.
 
 ## Talk 3
 
@@ -263,7 +265,9 @@ Mona: Yes, it's Windblume again, Alice.
 Scarlett: It's also a special anniversary date. I'm sure you still remember...
 Alice: Yes, I do remember now. It was on this day, many, many years ago, that J tied the knot.
 Alice: Ah, just in time for the festival of love and freedom. Everyone, please enjoy this year's Windblume festival to the fullest.
+
 Black Screen Text: Alice's voice fades, and the lantern grows dim. It is once again just a regular piece of decor.
+[Missing Dialog 400991269]
 
 ## Talk 7
 
@@ -331,7 +335,6 @@ Paimon: Ah! Sucrose! Now's your chance! Didn't you want to collect a "Breath of 
 Sucrose: Ahhh, you're right, I almost forgot! Collei, can you exhale once into this test tube? I will save this breath of joy, and use it in my research.
 Collei: Oh, really? May I?
 Sucrose: Of course!
-Black Screen Text: Collei exhales into Sucrose's test tube, and the fluid turns a deep violet...
 Sucrose: Huh...? What... what was that?
 Collei: It was like a little cloud of happiness, but now it flew away...
 Sucrose: Well, luckily there's still some breath left in the test tube... I'll seal it up for now.
@@ -343,8 +346,10 @@ Cyno: If your friendship was forged in a test tube, does that make you "test fri
 Tighnari: That's it... I think you've ruined Sumeru's reputation in Mondstadt beyond all hope of repair.
 Cyno: All that matters is that I've enjoyed Mondstadt immensely. The dragon here possesses a majestic form.
 Albedo: #Ah, that reminds me. Traveler, this card back is for you.
-Traveler: Wait, for me?
-Traveler: Didn't Cyno commission this?
+    Option 1:
+        Traveler: Wait, for me?
+    Option 2:
+        Traveler: Didn't Cyno commission this?
 Albedo: Cyno wanted you to have one for yourself. If I had to guess, I'd say he probably wants you to use it if you challenge him to a duel.
 Cyno: I'm a master of the game. Do you dare challenge me?
 Paimon: Can you believe this guy!? Let's knock him off his high horse!
@@ -359,8 +364,10 @@ Tighnari: Well, in this case, we can consider ourselves as regular siblings, and
 Collei: Hehe, I agree!
 Collei: #Oh, and here are some Padisarah seeds as well... These are for Traveler, Paimon, and everyone else from Mondstadt.
 Paimon: Whoa! Are these really for us?
-Traveler: Thank you. We really appreciate it.
-Traveler: Score!
+    Option 1:
+        Traveler: Thank you. We really appreciate it.
+    Option 2:
+        Traveler: Score!
 Sucrose: So, are these your chosen Windblumes?
 Collei: Mhm, one of them! Both Padisarahs and Sumeru Roses are my Windblumes.
 Collei: Although they're not native to Mondstadt, they are the flowers that can best express my feelings.
@@ -371,6 +378,9 @@ Collei: ...
 Collei: Sucrose, do you see that cloud over there?
 Sucrose: Hmm?
 Collei: Doesn't it look... just like your test tube?
+
+Black Screen Text: Collei exhales into Sucrose's test tube, and the fluid turns a deep violet...
+[Missing Dialog 400990966]
 
 ## Talk 9
 
@@ -396,32 +406,182 @@ Sucrose: Or... let's all share our thoughts on what we think the answers might b
 ## Talk 11
 
 Clue Board: ...
-Traveler: Read Letters About "A Flower That Is Not of This World"
-Clue Board: About the "flower that is not of this world"...
-Traveler: Read Tighnari's letter
-Traveler: Read Albedo's letter
-Traveler: Read Sucrose's letter
-Traveler: Read other letters
+    Option 1:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read Tighnari's letter
+        Clue Board: About the "flower that is not of this world"...
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read Mona's letter
+        Clue Board: About the "guide who will never get lost"...
+        [Circling back to a pre-branch dialog]
+    Option 3:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read Cyno's letter
+        Clue Board: About the "one who would never lie"...
+        [Circling back to a pre-branch dialog]
+    Option 4:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read Lisa's letter
+        Clue Board: About the "legend that never ends"...
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read Albedo's letter
+        Clue Board: About the "flower that is not of this world"...
+        [Circling back to a pre-branch dialog]
+    Option 6:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read Sucrose's letter
+        Clue Board: About the "flower that is not of this world"...
+        [Circling back to a pre-branch dialog]
+    Option 7:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read other letters
+    Option 8:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read Bennett's letter
+        Clue Board: About the "guide who will never get lost"...
+        [Circling back to a pre-branch dialog]
+    Option 9:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read Amber's letter
+        Clue Board: About the "guide who will never get lost"...
+        [Circling back to a pre-branch dialog]
+    Option 10:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read Mika's letter
+        Clue Board: About the "guide who will never get lost"...
+        [Circling back to a pre-branch dialog]
+    Option 11:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read other letters
+    Option 12:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read Rosaria's letter
+        Clue Board: About the "one who would never lie"...
+        [Circling back to a pre-branch dialog]
+    Option 13:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read Razor's letter
+        Clue Board: About the "one who would never lie"...
+        [Circling back to a pre-branch dialog]
+    Option 14:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read other letters
+    Option 15:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read Klee's letter
+        Clue Board: About the "legend that never ends"...
+        [Circling back to a pre-branch dialog]
+    Option 16:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read Collei's letter
+        Clue Board: About the "legend that never ends"...
+        [Circling back to a pre-branch dialog]
+    Option 17:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read other letters
+    Option 18:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read other letters
+    Option 19:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read other letters
+    Option 20:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read other letters
+    Option 21:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        Traveler: Read other letters
+    Option 22:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read other letters
+    Option 23:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read other letters
+    Option 24:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read other letters
+    Option 25:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        Traveler: Read other letters
+    Option 26:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read other letters
+    Option 27:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read other letters
+    Option 28:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read other letters
+    Option 29:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        Traveler: Read other letters
+    Option 30:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read other letters
+    Option 31:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read other letters
+    Option 32:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read other letters
+    Option 33:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        Traveler: Read other letters
 Clue Board: ...
-Traveler: Read Letters About "A Guide Who Will Never Get Lost"
-Clue Board: About the "guide who will never get lost"...
-Traveler: Read Mona's letter
-Traveler: Read Bennett's letter
-Traveler: Read Amber's letter
-Traveler: Read Mika's letter
-Traveler: Read other letters
-Traveler: Read Letters About "One Who Would Never Lie"
-Clue Board: About the "one who would never lie"...
-Traveler: Read Cyno's letter
-Traveler: Read Rosaria's letter
-Traveler: Read Razor's letter
-Traveler: Read other letters
-Traveler: Read Letters About "A Legend That Never Ends"
-Clue Board: About the "legend that never ends"...
-Traveler: Read Lisa's letter
-Traveler: Read Klee's letter
-Traveler: Read Collei's letter
-Traveler: Read other letters
+    Option 1:
+        Traveler: Read Letters About "A Flower That Is Not of This World"
+        Clue Board: About the "flower that is not of this world"...
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: Read Letters About "A Guide Who Will Never Get Lost"
+        Clue Board: About the "guide who will never get lost"...
+        [Circling back to a pre-branch dialog]
+    Option 3:
+        Traveler: Read Letters About "One Who Would Never Lie"
+        Clue Board: About the "one who would never lie"...
+        [Circling back to a pre-branch dialog]
+    Option 4:
+        Traveler: Read Letters About "A Legend That Never Ends"
+        Clue Board: About the "legend that never ends"...
+        [Circling back to a pre-branch dialog]
+    Option 5:
 Traveler: Stop reading.
 
 ## Talk 12
@@ -564,6 +724,8 @@ Alice: If there's anyone in this world who could create a flower species that do
 Alice: The "guide who will never get lost" is N, otherwise known as Nicole. You may have not encountered her yet, but she is a truly extraordinary woman who has made this world's direction and order her subject of study.
 Alice: Some of you may be fortunate enough to have already heard her voice. Like a prophetess, she will only speak to guide people toward the truth when a change has occurred in the world.
 Alice: She has a tendency to... suddenly speak in someone's mind without any warning.
+[Missing Dialog 400991230]
+
 Alice: If one day, you would be unfortunate enough to run into a truly dangerous situation, she may use her voice to guide the way forward for you.
 Mona: Who would have guessed that there are so many mysterious women in this world, and that they would all know each other...
 Alice: The "one who would never lie" is... me. I hope no one would take offense — it's just that I, Alice, or "A" for short, have always had a soft spot for those with sincerity and candor.
@@ -601,4 +763,6 @@ Mona: Yes, it's Windblume again, Alice.
 Scarlett: It's also a special anniversary date. I'm sure you still remember...
 Alice: Yes, I do remember now. It was on this day, many, many years ago, that J tied the knot.
 Alice: Ah, just in time for the festival of love and freedom. Everyone, please enjoy this year's Windblume festival to the fullest.
+
 Black Screen Text: Alice's voice fades, and the lantern grows dim. It is once again just a regular piece of decor.
+[Missing Dialog 400991269]

@@ -11,14 +11,19 @@ Mikoshi Genichirou: This object falls somewhat outside my area of expertise.
 Mikoshi Genichirou: Please, don't scoff. I am but a mere craftsman myself...
 Mikoshi Genichirou: How about this, then? 80,000 and 5 Sashimi Platters. Those dishes aren't cheap by any means, mind you.
 Mikoshi Genichirou: If you agree to this price, I will buy this treasure.
-Traveler: ...What will you use it for?
-Mikoshi Genichirou: I'm not sure at the moment. I'll need to give it some thought.
-Mikoshi Genichirou: If the situation is right, I might be able to modify this into a special netsuke and sell it for a decent price.
-Traveler: A fair price. Done.
-Mikoshi Genichirou: In that case, please take this Mora. As for me, I'm going to go look into this item.
-Traveler: Let me think about it a bit more.
-Mikoshi Genichirou: Fair enough. I need to give this a little thought myself.
-Mikoshi Genichirou: You can come to me again once you've thought things over.
+    Option 1:
+        Traveler: ...What will you use it for?
+        Mikoshi Genichirou: I'm not sure at the moment. I'll need to give it some thought.
+        Mikoshi Genichirou: If the situation is right, I might be able to modify this into a special netsuke and sell it for a decent price.
+        Mikoshi Genichirou: If you agree to this price, I will buy this treasure.
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: A fair price. Done.
+        Mikoshi Genichirou: In that case, please take this Mora. As for me, I'm going to go look into this item.
+    Option 3:
+        Traveler: Let me think about it a bit more.
+        Mikoshi Genichirou: Fair enough. I need to give this a little thought myself.
+        Mikoshi Genichirou: You can come to me again once you've thought things over.
 
 ## Additional Conversations
 
@@ -27,8 +32,10 @@ Mikoshi Genichirou: You can come to me again once you've thought things over.
 Traveler: About the Dragonbone Orb...
 Mikoshi Genichirou: Have you decided to sell me the Dragonbone Orb, then?
 Mikoshi Genichirou: The price is the same as before. 80,000 Mora and 5 Sashimi Platters.
-Traveler: It's yours, then.
-Mikoshi Genichirou: In that case, please take this Mora. As for me, I'm going to go look into this item.
-Traveler: Let me think about it one more time.
-Mikoshi Genichirou: Fair enough. I need to give this a little thought myself.
-Mikoshi Genichirou: You can come to me again once you've thought things over.
+    Option 1:
+        Traveler: It's yours, then.
+        Mikoshi Genichirou: In that case, please take this Mora. As for me, I'm going to go look into this item.
+    Option 2:
+        Traveler: Let me think about it one more time.
+        Mikoshi Genichirou: Fair enough. I need to give this a little thought myself.
+        Mikoshi Genichirou: You can come to me again once you've thought things over.

@@ -23,7 +23,10 @@ Paimon: So this person we're looking for... What's his name? Where did he live? 
 Bahram: I don't know. I really have no clue. I couldn't tell you.
 Paimon: Okaayy... Guess you really are sick of answering questions.
 Bahram: Ah... I'm sorry. I didn't mean to sound short with you. I was actually just giving you my answer to your questions.
-Traveler: So those three questions are a no go, then...
+    Option 1:
+        Traveler: So those three questions are a no go, then...
+    Option 2:
+        Traveler: Is there anything else you can tell us?
 Bahram: I know it may seem like we don't have anything to offer by way of information, but I promise you we all have a very strong impression of him. When you live in the same village as someone, you develop a lot of memories together, y'know?
 Bahram: We just don't know the specifics. Maybe we did at one point, but that information is long gone by now...
 Bahram: At least, that's what everyone in the village seems to think. We've all exchanged what we know, and that was the only logical conclusion.
@@ -36,7 +39,6 @@ Bahram: There aren't many young people like him nowadays, so genuine and pure. T
 Paimon: Could he have just... moved away without telling anyone?
 Bahram: No. He's not the type to leave without saying goodbye. And anyway, moving away without being seen by a single person in the village? There's no way he would've been able to manage that...
 Paimon: Huh... All right. Thanks for the information! We're gonna go ask around some more.
-Traveler: Is there anything else you can tell us?
 
 ## Talk 4
 
@@ -55,10 +57,16 @@ Paimon: But, um... You wouldn't happen to know any details about his name, addre
 Amadhiah: *sigh*... I'm ashamed to admit it, but... I just can't remember. No matter how you look at it, I should know those things, but for some reason, no matter how hard I try to remember, the information just doesn't come. Perhaps my age really has caught up with me this time...
 Paimon: Ah... It's okay! There's no need to force yourself to try and remember. We'll figure something out...
 Paimon: #Well, Traveler? What do you think?
-Traveler: There's probably more to this case than meets the eye.
+    Option 1:
+        Traveler: There's probably more to this case than meets the eye.
+    Option 2:
+        Traveler: A lot of things are not adding up.
 Paimon: Paimon thinks so too! Like the name thing... It's so weird that no one remembers his name.
 Paimon: And nobody has been able to tell us anything about his family or where he lived... It's like this guy's been erased from reality or something.
-Traveler: I would say it's more like...
+    Option 1:
+        Traveler: I would say it's more like...
+    Option 2:
+        Traveler: He's someone who only exists in people's memories.
 Paimon: Wait... So you're saying, it's not that he's been "erased" necessarily, but more like he never "existed" to begin with?
 Paimon: Okay, Paimon's gonna need some time to process that one... Someone who only exists in people's memories...
 Traveler: (Could it be like what happened with Greater Lord Rukkhadevata? Like some sort of mass alteration of people's memories...?)
@@ -66,12 +74,12 @@ Atossa (???): You two are the adventurers who just arrived, right? You're here f
 Paimon: Yep, sure are! We were just looking into the case...
 Atossa (???): I'm so glad to hear that! Thank goodness you haven't given up. I've been so worried the Adventurers' Guild might cancel our commission...
 Atossa: My name is Atossa, by the way. I grew up here in Vimara Village. Anyway, I just wanted to say... Please keep searching for our missing villager. I'm begging you. You have to find him...
-Traveler: I'm sure we'll track him down.
+    Option 1:
+        Traveler: I'm sure we'll track him down.
+    Option 2:
+        Traveler: We'll certainly try our best.
 Paimon: Yeah! No need to worry! We'll give it our best shot! So, were you close to the missing villager? Are there any leads you can give us?
 Atossa: Hmm... I'm not sure this counts as a lead, but follow me. There's a place I'd like to show you.
-Traveler: We'll certainly try our best.
-Traveler: He's someone who only exists in people's memories.
-Traveler: A lot of things are not adding up.
 
 ## Talk 5
 
@@ -83,9 +91,15 @@ Atossa: I was surrounded by such good people, and growing up in the village was 
 Paimon: Alone?
 Atossa: *sigh*... How should I put it? When something's bothering you, or when you have good news to share, you always want to talk about it with somebody. But, for the longest time, I didn't know who I could talk to, or if I should say anything at all...
 Atossa: Everyone has their own problems to deal with. Even if I might want to confide in others, I don't want to become a burden.
-Traveler: I think I get what you mean.
+    Option 1:
+        Traveler: I think I get what you mean.
+    Option 2:
+        Traveler: That's what family is for.
 Atossa: Really? You know exactly how I feel?
-Traveler: I used to have someone like that, a family member that I could talk to no matter what.
+    Option 1:
+        Traveler: I used to have someone like that, a family member that I could talk to no matter what.
+    Option 2:
+        Traveler: But now, I have a lot of friends who understand me, and would be happy to hear me out.
 Paimon: Aww!
 Atossa: Wow, that sounds really nice. You're quite lucky. When it comes to our missing villager, well... I guess you could say that, to me, he felt like both — a family member I could rely on, and a friend who could really understand me.
 Atossa: No matter what came my way, I knew I could always talk to him...
@@ -99,22 +113,24 @@ Atossa: Oh right, I did ask him about his parents once... But, all he said was, 
 Atossa: I didn't know whether that meant they had left the village or passed away, and I didn't want to pry...
 Paimon: Hmm, still not much to go off of...
 Atossa: Ah, look at me, talking your ear off and still nothing to show for it. I'm sorry I wasn't more help...
-Traveler: Don't say that.
+    Option 1:
+        Traveler: Don't say that.
+    Option 2:
+        Traveler: You helped us understand him better.
 Atossa: The last time I talked this much in one go was when we were still together.
 Atossa: Come to think of it, every time we talked, it always seemed to be around dusk, just like right now.
 Atossa: Time always passed by really slowly. Even when it felt like we'd been talking for hours, the sun would still be at the same position in the sky...
 Paimon: #Well, time always seems to pass slower when you're relaxed, right? ...Huh? What's wrong, Traveler?
-Traveler: It was always the same time of day...
+    Option 1:
+        Traveler: It was always the same time of day...
+    Option 2:
+        Traveler: And time never seemed to pass...
 Traveler: (Based on what we've learned, this is definitely not a regular missing person's case...)
 Traveler: (What Atossa just told us about time could be the key to unraveling this whole mystery...)
 Paimon: ...Hey, look at those Hilichurls over there... Doesn't it seem like they're acting a little strange?
 Traveler: ...
 Paimon: Uh, the Abyss Order. Could they be the ones behind all of this?
 Paimon: Uh-oh, we've been spotted. Quick, get ready to fight!
-Traveler: And time never seemed to pass...
-Traveler: You helped us understand him better.
-Traveler: But now, I have a lot of friends who understand me, and would be happy to hear me out.
-Traveler: That's what family is for.
 
 ## Talk 6
 
@@ -124,9 +140,11 @@ Amadhiah: While you two are out searching, I'll also try and see what I can reme
 
 Atossa: Thank you so much! I wasn't expecting monsters to show up. If you hadn't been here, I'm not sure what I would've done...
 Paimon: It was no trouble!
-Traveler: The question we should be asking now is...
+    Option 1:
+        Traveler: The question we should be asking now is...
+    Option 2:
+        Traveler: What is the Abyss Order doing around here?
 Atossa: Hmm, now that I think about it, the Hilichurls around Vimara Village have been a lot more active lately...
 Atossa: They seem agitated, and would often attack anything in sight. Chief Amadhiah doesn't allow the children to play in the area around the village anymore.
 Paimon: Huh... Maybe the Abyss Order really is involved...
 Paimon: Well, we should head back and check out the situation in Vimara Village just in case. If the Abyss Order is plotting something, that could spell trouble for the villagers.
-Traveler: What is the Abyss Order doing around here?

@@ -16,7 +16,10 @@ Delaroche: Oh, that has nothing to do with fishing itself. It's just that everyo
 Delaroche: I used to be an ordinary clerk at the Fontaine Research Institute. I was in charge of purchasing equipment and negotiating prices with vendors... But most of the time, I was just waiting for responses from them.
 Delaroche: All I could do was wander around the streets in search of something to do while waiting for them to get back to me. It felt like I was wasting my life, and I just couldn't take it anymore!
 Paimon: Wasting your life... and you couldn't take it? You don't have to do anything, and people will still think you're hard at work! Why would you be upset about that? Paimon doesn't get it...
-Traveler: I wouldn't mind a job like that...
+    Option 1:
+        Traveler: I wouldn't mind a job like that...
+    Option 2:
+        Traveler: I'd like to get paid to loaf around...
 Delaroche: Thankfully, I met my new friends at the Fishing Association and they introduced me to the fun of fishing! After getting hooked on this hobby, my life took on a whole new direction!
 Delaroche: To repay them, I provided them with lots of equipment sitting around unused by the Institute. Using the kits I gave them, the members of the association started getting quite a few more bites on their hooks!
 Delaroche: They credited me for all their newfound success. Since I was familiar with the process of interacting with vendors and had an excess of free time, everyone elected me as director...
@@ -28,12 +31,13 @@ Black Screen Text: Delaroche concentrates wholeheartedly on fishing...
 Paimon: Paimon thinks that Delaroche is pretty honest! She even told us stuff like how she's skipping out on work and fishing on the job without any hesitation.
 Paimon: But, now that Paimon thinks about it, is it really possible for someone to fish for months and never get a bite? Just what's going on here?
 Paimon: If Delaroche doesn't manage to catch a fish and loses her confidence, or if people start doubting her and she gets replaced as the director of the Fishing Association, maybe the new person won't be nearly as easy to get along with...
-Traveler: It's important that the director has a good personality!
+    Option 1:
+        Traveler: It's important that the director has a good personality!
+    Option 2:
+        Traveler: Whoa, you're actually anticipating potential risks!
 Paimon: So you agree with Paimon! Then we should help her and make sure she catches at least one fish and doesn't give up on the job...
 Paimon: Hmm... Nothing looks wrong with Delaroche's fishing pole, and she's really focused and not fidgeting at all...
 Paimon: (Maybe the problem's *underwater*? Something about her bait? Let's check out the *hook* and *bait* she's using!)
-Traveler: Whoa, you're actually anticipating potential risks!
-Traveler: I'd like to get paid to loaf around...
 
 ## Talk 2
 
@@ -64,14 +68,16 @@ Paimon: Uh... congratulations! We just wanna ask, why don't you usually use bait
 Delaroche: Hm? Why are you suddenly asking about that? I'm not that proficient with bait types, really...
 Delaroche: I only heard an older angler say: "The more the bait diffuses, the more fish it can attract." So, I supplemented the most popular bait formulas with a substance that dissolves more easily in the water...
 Delaroche: Hold on, does this mean that overly soft bait will lose out to Linebreakers in battle... Is that why I never managed to catch any fish before?
-Traveler: It didn't "lose" to the fish...
+    Option 1:
+        Traveler: It didn't "lose" to the fish...
+    Option 2:
+        Traveler: It's just completely dissolved...
 Paimon: Oh! So it's not that she didn't use bait, but the bait she used completely disintegrated? If it just turned into soup in the water... then why would the fish ever bite the hook!?
 Delaroche: I think I understand... I finally understand! You two have granted me the essential epiphany! Please... accept my sincerest thanks!
 Delaroche: Of course, this meager reward isn't enough. Once I become a master angler renowned throughout Fontaine, you will be known as my distinguished mentors. Such a title will be priceless!
 Delaroche: Next, I'm going to alter the composition of my bait. I'll make it sturdier, and then I'll beat the strongest of the Linebreakers with but a few tugs!
 Paimon: That's not exactly how it's supposed to work, but at least Delaroche knows not to use bait that easily dissolves! Things turned out okay, right?
 Paimon: Paimon hopes everything will go as smoothly as Delaroche imagines!
-Traveler: It's just completely dissolved...
 
 ## Talk 6
 
@@ -80,25 +86,31 @@ Delaroche: Whoa! You two finally showed up again!
 Delaroche: I hope your arrival heralds the revival of my fishing career once again...
 Delaroche: No, no! I must execute the plan and use my own strength to overcome any problems. I can't just rely on other people to do the thinking all the time!
 Paimon: What? What's wrong? Why are you panicking?
-Traveler: Could it be that you ran into trouble again?
+    Option 1:
+        Traveler: Could it be that you ran into trouble again?
+    Option 2:
+        Traveler: You still can't catch any fish?
 Delaroche: I'm embarrassed to say...
 Delaroche: Ever since you two inspired me, I've completely changed how I think about making bait. I increased the strength, and now it can't possibly be destroyed when I'm scuffling against a Linebreaker!
 Delaroche: But even so, I still can't catch a single fish, much less relive the glory I felt that day...
 Paimon: #Uh, d—don't worry! The fish you caught then was... a rare specimen! You can't catch another one like that twice in a short time... right, Traveler?
-Traveler: Yep yep yep!
+    Option 1:
+        Traveler: Yep yep yep!
+    Option 2:
+        Traveler: I shall bear witness to the truth of the statement!
 Delaroche: Of course, I won't give up that easily! I should look on the bright side. My current situation is still far better when compared to my "fishless" phase!
 Delaroche: Recently, I bought a bunch of different bait from my friends at the Fishing Association and plan to test their effects one after another... I also need to investigate rod, hook, and line combinations!
 Delaroche: I should consider your appearance as a sign and redouble my efforts, and keep testing all kinds of new combinations...
 Black Screen Text: Delaroche takes up her rod once more, meticulously examines her bait, and dedicates all her focus on fishing...
 Paimon: Delaroche is pretty motivated... She managed to psyche herself up before we even said anything and didn't seem discouraged at all.
 Paimon: From what she said though, it sounds like her primary focus is on making sure the bait isn't destroyed by the Linebreakers...
-Traveler: Sounds like the problem is with her bait again.
+    Option 1:
+        Traveler: Sounds like the problem is with her bait again.
+    Option 2:
+        Traveler: If the bait's too hard, the fish can't bite into it.
 Paimon: Paimon thinks so too! Anyway, shall we dive underwater and help her out again?
 Paimon: But... if we keep attaching fish to her hook, it feels like we're treating her like a child and just trying to keep her happy.
 Paimon: Let's try switching out her bait this time. That way, at least the act of catching the fish will belong to her!
-Traveler: If the bait's too hard, the fish can't bite into it.
-Traveler: I shall bear witness to the truth of the statement!
-Traveler: You still can't catch any fish?
 
 ## Talk 7
 
@@ -110,7 +122,10 @@ Traveler: Did you land another one?
 Delaroche: You two! You two are my "Gods of Victorious Linebreaking"!
 Delaroche: Every time you show up, it's like I'm imbued with some kind of power, and just reel these Linebreakers right up!
 Paimon: Hm! We were just mentors last time, and now, we're gods... This is getting ridiculous!
-Traveler: Then you should thank us!
+    Option 1:
+        Traveler: Then you should thank us!
+    Option 2:
+        Traveler: Remember to make offerings to your new gods!
 Delaroche: Aaaah! I almost forgot. I am so sorry! I'll go to the bank later and see how much savings I have...
 Paimon: Savings! That sounds pretty hefty...
 Paimon: #Agh! No, wait! Traveler is probably just joking!
@@ -118,7 +133,10 @@ Paimon: Asking for money while claiming to be a god is what scammers do!
 Paimon: This time... Uh... Well, from now on, every time you catch a fish, you must believe that you can defeat even the strongest of Linebreakers with just your... uh, what's it called?
 Paimon: Right! With your determination and dedication to fishing!
 Paimon: Of course, it's also important to choose the right bait... Maybe there are different types of bait that are even more effective than the ones you've been using, and might help you hook even bigger fishes. You should try using more types of bait!
-Paimon: Well said, Paimon!
+    Option 1:
+        Paimon: Well said, Paimon!
+    Option 2:
+        Traveler: Cheerleader-in-Chief Paimon!
 Paimon: If you want to thank us, you don't need to clean out your savings. You just need to reasonably express your gratitude.
 Delaroche: You two! You're positively glowing right now!
 Delaroche: I've never been so encouraged by someone else before!
@@ -131,8 +149,6 @@ Paimon: How about we just put some normal bait in her luggage? When she starts e
 Black Screen Text: You place effective yet easy-to-make bait into Delaroche's luggage...
 Paimon: Perfect! This way, Delaroche will always be able to hook the biggest of fish in the future!
 Paimon: And our labors will finally come to an end!
-Traveler: Cheerleader-in-Chief Paimon!
-Traveler: Remember to make offerings to your new gods!
 
 ## Talk 9
 
@@ -143,14 +159,20 @@ Delaroche: That's right! I wish to speak with you about a miracle I experienced.
 Delaroche: Upon being cast into the water, it can immediately attract all the nearby fish! I heard it uses advanced alchemy, so even if you know the formula, an ordinary person can't replicate the effects!
 Delaroche: I'm guessing it's you two that blessed me with the luck to meet such a master bait-maker! This superb, preeminent, and all-supreme master is unmatched and unequalled in their generosity leaving me such bait!
 Paimon: Yeah! This superb, preeminent... uh, all-supreme master sounds really nice!
-Traveler: Haha! Who's this kind benefactor?
+    Option 1:
+        Traveler: Haha! Who's this kind benefactor?
+    Option 2:
+        Traveler: I don't think it's anything special!
 Delaroche: At this point, I cannot let the efforts of this benefactor go to waste! They must have left the bait to inspire me, not to give me a completed product for me to copy and rely on.
 Delaroche: I'll only be able to catch a few paltry fish if the bait only lasts for a moment or two, but by understanding the principles underlying the effectiveness of the bait, I will be able to hook countless monster-sized fish!
 Delaroche: So, I strained my brain to the fullest and bought a few special gifts before inviting a few researcher friends of mine over to help create the "Active Odor Imitating Bait"...
 Delaroche: This device can analyze the odors given off by dissolving bait and will use other ingredients to imitate the effects! Using this, I can become the greatest angler in all of Fontaine!
 Paimon: Wait, you need to slow down a bit! Going from someone who just made a new kind of bait to being the greatest fisher in Fontaine... You seemed to have skipped over a bunch of steps in between!
 Delaroche: The details are unimportant! After receiving your encouragement, my motivation has ascended far beyond what was once possible. If I can't rise to the top in one go, that would be simply unacceptable!
-Traveler: That kind of confidence is a bit excessive...
+    Option 1:
+        Traveler: That kind of confidence is a bit excessive...
+    Option 2:
+        Traveler: To the point it's a bit disquieting...
 Paimon: Delaroche... she's gone from one extreme to the other!
 Paimon: Wait, didn't you say you wanted to use that new bait to break your own records? But it looks like... you aren't fishing at all?
 Delaroche: There lies the rub. Not long ago, I hooked a truly gargantuan fish. But it managed to bite the "Active Odor Imitating Bait" clean off the hook.
@@ -158,15 +180,15 @@ Delaroche: As such, I have prepared a divesuit to descend into the waters and re
 Delaroche: It's a pity, but I fear I'll have to ask you two to wait a moment...
 Paimon: Whoa, whoa, hold on! If you've never dived before, don't just jump in headfirst! If you get lost underwater or your divesuit malfunctions... Not even the archons or adepti can save you!
 Delaroche: But if I don't retrieve my "Active Odor Imitating Bait," all the effort I made will have been in vain! And hiring a professional diver costs far too much. I have to do something...
-Traveler: It's just a piece of bait.
+    Option 1:
+        Traveler: It's just a piece of bait.
+    Option 2:
+        Traveler: We'll get it for you, just watch.
 Paimon: #Yeah! Paimon and Traveler are pretty good at getting around underwater. Let us help, we'll be done in a flash!
 Delaroche: I... I don't know what to say! I shall prostrate myself before you! All the way down on the ground!
 Delaroche: Ah... I seem to have been standing here too long... My hips are numb and my legs are cramping... I can't even kneel...
 Paimon: Paimon thinks she might be the first person we've met that's this... obsessed with fishing, right?
 Paimon: Anyway, if that bait is as good as Delaroche says, she might actually become a legendary angler after all...
-Traveler: We'll get it for you, just watch.
-Traveler: To the point it's a bit disquieting...
-Traveler: I don't think it's anything special!
 
 ## Talk 10
 
@@ -178,52 +200,142 @@ Traveler: We're back!
 Delaroche: How did it go? Did you find my "Active Odor Imitating Bait"?
 Paimon: It's right here, Delaroche, hold onto it! But don't get too excited just yet. There's something very important we have to tell you...
 Paimon: #(Agh. Traveler, do we want to speak to her slowly and rationally or... exaggerate a little? Y'know, scare her and emphasize how dangerous this piece of bait is?)
-Traveler: Let's explain patiently and rationally.
-Paimon: (Alright! Then let's emphasize how, uh... most of the fish will be scared off if monsters appear! Not being able to catch any fish should unnerve Delaroche enough to stop using that dangerous bait!)
-Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how the "Active Odor Imitating Bait" will attract aquatic monsters and threaten the fishing spot...
+    Option 1:
+        Traveler: Let's explain patiently and rationally.
+        Paimon: (Alright! Then let's emphasize how, uh... most of the fish will be scared off if monsters appear! Not being able to catch any fish should unnerve Delaroche enough to stop using that dangerous bait!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how the "Active Odor Imitating Bait" will attract aquatic monsters and threaten the fishing spot...
 Though you don't know much about the ecological relations between aquatic monsters and regular fish, you've met your share of scholars, and find yourself more than capable of imitating their manner of speaking...
-Black Screen Text: You artfully describe how some aquatic monsters will completely clear all fish from an area just by passing through those waters, as they are known to frequently emit an "indescribable screech." Even fish not regularly predated by the monsters will be unable to endure such a disturbance, and will thus scatter in terror...
-Black Screen Text: Your descriptions are so vivid, they render Delaroche dumbstruck. Facing the waters with a grave expression, she spends a long moment in silent rumination before shifting her attention back to the present...
-Delaroche: So that means that the "Active Odor Imitating Bait" can disturb an entire section of the underwater ecology. I never thought it could have such an enormous impact...
-Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odor Imitating Bait" so crudely and irresponsibly, or risk damaging underwater habitats...
-Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
-Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
-Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
-Traveler: That's a nice thought!
-Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
-Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
-Traveler: Yeah, I'm exhausted!
-Delaroche: I must thank you both again, my gratitude is boundless!
-Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
-Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
-Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
-Delaroche: Of course, I never idly boast!
-Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
-Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
-Traveler: Poor us!
-Traveler: You have a promising future!
-Traveler: Let's scare her!
-Paimon: (Hmm. That could work too. Delaroche doesn't seem to realize just how dangerous some things are, after all... Maybe if we don't make things sound super scary, she won't take these matters seriously, and will just end up hurting herself!)
-Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how dangerous the monsters drawn by the "Active Odor Imitating Bait" are...
+        Black Screen Text: You artfully describe how some aquatic monsters will completely clear all fish from an area just by passing through those waters, as they are known to frequently emit an "indescribable screech." Even fish not regularly predated by the monsters will be unable to endure such a disturbance, and will thus scatter in terror...
+        Black Screen Text: Your descriptions are so vivid, they render Delaroche dumbstruck. Facing the waters with a grave expression, she spends a long moment in silent rumination before shifting her attention back to the present...
+        Delaroche: So that means that the "Active Odor Imitating Bait" can disturb an entire section of the underwater ecology. I never thought it could have such an enormous impact...
+        Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odor Imitating Bait" so crudely and irresponsibly, or risk damaging underwater habitats...
+        Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
+        Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
+        Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
+        Traveler: That's a nice thought!
+        Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Yeah, I'm exhausted!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
+    Option 2:
+        Traveler: Let's scare her!
+        Paimon: (Hmm. That could work too. Delaroche doesn't seem to realize just how dangerous some things are, after all... Maybe if we don't make things sound super scary, she won't take these matters seriously, and will just end up hurting herself!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how dangerous the monsters drawn by the "Active Odor Imitating Bait" are...
 To better illustrate to Delaroche how helpless an ordinary person would be when faced with an aquatic monster, you and Paimon begin a lively performance to aid her conceptualization...
-Black Screen Text: You play a large monster while Paimon plays a smaller one. You begin a game of catch using a Sunsettia, tossing it back and forth as it becomes more and more mangled. Said Sunsettia symbolizes an ordinary person.
+        Black Screen Text: You play a large monster while Paimon plays a smaller one. You begin a game of catch using a Sunsettia, tossing it back and forth as it becomes more and more mangled. Said Sunsettia symbolizes an ordinary person.
 Thus, it dawns on Delaroche: "Though the difference in size may not be so great, this is what happens when an ordinary person encounters an aquatic monster. A human will be completely helpless, and become a mere plaything!"
-Black Screen Text: After the demonstration, Paimon promptly eats the Sunsettia...
-Paimon: Nom... Nom... Anyway! People who get nabbed by aquatic monsters be helpless, just like that! Even if they don't get eaten, they're going to be pretty miserable!
-Delaroche: I never thought the effects of the "Active Odor Imitating Bait" would be so extreme. I didn't think it would attract anything that couldn't be caught and eaten...
-Delaroche: Your feedback has been crucial! I'll keep the maximum efficacy of the "Active Odor Imitating Bait" low and maintain it at a level that can attract Linebreakers, but nothing out of the ordinary...
-Delaroche: In terms of safety precautions, I'll also need to prepare a weapon I'm familiar with and prepare to... repel any aquatic monsters that leap above the surface, and perhaps even cut the line if things are untenable!
-Paimon: That's good! Delaroche finally knows how serious things are and her enthusiasm hasn't been curbed... We can relax now!
-Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
-Traveler: Yeah, I'm exhausted!
-Delaroche: I must thank you both again, my gratitude is boundless!
-Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
-Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
-Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
-Delaroche: Of course, I never idly boast!
-Delaroche: Thanks to you two, I will soon become the ultimate angler! And then, I will spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
-Delaroche: If I really... if I really manage to knock out some strange manner of "seafood" and reel it in, maybe I can gift it to you as a souvenir. I hope you won't mind such a gift!
-Traveler: Poor us!
+        Black Screen Text: After the demonstration, Paimon promptly eats the Sunsettia...
+        Paimon: Nom... Nom... Anyway! People who get nabbed by aquatic monsters be helpless, just like that! Even if they don't get eaten, they're going to be pretty miserable!
+        Delaroche: I never thought the effects of the "Active Odor Imitating Bait" would be so extreme. I didn't think it would attract anything that couldn't be caught and eaten...
+        Delaroche: Your feedback has been crucial! I'll keep the maximum efficacy of the "Active Odor Imitating Bait" low and maintain it at a level that can attract Linebreakers, but nothing out of the ordinary...
+        Delaroche: In terms of safety precautions, I'll also need to prepare a weapon I'm familiar with and prepare to... repel any aquatic monsters that leap above the surface, and perhaps even cut the line if things are untenable!
+        Paimon: That's good! Delaroche finally knows how serious things are and her enthusiasm hasn't been curbed... We can relax now!
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Yeah, I'm exhausted!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I will soon become the ultimate angler! And then, I will spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: If I really... if I really manage to knock out some strange manner of "seafood" and reel it in, maybe I can gift it to you as a souvenir. I hope you won't mind such a gift!
+    Option 3:
+        Traveler: Let's explain patiently and rationally.
+        Paimon: (Alright! Then let's emphasize how, uh... most of the fish will be scared off if monsters appear! Not being able to catch any fish should unnerve Delaroche enough to stop using that dangerous bait!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how the "Active Odor Imitating Bait" will attract aquatic monsters and threaten the fishing spot...
+Though you don't know much about the ecological relations between aquatic monsters and regular fish, you've met your share of scholars, and find yourself more than capable of imitating their manner of speaking...
+        Black Screen Text: You artfully describe how some aquatic monsters will completely clear all fish from an area just by passing through those waters, as they are known to frequently emit an "indescribable screech." Even fish not regularly predated by the monsters will be unable to endure such a disturbance, and will thus scatter in terror...
+        Black Screen Text: Your descriptions are so vivid, they render Delaroche dumbstruck. Facing the waters with a grave expression, she spends a long moment in silent rumination before shifting her attention back to the present...
+        Delaroche: So that means that the "Active Odor Imitating Bait" can disturb an entire section of the underwater ecology. I never thought it could have such an enormous impact...
+        Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odor Imitating Bait" so crudely and irresponsibly, or risk damaging underwater habitats...
+        Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
+        Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
+        Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
+        Traveler: You have a promising future!
+        Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Yeah, I'm exhausted!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
+    Option 4:
+        Traveler: Let's scare her!
+        Paimon: (Hmm. That could work too. Delaroche doesn't seem to realize just how dangerous some things are, after all... Maybe if we don't make things sound super scary, she won't take these matters seriously, and will just end up hurting herself!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how dangerous the monsters drawn by the "Active Odor Imitating Bait" are...
+To better illustrate to Delaroche how helpless an ordinary person would be when faced with an aquatic monster, you and Paimon begin a lively performance to aid her conceptualization...
+        Black Screen Text: You play a large monster while Paimon plays a smaller one. You begin a game of catch using a Sunsettia, tossing it back and forth as it becomes more and more mangled. Said Sunsettia symbolizes an ordinary person.
+Thus, it dawns on Delaroche: "Though the difference in size may not be so great, this is what happens when an ordinary person encounters an aquatic monster. A human will be completely helpless, and become a mere plaything!"
+        Black Screen Text: After the demonstration, Paimon promptly eats the Sunsettia...
+        Paimon: Nom... Nom... Anyway! People who get nabbed by aquatic monsters be helpless, just like that! Even if they don't get eaten, they're going to be pretty miserable!
+        Delaroche: I never thought the effects of the "Active Odor Imitating Bait" would be so extreme. I didn't think it would attract anything that couldn't be caught and eaten...
+        Delaroche: Your feedback has been crucial! I'll keep the maximum efficacy of the "Active Odor Imitating Bait" low and maintain it at a level that can attract Linebreakers, but nothing out of the ordinary...
+        Delaroche: In terms of safety precautions, I'll also need to prepare a weapon I'm familiar with and prepare to... repel any aquatic monsters that leap above the surface, and perhaps even cut the line if things are untenable!
+        Paimon: That's good! Delaroche finally knows how serious things are and her enthusiasm hasn't been curbed... We can relax now!
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Poor us!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I will soon become the ultimate angler! And then, I will spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: If I really... if I really manage to knock out some strange manner of "seafood" and reel it in, maybe I can gift it to you as a souvenir. I hope you won't mind such a gift!
+    Option 5:
+        Traveler: Let's explain patiently and rationally.
+        Paimon: (Alright! Then let's emphasize how, uh... most of the fish will be scared off if monsters appear! Not being able to catch any fish should unnerve Delaroche enough to stop using that dangerous bait!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how the "Active Odor Imitating Bait" will attract aquatic monsters and threaten the fishing spot...
+Though you don't know much about the ecological relations between aquatic monsters and regular fish, you've met your share of scholars, and find yourself more than capable of imitating their manner of speaking...
+        Black Screen Text: You artfully describe how some aquatic monsters will completely clear all fish from an area just by passing through those waters, as they are known to frequently emit an "indescribable screech." Even fish not regularly predated by the monsters will be unable to endure such a disturbance, and will thus scatter in terror...
+        Black Screen Text: Your descriptions are so vivid, they render Delaroche dumbstruck. Facing the waters with a grave expression, she spends a long moment in silent rumination before shifting her attention back to the present...
+        Delaroche: So that means that the "Active Odor Imitating Bait" can disturb an entire section of the underwater ecology. I never thought it could have such an enormous impact...
+        Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odor Imitating Bait" so crudely and irresponsibly, or risk damaging underwater habitats...
+        Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
+        Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
+        Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
+        Traveler: You have a promising future!
+        Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Poor us!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
+    Option 6:
+        Traveler: Let's explain patiently and rationally.
+        Paimon: (Alright! Then let's emphasize how, uh... most of the fish will be scared off if monsters appear! Not being able to catch any fish should unnerve Delaroche enough to stop using that dangerous bait!)
+        Black Screen Text: You and Paimon describe the incident that just happened underwater to Delaroche, stressing how the "Active Odor Imitating Bait" will attract aquatic monsters and threaten the fishing spot...
+Though you don't know much about the ecological relations between aquatic monsters and regular fish, you've met your share of scholars, and find yourself more than capable of imitating their manner of speaking...
+        Black Screen Text: You artfully describe how some aquatic monsters will completely clear all fish from an area just by passing through those waters, as they are known to frequently emit an "indescribable screech." Even fish not regularly predated by the monsters will be unable to endure such a disturbance, and will thus scatter in terror...
+        Black Screen Text: Your descriptions are so vivid, they render Delaroche dumbstruck. Facing the waters with a grave expression, she spends a long moment in silent rumination before shifting her attention back to the present...
+        Delaroche: So that means that the "Active Odor Imitating Bait" can disturb an entire section of the underwater ecology. I never thought it could have such an enormous impact...
+        Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odor Imitating Bait" so crudely and irresponsibly, or risk damaging underwater habitats...
+        Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
+        Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
+        Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
+        Traveler: That's a nice thought!
+        Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
+        Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
+        Traveler: Poor us!
+        Delaroche: I must thank you both again, my gratitude is boundless!
+        Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
+        Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
+        Paimon: In the future, we'll often come around and fish. Remember to show us all your amazing accomplishments then!
+        Delaroche: Of course, I never idly boast!
+        Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
+        Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
 
 ## Talk 12
 
@@ -238,10 +350,16 @@ Delaroche: Thank you for your advice! I absolutely shouldn't use the "Active Odo
 Delaroche: I should treat it as a tool, and study the bait I found last time! Using the imitated scents as a starting point, I should be able to better analyze the composition of bait like that...
 Delaroche: Now that I think about it, perhaps I can use this method to learn about making bait. If I understand the principles behind bait-making, I'll be able to improve by leaps and bounds!
 Delaroche: Haha! When the time comes, I'll even be able to help the others in the Fishing Association make superior bait, and help everyone catch some whopping big fish!
-Traveler: That's a nice thought!
+    Option 1:
+        Traveler: That's a nice thought!
+    Option 2:
+        Traveler: You have a promising future!
 Paimon: Yeah! That sounds a lot more useful than what you were doing before. We'll all sleep easier knowing that Delaroche isn't recklessly using bait like that.
 Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
-Traveler: Yeah, I'm exhausted!
+    Option 1:
+        Traveler: Yeah, I'm exhausted!
+    Option 2:
+        Traveler: Poor us!
 Delaroche: I must thank you both again, my gratitude is boundless!
 Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
 Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
@@ -249,8 +367,6 @@ Paimon: In the future, we'll often come around and fish. Remember to show us all
 Delaroche: Of course, I never idly boast!
 Delaroche: Thanks to you two, I've found the true path to becoming the ultimate angler! Not only that, I must... spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
 Delaroche: When next we meet, maybe I'll have created a fantastic new kind of bait! I'll give it to you for free, no matter how much you need!
-Traveler: Poor us!
-Traveler: You have a promising future!
 
 ## Talk 13
 
@@ -267,7 +383,10 @@ Delaroche: Your feedback has been crucial! I'll keep the maximum efficacy of the
 Delaroche: In terms of safety precautions, I'll also need to prepare a weapon I'm familiar with and prepare to... repel any aquatic monsters that leap above the surface, and perhaps even cut the line if things are untenable!
 Paimon: That's good! Delaroche finally knows how serious things are and her enthusiasm hasn't been curbed... We can relax now!
 Paimon: *sigh* Scrambling around like that is so tiring, especially since Paimon was nervous the whole time...
-Traveler: Yeah, I'm exhausted!
+    Option 1:
+        Traveler: Yeah, I'm exhausted!
+    Option 2:
+        Traveler: Poor us!
 Delaroche: I must thank you both again, my gratitude is boundless!
 Delaroche: Though I spent most of my budget creating the "Active Odor Imitating Bait," the Mora and gifts I promised you... I actually prepared them in advance. Please accept them as my token of thanks!
 Paimon: No need to be so serious! As long as you are fishing safely and happily, then our effort hasn't been in vain.
@@ -275,7 +394,6 @@ Paimon: In the future, we'll often come around and fish. Remember to show us all
 Delaroche: Of course, I never idly boast!
 Delaroche: Thanks to you two, I will soon become the ultimate angler! And then, I will spread the fame of the "Gods of Victorious Linebreaking" across all of Fontaine!
 Delaroche: If I really... if I really manage to knock out some strange manner of "seafood" and reel it in, maybe I can gift it to you as a souvenir. I hope you won't mind such a gift!
-Traveler: Poor us!
 
 ## Talk 14
 
@@ -302,12 +420,16 @@ Delaroche: Yes. I must keep trying, keep striving!
 Paimon: Hmm? Delaroche's hook doesn't have any bait on it at all... Even a layman knows that fishing requires bait. How can you catch a fish with just an empty hook?
 Paimon: If we ask Delaroche directly, it might seem like we're insulting her intelligence...
 Paimon: It might be a bit too rude!
-Traveler: Let's talk about bait in general first...
+    Option 1:
+        Traveler: Let's talk about bait in general first...
+    Option 2:
+        Traveler: Let's start by asking her about the type of bait she likes...
 Paimon: Good idea! Let's try to be more tactful this time. Let's think of it as practice for dealing with any well-intentioned but very confused people we might run into in the future!
 Paimon: But we already dove down here to check her hook, leaving it completely bare like this is kind of a shame... Maybe there's something more we can do?
-Traveler: Let's put a fish on it!
+    Option 1:
+        Traveler: Let's put a fish on it!
+    Option 2:
+        Traveler: Let's hold a fish's head down until it bites the hook!
 Paimon: Whoa, that's pretty direct!
 Paimon: Hm... It does sound like a good idea though. As long as it can cheer Delaroche up and help her understand the importance of bait, then all will be well!
 Paimon: Let's do it!
-Traveler: Let's hold a fish's head down until it bites the hook!
-Traveler: Let's start by asking her about the type of bait she likes...

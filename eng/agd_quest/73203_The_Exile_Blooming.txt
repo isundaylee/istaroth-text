@@ -40,7 +40,10 @@ Sabbah: You and Paimon should visit him if you get a chance.
 Sabbah: There you are. You're very punctual.
 Sabbah: I made some Butter Chicken. You're welcome to dine with me if you're hungry.
 Paimon: Butter Chicken! How could we refuse? A big plate for Paimon, please!
-Traveler: Watch your manners, Paimon.
+    Option 1:
+        Traveler: Watch your manners, Paimon.
+    Option 2:
+        Traveler: Sorry about Paimon's outburst.
 Paimon: Okay, sorry...
 Sabbah: It's okay, there's no need to be so formal. It's only human nature to love food.
 Sabbah: I'll heat some up and pack it for you. It's the least I could do to show my gratitude for your help.
@@ -49,11 +52,12 @@ Sabbah: Well, I've been keeping the soil moist, so the sprouts have been coming 
 Sabbah: My only worry is that they are growing slowly.
 Sabbah: Generally speaking, if a germ is in good shape, it should grow quickly enough, but these few have been dormant so far...
 Sabbah: I'm not sure if it's because the soil isn't fertile enough. I may have to add more fertilizer if this keeps up.
-Traveler: Let's fertilize them again.
+    Option 1:
+        Traveler: Let's fertilize them again.
+    Option 2:
+        Traveler: We can try using Dendro again.
 Sabbah: Would you do me this favor, then?
 Paimon: Piece of cake. We got this!
-Traveler: We can try using Dendro again.
-Traveler: Sorry about Paimon's outburst.
 
 ## Talk 5
 
@@ -68,7 +72,10 @@ Black Screen Text: The flower buds slowly open and blossom into Sumeru Roses.
 Black Screen Text: Sabbah picks one and hands it to you and Paimon.
 Paimon: You shouldn't have... You didn't have many to begin with...
 Sabbah: It's all right. After all, this wouldn't have been possible without your help.
-Traveler: We were just lending a hand.
+    Option 1:
+        Traveler: We were just lending a hand.
+    Option 2:
+        Traveler: Don't sweat it.
 Sabbah: A rose garden is magnificent, but a single rose also has beauty of its own. I've been intrigued by roses ever since my scholarly days.
 Paimon: What? You were a researcher?
 Sabbah: Right, I haven't told you yet... I'm not a native of Aaru Village. I "moved" here from the Akademiya.
@@ -92,7 +99,6 @@ Sabbah: And no matter what I said, you never thought it was nonsense or interrup
 Sabbah: I'll have small gifts for you too. Though I have no use for them now, you might like them.
 Traveler: We'll be back.
 Sabbah: Please do return.
-Traveler: Don't sweat it.
 
 ## Talk 7
 
@@ -127,44 +133,46 @@ Sabbah: They're all seeds of plants that won't grow here. If you have a yard som
 
 Sabbah: If it weren't for you, I don't think I'd have ever seen these roses sprout.
 Sabbah: If only I knew this would happen... instead of seeds, I should have brought a few more books.
-Traveler: You're not from here?
-Sabbah: Are you surprised? Well, I guess that means that I've adapted pretty well.
-Sabbah: When I first got here, I was unable to get used to anything, whether it be the food, the housing, or anything else.
-Sabbah: But I got used to everything over time.
-Sabbah: That doesn't mean that I've fully accepted my predicament, though.
-Sabbah: I suppose it is impossible to make roses from Sumeru City bloom here after all.
-Traveler: Are you a researcher?
-Sabbah: I could have been called that once, but not anymore.
-Sabbah: I said something beyond my station, and learned something I shouldn't have.
-Sabbah: I broke the Akademiya's taboos, so I was removed from amongst their ranks.
-Traveler: What did you say?
-Sabbah: Curiosity is the impetus for seeking wisdom, but it's also the cause of sin.
-Sabbah: I only understood that after I was exiled to this place.
-Sabbah: For safety reasons, I don't think I should go into details.
-Traveler: All right then.
-Sabbah: Ahem, but...
+    Option 1:
+        Traveler: You're not from here?
+        Sabbah: Are you surprised? Well, I guess that means that I've adapted pretty well.
+        Sabbah: When I first got here, I was unable to get used to anything, whether it be the food, the housing, or anything else.
+        Sabbah: But I got used to everything over time.
+        Sabbah: That doesn't mean that I've fully accepted my predicament, though.
+        Sabbah: I suppose it is impossible to make roses from Sumeru City bloom here after all.
+        Traveler: Are you a researcher?
+        Sabbah: I could have been called that once, but not anymore.
+        Sabbah: I said something beyond my station, and learned something I shouldn't have.
+        Sabbah: I broke the Akademiya's taboos, so I was removed from amongst their ranks.
+        Traveler: What did you say?
+        Sabbah: Curiosity is the impetus for seeking wisdom, but it's also the cause of sin.
+        Sabbah: I only understood that after I was exiled to this place.
+        Sabbah: For safety reasons, I don't think I should go into details.
+        Traveler: All right then.
+        Sabbah: Ahem, but...
+    Option 2:
+        Traveler: Why grow Sumeru Roses?
+        Sabbah: You probably don't know much about them... but they are very versatile, and have many uses.
+        Sabbah: They can be eaten, turned into medicine, given as gifts, or fetch a good price on the market.
+        Sabbah: And that's just some of the more common applications.
+        Sabbah: The flower, leaves, and stalk of a Sumeru Rose also did not always look like this. They all had different appearances once upon a time.
+        Sabbah: I believe geographical changes led to changes in the roses' traits.
+        Sabbah: A study of its traits could help us derive past geographical and historical information.
+        Sabbah: I won't be able to explain the mechanism over just a casual conversation, and sharing such information with adventurers is probably against the rules as well.
+        Sabbah: If you're interested in botanical evolution, you should visit the Akademiya. They'll have more on the subject.
+        Traveler: So, you're doing this for your research?
+        Sabbah: I'm not a researcher anymore. I no longer have the right or means to pursue any research.
+        Sabbah: If you must know why... *sigh*, you are a very curious soul, you know that?
+        Sabbah: I grew a lot of Sumeru Roses back in my former residence. The flowers were spectacular, and I got to see them every day.
+        Sabbah: If it was possible, I wish I could see them again, just like before.
+        Sabbah: ...That's all there is to it.
+        Traveler: I can understand that.
 Sabbah: I thought adventurers would just come and go, never coming back to chit-chat after finishing their jobs.
 Sabbah: I didn't expect to have another long conversation with you.
 Sabbah: To be honest, I don't have a lot of friends to talk to here.
 Sabbah: Do you think... at some point... you would be able to come by and fertilize my plants again?
 Traveler: Sure.
 Sabbah: ...Okay then, I'll wait for you.
-Traveler: Why grow Sumeru Roses?
-Sabbah: You probably don't know much about them... but they are very versatile, and have many uses.
-Sabbah: They can be eaten, turned into medicine, given as gifts, or fetch a good price on the market.
-Sabbah: And that's just some of the more common applications.
-Sabbah: The flower, leaves, and stalk of a Sumeru Rose also did not always look like this. They all had different appearances once upon a time.
-Sabbah: I believe geographical changes led to changes in the roses' traits.
-Sabbah: A study of its traits could help us derive past geographical and historical information.
-Sabbah: I won't be able to explain the mechanism over just a casual conversation, and sharing such information with adventurers is probably against the rules as well.
-Sabbah: If you're interested in botanical evolution, you should visit the Akademiya. They'll have more on the subject.
-Traveler: So, you're doing this for your research?
-Sabbah: I'm not a researcher anymore. I no longer have the right or means to pursue any research.
-Sabbah: If you must know why... *sigh*, you are a very curious soul, you know that?
-Sabbah: I grew a lot of Sumeru Roses back in my former residence. The flowers were spectacular, and I got to see them every day.
-Sabbah: If it was possible, I wish I could see them again, just like before.
-Sabbah: ...That's all there is to it.
-Traveler: I can understand that.
 
 ### Additional Talk 2
 

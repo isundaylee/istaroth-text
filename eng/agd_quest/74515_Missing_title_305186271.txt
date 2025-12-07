@@ -9,7 +9,11 @@ Paimon: B—Before? Wait, have we met?
 Hosseini: *sigh* Have you forgotten me again? It's me, Hosseini, a researcher from Sumeru. We've worked together a bunch of times already, you know...?
 Paimon: S—Sorry, we just, uh...
 Hosseini: I hope you recall the Energy Amplifier, at least?
-Traveler: Wait, you're Amplifier Man, aren't you?
+    Option 1:
+        Traveler: Wait, you're Amplifier Man, aren't you?
+    Option 2:
+        Traveler: Nothing comes to mind there either...
+        Hosseini: What about "Amplifier Man," then? Surely that rings a bell!
 Paimon: ...Oh, right! It's you! You're the one from The Chasm!
 Paimon: You're a lot more cheerful than when we saw you last... No wonder we didn't recognize you.
 Hosseini: Hehe, is that so? I guess I'm just that happy, then — I haven't been this lucky in a long while.
@@ -28,9 +32,9 @@ Traveler: Haven't even graduated yet, have we?
 Hosseini: Ahem! No need to fuss over meaningless confounding variables like that. That's just a tiny twist on the road to success.
 Hosseini: The most important thing now is to experimentally verify the actual performance of my Amplifier. That's why I need volunteers to test it within Domains.
 Hosseini: #Well, then, Traveler, would you like to volunteer to test my Hosseini Amplifier?
-Traveler: Simply put, you need me to use it while I beat up baddies.
-Hosseini: Yes, precisely. I have nothing but faith in your capabilities, but the current Amplifier design isn't quite up to mark, so do be careful.
-Traveler: Alright. Leave it to me!
-Hosseini: #Now, Traveler, I have nothing but faith in your capabilities, but the current Amplifier design isn't quite up to mark, so do be careful.
-Traveler: Nothing comes to mind there either...
-Hosseini: What about "Amplifier Man," then? Surely that rings a bell!
+    Option 1:
+        Traveler: Simply put, you need me to use it while I beat up baddies.
+        Hosseini: Yes, precisely. I have nothing but faith in your capabilities, but the current Amplifier design isn't quite up to mark, so do be careful.
+    Option 2:
+        Traveler: Alright. Leave it to me!
+        Hosseini: #Now, Traveler, I have nothing but faith in your capabilities, but the current Amplifier design isn't quite up to mark, so do be careful.

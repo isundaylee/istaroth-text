@@ -10,33 +10,38 @@ Traveler: *How do you like it here?*
 Jean: It is very comfortable here.
 Jean: The air is fresh and the environment is restful.
 Jean: It is also very quiet. I think I will be able to concentrate and get a lot of work done here.
-Traveler: Why are you still working...
-Jean: Hmm? Is that not alright?
-Traveler: You should try to enjoy yourself here.
+    Option 1:
+        Traveler: Why are you still working...
+        Jean: Hmm? Is that not alright?
+        Traveler: You should try to enjoy yourself here.
+    Option 2:
+        Traveler: You should try to enjoy this place.
 Jean: Thank you...
 Jean: I'll be sure to keep your suggestion firmly in mind.
-Traveler: You should try to enjoy this place.
 
 ## Talk 2
 
 Traveler: *Would you like to have a chat with me?*
 Jean: Of course, it's always a pleasure to be in your company.
 Jean: Is there a particular topic that you wish to discuss?
-Traveler: Anything, except work...
-Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
-Jean: I will think on this.
-Traveler: Jean, no need to take it so seriously...
-Jean: I—I am sorry...
-Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 1:
+        Traveler: Anything, except work...
+        Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
+        Jean: I will think on this.
+        Traveler: Jean, no need to take it so seriously...
+        Jean: I—I am sorry...
+        Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 2:
+        Traveler: I've heard that you sing quite well?
+        Jean: ...Only a few simple songs.
+        Jean: It's really nothing to brag about.
+        Traveler: I want to hear you sing.
+        Jean: Ah, um... But I'm completely unprepared...
+        Jean: At the very least, let me practice first.
+    Option 3:
+        Traveler: If that works for you, it works for me.
 Jean: O—Okay, I...
 Jean: I will do my best...
-Traveler: I've heard that you sing quite well?
-Jean: ...Only a few simple songs.
-Jean: It's really nothing to brag about.
-Traveler: I want to hear you sing.
-Jean: Ah, um... But I'm completely unprepared...
-Jean: At the very least, let me practice first.
-Traveler: If that works for you, it works for me.
 
 ## Talk 3
 
@@ -45,7 +50,10 @@ Jean: Perhaps you could join me for a walk?
 Jean: I have taken what you said recently to heart and tried to make a few adjustments in my life.
 Jean: Of course, I still push myself to complete my work when performing my official duties.
 Jean: But when I'm with you, I'm now able to unwind.
-Traveler: Sounds like you're making great progress.
+    Option 1:
+        Traveler: Sounds like you're making great progress.
+    Option 2:
+        Traveler: I'm happy to hear that.
 Jean: This is all thanks to you...
 Jean: This whole time, you have been a great companion to me. You are always so considerate of my circumstances.
 Jean: It would be shameful if I didn't at least recognize this much.
@@ -55,7 +63,6 @@ Traveler: I should thank you, too.
 Jean: ...
 Jean: We... should walk while we talk.
 Jean: I still have so much I want to say to you.
-Traveler: I'm happy to hear that.
 
 ## Talk 4
 
@@ -75,32 +82,37 @@ Jean: ...as you often remind me yourself.
 Jean: It is very comfortable here.
 Jean: The air is fresh and the environment is restful.
 Jean: It is also very quiet. I think I will be able to concentrate and get a lot of work done here.
-Traveler: Why are you still working...
-Jean: Hmm? Is that not alright?
-Traveler: You should try to enjoy yourself here.
+    Option 1:
+        Traveler: Why are you still working...
+        Jean: Hmm? Is that not alright?
+        Traveler: You should try to enjoy yourself here.
+    Option 2:
+        Traveler: You should try to enjoy this place.
 Jean: Thank you...
 Jean: I'll be sure to keep your suggestion firmly in mind.
-Traveler: You should try to enjoy this place.
 
 ## Talk 7
 
 Jean: Of course, it's always a pleasure to be in your company.
 Jean: Is there a particular topic that you wish to discuss?
-Traveler: Anything, except work...
-Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
-Jean: I will think on this.
-Traveler: Jean, no need to take it so seriously...
-Jean: I—I am sorry...
-Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 1:
+        Traveler: Anything, except work...
+        Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
+        Jean: I will think on this.
+        Traveler: Jean, no need to take it so seriously...
+        Jean: I—I am sorry...
+        Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 2:
+        Traveler: I've heard that you sing quite well?
+        Jean: ...Only a few simple songs.
+        Jean: It's really nothing to brag about.
+        Traveler: I want to hear you sing.
+        Jean: Ah, um... But I'm completely unprepared...
+        Jean: At the very least, let me practice first.
+    Option 3:
+        Traveler: If that works for you, it works for me.
 Jean: O—Okay, I...
 Jean: I will do my best...
-Traveler: I've heard that you sing quite well?
-Jean: ...Only a few simple songs.
-Jean: It's really nothing to brag about.
-Traveler: I want to hear you sing.
-Jean: Ah, um... But I'm completely unprepared...
-Jean: At the very least, let me practice first.
-Traveler: If that works for you, it works for me.
 
 ## Talk 8
 
@@ -108,7 +120,10 @@ Jean: Perhaps you could join me for a walk?
 Jean: I have taken what you said recently to heart and tried to make a few adjustments in my life.
 Jean: Of course, I still push myself to complete my work when performing my official duties.
 Jean: But when I'm with you, I'm now able to unwind.
-Traveler: Sounds like you're making great progress.
+    Option 1:
+        Traveler: Sounds like you're making great progress.
+    Option 2:
+        Traveler: I'm happy to hear that.
 Jean: This is all thanks to you...
 Jean: This whole time, you have been a great companion to me. You are always so considerate of my circumstances.
 Jean: It would be shameful if I didn't at least recognize this much.
@@ -118,7 +133,6 @@ Traveler: I should thank you, too.
 Jean: ...
 Jean: We... should walk while we talk.
 Jean: I still have so much I want to say to you.
-Traveler: I'm happy to hear that.
 
 ## Talk 9
 
@@ -148,21 +162,24 @@ Jean: The atmosphere in this park is excellent. Thank you...
 Jean: Would you like to have a chat with me?
 Jean: Of course, it's always a pleasure to be in your company.
 Jean: Is there a particular topic that you wish to discuss?
-Traveler: Anything, except work...
-Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
-Jean: I will think on this.
-Traveler: Jean, no need to take it so seriously...
-Jean: I—I am sorry...
-Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 1:
+        Traveler: Anything, except work...
+        Jean: I apologize... Evidently, I talk about work so much that it gets quite exasperating for the people around me.
+        Jean: I will think on this.
+        Traveler: Jean, no need to take it so seriously...
+        Jean: I—I am sorry...
+        Jean: I understand. You mean to say that we should be more informal in the way we interact with each other.
+    Option 2:
+        Traveler: I've heard that you sing quite well?
+        Jean: ...Only a few simple songs.
+        Jean: It's really nothing to brag about.
+        Traveler: I want to hear you sing.
+        Jean: Ah, um... But I'm completely unprepared...
+        Jean: At the very least, let me practice first.
+    Option 3:
+        Traveler: If that works for you, it works for me.
 Jean: O—Okay, I...
 Jean: I will do my best...
-Traveler: I've heard that you sing quite well?
-Jean: ...Only a few simple songs.
-Jean: It's really nothing to brag about.
-Traveler: I want to hear you sing.
-Jean: Ah, um... But I'm completely unprepared...
-Jean: At the very least, let me practice first.
-Traveler: If that works for you, it works for me.
 
 ## Talk 14
 
@@ -171,7 +188,10 @@ Jean: Perhaps you could join me for a walk?
 Jean: I have taken what you said recently to heart and tried to make a few adjustments in my life.
 Jean: Of course, I still push myself to complete my work when performing my official duties.
 Jean: But when I'm with you, I'm now able to unwind.
-Traveler: Sounds like you're making great progress.
+    Option 1:
+        Traveler: Sounds like you're making great progress.
+    Option 2:
+        Traveler: I'm happy to hear that.
 Jean: This is all thanks to you...
 Jean: This whole time, you have been a great companion to me. You are always so considerate of my circumstances.
 Jean: It would be shameful if I didn't at least recognize this much.
@@ -181,7 +201,6 @@ Traveler: I should thank you, too.
 Jean: ...
 Jean: We... should walk while we talk.
 Jean: I still have so much I want to say to you.
-Traveler: I'm happy to hear that.
 
 ## Talk 15
 
@@ -189,12 +208,14 @@ Traveler: How do you like it here?
 Jean: It is very comfortable here.
 Jean: The air is fresh and the environment is restful.
 Jean: It is also very quiet. I think I will be able to concentrate and get a lot of work done here.
-Traveler: Why are you still working...
-Jean: Hmm? Is that not alright?
-Traveler: You should try to enjoy yourself here.
+    Option 1:
+        Traveler: Why are you still working...
+        Jean: Hmm? Is that not alright?
+        Traveler: You should try to enjoy yourself here.
+    Option 2:
+        Traveler: You should try to enjoy this place.
 Jean: Thank you...
 Jean: I'll be sure to keep your suggestion firmly in mind.
-Traveler: You should try to enjoy this place.
 
 ## Talk 16
 

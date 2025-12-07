@@ -19,7 +19,10 @@ Uncle He: Oooh, yes. Hee-hee, that's me-hee-hee.
 Uncle He: Are you also trapped here like me? Did you run out of food too? *sigh* ... How unlucky.
 Uncle He: Hee-hee, but no worries. I've got some food here... You must be famished... Hee-hee...
 Paimon: Now that topic's making Paimon's tummy grumble.
-Traveler: This "mushroom meat" stuff looks very suspicious!
+    Option 1:
+        Traveler: This "mushroom meat" stuff looks very suspicious!
+    Option 2:
+        Traveler: Don't just chow on whatever suspicious stuff you find!
 Paimon: Uh... You're right. He seems a bit cooked in the head, and what's with that strange complexion? Paimon bets it has to do with the mushroom meat!
 Uncle He: Mushroom meat? Hee-hee, yes, it's delicious!
 Uncle He: Here, would you like some?
@@ -36,7 +39,6 @@ Uncle He: It should be around here...
 Paimon: #Well, Traveler, Paimon guesses we can only do as he says.
 Traveler: This does seem to be the only option now.
 Uncle He: Mushroom meat... Hee-hee... big mushroom meat...
-Traveler: Don't just chow on whatever suspicious stuff you find!
 
 ## Talk 2
 
@@ -47,8 +49,12 @@ Uncle He: Ever since I started eating mushroom meat, my lower back pain left me 
 Uncle He: And mushroom creatures are more delicious than mushroom meat! The bigger, the tastier... Hee-hee...
 Paimon: Could it be that Uncle He got so strong from eating mushroom meat?
 Paimon: #Traveler, since it might grant us more power, why don't we give it a whirl?
-Traveler: You sure it's "more power" that you're after, huh?
-Paimon: Paimon just wants to see how it tastes!
+    Option 1:
+        Traveler: You sure it's "more power" that you're after, huh?
+        Paimon: Paimon just wants to see how it tastes!
+    Option 2:
+        Traveler: Please be less creative with your diet!
+        Paimon: Oh, alright, Paimon gets it...
 Paimon: But back on topic, Uncle He should be fine with following us back now, right?
 Uncle He: Mushroom meat... Hee-hee, yummy!
 Paimon: Uncle He, let's go back to the camp together!
@@ -57,8 +63,6 @@ Paimon: Paimon means we're going back to the camp together!
 Uncle He: The "damp"? What got damp? Oh, what does it matter? I'm fine with it... Hee-hee, now that I've eaten mushroom meat, damp or dry, I can go anywhere!
 Paimon: *sigh*
 Paimon: #Traveler, let's bring Uncle He back to see Jinwu.
-Traveler: Please be less creative with your diet!
-Paimon: Oh, alright, Paimon gets it...
 
 ## Talk 3
 
@@ -74,7 +78,10 @@ Jinwu: Mushrooms...
 Jinwu: The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things.
 Jinwu: But Uncle He's been trapped down here all these years with nothing else to eat.
 Jinwu: How am I supposed to face his family with him in this state?
-Traveler: Speaking of mushrooms...
+    Option 1:
+        Traveler: Speaking of mushrooms...
+    Option 2:
+        Traveler: Do you know anyone who does research on mushrooms?
 Jinwu: Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms.
 Jinwu: Please wait here. I'll bring him over to check up on Uncle He.
 Uncle He: Mushroom meat... mushroom meat...
@@ -101,17 +108,18 @@ Khedive: None of the ingredients are expensive — they're only worth a month's 
 Jinwu: Uh... I—I'll figure out some way to repay you...
 Khedive: No need to repay me — as a matter of fact, this incident gives me something new to write in my report.
 Khedive: Ever since I came across these peculiar mushrooms in The Chasm, I've been curious about the long-term consequences of eating them, but I haven't found a willing assistant yet.
-Traveler: An assistant?
-Khedive: I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things.
+    Option 1:
+        Traveler: An assistant?
+        Khedive: I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things.
+    Option 2:
+        Traveler: "Test subject" is more the word, don't you think?
+        Khedive: You can say that, but we've studied these mushrooms and come to the conclusion that they won't cause any irreversible damage to either the body or the mind.
 Khedive: But... given how peculiar The Chasm is, the environment here could be another reason for his symptoms. Anyway, just have him take the medicine and get some rest. He's very likely to recover, even now.
 Jinwu: What a relief... I'll bring him up to the surface later.
 Jinwu: Once he's recovered, I'll bring him home and inform his friends as well.
 Jinwu: He's a veteran miner, and an agile one, too. He took very good care of youngsters who were new in the mine.
 Jinwu: When he went missing a few years back, everyone wondered why Rex Lapis didn't protect him. A good man's life shouldn't have ended that way, they said.
 Jinwu: I'm sure his friends will be much comforted by the news that he's back.
-Traveler: "Test subject" is more the word, don't you think?
-Khedive: You can say that, but we've studied these mushrooms and come to the conclusion that they won't cause any irreversible damage to either the body or the mind.
-Traveler: Do you know anyone who does research on mushrooms?
 
 ## Talk 4
 
@@ -127,7 +135,10 @@ Jinwu: Mushrooms...
 Jinwu: The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things.
 Jinwu: But Uncle He's been trapped down here all these years with nothing else to eat.
 Jinwu: How am I supposed to face his family with him in this state?
-Traveler: Speaking of mushrooms...
+    Option 1:
+        Traveler: Speaking of mushrooms...
+    Option 2:
+        Traveler: Do you know anyone who does research on mushrooms?
 Jinwu: Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms.
 Traveler: About Khedive...
 Jinwu: He's still in the camp above. He said he wanted to organize his research materials and bring them down here...
@@ -138,7 +149,6 @@ Jinwu: When he went missing a few years back, everyone wondered why Rex Lapis di
 Jinwu: I'm sure everyone'll be elated to see him recover and return.
 Jinwu: #Traveler, you have my thanks. Once Khedive is done checking on Uncle He, I'll get him out of The Chasm — I will, whatever happens.
 Jinwu: Thank you so much. I really don't know how I can repay you.
-Traveler: Do you know anyone who does research on mushrooms?
 
 ## Talk 5
 
@@ -158,7 +168,10 @@ Jinwu: Mushrooms...
 Jinwu: The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things.
 Jinwu: But Uncle He's been trapped down here all these years with nothing else to eat.
 Jinwu: How am I supposed to face his family with him in this state?
-Traveler: Speaking of mushrooms...
+    Option 1:
+        Traveler: Speaking of mushrooms...
+    Option 2:
+        Traveler: Do you know anyone who does research on mushrooms?
 Jinwu: Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms.
 Jinwu: Please wait here. I'll bring him over to check up on Uncle He.
 Uncle He: Mushroom meat... mushroom meat...
@@ -185,17 +198,18 @@ Khedive: None of the ingredients are expensive — they're only worth a month's 
 Jinwu: Uh... I—I'll figure out some way to repay you...
 Khedive: No need to repay me — as a matter of fact, this incident gives me something new to write in my report.
 Khedive: Ever since I came across these peculiar mushrooms in The Chasm, I've been curious about the long-term consequences of eating them, but I haven't found a willing assistant yet.
-Traveler: An assistant?
-Khedive: I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things.
+    Option 1:
+        Traveler: An assistant?
+        Khedive: I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things.
+    Option 2:
+        Traveler: "Test subject" is more the word, don't you think?
+        Khedive: You can say that, but we've studied these mushrooms and come to the conclusion that they won't cause any irreversible damage to either the body or the mind.
 Khedive: But... given how peculiar The Chasm is, the environment here could be another reason for his symptoms. Anyway, just have him take the medicine and get some rest. He's very likely to recover, even now.
 Jinwu: What a relief... I'll bring him up to the surface later.
 Jinwu: Once he's recovered, I'll bring him home and inform his friends as well.
 Jinwu: He's a veteran miner, and an agile one, too. He took very good care of youngsters who were new in the mine.
 Jinwu: When he went missing a few years back, everyone wondered why Rex Lapis didn't protect him. A good man's life shouldn't have ended that way, they said.
 Jinwu: I'm sure his friends will be much comforted by the news that he's back.
-Traveler: "Test subject" is more the word, don't you think?
-Khedive: You can say that, but we've studied these mushrooms and come to the conclusion that they won't cause any irreversible damage to either the body or the mind.
-Traveler: Do you know anyone who does research on mushrooms?
 
 ## Talk 7
 

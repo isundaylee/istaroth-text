@@ -6,9 +6,11 @@
 Traveler: About Salt...
 Galathee: Hello. Are you here to discuss matters related to the supply of salt?
 Galathee: Then you must have a lot of salt prepared, right?
-Traveler: Salt is ready.
-Traveler: Not yet.
-Galathee: It won't do to be without salt. Every time our ship sets sail, we need to stockpile enough salt for our journey.
+    Option 1:
+        Traveler: Salt is ready.
+    Option 2:
+        Traveler: Not yet.
+        Galathee: It won't do to be without salt. Every time our ship sets sail, we need to stockpile enough salt for our journey.
 
 ## Talk 2
 

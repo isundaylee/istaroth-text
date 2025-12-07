@@ -52,11 +52,18 @@ Black Screen Text: A glittering pearl of water appears on the altar.
 Paimon: Um, that drop of water... That can't be the treasure, can it?
 Traveler: It doesn't look like treasure.
 Paimon: That's what Paimon thought. It can't be that easy. But what is it, then?
-Traveler: Maybe it is key to containing the Demon King.
-Paimon: What? But that means catastrophe! Quick, put it back. Paimon hopes we're not too late!
-Pahsiv (???): Ah...
-Paimon: Oh no! It's the Demon King!
-Pahsiv (???): The Demon King? Melusine.
+    Option 1:
+        Traveler: Maybe it is key to containing the Demon King.
+        Paimon: What? But that means catastrophe! Quick, put it back. Paimon hopes we're not too late!
+        Pahsiv (???): Ah...
+        Paimon: Oh no! It's the Demon King!
+        Pahsiv (???): The Demon King? Melusine.
+    Option 2:
+        Traveler: Maybe someone else put it here.
+        Paimon: What? Oh no, that makes us thieves. Ohh, Paimon's sorry... Let's put it back, quick.
+        Pahsiv (???): Ah...
+        Paimon: Oh no! The boss is back!
+        Pahsiv (???): The boss? Melusine.
 Paimon: Gah, you gave Paimon a fright there... A Melusine, huh? What are you doing here?
 Pahsiv (???): Key.
 Paimon: Key? What key? Is this drop of water a key?
@@ -99,10 +106,13 @@ Traveler: You want us to help?
 Pahsiv: Pahsiv!
 Paimon: Okay, so she wants help from us. That's good. Paimon didn't know how we could punch Erinnyes, with it being a whole island and all...
 Pahsiv: Ka-pow, ka-pow.
-Traveler: Will there be any rewards?
-Pahsiv: Re... ward?
-Paimon: #Oh come on, Traveler! Pahsiv can barely talk! She won't be able to find anyone else to help her, so we should just do it!
-Traveler: What do we need to do?
+    Option 1:
+        Traveler: Will there be any rewards?
+        Pahsiv: Re... ward?
+        Paimon: #Oh come on, Traveler! Pahsiv can barely talk! She won't be able to find anyone else to help her, so we should just do it!
+        Traveler: What do we need to do?
+    Option 2:
+        Traveler: What do we need to do?
 Pahsiv: Key, key, key, number.
 Paimon: And then? How many keys is that, now?
 Pahsiv: Key! Key! Key!
@@ -123,12 +133,6 @@ Paimon: But if Paimon could add one small point, Pahsiv, Paimon would like to sa
 Paimon: Well, it would be just wonderful if you could let us know!
 Black Screen Text: Pahsiv scratches her head as she tries to understand, then gives two more happy jumps and leaves in a bit of a hurry.
 Paimon: #Oh, she ran straight off. Guess she must have something really urgent to work on. Traveler, shall we go looking for those two keys now?
-Traveler: What do we need to do?
-Traveler: Maybe someone else put it here.
-Paimon: What? Oh no, that makes us thieves. Ohh, Paimon's sorry... Let's put it back, quick.
-Pahsiv (???): Ah...
-Paimon: Oh no! The boss is back!
-Pahsiv (???): The boss? Melusine.
 
 ## Talk 99
 
@@ -158,8 +162,10 @@ Traveler: So who is New Valet, exactly?
 Paimon: Pahsiv... are you trying to say New Valet is called New Valet, like Paimon is called Paimon?
 Pahsiv: Pahsiv!
 Paimon: Ah-ha! I was right. Paimon's always said that she's clever, hasn't she?
-Traveler: It's a very strange name.
-Traveler: That's an awesome name.
+    Option 1:
+        Traveler: It's a very strange name.
+    Option 2:
+        Traveler: That's an awesome name.
 Pahsiv: New Valet, Pahsiv, knowledge, ka-pow.
 Paimon: Err... you mean that New Valet is helping you learn things?
 Pahsiv: Pahsiv! Lots of. Language, wisdom... lots of.
@@ -175,8 +181,12 @@ Pahsiv: Curious Paimon, Pahsiv! But time very not lots of.
 Pahsiv: Key, key, key, square, west, ka-pow, ka-pow.
 Traveler: We'll be as quick as we can!
 Pahsiv: #Paimon, Pahsiv! Traveler, Pahsiv!
-Black Screen Text: Pahsiv gives two happy jumps and then leaves in a bit of a hurry.
+[Missing Dialog 740821040]
+
 Paimon: It looks like we really are pressed for time. But we've already got two keys, so let's press on and get the third!
+
+Black Screen Text: Pahsiv gives two happy jumps and then leaves in a bit of a hurry.
+[Missing Dialog 740831041]
 
 ## Talk 101
 

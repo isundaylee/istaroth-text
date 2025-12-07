@@ -8,7 +8,10 @@ Paimon: Oh, what is it, Granny? Need any help?
 Madame Ping: Oh, no, no. You've done so much for Liyue Harbor already. I could hardly ask for more.
 Madame Ping: In fact, my old friends and I have been putting our heads together to think of what sort of gift we might give you in return.
 Paimon: A gift? For Paimon!?
-Traveler: I only did as I should.
+    Option 1:
+        Traveler: I only did as I should.
+    Option 2:
+        Traveler: You're too kind...
 Madame Ping: Haha, oh, child. You are so very modest — uncommonly so, even. But you mustn't decline this gift, I simply won't allow it.
 Madame Ping: When you traversed my old teapot in search of the Cleansing Bell, I heard your little friend mention that you often camp out in the wilds...
 Madame Ping: That simply won't do — especially since, I imagine, you still have a very long journey ahead of you.
@@ -21,7 +24,10 @@ Traveler: A "trinket," you say...
 Paimon: So, in the eyes of an adeptus, creating a magic teapot world is just child's play, huh?
 Madame Ping: Indeed, the teapot is nothing to boast of. One such as myself must depart from this realm to create a world of one's own. Rex Lapis, on the other hand, moved mountains and seas... That is what one might call an exercise of true power.
 Madame Ping: But that's enough nostalgia for now. The gift that I have prepared for you just requires a few final materials to add the finishing touch...
-Traveler: What are the missing materials?
+    Option 1:
+        Traveler: What are the missing materials?
+    Option 2:
+        Traveler: I can help you look for them!
 Paimon: That's right! Finding stuff's what we're good at, after all!
 Madame Ping: Ho ho! Settle down now, children, there is no need for you to go running hither and thither... I have already found a fleet-footed youngster to prepare what I need.
 Madame Ping: What's more, I doubt that you would know how to find the materials I am searching for. Some of them are very rare indeed these days...
@@ -75,8 +81,6 @@ Traveler: We'll come with you.
 Yanfei: Oh, you want to join me? ...I suppose that's no problem, but it's best if you just stand by and watch. If you try to get involved, you'll only risk placing yourself in legal jeopardy.
 Paimon: Wow, an adeptus imploring us to avoid incurring legal liability... That's a first for sure...
 Paimon: Best we be a little more careful than usual while we're with her...
-Traveler: I can help you look for them!
-Traveler: You're too kind...
 
 ## Talk 2
 
@@ -342,32 +346,110 @@ Yanfei: Not at all. According to my investigations and the material evidence tha
 Yanfei: Now, the contract states very clearly that ten times the price shall be paid should the article not be genuine. Accordingly, you are liable for this sum, which is payable to Ms. Zhiqiao in Mora.
 Krosl: Material evidence? What material evidence? Why, Miss Yanfei, you cannot frame me like this!
 Krosl: ...I spent a huge sum to obtain that Smaragdus Jadeite, and yet you claim that the ore inlaid on the hairpins is somehow fake. I—I demand to see your evidence!
-Traveler: Show the evidence from The Jade Mystery.
-Traveler: Show the evidence from Mingxing Jewelry.
-Traveler: Show the evidence from Bubu Pharmacy.
 Yanfei: Indeed, only a testimony from an expert witness involved in the processing of the ore can serve as an authoritative assessment of whether it is genuine... Traveler, please produce the evidence in question.
-Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+    Option 1:
+    Option 2:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+    Option 3:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+    Option 4:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        Traveler: Show the evidence from Mingxing Jewelry.
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        [Circling back to a pre-branch dialog]
+    Option 6:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        [Circling back to a pre-branch dialog]
+    Option 7:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Ahem... If we want to determine whether the ore is genuine, we need to start with evidence from The Jade Mystery. Clearly, you still have a few things to learn about this aspect of legal proceedings...
+        Traveler: Show the evidence from Bubu Pharmacy.
+        [Circling back to a pre-branch dialog]
+Traveler: Show the evidence from The Jade Mystery.
 Yanfei: This is a processing record from The Jade Mystery, along with stone samples and an affidavit signed by the business owner, Shitou.
 Krosl: Seriously...? Even the boss there couldn't differentiate between Smaragdus Jadeite and Smaragdus Nephrite. How does this prove anything?
 Krosl: In any case, Smaragdus Nephrite is the outer layer of Smaragdus Jadeite... So I had him cut away the Nephrite, he returned the valuable Jadeite core to me, and some Nephrite samples remain in the store. What am I missing, exactly?
 Zhiqiao: Th—That's an unsubstantiated belief...
 Krosl: Well, your claim that my ore is fake is just as unsubstantiated. And we are here to talk about evidence, aren't we?
 Paimon: Ugh... Looks like our first piece of evidence didn't convince him at all. Seems like he came prepared. What should we do next?
-Traveler: Show the evidence from The Jade Mystery.
-Traveler: Show the evidence from Mingxing Jewelry.
-Traveler: Show the evidence from Bubu Pharmacy.
 Yanfei: Hard evidence... Something legally binding... We have just the thing. Show him, Traveler.
-Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+    Option 1:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        Traveler: Show the evidence from The Jade Mystery.
+        [Circling back to a pre-branch dialog]
+    Option 2:
+    Option 3:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        [Circling back to a pre-branch dialog]
+    Option 4:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+    Option 5:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        [Circling back to a pre-branch dialog]
+    Option 6:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+    Option 7:
+        Traveler: Show the evidence from Bubu Pharmacy.
+        Yanfei: Oh, come on, I meant the backup copy of the document from the Ministry of Civil Affairs. The one we got from Xingxi of Mingxing Jewelry.
+        Traveler: Show the evidence from Bubu Pharmacy.
+        [Circling back to a pre-branch dialog]
+Traveler: Show the evidence from Mingxing Jewelry.
 Krosl: Hmph! This document proves that my hairpins are the real deal, doesn't it? This is the Ministry's seal, after all. It shows that the ore inlaid on the pins is indeed Smaragdus Jadeite!
 Paimon: Our second piece of evidence didn't work, either! And this guy's getting more belligerent by the second...
 Yanfei: Hmm... You know, you could be right. Perhaps the hairpins are the real deal, after all...
 Krosl: Of course I'm right! All the evidence shown supports my story!
 Yanfei: Well, hang on a moment, now, because I do recall one final piece of evidence that we haven't revealed yet.
-Traveler: Show the evidence from The Jade Mystery.
-Traveler: Show the evidence from Mingxing Jewelry.
-Traveler: Show the evidence from Bubu Pharmacy.
 Yanfei: Traveler, would you do the honors? This shall serve as decisive proof of our case.
-Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+    Option 1:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        Traveler: Show the evidence from The Jade Mystery.
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        [Circling back to a pre-branch dialog]
+    Option 3:
+    Option 4:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Traveler: Show the evidence from The Jade Mystery.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+    Option 6:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+        Traveler: Show the evidence from Mingxing Jewelry.
+        [Circling back to a pre-branch dialog]
+    Option 7:
+        Traveler: Show the evidence from Mingxing Jewelry.
+        Yanfei: I'm referring to the affidavit signed by Dr. Baizhu of Bubu Pharmacy. Now, if you would be so kind as to bring it out, Traveler...
+Traveler: Show the evidence from Bubu Pharmacy.
 Krosl: Wh—What's this...
 Yanfei: "Smaragdus Jadeite springs forth from Stonemarrow within the mountains, and will bring disaster to any mere mortals who touch it."
 Yanfei: "Sustained contact with Smaragdus Jadeite over a prolonged period will, in less serious cases, cause a mild malady, while in serious cases, the patient may suffer a dramatic change of personality and fall seriously ill..."
@@ -385,16 +467,16 @@ Yanfei: Aren't actually inlaid with genuine Smaragdus Jadeite? Is that what you 
 Yanfei: You do understand, Mr. Krosl, that this means that you will have to pay Ms. Zhiqiao ten times the original price in Mora?
 Yanfei: Mr. Krosl, your answer, please. My client and I are waiting.
 Krosl: I... I... I...
-Traveler: Again, that's legal consultancy for you...
 Paimon: Yanfei's seriously intimidating right now. It's like she's a different person...
+Traveler: Again, that's legal consultancy for you...
 Krosl: I admit it... I confess. The ore I had inlaid on those hairpins was... was Smaragdus Nephrite.
 Krosl: ...But I'm a victim in all of this, too! I invested a great deal of time and money into acquiring that small amount of Smaragdus Jadeite in the hopes of turning it into a piece of jewelry that would fetch a fine price...
 Krosl: But after receiving it and carrying it around for a few days... I started to feel extreme discomfort. I couldn't sleep a wink, or eat a single bite. I... I was in a constant state of agitation, too...
 Krosl: I went to Bubu Pharmacy to get myself checked out, only to discover that this sort of stone cannot be worn as jewelry... But how could I let all that money go to waste?
 Krosl: That's why I had another pair of hairpins made from Smaragdus Nephrite, which is almost indistinguishable from Smaragdus Jadeite...
 Krosl: I kept the real Smaragdus Jadeite in a specially made box. I daren't touch it again.
-Traveler: So why did you charge Zhiqiao such an extortionate rental price?
 Krosl: I was worried that someone would see through it, which is why I only dared to rent them out, not sell them... and then, to top it all off, Zhiqiao lost the hairpins after I rented them out to her...
+Traveler: So why did you charge Zhiqiao such an extortionate rental price?
 Paimon: Exactly! If they weren't the real deal, why'd you make her pay so much, hmm?
 Krosl: I... I didn't want to, either! But when I purchased that Smaragdus Jadeite, some of my business partners found out. I knew they'd be watching closely to see how much I could make off it.
 Krosl: If word got out that I sold a pair of fake hairpins, then... My days in this line of business would be over...
@@ -417,21 +499,23 @@ Yanfei: Well then, that's good. Mr. Krosl, it seems that my client has no furthe
 Krosl: Is... Is that so... That's good, that's good...
 Zhiqiao: Actually... Mr. Krosl... I'd like to talk business for a second, if I may.
 Zhiqiao: I could see from the hairpins you produced that you're very skilled in jewelry design. My family, on the other hand, works in the ore business, and we have a fair stock of fine ores...
+
 Zhiqiao: If we could join forces — your jewelry designs and our choice ores — I think we could do some fine business between us.
 Krosl: I, um... Let me think for a moment...
-Traveler: Yes, though there were some twists and turns along the way...
+
 Yanfei: Well, that's that, and we've got the Smaragdus Jadeite that Granny wants, too. All's well that ends well, eh?
+Traveler: Yes, though there were some twists and turns along the way...
 Paimon: Exactly. Usually, when someone tells us they've lost something, we end up searching all over the place for it. But this time, you managed to solve the problem with just a big stack of documents...
 Paimon: ...Even though the solution didn't involve actually finding the hairpins.
 Yanfei: The right solution depends on your perspective on the problem.
-Traveler: Can't say I've ever met an adeptus like you before...
 Yanfei: The objective of my client, Ms. Zhiqiao, was to reduce her liability to pay compensation. So rather than looking high and low for some hairpins, proving that the rented item was nowhere near worth what the vendor had claimed it to be was the more efficient solution.
+Traveler: Can't say I've ever met an adeptus like you before...
 Yanfei: An adeptus... Speaking of, you took part in that battle, didn't you? In which case, you will have heard what Granny said.
 Yanfei: Liyue Harbor is now a city ruled by humans.
 Yanfei: The title of adeptus means precious little to me compared to my job as a legal adviser.
 Yanfei: In any case, don't you think that the Liyue Harbor of today needs legal consultancy far more than it needs adeptal powers?
-Traveler: I think there is more than just "reason" involved here, Paimon.
 Paimon: Paimon can think of someone who would definitely disagree with your reasoning...
+Traveler: I think there is more than just "reason" involved here, Paimon.
 Yanfei: Well, since we've got what we came for, it's time to pay *Granny* a visit. I'll bet she's been on tenterhooks for a while now.
 
 ## Talk 16

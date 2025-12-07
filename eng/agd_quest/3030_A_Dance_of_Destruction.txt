@@ -9,7 +9,10 @@ Paimon: We've made it to Amenoma Smithy!
 Amenoma Tougo: Ah, it's been a while.
 Traveler: Pardon me. I'd like to ask a question, if I may.
 Amenoma Tougo: Of course, go ahead.
-Traveler: About the "Raiden Gokaden"...
+    Option 1:
+        Traveler: About the "Raiden Gokaden"...
+    Option 2:
+        Traveler: Could you tell me that story one more time?
 Amenoma Tougo: Oh, now there's a question I wasn't expecting... Very well, I'll tell you what I know once more.
 Amenoma Tougo: The once-renowned "Raiden Gokaden" comprised of five branches: Amenoma, Futsu, Isshin, Hyakume, and Senju.
 Amenoma Tougo: The art of forging practiced by these five clans was first taught to them personally by the Almighty Shogun. Over time, the five branches diverged from one another as generations of bladesmiths honed and perfected their craft, until they became five distinct traditions.
@@ -46,7 +49,6 @@ Traveler: That's all. Thank you very much.
 Amenoma Tougo: My pleasure.
 Paimon: Don't tell Paimon — there are other places you wanna visit too, right? Hehehe, your expression says it all. You can't hide anything from Paimon!
 Paimon: On to the next stop! Lead the way, Traveler. Paimon will be right behind you.
-Traveler: Could you tell me that story one more time?
 
 ## Talk 2
 
@@ -120,11 +122,13 @@ Paimon: Looks like you got all the information you're looking for.
 Traveler: Time to go back and see Lesser Lord Kusanali.
 Paimon: Sure. But what's up with you today...? Whatever it is, it seems like it's really troubling you.
 Paimon: Keep your smile, Spinocrocodile! No matter what happens, Paimon will always be there for you.
-Traveler: ...Alright.
-Paimon: Come on, you gotta keep it together! Why don't you grab something to eat? You can't go facing life's challenges on an empty stomach!
+    Option 1:
+        Traveler: ...Alright.
+        Paimon: Come on, you gotta keep it together! Why don't you grab something to eat? You can't go facing life's challenges on an empty stomach!
+    Option 2:
+        Traveler: Thank you, Paimon.
+        Paimon: Hey, don't mention it! Heehee.
 Paimon: Alright, let's head off and go meet Nahida!
-Traveler: Thank you, Paimon.
-Paimon: Hey, don't mention it! Heehee.
 
 ## Talk 5
 
@@ -162,11 +166,13 @@ Paimon: Looks like you got all the information you're looking for.
 Traveler: Time to go back and see Lesser Lord Kusanali.
 Paimon: Sure. But what's up with you today...? Whatever it is, it seems like it's really troubling you.
 Paimon: Keep your smile, Spinocrocodile! No matter what happens, Paimon will always be there for you.
-Traveler: ...Alright.
-Paimon: Come on, you gotta keep it together! Why don't you grab something to eat? You can't go facing life's challenges on an empty stomach!
+    Option 1:
+        Traveler: ...Alright.
+        Paimon: Come on, you gotta keep it together! Why don't you grab something to eat? You can't go facing life's challenges on an empty stomach!
+    Option 2:
+        Traveler: Thank you, Paimon.
+        Paimon: Hey, don't mention it! Heehee.
 Paimon: Alright, let's head off and go meet Nahida!
-Traveler: Thank you, Paimon.
-Paimon: Hey, don't mention it! Heehee.
 
 ## Talk 95
 
@@ -218,7 +224,10 @@ Furuta: Miss Kamisato occasionally joins them as well. Whenever the whole family
 Furuta: ...It's been many years now since the late Mr. and Mrs. Kamisato passed away. Much has happened in the Kamisato Clan in that time.
 Furuta: As someone who is old and gray enough to have watched their son and daughter grow up, it makes me so happy to see them meet a dependable friend whose company they enjoy so much.
 Furuta: So in the future, if you ever do have the time, please know you are always very welcome at the Yashiro Commission headquarters. There will always be at least one old lady who would be delighted to have the pleasure of your company.
-Traveler: Thank you very much. I will visit again.
+    Option 1:
+        Traveler: Thank you very much. I will visit again.
+    Option 2:
+        Traveler: Thank you. The people of the Kamisato Clan are very dear friends to me.
 Furuta: Wonderful. Hehe, thank you.
 Paimon: Paimon likes it here, too! Also... you were saying something about the food here being really great.
 Paimon: Paimon's itching to try it. We may just have to invite ourselves around for dinner sometime! ...Uh, Paimon meant we should come pay a visit again real soon! Ideally around dinnertime!
@@ -230,7 +239,6 @@ Furuta: Alright then, take care now. Hope to see you soon!
 Hirotatsu: Oh, are you two leaving already?
 Paimon: Yup, everything's taken care of now. Don't worry!
 Hirotatsu: Very well, safe travels. Goodbye.
-Traveler: Thank you. The people of the Kamisato Clan are very dear friends to me.
 
 ### Additional Talk 2
 

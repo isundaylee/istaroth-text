@@ -135,11 +135,13 @@ Paimon: So here's what we learned from the soldiers.
 Paimon: Tsumi's mask hides her snake-eyes, which the people of Watatsumi Island believe to be a distinguishing feature of Orobaxi's vassals.
 Paimon: Based on her actions, it seems like all she wants to do is protect the people of Watatsumi Island. And from what she said, she's doing everything she can to combat the darkness spreading in Enkanomiya.
 Paimon: So she seems pretty trustworthy.
-Traveler: I agree.
-Paimon: Then let's go talk to her about working together.
-Traveler: I still have some reservations...
-Paimon: Paimon gets it. Like, why is she covering her pupils when they're obviously an easy way to win everyone over?
-Paimon: Guess we'll just have to see what she has to say for now. But let's keep our guard up, just in case.
+    Option 1:
+        Traveler: I agree.
+        Paimon: Then let's go talk to her about working together.
+    Option 2:
+        Traveler: I still have some reservations...
+        Paimon: Paimon gets it. Like, why is she covering her pupils when they're obviously an easy way to win everyone over?
+        Paimon: Guess we'll just have to see what she has to say for now. But let's keep our guard up, just in case.
 
 ## Talk 15
 
@@ -252,12 +254,15 @@ Ueno: ...This is the correspondence from Stingray III. Your Excellency, the situ
 Sangonomiya Kokomi: Thank you, Ueno. Inform Swordfish I to stand by. I'll see to the wounded shortly.
 Ueno: Yes, Ma'am.
 Paimon: Hey, Kokomi! How've you been?
-Sangonomiya Kokomi: Ah, Captain of Swordfish II. Glad to have you back on Watatsumi Island. I would have liked to have given you a grand reception, but as you can see...
+[Missing Dialog 400470105]
+
 Paimon: What's going on?
 Sangonomiya Kokomi: Not long ago, I hosted the Watatsumi Goryou Matsuri. It's the most important ceremony on Watatsumi Island. I'm guessing you'll have heard about it from Tsuyuko—
 Paimon: What? How did you know we were the ones helping out Tsuyuko this whole time?
-Traveler: I'd be more surprised if she didn't know...
-Traveler: How could you not tell, Paimon?
+    Option 1:
+        Traveler: I'd be more surprised if she didn't know...
+    Option 2:
+        Traveler: How could you not tell, Paimon?
 Sangonomiya Kokomi: Ahem. Tsuyuko is one of the more conscientious shrine maidens of Sangonomiya. I knew that handing off the planning of the ceremony to her would play to her strengths.
 Sangonomiya Kokomi: Based on her description of the person who took the commission, it was quite obviously you.
 Paimon: This is all starting to sound pretty suspicious...
@@ -277,12 +282,17 @@ Paimon: Strange monsters and... an all-engulfing darkness?
 Sangonomiya Kokomi: That's all that Stingray III has reported. Their investigation otherwise has yielded no useful information, and the unforgiving environment has caused many casualties so far...
 Sangonomiya Kokomi: I have sent several rescue teams already, but so far... the situation does not look promising.
 Sangonomiya Kokomi: #It brings me no pleasure to have to ask, but on behalf of all of Watatsumi Island... I beseech you. Please lend us your assistance one more time, Traveler.
-Traveler: Anything for you, Ma'am.
-Traveler: For the sake of everyone on Watatsumi Island, I'll do it.
-Sangonomiya Kokomi: Heh... please don't joke around.
-Sangonomiya Kokomi: But thank you for once again agreeing to put your life on the line for the sake of our island.
-Sangonomiya Kokomi: #Thank you, Traveler.
+    Option 1:
+        Traveler: Anything for you, Ma'am.
+        Sangonomiya Kokomi: Heh... please don't joke around.
+        Sangonomiya Kokomi: But thank you for once again agreeing to put your life on the line for the sake of our island.
+    Option 2:
+        Traveler: For the sake of everyone on Watatsumi Island, I'll do it.
+        Sangonomiya Kokomi: #Thank you, Traveler.
 Sangonomiya Kokomi: Now, please come with me to meet Tsuyuko.
+
+Sangonomiya Kokomi: Ah, Captain of Swordfish II. Glad to have you back on Watatsumi Island. I would have liked to have given you a grand reception, but as you can see...
+[Missing Dialog 400475006]
 
 ### Additional Talk 10
 

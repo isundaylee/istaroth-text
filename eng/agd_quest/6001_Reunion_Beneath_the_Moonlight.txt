@@ -143,7 +143,10 @@ Lauma: But Nefer has already declined our commission multiple times.
 Lauma: And yet, just as it always has, the moon will continue to illuminate the sky above the Curatorium.
 Lauma: Come night or day, may the Moon Goddess keep you.
 Nefer: ...Enough of that.
-Traveler: I'm sorry, everyone...
+    Option 1:
+        Traveler: I'm sorry, everyone...
+    Option 2:
+        Traveler: There's something I need to get off my chest.
 Paimon: ...
 Lauma: ...
 Nefer: #(So... according to him, he never came into contact with the relic... so he suspects his sister may have taken it.)
@@ -157,10 +160,16 @@ Traveler: ...You're not angry with me?
 Lauma: No. Your honesty tells me everything — you never sought to take the Moon Marrow for yourself.
 Lauma: As for what happened at the end... I suspect the chamber's protection mechanism may have been activated. Among those who entered the final chamber, there was either someone with impure intent, or else... an Abyssal presence.
 Paimon: The Abyss?
-Traveler: #My sister...
+    Option 1:
+        Traveler: #My sister...
+    Option 2:
+        Traveler: ...Can indeed wield the power of the Abyss.
 Lauma: Perhaps that's why, then. Either way, the Moon Marrow was taken...
 Lauma: ...And I believe you, so the problem remains the same. I need to recover our relic.
-Traveler: I'll help you.
+    Option 1:
+        Traveler: I'll help you.
+    Option 2:
+        Traveler: #I want to find my sister too...
 Nefer: See? Didn't I tell you it would all work out in the end?
 Nefer: #But before everyone starts celebrating, forgive me for asking just one more thing... Are you absolutely sure your sister took the relic?
 Paimon: What do you mean? Weren't they the only ones inside at the time?
@@ -251,9 +260,6 @@ Nefer: The Curatorium will take you back, of course — but only once you've com
 Jahoda: ...What!?
 Nefer: Is there some issue? Well, here's the upside — without me taking a cut from your commission, you'll earn more.
 Jahoda: ...Seriously, can someone explain what is going on here!?
-Traveler: #I want to find my sister too...
-Traveler: ...Can indeed wield the power of the Abyss.
-Traveler: There's something I need to get off my chest.
 
 ## Talk 7
 
@@ -282,9 +288,13 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): We make a pretty great team, huh? Just lik
 ## Talk 12
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): From what I understand, the path ahead is likely to be full of trials and challenges.
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): A deterrence against intruders, and a test for those who truly seek entrance.
+
 Traveler: I doubt the two of us will have any problems.
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): Mm, I agree.
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): Still... If we get separated, things could get tricky. Best we move together and watch each other's backs.
 
 ## Talk 13
@@ -527,11 +537,17 @@ Traveler: #(Is Lumine... gone...?)
 Flins: Are you looking for something here?
 Traveler: I...
 Traveler: (Uh... Not sure I wanna admit that I just broke into the Frostmoon Scions' secret chamber in search of their sacred relic...)
-Traveler: ...Taking a walk.
+    Option 1:
+        Traveler: ...Taking a walk.
+    Option 2:
+        Traveler: ...Doing a bit of moongazing.
 Flins: And you just happened to end up... surrounded by the Wild Hunt?
 Traveler: ...
 Flins: Sorry, I did not intend to come off as pointing fingers. Indeed, perhaps our courses of action do not differ so greatly.
-Traveler: You're out for a walk too?
+    Option 1:
+        Traveler: You're out for a walk too?
+    Option 2:
+        Traveler: Or are you... also into moongazing?
 Flins: Not exactly. We Lightkeepers are accustomed to patrolling at night — a long-held tradition, you understand. I was just passing by when I noticed that the Wild Hunt had struck, so I simply did what I am duty-bound to do.
 Flins: As a matter of fact, I just saw someone leaving in quite the hurry. Was that your companion?
 Traveler: #(...! Lumine...)
@@ -539,8 +555,6 @@ Traveler: That was... the person dearest to me.
 Flins: ...
 Flins: Perhaps I should take my leave now. After all, my patrol isn't over yet.
 Flins: Nod-Krai is a dangerous place to be at night. I'd advise that you head back soon as well.
-Traveler: Or are you... also into moongazing?
-Traveler: ...Doing a bit of moongazing.
 
 ## Talk 34
 
@@ -552,7 +566,10 @@ Traveler: Haha...
 Traveler: (Paimon's right... I need sleep. Got another full day of adventuring ahead...)
 Paimon: *yawn* Good... morning? If now still counts as morning, hehe...
 Paimon: When did you get back last night? Did you sleep well?
-Traveler: Very well, thanks to your berry juice...
+    Option 1:
+        Traveler: Very well, thanks to your berry juice...
+    Option 2:
+        Traveler: Rested up and ready to roll!
 Paimon: Hehe, good to hear.
 Paimon: So where'd you wander off to on your midnight stroll? Anything interesting to see in Nod-Krai at night?
 Traveler: More than you'd believe...
@@ -560,7 +577,6 @@ Paimon: Ooh, really? C'mon, don't leave Paimon hanging!
 Traveler: (...)
 Paimon: Alright, alright... Guess we'll have to feed your stomach before we feed Paimon's curiosity...
 Paimon: Let's go grab something to eat while we talk!
-Traveler: Rested up and ready to roll!
 
 ## Talk 35
 
@@ -589,9 +605,11 @@ Ahvo: Hahaha... A joint investigation? Pff, good luck getting any takers — unl
 Jolanta: Same thoughts here. So, just a few minutes back, she switched gears and headed over to the one place that might actually be able to solve this... the Curatorium of Secrets!
 Traveler: !!!
 Paimon: Wah! Y—You scared Paimon... What is it?
-Traveler: C'mon, Paimon...
+    Option 1:
+        Traveler: C'mon, Paimon...
+    Option 2:
+        Traveler: ...Next stop, the Curatorium of Secrets.
 Paimon: Huh? Oh... O—Okay, just— Hey, Paimon's not a baby, y'know! Quit pulling her arm!
-Traveler: ...Next stop, the Curatorium of Secrets.
 
 ## Talk 36
 
@@ -652,7 +670,10 @@ Lauma: "The moon is false"... I reached that conclusion long ago.
 Lauma: But there was no one I could tell, not a single soul... At least, not until now.
 Lauma: "Am I the one who's wrong? Is it the moon that is false, or my own senses?" ...I asked myself such questions, time and time again.
 Traveler: (...)
-Traveler: Your intuitions were correct.
+    Option 1:
+        Traveler: Your intuitions were correct.
+    Option 2:
+        Traveler: The sky above Teyvat... is a lie.
 Lauma: ...!
 Lauma: #Thank you... Traveler.
 Lauma: When you called yourself a Descender, I had a feeling you might be able to confirm what I had always suspected.
@@ -668,10 +689,16 @@ Paimon: Huh? When was that, and more importantly, when were you planning on tell
 Traveler: That night when I went out walking alone...
 Paimon: Ah, no wonder...
 Lauma: What did you think of her?
-Traveler: A little... up in the clouds?
+    Option 1:
+        Traveler: A little... up in the clouds?
+    Option 2:
+        Traveler: And a bit lonely, too.
 Paimon: What exactly do you mean by "up in the clouds"...
 Lauma: I understand what you mean. She is quite indifferent to the world outside herself. But... I find it hard to hold that against her.
-Traveler: Does that mean...
+    Option 1:
+        Traveler: Does that mean...
+    Option 2:
+        Traveler: ...You've met her too?
 Lauma: Yes. It was shortly after the fall of the Ancient Moon's Remnants.
 Lauma: I asked her what the Frostmoon Scions meant to her, and why she left in the first place.
 Paimon: Yeah, so, why did she...?
@@ -687,9 +714,6 @@ Kapy: Lady Lauma, Lady Lauma!
 Lauma: Kapy...? Has Kaarina's condition deteriorated again?
 Lauma: #Traveler, Paimon, we'll have to continue this conversation later.
 Paimon: Wait up, we'll come too!
-Traveler: ...You've met her too?
-Traveler: And a bit lonely, too.
-Traveler: The sky above Teyvat... is a lie.
 
 ## Talk 41
 
@@ -717,19 +741,23 @@ Traveler: (Lauma's hands are covered in scars... Has she been secretly treating 
 Lauma: *sigh* So now you know another of my little secrets...
 Lauma: I had hoped to guide the Scions out of error before Kaarina's illness reached this stage. But clearly... I was too late.
 Traveler: (Changing old beliefs is never easy... Some are simply too deeply ingrained, just like this girl's mother's...)
-Traveler: This isn't your fault.
+    Option 1:
+        Traveler: This isn't your fault.
+    Option 2:
+        Traveler: It isn't anybody's fault.
 Lauma: My life... is as hidden from sight as the far side of the moon. Yet people only look to the bright side for guidance.
 Lauma: If the day ever came when the two sides were reversed... could they truly accept it?
 Traveler: (...)
 Traveler: #(Why am I thinking of Lumine right now...? Has she been forced to keep a part of her life hidden too?)
 Traveler: #(If it was Lumine...)
-Traveler: If it was family...
+    Option 1:
+        Traveler: If it was family...
+    Option 2:
+        Traveler: ...They'd understand.
 Lauma: Hearing you say that... puts my heart at ease.
 Paimon: Mm-hmm! And if there's anything we can do to help the Frostmoon Scions, just let us know!
 Lauma: Our priority right now is reclaiming our relic from the Fatui.
 Lauma: But I now understand... that the day I will tell everyone the truth is no longer far off.
-Traveler: ...They'd understand.
-Traveler: It isn't anybody's fault.
 
 ## Talk 43
 

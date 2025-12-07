@@ -76,8 +76,12 @@ Chiori: Huh? How did you know where I... Ah, Eloffe told you, didn't she?
 Paimon: She did... We were just looking for you at your shop, and Laetitia was there! She wanted to thank you for the dress... So you see? You don't have to be sad! We'll figure out how to get through this together!
 Chiori: Ah, I'm not upset. I just wanted to get some fresh air.
 Chiori: Want to sit here with me? The view's quite stunning.
-Traveler: It's pretty high up...
-Chiori: Don't worry, I'll catch you if you fall.
+    Option 1:
+        Traveler: It's pretty high up...
+        Chiori: Don't worry, I'll catch you if you fall.
+    Option 2:
+        Traveler: It doesn't look like there's a lot of space...
+        Chiori: Ah, sorry about that. I'm the only one here most of the time.
 Paimon: Alright. Don't mind if we do!
 Chiori: Well, how does it feel?
 Paimon: This place is pretty great!
@@ -102,7 +106,10 @@ Chiori: After that, I came all the way to the Court of Fontaine — a city often
 Chiori: I had a lot of fun starting out. Sure, I was living in a small, cramped room... but I was finally free to make whatever I wanted.
 Chiori: I had a far more naive view of "fashion" back then. As long as something was pretty, it would become popular, right? A simple concept, surely.
 Chiori: Of course, as I spent more and more time in the industry, I learned nothing was ever that simple, least of all "fashion."
-Traveler: Well, I know someone who absolutely adored your designs...
+    Option 1:
+        Traveler: Well, I know someone who absolutely adored your designs...
+    Option 2:
+        Traveler: And dreamed of wearing one at her wedding...
 Chiori: Oh, you mean Laetitia?
 Chiori: Yeah, she did mention that dream... I'll be honest with you. That's the first time I ever heard something like that from one of my customers.
 Chiori: Who would have thought... Even as I continue to pursue my dream, my work has also become someone else's...
@@ -129,9 +136,6 @@ Chiori: ...I've got it!
 Paimon: Huh? Got what?
 Chiori: Come! Let's take a dip, shall we?
 Paimon: Huh!? Chiori, wait, hold up!
-Traveler: And dreamed of wearing one at her wedding...
-Traveler: It doesn't look like there's a lot of space...
-Chiori: Ah, sorry about that. I'm the only one here most of the time.
 
 ## Talk 11
 
@@ -164,9 +168,12 @@ Chiori: Okay, we've got the materials for the accessories. Next... we'll need to
 Paimon: You mean we have to start from scratch? Will there be enough time?
 Chiori: I should be able to make it... if I skip out on sleep.
 Paimon: Nuh-uh, skipping out on sleep is not the answer! Wait... How come this conversation is giving Paimon major deja vu...
-Traveler: Sounds pretty similar to one we've had with Ganyu before.
-Chiori: Ganyu? Who's that?
-Paimon: A friend of ours who does way too much overtime!
+    Option 1:
+        Traveler: Sounds pretty similar to one we've had with Ganyu before.
+        Chiori: Ganyu? Who's that?
+        Paimon: A friend of ours who does way too much overtime!
+    Option 2:
+        Traveler: I guess going after what you want means making certain sacrifices.
 Paimon: Well, anyway... Sleep is important! You're not gonna convince Paimon otherwise!
 Chiori: Haha, well I can't argue with you there. One thing's for sure, though — I'm going to do whatever it takes to make it work.
 Chiori: Hah... All this grit and determination... It reminds me of the first Fashion Week I ever participated in...
@@ -183,7 +190,6 @@ Chiori: I know. That's why I refuse to let it all go to waste. I'm not going to 
 Paimon: Um, okay... Then, here goes nothing...
 Chiori: No need to be nervous. I won't hold it against you.
 Chiori: Of course, if anyone dared to tear up one of my dresses in front of me on a normal day, I'd probably toss them into the sewer.
-Traveler: I guess going after what you want means making certain sacrifices.
 
 ## Talk 18
 

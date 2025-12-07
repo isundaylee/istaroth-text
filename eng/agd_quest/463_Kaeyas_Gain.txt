@@ -8,8 +8,11 @@
 Paimon: This time, the mysteries have all been solved, it sure took a lot of work.
 Paimon: But in all fairness, this treasure map really is terrible... It looks like it was drawn by a pirate...
 Paimon: So now...
-Traveler: Let's report to Kaeya first.
-Paimon: Hmm? Paimon believes that there is no need!
+    Option 1:
+        Traveler: Let's report to Kaeya first.
+        Paimon: Hmm? Paimon believes that there is no need!
+    Option 2:
+        Traveler: Let's go to the treasure location directly!
 Paimon: You read my mind! Paimon's so happy!
 Paimon: Let's go for it! Don't want anyone else to get there before we do!
 Paimon: Like... like the Treasure Hoarders Kaeya told us about.
@@ -18,7 +21,6 @@ Paimon: No, you heard nothing! Paimon ah— Paimon just wants to see it!
 Paimon: Definitely not to become super, mega, powerful and do nothing but play...
 Paimon: Hehe... Alright, Paimon'll save the chit-chat for later.
 Paimon: Arcadian treasure hunt, here we go!
-Traveler: Let's go to the treasure location directly!
 
 ## Talk 2
 
@@ -48,8 +50,13 @@ Paimon: Where are you, my treasure!?
 Paimon: #Let's look around, Traveler.
 ???: Hahaha... I'll save you the trouble.
 ???: How about you let me take over?
-Traveler: The Treasure Hoarders?
-???: Sharp eye, but too slow.
+    Option 1:
+        Traveler: The Treasure Hoarders?
+        ???: Sharp eye, but too slow.
+    Option 2:
+        Traveler: The black market?
+        ???: Well, I did have dealings with them.
+        ???: But them and their stupid principles... Losers who can't make a fortune.
 Izzard: I'm Izzard.
 Izzard: I thank you both on behalf of the Treasure Hoarders.
 Paimon: Ugh...
@@ -78,9 +85,6 @@ Izzard: Hah. You got me good. Didn't think the Knights would resort to such tact
 Kaeya: A thief has no right to criticize the methods of the Knights of Fav— Wait, what are you...
 Izzard: You're not gonna get me!
 Izzard: Okay... Oh god... Wh—What is this? I didn't mean it!
-Traveler: The black market?
-???: Well, I did have dealings with them.
-???: But them and their stupid principles... Losers who can't make a fortune.
 
 ## Talk 6
 
@@ -96,10 +100,13 @@ Knight of Favonius: Sir! Yes sir!
 Knight of Favonius: Captain, should we take these two in as well?
 Paimon: What!?
 Kaeya: Haha, of course not. They are the ones who made this arrest possible.
-Traveler: So the intel is fake.
-Traveler: There is no treasure.
-Traveler: You lied to us?
 Kaeya: Without them spreading our *fabricated intel*, we wouldn't have been able to catch the Treasure Hoarders.
+    Option 1:
+        Traveler: So the intel is fake.
+    Option 2:
+        Traveler: There is no treasure.
+    Option 3:
+        Traveler: You lied to us?
 Paimon: *cries* You're a bad man for lying to me... Shame on the Knights!
 Kaeya: Alright, alright... Stop it already.
 Kaeya: Though the treasure doesn't exist, you did want it for yourself, didn't you?
@@ -116,10 +123,13 @@ Paimon: Well... If the reward is this Harbinger of Dawn...
 Kaeya: You'd forgive me, right?
 Kaeya: I'm honored to have such an understanding friend.
 Paimon: Yes... yes...
-Traveler: ...Paimon has been completely charmed.
-Traveler: Means you'll use a different method next time?
 Kaeya: You have my apologies for the deception. I will not use the same method twice.
+    Option 1:
+        Traveler: ...Paimon has been completely charmed.
+    Option 2:
+        Traveler: Means you'll use a different method next time?
 Kaeya: What a wonderful day. Now, I have to go interrogate my suspect...
+
 Kaeya: Please excuse me. Do come visit me at our headquarters when you have the chance.
 
 ## Talk 8
@@ -132,10 +142,13 @@ Knight of Favonius: Sir! Yes sir!
 Knight of Favonius: Captain, should we take these two in as well?
 Paimon: What!?
 Kaeya: Haha, of course not. They are the ones who made this arrest possible.
-Traveler: So the intel is fake.
-Traveler: There is no treasure.
-Traveler: You lied to us?
 Kaeya: Without them spreading our *fabricated intel*, we wouldn't have been able to catch the Treasure Hoarders.
+    Option 1:
+        Traveler: So the intel is fake.
+    Option 2:
+        Traveler: There is no treasure.
+    Option 3:
+        Traveler: You lied to us?
 Paimon: *cries* You're a bad man for lying to me... Shame on the Knights!
 Kaeya: Alright, alright... Stop it already.
 Kaeya: Though the treasure doesn't exist, you did want it for yourself, didn't you?
@@ -152,22 +165,36 @@ Paimon: Well... If the reward is this Harbinger of Dawn...
 Kaeya: You'd forgive me, right?
 Kaeya: I'm honored to have such an understanding friend.
 Paimon: Yes... yes...
-Traveler: ...Paimon has been completely charmed.
-Traveler: Means you'll use a different method next time?
 Kaeya: You have my apologies for the deception. I will not use the same method twice.
-Kaeya: What a surprise that you solved the puzzles all by yourself and arrived before me.
-Paimon: So it was you who left all those clues?
-Kaeya: Indeed. However, even I believed the clues were too vague to be of any help to you.
-Kaeya: I was prepared to answer your questions...
-Kaeya: Quite impressive. This was the only thing that I did not anticipate in the entire operation.
-Traveler: It was a cakewalk!
-Traveler: Uh, actually, I tapped into other sources for help...
-Paimon: Hah! That was nothing!
-Kaeya: No matter what you say, I acknowledge your wisdom. After all, wisdom itself does not deceive.
-Paimon: But some people do enjoy deceiving others with their wits!
-Kaeya: Hahaha...
+    Option 1:
+        Traveler: ...Paimon has been completely charmed.
+    Option 2:
+        Traveler: Means you'll use a different method next time?
 Kaeya: What a wonderful day. Now, I have to go interrogate my suspect...
+
 Kaeya: Please excuse me. Do come visit me at our headquarters when you have the chance.
+
+Kaeya: What a surprise that you solved the puzzles all by yourself and arrived before me.
+
+Paimon: So it was you who left all those clues?
+
+Kaeya: Indeed. However, even I believed the clues were too vague to be of any help to you.
+
+Kaeya: I was prepared to answer your questions...
+
+Kaeya: Quite impressive. This was the only thing that I did not anticipate in the entire operation.
+
+Paimon: Hah! That was nothing!
+
+Traveler: It was a cakewalk!
+
+Traveler: Uh, actually, I tapped into other sources for help...
+
+Kaeya: No matter what you say, I acknowledge your wisdom. After all, wisdom itself does not deceive.
+
+Paimon: But some people do enjoy deceiving others with their wits!
+
+Kaeya: Hahaha...
 
 ## Talk 9
 

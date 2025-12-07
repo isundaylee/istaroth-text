@@ -12,8 +12,13 @@ Traveler: What problem might that be?
 Ivanovich: Eh? Oh, Traveler, it's you. You've come at just the right moment! Might I interest you in a... Let's call it a...
 Ivanovich: ...a wonderful, mysterious, never-before-seen, surefire-profit of a business proposition?
 Ivanovich: I just need a little help from you, and we will both reap great rewards from it.
-Traveler: The Northland Bank is a maximum-security facility, you know.
-Ivanovich: Well, of course it is. Why, even the guards are from Snezhnaya. So... Wait, what? What were you thinking about?
+    Option 1:
+        Traveler: The Northland Bank is a maximum-security facility, you know.
+        Ivanovich: Well, of course it is. Why, even the guards are from Snezhnaya. So... Wait, what? What were you thinking about?
+    Option 2:
+        Traveler: Did you find something new in Liyue's legal codices?
+        Ivanovich: Um, honestly, Liyue's laws are very well written indeed. One can hardly find a single loophole in them.
+        Ivanovich: *cough* B—But that's not the point! I always make sure to follow the law!
 Ivanovich: It seems as though your travels have broadened your horizons — your thoughts are truly imaginative.
 Ivanovich: But my business proposition is one that is both realistic and down-to-earth.
 Ivanovich: I suppose you know of those meteorites that fell from the sky?
@@ -24,9 +29,6 @@ Ivanovich: Your part in this is simple, Traveler. You just need to make sure tha
 Ivanovich: How about it? Do we have a deal?
 Traveler: You shouldn't go near those meteorites.
 Ivanovich: What? Why not? I'm not letting this business opportunity pass me by.
-Traveler: Did you find something new in Liyue's legal codices?
-Ivanovich: Um, honestly, Liyue's laws are very well written indeed. One can hardly find a single loophole in them.
-Ivanovich: *cough* B—But that's not the point! I always make sure to follow the law!
 
 ## Talk 3
 
@@ -104,10 +106,12 @@ Ivanovich: Well, Traveler, I may not be going to get a meteorite, but I'll need 
 Ivanovich: If those meteorites really are so fascina— I mean, dangerous, that they can cause those who touch them to faint...
 Ivanovich: Then the things around those fallen meteorites must also have been affected.
 Ivanovich: Traveler, can you look for something in the area where they fell that you can bring back here? Plants, flowers... anything will do.
-Traveler: Got it...
-Ivanovich: Thank you. I simply cannot let such an opportunity slip by.
-Traveler: Is this what merchants are like?
-Ivanovich: Haha. I'll take that as a compliment. I'm counting on you, then.
+    Option 1:
+        Traveler: Got it...
+        Ivanovich: Thank you. I simply cannot let such an opportunity slip by.
+    Option 2:
+        Traveler: Is this what merchants are like?
+        Ivanovich: Haha. I'll take that as a compliment. I'm counting on you, then.
 
 ## Talk 14
 
@@ -117,22 +121,24 @@ Ivanovich: Hmm, no, that's not right. If they turn back into normal rocks, there
 ## Talk 15
 
 Ivanovich: Have you found anything?
-Traveler: I did.
-Ivanovich: Wonderful! Let me see.
-Ivanovich: Ah, a fresh Sweet Flower. Not bad at all. It is indeed abnormal. This must be the influence of the meteorites...
-Traveler: That might be problematic.
-Ivanovich: Hmm? What do you mean?
-Ivanovich: You were attacked while gathering flowers by... flowers? There are flowers that attack people?
-Ivanovich: Aha, that must be the meteorites' influence! That would explain why those flowers are so special.
-Traveler: I'm not sure there's a relation there...
-Paimon: That's right! What do meteorites have to do with flowers, anyway?
-Ivanovich: No, no, no, believe me. This flower is most certainly special in some way.
-Traveler: There's nothing special about this flower, though...
-Ivanovich: No, comrades, no. It was found beside one of those meteorites, so of course there's something special about it.
-Paimon: But this Sweet Flower doesn't look, smell, or feel any different from ordinary ones.
-Ivanovich: Well, as for that... that's not something you need to worry about.
-Ivanovich: Here's your compensation, as we agreed. It was a pleasure doing business with you.
-Ivanovich: Now, how to use this Sweet Flower... In a perfume, or as a bookmark? Perhaps it might even be good dried...
+    Option 1:
+        Traveler: I did.
+        Ivanovich: Wonderful! Let me see.
+        Ivanovich: Ah, a fresh Sweet Flower. Not bad at all. It is indeed abnormal. This must be the influence of the meteorites...
+    Option 2:
+        Traveler: That might be problematic.
+        Ivanovich: Hmm? What do you mean?
+        Ivanovich: You were attacked while gathering flowers by... flowers? There are flowers that attack people?
+        Ivanovich: Aha, that must be the meteorites' influence! That would explain why those flowers are so special.
+        Traveler: I'm not sure there's a relation there...
+        Paimon: That's right! What do meteorites have to do with flowers, anyway?
+        Ivanovich: No, no, no, believe me. This flower is most certainly special in some way.
+        Traveler: There's nothing special about this flower, though...
+        Ivanovich: No, comrades, no. It was found beside one of those meteorites, so of course there's something special about it.
+        Paimon: But this Sweet Flower doesn't look, smell, or feel any different from ordinary ones.
+        Ivanovich: Well, as for that... that's not something you need to worry about.
+        Ivanovich: Here's your compensation, as we agreed. It was a pleasure doing business with you.
+        Ivanovich: Now, how to use this Sweet Flower... In a perfume, or as a bookmark? Perhaps it might even be good dried...
 
 ## Talk 16
 

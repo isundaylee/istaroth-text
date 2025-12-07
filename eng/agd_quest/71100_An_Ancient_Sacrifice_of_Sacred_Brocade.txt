@@ -75,7 +75,10 @@ Little Mao: Yeah...
 Fujin: In that case...
 Fujin: ...
 Paimon: Huh? Did it work?
-Traveler: That thing in the fog just now...
+    Option 1:
+        Traveler: That thing in the fog just now...
+    Option 2:
+        Traveler: Nothing seems to have changed...
 Fujin: It seems I am too feeble in my current state.
 Paimon: Eh? We got the Votive Rainjade, and we placed the Simulacra, but it still wasn't enough?
 Fujin: I'm very sorry — it is not your fault. I need more power to overcome this trial. Just as the adeptal energy in the Votive Rainjade has dissipated into the spirit veins, so has my power also left me across the long years.
@@ -88,14 +91,15 @@ Fujin: ...I was not entirely open with you before, but neither the present nor p
 Paimon: Gee, is that it? Paimon thought you'd have something more important to say!
 Fujin: Eh?
 Paimon: There's no way we'd abandon or not make friends with you just because of that!
-Traveler: #That I, the Young Master, consider you a friend is not conditional on your status as an adeptus.
-Paimon: #Other than that whole "Young Master" bit, Paimon wanted to say the same thing!
+    Option 1:
+        Traveler: #That I, the Young Master, consider you a friend is not conditional on your status as an adeptus.
+        Paimon: #Other than that whole "Young Master" bit, Paimon wanted to say the same thing!
+    Option 2:
+        Traveler: That you are my friend has nothing to do with your status as an adeptus.
 Little Mao: My friend told me lots of stories about you. In my mind, even though we've just met, we're already friends, and I also want you to be happy, Big Sis!
 Fujin: Alright, alright... Thank you, all of you.
 Paimon: Well, that's more like it! So, where should we start looking for these Golden Carp?
 Fujin: I believe that you will have to go to Yaodie Valley. There will be a cavern there with a Golden Carp hidden within.
-Traveler: That you are my friend has nothing to do with your status as an adeptus.
-Traveler: Nothing seems to have changed...
 
 ## Talk 14
 
@@ -121,10 +125,13 @@ Paimon: Wait a minute... Didn't the gap in the middle of that mural originally h
 Fujin: ...I'm not sure. In truth, this is my first time seeing this mural as well.
 Paimon: Huh?
 Fujin: I'm sure you've all heard of the battles that took place in the past.
-Traveler: Khaenri'ah...
-Fujin: Hmm?
-Fujin: Sorry, I am merely a minor adeptus of Chenyu Vale. I fear I know little about any wars concerning this "Khaenri'ah."
-Paimon: The Archon War?
+    Option 1:
+        Traveler: Khaenri'ah...
+        Fujin: Hmm?
+        Fujin: Sorry, I am merely a minor adeptus of Chenyu Vale. I fear I know little about any wars concerning this "Khaenri'ah."
+        Paimon: The Archon War?
+    Option 2:
+        Traveler: The Archon War...
 Fujin: Yes. This cave was one of the shelters we built for the inhabitants of Chenyu Vale, such that the innocents caught in the crossfire when the floods overturned the heavens and the earth split open could have a place of safety.
 Fujin: I didn't expect that they'd draw a mural here, though. I believe the ones depicted to be me... *cough* I mean, the "big, slippery Carp" Little Mao mentioned, and a friend.
 Little Mao: Huh... If that's the case, why did the most important part get taken somewhere else?
@@ -138,11 +145,12 @@ Fujin: So please, lend me your strength in nursing Chenyu Vale back to health. I
 Traveler: Oh, so there's another?
 Fujin: If we get that one, I should have enough strength to perform the ritual.
 Fujin: Speaking of that, I must apologize for being unable to control the Golden Carp even with you nearby. I know they might have given you some trouble, swimming through the air like that.
-Traveler: That was somewhat troublesome, yes.
+    Option 1:
+        Traveler: That was somewhat troublesome, yes.
+    Option 2:
+        Traveler: It's fine, I just think of them like Seelie.
 Paimon: But really, where is the Golden Carp that should be here?
 Fujin: #Hehe, well, inside the painting. Just use your adeptal energy to awaken it, Traveler.
-Traveler: It's fine, I just think of them like Seelie.
-Traveler: The Archon War...
 
 ## Talk 28
 
@@ -173,10 +181,12 @@ Traveler: ...But there seems to be something missing inside.
 Paimon: Huh... That might be where the critical clue lies.
 Little Mao: #Ah, Traveler, over here! It looks like there's an orb inside some of these Carp statues!
 Little Mao: Didn't we find some statues of Carps and large pearl on our way down the mountain? Maybe those are actually used for something!
-Traveler: A real pearl of wisdom.
+    Option 1:
+        Traveler: A real pearl of wisdom.
+    Option 2:
+        Traveler: That's worth a try. Good job, Little Mao.
+        Little Mao: Hehe...
 Paimon: Well, let's give it a go, then!
-Traveler: That's worth a try. Good job, Little Mao.
-Little Mao: Hehe...
 
 ## Talk 34
 
@@ -226,9 +236,15 @@ Little Mao: Hehe...
 
 Fujin: My apologies for the poor hospitality. It has been a long time since I last enjoyed tea with others. Hopefully, my brewing skills have not deteriorated too much over time.
 Fujin: One d— *ahem* I mean, I have some experience in appreciating tea. It was also thanks to this that I was able to tell that this year's tea offering smelled off. That was how I discovered the trouble with the soil and water quality.
-Traveler: Huh. Didn't think the offering rites would be so useful.
+    Option 1:
+        Traveler: Huh. Didn't think the offering rites would be so useful.
+    Option 2:
+        Traveler: Looks like it wasn't some sort of meaningless tradition after all.
 Fujin: #Hehe, I suppose now I can tell those who fail to appreciate the value of tea about its value with confidence. Come, Traveler, have some tea!
-Traveler: Is this your teapot, Fujin?
+    Option 1:
+        Traveler: Is this your teapot, Fujin?
+    Option 2:
+        Traveler: Not sure why, but it reminds me of Madame Ping's...
 Paimon: Yeah, there was that time in Liyue Harbor when we fixed Madame Ping's teapot for her! Hehe, if you think about it, we seem to have quite a connection with tea!
 Fujin: Madame Ping? ...Ah, I think I know of whom you speak. We were acquainted back in the day, along with her friends.
 Fujin: As Little Mao said, I was once just a "giant Carp," unable to leave fresh water for too long, nor live in salty waters. As such, they sent me one of these "teapots."
@@ -250,7 +266,10 @@ Traveler: (We met many friends.)
 Traveler: (We met many friends.)
 Traveler: (And experienced so many things)
 Traveler: (And experienced so many things)
-Traveler: (It was all worth it.)
+    Option 1:
+        Traveler: (It was all worth it.)
+    Option 2:
+        Traveler: (I can only hope that in the end, it will all be worth it.)
 Little Mao: Wow! A sea monster, huh? Amazing!
 Fujin: Liyue Harbor is... not what I imagined.
 Traveler: Do you find it disappointing?
@@ -303,9 +322,6 @@ Paimon: True... But what about the Golden Carp? Isn't that what we're looking fo
 Fujin: In truth, you've already found it, as with the previous one. That's how I was able to appear before you.
 Fujin: It's just that I missed the scenery here a bit too much, so I couldn't help but have a long chat with you all. After all, your sense of time and mine are not the same. You won't tarry long once your objectives are complete, will you?
 Fujin: As such, I apologize. Please forgive my capriciousness.
-Traveler: (I can only hope that in the end, it will all be worth it.)
-Traveler: Not sure why, but it reminds me of Madame Ping's...
-Traveler: Looks like it wasn't some sort of meaningless tradition after all.
 
 ## Talk 51
 
@@ -371,15 +387,17 @@ Lingyuan: Do not come up here.
 
 Fujin: I am quite sorry for not being completely frank with you earlier...
 Fujin: Though I became aware of it during our travels, I did not wish to believe that my old friend Lingyuan would be the source of the storm that buffets Chenyu Vale.
-Traveler: I actually had an inkling already...
-Paimon: Eh? You did? When? How did you figure it out?
+    Option 1:
+        Traveler: I actually had an inkling already...
+        Paimon: Eh? You did? When? How did you figure it out?
+    Option 2:
+        Traveler: Whoa, so that's what's going on!
 Fujin: She, Herblord, and I once defended Chenyu Vale together. To think that she would do something so wicked... Her disruption of the spirit veins has caused the miasma to propagate, and the one who stopped me from performing the Rite the first time was also her.
 Little Mao: But Big Sis Fujin... Bluey... I mean, Lingyuan, isn't a bad person...
 Fujin: ...I know, Little Mao. She is your friend. But at this time, she is the greatest threat to Chenyu Vale. If she controls this sacred mountain, she will wield the power to completely alter the land of Chenyu Vale in the blink of an eye.
 Fujin: I fear that Lingyuan has already entered Chiwang Terrace before us. She means to rewrite the flow and path of the spirit veins... We have little time left.
 Fujin: #Traveler. You have mastered the adeptal energy available here in Chenyu Vale. Lingyuan and her familiars will not be your match.
 Fujin: Please accompany me for a time and aid me, for the sake of the people in Chenyu Vale. I will perform a ritual and open up the way to Chiwang Terrace. Please stay by my side and... protect me.
-Traveler: Whoa, so that's what's going on!
 
 ## Talk 64
 
@@ -412,7 +430,10 @@ Lingyuan: You are the only one here who can fight. When I have crushed your neck
 Little Mao: No!
 Traveler: I don't intend to kill you.
 Lingyuan: ...Why? I do not understand.
-Traveler: You've already lost.
+    Option 1:
+        Traveler: You've already lost.
+    Option 2:
+        Traveler: You're Fujin's friend.
 Lingyuan: ...Fine. You may ask me one question.
 Paimon: You still really care about doing things like that, even though you lost, huh...
 Traveler: Then let us exchange questions.
@@ -474,8 +495,17 @@ Fujin: Well, then we aren't all that different now, are we? Didn't you also choo
 Lingyuan: ...
 Lingyuan: I am satisfied with your answer, Fujin. Now, you may ask a question.
 Fujin: #Very well. May I ask the next question, Traveler, Paimon?
-Traveler: Ask away.
-Paimon: Uh... Paimon can't really think of any good questions at the moment. Since you've got one, you go right ahead!
+    Option 1:
+        Traveler: Ask away.
+        Paimon: Uh... Paimon can't really think of any good questions at the moment. Since you've got one, you go right ahead!
+    Option 2:
+        Traveler: Eh? What about my question?
+        Paimon: Whoa, why are you acting like a kid all of a sudden?
+        Little Mao: Yeah, that's really uncool of you!
+        Fujin: #Ah, I apologize... But the question I wish to ask is very important, so I hope you can let me ask it. I'll make it up to you later, Traveler!
+    Option 3:
+        Traveler: Eh, wasn't it Paimon's turn?
+        Paimon: Paimon can't really think of any good questions at the moment, so, uh... Since you wanna ask a question, Adeptus Fujin, go right ahead!
 Fujin: You acknowledged my answer, acknowledged me, and acknowledged that you made choices based on your own feelings. Now, let me ask you...
 Lingyuan: N—No... Don't ask.
 Fujin: You know what I'm going to ask you, right?
@@ -492,18 +522,14 @@ Lingyuan: #You also have my thanks, Traveler, Little Mao. It was you who brought
 Paimon: And what about Paimon?
 Lingyuan: ?
 Fujin: Alright, then. Let us begin.
-Traveler: Eh? What about my question?
-Paimon: Whoa, why are you acting like a kid all of a sudden?
-Little Mao: Yeah, that's really uncool of you!
-Fujin: #Ah, I apologize... But the question I wish to ask is very important, so I hope you can let me ask it. I'll make it up to you later, Traveler!
-Traveler: Eh, wasn't it Paimon's turn?
-Paimon: Paimon can't really think of any good questions at the moment, so, uh... Since you wanna ask a question, Adeptus Fujin, go right ahead!
-Traveler: You're Fujin's friend.
 
 ## Talk 70
 
 Little Mao: However, she hasn't written to me in a long time. If I were to guess, she's off adventuring in some faraway place. Maybe in the "Ancient City of Ys," or something like that.
-Traveler: Yeah, that sounds about right.
+    Option 1:
+        Traveler: Yeah, that sounds about right.
+    Option 2:
+        Traveler: ...
 Paimon: Heh, this Big Sis of yours sure seems like an interesting person!
 Little Mao: I know, right? Still, Big Sis Fujin needs our help, so let's continue on!
 Fujin (Fujin's Voice): Oh, there you all were. Ah, I was so worried...
@@ -511,7 +537,6 @@ Paimon: Wow, a Golden Carp!
 Fujin (Fujin's Voice): ... *cough* One was quite concerned that the swirling miasmas and fierce beasts that roam might have caused you ill. But one sees that it is not so, and that is good.
 Fujin (Fujin's Voice): #Thanks to the adeptal energy you possess, Traveler, one has been connected to the Golden Carp here, thus gaining the means to speak with you directly.
 Fujin (Fujin's Voice): #Traveler, Paimon, Little Mao, please come with me.
-Traveler: ...
 
 ## Talk 71
 
@@ -528,7 +553,10 @@ Paimon: Waaaaa... Paimon thought... Paimon thought that...
 Little Mao: What's wrong?
 Paimon: ...*sigh* Nothing, nothing! Paimon's glad you're still here, Adeptus Fujin! Seriously, Lingyuan...
 Lingyuan: What about me?
-Traveler: She wasn't entirely wrong, Paimon...
+    Option 1:
+        Traveler: She wasn't entirely wrong, Paimon...
+    Option 2:
+        Traveler: As long as you're still here, Adeptus Fujin.
 Fujin: Though my form is as it has become, I am far more comfortable than before. At first, I was trapped at Carp's Rest, and could only reminisce about the outside world through the scent of the tea offerings.
 Fujin: If I had not met you and Paimon, people of such compatibility with the spirit veins, I would have had none but my shadow to talk to, much less be able to leave Carp's Rest.
 Fujin: Thank you for your concern. Please forgive me, but I must depart now. I'll need a bit of rest.
@@ -565,7 +593,13 @@ Lingyuan: If the snake was here, we could ask for her opinion. But perhaps her t
 Lingyuan: #Before you go, Traveler, I have one final question for you.
 Lingyuan: Those that come from nature will, for some reason, go against nature — against the laws nature originally followed.
 Lingyuan: Will humans also go against humanity, against the principles they initially followed, for certain reasons?
-Traveler: Yes.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: No.
+    Option 3:
+        Traveler: That depends on the circumstances.
+        Lingyuan: You may as well have said just "yes."
 Lingyuan: Thank you. I have received the answer I desired.
 Lingyuan: #Well then, Little Mao, Traveler, and Paimon. We shall meet again.
 Little Mao: Alright then. See you later, Bluey!
@@ -579,22 +613,21 @@ Traveler: How would you view humanity?
 Lingyuan: A strange question. In the distant past, they were indeed part of nature. But they are so no longer. That is because...
 Lingyuan: ...
 Lingyuan: No, I need to give this question more thought. Next time we meet, I will give you my answer.
-Traveler: No.
-Traveler: That depends on the circumstances.
-Lingyuan: You may as well have said just "yes."
-Traveler: As long as you're still here, Adeptus Fujin.
 
 ## Talk 72
 
 Uncle Luo: You're back! We were just saying that good rainfall's bound to bring good tidings! And what do you know, dear guests? You've arrived, right on time!
 Grandpa Lu: How did it go? Well, I trust? Tell us all about it!
-Traveler: It was thanks to Adeptus Fujin...
-Traveler: We were able to clear the source of the anomalies...
-Black Screen Text: You explain what happened to Grandpa Lu and Uncle Luo...
+    Option 1:
+        Traveler: It was thanks to Adeptus Fujin...
+    Option 2:
+        Traveler: We were able to clear the source of the anomalies...
 Uncle Luo: #So you met the legendary Carp Adeptus!? Oh my, as one would expect of the young master of the Feiyun Commerce Guild. You really do have friends in high places!
-Traveler: Hehe, it was a piece of cake for me!
-Traveler: Now, your water and soil problems should be no more.
-Paimon: Uh... Anyway, your soil and water problems should be solved now!
+    Option 1:
+        Traveler: Hehe, it was a piece of cake for me!
+        Paimon: Uh... Anyway, your soil and water problems should be solved now!
+    Option 2:
+        Traveler: Now, your water and soil problems should be no more.
 Grandpa Lu: Haha, Old Luo, just what did I say? I told you it was a problem with the soil, but you wouldn't listen! If it wasn't for their help, we'd still be tealess come next year's Lantern Rite!
 Uncle Luo: *cough* That, uh... Regardless, thank you both for your help, honored guests!
 Uncle Luo: With your help, and the protection of the Carp Adeptus, I'm sure our village will surely see a great harvest of tea leaves this coming year.
@@ -611,6 +644,9 @@ Uncle Luo: Hmph, and now you pretend to be a good person... Wait, what do you me
 Uncle Luo: ...In any case, I don't really know how to repay you, dear guests.
 Uncle Luo: If you should need any help in the future, Qiaoying Village will be there to lend you a hand!
 
+Black Screen Text: You explain what happened to Grandpa Lu and Uncle Luo...
+[Missing Dialog 711008906]
+
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
@@ -620,11 +656,17 @@ Uncle Luo: If you should need any help in the future, Qiaoying Village will be t
 
 Uncle Luo: You're back! We were just saying that good rainfall's bound to bring good tidings! And what do you know, dear guests? You've arrived, right on time!
 Grandpa Lu: How did it go? Well, I trust? Tell us all about it!
-Traveler: It was thanks to Adeptus Fujin...
+    Option 1:
+        Traveler: It was thanks to Adeptus Fujin...
+    Option 2:
+        Traveler: We were able to clear the source of the anomalies...
 Black Screen Text: You explain what happened to Grandpa Lu and Uncle Luo...
 Uncle Luo: #So you met the legendary Carp Adeptus!? Oh my, as one would expect of the young master of the Feiyun Commerce Guild. You really do have friends in high places!
-Traveler: Hehe, it was a piece of cake for me!
-Paimon: Uh... Anyway, your soil and water problems should be solved now!
+    Option 1:
+        Traveler: Hehe, it was a piece of cake for me!
+        Paimon: Uh... Anyway, your soil and water problems should be solved now!
+    Option 2:
+        Traveler: Now, your water and soil problems should be no more.
 Grandpa Lu: Well, Old Luo, what did I say? I told you it was a soil problem, but you wouldn't listen. If it wasn't for them, who knows when our tea leaf problem would be solved!
 Uncle Luo: *cough* That, uh... Regardless, thank you both for your help, honored guests!
 Uncle Luo: With your help, and the protection of the Carp Adeptus, I'm sure our village will surely see a great harvest of tea leaves this coming year.
@@ -640,8 +682,6 @@ Little Mao: Woohoo! Egg custard!
 Uncle Luo: Hmph, and now you pretend to be a good person... Wait, what do you mean, "pretending to know"?
 Uncle Luo: ...In any case, I don't really know how to repay you, dear guests.
 Uncle Luo: If you should need any help in the future, Qiaoying Village will be there to lend you a hand!
-Traveler: Now, your water and soil problems should be no more.
-Traveler: We were able to clear the source of the anomalies...
 
 ### Additional Talk 2
 

@@ -17,17 +17,39 @@ Traveler: The photo is a visual representation.
 Ei: Ah, I see. So in other words, I need to do some sort of visually agreeable action in front of you, right?
 Ei: The more I think about it, the more embarrassing it seems.
 Ei: How should I pose? Help me out here. It should look good but not too over the top. This isn't coming naturally to me at all.
-Traveler: Try graceful and dignified.
-Ei: Okay... I'll try that.
+    Option 1:
+        Traveler: Try graceful and dignified.
+        Ei: Okay... I'll try that.
+    Option 2:
+        Traveler: Try stern and serious.
+        Ei: This doesn't feel very "me." Is this okay?
+    Option 3:
+        Traveler: Try relaxed and casual.
+        Ei: Casual... How about this? This feels quite natural.
+    Option 4:
+        Traveler: Try graceful and dignified.
+        Ei: Okay... I'll try that.
+        Traveler: Maybe try another one.
+        Ei: Alright. Well, I'll leave the decision to you.
+        Ei: How should I pose? Help me out here. It should look good but not too over the top. This isn't coming naturally to me at all.
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Traveler: Try stern and serious.
+        Ei: This doesn't feel very "me." Is this okay?
+        Traveler: Maybe try another one.
+        Ei: Alright. Well, I'll leave the decision to you.
+        Ei: How should I pose? Help me out here. It should look good but not too over the top. This isn't coming naturally to me at all.
+        [Circling back to a pre-branch dialog]
+    Option 6:
+        Traveler: Try relaxed and casual.
+        Ei: Casual... How about this? This feels quite natural.
+        Traveler: Maybe try another one.
+        Ei: Alright. Well, I'll leave the decision to you.
+        Ei: How should I pose? Help me out here. It should look good but not too over the top. This isn't coming naturally to me at all.
+        [Circling back to a pre-branch dialog]
 Traveler: That works.
 Ei: Okay, let's get started.
 Paimon: Let's pick a good angle to record this moment from.
-Traveler: Maybe try another one.
-Ei: Alright. Well, I'll leave the decision to you.
-Traveler: Try stern and serious.
-Ei: This doesn't feel very "me." Is this okay?
-Traveler: Try relaxed and casual.
-Ei: Casual... How about this? This feels quite natural.
 
 ## Talk 3
 
@@ -39,7 +61,10 @@ Ei: Fascinating. I'm learning a lot today. Let's get this underway.
 Paimon: It's a wrap! Take a look, here's the photo we took of you.
 Ei: Wow... this is astonishing. Is it some kind of magic? It seems to be... another copy of me?
 Ei: But she doesn't seem to be able to move or talk...
-Traveler: It's just a record.
+    Option 1:
+        Traveler: It's just a record.
+    Option 2:
+        Traveler: It's not the real you.
 Ei: I thought it would turn out poorly because I felt rather rigid. But it actually looks much more natural than I'd imagined.
 Ei: The pose is exactly the same and so is the scenery in the background... I can't imagine how it's achieved.
 Paimon: That's what makes it so special.
@@ -60,7 +85,10 @@ Ei: The Shogun, for example, is one of my forms of existence. The question of wh
 Paimon: In that case, this picture is one of your forms of existence, too.
 Ei: Hmm. So even I, who seeks Eternity, am constantly changing my form of existence...
 Ei: Then, how can I ask Inazuma and everyone who lives here to remain unchanging?
-Traveler: Inazuma will always be Inazuma.
+    Option 1:
+        Traveler: Inazuma will always be Inazuma.
+    Option 2:
+        Traveler: Human beings will always be human.
 Ei: Everything I have encountered on this journey with you has been from beyond my existing sphere of knowledge.
 Ei: *sigh* You've seen a lot of my ignorant side today. Maybe you can't tell, but all this has challenged my understanding of things.
 Ei: Based on what I have seen today, I am forced to accept that Inazuma is a completely different place from the one I remember.
@@ -76,8 +104,6 @@ Paimon: Hmm? Why's it getting so noisy down there?
 Paimon: That sounded like Ippei. What could be the matter?
 Ei: Ippei? Is that someone from the Tenryou Commission?
 Paimon: Yep. Let's find out what's going on.
-Traveler: Human beings will always be human.
-Traveler: It's not the real you.
 
 ## Talk 5
 
@@ -106,7 +132,10 @@ Ippei: The meeting place is in the mountains near the Grand Narukami Shrine. I b
 Ei: Takatsukasa... another familiar name. They have been faithfully serving the Kujou Clan all these years?
 Ippei: Yes, yes. That's why Master Kamaji decided to discuss things with them. I understand they must have had a lot of ground to cover, but still, there's no way it should have gone on this long.
 Ippei: I've searched all over the city. If he really hasn't returned yet, then...
-Traveler: Maybe they haven't finished.
+    Option 1:
+        Traveler: Maybe they haven't finished.
+    Option 2:
+        Traveler: Maybe something's happened.
 Ippei: Yeah, I thought of that possibility too... but someone of my rank can't just go venturing into Takatsukasa Clan territory like that.
 Traveler: We can go check things out for you.
 Ippei: No, no need. I'm probably just overthinking things. Besides, if they're still at it, they'll only blame me for interrupting the negotiations.
@@ -116,8 +145,9 @@ Paimon: Hmm... what do you think, Almighty Shogun?
 Ei: Let's go see what's happening.
 Ei: With me present, they are unlikely to blame you even if we do happen to interrupt the negotiations.
 Ei: Besides, this has only come about because I failed to make a timely decision. This issue started with me, and I shall be the one to finish it.
-Traveler: That's commitment, right there.
+    Option 1:
+        Traveler: That's commitment, right there.
+    Option 2:
+        Traveler: Awesome stuff.
 Ippei: Thank you so much, Shogun! I'll keep looking around in the meantime, too!
 Ippei: Let me mark out the location of the base for you. I hope everything goes smoothly!
-Traveler: Awesome stuff.
-Traveler: Maybe something's happened.

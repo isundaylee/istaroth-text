@@ -22,20 +22,33 @@ Citlali: I'll help you. My knowledge on the Lord of the Night and the Wayob migh
 Mavuika: That brings me to the second matter. As you already know, once your Ancient Name is complete, we need to venture into the deepest part of the Night Kingdom.
 Mavuika: That will happen in three days' time.
 Paimon: Th—Three days!? So soon?
-Traveler: I'll start getting ready.
+    Option 1:
+        Traveler: I'll start getting ready.
+    Option 2:
+        Traveler: That won't be a problem.
 Paimon: Wait! But, um...
 Mavuika: #You're worried about Traveler, aren't you?
 Paimon: Well, Paimon gave it a lot of thought, and Paimon's not very good at thinking or fighting to begin with. It's just...
 Paimon: This plan could save countless lives. Paimon understands why people would want to be a part of something so important...
 Paimon: #But... all this time, Paimon has barely left Traveler's side. Not to mention, we all know this will be a super dangerous mission...
-Traveler: Just trust us.
+    Option 1:
+        Traveler: Just trust us.
+    Option 2:
+        Traveler: We have to be the ones to do this.
 Mavuika: That's right. And, as long as we win, the Ode of Resurrection will return us to this land.
 Mavuika: The Night Kingdom is a realm of souls and memories, where mental fortitude outweighs physical strength.
 Mavuika: All in Natlan are resolved to win this war. The Sacred Flame will connect us to their fighting spirit. We will do whatever it takes to win.
 Mavuika: #So, if you want to contribute, just cheer us on alongside all the people of Natlan. For Traveler, I'm sure your words of encouragement are among the most important.
 Paimon: The most important? Really...?
-Traveler: That way, it'd be like we're still together.
-Paimon: That's right! Overcoming danger side by side, just like always!
+    Option 1:
+        Traveler: That way, it'd be like we're still together.
+        Paimon: That's right! Overcoming danger side by side, just like always!
+    Option 2:
+        Traveler: That way, I'll always remember how much you care about me.
+        Paimon: Okay... then, please don't do anything reckless! That's what Paimon's trying to avoid!
+    Option 3:
+        Traveler: That way, it'll be just like fishing with you cheering me on.
+        Paimon: Uh, not sure what fishing has to do with anything, but... If you're making weird analogies, guess that means you're not nervous.
 Paimon: Alright, it's decided! Paimon will cheer the loudest out of everyone in Natlan!
 Citlali: It's less about volume, and more about mental focus. But, I get it. You're just trying to show how much you care.
 Mavuika: Of course, this all depends on the successful completion of the Ancient Name.
@@ -47,7 +60,10 @@ Paimon: Good luck, you two!
 Paimon: Three days, huh... What should we do in the meantime? We know you're still rebuilding, so is there anything we can do to help?
 Mavuika: From what I've heard, the two of you have helped more than enough. You should take a well-deserved rest.
 Mavuika: Even if there are stray Abyss monsters out there, our warriors can handle them. Don't worry.
-Traveler: Still, if things haven't returned to normal...
+    Option 1:
+        Traveler: Still, if things haven't returned to normal...
+    Option 2:
+        Traveler: Resting isn't my style.
 Paimon: Exactly! We can't take a break! We're adventurers! We've gotta live up to the name!
 Paimon: We still have a long journey ahead of us and so many places to go! The battle in three days is just another part of our adventure!
 Mavuika: Haha, I see. In that case, just do what you think is best.
@@ -65,7 +81,10 @@ Paimon: So, if Mavuika relaxes by working really hard at something... That basic
 Paimon: Oh, uh... hello? Sorry, Mavuika's not here right now.
 Mualani: There you are!
 Kachina: *panting*... We made it.
-Traveler: Why are you so out of breath?
+    Option 1:
+        Traveler: Why are you so out of breath?
+    Option 2:
+        Traveler: Is something wrong?
 Mualani: Haha, other than our plan almost falling through? Nothing at all!
 Mualani: The preparations took longer than expected. We were so worried we wouldn't make it before you left on your next big adventure.
 Kachina: Well, if you hadn't overslept...
@@ -93,14 +112,6 @@ Mualani: W—Well, I definitely wasn't expecting that suggestion. She's the Arch
 Mualani: But, we might as well extend the invitation! The Archon is about to fight for us with everything she has! This feast is in her honor, too!
 Kachina: Um, then who's gonna be the one to invite her?
 Mualani: All of us, of course!
-Traveler: Is something wrong?
-Traveler: Resting isn't my style.
-Traveler: That way, I'll always remember how much you care about me.
-Paimon: Okay... then, please don't do anything reckless! That's what Paimon's trying to avoid!
-Traveler: That way, it'll be just like fishing with you cheering me on.
-Paimon: Uh, not sure what fishing has to do with anything, but... If you're making weird analogies, guess that means you're not nervous.
-Traveler: We have to be the ones to do this.
-Traveler: That won't be a problem.
 
 ## Talk 2
 
@@ -261,7 +272,6 @@ Ajaw: H—Help! Someone save meeeeee!
 
 ## Talk 12
 
-Black Screen Text: For now, you set aside your troubles to savor the delicious food and this happy occasion.
 Mualani: So... full. I'm practically a Blubberbeast, hehe...
 Kachina: Wh—What's that?
 Mualani: A creature from Fontaine with a super round belly... You've never seen a picture of one?
@@ -315,14 +325,28 @@ Mavuika: Yes, exactly.
 Paimon: #So, Traveler saw... The Captain's future?
 Ororon: It's still unclear. But, Granny taught me how to interpret dreams. Would it be okay if I try to take a look?
 Ororon: If I can observe your soul, I can find out the key elements of the dream.
+Black Screen Text: For now, you set aside your troubles to savor the delicious food and this happy occasion.
+
 Traveler: That's incredible.
+Ororon: You're thinking of the Dendro Archon, right? My tribe's power over dreams is nothing compared to that of an Archon.
+Ororon: Observing the dreamscape requires a ritual and can only reveal static images. We also need the full cooperation of the dreamer.
+Ororon: Otherwise, the process could be used to violate the privacy of others...
+Mavuika: #I also have a fairly good understanding of the ritual. What do you say, Traveler? Should we start the preparations?
+    Option 1:
+        Traveler: I'm curious about The Captain.
+    Option 2:
+        Traveler: I want to know about his true goal...
+Ororon: Then, I'll start getting ready. We'll carry out the ceremony somewhere else.
+
 Traveler: That power reminds me of someone.
 Ororon: You're thinking of the Dendro Archon, right? My tribe's power over dreams is nothing compared to that of an Archon.
 Ororon: Observing the dreamscape requires a ritual and can only reveal static images. We also need the full cooperation of the dreamer.
 Ororon: Otherwise, the process could be used to violate the privacy of others...
 Mavuika: #I also have a fairly good understanding of the ritual. What do you say, Traveler? Should we start the preparations?
-Traveler: I'm curious about The Captain.
-Traveler: I want to know about his true goal...
+    Option 1:
+        Traveler: I'm curious about The Captain.
+    Option 2:
+        Traveler: I want to know about his true goal...
 Ororon: Then, I'll start getting ready. We'll carry out the ceremony somewhere else.
 
 ## Talk 13
@@ -443,12 +467,14 @@ Kachina: I think I'll go see Xilonen. She's probably done with your Ancient Name
 Traveler: So soon?
 Kachina: Yeah! Xilonen is an amazing engraver! She usually works really fast, but your ancient name is a special case, so I can't say for sure...
 Paimon: Well, we also don't have anything to do, so why don't we go together?
-Traveler: Sounds good.
+    Option 1:
+        Traveler: Sounds good.
+    Option 2:
+        Traveler: At this time of night, it's dangerous to go alone.
 Kachina: Oh, it's okay! I'm not alone — Turbo Twirly's with me!
 Kachina: Still, if you want to check on the progress, we should definitely go together! Getting an Ancient Name is such a special moment!
 Paimon: Whoo, let's go!
 Ajaw: H—Help! Someone save meeeeee!
-Traveler: At this time of night, it's dangerous to go alone.
 
 ## Talk 16
 
@@ -473,16 +499,20 @@ Kachina: Toto is a gentle creature — he's not aggressive or territorial. He lo
 Kachina: I don't like conflict or violence, either — Toto and I are similar in that way. But, we want to protect the things we love from being destroyed. So... we chose to fight.
 Kachina: Love is an extremely positive and powerful emotion, but sometimes it comes with pain — that's what my dad always says.
 Kachina: Now, I finally understand what he meant.
-Traveler: You and Toto are both very brave.
+    Option 1:
+        Traveler: You and Toto are both very brave.
+    Option 2:
+        Traveler: I'm sorry you had to grow up so fast.
 Kachina: It's alright. This will all be over soon.
 Kachina: The fact that I was born in this era, that I got to meet legendary heroes like you and our Archon... actually makes me feel really lucky.
 Kachina: I've always wanted to see what Natlan would be like without the Abyss...
 Kachina: And now, that day is just around the corner. I know you two can win this!
 Paimon: Yeah, it's time to get this over with. We've still got a long journey ahead of us!
-Traveler: Thanks, you two.
+    Option 1:
+        Traveler: Thanks, you two.
+    Option 2:
+        Traveler: I'll give it my all.
 Kachina: C'mon, we're almost there!
-Traveler: I'll give it my all.
-Traveler: I'm sorry you had to grow up so fast.
 
 ## Talk 19
 
@@ -509,7 +539,10 @@ Citlali: A light to guide us through the darkness, like the stars or the moon...
 Paimon: Amazing! Does this name come with a cool chant like the others?
 Xilonen: #Of course, but that'll come later. Traveler is the first bearer of this name — those words will emerge naturally during his journey.
 Xilonen: Once you return triumphant from the battle, I'm sure you will have fully understood why the Lord of the Night chose this name for you.
-Traveler: Everything's ready...
+    Option 1:
+        Traveler: Everything's ready...
+    Option 2:
+        Traveler: Now, we just need to strike.
 Paimon: Well, getting this Name turned out to be easier than Paimon was expecting.
 Xilonen: It all came down to the Lord of the Night's power. This situation is the first of its kind. Heck, I doubt we'll ever get a chance like this again.
 Citlali: Imagine receiving that much help from the Lord of the Night only for our most trusted engraver to fail... That would have been so embarrassing for humanity.
@@ -543,14 +576,15 @@ Paimon: Is something on your mind, Citlali? You barely had anything to drink at 
 Citlali: Heh, I didn't think anything could shake me at this age...
 Citlali: But, the closer we get to the final battle, the more worried I feel... You have an Ancient Name now, but the Ode of Resurrection only takes effect if you win.
 Citlali: And, the Pyro Archon's fate... is pointing toward "death."
-Traveler: No fate is set in stone.
+    Option 1:
+        Traveler: No fate is set in stone.
+    Option 2:
+        Traveler: We will achieve victory together.
 Citlali: ...
 Citlali: I believe in you... And, thank you — your words mean a lot.
 Xilonen: Alright, I'm ready... Oh, is something wrong?
 Paimon: No, not at all! Citlali just... ate too much!
 Citlali: Yes, that's right! So, I should really walk it off. C'mon, let's run the final test.
-Traveler: We will achieve victory together.
-Traveler: Now, we just need to strike.
 
 ## Talk 20
 
@@ -650,7 +684,10 @@ Kachina: But the battle taught me that very few things in life are permanent. Li
 Kachina: It makes the things we love even more precious. So, I want to do as much as I can to defend my family and friends, so I can move forward without regrets.
 Traveler: I feel the same way.
 Kachina: Actually, that's something I learned from you, hehe! You've really taught me a lot.
-Traveler: You give me too much credit.
+    Option 1:
+        Traveler: You give me too much credit.
+    Option 2:
+        Traveler: You're a fast learner.
 Paimon: Yeah! You're so talented and strong — practically a star pupil!
 Kachina: R—Really? So, you think I'm doing a good job? I've been a good... disciple? Or, uh, student? Or, um...
 Traveler: How about... friend?
@@ -658,7 +695,6 @@ Kachina: *tearful whimper*...
 Kachina: Thank you! I... I won't let you down! I'll train even harder tomorrow!
 Kachina: Hehe, alright, we're not far from the tribe. Let's go.
 Kachina: Bye, Ayo! Bye, Hanwi! Bye, Anpao!
-Traveler: You're a fast learner.
 
 ## Talk 23
 
@@ -670,7 +706,10 @@ Paimon: Oh, yeah! Abyssal power kept surging out! If Chasca hadn't destroyed the
 Citlali: That's exactly what I'm worried about. All this time, our final foe has continued to corrode the Ley Lines from the depths of the Night Kingdom.
 Citlali: Your resistance to its power is remarkable, but you need to tell me if anything feels wrong.
 Citlali: If either of us notices something off, the test ends, got it?
-Traveler: I'll be fine.
+    Option 1:
+        Traveler: I'll be fine.
+    Option 2:
+        Traveler: I'm more worried about Abyssal power leaking out.
 Citlali: Don't worry, I'll use Elemental power to take care of that. This isn't exactly a picnic in the park, but everyone knows you never leave trash behind.
 Citlali: Xilonen, I'm ready to start.
 Citlali: Paimon, give us a little more space.
@@ -682,7 +721,10 @@ Citlali: Your soul is remarkable. Such a strong presence... even on par with the
 Citlali: Looks like the Lord of the Night has accepted this Name and acknowledged you as its bearer... No surprise there, considering we only got this far because of her.
 Citlali: Stable connection to the Ley Lines, no unexpected fluctuations... Both good signs.
 Citlali: #How do you feel, Traveler?
-Traveler: All good.
+    Option 1:
+        Traveler: All good.
+    Option 2:
+        Traveler: Completely normal.
 Xilonen: Then, it looks like your Ancient Name is good to go. That's great news.
 Paimon: Wait, look! Something's coming!
 Citlali: No need to panic, Paimon. The damage to the Ley Lines has allowed these soul-like beings to leak out onto the surface.
@@ -713,8 +755,6 @@ Citlali: That's right, but saving some is still better than saving none at all. 
 Citlali: That has to be true loneliness... The knowledge that you've been abandoned by the world, even in death...
 Traveler: Then, we have to do something.
 Paimon: Yeah! We should try to save whoever we can!
-Traveler: Completely normal.
-Traveler: I'm more worried about Abyssal power leaking out.
 
 ## Talk 24
 
@@ -790,7 +830,10 @@ Citlali: In theory, that means Khaenri'ahn souls shouldn't be drawn to the prese
 Xilonen: One thing's for sure — it seems like The Captain wants to help these souls.
 Paimon: Well, he usually keeps his cards close to his chest. If we want to know what he's up to, we just have to wait for him to act.
 Paimon: Anyway, let's focus on the final battle. That's the most important thing right now.
-Traveler: Agreed. Also...
+    Option 1:
+        Traveler: Agreed. Also...
+    Option 2:
+        Traveler: We should probably mention Ayo's grandparents to Kachina.
 Xilonen: I will.
 Xilonen: Good or bad, happy or cruel, we always have to face the truth. Reality doesn't change just because we choose not to face it.
 Citlali: I just wish I could have done more. So many souls, and I could barely help. I'm so sorry...
@@ -799,10 +842,11 @@ Citlali: I guess you're right... If we want to end this, we have to tackle the r
 Xilonen: It's just another reason why this battle is so important.
 Xilonen: #Traveler, before you set off, remember to give your Ancient Name to the Pyro Archon. She will introduce it to our people and explain its meaning.
 Xilonen: Then, the rest is up to you.
-Traveler: Got it.
+    Option 1:
+        Traveler: Got it.
+    Option 2:
+        Traveler: I'll try to remember everything I've learned on my journey.
 Paimon: And don't forget — we're all cheering for you!
-Traveler: I'll try to remember everything I've learned on my journey.
-Traveler: We should probably mention Ayo's grandparents to Kachina.
 
 ## Talk 26
 
@@ -839,12 +883,14 @@ Kachina: I was so nervous the night before the Pilgrimage, but your words of enc
 Kachina: I slept so well that night, and earned the best score I've ever had in the Pilgrimage!
 Kachina: #S—So, if you're nervous, Traveler, maybe I can encourage you this time...
 Kachina: *sigh* I've learned so much from you. But, I doubt I can return the favor...
-Traveler: Don't worry, I'm not nervous.
-Kachina: #Hehe, I knew it! I really look up to your bravery, Traveler!
+    Option 1:
+        Traveler: Don't worry, I'm not nervous.
+        Kachina: #Hehe, I knew it! I really look up to your bravery, Traveler!
+    Option 2:
+        Traveler: I'm a little nervous.
+        Kachina: Oh, um... D—Don't worry! I'll be rooting for you! And, if you need help, I'll always be first in line!
+        Kachina: I bear the ancient name "Utha{RUBY#[D]Resilience}biti." That means I'll never give up! So, I guess the only piece of advice I can give you is... Don't back down!
 Kachina: Alright, let's keep going!
-Traveler: I'm a little nervous.
-Kachina: Oh, um... D—Don't worry! I'll be rooting for you! And, if you need help, I'll always be first in line!
-Kachina: I bear the ancient name "Utha{RUBY#[D]Resilience}biti." That means I'll never give up! So, I guess the only piece of advice I can give you is... Don't back down!
 
 ## Additional Conversations
 
@@ -936,13 +982,17 @@ Kachina: Toto is a gentle creature — he's not aggressive or territorial. He lo
 Kachina: I don't like conflict or violence, either — Toto and I are similar in that way. But, we want to protect the things we love from being destroyed. So... we chose to fight.
 Kachina: Love is an extremely positive and powerful emotion, but sometimes it comes with pain — that's what my dad always says.
 Kachina: Now, I finally understand what he meant.
-Traveler: You and Toto are both very brave.
+    Option 1:
+        Traveler: You and Toto are both very brave.
+    Option 2:
+        Traveler: I'm sorry you had to grow up so fast.
 Kachina: It's alright. This will all be over soon.
 Kachina: The fact that I was born in this era, that I got to meet legendary heroes like you and our Archon... actually makes me feel really lucky.
 Kachina: I've always wanted to see what Natlan would be like without the Abyss...
 Kachina: And now, that day is just around the corner. I know you two can win this!
 Paimon: Yeah, it's time to get this over with. We've still got a long journey ahead of us!
-Traveler: Thanks, you two.
+    Option 1:
+        Traveler: Thanks, you two.
+    Option 2:
+        Traveler: I'll give it my all.
 Kachina: C'mon, we're almost there!
-Traveler: I'll give it my all.
-Traveler: I'm sorry you had to grow up so fast.

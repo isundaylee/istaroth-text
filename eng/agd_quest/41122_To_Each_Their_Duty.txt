@@ -15,6 +15,7 @@ Huffman: Between the people who fled into the city to seek shelter and those who
 Huffman: I'd like to recall all the knights who are currently attending to duties outside so we can settle matters within these four walls first.
 Huffman: But they are currently dispersed out in the wild, and we haven't the extra numbers to go out and look for them.
 Huffman: Could you lend me a hand and let them have a look at these Orders?
+[Missing Dialog 411220109]
 
 ## Talk 3
 
@@ -100,10 +101,12 @@ Harry: I have to clean them out in order to ensure this area's safety.
 Traveler: But there's no one here, is there?
 Harry: Well, it's precisely because no one's around that I'm free to fight these monsters.
 Harry: This is a very important matter. I cannot leave while it remains undone.
-Traveler: I'll help.
+    Option 1:
+        Traveler: I'll help.
+    Option 2:
+        Traveler: Let's do this together.
 Harry: Great, thank you. There's not one, but a few concentrations of monsters in this area.
 Harry: Let's split up and destroy all the monsters in our respective areas, and we'll link up here once we're done.
-Traveler: Let's do this together.
 
 ## Talk 10
 

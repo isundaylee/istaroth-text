@@ -97,14 +97,22 @@ Furina: (Phew... Alright, Furina, don't think too hard about this. You need rest
 Black Screen Text: Scene 4, Opera House, Furina
 Unknown Voice: Lady Furina, here are the new trial reports for the latest cases, as well as a summary of the follow-up...
 Furina: Ugh, there'll be no need for that. I've seen them already. There's no need to go back over scenes I've witnessed in person before!
+[Missing Dialog 40241908]
+
 Unknown Voice: Lady Furina! I've waited for so, so long, for this chance to see you in this manner...
 Furina: Indeed, my dear, loyal citizen, this joyous moment is an honor for us both!
+[Missing Dialog 40241911]
+
 Unknown Voice: Lady Furina. We're detecting significant hydrological anomalies near Poisson...
 Furina: Understood. Keep monitoring. Keep me informed should anything come up at the Institute.
+[Missing Dialog 40241914]
+
 Furina: (Phew... I don't think I let anything slip today. I must show the people that there is nothing to worry about...)
 Furina: (I just... don't know when these days will end...)
 Furina: (I feel utterly exhausted. Best to rest early today, too.)
+
 Black Screen Text: Scene 5, Opera House, Furina
+[Missing Dialog 40242002]
 
 ## Talk 18
 
@@ -151,7 +159,9 @@ Furina: So, how long am I going to have to play this role?
 Focalors (Person in the Mirror): To accomplish this mission, you will have to stay on the stage for many, many years. You will endure and not grow old until your task ends.
 Focalors (Person in the Mirror): But I promise you... all will eventually end in a magnificent and dramatic trial, and everyone will be saved.
 Furina: A trial, huh... How exciting. I'll be looking forward to it.
+
 Black Screen Text: Scene 2, Accession Speech, Furina
+[Missing Dialog 40240602]
 
 ## Talk 21
 
@@ -189,22 +199,30 @@ Eureka-Moment Audience Member: Ah, so that was just a performance! How could I h
 Agreeing Audience Member: Such personality! It's quite shocking, to be honest, but I suppose it's a better look than before...
 Delighted Audience Member: Such a fascinating and bold deity. How wonderful! Our future may yet be bright after all...
 Furina: (It seems I've turned them around. Best follow this flow and restart my accession speech...)
-Furina: Summon Courage
-Furina: Resolutely, with Conviction
+    Option 1:
+        Furina: Summon Courage
+    Option 2:
+        Furina: Resolutely, with Conviction
 Furina: My dear people. Whether you acknowledge me or not, whether you trust me or nay, I say to you — keep faith in your ardor for justice!
 Furina: We have heard it said that this nation's sins can no longer be washed away. Well, I say that justice is most fragrant when it blooms amid sin!
-Furina: Appear Earnest
-Furina: Turn up the Drama
-Furina: (No, this won't work... They'll suspect me again. I must play the role that they want me to play.)
+    Option 1:
+        Furina: Appear Earnest
+        Furina: (No, this won't work... They'll suspect me again. I must play the role that they want me to play.)
+    Option 2:
+        Furina: Turn up the Drama
 Furina: The scales of justice should not weigh heavy in the hands of its god. On one side, it must carry fairness and justice, and on the other, praise and applause.
 Furina: May law be the prayer on our lips. May judgment be our worship. Let us light the fires, and drink to the future of Fontaine!
-Furina: Close Politely
-Furina: End the Speech Emphatically
-Furina: (No, this won't work... They'll suspect me again. I must play the role that they want me to play.)
+    Option 1:
+        Furina: Close Politely
+        Furina: (No, this won't work... They'll suspect me again. I must play the role that they want me to play.)
+    Option 2:
+        Furina: End the Speech Emphatically
 Furina: There is no trouble in this world that justice cannot solve. All that is needed is for you, my people, to believe in it, heart and soul.
 Furina: So long as I, the Archon Focalors, stand within the Opera Epiclese... so long as I stand before the Oratrice... I shall even judge the gods of this world!
 Eureka-Moment Audience Member (Audience): (Whoops and cheers from the audience)
+
 Black Screen Text: Scene 3, Opera House, Furina
+[Missing Dialog 40240702]
 
 ## Talk 24
 
@@ -349,20 +367,24 @@ Neuvillette: It's time to end this. We must mete out punishment to that beast.
 Paimon: But didn't you say just a moment ago that it can't be defeated?
 Neuvillette: I have gained the strength sufficient to deal with it. Through... certain means, I now have the ability to separate the power of the Primordial Sea from that creature.
 Neuvillette: We should seize the opportunity to pursue our quarry.
-Traveler: You obtained power?
+    Option 1:
+        Traveler: You obtained power?
+    Option 2:
+        Traveler: Just now?
 Neuvillette: #Traveler, now that the Oratrice can no longer function, I require an "executor" to help me mete out justice.
 Traveler: You... You mean me?
 Neuvillette: The root of the calamities befalling Fontaine, the beast that enacts the prophecy... Its name is the All-Devouring Narwhal.
 Neuvillette: ...Come with me, Traveler. The hour of execution has come.
-Traveler: Just now?
 
 ## Talk 34
+
+Black Screen Text: Scene 1, Before a Mirror, Furina
+[Missing Dialog 40240502]
 
 Traveler: (That's all the spotlights turned off. In Furina's heart, they must have symbolized the eyes of the people on her.)
 Traveler: (Speaking of which, I think I just received some sort of signal. Was that her true voice?)
 Traveler: (Hmm...? A ticket? When did that end up here?)
 Traveler: (Either way, looks like the show is about to begin. In that case, show me how you truly feel, Furina.)
-Black Screen Text: Scene 1, Before a Mirror, Furina
 
 ## Talk 35
 
@@ -377,13 +399,19 @@ Black Screen Text: Scene 1, Before a Mirror, Furina
 Skirk (???): Thanks for helping with the "cleanup." It should've been my job, but... Oh well.
 Skirk (???): It was just supposed to be a short private training session for me... I didn't think that my disciple and my master's pet would start brawling in the meantime.
 Skirk (???): Well, actually, I had a feeling that it would happen at some point, but they bumped into one another earlier than I'd thought. What a blunder... I suppose I'll have to swing my sword three million times as penance.
-Traveler: Disciple...?
+    Option 1:
+        Traveler: Disciple...?
+    Option 2:
+        Traveler: Your master's pet?
 Neuvillette: That power... Who are you, exactly?
 Paimon: Uh, Paimon has an idea... From what she said earlier, she must be Childe's master... Skirk, right?
 Paimon: It's just that he gave us the impression that she was a less... talkative person.
 Skirk: I simply did not have anything to say to the weak. But you, on the other hand, managed to defeat the All-Devouring Narwhal without using "power from beyond this world"...
 Skirk: So you may speak to me as equals.
-Traveler: What sort of person...
+    Option 1:
+        Traveler: What sort of person...
+    Option 2:
+        Traveler: ...Would take the All-Devouring Narwhal as a pet?
 Skirk: I have to agree. It's a strange use of a planet's primordial waters just to raise an All-Devouring Narwhal.
 Skirk: That kind of power is wasted on it. It's not cooperative, it eats too much... and I have more important things to do with my time than pet-sitting. The only thing that creature has going for it is its looks.
 Skirk: All in all, it fails as a pet.
@@ -409,13 +437,13 @@ Skirk: Such roiling Hydro energies will prove difficult for the planet's deep se
 Skirk: As such, the Fontaine back on the surface has most likely been thrown into chaos.
 Skirk: In other words, the prophecy that you have been fretting over should now be in full swing.
 Paimon: What!?
-Traveler: No...
+    Option 1:
+        Traveler: No...
+    Option 2:
+        Traveler: ...There's little to be surprised about, Paimon.
 Traveler: (It is natural, after all. The prophecy will surely come true. We knew this... and accepted it.)
 Traveler: (However...)
 Neuvillette: Not to worry. Focalors has... already managed to deceive the Heavenly Principles.
-Traveler: ...There's little to be surprised about, Paimon.
-Traveler: ...Would take the All-Devouring Narwhal as a pet?
-Traveler: Your master's pet?
 
 ## Talk 38
 
@@ -428,16 +456,20 @@ Traveler: Your master's pet?
 ## Talk 98
 
 Furina: Oh? Who permitted you to come onto this stage? Now, I understand your admiration for my august self, but I must ask you to keep to the rules.
-Traveler: Come on, it's me.
+    Option 1:
+        Traveler: Come on, it's me.
+    Option 2:
+        Traveler: Uh... Furina?
 Furina: Alright, alright, it is not my intent to reprimand you. There is no need to state your name. Just be off with you — do not distract me from my performance.
-Traveler: But...
+    Option 1:
+        Traveler: But...
+    Option 2:
+        Traveler: I don't see an audience here?
 Furina: Hah. Do not jest. Can you not feel it?
 Furina: I am Focalors. The eyes of countless Fontainians are upon me. I must, at all times, display the utmost elegance and nobility.
 Traveler: (Something's off. There's no getting through to her — even in her heart of hearts, she's still "playing" the role of the Hydro Archon...)
 Traveler: (What sort of resolve must she have that even her inner self and subconscious would have such an impenetrable defense?)
 Traveler: (I have to find a way...)
-Traveler: I don't see an audience here?
-Traveler: Uh... Furina?
 
 ## Talk 99
 

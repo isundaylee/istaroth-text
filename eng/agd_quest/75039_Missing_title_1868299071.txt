@@ -41,11 +41,32 @@ Magnifico: Magnifico de la Magnificans. Just "Magnifico" will do. As you can see
 Magnifico: My old friends sometimes call me "The Detective," at times "Brutus," and sometimes "Mr. Mag"... But you two may call me whatever you wish.
 Paimon: This guy's kinda strange, don'cha think?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hroor...
-Traveler: What's with "The Detective"?
-Magnifico: I once worked at the Marechaussee Phantom as a detective for a few years, working on several major cases with Inspector Frank Drebin. He eventually made Superintendent, while I retired.
-Magnifico: Ah, those were unforgettable days...
-Magnifico: A boy met a girl, the boy lost the girl, the girl searched for the boy, the boy forgot the girl, the boy remembered the girl, and the girl was crushed under one of the pretty Fontinalia Festival floats three times...
-Paimon: Okay, you can stop with your weird flashbacks now...
+    Option 1:
+        Traveler: What's with "The Detective"?
+        Magnifico: I once worked at the Marechaussee Phantom as a detective for a few years, working on several major cases with Inspector Frank Drebin. He eventually made Superintendent, while I retired.
+        Magnifico: Ah, those were unforgettable days...
+        Magnifico: A boy met a girl, the boy lost the girl, the girl searched for the boy, the boy forgot the girl, the boy remembered the girl, and the girl was crushed under one of the pretty Fontinalia Festival floats three times...
+        Paimon: Okay, you can stop with your weird flashbacks now...
+    Option 2:
+        Traveler: "Brutus," you say...?
+        Magnifico: Ah, you might not know this, but I used to be a detective with the Marechaussee Phantom for a few years, serving under Inspector Frank Drebin.
+        Magnifico: There was once when we saw five people in robes attacking an old man with knives in the park, right in front of over a hundred people! And then, "bang, bang, bang, bang, bang!"
+        Magnifico: Laid them all out, no exceptions. Hah! "Do you feel lucky, punk?"
+        Paimon: Whoa...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrraaa...
+        Magnifico: Later, the chief of police told me that they were Research Institute administrative staff rehearsing "Remuria."
+        Paimon: Huh!?
+        Magnifico: Hence the name, "Brutus"!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooraarr?
+        Magnifico: It didn't matter, anyway. The Institute was cutting down on redundant staff at the time, so they'd have had to resign sooner or later.
+    Option 3:
+        Traveler: As for "Mr. Mag"...?
+        Magnifico: Why, it's my extraordinary charm, of course. Such magnetism is mine that all who know me are inexorably drawn to me!
+        Paimon: Ehh...?
+        Magnifico: Also... all unassuming metal objects, scattered Mora, small jewelry, and so on, will be inexplicably attracted to my pockets!
+        Paimon: Aren't you more like "Mr. Klepto," then!?
+        Magnifico: Indeed, and that is one of my clan's great virtues!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Eee—！
 Magnifico: *cough* Anyway, after retiring from the Marechaussee Phantom, I was idle for a time, before deciding to become a photographer, capturing the vitality within people and objects...
 Magnifico: That is why I am here in Natlan — home to the most shockingly dazzling elemental life forms!
 Paimon: Perhaps the most "shocking" thing of all is the way you almost bit it, right here...
@@ -63,24 +84,6 @@ Paimon: You're going that far out... Well, mind you don't get too thirsty, alrig
 Magnifico: Haha, there's no way I'd do that! Let's meet again, shall we?
 Black Screen Text: Magnifico quickly packs his bags and water supplies, then waves you goodbye.
 Not long after, his short silhouette disappears from sight.
-Traveler: "Brutus," you say...?
-Magnifico: Ah, you might not know this, but I used to be a detective with the Marechaussee Phantom for a few years, serving under Inspector Frank Drebin.
-Magnifico: There was once when we saw five people in robes attacking an old man with knives in the park, right in front of over a hundred people! And then, "bang, bang, bang, bang, bang!"
-Magnifico: Laid them all out, no exceptions. Hah! "Do you feel lucky, punk?"
-Paimon: Whoa...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrraaa...
-Magnifico: Later, the chief of police told me that they were Research Institute administrative staff rehearsing "Remuria."
-Paimon: Huh!?
-Magnifico: Hence the name, "Brutus"!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wooraarr?
-Magnifico: It didn't matter, anyway. The Institute was cutting down on redundant staff at the time, so they'd have had to resign sooner or later.
-Traveler: As for "Mr. Mag"...?
-Magnifico: Why, it's my extraordinary charm, of course. Such magnetism is mine that all who know me are inexorably drawn to me!
-Paimon: Ehh...?
-Magnifico: Also... all unassuming metal objects, scattered Mora, small jewelry, and so on, will be inexplicably attracted to my pockets!
-Paimon: Aren't you more like "Mr. Klepto," then!?
-Magnifico: Indeed, and that is one of my clan's great virtues!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Eee—！
 
 ## Talk 9
 
@@ -92,11 +95,32 @@ Magnifico: Magnifico de la Magnificans. Just "Magnifico" will do. As you can see
 Magnifico: My old friends sometimes call me "The Detective," at times "Brutus," and sometimes "Mr. Mag"... But you two may call me whatever you wish.
 Paimon: That's... a whole load of random names. Suspicious, too!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hroor...
-Traveler: What's with "The Detective"?
-Magnifico: I once worked at the Marechaussee Phantom as a detective for a few years, working on several major cases with Inspector Frank Drebin. He eventually made Superintendent, while I retired.
-Magnifico: Ah, those were unforgettable days...
-Magnifico: A boy met a girl, the boy lost the girl, the girl searched for the boy, the boy forgot the girl, the boy remembered the girl, and the girl was crushed under one of the pretty Fontinalia Festival floats three times...
-Paimon: Okay, you can stop with your weird flashbacks now...
+    Option 1:
+        Traveler: What's with "The Detective"?
+        Magnifico: I once worked at the Marechaussee Phantom as a detective for a few years, working on several major cases with Inspector Frank Drebin. He eventually made Superintendent, while I retired.
+        Magnifico: Ah, those were unforgettable days...
+        Magnifico: A boy met a girl, the boy lost the girl, the girl searched for the boy, the boy forgot the girl, the boy remembered the girl, and the girl was crushed under one of the pretty Fontinalia Festival floats three times...
+        Paimon: Okay, you can stop with your weird flashbacks now...
+    Option 2:
+        Traveler: "Brutus," you say...?
+        Magnifico: Ah, you might not know this, but I used to serve as a detective with the Marechaussee Phantom for a few years, serving under Inspector Frank Drebin.
+        Magnifico: There was once when we saw five people in robes attacking an old man with knives in the park, right in front of over a hundred people! And then, "bang, bang, bang, bang, bang!"
+        Magnifico: Laid them all out, no exceptions. Hah! "Do you feel lucky, punk?"
+        Paimon: Whoa...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrraaa...
+        Magnifico: Later, the chief of police told me that they were Research Institute administrative staff rehearsing "Remuria."
+        Paimon: Huh!?
+        Magnifico: Hence the name, "Brutus"!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooraarr?
+        Magnifico: It didn't matter, anyway. The Institute was shedding redundant staff at the time, so they'd have had to resign sooner or later.
+    Option 3:
+        Traveler: As for "Mr. Mag"...?
+        Magnifico: Why, it's because of my extraordinary charm, of course. Such magnetism is mine that all who know me are inexorably drawn to me!
+        Paimon: Ehh...?
+        Magnifico: Also... all unassuming metal objects, scattered Mora, small jewelry, and so on, will be inexplicably attracted to my pockets!
+        Paimon: Aren't you more like "Mr. Klepto," then!?
+        Magnifico: Indeed, and that is one of my clan's great virtues!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Eee—！
 Magnifico: *cough* Anyway, after retiring from the Marechaussee Phantom, I was idle for a time, before deciding to become a photographer, capturing the vitality within people and objects...
 Magnifico: That is why I am here in Natlan — home to the most shockingly dazzling elemental life forms!
 Paimon: Perhaps the most "shocking" thing of all is the way you almost bit it, right here...
@@ -114,24 +138,6 @@ Paimon: You're going that far out... Well, mind you don't get too thirsty, alrig
 Magnifico: Haha, there's no way I'd do that! Let's meet again, shall we?
 Black Screen Text: Magnifico quickly packs his bags and water supplies, then waves you goodbye.
 Not long after, his short silhouette disappears from sight.
-Traveler: "Brutus," you say...?
-Magnifico: Ah, you might not know this, but I used to serve as a detective with the Marechaussee Phantom for a few years, serving under Inspector Frank Drebin.
-Magnifico: There was once when we saw five people in robes attacking an old man with knives in the park, right in front of over a hundred people! And then, "bang, bang, bang, bang, bang!"
-Magnifico: Laid them all out, no exceptions. Hah! "Do you feel lucky, punk?"
-Paimon: Whoa...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrraaa...
-Magnifico: Later, the chief of police told me that they were Research Institute administrative staff rehearsing "Remuria."
-Paimon: Huh!?
-Magnifico: Hence the name, "Brutus"!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wooraarr?
-Magnifico: It didn't matter, anyway. The Institute was shedding redundant staff at the time, so they'd have had to resign sooner or later.
-Traveler: As for "Mr. Mag"...?
-Magnifico: Why, it's because of my extraordinary charm, of course. Such magnetism is mine that all who know me are inexorably drawn to me!
-Paimon: Ehh...?
-Magnifico: Also... all unassuming metal objects, scattered Mora, small jewelry, and so on, will be inexplicably attracted to my pockets!
-Paimon: Aren't you more like "Mr. Klepto," then!?
-Magnifico: Indeed, and that is one of my clan's great virtues!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Eee—！
 
 ## Talk 10
 

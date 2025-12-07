@@ -43,6 +43,7 @@ Unknown Role (TALK_ROLE_NPC): Missing text (1906794042)
 ## Talk 7
 
 Young Merchant: Ouch...
+
 Elderly Merchant: I've never seen such an aggressive qucusaur...
 
 ## Talk 8
@@ -69,9 +70,11 @@ Curious Investigator: ...But how am I supposed to do that?
 ## Talk 11
 
 Inkanak: Are you ready? This should be a piece of cake for Chasca, but still, try to be careful.
-Traveler: I'm sure she'll be fine!
-Inkanak: Alright, then spread your wings and fly!
-Traveler: Not yet, I need a little more time.
+    Option 1:
+        Traveler: I'm sure she'll be fine!
+        Inkanak: Alright, then spread your wings and fly!
+    Option 2:
+        Traveler: Not yet, I need a little more time.
 
 ## Talk 12
 
@@ -108,7 +111,10 @@ Allpa: I am. You must be exhausted from your journey, not to mention shaken up f
 Chasca: But Elder Allpa, what about the qucusaur attack?
 Allpa: Well, our guests here weren't seriously injured, and their goods are intact... Perhaps that qucusaur was just having a bad day.
 Allpa: There are so many of them around here, you'd expect something like this every once in a while. I don't think we need to pursue it any further... More importantly, how are the preparations for the flying trials going? Is everything in order over at the arena?
-Traveler: Everything's on track.
+    Option 1:
+        Traveler: Everything's on track.
+    Option 2:
+        Traveler: The trials will be able to start very soon.
 Isidore: Huh? Did you say... flying trials? Wow, what a coincidence! Sounds like a perfect use case for our Phlogiston Wings! You'll be pleasantly surprised by what they can do!
 Allpa: Oh, really? ...Now I'm intrigued.
 Isidore: Hehe, well then let's forget all about this qucusaur attack for now... We have some serious business to discuss!
@@ -119,7 +125,6 @@ Chasca: ...
 Chasca: A bloodstained feather...
 Black Screen Text: The incident is forgotten about, and peace returns to the Flower-Feather Clan.
 The next few days are uneventful — except for the flying trial preparations, which continue at an accelerated pace...
-Traveler: The trials will be able to start very soon.
 
 ## Additional Conversations
 

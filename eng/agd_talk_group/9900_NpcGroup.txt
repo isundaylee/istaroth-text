@@ -23,9 +23,11 @@ Traveler: About riches...
 Paimon: Paimon... doesn't feel so good...
 Traveler: What's the matter?
 Paimon: Paimon hasn't opened a treasure chest in so long. If this keeps up...
-Traveler: If this keeps up...
+    Option 1:
+        Traveler: If this keeps up...
+    Option 2:
+        Traveler: You'll get caught in a hunting trap with a one-Mora bait someday.
 Paimon: Hey! Paimon floats, so that'll never work.
-Traveler: You'll get caught in a hunting trap with a one-Mora bait someday.
 
 ## Talk 4
 
@@ -42,8 +44,10 @@ Paimon: You learn new things so quickly.
 Paimon: You've already got such a good grasp of Teyvat's language.
 Traveler: You're a good teacher, Paimon.
 Paimon: Hehehe...
-Traveler: Who knows?
-Traveler: Maybe the quality of your nasty nicknames will improve, someday.
+    Option 1:
+        Traveler: Who knows?
+    Option 2:
+        Traveler: Maybe the quality of your nasty nicknames will improve, someday.
 
 ## Talk 6
 
@@ -73,30 +77,44 @@ Paimon: It really does taste great! Paimon could drink two big bottles in a seco
 Traveler: Wow.
 Paimon: Tee-hee!
 Traveler: With your size...
-Traveler: I can't believe that you can drink that much water...
+    Option 1:
+        Traveler: I can't believe that you can drink that much water...
+    Option 2:
+        Traveler: ...And not explode like an Anemo Slime.
 Paimon: Paimon always has room for tasty drinks.
 Traveler: Huh...
-Traveler: I guess the world really is a big place.
-Traveler: So many things to consider...
-Traveler: ...And not explode like an Anemo Slime.
+    Option 1:
+        Traveler: I guess the world really is a big place.
+    Option 2:
+        Traveler: So many things to consider...
 
 ## Talk 9
 
 Traveler: About Razor
 Paimon: Have you heard of the brush?
-Traveler: You mean pens made using animal hair...
+    Option 1:
+        Traveler: You mean pens made using animal hair...
+    Option 2:
+        Traveler: ...For writing purposes?
 Paimon: That's correct! They say that finely-made brushes sell for high prices among Liyue's merchants!
 Traveler: So, would you like to make some too?
 Paimon: Uh-huh! But the wild wolves are too fierce, so we should use Razor's fur to make brushes instead!
 Paimon: Razor's fur is all downy and soft. It'll definitely make great wolf pens! We could make lots of Mora like this!
-Traveler: Brushes made like that would conduct electricity.
-Traveler: Besides, Razor isn't a wolf.
+    Option 1:
+        Traveler: Brushes made like that would conduct electricity.
+        Traveler: Besides, Razor isn't a wolf.
+    Option 2:
+        Traveler: I'm not sure we could use them...
+        Traveler: Besides, Razor isn't a wolf.
+    Option 3:
+        Traveler: Brushes made like that would conduct electricity.
+        Traveler: Nor are wolf pens made from wolves' hair...
+    Option 4:
+        Traveler: I'm not sure we could use them...
+        Traveler: Nor are wolf pens made from wolves' hair...
 Paimon: Eh? Why are they called wolf pens, then?
 Traveler: Well, does Cider Lake look like it's full of cider to you?
 Paimon: Hmm. You have a point.
-Traveler: Nor are wolf pens made from wolves' hair...
-Traveler: I'm not sure we could use them...
-Traveler: ...For writing purposes?
 
 ## Talk 10
 
@@ -140,10 +158,12 @@ Paimon: Paimon finds that hard work hardly works here in Mondstadt.
 Traveler: Why'd you say so?
 Paimon: Just look at Huffman from the Knights of Favonius. He does his best at his duties every day...
 Paimon: But the ever-relaxed Captain Kaeya is his boss.
-Traveler: Hmm, but isn't Jean, who works the hardest...
+    Option 1:
+        Traveler: Hmm, but isn't Jean, who works the hardest...
+    Option 2:
+        Traveler: ...The Acting Grand Master?
 Paimon: W—Well, how about this, then...
 Paimon: Venti's the god of Mondstadt, and he's the laziest of them all!
-Traveler: ...The Acting Grand Master?
 
 ## Talk 14
 
@@ -174,10 +194,12 @@ Traveler: About Heart's Desire
 Paimon: Walk in seven clockwise circles, then walk in seven anticlockwise circles, then open your eyes...
 Traveler: Are you sleepwalking?
 Paimon: Nope! Paimon is just trying to see if that antique shop from "Heart's Desire" actually exists!
-Traveler: Well, assuming that a shop in a story does exist...
+    Option 1:
+        Traveler: Well, assuming that a shop in a story does exist...
+    Option 2:
+        Traveler: What would you like to buy, Paimon?
 Paimon: A Slime Creator!
 Traveler: Does such a thing even exist?
-Traveler: What would you like to buy, Paimon?
 
 ## Talk 17
 
@@ -224,15 +246,19 @@ Traveler: About the Vision Hunt Decree
 Paimon: It's hard to talk about the recent events in Inazuma and not mention the Vision Hunt Decree.
 Paimon: But you don't have a Vision, so you don't have to worry about losing one.
 Paimon: #On the flip side, if you are caught by the Tenryou Commission, Traveler, you also can't surrender your Vision in exchange for your life...
-Traveler: I can tell them...
+    Option 1:
+        Traveler: I can tell them...
+    Option 2:
+        Traveler: ...That you are my Vision.
 Paimon: Another reason to have Paimon around... Wait, WHAT!?
 Traveler: Don't worry, I wouldn't let them take you, Paimon.
 Paimon: That's more like it.
-Traveler: We'd just go to jail...
+    Option 1:
+        Traveler: We'd just go to jail...
+    Option 2:
+        Traveler: And suffer punishment together...
 Paimon: Uh... W—Well, if that's how it would go down, then maybe you should hand Paimon over to them...
 Paimon: ...Wait a minute! How about we just don't get caught in the first place?
-Traveler: And suffer punishment together...
-Traveler: ...That you are my Vision.
 
 ## Talk 21
 
@@ -263,10 +289,12 @@ Paimon: She needs to shoulder her clan's duties and responsibilities. She works 
 Paimon: Ayaka must be exhausted, she should try to relax a bit...
 Paimon: Ah, that's right! Let's invite Ayaka to the next festival!
 Paimon: If she got an invite from us, there's no way she'd refuse.
-Traveler: Yeah.
+    Option 1:
+        Traveler: Yeah.
+    Option 2:
+        Traveler: I'd like to go to another festival with her.
 Paimon: Besides, if Ayaka's around, she can pick up the tab for us...
 Traveler: ...I should've seen that coming...
-Traveler: I'd like to go to another festival with her.
 
 ## Talk 23
 
@@ -277,9 +305,11 @@ Traveler: So you really want a mask of your own?
 Paimon: Of course! Not wearing a mask during an Inazuman festival is the same as not receiving a bouquet at the Windblume Festival...
 Traveler: Let me make one for you.
 Paimon: #Whoa! Traveler, you're the best!
-Traveler: Hmmm, I wonder what kind of mask will fit you best?
+    Option 1:
+        Traveler: Hmmm, I wonder what kind of mask will fit you best?
+    Option 2:
+        Traveler: How about... a slime mask?
 Paimon: Yay, Paimon Slime!
-Traveler: How about... a slime mask?
 
 ## Talk 24
 
@@ -294,13 +324,17 @@ Paimon: Paimon could follow Yoimiya around and cover her ears whenever needed...
 Traveler: Then you'd need to leave me.
 Paimon: ...Without Paimon, you'd lose your guide. Paimon wouldn't leave you like that!
 Paimon: But... What should we do for Yoimiya...
-Traveler: Actually...
+    Option 1:
+        Traveler: Actually...
+    Option 2:
+        Traveler: She can simply wear earplugs while working with fireworks.
 Paimon: Oh yeah! Paimon didn't think of that solution! You're so smart!
-Traveler: Heh... That was the first thing that came to my mind.
+    Option 1:
+        Traveler: Heh... That was the first thing that came to my mind.
+    Option 2:
+        Traveler: But I wanted to give you an opportunity for a mental workout.
 Paimon: Eh? So you knew this whole time, but didn't tell Paimon?
 Paimon: How could you! You bully!
-Traveler: But I wanted to give you an opportunity for a mental workout.
-Traveler: She can simply wear earplugs while working with fireworks.
 
 ## Talk 25
 
@@ -311,11 +345,13 @@ Traveler: I guess this is what they call growing pains.
 Paimon: Hmm, Paimon can't relate to that.
 Paimon: After all, it's not Paimonly to worry too much.
 Traveler: Hmmm...
-Traveler: Bad news! We're almost out of Mora.
+    Option 1:
+        Traveler: Bad news! We're almost out of Mora.
+    Option 2:
+        Traveler: I guess we'll have to tighten the purse strings for the next few days...
 Paimon: Wh—What? Noooo!
 Traveler: See, you're not as carefree as you thought.
 Paimon: How could you prank Paimon like that...
-Traveler: I guess we'll have to tighten the purse strings for the next few days...
 
 ## Talk 26
 
@@ -339,9 +375,11 @@ Traveler: ...Actually, I've already prepared something for you, Paimon.
 Paimon: Really? Really? Let's have a look!
 Paimon: Hey! Isn't that the knife we use to cut fruit?
 Traveler: Well, at least it's the right size for you...
-Traveler: Ahem, "What matters isn't the value of the sword..."
+    Option 1:
+        Traveler: Ahem, "What matters isn't the value of the sword..."
+    Option 2:
+        Traveler: "It's the fighting spirit."
 Paimon: Nice try, but Paimon won't fall for this, no matter how cool it sounds!
-Traveler: "It's the fighting spirit."
 
 ## Talk 28
 
@@ -349,13 +387,17 @@ Traveler: About Canned Knowledge...
 Paimon: Free knowledge without having to study at all? Canned Knowledge is amazing!
 Paimon: Could Sumeru have Canned Knowledge about the different customs of the seven nations, too?
 Paimon: If so, Paimon could just open a can every time we get to a new place. Paimon wouldn't have to explain things ever again!
-Traveler: Or we could just open them all...
+    Option 1:
+        Traveler: Or we could just open them all...
+    Option 2:
+        Traveler: Here in Sumeru...
 Paimon: But... but traveling wouldn't be any fun without surprises to look forward to!
-Traveler: Plus, if we opened them all here...
+    Option 1:
+        Traveler: Plus, if we opened them all here...
+    Option 2:
+        Traveler: I wouldn't even need Paimon as a guide anymore.
 Paimon: Okay scrap that idea! No more Canned Knowledge. Let's save our Mora for something else!
 Paimon: Something like... Oh! Tipping Paimon for guide services! Heehee, seems fair, right?
-Traveler: I wouldn't even need Paimon as a guide anymore.
-Traveler: Here in Sumeru...
 
 ## Talk 29
 
@@ -374,25 +416,35 @@ Paimon: They sell their own woven goods, beautiful vases and jars, and delicious
 Paimon: And they all sing and dance really well! Paimon wishes she could do that.
 Traveler: Well, if you're serious about it, there's no reason you couldn't learn.
 Paimon: What? Really?
-Traveler: Well for starters...
-Traveler: You won't trip over yourself...
+    Option 1:
+        Traveler: Well for starters...
+        Traveler: You won't trip over yourself...
+    Option 2:
+        Traveler: You have a natural advantage when it comes to dancing.
+        Traveler: You won't trip over yourself...
+    Option 3:
+        Traveler: Well for starters...
+        Traveler: Or accidentally step on someone else's foot...
+    Option 4:
+        Traveler: You have a natural advantage when it comes to dancing.
+        Traveler: Or accidentally step on someone else's foot...
 Paimon: Oh yeah! Paimon always forgets how useful flying can be!
 Paimon: Alright then! Let's go bust a move at the Grand Bazaar and watch everyone shower Paimon with admiration!
 Traveler: Aha, so that's what this is all about.
-Traveler: Or accidentally step on someone else's foot...
-Traveler: You have a natural advantage when it comes to dancing.
 
 ## Talk 31
 
 Traveler: About Divination...
 Paimon: People in Sumeru seem to take divination and fortune-telling pretty seriously.
 Paimon: For starters, there's astrology, although only the scholars get to practice that. But ordinary citizens have their ways, too. They can do divinations with just a cup of coffee!
-Traveler: It's the nation of wisdom after all...
+    Option 1:
+        Traveler: It's the nation of wisdom after all...
+    Option 2:
+        Traveler: It seems like people have an insatiable curiosity to learn about everything, including their own future.
 Paimon: Paimon heard that they can tell your fate just by looking at the bottom of a finished cup of coffee...
 Paimon: Sounds way easier than climbing to the top of a tower and staring at the stars all night!
 Traveler: Are you interested in learning your fate, too?
 Paimon: Yeah... although, Paimon's really more interested in finding out what the coffee tastes like.
-Traveler: It seems like people have an insatiable curiosity to learn about everything, including their own future.
 
 ## Talk 32
 
@@ -403,11 +455,13 @@ Paimon: No, not right now. Thanks for asking, though.
 Paimon: Hehe... Eating the street food on every corner has never sounded so tempting!
 Traveler: Your stomach is going to punish you for that!
 Paimon: If so, Paimon'll go see a doctor and get treated — it's all for free! It'd be a waste not to take advantage of this, don't you think?
-Traveler: Maybe... but then again...
+    Option 1:
+        Traveler: Maybe... but then again...
+    Option 2:
+        Traveler: The treatment would likely include a restricted diet.
 Paimon: *gasp* Oh no! So no more delicious food, then?
 Traveler: That, plus the doctor would make you take the most bitter-tasting medicine ever.
 Paimon: O—Okay... Maybe Paimon needs to reconsider this idea...
-Traveler: The treatment would likely include a restricted diet.
 
 ## Talk 33
 
@@ -416,31 +470,37 @@ Paimon: So many people in Sumeru want to become scholars.
 Paimon: Motivated by this ambition, they all study really hard to try and achieve it...
 Paimon: But Paimon bets that the first ever scholar didn't set out to become a scholar...
 Paimon: Hmm... so what do you think the first ever scholar's ambition was?
-Traveler: Probably...
+    Option 1:
+        Traveler: Probably...
+    Option 2:
+        Traveler: To get their research paper written as quickly as possible.
 Paimon: Huh? But isn't a scholar's ultimate goal supposed to be "pursuing the highest and greatest knowledge" or something?
 Paimon: Paimon's sure that it must have been because of a fervent desire for knowledge that they became Sumeru's first true scholar.
 Traveler: Writing papers is how you pursue knowledge.
 Paimon: But what about when it's the highest and greatest knowledge of all...
 Traveler: Even then, if you wanted to prove it, you'd need a research paper.
-Traveler: And after that, you'd need to start working on another paper
+    Option 1:
+        Traveler: And after that, you'd need to start working on another paper
+    Option 2:
+        Traveler: To validate your original thesis...
 Paimon: O—Okay, Paimon's got it! Come on, don't look so sad! It's not like you have to worry about writing papers yourself!
 Paimon: ...Y—You've never had to write a paper before, right...?
-Traveler: To validate your original thesis...
-Traveler: To get their research paper written as quickly as possible.
 
 ## Talk 34
 
 Traveler: About Aranara names...
 Paimon: Arama, Arana, Araja, Arakavi... Whew, Aranara names are so hard to remember...
 Paimon: The only bit Paimon's sure of is that they all start with "Ara"!
-Traveler: Right, so if you were an Aranara...
+    Option 1:
+        Traveler: Right, so if you were an Aranara...
+    Option 2:
+        Traveler: Your name would be "Arapaimon."
 Paimon: Yup, and as for you...
 Paimon: Hmm, actually, they'd probably call you "Nara Traveler"...
 Traveler: Yeah, we're all Nara to them...
 Paimon: So if there was someone whose actual name was "Nara," what would the Aranara call them?
 Traveler: "Nara Nara"... I guess. Sounds kinda cute.
 Paimon: Hehe, yeah.
-Traveler: Your name would be "Arapaimon."
 
 ## Talk 35
 
@@ -448,7 +508,10 @@ Traveler: About Magic...
 Paimon: Lyney's magic shows are amazing! Paimon never would've guessed how he did it before he revealed his secret.
 Traveler: Hold on... I just thought of a magic trick!
 Paimon: Huh? You know how to do magic too?
-Traveler: Yep. I can make a big magician's hat float in the air...
+    Option 1:
+        Traveler: Yep. I can make a big magician's hat float in the air...
+    Option 2:
+        Traveler: And even make it move at my command.
 Paimon: Whoa! Really? How do you do that?
 Traveler: Hehe, simple! I put Paimon inside the hat.
 Paimon: What? Why would Paimon be... Ohhh, so Paimon's the one making it float!
@@ -457,7 +520,6 @@ Traveler: Huh? What is it?
 Paimon: Behold, the bottomless hat! No matter how many plates of delicious food you throw into it, it'll never get full!
 Traveler: Uh... Wait, so where would the plates go?
 Paimon: Oh, good point! Umm... Oh, the hat spits the empty plates back out! Tada! Whaddya think?
-Traveler: And even make it move at my command.
 
 ## Talk 36
 
@@ -465,12 +527,16 @@ Traveler: About the Mysterious Treasure of the Fontaine Research Institute...
 Paimon: At the Fontaine Research Institute, they research clockwork and different energy sources, right? So how come there are rumors about a mystery treasure?
 Paimon: It'd make more sense if the treasure was owned by a bandit or a pirate.
 Paimon: But Paimon's not sure that the researchers' and technicians' definition of "treasure" is really mysterious enough to get excited about...
-Traveler: Hmm... What about "researcher by day, bandit by night"?
+    Option 1:
+        Traveler: Hmm... What about "researcher by day, bandit by night"?
+    Option 2:
+        Traveler: Does that sound mysterious enough?
 Paimon: Umm... Well for starters, it sounds exhausting. Imagine finishing your day job, then working a whole other job all night... When would they get time to rest?
-Traveler: Maybe they wouldn't need to rest...
+    Option 1:
+        Traveler: Maybe they wouldn't need to rest...
+    Option 2:
+        Traveler: If they were actually a clockwork meka in disguise!
 Paimon: Ooh! A mystery treasure left by a clockwork meka who's a researcher by day and a bandit by night... Now that sounds more like it!
-Traveler: If they were actually a clockwork meka in disguise!
-Traveler: Does that sound mysterious enough?
 
 ## Talk 37
 
@@ -489,12 +555,18 @@ Traveler: Don't imitate them, Paimon... It's not a good look on you.
 
 Traveler: About Melusines...
 Paimon: Apparently, every Melusine gets their own special token when they're born. They treat it as a symbol of their very being.
-Traveler: If you were a Melusine...
+    Option 1:
+        Traveler: If you were a Melusine...
+    Option 2:
+        Traveler: What would your token be?
 Paimon: Definitely a fork! To represent Paimon's lifelong mission to taste all the delicious food in the whole world!
 Traveler: Not Mora, then?
 Paimon: Ooh, good point... Yeah, if it were Mora, it'd mean that Paimon's destined to be a super rich person. Then Paimon could buy anything she wants!
 Paimon: Hmmmmm... Argh, Paimon's so torn! Both are so tempting...
-Traveler: How about a fork made from Mora?
+    Option 1:
+        Traveler: How about a fork made from Mora?
+    Option 2:
+        Traveler: Then you can have your cake and eat it, so to speak.
 Paimon: Wow, that's a great idea!
 Paimon: Anyway, enough about Paimon. Your token would probably be... a cooking pot, to represent being Paimon's personal gourmet chef!
 Traveler: No no no, my token would be Paimon.
@@ -503,8 +575,6 @@ Traveler: With Paimon as my token, everything that you have would ultimately bel
 Paimon: Huh... Okay sure. Friends share everything, right?
 Traveler: Haha, yeah... My stuff would still be mine...
 Paimon: Hey, no fair!
-Traveler: Then you can have your cake and eat it, so to speak.
-Traveler: What would your token be?
 
 ## Talk 39
 
@@ -514,28 +584,36 @@ Paimon: That's what they call "working from home," right? Sounds pretty cushy.
 Paimon: Still, how do they figure out the truth if they never even go to the crime scene? ...Oh, Paimon knows! They must be using divination.
 Traveler: You're thinking of fortune-tellers, Paimon. Not detectives.
 Paimon: Oh... yeah...
-Traveler: In any case...
+    Option 1:
+        Traveler: In any case...
+    Option 2:
+        Traveler: Surely the evidence isn't just dropping itself off at the detective's doorstep.
 Paimon: You mean... Oh, the detective must have people collecting information for them...
-Traveler: Perhaps, or...
+    Option 1:
+        Traveler: Perhaps, or...
+    Option 2:
+        Traveler: Maybe they post commissions at the Adventurers Guild?
 Paimon: Huh? But... that would mean the detective gets all the credit for our hard work! Bet they make a tidy sum of Mora off of it, too! Hmph, Paimon won't stand for that. Let's go have a little talk with Detective Armchair right now!
-Traveler: Maybe they post commissions at the Adventurers Guild?
-Traveler: Surely the evidence isn't just dropping itself off at the detective's doorstep.
 
 ## Talk 40
 
 Traveler: About Resolving Conflicts...
 Paimon: Paimon's heard that even in Natlan, there are lots of ways to resolve conflict that don't involve contests of strength.
-Traveler: Really?
+    Option 1:
+        Traveler: Really?
+    Option 2:
+        Traveler: In the Nation of War?
 Paimon: Yeah! Like, apparently, some people in the Children of Echoes settle their disputes by holding a dance-off!
-Traveler: A dance-off?
+    Option 1:
+        Traveler: A dance-off?
+    Option 2:
+        Traveler: So like, they'll mutually decide on a time and place...
 Paimon: Uh-huh!
 Traveler: And just dance their socks off?
 Paimon: Mm-hmm!
 Traveler: Until one person gets so exhausted, they can't get up anymore?
 Paimon: Yep!
 Paimon: ...Wait, what the... Hold on, that IS a contest of strength!
-Traveler: So like, they'll mutually decide on a time and place...
-Traveler: In the Nation of War?
 
 ## Talk 41
 
@@ -551,9 +629,11 @@ Traveler: Pretty sure the Children of Echoes are already in that business, too..
 Paimon: Oh, yeah... Wait, Paimon's got it — rugs from Sumeru! Those'll definitely be a hit!
 Traveler: Unfortunately, that's the specialty of the Masters of the Night-Wind.
 Paimon: Well then... Then we'll fence the whole Stadium up! And charge an admission fee to everyone who tries to get inside, whether they're a contestant or a spectator!
-Traveler: Pretty sure someone will take you into custody...
+    Option 1:
+        Traveler: Pretty sure someone will take you into custody...
+    Option 2:
+        Traveler: Before you finish doing that...
 Paimon: Grrrrrrrr! Why does getting rich have to be so hard?
-Traveler: Before you finish doing that...
 
 ## Talk 42
 
@@ -564,16 +644,22 @@ Paimon: You bet! Paimon's got it all figured out!
 Traveler: Oh you do, huh? Come on then, what's the secret to making Saurian friends?
 Paimon: It's really simple! First, you've gotta sweet-talk them, show 'em you mean well so they relax their defenses. Then, you gently pat them on the head — that makes them feel more comfortable around you.
 Paimon: Last but not least: Get 'em some good grub! The way to a Saurian's heart is through the stomach, after all! What do you think? Solid plan, huh?
-Traveler: Hmm, why do I get the feeling that...
+    Option 1:
+        Traveler: Hmm, why do I get the feeling that...
+    Option 2:
+        Traveler: These tactics would also work really well on you?
 Paimon: Would not! Paimon can't be won over by some cheap tricks!
-Traveler: Huh? Oh, you misunderstand! I meant to say that...
+    Option 1:
+        Traveler: Huh? Oh, you misunderstand! I meant to say that...
+    Option 2:
+        Traveler: You're as cute as a baby Saurian!
 Paimon: Hah! Flattery, really? You think that'll work on Paimon? Think again!
-Traveler: But I was being sincere, Paimon!
+    Option 1:
+        Traveler: But I was being sincere, Paimon!
+    Option 2:
+        Traveler: Ah, how can I prove it you? With some Sweet Madame, perhaps?
 Paimon: ...Wait, really? Sweet Madame? Oh, heck yes! Paimon could totally go for some of that right now!
 Paimon: ...Uhh... What's with that smug look on your face? ...What!? Is Paimon missing something?
-Traveler: Ah, how can I prove it you? With some Sweet Madame, perhaps?
-Traveler: You're as cute as a baby Saurian!
-Traveler: These tactics would also work really well on you?
 
 ## Talk 43
 
@@ -582,26 +668,32 @@ Paimon: Hey, so the valleys here are just bursting with shiny gemstones!
 Paimon: You don't come across that kind of opportunity every day! Why don't we start a dig somewhere? If we're lucky, we might unearth something super valuable. Then we'd never have to worry about running out of Mora again!
 Traveler: Hmm... But how would you actually know when you've hit the jackpot? Can you even tell which stones are the valuable ones?
 Paimon: Um, well... As long as something's bright and shiny, then it must be worth a lot, right?
-Traveler: That makes us sound just like...
+    Option 1:
+        Traveler: That makes us sound just like...
+    Option 2:
+        Traveler: ...evil hoarding dragons in children's fairytales!
 Paimon: Hehe, except we're in Natlan now — so instead of "evil dragon," it's "noble Saurian"!
 Paimon: #"O brave and keen Traveler, let this noble Saurian lead you to the most precious gem in the world!"
 Traveler: Great! Except she can't tell which stones are the valuable ones, so how's that gonna work?
-Traveler: ...evil hoarding dragons in children's fairytales!
 
 ## Talk 44
 
 Traveler: About the Collective of Plenty and the Flower-Feather Clan...
 Paimon: Paimon's heard that everyone from the Collective of Plenty is built like a bricklayer!
-Traveler: Does that mean you'll become Buffmon...
+    Option 1:
+        Traveler: Does that mean you'll become Buffmon...
+    Option 2:
+        Traveler: ...if you were to stay there awhile, Paimon?
 Paimon: No! Paimon likes herself the way she is now.
-Traveler: Okay, then what about staying with the Flower-Feather Clan instead? They're adept fliers.
+    Option 1:
+        Traveler: Okay, then what about staying with the Flower-Feather Clan instead? They're adept fliers.
+    Option 2:
+        Traveler: I'm sure they could help you sharpen your skills!
 Paimon: Huh? But... isn't Paimon good enough at flying already?
 Traveler: Yeah, but then you'd be able to carry me when you fly.
 Paimon: Nope, not happening! How would that even be possible?
 Traveler: Well, if you had those muscles I talked about...
 Paimon: Oh, geez, not this again... For the last time, no!
-Traveler: I'm sure they could help you sharpen your skills!
-Traveler: ...if you were to stay there awhile, Paimon?
 
 ## Talk 45
 
@@ -612,10 +704,12 @@ Paimon: No way, not if they're up all night worshiping! Paimon bets they have a 
 Traveler: Unusual how?
 Paimon: Like, uh... When the sun comes up, they probably shapeshift into huge boulders and take a nice long nap.
 Paimon: When night falls, they wake back up again — and with a swish and a swoosh, they're back in human form! Then, they sneak away to start getting up to their secret, mysterious work...
-Traveler: So let me guess — the worst-case scenario for them is...
+    Option 1:
+        Traveler: So let me guess — the worst-case scenario for them is...
+    Option 2:
+        Traveler: Blowing through nap time and doing an all-day and all-nighter?
 Paimon: Yeah, exactly! See, you got it!
 Traveler: Yeah, I got it... You're getting mixed up between "Scion" and "Sayu" again.
-Traveler: Blowing through nap time and doing an all-day and all-nighter?
 
 ## Talk 46
 
@@ -631,56 +725,76 @@ Paimon: While we're at it, it'd be great to get a chat bot, too. That way, Tubby
 Traveler: Good idea. Anything else to add?
 Paimon: Let's see... We could get a cooking bot? Something like the supreme cuisine machine, y'know? It'd be nice to have the option, but of course, there's no substitute for your home cooking, hehe.
 Paimon: Although, all these robots everywhere would take up a lot of space... Maybe it'd be better if we got Aino to combine them all into a single machine!
-Traveler: So basically...
+    Option 1:
+        Traveler: So basically...
+    Option 2:
+        Traveler: You want a multifunctional robot for domestic application... Better known as Ineffa.
 Paimon: Huh? Wait, you're right... Ineffa can do all of that stuff...
-Traveler: All that, and far more besides.
+    Option 1:
+        Traveler: All that, and far more besides.
+    Option 2:
+        Traveler: She even makes a pretty good travel guide...
 Paimon: Uhh... You're not seriously thinking of giving Paimon's job to someone else, are you!?
 Paimon: No, no, no, that could never work! There's only one Ineffa, and she has to take care of Aino. We can't separate them!
 Paimon: Don't get Paimon wrong, Ineffa's great, but, but... being a housekeeper in the Serenitea Pot would be too easy for her, don't you think? It'd be a real shame for all that talent to go to waste.
-Traveler: Okay, okay... Paimon is the best guide I could ever hope for.
+    Option 1:
+        Traveler: Okay, okay... Paimon is the best guide I could ever hope for.
+    Option 2:
+        Traveler: And no one's ever gonna separate us.
 Paimon: Hmph. That's more like it.
-Traveler: And no one's ever gonna separate us.
-Traveler: She even makes a pretty good travel guide...
-Traveler: You want a multifunctional robot for domestic application... Better known as Ineffa.
 
 ## Talk 47
 
 Traveler: About the Northern Intelligence Network
 Paimon: The Northern Intelligence Network... What a mysterious-sounding organization!
 Paimon: A secret society, quietly pulling the strings behind the scenes, running the entire world from the shadows!
-Traveler: "Secret society" seems like a stretch.
+    Option 1:
+        Traveler: "Secret society" seems like a stretch.
+    Option 2:
+        Traveler: We know a whole bunch of the people involved.
 Paimon: ...Ohh yeah, we do! Hey, this could be our foot in the door! We should totally join, then we can get one of those cool codenames! Like... ummm... Ooh, White Gold!
-Traveler: Oh, because you have white hair and I have blond hair...
+    Option 1:
+        Traveler: Oh, because you have white hair and I have blond hair...
+    Option 2:
+        Traveler: An unusually sensible nickname, for once.
 Paimon: Well, yeah! This is our own nickname! The weird ones are reserved for other people.
 Paimon: Actually, don't the Knights of Favonius work with the intelligence network? What do you think Varka's codename is? "Grand Master"?
 Paimon: Heh, it's kind of hard to imagine Grand Master Varka doing spy stuff, isn't it? He's not exactly a low-key kinda guy...
 Paimon: He'd probably go busting into the enemy base through the front gates, mowing down all the minions in his path, and then strut his way out with a briefcase full of intel in hand.
-Traveler: ...I suspect that, as Grand Master,
+    Option 1:
+        Traveler: ...I suspect that, as Grand Master,
+    Option 2:
+        Traveler: he probably delegates that kind of work to people like Kaeya and Rosaria.
 Paimon: Oh, good point! ...Wait, you're right, this isn't a secret society at all! More like a... who's-who of... people we know already!
-Traveler: he probably delegates that kind of work to people like Kaeya and Rosaria.
-Traveler: An unusually sensible nickname, for once.
-Traveler: We know a whole bunch of the people involved.
 
 ## Talk 48
 
 Traveler: About Strange Technology
-Traveler: Come to think of it, we've met not one but two genius inventors in Nod-Krai, haven't we?
+    Option 1:
+        Traveler: Come to think of it, we've met not one but two genius inventors in Nod-Krai, haven't we?
+    Option 2:
+        Traveler: First Aino, and then Sandrone.
 Paimon: Yeah, you're right. And the proof of their genius is in the hi-tech pudding: Ineffa Pudding and Pulonia Pudding!
 Paimon: Actually... Okay, well "Pulonia Pudding" kinda works, Paimon's not gonna lose any sleep over that one... but Ineffa Pudding feels a little disrespectful...
-Traveler: I'm speechless... After years of giving people ugly nicknames, you're finally learning!
+    Option 1:
+        Traveler: I'm speechless... After years of giving people ugly nicknames, you're finally learning!
+    Option 2:
+        Traveler: Yes, Paimon, name-calling IS disrespectful!
 Paimon: Hey!
-Traveler: Seriously though...
+    Option 1:
+        Traveler: Seriously though...
+    Option 2:
+        Traveler: Who do you think would win in a fight between Ineffa the Annihilator and Pulonia the Pulverizer?
 Paimon: Are you for real!? Who's the name-caller now, huh!? Also, fantasizing about violence is a way worse habit than giving people ugly nicknames...
 Paimon: ...Honestly, though? After everything that's happened recently, it's hard to imagine them getting into a fight. Everyone's getting along pretty well these days.
 Paimon: It's just as dumb as trying to imagine Jean and Diluc in a fight...
 Traveler: I can't believe you still remember that...
 Traveler: Ahem, but anyway... we're getting sidetracked. Back to Ineffa and Pulonia: I've thought of a foolproof way of figuring out who's stronger...
-Traveler: All you'd have to do is lock them both in a room...
+    Option 1:
+        Traveler: All you'd have to do is lock them both in a room...
+    Option 2:
+        Traveler: Then drop Lynette inside...
 Paimon: What the...!
 Traveler: ...And whoever gets destroyed last is clearly the strongest!
 Paimon: Mmm, Paimon's not convinced. Like, sometimes, the more advanced technology is also the more fragile, right?
 Paimon: ...Ugh, what are we talking about? Enough! No more imaginary fights between friends!
-Traveler: Then drop Lynette inside...
-Traveler: Who do you think would win in a fight between Ineffa the Annihilator and Pulonia the Pulverizer?
-Traveler: Yes, Paimon, name-calling IS disrespectful!
-Traveler: First Aino, and then Sandrone.

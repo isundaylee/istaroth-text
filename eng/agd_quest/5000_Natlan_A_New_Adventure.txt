@@ -18,8 +18,8 @@ Kachina: It's not going anywhere, I promise you!
 
 Paimon: Wow, time flies! Just like that, it's time for us to embark on the next phase of our journey!
 Paimon: We need to head to Natlan next.
-Traveler: We haven't met anyone from Natlan either.
 Paimon: Neuvillette called it "a nation of dragons," but that description doesn't give us much to go off of...
+Traveler: We haven't met anyone from Natlan either.
 Paimon: Exactly! Even when Inazuma was completely closed-off, we still managed to run into people from there in other nations...
 Paimon: Huh, could it be... that there are no humans in Natlan?
 Charlotte: Yes, yes! That look of surprise and excitement is perfect! Hold it right there... Now, look at the Kamera, and big smiles on three, ready?
@@ -34,12 +34,14 @@ Navia: All those obstacles we overcame side by side... Feels like it was just ye
 Clorinde: If you encounter any troubles along your journey, you need only let us know, no matter the distance between us.
 Furina: Partings are inevitable, of course, but distance makes the heart grow fonder, right?
 Furina: One thing will never change, though. We'll always have the memories we made together during this time.
-Traveler: I'm sure we'll meet again.
-Traveler: Let me know the next time a festival rolls around!
 Paimon: Whoa, you're all here!
-Navia: That we will! I'm looking forward to hearing about your future adventures, so make sure to stop by and tell us about them sometime!
-Furina: Already thinking about taking time off? Any excuse for a party, huh...
-Furina: But yes, you can count on us! We wouldn't let you miss out on all the fun.
+    Option 1:
+        Traveler: I'm sure we'll meet again.
+        Navia: That we will! I'm looking forward to hearing about your future adventures, so make sure to stop by and tell us about them sometime!
+    Option 2:
+        Traveler: Let me know the next time a festival rolls around!
+        Furina: Already thinking about taking time off? Any excuse for a party, huh...
+        Furina: But yes, you can count on us! We wouldn't let you miss out on all the fun.
 Clorinde: Well, in light of your impending departure, shall we take a photo together?
 Furina: Ooh, great idea! We even have a professional photographer with us. Charlotte, would you do us the honor?
 Charlotte: Leave it to me. Just give me a moment to set the Kamera up.
@@ -47,9 +49,11 @@ Furina: Oh, by the way, you're overthinking the whole Natlan issue, Paimon. Natl
 Furina: It's just that, because of their local customs, the native people choose not to leave.
 Furina: They're not unwelcoming to outsiders, though. People travel there for business and leisure alike, and usually return with nothing but good things to say.
 Navia: Many members of the Spina have visited in the past, too.
-Traveler: Don't speak too soon.
-Traveler: Hope you didn't just jinx us.
 Paimon: Well, that's a relief! Hopefully, we don't get swept up in any major drama this time!
+    Option 1:
+        Traveler: Don't speak too soon.
+    Option 2:
+        Traveler: Hope you didn't just jinx us.
 Clorinde: Well, given your experience and skill in that regard, I have no doubt you'll be able to overcome anything that comes your way.
 Furina: Still, I hope you can avoid danger this time around. An uneventful trip might be a nice change of pace.
 Charlotte: Alright, I'm ready! Shall we?
@@ -200,7 +204,10 @@ Kachina: Well, I heard that other nations' Archons live a long time and belong t
 Paimon: And that's not the case in Natlan?
 Kachina: Not at all! Every Pyro Archon in Natlan was an ordinary person before taking on the role.
 Paimon: Huh!? A human becoming an Archon? Is that even possible?
-Traveler: A human ascending to the divine throne...
+    Option 1:
+        Traveler: A human ascending to the divine throne...
+    Option 2:
+        Traveler: (That's kind of like what Furina did, but...)
 Paimon: You find it hard to believe too, huh?
 Kachina: So that's not normal, then? I guess I've just gotten used to how things are here in Natlan.
 Paimon: Well, based on what we've seen, that's not usually how it works. It can't be that easy for a human to become an Archon, right...?
@@ -223,7 +230,6 @@ Paimon: Alright, Paimon's just about ready to... Huh? What's that?
 Kachina: Oh, we call this a Phlogiston Chiselith. Good things happen if you infuse it with phlogiston.
 Traveler: Lemme give it a try.
 Kachina: Uh, sorry to disappoint, but only people from Natlan can use that power—
-Traveler: (That's kind of like what Furina did, but...)
 
 ## Talk 13
 
@@ -261,7 +267,10 @@ Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
 ## Talk 17
 
 Kachina: E—Eh!? Wait, wait, wait... You can use it too? How?
-Traveler: It just came naturally.
+    Option 1:
+        Traveler: It just came naturally.
+    Option 2:
+        Traveler: All in a day's work.
 Kachina: That... was... AMAZING! I don't even know what to say!
 Paimon: Wait, look behind you! Something's coming!
 Paimon: What do we do? Is something after us? Should we get ready to fight!?
@@ -295,7 +304,6 @@ Kachina: You can let us off here, Toto. Thanks for the lift!
 Toto: Roar...
 Kachina: It's an easy walk from here, so I say we head the rest of the way on foot. It'd be quite the trek for Toto, otherwise.
 Paimon: That's true, especially considering his size. Well, seeya later, Toto!
-Traveler: All in a day's work.
 
 ## Talk 18
 
@@ -318,8 +326,15 @@ Mualani: Eh, he got what he deserved. Let's just hope the lesson sticks this tim
 Kachina: Hehe, Mualani! There you are!
 Mualani: Looks like you made some new friends! And here I was worried you ran into trouble on your way here.
 Paimon: Hello! Paimon's Paimon!
-Traveler: #I'm Traveler, a traveler.
-Mualani: A traveler, you say? You came at the perfect time! The Pilgrimage is a sight to behold this time of year.
+    Option 1:
+        Traveler: #I'm Traveler, a traveler.
+        Mualani: A traveler, you say? You came at the perfect time! The Pilgrimage is a sight to behold this time of year.
+    Option 2:
+        Traveler: I'm here to win it.
+        Mualani: Oho, a bold statement... I like it, hahaha. The rule against outsider participation is long overdue for a change anyway.
+    Option 3:
+        Traveler: This is Paimon. Nice to meet you all.
+        Paimon: #Oh, and this is Traveler... Honestly, you could at least introduce yourself a little, you know!
 Kinich: I don't see your teammates with you, Kachina. Where are they?
 Kachina: Oh, uh, they... went to join teams with a better chance at winning.
 Kinich: Huh. So, you're saying you've been ditched. Again.
@@ -358,7 +373,10 @@ Kinich: Fine by me, but doesn't that leave you and Kachina as a team of two?
 Mualani: Hehe, there's a world of difference between that and flying solo. Besides, we're a formidable duo!
 Mualani: I bet our new friends here will agree that two's always better than one. Right?
 Paimon: Oh, you mean us?
-Traveler: Things are definitely less lonely with Paimon around.
+    Option 1:
+        Traveler: Things are definitely less lonely with Paimon around.
+    Option 2:
+        Traveler: It's nice having Paimon by my side.
 Paimon: Hehe, you're right! Two is definitely better than one!
 Mualani: It's just like the old saying we have here in Natlan — "No one fights alone."
 Kachina: But... what if I drag you down?
@@ -370,11 +388,6 @@ Mualani: It's not like they left us any other option.
 Kinich: Well, I'll leave you to break the news to your soon-to-be former teammates. I'm not good at stuff like that.
 Mualani: Oh, I know.... They deserve to hear it from me, anyway.
 Mualani: Just give me a second, you guys. We can go sign up together once I'm done.
-Traveler: It's nice having Paimon by my side.
-Traveler: I'm here to win it.
-Mualani: Oho, a bold statement... I like it, hahaha. The rule against outsider participation is long overdue for a change anyway.
-Traveler: This is Paimon. Nice to meet you all.
-Paimon: #Oh, and this is Traveler... Honestly, you could at least introduce yourself a little, you know!
 
 ## Talk 20
 
@@ -407,11 +420,17 @@ Kinich: Every participant, whether they win or lose, contributes to the defense 
 Cival: Exactly right, Mr. Kinich. Contending Fire can only be produced in battles between people of Natlan.
 Cival: Outlander participation would inhibit the production of this Fire, which could, in turn, jeopardize the Sacred Flame.
 Mualani: Ah, so it all comes down to the Contending Fire.
-Traveler: It's fine.
+    Option 1:
+        Traveler: It's fine.
+    Option 2:
+        Traveler: I understand the importance of this event.
 Mualani: Well, you can still enjoy the event from the stands! I'll try to get you some good seats!
 Paimon: That would be great! Tourists like us are better suited to being spectators, anyway.
 Paimon: Still, there's something Paimon was wondering, actually...
-Traveler: If the Ode of Resurrection exists...
+    Option 1:
+        Traveler: If the Ode of Resurrection exists...
+    Option 2:
+        Traveler: Why do you have to go through the process of selecting warriors?
 Paimon: #You read Paimon's mind, Traveler! Why doesn't everyone just fight together? Y'know, since you can bring them back to life...
 Kinich: The power of resurrection has its limits. For starters, the Ode only works on those who bear an Ancient Name.
 Kachina: That's also why ordinary people who emerge victorious in the Pilgrimage aren't sent to fight the Abyss.
@@ -445,8 +464,6 @@ Cival: It all went fairly quickly, considering we all know each other. Now, I ju
 Cival: In the meantime, you all can go rest at the hotel. As usual, dinner and lodging for tonight are free.
 Mualani: Nice! Oh yeah, I forgot to mention... All food and entertainment before tomorrow's matches are on the house, courtesy of our Archon!
 Mualani: Family and friends included! Which means, you both get in on it! Come on, let's go have some fun!
-Traveler: Why do you have to go through the process of selecting warriors?
-Traveler: I understand the importance of this event.
 
 ## Talk 21
 
@@ -505,8 +522,12 @@ Paimon: Wow, that's amazing!
 Mualani: Eh, it's no big deal. The opponents I had to face were pretty tame, that's all... No, wait, that makes it sound too unimpressive...
 Mualani: Either way, the challenges haven't been that difficult so far. But, I'd love to fight alongside Kachina and experience the glory of victory together — the flowers, the applause...
 Paimon: #Paimon gets it! That's how Paimon and Traveler are too!
-Traveler: Fighting side by side? Yeah, I guess...
-Paimon: Hey! A little more confidence, please! Paimon's always there to cheer you on!
+    Option 1:
+        Traveler: Fighting side by side? Yeah, I guess...
+        Paimon: Hey! A little more confidence, please! Paimon's always there to cheer you on!
+    Option 2:
+        Traveler: Fighting side by side? Are we, really?
+        Paimon: #Of course! Just think about it, Traveler. Where would you be without your guide?
 Kachina: Drinks are here! Better try them while they're still fresh!
 Paimon: Feeling better now, Kachina?
 Kachina: Me? Hehe, I'm totally fine! Really, I promise. That was just nerves, earlier.
@@ -516,8 +537,6 @@ Kinich: Just don't go overboard, okay? The last thing we need is for someone to 
 Mualani: Hehe, if only we had a friend who never oversleeps...
 Kinich: ...Alright, fine. I'll make sure you guys are up on time.
 Mualani: Attaboy! I knew you'd catch on!
-Traveler: Fighting side by side? Are we, really?
-Paimon: #Of course! Just think about it, Traveler. Where would you be without your guide?
 
 ## Additional Conversations
 
@@ -526,8 +545,9 @@ Paimon: #Of course! Just think about it, Traveler. Where would you be without yo
 
 ### Additional Talk 1
 
-Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
 Clorinde: That would be quite the lively affair.
+
+Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
 
 ### Additional Talk 2
 
@@ -538,9 +558,11 @@ Pacal: Oh, you're back! Did you forget something?
 Paimon: H—Huh...? That's not right. Is the Statue asleep, or something?
 Traveler: ...I don't sense anything.
 Paimon: Huh, shouldn't you be able to shoot fireballs or summon flame pillars by now?
-Traveler: Nothing happened...
+    Option 1:
+        Traveler: Nothing happened...
+    Option 2:
+        Traveler: I don't sense any elemental energy either.
 Paimon: Strange... Must be something unique to Natlan.
-Traveler: I don't sense any elemental energy either.
 
 ### Additional Talk 4
 
@@ -556,7 +578,10 @@ Kachina: Aw, I would've liked to see that...
 Paimon: Sorry, Kachina. We got your hopes up for nothing.
 Kachina: No, no, it's alright. If anything, I'm even more curious now! Were you really able to gain elemental powers just by touching the Statue of The Seven?
 Kachina: That's something only Vision bearers can use!
-Traveler: Yup. It's always been that way.
+    Option 1:
+        Traveler: Yup. It's always been that way.
+    Option 2:
+        Traveler: Still not too clear on the how or the why, though.
 Kachina: C—Could you show me? Only if you want to, I mean... No pressure!
 Traveler: Sure.
 Paimon: #Take it away, Traveler!
@@ -567,17 +592,18 @@ Kachina: Anyway, I was right! You really are something special!
 Paimon: Just wait until you hear about our previous adventures!
 Paimon: Whoa! What's that?
 Kachina: Oh, that's a Qucusaur! They fly high and fast, and they're always full of energy.
-Traveler: Reminds me of our time in Mondstadt.
-Paimon: Right? It's been ages since that day we first saw Dvalin. We've come so far!
+    Option 1:
+        Traveler: Reminds me of our time in Mondstadt.
+        Paimon: Right? It's been ages since that day we first saw Dvalin. We've come so far!
+    Option 2:
+        Traveler: "There's something huge, in the sky!"
+        Paimon: #Paimon already made the connection, Traveler. You don't have to imitate her!
 Kachina: Oh, before I forget... We've got a pretty long trek ahead of us, so, here, take this.
 Kachina: They look like shiny little gems, don't they? Don't be fooled, though, hehe... It's actually candy! My mom made them.
 Kachina: I always bring a few when I know I'm gonna be out and about for a while. A little boost of sugar can really come in handy in a pinch!
 Paimon: Ooh, Paimon loves candy. Thanks!
 Traveler: That's very generous of you!
 Kachina: My pleasure! My pleasure! I've got all sorts of bits and bobs on me. I'm sure they'll come in handy at some point!
-Traveler: "There's something huge, in the sky!"
-Paimon: #Paimon already made the connection, Traveler. You don't have to imitate her!
-Traveler: Still not too clear on the how or the why, though.
 
 ### Additional Talk 6
 

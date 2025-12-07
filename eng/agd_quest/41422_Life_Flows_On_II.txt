@@ -49,11 +49,13 @@ Paimon: #Well, Traveler, guess we should head back and report to Connor, too.
 
 Connor: Oh, you're here.
 Connor: I'm guessing that since it was you on the case, everything's been resolved and that's the end of it?
-Traveler: Naturally.
+    Option 1:
+        Traveler: Naturally.
+    Option 2:
+        Traveler: There were some twists and turns...
 Paimon: The bitter water should be back to normal in a couple o' days.
 Connor: I see, I see. It makes sense — even if you've removed the cause of the problem, it will still take some time for the water to cleanse itself.
 Connor: Well, I suppose I should inform the Adventurers' Guild that this case has been closed.
-Traveler: There were some twists and turns...
 
 ## Talk 5
 
@@ -62,16 +64,20 @@ Endora: But understanding other life-forms in this world is not quite so simple.
 Paimon: Seems like watching the river flow away has caused some deep thoughts to well up in Endora, huh.
 Endora: I've never considered how I should live my life after this point. I always assumed that I would merge with Rhodeia, and that this would be good and right.
 Endora: But Rhodeia seemed unhappy. She, too, understands that she is only waiting for pure waters to become corrupted.
-Traveler: So, what's your choice?
+    Option 1:
+        Traveler: So, what's your choice?
+    Option 2:
+        Traveler: Is that why you refused her?
 Endora: Neither Rhodeia nor the one who dwells in Springvale wanted me to follow their paths. But surely they must have hated their lives in Fontaine still more.
 Paimon: You guys are fascinating. Paimon's not sure what to say in this situation... But it's probably best to live in a way that makes you happy!
 Endora: I've decided to embark on a path that no others before me have. Journeying with you has been a joyful experience, and I wish for all my future days to be just as joyful.
 Endora: I wish to travel with you. Before this tiny stream of life flows into the ocean, I wish to see everything from the flowers that bloom on its banks to the clouds that sit on the horizon.
-Traveler: You're welcome to join us.
+    Option 1:
+        Traveler: You're welcome to join us.
+    Option 2:
+        Traveler: Wanna switch with Paimon?
+        Paimon: Hey!
 Paimon: #Wait a minute, Traveler... Does this mean that the position of transcontinental travel companion is no longer a Paimon-only privilege?
-Traveler: Wanna switch with Paimon?
-Paimon: Hey!
-Traveler: Is that why you refused her?
 
 ## Talk 6
 

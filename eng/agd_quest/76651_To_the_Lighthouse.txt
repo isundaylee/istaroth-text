@@ -75,10 +75,15 @@ Flins: Up until just now, that is, when these ghosts started getting agitated...
 Black Screen Text: You tell Flins what happened before and after you lit the lighthouse up...
 Flins: They asked you to send a signal out? Hmm... How peculiar. In my experience, they have never coerced or harmed anyone in any way.
 Flins: This can only mean that lighting the lighthouse has somehow caused a change in them. I must say, this is quite out of the ordinary.
-Traveler: Did you see anything else unusual on the way here?
-Flins: The ghosts here tend to stick to fixed areas and repeat words and phrases that meant something to them in life. But now, all eyes are on the lighthouse.
-Flins: They have a rather indistinct appearance, but when they fix their yearning strongly on a specific place, I can sense where their cold attention is directed.
-Flins: Consider it a... natural talent of mine. As to the cause of this behavior, I do have a theory.
+    Option 1:
+        Traveler: Did you see anything else unusual on the way here?
+        Flins: The ghosts here tend to stick to fixed areas and repeat words and phrases that meant something to them in life. But now, all eyes are on the lighthouse.
+        Flins: They have a rather indistinct appearance, but when they fix their yearning strongly on a specific place, I can sense where their cold attention is directed.
+        Flins: Consider it a... natural talent of mine. As to the cause of this behavior, I do have a theory.
+    Option 2:
+        Traveler: Well, they've left now. Any idea where they went?
+        Flins: Unfortunately, although I saw them leaving, I did not get the chance to ask them where they were going.
+        Flins: But you sent a distress signal out, yes? I suspect that may give us some clues.
 Traveler: What got into them, I wonder?
 Flins: Ghosts are the echoes of living souls — a portion of their thoughts and memories that, for certain reasons, fails to enter the Ley Lines at the moment of their death. And thus they linger on the surface.
 Flins: The ghosts in question were Lightkeepers in life and as such, I believe the lighthouse is deeply embedded in their memories — something they are instinctually drawn to.
@@ -101,9 +106,6 @@ Flins: You feel you unwittingly did something wrong? No, I don't think so.
 Flins: Ghosts are but the memories of people that once were. You may have stirred up those memories, but that is all they are — those to whom they once belonged are long gone.
 Flins: Still, I can see that you're concerned about them, and truthfully, so am I. If you wish to find them... just follow me.
 Flins: Ah, yes — and please do not be alarmed by anything strange we may encounter along the way.
-Traveler: Well, they've left now. Any idea where they went?
-Flins: Unfortunately, although I saw them leaving, I did not get the chance to ask them where they were going.
-Flins: But you sent a distress signal out, yes? I suspect that may give us some clues.
 
 ## Talk 12
 
@@ -148,7 +150,10 @@ Flins: Viewing the world through human eyes is like looking into a kaleidoscope.
 Flins: The sorrow and reluctance in the face of death, the longing for a life of peace and stability... the surprising valor that wells up in the hour of despair.
 Flins: ...
 Flins: #If it were up to you, Traveler, would you wish to do something for them?
-Traveler: I might perhaps lend them a helping hand.
+    Option 1:
+        Traveler: I might perhaps lend them a helping hand.
+    Option 2:
+        Traveler: I might perhaps honor their destiny.
 Flins: Is that so? A response befitting an adventurer of your caliber.
 Flins: Personally, I do feel inclined to do something for them. To help these shadows of the heroes that once were forget the death that will soon be upon them, and return to their slumber.
 Flins: In time, the memories and yearning of these ghosts will fade, and slowly return to the Ley Lines... but that time has not yet come.
@@ -158,7 +163,10 @@ Flins: Look upon my flame, and wander no longer. Return to your graves and forev
 Flins: Six feet under may you slumber in your erstwhile homeland, and in sweet dreams return to the Ley Lines' embrace.
 Paimon: They're... gone?
 Flins: Some of their memories and thoughts have been dispersed. The rest will later return to their usual state.
-Traveler: May their spirits find rest.
+    Option 1:
+        Traveler: May their spirits find rest.
+    Option 2:
+        Traveler: May they soon return to the Ley Lines.
 Flins: To me, they are both warriors whose memories should be honored, and my gentle, friendly "neighbors."
 Flins: Unfortunately, I did not know most of their names, but my short interaction with them has deposited some of their memories within my flame.
 Flins: At the very least, I know now that the gentleman who moved fuel and loved to tell the tale of the blue lantern was named "Aimo," and the comrade he always called out to was named "Eetu."
@@ -166,22 +174,24 @@ Flins: Many of the ghosts on this island may have been affected by the lighthous
 Flins: But if you're in the mood to keep exploring, would you come with me? I'd like to get to know them better still.
 Traveler: Let's do it.
 Flins: It would be my honor.
-Traveler: May they soon return to the Ley Lines.
-Traveler: I might perhaps honor their destiny.
 
 ## Talk 15
 
 Traveler: Missing text (1004412426)
 Traveler: Missing text (2966835946)
 Traveler: Missing text (4242382434)
-Traveler: Weak—Strong—Strong (Distress)
-Paimon: Okay, the signal is sent! Let's go check on the ghosts.
-Traveler: Strong—Weak—Weak
-Traveler: Missing text (3038045018)
-Traveler: Strong—Weak—Strong
-Traveler: Missing text (185189546)
-Traveler: Strong—Strong—Strong
-Black Screen Text: Missing text (353643402)
+    Option 1:
+        Traveler: Weak—Strong—Strong (Distress)
+        Paimon: Okay, the signal is sent! Let's go check on the ghosts.
+    Option 2:
+        Traveler: Strong—Weak—Weak
+        Traveler: Missing text (3038045018)
+    Option 3:
+        Traveler: Strong—Weak—Strong
+        Traveler: Missing text (185189546)
+    Option 4:
+        Traveler: Strong—Strong—Strong
+        Black Screen Text: Missing text (353643402)
 
 ## Additional Conversations
 
@@ -197,20 +207,18 @@ Flins: Never mind. We won't get anything out of this one.
 
 ### Additional Talk 2
 
-Paimon: Gloomy skies overhead, just like the last time we were here... The air's all icky and sticky and dark and damp.
-Paimon: We didn't get a good look then. All Paimon remembers is that really tall tower. So let's explore the area more fully this time... Wait, is that...!
 Traveler: Flins?
 Flins: Ah, good day, you two — assuming I don't have the time wrong.
-Traveler: Good day, Flins.
-Traveler: It's "good night," actually.
-Traveler: Honestly, I don't know what time it is either.
-Flins: It is always dark in the "Final Night Cemetery," so I simply made a guess, presuming that you'd prefer to act during the day. It seems I was mistaken.
-Flins: Then let us forgo these niceties. It is always dark here in the Final Night Cemetery — time becomes somewhat meaningless.
-Paimon: Phew, well it's good to see a familiar face. Especially in this darkness — it really gives you the heebie-jeebies...
-Flins: You needn't worry. This is my humble abode and the tomb of the Lightkeepers. And, while somewhat dark, it is on the whole a safe place.
-Flins: That being said, I rarely receive visitors here, save for the occasional colleague. What brings you two here?
-Paimon: To be honest, we just wanted to see where you live. We were in such a rush last time, we didn't get to do a proper tour.
-Flins: I see. In that case, as guardian of the tombs here in the Final Night Cemetery, allow me to extend the warmest of welcomes to you both, on behalf of the spirits who slumber here eternally.
+    Option 1:
+        Traveler: Good day, Flins.
+    Option 2:
+        Traveler: It's "good night," actually.
+        Flins: It is always dark in the "Final Night Cemetery," so I simply made a guess, presuming that you'd prefer to act during the day. It seems I was mistaken.
+    Option 3:
+        Traveler: Honestly, I don't know what time it is either.
+        Flins: Then let us forgo these niceties. It is always dark here in the Final Night Cemetery — time becomes somewhat meaningless.
+[Missing Dialog 766510111]
+
 Paimon: Wait, do you mean there really are ghosts here?
 Flins: That is correct. As you may have noticed, this island is dotted with headstones. You might think of it as a veritable necropolis filled with souls — isn't it a welcoming thought?
 Paimon: Not at all! If anything, this place just got scarier!
@@ -226,27 +234,39 @@ Flins: In the past, it guided people on their way to and from the island... but 
 Flins: ...Well, that is perhaps not entirely accurate. They do sometimes come running out, speaking once-familiar utterances into the void.
 Flins: In which case, since you are not used to the darkness that shrouds this island, you could consider restoring the lighthouse to illuminate your way.
 Flins: I, too, know well the comfort that a distant ray of light can bring on those lone journeys through the cold night.
-Traveler: Do you not need the lighthouse, Flins?
-Traveler: Are we really allowed to operate a Lightkeeper lighthouse?
-Traveler: Could you help us with that?
-Traveler: Will lighting the lighthouse be a difficult task?
-Flins: Speaking as a Lightkeeper, we no longer need the building all that much, and I am under no official obligation to maintain it.
-Flins: And personally, I am more partial to the night than the day, so I find myself quite comfortable here in the dark.
-Flins: Besides, I have a lantern of my own. I would rather tend to that than rely on a more distant warmth.
-Flins: Well, it is an important testament to our history, but as is the case with many once-magnificent buildings from the past, it now lies desolate and neglected.
-Flins: Not that the Lightkeepers have forgotten about it, of course. We are simply spread too thinly.
-Flins: But you will merely be lighting it up, not vandalizing it. Rest assured, you will face no objections.
-Flins: Alas, if only I could — I would enjoy nothing more than the pleasure of your company. Today, however, is when the post from headquarters arrives.
-Flins: I already have many reports to write, and with a new round of correspondence incoming, I fear I can afford to delay responding to the previous batch no longer.
-Flins: So please excuse me while I complete some of my paperwork. I shall accompany you as soon as I am able.
-Flins: In general, the upkeep is quite an undertaking. It requires regular reporting to Piramida, which is quite a distance away, and transport of fuel back and forth. The tower and the light themselves also need to be cleaned and maintained.
-Flins: But to simply light it up, you need only add some fuel and activate the lamp.
-Flins: It has merely been in a state of disuse, not disrepair.
+    Option 1:
+        Traveler: Do you not need the lighthouse, Flins?
+        Flins: Speaking as a Lightkeeper, we no longer need the building all that much, and I am under no official obligation to maintain it.
+        Flins: And personally, I am more partial to the night than the day, so I find myself quite comfortable here in the dark.
+        Flins: Besides, I have a lantern of my own. I would rather tend to that than rely on a more distant warmth.
+    Option 2:
+        Traveler: Are we really allowed to operate a Lightkeeper lighthouse?
+        Flins: Well, it is an important testament to our history, but as is the case with many once-magnificent buildings from the past, it now lies desolate and neglected.
+        Flins: Not that the Lightkeepers have forgotten about it, of course. We are simply spread too thinly.
+        Flins: But you will merely be lighting it up, not vandalizing it. Rest assured, you will face no objections.
+    Option 3:
+        Traveler: Could you help us with that?
+        Flins: Alas, if only I could — I would enjoy nothing more than the pleasure of your company. Today, however, is when the post from headquarters arrives.
+        Flins: I already have many reports to write, and with a new round of correspondence incoming, I fear I can afford to delay responding to the previous batch no longer.
+        Flins: So please excuse me while I complete some of my paperwork. I shall accompany you as soon as I am able.
+    Option 4:
+        Traveler: Will lighting the lighthouse be a difficult task?
+        Flins: In general, the upkeep is quite an undertaking. It requires regular reporting to Piramida, which is quite a distance away, and transport of fuel back and forth. The tower and the light themselves also need to be cleaned and maintained.
+        Flins: But to simply light it up, you need only add some fuel and activate the lamp.
+        Flins: It has merely been in a state of disuse, not disrepair.
 Flins: As such, you should have no issues using it, so long as it helps you.
 Flins: I believe there should still be some backup fuel for the lighthouse stored in an old tent to the north. That should be enough to serve your present needs.
 Traveler: Gotcha.
 Flins: And if you should need to find me, I will be in an underground basement on the north side. That's where I will be sorting through my reports.
 Flins: I will meet up with you once I have completed my urgent tasks.
+
+Paimon: Gloomy skies overhead, just like the last time we were here... The air's all icky and sticky and dark and damp.
+Paimon: We didn't get a good look then. All Paimon remembers is that really tall tower. So let's explore the area more fully this time... Wait, is that...!
+Paimon: Phew, well it's good to see a familiar face. Especially in this darkness — it really gives you the heebie-jeebies...
+Flins: You needn't worry. This is my humble abode and the tomb of the Lightkeepers. And, while somewhat dark, it is on the whole a safe place.
+Flins: That being said, I rarely receive visitors here, save for the occasional colleague. What brings you two here?
+Paimon: To be honest, we just wanted to see where you live. We were in such a rush last time, we didn't get to do a proper tour.
+Flins: I see. In that case, as guardian of the tombs here in the Final Night Cemetery, allow me to extend the warmest of welcomes to you both, on behalf of the spirits who slumber here eternally.
 
 ### Additional Talk 3
 

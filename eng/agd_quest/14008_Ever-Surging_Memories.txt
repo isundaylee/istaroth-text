@@ -165,7 +165,10 @@ Paimon: That sounds awesome!
 Neuvillette: But I rarely ever do anything like this. Emotions carried by water are always chaotic and disconnected. As an outsider, having my mind occupied with irrelevant memories isn't exactly a pleasant experience.
 Traveler: The memories I saw were related to you.
 Neuvillette: Which ones?
-Traveler: From when you brought Carole to the Court of Fontaine...
+    Option 1:
+        Traveler: From when you brought Carole to the Court of Fontaine...
+    Option 2:
+        Traveler: To when you declared Vautrin guilty.
 Neuvillette: ...
 Neuvillette: It's fine. I prefer not to speak of those memories, but that does not mean I am deliberately hiding them.
 Neuvillette: It was a coincidence, but perhaps it is a good thing that you saw everything in that form.
@@ -228,18 +231,19 @@ Neuvillette: ...This is truly wonderful.
 Paimon: Sooo... Wanna go over and say hi?
 Neuvillette: No, I should stay where I am. My appearance could give rise to unnecessary commotion.
 Neuvillette: Let us stick to our plan and return to the Palais Mermonia. The faster we uncover the truth, the better.
-Traveler: To when you declared Vautrin guilty.
 
 ## Talk 12
 
 About the smuggling case...: "The smuggling case was solved by the joint forces of the Gardes and Marechaussee Phantom."
 About the smuggling case...: "The principal offenders have received judgment based on the severity of their crimes."
 About the smuggling case...: "Please refer to the appendix for the list of names."
-Traveler: Continue Reading
-About the smuggling case...: "The principal offenders Domenico, Inika, Youna and others have been caught. They have been sent to the Fortress of Meropide following trial."
-About the smuggling case...: "Those with close connections or mutual interests with the offenders but who did not participate in the case will not stand trial."
-About the smuggling case...: "Among them, surveillance of Esseim has ceased on account of his good behavior. All other personnel remain on our watchlist."
-Traveler: Leave
+    Option 1:
+        Traveler: Continue Reading
+        About the smuggling case...: "The principal offenders Domenico, Inika, Youna and others have been caught. They have been sent to the Fortress of Meropide following trial."
+        About the smuggling case...: "Those with close connections or mutual interests with the offenders but who did not participate in the case will not stand trial."
+        About the smuggling case...: "Among them, surveillance of Esseim has ceased on account of his good behavior. All other personnel remain on our watchlist."
+    Option 2:
+        Traveler: Leave
 
 ## Additional Conversations
 

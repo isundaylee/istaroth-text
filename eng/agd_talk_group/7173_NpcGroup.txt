@@ -9,17 +9,24 @@ Paimon: #"Traveler and Paimon, there's an urgent matter I need to attend to. Ple
 Paimon: Huh? How did Jahoda know we'd drop by? What if we didn't come?
 Traveler: There's more...
 Paimon: "I saw you coming in just now. Please, please, please. Help me. Please, please."
-Traveler: It's like please-themed wallpaper...
+    Option 1:
+        Traveler: It's like please-themed wallpaper...
+    Option 2:
+        Traveler: We should help her out.
 Paimon: Alright, but what are we supposed to do?
-Traveler: I don't know...
-Traveler: I guess we just wait here.
-Traveler: We should help her out.
+    Option 1:
+        Traveler: I don't know...
+    Option 2:
+        Traveler: I guess we just wait here.
 
 ## Talk 1
 
 Black Screen Text: You stand behind the counter. After a short while, a customer walks in...
 Gaming: #Hey there, Boss. That stuff I ordered a few days ago... Huh? Traveler, Paimon, what are you doing here?
-Traveler: Gaming?
+    Option 1:
+        Traveler: Gaming?
+    Option 2:
+        Traveler: We're helping a friend...
 Gaming: Is there any place you don't have friends? You make even more connections than us escort guards.
 Paimon: Alright, that's enough. Now it's Paimon's turn to do the asking — what are you doing in Nod-Krai, Gaming? We're a long way from Liyue.
 Gaming: Oh, well, I happen to know someone out here, and one of their elders has a birthday coming up...
@@ -30,12 +37,13 @@ Traveler: Did you have a safe journey?
 Gaming: We ran into a few bandits on the way, but we sent 'em packing easily enough. No damage to people or goods!
 Gaming: Anyway, back to business. I was hoping Lady Nefer could put me in touch with some local suppliers — I'm looking to pick up some quality wood.
 Gaming: Once I get some wood, I can start building a stage, and then the performance can begin!
-Traveler: I'll make a note.
+    Option 1:
+        Traveler: I'll make a note.
+    Option 2:
+        Traveler: Wood... Gaming...
 Gaming: #Thanks, Traveler. The next time you're in Liyue, I'll treat you to... Huh? Is someone calling me...?
 Gaming: #It'll be the other guards out looking for me, sorry, Traveler, I've gotta go!
 Gaming: I'm coming! I'm coming!
-Traveler: Wood... Gaming...
-Traveler: We're helping a friend...
 
 ## Talk 2
 
@@ -43,7 +51,10 @@ Black Screen Text: You stand behind the counter. After a short while, a customer
 Escoffier: This should be the Curatorium of Secrets... hmm?
 Escoffier: #Traveler, Paimon? What a coincidence! I wasn't expecting to see you here...
 Escoffier: What are you up to?
-Traveler: We're helping a friend.
+    Option 1:
+        Traveler: We're helping a friend.
+    Option 2:
+        Traveler: We're working in Nod-Krai.
 Escoffier: *sigh* You've fallen on hard times...
 Escoffier: Oh, right, do you know a young robot lady, by any chance? She smells a lot like pancakes.
 Escoffier: Like very... simple pancakes. Like pancakes made without too many fancy ingredients.
@@ -60,13 +71,15 @@ Paimon: Paimon thinks you're missing the point...
 Escoffier: Still, that won't be a problem — I know how to make all sorts of delicious snacks that aren't sweet.
 Escoffier: Let me find a kitchen to borrow, then I'll rustle up some snacks and make my way over to their workshop.
 Escoffier: Wonderful! This trip to Nod-Krai has been excellent — not only did I get my hands on new ingredients, but I even learnt an extra-special recipe to boot!
-Traveler: We're working in Nod-Krai.
 
 ## Talk 3
 
 Black Screen Text: You stand behind the counter. After a short while, a customer walks in...
 Chevreuse: #Hello, Traveler, Paimon.
-Traveler: Ch—Chevreuse!?
+    Option 1:
+        Traveler: Ch—Chevreuse!?
+    Option 2:
+        Traveler: Let me rub my eyes...
 Paimon: What are you doing in Nod-Krai, Chevreuse? A—Are you here to catch someone?
 Chevreuse: Not quite. I'm here to scout out a location for the Special Security and Surveillance Patrol to conduct special training.
 Chevreuse: The Patrol has always trained in Fontaine — it's become far too routine.
@@ -75,11 +88,12 @@ Chevreuse: If things go on like this, the Patrol is going to lose the ability to
 Chevreuse: That's why I plan to regularly take us beyond Fontaine's borders to train in unfamiliar surroundings.
 Chevreuse: Lady Nefer's already helped me find a location, I'm just dropping by to pay for her services.
 Chevreuse: #Since you're the one on duty today, Traveler, I'll entrust this money to you. Please make sure it gets back to her.
-Traveler: Uhm, okay...
+    Option 1:
+        Traveler: Uhm, okay...
+    Option 2:
+        Traveler: But aren't you worried I might...
+        Chevreuse: I trust in your moral character.
 Chevreuse: Alright, I'll take my leave. I need to return to Fontaine and get everything ready.
-Traveler: But aren't you worried I might...
-Chevreuse: I trust in your moral character.
-Traveler: Let me rub my eyes...
 
 ## Talk 4
 
@@ -112,6 +126,8 @@ Black Screen Text: It appears to be a fairly slow day with few customers. By the
 ## Talk 6
 
 Paimon: Argh... Why does Jahoda want us to cover for her again? Another sheet full of requests...
-Traveler: Her eyes really are sharp.
+    Option 1:
+        Traveler: Her eyes really are sharp.
+    Option 2:
+        Traveler: Well, we'll just have to help her...
 Paimon: Let's go behind the counter, then. Hopefully we won't run into any trouble...
-Traveler: Well, we'll just have to help her...

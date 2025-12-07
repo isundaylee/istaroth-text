@@ -27,8 +27,12 @@ Mamull: ...W—Well now! What does a legendary hero's trial have to do with whic
 Mamull: Anyway, lucky travelers from afar — why don't you listen in on the rules of the Painted Stone Challenge? To be honest, the rewards I prepared are so generous it gives me conniptions!
 Paimon: R—Really?
 Paimon: #It still sounds fishy, but there's no harm in listening... What do you think, Traveler?
-Traveler: You'll hear it no matter what I say...
-Paimon: C'mon, a good adventurer should never pass up a chance for extra rewards!
+    Option 1:
+        Traveler: You'll hear it no matter what I say...
+        Paimon: C'mon, a good adventurer should never pass up a chance for extra rewards!
+    Option 2:
+        Traveler: Well, let's see what you call "lucky" around here, then...
+        Paimon: Teehee, that word always fills Paimon with excitement!
 Mamull: Then allow me, the heir of the hero Vallekan, to explain the rules to you...
 Paimon: Wait, did that name just change, or...
 Mamull: Change? No, no, it was always the same name. *sigh* You foreigners just have trouble remembering the mighty names of our ancient heroes — but that's okay. Anyway, here's how the rules work...
@@ -45,8 +49,6 @@ Mamull: Besides, compared with the final reward, 500 Mora is a drop in the bucke
 Paimon: Okay okay, well...
 Paimon: #Paimon's gonna fork up the fee, Traveler, but you gotta win!
 Mamull: Okay then, you two: Shall we get things started?
-Traveler: Well, let's see what you call "lucky" around here, then...
-Paimon: Teehee, that word always fills Paimon with excitement!
 
 ## Talk 4
 
@@ -76,13 +78,15 @@ Mamull: But that's fine. I'll let you try again for free!
 Mamull: That way, you'll witness the final trial's true difficulty for yourself!
 Paimon: Really? No need for any Mora this time around?
 Paimon: S—Seeing as it's free, let's give it another go...
-Traveler: "Free"'s the highest price of them all...
-Paimon: That doesn't make sense either, but anyway... let's give this one more try!
+    Option 1:
+        Traveler: "Free"'s the highest price of them all...
+        Paimon: That doesn't make sense either, but anyway... let's give this one more try!
+    Option 2:
+        Traveler: Seeing as it's free...
+        Paimon: That's right! This try's free anyway!
 Mamull: So then, your second try of the final trial. Shall we begin?
 Traveler: Let's do this.
 Mamull: Hehe. Well then, do be careful this time.
-Traveler: Seeing as it's free...
-Paimon: That's right! This try's free anyway!
 
 ## Talk 7
 

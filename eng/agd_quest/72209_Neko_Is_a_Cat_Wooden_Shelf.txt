@@ -12,26 +12,30 @@ Neko: I recall Hibiki calling the rack itself a "Prayer Rack," and these small w
 Neko: Hmm... Does this mean that humans love wood? It is true that many visitors would go to that wooden rack to hang small wooden blocks after offering up some Mora.
 Traveler: I—I don't think it's because they love the wood...
 Neko: Is that so? Then... did they do it because they dislike wood? ...To punish the wood, perhaps?
-Traveler: The wood is really not the important part...
+    Option 1:
+        Traveler: The wood is really not the important part...
+    Option 2:
+        Traveler: It has nothing to do with the material, per se...
 Neko: ...Whatever the case may be, the rack is now in a sorry state and has been left wanting for more wooden blocks.
 Neko: Though I cannot claim to understand the relationship between humans and wood, a shrine must have these all the same.
 Neko: It must be the ruination of the rack and the shrine running out of wood that no one comes by anymore.
 Neko: As such, I must ask another thing of you — to fix that wooden rack.
-Traveler: Well, leave that to us.
-Paimon: Now that you mention it, we should have some leftover material from when we fixed that Offering Box, right?
-Neko: Of such things, I cannot be sure... Why do you humans love wood so much, anyway?
-Paimon: Uh, you know what, never mind... Paimon remembers that we have some spares. Let's look around a bit.
-Neko: Whatever the case may be, I shall leave the matter of the wooden shelf to you. This shrine will not take care of itself, after all, meow.
+    Option 1:
+        Traveler: Well, leave that to us.
+        Paimon: Now that you mention it, we should have some leftover material from when we fixed that Offering Box, right?
+        Neko: Of such things, I cannot be sure... Why do you humans love wood so much, anyway?
+        Paimon: Uh, you know what, never mind... Paimon remembers that we have some spares. Let's look around a bit.
+        Neko: Whatever the case may be, I shall leave the matter of the wooden shelf to you. This shrine will not take care of itself, after all, meow.
+    Option 2:
+        Traveler: How long has this thing been in disrepair?
+        Neko: Very long. It fell apart before the box did, and the box fell into ruin ages ago.
+        Paimon: So you don't know at all, do you...
+        Neko: Hah. I do not particularly follow how many times the sun rises or sets.
+        Paimon: Well, we should have some stuff left over from when we were fixing that Offering Box, right?
+        Neko: Of such things, I cannot be sure... Why do you humans love wood so much, anyway?
+        Paimon: Uh, you know what, never mind... Paimon remembers that we have some spares. Let's look around a bit.
+        Neko: Whatever the case may be, I shall leave the matter of the wooden shelf to you. This shrine will not take care of itself, after all, meow.
 Neko: Once that box and shelf are both fixed, the number of humans coming here should swell.
-Traveler: How long has this thing been in disrepair?
-Neko: Very long. It fell apart before the box did, and the box fell into ruin ages ago.
-Paimon: So you don't know at all, do you...
-Neko: Hah. I do not particularly follow how many times the sun rises or sets.
-Paimon: Well, we should have some stuff left over from when we were fixing that Offering Box, right?
-Neko: Of such things, I cannot be sure... Why do you humans love wood so much, anyway?
-Paimon: Uh, you know what, never mind... Paimon remembers that we have some spares. Let's look around a bit.
-Neko: Whatever the case may be, I shall leave the matter of the wooden shelf to you. This shrine will not take care of itself, after all, meow.
-Traveler: It has nothing to do with the material, per se...
 
 ## Talk 2
 
@@ -59,7 +63,10 @@ Taisuke: It is? You fixed it? You're a kind soul, aren't you...
 Traveler: I was commissioned by the provisional head priestess.
 Taisuke: L—Lady Neko commissioned you to do it?
 Taisuke: Has she noticed our actions, then?
-Traveler: I wouldn't totally say so...
+    Option 1:
+        Traveler: I wouldn't totally say so...
+    Option 2:
+        Traveler: You could say that...
 Taisuke: Miss Etsuko! Let's go over to where the Prayer Rack is!
 Etsuko: First the Offering Box, now the Prayer Rack...
 Etsuko: This provisional head priestess really is serious about repairing the shrine, huh...
@@ -70,12 +77,14 @@ Etsuko: ...Has that provisional head priestess realized this yet? What motive do
 Etsuko: ...Never mind, maybe I'm just letting my suspicion get the better of me. We can go over to that Prayer Rack, no problem.
 Etsuko: But I'd call remaining on guard the right option.
 Taisuke: Miss Etsuko, Lady Neko is just a cat...
-Traveler: You could say that...
 
 ## Talk 5
 
 Etsuko: You did a beautiful job repairing this Prayer Rack.
-Traveler: Thank you.
+    Option 1:
+        Traveler: Thank you.
+    Option 2:
+        Traveler: I just know a few tricks.
 Etsuko: But the Prayer Plaques... You can't see what they say at all. How long has it been since...
 Taisuke: Miss Etsuko! I found a few wooden planks nearby, and I, ah, carved us a few Prayer Plaques.
 Taisuke: Since this Prayer Rack's been repaired, it needs some Prayer Plaques hung on it, after all.
@@ -84,7 +93,6 @@ Etsuko: Hanging a Prayer Plaque up at this shrine...
 Etsuko: Hehe, what an interesting thought. Pass me one of those plaques, I'll handle the drawing myself.
 Paimon: Well, looks like they're preparing to put some Prayer Plaques up, huh?
 Paimon: Let's go tell Neko. It'll be pleased for sure!
-Traveler: I just know a few tricks.
 
 ## Talk 6
 

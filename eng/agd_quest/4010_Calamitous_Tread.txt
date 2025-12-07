@@ -16,7 +16,10 @@ Freminet: I really can't make sense of this place...
 Lyney: #So, Traveler, Paimon... Were you able to learn anything from Wriothesley?
 Paimon: Yeah, he explained everything.
 Lyney: Very well... then would you mind checking your answers against my speculations?
-Traveler: Lyney sounds a lot more like his old self.
+    Option 1:
+        Traveler: Lyney sounds a lot more like his old self.
+    Option 2:
+        Traveler: Feeling better now, Lyney?
 Lyney: Yeah, I took the time to rest, so I'm feeling a lot more relaxed now.
 Lynette: ...Nobody else is around, and Miss Sigewinne is also busy with something or other, so let's just talk here.
 Lyney: Alright. Then, I'll posit my theories. I asked myself three questions.
@@ -48,16 +51,17 @@ Lyney: Though you may not share the sentiment, after all that we've gone through
 Freminet: ...You have my gratitude.
 Lynette: Thank you for protecting Lyney when it really mattered, and thank you for sharing the secrets of the Fortress with us. We didn't think you were going to do it.
 Paimon: Why are you being so formal all of a sudden?
-Traveler: Don't mention it.
+    Option 1:
+        Traveler: Don't mention it.
+    Option 2:
+        Traveler: We can work together again if necessary.
+        Lynette: Given your strength, you might not need our help at all. But if you are ever in danger, we will try our best to protect you.
+        Paimon: Aww! The sound of that makes Paimon feel all warm and safe inside!
 Paimon: *growl*...
 Traveler: What was that?
 Paimon: Ah... Paimon... Paimon's hungry...
 Freminet: You've done so much already, go get some food!
 Paimon: Alright, then we'll catch you guys another time!
-Traveler: We can work together again if necessary.
-Lynette: Given your strength, you might not need our help at all. But if you are ever in danger, we will try our best to protect you.
-Paimon: Aww! The sound of that makes Paimon feel all warm and safe inside!
-Traveler: Feeling better now, Lyney?
 
 ## Talk 2
 
@@ -70,18 +74,28 @@ Paimon: Huh, you're right... She's actually sitting in the fortress cafeteria...
 Sigewinne: What would you like to eat?
 Traveler: Huh? We can choose?
 Sigewinne: Yep, you can! I've already talked to our chef, Mr. Wolsey. It's all on me today, so you can get whatever you'd like.
-Traveler: Then I'll have the tastiest stuff you have to offer!
+    Option 1:
+        Traveler: Then I'll have the tastiest stuff you have to offer!
+    Option 2:
+        Traveler: Then I'll get the biggest portion you have to offer!
 Paimon: Me too, don't forget Paimon!
 Sigewinne: No problem! Just leave it to me.
 Black Screen Text: After a while, the meals Sigewinne ordered for you arrive. Unlike days prior when you had to rely solely on luck, the dishes before you today are bursting with flavor.
 Black Screen Text: Sigewinne also brings some drinks over to you. They taste a little strange, but she insists that they are very nutritious... She also insists that Wriothesley is also a fan of them, but neither you nor Paimon buy her claims.
 Black Screen Text: ...Okay, the shakes genuinely taste pretty terrible. At the very least, however, they help you to calm down and relax.
 Paimon: Ahhhh!! Sooo delicious!!
-Traveler: Amazing!
-Paimon: Paimon's so happy, Paimon wants to feast like this every day, hehe.
+    Option 1:
+        Traveler: Amazing!
+        Paimon: Paimon's so happy, Paimon wants to feast like this every day, hehe.
+    Option 2:
+        Traveler: Free dinners are the absolute best!
+        Paimon: Is this how it feels to be freeloaders? Wait a second, we did do plenty of work, after all...
 Sigewinne: Feeling full yet? How's the food?
 Paimon: Delicious!
-Traveler: Exquisite, thank you!
+    Option 1:
+        Traveler: Exquisite, thank you!
+    Option 2:
+        Traveler: Besides the milk— Uh, I mean, everything was super delicious!
 Sigewinne: Aw, I'm so glad to see you all so happy! See, the expression on your face just now... The muscle here just moved, which suggests that you're feeling quite relaxed at the moment.
 Paimon: Sigewinne, do you do this to help your patients, or to better understand human beings?
 Sigewinne: A bit of both, I suppose. I'm a Melusine, which means I'm very different from human beings. I must know what you're thinking if I want to take good care of you.
@@ -97,10 +111,6 @@ Sigewinne: Hehe, it's just what we do down here at the Fortress. At least, this 
 Sigewinne: *sigh* I really wish Monsieur Neuvillette would come down here more often too. I feel like he'd like it here... With all the darkness and chaos...
 Traveler: (But that doesn't make sense at all... It's hard to imagine Neuvillette outside of his office...)
 Sigewinne: Get a good night's rest, you two! You've both worked very hard.
-Traveler: Besides the milk— Uh, I mean, everything was super delicious!
-Traveler: Free dinners are the absolute best!
-Paimon: Is this how it feels to be freeloaders? Wait a second, we did do plenty of work, after all...
-Traveler: Then I'll get the biggest portion you have to offer!
 
 ## Talk 3
 
@@ -187,13 +197,19 @@ The Knave: Oh, so you two are the honored guests Miss Furina mentioned.
 Furina: Of course, of course! How could they not attend a meeting such as this? I must always have two or more guests at my dessert table, otherwise the occasion would be too lonely and unbecoming of my station.
 The Knave: #It is my pleasure to make your acquaintance, Traveler, I have heard much of your accomplishments. I am The Knave, one of the eleven Fatui Harbingers.
 Traveler: (So this is The Knave... the head of the House of the Hearth, and the Lyney siblings' "Father." She certainly does not seem easy to deal with.)
-Traveler: Greetings.
+    Option 1:
+        Traveler: Greetings.
+    Option 2:
+        Traveler: Pleasure to meet you, too.
 Furina: I've already prepared seats for you. Come, sit beside me.
 The Knave: Perhaps you two are unaware of how Miss Furina and I do things. You see, we actually recently agreed to get together for tea when we had the time.
 The Knave: See this? This is a limited type of confectionery that Miss Furina simply adores. There are only sixteen slices sold every day. Here, why don't you and Paimon have a taste?
 Traveler: (She seems friendly enough, but that can't be all there is to her... The Knave is a force to be reckoned with. I should be very cautious around her.)
 Furina: #Traveler, what do you think of this cake?
-Traveler: It's pretty good.
+    Option 1:
+        Traveler: It's pretty good.
+    Option 2:
+        Traveler: It's quite tasty, and I think Paimon agrees too.
 The Knave: That's good to hear. So what Childe said was on the mark after all... you do share a taste in desserts with Furina and I.
 Traveler: (Wait, Childe should have no reason to have said something like that.)
 The Knave: I wonder how he's doing nowadays. You must have heard, right? He's suddenly gone missing. I'm really worried about his safety, you know. Here's to hoping that he's an excellent swimmer.
@@ -228,8 +244,6 @@ The Knave: I suppose this is also a sign of things to come, Miss Furina.
 Furina: Huh? Ah, I don't quite understand what you're trying to say...
 The Knave: —Have we entered into the next stage of the prophecy?
 Furina: ...
-Traveler: It's quite tasty, and I think Paimon agrees too.
-Traveler: Pleasure to meet you, too.
 
 ## Talk 13
 
@@ -247,9 +261,11 @@ Clorinde: Yeah. First time in a long time.
 Paimon: "First time in a long time"? So you mean, you've gone out to dinner with her in the past?
 Clorinde: In the past, yes.
 Clorinde: You seem to be enjoying yourselves here.
-Traveler: It's all thanks to Neuvillette...
+    Option 1:
+        Traveler: It's all thanks to Neuvillette...
+    Option 2:
+        Traveler: This is technically a work trip for us too...
 Clorinde: Things will be getting messy at the Fortress soon. Don't run around unnecessarily.
-Traveler: This is technically a work trip for us too...
 
 ## Talk 14
 
@@ -311,7 +327,11 @@ The Knave: I'm glad that you were willing to come with me. Of course, Childe was
 Paimon: That's what Paimon thought!
 Traveler: What do you want to say?
 The Knave: You lent your aid to the children of the House of the Hearth. As their "Father," I would like to express my gratitude.
-Traveler: ...There's no need.
+    Option 1:
+        Traveler: ...There's no need.
+    Option 2:
+        Traveler: ...I didn't think that's what you wanted to talk about.
+        The Knave: Do I look like an irresponsible "Father" to you? Hehe, the House of the Hearth is very important to me. You should know that I care deeply about my children.
 Traveler: Was there nothing else you wanted to say?
 The Knave: That was all. Formal topics should be discussed in formal settings, and informal topics in informal settings.
 The Knave: I know you just returned from the Fortress of Meropide. Relax, I have no intention of trying to get anything out of you. Lyney, Lynette and Freminet are still there, and I trust their judgment and abilities.
@@ -354,8 +374,6 @@ The Knave: Oh, and I have an additional mission for you three.
 Lyney (Together): Yes, "Father"!
 The Knave: (Tartaglia's disappearance was not a part of my plan, but I can use it to make a breakthrough. With this as my excuse, I can ask for an official audience, and continue my investigation of Furina and Iudex Neuvillette.)
 The Knave: (The initiative belongs to the House of the Hearth. My wish to investigate the Fortress of Meropide will be a front. Lyney and his group will be responsible for the actual intelligence-gathering.)
-Traveler: ...I didn't think that's what you wanted to talk about.
-The Knave: Do I look like an irresponsible "Father" to you? Hehe, the House of the Hearth is very important to me. You should know that I care deeply about my children.
 
 ## Talk 17
 
@@ -384,12 +402,18 @@ Black Screen Text: You recount the happenings of the tea party to Neuvillette...
 Neuvillette: ...So, as expected, The Knave has turned up the pressure on Furina. She's trying to feel her out, though I'm still unsure as to her motives.
 Traveler: Can I ask you some questions?
 Neuvillette: Permission granted.
-Traveler: You have enough power to force back the Primordial Sea...
+    Option 1:
+        Traveler: You have enough power to force back the Primordial Sea...
+    Option 2:
+        Traveler: Does this mean you have some deeper connection with the Hydro Archon?
 Paimon: Whoa, it can't be that you're the real Hydro Archon, right? But that's just a speculation on our part, though...
 Neuvillette: ...
 Paimon: You can't tell us? Then... Then that's okay, we can talk about something else, we won't try to force you... Hahaha, you guys in Fontaine are super strange...
 Neuvillette: If by the phrase "you guys" you are referring to Furina and I, then although I'm not sure just what you are trying to imply, I must clarify that I do not share her positions on a multitude of topics.
-Traveler: What did you sense in the Fortress of Meropide?
+    Option 1:
+        Traveler: What did you sense in the Fortress of Meropide?
+    Option 2:
+        Traveler: Did you manage to protect those that needed to be defended?
 Neuvillette: I believe so. The Fortress has a long and complex history. It has seen much grief and suffering.
 Neuvillette: ...And now, another catastrophe will soon be upon us. I mourn this turn of events.
 Paimon: Huh? Why is it raining all of a sudden?
@@ -424,12 +448,12 @@ Neuvillette: Given the status quo, however, I would recommend finding another wa
 Paimon: Oh... So even you can't solve it...
 Neuvillette: I still have some urgent matters to attend to at my office. If you have any more questions regarding ancient history, you are welcome to discuss them with me at a later time.
 Paimon: Ah, please go right ahead! There's a place that Paimon wants to go, too. Traveler, why don't we pay another visit to the Fortress of Meropide? Paimon is a little worried...
-Traveler: Sure.
+    Option 1:
+        Traveler: Sure.
+    Option 2:
+        Traveler: See you later, Neuvillette.
 Paimon: We'll see you another time!
 Neuvillette: Take care.
-Traveler: See you later, Neuvillette.
-Traveler: Did you manage to protect those that needed to be defended?
-Traveler: Does this mean you have some deeper connection with the Hydro Archon?
 
 ## Talk 18
 

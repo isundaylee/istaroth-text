@@ -13,10 +13,12 @@ Tashfin: We are an elite brigade that commands the highest commission rate in al
 Paimon: "The Outcast"... An outcast from the Akademiya?
 Traveler: Sounds like The Doctor.
 Paimon: But why wouldn't The Doctor just send the Fatui after us?
-Traveler: Local mercenaries might have an edge over the Fatui.
+    Option 1:
+        Traveler: Local mercenaries might have an edge over the Fatui.
+    Option 2:
+        Traveler: Maybe he's taking advantage of the Akademiya's resources.
 Tashfin: Hmph, still wasting time on idle chit-chat? We'll shut you up soon enough. Get them!
 Paimon: #You're up, Traveler!
-Traveler: Maybe he's taking advantage of the Akademiya's resources.
 
 ## Talk 2
 
@@ -50,23 +52,34 @@ Collei: Hm... Master Tighnari originally studied in the Amurta Darshan of the Ak
 Collei: I know that before he became a Forest Watcher, Master Tighnari once spent a long time conducting research at Pardis Dhyai.
 Paimon: A research base, huh... Gotta wonder what kind of research Tighnari just decided to work on all of a sudden...
 Paimon: #Traveler, we don't have a lot of time, so let's go look for him at Pardis Dhyai.
-Traveler: Please take care of yourself, Collei.
+    Option 1:
+        Traveler: Please take care of yourself, Collei.
+    Option 2:
+        Traveler: Don't push yourself too hard, Collei.
 Collei: Ah... Don't worry, I'm fine. I'm used to living with Eleazar by now! If you run into Master Tighnari, please send him my regards.
 Paimon: Got it, will do! See you later, Collei!
-Traveler: Don't push yourself too hard, Collei.
 
 ## Talk 5
 
 Paimon: Wait, look who it is...!
-Traveler: Nahida!
+    Option 1:
+        Traveler: Nahida!
+    Option 2:
+        Traveler: Katheryne!
 Paimon: Thank goodness, you're okay! We were so worried about you...
-Traveler: You ARE Nahida, right?
+    Option 1:
+        Traveler: You ARE Nahida, right?
+    Option 2:
+        Traveler: You haven't been reprogrammed by The Doctor, have you?
 Paimon: #Hey Traveler! This was supposed to be a touching reunion, but you're ruining the moment!
 Nahida: Actually, it's very smart of the Traveler to be wary of me right now. After all, The Doctor has shown that his technology can apparently even control human minds...
 Nahida: Plus, it's not like you could've known what happened after we split up, and I was facing The Doctor by myself.
 Nahida: Even a pool of stagnant water after a torrential storm can occasionally pass as a patch of sky.
 Paimon: Hmm... Paimon feels like only the real Nahida could come up with such an obscure analogy.
-Traveler: I agree.
+    Option 1:
+        Traveler: I agree.
+    Option 2:
+        Traveler: I believe you.
 Nahida: Huh? But I wasn't trying to win your trust or anything. All I wanted was to clarify my point...
 Paimon: Well, we understand that point now! Please, Nahida, tell us more about what happened. Are those poor people alright?
 Nahida: When you left, I was still in the middle of restoring everyone's minds. Thankfully, when The Doctor mentioned "depositing information into the subconscious," he didn't mean engraving information into their minds...
@@ -77,7 +90,10 @@ Nahida: I wouldn't be relieved just yet.
 Nahida: I gave away my true identity when I restored everyone's minds, which means we've lost another one of our trump cards.
 Nahida: Also... The Doctor is already an expert at modifying Akasha Terminals. Maybe it's only a matter of time until he captures my consciousness inside the Akasha.
 Paimon: Would that mean you'd no longer be able to jump between minds? Then, how do we stop him... He's still at the Akademiya, so it's possible he's already started messing with the Akasha...
-Traveler: We need to hurry.
+    Option 1:
+        Traveler: We need to hurry.
+    Option 2:
+        Traveler: Our position will only get worse with time.
 Paimon: Argh, it feels like he's toying with us! What a nasty piece of work!
 Paimon: Plus, The Doctor's combat ability alone is apparently enough to make him worthy of being number two of the Fatui...
 Nahida: We shouldn't give up hope just yet. Let's try to find another way to attack this problem.
@@ -86,16 +102,15 @@ Nahida: #Yes, I have. I can see Traveler's Elemental Energy, so I deduced your d
 Nahida: You didn't come here for sightseeing, right? Did you find any leads?
 Paimon: We're looking for a scholar we know! His name is Tighnari, and the sages once tried to reach out to him. Why don't you come inside with us and see what we can find?
 Nahida: Okay. Let's just hope we won't get him into trouble...
-Traveler: Our position will only get worse with time.
-Traveler: I believe you.
-Traveler: You haven't been reprogrammed by The Doctor, have you?
-Traveler: Katheryne!
 
 ## Talk 6
 
 Haypasia: Traveler? It is you!
 Paimon: Ah! It's Haypasia!
-Traveler: Long time no see!
+    Option 1:
+        Traveler: Long time no see!
+    Option 2:
+        Traveler: Didn't expect to run into you here.
 Haypasia: Ahh, what a pleasant surprise! It's so nice to see the two of you again.
 Nahida: Who's this...?
 Paimon: She's a scholar we met in the Avidya Forest! When we last saw each other, she was still training in the uh, what's it called... "Satyavada Life"?
@@ -107,11 +122,17 @@ Haypasia: Hehehe... What do you think?
 Haypasia: My consciousness... has already managed to make contact with the divine.
 Nahida: ...Hmm?
 Paimon: You did it!? Congratulations!
-Traveler: I'm really happy for you.
+    Option 1:
+        Traveler: I'm really happy for you.
+    Option 2:
+        Traveler: You're truly amazing!
 Haypasia: Haha, it's so exhilarating to share this sublime joy with others at long last!
 Haypasia: When my consciousness made contact with the gods... What a supreme and unparalleled experience that was...
 Paimon: That sounds incredible...
-Traveler: Actually, we're here for Tighnari...
+    Option 1:
+        Traveler: Actually, we're here for Tighnari...
+    Option 2:
+        Traveler: We're in a hurry, so let's chat about this next time.
 Haypasia: Oh, alright... Actually, please wait — I haven't forgotten my promise to you.
 Haypasia: Remember? I promised to help you understand what you saw from Irminsul once I gained deeper insights.
 Haypasia: My current self has not only gained true insight, but I can even help you establish a direct connection to the consciousness of the divine!
@@ -124,7 +145,10 @@ Haypasia: Alright, now... hold my hand. I'll help you establish a pathway to con
 Nahida: Okay.
 Haypasia: Ready?
 Paimon: Wh—What was that!
-Traveler: This is neither the Greater Lord's consciousness...
+    Option 1:
+        Traveler: This is neither the Greater Lord's consciousness...
+    Option 2:
+        Traveler: Nor King Deshret's consciousness...
 Paimon: Did we actually just see the Balladeer's memories!? Everything matches what we know about him!
 Paimon: But how is he connected to the divine consciousness that Haypasia was talking about!?
 Haypasia: You saw it, right? You felt it, right!? Such a majestic god, such a noble will, such sublime emotion!
@@ -141,21 +165,26 @@ Haypasia: ...Wait...
 Haypasia: Have I... already lost my mind?
 Traveler: ...
 Nahida: Wait, something isn't right!
-Traveler: Nor King Deshret's consciousness...
-Traveler: We're in a hurry, so let's chat about this next time.
-Traveler: You're truly amazing!
-Traveler: Didn't expect to run into you here.
 
 ## Talk 7
 
 Paimon: ...Okay, we've finally lost them.
-Traveler: !!!
+    Option 1:
+        Traveler: !!!
+    Option 2:
+        Traveler: *gasp*
 Paimon: #Are you okay, Nahida? ...Wait, no! Something feels different... Traveler, you're back!?
 Tighnari: #Oh? Traveler's back?
-Traveler: It's me...
+    Option 1:
+        Traveler: It's me...
+    Option 2:
+        Traveler: What just happened?
 Paimon: Nahida was controlling your body for a while. It seems like she jumped over to you as an emergency measure right before the Katheryne puppet was destroyed.
 Paimon: After that... Tighnari heard the commotion and came over. He helped us defeat the mercenaries, and then he ran with us all the way here.
-Traveler: This time, she didn't just transfer her mind into my body...
+    Option 1:
+        Traveler: This time, she didn't just transfer her mind into my body...
+    Option 2:
+        Traveler: Our minds swapped places.
 Paimon: What? You swapped places? You mean, your consciousness also went into Nahida's body?
 Paimon: Wait, then where is Nahida's consciousness? Where is she now...?
 Tighnari: I never imagined that an individual's consciousness could be transferred around like this... Had I not seen it with my own eyes, I would have never believed it. I don't think this can be achieved with current human technology...
@@ -164,12 +193,20 @@ Tighnari: "The Doctor has found a way to trap my consciousness, so I can't journ
 Tighnari: "But even in a moonless night, a shower of starlight can still drown out illusions and lies."
 Paimon: Aaagh, oh no... Nahida's trapped in the Sanctuary of Surasthana for good this time!
 Paimon: Was that message all she left for us? It's pretty vague...
-Traveler: It's in a code that only we know.
+    Option 1:
+        Traveler: It's in a code that only we know.
+    Option 2:
+        Traveler: We can't let The Doctor figure out what we're up to.
 Paimon: Oh, that makes sense! Since The Doctor captured her, she won't be able to say anything without him knowing. She's being extra careful...
 Paimon: "Even in a moonless night, a shower of starlight can still drown out illusions and lies..."
 Paimon: Paimon knows that the Moon, illusions, and lies are from that alchemical divination at the Sabzeruz Festival...
 Paimon: Didn't Nahida use a "starlight" analogy before? It had something to do with Setaria...
-Traveler: "The Moon" refers to Nahida herself.
+    Option 1:
+        Traveler: "The Moon" refers to Nahida herself.
+    Option 2:
+        Traveler: "Starlight" refers to the people of the desert.
+    Option 3:
+        Traveler: "Illusions and lies" refer to the Akademiya's plans.
 Paimon: Ohhh! That makes a lot of sense. Do you think Nahida was telling us to go find help in the desert?
 Paimon: But she isn't with us anymore... Think we'll be okay?
 Tighnari: #Paimon... you said Sanctuary of Surasthana, correct? Does this mean that this "Nahida" you're talking about, the consciousness who was occupying Traveler's body... is... the Dendro Archon?
@@ -179,12 +216,18 @@ Tighnari: I've spent some time with you, and it looks like the Dendro Archon's a
 Paimon: Thank you, Tighnari! Oh, actually, we came here to ask you a question. What do you know about the project that the sages have been working on?
 Tighnari: Ah, that... While I was indeed invited to join that project, the sages were always secretive about its scope and goals, so I eventually declined.
 Tighnari: All I know is that that project has something to do with the restoration of Irminsul.
-Traveler: I think I know what the project is about.
+    Option 1:
+        Traveler: I think I know what the project is about.
+    Option 2:
+        Traveler: I just received some new intel.
 Paimon: Eh? Did you see something when you were in Nahida's body?
 Traveler: The Akademiya is... turning The Balladeer into a god.
 Paimon: What!?
 Tighnari: ...Do you have any evidence?
-Traveler: I saw a "nascent god" under construction.
+    Option 1:
+        Traveler: I saw a "nascent god" under construction.
+    Option 2:
+        Traveler: Haypasia also showed us a so-called divine consciousness...
 Tighnari: ...
 Black Screen Text: You describe what you saw when you exchanged consciousnesses with Nahida...
 Tighnari: Hm, so that's what happened... That explains why Haypasia's symptoms were different from those of the other scholars who went mad. It's because she made contact with the consciousness of a new god who is still in the process of being born...
@@ -193,27 +236,23 @@ Tighnari: I did. I noticed Haypasia's mental anomalies, but since her symptoms w
 Tighnari: If I didn't take action, Haypasia would have already been taken by the matra to the desert, doomed to a life of exile at Aaru Village.
 Tighnari: Now that you mention it, I knew the Akademiya has never thought particularly highly of Lesser Lord Kusanali, but...
 Tighnari: ...But I still didn't expect them to do something as arrogant as creating a new god. Looks like I made the right decision by not accepting their invitation.
-Traveler: The Fatui is also behind some of this.
+    Option 1:
+        Traveler: The Fatui is also behind some of this.
+    Option 2:
+        Traveler: The Fatui may have fanned the flames.
 Tighnari: The Doctor and The Balladeer... We have two Fatui Harbingers in Sumeru... Sounds like we're in for a bad time.
 Tighnari: From your description, I don't think they've completed their project. There may still be room for us to intervene.
 Tighnari: But then, what is the connection between creating a new god and restoring Irminsul...?
 Paimon: Yeah, it feels like we're still nowhere close to figuring out the sages' goals...
-Traveler: Let's head to the desert for now.
+    Option 1:
+        Traveler: Let's head to the desert for now.
+    Option 2:
+        Traveler: We must stop them no matter what.
 Paimon: Right. We've pretty much gone over everything we need to know, so we should head out... How about you, Tighnari? What are you going to do?
 Tighnari: I'll stay here for now. I still want to try a few more things to help Haypasia.
 Tighnari: If you're planning to go into the desert, start by heading for Caravan Ribat. That'll be your fastest route.
 Tighnari: Come find me here if there's anything else I can do to help. May the spirit of wisdom go with you.
 Paimon: Thanks, Tighnari! Hopefully Haypasia will feel better soon! We're off, then.
-Traveler: We must stop them no matter what.
-Traveler: The Fatui may have fanned the flames.
-Traveler: Haypasia also showed us a so-called divine consciousness...
-Traveler: I just received some new intel.
-Traveler: "Starlight" refers to the people of the desert.
-Traveler: "Illusions and lies" refer to the Akademiya's plans.
-Traveler: We can't let The Doctor figure out what we're up to.
-Traveler: Our minds swapped places.
-Traveler: What just happened?
-Traveler: *gasp*
 
 ## Additional Conversations
 

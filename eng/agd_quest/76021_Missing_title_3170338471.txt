@@ -6,24 +6,29 @@
 *Conversations not present as sub-quests.*
 
 Ilmari: Another day, another empty bucket.
-Traveler: What are you doing here?
-Ilmari: Fishing. Though so far, I've only caught things that aren't fish.
-Ilmari: If it were knick-knacks from shipwrecks, that'd be fine, 'cause traveling merchants would buy those. I once pulled up a boot with half a... *sigh* Forget it. Talking about stuff like that will scare the fish off.
-Traveler: Is there anything of note nearby?
-Ilmari: Treasure hunting again, huh? That "Great Treasure" they say lies east of the moon and west of the sun... Doesn't take much to know this isn't the place to find it.
-Ilmari: There've been a good few shipwrecks in these waters. There may well be treasure beneath the waves, not that you'd find it easy to get at.
-Ilmari: I heard talk at the tavern, too, from sailors who escaped their sinking ship. Said it happened on a moonless night, yet something was glowing among the towering waves.
-Ilmari: They swore it was one-eyed Kratti, a monster that could swallow the moon. It was fighting a giant sea serpent for the right to rule its territory.
-Ilmari: For a long time after that, this whole stretch of ocean stayed as dark as ink. No ships dared pass through — they all feared the lost souls beneath the waves would drag them down.
-Ilmari: Whether those souls still linger on... Who knows for sure? Either way, I can't see 'em.
-Traveler: About that tree...
-Ilmari: It's cursed. There used to be a whirlpool here — the sailors called it the Eye of Kratti. Then one day, this tree just started growing right out of it.
-Ilmari: And that wasn't the only strange thing that happened around that time. Tracing it back, it all started with those rocks falling from the sky... Who knows? Maybe this tree's from the same place.
-Ilmari: Then there are those little shiny things that appear every now and then, rare as you like, those are. I figured there might be new kinds of fish, too. That's why I came out here — to try my luck.
-Ilmari: I used to have a fishing buddy who came out here, too, but he said he kept hearing strange singing. It spooked him so bad, he never came back. Hah, only half a Frostmoon Scion that one, but he inherited every one of their odd little habits.
-Traveler: About the Proofs of the Cognoscenti...
-Ilmari: The "Proofs of the Cognoscenti," the "Great Treasure that lies east of the moon and west of the sun"... If you ask me...
-Ilmari: Folks who greedily chase what isn't theirs rarely come to a good end. Take the Atlas, for example — I heard Captain Grettir was bewitched by all that talk of treasure.
-Ilmari: In the end, he met his fate at the bottom of the sea. And the treasure? It's not like it stayed buried with him. All that fuss for nothing.
-Traveler: Sorry to bother you.
-Ilmari: No worries. There's not a single fish in sight anyway.
+    Option 1:
+        Traveler: What are you doing here?
+        Ilmari: Fishing. Though so far, I've only caught things that aren't fish.
+        Ilmari: If it were knick-knacks from shipwrecks, that'd be fine, 'cause traveling merchants would buy those. I once pulled up a boot with half a... *sigh* Forget it. Talking about stuff like that will scare the fish off.
+    Option 2:
+        Traveler: Is there anything of note nearby?
+        Ilmari: Treasure hunting again, huh? That "Great Treasure" they say lies east of the moon and west of the sun... Doesn't take much to know this isn't the place to find it.
+        Ilmari: There've been a good few shipwrecks in these waters. There may well be treasure beneath the waves, not that you'd find it easy to get at.
+        Ilmari: I heard talk at the tavern, too, from sailors who escaped their sinking ship. Said it happened on a moonless night, yet something was glowing among the towering waves.
+        Ilmari: They swore it was one-eyed Kratti, a monster that could swallow the moon. It was fighting a giant sea serpent for the right to rule its territory.
+        Ilmari: For a long time after that, this whole stretch of ocean stayed as dark as ink. No ships dared pass through — they all feared the lost souls beneath the waves would drag them down.
+        Ilmari: Whether those souls still linger on... Who knows for sure? Either way, I can't see 'em.
+    Option 3:
+        Traveler: About that tree...
+        Ilmari: It's cursed. There used to be a whirlpool here — the sailors called it the Eye of Kratti. Then one day, this tree just started growing right out of it.
+        Ilmari: And that wasn't the only strange thing that happened around that time. Tracing it back, it all started with those rocks falling from the sky... Who knows? Maybe this tree's from the same place.
+        Ilmari: Then there are those little shiny things that appear every now and then, rare as you like, those are. I figured there might be new kinds of fish, too. That's why I came out here — to try my luck.
+        Ilmari: I used to have a fishing buddy who came out here, too, but he said he kept hearing strange singing. It spooked him so bad, he never came back. Hah, only half a Frostmoon Scion that one, but he inherited every one of their odd little habits.
+    Option 4:
+        Traveler: About the Proofs of the Cognoscenti...
+        Ilmari: The "Proofs of the Cognoscenti," the "Great Treasure that lies east of the moon and west of the sun"... If you ask me...
+        Ilmari: Folks who greedily chase what isn't theirs rarely come to a good end. Take the Atlas, for example — I heard Captain Grettir was bewitched by all that talk of treasure.
+        Ilmari: In the end, he met his fate at the bottom of the sea. And the treasure? It's not like it stayed buried with him. All that fuss for nothing.
+    Option 5:
+        Traveler: Sorry to bother you.
+        Ilmari: No worries. There's not a single fish in sight anyway.

@@ -6,9 +6,11 @@
 Traveler: About Milk...
 Paban: Are you the interested supplier?
 Paban: Have you prepared your dairy product samples? Don't worry, they'll be safe with me.
-Traveler: Samples are ready.
-Traveler: Not yet.
-Paban: Well, I'd suggest you hurry, then. You're not the only party after this contract.
+    Option 1:
+        Traveler: Samples are ready.
+    Option 2:
+        Traveler: Not yet.
+        Paban: Well, I'd suggest you hurry, then. You're not the only party after this contract.
 
 ## Talk 2
 

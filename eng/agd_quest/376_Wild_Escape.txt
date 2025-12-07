@@ -52,10 +52,12 @@ Venti: ...something cold.
 Diluc: Right. I want answers.
 Venti: Lemme finish my drink first? I'll pay you — well, with a performance.
 Diluc: It's not about money. You seem too young to be drinking.
-Traveler: How about answering my question first?
-Traveler: Actually... yeah.
 Venti: No need to worry. When I started drinking, you were still—
-Venti: Oh, you wanna ask "Who's this?" Am I right?
+    Option 1:
+        Traveler: How about answering my question first?
+        Venti: Oh, you wanna ask "Who's this?" Am I right?
+    Option 2:
+        Traveler: Actually... yeah.
 Venti: He is Master *Diluc*, the boss of... ah, the owner of this tavern.
 Venti: He's very famous. By the way, his dandelion wine is one of my favorites.
 Venti: Though most of the time I can only afford a bottle or two...
@@ -65,9 +67,11 @@ Diluc: Even if you are fools... but we don't often get to see people like you.
 Paimon: It wasn't us that stole it! The real thief is still out there!
 Venti: This is the hotshot of the Knights of Favonius. Why would someone so aspiring steal Mondstadt's sacred treasure?
 Diluc: Hotshot...? Oh, so it's you.
-Traveler: We're not close, actually.
-Traveler: I've only heard him play once.
 Diluc: So, you and the bard are close friends?
+    Option 1:
+        Traveler: We're not close, actually.
+    Option 2:
+        Traveler: I've only heard him play once.
 Diluc: Well... Despite only being a passing traveler, you still offered your help to Mondstadt in its time of need.
 Diluc: A shame you joined the Knights.
 Diluc: The Knights of Favonius... Inefficient right from beginning to end.
@@ -96,7 +100,10 @@ Diluc: As for the bard however, it'd be better if you stayed in the tavern.
 Venti: Haha. No problem! I like taverns.
 Diluc: ...
 Diluc: Okay. Let's meet here tonight after the tavern closes.
+[Missing Dialog 3760751]
+
 Amber: Okay then. You just need to follow the *marked route* to the finish.
+[Missing Dialog 4820222]
 
 ## Talk 8
 

@@ -54,7 +54,10 @@ Black Screen Text: As your consciousness clears, you find Jeht clutching your ha
 Jeht: You're awake... How are you feeling?
 Jeht: You just... *sigh* Never mind. The important thing is that you're alright...
 Paimon: What... What did you see? You look like you just woke up from a long and scary dream...
-Traveler: I saw the Mistress of Flowers...
+    Option 1:
+        Traveler: I saw the Mistress of Flowers...
+    Option 2:
+        Traveler: I gazed upon this place as it appeared long ago...
 Liloupar: ...
 Liloupar: She is gone. He lied to us. He lied to us all.
 Jeht: What do you mean?
@@ -63,15 +66,16 @@ Liloupar: The Lord of the Sands once swore to us that our Mistress of Flowers sl
 Liloupar: How strange. Our mistress has already passed. He... He deceived me. He deceived my people.
 Liloupar: I should feel maddening hatred for him right now. For this desert. For the death of my mistress... My loathing should have matched the love and admiration I once held for him...
 Liloupar: Yet, I find myself empty of want or will to hate... How odd...
-Traveler: Maybe this is what it means to be free.
+    Option 1:
+        Traveler: Maybe this is what it means to be free.
+    Option 2:
+        Traveler: You are now neither bound to "lovers" nor "foes."
 Liloupar: Is that so...
 Jeht: ...
 Liloupar: Hmph, spare me the niceties. My master you remain, and our pact endures yet.
 Liloupar: Come. Let us depart. Jeht was waiting for you this whole time, you know.
 Jeht: Y'know what? I see a nice spot just over there. I'm going to head over first.
 Jeht: Don't forget to come over in a bit.
-Traveler: You are now neither bound to "lovers" nor "foes."
-Traveler: I gazed upon this place as it appeared long ago...
 
 ## Talk 9
 
@@ -112,10 +116,12 @@ Jeht: ...
 Paimon: Jeht... But that day's still far, far away! Right now Jebrael is probably happily... um, not-smiling, because his face is always blank. But Paimon's sure he's happy...
 Jeht: Thanks, Paimon...
 Jeht: #And you too, Traveler. Thanks for walking this path with me, and for fulfilling this willful, cherished desire of mine... But I'd like to have a bit of alone-time with my parents...
-Traveler: I understand.
-Jeht: Yes... Thank you.
-Traveler: Don't forget to come back to us, alright?
-Jeht: Don't worry about me... I'll catch up. Ha. I mean, it isn't my time to settle down here yet, is it?
+    Option 1:
+        Traveler: I understand.
+        Jeht: Yes... Thank you.
+    Option 2:
+        Traveler: Don't forget to come back to us, alright?
+        Jeht: Don't worry about me... I'll catch up. Ha. I mean, it isn't my time to settle down here yet, is it?
 
 ## Talk 13
 
@@ -138,15 +144,20 @@ Liloupar: A mere suggestion on my part, of course. You may take it to be... I do
 
 Jeht: ...
 Jeht: (There she sits in silence, enjoying a pleasant time with her parents.)
-Traveler: (Best not to bother her.)
-Jeht: ...
-Traveler: Let's head back.
-Jeht: If you don't mind, I'd like to stay a while longer... If that's okay with you, I mean.
-Traveler: (Best not to bother her.)
-Jeht: ...
-Traveler: The tribe is waiting on us.
-Jeht: Yeah... Just... Give me some more time.
-Jeht: You go. I'll follow after.
+    Option 1:
+        Traveler: (Best not to bother her.)
+        Jeht: ...
+    Option 2:
+        Traveler: Let's head back.
+        Jeht: If you don't mind, I'd like to stay a while longer... If that's okay with you, I mean.
+        Traveler: (Best not to bother her.)
+        Jeht: ...
+    Option 3:
+        Traveler: Let's head back.
+        Jeht: If you don't mind, I'd like to stay a while longer... If that's okay with you, I mean.
+        Traveler: The tribe is waiting on us.
+        Jeht: Yeah... Just... Give me some more time.
+        Jeht: You go. I'll follow after.
 
 ## Talk 17
 
@@ -206,63 +217,68 @@ Babel: Do not be deceived, child. I have always seen you as one of us. Whatever 
 Jeht: I... Thank you.
 Paimon: Hmm, Paimon feels like we've forgotten to mention some suspicious things we saw...
 Paimon: #Traveler, do you remember seeing anything suspicious?
-Traveler: About the abandoned camps in the canyon...
-Liloupar: You once dispatched other tribespeople into the oasis and left them to perish there. Then, you laid a taboo upon it as a pretext to prevent anyone else from trespassing, did you not?
-Liloupar: Yet, you encouraged us to head deeper into that same treacherous territory, mentioning nothing of your actions. Why did you do this?
-Jeht: ...
-Babel: ...
-Babel: Esteemed Liloupar, allow me to offer my deepest apologies for all the inconveniences and misunderstandings you must have experienced.
-Babel: But you are right. We have been exploring the ruins of Gurabad and the Eternal Oasis for quite some time... I sent many people from the tribe there in times past.
-Babel: That we learned these few key locations and the general layout of the area is all thanks to their efforts...
-Babel: Yet, due to the extreme danger of the missions, a vast majority of those brave explorers never returned, and the efforts from these expeditions bore scarce fruit.
-Babel: Hence, I put a stop to the forays and marked entry into the place as taboo.
-Babel: The traitor, Azariq, once led teams to survey the canyon and the ruins, and so I thought I could trust him to serve as your guide. I did not initially think that he would turn on us...
-Jeht: You... never spoke of this.
-Babel: Because I knew from the start that you would return unharmed. Of all who inherit our legacy, you are the one I trust the most, Jeht.
-Babel: Your fearlessness, your fierceness, your cunning, along with the gentleness and sincerity with which you treat your tribe and friends... They have not gone unnoticed.
-Babel: If my daughter had not been stolen from me by the sands, I like to think that she might've turned out to be like you. Unflinching in the face of all peril, one whom even the desert could not smother...
-Babel: So I believed in you and prayed for you in silence.
-Jeht: ...
-Jeht: ...I'm sorry for doubting you, Matriarch Babel.
-Babel: No. The fault is mine for incurring your doubt and mistrust. It is I who should ask for forgiveness instead.
+    Option 1:
+        Traveler: About the abandoned camps in the canyon...
+        Liloupar: You once dispatched other tribespeople into the oasis and left them to perish there. Then, you laid a taboo upon it as a pretext to prevent anyone else from trespassing, did you not?
+        Liloupar: Yet, you encouraged us to head deeper into that same treacherous territory, mentioning nothing of your actions. Why did you do this?
+        Jeht: ...
+        Babel: ...
+        Babel: Esteemed Liloupar, allow me to offer my deepest apologies for all the inconveniences and misunderstandings you must have experienced.
+        Babel: But you are right. We have been exploring the ruins of Gurabad and the Eternal Oasis for quite some time... I sent many people from the tribe there in times past.
+        Babel: That we learned these few key locations and the general layout of the area is all thanks to their efforts...
+        Babel: Yet, due to the extreme danger of the missions, a vast majority of those brave explorers never returned, and the efforts from these expeditions bore scarce fruit.
+        Babel: Hence, I put a stop to the forays and marked entry into the place as taboo.
+        Babel: The traitor, Azariq, once led teams to survey the canyon and the ruins, and so I thought I could trust him to serve as your guide. I did not initially think that he would turn on us...
+        Jeht: You... never spoke of this.
+        Babel: Because I knew from the start that you would return unharmed. Of all who inherit our legacy, you are the one I trust the most, Jeht.
+        Babel: Your fearlessness, your fierceness, your cunning, along with the gentleness and sincerity with which you treat your tribe and friends... They have not gone unnoticed.
+        Babel: If my daughter had not been stolen from me by the sands, I like to think that she might've turned out to be like you. Unflinching in the face of all peril, one whom even the desert could not smother...
+        Babel: So I believed in you and prayed for you in silence.
+        Jeht: ...
+        Jeht: ...I'm sorry for doubting you, Matriarch Babel.
+        Babel: No. The fault is mine for incurring your doubt and mistrust. It is I who should ask for forgiveness instead.
+    Option 2:
+        Traveler: So, about the traitor's letter...
+        Liloupar: In Azariq and Aderfi's correspondence, it was mentioned that the reason they turned traitor was because you showed favoritism toward Jeht, who is a traitor's daughter in their eyes, and wanted her to serve as inheritor to your duties...
+        Jeht: ...
+        Liloupar: Aside from that, you also seem to be actively culling those who work with those you call the "northerners." Yet, you once relied on these very same traitors to strike deals with said northerners.
+        Liloupar: Now, the jargon of your people eludes my understanding, but I am curious as to what the words you just spoke meant.
+        Babel: ...
+        Babel: Esteemed Liloupar, allow me to offer my deepest apologies for all the inconveniences and misunderstandings you must have experienced.
+        Babel: But the survival and prosperity of the Tanit can only be sustained through multilateral trade. That includes those who hail from the north.
+        Babel: Preoccupied as I was by a multitude of matters surrounding the tribe, I was unable to foresee the treachery these northerners harbored...
+        Babel: Later, I would discover that the dangers they represented far outweighed the benefits they offered... But by then, I could only take to removing the traitors within our tribe that had turned to them first.
+        Babel: This is also why I needed Jeht. Her ability to swiftly and efficiently cleanse the tribe of traitors is unmatched. Additionally, I deeply appreciate her loyalty and capability.
+        Jeht: You... never spoke of this.
+        Babel: Because I knew from the start that you would return unharmed. Of all who inherit our legacy, you are the one I trust the most, Jeht.
+        Babel: Your fearlessness, your fierceness, your cunning, along with the gentleness and sincerity with which you treat your tribe and friends... They have not gone unnoticed.
+        Babel: If my daughter had not been stolen from me by the sands, I like to think that she might've turned out to be like you. Unflinching in the face of all peril, one whom even the desert could not smother...
+        Babel: So I believed in you and prayed for you in silence.
+        Jeht: ...
+        Jeht: ...I'm sorry for doubting you, Matriarch Babel.
+        Babel: No. The fault is mine for incurring your doubt and mistrust. It is I who should ask for forgiveness instead.
 Liloupar: ...
 Liloupar: My apologies as well, my master. It seems that my paranoia got the best of me.
 Babel: #Well, it is good that we all managed to clear the air between us. You are our honored guest, Traveler, and the Tanit will always welcome you.
 Babel: Esteemed Master of the Jinni, whatever you may desire, I will do my utmost to fulfill, if you would only ask.
 Traveler: Anything?
 Babel: Anything.
-Traveler: I'd like to be compensated in Mora.
-Paimon: Yeah! Mora! Mora! That's what we want!
-Babel: Very well, you have earned it indeed. And... I thank you for taking care of Jeht for me.
+    Option 1:
+        Traveler: I'd like to be compensated in Mora.
+        Paimon: Yeah! Mora! Mora! That's what we want!
+        Babel: Very well, you have earned it indeed. And... I thank you for taking care of Jeht for me.
+    Option 2:
+        Traveler: I'd like something commemorative.
+        Paimon: What? We're not going for Mora?
+        Babel: Your friendship with the Tanit is indeed worthy of memorialization. Please accept our meager gift — I hope you shall keep it close to you, never to be discarded.
+    Option 3:
+        Traveler: Just offer a toast on my behalf at Jeht's birthday celebration.
+        Paimon: Yeah! And don't forget to offer one on Paimon's behalf, too!
+        Jeht: Eh? Thank you...
+        Babel: Oh? Is this one of your outsider traditions, then? Very well...
+        Babel: I will bear your good intentions in your stead, then.
 Babel: Alright, don't let us keep you much longer. Again, I thank you for your help, O Master of the Jinni... May it not be long before you visit us again.
 Babel: After all, we will need your guidance... and Liloupar's also.
-Traveler: I'd like something commemorative.
-Paimon: What? We're not going for Mora?
-Babel: Your friendship with the Tanit is indeed worthy of memorialization. Please accept our meager gift — I hope you shall keep it close to you, never to be discarded.
-Traveler: Just offer a toast on my behalf at Jeht's birthday celebration.
-Paimon: Yeah! And don't forget to offer one on Paimon's behalf, too!
-Jeht: Eh? Thank you...
-Babel: Oh? Is this one of your outsider traditions, then? Very well...
-Babel: I will bear your good intentions in your stead, then.
-Traveler: So, about the traitor's letter...
-Liloupar: In Azariq and Aderfi's correspondence, it was mentioned that the reason they turned traitor was because you showed favoritism toward Jeht, who is a traitor's daughter in their eyes, and wanted her to serve as inheritor to your duties...
-Jeht: ...
-Liloupar: Aside from that, you also seem to be actively culling those who work with those you call the "northerners." Yet, you once relied on these very same traitors to strike deals with said northerners.
-Liloupar: Now, the jargon of your people eludes my understanding, but I am curious as to what the words you just spoke meant.
-Babel: ...
-Babel: Esteemed Liloupar, allow me to offer my deepest apologies for all the inconveniences and misunderstandings you must have experienced.
-Babel: But the survival and prosperity of the Tanit can only be sustained through multilateral trade. That includes those who hail from the north.
-Babel: Preoccupied as I was by a multitude of matters surrounding the tribe, I was unable to foresee the treachery these northerners harbored...
-Babel: Later, I would discover that the dangers they represented far outweighed the benefits they offered... But by then, I could only take to removing the traitors within our tribe that had turned to them first.
-Babel: This is also why I needed Jeht. Her ability to swiftly and efficiently cleanse the tribe of traitors is unmatched. Additionally, I deeply appreciate her loyalty and capability.
-Jeht: You... never spoke of this.
-Babel: Because I knew from the start that you would return unharmed. Of all who inherit our legacy, you are the one I trust the most, Jeht.
-Babel: Your fearlessness, your fierceness, your cunning, along with the gentleness and sincerity with which you treat your tribe and friends... They have not gone unnoticed.
-Babel: If my daughter had not been stolen from me by the sands, I like to think that she might've turned out to be like you. Unflinching in the face of all peril, one whom even the desert could not smother...
-Babel: So I believed in you and prayed for you in silence.
-Jeht: ...
-Jeht: ...I'm sorry for doubting you, Matriarch Babel.
-Babel: No. The fault is mine for incurring your doubt and mistrust. It is I who should ask for forgiveness instead.
 
 ## Additional Conversations
 

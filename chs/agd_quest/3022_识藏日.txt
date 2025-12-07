@@ -30,6 +30,7 @@
 ## Talk 7
 
 派蒙: #趁现在好好做一下战斗准备吧，旅行者。
+
 派蒙: 准备好了的话，也可以到四处逛逛，毕竟我们关禁闭的时候错过了很多嘛。
 
 ## Talk 8
@@ -44,11 +45,20 @@
 
 派蒙: 呜哇——不要把我们关起来啊，放我们出去！
 派蒙: 呜哇——
-旅行者: …好了好了，派蒙。
+    Option 1:
+        旅行者: …好了好了，派蒙。
+    Option 2:
+        旅行者: 卫兵应该已经听不见了哦。
 派蒙: 啊，是吗，欸嘿嘿…我好像有点入戏了。我之前的表演是不是很精彩？
-旅行者: 精彩至极。
+    Option 1:
+        旅行者: 精彩至极。
+    Option 2:
+        旅行者: 比我差一点。
 派蒙: 欸嘿，到目前为止行动顺利呢。我们成功来到了禁闭室，艾尔海森刚才也把该做的事情搞定了吧？
-旅行者: 算是有惊无险吧。
+    Option 1:
+        旅行者: 算是有惊无险吧。
+    Option 2:
+        旅行者: 暂时松了一口气。
 派蒙: 连那个大贤者阿扎尔都成功被误导了，艾尔海森的计划真是不得了呢。
 派蒙: 我们接下来是要做什么来着？一紧张我有些记不得了…
 旅行者: 回忆一下「作战会议」的内容吧。
@@ -70,15 +80,16 @@
 艾尔海森: 不过…能否将她唤醒，就要看我们的运气了。
 派蒙: 哦~怪不得看你今天一直戴着虚空终端，这个就是艾尔海森替你改造后的版本吧？
 派蒙: 我还以为关我们进来的时候，会把虚空终端也收走呢，是他们大意了吗？
-旅行者: 不是大意，是学者的自负。
+    Option 1:
+        旅行者: 不是大意，是学者的自负。
+    Option 2:
+        旅行者: 他们觉得，虚空反正被自己所掌控。
 派蒙: 那现在我们要怎么做呢？
-旅行者: 先找到房间内信号最好的位置。
+    Option 1:
+        旅行者: 先找到房间内信号最好的位置。
+    Option 2:
+        旅行者: 再尝试与纳西妲建立连接。
 派蒙: 听起来不是很难呢。时隔这么久，终于又要能和纳西妲说上话了吗…我们抓紧吧！
-旅行者: 再尝试与纳西妲建立连接。
-旅行者: 他们觉得，虚空反正被自己所掌控。
-旅行者: 暂时松了一口气。
-旅行者: 比我差一点。
-旅行者: 卫兵应该已经听不见了哦。
 
 ## Talk 11
 
@@ -115,8 +126,10 @@
 ## Talk 18
 
 派蒙: 欸，这回对了吗？怎么样怎么样？
-旅行者: 好像隐约…可以捕捉到。
-旅行者: 准备进行意识连接了。
+    Option 1:
+        旅行者: 好像隐约…可以捕捉到。
+    Option 2:
+        旅行者: 准备进行意识连接了。
 派蒙: 嗯…一定要顺利呀！
 旅行者: （这里是…意识的空间？）
 旅行者: （纳西妲一动不动，果然已经封闭了自我么…要想办法唤醒她。）
@@ -130,13 +143,7 @@
 旅行者: ——！！
 旅行者: ——！！
 纳西妲: 是从什么时候开始的呢…
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …哦，对了，是从诞生的那一刻就开始了。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 为此而不断学习…
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 渴望追上那个身影。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被禁足在净善宫…
+[Missing Dialog 30221017]
 
 旅行者: 纳西妲！！
 旅行者: （怎么办…难道真的无能为力么？）
@@ -144,9 +151,7 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被�
 旅行者: （博士刚出现的时候，我已经抛下过她一次了，不能再一次…）
 旅行者: 纳西妲——！！
 纳西妲: ……
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 这里…好安静啊。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声吗？
+[Missing Dialog 30221033]
 
 纳西妲: ……
 纳西妲: 这里…好安静啊。
@@ -154,7 +159,7 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声�
 大慈树王 (？？？): 那些问题的答案，从一开始你就知道的吧？
 纳西妲: 你是…谁？谁的声音…好熟悉…
 大慈树王 (？？？): ………………
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说得对。
+[Missing Dialog 30221046]
 
 旅行者: ——！！
 旅行者: ——！！
@@ -168,13 +173,43 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 旅行者: ……
 旅行者: …你早该生气啦。
 派蒙: #欸？你的意识回来啦，旅行者，情况怎么样？
-旅行者: 搞定了。
-旅行者: 纳西妲已经醒了。
+    Option 1:
+        旅行者: 搞定了。
+    Option 2:
+        旅行者: 纳西妲已经醒了。
 派蒙: 好消息呀！真是太好了，我们也算没有白白被关禁闭！
 派蒙: 你去叫醒纳西妲的这会儿，我一直在门那里偷偷听外面的声音…
 派蒙: 学者们来来回回的脚步声已经少了很多，过去这么久，贤者他们应该已经完成「识藏日」的工作了吧？
 旅行者: 罐装知识估计已经录入完毕了。
 派蒙: 嗯，接下来…就要看妮露小姐的出场啦。
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …哦，对了，是从诞生的那一刻就开始了。
+
+[Missing Dialog 30229910]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 为此而不断学习…
+
+[Missing Dialog 30229912]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 渴望追上那个身影。
+
+[Missing Dialog 30229915]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被禁足在净善宫…
+
+[Missing Dialog 30229917]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 这里…好安静啊。
+
+[Missing Dialog 30229920]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声吗？
+
+[Missing Dialog 30229922]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说得对。
+
+[Missing Dialog 30229933]
 
 ## Talk 19
 
@@ -254,15 +289,24 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 
 派蒙: #欸欸，旅行者，你刚刚听到了吗？好像有很多卫兵匆匆跑过去的声音。
 派蒙: 这是计划进展到了下一个阶段的标志吗？
-旅行者: 很有可能。
+    Option 1:
+        旅行者: 很有可能。
+    Option 2:
+        旅行者: 听上去妮露也完成了任务。
 派蒙: 嗯，是呀是呀，能进展顺利就好。
 派蒙: 说起来，艾尔海森是什么时候把即将录入虚空的罐装知识给掉包的呀？
-旅行者: 他装作被神明知识污染的时候…
+    Option 1:
+        旅行者: 他装作被神明知识污染的时候…
+    Option 2:
+        旅行者: 还记得他朝着大贤者扑了上去吗？
 派蒙: 是那个时候啊！
 派蒙: 我当时太紧张，都没有留意到。
 派蒙: 这么说，曾经在奥摩斯港，艾尔海森也是趁大家都很紧张的时候，偷偷拿走了佣兵头子身上的神明罐装知识。
 派蒙: 对他来说可真是屡试不爽的小把戏…
-旅行者: 场面混乱的时候，他比别人要冷静。
+    Option 1:
+        旅行者: 场面混乱的时候，他比别人要冷静。
+    Option 2:
+        旅行者: 所以才能做到这些…
 派蒙: 哼，说着说着怎么夸起他了，他不过是个有一点点聪明，但是非常非常气人的家伙罢了。
 派蒙: 我们还是再回忆一下这个阶段计划的内容吧，反正也没事做，心里也会更踏实些。
 派蒙: 妮露小姐的任务，当初我记得好像是这么安排的…
@@ -288,9 +332,6 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 迪希雅: 只是有点不好意思让她参与这种危险的计划，不过这个就到时候再当面问问她的意见吧。
 艾尔海森: 嗯。等清空了教令院内的安防之后…
 迪希雅: 我知道，接下来就是我和那些「偷渡」兄弟们的工作了，没错吧？
-旅行者: 所以才能做到这些…
-旅行者: 还记得他朝着大贤者扑了上去吗？
-旅行者: 听上去妮露也完成了任务。
 
 ## Talk 32
 
@@ -487,7 +528,10 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 
 派蒙: 唔…到底还要等多久呀，好想知道外面到底怎么样了。
 派蒙: 好像门外已经很久很久都没动静了，该不会有什么意外吧？
-旅行者: 不要去想那些了。
+    Option 1:
+        旅行者: 不要去想那些了。
+    Option 2:
+        旅行者: 信任同伴是最基本的。
 派蒙: 话虽这么说，但难免还是会害怕一辈子被关在这里吧？
 派蒙: 这么一想，至少还有你在，我们还可以这样说说话…
 派蒙: 想到纳西妲一直一个人被关在净善宫，就觉得她真的好可怜…
@@ -499,7 +543,10 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 迪希雅: 啊…不要不要，唯独这个…这个就算了。
 派蒙: 你慌什么呀？难道说你怕痒吗？
 迪希雅: 呃…好啦好啦，不是谈论痒不痒的时候啦…
-旅行者: 外面进展如何了？
+    Option 1:
+        旅行者: 外面进展如何了？
+    Option 2:
+        旅行者: 纳西妲怎么样？
 迪希雅: 城里的状况，还有赛诺那边都很顺利，那些教令院里跑出来的卫兵们已经全部解决掉了。
 迪希雅: 至于负责城防的「三十人团」那边，我们也已经跟阿斯法德先生联络过，他们早就对贤者们的颐指气使忍无可忍了。
 迪希雅: 在不违背雇佣契约的前提下，他们会当做没看到来处理。
@@ -508,12 +555,12 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 迪希雅: 赛诺逼迫他释放小吉祥草王，他也只能照做。
 迪希雅: 所以你们快去净善宫看看吧，不出意外的话…
 迪希雅: …我们已经拯救了神明哦。
-旅行者: 听起来可真了不起。
+    Option 1:
+        旅行者: 听起来可真了不起。
+    Option 2:
+        旅行者: 我们拯救了神明。
 迪希雅: 想不到我们这支临时组建起来拯救神明的队伍，还是很靠谱的嘛。
 迪希雅: 好了你快去吧，城里还有些烂摊子等着我去处理，回头见了。
-旅行者: 我们拯救了神明。
-旅行者: 纳西妲怎么样？
-旅行者: 信任同伴是最基本的。
 
 ## Talk 44
 
@@ -536,14 +583,20 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 旅行者: 终于见面了，纳西妲。
 纳西妲: 嗯。真的谢谢你们大家能来救我，但同时我也要向你们道歉…
 纳西妲: 这段时间里我有在好好反思，是我的妄自菲薄与对教令院的迁就才促成了现在的局面，给你们添了这么多麻烦。
-旅行者: 没关系，你也帮助我们很多。
+    Option 1:
+        旅行者: 没关系，你也帮助我们很多。
+    Option 2:
+        旅行者: 纳西妲值得被拯救。
 派蒙: 是呀，我们是因为纳西妲是一位好神明，是我们的朋友，所以才来到这里的。
 纳西妲: 呵呵…谢谢你们能这么说。
 纳西妲: 呼…这种感觉可真是奇妙，用自己的身体走出牢笼，原来会是这样的心情。
 纳西妲: 好像我刚刚做了一场无比漫长的梦一样，甚至分不清此刻究竟是梦醒，还是说我其实刚刚才诞生在这世界上。
 纳西妲: 关于「我」的概念认知也变得如此清晰…
 纳西妲: 不过，现在好像不是该沉醉于这种感觉的时候呢。
-旅行者: 教令院的造神计划…
+    Option 1:
+        旅行者: 教令院的造神计划…
+    Option 2:
+        旅行者: 拯救世界树…
 纳西妲: 嗯，真是不好意思，明明你们刚拯救了一个神明…现在却又要你们帮忙拯救一个国家，甚至是一个世界了。
 派蒙: 没关系，有纳西妲在，我相信都会解决的！
 纳西妲: 然后还有一件事…
@@ -562,8 +615,6 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 纳西妲: …毕竟，教令院辜负了大慈树王的信任。
 纳西妲: 这可能需要一些时间，在这期间你们也去做一些准备吧…
 纳西妲: 如果我们没来得及阻止造神计划，想必将会面对一场很艰难的战斗。
-旅行者: 拯救世界树…
-旅行者: 纳西妲值得被拯救。
 
 ## Talk 48
 
@@ -581,8 +632,10 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 ### Additional Talk 1
 
 派蒙: 欸，这回对了吗？怎么样怎么样？
-旅行者: 好像隐约…可以捕捉到。
-旅行者: 准备进行意识连接了。
+    Option 1:
+        旅行者: 好像隐约…可以捕捉到。
+    Option 2:
+        旅行者: 准备进行意识连接了。
 派蒙: 嗯…一定要顺利呀！
 旅行者: （这里是…意识的空间？）
 旅行者: （纳西妲一动不动，果然已经封闭了自我么…要想办法唤醒她。）
@@ -596,13 +649,7 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 旅行者: ——！！
 旅行者: ——！！
 纳西妲: 是从什么时候开始的呢…
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …哦，对了，是从诞生的那一刻就开始了。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 为此而不断学习…
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 渴望追上那个身影。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被禁足在净善宫…
+[Missing Dialog 30221017]
 
 旅行者: 纳西妲！！
 旅行者: （怎么办…难道真的无能为力么？）
@@ -610,9 +657,7 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被�
 旅行者: （博士刚出现的时候，我已经抛下过她一次了，不能再一次…）
 旅行者: 纳西妲——！！
 纳西妲: ……
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 这里…好安静啊。
-
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声吗？
+[Missing Dialog 30221033]
 
 纳西妲: ……
 纳西妲: 这里…好安静啊。
@@ -620,7 +665,7 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声�
 大慈树王 (？？？): 那些问题的答案，从一开始你就知道的吧？
 纳西妲: 你是…谁？谁的声音…好熟悉…
 大慈树王 (？？？): ………………
-Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说得对。
+[Missing Dialog 30221046]
 
 旅行者: ——！！
 旅行者: ——！！
@@ -634,27 +679,66 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 旅行者: ……
 旅行者: …你早该生气啦。
 派蒙: #欸？你的意识回来啦，旅行者，情况怎么样？
-旅行者: 搞定了。
-旅行者: 纳西妲已经醒了。
+    Option 1:
+        旅行者: 搞定了。
+    Option 2:
+        旅行者: 纳西妲已经醒了。
 派蒙: 好消息呀！真是太好了，我们也算没有白白被关禁闭！
 派蒙: 你去叫醒纳西妲的这会儿，我一直在门那里偷偷听外面的声音…
 派蒙: 学者们来来回回的脚步声已经少了很多，过去这么久，贤者他们应该已经完成「识藏日」的工作了吧？
 旅行者: 罐装知识估计已经录入完毕了。
 派蒙: 嗯，接下来…就要看妮露小姐的出场啦。
 
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …哦，对了，是从诞生的那一刻就开始了。
+
+[Missing Dialog 30229910]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 为此而不断学习…
+
+[Missing Dialog 30229912]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 渴望追上那个身影。
+
+[Missing Dialog 30229915]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 然而，我却被禁足在净善宫…
+
+[Missing Dialog 30229917]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 这里…好安静啊。
+
+[Missing Dialog 30229920]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): 神明也有心声吗？
+
+[Missing Dialog 30229922]
+
+Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说得对。
+
+[Missing Dialog 30229933]
+
 ### Additional Talk 2
 
 派蒙: #欸欸，旅行者，你刚刚听到了吗？好像有很多卫兵匆匆跑过去的声音。
 派蒙: 这是计划进展到了下一个阶段的标志吗？
-旅行者: 很有可能。
+    Option 1:
+        旅行者: 很有可能。
+    Option 2:
+        旅行者: 听上去妮露也完成了任务。
 派蒙: 嗯，是呀是呀，能进展顺利就好。
 派蒙: 说起来，艾尔海森是什么时候把即将录入虚空的罐装知识给掉包的呀？
-旅行者: 他装作被神明知识污染的时候…
+    Option 1:
+        旅行者: 他装作被神明知识污染的时候…
+    Option 2:
+        旅行者: 还记得他朝着大贤者扑了上去吗？
 派蒙: 是那个时候啊！
 派蒙: 我当时太紧张，都没有留意到。
 派蒙: 这么说，曾经在奥摩斯港，艾尔海森也是趁大家都很紧张的时候，偷偷拿走了佣兵头子身上的神明罐装知识。
 派蒙: 对他来说可真是屡试不爽的小把戏…
-旅行者: 场面混乱的时候，他比别人要冷静。
+    Option 1:
+        旅行者: 场面混乱的时候，他比别人要冷静。
+    Option 2:
+        旅行者: 所以才能做到这些…
 派蒙: 哼，说着说着怎么夸起他了，他不过是个有一点点聪明，但是非常非常气人的家伙罢了。
 派蒙: 我们还是再回忆一下这个阶段计划的内容吧，反正也没事做，心里也会更踏实些。
 派蒙: 妮露小姐的任务，当初我记得好像是这么安排的…
@@ -680,6 +764,3 @@ Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): …不过，你说�
 迪希雅: 只是有点不好意思让她参与这种危险的计划，不过这个就到时候再当面问问她的意见吧。
 艾尔海森: 嗯。等清空了教令院内的安防之后…
 迪希雅: 我知道，接下来就是我和那些「偷渡」兄弟们的工作了，没错吧？
-旅行者: 所以才能做到这些…
-旅行者: 还记得他朝着大贤者扑了上去吗？
-旅行者: 听上去妮露也完成了任务。

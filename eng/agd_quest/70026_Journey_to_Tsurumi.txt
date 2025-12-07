@@ -5,8 +5,12 @@
 
 Katheryne: Hello there, Traveler. We meet again.
 Katheryne: Your recent commission completion record has been stellar indeed. Why, I'd even say you're one of our star adventurers.
-Traveler: You're too kind.
-Katheryne: We of the Inazuma Adventurers' Guild are normally in contact with the other branches throughout Teyvat. As such, there is no need for you to be so humble. Your exploits in Mondstadt and Liyue are known to us.
+    Option 1:
+        Traveler: You're too kind.
+        Katheryne: We of the Inazuma Adventurers' Guild are normally in contact with the other branches throughout Teyvat. As such, there is no need for you to be so humble. Your exploits in Mondstadt and Liyue are known to us.
+    Option 2:
+        Traveler: Alright then, so, what's the job?
+        Katheryne: Haha, you are as direct as they say.
 Katheryne: Actually, we'd like you to consider working on a relatively simple investigation. The area to be investigated is on Tsurumi Island.
 Katheryne: The weather on the island can be considered quite unique, and it is shrouded in fog all year around. However, investigations should still be relatively safe to conduct.
 Katheryne: The Guild normally sends more experienced adventurers to take up this task, but this time, the adventurer we sent canceled the commission soon after arriving on Tsurumi Island.
@@ -14,23 +18,25 @@ Katheryne: He did not elaborate much as to his reasons; he just hurriedly explai
 Katheryne: But after this adventurer forfeited, this commission ended up idling here for quite a while without anyone to take it up. The commissioning party has asked after it several times already...
 Katheryne: Well then, I thought, we should probably send an adventurer with exceptional survival skills and experience, and have them complete this commission.
 Katheryne: That was when you came to mind. So, what do you say, Traveler?
-Traveler: This all seems a little fishy.
-Katheryne: That's an understandable perspective. That the previous adventurer canceled on us was quite unexpected indeed...
-Katheryne: Tsurumi Island is quite far off the beaten track, and the Guild knows precious little about it.
+    Option 1:
+        Traveler: This all seems a little fishy.
+        Katheryne: That's an understandable perspective. That the previous adventurer canceled on us was quite unexpected indeed...
+        Katheryne: Tsurumi Island is quite far off the beaten track, and the Guild knows precious little about it.
+    Option 2:
+        Traveler: Let me consider it...
+        Katheryne: Are you worried that there might be unknown dangers along the way?
+        Katheryne: To be honest, some adventurers did reject this commission on that account as well...
 Katheryne: Well, we can work around this and decrease the commission's requirements a little.
 Katheryne: If you should encounter any particularly pernicious dangers along the way, you can return to ask for help. There's no need to obsess over completing this investigation.
 Katheryne: Ah, yes. By the way, the person who posted this commission appears to be a researcher from the Sumeru Akademiya. He originally intended to investigate the weather on Tsurumi Island, but ran into some problems during the research process.
 Katheryne: That's why he posted this commission. If I'm not mistaken, he has forked out the lion's share of his research grant, so the rewards should be quite sizable...
-Traveler: I'll take it.
+    Option 1:
+        Traveler: I'll take it.
+    Option 2:
+        Traveler: Well, let's give this a go then, shall we?
 Katheryne: Well then, thank you for your willingness to take up this commission. Allow me to show you where to begin.
 Katheryne: Please do stay safe as you investigate, however. I wish you all the best.
 Katheryne: Ad astra abyssosque!
-Traveler: Well, let's give this a go then, shall we?
-Traveler: Let me consider it...
-Katheryne: Are you worried that there might be unknown dangers along the way?
-Katheryne: To be honest, some adventurers did reject this commission on that account as well...
-Traveler: Alright then, so, what's the job?
-Katheryne: Haha, you are as direct as they say.
 
 ## Talk 2
 
@@ -41,26 +47,34 @@ Katheryne: No wonder that previous adventurer looked so upset. They must've been
 Katheryne: ...We should really be informed of such things ahead of time...
 Katheryne: I'm sure that I reminded Mr. Hosseini that he should be honest and clear when stating the details of the commission. How could he do something like this?
 Katheryne: Unclear wording, missing content, it seems that more and more people are writing commissions this way. How are we supposed to give adventurers work like this? Seriously...
-Traveler: Sounds like it's been rough for you...
-Katheryne: I'm alright, at least. I just wish that the people posting commissions would communicate their needs to the Guild more clearly.
+    Option 1:
+        Traveler: Sounds like it's been rough for you...
+        Katheryne: I'm alright, at least. I just wish that the people posting commissions would communicate their needs to the Guild more clearly.
+    Option 2:
+        Traveler: This is part of the whole adventuring process, isn't it?
+        Katheryne: Well, so is my serving as the intermediary between the guild and the people who post our commissions.
 Katheryne: ...My apologies, I spoke out of turn.
 Katheryne: Regardless, I believe that the best and least costly way to solve this is to make contact with the person who submitted this commission directly and explain the situation with the reviving Ruin Grader to him.
 Katheryne: We shall see if he can accept the investigation results as they are and, if he believes that we can continue investigating, whether he has any way of solving the problem or not.
 Katheryne: All I can do is record matters as best as I can. If this commission is to continue, I will do my best to support you all the same.
 Traveler: Got it.
 Katheryne: In that case, I leave the matter of contacting Mr. Hosseini to you.
-Traveler: This is part of the whole adventuring process, isn't it?
-Katheryne: Well, so is my serving as the intermediary between the guild and the people who post our commissions.
 
 ## Talk 3
 
 Hosseini: My research on Tsurumi Island...
-Traveler: Well hello there.
+    Option 1:
+        Traveler: Well hello there.
+    Option 2:
+        Traveler: We meet again.
 Hosseini: Ahh, I just received a status report from the Adventurers' Guild, and was just wondering if the one who had taken the commission up was you. So it was!
 Traveler: This investigation commission...
 Hosseini: *sigh* I know what you're going to say. Miss Katheryne was just haranguing me back there. I told her that I now understand the situation... More or less.
 Hosseini: Would it be correct to say that you encountered a Ruin Grader with regenerative powers at the investigation area?
-Traveler: That's right.
+    Option 1:
+        Traveler: That's right.
+    Option 2:
+        Traveler: And you know nothing about that?
 Hosseini: Well, I have seen that Ruin Grader, but I didn't know that it could revive itself.
 Hosseini: When I came to Inazuma, I was fascinated by the ever-foggy Tsurumi Island. I even went to investigate it personally.
 Hosseini: The mysterious fog that lies over the island is fertile ground for research. However, each one of my attempts to go deeper into the island have ended in abject failure. I haven't made any progress at all...
@@ -82,12 +96,20 @@ Hosseini: Before coming to Inazuma, I did arrange to have a few relics shipped a
 Hosseini: Not long before you came over, my countrymen managed to get them delivered to me.
 Hosseini: Among them are a few ancient tools known as Pursina's Spikes. In theory, they can be used to disrupt the flow of ley line energies, which can be used to cut the flow of power to this anomalous Ruin Grader model.
 Hosseini: Unfortunately, this set of Pursina's Spikes seems a little faulty at the moment. The result of a bumpy voyage, perhaps.
-Traveler: And our solution to this new problem?
+    Option 1:
+        Traveler: And our solution to this new problem?
+    Option 2:
+        Traveler: ...
 Hosseini: Oh, come on, unforeseen circumstances are part and parcel of research, aren't they? We just need to, uh, get used to them...
 Hosseini: So I was thinking, since we both need those Spikes, we can team up to get them repaired.
-Traveler: You know what? I feel used.
-Hosseini: Come now, don't say that. Let's call it an "alignment of objectives" instead, shall we?
-Hosseini: Anyway, I will not do you harm for my own benefit. I will not drag the Akademiya's good name through the mud.
+    Option 1:
+        Traveler: You know what? I feel used.
+        Hosseini: Come now, don't say that. Let's call it an "alignment of objectives" instead, shall we?
+        Hosseini: Anyway, I will not do you harm for my own benefit. I will not drag the Akademiya's good name through the mud.
+    Option 2:
+        Traveler: Are you sure the Spikes will work?
+        Hosseini: Well, I've never actually used Pursina's Spikes before, but their basic principles have been rigorously proven. Things should not go wrong — in theory.
+        Hosseini: Even if you do not believe in me, have faith in the power of science!
 Traveler: Alright, I'll have faith.
 Hosseini: Wonderful! Here's to our partnership, then.
 Hosseini: The key difficulty in maintaining Pursina's Spikes lies in the specific materials used in its components, which makes them quite difficult to mass-produce.
@@ -99,12 +121,6 @@ Hosseini: In sum, Ayesha's Chaos Prospector will notify you when you have discov
 Hosseini: Our most urgent task at the moment is to use it to find components hidden deep underground. Once we've found enough components, the maintenance process can begin.
 Hosseini: This collection work will take several days, but we do need to have patience and to proceed steadily.
 Hosseini: Alright then. If you understand what we need to do, then try putting this glorious machine to work!
-Traveler: Are you sure the Spikes will work?
-Hosseini: Well, I've never actually used Pursina's Spikes before, but their basic principles have been rigorously proven. Things should not go wrong — in theory.
-Hosseini: Even if you do not believe in me, have faith in the power of science!
-Traveler: ...
-Traveler: And you know nothing about that?
-Traveler: We meet again.
 
 ## Talk 4
 

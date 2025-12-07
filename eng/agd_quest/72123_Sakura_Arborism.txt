@@ -6,10 +6,21 @@
 Miyuki: Hmm? Ah, Traveler. What are you doing at a place like this at a moment like this? ...You really are an unlucky one, aren't you.
 Miyuki: If you came here to enjoy the view of the Sakura, now is categorically not the time, so please don't get your hopes up.
 Miyuki: We used to have a lot of visitors coming here for the Sakura, but no one wants to come here these days. Not with all the fighting going on.
-Traveler: I didn't come for the Thunder Sakura.
-Miyuki: Oh, so you just happened to be passing through? In that case, I'd better warn you — the Thunder Sakura have been damaged. I went to inspect them earlier and something about them just didn't seem right.
+    Option 1:
+        Traveler: I didn't come for the Thunder Sakura.
+        Miyuki: Oh, so you just happened to be passing through? In that case, I'd better warn you — the Thunder Sakura have been damaged. I went to inspect them earlier and something about them just didn't seem right.
+    Option 2:
+        Traveler: That's a bummer.
+        Miyuki: It's a little more than a bummer. It's an absolute tragedy! Seeing the damaged condition that the Thunder Sakura are in fills my heart with grief.
+        Miyuki: Also, when I went to inspect them earlier, something about them just didn't seem right.
+    Option 3:
+        Traveler: I didn't come for the Thunder Sakura.
+        Miyuki: Oh, so you just happened to be passing through? In that case, I'd better warn you — the Thunder Sakura have been damaged. I went to inspect them earlier and something about them just didn't seem right.
 Miyuki: Don't get too close to the Thunder Sakura — it could be dangerous. Please, be careful.
-Traveler: What's a Thunder Sakura?
+    Option 1:
+        Traveler: What's a Thunder Sakura?
+    Option 2:
+        Traveler: What's the big deal with Thunder Sakura?
 Miyuki: You don't know the first thing about them, do you? Small wonder, I suppose, since you're not from the shrine.
 Miyuki: You've probably seen the Sacred Sakura at the Grand Narukami Shrine? That's a symbol of the Great Narukami's power. The Great Narukami is eternal, just as the Sacred Sakura will always be in full bloom.
 Miyuki: Beyond the shrine, in Kannazuka, you will find Thunder Sakura. They share a common origin with the Sacred Sakura and possess a similar power, too.
@@ -20,10 +31,6 @@ Miyuki: However, I... Well, to put it bluntly, I'd be hopeless in a fight, and t
 Miyuki: Traveler, I'd like to ask you to investigate their camp and find out what they're up to.
 Miyuki: I initially thought that I'd be more than capable of handling the investigation on my own, but now... it's less straightforward than I'd imagined, so all I can do is ask for your help.
 Miyuki: Thank you, Traveler.
-Traveler: What's the big deal with Thunder Sakura?
-Traveler: That's a bummer.
-Miyuki: It's a little more than a bummer. It's an absolute tragedy! Seeing the damaged condition that the Thunder Sakura are in fills my heart with grief.
-Miyuki: Also, when I went to inspect them earlier, something about them just didn't seem right.
 
 ## Talk 2
 
@@ -40,7 +47,10 @@ Hideaki: As long as we did as they said and opened up a gap in those trees, we c
 Hideaki: Then all we'd need to do was to direct that power into this crystal, and hey presto, we'd have something worth three Tenryou Commission mansions!
 Hideaki: They gave us a huge sum of money, too! Not a sum you small-timers could ever spend in your life!
 Hideaki: If you'll just let me go, I'll give you a share! Ten percent to you, and ninety to us. How's that sound?
-Traveler: Too little, buddy.
+    Option 1:
+        Traveler: Too little, buddy.
+    Option 2:
+        Traveler: Dream on, kiddo.
 Hideaki: What? You know what, I'm done letting you get off easy. Once our buyer gets here, you'll be the one begging for mercy from Lord Hideaki over here!
 Paimon: You sure know how to talk big, eh?
 Hideaki: Listen, you cocky little imp! My brothers are coming here to rescue me any time now.
@@ -48,7 +58,6 @@ Paimon: It doesn't matter who you call or how many. You won't touch a hair on Pa
 Hideaki: Yamada, did you hear that? This little pipsqueak said that you can't hurt her! You gonna take that lying down?
 Paimon: Yamada? Who's that? Traveler, quick!
 Paimon: Eh? There's no one there...
-Traveler: Dream on, kiddo.
 
 ## Talk 3
 
@@ -62,13 +71,15 @@ Miyuki: Ever since the Vision Hunt Decree was promulgated, conflict often breaks
 Miyuki: To quote Lady Miko, "Honors and accolades are all these military types care about." They will not listen to reason.
 Miyuki: We were well prepared for this, but we hadn't expected the Thunder Sakura to be in quite as terrible a condition as they now are...
 Miyuki: Anyway, here and now, the most pressing matter is to put a stop to the Treasure Hoarders' juvenile antics. Traveler, can I entrust this to you?
-Traveler: You got it!
-Miyuki: Please don't get careless. The Thunder Sakura being weakened makes the situation very dangerous indeed. After all, these trees serve to suppress the one who lies beneath...
+    Option 1:
+        Traveler: You got it!
+        Miyuki: Please don't get careless. The Thunder Sakura being weakened makes the situation very dangerous indeed. After all, these trees serve to suppress the one who lies beneath...
+    Option 2:
+        Traveler: Sounds straightforward enough.
+        Miyuki: I fear it may not be as straightforward as you presume. The Thunder Sakura being weakened makes the situation very dangerous indeed. After all, these trees serve to suppress the one who lies beneath...
 Miyuki: Ah, I've said too much... P—Please forget you heard me say that. In short, please exercise extreme caution.
 Miyuki: I also need some time to work through my findings. One major outstanding question is: Who is directing the Treasure Hoarders behind the scenes?
 Miyuki: This case is becoming more and more complicated...
-Traveler: Sounds straightforward enough.
-Miyuki: I fear it may not be as straightforward as you presume. The Thunder Sakura being weakened makes the situation very dangerous indeed. After all, these trees serve to suppress the one who lies beneath...
 
 ## Talk 4
 

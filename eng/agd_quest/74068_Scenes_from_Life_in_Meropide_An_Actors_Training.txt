@@ -37,8 +37,12 @@ Fourmon: Oh, stop it. I'm just trying this out for fun...
 Meilhat: Monsieur Fourmon is very talented! Someday, he may even grace the grand stage of the Opera Epiclese.
 Fourmon: Thanks for the compliment, I... Wait a second, I've already been there! I'm here because that's where I was sentenced!
 Meilhat: #Uh, that's true, I guess. Anyway, Traveler, we're rehearsing a play called "The Countess of Monte-Mer," but we'd like to hear an outside opinion regarding the ending.
-Traveler: I know nothing about theater...
-Meilhat: It's okay. Let me put it this way, plays are meant to entertain the audience. Exciting is exciting, and boring is boring. You don't have to know anything to give your opinion.
+    Option 1:
+        Traveler: I know nothing about theater...
+        Meilhat: It's okay. Let me put it this way, plays are meant to entertain the audience. Exciting is exciting, and boring is boring. You don't have to know anything to give your opinion.
+    Option 2:
+        Traveler: I've got nothing but opinions!
+        Meilhat: There you have it! Usually those who are too willing to give out their opinion aren't quite normal... But it's all right, we need opinions right now, any opinions will do.
 Meilhat: #How about it, Fourmon? Let's put on a little performance for Traveler!
 Fourmon: Ahem... Then let's start from, "Some say that for all evils there are two remedies — time and silence..."
 Black Screen Text: "Some say that for all evils there are two remedies — time and silence."
@@ -70,8 +74,6 @@ Fourmon ("Jerome"): If vengeance will free you, plunge the knife in your hand in
 Fourmon ("Jerome"): Look at my own pitiful state. I know what lies down that road, better than any...
 Meilhat ("Juliette"): How could this be...? Is this perpetually drunk and tortured man a portent of what is to come? I thought I would be free after exacting revenge...
 Meilhat ("Juliette"): But I never expected to see, muddily reflected in the eyes of my nemesis, a sad, lonely face, gradually made desolate by vengeance...
-Traveler: I've got nothing but opinions!
-Meilhat: There you have it! Usually those who are too willing to give out their opinion aren't quite normal... But it's all right, we need opinions right now, any opinions will do.
 
 ## Talk 3
 
@@ -79,24 +81,28 @@ Meilhat: #Okay, Traveler, this is it... This is the part I feel we need to discu
 Meilhat: There are two directions we can go with the plot. One is for Juliette to abort her revenge, and spend the rest of her treasure traveling the world and enjoying life.
 Meilhat: And the other is for her to complete her vengeance, only to realize she still feels empty inside, so she donates all of her wealth to charities, then grows old and dies alone in the place where she first met her fiance.
 Meilhat: So, as the audience, which do you prefer?
-Traveler: Giving up on revenge counts as a kind of freedom...
-Meilhat: Hmm, really?
-Fourmon: See what I mean? Audiences can understand, since Jerome already serves as an example of someone who successfully exacted revenge but still isn't happy.
-Fourmon: "Kill your nemesis and you'll be happy" may sound good, but happiness is created and built, not obtained through destructive means like revenge.
-Fourmon: You don't gain happiness through retribution, only a sinful pleasure. But when that euphoria fades and you can't find another direction in life, it leaves naught but a huge void inside.
-Fourmon: In the process of getting revenge, it's vital that they find another means of redemption beyond vengeance itself!
-Meilhat: Hmm, that does make sense, though I'm still not entirely convinced.
+    Option 1:
+        Traveler: Giving up on revenge counts as a kind of freedom...
+        Meilhat: Hmm, really?
+        Fourmon: See what I mean? Audiences can understand, since Jerome already serves as an example of someone who successfully exacted revenge but still isn't happy.
+        Fourmon: "Kill your nemesis and you'll be happy" may sound good, but happiness is created and built, not obtained through destructive means like revenge.
+        Fourmon: You don't gain happiness through retribution, only a sinful pleasure. But when that euphoria fades and you can't find another direction in life, it leaves naught but a huge void inside.
+        Fourmon: In the process of getting revenge, it's vital that they find another means of redemption beyond vengeance itself!
+        Meilhat: Hmm, that does make sense, though I'm still not entirely convinced.
+    Option 2:
+        Traveler: Of course you've got to complete your vengeance first!
+        Meilhat: #See, see! Traveler and I think alike.
+        Meilhat: Jerome is the linchpin of the whole revenge story. If he doesn't feel the sting of vengeance, it will feel like a complete letdown.
+        Fourmon: Hmm...
+        Meilhat: Making the character just imagine the pain and emptiness is also different from the character actually experiencing the same after doing the deed!
+        Fourmon: That is true...
 Meilhat: #Thanks, Traveler. Your feedback has been most valuable!
 Fourmon: Yes, indeed. After such a discussion, I feel like the conclusion does have some room for improvement. If it can be properly presented...
 Meilhat: #You must come when the play officially premieres, Traveler. There'll be an ending that will exceed your wildest imagination!
-Traveler: R—Really...?
+    Option 1:
+        Traveler: R—Really...?
+    Option 2:
+        Traveler: Exceed my wildest imagination in a good way, or...
 Meilhat: Well, it's still to be finalized, so I don't know, either...
 Fourmon: #Then why would you tell Traveler that!
 Meilhat: #Just call it promotion! Oh, and thank you for the feedback, Traveler. Please take these. Feel free to drop by anytime.
-Traveler: Exceed my wildest imagination in a good way, or...
-Traveler: Of course you've got to complete your vengeance first!
-Meilhat: #See, see! Traveler and I think alike.
-Meilhat: Jerome is the linchpin of the whole revenge story. If he doesn't feel the sting of vengeance, it will feel like a complete letdown.
-Fourmon: Hmm...
-Meilhat: Making the character just imagine the pain and emptiness is also different from the character actually experiencing the same after doing the deed!
-Fourmon: That is true...

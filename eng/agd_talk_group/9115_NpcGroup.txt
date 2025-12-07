@@ -10,13 +10,15 @@ Dahlia: Looks like you've got plenty of space! It feels a little empty though. E
 Traveler: How do you like it here?
 Dahlia: I like it a lot. Couldn't think of a better place to say my prayers!
 Dahlia: I haven't found a drinking spot just yet, though. Don't suppose I could persuade you to build a bar here?
-Traveler: Is it... okay for a deacon to drink so much?
-Dahlia: Barbatos brought us seeds and rain on a gentle breeze, so to show our gratitude, we brewed wine from his generous gifts.
-Dahlia: Good wine is not only a blessing from the Anemo Archon — it's a symbol of Mondstadt itself.
-Dahlia: Given all this, as a member of the Church of Favonius, it'd be far more improper of me to abstain entirely. Wouldn't you agree?
-Traveler: Ooh, great idea!
-Dahlia: Wonderful! I know plenty of tavern owners, so leave the drinks procurement to me...
-Dahlia: Oh, and how about a bard to liven things up a little? I know just the right person.
+    Option 1:
+        Traveler: Is it... okay for a deacon to drink so much?
+        Dahlia: Barbatos brought us seeds and rain on a gentle breeze, so to show our gratitude, we brewed wine from his generous gifts.
+        Dahlia: Good wine is not only a blessing from the Anemo Archon — it's a symbol of Mondstadt itself.
+        Dahlia: Given all this, as a member of the Church of Favonius, it'd be far more improper of me to abstain entirely. Wouldn't you agree?
+    Option 2:
+        Traveler: Ooh, great idea!
+        Dahlia: Wonderful! I know plenty of tavern owners, so leave the drinks procurement to me...
+        Dahlia: Oh, and how about a bard to liven things up a little? I know just the right person.
 
 ## Talk 2
 
@@ -32,36 +34,48 @@ Dahlia: As the holidays approached, both husband and wife hoped to surprise each
 Dahlia: As you may have guessed, the husband wished to present his wife with a greenhouse of her own. However, being of modest means, his only way to secure the necessary funds was by selling off his sword.
 Dahlia: The wife, on the other hand, wished to give her husband an exquisitely crafted sheath to go with his sword. Like her husband, she could only achieve this by selling away her most prized possession.
 Dahlia: Both of them came to ask me if they should make the sacrifice. Which would you have advised to go through with it?
-Traveler: The husband?
-Dahlia: Mm. The quality of a knight's own swordsmanship is indeed far more important than that of their sword. So he should accept the loss and help his wife fulfill her dream.
-Dahlia: Still, if his wife ever learned that he had traded in his treasure for her dream, would she really be pleased to accept the gift?
-Dahlia: After all, you can always grow new flowers, even rare ones. But his sword was truly one of a kind.
+    Option 1:
+        Traveler: The husband?
+        Dahlia: Mm. The quality of a knight's own swordsmanship is indeed far more important than that of their sword. So he should accept the loss and help his wife fulfill her dream.
+        Dahlia: Still, if his wife ever learned that he had traded in his treasure for her dream, would she really be pleased to accept the gift?
+        Dahlia: After all, you can always grow new flowers, even rare ones. But his sword was truly one of a kind.
+    Option 2:
+        Traveler: The wife?
+        Dahlia: Ah, yes. Even though she would no longer be able to tend to her beloved flower, she could be sure that it would continue to flourish.
+        Dahlia: It could still thrive under the care of a fellow master, while her husband's long-time wish would finally be fulfilled.
+        Dahlia: Still, if her husband ever learned that she had traded in her finest work to grant his wish, would he really be pleased to accept the gift?
+        Dahlia: His wife had devoted years of her life to the cultivation of that flower, while the sword was simply something he'd inherited from his father. In other words, he'd done nothing to earn it.
 Dahlia: In either case, you could argue that trading in their treasure would be a huge mistake. There was no way to do them both justice.
 Traveler: So did you end up turning them both away?
 Dahlia: And ask them to hide their affection? Now, why would I do that? That would only have led to regret. No, this was a rare opportunity to encourage a pair of lovers to break the day-to-day monotony, embrace the festive spirit, and do something truly romantic!
 Traveler: So... What did you do?
 Dahlia: Isn't it obvious? I encouraged both of them to make the trade-off!
-Traveler: ...What!?
-Dahlia: I suppose you think I gave them even more cause for regret, huh?
-Dahlia: Quite the opposite... If their real goal was to show the other how much they cared, then neither the sword nor the flower truly mattered.
+    Option 1:
+        Traveler: ...What!?
+        Dahlia: I suppose you think I gave them even more cause for regret, huh?
+        Dahlia: Quite the opposite... If their real goal was to show the other how much they cared, then neither the sword nor the flower truly mattered.
+    Option 2:
+        Traveler: Wow, what a stroke of genius!
+        Dahlia: #You get me, Traveler! Neither object was all that important in comparison to a person's love for their partner.
 Dahlia: Just imagine the scene when they finally exchanged gifts with each other. I'm sure that made for a festival that neither one of them will ever forget.
-Traveler: Wow, what a stroke of genius!
-Dahlia: #You get me, Traveler! Neither object was all that important in comparison to a person's love for their partner.
-Traveler: The wife?
-Dahlia: Ah, yes. Even though she would no longer be able to tend to her beloved flower, she could be sure that it would continue to flourish.
-Dahlia: It could still thrive under the care of a fellow master, while her husband's long-time wish would finally be fulfilled.
-Dahlia: Still, if her husband ever learned that she had traded in her finest work to grant his wish, would he really be pleased to accept the gift?
-Dahlia: His wife had devoted years of her life to the cultivation of that flower, while the sword was simply something he'd inherited from his father. In other words, he'd done nothing to earn it.
 
 ## Talk 3
 
 Traveler: Anything you'd like to do?
 Dahlia: Hmm... Wanna join me in some choir practice?
-Traveler: Sounds like something I'd be good at!
-Dahlia: Just so you know, in choir singing, there's no "I," only "we." The goal is perfect harmony, like how the sounds of the world all blend seamlessly into the wind.
-Dahlia: Still, self-confidence is important. Newcomers to the choir are often too shy or afraid to sing.
+    Option 1:
+        Traveler: Sounds like something I'd be good at!
+        Dahlia: Just so you know, in choir singing, there's no "I," only "we." The goal is perfect harmony, like how the sounds of the world all blend seamlessly into the wind.
+        Dahlia: Still, self-confidence is important. Newcomers to the choir are often too shy or afraid to sing.
+    Option 2:
+        Traveler: What if I can't carry a tune?
+        Dahlia: Haha, no problem at all!
+        Dahlia: None of our hymns are technically difficult. I'm sure you'll be able to find your voice as long as you put some genuine emotion into it.
 Dahlia: Why don't we do some vocal warm-ups? Here, like so...
-Traveler: That was fantastic.
+    Option 1:
+        Traveler: That was fantastic.
+    Option 2:
+        Traveler: Ever thought about making your own debut as an idol?
 Dahlia: I did give it some serious thought, but ended up deciding against it.
 Traveler: Oh? Why?
 Dahlia: Idols have to be able to greet their fans with energy and enthusiasm. Being kind by nature, Barbara is always happy to oblige...
@@ -73,10 +87,6 @@ Dahlia: Wait, do YOU want to be an idol? We still don't have an idol from the Kn
 Dahlia: Just leave the voice lessons to me. You'll be ready to make your debut in no time!
 Traveler: Uh, think I'll pass...
 Dahlia: Aww, what's the harm in trying? Come on, just follow my lead...
-Traveler: Ever thought about making your own debut as an idol?
-Traveler: What if I can't carry a tune?
-Dahlia: Haha, no problem at all!
-Dahlia: None of our hymns are technically difficult. I'm sure you'll be able to find your voice as long as you put some genuine emotion into it.
 
 ## Talk 4
 
@@ -93,13 +103,15 @@ Dahlia: Good night. I just finished my evening prayers — may your dreams tonig
 Traveler: How do you like it here?
 Dahlia: I like it a lot. Couldn't think of a better place to say my prayers!
 Dahlia: I haven't found a drinking spot just yet, though. Don't suppose I could persuade you to build a bar here?
-Traveler: Is it... okay for a deacon to drink so much?
-Dahlia: Barbatos brought us seeds and rain on a gentle breeze, so to show our gratitude, we brewed wine from his generous gifts.
-Dahlia: Good wine is not only a blessing from the Anemo Archon — it's a symbol of Mondstadt itself.
-Dahlia: Given all this, as a member of the Church of Favonius, it'd be far more improper of me to abstain entirely. Wouldn't you agree?
-Traveler: Ooh, great idea!
-Dahlia: Wonderful! I know plenty of tavern owners, so leave the drinks procurement to me...
-Dahlia: Oh, and how about a bard to liven things up a little? I know just the right person.
+    Option 1:
+        Traveler: Is it... okay for a deacon to drink so much?
+        Dahlia: Barbatos brought us seeds and rain on a gentle breeze, so to show our gratitude, we brewed wine from his generous gifts.
+        Dahlia: Good wine is not only a blessing from the Anemo Archon — it's a symbol of Mondstadt itself.
+        Dahlia: Given all this, as a member of the Church of Favonius, it'd be far more improper of me to abstain entirely. Wouldn't you agree?
+    Option 2:
+        Traveler: Ooh, great idea!
+        Dahlia: Wonderful! I know plenty of tavern owners, so leave the drinks procurement to me...
+        Dahlia: Oh, and how about a bard to liven things up a little? I know just the right person.
 
 ## Talk 7
 
@@ -115,36 +127,48 @@ Dahlia: As the holidays approached, both husband and wife hoped to surprise each
 Dahlia: As you may have guessed, the husband wished to present his wife with a greenhouse of her own. However, being of modest means, his only way to secure the necessary funds was by selling off his sword.
 Dahlia: The wife, on the other hand, wished to give her husband an exquisitely crafted sheath to go with his sword. Like her husband, she could only achieve this by selling away her most prized possession.
 Dahlia: Both of them came to ask me if they should make the sacrifice. Which would you have advised to go through with it?
-Traveler: The husband?
-Dahlia: Mm. The quality of a knight's own swordsmanship is indeed far more important than that of their sword. So he should accept the loss and help his wife fulfill her dream.
-Dahlia: Still, if his wife ever learned that he had traded in his treasure for her dream, would she really be pleased to accept the gift?
-Dahlia: After all, you can always grow new flowers, even rare ones. But his sword was truly one of a kind.
+    Option 1:
+        Traveler: The husband?
+        Dahlia: Mm. The quality of a knight's own swordsmanship is indeed far more important than that of their sword. So he should accept the loss and help his wife fulfill her dream.
+        Dahlia: Still, if his wife ever learned that he had traded in his treasure for her dream, would she really be pleased to accept the gift?
+        Dahlia: After all, you can always grow new flowers, even rare ones. But his sword was truly one of a kind.
+    Option 2:
+        Traveler: The wife?
+        Dahlia: Ah, yes. Even though she would no longer be able to tend to her beloved flower, she could be sure that it would continue to flourish.
+        Dahlia: It could still thrive under the care of a fellow master, while her husband's long-time wish would finally be fulfilled.
+        Dahlia: Still, if her husband ever learned that she had traded in her finest work to grant his wish, would he really be pleased to accept the gift?
+        Dahlia: His wife had devoted years of her life to the cultivation of that flower, while the sword was simply something he'd inherited from his father. In other words, he'd done nothing to earn it.
 Dahlia: In either case, you could argue that trading in their treasure would be a huge mistake. There was no way to do them both justice.
 Traveler: So did you end up turning them both away?
 Dahlia: And ask them to hide their affection? Now, why would I do that? That would only have led to regret. No, this was a rare opportunity to encourage a pair of lovers to break the day-to-day monotony, embrace the festive spirit, and do something truly romantic!
 Traveler: So... What did you do?
 Dahlia: Isn't it obvious? I encouraged both of them to make the trade-off!
-Traveler: ...What!?
-Dahlia: I suppose you think I gave them even more cause for regret, huh?
-Dahlia: Quite the opposite... If their real goal was to show the other how much they cared, then neither the sword nor the flower truly mattered.
+    Option 1:
+        Traveler: ...What!?
+        Dahlia: I suppose you think I gave them even more cause for regret, huh?
+        Dahlia: Quite the opposite... If their real goal was to show the other how much they cared, then neither the sword nor the flower truly mattered.
+    Option 2:
+        Traveler: Wow, what a stroke of genius!
+        Dahlia: #You get me, Traveler! Neither object was all that important in comparison to a person's love for their partner.
 Dahlia: Just imagine the scene when they finally exchanged gifts with each other. I'm sure that made for a festival that neither one of them will ever forget.
-Traveler: Wow, what a stroke of genius!
-Dahlia: #You get me, Traveler! Neither object was all that important in comparison to a person's love for their partner.
-Traveler: The wife?
-Dahlia: Ah, yes. Even though she would no longer be able to tend to her beloved flower, she could be sure that it would continue to flourish.
-Dahlia: It could still thrive under the care of a fellow master, while her husband's long-time wish would finally be fulfilled.
-Dahlia: Still, if her husband ever learned that she had traded in her finest work to grant his wish, would he really be pleased to accept the gift?
-Dahlia: His wife had devoted years of her life to the cultivation of that flower, while the sword was simply something he'd inherited from his father. In other words, he'd done nothing to earn it.
 
 ## Talk 8
 
 Traveler: Anything you'd like to do?
 Dahlia: Hmm... Wanna join me in some choir practice?
-Traveler: Sounds like something I'd be good at!
-Dahlia: Just so you know, in choir singing, there's no "I," only "we." The goal is perfect harmony, like how the sounds of the world all blend seamlessly into the wind.
-Dahlia: Still, self-confidence is important. Newcomers to the choir are often too shy or afraid to sing.
+    Option 1:
+        Traveler: Sounds like something I'd be good at!
+        Dahlia: Just so you know, in choir singing, there's no "I," only "we." The goal is perfect harmony, like how the sounds of the world all blend seamlessly into the wind.
+        Dahlia: Still, self-confidence is important. Newcomers to the choir are often too shy or afraid to sing.
+    Option 2:
+        Traveler: What if I can't carry a tune?
+        Dahlia: Haha, no problem at all!
+        Dahlia: None of our hymns are technically difficult. I'm sure you'll be able to find your voice as long as you put some genuine emotion into it.
 Dahlia: Why don't we do some vocal warm-ups? Here, like so...
-Traveler: That was fantastic.
+    Option 1:
+        Traveler: That was fantastic.
+    Option 2:
+        Traveler: Ever thought about making your own debut as an idol?
 Dahlia: I did give it some serious thought, but ended up deciding against it.
 Traveler: Oh? Why?
 Dahlia: Idols have to be able to greet their fans with energy and enthusiasm. Being kind by nature, Barbara is always happy to oblige...
@@ -156,10 +180,6 @@ Dahlia: Wait, do YOU want to be an idol? We still don't have an idol from the Kn
 Dahlia: Just leave the voice lessons to me. You'll be ready to make your debut in no time!
 Traveler: Uh, think I'll pass...
 Dahlia: Aww, what's the harm in trying? Come on, just follow my lead...
-Traveler: Ever thought about making your own debut as an idol?
-Traveler: What if I can't carry a tune?
-Dahlia: Haha, no problem at all!
-Dahlia: None of our hymns are technically difficult. I'm sure you'll be able to find your voice as long as you put some genuine emotion into it.
 
 ## Talk 9
 

@@ -7,18 +7,22 @@ Viktor: Hello, Traveler. You couldn't have come at a better time.
 Traveler: How's your wood carving going?
 Viktor: Uh... Mr. Vsevolod found out that I've been carving wood in secret...
 Viktor: But he didn't really get angry about it. He just told me to stay focused while I'm at work... He even asked me for a wood carving of a bunny.
-Traveler: Does he have a child to cajole too?
+    Option 1:
+        Traveler: Does he have a child to cajole too?
+    Option 2:
+        Traveler: You Fatui are real children at heart, aren't you...
 Viktor: Mr. Vsevolod said that my wood carvings have a strong Snezhnayan style, and that he really likes them.
 Viktor: I've heard that Mr. Vsevolod's orders have kept him from going home to his family in Snezhnaya for a very long time now.
 Viktor: I think he might really be homesick, unlike me...
 Viktor: *sigh* Let's stop here. Traveler, I've ordered another batch of wood from Hamawi. Please help me take a look at how it's going.
-Traveler: Just get the payment ready.
-Viktor: Don't worry, I've prepared real currency for you this time.
-Traveler: Don't you want to return to Snezhnaya?
-Viktor: It's not that bad for me... I don't have any relatives in Snezhnaya, and I'm used to traveling. It's quite comfortable here in Sumeru too...
-Viktor: I only spoke about returning to Snezhnaya because it was too boring in Mondstadt... *cough*!
-Viktor: Anyway, I'm leaving this to you. I'll have your payment ready.
-Traveler: You Fatui are real children at heart, aren't you...
+    Option 1:
+        Traveler: Just get the payment ready.
+        Viktor: Don't worry, I've prepared real currency for you this time.
+    Option 2:
+        Traveler: Don't you want to return to Snezhnaya?
+        Viktor: It's not that bad for me... I don't have any relatives in Snezhnaya, and I'm used to traveling. It's quite comfortable here in Sumeru too...
+        Viktor: I only spoke about returning to Snezhnaya because it was too boring in Mondstadt... *cough*!
+        Viktor: Anyway, I'm leaving this to you. I'll have your payment ready.
 
 ## Talk 2
 
@@ -67,13 +71,15 @@ Viktor: Never mind. The wood got here, and that's what counts.
 Viktor: Oh, right. Here's the payment I promised you. Make sure to tally it up.
 Viktor: Uh, by the way... Um, is Lily doing well?
 Viktor: I didn't say goodbye to her before I left. I hope she isn't angry...
-Traveler: She's doing really well.
-Viktor: Alright. *cough*... Don't look at me like that. I was just a little concerned!
+    Option 1:
+        Traveler: She's doing really well.
+        Viktor: Alright. *cough*... Don't look at me like that. I was just a little concerned!
+    Option 2:
+        Traveler: Go back and visit her yourself, then.
+        Viktor: Mr. Vsevolod will give me a real hiding if I do that, so forget it.
+        Viktor: I don't quite dare to send a letter directly either.
+        Viktor: Receiving a letter from a Fatuus sounds like a bad thing. Hahaha...
 Viktor: Anyway, make sure you tally your remuneration, Traveler. I prepared the exact amount.
-Traveler: Go back and visit her yourself, then.
-Viktor: Mr. Vsevolod will give me a real hiding if I do that, so forget it.
-Viktor: I don't quite dare to send a letter directly either.
-Viktor: Receiving a letter from a Fatuus sounds like a bad thing. Hahaha...
 
 ## Talk 8
 
@@ -81,23 +87,31 @@ Viktor: Traveler, perfect timing! Come over here and help me with something.
 Traveler: What are you up to now?
 Viktor: I'm trying to make a dish from Sumeru using Snezhnayan cooking methods.
 Viktor: But I don't recognize many spices from Sumeru, so I'm having to do it slowly by trial and error...
-Traveler: Is this a Fatuus' job too?
-Viktor: Uh... Inspecting the quality of spices is within the scope of my job, of course.
+    Option 1:
+        Traveler: Is this a Fatuus' job too?
+        Viktor: Uh... Inspecting the quality of spices is within the scope of my job, of course.
+    Option 2:
+        Traveler: You sure seem happy about all this...
+        Viktor: Huh? Uh... Sort of? I wouldn't consider it out of the ordinary. I go to work every day, after all.
 Viktor: But let's get back to business. Because my... work schedule for inspecting the quality of spices has been too tight, the spices are consumed rapidly.
 Viktor: After some discussions with Mr. Vsevolod, we've decided to commission Mr. Lambad to purchase spices for us.
 Viktor: We're regulars at Mr. Lambad's tavern, so we trust his judgment.
 Viktor: Traveler, please help me ask Mr. Lambad about how the purchase of spices is going.
 Viktor: Besides that... Ask him if he has any good food ready. It's almost mealtime...
-Traveler: Alright.
+    Option 1:
+        Traveler: Alright.
+    Option 2:
+        Traveler: You just wanted food, right?
+        Viktor: It's part of my job! Am I the kind of person who neglects his job and only thinks about food? Trust me, alright?
+    Option 3:
+        Traveler: Alright.
 Viktor: Unfortunately, Mr. Vsevolod is always away for work, or I would have introduced you to him.
-Traveler: I don't want to get to know a Fatuus.
+    Option 1:
+        Traveler: I don't want to get to know a Fatuus.
+    Option 2:
+        Traveler: I don't want to join the Fatui.
 Viktor: We'd just be saying hello. We aren't high-ranking Fatui, we just manage logistics. What kind of trouble could we possibly bring you?
 Viktor: Anyway, I'll be leaving this to you, Traveler.
-Traveler: I don't want to join the Fatui.
-Traveler: You just wanted food, right?
-Viktor: It's part of my job! Am I the kind of person who neglects his job and only thinks about food? Trust me, alright?
-Traveler: You sure seem happy about all this...
-Viktor: Huh? Uh... Sort of? I wouldn't consider it out of the ordinary. I go to work every day, after all.
 
 ## Talk 9
 
@@ -133,11 +147,13 @@ Viktor: So, what did Lambad say?
 Black Screen Text: You tell Viktor what happened...
 Viktor: Lambad really is a reliable boss and a really nice person.
 Viktor: Unlike the others who instinctively become wary of us when they find out that we're Fatui.
-Traveler: That's your own fault, alright?
+    Option 1:
+        Traveler: That's your own fault, alright?
+    Option 2:
+        Traveler: It's the Fatui's fault that things are like that...
 Viktor: Oh, it smells really good. I bet Vsevolod would like it too.
 Traveler: Seriously...
 Viktor: And here's the payment I promised you. Tally it up if you have to.
-Traveler: It's the Fatui's fault that things are like that...
 
 ## Talk 15
 
@@ -149,11 +165,17 @@ Viktor: Why are these spices so expensive?
 Traveler: Have you not bought the spices yet?
 Viktor: Traveler! You're finally here. Uh... I have a question for you...
 Viktor: D—Do you have any Windwheel Aster?
-Traveler: Why are you suddenly asking that?
+    Option 1:
+        Traveler: Why are you suddenly asking that?
+    Option 2:
+        Traveler: What do you need Windwheel Aster for?
 Viktor: Remember how I was busy with the spices? I heard Lambad mention something called a "sachet" during our discussion.
 Viktor: To be specific, various flowers are dried in a small cloth pouch, some even sprinkle a dash of perfume on it...
 Viktor: So, they tell me that ladies are really fond of these "sachets"...
-Traveler: I never expected this from you, Viktor...
+    Option 1:
+        Traveler: I never expected this from you, Viktor...
+    Option 2:
+        Traveler: You're really planning on settling down in Sumeru, huh?
 Viktor: N—No! What are you talking about? Don't you remember that we spoke about sending Lily a letter?
 Viktor: After giving it a lot of thought, I've decided to write Lily a letter. Leaving without saying goodbye was a terrible decision...
 Viktor: Of course, making a sachet is absolutely beyond me, nor do I have enough materials. That's why I asked Jut to gather the materials for me.
@@ -161,17 +183,17 @@ Viktor: But I couldn't afford the spices in his shop... So, I offered him "equiv
 Viktor: Simply put, I'll give him rare plants in exchange for him helping me to gather rare spices.
 Viktor: I promised Jut that I'd get him a Windwheel Aster, but I can't return to Mondstadt right now...
 Viktor: So, Traveler, could you help me with this?
-Traveler: Just get my payment ready.
-Viktor: No problem. There'll be enough to go around, believe me!
+    Option 1:
+        Traveler: Just get my payment ready.
+        Viktor: No problem. There'll be enough to go around, believe me!
+    Option 2:
+        Traveler: Is this another one of the Fatui's plans?
+        Viktor: Of course not. Mr. Vsevolod would have asked for funding if it were. Why would I even have to ask for your help then?
+        Viktor: Anyway, I'm trying to get away from the Fatui now, so I don't care about any of their plans.
+        Viktor: I've had enough of being suspected all the time...
+        Viktor: Oh, don't tell anyone about this, or they'll call me in for a little... chat...
 Viktor: I'm counting on you. I'll be waiting for you here.
 Viktor: But how should I start my letter to Lily?
-Traveler: Is this another one of the Fatui's plans?
-Viktor: Of course not. Mr. Vsevolod would have asked for funding if it were. Why would I even have to ask for your help then?
-Viktor: Anyway, I'm trying to get away from the Fatui now, so I don't care about any of their plans.
-Viktor: I've had enough of being suspected all the time...
-Viktor: Oh, don't tell anyone about this, or they'll call me in for a little... chat...
-Traveler: You're really planning on settling down in Sumeru, huh?
-Traveler: What do you need Windwheel Aster for?
 
 ## Talk 17
 
@@ -210,7 +232,10 @@ Vsevolod: Hello Traveler. Actually, I've already learned about you through vario
 Vsevolod: Looks like you and us the Fatui are meant to meet.
 Vsevolod: Viktor told me that you refused to join the Fatui in Mondstadt.
 Vsevolod: I don't know if that's still your choice?
-Traveler: Yes.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: I refuse to join the Fatui.
 Viktor: Sir, this traveler actually is...
 Vsevolod: That's enough Viktor. I won't have any feelings about the Traveler's choice.
 Vsevolod: On the contrary... I respect those who stick to their choice and see it through.
@@ -218,7 +243,6 @@ Traveler: I stand by my decision.
 Vsevolod: I have no doubt about that.
 Vsevolod: If you would excuse me, I have other errands to run.
 Vsevolod: Hehe... I deeply believe that sooner or later we will have a chance to work together, Traveler.
-Traveler: I refuse to join the Fatui.
 
 ### Additional Talk 2
 
@@ -241,7 +265,10 @@ Vsevolod: Hello Traveler. Actually, I've already learned about you through vario
 Vsevolod: Looks like you and us the Fatui are meant to meet.
 Vsevolod: Viktor told me that you refused to join the Fatui in Mondstadt.
 Vsevolod: I don't know if that's still your choice?
-Traveler: Yes.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: I refuse to join the Fatui.
 Viktor: Sir, this traveler actually is...
 Vsevolod: That's enough Viktor. I won't have any feelings about the Traveler's choice.
 Vsevolod: On the contrary... I respect those who stick to their choice and see it through.
@@ -249,7 +276,6 @@ Traveler: I stand by my decision.
 Vsevolod: I have no doubt about that.
 Vsevolod: If you would excuse me, I have other errands to run.
 Vsevolod: Hehe... I deeply believe that sooner or later we will have a chance to work together, Traveler.
-Traveler: I refuse to join the Fatui.
 
 ### Additional Talk 3
 
@@ -266,7 +292,10 @@ Vsevolod: Mmm, hello Traveler. Actually, I've already learned about you through 
 Vsevolod: Looks like you and us the Fatui are meant to meet.
 Vsevolod: Viktor told me that you refused to join the Fatui in Mondstadt.
 Vsevolod: I don't know if that's still your choice?
-Traveler: Yes.
+    Option 1:
+        Traveler: Yes.
+    Option 2:
+        Traveler: I refuse to join the Fatui.
 Viktor: Sir, this traveler actually is...
 Vsevolod: That's enough Viktor. I won't have any feelings about the Traveler's choice.
 Vsevolod: More than that... I respect those who stick to their choice and see it through.
@@ -274,4 +303,3 @@ Traveler: I stand by my decision.
 Vsevolod: I have no doubt about that.
 Vsevolod: If you would excuse me, I have other errands to run.
 Vsevolod: Hehe... I deeply believe that sooner or later we will have a chance to work together, traveler.
-Traveler: I refuse to join the Fatui.

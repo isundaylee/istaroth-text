@@ -11,7 +11,10 @@ Abagnale: Now that he's back, I'm sure the Gardes who worked on his case back in
 Charlotte: Couldn't agree more! As a journalist, I'm gonna get a lot of mileage out of this one!
 Charlotte: Thank you, Sir, for your time. Now, whom should I interview next... Huh!? Hey, what a coincidence. Fancy meeting you here!
 Charlotte: Perfect timing. So, The Phantom Weasel's latest warning letter — what are your thoughts?
-Traveler: "Phantom Weasel"?
+    Option 1:
+        Traveler: "Phantom Weasel"?
+    Option 2:
+        Traveler: "Warning letter"?
 Paimon: Yeah, this is the first time we're hearing of this one. Could you clue us in?
 Charlotte: Huh? Oh... Ah, sorry! Yes, this case is from a decade ago. I guess you wouldn't know about it...
 Charlotte: Well, not to worry — you're in good hands, because I'm a professional! The story goes like this...
@@ -32,8 +35,12 @@ Paimon: "Three days from now, when evening falls, I shall take from you that whi
 Charlotte: This is, without a doubt, a clear declaration of criminal intent. After years of laying low, The Phantom Weasel is back with a vengeance!
 Charlotte: What once seemed like an open-and-shut case has been blown wide open again. But why has he re-emerged now, and what does he want? I sense an epic scoop — and I'm going for it!
 Paimon: Uh-oh... If this thief will steal anything that other people value, does that mean even we might be targeted?
-Traveler: He might steal all your favorite snacks.
-Paimon: Really? Hmph, let him try! In fact... Paimon's gonna eat all her snacks right now — let's see what he can do about that!
+    Option 1:
+        Traveler: He might steal all your favorite snacks.
+        Paimon: Really? Hmph, let him try! In fact... Paimon's gonna eat all her snacks right now — let's see what he can do about that!
+    Option 2:
+        Traveler: He might try to nab you, little Paimon.
+        Paimon: Aww... But Paimon doesn't wanna get kidnapped... Well, he'd have to go through you first. ...You would stop him, right?
 Charlotte: Okay, the people have spoken. It's clear that the public are very concerned about The Phantom Weasel's reappearance...
 Charlotte: Let's see, I've got a photo of the letter, my interview notes... Yup, that should be enough to form the skeleton of my article. It does feel like something is missing, though...
 Charlotte: Something... exclusive.
@@ -44,9 +51,6 @@ Charlotte: Magic... Magician... Cesar... The Phantom Weasel! That's it! Let's go
 Charlotte: You see? The original phantom thief, Cesar, was a magician too. And what do phantom thieves and magicians have in common? They both have an air of mystery about them! Perhaps there's a connection there?
 Paimon: Are you serious? What sort of a deduction is that!?
 Charlotte: Oh, relax... My journalistic instinct tells me that an exclusive news story is beckoning. Let's go — no time for delay!
-Traveler: He might try to nab you, little Paimon.
-Paimon: Aww... But Paimon doesn't wanna get kidnapped... Well, he'd have to go through you first. ...You would stop him, right?
-Traveler: "Warning letter"?
 
 ## Talk 2
 
@@ -111,19 +115,23 @@ Paimon: So, Lyney... Are you gonna tell us how you did that flower trick now?
 Lyney: Hehe... I'm afraid that's my little secret.
 Paimon: Aww... Well, magicians are entitled to their secrets... But Paimon's reeeally itching to know how it's done...
 Paimon: You feel it too, right? So itchy!
-Traveler: The Phantom Weasel...
+    Option 1:
+        Traveler: The Phantom Weasel...
+    Option 2:
+        Traveler: You sure you'll be able to handle him?
 Lyney: Hehe, not so itchy then, huh?
 Lyney: Well, since you're so concerned, how would you like to serve as my temporary magician's assistants, and help me investigate?
 Paimon: Magician's assistants? That sounds fun! Assistants are technically magicians too!
 Paimon: Also, it'll bring us one step closer to figuring out how that darn trick is done! Shall we go for it?
-Traveler: We'll help you with your investigation.
-Lyney: Excellent. Thank you for putting your trust in moi.
+    Option 1:
+        Traveler: We'll help you with your investigation.
+        Lyney: Excellent. Thank you for putting your trust in moi.
+    Option 2:
+        Traveler: What's your plan?
 Lyney: The first thing we need to look into is who Cesar really was. If he truly was The Phantom Weasel, that means that the weasel is dead, and whoever wrote this warning letter is just a copycat criminal.
 Lyney: But if he wasn't The Weasel... Well, that'll make things more interesting. It would mean that The Weasel lives, and he's been laying low all this time in some corner of Fontaine.
 Lyney: And if we're investigating Cesar, his fiancée, Jemma, is a good place to start. Word is that she visits the cemetery often, so I asked Lynette to wait for her there.
 Lyney: We should make a move. Let's go and rendezvous with Lynette.
-Traveler: What's your plan?
-Traveler: You sure you'll be able to handle him?
 
 ## Talk 3
 

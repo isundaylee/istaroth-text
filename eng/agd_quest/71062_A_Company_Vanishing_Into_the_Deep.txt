@@ -4,38 +4,47 @@
 ## Talk 1
 
 Anton: We'll leave soon. My apologies if we've disturbed your adventure.
-Traveler: About the collaboration with the Millelith...
-Anton: That was a long time ago. Shortly after this place was locked down, we contacted the Liyue Qixing.
-Anton: At first, things went smoothly... Signora even nailed a few mutually beneficial trade agreements.
-Anton: And one of the additional conditions was that Liyue would allow the Fatui to send an advance team into The Chasm... We came to investigate and eradicate the source of the anomalies.
-Anton: As agreed, Snezhnaya and Liyue would share whatever we were to find down here.
-Traveler: Don't you have other purposes?
-Anton: At least none that I'm aware of. When we entered The Chasm, the local citizens even sent us their best wishes. We all thought... that we would be heroes, sacrificing ourselves for the sake of others.
-Anton: *sigh*... Who'd have thought things would turn out like this?
-Traveler: About the "Dark Calamity"...
-Anton: "Dark Calamity," "the Calamity of Darkness," or whatever you call it... They all mean the great disaster that occurred five hundred years ago.
-Anton: Anyway, it's the eternal enemy of Snezhnaya... For five hundred years, the calamity has been lurking in the dark and we'll be on guard forever.
-Traveler: About you...
-Anton: About us? There's nothing much to talk about... We fought hard and we failed. That's all.
-Anton: When we first came down, we were the Ninth Company, a company of 64 soldiers. But now, I guess half of our men including our commander have either gone missing or died... Well, maybe not yet half of us...
-Anton: But anyway, it's around that figure. We've been scattered and lost contact with each other... We lost this battle and should've retreated long ago.
-Traveler: But your people on the ground attacked Liyue Harbor.
-Anton: ...It's surprising but I think I can understand why.
-Anton: To assist in endeavors of greater meaning, Lord Pulcinella won't hesitate to dispense with less valuable assets. That's his logic.
-Anton: As his direct subordinate, I have no objections to his cause of action...
-Traveler: About Katarina...
-Anton: Did you meet her? Is she still alive? I hope she can forgive me.
-Anton: Katarina and her younger brother, Kapral Nikolay, were brought up in the House of the Hearth. They are the children of Her Majesty the Tsaritsa.
-Anton: She told me that she was going to find her brother. I thought she lost her mind having stayed in the environment down here... There's no way that her brother could live.
-Traveler: So you abandoned her?
-Anton: Abandon? No, she... she volunteered to stay. After all, unnecessary obsessions only slow the whole team down.
-Anton: We... We're prepared to sacrifice our lives or the lives of our loved ones for all... This is the resolution of the Fatui.
-Anton: Katya is no exception, nor is Kolya.
-Anton: I wouldn't blame them if they did the same to me.
-Traveler: The situation she's in is not so bad as you think.
-Anton: You're an outsider. The Fatui can't and shouldn't get sentimental in front of civilians.
-Anton: But to her, we're family. She's — she was — also our family.
-Anton: But she insisted on looking for Kolya... I hope she can forgive me.
+    Option 1:
+        Traveler: About the collaboration with the Millelith...
+        Anton: That was a long time ago. Shortly after this place was locked down, we contacted the Liyue Qixing.
+        Anton: At first, things went smoothly... Signora even nailed a few mutually beneficial trade agreements.
+        Anton: And one of the additional conditions was that Liyue would allow the Fatui to send an advance team into The Chasm... We came to investigate and eradicate the source of the anomalies.
+        Anton: As agreed, Snezhnaya and Liyue would share whatever we were to find down here.
+        Traveler: Don't you have other purposes?
+        Anton: At least none that I'm aware of. When we entered The Chasm, the local citizens even sent us their best wishes. We all thought... that we would be heroes, sacrificing ourselves for the sake of others.
+        Anton: *sigh*... Who'd have thought things would turn out like this?
+    Option 2:
+        Traveler: About the "Dark Calamity"...
+        Anton: "Dark Calamity," "the Calamity of Darkness," or whatever you call it... They all mean the great disaster that occurred five hundred years ago.
+        Anton: Anyway, it's the eternal enemy of Snezhnaya... For five hundred years, the calamity has been lurking in the dark and we'll be on guard forever.
+    Option 3:
+        Traveler: About you...
+        Anton: About us? There's nothing much to talk about... We fought hard and we failed. That's all.
+        Anton: When we first came down, we were the Ninth Company, a company of 64 soldiers. But now, I guess half of our men including our commander have either gone missing or died... Well, maybe not yet half of us...
+        Anton: But anyway, it's around that figure. We've been scattered and lost contact with each other... We lost this battle and should've retreated long ago.
+        Traveler: But your people on the ground attacked Liyue Harbor.
+        Anton: ...It's surprising but I think I can understand why.
+        Anton: To assist in endeavors of greater meaning, Lord Pulcinella won't hesitate to dispense with less valuable assets. That's his logic.
+        Anton: As his direct subordinate, I have no objections to his cause of action...
+    Option 4:
+        Traveler: About Katarina...
+        Anton: Did you meet her? Is she still alive? I hope she can forgive me.
+        Anton: Katarina and her younger brother, Kapral Nikolay, were brought up in the House of the Hearth. They are the children of Her Majesty the Tsaritsa.
+        Anton: She told me that she was going to find her brother. I thought she lost her mind having stayed in the environment down here... There's no way that her brother could live.
+        Traveler: So you abandoned her?
+        Anton: Abandon? No, she... she volunteered to stay. After all, unnecessary obsessions only slow the whole team down.
+        Anton: We... We're prepared to sacrifice our lives or the lives of our loved ones for all... This is the resolution of the Fatui.
+        Anton: Katya is no exception, nor is Kolya.
+        Anton: I wouldn't blame them if they did the same to me.
+    Option 5:
+        Traveler: About Katarina...
+        Anton: Did you meet her? Is she still alive? I hope she can forgive me.
+        Anton: Katarina and her younger brother, Kapral Nikolay, were brought up in the House of the Hearth. They are the children of Her Majesty the Tsaritsa.
+        Anton: She told me that she was going to find her brother. I thought she lost her mind having stayed in the environment down here... There's no way that her brother could live.
+        Traveler: The situation she's in is not so bad as you think.
+        Anton: You're an outsider. The Fatui can't and shouldn't get sentimental in front of civilians.
+        Anton: But to her, we're family. She's — she was — also our family.
+        Anton: But she insisted on looking for Kolya... I hope she can forgive me.
 
 ## Talk 2
 
@@ -77,16 +86,20 @@ Danila: I'd say it's "starve" till the last man standing... According to the col
 Temur: We're loyal to the Fatui and Lord Harbingers — as we should be — but we're no fools. Anyone sensible would have long suggested that we retreat under such circumstances.
 Traveler: So, what's your plan?
 Anton: Mmm... I know that this isn't your concern, and I won't stop you if you wanna leave, but we're really out of our depth and could use your help.
-Traveler: I need to think about it.
-Anton: OK. Stay safe. But be careful. Our other comrades scattered around here might not be as friendly.
+    Option 1:
+        Traveler: I need to think about it.
+        Anton: OK. Stay safe. But be careful. Our other comrades scattered around here might not be as friendly.
+    Option 2:
+        Traveler: What do you need me to do?
 Anton: I'm not supposed to tell you this, but... there's a supply station near the ground level. All our supplies go through there, and we sometimes got orders there, too.
 Anton: We sent a few men up for food, but they haven't returned... I can't afford to risk another trip.
 Anton: No one has come down from the supply station for a long time, either. I hope you can check the situation there for me.
-Traveler: Let me think about it.
+    Option 1:
+        Traveler: Let me think about it.
+    Option 2:
+        Traveler: I'll help.
 Anton: I'm so sorry to trouble you, but we need to know what's happening on the ground... Otherwise, any decisions we might make would be too rash.
 Paimon: Okay, okay, you're starting to confuse Paimon with all the convoluted talking! We'll look out for it when we pass by.
-Traveler: I'll help.
-Traveler: What do you need me to do?
 
 ## Talk 5
 
@@ -138,7 +151,10 @@ Anton: It's alright. I'll take full responsibility. If there's any deserter amon
 Radomir: ...Danila is right. We're here to protect the people of Liyue from the Calamity of the Darkness. We can't leave like this.
 Anton: Do you think this is the right time to worry about your personal honor, Mirka? Can't you see it?
 Anton: Can't you see that the people of Liyue neither need our protection, nor even want us here? They even defeated our comrades, who thought of themselves as heroes!
-Traveler: Yes, you've betrayed the trust of the people of Liyue.
+    Option 1:
+        Traveler: Yes, you've betrayed the trust of the people of Liyue.
+    Option 2:
+        Traveler: Best you consider what you're gonna do next.
 Anton: We should retreat, and preferably in silence. Without alerting the local Millelith.
 Radomir: The Kapitan said that we should be ready to give our lives here. We should...
 Anton: He also said that he wouldn't let anyone die in vain! That he didn't want the whole company to be buried here!
@@ -147,14 +163,16 @@ Radomir: ...
 Radomir: Yes, Sir!
 Anton: OK, any more questions? I don't want to hear any objections. You're now dismissed.
 Anton: #Whatever the case, Traveler, thank you for helping out. Take this Mora and these supplies.
-Traveler: Best you consider what you're gonna do next.
 
 ## Talk 12
 
 Paimon: They're so weak. Just a few kicks and they're already down!
 Anton: Stop! Please stop! Give us some food and we'll do anything as you wish!
 Paimon: Hmph... They're really desperate for food.
-Traveler: Tell me your purpose.
+    Option 1:
+        Traveler: Tell me your purpose.
+    Option 2:
+        Traveler: How can I trust you?
 Anton: Lemme put it this way: Whatever doubts you may have, the only purpose we have here is to investigate the source of the calamity in The Chasm.
 Paimon: What calamity? Paimon's seen no sign of it in The Chasm.
 Anton: The calamity that happened five hundred years ago is just a beginning. The war against the dark has never stopped, and we're standing on one of the very battlefields of it.
@@ -163,7 +181,6 @@ Temur: He always likes to exaggerate, but this is the first time he's talked non
 Radomir: Forget it... Antoha does have a point, which is you people of Liyue are no enemy to us.
 Anton: At least no enemy to us... As for our comrades who went missing, I'm not so sure how they might perceive you.
 Traveler: OK... I'll help you, but just this once.
-Traveler: How can I trust you?
 
 ## Additional Conversations
 

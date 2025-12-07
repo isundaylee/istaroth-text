@@ -100,8 +100,17 @@ Paimon: What do you mean?
 Jebrael: We're the latecomers here. They've been here for quite some time, and they've made some discoveries, of course.
 Jebrael: They just lack something crucial, so they can't advance.
 Jebrael: And we just happen to have what they need.
-Traveler: Benben.
-Jebrael: Yes, and the stone slate.
+    Option 1:
+        Traveler: Benben.
+        Jebrael: Yes, and the stone slate.
+    Option 2:
+        Traveler: The stone slate.
+        Jebrael: That's right.
+    Option 3:
+        Traveler: Tirzad's knowledge.
+        Tirzad: Well, it does make sense that they can't advance without the guidance of a professional like me, yes.
+        Paimon: ...Oh? Is that really how it is?
+        Jebrael: We wouldn't have been able to approach the core without Tirzad's stone slate and Benben.
 Jebrael: Instead of taking them from us, they have a better way to get what they want.
 Traveler: Oh, so they'd like to sit back and claim the fruits of our work?
 Jebrael: Yes, they'd prefer it if we solved everything for them.
@@ -110,8 +119,12 @@ Jebrael: But they won't be able to get what they want if we get stuck here too.
 Jebrael: So, we can use this against them.
 Jebrael: #...We can't avoid a fight once everything has been uncovered. But Jeht, Traveler, neither of you will run from a fight, right?
 Jeht: Of course. I've decided to punch that guy in the face when we meet again.
-Traveler: The Eremites are nothing.
-Paimon: Yeah, we've fought worse.
+    Option 1:
+        Traveler: The Eremites are nothing.
+        Paimon: Yeah, we've fought worse.
+    Option 2:
+        Traveler: I will never cower.
+        Paimon: Alrighty then! Forward it is!
 Tirzad: Sorry to interrupt... But there must be a safer method, right?
 Tirzad: Just think about it, the ruins have been here for years, so just a few months... or even a few years won't change anything! We can come back later!
 Tirzad: *sigh* Using their plan against them is a bad idea. All four of you do seem so full of confidence, but that's because you're skilled fighters.
@@ -129,14 +142,6 @@ Jebrael: According to this coded letter, Al-Ahmar's throne only shows itself to 
 Paimon: The three trials... Maybe that refers to the buildings all around us? Y'know, there are so many huge statues here, Paimon's worried that they'll just come to life...
 Traveler: Maybe the trial is to defeat them.
 Tirzad: I can only hope that you're wrong...
-Traveler: I will never cower.
-Paimon: Alrighty then! Forward it is!
-Traveler: The stone slate.
-Jebrael: That's right.
-Traveler: Tirzad's knowledge.
-Tirzad: Well, it does make sense that they can't advance without the guidance of a professional like me, yes.
-Paimon: ...Oh? Is that really how it is?
-Jebrael: We wouldn't have been able to approach the core without Tirzad's stone slate and Benben.
 
 ## Talk 16
 
@@ -249,19 +254,22 @@ Black Screen Text: You and everyone else set up the camp in silence. It is alrea
 ## Talk 29
 
 Tirzad: ...Oh, it's you. Is there anything else you want to discuss?
-Traveler: Let's talk about Jebrael.
-Tirzad: To think that I remained doubtful of him until the end. I'm such an awful person...
-Tirzad: Now, all I have for him is gratitude...
-Tirzad: I've never been able to commit before this, whether in academics or in life... But that ends now. I will take the path I believe in, no matter how difficult it may be...
-Tirzad: This is the least I can do to pay my respects to him...
-Traveler: I want to talk about King Deshret.
-Tirzad: To be honest, I'm starting to doubt the credibility of the articles I've read...
-Tirzad: That prayer... It gives me a strange feeling that I can't put a finger on. And Samail too... What he said... I think I should study it further once I get back.
-Tirzad: Of course, my main mission is still to write my paper like I originally planned.
-Traveler: Let's talk about Jeht for a moment.
-Tirzad: *sigh* I, too, wish that I could do something for her, but...
-Tirzad: I can't...
-Tirzad: And she refuses to say anything. If she would just speak her desire, I would be willing to do anything in my power to help her...!
+    Option 1:
+        Traveler: Let's talk about Jebrael.
+        Tirzad: To think that I remained doubtful of him until the end. I'm such an awful person...
+        Tirzad: Now, all I have for him is gratitude...
+        Tirzad: I've never been able to commit before this, whether in academics or in life... But that ends now. I will take the path I believe in, no matter how difficult it may be...
+        Tirzad: This is the least I can do to pay my respects to him...
+    Option 2:
+        Traveler: I want to talk about King Deshret.
+        Tirzad: To be honest, I'm starting to doubt the credibility of the articles I've read...
+        Tirzad: That prayer... It gives me a strange feeling that I can't put a finger on. And Samail too... What he said... I think I should study it further once I get back.
+        Tirzad: Of course, my main mission is still to write my paper like I originally planned.
+    Option 3:
+        Traveler: Let's talk about Jeht for a moment.
+        Tirzad: *sigh* I, too, wish that I could do something for her, but...
+        Tirzad: I can't...
+        Tirzad: And she refuses to say anything. If she would just speak her desire, I would be willing to do anything in my power to help her...!
 
 ## Talk 30
 
@@ -337,7 +345,10 @@ Nachtigal: ?
 ## Talk 45
 
 Paimon: Hehe, this chair is huge! Paimon feels like just sitting on it is gonna make Paimon super great!
-Traveler: I want to sit on it too.
+    Option 1:
+        Traveler: I want to sit on it too.
+    Option 2:
+        Traveler: Sitting on a seat that doesn't belong to you won't end well.
 Tirzad: I may disapprove of a tyrant like King Deshret, but your thoughts might be a little too audacious even so, Paimon...
 Tirzad: Anyway, nothing happened. Huh? Is something lacking? Or perhaps we made a mistake somewhere...
 Tirzad: Hmm... Jebrael did mention that only the chosen may kneel before the throne... M—Maybe we really have to kneel before the throne?
@@ -400,7 +411,6 @@ Jebrael: He got what he wanted. He's inside the Golden Slumber that Al-Ahmar pro
 Traveler: So that's what you meant by the Eternal Dreamland?
 Eremite Mercenary: What happened to Samail? None of you will leave this place alive!
 Jebrael: #Traveler, get ready for battle!
-Traveler: Sitting on a seat that doesn't belong to you won't end well.
 
 ## Talk 46
 

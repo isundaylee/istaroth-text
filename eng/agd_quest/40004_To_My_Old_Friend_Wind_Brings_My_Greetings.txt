@@ -22,11 +22,18 @@ Traveler: Get to the point, Paimon.
 Paimon: Right, right! Kaeya, there's something we need to tell you about.
 Kaeya: Hmm... Lantern supplies... Stockpile of wood, paper, and oil... At the very least, it sounds like an accident waiting to happen.
 Kaeya: Haha, how very amusing. What makes you think I would recognize this symbol?
-Traveler: You're amazing at everything and we trust you.
-Paimon: Oh, that about sums it up!
-Kaeya: Hah. I'm flattered, but don't you think you might be overestimating me?
-Paimon: There it is! At last, Kaeya displays the knightly virtue of modesty, perfectly articulated and masterfully delivered.
-Kaeya: My goodness, your stay in Liyue seems to have sharpened your wit and broadened your vocabulary.
+    Option 1:
+        Traveler: You're amazing at everything and we trust you.
+        Paimon: Oh, that about sums it up!
+        Kaeya: Hah. I'm flattered, but don't you think you might be overestimating me?
+        Paimon: There it is! At last, Kaeya displays the knightly virtue of modesty, perfectly articulated and masterfully delivered.
+        Kaeya: My goodness, your stay in Liyue seems to have sharpened your wit and broadened your vocabulary.
+    Option 2:
+        Traveler: You flirt with the dark side, so you would know.
+        Paimon: Exactly!
+        Kaeya: Uh-ah! You should watch what you say, Honorary Knight.
+        Kaeya: What do you mean, flirt with the dark side? The Knights of Favonius certainly does not have dealings with its enemies.
+        Kaeya: That has to do with a certain knightly virtue called "integrity."
 Kaeya: Anyway, I digress. This is the symbol of the cross-border criminal organization you know as the Treasure Hoarders.
 Kaeya: If you are curious to know more, I can put you in touch with an informant on the inside.
 Paimon: Uhh, didn't you just say the Knights of Favonius don't have dealings with their enemies!?
@@ -35,11 +42,6 @@ Kaeya: A little later, make your way over to Windrise. I'll arrange for the info
 Paimon: Thanks, Kaeya.
 Kaeya: Oh, and remember: "wine begets wisdom."
 Paimon: Huh?
-Traveler: You flirt with the dark side, so you would know.
-Paimon: Exactly!
-Kaeya: Uh-ah! You should watch what you say, Honorary Knight.
-Kaeya: What do you mean, flirt with the dark side? The Knights of Favonius certainly does not have dealings with its enemies.
-Kaeya: That has to do with a certain knightly virtue called "integrity."
 
 ## Talk 4
 
@@ -48,16 +50,18 @@ Paimon: Hey! You're the guy, right? Kaeya's informant?
 Nimrod: Informant? Not me.
 Paimon: But... This is the place we agreed upon... and you're the only other one here, so...
 Nimrod: "Place we agreed upon"? Heh, I know nothing.
-Traveler: Wine begets wisdom.
-Traveler: Something about... wine?
 Paimon: Ugh, stop being so annoying!
-Nimrod: Okay. Yeah, it's me.
-Paimon: How was any of that even slightly necessary!?
-Nimrod: Uh...
-Paimon: ...
-Nimrod: Okay... technically the wrong password, but... yes, it's something about wine, and assuming that something is the thing about it begetting wisdom, then...
-Nimrod: Yeah, close enough. It's me.
-Paimon: How was any of that even slightly necessary!?
+    Option 1:
+        Traveler: Wine begets wisdom.
+        Nimrod: Okay. Yeah, it's me.
+        Paimon: How was any of that even slightly necessary!?
+    Option 2:
+        Traveler: Something about... wine?
+        Nimrod: Uh...
+        Paimon: ...
+        Nimrod: Okay... technically the wrong password, but... yes, it's something about wine, and assuming that something is the thing about it begetting wisdom, then...
+        Nimrod: Yeah, close enough. It's me.
+        Paimon: How was any of that even slightly necessary!?
 Nimrod: What do you want to know about?
 Paimon: *sigh* Here's the situation...
 Nimrod: Okay. I see.
@@ -66,7 +70,6 @@ Nimrod: I do not think this is the work of the Treasure Hoarders.
 Nimrod: The reason the Treasure Hoarders are able to sustain a giant cross-border operation is because they abide by one fundamental principle:
 Nimrod: Caution. Softly softly catchee monkey is the name of the game for them. By contrast, the idea of taking huge risks to try and make a fortune is utter folly in their eyes.
 Nimrod: Liyue has the adepti looking after it, doesn't it? And they're especially active during the Lantern Rite...
-Paimon: Missing text (0)
 Nimrod: There's just no way that we... sorry, "they"! Slip of the tongue — when you've been undercover as long as I have, heh, where was I... Oh, yes — There's just no way that they — the Treasure Hoarders — would dare make a move during the Lantern Rite.
 Nimrod: Also... the Treasure Hoarders' organization in Liyue recently received an anonymous letter.
 Paimon: Why would someone send them an anonymous letter? Trying to frame them, perhaps?
@@ -74,6 +77,8 @@ Nimrod: Nobody knows. But what I can tell you is which branch of the Treasure Ho
 Nimrod: ...There. I've marked their location on the map for you.
 Paimon: #Great. Well, Paimon thinks this was productive! Traveler, this is our only solid lead. Let's not waste it!
 Nimrod: If there's nothing more, I should get back to treasure hoarding. ...I mean, get back to those treasure-hoarding lowlifes. To spy on them. Heh.
+
+Paimon: Missing text (0)
 
 ## Talk 5
 

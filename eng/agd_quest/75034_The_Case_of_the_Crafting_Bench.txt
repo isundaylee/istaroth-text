@@ -16,9 +16,12 @@ Paimon: Phew! Paimon's glad you're okay. You scared the stuffing out of us!
 Traveler: It could have been a tricky misunderstanding to clear up.
 Paimon: Exactly! Now that Paimon thinks about it... If that had been some kinda poison, we might be taken for murderers!
 Sumac: Oh, it's fine. Not to brag or anything, but I've been in superb health since I was little. Why, I can count the number of times I've fallen sick on one hand. This is no biggie.
-Traveler: A will of stone can shatter any obstacle!
-Sumac: You're right! That's the resolve warriors should have.
-Paimon: C'mon! There are obstacles that even willpower won't let you barge through! Should you really be pushing yourself if you've been poisoned!?
+    Option 1:
+        Traveler: A will of stone can shatter any obstacle!
+        Sumac: You're right! That's the resolve warriors should have.
+        Paimon: C'mon! There are obstacles that even willpower won't let you barge through! Should you really be pushing yourself if you've been poisoned!?
+    Option 2:
+        Traveler: Poison isn't exactly a common cold.
 Sumac: True enough — Though I'd say the formula for the potion was fine. It certainly isn't a poison, at any rate.
 Paimon: You mean you got it from a trusted source?
 Sumac: No, I bought it from a merchant named Soncoyoc. He only comes out after sunset, and it just happened to be night when I ran into him! How lucky!
@@ -27,7 +30,11 @@ Sumac: There's no need for that, really! I trust my eye for people, he's no char
 Hampeq (???): There's a good chance of that — that being the Crafting Bench, I mean. You haven't been the only victims thus far.
 Sumac: Mr. Hampeq! Thanks for your help earlier.
 Hampeq: No sweat. Treating those who are injured is one of my duties. Regarding the Crafting Bench, have you ever heard about the "Locusts"?
-Traveler: First time for me.
+    Option 1:
+        Traveler: First time for me.
+    Option 2:
+        Traveler: Oh yeah, sure, they're the whos in the where doing the whatsits, yeah?
+        Paimon: Don't act like you're in the know when you obviously don't have a clue!
 Hampeq: It's fine if you've never heard of them. We logistics people have never really cared about being praised or being recognized like the true warriors. As far as we're concerned, ours is still honorable work.
 Hampeq: In the past, the Hawkwings — the faction I belong to — has always been in charge of the Stadium's various facilities. Rule-abiding sorts, we are, always doing our best to do our part.
 Hampeq: But we've not had many new members join in recent years... We've got experience on our side, but even the best can't be everywhere at once when there's so much to do. Can't say we've made no mistakes, either.
@@ -37,8 +44,12 @@ Hampeq: If they'd gone and given the work their all, I'd have no gripes. But —
 Hampeq: And in the latest tournament, we Hawkwings encountered an unusually high number of accidents, hamstringing our performance.
 Hampeq: And many were linked using alchemical potions, just like what happened to Sumac.
 Hampeq: I've been thinking that they've done... something... to the Crafting Bench. Before, they were just targeting us Hawkwings, but now others have gotten involved... They've gone way over the line!
-Traveler: Umm, you say that, but...
-Paimon: We've only just heard of these factions... It does sound like you've got some serious beef, but...
+    Option 1:
+        Traveler: Umm, you say that, but...
+        Paimon: We've only just heard of these factions... It does sound like you've got some serious beef, but...
+    Option 2:
+        Traveler: An utterly despicable pack of scoundrels!
+        Paimon: You say that, but those are just guesses right now, aren't they?
 Sumac: Yeah. Without evidence, even the Speaker's Chamber has its hands tied.
 Hampeq: It's all my fault! If only I'd been more vigilant... The reason we missed out on collecting hard evidence before is because I never imagined they'd stoop to such low-down, no-good dirty tricks.
 Hampeq: I know this sounds crass, but thanks to Sumac's injury, we now have a chance to investigate this affair.
@@ -50,20 +61,17 @@ Hampeq: Whatever the case, there's no doubt that any trace of tampering will hav
 Sumac: Hmm... You seem intimately familiar with how the Locusts operate.
 Hampeq: Of course. They're our rivals, the ones who stole our glory from us...
 Hampeq: ...Anyway, since there's no tournament on today, I'm going to collect testimony from some previous victims. Would you two mind coming along?
-Traveler: Oh boy! Is that drudgery I smell...?
-Hampeq: You'll be rewarded generously. This I guarantee.
+    Option 1:
+        Traveler: Oh boy! Is that drudgery I smell...?
+        Hampeq: You'll be rewarded generously. This I guarantee.
+    Option 2:
+        Traveler: A fair sum makes drudgery quite tolerable.
+        Hampeq: And a fair sum you shall have.
 Paimon: Guess we just can't refuse requests for help, can we?
 Hampeq: You rest here first, Sumac. We'll meet up with you again once we have the evidence we need.
 Sumac: Alright. *sigh* Sorry for dragging you two into this.
 Paimon: Don't say that! If you had to blame someone... then, uh, blame the Locusts! Yeah, so we're doing this for the good of everyone!
 Hampeq: That's right. What we do, we do for the benefit of all, and it is a good thing indeed. Anyway, no time to lose. Let's go down to the outdoor training grounds and collect some testimony.
-Traveler: A fair sum makes drudgery quite tolerable.
-Hampeq: And a fair sum you shall have.
-Traveler: An utterly despicable pack of scoundrels!
-Paimon: You say that, but those are just guesses right now, aren't they?
-Traveler: Oh yeah, sure, they're the whos in the where doing the whatsits, yeah?
-Paimon: Don't act like you're in the know when you obviously don't have a clue!
-Traveler: Poison isn't exactly a common cold.
 
 ## Talk 4
 
@@ -72,10 +80,12 @@ Traveler: Poison isn't exactly a common cold.
 ## Talk 5
 
 Anela: Sour Sauce Ceviche again...?
-Traveler: What's wrong with Sour Sauce Ceviche?
-Anela: Nothing, really, it's fine. But no matter how good it is, you can't just keep eating the same thing day after day, can you? Though on the other hand, Ripple's been getting a bit pudgy lately, hasn't he? Odd, neither his training nor his caloric intake have changed...
-Traveler: I shan't disturb you any longer.
-Anela: Aw, it's fine!
+    Option 1:
+        Traveler: What's wrong with Sour Sauce Ceviche?
+        Anela: Nothing, really, it's fine. But no matter how good it is, you can't just keep eating the same thing day after day, can you? Though on the other hand, Ripple's been getting a bit pudgy lately, hasn't he? Odd, neither his training nor his caloric intake have changed...
+    Option 2:
+        Traveler: I shan't disturb you any longer.
+        Anela: Aw, it's fine!
 
 ## Talk 6
 
@@ -88,8 +98,11 @@ Hampeq: Hey, Ogun, it's been a while. You still remember the Crafting Bench inci
 Ogun: Seriously? You're still hung up about that? What's the point?
 Hampeq: Don't you worry, I've got my ways.
 Ogun: Is your way relying on outsiders to interfere?
-Traveler: And here we see dissent in its natural habitat, slaying a cause so the foe need not.
-Hampeq: Sorry. I know we're not making the best account of ourselves...
+    Option 1:
+        Traveler: And here we see dissent in its natural habitat, slaying a cause so the foe need not.
+        Hampeq: Sorry. I know we're not making the best account of ourselves...
+    Option 2:
+        Traveler: Could you consider me "elite reinforcements" instead?
 Ogun: Outsider you are, and outsider you remain. However...
 Ogun: Pass my training. Prove yourself worthy of my trust. Ask again after that, and you'll get your answers.
 Paimon: Wait, aren't we here to get testimonies? How did this turn into a test of strength?
@@ -97,10 +110,11 @@ Hampeq: Sorry, can't help you there. We Hawkwings have traditionally prized stre
 Hampeq: Better to just take his challenge rather than waste your breath. I have faith in your abilities.
 Paimon: Okay then...
 Ogun: Done thinking it over? Ready to accept my challenge?
-Traveler: Bring it on.
-Traveler: I'll need a moment to prepare.
-Ogun: See to it, and then come to me.
-Traveler: Could you consider me "elite reinforcements" instead?
+    Option 1:
+        Traveler: Bring it on.
+    Option 2:
+        Traveler: I'll need a moment to prepare.
+        Ogun: See to it, and then come to me.
 
 ## Talk 8
 
@@ -114,8 +128,11 @@ Ogun: Suit yourself, then.
 ## Talk 9
 
 Pampa: Amazing. Simply amazing!
-Traveler: Did you get all that? There'll be a test later.
-Paimon: Wait, were you really trying to teach him? We're here to collect testimonies, you know!
+    Option 1:
+        Traveler: Did you get all that? There'll be a test later.
+        Paimon: Wait, were you really trying to teach him? We're here to collect testimonies, you know!
+    Option 2:
+        Traveler: We can get down to business now, right?
 Pampa: 'Course we can, I'm a man of my word. I'll tell you all I know.
 Black Screen Text: Pampa vividly recounts the mishap he encountered before, which Hampeq records in a more concise form.
 Hampeq: Thank you for your testimony. With this, we're one solid step closer to reclaiming the honor that is rightfully ours.
@@ -139,7 +156,6 @@ Black Screen Text: Tozan leaves without a sound...
 Paimon: So, what he gave you was...
 Hampeq: Intel on The Locusts, of course. It will buttress our testimony all the more. Honestly, I'm glad to know that reasonable people like Tozan still exist in that swarm of locusts.
 Hampeq: Alright, let's keep gathering evidence. We can't let his goodwill go to waste. We'll find Anela over with the People of the Springs.
-Traveler: We can get down to business now, right?
 
 ## Talk 10
 
@@ -153,21 +169,31 @@ Paimon: Eh, this feels like a waste of time. We should just go back and look for
 Anela: Oh? Well, well, who are these two little cuties? Help you hired, Hampeq?
 Hampeq: Y—You could say that.
 Anela: #Good. I've changed my mind. Youngsters with potential are just my jam. How about this, little lad? If you pass my test, I'll consider giving you a statement after all.
-Traveler: Color me shocked and surprised — a test.
-Paimon: Guess they really are part of the same faction, huh?
+    Option 1:
+        Traveler: Color me shocked and surprised — a test.
+        Paimon: Guess they really are part of the same faction, huh?
+    Option 2:
+        Traveler: Gotta admit, I'm not feeling it right now...
+        Anela: And would a little... extra reward from yours truly sweeten the pot?
+        Paimon: Please let us give it a go!
+    Option 3:
+        Traveler: Color me shocked and surprised — a test.
+        Paimon: Guess they really are part of the same faction, huh?
 Anela: Ah, very good! Shall we begin?
-Traveler: Bring it on.
-Traveler: Let me make some preparations.
-Anela: No rush, take your time.
-Traveler: Gotta admit, I'm not feeling it right now...
-Anela: And would a little... extra reward from yours truly sweeten the pot?
-Paimon: Please let us give it a go!
+    Option 1:
+        Traveler: Bring it on.
+    Option 2:
+        Traveler: Let me make some preparations.
+        Anela: No rush, take your time.
 
 ## Talk 11
 
 Anela: #You're quite the budding talent, for sure. Y'know what? Forget Hampeq — why don't you join up with me instead, lad?
-Traveler: Sounds good. Let's talk terms and compensation.
-Paimon: Hey!
+    Option 1:
+        Traveler: Sounds good. Let's talk terms and compensation.
+        Paimon: Hey!
+    Option 2:
+        Traveler: No thanks. I've still got a ton of commissions on my docket...
 Paimon: Let's get back on topic, shall we? We're here to get her testimony, y'know.
 Anela: That how it is? Shame. But I did agree, so...
 Black Screen Text: Anela lazily relates her unpleasant encounter, while Hampeq pens it down faithfully in its entirety.
@@ -175,7 +201,6 @@ Hampeq: That should be all our testimonies squared away... Are you really not co
 Anela: You can invite me after the fact. You should know I can't stand men who are clingy despite being total failures — or do you?
 Anela: Of course, you kids are a different story — my door's always open to you. And if you'd rather take this to a hot spring...
 Paimon: Err, w—we're busy right now! Byeee!
-Traveler: No thanks. I've still got a ton of commissions on my docket...
 
 ## Talk 12
 
@@ -201,7 +226,10 @@ Paimon: It's so strange. Isn't exposing wrongdoing and punishing perpetrators th
 Hampeq: I'm afraid that the Hawkwings' being scattered like so many grains of sand is a disgrace I must bear responsibility for as one of its members.
 Hampeq: Still, I hope that this is our chance to reunite — I'll do anything to regain our honor.
 Hampeq: I mean, don't they say that the truth oft winds up in the custody of the few? I won't throw in the towel just because I'm in the minority.
-Traveler: I've heard that one before.
+    Option 1:
+        Traveler: I've heard that one before.
+    Option 2:
+        Traveler: You could always be in the minority because you're mistaken, you know.
 Hampeq: Well, the truth will be revealed soon, won't it? The Speaker's Chamber will judge based on the evidence both parties provide, so please, I'd like to ask you to be present as witnesses.
 Sumac: Hmm... Are you sure my testimony would be valid? Maybe I just had an accident that was totally unrelated to the Locusts.
 Paimon: Also, couldn't you just get Sumac to take the stand? What would we be there for?
@@ -209,7 +237,6 @@ Hampeq: No, all of your testimony is absolutely necessary. Don't worry, I won't 
 Sumac: Hmm... Well, you did help me when I was injured earlier, Mr. Hampeq, so I owe you that much.
 Paimon: #Is it really necessary? Oh well... We might as well help get to the bottom of this, huh, Traveler?
 Hampeq: Thank you all! In that case, let us meet at the outside training grounds in two days.
-Traveler: You could always be in the minority because you're mistaken, you know.
 
 ## Talk 15
 
@@ -221,8 +248,12 @@ Paimon: ...Wow, you've got guts.
 Sumac: And it seems like the formula's fine — so yeah, told you I've got a good eye. The problem must've been with the Crafting Bench, then.
 Sumac: Ah, look, we should be starting soon. See that person in the middle? That's Mr. Tenehua, the judge sent by the Speaker's Chamber.
 Sumac: The people facing Mr. Hampeq should be Locust members... Only two of them? That's fewer people than we have!
-Traveler: (Huh, he looks familiar...)
-Paimon: (Ohh, right, so he really was a Locust. But wait, why's he standing on that side...?)
+    Option 1:
+        Traveler: (Huh, he looks familiar...)
+        Paimon: (Ohh, right, so he really was a Locust. But wait, why's he standing on that side...?)
+    Option 2:
+        Traveler: Side? I don't remember joining the Hawkwings.
+        Sumac: That's true... Well, be that as it may, you could still say that we're on the side of truth, right?
 Tenehua: Ahem. It's about time, so let us get started. I'm sure that all present are well aware of this dispute, so I shall cut to the chase.
 Tenehua: State your case, Hampeq.
 Hampeq: My thanks for the chance to speak. Everyone knows that the Locusts have replaced us Hawkwings for some time now. Yet, such grudges will not simply vanish.
@@ -239,8 +270,6 @@ Hampeq: #The outlander travelers Traveler and Paimon can corroborate her testimo
 Sumac: Mr. Hampeq speaks the truth. I did verify if the formula was suitable afterward. I can only conclude that the Crafting Bench itself was faulty somehow...
 Paimon: Yeah, and speaking of what happened that day, we didn't use that Crafting Bench in the first place because it seemed weird.
 Hampeq: #Here also are the victim testimonies, good judge, that I gathered together with Traveler and Paimon. If you would, you two?
-Traveler: Side? I don't remember joining the Hawkwings.
-Sumac: That's true... Well, be that as it may, you could still say that we're on the side of truth, right?
 
 ## Talk 16
 
@@ -253,11 +282,13 @@ Tlalepa: Let me out of here and fight us again if you dare! You hear me!?
 ## Talk 18
 
 Ogun: As for today's training... Yes, that should do it.
-Traveler: About what happened before...
-Ogun: Though the process had a few twists and turns, the outcome was as I expected.
-Ogun: ...Are you waiting for more commentary? But I've already said all I wish to.
-Traveler: I'll leave you to it, then.
-Ogun: Very well.
+    Option 1:
+        Traveler: About what happened before...
+        Ogun: Though the process had a few twists and turns, the outcome was as I expected.
+        Ogun: ...Are you waiting for more commentary? But I've already said all I wish to.
+    Option 2:
+        Traveler: I'll leave you to it, then.
+        Ogun: Very well.
 
 ## Talk 19
 
@@ -265,7 +296,10 @@ Tozan: Tlalepa! Tlalepa! Bad news!
 Tlalepa: *yawn* Seriously? What're you yelling about? Disturbed my beauty sleep, you did.
 Tozan: Someone's exposed us! I was able to smooth it over for the time being, but...
 Paimon: (Wait a minute, we've got two Tozans here!)
-Traveler: (Twins. As I thought.)
+    Option 1:
+        Traveler: (Twins. As I thought.)
+    Option 2:
+        Traveler: (Wow, they do look exactly the same!)
 Tlalepa: Seriously, bro? Did you invite those two "guests" over as well? And are they here to get pranked, or are you pranking me?
 Tozan: It's you two...
 Paimon: To think you two set up shop right under the noses of everyone who goes to the Stadium and didn't get discovered! Is this what they call "hiding in plain sight"?
@@ -274,7 +308,6 @@ Tlalepa: Well, I'll have to request that you keep our little secret. Big Bro, yo
 Tozan: Sure.
 Paimon: What? Keep your secret? We're on the side of truth here! We're not that easy to bribe...
 Tlalepa: Don't get ahead of yourself — Who said anything about a bribe? There's only one way you can be sure a secret's kept.
-Traveler: (Wow, they do look exactly the same!)
 
 ## Talk 20
 
@@ -287,10 +320,12 @@ Paimon: Pfft. Don't be silly. Paimon counts four fists on your team, and four on
 Tozan: Alright. You win this round. But what about it? Sure, I pulled a trick or two... Does that mean Hampeq's a saint?
 Tozan: You all saw how dumbstruck he was. Everyone did. The Hawkwings' credibility's completely bust. Nothing you do will change that.
 Tozan: I've already won! Reveal my secrets to the Chamber all you want. You won't save the Hawkwings...
-Traveler: That's not for me to decide.
+    Option 1:
+        Traveler: That's not for me to decide.
+    Option 2:
+        Traveler: I've no interest in your grievances.
 Paimon: That's right. We're on the side of the truth, nothing more, nothing less! Judging your dispute is up to the Speaker's Chamber.
 Paimon: We should be fine leaving them here for a bit, right? We've gotta hoof it back to the Stadium and tell Tenehua...
-Traveler: I've no interest in your grievances.
 
 ## Talk 22
 
@@ -300,10 +335,12 @@ Wooden Crate: ...
 ## Talk 23
 
 Sumac: Well, are you ready?
-Traveler: Bring it on.
-Sumac: I was waiting for you to say that.
-Traveler: Hold on...
-Sumac: No worries.
+    Option 1:
+        Traveler: Bring it on.
+        Sumac: I was waiting for you to say that.
+    Option 2:
+        Traveler: Hold on...
+        Sumac: No worries.
 
 ## Talk 24
 
@@ -312,27 +349,33 @@ Sumac: Has the mood changed? I feel like I'm getting nervous, too...
 ## Talk 25
 
 Pampa: Yo, you've got time to come here?
-Traveler: Do we know you?
-Pampa: We've met, we've talked, so we're friends! Besides, weren't we on the same side during that thing? Don't say you've forgotten already!
-Traveler: I'm on my own side.
-Pampa: *sigh* Fine, you're right, you're right. I heard even Mr. Tenehua really admires you. Being your friend is a great honor!
-Traveler: I should get going.
-Pampa: Don't let me keep you!
+    Option 1:
+        Traveler: Do we know you?
+        Pampa: We've met, we've talked, so we're friends! Besides, weren't we on the same side during that thing? Don't say you've forgotten already!
+        Traveler: I'm on my own side.
+        Pampa: *sigh* Fine, you're right, you're right. I heard even Mr. Tenehua really admires you. Being your friend is a great honor!
+    Option 2:
+        Traveler: I should get going.
+        Pampa: Don't let me keep you!
 
 ## Talk 26
 
 Sumac: Haha, I didn't think I'd get beaten as soon as I arrived at the Stadium. This story's going to be a riot for my friends back home.
-Traveler: Being the butt of a joke amongst friends is worth it sometimes.
-Sumac: I think so too! My friends call it a kind of "unhealthy masochism," though... But I don't think my health has been negatively affected, so I'm probably fine.
-Traveler: Must be saddening to have your friends laugh at you.
-Sumac: You think so? I don't think they mean any harm. It was a pretty funny scene at any rate — I wouldn't mind if you laughed too.
+    Option 1:
+        Traveler: Being the butt of a joke amongst friends is worth it sometimes.
+        Sumac: I think so too! My friends call it a kind of "unhealthy masochism," though... But I don't think my health has been negatively affected, so I'm probably fine.
+    Option 2:
+        Traveler: Must be saddening to have your friends laugh at you.
+        Sumac: You think so? I don't think they mean any harm. It was a pretty funny scene at any rate — I wouldn't mind if you laughed too.
 
 ## Talk 27
 
 Ogun: Ready?
-Traveler: Let's begin.
-Traveler: Wait a moment.
-Ogun: Will do.
+    Option 1:
+        Traveler: Let's begin.
+    Option 2:
+        Traveler: Wait a moment.
+        Ogun: Will do.
 
 ## Talk 28
 
@@ -349,9 +392,11 @@ Pampa: Don't you think you learn a lot just by watching others overcome obstacle
 Pampa: As such, I too would like a chance to learn from you, in return for my testimony. Can't let Ogun monopolize all the fun like that, now can we?
 Paimon: ...Is that how this works?
 Pampa: Of course. Why wouldn't it be? And if you're willing, let's start now!
-Traveler: The sooner the better.
-Traveler: One moment. Let me prep.
-Pampa: Of course. Making a mistake because you're in bad form would suck.
+    Option 1:
+        Traveler: The sooner the better.
+    Option 2:
+        Traveler: One moment. Let me prep.
+        Pampa: Of course. Making a mistake because you're in bad form would suck.
 
 ## Talk 30
 
@@ -360,9 +405,11 @@ Hampeq: I'll leave submitting the victims' testimonies to you.
 ## Talk 31
 
 Pampa: You ready? It is better to be patient at times like this... You can take your time, I'm in no hurry!
-Traveler: Let's begin.
-Traveler: Wait a moment.
-Pampa: Don't worry, I'm super patient!
+    Option 1:
+        Traveler: Let's begin.
+    Option 2:
+        Traveler: Wait a moment.
+        Pampa: Don't worry, I'm super patient!
 
 ## Talk 32
 
@@ -371,12 +418,14 @@ Hampeq: *sigh* I'm counting on you two.
 ## Talk 33
 
 Anela: Oh, it's you. Did you make a trip out here just to have some fun with me?
-Traveler: About what happened before...
-Anela: You've reconsidered my invitation? Or are you thinking of something else?
-Anela: If you're asking about Hampeq, all I can say is that he brought it on himself. Sure, his opponents were in the wrong, but is he really completely blameless?
-Anela: Oh my! I hope it doesn't sound like I'm kicking him while he's down. Well, for the sake of my reputation, let's keep that between us for now.
-Traveler: I've got other things to take care of, so I'll be going now.
-Anela: Oh, really? Such a pity. You be careful out there~
+    Option 1:
+        Traveler: About what happened before...
+        Anela: You've reconsidered my invitation? Or are you thinking of something else?
+        Anela: If you're asking about Hampeq, all I can say is that he brought it on himself. Sure, his opponents were in the wrong, but is he really completely blameless?
+        Anela: Oh my! I hope it doesn't sound like I'm kicking him while he's down. Well, for the sake of my reputation, let's keep that between us for now.
+    Option 2:
+        Traveler: I've got other things to take care of, so I'll be going now.
+        Anela: Oh, really? Such a pity. You be careful out there~
 
 ## Talk 34
 
@@ -393,9 +442,11 @@ Anela: Oh, really? Such a pity. You be careful out there~
 ## Talk 37
 
 Anela: #Ready for the test, lad?
-Traveler: Bring it on.
-Traveler: Hold on...
-Anela: Hehe, sure, no problem.
+    Option 1:
+        Traveler: Bring it on.
+    Option 2:
+        Traveler: Hold on...
+        Anela: Hehe, sure, no problem.
 
 ## Talk 38
 
@@ -417,7 +468,10 @@ Itzcuin: ...Where did you get that invoice?
 Hampeq: From a member of your corrupt organization whose conscience hasn't yet breathed its last, of course.
 Paimon: (Judging by his reaction, that sure hit him where it hurts!)
 Hampeq: #For safety reasons, I will not disclose this stout-hearted person's name. But I guarantee that Traveler and Paimon were there when I received the invoice, and they can corroborate the event.
-Traveler: We were indeed.
+    Option 1:
+        Traveler: We were indeed.
+    Option 2:
+        Traveler: We did indeed encounter a "special friend."
 Paimon: Yeah, they even said it broke their heart to witness such contemptible conduct by other Locusts...
 Itzcuin: Really? And here I thought we were famous for being earnest dullards. Didn't know we had someone that eloquent on staff. I'd really like to meet 'em.
 Itzcuin: Hmph. Anyway, let's just assume the list in your hands is genuine. So what? It's circumstantial evidence — your accusation remains mere speculation.
@@ -428,13 +482,20 @@ Itzcuin: More like your evidence just doesn't cut it.
 Hampeq: How about this, then? This picture clearly shows someone tampering with the Crafting Bench, with a chest full of Loach Pearls next to them!
 Paimon: Uh, that person sure looks familiar... Isn't that you, Sumac?
 Sumac: Ah, so it is!
-Traveler: What a coincidence...
-Paimon: Sure is!
+    Option 1:
+        Traveler: What a coincidence...
+        Paimon: Sure is!
+    Option 2:
+        Traveler: Are you some sort of important figure, to be under surveillance like that?
+        Sumac: Huh? Would someone as ordinary as me really need monitoring?
 Itzcuin: Didn't expect such a move from you, to be sure... But please, everyone, think for a second. Is this stuff actually proving his claims, or is it simply more of the same old circumstantial evidence?
 Itzcuin: Even if this picture could prove that someone tampered with the Bench, can you prove that person to be a Locust?
 Hampeq: And if I said that this picture was given to me by a Locust, just like that invoice?
 Tenehua: #Well, then. Would you, Traveler and Paimon, be able to vouch for that?
-Traveler: No, I don't remember that happening...
+    Option 1:
+        Traveler: No, I don't remember that happening...
+    Option 2:
+        Traveler: I cannot.
 Paimon: This is the first time we're seeing this picture, and judging by your reaction, Sumac, this is your first time as well, right?
 Sumac: Nope, never. Sorry, Mr. Hampeq, but we can't give false testimony.
 Itzcuin: So, does this "stout-hearted" person you speak of truly exist? Or did you conspire with those fellows over there to invent this story out of whole cloth?
@@ -445,10 +506,6 @@ Tenehua: If your "stout-hearted" special friend could testify in person, Hampeq,
 Itzcuin: Absolutely. There's no way a traitor exists among our ranks.
 Tenehua: Well, since this has reached an impasse, there's no point in continuing. Unless you have something to add, Hampeq, let's call it for today.
 Tenehua: Still, before we adjourn, please submit the evidence you just presented.
-Traveler: I cannot.
-Traveler: Are you some sort of important figure, to be under surveillance like that?
-Sumac: Huh? Would someone as ordinary as me really need monitoring?
-Traveler: We did indeed encounter a "special friend."
 
 ## Talk 40
 
@@ -493,7 +550,10 @@ Tozan: There's no credibility left in the Hawkwings, and you're the one to blame
 Hampeq: ...
 Tenehua: Nothing to say, then? *sigh* This has proved more complicated than I anticipated. I'm afraid my judgment will have to wait for another day.
 Tenehua: #Traveler, Paimon, you were deceived into giving false testimony, so I shall not press charges against you this time.
-Traveler: But my eyes didn't deceive me...
+    Option 1:
+        Traveler: But my eyes didn't deceive me...
+    Option 2:
+        Traveler: I'm many things, but not a perjurer.
 Paimon: That's right. Paimon was there too! We saw it with our own eyes, and even talked to him! It was him for sure!
 Tenehua: So you mean to call me, the judge, a liar?
 Paimon: Well, we're not saying that! Hmm... H—Hey, say something, Hampeq... Or was the Tozan we met that day an impostor you put up to the job?
@@ -538,26 +598,29 @@ Sumac: The owner of the gem only knew who it was who had committed the theft, no
 Sumac: "Hey, you! Thief! I know you stole my gem, so I've nicked it right back. Don't believe me? Go see for yourself!"
 Paimon: #The owner's smart, so that's gotta be Traveler and Paimon. That makes the thief and the gem...
 Paimon: #Ah! Paimon's got it, for sure this time! C'mon, Traveler, let's catch up with Tozan. He'll bring us right to his "gem" hidey-hole!
-Traveler: I'm many things, but not a perjurer.
 
 ## Talk 42
 
 Pampa: Is it worth getting that angry over? Honestly...
-Traveler: What's wrong?
-Pampa: *sigh* You'll really listen? That means a lot. Our little group broke up, you know? And it'd actually been a while, but then suddenly an old friend came knocking...
-Pampa: Why else would someone suddenly connect out of the blue, unless they needed to borrow some money? Anyway, since we were once pretty tight buds, I gotta lend him at least a little, yeah? But oh no, this guy, not only did he not say thanks, he even told me off for not giving him enough!
-Pampa: He even said something about how after the Hawkwings won back their rightful place he'd give me back double, blah blah.... *sigh* Not sure if he's just pigheaded or... Anyway, I'm an adult and generous to boot, so I decided to help as much as I could.
-Pampa: I practically wanna give myself a medal!
-Traveler: Sorry for disturbing you.
-Pampa: Huh? Leaving already, just like that? Alrighty, then...
+    Option 1:
+        Traveler: What's wrong?
+        Pampa: *sigh* You'll really listen? That means a lot. Our little group broke up, you know? And it'd actually been a while, but then suddenly an old friend came knocking...
+        Pampa: Why else would someone suddenly connect out of the blue, unless they needed to borrow some money? Anyway, since we were once pretty tight buds, I gotta lend him at least a little, yeah? But oh no, this guy, not only did he not say thanks, he even told me off for not giving him enough!
+        Pampa: He even said something about how after the Hawkwings won back their rightful place he'd give me back double, blah blah.... *sigh* Not sure if he's just pigheaded or... Anyway, I'm an adult and generous to boot, so I decided to help as much as I could.
+        Pampa: I practically wanna give myself a medal!
+    Option 2:
+        Traveler: Sorry for disturbing you.
+        Pampa: Huh? Leaving already, just like that? Alrighty, then...
 
 ## Talk 99
 
 Ogun: As for today's training... Yes, that should do it.
-Traveler: What are you doing here?
-Ogun: I'm a coach. Other than developing training regimens, I don't have much else to do.
-Traveler: Sorry to bother you.
-Ogun: Mm-hmm.
+    Option 1:
+        Traveler: What are you doing here?
+        Ogun: I'm a coach. Other than developing training regimens, I don't have much else to do.
+    Option 2:
+        Traveler: Sorry to bother you.
+        Ogun: Mm-hmm.
 
 ## Talk 100
 

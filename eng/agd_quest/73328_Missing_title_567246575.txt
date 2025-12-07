@@ -11,7 +11,10 @@ Jeht: #It means no probing! Even I wanna keep some things to myself, you know...
 Jeht: #Pfft, sorry 'bout that, but according to the rules we've gotta follow as guards-for-hire, I can't tell you anything.
 Paimon: Hmph, you sound all secretive!
 Jeht: So... How have you been?
-Traveler: Not bad.
+    Option 1:
+        Traveler: Not bad.
+    Option 2:
+        Traveler: I'm doing okay...
 Jeht: Yeah... The same with me.
 Jeht: Alright, I won't keep you any longer. *sigh* I've got my own business to deal with.
 Paimon: Huh, you're so busy, Jeht. You weren't like this before.
@@ -24,17 +27,18 @@ Traveler: You too, Jeht.
 Jeht: Yeah, lemme give you a thousand hugs. I'll be praying for your safety.
 Benben: Beep!
 Jeht: Haha, Benben will be doing so too!
-Traveler: I'm doing okay...
 
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
 
 Jeht: Well, here's your a thousand hugs! Until next time!
-Traveler: Where will we meet again?
-Jeht: Who knows? Maybe in Celestia?
-Jeht: Hahahaha! I was joking! But if you want to see me there, I will definitely be there.
-Jeht: Don't ask me why. I just know it.
+    Option 1:
+        Traveler: Where will we meet again?
+        Jeht: Who knows? Maybe in Celestia?
+        Jeht: Hahahaha! I was joking! But if you want to see me there, I will definitely be there.
+        Jeht: Don't ask me why. I just know it.
+    Option 2:
+        Traveler: A thousand hugs to you too.
+        Jeht: Haha, thanks!
 Jeht: Anyway, until next time!
-Traveler: A thousand hugs to you too.
-Jeht: Haha, thanks!

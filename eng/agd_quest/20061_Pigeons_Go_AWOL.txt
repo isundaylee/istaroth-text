@@ -10,11 +10,13 @@ Draff: I raised them as carrier pigeons, to deliver messages.
 Draff: But for some reason they are getting less and less reliable.
 Draff: Either they lose the message or they glide around for hours but never actually deliver it. Or, they sit around the whole time just waiting for someone to chase them off.
 Draff: If you have time, maybe you could hurry along the pigeons I just released.
-Traveler: Got it.
-Draff: Great. So if you see any of them slacking off, chase them away for me.
-Traveler: I seek not the enmity of pigeons.
-Draff: Don't worry, it's not like pigeons to hold a grudge. Their memory is much too short for that.
-Draff: I never had you down as such a pigeon lover...
+    Option 1:
+        Traveler: Got it.
+        Draff: Great. So if you see any of them slacking off, chase them away for me.
+    Option 2:
+        Traveler: I seek not the enmity of pigeons.
+        Draff: Don't worry, it's not like pigeons to hold a grudge. Their memory is much too short for that.
+        Draff: I never had you down as such a pigeon lover...
 
 ## Talk 2
 
@@ -40,11 +42,13 @@ Draff: For your trouble, please take this. And if you ever need to send a messag
 Draff: Regarding these pigeons...
 Draff: You did WHAT? How could you!? They were my carrier pigeons!
 Draff: You churlish imbecile... hilichurlish, even! What am I going to do about all these letters!?
-Traveler: Sowwie...
-Draff: Is that the best you can do? A Knight of Flaming Favonius and the best you can offer is a half-hearted apology!?
+    Option 1:
+        Traveler: Sowwie...
+        Draff: Is that the best you can do? A Knight of Flaming Favonius and the best you can offer is a half-hearted apology!?
+    Option 2:
+        Traveler: Sometimes I don't know my own strength...
+        Draff: It helps if you don't chase them off with a flaming meat cleaver!
 Draff: You've really fluffed up here, and now you have to make it right. Since you're so bird-brained anyway, I trust you will have no problem being my new carrier pigeon!
-Traveler: Sometimes I don't know my own strength...
-Draff: It helps if you don't chase them off with a flaming meat cleaver!
 
 ## Talk 7
 

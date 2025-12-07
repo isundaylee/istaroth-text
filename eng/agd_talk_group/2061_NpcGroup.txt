@@ -78,14 +78,16 @@ Muning: *cough* But if you do meet her out there, please be sure to tell me.
 ## Talk 13
 
 Muning: May I ask for your name?
-Traveler: Why, hello there...
+    Option 1:
+        Traveler: Why, hello there...
+    Option 2:
+        Traveler: I'm...
 Muning: My apologies, but The Chasm has been closed indefinitely. We do not take guests here.
 Muning: Unless...
 Traveler: Unless...?
 Muning: Unless you can get permission from Yujing Terrace... Or if you are on a *special commission*.
 Muning: However, things have been quite unusual lately, and our bosses have been most busy... I'd advise that you mind your own business, lest you disturb them.
 Muning: Please leave at once. This is for your own safety.
-Traveler: I'm...
 
 ## Talk 14
 
@@ -121,18 +123,22 @@ Muning: There are most certainly no precious treasures down there, nor are there
 Paimon: The way you're saying all this is super suspicious!
 Muning: Not even mushrooms will grow down there! Nor are there wish-granting stones! And there are definitely no sailors who grow strong just by eating mushrooms! Again, do not get your hopes up!
 Paimon: Uh, yeah, sure! There's no need to be so fierce...
-Traveler: Anything else I should look out for?
+    Option 1:
+        Traveler: Anything else I should look out for?
+    Option 2:
+        Traveler: Got it, then. Come, Paimon, let's go.
+        Paimon: Yup, let's go!
+        Muning: Wait! I haven't finished!
 Muning: I suggest that you go speak to Zhiqiong first. She is an adventurer hired by the Ministry and was once a miner here. She knows The Chasm's geography like the back of her hand...
 Muning: Also, let me write you a certification real quick. When she sees it, she'll know that you're trustworthy.
 Muning: That said, I must warn you that Zhiqiong is definitely not the sort of person who has trouble standing still, and definitely has no thoughts of undoing the array and having a look underground.
 Muning: So there's no way that she would ever put a team of idle adventurers together to brazenly enter hazardous areas! As such, you can forget about asking her to help you enter The Chasm's mines.
-Traveler: Uh huh. Got it.
-Muning: Did... did you really?
+    Option 1:
+        Traveler: Uh huh. Got it.
+        Muning: Did... did you really?
+    Option 2:
+        Traveler: Uh... yeah, I got it.
 Muning: As long as you understand, we're good, in which case, I won't take up any more of your time.
-Traveler: Uh... yeah, I got it.
-Traveler: Got it, then. Come, Paimon, let's go.
-Paimon: Yup, let's go!
-Muning: Wait! I haven't finished!
 
 ## Talk 18
 
@@ -167,9 +173,11 @@ Traveler: So, about Lan...
 Muning: Ah, did she tell you about some "special commission"? Well, I am the representative of the Ministry in this place, and as far as they are concerned, any commissions from the Adventurers' Guild hold no weight here.
 Muning: So you can't... I mean, don't you also try using her to put pressure on me. It won't work...
 Paimon: Pfft. That wasn't convincing at all!
-Traveler: I mean, you do owe her money for liquor...
+    Option 1:
+        Traveler: I mean, you do owe her money for liquor...
+    Option 2:
+        Traveler: "Also"? I take it that someone's done this to you before?
 Muning: Alright! Alright! Can we change the topic, please? Let's get back down to business!
-Traveler: "Also"? I take it that someone's done this to you before?
 
 ## Talk 20
 
@@ -181,9 +189,11 @@ Paimon: Man, how much Mora does this guy owe...
 Muning: Heh, well, old habits die hard, you know?
 Muning: But to be honest, I haven't had the time to go to Yanshang Teahouse in a long while Not since I got assigned here, anyway.
 Muning: It's just that old debts still need paying, you know? I... guess I'll have to trouble all of you in the future as well.
-Traveler: You should probably manage your finances better.
+    Option 1:
+        Traveler: You should probably manage your finances better.
+    Option 2:
+        Traveler: You shouldn't waste the goodwill of your friends.
 Muning: *sigh* You're right. I suppose I just don't consider these things enough.
-Traveler: You shouldn't waste the goodwill of your friends.
 
 ## Talk 21
 
@@ -197,7 +207,10 @@ Muning: Qi Ding — the guy who never misses a chance to brag about his daughter
 Muning: During the headcount, other miners said that they had just met him and that he might return very soon. So I let it go.
 Muning: But this morning, he was still nowhere to be found. Other miners looked evasive, so I pressed them for an honest answer. It turned out that Qi Ding hadn't returned the whole night...
 Muning: Now we're in big trouble. Don't tell me it's happening again...
-Traveler: What is happening again?
+    Option 1:
+        Traveler: What is happening again?
+    Option 2:
+        Traveler: Has something similar happened before?
 Muning: *sigh* This is something that only Ministry personnel should know.
 Muning: But since you're the hero who saved Liyue, I think I can make an exception for you.
 Muning: This was before The Chasm was sealed... At first, it was just a strange rumor among miners that something in The Chasm could "make their wish come true."
@@ -211,7 +224,6 @@ Muning: #*sigh* Traveler, I'm gonna have people put up some missing person poste
 Traveler: Sure.
 Muning: Mm, let me think if there's anything noticeable about him. He used to be on the demolitions team, there's always a strong gunpowder smell on him... Hope you find this useful.
 Muning: #*sigh* Qi Ding, I warned you not to go down. You aren't like Traveler...
-Traveler: Has something similar happened before?
 
 ## Talk 22
 
@@ -222,13 +234,19 @@ Paimon: What happened? Why are you sighing?
 Muning: *sigh* To tell you the truth, a miner from our camp went missing.
 Muning: The Chasm has a complex environment. Though things have stabilized a bit lately, it's still dangerous deep inside. So, we made it a rule to take a headcount every morning and evening.
 Muning: But we haven't seen him since last night...
-Traveler: Qi Ding?
-Paimon: The miner who keeps talking about his daughter.
+    Option 1:
+        Traveler: Qi Ding?
+        Paimon: The miner who keeps talking about his daughter.
+    Option 2:
+        Traveler: Do you mean the miner who keeps praising his daughter?
 Muning: Yeah, that's him!
 Muning: During the headcount last night, other miners said that they had just met him and that he might return very soon. So I let it go.
 Muning: But this morning, he was still nowhere to be found. Other miners looked evasive, so I pressed them for an honest answer. It turned out that Qi Ding hadn't returned the whole night...
 Muning: Now we're in big trouble. Don't tell me it's happening again...
-Traveler: What is happening again?
+    Option 1:
+        Traveler: What is happening again?
+    Option 2:
+        Traveler: Has something similar happened before?
 Muning: *sigh* This is something that only Ministry personnel should know.
 Muning: But since you're the hero who saved Liyue, I think I can make an exception for you.
 Muning: This was before The Chasm was sealed... At first, it was just a strange rumor among miners that something in The Chasm could "make their wish come true."
@@ -242,5 +260,3 @@ Muning: #*sigh* Traveler, I'm gonna have people put up some missing person poste
 Traveler: Sure.
 Muning: Mm, let me think if there's anything noticeable about him. He used to be on the demolitions team, there's always a strong gunpowder smell on him... Hope you find this useful.
 Muning: #*sigh* Qi Ding, I warned you not to go down. You aren't like Traveler...
-Traveler: Has something similar happened before?
-Traveler: Do you mean the miner who keeps praising his daughter?

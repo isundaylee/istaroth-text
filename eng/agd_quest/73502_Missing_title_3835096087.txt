@@ -7,7 +7,10 @@ Investigate (Bulletin Board): "In the light of alternating day cycles, one can s
 Paimon: Wh—What is this...? A riddle? Or a proverb or something...?
 Paimon: Alternating day cycles? Homeward figure...
 Kamal: Hello, traveler. Are you interested in Drusus's riddle too?
-Traveler: Is it really a riddle?
+    Option 1:
+        Traveler: Is it really a riddle?
+    Option 2:
+        Traveler: Do you know who set it up?
 Kamal: It was set up by an Akademiya researcher named Drusus.
 Kamal: As far as I know, he's an eccentric even among the Akademiya crowd.
 Kamal: He loves to talk about riddles with anyone, as well as research all kinds of encryption methods.
@@ -19,7 +22,6 @@ Kamal: Drusus also gave a hint, saying that the locations are all within Sumeru 
 Kamal: But as you can see, no adventurer has been able to succeed.
 Kamal: You can certainly try if you're interested.
 Kamal: But if you ask me, I'd tell you to do something else more productive...
-Traveler: Do you know who set it up?
 
 ## Talk 2
 
@@ -64,7 +66,10 @@ Drusus: Because it's fun, of course.
 Paimon: That was a quick answer!
 Drusus: Other than that reason, why do you think I wrote down these riddles?
 Drusus: Did you think that I was just enjoying being difficult?
-Traveler: Who knows...
+    Option 1:
+        Traveler: Who knows...
+    Option 2:
+        Traveler: I don't know.
 Drusus: Hahaha, then you have misunderstood me, like some people in the Akademiya.
 Drusus: I wrote these riddles down because I simply enjoy the feeling of pondering that comes with puzzling them out.
 Drusus: When you look back at my riddles, you can see that there is always a keyword leading to the final answer.
@@ -72,4 +77,3 @@ Drusus: If you use this keyword as a base and keep thinking about it, the final 
 Drusus: If I'd simply wanted to make things difficult for others, I would erase all the clues and turn the riddle into a truly unsolvable problem.
 Drusus: Let's not talk about this now. Since you've solved all my riddles, you can take these.
 Drusus: This is the reward you've won with your pondering. Keep them.
-Traveler: I don't know.

@@ -31,8 +31,12 @@ Collei: It's... it's an honor to become the source of your inspiration!
 Paimon: Whoa, Collei looks like she's about to pass out... Uhh, hey Collei, are you okay?
 Collei: Ah, I'm okay. Sorry, I just got a little too excited.
 Tanger: Are you two story lovers as well? Yes... Yes! The moment I saw you, the image of an Aragiant and an Arafinch traveling together popped into my mind!
-Traveler: We've been tasked with seeking your help.
-Tanger: Oh? Who asked for my help? My sincerest apologies, but I have fans all over Sumeru... Trying to remember every last one is like trying to identify each grain of sand in the desert.
+    Option 1:
+        Traveler: We've been tasked with seeking your help.
+        Tanger: Oh? Who asked for my help? My sincerest apologies, but I have fans all over Sumeru... Trying to remember every last one is like trying to identify each grain of sand in the desert.
+    Option 2:
+        Traveler: Yup, I'm the Aragiant and she's the Arafinch!
+        Tanger: Ah, excellent, improvisation! Yes, mount your trusty steed of imagination and canter through the lush meadows of lyrical expression... you have the potential to become a celebrated storyteller too, you know!
 Paimon: Umm... Seems like Tanger has a slightly exaggerated view of what it means to be a children's author...
 Paimon: Also, Paimon's not a finch! That's nothing to get excited about.
 Traveler: Let's put the jokes aside and get down to business.
@@ -61,10 +65,10 @@ Collei: Wait! Not that way...
 Paimon: Collei, what's wrong?
 Collei: Nothing, but that way leads us deeper into the Avidya Forest. I'm just concerned for Tanger's safety.
 Collei: And I think I'm starting to understand why Razi and Tanger were fighting...
-Traveler: (Maybe there's something else going on.)
-Traveler: (Maybe that's the secret Razi was keeping...)
-Traveler: Yup, I'm the Aragiant and she's the Arafinch!
-Tanger: Ah, excellent, improvisation! Yes, mount your trusty steed of imagination and canter through the lush meadows of lyrical expression... you have the potential to become a celebrated storyteller too, you know!
+    Option 1:
+        Traveler: (Maybe there's something else going on.)
+    Option 2:
+        Traveler: (Maybe that's the secret Razi was keeping...)
 
 ## Talk 6
 
@@ -104,7 +108,10 @@ Paimon: A clever Aranara... Is the emphasis on "clever," or "Aranara"?
 ## Talk 13
 
 Tanger: How does it feel to bear witness to a groundbreaking discovery? Exciting, isn't it?
-Traveler: What's so groundbreaking about it?
+    Option 1:
+        Traveler: What's so groundbreaking about it?
+    Option 2:
+        Traveler: They looked like messages left by children.
 Tanger: The crude handwriting may look like a child's, but don't forget, we're in the middle of a rainforest.
 Tanger: I doubt that a child would be able to reach this deep into the forest, and I doubt even more that they would think of this lowly tree hollow as some sort of impenetrable castle.
 Tanger: I boldly hypothesize that this tree hollow is in fact the Aranara's Akademiya. The notes we saw were written by the Aranara themselves. There is no doubt in my mind about that.
@@ -116,7 +123,10 @@ Traveler: Not at all...
 Tanger: Well, many an adventurer knows how to take to the skies with their easily visible wind gliders, yet they do not possess the invisible wings of imagination, making it hard for them to keep up with my train of thought.
 Tanger: How about you, Miss Forest Ranger? Do you soar into the atmosphere on the wings of imagination?
 Collei: Huh!? Me? I don't know... Maybe I do, but maybe not. Anyway... it has nothing to do with me, so...
-Traveler: Collei, is everything okay?
+    Option 1:
+        Traveler: Collei, is everything okay?
+    Option 2:
+        Traveler: Are you sure you're not feeling unwell?
 Collei: Yeah, I'm fine. It's just that... witnessing Tanger's creative process is a little... um...
 Tanger: Overwhelming?
 Collei: Oh yes, yes, overwhelming.
@@ -127,8 +137,6 @@ Collei: No. I think we should return to our camp first.
 Collei: Tanger, in "Aranara and the Ill Little Fungus," it says that Aranara are very sensitive creatures. I don't think they'll show up if we stay here.
 Tanger: Oh? Was that in the story? Ah... yes, I remember now. Miss Forest Ranger, you sure know your stuff!
 Tanger: In that case, let's go back to camp and call it a day. We'll continue our search for evidence first thing in the morning.
-Traveler: Are you sure you're not feeling unwell?
-Traveler: They looked like messages left by children.
 
 ## Talk 14
 
@@ -137,13 +145,17 @@ Traveler: They looked like messages left by children.
 ## Talk 15
 
 Paimon: #Traveler, Traveler, wake up.
-Traveler: What's wrong?
+    Option 1:
+        Traveler: What's wrong?
+    Option 2:
+        Traveler: Did the Aranara show up?
 Paimon: It's not the Aranara, it's Collei... She's gone!
 Paimon: Paimon's been worried about Collei since last night. Even though she kept telling us she was okay, after we saw the "evidence of Aranara activity," she's been acting kinda strange.
-Traveler: I noticed that too.
+    Option 1:
+        Traveler: I noticed that too.
+    Option 2:
+        Traveler: Maybe Tanger was too much for her.
 Paimon: Anyway, let's go find her.
-Traveler: Maybe Tanger was too much for her.
-Traveler: Did the Aranara show up?
 
 ## Talk 16
 
@@ -165,6 +177,7 @@ Paimon: Oh, right! Collei told Razi that he could tell any secret to a tree holl
 Traveler: Collei must have her reasons.
 Paimon: Yeah, you're right. We'll keep her secret for her!
 Paimon: Looks like she's almost done writing. Let's head back.
+
 Black Screen Text: Early the next morning, Tanger excitedly takes everyone back to the tree hollow.
 
 ## Talk 18
@@ -265,9 +278,11 @@ Collei: Ah! Um, I just, uh... just passed by once! Never mind that — come on n
 Collei: Let's go, Razi! Grab that Kamera and see what hidden inspiration you can discover along the way!
 Razi: Okay, let's go! C'mon, Dad!
 Tanger: Razi, slow down and watch your step.
-Traveler: Looks like everyone's in good spirits.
+    Option 1:
+        Traveler: Looks like everyone's in good spirits.
+    Option 2:
+        Traveler: Let's catch up with them!
 Paimon: Yeah!
-Traveler: Let's catch up with them!
 
 ## Additional Conversations
 

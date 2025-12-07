@@ -4,6 +4,7 @@
 ## Talk 1
 
 Ahes: Hmm. Here, aaand... here. They should be marked out on your sea chart now... Anyway, these are my best bets based on the echoes.
+
 Ahes: Let's investigate these areas next!
 
 ## Talk 2
@@ -16,8 +17,12 @@ Traveler: A... military conch?
 Ahes: Yes, this is an old military conch. Ancient sailors used conches as a tool to communicate with each other... It must be a relic left behind from when the navy still existed. I found it in a sunken wreck.
 Ahes: When I tuned the conch here last time, I heard her response. Since you've seen her, I think you should be able to hear her response too!
 Ahes: But you'll have to wait a moment, you know! I have to tune the conch before I can send out the proper signal.
-Traveler: In other words, that ship can receive a specific signal.
-Ahes: Yes, that's correct. However, both the time of day and the conditions of the sea will affect the conch's signal generation, so you have to constantly tune it to make sure it'll work. Hehe... that's the problem with antiques.
+    Option 1:
+        Traveler: In other words, that ship can receive a specific signal.
+        Ahes: Yes, that's correct. However, both the time of day and the conditions of the sea will affect the conch's signal generation, so you have to constantly tune it to make sure it'll work. Hehe... that's the problem with antiques.
+    Option 2:
+        Traveler: So are you saying... that she will appear when you send the signal?
+        Ahes: Hehe, pretty cool, isn't it? She's just like a whale! You sing, and she responds. I've heard the sound with my own ears, it's true.
 Ahes: Hmm, anyway, please wait while I tune this conch to align with the vibration of the waves. Don't go running too far away now!
 Black Screen Text: Ahes deftly works with the conch in her hand, and not long after, the tuning is complete...
 Ahes: Okay, that's it! Hehe, I've learned a lot from those ancient seafarer manuals!
@@ -27,20 +32,20 @@ Ahes: "Long low note, long low note, long low note, long low note, long low note
 Ahes: "Short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note"... Phew! This is a long one, for sure! This is the signal that has the highest likelihood of receiving a response, and as for its meaning...
 Ahes: According to the manual at least... it means "I have a message to send."
 Paimon: Hmm... So, what should we do to figure out the signal that will receive a response?
-Traveler: Use deduction to find the corresponding signal?
-Ahes: Yuck, no way. That's far too random, and we have too little concrete information... It's true that I've received some mysterious responses back after sending out these three signals, but...
-Ahes: But I've yet to discover any logical relationship between the signals and the appearance of the Sponsian...
-Ahes: So, all we can do is to try them all, one at a time...
+    Option 1:
+        Traveler: Use deduction to find the corresponding signal?
+        Ahes: Yuck, no way. That's far too random, and we have too little concrete information... It's true that I've received some mysterious responses back after sending out these three signals, but...
+        Ahes: But I've yet to discover any logical relationship between the signals and the appearance of the Sponsian...
+        Ahes: So, all we can do is to try them all, one at a time...
+    Option 2:
+        Traveler: Let's try the signals one at a time?
+        Paimon: Uh... Can't we use some sort of time-saving method... or something a bit smarter? Like... deduction or something!
+        Traveler: You try, Paimon.
+        Paimon: Hehe... If Paimon was to start using deductive reasoning, then why don't we make a chart and find the signal with the highest response rate? That should be the signal we're looking for!
+        Ahes: ...Hmm, though we are in Fontaine, and most ships are required to respond to signals by law... the ship we're looking for isn't normal in any sense of the word, you know?
+        Ahes: So, we can't expect her to consistently respond to the same signals... In other words, the fundamental requirements for deductive reasoning to work simply don't apply here. Too many things are random, and we lack any evidence to work off of.
+        Paimon: Urgh... Th—Then let's just try them one at a time...
 Ahes: So, which one should we start with?
-Traveler: Let's try the signals one at a time?
-Paimon: Uh... Can't we use some sort of time-saving method... or something a bit smarter? Like... deduction or something!
-Traveler: You try, Paimon.
-Paimon: Hehe... If Paimon was to start using deductive reasoning, then why don't we make a chart and find the signal with the highest response rate? That should be the signal we're looking for!
-Ahes: ...Hmm, though we are in Fontaine, and most ships are required to respond to signals by law... the ship we're looking for isn't normal in any sense of the word, you know?
-Ahes: So, we can't expect her to consistently respond to the same signals... In other words, the fundamental requirements for deductive reasoning to work simply don't apply here. Too many things are random, and we lack any evidence to work off of.
-Paimon: Urgh... Th—Then let's just try them one at a time...
-Traveler: So are you saying... that she will appear when you send the signal?
-Ahes: Hehe, pretty cool, isn't it? She's just like a whale! You sing, and she responds. I've heard the sound with my own ears, it's true.
 
 ## Talk 4
 
@@ -49,14 +54,16 @@ Paimon: Gah... Even though Paimon can't see that ship, so far, she's still been 
 Paimon: But since it disappeared here, perhaps it's a hint to tell us to find something? For all you know, there might be lost treasure here!
 Ahes: Hehe, little jellyfish Paimon sure is greedy.
 Ahes: But what we're looking for isn't treasure at all... Yes, if we have to give it a name, isn't it closer to "proof"?
-Traveler: By "proof," you mean...?
-Ahes: Proof that the Sponsian passed through this place. Such as a navigation log, any wreckage from the boat itself, or nautical tools... Anyway, we should be able to find something related to her!
-Paimon: Oh... so no treasure then...
+    Option 1:
+        Traveler: By "proof," you mean...?
+        Ahes: Proof that the Sponsian passed through this place. Such as a navigation log, any wreckage from the boat itself, or nautical tools... Anyway, we should be able to find something related to her!
+        Paimon: Oh... so no treasure then...
+    Option 2:
+        Traveler: Don't despair, Paimon. There might be treasure too.
+        Paimon: Yeah! That's just what Paimon thinks!
+        Ahes: Perhaps... But we're not here to find sunken treasure this time. What we want is proof that the "Sponsian" passed this way.
+        Ahes: Navigation logs, wreckage from the boat itself, or nautical tools... Anyway, we should be able to find something related to her!
 Ahes: We can use the conch to send out sounds, and analyze the returning sound waves to determine the ship's approximate location.
-Traveler: Don't despair, Paimon. There might be treasure too.
-Paimon: Yeah! That's just what Paimon thinks!
-Ahes: Perhaps... But we're not here to find sunken treasure this time. What we want is proof that the "Sponsian" passed this way.
-Ahes: Navigation logs, wreckage from the boat itself, or nautical tools... Anyway, we should be able to find something related to her!
 
 ## Talk 6
 
@@ -69,15 +76,20 @@ Traveler: I choose the longest one.
 ## Talk 8
 
 Ahes: "Long low note, long low note, long low note, long low note, long low note" — that's how this signal's supposed to go.
-Traveler: Alright, got it!
-Ahes: Hehe, you've got this!
-Traveler: Conches really are tough to operate...
-Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
-Traveler: Don't worry. I'll give this another go.
-Ahes: Thank you!
-Traveler: Alright, we're counting on you.
-Ahes: I'll take it from here, then!
-Black Screen Text: Ahes sends the signal with the conch...
+    Option 1:
+        Traveler: Alright, got it!
+        Ahes: Hehe, you've got this!
+    Option 2:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Don't worry. I'll give this another go.
+        Ahes: Thank you!
+    Option 3:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Alright, we're counting on you.
+        Ahes: I'll take it from here, then!
+        Black Screen Text: Ahes sends the signal with the conch...
 
 ## Talk 9
 
@@ -136,12 +148,14 @@ Paimon: #Yeah, there might be some good stuff left... C'mon, Traveler, let's hav
 
 Paimon: In other words, this ship must've sunk during the struggle against the sea monster...
 Paimon: Then this half was torn up by the waves and floated on the ocean currents before finally settling here.
-Traveler: And if it was indeed destroyed by the monster...
+    Option 1:
+        Traveler: And if it was indeed destroyed by the monster...
+    Option 2:
+        Traveler: ...Then her other half might still be inside its body.
 Paimon: Wait, but wouldn't that mean that she really was bitten in half? ... Huh? What's that noise?
 Paimon: Ugh, more monsters! Here they come again!
 Traveler: Paimon, hide!
 Paimon: But... but... Okay!
-Traveler: ...Then her other half might still be inside its body.
 
 ## Talk 18
 
@@ -175,15 +189,20 @@ Ahes: Hmph! This isn't enough proof. Let's go to the next location.
 
 Ahes: Do you still remember the signal? It goes "Short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note"!
 Ahes: Hehe, it's pretty long, huh?
-Traveler: Alright, got it!
-Ahes: Hehe, you've got this!
-Traveler: Conches really are tough to operate...
-Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
-Traveler: Don't worry. I'll give this another go.
-Ahes: Thank you!
-Traveler: Alright, we're counting on you.
-Ahes: I'll take it from here, then!
-Black Screen Text: Ahes sends the signal with the conch...
+    Option 1:
+        Traveler: Alright, got it!
+        Ahes: Hehe, you've got this!
+    Option 2:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Don't worry. I'll give this another go.
+        Ahes: Thank you!
+    Option 3:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Alright, we're counting on you.
+        Ahes: I'll take it from here, then!
+        Black Screen Text: Ahes sends the signal with the conch...
 
 ## Talk 22
 
@@ -194,15 +213,23 @@ Black Screen Text: Ahes sends the signal with the conch...
 Paimon: #Traveler, are you alright?
 Paimon: You told Paimon to hide, and then you went wild on those slimes... Then you picked up a handful of sand and started talking to yourself!
 Paimon: What happened to you just now? You scared Paimon half to death!
-Traveler: I witnessed the moments before the ship sank...
-Paimon: Huh? Wait... So you thought you were fighting a group of monsters from the Abyss? No wonder you had that scarily serious look on your face!
-Paimon: Hmph. If you ask Paimon, this is all Verenata's potions' fault!
+    Option 1:
+        Traveler: I witnessed the moments before the ship sank...
+        Paimon: Huh? Wait... So you thought you were fighting a group of monsters from the Abyss? No wonder you had that scarily serious look on your face!
+        Paimon: Hmph. If you ask Paimon, this is all Verenata's potions' fault!
+    Option 2:
+        Traveler: I picked up this silver pendant.
+        Paimon: A pendant? But there's nothing in your hands but sand! Huh? Wait, there's also a really small conch...
+        Paimon: Wait, so you were talking to this "imaginary pendant"? ... That's just the contents of the logbook earlier confusing you, right?
 Ahes: What's with all that noise! What are you doing!? Were you trying to haul the wreck off while I wasn't around?
 Paimon: Hmm... Is the wood from shipwrecks like these worth a lot?
 Ahes: I don't know... Hey, is that really what you're planning!? You... naughty jellyfish!
 Ahes: Hmm... Even though it's in pieces... Well, bits of it can still be collected as souvenirs...
 Ahes: I'm afraid it's probably impossible to restore its original white ironclad appearance... But I can still explore her past experiences... Maybe...
-Traveler: Captain Basil seems to have been really fond of you.
+    Option 1:
+        Traveler: Captain Basil seems to have been really fond of you.
+    Option 2:
+        Traveler: I heard Captain Basil's voice.
 Ahes: E—Eh? What...?
 Paimon: #It's nothing! Traveler has been acting strange ever since just now... Maybe some rest will do the trick!
 Ahes: #Hahahaha! Don't say that, Paimon! I believe Traveler saw something we didn't. Well... at the very least, there's no harm in thinking this way.
@@ -212,10 +239,6 @@ Ahes: That's what I want to do. Although... the meaning of some names may be los
 Paimon: That doesn't matter! We can just leave it to people who come after to rediscover them!
 Ahes: Yes! Thank you for helping me locate the Sponsian! Please accept this gift of mine!
 Paimon: Hehe, okay! See you!
-Traveler: I heard Captain Basil's voice.
-Traveler: I picked up this silver pendant.
-Paimon: A pendant? But there's nothing in your hands but sand! Huh? Wait, there's also a really small conch...
-Paimon: Wait, so you were talking to this "imaginary pendant"? ... That's just the contents of the logbook earlier confusing you, right?
 
 ## Talk 30
 
@@ -252,12 +275,17 @@ Paimon: Catch... catch what? The ship? Have you two grown sails and sprouted oar
 ## Talk 40
 
 Ahes: Oh, did you forget the signal? It's "long low note, short low note, long low note."
-Traveler: Alright, got it!
-Ahes: Hehe, you've got this!
-Traveler: Conches really are tough to operate...
-Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
-Traveler: Don't worry. I'll give this another go.
-Ahes: Thank you!
-Traveler: Alright, we're counting on you.
-Ahes: I'll take it from here, then!
-Black Screen Text: Ahes sends the signal with the conch...
+    Option 1:
+        Traveler: Alright, got it!
+        Ahes: Hehe, you've got this!
+    Option 2:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Don't worry. I'll give this another go.
+        Ahes: Thank you!
+    Option 3:
+        Traveler: Conches really are tough to operate...
+        Ahes: Well, in that case... Hehe, maybe I should do it myself, then!
+        Traveler: Alright, we're counting on you.
+        Ahes: I'll take it from here, then!
+        Black Screen Text: Ahes sends the signal with the conch...

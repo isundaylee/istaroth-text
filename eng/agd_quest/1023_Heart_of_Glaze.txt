@@ -12,20 +12,26 @@
 Paimon: Wow... This is the *Golden House*?
 Paimon: It looked impressive enough from the outside... But who would've guessed that it was even fancier on the inside... and so full of Mora!!!
 Paimon: This is where all of Teyvat's Mora is minted, right? In that case, maybe they won't notice if a few Mora go missing...
-Traveler: Touch a single Mora and we're done for!
+    Option 1:
+        Traveler: Touch a single Mora and we're done for!
+    Option 2:
+        Traveler: If it were that easy, this place would have been emptied long ago.
 Paimon: Ooh, so it's a trap. Tricky, tricky... Good thing Paimon's got you here!
 Paimon: But even if we can't take any, we can still have a closer look, right?
 Paimon: Or better yet, take a nap on top of a mountain of Mora! It's like a dream come true!
-Traveler: We'd better check on the Exuvia first.
+    Option 1:
+        Traveler: We'd better check on the Exuvia first.
+    Option 2:
+        Traveler: Something feels amiss here.
 Paimon: Oh, right! Back to business!
 Paimon: It's quiet... Too quiet. Surely someone's gotta be guarding something as important as the Exuvia.
 Paimon: #Huh!? Traveler, look! What happened here?
-Traveler: The Millelith...
+    Option 1:
+        Traveler: The Millelith...
+    Option 2:
 Traveler: They've been knocked unconscious!
 Paimon: Uh-oh, Paimon smells trouble!
 Paimon: Quick! We have to go make sure that the Exuvia is alright.
-Traveler: Something feels amiss here.
-Traveler: If it were that easy, this place would have been emptied long ago.
 
 ## Talk 3
 
@@ -33,14 +39,22 @@ Childe (???): You've already fulfilled your task as guides, so why do you still 
 Paimon: Huh? Who's there?
 Childe: If you were Fatui, I imagine that you would be entitled to a generous reward from the Tsaritsa herself.
 Childe: But now, you're nothing but dross — and you're in my way.
-Traveler: How did you find out it was here?
-Childe: Hmm, where should I start? Well, I've never been one to beat around the bush, you know. But who could have possibly guessed that the God of Geo would mysteriously perish the very moment I arrived in Liyue, and that the Exuvia would subsequently be hidden away?
-Childe: If it weren't for that lovely little Rite of Parting ceremony you put together, it would have taken me a whole lot longer to get the information I needed.
+    Option 1:
+        Traveler: How did you find out it was here?
+        Childe: Hmm, where should I start? Well, I've never been one to beat around the bush, you know. But who could have possibly guessed that the God of Geo would mysteriously perish the very moment I arrived in Liyue, and that the Exuvia would subsequently be hidden away?
+        Childe: If it weren't for that lovely little Rite of Parting ceremony you put together, it would have taken me a whole lot longer to get the information I needed.
+    Option 2:
+        Traveler: Looks like I was just in time, then.
+        Childe: Hah! Although I'm deeply grateful to you that I was able to effortlessly find this secret location...
+        Childe: Don't you think that trying to stop me now would just be wasted effort?
 Childe: Stopping the Mora mints, hiding away the Exuvia... Hahaha, the Qixing are really pulling out all the stops this time...
 Paimon: So you've been planning to take the Gnosis from inside the Exuvia all along!?
 Childe: As one of the Eleven Fatui Harbingers, it's my duty to see the will of the Tsaritsa fulfilled.
 Childe: She will get that which she desires.
-Traveler: Not if I have anything to say about it.
+    Option 1:
+        Traveler: Not if I have anything to say about it.
+    Option 2:
+        Traveler: I won't allow you to get near the Exuvia.
 Childe: Hah! I'm not asking for your blessing, and there's nothing you can do to stop me anyway.
 Childe: The time for discussion and diplomacy has already passed. I mean, if it were up to me, I would have skipped that stage to begin with... but I'm willing to do as the Tsaritsa deems fit.
 Childe: Either way — we now come to my favorite part. A simple pleasure, and one that I am oh-so-delighted to be sharing with you...
@@ -57,10 +71,6 @@ Childe: Besides, you could never defeat me. Not even in your wildest dreams. But
 Traveler: I could never defeat you!? You're completely delusional.
 Childe: Ahahahaha!
 Childe: Fighting talk, I love it! Now, let's see you live up to it.
-Traveler: I won't allow you to get near the Exuvia.
-Traveler: Looks like I was just in time, then.
-Childe: Hah! Although I'm deeply grateful to you that I was able to effortlessly find this secret location...
-Childe: Don't you think that trying to stop me now would just be wasted effort?
 
 ## Talk 4
 
@@ -76,7 +86,10 @@ Childe: And now that I consider the matter more carefully, you never had any cha
 Childe: You had no connection to the Gnosis, no matter where it had been taken.
 Paimon: That's what we've been trying to tell you! We didn't take it!
 Childe: Your show of ability today far surpasses that of Signora's initial assessment of you in Mondstadt. Tell me, how could that be?
-Traveler: (Because I'm collecting the powers of the seven elements...)
+    Option 1:
+        Traveler: (Because I'm collecting the powers of the seven elements...)
+    Option 2:
+        Traveler: (Because I'm gradually restoring my former power...)
 Childe: You already know the answer, don't you? I can see it in your eyes.
 Childe: But if that is a secret you wish to keep, I guess I'll just have to curb my curiosity.
 Childe: This battle has already left me satisfied.
@@ -86,7 +99,10 @@ Childe: Unfortunately, I must bring this amiable conversation to an end. My ques
 Childe: Given that the Gnosis wasn't taken by anyone, then we must look once again to the beginning. Perhaps it was never in the Exuvia to begin with.
 Childe: In fact, it might be that the Exuvia was just a diversion of sorts.
 Paimon: What? So you mean that...
-Traveler: Rex Lapis still lives?
+    Option 1:
+        Traveler: Rex Lapis still lives?
+    Option 2:
+        Traveler: The corpse was fake?
 Childe: Yes, it appears so. Interesting to say the least...
 Childe: It seems that the guardian deity of the capital of commerce is also well-versed in little maneuvers beyond the boundaries of contracts.
 Childe: As such, we must now look to our backup plan.
@@ -104,14 +120,14 @@ Paimon: But... the Archon War ended two thousand years ago! How could an ancient
 Childe: Simple! I've already prepared the means to awaken it.
 Paimon: Hey! Those are Sigils of Permission!
 Paimon: Oh, Paimon remembers now! The Fatui have been researching them...
-Traveler: I saw your research with my own eyes.
+    Option 1:
+        Traveler: I saw your research with my own eyes.
+    Option 2:
+        Traveler: You've been trying to duplicate them.
 Childe: Indeed. The one that was given to you was just a by-product of our research.
 Childe: With the power of so many Sigils of Permission concentrated in one place, along with that which was bestowed upon me as a Harbinger by our Tsaritsa... Breaking the subduing might of the Geo Archon's spears for a time should be no obstacle.
 Childe: Using the powers of ancient gods in such a situation fails to interest me and is largely against my principles.
 Childe: But knowing that such an action will not only force the Geo Archon to show its hand, but you as well... That makes matters a little more intriguing.
-Traveler: You've been trying to duplicate them.
-Traveler: The corpse was fake?
-Traveler: (Because I'm gradually restoring my former power...)
 
 ## Talk 6
 

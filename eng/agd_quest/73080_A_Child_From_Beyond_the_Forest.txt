@@ -12,7 +12,19 @@ Paimon: #After all, Rana only felt relaxed enough to go on a journey after Trave
 Alphonso: I see. I understand now. Even though I don't have a clue, feel free to ask.
 Traveler: First, let's recap what happened.
 Paimon: So, who was the first missing child in Vimara Village?
-Traveler: Sudabeh.
+    Option 1:
+        Traveler: Sudabeh.
+    Option 2:
+        Traveler: Kavus.
+        Alphonso: That should be Sudabeh.
+    Option 3:
+        Traveler: Iotham.
+        Paimon: No, Iotham was the last one that went missing.
+        Alphonso: It's Sudabeh.
+    Option 4:
+        Traveler: Timmie.
+        Paimon: Timmie? No, this has nothing to do with Timmie! Isn't he in Mondstadt?
+        Alphonso: Who's Timmie? Sudabeh should be the first one that went missing, right?
 Paimon: Paimon remembers now, it's Sudabeh! She heard that there were herbs that could improve Amadhiah's sight and then sneaked into the woods.
 Alphonso: That's right. We were worried when it happened and organized a search party.
 Paimon: Paimon remembers now! Rana did say you organized the search party, and brought curry along too...
@@ -21,7 +33,18 @@ Alphonso: ...I did. Sudabeh is a good kid who cares about Amadhiah. I recall men
 Paimon: Yeah, Paimon knows! She said you told her not to wander the forest alone. But she really cares about Amadhiah.
 Alphonso: Any other questions?
 Paimon: So, who was the second that went missing?
-Traveler: Kavus.
+    Option 1:
+        Traveler: Kavus.
+    Option 2:
+        Traveler: Sudabeh.
+        Paimon: No, no, didn't we just get done with Sudabeh? Paimon remembers it was her brother... Kavus, right?
+    Option 3:
+        Traveler: Iotham.
+        Paimon: Paimon doesn't think that's right... We saved Iotham when he got lost. The second should be Sudabeh's big brother Kavus, right?
+    Option 4:
+        Traveler: Changchang.
+        Paimon: Changchang is in Liyue! What's this got to do with Changchang!?
+        Paimon: #...Are you okay, Traveler? Paimon remembers, the second kid was Sudabeh's big brother named Kavus, right?
 Alphonso: Kavus... He said he was going to see a "friend" in the forest for his missing sister.
 Paimon: Yeah, he did mention that! Do you know who Kavus' friend is, Alphonso?
 Alphonso: ...
@@ -35,7 +58,10 @@ Paimon: Then the Fatui followed him. He got scared, ran, and ended up trapped in
 Alphonso: What, he went into a Withering Zone? How come he never told me that? That's unacceptable...!
 Alphonso: Wait, if he was in the Withering Zone, how did he make it back? I understand that you can master the elements without a Vision, but still...
 Paimon: (Uh, should we tell Alphonso about Arana?)
-Traveler: (That should be fine.)
+    Option 1:
+        Traveler: (That should be fine.)
+    Option 2:
+        Traveler: (He ought to know.)
 Paimon: You'll probably find this hard to believe, Alphonso, but there are fairies called Aranara in the forest. Iotham and the gang are friends with them, so the Aranara helped him.
 Alphonso: Aranara...?
 Paimon: But going after the kids... the Fatui are so despicable!
@@ -45,30 +71,18 @@ Traveler: I think someone's watching us over there, Paimon.
 Paimon: Where? Don't tell Paimon it's the bad guy we're looking for!
 Traveler: Go check it out.
 Paimon: Just Paimon alone?
-Traveler: Yell if you're in trouble and I'll be right there.
+    Option 1:
+        Traveler: Yell if you're in trouble and I'll be right there.
+    Option 2:
+        Traveler: You're small and can fly. Perfect for scouting.
 Paimon: #Fine. Can't have Traveler do everything, anyway. Paimon's got this!
 Black Screen Text: Paimon leaves excitedly.
 Alphonso: Why bother?
-Traveler: She'll be happier if she doesn't know.
+    Option 1:
+        Traveler: She'll be happier if she doesn't know.
+    Option 2:
+        Traveler: Some things are better left untold.
 Alphonso: Let's talk elsewhere.
-Traveler: Some things are better left untold.
-Traveler: You're small and can fly. Perfect for scouting.
-Traveler: (He ought to know.)
-Traveler: Sudabeh.
-Paimon: No, no, didn't we just get done with Sudabeh? Paimon remembers it was her brother... Kavus, right?
-Traveler: Iotham.
-Paimon: Paimon doesn't think that's right... We saved Iotham when he got lost. The second should be Sudabeh's big brother Kavus, right?
-Traveler: Changchang.
-Paimon: Changchang is in Liyue! What's this got to do with Changchang!?
-Paimon: #...Are you okay, Traveler? Paimon remembers, the second kid was Sudabeh's big brother named Kavus, right?
-Traveler: Kavus.
-Alphonso: That should be Sudabeh.
-Traveler: Iotham.
-Paimon: No, Iotham was the last one that went missing.
-Alphonso: It's Sudabeh.
-Traveler: Timmie.
-Paimon: Timmie? No, this has nothing to do with Timmie! Isn't he in Mondstadt?
-Alphonso: Who's Timmie? Sudabeh should be the first one that went missing, right?
 
 ## Talk 2
 
@@ -78,9 +92,13 @@ Traveler: But Rana never told you my name.
 Alphonso: Or maybe I have great hearing and overheard your name when Rana introduced you to Amadhiah.
 Traveler: She never told Amadhiah that, either.
 Alphonso: How careless of me. But besides the Fatui, the Adventurers' Guild also has an extensive network, so why don't you think I'm an adventurer?
-Traveler: You seem to know me very well.
-Traveler: You know I could control the elements without a Vision.
-Alphonso: You're quite famous for your exploits. I don't have to be a Fatuus to know that. The bottom line is, you don't have anything concrete to prove that I'm with them.
+    Option 1:
+        Traveler: You seem to know me very well.
+        Traveler: You know I could control the elements without a Vision.
+        Alphonso: You're quite famous for your exploits. I don't have to be a Fatuus to know that. The bottom line is, you don't have anything concrete to prove that I'm with them.
+    Option 2:
+        Traveler: You seem to know a lot about the Fatui.
+        Alphonso: They are notorious, enough for most people to know that. The bottom line is, you don't have anything concrete to prove that I'm with them.
 Traveler: True, but that's not important.
 Alphonso: You're right. Only the court demands proof, whereas a keen hound needs merely a scent to track the prey.
 Alphonso: Of course, a clever hound would avoid the scent it shouldn't sniff, as to not run into a dragon at the trail's end. But, from your track record, you're not one to quit.
@@ -118,25 +136,31 @@ Traveler: All this talk is meaningless.
 Alphonso (Trofin Snezhevich): I know. I just feel sorry. I wish I'd always been "Alphonso," not "Trofin Snezhevich." I wish I really was Iotham's big brother.
 Alphonso (Trofin Snezhevich): I want to be a good person, but I belong to an organization. I want to be family to Rana and the kids, but I've already got a "family" I can't turn my back on.
 Alphonso (Trofin Snezhevich): Many of my fellows have powers rivaling the Lord Harbingers and are not subject to any city or state. That's something even a free, honorary knight like you probably couldn't comprehend...
-Traveler: I do comprehend.
-Traveler: But what you did is inexcusable.
+    Option 1:
+        Traveler: I do comprehend.
+        Traveler: But what you did is inexcusable.
+    Option 2:
+        Traveler: I don't comprehend.
+        Traveler: Nor will I even attempt to.
 Alphonso (Trofin Snezhevich): Well, that's all I've got to say. So, what are you going to do with me now?
-Traveler: Don't come near Vimara Village or let me see you again.
-Alphonso (Trofin Snezhevich): I see. Got it. You won't see me again. I'm not returning to the Fatui, either, since I blew my mission and brought shame to my "siblings."
-Alphonso (Trofin Snezhevich): Iotham will probably be waiting for "Alphonso" to come back forever...
-Traveler: Go now. Paimon should be here any minute.
-Alphonso (Trofin Snezhevich): Goodbye. No, farewell.
-Traveler: (Battle) I changed my mind.
-Alphonso (Trofin Snezhevich): #I've foreseen the ending for the wicked, but I won't go down without a fight. You might be Traveler and I might not have a chance, but I'll still fight, because...
-Alphonso (Trofin Snezhevich): I'm the evil amidst good, the poison amidst the herbs, the wolf in sheep's clothing, the mercury in a golden chalice... My name is Snezhevich. Do your worst!
-Traveler: (Battle) Arana and I both agreed...
-Traveler: That the wicked must be punished.
-Alphonso (Trofin Snezhevich): #I've foreseen the ending for the wicked, but I won't go down without a fight. You might be Traveler and I might not have a chance, but I'll still fight, because...
-Alphonso (Trofin Snezhevich): I'm the evil amidst good, the poison amidst the herbs, the wolf in sheep's clothing, the mercury in a golden chalice... My name is Snezhevich. Do your worst!
-Traveler: I don't comprehend.
-Traveler: Nor will I even attempt to.
-Traveler: You seem to know a lot about the Fatui.
-Alphonso: They are notorious, enough for most people to know that. The bottom line is, you don't have anything concrete to prove that I'm with them.
+    Option 1:
+        Traveler: Don't come near Vimara Village or let me see you again.
+        Alphonso (Trofin Snezhevich): I see. Got it. You won't see me again. I'm not returning to the Fatui, either, since I blew my mission and brought shame to my "siblings."
+        Alphonso (Trofin Snezhevich): Iotham will probably be waiting for "Alphonso" to come back forever...
+        Traveler: Go now. Paimon should be here any minute.
+        Alphonso (Trofin Snezhevich): Goodbye. No, farewell.
+    Option 2:
+        Traveler: (Battle) Arana and I both agreed...
+        Traveler: That the wicked must be punished.
+        Alphonso (Trofin Snezhevich): #I've foreseen the ending for the wicked, but I won't go down without a fight. You might be Traveler and I might not have a chance, but I'll still fight, because...
+        Alphonso (Trofin Snezhevich): I'm the evil amidst good, the poison amidst the herbs, the wolf in sheep's clothing, the mercury in a golden chalice... My name is Snezhevich. Do your worst!
+    Option 3:
+        Traveler: Don't come near Vimara Village or let me see you again.
+        Alphonso (Trofin Snezhevich): I see. Got it. You won't see me again. I'm not returning to the Fatui, either, since I blew my mission and brought shame to my "siblings."
+        Alphonso (Trofin Snezhevich): Iotham will probably be waiting for "Alphonso" to come back forever...
+        Traveler: (Battle) I changed my mind.
+        Alphonso (Trofin Snezhevich): #I've foreseen the ending for the wicked, but I won't go down without a fight. You might be Traveler and I might not have a chance, but I'll still fight, because...
+        Alphonso (Trofin Snezhevich): I'm the evil amidst good, the poison amidst the herbs, the wolf in sheep's clothing, the mercury in a golden chalice... My name is Snezhevich. Do your worst!
 
 ## Talk 3
 

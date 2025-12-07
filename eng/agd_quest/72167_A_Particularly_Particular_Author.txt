@@ -7,20 +7,28 @@
 
 Katheryne: Your deeds on Seirai Island have been reported to me by Miss Etsuko. You've done very well.
 Katheryne: But back on topic, the Guild has received a commission of even greater difficulty than that which you accomplished on Seirai. I wonder if you'd be interested...
-Traveler: Even harder, you say?
+    Option 1:
+        Traveler: Even harder, you say?
+    Option 2:
+        Traveler: Something like "Increasing Danger"?
+        Katheryne: ...You'd consider that sort of commission difficult? Hmm, I suppose I should take that into account next time...
+        Katheryne: ...
+        Katheryne: Regardless, it's not that sort of commission.
+    Option 3:
+        Traveler: Even Fatui Harbingers fall before me.
+        Katheryne: That is the case, yes.
 Katheryne: The person who commissioned this quest is a Miss Sumida. As for the details, it might be best for you to get them straight from her.
 Katheryne: Well then, ad astra abyssosque! I await the completion of your next feat.
-Traveler: Something like "Increasing Danger"?
-Katheryne: ...You'd consider that sort of commission difficult? Hmm, I suppose I should take that into account next time...
-Katheryne: ...
-Katheryne: Regardless, it's not that sort of commission.
-Traveler: Even Fatui Harbingers fall before me.
-Katheryne: That is the case, yes.
 
 ## Talk 2
 
 Sumida: #Ah, hello there. Might you be the illustrious Traveler?
-Traveler: The "illustrious," you say...
+    Option 1:
+        Traveler: The "illustrious," you say...
+    Option 2:
+        Traveler: #I am Traveler, yes.
+    Option 3:
+        Traveler: #That's me, the legendary Traveler.
 Paimon: And Paimon's the illustrious Paimon!
 Sumida: Alright then. So, tell me, have you ever "obtained the mightiest sword in the village"?
 Traveler: The Harbinger of Dawn counts, I guess?
@@ -31,13 +39,19 @@ Sumida: Well then, did you defeat a giant dragon not long after your story began
 Traveler: Well, I can't say I haven't...
 Paimon: But hang on, what do you mean by "not long after your story began"?
 Sumida: Or are you, perhaps, in fact a traveler from "another world," just like the main character in "Flowers for Princess Fischl"?
-Traveler: Wait, what?
+    Option 1:
+        Traveler: Wait, what?
+    Option 2:
+        Traveler: ...
 Sumida: Hmm, I can't feel that sense of "destiny" that a protagonist should have from you.
 Paimon: Y'know, when Katheryne said this was going to be harder, did she mean that communicating was gonna be harder?
-Traveler: That's it, I'm leaving.
-Sumida: Eh!? Wait! Don't go!
-Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
-Sumida: But in truth, I suppose such people are hard to find...
+    Option 1:
+        Traveler: That's it, I'm leaving.
+        Sumida: Eh!? Wait! Don't go!
+        Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
+        Sumida: But in truth, I suppose such people are hard to find...
+    Option 2:
+        Traveler: So, about your commission...
 Sumida: My name's Sumida. As for my pen name... I haven't finished thinking about it yet. I've got plans to take part in this year's "This Novel Is Amazing!" As such, I need a reliable adventurer to help me make a trip to Tsurumi Island.
 Traveler: Tsurumi Island?
 Sumida: #That's right. Now, the name of my novel is currently "The Chronicles of the Sea of Fog." The broad strokes of its plot are as such: a nameless {F#young lady}{M#young man} and {F#her}{M#his} adventures in a nation shrouded in perpetual fog.
@@ -50,7 +64,13 @@ Traveler: So, about your commission...
 Sumida: Ah, right. Sorry, I got off topic.
 Sumida: Actually, I've been reflecting on that habit of mine quite often. It seeps into my writing as well, to the point where I once wrote over 20 pages before ever getting to the point.
 Sumida: At that time, I wanted to use the legend of the Kitsune Saiguu ushering people into the underground halls of Araumi to save them from a disaster as the basis for a tale about her new incarnation's peaceful life amongst the people of Hanamizaka...
-Traveler: So what do you need me to do on Tsurumi Island?
+    Option 1:
+        Traveler: So what do you need me to do on Tsurumi Island?
+    Option 2:
+        Traveler: To the point, please.
+    Option 3:
+        Traveler: That's it, I'm leaving.
+        Sumida: Eh? Wait! I'm sorry! I'm sorry! Don't go!
 Sumida: My bad, my bad... So, please go to Tsurumi Island and find a way to bring a Maushiro back to me. This is a traditional instrument of the civilization native to the island, which has been lost for several millennia now.
 Sumida: #As to why I need one, the — fictional, obviously — plot of "The Chronicles of the Sea of Fog (Working Title)" takes place on Tsurumi Island, and when a nameless {F#young lady}{M#young man} sets foot upon it—
 Paimon: #Let's go, Traveler.
@@ -63,22 +83,17 @@ Traveler: That sounds very dangerous.
 Sumida: True, and I almost died back then, too. If I hadn't instructed Kama to get me out of there if he saw that something was going awry...
 Sumida: I was laid up in bed for a few days after that rescue. Everything I could see, everything I threw up... It was all purple.
 Sumida: But now that I think about it, the fact that everything I threw up was purple might've been a result of my only being able to see in purple at the time.
-Traveler: Sounds more like you had too much Lavender Melon to eat.
-Sumida: ...
-Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+    Option 1:
+        Traveler: Sounds more like you had too much Lavender Melon to eat.
+        Sumida: ...
+        Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+    Option 2:
+        Traveler: And what did you get written?
+        Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
+        Paimon: Wait, then wasn't it all for nothing?
+        Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime."
 Sumida: In any case, this letter is for you. Pass it to a man named Kama in Ritou, and he will take you to Tsurumi Island.
 Sumida: Please, this year's "This Novel is Amazing!" grand prize is at stake!
-Traveler: And what did you get written?
-Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
-Paimon: Wait, then wasn't it all for nothing?
-Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime."
-Traveler: To the point, please.
-Traveler: That's it, I'm leaving.
-Sumida: Eh? Wait! I'm sorry! I'm sorry! Don't go!
-Traveler: So, about your commission...
-Traveler: ...
-Traveler: #I am Traveler, yes.
-Traveler: #That's me, the legendary Traveler.
 
 ## Talk 3
 
@@ -87,10 +102,12 @@ Traveler: Sumida sent us.
 Kama: Another one, huh?
 Traveler: Another?
 Kama: ...It's nothing. Since Lady Sumida has recommended you, I have no complaints. Are you ready to go to Tsurumi Island?
-Traveler: I'm ready.
-Kama: Then let us go while the weather remains clement.
-Traveler: Not yet.
-Kama: Come back once you are, then.
+    Option 1:
+        Traveler: I'm ready.
+        Kama: Then let us go while the weather remains clement.
+    Option 2:
+        Traveler: Not yet.
+        Kama: Come back once you are, then.
 
 ## Talk 4
 
@@ -98,32 +115,38 @@ Kama: After two round trips, you should know which way to go now.
 Paimon: Thanks, Kama!
 Kama: No need to thank me. These were Lady Sumida's instructions, after all.
 Paimon: Actually, Paimon's kinda interested to know...
-Traveler: Have you ferried lots of people here to Tsurumi Island?
-Kama: ...
-Kama: I have ferried people and goods to Tsurumi Island, and also to the lands across the ocean.
-Kama: It makes no difference to me. So long as Lady Sumida asks it of me, I will do it.
+    Option 1:
+        Traveler: Have you ferried lots of people here to Tsurumi Island?
+        Kama: ...
+        Kama: I have ferried people and goods to Tsurumi Island, and also to the lands across the ocean.
+        Kama: It makes no difference to me. So long as Lady Sumida asks it of me, I will do it.
+    Option 2:
+        Traveler: What's with the "Lady"?
+        Kama: I owe Lady Sumida.
 Paimon: Sounds like a long story.
 Kama: ...
 Kama: I've said too much.
 Kama: Well then. Farewell.
-Traveler: What's with the "Lady"?
-Kama: I owe Lady Sumida.
 
 ## Talk 5
 
 Kama: Are you ready to head back?
-Traveler: I'm ready.
-Kama: Good. Hop on, then.
-Traveler: Not yet.
-Kama: ...
+    Option 1:
+        Traveler: I'm ready.
+        Kama: Good. Hop on, then.
+    Option 2:
+        Traveler: Not yet.
+        Kama: ...
 
 ## Talk 6
 
 Kama: Are you ready?
-Traveler: I'm ready.
-Kama: Then let us go while the weather remains clement.
-Traveler: Not yet.
-Kama: ...
+    Option 1:
+        Traveler: I'm ready.
+        Kama: Then let us go while the weather remains clement.
+    Option 2:
+        Traveler: Not yet.
+        Kama: ...
 
 ## Talk 7
 
@@ -133,9 +156,18 @@ Traveler: Uh, I didn't mean to scare you...
 ???: And you've got... a little floating girl with you too! That's awesome! I haven't seen any outlanders in soooo long!
 Paimon: Paimon's not a "little girl" or whatever. Paimon's Paimon! And who're you, kiddo?
 ??? (Ruu): My name's Ruu!
-Traveler: #Well, I'm Traveler.
+    Option 1:
+        Traveler: #Well, I'm Traveler.
+    Option 2:
+        Traveler: #I'm the legendary Traveler.
+        ??? (Ruu): #Ooh, the legendary Traveler?
+    Option 3:
+        Traveler: #Well, I'm Traveler.
 Paimon: Uh, either way, the important thing here is...
-Traveler: To remind this kid to get to a safe spot.
+    Option 1:
+        Traveler: To remind this kid to get to a safe spot.
+    Option 2:
+        Traveler: To ask about the whereabouts of the Maushiro.
 Paimon: No, no, we've got to figure out who the "littler" person is here! How many years old are you, Ruu?
 ??? (Ruu): Umm... What does "years old" mean?
 Paimon: That's the number of years that've gone by since you were born.
@@ -148,7 +180,10 @@ Traveler: How do you count "a year," if I might ask?
 Paimon: Whaaaa...
 Paimon: (Hold it just a minute there. Didn't Sumida say that Tsurumi Island's civilization has vanished for several millennia now?)
 Paimon: (And his way of counting years is so weird!)
-Traveler: (It's probably because they can't see the sun or moon due to the giant fog.)
+    Option 1:
+        Traveler: (It's probably because they can't see the sun or moon due to the giant fog.)
+    Option 2:
+        Traveler: (Well, either way, let's hear what the kid has to say.)
 ??? (Ruu): Still, you've come at exactly the right time! Today's the day of our big ceremony!
 ??? (Ruu): Kapatcir will definitely be pleased to have new and rare guests taking part.
 Paimon: Who's that?
@@ -158,31 +193,33 @@ Paimon: Sounds like a lot of fun!
 ??? (Ruu): Exactly! Everyone tells me that I'll be the star of the show this time, too!
 ??? (Ruu): But we'll need to do some things before the ceremony can start!
 ??? (Ruu): #Either way, Traveler, Paimon, come with me!
-Traveler: (Well, either way, let's hear what the kid has to say.)
-Traveler: To ask about the whereabouts of the Maushiro.
-Traveler: #I'm the legendary Traveler.
-??? (Ruu): #Ooh, the legendary Traveler?
 
 ## Talk 8
 
 Paimon: Wow! So this is Tsurumi Island? This...
 Paimon: ...Looks really sad! What's with this huge fog!?
-Traveler: Sumida mentioned this as well.
+    Option 1:
+        Traveler: Sumida mentioned this as well.
+    Option 2:
+        Traveler: A most unique environmental phenomenon.
 Paimon: Kama, do you know that... Uh, what is it again?
-Traveler: "Kino's Travels"?
-Kama: Yes, Lady Sumida has mentioned it before.
-Paimon: No! That's not what Paimon means! Paimon's talking about that Maushi-something that Sumida asked us to come look for!
+    Option 1:
+        Traveler: "Kino's Travels"?
+        Kama: Yes, Lady Sumida has mentioned it before.
+        Paimon: No! That's not what Paimon means! Paimon's talking about that Maushi-something that Sumida asked us to come look for!
+    Option 2:
+        Traveler: The Maushiro?
+        Paimon: Yeah! That's it!
 Paimon: Kama, do you know where we should start looking?
 Traveler: If he knew, Sumida wouldn't need our help.
 Paimon: Ugh, this is so annoying! Does Paimon have to do everything herself!?
-Traveler: I think you're forgetting who does the heavy lifting around here...
+    Option 1:
+        Traveler: I think you're forgetting who does the heavy lifting around here...
+    Option 2:
+        Traveler: All the same, do you have any suggestions?
 Kama: It's best to enter through that great gate over there, lest you get lost in the fog all too easily.
 Kama: I will wait for you here.
 Kama: Look for me once you secure the Maushiro. I will send you back.
-Traveler: All the same, do you have any suggestions?
-Traveler: The Maushiro?
-Paimon: Yeah! That's it!
-Traveler: A most unique environmental phenomenon.
 
 ## Talk 9
 
@@ -216,7 +253,10 @@ Makiri: Oh~ I see, I see. I get it now.
 Ipe: ...Did you really?
 Makiri: Probably~
 Ruu: (Big Sister Makiri's just pretending to not get it.)
-Traveler: (I can tell.)
+    Option 1:
+        Traveler: (I can tell.)
+    Option 2:
+        Traveler: (Huh, I couldn't tell.)
 Paimon: So we just need to find those feathers, right?
 Ipe: So we just need to find some weird looking feathers.
 Ipe: It's made using the Great Thunderbird's power, so if you have keen elemental senses like Ruu does, finding them would be a cinch.
@@ -227,7 +267,6 @@ Ipe: Don't be silly.
 Makiri: Oh. Sorry.
 Ruu: C'mon, you two. Let's go find those feathers! If you help make offerings to the Perch, I'm sure Kapatcir would be happy.
 Paimon: Uhh... Alright then. Let's just touch that perch first, shall we?
-Traveler: (Huh, I couldn't tell.)
 
 ## Talk 12
 
@@ -236,13 +275,19 @@ Makiri: Nice!
 Ruu: You're back!
 Paimon: We're back!
 Ruu: The Perch looks really happy. I'm sure Kapatcir will be really happy too!
-Traveler: Well, that's nice.
-Paimon: That said, who is Kapatcir?
+    Option 1:
+        Traveler: Well, that's nice.
+        Paimon: That said, who is Kapatcir?
+    Option 2:
+        Traveler: Who's Kapatcir?
 Ruu: My friend!
 Ruu: Kapatcir loves to hear me sing. I'll be singing for her during the ceremony!
 Paimon: #Traveler can sing too! Well, {F#her}{M#his} singing turns Glaze Lilies into Whopperflowers, though.
 Ruu: That's amazing!
-Traveler: Uh, Paimon, that's not what happened...
+    Option 1:
+        Traveler: Uh, Paimon, that's not what happened...
+    Option 2:
+        Traveler: Mind if I ask about Maushiro...
 Ruu: Oh, you need a Maushiro? Well, we'll be heading to the ceremonial site soon.
 Ruu: They're going to put all the Maushiro there during the ceremony. I bet Grandpa Mata is going to need help making offerings at the other Perches, too.
 Ruu: Well then. See you both later!
@@ -250,8 +295,6 @@ Traveler: Not coming with us?
 Ruu: I've got some preparations to make for the ceremony. I'll be meeting Kapatcir there, after all!
 Ruu: Everyone's been looking forward to this ceremony, too! I won't disappoint them!
 Paimon: Well, seeya later then!
-Traveler: Mind if I ask about Maushiro...
-Traveler: Who's Kapatcir?
 
 ## Talk 13
 
@@ -265,23 +308,28 @@ Traveler: We can go have a look at those.
 Paimon: Where are those three other perches?
 Mata: I hope that... No, the Great Thunderbird will surely be pleased with the ceremony this time...
 Paimon: Eh?
-Traveler: What's this Thunderbird you speak of?
+    Option 1:
+        Traveler: What's this Thunderbird you speak of?
+    Option 2:
+        Traveler: Tell me about the ceremony...
+    Option 3:
+        Traveler: Could you tell me about the Maushiro...
 Mata: ...
 Paimon: Aw, c'mon! Why's he ignoring us?
 Paimon: We're here to help, too!
-Traveler: Tell me about the ceremony...
-Traveler: Could you tell me about the Maushiro...
 
 ## Talk 14
 
 Paimon: Well, that's all the Perches settled. Guess they can start the ceremony without a hitch now, huh?
 Paimon: Mm-mm, after hearing Ruu talk about it so much, Paimon's getting all excited!
-Traveler: Same here.
+    Option 1:
+        Traveler: Same here.
+    Option 2:
+        Traveler: He didn't actually say all that much.
+        Paimon: Eh? But he did say a lot about it! You know, like how excited everyone was and how we were welcome...
+        Paimon: ...
+        Paimon: Eh, whatever! Forget it!
 Paimon: Even if you don't wanna go, we've got to be there if we wanna get that Maushiro.
-Traveler: He didn't actually say all that much.
-Paimon: Eh? But he did say a lot about it! You know, like how excited everyone was and how we were welcome...
-Paimon: ...
-Paimon: Eh, whatever! Forget it!
 
 ## Talk 15
 
@@ -290,9 +338,11 @@ Paimon: Eh, whatever! Forget it!
 ## Talk 16
 
 Paimon: ...Eh? Where'd he go?
-Traveler: I've got a bad feeling about this.
+    Option 1:
+        Traveler: I've got a bad feeling about this.
+    Option 2:
+        Traveler: That's real spooky.
 Paimon: Hmm, looks like there's something over there...
-Traveler: That's real spooky.
 
 ## Talk 17
 
@@ -306,11 +356,17 @@ Sumida: ...Or else my novel will never get written!
 Paimon: Oh, come on! A commission of this level was a piece of cake for us!
 Paimon: #C'mon, Traveler, let's show her the Maushiro we found!
 Paimon: Let's finish this commission, get paid, and head over to Kiminami Restaurant for a good meal...
-Traveler: The Maushiro...
+    Option 1:
+        Traveler: The Maushiro...
+    Option 2:
+        Traveler: It's gone.
 Paimon: What? Gone?
 Paimon: That's impossible! We just got it!
 Sumida: *sigh*
-Traveler: That can't be...
+    Option 1:
+        Traveler: That can't be...
+    Option 2:
+        Traveler: I'm not trying to cheat you...
 Sumida: Looks like it happened to you, too... What a headache.
 Sumida: Don't take it too hard.
 Sumida: To be honest, I haven't given you full disclosure either. I did commission other people before sending you.
@@ -330,27 +386,34 @@ Paimon: If you just say that it makes a "phweeet" noise, no one could tell the d
 Sumida: The Maushiro, huh...
 Sumida: "When I awoke, a [insert Maushiro sound here] echoed through the bone-ashen fog that surrounded me. I felt as if I were in a dream, so I kept lying there. The sand lay against my cheek, telling me that my dream was set on a beach."
 Sumida: "[Insert aforementioned noise here] grew ever louder, and only then did I recall, like a lightning bolt piercing the fog, that promise I made with a friend. Only then did I recall that this world was not all beaches and sea, but cities and trees also..."
-Traveler: I'd give that passage an 8 out of 10.
+    Option 1:
+        Traveler: I'd give that passage an 8 out of 10.
+    Option 2:
+        Traveler: I'd probably give this opening a 6.
+    Option 3:
+        Traveler: Eh, I'd give this a 4 out of 10.
+    Option 4:
+        Traveler: What are you even talking about?
 Sumida: ...I'm talking about how I won't be able to write this passage if I don't know what a Maushiro sounds like!
 Sumida: As a novelist, this is unacceptable! Unacceptable! Ugh!
 Paimon: Uh, don't worry, Paimon gets you...
-Traveler: I suggest hiring someone else.
-Paimon: Oh, don't be like that! Paimon's really interested in Tsurumi Island, too...
+    Option 1:
+        Traveler: I suggest hiring someone else.
+        Paimon: Oh, don't be like that! Paimon's really interested in Tsurumi Island, too...
+    Option 2:
+        Traveler: Is there any other way?
 Sumida: If you don't mind... I can contact all the other people who took this commission before. Perhaps a discussion might yield some kind of breakthrough...
 Sumida: Don't worry, I won't decrease your pay over this!
 Paimon: #Paimon reckons this is a great idea! What do you think, Traveler?
-Traveler: No harm in trying.
+    Option 1:
+        Traveler: No harm in trying.
+    Option 2:
+        Traveler: Well, I'm quite interested in investigating Tsurumi Island anyway.
+    Option 3:
+        Traveler: So long as I'm being paid fairly...
 Sumida: Wonderful! You have my gratitude.
 Sumida: Thank you... Thank you so much for your trouble.
 Sumida: I'll contact the people I commissioned before. Give me a while to prepare, and then we'll meet back here.
-Traveler: Well, I'm quite interested in investigating Tsurumi Island anyway.
-Traveler: So long as I'm being paid fairly...
-Traveler: Is there any other way?
-Traveler: I'd probably give this opening a 6.
-Traveler: Eh, I'd give this a 4 out of 10.
-Traveler: What are you even talking about?
-Traveler: I'm not trying to cheat you...
-Traveler: It's gone.
 
 ## Talk 19
 
@@ -360,34 +423,44 @@ Traveler: Well, I suppose that's this commission done.
 Paimon: Still... Paimon feels cheated!
 Traveler: And what were you cheated out of, exactly?
 Paimon: They said there'd be a ceremony! And we helped them out with so many things, too!
-Traveler: Well, I'm not sure any of this matters other than getting the job done.
-Paimon: True, but there is one thing that's still very strange...
+    Option 1:
+        Traveler: Well, I'm not sure any of this matters other than getting the job done.
+        Paimon: True, but there is one thing that's still very strange...
+    Option 2:
+        Traveler: The happenings on this island are quite concerning.
+        Paimon: Paimon thinks there's something odd about this place, too...
 Paimon: There should've been more people here, but it looks like all of them have vanished...
 Paimon: And all those people felt like they had a few screws loose, anyway...
 Paimon: Whatever. Let's go look for Kama first.
 Traveler: He should be waiting for us at the entrance.
 Paimon: Anchors aweigh!
-Traveler: The happenings on this island are quite concerning.
-Paimon: Paimon thinks there's something odd about this place, too...
 
 ## Talk 20
 
 Sumida: You're back. Do you have the Maushiro?
-Traveler: Could I ask about Kama for a moment?
-Sumida: Him? ...Well, it all started when I heard Tang Wen mention Wangshu Inn's Almond Tofu. I thought it would make for a good addition to my novels. For example...
-Sumida: ...Um, I mean. So he's a reliable man who can get you to all sorts of places with eyes. He can even pass through the storms of a sealed nation.
-Sumida: He's got that "keeping his true power a mystery, only to join the protagonist's party in the closing phases of the story" sort of feeling to him, you know? I've worked with him many times.
-Traveler: So then, about Tsurumi Island...
-Sumida: It is an island to the distant south of Narukami Island, shrouded in a perpetual veil of fog. According to the "Tales of Distant Seas," there were settlements on that island up till several millennia ago, but they were laid waste due to some unknown reason.
-Sumida: Very interesting, no? Uh, I know it's not exactly respectful to say that a civilization's fall is "interesting," but it really does make my writing hand itch! "The Chronicles of the Sea of Fog (Working Title)" is meant to be an adventure title set on Tsurumi Island based on what we already know about its culture...
-Traveler: (Let's beat a discreet retreat...)
-Traveler: Not yet.
-Sumida: Please find the Maushiro... This year's "This Novel is Amazing!" grand prize is at stake!
+    Option 1:
+        Traveler: Could I ask about Kama for a moment?
+        Sumida: Him? ...Well, it all started when I heard Tang Wen mention Wangshu Inn's Almond Tofu. I thought it would make for a good addition to my novels. For example...
+        Sumida: ...Um, I mean. So he's a reliable man who can get you to all sorts of places with eyes. He can even pass through the storms of a sealed nation.
+        Sumida: He's got that "keeping his true power a mystery, only to join the protagonist's party in the closing phases of the story" sort of feeling to him, you know? I've worked with him many times.
+    Option 2:
+        Traveler: So then, about Tsurumi Island...
+        Sumida: It is an island to the distant south of Narukami Island, shrouded in a perpetual veil of fog. According to the "Tales of Distant Seas," there were settlements on that island up till several millennia ago, but they were laid waste due to some unknown reason.
+        Sumida: Very interesting, no? Uh, I know it's not exactly respectful to say that a civilization's fall is "interesting," but it really does make my writing hand itch! "The Chronicles of the Sea of Fog (Working Title)" is meant to be an adventure title set on Tsurumi Island based on what we already know about its culture...
+        Traveler: (Let's beat a discreet retreat...)
+    Option 3:
+        Traveler: Not yet.
+        Sumida: Please find the Maushiro... This year's "This Novel is Amazing!" grand prize is at stake!
 
 ## Talk 21
 
 Sumida: #Ah, hello there. Might you be the illustrious Traveler?
-Traveler: The "illustrious," you say...
+    Option 1:
+        Traveler: The "illustrious," you say...
+    Option 2:
+        Traveler: #I am Traveler, yes.
+    Option 3:
+        Traveler: #That's me, the legendary Traveler.
 Paimon: And Paimon's the illustrious Paimon!
 Sumida: Alright then. So, tell me, have you ever "obtained the mightiest sword in the village"?
 Sumida: Have you led a life surrounded by beautiful men and ladies?
@@ -395,13 +468,19 @@ Sumida: Well then, did you defeat a giant dragon not long after your story began
 Traveler: Well, I can't say I haven't...
 Paimon: But hang on, what do you mean by "not long after your story began"?
 Sumida: Or are you, perhaps, in fact a traveler from "another world," just like the main character in "Flowers for Princess Fischl"?
-Traveler: Uh...
+    Option 1:
+        Traveler: Uh...
+    Option 2:
+        Traveler: ...
 Sumida: Hmm, I can't feel that sense of "destiny" that a protagonist should have from you.
 Paimon: Y'know, when Katheryne said this was going to be harder, did she mean that communicating was gonna be harder?
-Traveler: That's it, I'm leaving.
-Sumida: Eh!? Wait! Don't go!
-Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
-Sumida: But in truth, I suppose such people are hard to find...
+    Option 1:
+        Traveler: That's it, I'm leaving.
+        Sumida: Eh!? Wait! Don't go!
+        Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
+        Sumida: But in truth, I suppose such people are hard to find...
+    Option 2:
+        Traveler: So, about your commission...
 Sumida: My name's Sumida. As for my pen name... I haven't finished thinking about it yet. I've got plans to take part in this year's "This Novel Is Amazing!" As such, I need a reliable adventurer to help me make a trip to Tsurumi Island.
 Traveler: Tsurumi Island?
 Sumida: #That's right. Now, the name of my novel is currently "The Chronicles of the Sea of Fog." The broad strokes of its plot are as such: a nameless {F#young lady}{M#young man} and {F#her}{M#his} adventures in a nation shrouded in perpetual fog.
@@ -414,7 +493,13 @@ Traveler: So, about your commission...
 Sumida: Ah, right. Sorry, I got off topic.
 Sumida: Actually, I've been reflecting on that habit of mine quite often. It seeps into my writing as well, to the point where I once wrote over 20 pages before ever getting to the point.
 Sumida: At that time, I wanted to use the legend of the Kitsune Saiguu ushering people into the underground halls of Araumi to save them from a disaster as the basis for a tale about her new incarnation's peaceful life amongst the people of Hanamizaka...
-Traveler: So what do you need me to do on Tsurumi Island?
+    Option 1:
+        Traveler: So what do you need me to do on Tsurumi Island?
+    Option 2:
+        Traveler: To the point, please.
+    Option 3:
+        Traveler: That's it, I'm leaving.
+        Sumida: Eh? Wait! I'm sorry! I'm sorry! Don't go!
 Sumida: My bad, my bad... So, please go to Tsurumi Island and find a way to bring a Maushiro back to me. This is a traditional instrument of the civilization native to the island, which has been lost for several millennia now.
 Sumida: #As to why I need one, the — fictional, obviously — plot of "The Chronicles of the Sea of Fog (Working Title)" takes place on Tsurumi Island, and when a nameless {F#young lady}{M#young man} sets foot upon it—
 Paimon: #Let's go, Traveler.
@@ -427,31 +512,28 @@ Traveler: That sounds very dangerous.
 Sumida: True, and I almost died back then, too. If I hadn't instructed Kama to get me out of there if he saw that something was going awry...
 Sumida: I was laid up in bed for a few days after that rescue. Everything I could see, everything I threw up... It was all purple.
 Sumida: But now that I think about it, the fact that everything I threw up was purple might've been a result of my only being able to see in purple at the time.
-Traveler: Sounds more like you had too much Lavender Melon to eat.
-Sumida: ...
-Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+    Option 1:
+        Traveler: Sounds more like you had too much Lavender Melon to eat.
+        Sumida: ...
+        Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+    Option 2:
+        Traveler: And what did you get written?
+        Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
+        Paimon: Wait, then wasn't it all for nothing?
+        Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime."
 Sumida: In any case, this letter is for you. Pass it to a man named Kama in Ritou, and he will take you to Tsurumi Island.
 Sumida: Please, this year's "This Novel is Amazing!" grand prize is at stake!
-Traveler: And what did you get written?
-Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
-Paimon: Wait, then wasn't it all for nothing?
-Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime."
-Traveler: To the point, please.
-Traveler: That's it, I'm leaving.
-Sumida: Eh? Wait! I'm sorry! I'm sorry! Don't go!
-Traveler: So, about your commission...
-Traveler: ...
-Traveler: #I am Traveler, yes.
-Traveler: #That's me, the legendary Traveler.
 
 ## Talk 22
 
 Kama: What is it?
-Traveler: Could we ask you about the fog?
-Kama: Go through the great gate over there. This used to be one of Tsurumi Island's traditions.
-Kama: If not, you'll get lost in the fog very easily.
-Traveler: See you.
-Kama: Goodbye.
+    Option 1:
+        Traveler: Could we ask you about the fog?
+        Kama: Go through the great gate over there. This used to be one of Tsurumi Island's traditions.
+        Kama: If not, you'll get lost in the fog very easily.
+    Option 2:
+        Traveler: See you.
+        Kama: Goodbye.
 
 ## Talk 23
 
@@ -465,16 +547,18 @@ Kama: Goodbye.
 
 Ruu: #Oh, Traveler!
 Ipe: What's happened?
-Traveler: Do you know anything about this fog?
-Makiri: The fog... If it's as Grandpa Mata says, and the fog is so powerful that nothing can invade Tsurumi Island, how do things from the outside get into the Perches?
-Ipe: That's because those foreign substances come from within the ground. The fog can't stop things that come from there, which is why we need to make offerings and purify the Perches.
-Makiri: Huh. And here I thought the fog could do anything.
-Ipe: It's the same for things in the sea. I've fished up some weird stuff before.
-Traveler: Hey there, do you know anything about the feathers...
-Makiri: I can't find any feathers!
-Ipe: When you touch the Perch, the feathers will fly to nearby areas. Afterward, you're going to have to rely on your senses. If you've got a good nose for the elements, this should be easy.
-Ipe: It shouldn't be that hard...
-Makiri: But it totally is, though~
+    Option 1:
+        Traveler: Do you know anything about this fog?
+        Makiri: The fog... If it's as Grandpa Mata says, and the fog is so powerful that nothing can invade Tsurumi Island, how do things from the outside get into the Perches?
+        Ipe: That's because those foreign substances come from within the ground. The fog can't stop things that come from there, which is why we need to make offerings and purify the Perches.
+        Makiri: Huh. And here I thought the fog could do anything.
+        Ipe: It's the same for things in the sea. I've fished up some weird stuff before.
+    Option 2:
+        Traveler: Hey there, do you know anything about the feathers...
+        Makiri: I can't find any feathers!
+        Ipe: When you touch the Perch, the feathers will fly to nearby areas. Afterward, you're going to have to rely on your senses. If you've got a good nose for the elements, this should be easy.
+        Ipe: It shouldn't be that hard...
+        Makiri: But it totally is, though~
 
 ## Talk 26
 
@@ -498,10 +582,12 @@ Paimon: Huh. Feels like we've gotten our bearings now, huh?
 Traveler: Yup, even though the fog hasn't dissipated yet.
 Paimon: Eh? There's a kid over there...
 Paimon: Do Inazuman kids all run off to deserted islands to play when they've got time on their hands?
-Traveler: We should tell him to get to safety.
-Paimon: Yeah, and let's ask about the thing Miss Sumida asked us to get in the meantime.
-Traveler: We can ask if he knows anything about the Maushiro.
-Paimon: Great idea!
+    Option 1:
+        Traveler: We should tell him to get to safety.
+        Paimon: Yeah, and let's ask about the thing Miss Sumida asked us to get in the meantime.
+    Option 2:
+        Traveler: We can ask if he knows anything about the Maushiro.
+        Paimon: Great idea!
 
 ## Talk 31
 
@@ -529,10 +615,12 @@ Paimon: It went surprisingly well.
 Kama: ...
 Traveler: Is something wrong?
 Kama: Nothing. I'll send you back now. Are you ready to depart?
-Traveler: I'm ready.
-Kama: Good. Hop on, then.
-Traveler: Not yet.
-Kama: ...
+    Option 1:
+        Traveler: I'm ready.
+        Kama: Good. Hop on, then.
+    Option 2:
+        Traveler: Not yet.
+        Kama: ...
 
 ## Talk 34
 
@@ -550,10 +638,13 @@ Onkami: Seriously now. It's almost time, and we can't start without him.
 ## Talk 37
 
 Mata: I hope that... No, the Great Thunderbird will surely be pleased with the ceremony this time...
-Traveler: Could you tell me about the Thunderbird...
+    Option 1:
+        Traveler: Could you tell me about the Thunderbird...
+    Option 2:
+        Traveler: Tell me about the ceremony...
+    Option 3:
+        Traveler: Could you tell me about the Maushiro...
 Mata: ...
-Traveler: Tell me about the ceremony...
-Traveler: Could you tell me about the Maushiro...
 
 ## Talk 38
 

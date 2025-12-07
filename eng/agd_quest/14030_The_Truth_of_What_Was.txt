@@ -106,7 +106,15 @@ Neuvillette: When Sigewinne returned, the miracle had not occurred.
 Neuvillette: She found a potion bottle and a note on the table. After using the potion as instructed, she gained her current form, breaking Fontaine's law in the process.
 Neuvillette: And after I had confirmed the veracity of the events, I gave my verdict.
 Paimon: So that's what happened...
+[Circling back to a previous dialog]
+
 Traveler: Her teacher sacrificed herself.
+Neuvillette: I fear Sigewinne only understood the full story after the truth about the dissolution of Fontainians was uncovered.
+Neuvillette: When I reflected on all this with that knowledge in hand, I felt a deep sense of regret... As I use the law to uphold justice, there are times when I cannot help but acknowledge its ruthlessness.
+Neuvillette: After the final details of the events surrounding Sigewinne's transformation came to light, I checked several sources and, thankfully, the legal code does not require Sigewinne to shoulder any additional punishment.
+Paimon: Hmm, wonder how she feels about all this...
+Neuvillette: Since she invited you here, I imagine she intends to speak of these matters with you, no?
+
 Traveler: And left that potion behind.
 Neuvillette: I fear Sigewinne only understood the full story after the truth about the dissolution of Fontainians was uncovered.
 Neuvillette: When I reflected on all this with that knowledge in hand, I felt a deep sense of regret... As I use the law to uphold justice, there are times when I cannot help but acknowledge its ruthlessness.
@@ -124,7 +132,10 @@ Paimon: After learning the truth... it must've been hard to process, huh?
 Sigewinne: Well... To be honest, after I realized what really happened that night, my first thought was that it kind of made sense. It seemed exactly like the sort of thing she would do.
 Paimon: But, she was planning to sacrifice herself, and never told you!
 Sigewinne: That's just who she was. If lying is what it took to get a kid to take their medicine, then that's what she'd do.
-Traveler: A truly great doctor.
+    Option 1:
+        Traveler: A truly great doctor.
+    Option 2:
+        Traveler: A truly odd doctor.
 Paimon: Alright... But, why did you turn yourself in?
 Sigewinne: I broke the law, simple as that. My teacher made her choice, and I made mine.
 Paimon: True, it's just... The way Potton framed it when he was asking you all those questions, it made Paimon really mad!
@@ -136,7 +147,10 @@ Sigewinne: I knew you'd be curious. Let me tell you a story...
 Paimon: Now that's an ending Paimon can get behind!
 Sigewinne: After hearing everything Potton said, I wanted to tell him that it didn't matter who he looked like on the outside... But it was too late — the warmth in his palm had already disappeared.
 Sigewinne: I tried to treat him, but... The roots of his problem had nothing to do with his face.
-Traveler: No need to feel too bad for him.
+    Option 1:
+        Traveler: No need to feel too bad for him.
+    Option 2:
+        Traveler: It does feel like wasted potential.
 Sigewinne: I understand... Thanks, you two. I appreciate you being here for me while I talk this through.
 Paimon: Oh, it's nothing! Our pleasure.
 Sigewinne: Oh, there's one more reason I invited you here. It's about time I finally give you what I promised.
@@ -152,8 +166,6 @@ Sigewinne: Paimon, after everything, do you really think it matters whether I'm 
 Paimon: Uh, well...
 Paimon: Heh, what was Paimon thinking? You made up your mind a long time ago. Yeah, let's just destroy this thing.
 Sigewinne: Leave it to me.
-Traveler: It does feel like wasted potential.
-Traveler: A truly odd doctor.
 
 ## Additional Conversations
 

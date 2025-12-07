@@ -16,6 +16,7 @@ Grispan: #Simply put, Traveler, I would like you to help me collect objects that
 Grispan: Let me think... Um, so I've been using Candlecap Mushrooms for phlogiston extraction, so, could I get you to help me find some?
 Grispan: That said, I've heard that Embercore Flowers also contain lots of phlogiston... It'd be nice if you could get me one as well!
 Grispan: So long as I have enough phlogiston, I can start my research right here.
+[Circling back to a previous dialog]
 
 ## Talk 3
 
@@ -44,9 +45,11 @@ Grispan: But I do need someone I can rely on — and you are, without a doubt, t
 
 Grispan: Ha! Take a look at this Grainfruit! It sure is growing well... Might it, too, be affected by phlogiston? I must pick it! It shall join my samples.
 Grispan: #Mr. Traveler, would you mind helping me out? Just take the stem and...
-Traveler: Look out behind you!
+    Option 1:
+        Traveler: Look out behind you!
+    Option 2:
+        Traveler: Let go of that! Over here!
 Grispan: Ah!? H—Help!
-Traveler: Let go of that! Over here!
 
 ## Talk 6
 
@@ -57,22 +60,24 @@ Grobel: Meow... meow meow... meow...
 Grispan: #Ah, my good Mr. Traveler. We meet again.
 Grispan: Thanks to your help previously, my research has advanced by a leap and a bound.
 Grispan: At this rate, I shall be able to reach my intended targets!
-Traveler: And what were those intended targets?
-Grispan: Oh, I didn't introduce my work to you? Ah, goodness, would you believe that? Come then, let me give you a quick rundown...
-Grobel: Meow! Meow-meow-meow-meow. Meow-meow!
-Grispan: Ah, right you are, Madame President. I shall make this as brief as I can.
-Grispan: Simply put, I am planning to collect phlogiston, and use its "thermal energy" to conduct hypnosis.
-Grispan: My hypnotic device is not on hand at the moment... But, if you would, imagine a box half a person in height, just large enough for a person to sit within.
-Grispan: This box contains a steamer that, well, constantly generates steam, keeping the box's internal temperature at a specified value.
-Grispan: The person undergoing hypnosis will sit within with their head exposed while their body is heated up inside... I believe that this will allow the hypnosis to work faster and better!
-Traveler: That's just going to knock the person out with the heat!
-Grispan: Well, you do have a point, but we perhaps have different definitions of "knocking a person out"...
-Grispan: In any case, let us put aside the finer details for now. At the moment, I still need your help.
+    Option 1:
+        Traveler: And what were those intended targets?
+        Grispan: Oh, I didn't introduce my work to you? Ah, goodness, would you believe that? Come then, let me give you a quick rundown...
+        Grobel: Meow! Meow-meow-meow-meow. Meow-meow!
+        Grispan: Ah, right you are, Madame President. I shall make this as brief as I can.
+        Grispan: Simply put, I am planning to collect phlogiston, and use its "thermal energy" to conduct hypnosis.
+        Grispan: My hypnotic device is not on hand at the moment... But, if you would, imagine a box half a person in height, just large enough for a person to sit within.
+        Grispan: This box contains a steamer that, well, constantly generates steam, keeping the box's internal temperature at a specified value.
+        Grispan: The person undergoing hypnosis will sit within with their head exposed while their body is heated up inside... I believe that this will allow the hypnosis to work faster and better!
+        Traveler: That's just going to knock the person out with the heat!
+        Grispan: Well, you do have a point, but we perhaps have different definitions of "knocking a person out"...
+        Grispan: In any case, let us put aside the finer details for now. At the moment, I still need your help.
+    Option 2:
+        Traveler: What do you need from me this time?
+        Grispan: Ah, very sharp! I knew that you'd be easy to work with.
 Grispan: The task is the same as before. I'd like you to help me collect objects that contain "phlogiston."
 Grispan: Let me think... Hmm, I'd say you should bring some Embercore Flowers. Those plants certainly do contain a significant amount of phlogiston.
 Grispan: Of course, Candlecap Mushrooms remain important as experimental material. You see...
-Traveler: What do you need from me this time?
-Grispan: Ah, very sharp! I knew that you'd be easy to work with.
 
 ## Talk 8
 
@@ -110,6 +115,7 @@ Grispan: Had I been there, I'd have been able to collect a whole bunch of useful
 Grispan: Madame President, it seems that we must finish up here as soon as is humanly possible, so that we may head back to the Club to check on things.
 Grispan: #Ahem... Now, then, I know it is rude to commission someone to do a task after meeting them for the first time, dear Traveler...
 Grispan: But I do need someone I can rely on — and you are, without a doubt, the best candidate I could ask to find in that regard.
+[Circling back to a previous dialog]
 
 ## Talk 12
 

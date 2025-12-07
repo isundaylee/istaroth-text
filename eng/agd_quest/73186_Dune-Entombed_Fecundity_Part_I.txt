@@ -30,12 +30,19 @@ Babel: #Traveler, the task I bade of you today... I believe that Azariq has alre
 Azariq: Indeed, Matriarch Babel.
 Babel: Good, but I must warn you still that the path ahead is fraught with dangers... Our scouts have discovered signs that many Wenut may be active in the area.
 Azariq: #Be at ease, I will guide them down a safe path.
-Traveler: About the Wenut...
-Babel: Wenut are extremely dangerous creatures. Approach them with caution. They may attack you upon being drawn by the Jinni's presence.
-Liloupar: Speak not of me as if I am some manner of calamity, desert-wench!
-Liloupar: My master, I will be alert on your behalf. If you come under assault by these Wenut... I may yet be able to rally my strength and defend you.
-Jeht: #I've got your back too, Traveler.
-Paimon: Whoa! Suddenly, we've got two handy sidekicks. Hehe.
+    Option 1:
+        Traveler: About the Wenut...
+        Babel: Wenut are extremely dangerous creatures. Approach them with caution. They may attack you upon being drawn by the Jinni's presence.
+        Liloupar: Speak not of me as if I am some manner of calamity, desert-wench!
+        Liloupar: My master, I will be alert on your behalf. If you come under assault by these Wenut... I may yet be able to rally my strength and defend you.
+        Jeht: #I've got your back too, Traveler.
+        Paimon: Whoa! Suddenly, we've got two handy sidekicks. Hehe.
+    Option 2:
+        Traveler: About Azariq...
+        Azariq: I'll be your guide and help to expel the Wenut, but I won't be heading into the forbidden zone. Sorry.
+        Babel: I respect Azariq's considerations. The remains left by a god long past... That is something not lightly disturbed by the likes of us, who yearn only to stand vigil over this tomb. This most unpalatable task must fall to you.
+        Jeht: Thanks for this opportunity, Matriarch Babel.
+        Babel: Yes... I hope for your safe return.
 Babel: Esteemed Liloupar... After entering the foundations of the Eternal Oasis, we must rely on your power to guide the group.
 Babel: The ruins of the canals may yet hide your... fragments.
 Liloupar: Indeed. Of this I am aware... But I am curious as to how this knowledge came unto you.
@@ -50,11 +57,6 @@ Babel: My apologies, esteemed Liloupar. I understand your misgivings, and will e
 Liloupar: Do as you will. I seek respite!
 Jeht: ...
 Babel: Ahem. Very well. Do not let me forestall your departure. Leave as soon as you are able.
-Traveler: About Azariq...
-Azariq: I'll be your guide and help to expel the Wenut, but I won't be heading into the forbidden zone. Sorry.
-Babel: I respect Azariq's considerations. The remains left by a god long past... That is something not lightly disturbed by the likes of us, who yearn only to stand vigil over this tomb. This most unpalatable task must fall to you.
-Jeht: Thanks for this opportunity, Matriarch Babel.
-Babel: Yes... I hope for your safe return.
 
 ## Talk 3
 
@@ -122,7 +124,10 @@ Jeht: There's a mechanism there. Let's go check it out!
 ## Talk 18
 
 Jeht: ...
-Traveler: Found something?
+    Option 1:
+        Traveler: Found something?
+    Option 2:
+        Traveler: What are you thinking about?
 Jeht: Look there. Those tunnels. I'm thinking... of connecting them and clearing the accumulated sand. I think that might open a path for us.
 Liloupar: Ah, a reckless thought, born of ignorance. Still, the plan is worth a try.
 Jeht: You're getting on my nerves, Jinni.
@@ -133,7 +138,6 @@ Jeht: By that logic, seeing that you're both young and small, that makes you the
 Paimon: #What? D—Don't bring Paimon into your squabbles! Traveler! Paimon's not little, right?
 Traveler: ...
 Liloupar: Hah... How adorable...
-Traveler: What are you thinking about?
 
 ## Talk 19
 
@@ -184,9 +188,13 @@ Black Screen Text: "Then, mortal... What desire of yours can I make manifest?"
 Jeht: #Traveler! Are you alright? Answer me!
 Paimon: #Traveler! Don't scare Paimon like that! Are you okay?
 Liloupar: Worry not... my master remains unscathed.
-Traveler: Sorry, I was out of it for a moment...
-Jeht: #"Out of it?" I thought you lost consciousness!
-Paimon: Yeah! You worried Paimon sick!
+    Option 1:
+        Traveler: Sorry, I was out of it for a moment...
+        Jeht: #"Out of it?" I thought you lost consciousness!
+        Paimon: Yeah! You worried Paimon sick!
+    Option 2:
+        Traveler: It was a memory. Someone else's memory...
+        Jeht: Huh? I don't... What are you saying?
 Liloupar: Apologies. I did not mean to let you behold a moment so shameful. But as you might understand, I have reclaimed a portion of my memories. Now, I may guard you better.
 Paimon: Huh. The light inside the bottle really does look more sprightly now.
 Jeht: Yeah... It looks just like the lights I saw when Matriarch Babel was emerging from Azariq's tent.
@@ -200,8 +208,6 @@ Liloupar: You have my thanks.
 Paimon: Paimon will help too! Paimon's eyesight is second to none! Don't worry about it.
 Liloupar: Ah... I am invigorated! Come. Let us delve deeper.
 Jeht: Yeah. Let's go.
-Traveler: It was a memory. Someone else's memory...
-Jeht: Huh? I don't... What are you saying?
 
 ## Talk 29
 
@@ -260,18 +266,22 @@ Jeht: Hmm... Looks like all we can do is head back to the surface and find anoth
 Liloupar: I dare not claim to be certain. With loose confidence... I believe so.
 Jeht: Alright. Good. Then, we'd best get back to the surface and start plotting a new path. Any objections?
 Liloupar: What do you think, my master?
-Traveler: (Return to the surface) Let's go back first.
-Paimon: Alright...
-Traveler: I need to look around some more.
-Liloupar: Your words, my will, my master.
+    Option 1:
+        Traveler: (Return to the surface) Let's go back first.
+        Paimon: Alright...
+    Option 2:
+        Traveler: I need to look around some more.
+        Liloupar: Your words, my will, my master.
 
 ## Talk 40
 
 Jeht: #What? Did you find anything new? Heh, care to share?
-Traveler: (Return to the surface) Let's go.
-Jeht: We're going, then. Keep up.
-Traveler: I need to stay and explore.
-Jeht: Alright. Be careful. I'll wait for you here.
+    Option 1:
+        Traveler: (Return to the surface) Let's go.
+        Jeht: We're going, then. Keep up.
+    Option 2:
+        Traveler: I need to stay and explore.
+        Jeht: Alright. Be careful. I'll wait for you here.
 
 ## Talk 41
 
@@ -328,12 +338,23 @@ Paimon: Aghhh... So, it's worth nothing at all? Now Paimon's depressed.
 Jeht: Yeah... So, that's what we've seen so far.
 Azariq: Then, the Eternal Oasis... was never far from us at all.
 Jeht: Yeah... Dad always told me that he would one day enter the Eternal Oasis and find Mom again... Never thought I'd be helping him make his dream come true.
-Traveler: Jebrael would be proud of you.
-Jeht: Him? Ha! I don't care about him! Dad was a real simpleton... This trip was for me to send him to the place where he belongs. It doesn't matter what he feels about this!
-Jeht: ...
-Jeht: Ah... I don't know. Truth be told, I just don't know...
-Jeht: My parents... Will they truly reunite in such a place? The place we're heading to... Is it just a meaningless destination that I want to reach for the sake of... because I want to console myself?
-Paimon: No way! Jebrael would be super happy! You're helping him fulfill his wish after all...
+    Option 1:
+        Traveler: Jebrael would be proud of you.
+        Jeht: Him? Ha! I don't care about him! Dad was a real simpleton... This trip was for me to send him to the place where he belongs. It doesn't matter what he feels about this!
+        Jeht: ...
+        Jeht: Ah... I don't know. Truth be told, I just don't know...
+        Jeht: My parents... Will they truly reunite in such a place? The place we're heading to... Is it just a meaningless destination that I want to reach for the sake of... because I want to console myself?
+        Paimon: No way! Jebrael would be super happy! You're helping him fulfill his wish after all...
+    Option 2:
+        Traveler: I imagine you're looking forward to this too, Jeht.
+        Jeht: Of course, and that's because I'm with you guys!
+        Jeht: Dad once said that the sands are like our home. I didn't get it at the time, but now I think I'm beginning to understand...
+        Jeht: Home isn't perfect. Sometimes, it's downright frustrating, domineering, or even cruel. But you know you belong there.
+        Jeht: You'll treasure its atmosphere and fear that it might leave you. You'll do anything to stop anyone from trying to tear it apart and seek care and companionship from its existence.
+        Jeht: It took leaving Dad's protection to learn that this is what "home" is.
+        Jeht: I know that Dad would never abandon me and that he never lied. But people have to grow up and find new homes for themselves.
+        Jeht: To me, the Tanit might just be that home.
+        Paimon: Finding a new place to belong to is great, and Paimon's sure Jebrael would be happy for you! Yep!
 Jeht: #Whatever the case, I have you to thank, Traveler and Paimon. Thanks for... coming all this way to accompany me on this adventure. And, y'know, putting up with my... willfulness.
 Jeht: #Ever since I lost Dad... I only feel this free when I'm with you.
 Paimon: Hehe, being able to adventure with you again has been great for us, too!
@@ -356,7 +377,10 @@ Jeht: "O stars high above the wasteland, O nightingales weary from the day. It's
 Jeht: That's the only memory I have left of her. Dad always used to sing me this old nursery rhyme.
 Azariq: That was lovely.
 Jeht: Stop it, you know I'm always out of tune!
-Traveler: You sing it better than Jebrael did.
+    Option 1:
+        Traveler: You sing it better than Jebrael did.
+    Option 2:
+        Traveler: This is the song Jebrael liked to sing...
 Jeht: Hah. I knew you'd remember. I spent a long time practicing this one. Couldn't get it down when Dad was still with us.
 Jeht: After Dad... left, I, uh... Heh. Finding my pitch just got that much harder. But I still learned pretty good, didn't I?
 Paimon: Yeah, that sounded good! Jeht's voice might be a little raspy, but it fits a soft melody like this.
@@ -367,16 +391,6 @@ Black Screen Text: "Sleep, close your eyes;
 The eternal oasis welcomes the lonely wanderer,
 Lay upon the pure and flowing streams;
 For here, memories are forever sweet and pure."
-Traveler: This is the song Jebrael liked to sing...
-Traveler: I imagine you're looking forward to this too, Jeht.
-Jeht: Of course, and that's because I'm with you guys!
-Jeht: Dad once said that the sands are like our home. I didn't get it at the time, but now I think I'm beginning to understand...
-Jeht: Home isn't perfect. Sometimes, it's downright frustrating, domineering, or even cruel. But you know you belong there.
-Jeht: You'll treasure its atmosphere and fear that it might leave you. You'll do anything to stop anyone from trying to tear it apart and seek care and companionship from its existence.
-Jeht: It took leaving Dad's protection to learn that this is what "home" is.
-Jeht: I know that Dad would never abandon me and that he never lied. But people have to grow up and find new homes for themselves.
-Jeht: To me, the Tanit might just be that home.
-Paimon: Finding a new place to belong to is great, and Paimon's sure Jebrael would be happy for you! Yep!
 
 ## Talk 43
 

@@ -28,16 +28,20 @@ Nahida: Well, your troubles are written on your face, silly! I'm always observin
 Nahida: You look as miserable as a Lavender Melon that's been struck by lightning.
 Traveler: I feel like nothing's been going my way lately...
 Nahida: Don't lose heart. Sometimes you might feel like you're the unluckiest person in the world, but for all you know, it could also just be an unfortunate situation.
-Traveler: What's the difference?
-Nahida: Well, to use an analogy... Let's say a Rishboland Tiger ate a fox and got diarrhea.
+    Option 1:
+        Traveler: What's the difference?
+        Nahida: Well, to use an analogy... Let's say a Rishboland Tiger ate a fox and got diarrhea.
+    Option 2:
+        Traveler: Can you whip out one of your analogies?
+        Nahida: Hmm... Well, let's say a Rishboland Tiger ate a fox and got diarrhea.
 Nahida: You can't know for sure whether the diarrhea was caused by eating the fox or by something inside the fox's stomach. Does that make sense?
-Traveler: Barely.
+    Option 1:
+        Traveler: Barely.
+    Option 2:
+        Traveler: I get it.
 Nahida: If Rishboland Tigers stopped eating foxes out of fear of diarrhea, they would have become extinct a long time ago.
 Nahida: As long as the Rishboland Tiger keeps eating foxes, and as long as we keep living our lives, we'll experience all kinds of different situations. Fortunate, unfortunate, and everything in between.
 Nahida: There, there. You're doing great. Have a headpat.
-Traveler: I get it.
-Traveler: Can you whip out one of your analogies?
-Nahida: Hmm... Well, let's say a Rishboland Tiger ate a fox and got diarrhea.
 
 ## Talk 3
 
@@ -46,26 +50,37 @@ Nahida: #May I start with a question, Traveler? Do you really enjoy collecting t
 Nahida: Sometimes you remind me of a Sumpter Beast, plodding along with a big pack full of materials and supplies.
 Nahida: I'm quite curious. You already have more than enough resources to last a lifetime, so why do you keep bringing everything with you?
 Nahida: And why do you still collect even more during your travels?
-Traveler: You're right. It's because I enjoy it.
-Nahida: Mm, yes, I thought so. Okay, that makes sense.
-Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
-Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
-Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
-Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
+    Option 1:
+        Traveler: You're right. It's because I enjoy it.
+        Nahida: Mm, yes, I thought so. Okay, that makes sense.
+        Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
+        Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
+        Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
+        Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
+    Option 2:
+        Traveler: I'd say it's more of a habit than a hobby.
+        Nahida: A habit? Oh, I see.
+        Nahida: So what about forging weapons, cooking, and making Condensed Resin? They're useful behaviors that benefit you. Is that why they've turned into habits as well?
+        Traveler: That sounds about right.
+        Nahida: So what about... making lots of friends, helping them solve their problems, and reading their letters from front to back? Are those habits, too?
+        Traveler: Well, not exactly...
+        Nahida: Don't worry, I'm not trying to pry, and I wouldn't let something like that affect what I think of you.
+        Nahida: I know there are definitely good reasons for your behavior. I'm only asking out of curiosity.
+        Nahida: Since you are also driven by emotions, maybe you can understand my thoughts right now.
+    Option 3:
+        Traveler: You're right. It's because I enjoy it.
+        Nahida: Mm, yes, I thought so. Okay, that makes sense.
+        Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
+        Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
+        Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
+        Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
 Nahida: I want to travel across this vast land with you, experience everything you enjoy, and do all the things you do.
 Nahida: Will you indulge my curiosity... and will you accept my request?
-Traveler: Of course I will.
+    Option 1:
+        Traveler: Of course I will.
+    Option 2:
+        Traveler: It's a promise.
 Nahida: Then let's face the sun and pick the first Mint we find.
-Traveler: It's a promise.
-Traveler: I'd say it's more of a habit than a hobby.
-Nahida: A habit? Oh, I see.
-Nahida: So what about forging weapons, cooking, and making Condensed Resin? They're useful behaviors that benefit you. Is that why they've turned into habits as well?
-Traveler: That sounds about right.
-Nahida: So what about... making lots of friends, helping them solve their problems, and reading their letters from front to back? Are those habits, too?
-Traveler: Well, not exactly...
-Nahida: Don't worry, I'm not trying to pry, and I wouldn't let something like that affect what I think of you.
-Nahida: I know there are definitely good reasons for your behavior. I'm only asking out of curiosity.
-Nahida: Since you are also driven by emotions, maybe you can understand my thoughts right now.
 
 ## Talk 4
 
@@ -115,16 +130,20 @@ Nahida: Well, your troubles are written on your face, silly! I'm always observin
 Nahida: You look as miserable as a Lavender Melon that's been struck by lightning.
 Traveler: I feel like nothing's been going my way lately...
 Nahida: Don't lose heart. Sometimes you might feel like you're the unluckiest person in the world, but for all you know, it could also just be an unfortunate situation.
-Traveler: What's the difference?
-Nahida: Well, to use an analogy... Let's say a Rishboland Tiger ate a fox and got diarrhea.
+    Option 1:
+        Traveler: What's the difference?
+        Nahida: Well, to use an analogy... Let's say a Rishboland Tiger ate a fox and got diarrhea.
+    Option 2:
+        Traveler: Can you whip out one of your analogies?
+        Nahida: Hmm... Well, let's say a Rishboland Tiger ate a fox and got diarrhea.
 Nahida: You can't know for sure whether the diarrhea was caused by eating the fox or by something inside the fox's stomach. Does that make sense?
-Traveler: Barely.
+    Option 1:
+        Traveler: Barely.
+    Option 2:
+        Traveler: I get it.
 Nahida: If Rishboland Tigers stopped eating foxes out of fear of diarrhea, they would have become extinct a long time ago.
 Nahida: As long as the Rishboland Tiger keeps eating foxes, and as long as we keep living our lives, we'll experience all kinds of different situations. Fortunate, unfortunate, and everything in between.
 Nahida: There, there. You're doing great. Have a headpat.
-Traveler: I get it.
-Traveler: Can you whip out one of your analogies?
-Nahida: Hmm... Well, let's say a Rishboland Tiger ate a fox and got diarrhea.
 
 ## Talk 10
 
@@ -133,23 +152,34 @@ Nahida: #May I start with a question, Traveler? Do you really enjoy collecting t
 Nahida: Sometimes you remind me of a Sumpter Beast, plodding along with a big pack full of materials and supplies.
 Nahida: I'm quite curious. You already have more than enough resources to last a lifetime, so why do you keep bringing everything with you?
 Nahida: And why do you still collect even more during your travels?
-Traveler: You're right. It's because I enjoy it.
-Nahida: Mm, yes, I thought so. Okay, that makes sense.
-Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
-Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
-Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
-Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
+    Option 1:
+        Traveler: You're right. It's because I enjoy it.
+        Nahida: Mm, yes, I thought so. Okay, that makes sense.
+        Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
+        Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
+        Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
+        Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
+    Option 2:
+        Traveler: I'd say it's more of a habit than a hobby.
+        Nahida: A habit? Oh, I see.
+        Nahida: So what about forging weapons, cooking, and making Condensed Resin? They're useful behaviors that benefit you. Is that why they've turned into habits as well?
+        Traveler: That sounds about right.
+        Nahida: So what about... making lots of friends, helping them solve their problems, and reading their letters from front to back? Are those habits, too?
+        Traveler: Well, not exactly...
+        Nahida: Don't worry, I'm not trying to pry, and I wouldn't let something like that affect what I think of you.
+        Nahida: I know there are definitely good reasons for your behavior. I'm only asking out of curiosity.
+        Nahida: Since you are also driven by emotions, maybe you can understand my thoughts right now.
+    Option 3:
+        Traveler: You're right. It's because I enjoy it.
+        Nahida: Mm, yes, I thought so. Okay, that makes sense.
+        Nahida: People do sometimes act irrationally for the sake of pursuing their interests.
+        Nahida: Just like the Forest Boar that fell in love with a Shroom-Kin. It changed its own form just to ensure the Shroom-Kin's survival.
+        Nahida: In the end, they were eaten together as a delicacy... Um, but that's besides the point.
+        Nahida: I don't feel one way or another about collecting, but since it's something you enjoy, I'd like to join in and see what it's like.
 Nahida: I want to travel across this vast land with you, experience everything you enjoy, and do all the things you do.
 Nahida: Will you indulge my curiosity... and will you accept my request?
-Traveler: Of course I will.
+    Option 1:
+        Traveler: Of course I will.
+    Option 2:
+        Traveler: It's a promise.
 Nahida: Then let's face the sun and pick the first Mint we find.
-Traveler: It's a promise.
-Traveler: I'd say it's more of a habit than a hobby.
-Nahida: A habit? Oh, I see.
-Nahida: So what about forging weapons, cooking, and making Condensed Resin? They're useful behaviors that benefit you. Is that why they've turned into habits as well?
-Traveler: That sounds about right.
-Nahida: So what about... making lots of friends, helping them solve their problems, and reading their letters from front to back? Are those habits, too?
-Traveler: Well, not exactly...
-Nahida: Don't worry, I'm not trying to pry, and I wouldn't let something like that affect what I think of you.
-Nahida: I know there are definitely good reasons for your behavior. I'm only asking out of curiosity.
-Nahida: Since you are also driven by emotions, maybe you can understand my thoughts right now.

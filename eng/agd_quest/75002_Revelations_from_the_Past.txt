@@ -12,8 +12,12 @@
 Paimon: So the ruins below are the ruins of the... what was he called again? The Sage of the Stolen Flame? Still, the entrance looks like something weird's blocking it...
 Manqu: Just as I thought... the Sage's trial has already begun.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
-Traveler: Do we need to break that barrier...?
-Manqu: I'm afraid that barrier is difficult to break... With all due respect, we must use the correct method to open it.
+    Option 1:
+        Traveler: Do we need to break that barrier...?
+        Manqu: I'm afraid that barrier is difficult to break... With all due respect, we must use the correct method to open it.
+    Option 2:
+        Traveler: Didn't think I'd have to use my wall-phasing jutsu so soon...
+        Paimon: As if you could even do that!
 Manqu: *ahem* According to the accounts of the ancient scrolls of our tribe...
 Manqu: The Sage of the Stolen Flame seemed to have strongly believed that humans could guide and lead Saurians, thus attaining a future far brighter than the age of the ancient giant dragons.
 Manqu: Perhaps he felt guilty, for he stole the secrets of using phlogiston from none other than dragonkind... And this gnawing guilt led to a hope that humans and Saurians could get along, living in peace as equals.
@@ -29,8 +33,6 @@ Paimon: #Isn't that right, {REALNAME[ID(2)|SHOWHOST(true)]}?
 Traveler: Rawr!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ?
 Manqu: Haha, that's the spirit. Now, please try opening the barrier blocking the entrance.
-Traveler: Didn't think I'd have to use my wall-phasing jutsu so soon...
-Paimon: As if you could even do that!
 
 ## Talk 4
 
@@ -46,7 +48,10 @@ Paimon: Uh... You mean Paimon? Paimon's not angry, and she's not crying!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ...Ooroo, rawr? Rawr?
 Paimon: Okay, fine, fine! Paimon'll "rawr"! Rawr!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: I feel like I can understand him...
+    Option 1:
+        Traveler: I feel like I can understand him...
+    Option 2:
+        Traveler: Maybe we've finally got a connection?
 Paimon: That's what happens when you spend a lot of time together! Sometimes, Paimon can tell what you're going to cook the moment you reach into your bag to fish out the ingredients...
 Paimon: "Hmm, yeah, mmm, hrmm, okay, it's probably... Teyvat Fried Egg!" And Lo! Paimon was right.
 Traveler: Paimon, you're terrifying!
@@ -54,7 +59,6 @@ Paimon: Hmph! Paimon's got a lot more aspects that are really scary, you just ha
 Paimon: We should hurry up and find the token... Once we find it, we can have a huge feast to celebrate!
 Traveler: Okay, let's move out!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Maybe we've finally got a connection?
 
 ## Talk 5
 
@@ -67,7 +71,10 @@ Traveler: Is it a... dragon?
 Paimon: Huh, now that you mention it, it does kinda look like a dragon's head...
 Paimon: Oh! Paimon gets it. It actually depicts a dragon and a person, each holding a golden ring.
 Paimon: Hmm... Paimon feels like she just heard a story about two people taking something or other not long ago...
-Traveler: It was the tale Pacal and Manqu were discussing...
+    Option 1:
+        Traveler: It was the tale Pacal and Manqu were discussing...
+    Option 2:
+        Traveler: About the first Pyro Archon and the Sage of the Stolen Flame...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Paimon: Like Paimon said, it did remind her of something she'd just heard...
 Paimon: *sigh* But if that was really the case... doesn't that mean that of the Sage of the Stolen Flame and the first Pyro Archon... that one of them was a dragon? But which one of them?
@@ -89,19 +96,22 @@ Paimon: Do we have to go through from both sides? Hmm, but it looks like both en
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
 Paimon: #P—Paimon can't even see this time... {REALNAME[ID(2)|SHOWHOST(true)]}, do you think it's too hard? If it is, we can still back out.
 Paimon: If it's really too much, we can wait until you're ready and try again. Not like these ruins are going anywhere.
-Traveler: No need to push yourself too hard.
+    Option 1:
+        Traveler: No need to push yourself too hard.
+    Option 2:
+        Traveler: If you want to stop, just say so.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mraaa... Wrroh... Wraa...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}... You're a brave fella, aren't ya?
 Paimon: Still, get out as fast as you can if things get dangerous! Nothing is more important than your life, not even treasure.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: I believe in you!
+    Option 1:
+        Traveler: I believe in you!
+    Option 2:
+        Traveler: Believe in yourself!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
 Paimon: Hey, don't say things he can't understand!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: Believe in yourself!
-Traveler: If you want to stop, just say so.
-Traveler: About the first Pyro Archon and the Sage of the Stolen Flame...
 
 ## Talk 6
 
@@ -180,12 +190,14 @@ Paimon: But look over there！ A round plate with golden etchings on it appeared
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: A golden seal... Engraved on a white disc...
 Paimon: Eh? What're you saying?
-Traveler: It's nothing...
+    Option 1:
+        Traveler: It's nothing...
+    Option 2:
+        Traveler: I'm just a bit distracted...
 Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
 Paimon: This token looks kinda like a big, round plate... Hmm, so in the mural, both the human and the dragon each had discs like this...
 Paimon: Anyway, we got a token! Let's take it back and show it to Manqu!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: I'm just a bit distracted...
 
 ## Talk 16
 
@@ -210,12 +222,14 @@ Paimon: But look! The token we're looking for is on the ground, just like the on
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Traveler: A golden seal... Engraved on a white disc...
 Paimon: Eh? What're you saying?
-Traveler: It's nothing...
+    Option 1:
+        Traveler: It's nothing...
+    Option 2:
+        Traveler: I'm just a bit distracted...
 Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
 Paimon: #Okay, that's both tokens... Now {REALNAME[ID(2)|SHOWHOST(true)]} should have the right to get cured at the volcano, right?
 Paimon: Okay! Let's bring the tokens and go find Manqu!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Traveler: I'm just a bit distracted...
 
 ## Talk 18
 

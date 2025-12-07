@@ -48,12 +48,14 @@ Cyno: A miniature tracking device made by the Kshahrewar. They can use this to d
 Cyno: But this device wasn't licensed for mass production. Where did they get it... Could someone from the Kshahrewar also be involved? Hmm, but that doesn't seem right...
 Paimon: #Whoa, Paimon never knew that kind of thing even existed! Why would it be on Traveler?
 Cyno: They probably planted it on the Traveler during our fight with the mercenaries earlier.
-Traveler: I'm sorry.
+    Option 1:
+        Traveler: I'm sorry.
+    Option 2:
+        Traveler: I didn't even notice...
 Cyno: It was a frantic fight. It's only natural you didn't notice the device.
 Paimon: Well, good thing you were able to find it, Cyno! Now let's get rid of it!
 Cyno: Hmm, no... Hold on to it for now. It might still be useful for us.
 Cyno: Let's keep heading to the auction. It would be dangerous to linger here any longer.
-Traveler: I didn't even notice...
 
 ## Talk 6
 
@@ -101,13 +103,15 @@ Investigate: (The scattered footprints have not been completely buried by the wi
 ## Talk 15
 
 Paimon: Ugh... So tired... We've probably gone far enough now, right?
-Traveler: Yeah, this is far enough.
-Paimon: Yay! Let's rest for a little while before we go back to find Cyno!
+    Option 1:
+        Traveler: Yeah, this is far enough.
+        Paimon: Yay! Let's rest for a little while before we go back to find Cyno!
+    Option 2:
+        Traveler: We should go a little further.
+        Paimon: Further? But Paimon can't go another step... How about we rest here for a while.
 Black Screen Text: You sit and rest for a while nearby.
 Paimon: Hmm, it's probably about time for us to head back to the auction.
 Paimon: Let's go, maybe Cyno's finally found some leads.
-Traveler: We should go a little further.
-Paimon: Further? But Paimon can't go another step... How about we rest here for a while.
 
 ## Talk 16
 
@@ -117,7 +121,10 @@ Cyno: There's no time to lose. Leave as soon as you're ready.
 
 Paimon: Oh! Looks like Cyno caught someone!
 Paimon: So you're the bad guy behind all this, aren't ya? Alright, tell Paimon everything you know!
-Traveler: Does he know anything about the smuggling?
+    Option 1:
+        Traveler: Does he know anything about the smuggling?
+    Option 2:
+        Traveler: Does he have an important role in the auction?
 Cyno: I didn't act immediately when he showed up. Rather, I laid low and observed for a while instead.
 Cyno: He is not the primary instigator, but he is most likely one of the more important dealers here. Am I right?
 Bahari: Yes, impressive... You certainly live up to your reputation, Cyno. If I had any idea you were still around, I wouldn't have gotten so greedy.
@@ -130,7 +137,6 @@ Bahari: If we stay here, chances are that someone will see me with you. That wou
 Cyno: Alright. Where do you suggest we go?
 Bahari: How about my home in Aaru Village? It should be safe there.
 Cyno: #Fine, let's head out. You can throw away the tracker now, Traveler.
-Traveler: Does he have an important role in the auction?
 
 ## Talk 18
 
@@ -178,7 +184,10 @@ Cyno: Yes, all neatly packed away and organized in boxes. To think that this is 
 Cyno: Small producers couldn't possibly support such a large quantity of goods. Hmm, could the Akademiya have a hand in this? But such a volume of goods wouldn't be able to slip through inspection...
 Paimon: Hey, look! These seem different from the other Knowledge Capsules we've seen. Maybe they contain knowledge about the Court of Desolation?
 Cyno: Yes, that would make sense. Wait, what's this...?
-Traveler: Some sort of marking we've never seen before.
+    Option 1:
+        Traveler: Some sort of marking we've never seen before.
+    Option 2:
+        Traveler: Do you know what it is, Cyno?
 Cyno: Yes, it's a matra seal, indicating that the goods have passed matra inspection.
 Cyno: I started to suspect that someone in the Akademiya might be involved when I found the tracker earlier, but how they could ship so much Canned Knowledge out of the Akademiya was still a mystery.
 Cyno: The pieces have now all fallen into place. With this matra seal, goods can leave the Akademiya without undergoing a second inspection.
@@ -192,7 +201,6 @@ Cyno: You'll need to be the one who checks the records. I'll write a letter to N
 Paimon: Sure thing, leave it to us!
 Cyno: I'll also keep working here in the meantime. Although our leads all are currently pointing to someone within the Akademiya, it's obvious that they also have power outside of it.
 Cyno: We can get more information on other dealers from Bahari. I'll stay here and make some preparations. You can come find me anytime if you uncover more info.
-Traveler: Do you know what it is, Cyno?
 
 ## Talk 19
 

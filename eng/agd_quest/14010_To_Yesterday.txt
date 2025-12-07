@@ -30,10 +30,16 @@ Paimon: Sorry, we're sorry! Please don't be mad!
 Traveler: Paimon was just showing concern for your wellbeing.
 Paimon: #Yeah, exactly. What Traveler said! Paimon wasn't trying to make fun of you.
 Paimon: ...Hang on a sec, you weren't exactly holding back either!
-Traveler: That's not important.
+    Option 1:
+        Traveler: That's not important.
+    Option 2:
+        Traveler: We actually came here to ask you for your help...
 Furina: My help, hmm? Well, maybe you're forgetting that I'm no longer the mighty Hydro Archon. I don't even have a Vision, you know.
 Paimon: Don't worry, it's nothing that serious! It's just very specific, and you're the one with the power to help.
-Traveler: If not you, then no one.
+    Option 1:
+        Traveler: If not you, then no one.
+    Option 2:
+        Traveler: You're the only person for the job.
 Furina: Oh? Well, if that's the case, then... fine, I'll spare you the lecture about your attitude just now.
 Furina: So tell me. What, specifically, makes this matter so... specific?
 Black Screen Text: You tell Furina about the troupe's plans for its final performance.
@@ -58,8 +64,12 @@ Furina: Nope.
 Paimon: Short and to the point, okay...
 Furina: I've never been great at maintaining relationships. Besides, anyone I've ever worked with probably couldn't wait to get rid of me...
 Furina: Since I'm just an ordinary person now. They'll probably just laugh in my face if I go asking them for help...
-Traveler: You shouldn't assume the worst of people.
-Furina: True, but.. I mean, could you even blame them? I show up out of the blue, begging and groveling for their help with a show they won't even get paid for? ...*shudders* No way, I'm dying from embarassment just thinking about it. Nope, not happening!
+    Option 1:
+        Traveler: You shouldn't assume the worst of people.
+        Furina: True, but.. I mean, could you even blame them? I show up out of the blue, begging and groveling for their help with a show they won't even get paid for? ...*shudders* No way, I'm dying from embarassment just thinking about it. Nope, not happening!
+    Option 2:
+        Traveler: What's wrong with making one exception?
+        Furina: Look, I'm sorry, okay!? I'm sorry I drew a line in the sand without thinking about every possible grain on the other side!
 Paimon: Well... Is there anything else we can do? This performance really means a lot to the guy we're working for...
 Furina: Have I not made myself clear? You're barking up the wrong tree. I don't want this job, nor do I know of anyone else who would.
 Furina: ...Sorry, I didn't mean for that to sound so harsh. I wish I could help, really. But if I thought I had the answer to this problem, I would've said so by now.
@@ -67,10 +77,6 @@ Paimon: It's alright, Furina. Paimon just wanted to make sure we tried everythin
 Traveler: Let's try to come up with a plan B.
 Paimon: Yeah, guess that's all we can do now. Alright then, we'll see you around, Furina...
 Furina: Toodle-oo to you too. I'm going home to take a rest now.
-Traveler: What's wrong with making one exception?
-Furina: Look, I'm sorry, okay!? I'm sorry I drew a line in the sand without thinking about every possible grain on the other side!
-Traveler: You're the only person for the job.
-Traveler: We actually came here to ask you for your help...
 
 ## Talk 3
 
@@ -85,7 +91,10 @@ Paimon: Sadly, it's a no from her. We tried to persuade her, but she wasn't havi
 Lauwick: I see... Well, circumstances have changed a little, so maybe that's not such bad news after all.
 Lauwick: You see, our leading lady has just informed me that she's well enough to make it to the show after all. Staging the musical with the full original cast was always the dream, of course.
 Paimon: Oh, right... Sounds like everything worked itself out then.
-Traveler: Imagine if we had managed to convince Furina to join...
+    Option 1:
+        Traveler: Imagine if we had managed to convince Furina to join...
+    Option 2:
+        Traveler: ...Only for her to find out she's no longer needed.
 Paimon: Yeah, she'd be livid! We'd get the scolding of a lifetime!
 Dulphy: Geez... Is Lady Furina really so harsh with people?
 Paimon: Only joking, calm down! ...So, uh, guess we can consider this case closed now, huh?
@@ -148,7 +157,10 @@ Furina: I don't need any compensation. All I'd ask in return, if you're willing,
 Furina: Something I've begun to realize since my departure from the Opera Epiclese is that there's a lot you don't see when you observe everything from on high.
 Furina: The law only judges criminal behavior, and does not weigh human emotion. The court's verdict can settle the question of criminal liability, but...
 Furina: What about all the unresolved emotions of the parties involved? What happens to them?
-Traveler: A verdict can bring emotional catharsis.
+    Option 1:
+        Traveler: A verdict can bring emotional catharsis.
+    Option 2:
+        Traveler: They come pouring out, and flow away into infinity.
 Furina: An interesting answer. But if you ask me, I think all emotion shall ultimately return home to the heart, and slowly settle with the passage of time.
 Furina: Take, par exemple, how this troupe pines for their late director... Things such as this I have never witnessed before. And so, I should like to observe, perchance to understand.
 Paimon: Uhh... Still a fan of your old dramatic monologues then, huh?
@@ -156,12 +168,12 @@ Paimon: You just wanna get back in on the action, don't you?
 Furina: No, no, no, this is a completely different situation! Hmph, pearls before swine...
 Paimon: The name's not "Swine," it's Paimon!
 Furina: Would you be willing to join me? C'mon, take a break from adventuring to listen to a story.
-Traveler: Since it's you, I'll do it.
+    Option 1:
+        Traveler: Since it's you, I'll do it.
+    Option 2:
+        Traveler: Especially since it's related to the serial disappearances case.
 Lauwick: Thank you all so much. Our director was a huge fan of Miss Furina's performances... as, of course, we all are.
 Lauwick: Alright, follow me. We'll go to our usual practice space. Please excuse the size — it's a little on the smaller side.
-Traveler: Especially since it's related to the serial disappearances case.
-Traveler: They come pouring out, and flow away into infinity.
-Traveler: ...Only for her to find out she's no longer needed.
 
 ## Talk 4
 

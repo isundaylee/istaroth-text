@@ -49,11 +49,15 @@ Zhongli: It was a fated meeting indeed.
 Hu Tao: Zhongli sure loves his lofty turns of phrase. But if you ask me, it's all thanks to that man who stopped to ask for directions.
 Paimon: Oh? Who was it?
 Furina: It's someone you know. Wanna take a guess?
-Traveler: Let me think...
-Traveler: ...It was Neuvillette, wasn't it?
+    Option 1:
+        Traveler: Let me think...
+    Option 2:
+        Traveler: ...It was Neuvillette, wasn't it?
 Furina: What! How did you guess that on your first try!?
 Hu Tao: Very impressive, my friend. Your guessing game is spot on today!
 Black Screen Text: You tell everyone about your encounter with Navia and Clorinde at the top of the mountain...
+[Missing Dialog 401420778]
+
 Paimon: Huh, Paimon never thought Neuvillette would be the type to get lost...
 Furina: I'm sure he didn't get lost. Even I was able to find my way to this place without any trouble.
 Furina: He was already getting ready to leave by the time I arrived. He just wanted to ask someone about the quickest way to get back to Fontaine.
@@ -80,13 +84,17 @@ Traveler: (Judging by how Zhongli is acting... And taking into consideration Neu
 Traveler: (Could Zhongli have been avoiding him on purpose?)
 Zhongli: Mm?
 Traveler: (Oh, I see.)
-Traveler: It is what it is.
-Traveler: It's truly a pity.
+    Option 1:
+        Traveler: It is what it is.
+    Option 2:
+        Traveler: It's truly a pity.
 Zhongli: Haha, to borrow Miss Furina's turn of phrase, perhaps it just wasn't meant to be.
 Furina: #Well, with Traveler around, I'm sure you'll have a chance to get to know each other at some point.
 Paimon: #That's right! He's got more friends than he knows what to do with!
-Traveler: I have a certain charm about me.
-Traveler: I'm good with people.
+    Option 1:
+        Traveler: I have a certain charm about me.
+    Option 2:
+        Traveler: I'm good with people.
 Furina: Well, that's certainly true!
 Furina: Oh, that reminds me. If you get the chance, you should try and talk Neuvillette into loosening up a bit.
 Furina: Just tell him the Palais Mermonia isn't going to fall apart if he disappears for a few days. He shouldn't keep himself cooped up all the time.
@@ -94,10 +102,12 @@ Furina: Even clams open their shells to let in fresh water every once in a while
 Furina: If he's really that much of a stickler for protocol, he can fill out a leave of absence request. He'd have to approve it himself since he handles that sort of thing now, but you know what I mean.
 Traveler: That does make sense.
 Hu Tao: Seems like this gentleman is also in charge of something pretty important.
-Traveler: He's the fair and impartial Iudex of Fontaine, head of the highest court in the land.
-Traveler: Otherwise known as, the demon who controls all the paperwork in Fontaine.
-Hu Tao: Aiya, sounds like a pretty uptight sort of guy all right.
-Hu Tao: Oho, I've never heard of a demon that boring before.
+    Option 1:
+        Traveler: He's the fair and impartial Iudex of Fontaine, head of the highest court in the land.
+        Hu Tao: Aiya, sounds like a pretty uptight sort of guy all right.
+    Option 2:
+        Traveler: Otherwise known as, the demon who controls all the paperwork in Fontaine.
+        Hu Tao: Oho, I've never heard of a demon that boring before.
 Hu Tao: In my experience, a leader needs be able to roll with the punches. That also includes knowing when and what to prioritize.
 Hu Tao: It seems like your friend still has a lot of growing to do.
 Furina: (If I remember correctly, he's already several thousands of years old...)
@@ -115,6 +125,8 @@ Hu Tao: Oh, so polite!
 Hu Tao: #No apologies necessary. Any friend of Traveler and Miss Furina is a friend of mine!
 Navia: Ha, straight to the point. I like it!
 Black Screen Text: Everyone circles around you and begins to introduce themselves.
+[Missing Dialog 401420879]
+
 Navia: It's getting late...
 Navia: If we want to catch a boat back before dark, we should probably get going.
 Clorinde: Indeed.
@@ -192,7 +204,10 @@ Traveler: Afternoon tea might be more appropriate at this point.
 Paimon: Oh, well that's fine too. Paimon doesn't care what kind of tea it is, as long as it comes with some tasty snacks!
 Paimon: Now, let's see what kinds of yummy things we can find around here... Uh...
 Paimon: P-Paimon's not seeing things, is she? Is that Furina standing between Zhongli and Hu Tao?
-Traveler: Whoa!
+    Option 1:
+        Traveler: Whoa!
+    Option 2:
+        Traveler: Judging based on the hat, I'd say so.
 Paimon: Wonder what they're talking about.
 Paimon: Zhongli knows a lot of stuff. Maybe he's telling Furina about Qiaoying Village?
 Paimon: ...Oh! Or maybe Hu Tao is trying to rope Furina into being one of her clients.
@@ -208,8 +223,12 @@ Paimon: (Oh great, now Paimon's shouting too...)
 Hu Tao: Oho, well aren't you a sight for sore eyes! Seems like our luck just keeps on growing!
 Zhongli: That we were able to meet you both without prior arrangement must mean that this is quite the serendipitous meeting indeed.
 Furina: #Huh? Oh! So both of you are acquainted with Traveler and Paimon then.
-Traveler: I have keenly felt the passage of time since our last meeting.
-Hu Tao: Oh? Looks like someone's learned a thing or two from Zhongli.
+    Option 1:
+        Traveler: I have keenly felt the passage of time since our last meeting.
+        Hu Tao: Oh? Looks like someone's learned a thing or two from Zhongli.
+    Option 2:
+        Traveler: So many chums all in one place!
+        Furina: I'm pretty sure you didn't learn that one from me...
 Furina: #*ahem* I must admit, I'm a bit surprised to see you here, Traveler.
 Furina: But seeing as you're a hero who's been all over Teyvat, it makes sense that you would be well-traveled and well-connected.
 Furina: Since we have found ourselves in each other's company within this fertile land, allow me to take this opportunity to wish you a happy Lantern Rite.
@@ -230,7 +249,10 @@ Furina: Uh, ahem, Miss Hu Tao...
 Hu Tao: Miss Furina is now one of my esteemed clients!
 Furina: Oh... Yep!
 Paimon: Huh—!?
-Traveler: Did you hear that, Paimon?
+    Option 1:
+        Traveler: Did you hear that, Paimon?
+    Option 2:
+        Traveler: She's Hu Tao's "esteemed client."
 Paimon: Okay, okay. You win...
 Paimon: *sigh* Guess Paimon will have to break into the hidden stash at the bottom of her shoe.
 Furina: Huh? What's this about winning something?
@@ -255,10 +277,6 @@ Paimon: Uh... As for the third bowl...
 Hu Tao: Since I was the subject of the bet, perhaps it should go to me? You know, as a congratulations for the huge deal I just struck.
 Traveler: I'll buy you a bowl any time you want.
 Hu Tao: Hehe, I was just joking. Anyway, I should be the one treating you. The Funeral Parlor is about to bring in quite the sum, after all.
-Traveler: She's Hu Tao's "esteemed client."
-Traveler: So many chums all in one place!
-Furina: I'm pretty sure you didn't learn that one from me...
-Traveler: Judging based on the hat, I'd say so.
 
 ## Talk 8
 
@@ -329,14 +347,23 @@ Neuvillette: This is also something I made today.
 Traveler: Oh wow. What a big... ladle?
 Paimon: That's a ladle? Paimon thought it was supposed to be some long-necked sea creature!
 Neuvillette: That was indeed one of my inspirations.
-Traveler: It's amazing.
+    Option 1:
+        Traveler: It's amazing.
+    Option 2:
+        Traveler: The color also really matches your style.
 Neuvillette: Really? You like it?
 Neuvillette: To tell you the truth, given your unexpected arrival, I find myself quite unequipped to give you the welcome you deserve.
 Neuvillette: Around an important holiday such as this, human custom would dictate that gifts should be in order...
 Neuvillette: But I'm afraid, this is all I can offer, if you'll have it, that is.
-Traveler: Can I really keep this?
+    Option 1:
+        Traveler: Can I really keep this?
+    Option 2:
+        Traveler: You made it by hand and everything...
 Neuvillette: That is precisely why it would do me such a great honor if you accepted.
-Traveler: Then I accept.
+    Option 1:
+        Traveler: Then I accept.
+    Option 2:
+        Traveler: Thank you!
 Neuvillette: You are most welcome. Happy Lantern Rite.
 Traveler: Oh, that reminds me...
 Black Screen Text: You pass along the advice for Neuvillette's vacation...
@@ -346,9 +373,6 @@ Neuvillette: But... I suppose I understand her point.
 Neuvillette: My proclivity to refrain from personal outings does, in part, originate from a sense of responsibility toward my duties. But it is also due to a lack of desire to engage in the human world.
 Neuvillette: But now I see that the human world is indeed full of many interesting places to discover.
 Traveler: I could have told you that.
-Traveler: Thank you!
-Traveler: You made it by hand and everything...
-Traveler: The color also really matches your style.
 
 ## Additional Conversations
 
@@ -370,10 +394,12 @@ Zhongli: Surrounded by such peace and tranquility, I also seem to have developed
 Zhongli: I apologize for making you worry.
 Hu Tao: Ah. Um, I see.
 Hu Tao: #What do you think, Traveler? Is this atmosphere putting you in a lazy mood too?
-Traveler: Out of mind, out of sight...
+    Option 1:
+        Traveler: Out of mind, out of sight...
+    Option 2:
+        Traveler: Different worlds should not collide?
 Hu Tao: Wow! You are getting really good at these kinds of lines!
 Zhongli: Indeed.
-Traveler: Different worlds should not collide?
 
 ### Additional Talk 2
 
@@ -404,13 +430,17 @@ Paimon: The mountain air is so refreshing! It makes Paimon feel like she could f
 ???: ...Cream! Gummies! Bulle Fruit!
 Paimon: #Huh? Traveler, did you hear that...
 ???: ...Sunshine! Blue Skies! Good Vibes!
-Traveler: I heard it too.
-Traveler: Something about Bulle Fruit and good vibes.
+    Option 1:
+        Traveler: I heard it too.
+    Option 2:
+        Traveler: Something about Bulle Fruit and good vibes.
 Paimon: Right? So Paimon wasn't just hearing things.
 Paimon: That voice sounds really familiar...
 Paimon: Well, we've got the time. Why don't we go check it out?
 Traveler: Okay. Let's go see what's up.
+
 Black Screen Text: You and Paimon make your way up the mountain in search of the source of the shouting.
+[Missing Dialog 401421312]
 
 ### Additional Talk 5
 
@@ -438,11 +468,15 @@ Zhongli: It was a fated meeting indeed.
 Hu Tao: Zhongli sure loves his lofty turns of phrase. But if you ask me, it's all thanks to that man who stopped to ask for directions.
 Paimon: Oh? Who was it?
 Furina: It's someone you know. Wanna take a guess?
-Traveler: Let me think...
-Traveler: ...It was Neuvillette, wasn't it?
+    Option 1:
+        Traveler: Let me think...
+    Option 2:
+        Traveler: ...It was Neuvillette, wasn't it?
 Furina: What! How did you guess that on your first try!?
 Hu Tao: Very impressive, my friend. Your guessing game is spot on today!
 Black Screen Text: You tell everyone about your encounter with Navia and Clorinde at the top of the mountain...
+[Missing Dialog 401420778]
+
 Paimon: Huh, Paimon never thought Neuvillette would be the type to get lost...
 Furina: I'm sure he didn't get lost. Even I was able to find my way to this place without any trouble.
 Furina: He was already getting ready to leave by the time I arrived. He just wanted to ask someone about the quickest way to get back to Fontaine.
@@ -469,13 +503,17 @@ Traveler: (Judging by how Zhongli is acting... And taking into consideration Neu
 Traveler: (Could Zhongli have been avoiding him on purpose?)
 Zhongli: Mm?
 Traveler: (Oh, I see.)
-Traveler: It is what it is.
-Traveler: It's truly a pity.
+    Option 1:
+        Traveler: It is what it is.
+    Option 2:
+        Traveler: It's truly a pity.
 Zhongli: Haha, to borrow Miss Furina's turn of phrase, perhaps it just wasn't meant to be.
 Furina: #Well, with Traveler around, I'm sure you'll have a chance to get to know each other at some point.
 Paimon: #That's right! He's got more friends than he knows what to do with!
-Traveler: I have a certain charm about me.
-Traveler: I'm good with people.
+    Option 1:
+        Traveler: I have a certain charm about me.
+    Option 2:
+        Traveler: I'm good with people.
 Furina: Well, that's certainly true!
 Furina: Oh, that reminds me. If you get the chance, you should try and talk Neuvillette into loosening up a bit.
 Furina: Just tell him the Palais Mermonia isn't going to fall apart if he disappears for a few days. He shouldn't keep himself cooped up all the time.
@@ -483,10 +521,12 @@ Furina: Even clams open their shells to let in fresh water every once in a while
 Furina: If he's really that much of a stickler for protocol, he can fill out a leave of absence request. He'd have to approve it himself since he handles that sort of thing now, but you know what I mean.
 Traveler: That does make sense.
 Hu Tao: Seems like this gentleman is also in charge of something pretty important.
-Traveler: He's the fair and impartial Iudex of Fontaine, head of the highest court in the land.
-Traveler: Otherwise known as, the demon who controls all the paperwork in Fontaine.
-Hu Tao: Aiya, sounds like a pretty uptight sort of guy all right.
-Hu Tao: Oho, I've never heard of a demon that boring before.
+    Option 1:
+        Traveler: He's the fair and impartial Iudex of Fontaine, head of the highest court in the land.
+        Hu Tao: Aiya, sounds like a pretty uptight sort of guy all right.
+    Option 2:
+        Traveler: Otherwise known as, the demon who controls all the paperwork in Fontaine.
+        Hu Tao: Oho, I've never heard of a demon that boring before.
 Hu Tao: In my experience, a leader needs be able to roll with the punches. That also includes knowing when and what to prioritize.
 Hu Tao: It seems like your friend still has a lot of growing to do.
 Furina: (If I remember correctly, he's already several thousands of years old...)
@@ -504,6 +544,8 @@ Hu Tao: Oh, so polite!
 Hu Tao: #No apologies necessary. Any friend of Traveler and Miss Furina is a friend of mine!
 Navia: Ha, straight to the point. I like it!
 Black Screen Text: Everyone circles around you and begins to introduce themselves.
+[Missing Dialog 401420879]
+
 Navia: It's getting late...
 Navia: If we want to catch a boat back before dark, we should probably get going.
 Clorinde: Indeed.

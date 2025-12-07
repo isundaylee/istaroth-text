@@ -11,11 +11,13 @@
 阿飞: 可璐璐总是说，小蒙扮船长的时候更好玩。
 阿飞: 唉，璐璐总是这样…不过，她觉得这样好的话，那就这样吧。
 阿飞: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你有空再扮一次海盗吗？
-旅行者: 好吧…
-阿飞: 结果，我这次还是个服务生。
+    Option 1:
+        旅行者: 好吧…
+        阿飞: 结果，我这次还是个服务生。
+    Option 2:
+        旅行者: 我想做个好人。
+        阿飞: 哎呀，我还想做船长呢…
 阿飞: #就和上次一样，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}准备好了之后，就过来吧。
-旅行者: 我想做个好人。
-阿飞: 哎呀，我还想做船长呢…
 
 ## Talk 2
 
@@ -35,11 +37,13 @@
 璐璐: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，不用担心，我有办法。
 璐璐: 他们最喜欢吃莲蓬了，有好吃的东西，他们绝对会安静下来的。
 璐璐: 你能帮我去找点莲蓬回来吗？
-旅行者: 好的。
-璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，请快去快回呀。
-旅行者: 他们最喜欢的应该不是莲蓬…
-璐璐: #唔…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}在说什么呢？那他们最喜欢什么呢？
-璐璐: 总之，请先找点莲蓬来吧，总不能让他们总是这么吵呀。
+    Option 1:
+        旅行者: 好的。
+        璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，请快去快回呀。
+    Option 2:
+        旅行者: 他们最喜欢的应该不是莲蓬…
+        璐璐: #唔…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}在说什么呢？那他们最喜欢什么呢？
+        璐璐: 总之，请先找点莲蓬来吧，总不能让他们总是这么吵呀。
 
 ## Talk 4
 
@@ -71,11 +75,13 @@ Unknown Role (TALK_ROLE_NPC): 找到了。
 阿飞: 嗯…
 派蒙: 真的安静下来了…
 璐璐: 怎么样，我就说吧。
-旅行者: 你怎么知道要这么做？
-璐璐: 我们一起玩了很久，我当然知道啦。
-旅行者: 璐璐真厉害…
-璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，北斗姐姐才厉害呢。
-璐璐: 我长大之后，也能成为她那样的人吗…
+    Option 1:
+        旅行者: 你怎么知道要这么做？
+        璐璐: 我们一起玩了很久，我当然知道啦。
+    Option 2:
+        旅行者: 璐璐真厉害…
+        璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，北斗姐姐才厉害呢。
+        璐璐: 我长大之后，也能成为她那样的人吗…
 
 ## Talk 6
 

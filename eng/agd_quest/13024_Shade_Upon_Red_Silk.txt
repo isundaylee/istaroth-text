@@ -10,8 +10,12 @@ Paimon: Missing text (1718471114)
 ## Talk 2
 
 Harun: Hey, Dehya, you're back! Are these two friends of yours?
-Traveler: It's a pleasure to meet you.
-Harun: Hahaha, likewise. There's no need to be so formal with us. We're a pretty casual crew.
+    Option 1:
+        Traveler: It's a pleasure to meet you.
+        Harun: Hahaha, likewise. There's no need to be so formal with us. We're a pretty casual crew.
+    Option 2:
+        Traveler: I'd trust Dehya with my life.
+        Harun: Oh? So you've already become like one of us then, haha. That's good to know.
 Harun: Anyway, since we've got newcomers, let me fill you in on what Dakan Al-Ahmar's been up to lately.
 Harun: They've become extremely aggressive. Apparently even their own now have become acceptable targets.
 Harun: They even attack other Relics brigades just the same as any other mercenary brigade.
@@ -27,7 +31,10 @@ Harun: You heard me right. The vast majority of their victims are mercenaries fr
 Harun: If their only goal was Mora, they could have gone after anybody. The targeted nature of their attacks points to a power struggle between the different brigades within the Relics, that's the only plausible explanation we have.
 Harun: Unfortunately, we weren't able to find out anything more specific. It seems they're also trying to keep things under wraps.
 Harun: Oh, one last thing we discovered was that over the past few years, as Dakan Al-Ahmar became more and more active, Deshret's Relics as a whole became a lot weaker.
-Traveler: They were able to cause so much damage...?
+    Option 1:
+        Traveler: They were able to cause so much damage...?
+    Option 2:
+        Traveler: That somehow makes things even more confusing.
 Dehya: Sounds mighty strange to me, too. Harun, you can leave the rest of the investigation to us.
 Dehya: Gotta say though, I didn't expect you to go on a whole undercover mission during the few days I was gone. Sounds like you were really putting your necks on the line, no?
 Harun: Nah, it was nothin'. We're just as concerned about the situation as you are. Dakan Al-Ahmar is your father's crew, after all.
@@ -71,9 +78,6 @@ Harun: Yeah, you hear her, Khalaf? Told ya we gotta focus on the investigation f
 Harun: All you gotta do is wait and ambush them in the evening. They'll have no idea what hit 'em.
 Dehya: Perfect, thanks for that. Be sure to pass my regards to everyone else in the brigade as well.
 Harun: Will do. You stay safe, Dehya.
-Traveler: That somehow makes things even more confusing.
-Traveler: I'd trust Dehya with my life.
-Harun: Oh? So you've already become like one of us then, haha. That's good to know.
 
 ## Talk 3
 
@@ -102,7 +106,10 @@ Dehya: Heh, that might have worked on an amateur, but I know you're just looking
 Dehya: Think about it, though. What's your reputation worth if you won't have the other tools you need to succeed in this line of work? Tools like, I dunno... your limbs, or eyes?
 Dehya: You've got five seconds. You might want to think twice about how much your employer's information is worth to you.
 Paimon: Wh—Whoa!
-Traveler: It's alright, Paimon.
+    Option 1:
+        Traveler: It's alright, Paimon.
+    Option 2:
+        Traveler: She knows what she's doing.
 Dehya: I'm not joking around. We can do this the easy way, or the painful way.
 Dehya: Two seconds...
 Sattar: I'll save you the trouble... Hmph!
@@ -117,7 +124,6 @@ Paimon: Well, he's out cold for now... We could wait for him to wake up, but may
 Dehya: Yeah, don't worry about it. It'll be a waste of time to interrogate him again after that. He might just hurt himself again if we start asking.
 Dehya: There are lots of goods around here. Let's search the area, maybe we'll be able to find something.
 Dehya: ...I'm really sorry.
-Traveler: She knows what she's doing.
 
 ## Talk 7
 
@@ -140,13 +146,19 @@ Paimon: Homayani!? You mean Dunyarzad's family?
 Paimon: Uhh, c—could it just be another family with the same last name?
 Dehya: I'd be surprised to find someone with the exact same first and last name. Shahzaman Homayani is Dunyarzad's father, and the head of the Homayani family.
 Dehya: Just what the heck is going on here...
-Traveler: Calm down, Dehya.
+    Option 1:
+        Traveler: Calm down, Dehya.
+    Option 2:
+        Traveler: Let's analyze the situation first.
 Dehya: I'm sorry... You're right. I'll consider what we've found, and not jump to conclusions just yet.
 Dehya: But what this piece of paper confirms is that the Homayani family has been providing goods to Dakan Al-Ahmar.
 Paimon: What if the Homayanis have been kept in the dark, and don't know they've been trading with Dakan Al-Ahmar?
 Dehya: That's a possibility, but if that was the case, why has this caravan specifically named Shahzaman as their person of contact?
 Dehya: They could have just as easily bought goods such as food and medicine directly from Caravan Ribat or Port Ormos.
-Traveler: If Shahzaman was actually aware of this...
+    Option 1:
+        Traveler: If Shahzaman was actually aware of this...
+    Option 2:
+        Traveler: Then perhaps he's been supplying the brigade's operations this entire time.
 Dehya: Yeah... Funding violence and looting. The brigade gets the goods, and he is paid the proceeds from the sale of the loot.
 Paimon: B—But why would he do something like this? It's not like the Homayanis are in need of money...
 Dehya: I honestly have no idea...
@@ -169,8 +181,6 @@ Dehya: That's not how I deal with people.
 Paimon: You're right. Paimon wants to trust Dunyarzad. too!
 Traveler: I hope we'll be of help to her.
 Dehya: Yeah. Let's pay another visit to Sumeru City.
-Traveler: Then perhaps he's been supplying the brigade's operations this entire time.
-Traveler: Let's analyze the situation first.
 
 ## Talk 8
 
@@ -188,11 +198,13 @@ Traveler: I'll go back to the desert with Dehya.
 Dehya: Huh? But there's no need for you to get caught up in this mess, too.
 Paimon: #Well, he's super tough, so if he went to the desert with you, then Paimon bets the problem would be solved in no time!
 Dunyarzad: #Hmm... I'm inclined to agree. I'd feel a lot more at ease if you took him along to help.
-Traveler: You can count on me!
+    Option 1:
+        Traveler: You can count on me!
+    Option 2:
+        Traveler: I'll do my best.
 Dunyarzad: I'll wait for news from you in the city until then. Please, stay safe.
 Dehya: I'm honored that you care so much for me, my lady.
 Dehya: Alright, then let's get moving. Our first stop will be Caravan Ribat, where we can catch up a bit with my fellow mercs.
-Traveler: I'll do my best.
 
 ### Additional Talk 2
 

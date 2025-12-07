@@ -10,22 +10,26 @@
 ## Talk 2
 
 Akatanga: What's up? Need me to run you through it once more?
-Traveler: Can you tell me what I have to do again?
-Akatanga: First, set out the performance props. Place the Wooden Barrel in the *middle of the scene, without blocking the main character or the set*, and place the Elemental Bait near *where the antagonist enters from*.
-Akatanga: When it's time to do so, *guide the antagonist to a spot near the Wooden Barrel*, then move back to a safe position and *smash the Wooden Barrel*.
-Traveler: No need.
-Akatanga: Then best of luck, I'm counting on you!
+    Option 1:
+        Traveler: Can you tell me what I have to do again?
+        Akatanga: First, set out the performance props. Place the Wooden Barrel in the *middle of the scene, without blocking the main character or the set*, and place the Elemental Bait near *where the antagonist enters from*.
+        Akatanga: When it's time to do so, *guide the antagonist to a spot near the Wooden Barrel*, then move back to a safe position and *smash the Wooden Barrel*.
+    Option 2:
+        Traveler: No need.
+        Akatanga: Then best of luck, I'm counting on you!
 
 ## Talk 3
 
 Paimon: #Look, look, Traveler! There's a Kamera here, and some props too. D'you think this is a film set?
 Paimon: But these houses... they're so tiny. They make you look like a giant!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawrrr!
-Traveler: Puny humans...
-Traveler: This would make a great house for you, Paimon.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrrr...
-Paimon: Hehe, looks like we're real "big" shots now, huh?
-Paimon: Seriously, what are you on about? There's no way Paimon could live in such a small house. She couldn't even stretch her arms and legs out!
+    Option 1:
+        Traveler: Puny humans...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrrr...
+        Paimon: Hehe, looks like we're real "big" shots now, huh?
+    Option 2:
+        Traveler: This would make a great house for you, Paimon.
+        Paimon: Seriously, what are you on about? There's no way Paimon could live in such a small house. She couldn't even stretch her arms and legs out!
 Black Screen Text: Suddenly, yet utterly seamlessly, a Natlan local joins the conversation...
 Akatanga: Oh, hello! Are you guys interested in filmmaking too? If so, then I beseech you — join forces with me, Akatanga, to bring this burgeoning new trend to the lands of Natlan, that it might sweep all before it!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
@@ -36,21 +40,26 @@ Akatanga: A great pity that my friend took the little fellow away. We had an alm
 Akatanga: I should never have mixed friends and business. The project failed, and I lost my friend too... In other words, I am doubly defeated.
 Akatanga: But that's all water under the bridge — for now, what stands before me but another little Tepetlisaur, starry-eyed and eager for stardom! With such enthusiasm, what could go wrong? We shall make the next big hit!
 Akatanga: So, what do you say? If you can help me complete this timeless, groundbreaking work of mine, I'll be sure to reward you handsomely!
-Traveler: #Well, seeing as {REALNAME[ID(2)|SHOWHOST(true)]} likes the idea...
-Traveler: Hundred and ten percent sounds like some kind of scam.
-Akatanga: Even if it's not an overnight sensation, I'll still compensate you for helping out with the shoot. A win-win situation, no?
+    Option 1:
+        Traveler: #Well, seeing as {REALNAME[ID(2)|SHOWHOST(true)]} likes the idea...
+    Option 2:
+        Traveler: Hundred and ten percent sounds like some kind of scam.
+        Akatanga: Even if it's not an overnight sensation, I'll still compensate you for helping out with the shoot. A win-win situation, no?
 Paimon: We can help, but... We still don't know what this film of yours is even about.
 Akatanga: Well, here's what I've got so far...
 Black Screen Text: *bzzt*— *bang* A sudden flash of dazzling white light heralds the arrival of an uninvited guest to the tribal settlement, perfectly round but for a single spike. *crackle* *bzzt* As it stops for a moment on the grass, a scorching smell begins to waft upon the air. "Eek! An emissary of Xibalba!" The tribesfolk look terrified when they see it. *bang* *crackle* *bzzt* "A foul abomination with no teeth... It's coming our way! It will surely devour us all!"
 Black Screen Text: #Just as the wicked villain is about to break through the tribe's defenses... *BOOM* *BOOM* Our savior with the red tail scarf appears, seemingly out of nowhere. "Where did it come from?" the tribesfolk gasp, marveling at its sturdy claws, stronger than obsidian itself, and capable of carving through rock of any kind. "But faced with such a slippery, shameless foe... Surely even for {REALNAME[ID(2)|SHOWHOST(true)]}, this is a fight that cannot be w..."
 Black Screen Text: "Rawrrrr!" cries our savior — in more of a piercing shriek than an angry roar — and the evil, toothless monstrosity begins to pulsate. A raging blaze lights up the sky, followed by a thunderous rumbling... then waves of heat begin to flow forth, hotter even than liquid phlogiston. Immersed in such heat, the toothless fiend is vanquished. "Hot, hot, hot!" cry the tribesfolk, who have narrowly escaped disaster, as the aftershock surges through their ranks.
 Black Screen Text: But when they look up, they discover that their savior with the red tail scarf has vanished without a trace, as suddenly and inexplicably as it first arrived...
+
 Akatanga: Well, what do you think?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr rawr!
-Traveler: It's amazing! That's exactly what I've been waiting to see.
-Traveler: It's... unique? Bit hard to get my head around, if I'm honest...
-Akatanga: I knew it! I knew this kind of thing would appeal to someone!
-Akatanga: Ah, well... As an outsider once told me, if it stands out from the crowd, you're already on the winning path!
+    Option 1:
+        Traveler: It's amazing! That's exactly what I've been waiting to see.
+        Akatanga: I knew it! I knew this kind of thing would appeal to someone!
+    Option 2:
+        Traveler: It's... unique? Bit hard to get my head around, if I'm honest...
+        Akatanga: Ah, well... As an outsider once told me, if it stands out from the crowd, you're already on the winning path!
 Paimon: #Umm, Paimon doesn't really get it, but as long as {REALNAME[ID(2)|SHOWHOST(true)]} likes it, that's all that really matters, right? So... What exactly do we actually have to do?
 Akatanga: It's very simple. First of all, you'll need to set out the performance props. *Place the Wooden Barrel and the Elemental Bait somewhere suitable*.
 Akatanga: The Wooden Barrel is your secret weapon, so you'd do well to place it *in the middle of the scene*, as long as it doesn't block the main character or the set buildings. It would be best if the Elemental Bait was near *where the antagonist enters from* — in other words, near the side.
@@ -101,13 +110,20 @@ Paimon: Sounds kinda weird, but... If you say so, we'll give it a try.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawrrr!
 Paimon: Steady on, no need to rush!
 Akatanga: To tell you the truth, I was just a teeny-tiny bit worried for the little one just now. I wanted the effect to be as realistic as possible, so I might have gone a bit overboard on the explosives...
-Traveler: Nearly blew the whole settlement sky high...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrawrawrawrawr...
+    Option 1:
+        Traveler: Nearly blew the whole settlement sky high...
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrawrawrawrawr...
+    Option 2:
+        Traveler: Even for me, that felt a bit too dangerous.
+        Paimon: Yeah! What if someone got hurt, or there was a fire or something?
 Akatanga: In any case, with this experience to go on, I'll know how to do things better next time. Thank you all for your help. Now, how about we take a look at how it turned out?
 Black Screen Text: To all of your surprise, neither the savior with the red tail scarf, nor the evil crackling antagonist, nor the thrilling shots of explosions seem to have made it into the final cut — only close-ups of Akatanga's constantly changing expressions...
 Akatanga: I... I'm the star of the show?
-Traveler: Congratulations!
-Paimon: No, no, that's not right! Could it be that the Kamera...
+    Option 1:
+        Traveler: Congratulations!
+        Paimon: No, no, that's not right! Could it be that the Kamera...
+    Option 2:
+        Traveler: Have you... used a Kamera before?
 Akatanga: Well, it's true that this is the first time I've ever officially used a Kamera, but... Surely I didn't... get it the wrong way round?
 Paimon: Easy for you to say, but what about all that hard work we just put in?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrrooo... Rrawrr...
@@ -117,15 +133,14 @@ Akatanga: I'm so sorry, it's all my fault! Alright, how about this... Just think
 Paimon: #Seems like you're eager to give this another shot, huh, {REALNAME[ID(2)|SHOWHOST(true)]}? Let's do it, then. Hope nothing goes wrong this time...
 Black Screen Text: You follow the same process as before and finally get the result you wanted...
 Akatanga: Incredible! Absolute perfection! That completely and utterly exceeded my expectations.
-Traveler: A complete, utter, absolute... piece of cake.
+    Option 1:
+        Traveler: A complete, utter, absolute... piece of cake.
+    Option 2:
+        Traveler: Director, where's that bonus you promised us?
 Akatanga: Aside from the payment we agreed upon, I'll also give you this picture to keep as a souvenir. *sigh* I must say, this really has turned out to be my magnum opus. Of course, I couldn't have done it without your help.
 Paimon: #Whoa, you look so imposing, {REALNAME[ID(2)|SHOWHOST(true)]}! Not bad at all.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawrrr!
 Paimon: #Hehe, looks like {REALNAME[ID(2)|SHOWHOST(true)]} is happy with how it turned out too. Well, all's well that ends well, as they say!
-Traveler: Director, where's that bonus you promised us?
-Traveler: Have you... used a Kamera before?
-Traveler: Even for me, that felt a bit too dangerous.
-Paimon: Yeah! What if someone got hurt, or there was a fire or something?
 
 ## Talk 12
 

@@ -94,6 +94,7 @@ Nefer: (His past is filled with sorrow, but the tale of any fallen civilization 
 
 Orlog: Yes... I just want to go on living.
 Orlog: Is that really such an unforgivable crime?
+[Missing Dialog 60189910]
 
 ## Talk 10
 
@@ -101,6 +102,7 @@ Rerir: ...
 Rerir: Hah... You want to "go on living."
 Rerir: I want to keep living, too... to keep living forever. That's why I have no choice but to continue on the path I'm on.
 Rerir: If only some savior would suddenly swoop down and change the way the world is... Too bad that's not going to happen.
+[Missing Dialog 60189914]
 
 ## Talk 11
 
@@ -115,8 +117,12 @@ Traveler: More than you bargained for?
 Flins: Fighting alone can get quite tedious, but I had the good fortune to run into a pair of brave young warriors...
 Albedo: We meet again. How have you been?
 Paimon: Albedo! What are you doing here?
-Traveler: It's been too long.
-Albedo: Thankfully, tracking you down turned out to be a lot simpler than we envisaged.
+    Option 1:
+        Traveler: It's been too long.
+        Albedo: Thankfully, tracking you down turned out to be a lot simpler than we envisaged.
+    Option 2:
+        Traveler: I'm guessing you're here to see Varka?
+        Albedo: That would be a natural assumption to make. It's also the correct one.
 Flins: These two courageously lent me a hand while I was fighting the Wild Hunt. When they told me they were Sir Varka's colleagues, it all made sense.
 Flins: And given how people of outstanding talent tend to cross paths, it's no wonder you're already acquainted.
 Paimon: So... Who's your travel buddy, Albedo?
@@ -133,7 +139,10 @@ Albedo: Interesting, isn't it? The first step towards blending into human societ
 Paimon: Wow, you look... so different... in a good way, of course! It's great to see you looking so healthy.
 Durin: Thank you, Paimon... And although you're as mini as ever, I understand that diminutives don't always convey endearment. I'll be sure to simply call you "Paimon" as a sign of my great respect for you.
 Paimon: Wow, you're such a smooth talker now... Hehe, Paimon could get used to this. From now on, you may refer to her as your "Esteemed Guide, Paimon"!
-Traveler: I actually think a diminutive is warranted here.
+    Option 1:
+        Traveler: I actually think a diminutive is warranted here.
+    Option 2:
+        Traveler: Little Paimon is pretty tiny, after all.
 Lauma: Personally, I think our little Paimon is the perfect size.
 Lauma: When people call her Little Paimon, it's just because she's so adorable that they can't help themselves. If that's not a sign of endearment, what is?
 Albedo: You're absolutely right, Miss Lauma. My brother still has a long road ahead of him when it comes to understanding human relationships.
@@ -153,9 +162,6 @@ The Damselette: I understand. Well... Bye for now, Arlecchino.
 Varka: Hohoho, this place is hopping! It's probably a good thing one of us left, otherwise we might not fit all these people in...
 Flins: Are you saying we're about to run out of chairs?
 Varka: As a matter of fact, I am... Come on in and see for yourself.
-Traveler: Little Paimon is pretty tiny, after all.
-Traveler: I'm guessing you're here to see Varka?
-Albedo: That would be a natural assumption to make. It's also the correct one.
 
 ## Talk 12
 
@@ -164,6 +170,7 @@ Rerir: Imagine that. If there really were such a person, you and I wouldn't be s
 ## Talk 13
 
 Rerir: *panting*...
+[Missing Dialog 60189906]
 
 ## Talk 14
 
@@ -221,7 +228,6 @@ Rerir: (Whatever Vedrfolnir said, I didn't catch it. I didn't even help him out 
 
 ## Talk 15
 
-Black Screen Text: Not long after...
 Nefer: ...
 Lauma: ...
 Varka: Ah, Miss Nefer! You made it after all.
@@ -273,7 +279,17 @@ Nefer: So it's personal, after all. Then tell me, Mr. Dainsleif — what price a
 Dainsleif: I cannot say what price would be worthy of such a commission... But know this: Rerir was not always a madman. Believe it or not, there was a time when he was just an ordinary man, working for the Khaenri'ahn intelligence service.
 Dainsleif: Uncovering the truth of Rerir's past is the only way to unravel this mystery. But before you decide if you will accept my commission, I will tell you more about him — enough, I hope, to help you plan your next move.
 Varka: Sounds pretty good to me. Hahaha, feels like we just flagged down a random passerby, only to discover he's actually a master strategist who has a score to settle with our enemy...
+Black Screen Text: Not long after...
+
 Traveler: Must be all that good karma I've been building...
+Flins: Heh, can I borrow your halo? It could be useful in the lighthouse.
+Paimon: Hey, enough with the wisecracks! Besides, isn't that lamp of yours bright enough already?
+Flins: Relax, it was meant to be a compliment. If that was a little over the top for your liking, I'll make sure to tone it down next time.
+Nefer: I'll give your proposal some serious thought, Mr. Dainsleif. Let's speak in private once the meeting is over.
+Traveler: Before that, there's a few things I'd like to share.
+Black Screen Text: You recount meeting The Knave, and how the Iridescent Moon's marrow was retrieved from the Crimson Moon space.
+[Missing Dialog 60180960]
+
 Traveler: Who knew having a Khaenri'ahn friend would come in this handy...
 Flins: Heh, can I borrow your halo? It could be useful in the lighthouse.
 Paimon: Hey, enough with the wisecracks! Besides, isn't that lamp of yours bright enough already?
@@ -281,6 +297,8 @@ Flins: Relax, it was meant to be a compliment. If that was a little over the top
 Nefer: I'll give your proposal some serious thought, Mr. Dainsleif. Let's speak in private once the meeting is over.
 Traveler: Before that, there's a few things I'd like to share.
 Black Screen Text: You recount meeting The Knave, and how the Iridescent Moon's marrow was retrieved from the Crimson Moon space.
+[Missing Dialog 60180960]
+
 Lauma: Now that we've united the hearts of the three moons, your power should be greatly enhanced. But it seems like that hasn't happened yet?
 The Damselette: Mm... I believe it will take a little longer.
 The Damselette: You've done so much for me, so I want to be completely honest with you all. Even though I'm doing a lot better now, the truth is, my recovery will likely be an ongoing process.
@@ -316,7 +334,10 @@ Flins: Hate to say it, friend, but that's one of the funniest things I've heard 
 Varka: ...Why? You think I've got it wrong?
 Flins: Haha, quite the opposite. But what makes it so hilarious is how long it's taken you to realize.
 Black Screen Text: Nefer and Dainsleif converse intently for quite some time. From the gravity of their expressions, you can tell how heavily the next stage of the plan weighs upon them both.
+[Missing Dialog 60180996]
+
 Black Screen Text: You and Paimon wait patiently for Nefer, content to see how well everyone is working together.
+[Missing Dialog 60180999]
 
 ## Talk 16
 
@@ -541,6 +562,7 @@ Tholindis: No... Surely he wouldn't have the heart...
 ## Talk 44
 
 Rerir: Monsters!? Is this Rhinedottir's doing? Or the Universitas Magistrorum?
+
 Rerir: Out of my way!
 
 ## Talk 45

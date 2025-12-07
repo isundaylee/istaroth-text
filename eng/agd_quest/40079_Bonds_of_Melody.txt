@@ -33,11 +33,17 @@ Paimon: #Traveler, to the rescue!
 Razor: ...
 Paimon: Whew, finally. These hilichurls are a little too obsessed with food for their own good... But never mind that, are you okay? Did they hurt you?
 Rolf: Phew... I'm fine, thanks to you. You were just in time. Any later, and all you'd have found here is a pile of pulp... and I don't think there'd be much left of the fruit, either.
-Traveler: They're still waiting for you at the festival.
+    Option 1:
+        Traveler: They're still waiting for you at the festival.
+    Option 2:
+        Traveler: Keep your eyes peeled on the road.
 Rolf: Got it. Well, thanks again! I'd better not delay this delivery any longer, so goodbye and Happy Weinlesefest!
 Rolf: Thanks to you, too, kiddo.
 Razor: Mm.
-Traveler: What is it, Razor?
+    Option 1:
+        Traveler: What is it, Razor?
+    Option 2:
+        Traveler: You seem a little...
 Razor: Enemy following.
 Rosaria: "Enemy"? Heh, I think we're a little closer than that.
 Rosaria: On some level, you could even say that we're brother and sister.
@@ -51,11 +57,18 @@ Razor: It's okay. I will wait.
 Paimon: Brother and sister...? Varka...?
 Paimon: Oh! Paimon gets it. Varka is a father figure to both of them, so that makes them family — just not by blood.
 Rosaria: Well, blood relations are overrated anyway, don't you think?
-Traveler: I think the bond of blood is a strong one.
-Rosaria: #Ah, I almost forgot. You have a sister.
+    Option 1:
+        Traveler: I think the bond of blood is a strong one.
+        Rosaria: #Ah, I almost forgot. You have a sister.
+    Option 2:
+        Traveler: ...Hard to say.
+        Rosaria: I get it. In the final moments of your life, the people there with you won't necessarily be your blood relatives.
 Razor: Cold, dark grown-up... You also don't remember what your real mother and real father look like?
 Rosaria: Huh... So you're helping him dig up some info on his biological parents? And trying to help him build a concept of family along the way?
-Traveler: You could say that.
+    Option 1:
+        Traveler: You could say that.
+    Option 2:
+        Traveler: Just gathering some reference material.
 Rosaria: Alright, you got me.
 Rosaria: I barely have any memories of my birth parents... The last time I saw them was long before I had any understanding of the world around me.
 Rosaria: But that seems pretty common. Even in this day and age, there are plenty of people in the world who can't stop thinking about their families, but will never get to see them.
@@ -66,7 +79,10 @@ Rosaria: ...Fine. So let's say you do find out who your parents were, and they w
 Rosaria: How would that affect your life choices? What would you do about it?
 Razor: Ummm...
 Paimon: Whew, Rosaria's take is a little on the nose... That's a hard one for Razor to answer.
-Traveler: But it's normal to be curious.
+    Option 1:
+        Traveler: But it's normal to be curious.
+    Option 2:
+        Traveler: The urge to know is understandable.
 Rosaria: Don't get me wrong, I'm not trying to make this any more difficult than it already is. But Razor's feeling lost and confused right now, and all the other Mondstadters we know are too sunny and bright to tell it like it really is...
 Rosaria: ...The sun nurtures many good things, but it can't do anything about the problems lurking in the shadows.
 Paimon: Wow, Rosaria...
@@ -86,16 +102,12 @@ Paimon: Razor, are you still thinking about what Rosaria said?
 Razor: Her words, are like Mist Flower. They are cold, and they sting.
 Razor: But cold also good for wounds. Like Wolfhook.
 Razor: I need to, think about it. Maybe then, I will understand.
-Traveler: It'll take some time, there's no need to rush it.
+    Option 1:
+        Traveler: It'll take some time, there's no need to rush it.
+    Option 2:
+        Traveler: We'll wait for you.
 Razor: Okay.
 Razor: I will come with you. I think while we walk.
-Traveler: We'll wait for you.
-Traveler: The urge to know is understandable.
-Traveler: Just gathering some reference material.
-Traveler: ...Hard to say.
-Rosaria: I get it. In the final moments of your life, the people there with you won't necessarily be your blood relatives.
-Traveler: You seem a little...
-Traveler: Keep your eyes peeled on the road.
 
 ## Talk 7
 
@@ -107,12 +119,19 @@ Lisa: ...So you see, you're the best person for this.
 Kaeya: Oho, just in time. Lisa and I were just talking about Razor's situation.
 Kaeya: Where were we... Ah, yes, the barrel!
 Paimon: Huh!? But obviously, the knights part is supposed to be "a defender's will." But what kind of ingredient is a barrel?
-Traveler: Obviously that's not what he meant.
-Paimon: Oh... F—Fair enough...
+    Option 1:
+        Traveler: Obviously that's not what he meant.
+        Paimon: Oh... F—Fair enough...
+    Option 2:
+        Traveler: Seems entirely reasonable to me.
+        Paimon: Is your brain half-asleep or something? It doesn't make any sense at all!
 Lisa: Hehe... Oh, Paimon, don't worry, you'll get your ingredient. I've already tasked someone with sorting it out.
 Lisa: The person is very conscientious, and wants to properly research their contribution. So it may take some time, but hopefully it'll be worth the wait.
 Lisa: As for the barrel... how else were you planning on mixing all the ingredients? Surely not in the giant cooking pot at Dadaupa Gorge?
-Traveler: Ah, the memories...
+    Option 1:
+        Traveler: Ah, the memories...
+    Option 2:
+        Traveler: That would be a "Suspicious Thousand-Wind Wine"...
 Lisa: After much deliberation, I realized this was a job for the most sociable and savviest member in our ranks, the Cavalry Captain. So I asked him to take a trip to the Dawn Winery, and somehow bring back a wine barrel.
 Kaeya: *sigh* Alright, spare me the flattery, Lisa. We're all friends here, and I know you're only trying to help your student.
 Kaeya: ...But I haven't been back there in a long time. This could be quite difficult to accomplish in just a single trip.
@@ -129,20 +148,21 @@ Razor: ...
 Razor: #Traveler and teacher, did a lot for me. A lot of work.
 Razor: But me... I still can't answer questions. So useless.
 Lisa: Dear me, what's gotten you so upset, my little wolf cub? We can't have you being so down in the dumps.
-Traveler: Some questions, he can't stop thinking about.
+    Option 1:
+        Traveler: Some questions, he can't stop thinking about.
+    Option 2:
+        Traveler: Maybe an information overload.
 Lisa: Ah, I see.
 Lisa: Hmm. Cutie, how about you keep Kaeya company while I stay here and help Razor process his feelings? As his teacher, I owe him some tutelage anyway.
 Lisa: Come and collect him in a few days' time. The last ingredient should be ready by then as well.
 Kaeya: Splendid. I was just thinking about how nice it would be to have some company on my trip.
 Razor: I don't know what is right, but I trust Teacher. I accept.
-Traveler: It's a plan then.
+    Option 1:
+        Traveler: It's a plan then.
+    Option 2:
+        Traveler: Lisa, you're a godsend. Thank you.
+        Lisa: Well, aren't you a sweet one? But this is as much my business as yours. It's my pleasure, really.
 Lisa: Run along now, and don't forget to tell Diluc that the Knights of Favonius send our regards.
-Traveler: Lisa, you're a godsend. Thank you.
-Lisa: Well, aren't you a sweet one? But this is as much my business as yours. It's my pleasure, really.
-Traveler: Maybe an information overload.
-Traveler: That would be a "Suspicious Thousand-Wind Wine"...
-Traveler: Seems entirely reasonable to me.
-Paimon: Is your brain half-asleep or something? It doesn't make any sense at all!
 
 ## Talk 9
 
@@ -177,7 +197,10 @@ Diluc: You're better informed than I thought. In that case, I will leave this wi
 Kaeya: I really can't thank you enough.
 Paimon: Master Diluc is so generous! That's all Paimon needs to get that warm, fuzzy feeling... which is just as well, since she won't be allowed to drink a drop.
 Diluc: Are you two here regarding the Weinlesefest, too?
-Traveler: Actually, we're here about Razor...
+    Option 1:
+        Traveler: Actually, we're here about Razor...
+    Option 2:
+        Traveler: We need a barrel...
 Black Screen Text: You tell Diluc that you're helping Razor to make Thousand-Wind Wine...
 Kaeya: Poor Razor. He grew up so fast, and he's still looking for his father. Master Diluc, we really ought to lend him a hand.
 Paimon: How come Klee said he's looking for his mom, but Kaeya says he's looking for his dad...? It might make more sense to them, but it's gonna get confusing for everyone else!
@@ -202,7 +225,10 @@ Traveler: The more the merrier.
 Kaeya: ...Alright then. I'll take you up on the offer. Adelinde, one more set of cutlery, please, if you'd be so kind.
 Black Screen Text: The group dines to the sound of Kaeya's jesting and Diluc's disapproving grunts...
 Paimon: Oof, Paimon's so full... Adelinde's cooking is amazing. Everything looked and tasted so beautiful.
-Traveler: Thank you for your hospitality.
+    Option 1:
+        Traveler: Thank you for your hospitality.
+    Option 2:
+        Traveler: I enjoyed it as well.
 Diluc: Glad you liked it. You're welcome to join again anytime.
 Kaeya: #Oh? Then I may have to tag along on Traveler's adventures more often in the future.
 Paimon: Ugh, Kaeya's back to his usual ways.
@@ -211,8 +237,6 @@ Adelinde: Take care, Master Kaeya. Have a safe trip back.
 Paimon: We should get going as well. Lisa's taking care of Razor, but the Weinlesefest can't do without us.
 Paimon: See you next time, Master Diluc!
 Diluc: Indeed. Goodbye.
-Traveler: I enjoyed it as well.
-Traveler: We need a barrel...
 
 ## Talk 11
 
@@ -262,7 +286,10 @@ Adelinde: #Traveler, thank you so much for visiting. I hope to see you again soo
 Klee: Yay! Adventure! Treasure! Weinlesefest! Let's go, let's go!
 Klee: Oh... wait, but what about Wolfie? Wolfie— uh, I mean Razor needs looking after. Honorary Knight, Paimon, you'd better take care of Razor, okay? Make sure he finds his mommy.
 Razor: Mm...
-Traveler: Leave it to us.
+    Option 1:
+        Traveler: Leave it to us.
+    Option 2:
+        Traveler: Be careful.
 Razor: ...Good luck.
 Bennett: See ya later, folks.
 Paimon: Ah, it's so nice to see everyone in such a good mood.
@@ -291,4 +318,3 @@ Paimon: Ummm... Well, if it's on the way...
 Razor: Okay, we go. I go too.
 Razor: Everyone helps me. Now I have chance, to help everyone.
 Marcel: That's wonderful, thank you so much!
-Traveler: Be careful.

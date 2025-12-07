@@ -18,7 +18,11 @@ Etsuko: You know what, I don't think it'll be that hard to find craftsmen lookin
 Etsuko: The Guild's received quite a few commissions related to this, and I've heard that some people are still in Tatarasuna looking for work.
 Etsuko: I encountered just such an encampment while on a commission.
 Etsuko: So if you want, you can try your luck there.
-Traveler: Thank you.
+    Option 1:
+        Traveler: Thank you.
+    Option 2:
+        Traveler: You don't seem like your usual self, Etsuko.
+        Etsuko: What, not used to me giving you information first?
 Etsuko: Heh, don't pay it any mind. It wasn't that hard.
 Etsuko: And you know what? I'd like to see what might happen if that shrine really does thrive again...
 Etsuko: Especially that "Hibiki" Neko keeps talking about. What sort of person could be so beloved by that cat?
@@ -27,14 +31,15 @@ Etsuko: As for whether they know how to carve rock or not... Well, I guess that'
 Taisuke: Come on, Miss Etsuko, you just want to help Lady Neko as well, don't you? Haha, you're such a—
 Etsuko: Taisuke, is our survey plan ready yet?
 Taisuke: Uh, I—I'm almost done. Sorry...
-Traveler: You don't seem like your usual self, Etsuko.
-Etsuko: What, not used to me giving you information first?
 
 ## Talk 3
 
 ???: *sigh* When will I be able to find some work...
 ???: Are you looking for me? What is this about?
-Traveler: Do you know how to make stone carvings?
+    Option 1:
+        Traveler: Do you know how to make stone carvings?
+    Option 2:
+        Traveler: We're looking for an artisan who can work with stone.
 ???: Eh? Well... Well then, that's great!
 ???: Wait, sorry, I forgot to introduce myself. I'm Ooshima Junpei, and I used to work at Tatarasuna.
 ??? (Ooshima Junpei): After that accident, we were all evacuated.
@@ -50,15 +55,20 @@ Paimon: (...Will it really, though...)
 ??? (Ooshima Junpei): Will it? I... Hmm, it just feels like you're swindling me...
 ??? (Ooshima Junpei): Still... You know what? Never mind. I'm a pair of idle hands anyway. Might as well go with you to have a look.
 ??? (Ooshima Junpei): I really hope that I can get paid...
-Traveler: We're looking for an artisan who can work with stone.
 
 ## Talk 4
 
 Neko: Ah, you have returned. This human must be the stone human, yes?
-Traveler: This is the artisan we hired.
+    Option 1:
+        Traveler: This is the artisan we hired.
+    Option 2:
+        Traveler: Yes, the stone human.
 Ooshima Junpei: ...What!? The cat... it really can talk!
 Neko: Meow meow meow, such ado about nothing... Is it so strange that I speak?
-Traveler: No need to make a fuss.
+    Option 1:
+        Traveler: No need to make a fuss.
+    Option 2:
+        Traveler: It's just a talking cat.
 Ooshima Junpei: Wait. Are you saying that this is something super normal for you!?
 Traveler: That certainly has been the case so far.
 Ooshima Junpei: What in the world have you experienced...
@@ -78,8 +88,6 @@ Ooshima Junpei: ...
 Ooshima Junpei: W—Well, I'll go look around and pick a rock to use, then. You all just stay here for now.
 Ooshima Junpei: Working for a cat. Well, that's a first...
 Paimon: Mr. Ooshima seems to have forgotten all about that payment.
-Traveler: It's just a talking cat.
-Traveler: Yes, the stone human.
 
 ## Talk 5
 
@@ -91,8 +99,10 @@ Neko: I will leave the matter of stone to you.
 
 Neko: Still, I am curious. How will a thing as hard as stone take on my countenance?
 Neko: Is that stone human very powerful? Can he use some magic?
-Traveler: Oh, he's super powerful.
-Neko: Ah, I understand. Lovely!
-Traveler: It's like that time with the meal we made...
-Neko: Ah, I understand. The meals you and Hibiki made were all good things. The stone that the stone human will make must then also be a good thing.
-Neko: Humans can be quite skilled sometimes, it seems. You have my thanks.
+    Option 1:
+        Traveler: Oh, he's super powerful.
+        Neko: Ah, I understand. Lovely!
+    Option 2:
+        Traveler: It's like that time with the meal we made...
+        Neko: Ah, I understand. The meals you and Hibiki made were all good things. The stone that the stone human will make must then also be a good thing.
+        Neko: Humans can be quite skilled sometimes, it seems. You have my thanks.

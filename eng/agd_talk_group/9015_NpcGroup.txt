@@ -11,13 +11,15 @@ Traveler: *How do you like it here?*
 Kaeya: Oh, I feel quite at home already.
 Kaeya: Hmm, although I feel that "at home" doesn't express my feelings in their entirety.
 Kaeya: "Surprised" is more how I'd describe the feeling I had when I first set eyes on this place.
-Traveler: You mean, pleasantly surprised?
-Kaeya: Exactly that.
+    Option 1:
+        Traveler: You mean, pleasantly surprised?
+        Kaeya: Exactly that.
+    Option 2:
+        Traveler: As in, it was a nasty surprise?
+        Kaeya: What? Of course not! It was a very pleasant surprise.
 Kaeya: It's more beautiful than I imagined.
 Kaeya: It's been a while since I moved here though, so the initial sense of surprise has mostly worn off. Now, this place feels comfortable, like somewhere I belong.
 Kaeya: Heh, who'd have thought...
-Traveler: As in, it was a nasty surprise?
-Kaeya: What? Of course not! It was a very pleasant surprise.
 
 ## Talk 2
 
@@ -28,9 +30,14 @@ Kaeya: Hmm... Though it's too bad we don't have anything to wet our whistles wit
 Traveler: Why do you like to drink so much, Kaeya?
 Kaeya: Well... largely because I like the taste.
 Kaeya: But I can't deny that I also like how it makes me feel.
-Traveler: I think I understand what you mean.
-Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
-Kaeya: That's quite a unique talent.
+    Option 1:
+        Traveler: I think I understand what you mean.
+        Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
+        Kaeya: That's quite a unique talent.
+    Option 2:
+        Traveler: So what you mean is, you drink to numb the pain?
+        Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
+        Kaeya: I'm quite content with my life right now.
 Kaeya: I have to say, though, that chatting with you is quite intoxicating...
 Kaeya: Actually, in much the same way that drinking is.
 Kaeya: So, I suppose... I'm just greedy and want to enjoy both of these pleasures at the same time.
@@ -39,28 +46,32 @@ Kaeya: Hahaha... What an interesting metaphor! I hadn't looked at it from that a
 Kaeya: Let me think...
 Kaeya: Hmm... Your analogy seems largely correct.
 Kaeya: Save for one small detail — you, of course, are the main ingredient in said cocktail.
-Traveler: So what you mean is, you drink to numb the pain?
-Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
-Kaeya: I'm quite content with my life right now.
 
 ## Talk 3
 
 Traveler: *Is there anything you'd like to do?*
 Kaeya: You're already here by my side, what more could I ask for?
 Kaeya: #Though, I would like to know one thing. Is there any way in which I can be of assistance to you, Traveler?
-Traveler: You really have a way with words, Kaeya...
-Kaeya: Haha, how flattering!
-Kaeya: As always, I speak only from the heart.
-Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
-Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 1:
+        Traveler: You really have a way with words, Kaeya...
+        Kaeya: Haha, how flattering!
+        Kaeya: As always, I speak only from the heart.
+        Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
+        Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 2:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
+    Option 3:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
 Kaeya: In fact... would you like me to compile a guide for you...?
 Kaeya: It would contain all kinds of practical knowledge for at home and on the road, including the techniques I have developed for communicating with people from all walks of life. I'd like to share it all with you.
-Traveler: That sounds extremely useful.
+    Option 1:
+        Traveler: That sounds extremely useful.
+    Option 2:
+        Traveler: You never fail to impress me, Kaeya.
 Kaeya: Hahaha... My pleasure!
 Kaeya: I'd better get to work then...
-Traveler: You never fail to impress me, Kaeya.
-Traveler: Can I rely on your words of wisdom in the future?
-Kaeya: I'm at your service.
 
 ## Talk 4
 
@@ -79,13 +90,15 @@ Kaeya: But then again... one has to get one's beauty sleep. Alright then, good n
 Kaeya: Oh, I feel quite at home already.
 Kaeya: Hmm, although I feel that "at home" doesn't express my feelings in their entirety.
 Kaeya: "Surprised" is more how I'd describe the feeling I had when I first set eyes on this place.
-Traveler: You mean, pleasantly surprised?
-Kaeya: Exactly that.
+    Option 1:
+        Traveler: You mean, pleasantly surprised?
+        Kaeya: Exactly that.
+    Option 2:
+        Traveler: As in, it was a nasty surprise?
+        Kaeya: What? Of course not! It was a very pleasant surprise.
 Kaeya: It's more beautiful than I imagined.
 Kaeya: It's been a while since I moved here though, so the initial sense of surprise has mostly worn off. Now, this place feels comfortable, like somewhere I belong.
 Kaeya: Heh, who'd have thought...
-Traveler: As in, it was a nasty surprise?
-Kaeya: What? Of course not! It was a very pleasant surprise.
 
 ## Talk 7
 
@@ -95,9 +108,14 @@ Kaeya: Hmm... Though it's too bad we don't have anything to wet our whistles wit
 Traveler: Why do you like to drink so much, Kaeya?
 Kaeya: Well... largely because I like the taste.
 Kaeya: But I can't deny that I also like how it makes me feel.
-Traveler: I think I understand what you mean.
-Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
-Kaeya: That's quite a unique talent.
+    Option 1:
+        Traveler: I think I understand what you mean.
+        Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
+        Kaeya: That's quite a unique talent.
+    Option 2:
+        Traveler: So what you mean is, you drink to numb the pain?
+        Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
+        Kaeya: I'm quite content with my life right now.
 Kaeya: I have to say, though, that chatting with you is quite intoxicating...
 Kaeya: Actually, in much the same way that drinking is.
 Kaeya: So, I suppose... I'm just greedy and want to enjoy both of these pleasures at the same time.
@@ -106,27 +124,31 @@ Kaeya: Hahaha... What an interesting metaphor! I hadn't looked at it from that a
 Kaeya: Let me think...
 Kaeya: Hmm... Your analogy seems largely correct.
 Kaeya: Save for one small detail — you, of course, are the main ingredient in said cocktail.
-Traveler: So what you mean is, you drink to numb the pain?
-Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
-Kaeya: I'm quite content with my life right now.
 
 ## Talk 8
 
 Kaeya: You're already here by my side, what more could I ask for?
 Kaeya: #Though, I would like to know one thing. Is there any way in which I can be of assistance to you, Traveler?
-Traveler: You really have a way with words, Kaeya...
-Kaeya: Haha, how flattering!
-Kaeya: As always, I speak only from the heart.
-Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
-Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 1:
+        Traveler: You really have a way with words, Kaeya...
+        Kaeya: Haha, how flattering!
+        Kaeya: As always, I speak only from the heart.
+        Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
+        Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 2:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
+    Option 3:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
 Kaeya: In fact... would you like me to compile a guide for you...?
 Kaeya: It would contain all kinds of practical knowledge for at home and on the road, including the techniques I have developed for communicating with people from all walks of life. I'd like to share it all with you.
-Traveler: That sounds extremely useful.
+    Option 1:
+        Traveler: That sounds extremely useful.
+    Option 2:
+        Traveler: You never fail to impress me, Kaeya.
 Kaeya: Hahaha... My pleasure!
 Kaeya: I'd better get to work then...
-Traveler: You never fail to impress me, Kaeya.
-Traveler: Can I rely on your words of wisdom in the future?
-Kaeya: I'm at your service.
 
 ## Talk 9
 
@@ -147,9 +169,14 @@ Kaeya: Hmm... Though it's too bad we don't have anything to wet our whistles wit
 Traveler: Why do you like to drink so much, Kaeya?
 Kaeya: Well... largely because I like the taste.
 Kaeya: But I can't deny that I also like how it makes me feel.
-Traveler: I think I understand what you mean.
-Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
-Kaeya: That's quite a unique talent.
+    Option 1:
+        Traveler: I think I understand what you mean.
+        Kaeya: Oh really? Just from listening to me describe it? Despite having never tried it yourself?
+        Kaeya: That's quite a unique talent.
+    Option 2:
+        Traveler: So what you mean is, you drink to numb the pain?
+        Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
+        Kaeya: I'm quite content with my life right now.
 Kaeya: I have to say, though, that chatting with you is quite intoxicating...
 Kaeya: Actually, in much the same way that drinking is.
 Kaeya: So, I suppose... I'm just greedy and want to enjoy both of these pleasures at the same time.
@@ -158,28 +185,32 @@ Kaeya: Hahaha... What an interesting metaphor! I hadn't looked at it from that a
 Kaeya: Let me think...
 Kaeya: Hmm... Your analogy seems largely correct.
 Kaeya: Save for one small detail — you, of course, are the main ingredient in said cocktail.
-Traveler: So what you mean is, you drink to numb the pain?
-Kaeya: Goodness, look at you, leaping to conclusions... Do I look like I've been through that much?
-Kaeya: I'm quite content with my life right now.
 
 ## Talk 12
 
 Traveler: Is there anything you'd like to do?
 Kaeya: You're already here by my side, what more could I ask for?
 Kaeya: #Though, I would like to know one thing. Is there any way in which I can be of assistance to you, Traveler?
-Traveler: You really have a way with words, Kaeya...
-Kaeya: Haha, how flattering!
-Kaeya: As always, I speak only from the heart.
-Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
-Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 1:
+        Traveler: You really have a way with words, Kaeya...
+        Kaeya: Haha, how flattering!
+        Kaeya: As always, I speak only from the heart.
+        Kaeya: Nothing would make me feel prouder than knowing that my words of advice are of some help to you.
+        Kaeya: That would imply that you trust me and proves that I am capable of helping you solve your problems.
+    Option 2:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
+    Option 3:
+        Traveler: Can I rely on your words of wisdom in the future?
+        Kaeya: I'm at your service.
 Kaeya: In fact... would you like me to compile a guide for you...?
 Kaeya: It would contain all kinds of practical knowledge for at home and on the road, including the techniques I have developed for communicating with people from all walks of life. I'd like to share it all with you.
-Traveler: That sounds extremely useful.
+    Option 1:
+        Traveler: That sounds extremely useful.
+    Option 2:
+        Traveler: You never fail to impress me, Kaeya.
 Kaeya: Hahaha... My pleasure!
 Kaeya: I'd better get to work then...
-Traveler: You never fail to impress me, Kaeya.
-Traveler: Can I rely on your words of wisdom in the future?
-Kaeya: I'm at your service.
 
 ## Talk 13
 
@@ -187,13 +218,15 @@ Traveler: How do you like it here?
 Kaeya: Oh, I feel quite at home already.
 Kaeya: Hmm, although I feel that "at home" doesn't express my feelings in their entirety.
 Kaeya: "Surprised" is more how I'd describe the feeling I had when I first set eyes on this place.
-Traveler: You mean, pleasantly surprised?
-Kaeya: Exactly that.
+    Option 1:
+        Traveler: You mean, pleasantly surprised?
+        Kaeya: Exactly that.
+    Option 2:
+        Traveler: As in, it was a nasty surprise?
+        Kaeya: What? Of course not! It was a very pleasant surprise.
 Kaeya: It's more beautiful than I imagined.
 Kaeya: It's been a while since I moved here though, so the initial sense of surprise has mostly worn off. Now, this place feels comfortable, like somewhere I belong.
 Kaeya: Heh, who'd have thought...
-Traveler: As in, it was a nasty surprise?
-Kaeya: What? Of course not! It was a very pleasant surprise.
 
 ## Talk 14
 

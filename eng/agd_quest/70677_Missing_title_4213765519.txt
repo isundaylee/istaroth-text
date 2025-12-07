@@ -7,7 +7,10 @@ Wolfy (???): Sure can! Talking is one of the things I can do. Alright, sooo... A
 Wolfy (???): Greetings, my dear guests. My name is... uh...
 Wolfy (???): ...Wait. What's my name?
 Paimon: Uh, not sure we can help you with that one, buddy... Guess you were in a pretty deep sleep, huh? Seems like you're still waking up.
-Traveler: You're Sir Howlsworth.
+    Option 1:
+        Traveler: You're Sir Howlsworth.
+    Option 2:
+        Traveler: An Honorary Knight, much renowned and loved by all.
 Wolfy (???): Huh? Really!?
 Paimon: We're, uh, just messing with you, hehe...
 Paimon: #Anyway, Paimon's name is Paimon, and this is Traveler. ...Okay, great, that went well. At least this mysterious room doesn't rob everyone of their memories.
@@ -22,29 +25,39 @@ Wolfy: To me, all these events are indistinguishable from real experiences. Take
 Wolfy: "From now on, you are a concierge. Be sure to treat your guests well!"
 Wolfy: Then I found myself here. And like I said, I waited, and waited, and waited... and now, finally, two guests have arrived! At last, I can fulfill my duty.
 Wolfy: Is there anything else you'd like to ask me?
-Traveler: About Madame Mage...
-Paimon: Yeah, who is this Madame Mage? Is she really just a figure from your dream? Seems like there could be more to it than just that...
-Wolfy: Well... Madame Mage is Madame Mage. Just as you, dear guests, are guests.
-Wolfy: Her and her friends — oh, yes, and they're all mages, too! Each one of them is a master of their own type of magic. Conjuring, illusions, and so on.
-Wolfy: One of them uses a quill pen to cast her spells. She has a very mysterious ink bottle that contains "fantasy truth." I had a little taste when she wasn't looking, and oh my goodness, it was bitter... blech...
-Wolfy: But the other mages all love her magic. They use their powers of creation to transform her "fantasy truth" into "true fantasy."
-Wolfy: How do they do that? I haven't the slightest idea. I'm just a toy, with stuffing for brains...
-Traveler: About this room...
-Paimon: Yeah, what is this place? We came in here through this one door in the library, but we were never able to open it before...
-Wolfy: Ah, well, congratulations on your successful entry, dear guests! This is a special room, one that can only be accessed by those who are invited!
-Wolfy: Seeing as you two have this privilege, you can invite your friends to enter as well!
-Wolfy: On that note, I'd better tidy up this place as quickly as possible. Oh, and I should prepare some tea and snacks too. You don't mind if they're on the sweeter side, do you?
-Paimon: Of course not! ...Wait, before we get ahead of ourselves, mind telling us where we are exactly? Are we even still in Mondstadt?
-Wolfy: Hmm. That is a difficult question. Madame Mage created this room using magic, and I don't know magic...
-Wolfy: Still, you have my guarantee as concierge that this is a safe and comfortable place. I sincerely hope you enjoy your time here.
-Traveler: About that book and the battle we just fought...
-Wolfy: Yes, I saw! You were magnificent! I was completely enraptured by your performance.
-Paimon: ...What do you mean "performance"?
-Wolfy: Well, Madame Mage says that every page of a storybook is a segment of the "present."
-Wolfy: I'm sure only the most distinguished of guests are able to take the stage as the story's protagonists, and put on a show as spectacular as yours!
-Wolfy: What a thrilling battle... Yes, that's what every story needs to spice things up! Naturally, those are the kinds of stories I love reading the most.
-Wolfy: I wonder what would make a good title for a book about your magnificent performance? Should we call it a saga? An epic? A tale of conquest? A chronicle of combat? Ah, choices, choices.
-Wolfy: In any case, I do hope you will be so kind as to indulge us with more of your fine performances. ...In fact, scratch that — I'm afraid I shall have to insist! The story of the "present" is waiting to be written, and you, dear guests, are the ones to fill its pages!
+    Option 1:
+        Traveler: About Madame Mage...
+        Paimon: Yeah, who is this Madame Mage? Is she really just a figure from your dream? Seems like there could be more to it than just that...
+        Wolfy: Well... Madame Mage is Madame Mage. Just as you, dear guests, are guests.
+        Wolfy: Her and her friends — oh, yes, and they're all mages, too! Each one of them is a master of their own type of magic. Conjuring, illusions, and so on.
+        Wolfy: One of them uses a quill pen to cast her spells. She has a very mysterious ink bottle that contains "fantasy truth." I had a little taste when she wasn't looking, and oh my goodness, it was bitter... blech...
+        Wolfy: But the other mages all love her magic. They use their powers of creation to transform her "fantasy truth" into "true fantasy."
+        Wolfy: How do they do that? I haven't the slightest idea. I'm just a toy, with stuffing for brains...
+        Wolfy: Is there anything else you'd like to ask me?
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: About this room...
+        Paimon: Yeah, what is this place? We came in here through this one door in the library, but we were never able to open it before...
+        Wolfy: Ah, well, congratulations on your successful entry, dear guests! This is a special room, one that can only be accessed by those who are invited!
+        Wolfy: Seeing as you two have this privilege, you can invite your friends to enter as well!
+        Wolfy: On that note, I'd better tidy up this place as quickly as possible. Oh, and I should prepare some tea and snacks too. You don't mind if they're on the sweeter side, do you?
+        Paimon: Of course not! ...Wait, before we get ahead of ourselves, mind telling us where we are exactly? Are we even still in Mondstadt?
+        Wolfy: Hmm. That is a difficult question. Madame Mage created this room using magic, and I don't know magic...
+        Wolfy: Still, you have my guarantee as concierge that this is a safe and comfortable place. I sincerely hope you enjoy your time here.
+        Wolfy: Is there anything else you'd like to ask me?
+        [Circling back to a pre-branch dialog]
+    Option 3:
+        Traveler: About that book and the battle we just fought...
+        Wolfy: Yes, I saw! You were magnificent! I was completely enraptured by your performance.
+        Paimon: ...What do you mean "performance"?
+        Wolfy: Well, Madame Mage says that every page of a storybook is a segment of the "present."
+        Wolfy: I'm sure only the most distinguished of guests are able to take the stage as the story's protagonists, and put on a show as spectacular as yours!
+        Wolfy: What a thrilling battle... Yes, that's what every story needs to spice things up! Naturally, those are the kinds of stories I love reading the most.
+        Wolfy: I wonder what would make a good title for a book about your magnificent performance? Should we call it a saga? An epic? A tale of conquest? A chronicle of combat? Ah, choices, choices.
+        Wolfy: In any case, I do hope you will be so kind as to indulge us with more of your fine performances. ...In fact, scratch that — I'm afraid I shall have to insist! The story of the "present" is waiting to be written, and you, dear guests, are the ones to fill its pages!
+        Wolfy: Is there anything else you'd like to ask me?
+        [Circling back to a pre-branch dialog]
+    Option 4:
 Traveler: That's all I wanted to ask.
 Paimon: This place is getting more confusing by the second... But Wolfy seems alright. So... we should be fine, right? Besides...
 Paimon: Our goal is to set foot in every corner of Teyvat... And the courage to boldly go where others dare not to tread is what will take us there.
@@ -52,4 +65,3 @@ Wolfy: Wow, what a wonderful line! Spoken like a true adventurer!
 Paimon: You bet! We're the real deal!
 Wolfy: Is that so? Well then, I'd better make sure I do my duty as concierge of this place. I hope this can be somewhere for you to rest and recuperate when you're weary, so that you can embark on your next adventure refreshed and renewed.
 Wolfy: Come back here anytime if you get tired. I'll be sure to take good care of you!
-Traveler: An Honorary Knight, much renowned and loved by all.

@@ -49,18 +49,20 @@ Enjou: Guess I'll just have to wait and see how things pan out...
 Pucli: Hey! Stop fighting!
 Paimon: Wh—Who are you?
 Pucli: I'm terribly sorry. I'm Pucli, the entertainment supervisor at the resort... But that can wait. No one's hurt, are they?
-Traveler: I'm hurt.
-Paimon: #Traveler!? Where'd you get hit? Paimon'll go find a doctor...
-Traveler: I'm just messing around.
-Paimon: Hmph! You're going to give Paimon a heart attack! Don't joke about serious stuff like that!
+    Option 1:
+        Traveler: I'm hurt.
+        Paimon: #Traveler!? Where'd you get hit? Paimon'll go find a doctor...
+        Traveler: I'm just messing around.
+        Paimon: Hmph! You're going to give Paimon a heart attack! Don't joke about serious stuff like that!
+    Option 2:
+        Traveler: He's hurt.
+        Paimon: And quite right too! He deserves it for attacking us out of nowhere like that...
 "Tenoyollotzin": Argh... Tenoyollotzin was wounded in both body and heart. The joyous battle had been halted, leaving him unfulfilled...
 "Tenoyollotzin": Like a brief storm, a faint thunderclap, half a hiss of flames, a thin pall of smoke...
 "Tenoyollotzin": The last survivor of Tenochtzitoc swung his stone club with fury, rending heaven and shattering earth, the volcano in his heart about to erupt...
 Paimon: ...Did he hit himself on the head with his own club or something? If anyone's going to erupt here, it should be us!
 Pucli: *sigh* It's... a very long story. I need to take him back to his hut to rest. I'll explain everything later.
 Pucli: The hut's not far from here. We can meet back up there.
-Traveler: He's hurt.
-Paimon: And quite right too! He deserves it for attacking us out of nowhere like that...
 
 ## Talk 4
 
@@ -169,8 +171,12 @@ Leyla: I'm going to use my clairvoyance and try to follow these faint traces of 
 Leyla: But first, I need to prepare something very important...
 Paimon: Uhm... What are you doing?
 Leyla: There we go!
-Traveler: Carrots?
-Leyla: #What sharp eyes you have, Master Gramps! These are indeed carrots, and this is a carrot ring, but they're not for eating.
+    Option 1:
+        Traveler: Carrots?
+        Leyla: #What sharp eyes you have, Master Gramps! These are indeed carrots, and this is a carrot ring, but they're not for eating.
+    Option 2:
+        Traveler: We can eat once we've finished our work.
+        Leyla: Even once we've finished, these are not for eating...
 Leyla: This is a medium of divination that will help with clairvoyance.
 Leyla: In my tribe, everyone has their own unique method of divination. Some use graffiti, others use smoke or water... I use vegetables.
 Paimon: Well, that's novel... but does it actually work?
@@ -226,13 +232,13 @@ Leyla: Just sprinkle some of their juice into your eyes, and you'll be able to s
 Traveler: Thanks, Leyla.
 Leyla: #I should be the one thanking you! It's an honor to be able to help you out, Master Gramps. I'll be going now, so take care, and good luck in your search!
 Paimon: ...And there he goes. Do you think he was overreacting?
-Traveler: Overreacting or not, let's watch our step.
-Paimon: Okay! Let's go back to the hut first and check on our guy.
+    Option 1:
+        Traveler: Overreacting or not, let's watch our step.
+        Paimon: Okay! Let's go back to the hut first and check on our guy.
+    Option 2:
+        Traveler: No need to worry — if things go wrong, there are plenty of vegetables taller than us in this garden.
+        Paimon: Hehe, Paimon feels a little better hearing you say that. Let's go back to the hut and check on our guy.
 Paimon: Paimon hopes what we learned about the Asha will come in handy!
-Traveler: No need to worry — if things go wrong, there are plenty of vegetables taller than us in this garden.
-Paimon: Hehe, Paimon feels a little better hearing you say that. Let's go back to the hut and check on our guy.
-Traveler: We can eat once we've finished our work.
-Leyla: Even once we've finished, these are not for eating...
 
 ## Talk 7
 
@@ -269,9 +275,13 @@ Enjou: I fully sympathize, Paimon, I do. But as you can see, I now have an old h
 Enjou: If that isn't punishment enough, then I'm afraid you might as well just kill me!
 Traveler: Sounds good to me!
 Enjou: #Et tu, Traveler? I thought a hero of your acclaim would say something in my defense, but here you stand, poised to strike me down with a cold blade!
-Traveler: As long as it doesn't affect Citlali.
-Enjou: <color=#E1A4D0>Well said.</color>
-Enjou: ...Let's stop talking about this. Present circumstances dictate that we should be trying to work together.
+    Option 1:
+        Traveler: As long as it doesn't affect Citlali.
+        Enjou: <color=#E1A4D0>Well said.</color>
+        Enjou: ...Let's stop talking about this. Present circumstances dictate that we should be trying to work together.
+    Option 2:
+        Traveler: Fine, I'll put in a good word for you.
+        Enjou: That's better. Now we're acting more like a team.
 Paimon: ...Remind Paimon, since when were we ever a "team"?
 Enjou: This is the Mare Jivari, it's not like we have a choice! We've been in the same boat since the very start, and our enemies are the metaphorical sea and its storms.
 Enjou: You all saw that scary creature just now, right? Although it was also my first time laying eyes on it, my wealth of wisdom tells me that it was likely Bakunawa's permeation...
@@ -288,8 +298,6 @@ Enjou: Our path is clear, Paimon. If the problem lies in Bakunawa's permeation, 
 Paimon: ...Why are you acting like a good guy all of a sudden? Pick a side and stick to it, will you?
 Enjou: Perhaps if you were more well-read, you would understand. The "New Tide Anthology" states that "principles" are defined by their "flexibility." Flexible principles, are to be in principle, flexible.
 Enjou: In any case, the time has come for us to fight!
-Traveler: Fine, I'll put in a good word for you.
-Enjou: That's better. Now we're acting more like a team.
 
 ## Talk 8
 
@@ -366,7 +374,10 @@ Pucli: Warriors were reduced to dust, their souls imprisoned and bound to the la
 Pucli: It was around that time that the Asha first appeared. Naturally, people made the connection to the Mare Jivari.
 Paimon: No wonder they're so willing to approach the people of Natlan. They're all caught up in the legend of the Mare Jivari...
 Paimon: #Hey, Traveler! Paimon just thought of something. When Leyla showed us that strange place just now, it looked like the place we went to search for Bennett before! You don't think...
-Traveler: It's possible.
+    Option 1:
+        Traveler: It's possible.
+    Option 2:
+        Traveler: It's just a legend.
 Pucli: Ah, there I go, getting sidetracked. I'm going to focus on Papar first. Give me a day, and I'll round up all the locations where the invisible Asha might show up.
 Traveler: What are you going to do about him?
 Pucli: I plan to let him stay here for now. He might get unnecessarily stimulated if he leaves this familiar environment.
@@ -374,7 +385,6 @@ Pucli: The resort has also designated this a restricted area, so rest assured th
 Paimon: That's good... Papar attacked us, but we won't hold it against him. We'll find a way to cure him for sure!
 "Tenoyollotzin": And so, Tenoyollotzin gathered allies from the six great tribes. Glittering like the flames of roaring wildfire, they crashed into the mountains of darkness...
 Paimon: ...Stay strong, Papar! Even in your imaginary quest to be a hero...!
-Traveler: It's just a legend.
 
 ## Talk 13
 
@@ -704,7 +714,10 @@ Leyla: Hello, you two. Is something the matter?
 Leyla: #Huh!? You... You're Paimon, travel companion of the great hero Traveler!
 Leyla: I never thought I'd run into such a celebrity here. Is this what happiness feels like?
 Paimon: Oh, so you know about us? Hehe, it's kinda embarrassing to hear you talk like that.
-Traveler: Did I give you my autograph?
+    Option 1:
+        Traveler: Did I give you my autograph?
+    Option 2:
+        Traveler: Did I take a photo with you?
 Leyla: Oh, nothing like that. It's just that I'm studying under Master Ororon, and he's told me many tales about you two... Ack! Pardon my manners, I didn't even introduce myself! I'm Leyla, and I'm from the Masters of the Night-Wind.
 Paimon: Ooh, Ororon! Wait... Did you say "Master" Ororon? When did he become a teacher?
 Traveler: Aaand... does Ororon know about this?
@@ -728,7 +741,6 @@ Traveler: That's right. What's your take on the situation?
 Leyla: The Easybreeze Holiday Resort is indeed a location with vibrant spiritual energies, I could sense that as soon as I arrived. So it wouldn't be amiss to assume that some invisible entity could have been involved...
 Leyla: Can you take me to that spot with the swing you mentioned earlier? I'd like to confirm a few things.
 Paimon: Sure thing, Leyla! We'll show you the way!
-Traveler: Did I take a photo with you?
 
 ## Talk 52
 

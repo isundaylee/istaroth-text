@@ -88,16 +88,20 @@ Kaveh: Yes, but I can't just leave them here, can I?
 Kaveh: Oh, forget it. The more I think about this, the more I feel a headache coming on. I'll get back to searching once I get them out of here.
 Kaveh: Time's a-wasting — I'm off!
 Paimon: Kaveh looks like he's conflicted... He really wants to win, but he can't ignore those he wants to help...
-Traveler: He's a unique character.
+    Option 1:
+        Traveler: He's a unique character.
+    Option 2:
+        Traveler: He can only do one or the other...
 Paimon: Paimon's always felt like he's the type who easily gets himself into tough spots.
 Paimon: Um, Paimon doesn't mean this in an insulting way, but... he seems like the kind of guy who'd be really easy to take advantage of.
 Traveler: You're certainly cruel with the truth...
 Paimon: Woah, someone's done already!
-Traveler: That was quick.
-Paimon: Right? Wonder who it is. Let's go back and ask Alhaitham!
-Traveler: I wonder who it is.
-Paimon: Paimon also wants to know! Let's go back and ask Alhaitham!
-Traveler: He can only do one or the other...
+    Option 1:
+        Traveler: That was quick.
+        Paimon: Right? Wonder who it is. Let's go back and ask Alhaitham!
+    Option 2:
+        Traveler: I wonder who it is.
+        Paimon: Paimon also wants to know! Let's go back and ask Alhaitham!
 
 ## Talk 7
 
@@ -125,8 +129,12 @@ Paimon: But like Alhaitham said — the round's almost over. Let's go see what t
 ## Talk 8
 
 Layla: Hello again... You know, it suddenly occurred to me that you guys have had to do a lot of running around this time. Don't you find it tiring?
-Traveler: It's not bad.
-Layla: Really? Wow. I dunno where you get your strength from...
+    Option 1:
+        Traveler: It's not bad.
+        Layla: Really? Wow. I dunno where you get your strength from...
+    Option 2:
+        Traveler: Yeah, a little...
+        Layla: Well, in that case, let's take a short breather here.
 Layla: The desert's getting colder now that night's falling. And the wind can really sting your face because of all the sand in it.
 Layla: Has anyone finished this round yet?
 Paimon: Cyno's already shut one down. Have you made any progress yet?
@@ -145,14 +153,14 @@ Layla: I think I'll just... take a quick nap... just a quick one...
 Layla: ...
 Layla: Hmm? But the competition isn't over yet... Oh, Layla, Layla... she's really a bundle of nerves, isn't she?
 Paimon: Wait, you're...!
-Traveler: "Sleepwalking Layla"?
+    Option 1:
+        Traveler: "Sleepwalking Layla"?
+    Option 2:
+        Traveler: "Other Layla"?
 Layla: Good to see you too. Whew, it's nice to be out — feels like I've been cooped up inside for quite a while.
 Layla: Well, since I'm here, I guess I should help her finish this. What are we supposed to be doing here again? Finding a Ley Line Disruptor, was it?
 Layla: Let me see... Hmm, looks like she's basically gathered all the information she needs. It won't take long to wrap this up.
 Layla: Come with me, you two.
-Traveler: "Other Layla"?
-Traveler: Yeah, a little...
-Layla: Well, in that case, let's take a short breather here.
 
 ## Talk 9
 
@@ -301,13 +309,17 @@ Faruzan: But aside from us, you should remember that there's a favorite for cham
 Paimon: A favorite to win? Who is it?
 Faruzan: Shh, not so loud. I mean that boy, Tighnari.
 Faruzan: He took first place in the previous round, and if he does so again this time, we may as well declare this competition over.
-Faruzan: That boy knows a great deal — perhaps he might yet follow the trail of some desert creature to the devices.
+[Missing Dialog 401010323]
+
 Paimon: Hmm, that's true. It does look like his odds of winning are pretty high!
 Faruzan: He already has Collei, who is an excellent pupil. If he were to win this round as well, then wouldn't we just be letting him have all the fun?
 Faruzan: As his senior, it's my solemn duty to prevent such an inequitable arrangement from happening. I'm off!
 Kaveh: I'll get going as well. See you later.
 Cyno: ...How are you feeling?
 Tighnari: I think I'm okay. But I'll take things slowly for now.
+[Missing Dialog 401010330]
+
+Faruzan: That boy knows a great deal — perhaps he might yet follow the trail of some desert creature to the devices.
 
 ### Additional Talk 3
 
@@ -365,7 +377,10 @@ Tighnari: I went through all my water very quickly, and with the effects of the 
 Tighnari: My ancestors, the Valuka Shuna, were originally from the desert. But I guess this is what happens when a species migrates — they become intolerant of their original environment...
 Paimon: This isn't the time for a history lesson. Let's get you some water—
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Humans, such fragile beings. Your bodies can't even survive extreme changes in the environment.
-Traveler: Why are you here?
+    Option 1:
+        Traveler: Why are you here?
+    Option 2:
+        Traveler: And you consider yourself strong?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Here, take this. Let him drink it.
 Paimon: Are you serious? This had better be just normal water... Hey! You're leaving already?
 Traveler: It seems it really is just water.
@@ -381,12 +396,13 @@ Tighnari: It appears I'm not suited to this particular round — I should probab
 Paimon: Really? So you're backing out?
 Tighnari: Yes. I do have my results in the first round to serve as a buffer, so even if I forfeit this round, I still have a chance to turn things around later.
 Tighnari: Withdrawing now will allow me to conserve my energy. Continuing to push onward would be counterproductive.
-Traveler: Very decisive...
+    Option 1:
+        Traveler: Very decisive...
+    Option 2:
+        Traveler: I agree.
 Cyno: A wise decision. Let's get you back to Aaru Village.
 Tighnari: Ugh... It's fine, I can make it back on my own...
 Paimon: Oh, stop trying to be so polite. Come on, we'll help you back to Aaru Village!
-Traveler: I agree.
-Traveler: And you consider yourself strong?
 
 ### Additional Talk 5
 

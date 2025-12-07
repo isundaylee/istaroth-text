@@ -69,6 +69,7 @@ Paimon: Alright — we checked out each of the games! Wanna give any of them ano
 ## Talk 13
 
 Paimon: What was that for!? They attacked us out of nowhere!
+
 Paimon: Something's not right about this... B—Be careful, Traveler!
 
 ## Talk 14
@@ -119,14 +120,18 @@ Black Screen Text: Although Miko's sudden announcement leaves people reeling, th
 Yae Miko: Hm, looks like things are going well. We've just started, and it seems like all our teams have a plan.
 Yae Miko: Plus, with the transformative powers of the bake-danuki, bringing those visions to fruition should be a lot easier.
 Yae Miko: As the festival's most important judge and representative... You should go check on the progress, don't you think?
-Traveler: I really didn't see that coming...
+    Option 1:
+        Traveler: I really didn't see that coming...
+    Option 2:
+        Traveler: Me as the main judge? Really?
 Yae Miko: It all comes down to fairness, as I said. I worked with the Yashiro Commission to come up with the theme, so the judging must go to someone else.
 Yae Miko: No need to stress, though. It's all fun and games, is it not? Just choose the one you enjoy the most.
 Yae Miko: Of course, if it's appearances you're worried about, you could always... Oh, I don't know... check in on the teams and ask about their ideas?
-Traveler: What do you mean "appearances"?
+    Option 1:
+        Traveler: What do you mean "appearances"?
+    Option 2:
+        Traveler: I plan to take this seriously, like I always do.
 Yae Miko: Hehe, and that proves that I picked the right person. Go on, then — I won't keep you.
-Traveler: I plan to take this seriously, like I always do.
-Traveler: Me as the main judge? Really?
 
 ## Talk 15
 
@@ -155,10 +160,12 @@ Traveler: Thoma...
 Thoma: So, I suppose you could say, "Akitsu Harpastum" is a childhood dream many years in the making.
 Thoma: Oh, and in the play-test stage, I added a few characters that often appear in fairytales and dreamscapes.
 Thoma: ...Hopefully, that reinforces the theme a bit more, haha. Wanna give it a try?
-Traveler: Sure!
-"Shousei": Haha! White Fur, Yellow Fur, get ready!
-Traveler: Next time for sure.
-Thoma: Haha, I almost forgot! You're an important figure in this event! Well, don't let us keep you. Come back any time!
+    Option 1:
+        Traveler: Sure!
+        "Shousei": Haha! White Fur, Yellow Fur, get ready!
+    Option 2:
+        Traveler: Next time for sure.
+        Thoma: Haha, I almost forgot! You're an important figure in this event! Well, don't let us keep you. Come back any time!
 
 ## Talk 16
 
@@ -194,7 +201,10 @@ Sayu: Yeah! It's based on a dream I had... In the dream, I learned to make bunsh
 Sayu: With my clones around, there was no reason for that lady to come find me, so I could sleep as long as I wanted...
 Paimon: So even when you're asleep, you dream of getting more sleep...
 Sayu: It's just... I got so excited at the prospect that I actually woke myself up... *sigh* If only I could make bunshin in real life...
-Traveler: I have a feeling...
+    Option 1:
+        Traveler: I have a feeling...
+    Option 2:
+        Traveler: Your clones might not want to work any more than you do...
 Sayu: Well, then... Even if some get caught, the others could take a nap in the meantime, right?
 Paimon: But if your clones do all the work, doesn't all that fatigue transfer back to you in the end?
 Sayu: Oh, well, um... When you put it that way... I don't know anymore...
@@ -202,11 +212,12 @@ Yoimiya: All dreams are nonsensical and complicated in their own way. But that's
 Yoimiya: Anyway, that's our game — "The Most Wonderful Bunshin Phantasm: Mujina Body Doubles to the Rescue!"
 Paimon: What's a... mujina body double?
 Sayu: That's a long story... Wanna just give it a try?
-Traveler: Sure!
-Sayu: Awesome! All you have to do is put your hand on the board and close your eyes...
-Traveler: Next time for sure.
-Yoimiya: Ah, right! You have other teams to check out! All good! Whenever you're ready to play, just touch the board, and you're good to go!
-Traveler: Your clones might not want to work any more than you do...
+    Option 1:
+        Traveler: Sure!
+        Sayu: Awesome! All you have to do is put your hand on the board and close your eyes...
+    Option 2:
+        Traveler: Next time for sure.
+        Yoimiya: Ah, right! You have other teams to check out! All good! Whenever you're ready to play, just touch the board, and you're good to go!
 
 ## Talk 19
 
@@ -236,10 +247,12 @@ Paimon: Yeah, looks like that fox takes some inspiration from, uh... real life..
 Sangonomiya Kokomi: Well, the design was Miss Mizuki's idea, but I'm completely on board. Sometimes, the only way to meet a challenge is with a challenge of your own.
 Traveler: (Fighting fire with fire, huh...)
 Yumemizuki Mizuki: That's the definition of fun, don't you think? So, wanna give it a try?
-Traveler: Sure!
-Sangonomiya Kokomi: Wonderful! Right this way...
-Traveler: Next time for sure.
-"Gyoubu Koban": Next time, next time! That's a promise!
+    Option 1:
+        Traveler: Sure!
+        Sangonomiya Kokomi: Wonderful! Right this way...
+    Option 2:
+        Traveler: Next time for sure.
+        "Gyoubu Koban": Next time, next time! That's a promise!
 
 ## Talk 20
 
@@ -352,15 +365,19 @@ Yae Miko: You can pick your favorite game once everyone's done with their work.
 ### Additional Talk 3
 
 Kamisato Ayato: The Lady Guuji's decision to turn this into a competition certainly was... unexpected. But, I digress... What do you think of the award?
-Traveler: It's very cute.
-Kamisato Ayato: Is that so? Hehe, make sure to let Ayaka know you think so.
-Traveler: It's alright...
-Kamisato Ayato: Ah, well... It was a bit last minute...
+    Option 1:
+        Traveler: It's very cute.
+        Kamisato Ayato: Is that so? Hehe, make sure to let Ayaka know you think so.
+    Option 2:
+        Traveler: It's alright...
+        Kamisato Ayato: Ah, well... It was a bit last minute...
 
 ### Additional Talk 4
 
 Kamisato Ayaka: I can't believe I finished everything in time... That was close.
-Traveler: Organizing a competition out of thin air...
+    Option 1:
+        Traveler: Organizing a competition out of thin air...
+    Option 2:
+        Traveler: That must have been a lot of work.
 Kamisato Ayaka: Yeah... It was a very last-minute change of plans. We had to get a bunch of supplies ready, like the Tanuki Game Award, which took a while.
 Kamisato Ayaka: If only I had a bit more time, I'm sure I could have made it look better...
-Traveler: That must have been a lot of work.

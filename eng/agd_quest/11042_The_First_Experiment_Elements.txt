@@ -12,20 +12,32 @@ Albedo: After awakening, even creation may be possible.
 Paimon: Uhh...
 Albedo: Aha... Still a little difficult to understand?
 Paimon: N—No! Paimon's got a brain! But what's the seed gonna become? Isn't that more interesting than whatever it was you were saying?
-Traveler: Doesn't seem like you understood.
+    Option 1:
+        Traveler: Doesn't seem like you understood.
+    Option 2:
+        Traveler: That's what I want to know.
 Albedo: Well, if it turns out to be a delicious fruit, dinner's on me.
 Paimon: Yay! Paimon's holding you to it!
-Traveler: You sure know how to keep Paimon on board.
+    Option 1:
+        Traveler: You sure know how to keep Paimon on board.
+    Option 2:
+        Traveler: You've seen through Paimon's ulterior motives.
 Albedo: Well, let's just say I... occasionally have to look after a child. Another lengthy explanation I'm afraid. I suppose it's one of the few non-alchemy-related disciplines I'm any good at.
 Albedo: The subject of my first research was the elements. In this world, manipulating the elements requires a Vision, though I can't see anything resembling one on your person.
 Albedo: How you're able to freely manipulate elemental power is something I'd like to ascertain. I've got a few questions in that regard.
 Albedo: Firstly, do you have any extra organs? A second heart, a fourth stomach... things of that nature.
-Traveler: No.
+    Option 1:
+        Traveler: No.
+    Option 2:
+        Traveler: Not that I'm aware of.
 Albedo: Fascinating. And this floating child is... connected to your body in some way?
 Paimon: What a stupid question! Can't you see the gap between us?
 Paimon: And another thing, it's PAIMON! Not "floating child"!
 Albedo: I was merely considering the possibility that you were an external organ. Perhaps there is some invisible force connecting you.
-Traveler: I met Paimon on my travels.
+    Option 1:
+        Traveler: I met Paimon on my travels.
+    Option 2:
+        Traveler: I caught Paimon with a fishing rod.
 Albedo: Oh, that rules out that possibility. I wonder, did Paimon guide the elemental power to you?
 Albedo: But that would mean that Paimon's elemental power would be enough to break through mountain rock at least ten meters thick. Or cause the waterfall south of Springvale to flow backwards.
 Albedo: Hmm. No, that definitely can't be it...
@@ -38,13 +50,11 @@ Paimon: Huh? Doesn't seem very sciencey...
 Albedo: Direct and clear observation are imperative to a good experiment. This is just a simple exercise.
 Albedo: Naturally, if you require a greater challenge, we could bring in six oceanids.
 Paimon: Slimes! Slimes are fine!
-Traveler: I don't follow. This seems like a hassle.
+    Option 1:
+        Traveler: I don't follow. This seems like a hassle.
+    Option 2:
+        Traveler: As long as I'm not being batted around by Hydro mimics.
 Albedo: Well, prepare yourself. The slimes will be here any moment.
-Traveler: As long as I'm not being batted around by Hydro mimics.
-Traveler: I caught Paimon with a fishing rod.
-Traveler: Not that I'm aware of.
-Traveler: You've seen through Paimon's ulterior motives.
-Traveler: That's what I want to know.
 
 ## Talk 2
 
@@ -102,7 +112,10 @@ Timaeus: Hello, I've just gotten hold of the data from your experiment. The repo
 Paimon: Whoa! Look at all the data! You got all these results from one slime battle?
 Timaeus: Haha, I wouldn't call them results. Inferences, and a few daring guesses perhaps.
 Timaeus: I think the most rational direction would be to expound on the phylogenetic relationship between this Traveler and the slimes.
-Traveler: Rational?
+    Option 1:
+        Traveler: Rational?
+    Option 2:
+        Traveler: I would've thought even Paimon and I were more closely related.
 Timaeus: Hmm, consider: You don't have a Vision, but you can manipulate elemental energy. The slimes don't have Visions either, yet they, too, are able to manipulate the elements.
 Timaeus: Following this line of thought, I'm sure we'll be able to establish a basis in fact.
 Albedo: Not bad for a point of entry, but strictly speaking, slimes are elemental life forms. In other words, beings consisting entirely of the elements.
@@ -115,11 +128,11 @@ Timaeus: Ahhhh, it would! Apologies, I was so excited to get the data. I'll slow
 Timaeus: Speaking of data — to complete our research, we'll need some more. I'll be conducting analysis here for the time being. If you're keen for an update, just come and find me!
 Albedo: Great, I'll leave you to it.
 Albedo: Hmm, looks like the potion's ready. I'll try a little first. If all goes well, I'll hand it over to you.
-Traveler: I would've thought even Paimon and I were more closely related.
 
 ## Talk 14
 
 Albedo: Mm-hmm, in line with my expectations. Ready to drink.
+
 Albedo: Remember to keep calm at all times, and breathe deeply if you feel unwell.
 
 ## Talk 15
@@ -133,15 +146,22 @@ Albedo: Remember to keep calm at all times, and breathe deeply if you feel unwel
 ## Talk 17
 
 Paimon: #Tasty? You've got a funny look on your face, Traveler!
-Traveler: It's... burning a bit.
+    Option 1:
+        Traveler: It's... burning a bit.
+    Option 2:
+        Traveler: You drank this!?
 Paimon: #You said you tried some already! You sure it was ready? What happened to him?
 Albedo: Hmm? Oh, this was the result I was expecting, and a very positive one at that.
 Albedo: This potion channels elemental power into the body. Under normal circumstances, a repelling reaction is to be expected.
 Albedo: But if the internal elemental flow is unimpeded, you'll only experience momentary discomfort. Once the flow is complete, there won't be any other effects.
 Paimon: So you knew you'd be sick and still drank some?
 Albedo: Eh-he, it was my own concoction of course, only natural for me to be the guinea pig.
-Traveler: Out of... consideration for the test subject?
-Albedo: But of course! You're my assistant, by all sense and reason it would be wrong of me to place that risk onto you.
+    Option 1:
+        Traveler: Out of... consideration for the test subject?
+        Albedo: But of course! You're my assistant, by all sense and reason it would be wrong of me to place that risk onto you.
+    Option 2:
+        Traveler: What about the risk to you!
+        Albedo: Perhaps it's just scholarly self-assurance, and it certainly speeds things up.
 Albedo: In conclusion, I'd say we have our conclusion! As far as elemental energy is concerned, you're no different from anyone else in this world, nothing peculiar.
 Paimon: Aw, Paimon wanted something cooler to happen...
 Albedo: Then again, better an ordinary result than a peculiar result. Peculiar results have a tendency to be of the... undesirable variety.
@@ -151,7 +171,10 @@ Albedo: People are the same, they can understand, empathize, encourage, and supp
 Albedo: When you're sick, a doctor can diagnose you because they are you. When something goes wrong, you can ask people who've made the same mistake for their experience, because you are them.
 Albedo: But a peculiar person... They don't have much recourse for the things we take for granted. The essence of their life is fundamentally different.
 Albedo: For example... A human can't understand the life of a Pyro Regisvine, or an Eye of the Storm. Have I explained it clearly enough?
-Traveler: I think I'm getting it.
+    Option 1:
+        Traveler: I think I'm getting it.
+    Option 2:
+        Traveler: Still seems... like there's another layer of meaning to your words.
 Albedo: To sum up, this has been a positive outcome. Going forward, you can use your elemental power without fear.
 Albedo: Timaeus, the results of the new experiment are out. If you could see to collating them...
 Timaeus: Just a moment, Sir! I'll handle it!
@@ -163,7 +186,3 @@ Paimon: Is he trying to join the Knights? He's starting to sound like a suck-up.
 Paimon: Uh... What Paimon meant to say was... That's the spirit! Mr. Albedo, say something...
 Albedo: Hmm... Before we can proceed with our research, I need to... prepare something. Wait one moment.
 Albedo: If you're interested, why not have a look around? It may help to pass the time.
-Traveler: Still seems... like there's another layer of meaning to your words.
-Traveler: What about the risk to you!
-Albedo: Perhaps it's just scholarly self-assurance, and it certainly speeds things up.
-Traveler: You drank this!?

@@ -39,9 +39,13 @@ Sedene: But why? Technically speaking, cases like this are better left to the Ga
 Paimon: Neuvillette, Sedene, hey there! What are you two talking about?
 Sedene: #Traveler and Paimon, please help me talk our Chief Justice out of this. He wants to investigate a case on his own!
 Sedene: This is completely unprecedented. How can we have the Iudex acting like a private detective?
-Traveler: Starting a new job?
-Neuvillette: Thank you for your concern, but I currently have no such plans.
-Neuvillette: Oh... apologies. I took your question in earnest, but it now occurs to me that it was mostly likely in jest.
+    Option 1:
+        Traveler: Starting a new job?
+        Neuvillette: Thank you for your concern, but I currently have no such plans.
+        Neuvillette: Oh... apologies. I took your question in earnest, but it now occurs to me that it was mostly likely in jest.
+    Option 2:
+        Traveler: I can introduce you to some amazing detectives.
+        Neuvillette: I trust that you'd be able to work that out with how well-connected you are, but I must apologize. I don't plan on relying on anyone else's help for this matter.
 Paimon: So what is it exactly? It sure sounds serious if it's something you've got to investigate personally!
 Neuvillette: A Melusine named Kiara received a threat letter.
 Paimon: And then...?
@@ -54,7 +58,10 @@ Sedene: Then I shall return to my post for now. Should anyone visit while you ar
 Paimon: Judging from Sedene's reaction, it must be pretty rare for you to investigate stuff personally. What's so special about this case?
 Neuvillette: I can't tell you just yet, but it reminded me of certain past events.
 Neuvillette: There could be complicated conflicts of interest behind all this, so I must eliminate all risks in advance.
-Traveler: Conflicts of interest?
+    Option 1:
+        Traveler: Conflicts of interest?
+    Option 2:
+        Traveler: Care to explain in detail?
 Paimon: C'mon, stop being so secretive! We still have no idea what's going on!
 Neuvillette: It is not my intention to keep you in the dark, but I need some time to revisit those memories and collect my thoughts.
 Neuvillette: Long story short... A little more than four hundred years ago, I became the Iudex of Fontaine and initiated a series of institutional reforms.
@@ -63,7 +70,10 @@ Paimon: They must've been amazing people to receive such high praise from you!
 Neuvillette: Indeed. Unfortunately, I wasn't able to protect them.
 Neuvillette: The reforms damaged the interests of some, and the more conservative faction took advantage of Carole's identity to instigate political unrest. Ultimately, they wanted me to yield more of my power.
 Neuvillette: The incident resulted in Carole taking her own life and Vautrin being exiled. From then on, I've been especially careful when dealing with cases related to Melusines.
-Traveler: You're concerned that you're the perpetrator's real target?
+    Option 1:
+        Traveler: You're concerned that you're the perpetrator's real target?
+    Option 2:
+        Traveler: Seems like they're using Melusines against you...
 Neuvillette: All Melusines used to live a secluded life away from human society.
 Neuvillette: I granted their wishes when some of them, including Carole, asked me to bring them to the Court of Fontaine.
 Neuvillette: Many common folk believe that I share a special bond with the Melusines, and whatever they do can be traced back to me.
@@ -83,7 +93,10 @@ Traveler: The Hydro Dragon Sovereign...
 Neuvillette: Even though I was born with a human form, there's a fundamental difference between dragons and humans.
 Neuvillette: Taking on the role of Chief Justice doesn't make me a part of this community. In fact, the status I was granted has prevented me from forming deeper bonds with others.
 Neuvillette: I've lived in Fontaine for a long time, I do not belong here. That's why I call myself an outsider — a fish out of water.
-Traveler: If you put it that way...
+    Option 1:
+        Traveler: If you put it that way...
+    Option 2:
+        Traveler: We're also outsiders to Fontaine.
 Paimon: Yeah! We have nothing to do with all those organizations anyway, so how about we come with you on your investigation?
 Paimon: Let's team up and round up all the bad guys lurking in the dark!
 Neuvillette: ...That does not sound like a bad idea. I rarely investigate cases on my own, but with professionals like you around, I'm sure it'll go a lot smoother.
@@ -91,11 +104,6 @@ Paimon: Hehe, Paimon's starting to get a little embarrassed. Just leave it to us
 Neuvillette: Let us go. We should visit Kiara first and try to gain a better understanding of the situation.
 Paimon: Um, so Neuvillette feels like he doesn't truly belong here in Fontaine, but is that really true?
 Paimon: Paimon feels like he has a kinda... skewed perspective on a lot of things. Anyway, let's catch up with him first!
-Traveler: We're also outsiders to Fontaine.
-Traveler: Seems like they're using Melusines against you...
-Traveler: Care to explain in detail?
-Traveler: I can introduce you to some amazing detectives.
-Neuvillette: I trust that you'd be able to work that out with how well-connected you are, but I must apologize. I don't plan on relying on anyone else's help for this matter.
 
 ## Talk 7
 
@@ -111,7 +119,10 @@ Kiara: The letter fell through the crack in my door as I was heading out this mo
 Kiara: But Sedene told me it was a threatening letter and that I could be in danger. But that's not gonna happen with everyone looking after me, right?
 Neuvillette: Have you run into any suspicious-looking people recently?
 Kiara: Suspicious-looking people? What counts as suspicious?
-Traveler: Someone who follows you from behind?
+    Option 1:
+        Traveler: Someone who follows you from behind?
+    Option 2:
+        Traveler: Someone who always strikes up a conversation with you?
 Kiara: Ah!
 Paimon: Did you think of something?
 Kiara: Nope! I don't remember meeting anyone like that!
@@ -133,7 +144,6 @@ Traveler: Big Sis Paimon...
 Paimon: Uh... Ahem! Don't worry, your Big Sis Paimon is super strong!
 Neuvillette: Alright, let us go our separate ways for now. Please take care of Kiara.
 Paimon: We'll take her to Eloffe's place right away. See you around!
-Traveler: Someone who always strikes up a conversation with you?
 
 ## Talk 8
 
@@ -154,8 +164,13 @@ Kiara: Eloffe!
 Eloffe: Kiara, you're here! Huh? Wait, aren't these two...
 Kiara: #They're Traveler and Big Sis Paimon!
 Eloffe: I thought so. What brings you here?
-Traveler: We're on a secret mission.
-Eloffe: Alright, guess I shouldn't have asked.
+    Option 1:
+        Traveler: We're on a secret mission.
+        Eloffe: Alright, guess I shouldn't have asked.
+    Option 2:
+        Traveler: We're protecting Kiara.
+        Eloffe: Did you run into any trouble?
+        Paimon: Eh, it's not really trouble anymore with us around.
 Kiara: May I begin inspecting the store as planned?
 Eloffe: Of course, go ahead!
 Kiara: Hmm... No hazards detected. You've cleared the inspection. Seems like the criminal from that case last month never set foot in here at all.
@@ -170,9 +185,6 @@ Paimon: Seems like they get along really well!
 Paimon: #Huh, Traveler? What are you looking at?
 Traveler: I think there's someone over there...
 Paimon: Is there really someone watching us!? Shh... Let's sneak over and take a look.
-Traveler: We're protecting Kiara.
-Eloffe: Did you run into any trouble?
-Paimon: Eh, it's not really trouble anymore with us around.
 
 ## Talk 11
 
@@ -194,7 +206,10 @@ Charlotte: That's right! I'm not the only one, y'know. Interviewing him is every
 Charlotte: But it's not an easy task to accomplish. The Palais Mermonia rarely accepts appointment requests from us, and we never have the chance to interrupt when the court's in session.
 Charlotte: So imagine how surprised I was seeing him out on the streets today! It seemed like you were investigating something too... The perfect opportunity to whip up an exclusive, don't you think?
 Charlotte: Of course, I'll make sure to turn in my manuscript to him for review. I have my principles, and I'd never publish an article without the consent of all parties involved.
-Traveler: I don't think he'd agree...
+    Option 1:
+        Traveler: I don't think he'd agree...
+    Option 2:
+        Traveler: It's better if we kept this secret.
 Paimon: Yeah! We're doing a secret investigation that can't be made public knowledge!
 Charlotte: I see... Well, if you say so, I guess I'll put this matter aside for now. What a shame... Chances like this don't come by very often, you know.
 Charlotte: In exchange, could you tell me what the threat letter is about? I swear I won't tell!
@@ -209,7 +224,6 @@ Paimon: Why?
 Charlotte: People care a great deal about Monsieur Neuvillette's each and every move. Some may have already realized that something was up. Besides, the case involves Melusines, so...
 Charlotte: Anyway, I'll get going now. Watch yourselves, alright?
 Paimon: Well, that was a nice chat... Let's head back and check on Kiara.
-Traveler: It's better if we kept this secret.
 
 ## Talk 13
 
@@ -271,7 +285,10 @@ Paimon: Huh?
 Neuvillette: I believe you've already tried Fonta. In fact, there are many other drink factories in Fontaine, including those that specialize in packaging pure drinking water.
 Neuvillette: Said water is sourced from all across Teyvat, including Mondstadt's Cider Lake, Liyue's Qingce Village, and Inazuma's Konda Village...
 Neuvillette: Here's one of their latest products: water from Sumeru's Apam Woods.
-Traveler: Is there any difference?
+    Option 1:
+        Traveler: Is there any difference?
+    Option 2:
+        Traveler: They're all just water, aren't they?
 Neuvillette: If I were to comment on their mouthfeel... The waters of Cider Lake warm the heart, the waters of Qingce Village have a poignant touch, while one might call the waters of Konda Village placid.
 Neuvillette: Distinct differences exist between the waters of each area. You'll appreciate their intricacies once you taste them carefully.
 Paimon: Really? Let Paimon try...
@@ -311,7 +328,6 @@ Neuvillette: If there really were an organization attempting to use Melusines ag
 Neuvillette: Perhaps we'll be able to find some new leads by sensing the Hydro element within the fountain.
 Paimon: Huh. Why didn't Paimon think of that? C'mon, let's go take a look!
 Neuvillette: Perhaps we should go, there shouldn't be too many people near the Fountain of Lucine during the evening.
-Traveler: They're all just water, aren't they?
 
 ## Talk 17
 
@@ -347,6 +363,13 @@ About the bribery case...: "The suspects have confessed to their crimes."
 
 *Conversations not present as sub-quests.*
 
+Paimon: All this silence is making Paimon feel really awkward...
+[Missing Dialog 140071816]
+
+Black Screen Text: Neuvillette momentarily leaves and brings back several exquisite wine glasses...
+Paimon: Uh... What's inside these glasses? It looks just like water...
+[Missing Dialog 140071823]
+
 Neuvillette: Have you made any progress?
 Paimon: We skimmed through some of them, but there wasn't anything useful.
 Paimon: There's so many documents lying around! Just how many cases have you handled!?
@@ -362,14 +385,13 @@ Paimon: ...
 Traveler: ...
 Paimon: Uh... Even though resting is a part of taking a break, shouldn't we at least talk about something?
 Paimon: All this silence is making Paimon feel really awkward...
-Paimon: All this silence is making Paimon feel really awkward...
 Neuvillette: Please pardon my lack of consideration. People rarely come to the Palais Mermonia for matters outside of work. To be quite honest, I'm not sure what we should do.
 Neuvillette: Would you like to have some drinks, perhaps? You must be thirsty after all that work.
 Paimon: Ooh, drinks! Thank you!
 Paimon: Paimon wonders what Neuvillette likes to drink... Oh! Maybe he's a fan of really fancy wines!
 Paimon: He seems like the type of person who'd own an entire winery... Y'know, like Diluc!
-Black Screen Text: Neuvillette momentarily leaves and brings back several exquisite wine glasses...
-Paimon: Uh... What's inside these glasses? It looks just like water...
+[Missing Dialog 140072021]
+
 Paimon: Uh... What's inside these glasses? It looks just like water...
 Neuvillette: An astute observation. It is indeed water.
 Paimon: So it's just plain old water!?
@@ -380,8 +402,10 @@ Paimon: Huh?
 Neuvillette: I believe you've already tried Fonta. In fact, there are many other drink factories in Fontaine, including those that specialize in packaging pure drinking water.
 Neuvillette: Said water is sourced from all across Teyvat, including Mondstadt's Cider Lake, Liyue's Qingce Village, and Inazuma's Konda Village...
 Neuvillette: Here's one of their latest products: water from Sumeru's Apam Woods.
-Traveler: Is there any difference?
-Traveler: They're all just water, aren't they?
+    Option 1:
+        Traveler: Is there any difference?
+    Option 2:
+        Traveler: They're all just water, aren't they?
 Neuvillette: If I were to comment on their mouthfeel... The waters of Cider Lake warm the heart, the waters of Qingce Village have a poignant touch, while one might call the waters of Konda Village placid.
 Neuvillette: Distinct differences exist between the waters of each area. You'll appreciate their intricacies once you taste them carefully.
 Paimon: Really? Let Paimon try...

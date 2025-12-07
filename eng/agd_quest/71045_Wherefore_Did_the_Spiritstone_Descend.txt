@@ -37,10 +37,16 @@ Traveler: A "hello" before joining the conversation might be nice.
 Khedive: Sorry, um... I was just too eager to say that this strange device is indeed used to open doors.
 Khedive: I once looked into similar devices, and just as luck might have it, the device in your hands is an exact match to the one in my research lab.
 Khedive: Unfortunately, neither alchemy nor basic mechanics can help us understand the energy held within these devices, nor can they explain the principles behind their ability to unlock and lock gates...
-Traveler: A research lab...?
+    Option 1:
+        Traveler: A research lab...?
+    Option 2:
+        Traveler: Aren't you a paleontologist?
 Khedive: We Amurta take a rather dim view of those who rely purely on theory. That said, we often have to work with those blockheads from Spantamad all the same...
 Khedive: *sigh* Well, that's all I can tell you. There isn't much else to be said with regard to the Akademiya...
-Traveler: Oh, I have a pillow right here, you can keep talking...
+    Option 1:
+        Traveler: Oh, I have a pillow right here, you can keep talking...
+    Option 2:
+        Traveler: You can keep going. Not that we'll understand or anything, of course.
 Khedive: Oh, I'll stop, I'll stop... I didn't form this exploration team to divulge all our secrets or something.
 Khedive: Whatever the case, if we're able to find that gate that Zhiqiong spoke of, we'll be able to use this strange device to open it.
 Zhiqiong: Let's go together then, shall we? Ever since you shared this new map with me, I've been left with this last section unmapped!
@@ -53,9 +59,18 @@ Khedive: Nothing? Hey. You'd better wake up, you hear? You're the only person �
 Khedive: We have to send you up to the surface to rest. If we go now, there's still time.
 Zhiqiong: ...
 Khedive: Alright, alright, don't look at me like that. Do whatever you want. It's not as if I'm your parent or something.
-Traveler: Will you really be fine?
-Paimon: That's right, you've been coughing this whole way!
-Zhiqiong: *cough* I'm fine... I can take it.
+    Option 1:
+        Traveler: Will you really be fine?
+        Paimon: That's right, you've been coughing this whole way!
+        Zhiqiong: *cough* I'm fine... I can take it.
+    Option 2:
+        Traveler: Khedive, do you mind explaining?
+        Khedive: I'm telling you this out of the goodness of my heart. Don't take it for a reason to violate the strictures of the Akademiya.
+        Khedive: ...I'm sorry, I cannot divulge the details, but Zhiqiong has to get some distance from the thing under The Chasm... No, she has to leave The Chasm itself.
+        Paimon: Wait, what... C'mon, you're talking in riddles! Are you just annoyed that Zhiqiong's not well or something?
+        Khedive: She is very sick, yes, and if no one takes it more seriously, it really will be too late.
+        Traveler: ...
+        Zhiqiong: Alright, please, just stop it... *cough*
 Zhiqiong: I joined this team of my own accord. I'm not going to change my decision based on what others say.
 Khedive: Mm, yes. And I suppose that as an adventurer, your primary concern is the remuneration?
 Khedive: If you're willing to leave, I'll make sure you're compensated. It'll be quite the generous package. The representatives from Liyue will understand as well.
@@ -81,15 +96,6 @@ Traveler: ...
 Paimon: #But we can't just stand by and watch... We should at least try, Traveler.
 Khedive: Well, don't let me delay you either way. I'll leave you to your own business... There are still a great many secrets for us to discover down there.
 Khedive: And... if you meet Zhiqiong, please take care of her on behalf of the rest of us.
-Traveler: Khedive, do you mind explaining?
-Khedive: I'm telling you this out of the goodness of my heart. Don't take it for a reason to violate the strictures of the Akademiya.
-Khedive: ...I'm sorry, I cannot divulge the details, but Zhiqiong has to get some distance from the thing under The Chasm... No, she has to leave The Chasm itself.
-Paimon: Wait, what... C'mon, you're talking in riddles! Are you just annoyed that Zhiqiong's not well or something?
-Khedive: She is very sick, yes, and if no one takes it more seriously, it really will be too late.
-Traveler: ...
-Zhiqiong: Alright, please, just stop it... *cough*
-Traveler: You can keep going. Not that we'll understand or anything, of course.
-Traveler: Aren't you a paleontologist?
 
 ## Talk 3
 
@@ -104,18 +110,24 @@ Strange Stone Stele: (Although the inscription cannot be understood per se, a li
 Paimon: Hmm, so the big crystal has five weird devices around it, and these lines are connected to the crystal... Gah, Paimon can't read this! Why is this diagram so messy!?
 Traveler: Looks like we need to activate those five devices...
 Paimon: Then, uh, someone needs to hit the crystal or something... and then the black spots will disappear...
-Traveler: So the application of external force can speed up the purification...
+    Option 1:
+        Traveler: So the application of external force can speed up the purification...
+    Option 2:
+        Traveler: I guess they just forgot to draw those splotches.
 Paimon: After that... Wait a minute, why did they draw this big worm? Hmm... Seems like this stone tablet is telling us to beware of the super big worm.
-Traveler: Perhaps it's warning us to beware of stepping on worms...
+    Option 1:
+        Traveler: Perhaps it's warning us to beware of stepping on worms...
+    Option 2:
+        Traveler: So hitting the crystal will awaken some kind of giant creature?
 Paimon: Huh... That sounds a lot easier to get... But still, we've got to try before we know for sure.
 Paimon: #Also, Traveler, look at that purple-blackish stuff. It's all over that big crystal! Looks pretty similar to that dark mud we encountered before, too.
-Traveler: This looks exactly as depicted on the stone tablet...
+    Option 1:
+        Traveler: This looks exactly as depicted on the stone tablet...
+    Option 2:
+        Traveler: Well, let's start from activating those devices.
 Paimon: Mm, yeah, you're right...
 Traveler: Oh ho? Very fearless of you, Paimon.
 Paimon: Well, we're already here, so we might as well do something.
-Traveler: Well, let's start from activating those devices.
-Traveler: So hitting the crystal will awaken some kind of giant creature?
-Traveler: I guess they just forgot to draw those splotches.
 
 ## Talk 4
 
@@ -145,13 +157,49 @@ Traveler: How are things on your end?
 Zhiqiong: I've followed your advice and rested here all this while. I'm feeling a whole lot better now... Was this all due to "that thing" behind the gate?
 Zhiqiong: I didn't go in there, but I could feel some strange pulsing within... Something amazing must have been back there, I'm sure of it...
 Zhiqiong: *cough* I grew up listening to tales of the Yakshas, and some of my seniors used to say that one of them was sealed inside The Chasm and slumbers to this day.
-Traveler: Well, we didn't meet this Yaksha you speak of...
-Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
-Traveler: It hasn't been completely cleared out yet.
+    Option 1:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It hasn't been completely cleared out yet.
+    Option 2:
+        Traveler: There was a huge floating crystal in there...
+        Zhiqiong: So the crystal in the upper levels did fly towards it — a fragment desiring to be part of the whole once again.
+        Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
+        Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
+        Traveler: It hasn't been completely cleared out yet.
+    Option 3:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
+    Option 4:
+        Traveler: There was a huge floating crystal in there...
+        Zhiqiong: So the crystal in the upper levels did fly towards it — a fragment desiring to be part of the whole once again.
+        Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
+        Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
+    Option 5:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
+    Option 6:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
 Paimon: Yup, now that we've removed the taint from that large crystal, that stinky mud should be back underground in no time!
 Zhiqiong: I understand... *cough* I'll inform the other team members. It seems that our exploration of The Chasm... has met with some initial success.
 Zhiqiong: This is way stronger than that time at Qiaoying Village...
-Traveler: Any future plans?
+    Option 1:
+        Traveler: Any future plans?
+    Option 2:
+        Traveler: Are you all leaving?
+    Option 3:
+        Traveler: "Qiaoying Village"? What's that?
+        Zhiqiong: Hmm? It's the most famous teahouse in Liyue. Top notch scenery, top-notch tea... You haven't heard of it?
+        Zhiqiong: Well, not that I like the place very much... Even if it is my second home after Mingyun Village. I know every last creek and tree in that place like the back of my hand.
+        Zhiqiong: I guess I would've remembered the place and the people more fondly if it wasn't for that disagreement I had with that one commission-giver while on a map-making assignment... Eh, whatever. No point talking about that now.
+        Zhiqiong: And well, I say I don't like the place, but if I do achieve something great this time, it would be good to go back there to rest... The old man's tea is a truly unforgettable experience, after all.
+        Zhiqiong: But over to more pleasant thoughts... The next time I'm back home, I'll be a famous adventurer having tea with the old man, you know? I do hope you'll be there to see it.
+        Zhiqiong: ...Heh, there I go again, talking about unrealistic stuff.
 Zhiqiong: Well, we could use this opportunity to become an official exploratory team under the Ministry of Civil Affairs... But I don't think we'll be going anywhere any time soon.
 Zhiqiong: After all, it was due to your spelunking that we were able to avoid the perils of the path, such that no one was injured or lost, and that our material losses proved negligible.
 Zhiqiong: I think that we might stay here for a while yet, help the Ministry staff watch over the underground anomalies, and maintain the exploration facilities.
@@ -160,27 +208,20 @@ Zhiqiong: What? Hmm... Well, I didn't see anyone on the way back and I fell asle
 Zhiqiong: What's wrong? What's with the sudden question?
 Paimon: Hmm, never mind, it's nothing...
 Zhiqiong: *cough* Well, if you're leaving, don't forget to say hi to Muning as well... *cough* Tell him... that I'm gonna be promoted. Who knows who's gonna be the boss of who before long, eh?
-Traveler: Are you all leaving?
-Traveler: "Qiaoying Village"? What's that?
-Zhiqiong: Hmm? It's the most famous teahouse in Liyue. Top notch scenery, top-notch tea... You haven't heard of it?
-Zhiqiong: Well, not that I like the place very much... Even if it is my second home after Mingyun Village. I know every last creek and tree in that place like the back of my hand.
-Zhiqiong: I guess I would've remembered the place and the people more fondly if it wasn't for that disagreement I had with that one commission-giver while on a map-making assignment... Eh, whatever. No point talking about that now.
-Zhiqiong: And well, I say I don't like the place, but if I do achieve something great this time, it would be good to go back there to rest... The old man's tea is a truly unforgettable experience, after all.
-Zhiqiong: But over to more pleasant thoughts... The next time I'm back home, I'll be a famous adventurer having tea with the old man, you know? I do hope you'll be there to see it.
-Zhiqiong: ...Heh, there I go again, talking about unrealistic stuff.
-Traveler: It'll experience a gradual retreat.
-Traveler: There was a huge floating crystal in there...
-Zhiqiong: So the crystal in the upper levels did fly towards it — a fragment desiring to be part of the whole once again.
-Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
-Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
 
 ## Talk 9
 
 Zhiqiong: #*cough* *cough* Hey, Traveler, you're here! *cough*
-Traveler: What are you doing here?
+    Option 1:
+        Traveler: What are you doing here?
+    Option 2:
+        Traveler: Found you.
 Zhiqiong: *cough* What's wrong? You don't look so good. Did I annoy you in some way?
 Paimon: Y'know, Paimon's having trouble telling who looks worse between the two of you...
-Traveler: The road ahead is very dangerous.
+    Option 1:
+        Traveler: The road ahead is very dangerous.
+    Option 2:
+        Traveler: You need to get more rest.
 Paimon: You know, everyone's actually... really concerned about you. Please don't care so little about your own safety...
 Zhiqiong: I... Of course I know they're worried. But it's like I said before. This is what an adventurer's life should be like!
 Zhiqiong: No adventurers in this world would balk in the face of danger! And I have no wish to lie in bed in my dotage, withered by age, relying on others to eat or even to get myself to the toilet!
@@ -191,30 +232,36 @@ Zhiqiong: And as opposed to those lucky few who have Visions...
 Zhiqiong: Adventure, exploration, challenge — these are things that can only be truly experienced by normal people like us!
 Paimon: So when it comes down to it, it's all about you, huh? Haven't you spared a single thought for others?
 Zhiqiong: I've said it before, this is my own personal business. It's got nothing to do with anyone else. I'm... sorry that they might feel bad about the matter, but...
-Traveler: Must you really go deep into such dangerous places?
+    Option 1:
+        Traveler: Must you really go deep into such dangerous places?
+    Option 2:
+        Traveler: You want to leave a memory of yourself behind, do you?
 Zhiqiong: Yes. I mean, no... I mean, yes! I just... I don't want to be forgotten.
 Zhiqiong: At least this way I'll leave some maps behind, and I'll have borne witness to the sights of The Chasm... and I would have accomplished all this, stepping into the realm of the forbidden, as a normal human being!
 Zhiqiong: And the trail of the Yaksha who defended Liyue in legends might be behind this gate. If I could reach that place...
 Zhiqiong: I don't know if I can make it there, but... I wish that I could get closer to these unknown places. Perhaps we might truly find the reason for the anomalies here in The Chasm...
-Traveler: Everyone needs a rest, ordinary or not.
+    Option 1:
+        Traveler: Everyone needs a rest, ordinary or not.
+    Option 2:
+        Traveler: There may be worse things behind that gate.
 Zhiqiong: ...
 Paimon: We're all worried about you. Please don't take such poor care of yourself...
-Traveler: What you need to do right now is regain your strength.
+    Option 1:
+        Traveler: What you need to do right now is regain your strength.
+    Option 2:
+        Traveler: Please, go back to the camp and take a rest.
 Paimon: Yup, that's right, you should totally get some more rest! The road ahead is still plenty dangerous. You can just wait for us to finish clearing the obstacles ahead before following after. It won't be too late!
 Paimon: Anyway... um... Someone needs to record down what we've seen, right? If no one records the stuff, no one will remember it, after all!
-Traveler: Huh, you've got a point there, Paimon.
-Paimon: Hee-hee!
+    Option 1:
+        Traveler: Huh, you've got a point there, Paimon.
+        Paimon: Hee-hee!
+    Option 2:
+        Traveler: Paimon being reasonable? Say it isn't so.
+        Paimon: #C'mon, Traveler, what are you talking about?
 Zhiqiong: ...
 Zhiqiong: I get it... I'll go back if you insist. But please, you keep your wits about you as well...
 Paimon: We will! Stay safe on the way back, now!
 Paimon: *sigh* Paimon has no idea if she really heard a word we said.
-Traveler: Paimon being reasonable? Say it isn't so.
-Paimon: #C'mon, Traveler, what are you talking about?
-Traveler: Please, go back to the camp and take a rest.
-Traveler: There may be worse things behind that gate.
-Traveler: You want to leave a memory of yourself behind, do you?
-Traveler: You need to get more rest.
-Traveler: Found you.
 
 ## Talk 10
 
@@ -231,18 +278,24 @@ Strange Stone Stele: (Although the inscription cannot be understood per se, a li
 Paimon: Hmm, so the big crystal has five weird devices around it, and these lines are connected to the crystal... Gah, Paimon can't read this! Why is this diagram so messy!?
 Traveler: Looks like we need to activate those five devices...
 Paimon: Then, uh, someone needs to hit the crystal or something... and then the black spots will disappear...
-Traveler: So the application of external force can speed up the purification...
+    Option 1:
+        Traveler: So the application of external force can speed up the purification...
+    Option 2:
+        Traveler: I guess they just forgot to draw those splotches.
 Paimon: After that... Wait a minute, why did they draw this big worm? Hmm... Seems like this stone tablet is telling us to beware of the super big worm.
-Traveler: Perhaps it's warning us to beware of stepping on worms...
+    Option 1:
+        Traveler: Perhaps it's warning us to beware of stepping on worms...
+    Option 2:
+        Traveler: So hitting the crystal will awaken some kind of giant creature?
 Paimon: Huh... That sounds a lot easier to get... But still, we've got to try before we know for sure.
 Paimon: #Also, Traveler, look at that purple-blackish stuff. It's all over that big crystal! Looks pretty similar to that dark mud we encountered before, too.
-Traveler: This looks exactly as depicted on the stone tablet...
+    Option 1:
+        Traveler: This looks exactly as depicted on the stone tablet...
+    Option 2:
+        Traveler: Well, let's start from activating those devices.
 Paimon: Mm, yeah, you're right...
 Traveler: Oh ho? Very fearless of you, Paimon.
 Paimon: Well, we're already here, so we might as well do something.
-Traveler: Well, let's start from activating those devices.
-Traveler: So hitting the crystal will awaken some kind of giant creature?
-Traveler: I guess they just forgot to draw those splotches.
 
 ## Talk 12
 
@@ -251,12 +304,16 @@ Traveler: I guess they just forgot to draw those splotches.
 ## Talk 13
 
 Paimon: #Hmm... Looks like we've come to the bit where we've got to "apply some external force to the crystal." You ready, Traveler?
-Traveler: Are you sure the diagrams on the stone tablet are reliable?
+    Option 1:
+        Traveler: Are you sure the diagrams on the stone tablet are reliable?
+    Option 2:
+        Traveler: Do we really have to...?
 Paimon: Well, we've come this far. Let's just give it a shot like we always do, eh?
-Traveler: But...
+    Option 1:
+        Traveler: But...
+    Option 2:
+        Traveler: Ah, Paimon, what will I ever do with you...
 Paimon: Alright, come on, it's a big crystal! Don't you just wanna poke it?
-Traveler: Ah, Paimon, what will I ever do with you...
-Traveler: Do we really have to...?
 
 ## Talk 14
 
@@ -282,9 +339,11 @@ Traveler: Still looks like a long way off before the mines can reopen...
 Paimon: But our exploration mission seems complete. We'll worry about that other stuff in the future!
 Paimon: Oh yeah, one more thing...
 Paimon: It feels like... someone helped us out during that fight with the big snake. Did you hear this "shoom" sound during the fight?
-Traveler: No...
+    Option 1:
+        Traveler: No...
+    Option 2:
+        Traveler: ...Sort of.
 Paimon: Um... Well, never mind. When we head back, we can ask Zhiqiong if she saw any strangers!
-Traveler: ...Sort of.
 
 ## Talk 17
 
@@ -304,13 +363,39 @@ Traveler: How are things on your end?
 Zhiqiong: I've followed your advice and rested here all this while. I'm feeling a whole lot better now... Was this all due to "that thing" behind the gate?
 Zhiqiong: I didn't go in there, but I could feel some strange pulsing within... Something amazing must have been back there, I'm sure of it...
 Zhiqiong: *cough* I grew up listening to tales of the Yakshas, and some of my seniors used to say that one of them was sealed inside The Chasm and slumbers to this day.
-Traveler: Well, we didn't meet this Yaksha you speak of...
-Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
-Traveler: It hasn't been completely cleared out yet.
+    Option 1:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It hasn't been completely cleared out yet.
+    Option 2:
+        Traveler: There was a huge floating crystal in there...
+        Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
+        Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
+        Traveler: It hasn't been completely cleared out yet.
+    Option 3:
+        Traveler: Well, we didn't meet this Yaksha you speak of...
+        Zhiqiong: I see... Thank you. So, as for the dark mud we... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
+    Option 4:
+        Traveler: There was a huge floating crystal in there...
+        Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
+        Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
+        Traveler: It'll experience a gradual retreat.
 Paimon: Yup, now that we've removed the taint from that large crystal, that stinky mud should be back underground in no time!
 Zhiqiong: I understand... *cough* I'll inform the other team members. It seems that our exploration of The Chasm... has met with some initial success.
 Zhiqiong: This is way stronger than that time at Qiaoying Village...
-Traveler: Any future plans?
+    Option 1:
+        Traveler: Any future plans?
+    Option 2:
+        Traveler: Are you all leaving?
+    Option 3:
+        Traveler: "Qiaoying Village"? What's that?
+        Zhiqiong: Hmm? It's the most famous teahouse in Liyue. Top notch scenery, top-notch tea... You haven't heard of it?
+        Zhiqiong: Well, not that I like the place very much... Even if it is my second home after Mingyun Village. I know every last creek and tree in that place like the back of my hand.
+        Zhiqiong: I guess I would've remembered the place and the people more fondly if it wasn't for that disagreement I had with that one commission-giver while on a map-making assignment... Eh, whatever. No point talking about that now.
+        Zhiqiong: And well, I say I don't like the place, but if I do achieve something great this time, it would be good to go back there to rest... The old man's tea is a truly unforgettable experience, after all.
+        Zhiqiong: But over to more pleasant thoughts... The next time I'm back home, I'll be a famous adventurer having tea with the old man, you know? I do hope you'll be there to see it.
+        Zhiqiong: ...Heh, there I go again, talking about unrealistic stuff.
 Zhiqiong: Well, we could use this opportunity to become an official exploratory team under the Ministry of Civil Affairs... But I don't think we'll be going anywhere any time soon.
 Zhiqiong: After all, it was due to your spelunking that we were able to avoid the perils of the path, such that no one was injured or lost, and that our material losses proved negligible.
 Zhiqiong: I think that we might stay here for a while yet, help the Ministry staff watch over the underground anomalies, and maintain the exploration facilities.
@@ -319,29 +404,19 @@ Zhiqiong: What? Hmm... Well, I didn't see anyone on the way back and I fell asle
 Zhiqiong: What's wrong? What's with the sudden question?
 Paimon: Hmm, never mind, it's nothing...
 Zhiqiong: *cough* Well, if you're leaving, don't forget to say hi to Muning as well... *cough* Tell him... that I'm gonna be promoted. Who knows who's gonna be the boss of who before long, eh?
-Traveler: Are you all leaving?
-Traveler: "Qiaoying Village"? What's that?
-Zhiqiong: Hmm? It's the most famous teahouse in Liyue. Top notch scenery, top-notch tea... You haven't heard of it?
-Zhiqiong: Well, not that I like the place very much... Even if it is my second home after Mingyun Village. I know every last creek and tree in that place like the back of my hand.
-Zhiqiong: I guess I would've remembered the place and the people more fondly if it wasn't for that disagreement I had with that one commission-giver while on a map-making assignment... Eh, whatever. No point talking about that now.
-Zhiqiong: And well, I say I don't like the place, but if I do achieve something great this time, it would be good to go back there to rest... The old man's tea is a truly unforgettable experience, after all.
-Zhiqiong: But over to more pleasant thoughts... The next time I'm back home, I'll be a famous adventurer having tea with the old man, you know? I do hope you'll be there to see it.
-Zhiqiong: ...Heh, there I go again, talking about unrealistic stuff.
-Traveler: It'll experience a gradual retreat.
-Traveler: There was a huge floating crystal in there...
-Zhiqiong: So that's the key to solving the mystery of The Chasm... I might go and see it for myself later.
-Zhiqiong: *cough* Thank you. So, as for that dark mud... *cough* Sorry...
 
 ## Talk 20
 
 Clitopho: Ah, you're here! Welcome to the Chasm Exploration Team's demolitions team base and water point!
 Clitopho: We — by which I mean I, Clitopho — salute you!
 Clitopho: Come, come, have a drink! Consider it my treat — just a little something for all you've done for me.
-Traveler: What's next for you?
+    Option 1:
+        Traveler: What's next for you?
+    Option 2:
+        Traveler: Will you be sticking around?
 Clitopho: Well, I'm an official member of the team now, so since they're staying, I'm staying.
 Clitopho: Well, things would certainly be easier if Khedive and Jinwu could get me some extra help...
 Clitopho: Though that said, I wouldn't be able to call myself the sole member *and* team leader if that were to happen.
-Traveler: Will you be sticking around?
 
 ## Talk 21
 
@@ -380,7 +455,10 @@ Black Screen Text: You tell Muning everything...
 Muning: Hahaha! See what I told you? The exploration team were a reliable lot, and the expedition was bound to be fruitful!
 Muning: I have received the ore samples and data that Khedive and Jinwu have gathered. The unknown matter is in full retreat, and the geological shifts have largely ceased...
 Muning: ...It's a good omen indeed. Thanks to your help, the Millelith have also expressed no objections to our plans for further exploration and restoration. In fact, they should be getting ready to descend into the mine themselves...
-Traveler: Sorry, did you say something before?
+    Option 1:
+        Traveler: Sorry, did you say something before?
+    Option 2:
+        Traveler: I don't remember you expressing such effusive support before.
 Paimon: Hmph, that's right... So, who was the one who was trying their best to prevent us from going down previously, huh?
 Muning: Uh, hehe... Come on now, there's no need to be so straight about such things.
 Muning: I mean, I will pay you. And of course, The Chasm Exploration Team will become an official part of Huishan Hall from this day forth!
@@ -392,7 +470,10 @@ Paimon: Yeah, and who would bother coming down here themselves to give you an ea
 Muning: You might not believe me... But it was the Yuheng herself. She seemed quite concerned for your safety.
 Paimon: Uh, seriously? So Keqing's been keeping an eye on us this whole time?
 Paimon: Uhh, but the person we met down there didn't look anything like her!
-Traveler: You actually saw that person clearly?
+    Option 1:
+        Traveler: You actually saw that person clearly?
+    Option 2:
+        Traveler: What person?
 Paimon: Eh? You forgot? It's the one that went "shoom" and went right by us! It was super flashy and stuff!
 Muning: You met someone else down there? Are you certain that it wasn't a Treasure Hoarder or a Fatuus?
 Muning: Hmm... This is certainly worth recording. But don't worry, the Millelith will help you look into it.
@@ -412,10 +493,10 @@ Muning: Whatever the case, a researcher from overseas is not exactly someone we 
 Muning: But since he's willing to pay for the team from his own pocket, I suppose we have little reason to refuse his help.
 Traveler: Well, what's the arrangement going to be from now on?
 Muning: The Ministry will send more people down there. I suppose we've got to trouble our dedicated professional to delve into the perilous depths for us again...
-Traveler: "Your" dedicated professional?
+    Option 1:
+        Traveler: "Your" dedicated professional?
+    Option 2:
+        Traveler: "Again"...?
 Muning: *cough* Aaaanyway, thanks for your help! You're always welcome here at The Chasm, yes, indeed!
 Paimon: And there you go again, changing the topic so suddenly!
 Muning: Okay, okay, let's not get too hot and bothered about that. In any case, the Ministry thanks you for your services, and we will not stand in the way of your activities within The Chasm any further.
-Traveler: "Again"...?
-Traveler: What person?
-Traveler: I don't remember you expressing such effusive support before.

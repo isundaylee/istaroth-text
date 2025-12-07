@@ -9,13 +9,24 @@ Olaf: Uh... Are you sure this is Springvale?
 Draff: Yes. For the millionth time, yes! But I don't know any of the people you're looking for.
 Olaf: That is not possible, they all live in Springvale. They are my neighbors and friends.
 Draff: This is strange, what is going on?
-Traveler: Surely, it couldn't be...
+    Option 1:
+        Traveler: Surely, it couldn't be...
+    Option 2:
+        Traveler: I think I see what's going on here.
 Paimon: What is it?
-Traveler: This hunter is also a survivor from 300 years ago.
-Paimon: Whaaaat!? Can humans really live that long?
+    Option 1:
+        Traveler: This hunter is also a survivor from 300 years ago.
+        Paimon: Whaaaat!? Can humans really live that long?
+    Option 2:
+        Traveler: He's talking about Springvale a long, long time in the past.
+        Paimon: How long? ...Surely not hundreds of years!?
 Xiangling: Er... Does that really make sense?
-Traveler: He and the boar were both frozen.
-Xiangling: Oh! Like the way that you keep food fresh!
+    Option 1:
+        Traveler: He and the boar were both frozen.
+        Xiangling: Oh! Like the way that you keep food fresh!
+    Option 2:
+        Traveler: The ice kept him fresh all this time, like with your ingredients.
+        Xiangling: Hee-hee, it all makes sense now that you're speaking my language!
 Draff: Still, it's hard to believe...
 Paimon: But it doesn't seem like there's any other sensible explanation.
 Draff: Okay so... What's your name?
@@ -29,11 +40,6 @@ Xiangling: Hee-hee, reunited at long last! Isn't that just amazing!?
 Xiangling: Olaf, do you want to come and watch a cooking competition?
 Draff: Ah yes, that reminds me — Brook told me about the competition, and I've set everything up at the venue.
 Draff: You should come with me.
-Traveler: The ice kept him fresh all this time, like with your ingredients.
-Xiangling: Hee-hee, it all makes sense now that you're speaking my language!
-Traveler: He's talking about Springvale a long, long time in the past.
-Paimon: How long? ...Surely not hundreds of years!?
-Traveler: I think I see what's going on here.
 
 ## Talk 2
 
@@ -45,9 +51,11 @@ Xiangling: #Much appreciated. Well then, Traveler, Paimon — prepare!
 Paimon: Wait, we're taking part in this too?
 Xiangling: Of course! If Brook has an assistant, you guys will have to be mine. I'll need you by my side when the going gets tough!
 Paimon: *sigh* Paimon doesn't remember applying for that job...
-Traveler: Well, I'm going to see this through.
+    Option 1:
+        Traveler: Well, I'm going to see this through.
+    Option 2:
+        Traveler: Ugh, I guess there's no backing out now...
 Paimon: Okay. Paimon'll do it for the sake of the food.
-Traveler: Ugh, I guess there's no backing out now...
 
 ## Talk 3
 
@@ -81,18 +89,22 @@ Xiangling: #Traveler, get the fire under control! Without using water though, or
 Xiangling: Whew, thanks! That was a close call, but I had a little taste and I think we can get away with it.
 Xiangling: Also, I'm thinking our main is a little weak... We need to mix it up a bit.
 Xiangling: Make me a Chicken-Mushroom Skewer. And make sure it's got that ooh la-la on the outside, then hits you with a cha-ching in the middle!
-Traveler: Did not understand that one bit.
+    Option 1:
+        Traveler: Did not understand that one bit.
+    Option 2:
+        Traveler: Paimon, translate for me!
 Paimon: Just make it taste *friggin' awesome*!
-Traveler: Paimon, translate for me!
 
 ## Talk 9
 
 Xiangling: Ugh, this is practically charcoal now... Wah, I'm gonna have to start from scratch.
 Xiangling: Also, I'm thinking our main is a little weak... We need to mix it up a bit.
 Xiangling: Make me a Chicken-Mushroom Skewer. And make sure it's got that ooh la-la on the outside, then hits you with a cha-ching in the middle!
-Traveler: Did not understand that one bit.
+    Option 1:
+        Traveler: Did not understand that one bit.
+    Option 2:
+        Traveler: Paimon, translate for me!
 Paimon: Just make it taste *friggin' awesome*!
-Traveler: Paimon, translate for me!
 
 ## Talk 10
 
@@ -105,7 +117,10 @@ Xiangling: The meat is on track, but we're aiming for perfection here and I just
 Paimon: A certain what?
 Xiangling: A certain... boom shaka-laka!
 Paimon: Yes! Definitely needs some boom shaka-laka — or perhaps a little shaka-laka boom-pow!
-Traveler: Again, how is this making sense to you!?
+    Option 1:
+        Traveler: Again, how is this making sense to you!?
+    Option 2:
+        Traveler: Is that really from an obscure Liyue dialect or did you just make it up?
 Xiangling: I just mean it would be a waste of such amazing ingredients to just serve this as-is.
 Xiangling: Let me see... Hmm, what would be ideal is some kind of regional specialty.
 Paimon: Regional specialty?
@@ -114,17 +129,18 @@ Xiangling: I don't care if it flies, crawls, or bounces. Even insects I can work
 Paimon: Uh, interesting choice...
 Xiangling: Hmm, I'm sure I can make something of it!
 Paimon: Alright then...
-Traveler: Is that really from an obscure Liyue dialect or did you just make it up?
 
 ## Talk 12
 
 Xiangling: Thanks, you guys! Now show me what you got!
-Traveler: Give cooking ingredients to Xiangling
-Traveler: Let me keep looking...
-Xiangling: Sorry to keep you running back and forth.
-Xiangling: What I need is a living being, one you wouldn't normally cook with.
-Xiangling: It can fly, it can crawl, or it can bounce. Even insects are fair game!
-Xiangling: It might be a challenge to find... I'm sure you're up to it!
+    Option 1:
+        Traveler: Give cooking ingredients to Xiangling
+    Option 2:
+        Traveler: Let me keep looking...
+        Xiangling: Sorry to keep you running back and forth.
+        Xiangling: What I need is a living being, one you wouldn't normally cook with.
+        Xiangling: It can fly, it can crawl, or it can bounce. Even insects are fair game!
+        Xiangling: It might be a challenge to find... I'm sure you're up to it!
 
 ## Talk 13
 
@@ -140,8 +156,12 @@ Xiangling: But I'll be sure to annoy you again if I need anything else, hee-hee!
 ## Talk 15
 
 Xiangling: I almost forgot — side dish! We need a side dish!
-Traveler: Allow me!
-Xiangling: Are you sure it's no trouble?
+    Option 1:
+        Traveler: Allow me!
+        Xiangling: Are you sure it's no trouble?
+    Option 2:
+        Traveler: You'd make me do it even if I didn't offer...
+        Xiangling: Thanks! Hee-hee, you know me too well.
 Xiangling: Here, take this. I just scrawled it down at the last minute.
 Xiangling: And here are all the ingredients you need.
 Paimon: Is this the *recipe* for that snack you gave us earlier!?
@@ -150,13 +170,13 @@ Paimon: This is so complicated... How are we supposed to cook this with no exper
 Xiangling: The technique doesn't matter — what matters is that you do it with passion! That's what my father taught me.
 Xiangling: And you must be passionate about cooking if you've helped me this much already.
 Xiangling: I trust you guys. I know you'll nail this side dish!
-Traveler: Leave it to me.
-Xiangling: Confident, I like it!
+    Option 1:
+        Traveler: Leave it to me.
+        Xiangling: Confident, I like it!
+    Option 2:
+        Traveler: I hope I don't cramp your style...
+        Xiangling: Don't be so negative. Cooking is fun! Just relax and enjoy it.
 Xiangling: Come on, this is the final push!
-Traveler: I hope I don't cramp your style...
-Xiangling: Don't be so negative. Cooking is fun! Just relax and enjoy it.
-Traveler: You'd make me do it even if I didn't offer...
-Xiangling: Thanks! Hee-hee, you know me too well.
 
 ## Talk 16
 
@@ -217,11 +237,13 @@ Paimon: Must be nice to be so carefree.
 Xiangling: #You are a gifted chef, Traveler. You made an amazing batch of Jade Parcels.
 Xiangling: Come and visit me at the Wanmin Restaurant some time. I did promise I'd cook for you!
 Xiangling: And if you want, I'll teach you how to cook some of my latest inventions too.
-Traveler: It's a deal!
-Xiangling: You have a deal!
+    Option 1:
+        Traveler: It's a deal!
+        Xiangling: You have a deal!
+    Option 2:
+        Traveler: I'll pass on the slime jus though...
+        Xiangling: How did you know what dish I was thinking of!?
 Xiangling: #Hee-hee, see you again soon, Traveler!
-Traveler: I'll pass on the slime jus though...
-Xiangling: How did you know what dish I was thinking of!?
 
 ## Additional Conversations
 
