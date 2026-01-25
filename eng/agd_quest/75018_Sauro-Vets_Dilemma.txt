@@ -3,15 +3,15 @@
 
 ## Talk 1
 
-Unknown Role (None): —Shwaaaargh!
+"Kururuk": —Shwaaaargh!
 
-Unknown Role (None): Come on kiddo, come on now, quit fooling around. If you don't take your meds, you won't recover!
+Mazkal: Come on kiddo, come on now, quit fooling around. If you don't take your meds, you won't recover!
 
-Unknown Role (None): #Oh no, she's in danger! We've gotta help her, Traveler!
+Paimon: #Oh no, she's in danger! We've gotta help her, Traveler!
 
 ## Talk 2
 
-Unknown Role (None): I think Kururuk's almost recovered from his injuries... Maybe an increase in the intensity of his rehab exercises is in order.
+Mazkal: I think Kururuk's almost recovered from his injuries... Maybe an increase in the intensity of his rehab exercises is in order.
 
 ## Talk 3
 
@@ -87,15 +87,15 @@ Paimon: Uh oh! He's even madder than before! Quick, we gotta calm him down!
 
 ## Talk 7
 
-Unknown Role (None): Shrawr...
+"Kururuk": Shrawr...
 
-Unknown Role (None): #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
+Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
 
-Unknown Role (None): There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
+Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
 
-Unknown Role (None): Which of the two should we go with?
+Paimon: Which of the two should we go with?
 
-Unknown Role (None): #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.
+Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.
 
 ## Talk 8
 
@@ -111,19 +111,19 @@ Paimon: Sh—Should we try the other one, then?
 
 ## Talk 10
 
-Unknown Role (None): Let's not go with either for now.
+Traveler: Let's not go with either for now.
 
-Unknown Role (None): Hmm, that does make sense... Actually, why don't we bring him back to Mazkal now that he's being a bit less rowdy?
+Paimon: Hmm, that does make sense... Actually, why don't we bring him back to Mazkal now that he's being a bit less rowdy?
 
 ## Talk 11
 
-Unknown Role (None): Is this really a Saurian who still hasn't fully recovered?
+Traveler: Is this really a Saurian who still hasn't fully recovered?
 
-Unknown Role (None): He'd probably be a super tough opponent when he's in tip-top shape... Anyway, let's bring him back to Mazkal while he's being a bit more docile!
+Paimon: He'd probably be a super tough opponent when he's in tip-top shape... Anyway, let's bring him back to Mazkal while he's being a bit more docile!
 
-Unknown Role (None): Rrooah...
+"Kururuk": Rrooah...
 
-Unknown Role (None): Rrrooo... Rawr! Rawr! Raaawr!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo... Rawr! Rawr! Raaawr!
 
 ## Talk 12
 
@@ -153,4 +153,4 @@ Mazkal: Missing text (4052817402)
 
 ## Talk 99
 
-Unknown Role (None): ...
+"Kururuk": ...

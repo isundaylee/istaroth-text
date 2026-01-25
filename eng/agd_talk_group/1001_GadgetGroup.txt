@@ -6,23 +6,23 @@ Tubby: Maybe you are not used to the place at the moment, but once you've materi
 
 ## Talk 1
 
-Unknown Role (None): Trust Rank
+Traveler: Trust Rank
 
 ## Talk 2
 
-Unknown Role (None): Switch Realm Style
+Traveler: Switch Realm Style
 
 ## Talk 3
 
-Unknown Role (None): Create Furnishing
+Traveler: Create Furnishing
 
 ## Talk 4
 
-Unknown Role (None): Realm Depot
+Traveler: Realm Depot
 
 ## Talk 5
 
-Unknown Role (None): Tell me about yourself...
+Unknown Role (TALK_ROLE_GADGET): Tell me about yourself...
 
 Tubby: When breaking new ground, laying foundations, and furnishing a home, it is best to select an auspicious day for the work at hand.
 
@@ -30,21 +30,21 @@ Tubby: I'll teach you more about this another day. There are many methods by whi
 
 ## Talk 6
 
-Unknown Role (None): Goodbye.
+Traveler: Goodbye.
 
 Tubby: If you ever have any questions about The Realm Within, you may ask me.
 
 ## Talk 7
 
-Unknown Role (None): *Switch Realm Layout*
+Traveler: *Switch Realm Layout*
 
 ## Talk 8
 
-Unknown Role (None): *Trust Rank*
+Traveler: *Trust Rank*
 
 ## Talk 9
 
-Unknown Role (None): *Create Furnishing*
+Traveler: *Create Furnishing*
 
 ## Talk 10
 
@@ -52,11 +52,11 @@ Observe: (Guess this must be the teapot spirit...?)
 
 ## Talk 11
 
-Unknown Role (None): Improve friendship to make creation quicker
+Traveler: Improve friendship to make creation quicker
 
 ## Talk 12
 
-Unknown Role (None): Leave.
+Traveler: Leave.
 
 ## Talk 13
 
@@ -64,267 +64,267 @@ Tubby: Maybe you are not used to the place at the moment, but once you've materi
 
 ## Talk 14
 
-Unknown Role (None): Realm Depot
+Traveler: Realm Depot
 
 ## Talk 15
 
-Unknown Role (None): Create Furnishing
+Traveler: Create Furnishing
 
 ## Talk 16
 
-???: Well! It seems that we have a visitor...
+Investigate (???): Well! It seems that we have a visitor...
 
 ## Talk 17
 
-???: Well! It seems that we have a visitor...
+Investigate (???): Well! It seems that we have a visitor...
 
 ## Talk 18
 
-???: Well! It seems that we have a visitor...
+Investigate (???): Well! It seems that we have a visitor...
 
 ## Talk 19
 
-???: Well! It seems that we have a visitor...
+Investigate (???): Well! It seems that we have a visitor...
 
 ## Talk 20
 
-Tubby: Well! It seems that we have a visitor... Oh?
+Investigate (Tubby): Well! It seems that we have a visitor... Oh?
 
-Unknown Role (None): Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
+Paimon: Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
 
-Unknown Role (None): So you're the "little helper" Madame Ping mentioned?
+Paimon: So you're the "little helper" Madame Ping mentioned?
 
-Tubby: Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
+Investigate (Tubby): Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
 
-Tubby: You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
+Investigate (Tubby): You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
 
-Tubby: It seems I was right. But it's still a nice surprise to meet you here.
+Investigate (Tubby): It seems I was right. But it's still a nice surprise to meet you here.
 
-Tubby: You may leave all matters regarding the upkeep of this realm to me.
+Investigate (Tubby): You may leave all matters regarding the upkeep of this realm to me.
 
-Tubby: Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
+Investigate (Tubby): Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
 
-Unknown Role (None): So, what's a teapot spirit, exactly?
+Traveler: So, what's a teapot spirit, exactly?
 
-Tubby: Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
+Investigate (Tubby): Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
 
-Tubby: Thus, we teapot spirits were created to help guard their realms and manage their affairs.
+Investigate (Tubby): Thus, we teapot spirits were created to help guard their realms and manage their affairs.
 
-Tubby: You may consider me a butler, if you will.
+Investigate (Tubby): You may consider me a butler, if you will.
 
-Tubby: Now, allow me to explain this realm to you...
+Investigate (Tubby): Now, allow me to explain this realm to you...
 
-Tubby: Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
+Investigate (Tubby): Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
 
-Tubby: As long as you have a blueprint, you can refashion this realm however you please.
+Investigate (Tubby): As long as you have a blueprint, you can refashion this realm however you please.
 
-Unknown Role (None): Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
+Paimon: Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
 
-Tubby: Yes, these are the blueprints I'm talking about. Go on, open them up...
+Investigate (Tubby): Yes, these are the blueprints I'm talking about. Go on, open them up...
 
-Tubby: Just commit the image of the objects to memory and prepare the necessary materials...
+Investigate (Tubby): Just commit the image of the objects to memory and prepare the necessary materials...
 
-Tubby: Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
+Investigate (Tubby): Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
 
-Unknown Role (None): Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
+Paimon: Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
 
-Tubby: Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
+Investigate (Tubby): Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
 
-Tubby: He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
+Investigate (Tubby): He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
 
-Tubby: This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
+Investigate (Tubby): This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
 
-Unknown Role (None): A golden-eyed adeptus? Paimon wonders — who could that be...
+Paimon: A golden-eyed adeptus? Paimon wonders — who could that be...
 
-Tubby: I hardly remember myself. What's more, I have never seen that adeptus again since...
+Investigate (Tubby): I hardly remember myself. What's more, I have never seen that adeptus again since...
 
-Unknown Role (None): How very strange...
+Traveler: How very strange...
 
-Tubby: Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
+Investigate (Tubby): Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
 
-Tubby: If there's anything you would like to ask, just look for me.
+Investigate (Tubby): If there's anything you would like to ask, just look for me.
 
 ## Talk 21
 
-Tubby: Well! It seems that we have a visitor... Oh?
+Investigate (Tubby): Well! It seems that we have a visitor... Oh?
 
-Unknown Role (None): Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
+Paimon: Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
 
-Unknown Role (None): So you're the "little helper" Madame Ping mentioned?
+Paimon: So you're the "little helper" Madame Ping mentioned?
 
-Tubby: Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
+Investigate (Tubby): Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
 
-Tubby: You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
+Investigate (Tubby): You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
 
-Tubby: It seems I was right. But it's still a nice surprise to meet you here.
+Investigate (Tubby): It seems I was right. But it's still a nice surprise to meet you here.
 
-Tubby: You may leave all matters regarding the upkeep of this realm to me.
+Investigate (Tubby): You may leave all matters regarding the upkeep of this realm to me.
 
-Tubby: Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
+Investigate (Tubby): Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
 
-Unknown Role (None): So, what's a teapot spirit, exactly?
+Traveler: So, what's a teapot spirit, exactly?
 
-Tubby: Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
+Investigate (Tubby): Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
 
-Tubby: Thus, we teapot spirits were created to help guard their realms and manage their affairs.
+Investigate (Tubby): Thus, we teapot spirits were created to help guard their realms and manage their affairs.
 
-Tubby: You may consider me a butler, if you will.
+Investigate (Tubby): You may consider me a butler, if you will.
 
-Tubby: Now, allow me to explain this realm to you...
+Investigate (Tubby): Now, allow me to explain this realm to you...
 
-Tubby: Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
+Investigate (Tubby): Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
 
-Tubby: As long as you have a blueprint, you can refashion this realm however you please.
+Investigate (Tubby): As long as you have a blueprint, you can refashion this realm however you please.
 
-Unknown Role (None): Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
+Paimon: Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
 
-Tubby: Yes, these are the blueprints I'm talking about. Go on, open them up...
+Investigate (Tubby): Yes, these are the blueprints I'm talking about. Go on, open them up...
 
-Tubby: Just commit the image of the objects to memory and prepare the necessary materials...
+Investigate (Tubby): Just commit the image of the objects to memory and prepare the necessary materials...
 
-Tubby: Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
+Investigate (Tubby): Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
 
-Unknown Role (None): Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
+Paimon: Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
 
-Tubby: Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
+Investigate (Tubby): Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
 
-Tubby: He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
+Investigate (Tubby): He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
 
-Tubby: This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
+Investigate (Tubby): This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
 
-Unknown Role (None): A golden-eyed adeptus? Paimon wonders — who could that be...
+Paimon: A golden-eyed adeptus? Paimon wonders — who could that be...
 
-Tubby: I hardly remember myself. What's more, I have never seen that adeptus again since...
+Investigate (Tubby): I hardly remember myself. What's more, I have never seen that adeptus again since...
 
-Unknown Role (None): How very strange...
+Traveler: How very strange...
 
-Tubby: Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
+Investigate (Tubby): Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
 
-Tubby: If there's anything you would like to ask, just look for me.
+Investigate (Tubby): If there's anything you would like to ask, just look for me.
 
 ## Talk 22
 
-Tubby: Well! It seems that we have a visitor... Oh?
+Investigate (Tubby): Well! It seems that we have a visitor... Oh?
 
-Unknown Role (None): Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
+Paimon: Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
 
-Unknown Role (None): So you're the "little helper" Madame Ping mentioned?
+Paimon: So you're the "little helper" Madame Ping mentioned?
 
-Tubby: Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
+Investigate (Tubby): Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
 
-Tubby: You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
+Investigate (Tubby): You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
 
-Tubby: It seems I was right. But it's still a nice surprise to meet you here.
+Investigate (Tubby): It seems I was right. But it's still a nice surprise to meet you here.
 
-Tubby: You may leave all matters regarding the upkeep of this realm to me.
+Investigate (Tubby): You may leave all matters regarding the upkeep of this realm to me.
 
-Tubby: Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
+Investigate (Tubby): Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
 
-Unknown Role (None): So, what's a teapot spirit, exactly?
+Traveler: So, what's a teapot spirit, exactly?
 
-Tubby: Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
+Investigate (Tubby): Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
 
-Tubby: Thus, we teapot spirits were created to help guard their realms and manage their affairs.
+Investigate (Tubby): Thus, we teapot spirits were created to help guard their realms and manage their affairs.
 
-Tubby: You may consider me a butler, if you will.
+Investigate (Tubby): You may consider me a butler, if you will.
 
-Tubby: Now, allow me to explain this realm to you...
+Investigate (Tubby): Now, allow me to explain this realm to you...
 
-Tubby: Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
+Investigate (Tubby): Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
 
-Tubby: As long as you have a blueprint, you can refashion this realm however you please.
+Investigate (Tubby): As long as you have a blueprint, you can refashion this realm however you please.
 
-Unknown Role (None): Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
+Paimon: Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
 
-Tubby: Yes, these are the blueprints I'm talking about. Go on, open them up...
+Investigate (Tubby): Yes, these are the blueprints I'm talking about. Go on, open them up...
 
-Tubby: Just commit the image of the objects to memory and prepare the necessary materials...
+Investigate (Tubby): Just commit the image of the objects to memory and prepare the necessary materials...
 
-Tubby: Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
+Investigate (Tubby): Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
 
-Unknown Role (None): Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
+Paimon: Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
 
-Tubby: Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
+Investigate (Tubby): Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
 
-Tubby: He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
+Investigate (Tubby): He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
 
-Tubby: This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
+Investigate (Tubby): This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
 
-Unknown Role (None): A golden-eyed adeptus? Paimon wonders — who could that be...
+Paimon: A golden-eyed adeptus? Paimon wonders — who could that be...
 
-Tubby: I hardly remember myself. What's more, I have never seen that adeptus again since...
+Investigate (Tubby): I hardly remember myself. What's more, I have never seen that adeptus again since...
 
-Unknown Role (None): How very strange...
+Traveler: How very strange...
 
-Tubby: Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
+Investigate (Tubby): Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
 
-Tubby: If there's anything you would like to ask, just look for me.
+Investigate (Tubby): If there's anything you would like to ask, just look for me.
 
 ## Talk 23
 
-Tubby: Well! It seems that we have a visitor... Oh?
+Investigate (Tubby): Well! It seems that we have a visitor... Oh?
 
-Unknown Role (None): Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
+Paimon: Ah, it's Tubby! From a distance, Paimon thought it was just a huge finch!
 
-Unknown Role (None): So you're the "little helper" Madame Ping mentioned?
+Paimon: So you're the "little helper" Madame Ping mentioned?
 
-Tubby: Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
+Investigate (Tubby): Madame Ping... Oh, you must mean Ping! Yes, she did summon me here. She told me much about you.
 
-Tubby: You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
+Investigate (Tubby): You know, back when we met in the Mondstadt tavern, I had a feeling that we would meet again.
 
-Tubby: It seems I was right. But it's still a nice surprise to meet you here.
+Investigate (Tubby): It seems I was right. But it's still a nice surprise to meet you here.
 
-Tubby: You may leave all matters regarding the upkeep of this realm to me.
+Investigate (Tubby): You may leave all matters regarding the upkeep of this realm to me.
 
-Tubby: Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
+Investigate (Tubby): Your journey may be far from over... but at least this way, you will not want for a comfortable place to sleep each night.
 
-Unknown Role (None): So, what's a teapot spirit, exactly?
+Traveler: So, what's a teapot spirit, exactly?
 
-Tubby: Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
+Investigate (Tubby): Though it is the adepti who create realms such as this, they generally do not have the time of day to attend to the banal matter of their maintenance.
 
-Tubby: Thus, we teapot spirits were created to help guard their realms and manage their affairs.
+Investigate (Tubby): Thus, we teapot spirits were created to help guard their realms and manage their affairs.
 
-Tubby: You may consider me a butler, if you will.
+Investigate (Tubby): You may consider me a butler, if you will.
 
-Tubby: Now, allow me to explain this realm to you...
+Investigate (Tubby): Now, allow me to explain this realm to you...
 
-Tubby: Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
+Investigate (Tubby): Have you any blueprints on you? Specifically, blueprints with beautiful rooms, chairs, and the like.
 
-Tubby: As long as you have a blueprint, you can refashion this realm however you please.
+Investigate (Tubby): As long as you have a blueprint, you can refashion this realm however you please.
 
-Unknown Role (None): Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
+Paimon: Blueprints? Oh, that's right! Granny handed us some when she gave us the teapot, didn't she? Let's take them out and have a look!
 
-Tubby: Yes, these are the blueprints I'm talking about. Go on, open them up...
+Investigate (Tubby): Yes, these are the blueprints I'm talking about. Go on, open them up...
 
-Tubby: Just commit the image of the objects to memory and prepare the necessary materials...
+Investigate (Tubby): Just commit the image of the objects to memory and prepare the necessary materials...
 
-Tubby: Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
+Investigate (Tubby): Then, simply release the thought from your mind and the object in the blueprint shall appear within this teapot.
 
-Unknown Role (None): Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
+Paimon: Wow, is that all it takes? Then... we could build a whole city inside, couldn't we!
 
-Tubby: Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
+Investigate (Tubby): Hmm... I doubt it. A golden-eyed adeptus explained this to me at some point in the past.
 
-Tubby: He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
+Investigate (Tubby): He said that even though Sub-Space Creation is a product of adeptal power, even that has its limits.
 
-Tubby: This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
+Investigate (Tubby): This world is not a true one, after all. It provides merely a moment of brief respite from the mortal realm, not a means of escaping it entirely.
 
-Unknown Role (None): A golden-eyed adeptus? Paimon wonders — who could that be...
+Paimon: A golden-eyed adeptus? Paimon wonders — who could that be...
 
-Tubby: I hardly remember myself. What's more, I have never seen that adeptus again since...
+Investigate (Tubby): I hardly remember myself. What's more, I have never seen that adeptus again since...
 
-Unknown Role (None): How very strange...
+Traveler: How very strange...
 
-Tubby: Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
+Investigate (Tubby): Well, let's not dwell on that. Have a look around — best you get accustomed to this realm.
 
-Tubby: If there's anything you would like to ask, just look for me.
+Investigate (Tubby): If there's anything you would like to ask, just look for me.
 
 ## Talk 24
 
 Tubby: Ah, you arrived quickly. Good, good.
 
-Unknown Role (None): What's up?
+Traveler: What's up?
 
-Unknown Role (None): You're not going to ask me for help with something again, are you...
+Traveler: You're not going to ask me for help with something again, are you...
 
 Tubby: Hmm? No, of course not. Why was that your first reaction...?
 
@@ -342,9 +342,9 @@ Tubby: Before, this abode was in an incomplete, embryonic state. Those whom you 
 
 Tubby: But now... Well, take this Realm Dispatch that I have created for you and hold it in your hand — tightly, now.
 
-Unknown Role (None): What should I do next?
+Traveler: What should I do next?
 
-Unknown Role (None): I thought it needed some of my energies...
+Traveler: I thought it needed some of my energies...
 
 Tubby: Don't worry. You need only hold this dispatch, and it will draw some of your energy out and into it.
 
@@ -352,7 +352,7 @@ Tubby: Ah yes. I heard Ping mention that you have made friends in a great many p
 
 Tubby: As such, I have made some modifications to this dispatch. All you need to do is tap the palm of the person you'd like to invite lightly with the dispatch, and your energy signature will remain on them, allowing them to enter and leave your realm with ease.
 
-Unknown Role (None): Huh, it's almost like "marking," isn't it...
+Traveler: Huh, it's almost like "marking," isn't it...
 
 Tubby: Huh? Well, sort of? But why did you have to put it so weirdly...
 
