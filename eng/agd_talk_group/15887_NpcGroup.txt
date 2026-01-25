@@ -2,52 +2,84 @@
 
 ## Talk 0
 
-"M" (Narrator): The story's witnesses arrived at a hidden nook tucked inside the towering walls, a place tied to one of the little dragon's most cherished memories.
-"M" (Narrator): Within those memories lived the friends he made in the castle.
-Paimon: Hey, you're all still here! Guess that's proof that Durin's friends from Simulanka really do hold a special place in his heart...
-Flying Squirrel Fairy: Hello again, golden-haired traveler and silver pixie. How fares the little dragon on his journey?
-    Option 1:
-        Traveler: There's been some... complications.
-    Option 2:
-        Traveler: Almost everyone seems to have forgotten who he is.
-Flying Squirrel Fairy: What? But, I still remember him.
-Giraffe King: I haven't forgotten him either!
-Cat in a Box: Neither has this cat in a box.
-Paimon: That's good news! At least Durin's friends still remember him. Okay, we'll just have to find a way to help everyone else remember him too.
-Paimon: Oh, wait, are we missing someone?
-Giraffe King: Ah, you mean that stray cat? He doesn't want to see the little dragon... and he's been hiding from the rest of us too.
-    Option 1:
-        Traveler: A stray cat?
-    Option 2:
-        Traveler: Ahh... Must be that "wandering" tom.
-Paimon: Seriously, what's his problem? He won't tell Durin what's bothering him in the real world, and now, he's hiding from him in the story world too...
-Flying Squirrel Fairy: His hiding spot's over there, but he won't talk to us. Maybe you could try instead?
-Traveler: Leave it to us.
-Paimon: Hey, Mr. Wandering Tom! How come you're hiding from the little dragon?
-#{REALNAME[ID(1)|HOSTONLY(true)]} (???): You came all the way over here just to ask me that?
-Paimon: Hah, so you can talk!
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): You just said it yourself. A lot of people don't even remember him.
-Paimon: Yeah, so?
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): So don't let him get anywhere near me.
-Paimon: What's that supposed to mean? Hey! Ugh, we're getting the silent treatment again...
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): Don't talk about other people behind their backs. Of course I remember him.
-Paimon: Whoa! You can't just sneak up on people like that!
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): Hmph...
-Paimon: Pfft, gotta say, though... This is quite the look for you.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): You can think whatever you want, but this is what I've always looked like.
-Paimon: Huh, and no angry comeback? That's a first...
-    Option 1:
-        Traveler: He's probably just a character from the story.
-    Option 2:
-        Traveler: Not the real Hat Guy.
-Paimon: True... and come to think of it, when everyone made that wish for Durin before, you were the only one who wasn't there.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): Pfft, and why would he need my help with a childish thing like that? If he ever runs into real trouble, he knows where to come looking.
-Paimon: Hmph... He might not be the real Hat Guy, but he's definitely "in-character"...
+Unknown Role (None): The story's witnesses arrived at a hidden nook tucked inside the towering walls, a place tied to one of the little dragon's most cherished memories.
+
+Unknown Role (None): Within those memories lived the friends he made in the castle.
+
+Unknown Role (None): Hey, you're all still here! Guess that's proof that Durin's friends from Simulanka really do hold a special place in his heart...
+
+Unknown Role (None): Hello again, golden-haired traveler and silver pixie. How fares the little dragon on his journey?
+
+Unknown Role (None): There's been some... complications.
+
+Unknown Role (None): Almost everyone seems to have forgotten who he is.
+
+Unknown Role (None): What? But, I still remember him.
+
+Unknown Role (None): I haven't forgotten him either!
+
+Unknown Role (None): Neither has this cat in a box.
+
+Unknown Role (None): That's good news! At least Durin's friends still remember him. Okay, we'll just have to find a way to help everyone else remember him too.
+
+Unknown Role (None): Oh, wait, are we missing someone?
+
+Unknown Role (None): Ah, you mean that stray cat? He doesn't want to see the little dragon... and he's been hiding from the rest of us too.
+
+Unknown Role (None): A stray cat?
+
+Unknown Role (None): Ahh... Must be that "wandering" tom.
+
+Unknown Role (None): Seriously, what's his problem? He won't tell Durin what's bothering him in the real world, and now, he's hiding from him in the story world too...
+
+Unknown Role (None): His hiding spot's over there, but he won't talk to us. Maybe you could try instead?
+
+Unknown Role (None): Leave it to us.
+
+Unknown Role (None): Hey, Mr. Wandering Tom! How come you're hiding from the little dragon?
+
+Unknown Role (None): You came all the way over here just to ask me that?
+
+Unknown Role (None): Hah, so you can talk!
+
+Unknown Role (None): You just said it yourself. A lot of people don't even remember him.
+
+Unknown Role (None): Yeah, so?
+
+Unknown Role (None): So don't let him get anywhere near me.
+
+Unknown Role (None): What's that supposed to mean? Hey! Ugh, we're getting the silent treatment again...
+
+Unknown Role (None): Don't talk about other people behind their backs. Of course I remember him.
+
+Unknown Role (None): Whoa! You can't just sneak up on people like that!
+
+Unknown Role (None): Hmph...
+
+Unknown Role (None): Pfft, gotta say, though... This is quite the look for you.
+
+Unknown Role (None): You can think whatever you want, but this is what I've always looked like.
+
+Unknown Role (None): Huh, and no angry comeback? That's a first...
+
+Unknown Role (None): He's probably just a character from the story.
+
+Unknown Role (None): Not the real Hat Guy.
+
+Unknown Role (None): True... and come to think of it, when everyone made that wish for Durin before, you were the only one who wasn't there.
+
+Unknown Role (None): Pfft, and why would he need my help with a childish thing like that? If he ever runs into real trouble, he knows where to come looking.
+
+Unknown Role (None): Hmph... He might not be the real Hat Guy, but he's definitely "in-character"...
 
 ## Talk 1
 
-Flying Squirrel Fairy: But... How could everyone just forget him like that? Does he need another blessing?
-Giraffe King: He was bound to face challenges in the world outside the castle. It would have been a pretty boring journey otherwise.
-Cat in a Box: If you ask me, the less eventful a journey, the better...
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): ...
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Stray Cat): If he ever runs into real trouble, he knows where to come looking.
+Unknown Role (None): But... How could everyone just forget him like that? Does he need another blessing?
+
+Unknown Role (None): He was bound to face challenges in the world outside the castle. It would have been a pretty boring journey otherwise.
+
+Unknown Role (None): If you ask me, the less eventful a journey, the better...
+
+Unknown Role (None): ...
+
+Unknown Role (None): If he ever runs into real trouble, he knows where to come looking.

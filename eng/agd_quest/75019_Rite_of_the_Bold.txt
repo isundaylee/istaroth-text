@@ -1,5 +1,3 @@
-(Quest is part of chapter: Between Pledge and Forgettance)
-
 # Rite of the Bold
 
 
@@ -17,8 +15,9 @@
 
 ## Talk 4
 
-Traveler: Need to prep for a bit.
-Manqu: Of course. I'll tell him once you're ready...
+Unknown Role (None): Need to prep for a bit.
+
+Unknown Role (None): Of course. I'll tell him once you're ready...
 
 ## Talk 5
 
@@ -26,81 +25,147 @@ Manqu: Of course. I'll tell him once you're ready...
 
 ## Talk 6
 
-Manqu: ...Is there any room to negotiate?
-Pacal: Manqu, look at me. Didn't you hear what Titu said? No one's attempted this feat in almost 500 years.
-Pacal: Even if you claim that you've found a possible entrance...
-Pacal: Well, so what? You listen well — no human or Saurian companion setting out on this road has ever returned. Not a single one.
-Manqu: Um, forgive my directness, but...
-Paimon: Well, there's our Relics Association guy. And that over there... Is that the chief of the tribe?
-Paimon: Hey! Relics Guy!
-Manqu: #Ah, it's you, Traveler... Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Pacal: Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks different right off the bat too! Alright, little fella, give us another!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Raaawr!
-Pacal: #Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose...
-Pacal: #And haven't you two been the talk of the town lately, Traveler, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return.
-Pacal: It wouldn't be a stretch to call your recent deeds "legendary," and you've been a friend to us Children of Echoes thus far.
-    Option 1:
-        Traveler: There's no need to thank me too much.
-    Option 2:
-        Traveler: Missing text (1989908642)
-Pacal: Haha, quite the phenomenal youngster!
-Pacal: And it is in that capacity, Manqu, that I'm telling you — it is not our way to push guests into a fiery pit just to prove a hypothesis.
-Pacal: That's not how "I'd" treat my guests, anyway.
-Manqu: *sigh*...
-Paimon: What's all this about, anyway? Something about danger, and a fiery pit?
-Manqu: Apologies. Allow me to explain...
-Manqu: Remember what we spoke of before? To remove the mark of the Flamelord's Blessing, you need to bring the two required token types to the volcano.
-Manqu: One of the tokens is in the ruins beyond the Children of Echoes' land...
-Pacal: There are conditions for getting in, though.
-Pacal: Based on past custom... Which I only just found on a woven scroll, by the way, since it's been ages since anyone's hankered to try this.
-Pacal: Missing text (2926220130)
-Pacal: If you wish to take your Saurian companion to the volcano and perform a baptism to cleanse the Flamelord's Blessing, you must be recognized by said Saurian's corresponding tribal chief...
-Pacal: Missing text (3928123434)
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Missing text (3775167914)
-Paimon: Missing text (3927797322)
-Manqu: #With {REALNAME[ID(2)|SHOWHOST(true)]} being a Tepetlisaurus, this means the chief of the Children of Echoes.
-Paimon: Missing text (3327648274)
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Isn't that you?
-Pacal: #Well, yeah, though I'll be real, I don't know if this rule applies to outsiders. Still, Traveler...
-Pacal: For hundreds of years, many are those who have tried to free their Saurian companions from what runs in their bloodline... this thing that is more curse than blessing.
-Pacal: But not a single one has succeeded... Which is why the tribes gradually abandoned the custom...
-Paimon: A zero percent success rate, seriously!?
-Pacal: Yes, so perilous is the journey. It's also said that the trial that must be passed before one may obtain the token will test not only the warrior who steps forth, but also the Saurian with them...
-Pacal: You are not of the tribes, but I will not have you die in vain.
-Pacal: #So please, Traveler, I suggest that you leave {REALNAME[ID(2)|SHOWHOST(true)]} here with us.
-Pacal: If nothing else, I can ensure it will be taken care of until the day it must enter the Night Kingdom.
-Paimon: But... If we do that...
-Manqu: #...As I said, {REALNAME[ID(2)|SHOWHOST(true)]} will be unable to grow up.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-Traveler: Looks like that's not what it wants.
-Traveler: I'll try this all the same.
-Pacal: Despite the immense peril?
-Traveler: Yes.
-Pacal: And what about you, little fella?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Pacal: Hahaha! Unyielding, resolute, yet passionate. Your hearts blaze like fine phlogiston.
-Pacal: Alright then. Then I shall award you the right to embark on the volcanic pilgrimage.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Alright! Let's go get that first token, then!
-Manqu: No, not yet. Now that you are qualified, you must undertake a trial of witnesses...
-Manqu: Ancient custom dictates that the warrior and Saurian must together obtain the feather of a green quetzal deep in the woods, and offer up a stole of animal pelts...
-Manqu: And together, you must win fifty battles for our tribe, and offer up ninety-six gems of high quality...
-    Option 1:
-        Traveler: Uh, I wouldn't be eligible to...
-    Option 2:
-        Traveler: Can you give me a discount on those for Mora?
-Pacal: Oh come now, Manqu, forget it. Where are those traditions even from? Some lost stone age?
-Pacal: The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that.
-Pacal: #Anyway, as I see it, neither Traveler nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof.
-Pacal: #To put things simply, Traveler, we have here in Natlan a super simple way of dealing with such situations...
-Pacal: Fight me, and prove your strength!
-Traveler: Right on!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Wait? Here? Oh, do you mean we're going on stage?
-Pacal: Of course not, haha, the stage isn't a place for tunneling... Our duel grounds are in the mountain to the rear.
-Pacal: Come, let's head there — we'll have ourselves a good one!
+Unknown Role (None): ...Is there any room to negotiate?
+
+Unknown Role (None): Manqu, look at me. Didn't you hear what Titu said? No one's attempted this feat in almost 500 years.
+
+Unknown Role (None): Even if you claim that you've found a possible entrance...
+
+Unknown Role (None): Well, so what? You listen well — no human or Saurian companion setting out on this road has ever returned. Not a single one.
+
+Unknown Role (None): Um, forgive my directness, but...
+
+Unknown Role (None): Well, there's our Relics Association guy. And that over there... Is that the chief of the tribe?
+
+Unknown Role (None): Hey! Relics Guy!
+
+Unknown Role (None): #Ah, it's you, Traveler... Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}.
+
+Unknown Role (None): Rawr!
+
+Unknown Role (None): Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks different right off the bat too! Alright, little fella, give us another!
+
+Unknown Role (None): Raaawr!
+
+Unknown Role (None): #Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose...
+
+Unknown Role (None): #And haven't you two been the talk of the town lately, Traveler, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return.
+
+Unknown Role (None): It wouldn't be a stretch to call your recent deeds "legendary," and you've been a friend to us Children of Echoes thus far.
+
+Unknown Role (None): There's no need to thank me too much.
+
+Unknown Role (None): Missing text (1989908642)
+
+Unknown Role (None): Haha, quite the phenomenal youngster!
+
+Unknown Role (None): And it is in that capacity, Manqu, that I'm telling you — it is not our way to push guests into a fiery pit just to prove a hypothesis.
+
+Unknown Role (None): That's not how "I'd" treat my guests, anyway.
+
+Unknown Role (None): *sigh*...
+
+Unknown Role (None): What's all this about, anyway? Something about danger, and a fiery pit?
+
+Unknown Role (None): Apologies. Allow me to explain...
+
+Unknown Role (None): Remember what we spoke of before? To remove the mark of the Flamelord's Blessing, you need to bring the two required token types to the volcano.
+
+Unknown Role (None): One of the tokens is in the ruins beyond the Children of Echoes' land...
+
+Unknown Role (None): There are conditions for getting in, though.
+
+Unknown Role (None): Based on past custom... Which I only just found on a woven scroll, by the way, since it's been ages since anyone's hankered to try this.
+
+Unknown Role (None): Missing text (2926220130)
+
+Unknown Role (None): If you wish to take your Saurian companion to the volcano and perform a baptism to cleanse the Flamelord's Blessing, you must be recognized by said Saurian's corresponding tribal chief...
+
+Unknown Role (None): Missing text (3928123434)
+
+Unknown Role (None): Missing text (3775167914)
+
+Unknown Role (None): Missing text (3927797322)
+
+Unknown Role (None): #With {REALNAME[ID(2)|SHOWHOST(true)]} being a Tepetlisaurus, this means the chief of the Children of Echoes.
+
+Unknown Role (None): Missing text (3327648274)
+
+Unknown Role (None): Rawr!
+
+Unknown Role (None): Isn't that you?
+
+Unknown Role (None): #Well, yeah, though I'll be real, I don't know if this rule applies to outsiders. Still, Traveler...
+
+Unknown Role (None): For hundreds of years, many are those who have tried to free their Saurian companions from what runs in their bloodline... this thing that is more curse than blessing.
+
+Unknown Role (None): But not a single one has succeeded... Which is why the tribes gradually abandoned the custom...
+
+Unknown Role (None): A zero percent success rate, seriously!?
+
+Unknown Role (None): Yes, so perilous is the journey. It's also said that the trial that must be passed before one may obtain the token will test not only the warrior who steps forth, but also the Saurian with them...
+
+Unknown Role (None): You are not of the tribes, but I will not have you die in vain.
+
+Unknown Role (None): #So please, Traveler, I suggest that you leave {REALNAME[ID(2)|SHOWHOST(true)]} here with us.
+
+Unknown Role (None): If nothing else, I can ensure it will be taken care of until the day it must enter the Night Kingdom.
+
+Unknown Role (None): But... If we do that...
+
+Unknown Role (None): #...As I said, {REALNAME[ID(2)|SHOWHOST(true)]} will be unable to grow up.
+
+Unknown Role (None): Roar...
+
+Unknown Role (None): Looks like that's not what it wants.
+
+Unknown Role (None): I'll try this all the same.
+
+Unknown Role (None): Despite the immense peril?
+
+Unknown Role (None): Yes.
+
+Unknown Role (None): And what about you, little fella?
+
+Unknown Role (None): Rawr!
+
+Unknown Role (None): Hahaha! Unyielding, resolute, yet passionate. Your hearts blaze like fine phlogiston.
+
+Unknown Role (None): Alright then. Then I shall award you the right to embark on the volcanic pilgrimage.
+
+Unknown Role (None): Rawr!
+
+Unknown Role (None): Alright! Let's go get that first token, then!
+
+Unknown Role (None): No, not yet. Now that you are qualified, you must undertake a trial of witnesses...
+
+Unknown Role (None): Ancient custom dictates that the warrior and Saurian must together obtain the feather of a green quetzal deep in the woods, and offer up a stole of animal pelts...
+
+Unknown Role (None): And together, you must win fifty battles for our tribe, and offer up ninety-six gems of high quality...
+
+Unknown Role (None): Uh, I wouldn't be eligible to...
+
+Unknown Role (None): Can you give me a discount on those for Mora?
+
+Unknown Role (None): Oh come now, Manqu, forget it. Where are those traditions even from? Some lost stone age?
+
+Unknown Role (None): The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that.
+
+Unknown Role (None): #Anyway, as I see it, neither Traveler nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof.
+
+Unknown Role (None): #To put things simply, Traveler, we have here in Natlan a super simple way of dealing with such situations...
+
+Unknown Role (None): Fight me, and prove your strength!
+
+Unknown Role (None): Right on!
+
+Unknown Role (None): Rawr!
+
+Unknown Role (None): Wait? Here? Oh, do you mean we're going on stage?
+
+Unknown Role (None): Of course not, haha, the stage isn't a place for tunneling... Our duel grounds are in the mountain to the rear.
+
+Unknown Role (None): Come, let's head there — we'll have ourselves a good one!
 
 ## Talk 7
 
@@ -108,15 +173,16 @@ Pacal: Come, let's head there — we'll have ourselves a good one!
 
 ## Talk 8
 
-Pacal: Seeking to enter the volcano with only the strength you now possess... it's a bit too much to hope for.
+Unknown Role (None): Seeking to enter the volcano with only the strength you now possess... it's a bit too much to hope for.
 
 ## Talk 9
 
-Traveler: We're ready!
-Manqu: In that case, on your marks. The duel will soon begin.
+Unknown Role (None): We're ready!
+
+Unknown Role (None): In that case, on your marks. The duel will soon begin.
 
 ## Talk 10
 
-Manqu: Well, now that we have some proof, we may go forth and obtain the token left by the Sage of the Stolen Flame.
+Unknown Role (None): Well, now that we have some proof, we may go forth and obtain the token left by the Sage of the Stolen Flame.
 
-Manqu: The ruin's entrance isn't far. If I may be so bold, please proceed to the ruins near the Children of Echoes...
+Unknown Role (None): The ruin's entrance isn't far. If I may be so bold, please proceed to the ruins near the Children of Echoes...
