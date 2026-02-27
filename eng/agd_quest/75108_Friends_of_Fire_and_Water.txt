@@ -50,385 +50,84 @@ Paimon: C'mon, it matters a lot — that the kidnapped Saurians can now regain t
 ## Talk 5
 
 Paimon: Wait, there's a... Blubberbeast in here? How in the world—? Guess bad guys really will sell anything...
-Weakened Blubberbeast (Victimized Blubberbeast): Awrr... Bluboo!
+
+Weakened Blubberbeast: Awrr... Bluboo!
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo... Mrrooh!
+
 Paimon: #Huh? You're kinda interested in the Blubberbeast, aren't you, {REALNAME[ID(2)|SHOWHOST(true)]}?
+
 Black Screen Text: #{REALNAME[ID(2)|SHOWHOST(true)]} listens intently to the cries of the Blubberbeast and, seemingly understanding something, lifts the creature by the tail to take it over to the shallows, where they play together.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-    Option 1:
-        Traveler: The Blubberbeast seems chuffed.
-    Option 2:
-        Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]} seems pretty happy, too.
+
+Traveler: The Blubberbeast seems chuffed.
+
+Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]} seems pretty happy, too.
+
 Paimon: Sure does! Maybe they can become friends?
+
 Paimon: But that Blubberbeast doesn't seem to have the slightest bit of strength, and its two... Err, paws...? Either way, they don't seem able to flap around much.
+
 Paimon: There wasn't even a plate of food around... Perhaps they've been locked up so long that they're starving.
+
 Paimon: #If that's so, let's make something for the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 6
 
 Black Screen Text: #After a splendid culinary process, the special fish you grilled for {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast is ready...
 
 Paimon: We said we were going to cook, but what exactly should we make?
+
 Paimon: Blubberbeasts live in the water, so it must eat fish, right? Let's do a fish dish, then.
+
 Paimon: #If we want the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat well... Natlan's special Grilled Fish in Mint Sauce might be a pretty good choice.
-    Option 1:
-        Traveler: That's practically a specialty of mine.
-    Option 2:
-        Traveler: Can't say I've perfected it, but no problem.
+
+Traveler: That's practically a specialty of mine.
+
+Traveler: Can't say I've perfected it, but no problem.
+
 Paimon: Alright, let's get started then. Paimon will give you some pointers while you're at it!
-    Option 1:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 2:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 3:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 4:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 5:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 6:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 7:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 8:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 9:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 10:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 11:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 12:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 13:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 14:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 15:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 16:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 17:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 18:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
-        Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
-    Option 19:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 20:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 21:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 22:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 23:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 24:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 25:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 26:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: The flavor's great as-is. No need for any salt.
-        Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 27:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 28:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
-        Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 29:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 30:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Animals from Fontaine might be allergic to spicy food...
-        Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 31:
-        Traveler: Make deeper cuts.
-        Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-    Option 32:
-        Traveler: Make shallower cuts.
-        Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
-        Traveler: A little extra salt, a little extra happiness!
-        Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
-        Traveler: Mint sauce. The more, the merrier.
-        Paimon: Hehe, that refreshing, cool taste is going to be awesome!
-        Traveler: Chili peppers are indispensable.
-        Paimon: Just the right amount of spiciness — enough to whet the appetite!
-        Traveler: Slow roasted — tender and juicy!
-        Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
-[Missing Dialog 751080227]
+
+Traveler: Make deeper cuts.
+
+Paimon: That's right! The deeper the cuts, the deeper the flavor seeps in!
+
+Traveler: Make shallower cuts.
+
+Paimon: Not bad. It should keep the flavor light while maintaining the original fishiness — which the Blubberbeast is sure to love.
+
+Traveler: A little extra salt, a little extra happiness!
+
+Paimon: #Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!
+
+Traveler: The flavor's great as-is. No need for any salt.
+
+Paimon: Yup. We've still got other seasonings, so we don't have to go so heavy on the salt.
+
+Traveler: Mint sauce. The more, the merrier.
+
+Paimon: Hehe, that refreshing, cool taste is going to be awesome!
+
+Traveler: Will an aquatic animal like the Blubberbeast be afraid of mint?
+
+Paimon: That's not how that works. A Blubberbeast is going to find the surface dry and hot, so adding a little mint sauce ought to help it cool down, right?
+
+Traveler: Chili peppers are indispensable.
+
+Paimon: Just the right amount of spiciness — enough to whet the appetite!
+
+Traveler: Animals from Fontaine might be allergic to spicy food...
+
+Paimon: But it'd feel like something is missing if there's no chili at all, so why not add just a little?
+
+Traveler: Flame-grilled over scorching heat — crispy on the outside, tender on the inside!
+
+Paimon: Heehee, that sounds so delicious, Paimon's drooling already.
+
+Traveler: Slow roasted — tender and juicy!
+
+Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
 
 ## Talk 7
 
@@ -477,15 +176,23 @@ Paimon: Anyway, Paimon's got a feeling that this isn't the last we've seen of th
 *Conversations not present as sub-quests.*
 
 Weakened Blubberbeast: Aouhhh...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Arawr?
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Awwrr...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
 Weakened Blubberbeast: Aouh?
+
 Weakened Blubberbeast: Aouh...
+
 Weakened Blubberbeast: Auh!
+
 Paimon: Paimon can't understand their conversation at all, but it seems they've reached an understanding...?
-    Option 1:
-        Traveler: It's fine if you don't get it.
-    Option 2:
-        Traveler: As long as the emotion's there, that's all that matters.
+
+Traveler: It's fine if you don't get it.
+
+Traveler: As long as the emotion's there, that's all that matters.
+
 Paimon: Makes sense. Even though the Blubberbeast doesn't have much strength, it feels like they're really happy — and Paimon feels happy for 'em, too!
