@@ -201,13 +201,13 @@ Paimon: So... Who's your travel buddy, Albedo?
 
 Albedo: Why don't you come and introduce yourself?
 
-Durin: ...
+Durin (???): ...
 
 Flins: Hm. A gentleman of few words, I see. And a rather stern countenance... I presumed you were acquainted with him, is that not the case?
 
 Traveler: Wait, those horns...You must be...!
 
-Durin: It's nice to meet you.... again. We've... technically met before.
+Durin (???): It's nice to meet you.... again. We've... technically met before.
 
 Paimon: Wait a sec, you're... You're Mini Durin!?
 
@@ -597,7 +597,7 @@ Rerir: (And given it's a major center of Abyss research, anyone over at the Univ
 
 Tholindis: Monsters, at the Universitas Magistrorum? Why now!?
 
-Tholindis: Grrr...
+Tholindis (Monsters): Grrr...
 
 Tholindis: Oh no, they're coming...
 
@@ -607,7 +607,7 @@ Tholindis: ...Of course. All the lab equipment was upgraded after the inspection
 
 Tholindis: I'm done for... Is anyone there!? I need help!!!
 
-Tholindis: Roar!
+Tholindis (Monsters): Roar!
 
 Tholindis: ...!
 
@@ -665,9 +665,9 @@ Nefer: (Wonder what kind of encryption technique this is... Hmm, seems like it h
 
 Nefer: (Aha... It's an audio recording.)
 
-Runvorthr: Please, hear me out... I can't shake this feeling that someone's been spying on our house... No, I'm not being paranoid, it's true!
+Runvorthr (Audio Recording): Please, hear me out... I can't shake this feeling that someone's been spying on our house... No, I'm not being paranoid, it's true!
 
-Runvorthr: I saw someone dressed in all black... It was a couple of days back, but that was on another street, not near my house... I swear, I know what I saw!
+Runvorthr (Audio Recording): I saw someone dressed in all black... It was a couple of days back, but that was on another street, not near my house... I swear, I know what I saw!
 
 Nefer: (There's a note in the margin: Surveillance of the Runvorthr residence has concluded. We apprehended the target and filed the mission report last night.)
 
@@ -683,15 +683,15 @@ Nefer: (Must be for his girlfriend...)
 
 Rerir: Today's files are in. Time to wade through them, just like usual...
 
-Rerir: ■■■. Male, 51. Occupation: cook. Confirmed Crimson Moon descendant. Has maintained frequent contact with other descendants over the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■■. Male, 51. Occupation: cook. Confirmed Crimson Moon descendant. Has maintained frequent contact with other descendants over the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: This one should be archived under "Purged Targets."
 
-Rerir: ■■. Female, 23. Occupation: office clerk. Confirmed Crimson Moon descendant. Has maintained frequent contact with other descendants over the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■. Female, 23. Occupation: office clerk. Confirmed Crimson Moon descendant. Has maintained frequent contact with other descendants over the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: Another one for "Purged Targets."
 
@@ -699,37 +699,37 @@ Rerir: (...Sounds like she was that other man's daughter.)
 
 Rerir: (Never mind. What's it got to do with me?)
 
-Rerir: ■■■■■. Male, 40. Occupation: teacher. Confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■■■■. Male, 40. Occupation: teacher. Confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: Just another nobody for the archive.
 
 Rerir: (Come to think of it, I remember surveilling this man... A case like his would never have been considered a priority in the past. He barely even interacted with other Crimson Moon descendants.)
 
-Rerir: ■■■. Female, 16. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■■. Female, 16. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: Filed.
 
 Rerir: (I have no recollection of this girl... None, whatsoever. She doesn't seem to be anyone important... but then again, how many of them really are?)
 
-Rerir: ■■■. Female, 13. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■■. Female, 13. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has been observed making contact with other descendants during the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: Filed.
 
 Rerir: ...
 
-Rerir: ■■. Male, 11. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has not been observed making any contact with other descendants during the past year. Poses a threat to the dynasty.
+Rerir (File Content): ■■. Male, 11. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Has not been observed making any contact with other descendants during the past year. Poses a threat to the dynasty.
 
-Rerir: Neutralized on ■/■.
+Rerir (File Content): Neutralized on ■/■.
 
 Rerir: ...
 
-Rerir: ■■. Male, 6. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Poses a threat to the dynasty.
+Rerir (File Content): ■■. Male, 6. Occupation: none. Orphan, and confirmed Crimson Moon descendant. Poses a threat to the dynasty.
 
 Rerir: ...
 
@@ -977,27 +977,27 @@ Tholindis: No matter how long it takes...
 
 ## Talk 50
 
-Check: (There are some handwritten messages on the whiteboard...)
+Check (Examine the Board): (There are some handwritten messages on the whiteboard...)
 
-Check: "I took the time to do a few sketches that represent the staffing for different units."
+Check (Notes on the Board): "I took the time to do a few sketches that represent the staffing for different units."
 
-Check: "The art's pretty good, huh? Bet you'll all like it. Mika always used to say I had the talent to make it big."
+Check (Notes on the Board): "The art's pretty good, huh? Bet you'll all like it. Mika always used to say I had the talent to make it big."
 
-Check: (These seem to have been written by Varka...?)
+Check (Examine the Board): (These seem to have been written by Varka...?)
 
-Check: (Another message appears after these lines, written in a different hand:)
+Check (Examine the Board): (Another message appears after these lines, written in a different hand:)
 
-Check: "Your creative work has, by the testimony of our fellow knights, proved excellent food for thought, Grand Master Varka."
+Check (Words Written in a Different Hand): "Your creative work has, by the testimony of our fellow knights, proved excellent food for thought, Grand Master Varka."
 
-Check: "I have looked through it carefully, and I suspect this is because your work is novel, yet your technique remains slightly unpolished."
+Check (Words Written in a Different Hand): "I have looked through it carefully, and I suspect this is because your work is novel, yet your technique remains slightly unpolished."
 
-Check: "This is only natural, of course. After all, you have never received any formal education in art."
+Check (Words Written in a Different Hand): "This is only natural, of course. After all, you have never received any formal education in art."
 
-Check: "In accordance with requests I have received, I shall complete a few new paintings to serve as mementos for everyone."
+Check (Words Written in a Different Hand): "In accordance with requests I have received, I shall complete a few new paintings to serve as mementos for everyone."
 
-Check: "P.S.: Please understand that the Grand Master almost always has his hands full defending others — that his artistic capabilities are developed as this is a testament to the time he has spent alongside Spark Knight Klee."
+Check (Words Written in a Different Hand): "P.S.: Please understand that the Grand Master almost always has his hands full defending others — that his artistic capabilities are developed as this is a testament to the time he has spent alongside Spark Knight Klee."
 
-Check: (The writer has signed off in the corner as "Albedo.")
+Check (Words Written in a Different Hand): (The writer has signed off in the corner as "Albedo.")
 
 ## Talk 51
 

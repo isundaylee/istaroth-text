@@ -7,7 +7,7 @@
 
 Paimon: Over there! It looks like they're sleeping...
 
-Caribert: ...In the end, he whispered softly,
+Caribert (Mysterious Voice): ...In the end, he whispered softly,
 
 Paimon: ...It almost sounds like a poem, or some kind of story.
 
@@ -99,9 +99,9 @@ Atossa: Oh, there I go again... always talking about my own things. Do you, mayb
 
 Atossa: Um... It's okay if you don't. You could also just... Talk about what you think of me?
 
-Caribert: Oh, I... I think you're an incredibly strong and thoughtful young woman.
+Caribert (???): Oh, I... I think you're an incredibly strong and thoughtful young woman.
 
-Caribert: You'll meet many amazing people and live a very happy life... You won't miss someone like me...
+Caribert (???): You'll meet many amazing people and live a very happy life... You won't miss someone like me...
 
 Atossa: Huh...? Are those your friends over there?
 
@@ -109,13 +109,13 @@ Traveler: (We finally found him. But why does he look kind of familiar...?)
 
 Paimon: Oh, right. This version of Atossa hasn't met us yet...
 
-Caribert: Friends? I guess you could say that. It must have taken them a lot of effort to find me...
+Caribert (???): Friends? I guess you could say that. It must have taken them a lot of effort to find me...
 
-Caribert: So... I should see what they need. I'm sorry, Atossa. We'll have to continue this conversation another time.
+Caribert (???): So... I should see what they need. I'm sorry, Atossa. We'll have to continue this conversation another time.
 
 Atossa: Another time, huh... Um, yeah! Okay! I'll head back to the village, then. Talk to you... some other time!
 
-Caribert: #It's nice to see you, Traveler. I believe this is the first time we've met.
+Caribert (???): #It's nice to see you, Traveler. I believe this is the first time we've met.
 
 Traveler: You're...
 
@@ -181,7 +181,7 @@ Black Screen Text: "You must get along with each other, the two of you."
 
 ## Talk 7
 
-Unknown Role (TALK_ROLE_NONE): Missing text (1974234626)
+Unknown Role (TALK_ROLE_NONE): Missing text (1974234114)
 
 ## Talk 8
 
@@ -239,13 +239,13 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #...Aether?
 
-Traveler: You're the only one in this world who calls me that.
+Traveler (#Aether): You're the only one in this world who calls me that.
 
-Traveler: There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now.
+Traveler (#Aether): There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now.
 
-Traveler: There's just one thing I have to ask, one thing I could never understand...
+Traveler (#Aether): There's just one thing I have to ask, one thing I could never understand...
 
-Traveler: Why... Why can't we continue our journey together?
+Traveler (#Aether): Why... Why can't we continue our journey together?
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 
@@ -259,7 +259,7 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): To have a place like that suddenly appear 
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Well, would you think of that as a coincidence?
 
-Traveler: You mean...
+Traveler (#Aether): You mean...
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #I miss you too, Aether.
 
@@ -267,9 +267,9 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): But as this war continues to rage, and as 
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #I don't even know how to face myself sometimes... let alone my own brother.
 
-Traveler: ...
+Traveler (#Aether): ...
 
-Traveler: What's going on?
+Traveler (#Aether): What's going on?
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): This space has lost its tether... I doubt it'll be able to exist much longer.
 
@@ -277,11 +277,11 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): In fact, aside from our inability to physi
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Everything in this space will be wiped from existence... including all memory of our reunion.
 
-Traveler: You're only telling me this now...
+Traveler (#Aether): You're only telling me this now...
 
-Traveler: ...!
+Traveler (#Aether): ...!
 
-Traveler: ...!!!
+Traveler (#Aether): ...!!!
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): "..."
 
@@ -303,7 +303,7 @@ Amadhiah: A missing villager... Did I really forget something so important? As t
 
 Paimon: Looks like the same thing is happening over here too. The Hilichurls are calm...
 
-Caribert: ...You see? We're both still here.
+Caribert (Mysterious Voice): ...You see? We're both still here.
 
 Traveler: (It's that voice again...)
 
@@ -363,13 +363,13 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #...Aether?
 
-Traveler: You're the only one in this world who calls me that.
+Traveler (#Aether): You're the only one in this world who calls me that.
 
-Traveler: There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now.
+Traveler (#Aether): There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now.
 
-Traveler: There's just one thing I have to ask, one thing I could never understand...
+Traveler (#Aether): There's just one thing I have to ask, one thing I could never understand...
 
-Traveler: Why... Why can't we continue our journey together?
+Traveler (#Aether): Why... Why can't we continue our journey together?
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 
@@ -383,7 +383,7 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): To have a place like that suddenly appear 
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Well, would you think of that as a coincidence?
 
-Traveler: You mean...
+Traveler (#Aether): You mean...
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #I miss you too, Aether.
 
@@ -391,9 +391,9 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): But as this war continues to rage, and as 
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #I don't even know how to face myself sometimes... let alone my own brother.
 
-Traveler: ...
+Traveler (#Aether): ...
 
-Traveler: What's going on?
+Traveler (#Aether): What's going on?
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): This space has lost its tether... I doubt it'll be able to exist much longer.
 
@@ -401,11 +401,11 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): In fact, aside from our inability to physi
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Everything in this space will be wiped from existence... including all memory of our reunion.
 
-Traveler: You're only telling me this now...
+Traveler (#Aether): You're only telling me this now...
 
-Traveler: ...!
+Traveler (#Aether): ...!
 
-Traveler: ...!!!
+Traveler (#Aether): ...!!!
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): "..."
 
