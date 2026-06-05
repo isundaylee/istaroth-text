@@ -7,10 +7,6 @@
 
 "M" (Narrator): Unless the little dragon kept moving, eventually, he would be forgotten.
 
-## Talk 3
-
-Traveler: Ready when you are.
-
 ## Talk 4
 
 "M" (Narrator): Ahead of them was a storyless void, and they could go no further.
@@ -23,33 +19,35 @@ Durin: Sometimes, I wish I could just go back and see it again...
 
 "M" (Narrator): Would he dare to hold this power back, or would he simply... give in?
 
+## Talk 6
+
+Paimon: If we go this way, we'll be returning to the castle.
+
+Durin: Returning to the castle...
+
+Traveler: There's nothing challenging for you back there.
+
+Traveler: You'll end up stuck in one place.
+
+Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
+
+Durin: ...I see.
+
 ## Talk 8
 
-Durin: I can't feel a... a connection...
+Traveler: Ready when you are.
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You're not alone in this world, Durin. At the very least... you have me.
+## Talk 9
+
+Traveler: We're ready.
+
+## Talk 9
+
+Traveler: We're ready.
 
 ## Talk 10
 
 Durin: My... wish?
-
-## Talk 11
-
-"M" (Narrator): The little dragon and his companions... blank... blank again...
-
-Paimon: Huh, what's going on? Are we running out of ink?
-
-Albedo: Once the ink runs out, is that the end of the story?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I had a feeling this would happen...
-
-Paimon: What's happening to the others...?
-
-"M" (Narrator): Now that the story's ink was spent, all that lay ahead were blank pages.
-
-## Talk 13
-
-Traveler: Let's take another look around first.
 
 ## Talk 14
 
@@ -101,10 +99,6 @@ Paimon: Hey! What kind of question is that? Of course he's gonna control it. Wha
 
 Paimon: Uh, what's up with the narrator...?
 
-## Talk 21
-
-Traveler: (We've run out of ink... So much for Albedo's plan. We have to find another way.)
-
 ## Talk 24
 
 Durin: Returning to the castle...
@@ -127,9 +121,17 @@ Durin: Okay...
 
 ## Talk 25
 
-Paimon: Not enough ink? Seriously...?
+"M" (Narrator): The little dragon and his companions... blank... blank again...
 
-Traveler: Guess we need to turn to our other options.
+Paimon: Huh, what's going on? Are we running out of ink?
+
+Albedo: Once the ink runs out, is that the end of the story?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I had a feeling this would happen...
+
+Paimon: What's happening to the others...?
+
+"M" (Narrator): Now that the story's ink was spent, all that lay ahead were blank pages.
 
 ## Talk 26
 
@@ -473,20 +475,6 @@ Durin: No, that fate no longer defines me. In the end, only my story shall endur
 
 Durin: Thank you, Mom...
 
-## Talk 39
-
-Paimon: If we go this way, we'll be returning to the castle.
-
-Durin: Returning to the castle...
-
-Traveler: There's nothing challenging for you back there.
-
-Traveler: You'll end up stuck in one place.
-
-Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
-
-Durin: ...I see.
-
 ## Talk 40
 
 Durin: Is everyone okay?
@@ -646,36 +634,48 @@ Alice: Since the book will be his to continue, why don't you write him a little 
 
 ### Additional Talk 1
 
-Albedo: Whatever happens next, Durin is going to need all of our help. Is everyone ready?
+Durin: I can't feel a... a connection...
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You're not alone in this world, Durin. At the very least... you have me.
 
 ### Additional Talk 2
 
-Durin: So please, everyone — help me destroy this heart, once and for all!
+Paimon: Not enough ink? Seriously...?
+
+Traveler: Guess we need to turn to our other options.
 
 ### Additional Talk 3
+
+Traveler: (We've run out of ink... So much for Albedo's plan. We have to find another way.)
+
+### Additional Talk 4
+
+Traveler: Let's take another look around first.
+
+### Additional Talk 5
+
+Albedo: Whatever happens next, Durin is going to need all of our help. Is everyone ready?
+
+### Additional Talk 6
+
+Durin: So please, everyone — help me destroy this heart, once and for all!
+
+### Additional Talk 7
 
 Alice: There you go, your very own copy of the book. We wouldn't want one of the story's key witnesses to leave empty-handed now, would we?
 
 Alice: Of course, this copy isn't "magical" in the same way — but rest assured, all the twists and turns are still there.
 
-### Additional Talk 4
-
-Traveler: We're ready.
-
-### Additional Talk 5
+### Additional Talk 8
 
 Venti: "And so they flew together, Durin and Dvalin, over the skies of Mondstadt..."
 
 Venti: Who'd have thought such words could ever have described a happy ending, huh?
 
-### Additional Talk 6
+### Additional Talk 9
 
 Traveler: Durin and I need to check out a few other spots.
 
-### Additional Talk 7
-
-Traveler: We're ready.
-
-### Additional Talk 8
+### Additional Talk 10
 
 Traveler: Durin and I need to check out a few other spots.

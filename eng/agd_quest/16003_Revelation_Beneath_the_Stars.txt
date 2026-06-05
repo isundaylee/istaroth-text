@@ -105,6 +105,54 @@ Durin: Well... maybe Hat Guy has his reasons for thinking that way, but that's n
 
 ## Talk 11
 
+Paimon: If we go this way, we'll be returning to the castle.
+
+Durin: Returning to the castle...
+
+Traveler: There's nothing challenging for you back there.
+
+Traveler: You'll end up stuck in one place.
+
+Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
+
+Durin: ...I see.
+
+## Talk 12
+
+"M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
+
+Paimon: If we go this way, Durin will forget about you.
+
+Durin: What!?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You'd be choosing a branch of the story that I can't take... Paimon might be right about that.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: But, at the same time, it could be the answer to your problem. It's worth a shot.
+
+Traveler: That won't solve anything.
+
+Paimon: Yeah, you're one of Durin's best friends. His memories of you are extremely important to him.
+
+Paimon: What Paimon's trying to say is... If Durin forgets you, he'll never be able to complete his story.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Fair enough. I guess we'll just have to keep searching.
+
+## Talk 13
+
+Paimon: Ugh, that last ending was awful... No way we're picking that path again!
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: What are you even talking about? Hurry up and pick a path so we can get out of here.
+
+Durin: Let's pick one together.
+
+Paimon: Sounds like the others aren't aware of what just happened...
+
+Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is warn them if they're about to choose wrong again.
+
+## Talk 15
+
 "M" (Narrator): In the world beyond the castle, no paper boat had ever flown before.
 
 Durin: Hey, if our goal is to just leave this place, what's stopping us from riding it out of here?
@@ -143,11 +191,7 @@ Durin: C'mon, it's time to leave this place.
 
 "M" (Narrator): Carried by the wind, the boat took flight, bound for the place foretold by the prophecy.
 
-## Talk 12
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm sticking around for the next few days, so when it's time to go, you know where to find me.
-
-## Talk 13
+## Talk 15
 
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
@@ -308,56 +352,5 @@ Traveler: But he isn't always like that.
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Paimon: Ugh, that last ending was awful... No way we're picking that path again!
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What are you even talking about? Hurry up and pick a path so we can get out of here.
-
-Durin: Let's pick one together.
-
-Paimon: Sounds like the others aren't aware of what just happened...
-
-Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is warn them if they're about to choose wrong again.
-
-### Additional Talk 2
-
-Paimon: If we go this way, we'll be returning to the castle.
-
-Durin: Returning to the castle...
-
-Traveler: There's nothing challenging for you back there.
-
-Traveler: You'll end up stuck in one place.
-
-Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
-
-Durin: ...I see.
-
-### Additional Talk 3
-
-"M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
-
-Paimon: If we go this way, Durin will forget about you.
-
-Durin: What!?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You'd be choosing a branch of the story that I can't take... Paimon might be right about that.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But, at the same time, it could be the answer to your problem. It's worth a shot.
-
-Traveler: That won't solve anything.
-
-Paimon: Yeah, you're one of Durin's best friends. His memories of you are extremely important to him.
-
-Paimon: What Paimon's trying to say is... If Durin forgets you, he'll never be able to complete his story.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Fair enough. I guess we'll just have to keep searching.
-
-### Additional Talk 4
 
 "M" (Narrator): In the world beyond the castle, no paper boat had ever flown before.

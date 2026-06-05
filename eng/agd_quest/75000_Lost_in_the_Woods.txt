@@ -3,12 +3,6 @@
 # Lost in the Woods
 
 
-## Talk 1
-
-#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
-
-Paimon: #Hmm, {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)} isn't a bad name either... and it's a name Paimon came up with too, right?
-
 ## Talk 2
 
 Paimon: Hey, hey, big guy... You okay? Can you stand?
@@ -62,20 +56,6 @@ Traveler: (Reach out to the dying beast...)
 Paimon: What are you doing... Err...
 
 Paimon: #Traveler, you...!
-
-## Talk 3
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Ehrr... Rawr!
-
-## Talk 4
-
-Traveler: Let's go with that!
-
-Paimon: Alright, hehe!
-
-## Talk 5
-
-Paimon: #Then let's call this little fella {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}, shall we?
 
 ## Talk 6
 
@@ -185,10 +165,6 @@ Traveler: All the names I've come up with so far have been perfectly normal, I'l
 
 Traveler: Poor little thing... to suffer such a calamitous fate.
 
-## Talk 8
-
-Paimon: So, what should we call this little guy?
-
 ## Talk 9
 
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}. That'll be your name from now on, little guy!
@@ -221,12 +197,6 @@ Paimon: Hmm? You know where the exit is?
 
 Paimon: Hey, hey! Don't just suddenly go running off like that...
 
-## Talk 11
-
-#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr...
-
-Paimon: #Hmm, this name feels like it's piling the pressure on... Let's go with something else, Traveler!
-
 ## Talk 12
 
 Paimon: Ah, we're back here... Strange... the shining pillars from before are gone!
@@ -244,14 +214,44 @@ Paimon: Let's head there if we get the chance, shall we?
 
 ### Additional Talk 1
 
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Ehrr... Rawr!
+
+### Additional Talk 2
+
+Paimon: #Then let's call this little fella {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}, shall we?
+
+### Additional Talk 3
+
+Traveler: Let's go with that!
+
+Paimon: Alright, hehe!
+
+### Additional Talk 4
+
+Paimon: So, what should we call this little guy?
+
+### Additional Talk 5
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr...
+
+Paimon: #Hmm, this name feels like it's piling the pressure on... Let's go with something else, Traveler!
+
+### Additional Talk 6
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
+
+Paimon: #Hmm, {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)} isn't a bad name either... and it's a name Paimon came up with too, right?
+
+### Additional Talk 7
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
 
 Paimon: #Eh? You didn't like it when Paimon said "Hash Brown," but Traveler calls you "{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}" and now you're all happy and stuff? ...Ugh, never mind. No point being mad at you.
 
-### Additional Talk 2
+### Additional Talk 8
 
 Paimon: No, no, this name won't do at all!
 
-### Additional Talk 3
+### Additional Talk 9
 
 Paimon: #Err, are you going to give it the same name as you, Traveler?

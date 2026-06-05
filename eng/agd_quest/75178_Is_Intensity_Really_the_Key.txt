@@ -25,98 +25,7 @@ Loshts: Indeed, indeed. "Intensity" draws "intensity," and the "strongest" will 
 
 Loshts: Journey along training's rugged path, and you'll come across a mountainous region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest."
 
-## Talk 3
-
-Yoleehe: Can someone lend a hand!? Someone just fainted!
-
-Traveler (Paimon): #Oh no, looks like the master's passed out! Let's go help too, Traveler!
-
-Black Screen Text: It seems like the master only fainted from the heat and isn't seriously injured. With your help, Yoleehe carries the unconscious master away...
-Looks like the master's own ability to handle "intensity" still has some room for improvement...
-
-## Talk 4
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
-
-Traveler (Paimon): #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
-
 ## Talk 5
-
-???: Ki'o-ki'o, where are you...
-
-## Talk 7
-
-Yoleehe: Could it be... that everything written in "The Book of Five Springs" is true...?
-
-## Talk 8
-
-Paimon: Eh? A little Koholasaurus? Why is it here?
-
-???: Ki'o-ki'o...! So you were here after all... If you guys hadn't come out when you did, I-I'd have...
-
-???: What if you'd gotten hurt? Don't just run off like that again, okay? *sniff*...
-
-Paimon: H—Hey, cheer up! Look, your little saurian's fine, see? Super full of energy, too!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
-
-???: Ah, um... I'm okay now. Oh! I forgot to introduce myself. I'm Linaha, from the People of the Springs. I'm usually assigned to take care of the little Koholasaurs...
-
-Paimon: Alone? That's pretty impressive!
-
-???: N—Not really... If I were more like you, Ms. Paimon, they probably wouldn't have run off like that.
-
-???: I was thinking that they might've all gone to play near the vents, and it turns out I was right...
-
-Paimon: So the hot spring got cold because the little Koholasaurs had the phlogiston vents all blocked up, huh? No wonder the spring caretaker didn't notice anything!
-
-???: Actually... there are still two more Koholasaurs I haven't found yet. I think they're probably hiding in the phlogiston vents too...
-
-Paimon: Leave this to us! We'll find the other little Koholasaurs while we adjust the water temperature, don't you worry!
-
-???: Really? Thank you! It's great to have Ms. Paimon around.
-
-Paimon: Hehe, of course! You can always count on a legendary adventurer like the Great Paimon — this is a piece of cake!
-
-???: Wow! Ms. Paimon, you're amazing! I want to be just like you someday!
-
-Traveler: I agree. The Great Ms. Paimon is indeed amazing.
-
-Traveler: Alright then, I'll leave the next fight to you, oh Great Ms. Paimon...
-
-Paimon: (Hey, can you not put Paimon on the spot like that in front of everyone? How about this — Paimon'll let you have the best dish tonight, okay?)
-
-Paimon: Ahem! Anyway, let's get going!
-
-## Talk 9
-
-???: #Oh hey, Traveler, it's you...
-
-Traveler: Why do you look so down?
-
-Traveler: See you around.
-
-???: Actually... the hot spring water still feels colder than it used to. I really messed up this time. What am I gonna do when I go back...?
-
-Traveler: Don't worry, just give it a bit more time.
-
-???: Alright, got it...
-
-???: #Um... take care on your way, Traveler.
-
-## Talk 10
-
-Loshts: How goes your journey to find the "strongest," oh warrior from faraway lands?
-
-Traveler: Tell me where the "strongest" is located...
-
-Traveler: Still working on it...
-
-Loshts: If you head up the mountain, you'll come across a region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest"...
-
-Loshts: Ah yes, that would be lovely! Lovely!
-
-## Talk 13
 
 Ma'chah: So "cold"! This is so "cold"!
 
@@ -178,12 +87,107 @@ Yoleehe: Oh, thank you! I'll be counting on you, then!
 
 Paimon: You just stay here. We'll have this sorted out in no time!
 
+## Talk 9
+
+Paimon: Eh? A little Koholasaurus? Why is it here?
+
+???: Ki'o-ki'o...! So you were here after all... If you guys hadn't come out when you did, I-I'd have...
+
+???: What if you'd gotten hurt? Don't just run off like that again, okay? *sniff*...
+
+Paimon: H—Hey, cheer up! Look, your little saurian's fine, see? Super full of energy, too!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+
+???: Ah, um... I'm okay now. Oh! I forgot to introduce myself. I'm Linaha, from the People of the Springs. I'm usually assigned to take care of the little Koholasaurs...
+
+Paimon: Alone? That's pretty impressive!
+
+???: N—Not really... If I were more like you, Ms. Paimon, they probably wouldn't have run off like that.
+
+???: I was thinking that they might've all gone to play near the vents, and it turns out I was right...
+
+Paimon: So the hot spring got cold because the little Koholasaurs had the phlogiston vents all blocked up, huh? No wonder the spring caretaker didn't notice anything!
+
+???: Actually... there are still two more Koholasaurs I haven't found yet. I think they're probably hiding in the phlogiston vents too...
+
+Paimon: Leave this to us! We'll find the other little Koholasaurs while we adjust the water temperature, don't you worry!
+
+???: Really? Thank you! It's great to have Ms. Paimon around.
+
+Paimon: Hehe, of course! You can always count on a legendary adventurer like the Great Paimon — this is a piece of cake!
+
+???: Wow! Ms. Paimon, you're amazing! I want to be just like you someday!
+
+Traveler: I agree. The Great Ms. Paimon is indeed amazing.
+
+Traveler: Alright then, I'll leave the next fight to you, oh Great Ms. Paimon...
+
+Paimon: (Hey, can you not put Paimon on the spot like that in front of everyone? How about this — Paimon'll let you have the best dish tonight, okay?)
+
+Paimon: Ahem! Anyway, let's get going!
+
+## Talk 12
+
+???: Great! You're all back! I was starting to think I might've really messed things up today!
+
+Ma'chah: Huh? This is... so hot! The "intensity" is building up! Ahh! I did it! I really did it!
+
+Ma'chah: Haha! What incredible "intensity"! Such unbelievable "intensity"!
+
+Ma'chah: ...Aghhh!
+
+## Talk 13
+
+Yoleehe: Can someone lend a hand!? Someone just fainted!
+
+Traveler (Paimon): #Oh no, looks like the master's passed out! Let's go help too, Traveler!
+
+Black Screen Text: It seems like the master only fainted from the heat and isn't seriously injured. With your help, Yoleehe carries the unconscious master away...
+Looks like the master's own ability to handle "intensity" still has some room for improvement...
+
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
 
 
 ### Additional Talk 1
+
+???: Ki'o-ki'o, where are you...
+
+### Additional Talk 2
+
+Yoleehe: Could it be... that everything written in "The Book of Five Springs" is true...?
+
+### Additional Talk 3
+
+Loshts: How goes your journey to find the "strongest," oh warrior from faraway lands?
+
+Traveler: Tell me where the "strongest" is located...
+
+Traveler: Still working on it...
+
+Loshts: If you head up the mountain, you'll come across a region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest"...
+
+Loshts: Ah yes, that would be lovely! Lovely!
+
+### Additional Talk 4
+
+???: #Oh hey, Traveler, it's you...
+
+Traveler: Why do you look so down?
+
+Traveler: See you around.
+
+???: Actually... the hot spring water still feels colder than it used to. I really messed up this time. What am I gonna do when I go back...?
+
+Traveler: Don't worry, just give it a bit more time.
+
+???: Alright, got it...
+
+???: #Um... take care on your way, Traveler.
+
+### Additional Talk 5
 
 Paimon: Hmm... Well, we already agreed to help out, but where should we even start?
 
@@ -207,21 +211,17 @@ Paimon: *sigh* Isn't there a more realistic solution we can try?
 
 Paimon: #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
 
-### Additional Talk 2
+### Additional Talk 6
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+
+Traveler (Paimon): #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
+
+### Additional Talk 7
 
 Ma'chah: Haha! So "cold"! This is so "cold"! But just watch — I'm about to crank the "intensity" right up! You'll boil alright, mark my words!
 
-### Additional Talk 3
-
-???: Great! You're all back! I was starting to think I might've really messed things up today!
-
-Ma'chah: Huh? This is... so hot! The "intensity" is building up! Ahh! I did it! I really did it!
-
-Ma'chah: Haha! What incredible "intensity"! Such unbelievable "intensity"!
-
-Ma'chah: ...Aghhh!
-
-### Additional Talk 4
+### Additional Talk 8
 
 ???: #It's you, Traveler! Hehe, long time no see! How have you been?
 
@@ -239,7 +239,7 @@ Traveler: Enjoy yourself!
 
 ???: Take care, and have a safe journey!
 
-### Additional Talk 5
+### Additional Talk 9
 
 Loshts: Such incredible "intensity"... It's thrilling! Absolutely thrilling!
 

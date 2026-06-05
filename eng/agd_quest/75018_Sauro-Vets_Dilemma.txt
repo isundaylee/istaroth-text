@@ -11,10 +11,6 @@ Mazkal (???): Come on kiddo, come on now, quit fooling around. If you don't take
 
 Paimon: #Oh no, she's in danger! We've gotta help her, Traveler!
 
-## Talk 2
-
-Mazkal: I think Kururuk's almost recovered from his injuries... Maybe an increase in the intensity of his rehab exercises is in order.
-
 ## Talk 3
 
 Black Screen Text: "Shwrawr!"
@@ -114,7 +110,7 @@ Mazkal: Hehe, you're so reliable! Anyway, I'll head back to camp to make some pr
 
 Paimon: #Don't you worry, {REALNAME[ID(2)|SHOWHOST(true)]}'s got this!
 
-## Talk 4
+## Talk 8
 
 Paimon: #If he'll eat it, this one should help him recover better, right? You've got this now, {REALNAME[ID(2)|SHOWHOST(true)]}!
 
@@ -126,7 +122,7 @@ Paimon: #Looks pretty hopeful. Hehe, good work, {REALNAME[ID(2)|SHOWHOST(true)]}
 
 Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than before! Gah, we've gotta calm him down real quick...
 
-## Talk 6
+## Talk 9
 
 Traveler: Might as well.
 
@@ -138,31 +134,7 @@ Paimon: Chowed it right down! But...
 
 Paimon: Uh oh! He's even madder than before! Quick, we gotta calm him down!
 
-## Talk 7
-
-"Kururuk": Shrawr...
-
-Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
-
-Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
-
-Paimon: Which of the two should we go with?
-
-Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.
-
-## Talk 8
-
-Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
-
-Paimon: Sh—Should we try the other one, then?
-
-## Talk 10
+## Talk 9
 
 Traveler: Let's not go with either for now.
 
@@ -221,3 +193,32 @@ Mazkal: Missing text (4052817402)
 ## Talk 99
 
 "Kururuk": ...
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
+
+Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
+
+Paimon: Sh—Should we try the other one, then?
+
+### Additional Talk 2
+
+"Kururuk": Shrawr...
+
+Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
+
+Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
+
+Paimon: Which of the two should we go with?
+
+Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.

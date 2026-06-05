@@ -5,6 +5,46 @@
 
 ## Talk 1
 
+Alhaitham: To what extent we can implement the final plan depends on how successfully the Akasha can be modified and configured. And to make sure the configuration works, Aaru will also need some further optimization.
+
+Kaveh: Yeah, no surprises there.
+
+Alhaitham: Once we roll this out, any Sumeru citizens who already have Akasha Terminals can simply continue to use their existing devices.
+
+Alhaitham: This still leaves us with a significant equipment shortage, though. Many groups of people were never issued Akasha Terminals, including mercenaries, the desert folk, and many others.
+
+Kaveh: We'll need a supply of rare materials for the renovation of Aaru and the production of new terminals. Right now, the best place to source these locally is from the Primal Constructs within King Deshret's Mausoleum.
+
+Kaveh: ...Time is not on our side here. It's gonna be a race against the clock.
+
+Naphis: The Aaru merge and renovation project will have to be carried out by you two. Everything's riding on this, so failure is not an option... *sigh* Best of luck to you both.
+
+Naphis: As discussed, General Mahamatra Cyno and Mr. Hat Guy will source the required materials.
+
+Naphis: Mr. Sethos is quite familiar with the layout of King Deshret's Mausoleum. With him accompanying them, things should go quite smoothly.
+
+Alhaitham: I have every confidence. In the meantime, we may as well take a breather.
+
+Kaveh: Makes sense. There's not much we can do until the materials arrive.
+
+Cyno: Get in formation and stay close!
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: What is this, boot camp? Knock it off.
+
+Sethos: It's just Cyno being Cyno. You know what he's like.
+
+Cyno: Everyone clear on our mission objective? Locate the excess Primal Constructs, dismantle them, and extract the required materials.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: And King Deshret's Seven Pillars agreed to this?
+
+Cyno: If they're just sitting there doing nothing, we might as well put them to use. Thoth's words, not mine.
+
+## Talk 2
+
+Nahida: Feel free to mingle if you'd like some time to catch up with people. Just remember to get a good night's sleep when you're done — tomorrow is a very important day.
+
+## Talk 6
+
 Sethos: How many do we need again?
 
 Cyno: Enough to make an Akasha Terminal for everyone who doesn't own one.
@@ -19,33 +59,7 @@ Sethos: Neither Hat Guy nor I have ever had an Akasha Terminal.
 
 Cyno: Well, if it all goes to plan, that's about to change.
 
-## Talk 2
-
-Nahida: Feel free to mingle if you'd like some time to catch up with people. Just remember to get a good night's sleep when you're done — tomorrow is a very important day.
-
-## Talk 3
-
-Kaveh: *sigh*... It's really strange. You're my junior, yet you always seem to act more like an upperclassman than I do.
-
-Alhaitham: I think it's mostly a matter of temperament.
-
-Kaveh: Ugh... Walked right into that one, didn't I...
-
-## Talk 4
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Good night. I wish you all the best for tomorrow.
-
-Haypasia: Thank you, Sir. You too.
-
-## Talk 5
-
-Nicole: It was a gentle, pleasant sensation... Just as most people pursue glory and miracles, I too am pursuing miracles of my own.
-
-Nicole: Guiding humans to make the miracles in their hearts a reality... that is my miracle.
-
-Nicole: Hehe, it doesn't sound so bad, does it?
-
-## Talk 6
+## Talk 7
 
 Dori: Oh, goody! Thank you so much for handling the delivery! What a long way it was... You've really outdone yourselves!
 
@@ -109,113 +123,79 @@ Dori: Mm, thanks a lot! But don't go anywhere just yet — I'll still be needing
 
 Dori: Once everything's ready, I'll need you to lead a team to get it all shipped to King Deshret's Mausoleum.
 
-## Talk 7
+## Talk 8
 
-Alhaitham: Done.
+Kaveh: Okay, the materials are ready. We can proceed with the next phase.
 
-Kaveh: Phew, finally. It's over...
+Kaveh: Alhaitham, how are you getting along?
 
-Kaveh: But seriously, that was incredible! Standing on the chessboard felt completely different from standing on solid ground. And also...
+Alhaitham: ...Most of the information in Aaru is written in ancient desert scripts. Some of this is written in a tribal language, while other parts seem to be a variant of an oasis script, based on the glyph forms.
 
-Kaveh: ...Oh, sorry — I'll save my thoughts for later. Thanks to the three of you for helping us out with this. Is it just me, or were you giving us quite a lot of guidance along the way?
+Kaveh: Oh... Not lost to history, I hope?
 
-Heryshaf: We made but a humble contribution.
+Alhaitham: Some are. All we can do is infer the meaning based on the rules of related languages.
 
-Thoth: You lived up to our expectations. Bravo! Our aid was not given for naught.
+Alhaitham: Although... this section actually fills in some of the missing historical record. I'm transcribing it so we can bring it back to the Akademiya.
 
-Alhaitham: In addition to the existing functions, I'd like to ask you for another favor.
+Kaveh: After Aaru started up, two more lines of text appeared here. Can you read them?
 
-Alhaitham: Since Aaru's interference shield can cover the entirety of the mausoleum, it should be possible to extend its range even further. Perhaps you can find a way.
+Alhaitham: "Humans may not 'read' what is written by the gods, except by not reading."
 
-Kaveh: So, building upon the existing functions to... Ah, I'm with you!
+Alhaitham: "Victory should not be easy to attain, for it symbolizes divine wisdom. Knowledge must not waver, for it has external borders."
 
-Alhaitham: Imagine for a moment: What would the ideal outcome look like if this function were compatible with the devices?
+Kaveh: Is this a clue to solving a puzzle? Or is it being symbolic...
 
-Thoth: Me oh my. Well, since you ask so very nicely, I suppose... Goatie, Croco, what do you say?
+Kaveh: You can't read it unless you don't read it... Victory is wisdom, knowledge is confined by borders...
+
+Kaveh: Wait, I think I've got it. It's a metaphor, isn't it? It's talking about...
+
+Alhaitham: ...A chessboard.
+
+Heryshaf: You were right. The youth of today are skilled at solving riddles.
+
+Thoth: Ha, have the secrets buried in the desert not been unearthed over the years all the same? Since Aaru is a place reachable through wisdom, this day was bound to come sooner or later.
+
+Sobek: Ugh... I've always been against overly cryptic sentences. Don't you get tired of reading and writing all that?
+
+Kaveh: Ah, it's you three! Just in time. We've been delving deep into Aaru, and now this board has appeared.
+
+Alhaitham: I've heard this was how you'd while away your free hours. You must be quite the experts by now, in that case.
+
+Heryshaf: It is true. King Deshret's chess games are some of the most well-loved of all his wonderful creations. If you have ever been to Safhe Shatranj, you may well be familiar with the chess pieces you see here.
+
+Kaveh: Is this chessboard supposed to be another visualization of the interior of Aaru, then?
 
 Heryshaf: Naturally.
 
-Kaveh: I agree — this is the best solution possible. Please, everyone, we beg you to help us.
+Heryshaf: Visitors, everything is ready. Only by completing the challenge on the board in accordance with the rules will you be permitted to overwrite Aaru.
 
-## Talk 8
+Kaveh: One second... It's not... dangerous, is it?
 
-Kaveh: Ahhh! It's finally done... Ugh, but I have a nagging feeling that there's something I've forgotten...
+Thoth: Dangerous? Why yes, of course.
 
-Kaveh: Oh, there you are. Everything wrapped up on your end?
+Kaveh: I should be the one to go, then. Wait for me here.
 
-Alhaitham: ...
+Alhaitham: Sounds like the self-confidence of our present company has rubbed off on you.
 
-Kaveh: ...
+Kaveh: Don't be ridiculous! I'm your upperclassman, and that means I have to look out for you.
 
-Kaveh: Okay, fair enough — that was a pointless question. We were working in tandem, after all.
+Alhaitham: I appreciate the sentiment. But a game of chess typically requires two players.
 
-Alhaitham: You must really be exhausted.
+Alhaitham: Besides, I'm sure they won't let things get out of hand. Keeping things relatively safe is in your best interests too, isn't it?
 
-Kaveh: Well, it's been a busy day. For both of us.
+Kaveh: ...Fair enough. I mean, you guys are controlling the difficulty, so please don't go too hard on us, alright?
 
-Alhaitham: When work ends, you clock out. No looking back.
+Thoth: Ah, but Bennu said he wanted to "put some respect into these whippersnappers"... *sigh* Alright, alright.
 
-Kaveh: Yeah, we're definitely due a break. Probably a little late to start drinking now, though... I'll stick with water.
+Kaveh: Thank you! Obviously, we'll still try to be careful.
 
-Kaveh: Here, this one's for you.
+Kaveh: This doesn't seem like ordinary chess. Is the goal to defeat the opponent?
 
-Alhaitham: Thanks.
+Heryshaf: No, you must enter the board and pass the trials we have placed there.
 
-Kaveh: You want a bite to eat? I can grab us something. Or wait, I think there's a stove nearby — lemme take a look...
+Alhaitham: Ready?
 
-Alhaitham: Are you nervous?
-
-Kaveh: ...A little, yeah. Unlike you, it seems... How are you not feeling at all nervous?
-
-Alhaitham: Because everything that happens next is beyond my individual control. I don't worry about things I cannot influence.
-
-Kaveh: What do you mean, "cannot influence"? You're the one who came up with half of the strategies we ended up using.
-
-Alhaitham: There's only so much I can do. I was only doing my duty.
-
-Kaveh: Was it like this last time, too?
-
-Alhaitham: You mean, with Azar and his accomplices? ...Yes and no. The situation back then was easier to control, but we weren't as prepared as we are this time.
-
-Kaveh: So the enemy is stronger, but so are we.
-
-Kaveh: Hmph, I still vividly remember the way you interrogated me in the library after the fact... "Where were you when Sumeru needed you most?"
-
-Alhaitham: If your memory is so vivid, you might also recall that it was you who came looking for an argument. You're often the one who initiates these things, you know.
-
-Kaveh: I came for a conversation! I didn't know it was gonna turn into an argument... Anyway, at least I showed up this time. So, what do you think?
-
-Alhaitham: What do I think? I think we're certainly better off for it.
-
-Kaveh: It's good having me around to help out, huh?
-
-Alhaitham: Absolutely. As a citizen of Sumeru, you displayed a remarkable sense of responsibility in the face of disaster.
-
-Kaveh: Certainly feels that way. I just shudder to think how the world would've ended up if we hadn't gotten control of the situation.
-
-Kaveh: So, uh... Do you think this is what impending disaster looks like?
-
-Kaveh: The sky is so clear, and there isn't a whiff of decay or destruction in the air... It's hard to imagine that the fall of humanity could happen on an ordinary day like this.
-
-Alhaitham: Awful things happen all the time. Sometimes, people can stop them, and sometimes they can't.
-
-Alhaitham: What you and I have done is increase our chances of stopping this one.
-
-Kaveh: ..."Lofty ideals may provide no defense at all against nihilism, but perhaps little decisions can"...
-
-Alhaitham: Hmm?
-
-Kaveh: Oh, uh, nothing. It's nothing.
-
-Kaveh: I hope everything works out tomorrow.
-
-Alhaitham: It will. As long as we stick to the plan, our chances of success are good.
-
-Kaveh: *sigh*... It's really strange. You're my junior, yet you always seem to act more like an upperclassman than I do.
-
-Alhaitham: I think it's mostly a matter of temperament.
-
-Kaveh: Ugh... Walked right into that one, didn't I...
+Kaveh: Let's do it.
 
 ## Talk 9
 
@@ -295,43 +275,31 @@ Traveler: The Mausoleum of King Deshret, Entrance
 
 ## Talk 16
 
-Haypasia: Look at the time... I should head back— Ah!
+Alhaitham: Done.
 
-Haypasia: Oh... I—I'm so sorry, I was in a hurry and didn't look where I was going... Are you alright?
+Kaveh: Phew, finally. It's over...
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm fine.
+Kaveh: But seriously, that was incredible! Standing on the chessboard felt completely different from standing on solid ground. And also...
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Wait, you're...
+Kaveh: ...Oh, sorry — I'll save my thoughts for later. Thanks to the three of you for helping us out with this. Is it just me, or were you giving us quite a lot of guidance along the way?
 
-Haypasia: ...Have we met?
+Heryshaf: We made but a humble contribution.
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Not exactly. I think we may have crossed paths by the House of Daena before.
+Thoth: You lived up to our expectations. Bravo! Our aid was not given for naught.
 
-Haypasia: Oh... Ah! You're Hat Guy! From Vahumana, right?
+Alhaitham: In addition to the existing functions, I'd like to ask you for another favor.
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You recognize me?
+Alhaitham: Since Aaru's interference shield can cover the entirety of the mausoleum, it should be possible to extend its range even further. Perhaps you can find a way.
 
-Haypasia: The clue's in the name, Mr. Hat Guy.
+Kaveh: So, building upon the existing functions to... Ah, I'm with you!
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Fair point...
+Alhaitham: Imagine for a moment: What would the ideal outcome look like if this function were compatible with the devices?
 
-Haypasia: Hehe, it's getting pretty late. What's keeping you up?
+Thoth: Me oh my. Well, since you ask so very nicely, I suppose... Goatie, Croco, what do you say?
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I could ask you the same question. If I'm not mistaken, all the workload for the Rtawahist Darshan wrapped up a good while ago.
+Heryshaf: Naturally.
 
-Haypasia: Well, I have something of a background in Satyavada Life, so I was helping the Dendro Archon make some preparations... But I must have lost track of time.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Did you find the experience enlightening at all?
-
-Haypasia: Honestly, it was tedious and uneventful at first. But eventually, I think I did sense some profound truths... but they also brought a lot of suffering with them.
-
-Haypasia: I was told that I even shed tears while I was meditating, though I have no idea why... Sorry, I hope I'm not scaring you.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Not at all. It just proves you're very accomplished in your research.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Good night. I wish you all the best for tomorrow.
-
-Haypasia: Thank you, Sir. You too.
+Kaveh: I agree — this is the best solution possible. Please, everyone, we beg you to help us.
 
 ## Talk 17
 
@@ -342,124 +310,6 @@ Paimon: Time to go! Let's go find Nahida!
 Cyno: These devices should still be usable even though they're broken down. Let's take them back for the others to review.
 
 ## Talk 19
-
-Kaveh: Okay, the materials are ready. We can proceed with the next phase.
-
-Kaveh: Alhaitham, how are you getting along?
-
-Alhaitham: ...Most of the information in Aaru is written in ancient desert scripts. Some of this is written in a tribal language, while other parts seem to be a variant of an oasis script, based on the glyph forms.
-
-Kaveh: Oh... Not lost to history, I hope?
-
-Alhaitham: Some are. All we can do is infer the meaning based on the rules of related languages.
-
-Alhaitham: Although... this section actually fills in some of the missing historical record. I'm transcribing it so we can bring it back to the Akademiya.
-
-Kaveh: After Aaru started up, two more lines of text appeared here. Can you read them?
-
-Alhaitham: "Humans may not 'read' what is written by the gods, except by not reading."
-
-Alhaitham: "Victory should not be easy to attain, for it symbolizes divine wisdom. Knowledge must not waver, for it has external borders."
-
-Kaveh: Is this a clue to solving a puzzle? Or is it being symbolic...
-
-Kaveh: You can't read it unless you don't read it... Victory is wisdom, knowledge is confined by borders...
-
-Kaveh: Wait, I think I've got it. It's a metaphor, isn't it? It's talking about...
-
-Alhaitham: ...A chessboard.
-
-Heryshaf: You were right. The youth of today are skilled at solving riddles.
-
-Thoth: Ha, have the secrets buried in the desert not been unearthed over the years all the same? Since Aaru is a place reachable through wisdom, this day was bound to come sooner or later.
-
-Sobek: Ugh... I've always been against overly cryptic sentences. Don't you get tired of reading and writing all that?
-
-Kaveh: Ah, it's you three! Just in time. We've been delving deep into Aaru, and now this board has appeared.
-
-Alhaitham: I've heard this was how you'd while away your free hours. You must be quite the experts by now, in that case.
-
-Heryshaf: It is true. King Deshret's chess games are some of the most well-loved of all his wonderful creations. If you have ever been to Safhe Shatranj, you may well be familiar with the chess pieces you see here.
-
-Kaveh: Is this chessboard supposed to be another visualization of the interior of Aaru, then?
-
-Heryshaf: Naturally.
-
-Heryshaf: Visitors, everything is ready. Only by completing the challenge on the board in accordance with the rules will you be permitted to overwrite Aaru.
-
-Kaveh: One second... It's not... dangerous, is it?
-
-Thoth: Dangerous? Why yes, of course.
-
-Kaveh: I should be the one to go, then. Wait for me here.
-
-Alhaitham: Sounds like the self-confidence of our present company has rubbed off on you.
-
-Kaveh: Don't be ridiculous! I'm your upperclassman, and that means I have to look out for you.
-
-Alhaitham: I appreciate the sentiment. But a game of chess typically requires two players.
-
-Alhaitham: Besides, I'm sure they won't let things get out of hand. Keeping things relatively safe is in your best interests too, isn't it?
-
-Kaveh: ...Fair enough. I mean, you guys are controlling the difficulty, so please don't go too hard on us, alright?
-
-Thoth: Ah, but Bennu said he wanted to "put some respect into these whippersnappers"... *sigh* Alright, alright.
-
-Kaveh: Thank you! Obviously, we'll still try to be careful.
-
-Kaveh: This doesn't seem like ordinary chess. Is the goal to defeat the opponent?
-
-Heryshaf: No, you must enter the board and pass the trials we have placed there.
-
-Alhaitham: Ready?
-
-Kaveh: Let's do it.
-
-## Talk 20
-
-Traveler: The Mausoleum of King Deshret, Upper Level
-
-## Talk 21
-
-Traveler: Rest For the Night
-
-## Talk 22
-
-Alhaitham: To what extent we can implement the final plan depends on how successfully the Akasha can be modified and configured. And to make sure the configuration works, Aaru will also need some further optimization.
-
-Kaveh: Yeah, no surprises there.
-
-Alhaitham: Once we roll this out, any Sumeru citizens who already have Akasha Terminals can simply continue to use their existing devices.
-
-Alhaitham: This still leaves us with a significant equipment shortage, though. Many groups of people were never issued Akasha Terminals, including mercenaries, the desert folk, and many others.
-
-Kaveh: We'll need a supply of rare materials for the renovation of Aaru and the production of new terminals. Right now, the best place to source these locally is from the Primal Constructs within King Deshret's Mausoleum.
-
-Kaveh: ...Time is not on our side here. It's gonna be a race against the clock.
-
-Naphis: The Aaru merge and renovation project will have to be carried out by you two. Everything's riding on this, so failure is not an option... *sigh* Best of luck to you both.
-
-Naphis: As discussed, General Mahamatra Cyno and Mr. Hat Guy will source the required materials.
-
-Naphis: Mr. Sethos is quite familiar with the layout of King Deshret's Mausoleum. With him accompanying them, things should go quite smoothly.
-
-Alhaitham: I have every confidence. In the meantime, we may as well take a breather.
-
-Kaveh: Makes sense. There's not much we can do until the materials arrive.
-
-Cyno: Get in formation and stay close!
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What is this, boot camp? Knock it off.
-
-Sethos: It's just Cyno being Cyno. You know what he's like.
-
-Cyno: Everyone clear on our mission objective? Locate the excess Primal Constructs, dismantle them, and extract the required materials.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: And King Deshret's Seven Pillars agreed to this?
-
-Cyno: If they're just sitting there doing nothing, we might as well put them to use. Thoth's words, not mine.
-
-## Talk 23
 
 Nahida: #Traveler, Paimon... how are you feeling?
 
@@ -493,15 +343,11 @@ Nahida: It shows that you feel comfortable laying down your burdens in our prese
 
 Nahida: And we feel exactly the same way around you. That's what it means to be friends.
 
-## Talk 24
+## Talk 21
 
-Faruzan: Drink up, and enjoy my handiwork. I think I'm going to make something else now instead.
+Traveler: Rest For the Night
 
-Collei: Please, try to relax, Madam Faruzan! Your nerves are starting to get the better of you...
-
-Faruzan: I know, I know... Ugh.
-
-## Talk 25
+## Talk 22
 
 Cyno: We'll make our move after sunrise tomorrow.
 
@@ -595,17 +441,7 @@ Collei: Please, try to relax, Madam Faruzan! Your nerves are starting to get the
 
 Faruzan: I know, I know... Ugh.
 
-## Talk 26
-
-Dehya: What are you praying for?
-
-Candace: Our beliefs may not be entirely the same, but we both wish for the same thing.
-
-Dunyarzad: (I pray that everyone will rise to the challenges ahead and return safe and sound.)
-
-Candace: (I pray for the safe return of all my companions.)
-
-## Talk 30
+## Talk 23
 
 Dehya: Too bad we've got a fight tomorrow. I could really do with a stiff drink.
 
@@ -700,3 +536,172 @@ Candace: Our beliefs may not be entirely the same, but we both wish for the same
 Dunyarzad: (I pray that everyone will rise to the challenges ahead and return safe and sound.)
 
 Candace: (I pray for the safe return of all my companions.)
+
+## Talk 24
+
+Kaveh: Ahhh! It's finally done... Ugh, but I have a nagging feeling that there's something I've forgotten...
+
+Kaveh: Oh, there you are. Everything wrapped up on your end?
+
+Alhaitham: ...
+
+Kaveh: ...
+
+Kaveh: Okay, fair enough — that was a pointless question. We were working in tandem, after all.
+
+Alhaitham: You must really be exhausted.
+
+Kaveh: Well, it's been a busy day. For both of us.
+
+Alhaitham: When work ends, you clock out. No looking back.
+
+Kaveh: Yeah, we're definitely due a break. Probably a little late to start drinking now, though... I'll stick with water.
+
+Kaveh: Here, this one's for you.
+
+Alhaitham: Thanks.
+
+Kaveh: You want a bite to eat? I can grab us something. Or wait, I think there's a stove nearby — lemme take a look...
+
+Alhaitham: Are you nervous?
+
+Kaveh: ...A little, yeah. Unlike you, it seems... How are you not feeling at all nervous?
+
+Alhaitham: Because everything that happens next is beyond my individual control. I don't worry about things I cannot influence.
+
+Kaveh: What do you mean, "cannot influence"? You're the one who came up with half of the strategies we ended up using.
+
+Alhaitham: There's only so much I can do. I was only doing my duty.
+
+Kaveh: Was it like this last time, too?
+
+Alhaitham: You mean, with Azar and his accomplices? ...Yes and no. The situation back then was easier to control, but we weren't as prepared as we are this time.
+
+Kaveh: So the enemy is stronger, but so are we.
+
+Kaveh: Hmph, I still vividly remember the way you interrogated me in the library after the fact... "Where were you when Sumeru needed you most?"
+
+Alhaitham: If your memory is so vivid, you might also recall that it was you who came looking for an argument. You're often the one who initiates these things, you know.
+
+Kaveh: I came for a conversation! I didn't know it was gonna turn into an argument... Anyway, at least I showed up this time. So, what do you think?
+
+Alhaitham: What do I think? I think we're certainly better off for it.
+
+Kaveh: It's good having me around to help out, huh?
+
+Alhaitham: Absolutely. As a citizen of Sumeru, you displayed a remarkable sense of responsibility in the face of disaster.
+
+Kaveh: Certainly feels that way. I just shudder to think how the world would've ended up if we hadn't gotten control of the situation.
+
+Kaveh: So, uh... Do you think this is what impending disaster looks like?
+
+Kaveh: The sky is so clear, and there isn't a whiff of decay or destruction in the air... It's hard to imagine that the fall of humanity could happen on an ordinary day like this.
+
+Alhaitham: Awful things happen all the time. Sometimes, people can stop them, and sometimes they can't.
+
+Alhaitham: What you and I have done is increase our chances of stopping this one.
+
+Kaveh: ..."Lofty ideals may provide no defense at all against nihilism, but perhaps little decisions can"...
+
+Alhaitham: Hmm?
+
+Kaveh: Oh, uh, nothing. It's nothing.
+
+Kaveh: I hope everything works out tomorrow.
+
+Alhaitham: It will. As long as we stick to the plan, our chances of success are good.
+
+Kaveh: *sigh*... It's really strange. You're my junior, yet you always seem to act more like an upperclassman than I do.
+
+Alhaitham: I think it's mostly a matter of temperament.
+
+Kaveh: Ugh... Walked right into that one, didn't I...
+
+## Talk 26
+
+Haypasia: Look at the time... I should head back— Ah!
+
+Haypasia: Oh... I—I'm so sorry, I was in a hurry and didn't look where I was going... Are you alright?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm fine.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Wait, you're...
+
+Haypasia: ...Have we met?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Not exactly. I think we may have crossed paths by the House of Daena before.
+
+Haypasia: Oh... Ah! You're Hat Guy! From Vahumana, right?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You recognize me?
+
+Haypasia: The clue's in the name, Mr. Hat Guy.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Fair point...
+
+Haypasia: Hehe, it's getting pretty late. What's keeping you up?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I could ask you the same question. If I'm not mistaken, all the workload for the Rtawahist Darshan wrapped up a good while ago.
+
+Haypasia: Well, I have something of a background in Satyavada Life, so I was helping the Dendro Archon make some preparations... But I must have lost track of time.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Did you find the experience enlightening at all?
+
+Haypasia: Honestly, it was tedious and uneventful at first. But eventually, I think I did sense some profound truths... but they also brought a lot of suffering with them.
+
+Haypasia: I was told that I even shed tears while I was meditating, though I have no idea why... Sorry, I hope I'm not scaring you.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Not at all. It just proves you're very accomplished in your research.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Good night. I wish you all the best for tomorrow.
+
+Haypasia: Thank you, Sir. You too.
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
+
+Faruzan: Drink up, and enjoy my handiwork. I think I'm going to make something else now instead.
+
+Collei: Please, try to relax, Madam Faruzan! Your nerves are starting to get the better of you...
+
+Faruzan: I know, I know... Ugh.
+
+### Additional Talk 2
+
+Dehya: What are you praying for?
+
+Candace: Our beliefs may not be entirely the same, but we both wish for the same thing.
+
+Dunyarzad: (I pray that everyone will rise to the challenges ahead and return safe and sound.)
+
+Candace: (I pray for the safe return of all my companions.)
+
+### Additional Talk 3
+
+Kaveh: *sigh*... It's really strange. You're my junior, yet you always seem to act more like an upperclassman than I do.
+
+Alhaitham: I think it's mostly a matter of temperament.
+
+Kaveh: Ugh... Walked right into that one, didn't I...
+
+### Additional Talk 4
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Good night. I wish you all the best for tomorrow.
+
+Haypasia: Thank you, Sir. You too.
+
+### Additional Talk 5
+
+Nicole: It was a gentle, pleasant sensation... Just as most people pursue glory and miracles, I too am pursuing miracles of my own.
+
+Nicole: Guiding humans to make the miracles in their hearts a reality... that is my miracle.
+
+Nicole: Hehe, it doesn't sound so bad, does it?
+
+### Additional Talk 6
+
+Traveler: The Mausoleum of King Deshret, Upper Level

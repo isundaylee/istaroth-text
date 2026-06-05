@@ -49,7 +49,97 @@ Traveler: Rawr!
 
 Manqu: Haha, that's the spirit. Now, please try opening the barrier blocking the entrance.
 
-## Talk 4
+## Talk 8
+
+Paimon: A path through the lava has appeared... Looks like the trial is almost over.
+
+Paimon: That guy from the Saurian Relics Association and the chubby chap from the Children of Echoes kept talking up how dangerous it was, but it looks like there really was nothing to it!
+
+Traveler: In that case, lead the way, Paimon!
+
+Paimon: Whoa! You can't even see the bottom... But we're good friends, so of course we'll go together!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
+
+Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, look! Hehe, we're nearly done!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
+
+Traveler: Did you see some strange things, too?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+
+Traveler: Don't be afraid...
+
+Traveler: Paimon and I are here.
+
+Paimon: #Yeah... Though Paimon isn't sure what happened, Traveler's right. No matter what, you've got us!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Paimon: Ooh, looks like he's finally perking up! Okay, looks like we can continue downward... This place does feel kinda dangerous...
+
+Unknown Role (TALK_ROLE_NPC): Chosen of Dragons... Proceed... Eliminate the enemy from the realm beyond...
+
+Unknown Role (TALK_ROLE_NPC): Then you will be granted entry into the final paradise.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
+
+Traveler: Seems there's danger below after all.
+
+Paimon: Did the golden designs tell you that too?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Paimon: #Okay, then let's rest a bit, Traveler! We'll keep going once you're ready.
+
+## Talk 9
+
+Paimon: Wow... Looks like the real entrance to the ruins is over there! And just like the entrance to the first tunnel, there's a strange barrier.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
+
+Paimon: #Yes, just like at the entrance. Traveler must stand *below the yellow device* on the left, while {REALNAME[ID(2)|SHOWHOST(true)]} stands *below the green device* to the right...
+
+Paimon: Though, it's pretty high up this time...
+
+Traveler: And the route is different too...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo...
+
+Paimon: #Don't worry, {REALNAME[ID(2)|SHOWHOST(true)]}! We'll only be separated for a little bit, but we'll still be in sight!
+
+Paimon: If you're scared, just raise your claws towards us and roar as loud as you can!
+
+Paimon: We'll wave back, so don't be scared, okay?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Raah, raah... Rawr!
+
+Traveler: Rawr!
+
+Paimon: #Don't talk like {REALNAME[ID(2)|SHOWHOST(true)]}! What if you actually manage to "rawr" something in its language, and {REALNAME[ID(2)|SHOWHOST(true)]} misunderstands?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr, rawr!
+
+Paimon: Well, don't you look happy all of a sudden.
+
+Paimon: Paimon just doesn't get you. When are you happy, and when are you scared?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Roo?
+
+Paimon: You sure seem to be in good spirits! Alright then, let's try opening up that gate.
+
+Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}, try going over there.
+
+Paimon: And once it's open, we'll meet in front of the door!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+## Talk 12
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
@@ -93,7 +183,11 @@ Traveler: Okay, let's move out!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 5
+## Talk 13
+
+Paimon: Missing text (2941087050)
+
+## Talk 14
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wraah... Waah!
 
@@ -183,228 +277,7 @@ Paimon: Hey, don't say things he can't understand!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 8
-
-Paimon: A path through the lava has appeared... Looks like the trial is almost over.
-
-Paimon: That guy from the Saurian Relics Association and the chubby chap from the Children of Echoes kept talking up how dangerous it was, but it looks like there really was nothing to it!
-
-Traveler: In that case, lead the way, Paimon!
-
-Paimon: Whoa! You can't even see the bottom... But we're good friends, so of course we'll go together!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
-
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, look! Hehe, we're nearly done!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
-
-Traveler: Did you see some strange things, too?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-
-Traveler: Don't be afraid...
-
-Traveler: Paimon and I are here.
-
-Paimon: #Yeah... Though Paimon isn't sure what happened, Traveler's right. No matter what, you've got us!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: Ooh, looks like he's finally perking up! Okay, looks like we can continue downward... This place does feel kinda dangerous...
-
-Unknown Role (TALK_ROLE_NPC): Chosen of Dragons... Proceed... Eliminate the enemy from the realm beyond...
-
-Unknown Role (TALK_ROLE_NPC): Then you will be granted entry into the final paradise.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
-
-Traveler: Seems there's danger below after all.
-
-Paimon: Did the golden designs tell you that too?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: #Okay, then let's rest a bit, Traveler! We'll keep going once you're ready.
-
-## Talk 10
-
-Paimon: Wow, Paimon never imagined there'd be something like this under the lava. So we're really deep underground now, aren't we?
-
-Paimon: So that Sage with the totally impossible name... Hid the token here?
-
-Traveler: No...
-
-Unknown Role (TALK_ROLE_NPC): In this place, I made a pledge with Xbalanque...
-
-Unknown Role (TALK_ROLE_NPC): Now, let go and let the future of humans and Saurians be as it may. Only the enemy cloaked in shadow shall not be forgiven.
-
-Unknown Role (TALK_ROLE_NPC): Chosen of Dragons, prove yourself by facing the mighty foe, that you may ascend the sacred mountain from this place.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: Whoa, what's going on? That sudden chill...
-
-Paimon: S—Something's coming out!
-
-## Talk 13
-
-Paimon: Missing text (2941087050)
-
-## Talk 15
-
-Paimon: Whoa, it looks like this stone tablet lit up!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Traveler: (Touch the stone tablet...)
-
-Black Screen Text: As the golden lines light up, shining brilliantly, a fragmented scene surfaces in your mind:
-
-Black Screen Text: The eyes of the great dragon, split in two by the sword of the children of man.
-A seal split asunder, engraved upon the white discs, is mistakenly classified as a hole.
-
-Black Screen Text: One was given to the silver dragon's white claws, one to the resurrected corpse.
-One was buried beneath the great monument, and one was swallowed into the belly of the headstrong one.
-
-Black Screen Text: A white disc appears beneath your feet, the other obscured in shadow. The great wings shadowing it are raised, and you finally see its drawn, upright pupils.
-
-Black Screen Text: You hear a voice. It says:
-"Glory, glory, the Eternal Empire, Ochkanatlan"
-You see the person standing before the empty throne, picking up that disc, turning around, and looking at you...
-
-Black Screen Text: #"Wake up, Traveler, please wake up..."
-
-Paimon: Ah! You finally responded! When you touched that stone tablet, you just froze up and wouldn't react to anything...
-
-Paimon: But look over there！ A round plate with golden etchings on it appeared on the ground! That should be the token we're looking for.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Traveler: A golden seal... Engraved on a white disc...
-
-Paimon: Eh? What're you saying?
-
-Traveler: It's nothing...
-
-Traveler: I'm just a bit distracted...
-
-Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
-
-Paimon: This token looks kinda like a big, round plate... Hmm, so in the mural, both the human and the dragon each had discs like this...
-
-Paimon: Anyway, we got a token! Let's take it back and show it to Manqu!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-## Talk 17
-
-Paimon: Whoa, it looks like this stone tablet lit up!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Traveler: (Touch the stone tablet...)
-
-Black Screen Text: As the golden lines light up, shining brilliantly, a fragmented scene surfaces in your mind:
-
-Black Screen Text: The eyes of the great dragon, split in two by the sword of the children of man.
-A seal split asunder, engraved upon the white disc, is mistakenly classified as a hole.
-
-Black Screen Text: One was given to the silver dragon's white claws, one to the resurrected corpse.
-One was buried beneath the great monument, and one was swallowed into the belly of the headstrong one.
-
-Black Screen Text: The two white discs appear beneath your feet.
-You pick them up, and the golden seal combines into one, as they merge into one.
-
-Black Screen Text: Soon, you see your face reflected in massive dark pupils.
-
-Black Screen Text: #"Wake up, Traveler, please wake up..."
-
-Paimon: Ah! You finally responded! When you touched that stone tablet, you just froze up and wouldn't react to anything...
-
-Paimon: But look! The token we're looking for is on the ground, just like the one we found before.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Traveler: A golden seal... Engraved on a white disc...
-
-Paimon: Eh? What're you saying?
-
-Traveler: It's nothing...
-
-Traveler: I'm just a bit distracted...
-
-Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
-
-Paimon: #Okay, that's both tokens... Now {REALNAME[ID(2)|SHOWHOST(true)]} should have the right to get cured at the volcano, right?
-
-Paimon: Okay! Let's bring the tokens and go find Manqu!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-## Talk 18
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} looked like he got way stronger... Hmm... Just like at the end of our adventure in Ochkanatlan...
-
-Traveler: Definitely looks stronger.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Raooo...
-
-Traveler: Are you alright?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: He was absolutely killing it during that fight...
-
-Traveler: Yes, most impressive.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rrrooo...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
-
-Paimon: #Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
-
-Paimon: Though, Manqu did say that it's better not to use power like that too much anyway.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-
-Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
-
-## Talk 101
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-
-Paimon: #Whoa, it looks like {REALNAME[ID(2)|SHOWHOST(true)]} just got stronger! Did something awaken, maybe? Like the power of the Flamelord or something...?
-
-Traveler: Definitely looks stronger.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Raooo...
-
-Traveler: Are you alright?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: He was totally rocking during that fight, and was a really big help...
-
-Traveler: Yes, most impressive.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rrrooo...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Errr?
-
-Paimon: #Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
-
-Paimon: Though, Manqu did say that it's better not to use power like that too much anyway.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-
-Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
-
-## Talk 102
+## Talk 19
 
 Paimon: Hey, there's another mural here! Now, what's it show...
 
@@ -454,46 +327,173 @@ Paimon: #Ah! That's {REALNAME[ID(2)|SHOWHOST(true)]}'s voice! Sounds like it's c
 
 Paimon: Hurry up, we need to go look!
 
-## Talk 104
+## Talk 24
 
-Paimon: Wow... Looks like the real entrance to the ruins is over there! And just like the entrance to the first tunnel, there's a strange barrier.
+Paimon: Wow, Paimon never imagined there'd be something like this under the lava. So we're really deep underground now, aren't we?
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
+Paimon: So that Sage with the totally impossible name... Hid the token here?
 
-Paimon: #Yes, just like at the entrance. Traveler must stand *below the yellow device* on the left, while {REALNAME[ID(2)|SHOWHOST(true)]} stands *below the green device* to the right...
+Traveler: No...
 
-Paimon: Though, it's pretty high up this time...
+Unknown Role (TALK_ROLE_NPC): In this place, I made a pledge with Xbalanque...
 
-Traveler: And the route is different too...
+Unknown Role (TALK_ROLE_NPC): Now, let go and let the future of humans and Saurians be as it may. Only the enemy cloaked in shadow shall not be forgiven.
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo...
+Unknown Role (TALK_ROLE_NPC): Chosen of Dragons, prove yourself by facing the mighty foe, that you may ascend the sacred mountain from this place.
 
-Paimon: #Don't worry, {REALNAME[ID(2)|SHOWHOST(true)]}! We'll only be separated for a little bit, but we'll still be in sight!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-Paimon: If you're scared, just raise your claws towards us and roar as loud as you can!
+Paimon: Whoa, what's going on? That sudden chill...
 
-Paimon: We'll wave back, so don't be scared, okay?
+Paimon: S—Something's coming out!
+
+## Talk 30
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Raah, raah... Rawr!
+Paimon: #Whoa, it looks like {REALNAME[ID(2)|SHOWHOST(true)]} just got stronger! Did something awaken, maybe? Like the power of the Flamelord or something...?
 
-Traveler: Rawr!
+Traveler: Definitely looks stronger.
 
-Paimon: #Don't talk like {REALNAME[ID(2)|SHOWHOST(true)]}! What if you actually manage to "rawr" something in its language, and {REALNAME[ID(2)|SHOWHOST(true)]} misunderstands?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Raooo...
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr, rawr!
+Traveler: Are you alright?
 
-Paimon: Well, don't you look happy all of a sudden.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-Paimon: Paimon just doesn't get you. When are you happy, and when are you scared?
+Paimon: He was totally rocking during that fight, and was a really big help...
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roo?
+Traveler: Yes, most impressive.
 
-Paimon: You sure seem to be in good spirits! Alright then, let's try opening up that gate.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rrrooo...
 
-Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}, try going over there.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Errr?
 
-Paimon: And once it's open, we'll meet in front of the door!
+Paimon: #Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
+
+Paimon: Though, Manqu did say that it's better not to use power like that too much anyway.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+
+Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
+
+## Talk 30
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+
+Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} looked like he got way stronger... Hmm... Just like at the end of our adventure in Ochkanatlan...
+
+Traveler: Definitely looks stronger.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Raooo...
+
+Traveler: Are you alright?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Paimon: He was absolutely killing it during that fight...
+
+Traveler: Yes, most impressive.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rrrooo...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr?
+
+Paimon: #Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
+
+Paimon: Though, Manqu did say that it's better not to use power like that too much anyway.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+
+Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
+
+## Talk 36
+
+Paimon: Whoa, it looks like this stone tablet lit up!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Traveler: (Touch the stone tablet...)
+
+Black Screen Text: As the golden lines light up, shining brilliantly, a fragmented scene surfaces in your mind:
+
+Black Screen Text: The eyes of the great dragon, split in two by the sword of the children of man.
+A seal split asunder, engraved upon the white discs, is mistakenly classified as a hole.
+
+Black Screen Text: One was given to the silver dragon's white claws, one to the resurrected corpse.
+One was buried beneath the great monument, and one was swallowed into the belly of the headstrong one.
+
+Black Screen Text: A white disc appears beneath your feet, the other obscured in shadow. The great wings shadowing it are raised, and you finally see its drawn, upright pupils.
+
+Black Screen Text: You hear a voice. It says:
+"Glory, glory, the Eternal Empire, Ochkanatlan"
+You see the person standing before the empty throne, picking up that disc, turning around, and looking at you...
+
+Black Screen Text: #"Wake up, Traveler, please wake up..."
+
+Paimon: Ah! You finally responded! When you touched that stone tablet, you just froze up and wouldn't react to anything...
+
+Paimon: But look over there！ A round plate with golden etchings on it appeared on the ground! That should be the token we're looking for.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Traveler: A golden seal... Engraved on a white disc...
+
+Paimon: Eh? What're you saying?
+
+Traveler: It's nothing...
+
+Traveler: I'm just a bit distracted...
+
+Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
+
+Paimon: This token looks kinda like a big, round plate... Hmm, so in the mural, both the human and the dragon each had discs like this...
+
+Paimon: Anyway, we got a token! Let's take it back and show it to Manqu!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+## Talk 36
+
+Paimon: Whoa, it looks like this stone tablet lit up!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Traveler: (Touch the stone tablet...)
+
+Black Screen Text: As the golden lines light up, shining brilliantly, a fragmented scene surfaces in your mind:
+
+Black Screen Text: The eyes of the great dragon, split in two by the sword of the children of man.
+A seal split asunder, engraved upon the white disc, is mistakenly classified as a hole.
+
+Black Screen Text: One was given to the silver dragon's white claws, one to the resurrected corpse.
+One was buried beneath the great monument, and one was swallowed into the belly of the headstrong one.
+
+Black Screen Text: The two white discs appear beneath your feet.
+You pick them up, and the golden seal combines into one, as they merge into one.
+
+Black Screen Text: Soon, you see your face reflected in massive dark pupils.
+
+Black Screen Text: #"Wake up, Traveler, please wake up..."
+
+Paimon: Ah! You finally responded! When you touched that stone tablet, you just froze up and wouldn't react to anything...
+
+Paimon: But look! The token we're looking for is on the ground, just like the one we found before.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Traveler: A golden seal... Engraved on a white disc...
+
+Paimon: Eh? What're you saying?
+
+Traveler: It's nothing...
+
+Traveler: I'm just a bit distracted...
+
+Paimon: Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
+
+Paimon: #Okay, that's both tokens... Now {REALNAME[ID(2)|SHOWHOST(true)]} should have the right to get cured at the volcano, right?
+
+Paimon: Okay! Let's bring the tokens and go find Manqu!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

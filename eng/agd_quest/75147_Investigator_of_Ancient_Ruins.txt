@@ -109,7 +109,7 @@ Paimon: Hehe, don't worry about us — we've got this!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 3
+## Talk 4
 
 Paimon: Nice! Looks like we've beaten all the monsters within these Tephric Ruins!
 
@@ -123,7 +123,7 @@ Paimon: The "Tephric Ruins," huh... Kinda hard to imagine a ruin erupting from a
 
 Paimon: Wait a minute... Doesn't that mean there could still be more ruins inside?
 
-## Talk 5
+## Talk 4
 
 Nzaya: We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time...
 
@@ -217,33 +217,79 @@ Paimon: Hehe, don't worry about us — we've got this!
 
 ## Talk 7
 
-Paimon: Ah! The volcano erupted again. Seriously, every time that happens, Paimon's heart jumps out her chest!
+Nzaya: Are things alright...?
 
-Kimosi: Haha, for those of us in the Collective of Plenty, we hardly even notice anymore. Still, you've always got to be on the lookout for things falling from the sky...
-
-Paimon: Okay, so we need to find a way up to that Skyfire Circlet, right?
-
-Kimosi: Precisely... Anyway, we've fulfilled our end of the bargain. Nzaya, I think it's about time we got going.
-
-Nzaya: Huh, you're not going with them?
-
-Kimosi: The volcano isn't somewhere that someone like me has any business going near. Not to mention, Abyssal monsters turning up in the ruins is something we'll need to report to the tribe.
-
-Paimon: Okay, don't worry about it! Now that we know how to get in, we'll take it from here!
-
-Kimosi: I wish you a smooth journey. After all, a smooth journey means getting in quick and getting out quicker, and being quick...
-
-Traveler: ...Saves time!
-
-Kimosi: That's right! Haha.
-
-Nzaya: One last thing — Safety. Comes. First!
+Paimon: All the monsters have been cleared out!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-Paimon: Understood!
+Nzaya: I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
 
-## Talk 8
+Traveler: Not so much as a scratch.
+
+Nzaya: That's good to hear...
+
+Traveler: Just a teensy bit upset you didn't help out...
+
+Kimosi: All the more proof that you didn't need our help.
+
+Kimosi: #To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, Traveler...
+
+Kimosi: Even stronger than the rumors say.
+
+Paimon: Huh, you've heard of us?
+
+Nzaya: Huh, we've heard of them?
+
+Kimosi: You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to...
+
+Kimosi: Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Grroo...
+
+Kimosi: I guess it must be missing... We'll just have to look for it later...
+
+Kimosi: Enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time to uphold my end of the bargain. So. If you want to enter the volcano...
+
+Nzaya: Hold up. What does dealing with the Abyss have to do with entering the volcano?
+
+Traveler: The Abyss must have a presence inside...
+
+Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
+
+Traveler: It was an excuse to get me to do his work for him...
+
+Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
+
+Kimosi: Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress...
+
+Kimosi: #Either way, Traveler, it's an incredibly dangerous place. Are you sure you want to go there knowing that?
+
+Traveler: I'm certain...
+
+Traveler: We've already made our minds up, so...
+
+Kimosi: Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater.
+
+Paimon: Through... the crater?
+
+Kimosi: Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
+
+Kimosi: The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
+
+Kimosi: If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
+
+Kimosi: But, haha, I'm sure you'll be able to find a way to jump down through it!
+
+Nzaya: Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through...
+
+Kimosi: I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrwar? Mrrroo?
+
+Paimon: It's an earthquake... Wait, no — the volcano's erupting!
+
+## Talk 7
 
 Nzaya: Are things alright...?
 
@@ -317,94 +363,7 @@ Kimosi: I'm just explaining the way. As to the means our intrepid travelers take
 
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
 
-## Talk 9
-
-Paimon: Y'know, we might be able to use the Spiritways created by the volcanic eruptions to climb up to the Skyfire Circlet...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Paimon: Hehe, y'think so too? Let's give it a shot, then!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Nzaya: Are things alright...?
-
-Paimon: All the monsters have been cleared out!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Nzaya: I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
-
-Traveler: Not so much as a scratch.
-
-Nzaya: That's good to hear...
-
-Traveler: Just a teensy bit upset you didn't help out...
-
-Kimosi: All the more proof that you didn't need our help.
-
-Kimosi: #To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, Traveler...
-
-Kimosi: Even stronger than the rumors say.
-
-Paimon: Huh, you've heard of us?
-
-Nzaya: Huh, we've heard of them?
-
-Kimosi: You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to...
-
-Kimosi: Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Grroo...
-
-Kimosi: I guess it must be missing... We'll just have to look for it later...
-
-Kimosi: Enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time to uphold my end of the bargain. So. If you want to enter the volcano...
-
-Nzaya: Hold up. What does dealing with the Abyss have to do with entering the volcano?
-
-Traveler: The Abyss must have a presence inside...
-
-Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
-
-Traveler: It was an excuse to get me to do his work for him...
-
-Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
-
-Kimosi: Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress...
-
-Kimosi: #Either way, Traveler, it's an incredibly dangerous place. Are you sure you want to go there knowing that?
-
-Traveler: I'm certain...
-
-Traveler: We've already made our minds up, so...
-
-Kimosi: Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater.
-
-Paimon: Through... the crater?
-
-Kimosi: Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
-
-Kimosi: The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
-
-Kimosi: If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
-
-Kimosi: But, haha, I'm sure you'll be able to find a way to jump down through it!
-
-Nzaya: Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through...
-
-Kimosi: I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrwar? Mrrroo?
-
-Paimon: It's an earthquake... Wait, no — the volcano's erupting!
-
-### Additional Talk 2
+## Talk 7
 
 Nzaya: Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved...
 
@@ -494,7 +453,7 @@ Kimosi: I'm just explaining the way. As to the means our intrepid travelers take
 
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
 
-### Additional Talk 3
+## Talk 7
 
 Nzaya (???): Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved...
 
@@ -574,7 +533,73 @@ Kimosi: I'm just explaining the way. As to the means our intrepid travelers take
 
 Paimon: It's an earthquake... Wait, no — the volcano's erupting!
 
-### Additional Talk 4
+## Talk 7
+
+Nzaya: Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved...
+
+Kimosi: It looks like our luck's come in, Nzaya!
+
+Nzaya: That's not a very "tribal warrior" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?
+
+Nzaya: You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly.
+
+Traveler: Not so much as a scratch.
+
+Nzaya: That's good to hear...
+
+Kimosi: In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
+
+Paimon: #Hehe. Paimon's Paimon, and he's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+
+Kimosi: Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
+
+Kimosi: If a scarf counts as an article of clothing, anyway.
+
+Nzaya: On you, I'm not sure it would. But on this little guy, that's exactly what it is...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
+
+Kimosi: That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
+
+Nzaya: ...
+
+Kimosi: Are you going to the volcano, then?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Paimon: That's right. We're gonna enter the volcano... and we already know how!
+
+Kimosi: Is that so? Well color me impressed...
+
+Kimosi: So you want to enter the volcano... Hmm, it's a dangerous place, though...
+
+Kimosi: You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first.
+
+Traveler: Need help with something else?
+
+Traveler: Fire away!
+
+Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
+
+Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
+
+Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Grroo...
+
+Kimosi: No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
+
+Nzaya: It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings...
+
+Kimosi: Hmm... It may well be on the Skyfire Circlet...
+
+Kimosi: You have our gratitude, warriors. Thanks to you, we can finally complete our investigation and report back to the tribe.
+
+Nzaya: #Thank you so much for your assistance. Who knows what we'd have done without the great Traveler, Paimon, and their saurian friend!
+
+Nzaya: May we meet again!
+
+## Talk 7
 
 Nzaya: Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved...
 
@@ -650,68 +675,38 @@ Nzaya: #Indeed, thank you so much for your assistance. Who knows what we'd have 
 
 Nzaya: May we meet again!
 
-### Additional Talk 5
+## Talk 7
 
-Nzaya: Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved...
-
-Kimosi: It looks like our luck's come in, Nzaya!
-
-Nzaya: That's not a very "tribal warrior" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?
-
-Nzaya: You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly.
-
-Traveler: Not so much as a scratch.
-
-Nzaya: That's good to hear...
-
-Kimosi: In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
-
-Paimon: #Hehe. Paimon's Paimon, and he's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
-
-Kimosi: Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
-
-Kimosi: If a scarf counts as an article of clothing, anyway.
-
-Nzaya: On you, I'm not sure it would. But on this little guy, that's exactly what it is...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
-
-Kimosi: That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
-
-Nzaya: ...
-
-Kimosi: Are you going to the volcano, then?
+Paimon: Y'know, we might be able to use the Spiritways created by the volcanic eruptions to climb up to the Skyfire Circlet...
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-Paimon: That's right. We're gonna enter the volcano... and we already know how!
+Paimon: Hehe, y'think so too? Let's give it a shot, then!
 
-Kimosi: Is that so? Well color me impressed...
+## Talk 9
 
-Kimosi: So you want to enter the volcano... Hmm, it's a dangerous place, though...
+Paimon: Ah! The volcano erupted again. Seriously, every time that happens, Paimon's heart jumps out her chest!
 
-Kimosi: You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first.
+Kimosi: Haha, for those of us in the Collective of Plenty, we hardly even notice anymore. Still, you've always got to be on the lookout for things falling from the sky...
 
-Traveler: Need help with something else?
+Paimon: Okay, so we need to find a way up to that Skyfire Circlet, right?
 
-Traveler: Fire away!
+Kimosi: Precisely... Anyway, we've fulfilled our end of the bargain. Nzaya, I think it's about time we got going.
 
-Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
+Nzaya: Huh, you're not going with them?
 
-Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
+Kimosi: The volcano isn't somewhere that someone like me has any business going near. Not to mention, Abyssal monsters turning up in the ruins is something we'll need to report to the tribe.
 
-Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
+Paimon: Okay, don't worry about it! Now that we know how to get in, we'll take it from here!
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Grroo...
+Kimosi: I wish you a smooth journey. After all, a smooth journey means getting in quick and getting out quicker, and being quick...
 
-Kimosi: No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
+Traveler: ...Saves time!
 
-Nzaya: It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings...
+Kimosi: That's right! Haha.
 
-Kimosi: Hmm... It may well be on the Skyfire Circlet...
+Nzaya: One last thing — Safety. Comes. First!
 
-Kimosi: You have our gratitude, warriors. Thanks to you, we can finally complete our investigation and report back to the tribe.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-Nzaya: #Thank you so much for your assistance. Who knows what we'd have done without the great Traveler, Paimon, and their saurian friend!
-
-Nzaya: May we meet again!
+Paimon: Understood!

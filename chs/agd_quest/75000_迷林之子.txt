@@ -3,12 +3,6 @@
 # 迷林之子
 
 
-## Talk 1
-
-#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
-
-派蒙: #嗯，「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
-
 ## Talk 2
 
 派蒙: 喂，喂…大家伙，你还好吗，还站得起来吗？
@@ -62,20 +56,6 @@
 派蒙: 你这是在做什么啦…咦…
 
 派蒙: #旅行者，你…！
-
-## Talk 3
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！嗯…呀！
-
-## Talk 4
-
-旅行者: 就叫这个吧！
-
-派蒙: 好，嘿嘿！
-
-## Talk 5
-
-派蒙: #嗯，那么小家伙的名字就叫{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}咯？
 
 ## Talk 6
 
@@ -185,10 +165,6 @@
 
 旅行者: 可怜的孩子…命中该有此劫。
 
-## Talk 8
-
-派蒙: 那，要给小家伙取一个什么样的名字呢？
-
 ## Talk 9
 
 派蒙: #{REALNAME[ID(2)|SHOWHOST(true)]}啊，你以后的名字就叫作{REALNAME[ID(2)|SHOWHOST(true)]}了哦，小家伙！
@@ -221,12 +197,6 @@
 
 派蒙: 哎呀，不要一下子跑那么快嘛…
 
-## Talk 11
-
-#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呜…
-
-派蒙: #咦，从名字里感受到了很大的压力吗…旅行者，还是别用这些名字啦！
-
 ## Talk 12
 
 派蒙: 啊，回到了这里…奇怪，之前那些发光的柱子不见了！
@@ -244,14 +214,44 @@
 
 ### Additional Talk 1
 
+#{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！嗯…呀！
+
+### Additional Talk 2
+
+派蒙: #嗯，那么小家伙的名字就叫{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}咯？
+
+### Additional Talk 3
+
+旅行者: 就叫这个吧！
+
+派蒙: 好，嘿嘿！
+
+### Additional Talk 4
+
+派蒙: 那，要给小家伙取一个什么样的名字呢？
+
+### Additional Talk 5
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呜…
+
+派蒙: #咦，从名字里感受到了很大的压力吗…旅行者，还是别用这些名字啦！
+
+### Additional Talk 6
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
+
+派蒙: #嗯，「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
+
+### Additional Talk 7
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
 
 派蒙: #咦，我说「土豆饼」的时候你一脸不喜欢，旅行者说「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」就一脸高兴…你这家伙，算了算了，不跟你生气。
 
-### Additional Talk 2
+### Additional Talk 8
 
 派蒙: 不行，这个名字怎么想都不行吧！
 
-### Additional Talk 3
+### Additional Talk 9
 
 派蒙: #咦，这样吗，旅行者，你要用和自己一样的名字？

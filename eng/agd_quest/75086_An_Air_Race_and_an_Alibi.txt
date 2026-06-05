@@ -3,6 +3,16 @@
 # An Air Race and an Alibi
 
 
+## Talk 1
+
+Furball (Iktomisaurus): ...
+
+Paimon: It's an invitation letter to the air race! There are so many time-related requirements... Oh well, it is a race, eh?
+
+Paimon: #Paimon doesn't know what will happen, so be careful, Traveler!
+
+Black Screen Text: After the Iktomisaurus stops you, you suddenly find a letter in your hand...
+
 ## Talk 2
 
 Qucusaurus: ...
@@ -29,41 +39,17 @@ Lliwa: Are you ready now?
 
 ## Talk 5
 
-Lliwa: You're here! Taruka has been telling me about how amazing you are. Says I should try my best to keep up with you in the race.
+Traveler: Let's do this.
 
-Lliwa: I mean, sheesh, doesn't think I can win at all, does he? Not a shred of regard for my dignity as his older sister at all!
+## Talk 5
 
-Lliwa: So you can forget about me going easy on you in the race, and you shouldn't hold back either. Let's both do our best, and we'll see who's better!
-
-Traveler: You'll regret making me get serious about this.
-
-Lliwa: Haha, now that's what I'm talking about!
-
-Traveler: I'm just here for the participation prize.
-
-Lliwa: Haha! Bet you're just saying that to make me complacent. Not gonna work on me, ya hear?
-
-Lliwa: Anyway, enough talk. Let's start if you're ready.
+Traveler: Let's do this.
 
 ## Talk 6
 
-Furball (Iktomisaurus): ...
+Traveler: I still need time to prepare.
 
-Paimon: It's an invitation letter to the air race! There are so many time-related requirements... Oh well, it is a race, eh?
-
-Paimon: #Paimon doesn't know what will happen, so be careful, Traveler!
-
-Black Screen Text: After the Iktomisaurus stops you, you suddenly find a letter in your hand...
-
-## Talk 7
-
-Paimon: Phew — We should be okay now.
-
-Paimon: Not only has the client who should've paid us gone missing, we've even been mistaken for the villain's accomplices. Talk about bad luck!
-
-Paimon: It's not our style to just lie down and take a beating, though. Let's hunt the truth! Paimon's worried about Taruka and Oberon, too.
-
-Paimon: That Lamizana... isn't reliable at all! But we don't have any other clues right now. Shall we... take a look at the scene of the incident? Y'know, the finish line?
+Lliwa: Alright, I'll wait.
 
 ## Talk 8
 
@@ -86,24 +72,6 @@ Taruka: Sigh, I wish I were you. All you do is eat crackers and fly. You don't h
 Oberon: Crooo!
 
 Taruka: That wasn't supposed to be a compliment!
-
-## Talk 10
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
-
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, did you find something? There's nothing here, though!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr! Raaawr!
-
-Paimon: Paimon can see that you really want to tell her something. Gah, it would be nice to know what you're saying right now, but Paimon's no Saurian.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo...
-
-Traveler: Let me try.
-
-Paimon: Oh right! Maybe it's a clue that only Saurians can see.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 11
 
@@ -233,6 +201,34 @@ Paimon: Yeah! It's not a good idea to get entangled with them right now...
 
 Black Screen Text: After expending a lot of effort, you finally lose Lamizana and the others...
 
+## Talk 12
+
+Paimon: Phew — We should be okay now.
+
+Paimon: Not only has the client who should've paid us gone missing, we've even been mistaken for the villain's accomplices. Talk about bad luck!
+
+Paimon: It's not our style to just lie down and take a beating, though. Let's hunt the truth! Paimon's worried about Taruka and Oberon, too.
+
+Paimon: That Lamizana... isn't reliable at all! But we don't have any other clues right now. Shall we... take a look at the scene of the incident? Y'know, the finish line?
+
+## Talk 14
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+
+Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, did you find something? There's nothing here, though!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr! Raaawr!
+
+Paimon: Paimon can see that you really want to tell her something. Gah, it would be nice to know what you're saying right now, but Paimon's no Saurian.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo...
+
+Traveler: Let me try.
+
+Paimon: Oh right! Maybe it's a clue that only Saurians can see.
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
@@ -240,11 +236,29 @@ Black Screen Text: After expending a lot of effort, you finally lose Lamizana an
 
 ### Additional Talk 1
 
+Lliwa: You're here! Taruka has been telling me about how amazing you are. Says I should try my best to keep up with you in the race.
+
+Lliwa: I mean, sheesh, doesn't think I can win at all, does he? Not a shred of regard for my dignity as his older sister at all!
+
+Lliwa: So you can forget about me going easy on you in the race, and you shouldn't hold back either. Let's both do our best, and we'll see who's better!
+
+Traveler: You'll regret making me get serious about this.
+
+Lliwa: Haha, now that's what I'm talking about!
+
+Traveler: I'm just here for the participation prize.
+
+Lliwa: Haha! Bet you're just saying that to make me complacent. Not gonna work on me, ya hear?
+
+Lliwa: Anyway, enough talk. Let's start if you're ready.
+
+### Additional Talk 2
+
 Lliwa: I can't wait for the air race...
 
 Lliwa: Being able to sense the progress you and your Saurian partner have made is good for your training!
 
-### Additional Talk 2
+### Additional Talk 3
 
 Lamizana: How are the preparations going?
 
@@ -254,10 +268,6 @@ Lamizana: That will only make it seem more real and cover up many problems... In
 
 Paran: If you say so...
 
-### Additional Talk 3
-
-Traveler: Let's do this.
-
 ### Additional Talk 4
 
 Traveler: I still need time to prepare.
@@ -265,16 +275,6 @@ Traveler: I still need time to prepare.
 Lliwa: Alright, I'll wait.
 
 ### Additional Talk 5
-
-Traveler: Let's do this.
-
-### Additional Talk 6
-
-Traveler: I still need time to prepare.
-
-Lliwa: Alright, I'll wait.
-
-### Additional Talk 7
 
 Temach: We still have a few more flying challenges. Details are written on the board. Give 'em a try if you're keen... Of course, there are prizes to be won.
 
@@ -296,7 +296,7 @@ Traveler: Gotta go.
 
 Temach: See you. You're welcome back any time.
 
-### Additional Talk 8
+### Additional Talk 6
 
 Cisik: Welcome to Pakpaka Flying School!
 

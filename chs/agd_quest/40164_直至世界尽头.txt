@@ -3,12 +3,6 @@
 # 直至世界尽头
 
 
-## Talk 1
-
-派蒙: 终于要去讨伐邪龙了呢，你紧张吗？
-
-派蒙: 也不知道世界尽头是个什么样的地方，我们快去车站集合吧。
-
 ## Talk 2
 
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
@@ -46,10 +40,6 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 ## Talk 8
 
 绮良良: 书又往前飘了。
-
-## Talk 10
-
-娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
 ## Talk 12
 
@@ -163,16 +153,6 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 派蒙: 你…！气死我了，这么久没见，这家伙说话还是那么难听！
 
-## Talk 15
-
-派蒙: 到是到了…但这瀑布的水好凶啊，根本走不过去吧…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 把那块龙鳞拿出来。
-
-派蒙: 啊？为什…不对！我才不问你呢！我想想…龙鳞能把碰到的东西变成积木…哦！你是要用它阻隔瀑布的水对吧！
-
-派蒙: 哼！不问你我也能自己想明白！
-
 ## Talk 16
 
 派蒙: 这样就可以了吧？这块鳞片好神奇啊，它接触到的东西都变得像积木一样了呢，虽然对我们无效。
@@ -203,43 +183,29 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 18
 
-翻看书页: Missing text (0)
+派蒙: 到是到了…但这瀑布的水好凶啊，根本走不过去吧…
 
-## Talk 19
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 把那块龙鳞拿出来。
 
-妮露: ……
+派蒙: 啊？为什…不对！我才不问你呢！我想想…龙鳞能把碰到的东西变成积木…哦！你是要用它阻隔瀑布的水对吧！
 
-派蒙: 怎么了？妮露。
+派蒙: 哼！不问你我也能自己想明白！
 
-妮露: 没什么，只是…感受到了一股强大的魔力…
-
-娜维娅: 看来这个后面就是邪龙的老巢了。
-
-派蒙: 欸？你什么时候把帽子戴上的？
-
-娜维娅: 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 碍事的东西就该早点消失。
-
-派蒙: 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
+## Talk 21
 
 旅行者: 没什么了，出发吧。
 
-旅行者: 再等一会儿…
+## Talk 22
 
-娜维娅: 嗯，确保万无一失再前进吧。
+派蒙: 终于要去讨伐邪龙了呢，你紧张吗？
 
-## Talk 23
+派蒙: 也不知道世界尽头是个什么样的地方，我们快去车站集合吧。
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
+## Talk 22
 
 旅行者: 好了，出发吧。
 
-旅行者: 再等一会儿…
-
-娜维娅: 嗯，确保万无一失再前进吧。
-
-## Talk 24
+## Talk 25
 
 妮露: 前面，好空旷啊…
 
@@ -251,167 +217,9 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 杜林 (希穆兰卡的「邪龙」): ——！
 
-## Talk 25
+## Talk 27
 
-魔女M (「M」): 这个世界…就拜托你了…
-
-杜林: 呜……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …没事了，杜林。这里没有人会伤害你。
-
-杜林: 为什么…为什么要这么说？会伤害到你们的是我…
-
-派蒙: 别这么说嘛，我承认我之前错怪你了，但只要冷静下来的话，我们不还是能这样好好说话吗？
-
-杜林: 不…没用的，就算你们愿意和我说话…上面的世界，也一样害怕着我…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 所以才许下了那样的愿望吗…嘁…愚蠢…
-
-杜林: 唔…
-
-派蒙: 喂…！
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 明明谁都看得出，你想和大家一起相处。
-
-杜林: ……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 想要像朋友一样和他们聊天、玩耍…希望他们接受你，或者…至少接受你的「道歉」。
-
-旅行者: （可是…希穆兰卡的子民，似乎还没准备好迎接这么一位巨大的邻居…）
-
-娜维娅: 你从没有伤害过，也没有想去伤害过任何人！虽然被吓到的可能不少，可那是因为不了解你才会那样。
-
-绮良良: 嗯，如果和大家坐下来谈谈的话，我相信他们还是会理解你的。
-
-杜林: 但只要这副受「诅咒」的身躯还在，我就永远无法和大家生活在一起…
-
-杜林: 我碰到的地方全都会变成积木…我休息过的地方连一根小草也长不出来…
-
-旅行者: （就算理解了…也无法相处吗…）
-
-妮露: ……
-
-妮露: 诅咒…
-
-派蒙: 嗯？妮露…？
-
-妮露: …和希穆兰卡的人们共同相处，是你真正的愿望吗？
-
-杜林: ……
-
-杜林: …是的。
-
-妮露: 那就闭上眼睛，向命运女神许愿吧。我们会帮你实现这个愿望的。
-
-杜林: 欸？可是…要怎么…
-
-妮露: 相信我…
-
-杜林: ……
-
-妮露: ……
-
-妮露: 我，妮露。愿作为森林的仙子，赐予你祝福…承认你为赐福森林的一员…
-
-旅行者: （…！那是…！）
-
-妮露: 愿大家接受你的到来，愿你在此寻得容身一隅…
-
-娜维娅: 我，娜维娅。愿作为星轨王城的国王，赐予你祝福！承认你为王国的一员！
-
-绮良良: 我也愿意作为这个世界…呃，穿靴子的猫又，给予你我的祝福！
-
-旅行者: （光…在慢慢聚到一起？）
-
-派蒙: …！这是怎么回事？
-
-旅行者: 难道是「语言」的魔法…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …我作为这个世界的勇者，赐予你祝福。承认你为希穆兰卡的一员，愿你获得这个世界的认可。
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 同时…我愿作为你的朋友，祝你找到前进的路…
-
-旅行者: #（…！{REALNAME[ID(1)]}…）
-
-旅行者: 我作为游历诸多世界的旅者，赐予你祝福。愿你不论身处何处，都有同伴与善意相随。
-
-杜林: ……
-
-杜林: 妈妈…
-
-小杜林 (杜林): …唔。怎么了？你们为什么都这样看着我？
-
-小杜林 (杜林): …欸！我的…我的爪子？这是我的爪子？还有翅膀和尾巴？我的身体…难道说…！
-
-娜维娅: 哇！很可爱嘛！和以前的感觉完全不一样呢！
-
-娜维娅: 呃…我倒不是说以前不好，只是…哎呀，你懂的吧？
-
-妮露: 感觉怎么样？还满意现在的样子吗？
-
-小杜林 (杜林): 你们…你们身上有花吗？或者这个世界的水、纸也行！
-
-绮良良: 哦，我这里刚好有一些，给。
-
-小杜林 (杜林): 真的…真的不会变了！我碰到的东西不会变了！
-
-派蒙: 那真是太好了呢，我遇到的会飞的同伴又多了一个！
-
-妮露: 这样一来，希穆兰卡的居民就不会再害怕你了。
-
-小杜林 (杜林): 唔…可是…我以前做的那些事…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 乖乖去「赎罪」吧。不论是填你的脚印，还是送破碎之海的人回家。
-
-小杜林 (杜林): 嗯…你会陪在我身边吗？阿帽。
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 啊？为什么我要陪你做这些？
-
-小杜林 (杜林): 欸？可你刚才说…要做我的朋友…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …我！啰嗦…你不喜欢就不做好了！
-
-小杜林 (杜林): 欸？我…呜…
-
-旅行者: ……
-
-旅行者: 阿帽…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: …嘁。好了好了，我陪就是了！
-
-小杜林 (杜林): …真的？
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 用不着拿这种事欺负你。
-
-小杜林 (杜林): 谢谢你！你是第一个称呼我名字的朋友。
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 回上面去吧，这里简直闷的慌…
-
-派蒙: 嘻嘻，终于有个他不擅长对付的角色了呢…
-
-旅行者: 派蒙…
-
-旅行者: 别幸灾乐祸…
-
-派蒙: 我知道啦，但总觉得是很新鲜的事嘛。
-
-娜维娅: 那我们也上去吧。
-
-小杜林 (杜林): ……
-
-妮露: 别害怕，杜林，我们会陪在你身边的。
-
-小杜林 (杜林): 嗯，谢谢你们给予我的祝福。这是我这么久以来…最幸福的一天。
-
-派蒙: 咦？那是…和星轨王城不一样的神像？
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 是「命运女神」的神像。
+翻看书页: Missing text (0)
 
 ## Talk 29
 
@@ -611,77 +419,7 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 你也被人们所「厌恶」吗…
 
-## Talk 42
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能定义你是谁……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能否定你的心……
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 回想起你自己的名字吧——
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ——杜林
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 没事了……
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): 小心！
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-## Talk 43
+## Talk 41
 
 杜林 (希穆兰卡的「邪龙」): ……
 
@@ -709,13 +447,63 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 到头来，你还是被「背叛」了吗…
 
-## Talk 44
+## Talk 43
 
 杜林 (希穆兰卡的「邪龙」): ……
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …是吗？这就是你许下的「愿望」？
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …「希望自己从未存在过」，可不是什么好愿望。
+
+## Talk 44
+
+娜维娅: 刚才好险！你们没磕哪碰哪吧？
+
+旅行者: …多亏绮良良。
+
+绮良良: #我听王城的人说你们去讨伐巨龙了，就一路跟了过来。结果好不容易追上的时候，却看见旅行者摔了下去。
+
+绮良良: 欸对了，刚才好像还有一个人掉到了下面，不要紧吗？
+
+派蒙: 阿帽他会飞…应该不要紧吧…
+
+妮露: 但他刚刚好像叫那头龙…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ——杜林。这是他的名字。
+
+娜维娅: 你没事就好，那头龙…杜林呢？
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 他没事。
+
+派蒙: 杜林…难道不是蒙德雪山那头邪龙的名字吗？他被特瓦林打败后，就一直在那里了，我记得他好像是那谁…
+
+旅行者: 「黄金」的莱茵多特…
+
+派蒙: 对，是「黄金」莱茵多特的造物…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 造物…呵…
+
+派蒙: 所以到底发生什么了吗？你从刚才开始就不太对劲。
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
+
+黑屏文本: #{REALNAME[ID(1)]}向你们讲述了他在迷雾中看到的景象…
+
+妮露: 原来这才是关于希穆兰卡「邪龙」的真相…
+
+娜维娅: 雾气中的那些不是幻觉，而是巨龙的回忆…
+
+旅行者: （所以我在下落中听到的，其实是杜林记忆中的话语…）
+
+绮良良: 我还奇怪呢，虽然破碎之海这边的人回不了家，但从没听说过巨龙袭击村庄的事件发生。
+
+妮露: 我们一路上遇到的居民，恐怕是曾经矿窟中的人，还有前来讨伐「邪龙」的人…他迫不得已才把大家安置在这里吧…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 我来到这个世界的时候，脑中的声音是这么对我说的——「你是这个世界的勇者，去拯救这个世界的巨龙吧」。
+
+派蒙: 所以，这到底是谁的声音啦？我们又为什么会被带到这个世界呢？
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 跟我来吧，下面有这一切的答案。
 
 ## Talk 47
 
@@ -787,55 +575,29 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 48
 
-娜维娅: 刚才好险！你们没磕哪碰哪吧？
+魔女M (老旧的日记): 「…明明我名字两头也都是A，但艾莉丝说先来后到，硬是从我中间名里取了个M。哈哈，还真是受不了她。」
 
-旅行者: …多亏绮良良。
+魔女M (老旧的日记): 「但艾莉丝的魔法总能让我感到惊讶。她居然让我随手折的一只小青蛙说话了。」
 
-绮良良: #我听王城的人说你们去讨伐巨龙了，就一路跟了过来。结果好不容易追上的时候，却看见旅行者摔了下去。
+魔女M (老旧的日记): 「嗯…不如，就写一些以折纸小动物为主角的故事吧。从前，他们生活在一座魔法森林里…」
 
-绮良良: 欸对了，刚才好像还有一个人掉到了下面，不要紧吗？
+魔女M (老旧的日记): 「芭比喜欢看未来的事，虽说她借此为希穆兰卡的生灵划定了轨迹，但知晓结局的故事可不有趣…」
 
-派蒙: 阿帽他会飞…应该不要紧吧…
+魔女M (老旧的日记): 「干脆和她打个赌吧，我相信总有一天，希穆兰卡的子民会选择自己的道路。」
 
-妮露: 但他刚刚好像叫那头龙…
+魔女M (老旧的日记): 「…听说她要在王城建一座自己的雕像？哈哈，她还是那么爱赶时髦。」
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ——杜林。这是他的名字。
+## Talk 49
 
-娜维娅: 你没事就好，那头龙…杜林呢？
+魔女M (发黄的信件): 「亲爱的姐妹们，我有些写不动了，就连给你们写信的手都有些不听使唤…谢谢你们喜欢我的故事，为我创造了这个世界…」
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 他没事。
+魔女M (发黄的信件): 「我和你们度过了无比美好的青春，哈哈，是的，和你们在一起的时候，我觉得自己总是那么年轻…」
 
-派蒙: 杜林…难道不是蒙德雪山那头邪龙的名字吗？他被特瓦林打败后，就一直在那里了，我记得他好像是那谁…
+魔女M (发黄的信件): 「『A』说我走后，希穆兰卡的命运女神也依旧会存在，像现在这样实现着大家的愿望。嗯，这样也不错…」
 
-旅行者: 「黄金」的莱茵多特…
+魔女M (发黄的信件): 「你们想聊天的时候，就到神像下面来说说话吧。别许什么奇怪的愿望就行…」
 
-派蒙: 对，是「黄金」莱茵多特的造物…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 造物…呵…
-
-派蒙: 所以到底发生什么了吗？你从刚才开始就不太对劲。
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
-
-黑屏文本: #{REALNAME[ID(1)]}向你们讲述了他在迷雾中看到的景象…
-
-妮露: 原来这才是关于希穆兰卡「邪龙」的真相…
-
-娜维娅: 雾气中的那些不是幻觉，而是巨龙的回忆…
-
-旅行者: （所以我在下落中听到的，其实是杜林记忆中的话语…）
-
-绮良良: 我还奇怪呢，虽然破碎之海这边的人回不了家，但从没听说过巨龙袭击村庄的事件发生。
-
-妮露: 我们一路上遇到的居民，恐怕是曾经矿窟中的人，还有前来讨伐「邪龙」的人…他迫不得已才把大家安置在这里吧…
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 我来到这个世界的时候，脑中的声音是这么对我说的——「你是这个世界的勇者，去拯救这个世界的巨龙吧」。
-
-派蒙: 所以，这到底是谁的声音啦？我们又为什么会被带到这个世界呢？
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 跟我来吧，下面有这一切的答案。
-
-## Talk 50
+## Talk 51
 
 娜维娅: 这是…希穆兰卡的杜林？他在抬头看着什么，一颗星星…
 
@@ -853,43 +615,171 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
-## Talk 51
-
-魔女M (老旧的日记): 「…明明我名字两头也都是A，但艾莉丝说先来后到，硬是从我中间名里取了个M。哈哈，还真是受不了她。」
-
-魔女M (老旧的日记): 「但艾莉丝的魔法总能让我感到惊讶。她居然让我随手折的一只小青蛙说话了。」
-
-魔女M (老旧的日记): 「嗯…不如，就写一些以折纸小动物为主角的故事吧。从前，他们生活在一座魔法森林里…」
-
-魔女M (老旧的日记): 「芭比喜欢看未来的事，虽说她借此为希穆兰卡的生灵划定了轨迹，但知晓结局的故事可不有趣…」
-
-魔女M (老旧的日记): 「干脆和她打个赌吧，我相信总有一天，希穆兰卡的子民会选择自己的道路。」
-
-魔女M (老旧的日记): 「…听说她要在王城建一座自己的雕像？哈哈，她还是那么爱赶时髦。」
-
 ## Talk 52
 
-妮露: 赐福森林…这本书，一直都在记录希穆兰卡发生的事…
+魔女M (「M」): 这个世界…就拜托你了…
 
-绮良良: 光是落在一个地方，都会留下这么大的脚印…也难怪人们会害怕他…
+杜林: 呜……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: …没事了，杜林。这里没有人会伤害你。
+
+杜林: 为什么…为什么要这么说？会伤害到你们的是我…
+
+派蒙: 别这么说嘛，我承认我之前错怪你了，但只要冷静下来的话，我们不还是能这样好好说话吗？
+
+杜林: 不…没用的，就算你们愿意和我说话…上面的世界，也一样害怕着我…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 所以才许下了那样的愿望吗…嘁…愚蠢…
+
+杜林: 唔…
+
+派蒙: 喂…！
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 明明谁都看得出，你想和大家一起相处。
+
+杜林: ……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 想要像朋友一样和他们聊天、玩耍…希望他们接受你，或者…至少接受你的「道歉」。
+
+旅行者: （可是…希穆兰卡的子民，似乎还没准备好迎接这么一位巨大的邻居…）
+
+娜维娅: 你从没有伤害过，也没有想去伤害过任何人！虽然被吓到的可能不少，可那是因为不了解你才会那样。
+
+绮良良: 嗯，如果和大家坐下来谈谈的话，我相信他们还是会理解你的。
+
+杜林: 但只要这副受「诅咒」的身躯还在，我就永远无法和大家生活在一起…
+
+杜林: 我碰到的地方全都会变成积木…我休息过的地方连一根小草也长不出来…
+
+旅行者: （就算理解了…也无法相处吗…）
+
+妮露: ……
+
+妮露: 诅咒…
+
+派蒙: 嗯？妮露…？
+
+妮露: …和希穆兰卡的人们共同相处，是你真正的愿望吗？
+
+杜林: ……
+
+杜林: …是的。
+
+妮露: 那就闭上眼睛，向命运女神许愿吧。我们会帮你实现这个愿望的。
+
+杜林: 欸？可是…要怎么…
+
+妮露: 相信我…
+
+杜林: ……
+
+妮露: ……
+
+妮露: 我，妮露。愿作为森林的仙子，赐予你祝福…承认你为赐福森林的一员…
+
+旅行者: （…！那是…！）
+
+妮露: 愿大家接受你的到来，愿你在此寻得容身一隅…
+
+娜维娅: 我，娜维娅。愿作为星轨王城的国王，赐予你祝福！承认你为王国的一员！
+
+绮良良: 我也愿意作为这个世界…呃，穿靴子的猫又，给予你我的祝福！
+
+旅行者: （光…在慢慢聚到一起？）
+
+派蒙: …！这是怎么回事？
+
+旅行者: 难道是「语言」的魔法…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: …我作为这个世界的勇者，赐予你祝福。承认你为希穆兰卡的一员，愿你获得这个世界的认可。
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 同时…我愿作为你的朋友，祝你找到前进的路…
+
+旅行者: #（…！{REALNAME[ID(1)]}…）
+
+旅行者: 我作为游历诸多世界的旅者，赐予你祝福。愿你不论身处何处，都有同伴与善意相随。
+
+杜林: ……
+
+杜林: 妈妈…
+
+小杜林 (杜林): …唔。怎么了？你们为什么都这样看着我？
+
+小杜林 (杜林): …欸！我的…我的爪子？这是我的爪子？还有翅膀和尾巴？我的身体…难道说…！
+
+娜维娅: 哇！很可爱嘛！和以前的感觉完全不一样呢！
+
+娜维娅: 呃…我倒不是说以前不好，只是…哎呀，你懂的吧？
+
+妮露: 感觉怎么样？还满意现在的样子吗？
+
+小杜林 (杜林): 你们…你们身上有花吗？或者这个世界的水、纸也行！
+
+绮良良: 哦，我这里刚好有一些，给。
+
+小杜林 (杜林): 真的…真的不会变了！我碰到的东西不会变了！
+
+派蒙: 那真是太好了呢，我遇到的会飞的同伴又多了一个！
+
+妮露: 这样一来，希穆兰卡的居民就不会再害怕你了。
+
+小杜林 (杜林): 唔…可是…我以前做的那些事…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 乖乖去「赎罪」吧。不论是填你的脚印，还是送破碎之海的人回家。
+
+小杜林 (杜林): 嗯…你会陪在我身边吗？阿帽。
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 啊？为什么我要陪你做这些？
+
+小杜林 (杜林): 欸？可你刚才说…要做我的朋友…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: …我！啰嗦…你不喜欢就不做好了！
+
+小杜林 (杜林): 欸？我…呜…
+
+旅行者: ……
+
+旅行者: 阿帽…
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: …嘁。好了好了，我陪就是了！
+
+小杜林 (杜林): …真的？
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 用不着拿这种事欺负你。
+
+小杜林 (杜林): 谢谢你！你是第一个称呼我名字的朋友。
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 回上面去吧，这里简直闷的慌…
+
+派蒙: 嘻嘻，终于有个他不擅长对付的角色了呢…
+
+旅行者: 派蒙…
+
+旅行者: 别幸灾乐祸…
+
+派蒙: 我知道啦，但总觉得是很新鲜的事嘛。
+
+娜维娅: 那我们也上去吧。
+
+小杜林 (杜林): ……
+
+妮露: 别害怕，杜林，我们会陪在你身边的。
+
+小杜林 (杜林): 嗯，谢谢你们给予我的祝福。这是我这么久以来…最幸福的一天。
+
+派蒙: 咦？那是…和星轨王城不一样的神像？
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 是「命运女神」的神像。
 
 ## Talk 53
 
-妮露: 这次是…一个矿洞？
-
-绮良良: 难道说，是积木矿窟的工人挖得太深，挖到了下一页的世界吗？
-
-妮露: 这么说来…这矿灯和上一页天上的星星好像…
-
-## Talk 54
-
-魔女M (发黄的信件): 「亲爱的姐妹们，我有些写不动了，就连给你们写信的手都有些不听使唤…谢谢你们喜欢我的故事，为我创造了这个世界…」
-
-魔女M (发黄的信件): 「我和你们度过了无比美好的青春，哈哈，是的，和你们在一起的时候，我觉得自己总是那么年轻…」
-
-魔女M (发黄的信件): 「『A』说我走后，希穆兰卡的命运女神也依旧会存在，像现在这样实现着大家的愿望。嗯，这样也不错…」
-
-魔女M (发黄的信件): 「你们想聊天的时候，就到神像下面来说说话吧。别许什么奇怪的愿望就行…」
+娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
 ## Talk 56
 
@@ -1024,18 +914,128 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ### Additional Talk 1
 
+妮露: ……
+
+派蒙: 怎么了？妮露。
+
+妮露: 没什么，只是…感受到了一股强大的魔力…
+
+娜维娅: 看来这个后面就是邪龙的老巢了。
+
+派蒙: 欸？你什么时候把帽子戴上的？
+
+娜维娅: 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 碍事的东西就该早点消失。
+
+派蒙: 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
+
 旅行者: 没什么了，出发吧。
 
+旅行者: 再等一会儿…
+
+娜维娅: 嗯，确保万无一失再前进吧。
+
 ### Additional Talk 2
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
+
+旅行者: 好了，出发吧。
+
+旅行者: 再等一会儿…
+
+娜维娅: 嗯，确保万无一失再前进吧。
+
+### Additional Talk 3
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能定义你是谁……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能否定你的心……
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 回想起你自己的名字吧——
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ——杜林
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 没事了……
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): 小心！
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+### Additional Talk 4
+
+妮露: 这次是…一个矿洞？
+
+绮良良: 难道说，是积木矿窟的工人挖得太深，挖到了下一页的世界吗？
+
+妮露: 这么说来…这矿灯和上一页天上的星星好像…
+
+### Additional Talk 5
+
+妮露: 赐福森林…这本书，一直都在记录希穆兰卡发生的事…
+
+绮良良: 光是落在一个地方，都会留下这么大的脚印…也难怪人们会害怕他…
+
+### Additional Talk 6
 
 娜维娅: 嗯，确保万无一失再前进吧。
 
 旅行者: 再等一会儿…
 
-### Additional Talk 3
-
-旅行者: 好了，出发吧。
-
-### Additional Talk 4
+### Additional Talk 7
 
 娜维娅: 嗯，确保万无一失再前进吧。

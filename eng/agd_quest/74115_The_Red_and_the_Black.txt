@@ -301,20 +301,6 @@ Talochard: Curve, hide and wait here for us. You're too big not to get spotted. 
 
 Paimon: Then let's hurry up and figure out how to lure them away.
 
-## Talk 6
-
-"Curve": Self-diagnostic in progress...
-
-"Curve": Moisture has seeped into the motherboard. Motherboard temperature: Below warning line. Core functionality: 19%.
-
-## Talk 7
-
-Paimon: (This pot... has chicken legs in it. Is someone cooking?)
-
-Talochard: (How about adding in some "seasoning" to put them to sleep after their meal? Or we can do something else to drive them away...)
-
-Paimon: #(N—Nice idea! Check your bag for any useful "seasoning," Traveler!)
-
 ## Talk 8
 
 Paimon: Whoa! Paimon has a feeling it'll be super effective!
@@ -332,63 +318,37 @@ Paimon: See, Talochard? They're experiencing the power of Poissonchant Pie, just
 
 Talochard: Hehe... I'm incredible! I'll go get Curve. Now we can search for evidence to our heart's content!
 
-## Talk 10
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
 ## Talk 11
 
-Boss: Who cooked this gar— *blaaargh*... Who cooked today!? Kill— *blech*... Find him and kill him!
-
-"Intrepid Valberry": Boss! Boss— *urrrrrk*... Boss I'll immediately— *blaaaargh*... I'll go find the cook!
-
-Talochard: Hmph! This Agent right here is today's chef! So who's going to kill me?
-
-Boss: M—Marechaussee Phantom? Agents... How did— *huuuuurk*... How did you get in here?
-
-Talochard: I don't think you've got time to worry about that right now! We've obtained evidence of your crimes!
-
-Boss: Evidence? But Officer, all of them were temporary workers, and didn't you arrest them already?
-
-Talochard: We're working on another case right now! All of you are suspects in a plot to get revenge against The Steambird by stealing Sir Arthur!
-
-Boss: The paper? I—Impossible. I've never held any grudges toward them... in fact, I even want to thank them for pointing out the flaws in our business model...
-
-Talochard: You're good with words, but what will you do once we show you... THIS?
-
-Talochard: See? Director 42 admitted it in their diary! Busted!
+Diary of a Valiant Struggle: Missing text (0)
 
 ## Talk 12
 
-Talochard: Oh, dangit! That's not it!
+Old Clockwork Locket: (An archaic clockwork locket. It looks quite old.)
 
-Boss: What are you going to show? Do you have any evidence?
+Paimon: What's this? Looks like it opens.
+
+Talochard: There's a photo in there. Who is she?
+
+"Curve": Database responding... Database responding... Database responding...
+
+"Curve": Failed to retrieve information.
+
+Talochard: Retrieval failed? Curve, your database wouldn't respond without having relevant information, right? Did water get inside you?
+
+Talochard: Hmm... Let's put this away for now. I'll let Curve take a look later...
 
 ## Talk 13
 
-Diary of a Valiant Struggle: Missing text (0)
+Dining Table With Tableware: (An overwhelming amount of tableware is scattered all over the table in a messy yet charming pile that's ripe for the taking.)
+
+Paimon: A table knife! A table knife just like the one left outside The Steambird!
+
+Talochard: It must be them...
 
 ## Talk 14
 
 Paimon: Okay! This should solve the problem.
-
-## Talk 15
-
-Paimon: These Bulle Fruit... Do these people really like them? In that case, we could try distracting them by throwing some from a distance...
-
-Traveler: Sure, give it a try.
-
-Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
-
-Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
-
-Paimon (Guard): Alert! Alert! Intruder alert!
-
-Talochard: This plan's way too dumb!
-
-Traveler: Doesn't sound like it'll work.
-
-Talochard: Let's come up with a plan B.
 
 ## Talk 16
 
@@ -743,194 +703,7 @@ Traveler: It probably wasn't just about today.
 
 Paimon: Paimon hopes she gets better by tonight. Let's get some rest too. Paimon's quite tired after so much investigating.
 
-## Talk 24
-
-Dining Table With Tableware: (An overwhelming amount of tableware is scattered all over the table in a messy yet charming pile that's ripe for the taking.)
-
-Paimon: A table knife! A table knife just like the one left outside The Steambird!
-
-Talochard: It must be them...
-
 ## Talk 25
-
-Old Clockwork Locket: (An archaic clockwork locket. It looks quite old.)
-
-Paimon: What's this? Looks like it opens.
-
-Talochard: There's a photo in there. Who is she?
-
-"Curve": Database responding... Database responding... Database responding...
-
-"Curve": Failed to retrieve information.
-
-Talochard: Retrieval failed? Curve, your database wouldn't respond without having relevant information, right? Did water get inside you?
-
-Talochard: Hmm... Let's put this away for now. I'll let Curve take a look later...
-
-## Talk 27
-
-Talochard: You're the smallest here, Paimon, so you be Kevin. I'll be dirty Rocher.
-
-Talochard: Mr. Baulard is here for Dr. Mosso, so let Curve be him. Then all that's left is the redhead...
-
-Traveler: Leave it to me.
-
-Talochard: Alright, everyone's got their roles, so let's reenact the night of Sir Arthur's disappearance. What did all of these guys do?
-
-Talochard: The first thing to reenact is the order of their arrival.
-
-Talochard: #Incredible! Traveler is absolutely correct. I am the first to arrive...
-
-Talochard (Rocher): I'm Rocher, a middle-aged man who was kicked out by his wife. I've been loitering around here because I'm trying to get a job at the paper.
-
-Talochard (Rocher): On the night of the incident, I drank a little, and I remember Sir Arthur sitting on its precious pedestal before I got completely drunk. Later on, I fell asleep by the road, and then...
-
-"Curve" (Baulard): I'm Baulard, the second suspect to arrive at the scene. I immediately noticed that Sir Arthur wasn't where it should be...
-
-"Curve" (Baulard): So, the real thief stole Sir Arthur between the time of my arrival and Mr. Rocher falling asleep, and that criminal left a letter full of threats for the paper...
-
-"Curve" (Baulard): Acting on my intelligence officer's instincts, I read the letter left by the thief and took it with me from the scene. After that...
-
-Traveler (Intrepid Valberry): I'm up next! I'm Intrepid Valberry! Director 42 of a criminal gang!
-
-Traveler (Intrepid Valberry): I wanted revenge on the paper, so I planned to run Sir Arthur straight through!
-
-Traveler (Intrepid Valberry): But Sir Arthur was gone when I got there. I was furious! But there was nothing I could do. I just stabbed the knife into the pedestal to scare them and left...
-
-Paimon (Kevin): It's finally Paimon's turn! I'm Kevin, a problem child! I'm here to get Sir Arthur to spread the word that my dad's a big fat weasel.
-
-Paimon (Kevin): But Sir Arthur was gone, and there was a knife in its favorite pedestal! I tried to look for it, but all I found was a smelly old man...
-
-Paimon (Kevin): I somehow woke him, and that terrified me. I took the knife to defend myself and ran as fast as I could! I didn't even notice when a button got torn off my clothes...
-
-Talochard (Rocher): Indeed, I'm that smelly old man. The commotion Kevin made woke me up, and I vaguely caught sight of him running off with something.
-
-Talochard (Rocher): After that, I looked toward the paper's office and saw that Sir Arthur was missing. I was afraid of becoming a suspect, so I hurried back to my usual haunt at the docks.
-
-Paimon: Is this everything that happened? Paimon thinks our reenactment went perfectly, but did we miss anything?
-
-Traveler: The threatening letter...
-
-Talochard: That's right! We forgot about that letter... Since the thief's motive is tied to the incident from thirty years ago, the paper should have some idea about the thief's identity, right?
-
-Paimon: Yeah, but the paper is still in the dark on all of this. We should deliver this letter to them immediately. How could we have overlooked something so crucial...
-
-Talochard: Because all of you were too busy trying to console me. I'm so sorry for being a burden...
-
-Paimon: You shouldn't think like that, Talochard. Haven't you read through Dr. Mosso's case files? Those should be really exclusive information.
-
-Talochard: Ah! Now that you mention those, I forgot to tell you about the contents... Hmm... Let's go over there to discuss it.
-
-Talochard: Dr. Mosso's death is closely linked to the paper, so it feels weird to talk about it right outside their front door.
-
-Talochard: This spot is perfect. You wanted to know why Dr. Mosso was tried, right? It actually stemmed from public opinion.
-
-Paimon: Public opinion!?
-
-Talochard: Well, not long after the existence of Dr. Mosso's lie detector was made public, The Steambird published several articles on it and quickly drew the public's attention.
-
-"Curve": Relevant information retrieved: "Mosso Exclusive: Behind the Lies," "Mosso Protocols: Protocols to Watch," "Lie Detector? A Game of Authority"...
-
-Talochard: The paper used special features like these to incite widespread fear and worry among the general public... Soon, public opinion began to turn against Dr. Mosso.
-
-Traveler: What were they worried about?
-
-Talochard: For example, how to guarantee that the lie detector's output is credible. What would happen if a suspect in a trial isn't lying, but Curve says he is?
-
-Paimon: Would mistrials and injustice result? But if Curve's reliability can be guaranteed, then those concerns would evaporate.
-
-"Curve": Relevant information retrieved: Content from "Lie Detector? A Game of Authority":
-
-"Curve": "...When using protocols to restrict authority, the central question is not the lie detector's reliability but its ability to remain independent from outside authorities..."
-
-Talochard: As the article points out, Curve is just a machine. So, what would happen if the people put their trust in Curve, yet someone could control Curve and use it to falsify results?
-
-Paimon: The Mosso Protocols are there to prevent that, right?
-
-"Curve": Relevant information retrieved: Content from "Mosso Protocols: Protocols to Watch":
-
-"Curve": "...It must be noted that as the Mosso Protocols are man-made, there is a possibility of them being modified. This may prove to be a well-concealed trap..."
-
-Paimon: Whoa! Are they accusing Dr. Mosso of secretly tampering or leaving backdoors?
-
-Talochard: This is just the beginning. All kinds of other characters piled on after The Steambird triggered the first outpouring of public opposition...
-
-"Curve": Relevant information retrieved: "Fish Can't Live in Clear Water: Reject A Goldfish Bowl World" published by the Seven Nations Gazette, "Shocking Misjudgment of the Lie Detector" published by Short Anthologies...
-
-Paimon: "Shocking Misjudgment of the Lie Detector"? Did Curve make a mistake?
-
-Talochard: That was just a lie, of course! Curve was never involved in any case, much less in misjudging one... But that's how public opinion works, and so it was all downhill from there for Dr. Mosso.
-
-Talochard: In the end, some even came forward and made accusations against the doctor. They called the lie detector a total scam, and all the results were completely manufactured.
-
-Talochard: They believed the doctor was deceiving the public in an attempt to gain the power to pass judgment over others, and so they demanded the doctor be severely punished and the lie detector be destroyed.
-
-Paimon: A—aren't those accusations a little too serious? Would anyone even believe stuff like that?
-
-Talochard: Many did.
-
-Talochard: They were all just ordinary people, so how could they differentiate the truth from lies? When we don't have access to sufficient information, we believe what others want us to believe.
-
-Talochard: And it just so happened that at such a critical juncture, The Steambird did something huge: They provided evidence that exposed Dr. Mosso as having falsified results. Their evidence was key to Dr. Mosso's conviction.
-
-Paimon: Evidence!? Did Dr. Mosso really... deceive everyone?
-
-Talochard: The doctor refused to admit it of course, and so he died defending himself in a duel. Only then did things start to calm down.
-
-Talochard: The paper's reputation skyrocketed, and a useless "fake" like Curve was soon forgotten. It was just left with the Marechaussee Phantom as evidence...
-
-Traveler: So is Curve the real deal or not?
-
-Talochard: Well, I think Curve is the real deal... and Dr. Mosso was wrongly accused...
-
-Paimon: Then was the evidence presented by the paper falsified? Or did they make a mistake?
-
-Talochard: But the person who wrote the threatening letter seems to think that the paper deliberately fabricated those lies in search of fame, profit, or something else.
-
-Paimon: Oh... Then could she be someone very close to Dr. Mosso, back for revenge?
-
-Paimon: #Paimon would definitely avenge Traveler if Traveler was wronged like that! Ugh! Paimon can't bear to think about it...
-
-Traveler: Thanks, Paimon.
-
-Traveler: Don't jinx me, Paimon.
-
-Talochard: But Dr. Mosso passed away thirty years ago, so someone very close to him... I wonder if Euphrasie knows anything...
-
-Paimon: ...Should we go see her then?
-
-Talochard: Don't worry, she wasn't in charge of the paper at the time, and I don't think Euphrasie is a bad person...
-
-Paimon: Fine, looks like we'll have to ask her about it tomorrow. Today was a total information overload, Paimon's head needs some time to recover...
-
-Talochard: Alright! Then let's head home, get some rest, and meet outside the paper tomorrow morning.
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-### Additional Talk 2
-
-Diary of a Valiant Struggle (I): Missing text (0)
-
-### Additional Talk 3
-
-Diary of a Valiant Struggle (II): Missing text (0)
-
-### Additional Talk 4
-
-Diary of a Valiant Struggle (III): Missing text (0)
-
-### Additional Talk 5
-
-Diary of a Valiant Struggle (IV): Missing text (0)
-
-### Additional Talk 6
 
 Talochard: #Paimon! Traveler, good evening.
 
@@ -1104,6 +877,233 @@ Talochard: Since there are four of us, why don't we each roleplay as a suspect a
 
 Paimon: Wow, Talochard's brain is working fast! Paimon likes that idea. Let's go to The Steambird now.
 
+## Talk 27
+
+Talochard: You're the smallest here, Paimon, so you be Kevin. I'll be dirty Rocher.
+
+Talochard: Mr. Baulard is here for Dr. Mosso, so let Curve be him. Then all that's left is the redhead...
+
+Traveler: Leave it to me.
+
+Talochard: Alright, everyone's got their roles, so let's reenact the night of Sir Arthur's disappearance. What did all of these guys do?
+
+Talochard: The first thing to reenact is the order of their arrival.
+
+Talochard: #Incredible! Traveler is absolutely correct. I am the first to arrive...
+
+Talochard (Rocher): I'm Rocher, a middle-aged man who was kicked out by his wife. I've been loitering around here because I'm trying to get a job at the paper.
+
+Talochard (Rocher): On the night of the incident, I drank a little, and I remember Sir Arthur sitting on its precious pedestal before I got completely drunk. Later on, I fell asleep by the road, and then...
+
+"Curve" (Baulard): I'm Baulard, the second suspect to arrive at the scene. I immediately noticed that Sir Arthur wasn't where it should be...
+
+"Curve" (Baulard): So, the real thief stole Sir Arthur between the time of my arrival and Mr. Rocher falling asleep, and that criminal left a letter full of threats for the paper...
+
+"Curve" (Baulard): Acting on my intelligence officer's instincts, I read the letter left by the thief and took it with me from the scene. After that...
+
+Traveler (Intrepid Valberry): I'm up next! I'm Intrepid Valberry! Director 42 of a criminal gang!
+
+Traveler (Intrepid Valberry): I wanted revenge on the paper, so I planned to run Sir Arthur straight through!
+
+Traveler (Intrepid Valberry): But Sir Arthur was gone when I got there. I was furious! But there was nothing I could do. I just stabbed the knife into the pedestal to scare them and left...
+
+Paimon (Kevin): It's finally Paimon's turn! I'm Kevin, a problem child! I'm here to get Sir Arthur to spread the word that my dad's a big fat weasel.
+
+Paimon (Kevin): But Sir Arthur was gone, and there was a knife in its favorite pedestal! I tried to look for it, but all I found was a smelly old man...
+
+Paimon (Kevin): I somehow woke him, and that terrified me. I took the knife to defend myself and ran as fast as I could! I didn't even notice when a button got torn off my clothes...
+
+Talochard (Rocher): Indeed, I'm that smelly old man. The commotion Kevin made woke me up, and I vaguely caught sight of him running off with something.
+
+Talochard (Rocher): After that, I looked toward the paper's office and saw that Sir Arthur was missing. I was afraid of becoming a suspect, so I hurried back to my usual haunt at the docks.
+
+Paimon: Is this everything that happened? Paimon thinks our reenactment went perfectly, but did we miss anything?
+
+Traveler: The threatening letter...
+
+Talochard: That's right! We forgot about that letter... Since the thief's motive is tied to the incident from thirty years ago, the paper should have some idea about the thief's identity, right?
+
+Paimon: Yeah, but the paper is still in the dark on all of this. We should deliver this letter to them immediately. How could we have overlooked something so crucial...
+
+Talochard: Because all of you were too busy trying to console me. I'm so sorry for being a burden...
+
+Paimon: You shouldn't think like that, Talochard. Haven't you read through Dr. Mosso's case files? Those should be really exclusive information.
+
+Talochard: Ah! Now that you mention those, I forgot to tell you about the contents... Hmm... Let's go over there to discuss it.
+
+Talochard: Dr. Mosso's death is closely linked to the paper, so it feels weird to talk about it right outside their front door.
+
+Talochard: This spot is perfect. You wanted to know why Dr. Mosso was tried, right? It actually stemmed from public opinion.
+
+Paimon: Public opinion!?
+
+Talochard: Well, not long after the existence of Dr. Mosso's lie detector was made public, The Steambird published several articles on it and quickly drew the public's attention.
+
+"Curve": Relevant information retrieved: "Mosso Exclusive: Behind the Lies," "Mosso Protocols: Protocols to Watch," "Lie Detector? A Game of Authority"...
+
+Talochard: The paper used special features like these to incite widespread fear and worry among the general public... Soon, public opinion began to turn against Dr. Mosso.
+
+Traveler: What were they worried about?
+
+Talochard: For example, how to guarantee that the lie detector's output is credible. What would happen if a suspect in a trial isn't lying, but Curve says he is?
+
+Paimon: Would mistrials and injustice result? But if Curve's reliability can be guaranteed, then those concerns would evaporate.
+
+"Curve": Relevant information retrieved: Content from "Lie Detector? A Game of Authority":
+
+"Curve": "...When using protocols to restrict authority, the central question is not the lie detector's reliability but its ability to remain independent from outside authorities..."
+
+Talochard: As the article points out, Curve is just a machine. So, what would happen if the people put their trust in Curve, yet someone could control Curve and use it to falsify results?
+
+Paimon: The Mosso Protocols are there to prevent that, right?
+
+"Curve": Relevant information retrieved: Content from "Mosso Protocols: Protocols to Watch":
+
+"Curve": "...It must be noted that as the Mosso Protocols are man-made, there is a possibility of them being modified. This may prove to be a well-concealed trap..."
+
+Paimon: Whoa! Are they accusing Dr. Mosso of secretly tampering or leaving backdoors?
+
+Talochard: This is just the beginning. All kinds of other characters piled on after The Steambird triggered the first outpouring of public opposition...
+
+"Curve": Relevant information retrieved: "Fish Can't Live in Clear Water: Reject A Goldfish Bowl World" published by the Seven Nations Gazette, "Shocking Misjudgment of the Lie Detector" published by Short Anthologies...
+
+Paimon: "Shocking Misjudgment of the Lie Detector"? Did Curve make a mistake?
+
+Talochard: That was just a lie, of course! Curve was never involved in any case, much less in misjudging one... But that's how public opinion works, and so it was all downhill from there for Dr. Mosso.
+
+Talochard: In the end, some even came forward and made accusations against the doctor. They called the lie detector a total scam, and all the results were completely manufactured.
+
+Talochard: They believed the doctor was deceiving the public in an attempt to gain the power to pass judgment over others, and so they demanded the doctor be severely punished and the lie detector be destroyed.
+
+Paimon: A—aren't those accusations a little too serious? Would anyone even believe stuff like that?
+
+Talochard: Many did.
+
+Talochard: They were all just ordinary people, so how could they differentiate the truth from lies? When we don't have access to sufficient information, we believe what others want us to believe.
+
+Talochard: And it just so happened that at such a critical juncture, The Steambird did something huge: They provided evidence that exposed Dr. Mosso as having falsified results. Their evidence was key to Dr. Mosso's conviction.
+
+Paimon: Evidence!? Did Dr. Mosso really... deceive everyone?
+
+Talochard: The doctor refused to admit it of course, and so he died defending himself in a duel. Only then did things start to calm down.
+
+Talochard: The paper's reputation skyrocketed, and a useless "fake" like Curve was soon forgotten. It was just left with the Marechaussee Phantom as evidence...
+
+Traveler: So is Curve the real deal or not?
+
+Talochard: Well, I think Curve is the real deal... and Dr. Mosso was wrongly accused...
+
+Paimon: Then was the evidence presented by the paper falsified? Or did they make a mistake?
+
+Talochard: But the person who wrote the threatening letter seems to think that the paper deliberately fabricated those lies in search of fame, profit, or something else.
+
+Paimon: Oh... Then could she be someone very close to Dr. Mosso, back for revenge?
+
+Paimon: #Paimon would definitely avenge Traveler if Traveler was wronged like that! Ugh! Paimon can't bear to think about it...
+
+Traveler: Thanks, Paimon.
+
+Traveler: Don't jinx me, Paimon.
+
+Talochard: But Dr. Mosso passed away thirty years ago, so someone very close to him... I wonder if Euphrasie knows anything...
+
+Paimon: ...Should we go see her then?
+
+Talochard: Don't worry, she wasn't in charge of the paper at the time, and I don't think Euphrasie is a bad person...
+
+Paimon: Fine, looks like we'll have to ask her about it tomorrow. Today was a total information overload, Paimon's head needs some time to recover...
+
+Talochard: Alright! Then let's head home, get some rest, and meet outside the paper tomorrow morning.
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
+
+"Curve": Self-diagnostic in progress...
+
+"Curve": Moisture has seeped into the motherboard. Motherboard temperature: Below warning line. Core functionality: 19%.
+
+### Additional Talk 2
+
+Paimon: These Bulle Fruit... Do these people really like them? In that case, we could try distracting them by throwing some from a distance...
+
+Traveler: Sure, give it a try.
+
+Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
+
+Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
+
+Paimon (Guard): Alert! Alert! Intruder alert!
+
+Talochard: This plan's way too dumb!
+
+Traveler: Doesn't sound like it'll work.
+
+Talochard: Let's come up with a plan B.
+
+### Additional Talk 3
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+### Additional Talk 4
+
+Paimon: (This pot... has chicken legs in it. Is someone cooking?)
+
+Talochard: (How about adding in some "seasoning" to put them to sleep after their meal? Or we can do something else to drive them away...)
+
+Paimon: #(N—Nice idea! Check your bag for any useful "seasoning," Traveler!)
+
+### Additional Talk 5
+
+Boss: Who cooked this gar— *blaaargh*... Who cooked today!? Kill— *blech*... Find him and kill him!
+
+"Intrepid Valberry": Boss! Boss— *urrrrrk*... Boss I'll immediately— *blaaaargh*... I'll go find the cook!
+
+Talochard: Hmph! This Agent right here is today's chef! So who's going to kill me?
+
+Boss: M—Marechaussee Phantom? Agents... How did— *huuuuurk*... How did you get in here?
+
+Talochard: I don't think you've got time to worry about that right now! We've obtained evidence of your crimes!
+
+Boss: Evidence? But Officer, all of them were temporary workers, and didn't you arrest them already?
+
+Talochard: We're working on another case right now! All of you are suspects in a plot to get revenge against The Steambird by stealing Sir Arthur!
+
+Boss: The paper? I—Impossible. I've never held any grudges toward them... in fact, I even want to thank them for pointing out the flaws in our business model...
+
+Talochard: You're good with words, but what will you do once we show you... THIS?
+
+Talochard: See? Director 42 admitted it in their diary! Busted!
+
+### Additional Talk 6
+
+Talochard: Oh, dangit! That's not it!
+
+Boss: What are you going to show? Do you have any evidence?
+
 ### Additional Talk 7
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+### Additional Talk 8
+
+Diary of a Valiant Struggle (I): Missing text (0)
+
+### Additional Talk 9
+
+Diary of a Valiant Struggle (II): Missing text (0)
+
+### Additional Talk 10
+
+Diary of a Valiant Struggle (III): Missing text (0)
+
+### Additional Talk 11
+
+Diary of a Valiant Struggle (IV): Missing text (0)
+
+### Additional Talk 12
 
 Boss: What are you going to show? Do you have any evidence?

@@ -25,14 +25,6 @@ Razmaspes: H—Help me...!
 
 Razmaspes: Ah!
 
-## Talk 5
-
-The Damselette: (I'm seeing so much that I'd never usually get to see... They'd never act like this when I was around.)
-
-The Damselette: (Mmm... It's nice, being able to just watch people in peace in these final moments...)
-
-The Damselette: #What a rare opportunity. I think I'll go take a look around in Nasha Town, too. Maybe Traveler will be there...
-
 ## Talk 6
 
 Durin: He... He really left! We did it!
@@ -41,47 +33,9 @@ Durin: He... He really left! We did it!
 
 ## Talk 7
 
-Razmaspes: Wait, no entry here either!?
-
-Razmaspes: A—Alright then...
-
-## Talk 8
-
-Razmaspes: Aaaargh!
-
-## Talk 9
-
-Razmaspes: So many... monsters...!
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
-
-## Talk 10
-
-Durin: This is a new development... I've never seen this happen before...
-
-Durin: We might just be able to save this person.
-
-## Talk 11
-
-Albedo: Monsters approaching from the front. You need to stop them and create an opportunity for him to hide.
-
-## Talk 12
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Stop him, Durin. We can't let him get any further in.
-
-## Talk 13
-
-Razmaspes: No, there's a monster ahead...
-
-## Talk 14
-
 Phryazantus: What!? What's this? Hey, let us out!
 
-## Talk 15
-
-Razmaspes: Wait, is that the barrier I saw earlier? Why is it appearing now... It's as if someone's controlling it...
-
-## Talk 16
+## Talk 8
 
 Reetta: ...So just, fill these balloons with air, right?
 
@@ -117,19 +71,31 @@ Reetta: Hahaha!
 
 The Damselette: ...Is pumping a balloon full of water really so much fun?
 
-## Talk 17
+## Talk 10
 
-Razmaspes: The monster's gone... Is it safe now?
+The Damselette: (I'm seeing so much that I'd never usually get to see... They'd never act like this when I was around.)
 
-## Talk 18
+The Damselette: (Mmm... It's nice, being able to just watch people in peace in these final moments...)
 
-Razmaspes: The barrier's gone too. How odd...
+The Damselette: #What a rare opportunity. I think I'll go take a look around in Nasha Town, too. Maybe Traveler will be there...
 
-Razmaspes: Anyway, I guess I'll keep going.
+## Talk 11
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
+Albedo: Monsters approaching from the front. You need to stop them and create an opportunity for him to hide.
 
-## Talk 19
+## Talk 13
+
+Razmaspes: No, there's a monster ahead...
+
+## Talk 14
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Stop him, Durin. We can't let him get any further in.
+
+## Talk 15
+
+Razmaspes: Wait, is that the barrier I saw earlier? Why is it appearing now... It's as if someone's controlling it...
+
+## Talk 16
 
 Lauma: A while ago, I took the time to organize all documents in our possession that pertain to Kuutar. What you see here is the material I consider reliable.
 
@@ -241,29 +207,41 @@ The Damselette: And now, I can make no such gestures of warmth even if I want to
 
 The Damselette: ...
 
+## Talk 17
+
+Razmaspes: The monster's gone... Is it safe now?
+
+## Talk 18
+
+Razmaspes: The barrier's gone too. How odd...
+
+Razmaspes: Anyway, I guess I'll keep going.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
+
 ## Talk 20
-
-Atarfarnes: Wait, there was someone else here? Don't go any further, we've got anti-monster traps laid out everywhere!
-
-Razmaspes: But, my daughter must just be up ahead. I have to go...
-
-## Talk 21
 
 Durin: We might be able to use the explosives over there, but we need to take care not to hurt him.
 
 ## Talk 22
 
-Razmaspes: Wh—Why? How will I know where Spargana's gone like this...?
+Atarfarnes: Wait, there was someone else here? Don't go any further, we've got anti-monster traps laid out everywhere!
 
-Razmaspes: ...You know what? I'll trust this strange barrier. It's gotten me this far, after all...
+Razmaspes: But, my daughter must just be up ahead. I have to go...
 
 ## Talk 24
 
-Black Screen Text: #After leaving the Kuuvahki Experimental Design Bureau, {REALNAME[ID(1)|HOSTONLY(true)]} goes to meet Durin and Albedo, who are observing the phantoms.
+Razmaspes: The barrier's gone too. How odd...
+
+Razmaspes: Anyway, I guess I'll keep going.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
 
 ## Talk 26
 
-Jahoda: Could you do me a solid and try to smooth things over with Boss Nef?
+Razmaspes: So many... monsters...!
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
 
 ## Talk 27
 
@@ -277,15 +255,15 @@ Flins: Hehe. Let's just say I'm intrigued by these shining magical stones that M
 
 ## Talk 28
 
-Black Screen Text: The phantom has met its end and returned to his place of origin.
+Durin: This is a new development... I've never seen this happen before...
 
-Razmaspes: Ah!
+Durin: We might just be able to save this person.
 
 ## Talk 30
 
-Black Screen Text: The phantom has met its end and returned to his place of origin.
+Razmaspes: Wh—Why? How will I know where Spargana's gone like this...?
 
-Razmaspes: Ah!
+Razmaspes: ...You know what? I'll trust this strange barrier. It's gotten me this far, after all...
 
 ## Talk 31
 
@@ -323,16 +301,6 @@ The Damselette: The day has come at last...
 
 The Damselette: Missing text (2092602122)
 
-## Talk 34
-
-Durin: It won't work... there's not enough left. If he makes it in, he'll die.
-
-Durin: But then... This clue could be the key to him finding his daughter...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It might not be the only one. Better he misses that clue than loses his life.
-
-Durin: I guess so...
-
 ## Talk 35
 
 Razmaspes: That's my daughter's book! She's passed this way! Why... Why won't you let me go in!?
@@ -347,15 +315,13 @@ Razmaspes: I no longer have anywhere else to go...
 
 ## Talk 36
 
-Black Screen Text: The phantom has met its end and returned to his place of origin.
+Durin: It won't work... there's not enough left. If he makes it in, he'll die.
 
-Razmaspes: H—Help me...!
+Durin: But then... This clue could be the key to him finding his daughter...
 
-## Talk 37
+#{REALNAME[ID(1)|HOSTONLY(true)]}: It might not be the only one. Better he misses that clue than loses his life.
 
-Black Screen Text: The phantom has met its end and returned to his place of origin.
-
-Razmaspes: H—Help me...!
+Durin: I guess so...
 
 ## Talk 38
 
@@ -376,28 +342,62 @@ Razmaspes: No good. Gotta keep moving ahead...
 
 ### Additional Talk 1
 
-Razmaspes: The barrier's gone too. How odd...
-
-Razmaspes: Anyway, I guess I'll keep going.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
-
-### Additional Talk 2
-
 Razmaspes: So many... monsters...!
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
 
-### Additional Talk 3
+### Additional Talk 2
 
 Durin: This is a new development... I've never seen this happen before...
 
 Durin: We might just be able to save this person.
 
+### Additional Talk 3
+
+Razmaspes: Wait, no entry here either!?
+
+Razmaspes: A—Alright then...
+
 ### Additional Talk 4
+
+Razmaspes: Aaaargh!
+
+### Additional Talk 5
+
+Black Screen Text: #After leaving the Kuuvahki Experimental Design Bureau, {REALNAME[ID(1)|HOSTONLY(true)]} goes to meet Durin and Albedo, who are observing the phantoms.
+
+### Additional Talk 6
+
+Jahoda: Could you do me a solid and try to smooth things over with Boss Nef?
+
+### Additional Talk 7
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: Ah!
+
+### Additional Talk 8
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: H—Help me...!
+
+### Additional Talk 9
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: H—Help me...!
+
+### Additional Talk 10
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: Ah!
+
+### Additional Talk 11
 
 Unknown Role (TALK_ROLE_NONE): Missing text (870763074)
 
-### Additional Talk 5
+### Additional Talk 12
 
 Black Screen Text: The phantom has met its end and returned to his place of origin.

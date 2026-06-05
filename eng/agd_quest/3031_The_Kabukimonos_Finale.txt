@@ -267,16 +267,6 @@ Wanderer: ...Thank you.
 
 Wanderer: Alright, done. Thanks for waiting for me. We can go now.
 
-## Talk 8
-
-Katsuragi: Nagamasa, I found this young guy in a cave sealed off by a landslide. He doesn't remember his name.
-
-Mikoshi Nagamasa: ...Well, we need to call you something. I hear the workers are calling you "the kabukimono"?
-
-The Balladeer (Kabukimono): That's fine with me.
-
-Mikoshi Nagamasa: Katsuragi, report to Niwa. Tell him we have someone new joining us.
-
 ## Talk 9
 
 The Balladeer (Kabukimono): You do realize you're blocking my path?
@@ -289,9 +279,15 @@ The Balladeer (Kabukimono): ...Are you trying to win me over?
 
 The Jester: The long-fated rebellion has begun. Why not take your place at the banquet and join those who shall feast?
 
-## Talk 12
+## Talk 11
 
-Merchant: *sigh* ...That was a good batch of Sunsettias, too...
+Katsuragi: Nagamasa, I found this young guy in a cave sealed off by a landslide. He doesn't remember his name.
+
+Mikoshi Nagamasa: ...Well, we need to call you something. I hear the workers are calling you "the kabukimono"?
+
+The Balladeer (Kabukimono): That's fine with me.
+
+Mikoshi Nagamasa: Katsuragi, report to Niwa. Tell him we have someone new joining us.
 
 ## Talk 13
 
@@ -333,12 +329,6 @@ Wanderer: The voices have gone. It looks like the memory ends here.
 
 Paimon: Let's keep going.
 
-## Talk 14
-
-Sawada: Great, I can finally move forward with my novel! But what a sad story...
-
-Aqaba: I don't know what I was expecting, but... I never would have guessed this...
-
 ## Talk 15
 
 Signora: Why are you staring at me in silence? Can't you think of a nicer way to express yourself?
@@ -349,14 +339,6 @@ Signora: Hehe... Muddle-headed puppet, you're only No. 6 because you can take mo
 
 The Balladeer: You're about as much fun to be around as a raging inferno. But before we murder each other, it'd be best if we finish our duties.
 
-## Talk 16
-
-Nahida: There's a few things I'd like to look into. You should go take a walk and try to unwind.
-
-## Talk 17
-
-Nahida: It's time to get ready.
-
 ## Talk 19
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...This is trying my patience.
@@ -364,10 +346,6 @@ Nahida: It's time to get ready.
 Paimon: Have you got all your memories back now?
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got any more stupid questions!?
-
-## Talk 20
-
-Wanderer: No matter what lies ahead, I'll face it. Whatever it takes. I'm just sorry that you have to join me for the whole thing.
 
 ## Talk 22
 
@@ -448,3 +426,30 @@ Traveler: The past will catch up with you.
 Nahida: The memory recovery seems to have been a success. This dream has served its purpose.
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Come on. Let's continue this outside.
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
+
+Merchant: *sigh* ...That was a good batch of Sunsettias, too...
+
+### Additional Talk 2
+
+Sawada: Great, I can finally move forward with my novel! But what a sad story...
+
+Aqaba: I don't know what I was expecting, but... I never would have guessed this...
+
+### Additional Talk 3
+
+Nahida: There's a few things I'd like to look into. You should go take a walk and try to unwind.
+
+### Additional Talk 4
+
+Nahida: It's time to get ready.
+
+### Additional Talk 5
+
+Wanderer: No matter what lies ahead, I'll face it. Whatever it takes. I'm just sorry that you have to join me for the whole thing.

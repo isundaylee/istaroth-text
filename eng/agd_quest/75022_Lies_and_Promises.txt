@@ -5,9 +5,25 @@
 
 ## Talk 1
 
+Strange Yumkasaurus: ...
+
+Paimon: Wow! There's treasure in the cave, but this fella here has totally blocked off the entrance, and won't move at all...
+
 Strange Yumkasaurus: Arrooo?
 
-Paimon: Hey, is there something you want? ...If only we had a way to know what that is...
+Paimon: Yeah? What's wrong?
+
+Strange Yumkasaurus: Arrooo...
+
+Paimon: #Bah, Paimon didn't understand that at all! {REALNAME[ID(2)|SHOWHOST(true)]}, can you tell what this Yumkasaur is trying to say?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
+
+Strange Yumkasaurus: ?
+
+Paimon: #Looks like that didn't work... *sigh* And even if they could understand each other, it's not like we could talk with {REALNAME[ID(2)|SHOWHOST(true)]} either.
+
+Paimon: If only we had a way to understand what was being said, then maybe we could give it what it wants and make it move out of the way.
 
 ## Talk 2
 
@@ -31,7 +47,12 @@ Paimon: Let's find one of those and give it a try first! Hungry bellies tend not
 
 ## Talk 3
 
-Strange Yumkasaurus: Arroo arroo... *stomach rumbling*
+Paimon: Yeah! Hehe, sure looks good. It'll definitely like it!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Black Screen Text: The Yumkasaur downs the food in front of it in a flash.
+You almost don't even manage to see just how the feat was accomplished...
 
 ## Talk 4
 
@@ -81,12 +102,6 @@ Strange Yumkasaurus: *snoring* *snoring*
 
 Paimon: Wow, this Saurian's sleeping unreasonably soundly... Guess it's a layabout on top of being a greedy-guts.
 
-## Talk 6
-
-Strange Yumkasaurus: Someone brought good food. Nice! Hehe... When he's back, we eat together!
-
-Strange Yumkasaurus: ...When will he come back?
-
 ## Talk 7
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
@@ -133,21 +148,6 @@ Wayna: We will send people to feed this Yumkasaurus on a regular basis. It is a 
 
 Wayna: As for that scoundrel... *sigh* It is a tragic ending indeed, but I refuse to sympathize with him. People should be held responsible for their actions.
 
-## Talk 98
-
-Paimon: Yeah! Hehe, sure looks good. It'll definitely like it!
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Black Screen Text: The Yumkasaur downs the food in front of it in a flash.
-You almost don't even manage to see just how the feat was accomplished...
-
-## Talk 99
-
-Paimon: Huh? Do you not like it...? It won't touch it...
-
-Paimon: Hey now, beggars aren't supposed to be this choosy... Hmm, just what kind of food might it like?
-
 ## Additional Conversations
 
 *Conversations not present as sub-quests.*
@@ -155,37 +155,31 @@ Paimon: Hey now, beggars aren't supposed to be this choosy... Hmm, just what kin
 
 ### Additional Talk 1
 
-Strange Yumkasaurus: ...
-
-Paimon: Wow! There's treasure in the cave, but this fella here has totally blocked off the entrance, and won't move at all...
-
 Strange Yumkasaurus: Arrooo?
 
-Paimon: Yeah? What's wrong?
-
-Strange Yumkasaurus: Arrooo...
-
-Paimon: #Bah, Paimon didn't understand that at all! {REALNAME[ID(2)|SHOWHOST(true)]}, can you tell what this Yumkasaur is trying to say?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
-
-Strange Yumkasaurus: ?
-
-Paimon: #Looks like that didn't work... *sigh* And even if they could understand each other, it's not like we could talk with {REALNAME[ID(2)|SHOWHOST(true)]} either.
-
-Paimon: If only we had a way to understand what was being said, then maybe we could give it what it wants and make it move out of the way.
+Paimon: Hey, is there something you want? ...If only we had a way to know what that is...
 
 ### Additional Talk 2
+
+Strange Yumkasaurus: Arroo arroo... *stomach rumbling*
+
+### Additional Talk 3
+
+Paimon: Huh? Do you not like it...? It won't touch it...
+
+Paimon: Hey now, beggars aren't supposed to be this choosy... Hmm, just what kind of food might it like?
+
+### Additional Talk 4
 
 Strange Yumkasaurus: *snoring* *snoring*
 
 Paimon: Wow, this Saurian's sleeping unreasonably soundly... Guess it's a layabout on top of being a greedy-guts.
 
-### Additional Talk 3
+### Additional Talk 5
 
 Strange Yumkasaurus: Remember now... *gurgle* Want to eat... Meaty food...
 
-### Additional Talk 4
+### Additional Talk 6
 
 Strange Yumkasaurus: Want to eat...
 
@@ -195,7 +189,7 @@ Strange Yumkasaurus: Flat stomach, stomach, so hot...
 
 Strange Yumkasaurus: Want to eat—
 
-### Additional Talk 5
+### Additional Talk 7
 
 Strange Yumkasaurus: *snoring*... He's right. Just need block cave... *snoring*... Then can eat meaty food...
 

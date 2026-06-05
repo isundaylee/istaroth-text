@@ -3,6 +3,46 @@
 # Welkin Moon's Homecoming
 
 
+## Talk 1
+
+Maika: ...No, you're doing it wrong. The moon looks like this now!
+
+Mahla: Hmm? What are you drawing, children?
+
+Maika: The new moon, Mom! It looks different than before, doesn't it?
+
+Maika: Um, also — can I go buy a sugar sculpture today? Please? Just one!
+
+Mahla: ...Alright. I suppose today is a special day, after all. Almost like a festival.
+
+Alida: Extra, extra! Get the latest Nasha Express here!
+
+Alida: "Post-Disaster Report! Nasha Town reborn beneath a new moon!"
+
+Alida: "The voyage begins today! The future looks bright thanks to the League!" Want a copy?
+
+Arkhyp: ...I knew things would be different, but I didn't think that would include the moon.
+
+Koski: They say a new Moon Goddess has been born.
+
+Arkhyp: A new moon goddess? Who's saying that? The Frostmoon Scions?
+
+Koski: I guess so...? I'm not too clued up on the details. As far as I'm concerned, the moon's still in the sky, and it's business as usual.
+
+Koski: Hey, since we've come all this way... Shall we grab ourselves a free meal while we're here?
+
+Arkhyp: Are you a convert now? Or are you just here for the free lunch?
+
+Koski: Oh, come on, what does it matter? After everything we've all just been through... Mmm, that smells good. Alright, that's it. I'm hungry. Time to eat.
+
+Vesa: Come on! We gotta get there early, or there won't be any good spots left!
+
+Metta: Shh, keep it down! This is the residential area. What if people are still sleeping?
+
+Black Screen Text: After the battle, you return to Nasha Town...
+
+Black Screen Text: After learning of the crisis's end, people gradually return to Nod-Krai...
+
 ## Talk 2
 
 The Damselette: We're here.
@@ -66,6 +106,22 @@ Ineffa: Shall we move to the open space near the center? The view there is bette
 Traveler: I'll take the picture.
 
 Maika: Thank you!
+
+## Talk 4
+
+Maika: You look so cool when you fly, Miss Robot. And when you use your spear, too!
+
+Maika: And... even though you took my snacks, it's pretty cool that you could build stuff like this. You've got so many inventions, it's amazing!
+
+Maika: Also... Also...
+
+Mahla: Maika, we need to go now.
+
+Maika: One second!
+
+Ineffa: Please take this Feast of the Moon, as well as some snacks.
+
+Ineffa: Share them with your mother and your lovely family.
 
 ## Talk 5
 
@@ -307,19 +363,157 @@ Nicole: Ahaha... I'm so happy they came in handy... Still not fishing for gratit
 
 ## Talk 7
 
-Maika: You look so cool when you fly, Miss Robot. And when you use your spear, too!
+The Knave: You're here.
 
-Maika: And... even though you took my snacks, it's pretty cool that you could build stuff like this. You've got so many inventions, it's amazing!
+Paimon: You're here too, Hat Guy? Are you heading back together?
 
-Maika: Also... Also...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: No. I'm bound for Sumeru, and she for Fontaine. We just happened to cross paths at the harbor.
 
-Mahla: Maika, we need to go now.
+Traveler: How are you holding up?
 
-Maika: One second!
+Traveler: How's your core?
 
-Ineffa: Please take this Feast of the Moon, as well as some snacks.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Everything seems fine. Sandrone may have an abominable temper, but she's always been very responsible with important calculations, and things entrusted to her by valued friends.
 
-Ineffa: Share them with your mother and your lovely family.
+The Knave: You always speak as if you know us inside out, Mr. Hat Guy.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Maybe I'm just a good judge of character?
+
+The Knave: I certainly hope that's all there is to it.
+
+The Knave: Regardless, you have been a significant help in this matter. For that, you have my gratitude.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Eh... I didn't do anything special...
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Sandrone's the one who completed a seemingly impossible formula and turned the tide of the entire battle... even giving her life in the process. She's the one we should be thanking.
+
+Paimon: ...
+
+The Knave: ...Even we were unaware that Sandrone had hidden the real formula inside Pulonia's body.
+
+The Knave: She managed to fool Dottore into thinking the formula was running in her system, by installing a identical-looking decoy within her...
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: She probably realized that she didn't have the strength to stop Dottore... but this way, she could at least get him to lower his guard.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Heh... She always worked like that. Always had a backup plan.
+
+Traveler: What will happen to her body?
+
+The Knave: Well... that's why I'm traveling to Fontaine. She made a request of me long ago, and the time has come to fulfill it. Think of it as her will.
+
+Traveler: What was the request?
+
+The Knave: She said that, should she ever fail in a mission, she'd like me to deliver her core and Pulonia's to the Fontaine Research Institute.
+
+The Knave: She also mentioned that she had made arrangements for people there to set her affairs in order.
+
+Traveler: ...Does Columbina know about this?
+
+The Knave: No. I was specifically warned not to tell her.
+
+The Knave: This is her last wish, and I will abide by it.
+
+Traveler: ...Is it also some kind of "backup plan"?
+
+The Knave: I can only hope so... But none of us here can know for certain.
+
+The Knave: I bade farewell to Columbina earlier today. As promised, she turned the Iridescent Moon's marrow over to me.
+
+The Knave: She... spent a long time with Sandrone's body, saying her goodbyes...
+
+Paimon: ...Is she alright?
+
+The Knave: Sandrone's passing has left a great wound in all of our hearts. It will take time to heal.
+
+The Knave: But Columbina surprised me — she offered me some words of comfort before I departed. Despite being grief-stricken herself, she showed an awareness of the feelings of others around her.
+
+The Knave: ...She never used to act like this. Clearly, she has grown. And I suspect that we have you to thank for much of the change we are seeing in her.
+
+Traveler: It was a group effort by all of her friends.
+
+The Knave: ...I shall return to Nod-Krai to see her as soon as I find the time. I hope that from now on, she too will explore more of the world.
+
+The Knave: Columbina Hyposelenia's journey is only beginning.
+
+The Knave: ...My ship is here.
+
+The Knave: #Traveler, Paimon, we shall meet again. You too, Hat Guy.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: What are you still bumming around for? Isn't Columbina waiting for you?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I thought today was the day you'd agreed with her to go find out the truth about your sibling.
+
+Traveler: (...)
+
+Traveler: I'm a little nervous...
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You're afraid you won't like the truth when you see it?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Hah... Well, this is new. I was starting to think that nothing could scare you.
+
+Paimon: Don't say that. Wouldn't you be if you were in this situation?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: #Fair point. But I'd say I have more experience facing up to unpleasant truths than Traveler.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: They say blood's thicker than water. I know how much you need your family back — more than you need any of your friends. And I'm sure that all your real friends understand that, too.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: No matter what the truth turns out to be, they will stick by you and support you, whatever decision you make.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Finding the truth is important. But more important still is what you choose to do once you've found it.
+
+Traveler: #{REALNAME[ID(1)|HOSTONLY(true)]}...
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: At least, that's the life lesson I've learned from my experience grappling with the truth.
+
+Traveler: Do you feel better now than you used to?
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: What, now that Dottore's dead and gone? A little, I guess. But it hasn't solved everything.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Maybe I regret not getting to end his life with my own hands, or maybe it's something else. But for whatever reason, I still feel like I have a chip on my shoulder.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Either way, I'm going back to Sumeru. Lesser Lord Kusanali is gonna need help dealing with all the chaos Dottore left in his wake. Not just from this incident, but everything he did in the past, too.
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You should continue with your journey, as you've always done. Who knows? Maybe we'll meet again someplace else.
+
+Paimon: So what should we do now? If you wanna explore a bit more to steady those nerves, Paimon's game.
+
+Paimon: After all, when Columbina said she knew where your ship was hidden, Paimon promised to give you two some alone time with the "truth."
+
+Paimon: It hasn't been all that long since we were last apart, sure... but with Columbina there, Paimon's sure things'll be just dandy!
+
+Traveler: Paimon...
+
+Traveler: Thank you...
+
+Paimon: Hehe, ain't no biggie. Paimon might be all about that food and fun, but she knows how to do right by people!
+
+Paimon: #Paimon's sure you'd prefer to digest the news about your sister in peace.
+
+Paimon: But uh, no matter what you see... Just know you can share it with Paimon — 'course, as long as it's not super private!
+
+Paimon: If you can't make sense of something, let's give it some thought together. And even if we both can't figure it out, Paimon can at least treat you to a nice meal!
+
+Traveler: Who am I to refuse you, Paimon?
+
+Traveler: You're my best companion, after all!
+
+Paimon: Hehe, glad to hear it!
+
+Paimon: Feel better now?
+
+Traveler: Yes, much better.
+
+Traveler: All thanks to you, Paimon.
+
+Paimon: Alrighty! Next up, time to meet with Columbina!
+
+The Knave: Some of her personal effects, such as her notes, were left to me. I've decided to take them back to the House of the Hearth — for safekeeping, primarily, but also... as mementos, I suppose.
+
+The Knave: However, there is one book among them that I'd like to leave in your care. I'll have someone deliver it to your residence at The Flagship at a later date.
+
+The Knave: Heh... After these recent events, the Tsaritsa has revoked the Palestar Edict.
+
+The Knave: Snezhnaya now realizes that the arrest warrant for Columbina was just a ploy by Dottore, who coveted her powers.
 
 ## Talk 8
 
@@ -431,69 +625,21 @@ Traveler: Oh, you can have this back now.
 
 The Damselette: Thank you. I'll make sure not to lose it this time.
 
-## Talk 9
-
-Traveler: I think I'll stay here with Columbina for a little longer...
-
-## Talk 10
-
-Maika: ...No, you're doing it wrong. The moon looks like this now!
-
-Mahla: Hmm? What are you drawing, children?
-
-Maika: The new moon, Mom! It looks different than before, doesn't it?
-
-Maika: Um, also — can I go buy a sugar sculpture today? Please? Just one!
-
-Mahla: ...Alright. I suppose today is a special day, after all. Almost like a festival.
-
-Alida: Extra, extra! Get the latest Nasha Express here!
-
-Alida: "Post-Disaster Report! Nasha Town reborn beneath a new moon!"
-
-Alida: "The voyage begins today! The future looks bright thanks to the League!" Want a copy?
-
-Arkhyp: ...I knew things would be different, but I didn't think that would include the moon.
-
-Koski: They say a new Moon Goddess has been born.
-
-Arkhyp: A new moon goddess? Who's saying that? The Frostmoon Scions?
-
-Koski: I guess so...? I'm not too clued up on the details. As far as I'm concerned, the moon's still in the sky, and it's business as usual.
-
-Koski: Hey, since we've come all this way... Shall we grab ourselves a free meal while we're here?
-
-Arkhyp: Are you a convert now? Or are you just here for the free lunch?
-
-Koski: Oh, come on, what does it matter? After everything we've all just been through... Mmm, that smells good. Alright, that's it. I'm hungry. Time to eat.
-
-Vesa: Come on! We gotta get there early, or there won't be any good spots left!
-
-Metta: Shh, keep it down! This is the residential area. What if people are still sleeping?
-
-Black Screen Text: After the battle, you return to Nasha Town...
-
-Black Screen Text: After learning of the crisis's end, people gradually return to Nod-Krai...
-
 ## Talk 11
 
 Traveler: (Should we return to Teyvat now?)
 
-## Talk 12
+## Talk 14
 
-Albedo: We'll be staying in Nod-Krai for a while longer to wrap some things up for Grand Master Varka.
+The Damselette: We're here.
 
-Durin: Sure, no problem.
+Traveler: ...
 
-Albedo: Do you miss home?
+The Damselette: Over there.
 
-Durin: Um... To be honest, I do. I know the Grand Master's been away from Mondstadt for much longer, but for me... this is the longest I've been away from home in my life.
+Traveler: ...!
 
-Albedo: If there's anything you'd like to say to your friends back home, I'm sure Varka would be happy to write it down in a letter for you.
-
-Durin: Ah, there's no need. I prefer talking face to face. Seeing their expressions and reactions makes me feel at ease.
-
-## Talk 13
+## Talk 15
 
 Traveler: Our spaceship...
 
@@ -705,164 +851,6 @@ The Damselette: To start with... I want to stay here just a little longer.
 
 The Damselette: After that, let's return home and continue our journey.
 
-## Talk 15
-
-The Knave: You're here.
-
-Paimon: You're here too, Hat Guy? Are you heading back together?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: No. I'm bound for Sumeru, and she for Fontaine. We just happened to cross paths at the harbor.
-
-Traveler: How are you holding up?
-
-Traveler: How's your core?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Everything seems fine. Sandrone may have an abominable temper, but she's always been very responsible with important calculations, and things entrusted to her by valued friends.
-
-The Knave: You always speak as if you know us inside out, Mr. Hat Guy.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Maybe I'm just a good judge of character?
-
-The Knave: I certainly hope that's all there is to it.
-
-The Knave: Regardless, you have been a significant help in this matter. For that, you have my gratitude.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Eh... I didn't do anything special...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Sandrone's the one who completed a seemingly impossible formula and turned the tide of the entire battle... even giving her life in the process. She's the one we should be thanking.
-
-Paimon: ...
-
-The Knave: ...Even we were unaware that Sandrone had hidden the real formula inside Pulonia's body.
-
-The Knave: She managed to fool Dottore into thinking the formula was running in her system, by installing a identical-looking decoy within her...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: She probably realized that she didn't have the strength to stop Dottore... but this way, she could at least get him to lower his guard.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Heh... She always worked like that. Always had a backup plan.
-
-Traveler: What will happen to her body?
-
-The Knave: Well... that's why I'm traveling to Fontaine. She made a request of me long ago, and the time has come to fulfill it. Think of it as her will.
-
-Traveler: What was the request?
-
-The Knave: She said that, should she ever fail in a mission, she'd like me to deliver her core and Pulonia's to the Fontaine Research Institute.
-
-The Knave: She also mentioned that she had made arrangements for people there to set her affairs in order.
-
-Traveler: ...Does Columbina know about this?
-
-The Knave: No. I was specifically warned not to tell her.
-
-The Knave: This is her last wish, and I will abide by it.
-
-Traveler: ...Is it also some kind of "backup plan"?
-
-The Knave: I can only hope so... But none of us here can know for certain.
-
-The Knave: I bade farewell to Columbina earlier today. As promised, she turned the Iridescent Moon's marrow over to me.
-
-The Knave: She... spent a long time with Sandrone's body, saying her goodbyes...
-
-Paimon: ...Is she alright?
-
-The Knave: Sandrone's passing has left a great wound in all of our hearts. It will take time to heal.
-
-The Knave: But Columbina surprised me — she offered me some words of comfort before I departed. Despite being grief-stricken herself, she showed an awareness of the feelings of others around her.
-
-The Knave: ...She never used to act like this. Clearly, she has grown. And I suspect that we have you to thank for much of the change we are seeing in her.
-
-Traveler: It was a group effort by all of her friends.
-
-The Knave: ...I shall return to Nod-Krai to see her as soon as I find the time. I hope that from now on, she too will explore more of the world.
-
-The Knave: Columbina Hyposelenia's journey is only beginning.
-
-The Knave: ...My ship is here.
-
-The Knave: #Traveler, Paimon, we shall meet again. You too, Hat Guy.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What are you still bumming around for? Isn't Columbina waiting for you?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I thought today was the day you'd agreed with her to go find out the truth about your sibling.
-
-Traveler: (...)
-
-Traveler: I'm a little nervous...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You're afraid you won't like the truth when you see it?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hah... Well, this is new. I was starting to think that nothing could scare you.
-
-Paimon: Don't say that. Wouldn't you be if you were in this situation?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: #Fair point. But I'd say I have more experience facing up to unpleasant truths than Traveler.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: They say blood's thicker than water. I know how much you need your family back — more than you need any of your friends. And I'm sure that all your real friends understand that, too.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: No matter what the truth turns out to be, they will stick by you and support you, whatever decision you make.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Finding the truth is important. But more important still is what you choose to do once you've found it.
-
-Traveler: #{REALNAME[ID(1)|HOSTONLY(true)]}...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: At least, that's the life lesson I've learned from my experience grappling with the truth.
-
-Traveler: Do you feel better now than you used to?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What, now that Dottore's dead and gone? A little, I guess. But it hasn't solved everything.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Maybe I regret not getting to end his life with my own hands, or maybe it's something else. But for whatever reason, I still feel like I have a chip on my shoulder.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Either way, I'm going back to Sumeru. Lesser Lord Kusanali is gonna need help dealing with all the chaos Dottore left in his wake. Not just from this incident, but everything he did in the past, too.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You should continue with your journey, as you've always done. Who knows? Maybe we'll meet again someplace else.
-
-Paimon: So what should we do now? If you wanna explore a bit more to steady those nerves, Paimon's game.
-
-Paimon: After all, when Columbina said she knew where your ship was hidden, Paimon promised to give you two some alone time with the "truth."
-
-Paimon: It hasn't been all that long since we were last apart, sure... but with Columbina there, Paimon's sure things'll be just dandy!
-
-Traveler: Paimon...
-
-Traveler: Thank you...
-
-Paimon: Hehe, ain't no biggie. Paimon might be all about that food and fun, but she knows how to do right by people!
-
-Paimon: #Paimon's sure you'd prefer to digest the news about your sister in peace.
-
-Paimon: But uh, no matter what you see... Just know you can share it with Paimon — 'course, as long as it's not super private!
-
-Paimon: If you can't make sense of something, let's give it some thought together. And even if we both can't figure it out, Paimon can at least treat you to a nice meal!
-
-Traveler: Who am I to refuse you, Paimon?
-
-Traveler: You're my best companion, after all!
-
-Paimon: Hehe, glad to hear it!
-
-Paimon: Feel better now?
-
-Traveler: Yes, much better.
-
-Traveler: All thanks to you, Paimon.
-
-Paimon: Alrighty! Next up, time to meet with Columbina!
-
-The Knave: Some of her personal effects, such as her notes, were left to me. I've decided to take them back to the House of the Hearth — for safekeeping, primarily, but also... as mementos, I suppose.
-
-The Knave: However, there is one book among them that I'd like to leave in your care. I'll have someone deliver it to your residence at The Flagship at a later date.
-
-The Knave: Heh... After these recent events, the Tsaritsa has revoked the Palestar Edict.
-
-The Knave: Snezhnaya now realizes that the arrest warrant for Columbina was just a ploy by Dottore, who coveted her powers.
-
-## Talk 17
-
-Traveler: We should probably head back...
-
 ## Talk 18
 
 The Damselette: The journey goes on, for you and for me.
@@ -955,10 +943,25 @@ Varka: And with the moon shining down brighter than ever, I think everyone is go
 
 *Conversations not present as sub-quests.*
 
-The Damselette: We're here.
 
-Traveler: ...
+### Additional Talk 1
 
-The Damselette: Over there.
+Traveler: I think I'll stay here with Columbina for a little longer...
 
-Traveler: ...!
+### Additional Talk 2
+
+Traveler: We should probably head back...
+
+### Additional Talk 3
+
+Albedo: We'll be staying in Nod-Krai for a while longer to wrap some things up for Grand Master Varka.
+
+Durin: Sure, no problem.
+
+Albedo: Do you miss home?
+
+Durin: Um... To be honest, I do. I know the Grand Master's been away from Mondstadt for much longer, but for me... this is the longest I've been away from home in my life.
+
+Albedo: If there's anything you'd like to say to your friends back home, I'm sure Varka would be happy to write it down in a letter for you.
+
+Durin: Ah, there's no need. I prefer talking face to face. Seeing their expressions and reactions makes me feel at ease.

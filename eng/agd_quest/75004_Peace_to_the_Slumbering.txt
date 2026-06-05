@@ -69,7 +69,7 @@ Titu: #Did it... just appear as you approached the large Inscription, Traveler?
 
 Paimon: Well, whatever. Let's take a look around that rock first, shall we?
 
-## Talk 6
+## Talk 17
 
 Titu: Just touch it once more and let the power of the phlogiston flow fully through the Inscription. That way, the "eggshell" should seal up completely... preventing the Abyss from escaping.
 
@@ -163,7 +163,15 @@ Traveler: One moment. Let's prep real quick.
 
 Titu: #Sure. Do all you need to... and be careful, Traveler.
 
-## Talk 7
+## Talk 21
+
+Yukom: Uh, are you guys alright? What happened just now?
+
+Yukom: There was this sudden, massive earthquake! I was pretty worried, honestly, but it's good that you're alright.
+
+Yukom: As for Titu... Why hasn't that guy come to take over this post yet? Ugh. I'd rather the earthquake flattened me at this point!
+
+## Talk 22
 
 Paimon: Well, this is weird. There was all that scattered light earlier... and then we suddenly found ourselves here...?
 
@@ -183,7 +191,7 @@ Paimon: Huh. That's...
 
 "Beast With Fur Like That of Night": Go now. But beware the fearful instigators, and the ends plotted by those bearing ill-intent.
 
-## Talk 8
+## Talk 23
 
 Titu: #You're back! {REALNAME[ID(2)|SHOWHOST(true)]} and I were worried, honestly.
 
@@ -253,7 +261,12 @@ Titu: ...Ugh. I sure hope Yukom doesn't tear me a new one for being gone so long
 
 Paimon: Yeah, uh, you should totally get back there pronto!
 
-## Talk 11
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
 
 Titu: #Hah... What do you think, Traveler. Shall we unseal the Iridescent Inscription now?
 
@@ -265,148 +278,14 @@ Traveler: Give me a moment more to prepare.
 
 Titu: No worries. Just tell me once you're done...
 
-## Talk 13
-
-Titu: #Ah, it's you, mighty Traveler! How's it all going, been on any more adventures? If you've heard any amazing stories, I'm all ears!
-
-Titu: Tell you what, I've got a brother at the Saurian Relics Association. Name's Manqu, and man, if I told him what we saw at the Shadow Pins...
-
-Titu: He'd go so green with envy, it might kill him! Gonna wait till I get back from my post to break it to him, though.
-
-Traveler: About marked young Saurians...
-
-Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
-
-Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
-
-Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
-
-Traveler: About the tales of those heroes...
-
-Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
-
-Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
-
-Titu: So I've got to give this all the consideration it's due!
-
-Traveler: About storytellers...
-
-Titu: We sure are an amazing bunch!
-
-Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, who all storytellers revere...
-
-Titu: They say he had every scroll ever written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he also mooched a lot of food and drink off them along the way...
-
-Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
-
-Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
-
-Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
-
-Titu: So, if only in terms of the variety of the main cast, I'm the winner!
-
-Traveler: I saw you in Ochkanatlan...
-
-Titu: What? Me? ... Haha, you must be joking. "I've" never been there, that's for sure. "I" am simply a storyteller from the Children of Echoes.
-
-Titu: "Titu" is just a name. Anyone could be called "Titu." Perhaps the one you saw was someone using that name...
-
-Titu: Hehe, and that makes me another who is using it, of course.
-
-Traveler: See you! Guard your post well!
-
-Titu: #Alright, alright. See you, Traveler.
-
-## Talk 17
+### Additional Talk 2
 
 "Zephaniah": "Leave... Seal this place— as promised—"
 
 "Zephaniah": (That voice seems to come from the very depths of the unmoving statue. The rejection in those words are like two resolute hands that aim to push you from this place...)
 
-## Talk 19
+### Additional Talk 3
 
 "Irizar": "Leave! Go... I don't want him to see me— like this—"
 
 "Irizar": (The voice seems to come from the very depths of the unmoving statue. There is a hint of respect toward someone remaining within...)
-
-## Talk 21
-
-Yukom: Uh, are you guys alright? What happened just now?
-
-Yukom: There was this sudden, massive earthquake! I was pretty worried, honestly, but it's good that you're alright.
-
-Yukom: As for Titu... Why hasn't that guy come to take over this post yet? Ugh. I'd rather the earthquake flattened me at this point!
-
-## Talk 100
-
-Titu: #Ah, it's you, mighty Traveler! How are things going? Have you gone on another adventure? If you've heard any more amazing stories, I'm all ears!
-
-Titu: Tell you what, I've got a brother at the Saurian Relics Association. Name's Manqu, and man, if I told him what we saw at the Shadow Pins...
-
-Titu: He'd go so green with envy, it might kill him! Gonna wait till I get back from my post to break it to him, though.
-
-Traveler: About marked Saurian young...
-
-Titu: #You mean {REALNAME[ID(2)|SHOWHOST(true)]}? Well, all I know is that it's not a good sign.
-
-Titu: I've heard that such marked Saurians are rejected by the Night Kingdom, the tribes, and the Saurians too. They die as they lived, alone.
-
-Titu: #But that's just superstition. I mean, {REALNAME[ID(2)|SHOWHOST(true)]}'s got you, right?
-
-Traveler: About the tales of those heroes...
-
-Titu: I'm giving it some thought. Uh, not that I'd let it affect my sentry work, though, no sir! I'm a real multitasker.
-
-Titu: Those two from Khaenri'ah have a terrible reputation here in the tribe. All the more reason for my story to be as exciting as possible!
-
-Titu: So yeah, I've got to give this all the consideration it's due!
-
-Traveler: About storytellers...
-
-Titu: We're an amazing bunch, we are!
-
-Titu: Take, for example... Sanhaj from the Masters of the Night-Wind, whom all storytellers revere...
-
-Titu: They say he had every scroll written up to his time committed to memory, and that he was willing to go from tribe to tribe and share those tales... That said, they also say that he often tricked people, mooching food and drink off them.
-
-Titu: Stories speak of bygone times, and they represent the wisdom of our forebears. Thus, the mere act of sharing it was seen as a selfless act, so all both loved and hated cunning Sanhaj.
-
-Titu: Later, that tale-telling hero would himself become part of a heroic tale — a fate I doubt even he ever envisioned... But yeah. Sanhaj was an amazing storyteller.
-
-Titu: Still, the characters in his tales were all tribal warriors of a sort, but in mine, we'll also include a golden-haired outlander, a silver-haired fairy, and a little Saurian with a red scarf.
-
-Titu: So, if only in terms of the variety of main characters, I'm the winner here!
-
-Traveler: See you! Guard your post well!
-
-Titu: #Alright, alright. See you, Traveler.
-
-## Talk 101
-
-Yukom: *sigh* I didn't expect this round of guard duty to last that long. Well, Titu's finally back, at least...
-
-Traveler: Hey there! Who are you?
-
-Yukom: Haha, me? You're a curious guest. Call me Yukom. As you can see, I'm a guard at this sentry post — one of them, anyway.
-
-Yukom: #But word to the wise, brother — you probably shouldn't just walk up to and talk to someone in the wilds here like that...
-
-Yukom: This is the outer edge of the Children of Echoes' lands. Once you leave this area, you'll enter territory where any warrior's fair game to spar.
-
-Traveler: What are you doing here, exactly?
-
-Yukom: Oh, you know, guarding, standing... waiting.
-
-Yukom: Alright, so I'm a little bored, and a bit tired, too. This is the Children of Echoes' sentry post, which people take turns to stand guard over every day.
-
-Yukom: This is my "duty" within the tribe.
-
-Traveler: Titu's back. Not gonna take a break?
-
-Yukom: What does it look like I'm doing, eh? And now that he is, I no longer need to stare at those ominous winds, strange mutterings, and twisting shadows.
-
-Yukom: #Just need to watch others work — that's the best kinda rest, brother!
-
-Traveler: See you!
-
-Yukom: Aye, see you. Take care!

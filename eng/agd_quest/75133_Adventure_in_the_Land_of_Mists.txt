@@ -51,13 +51,29 @@ Bona: Well, regardless of what's below us, I say we go check it out. I mean, we'
 
 Paimon: #Huh, you sure are excited, {REALNAME[ID(2)|SHOWHOST(true)]}. Well, time to figure out how to get down there.
 
-## Talk 2
+## Talk 4
 
-Bona: Found anything?
+Paimon: Ugh, what's this? It looks gross...
 
-Bona: Let's look a bit harder and see if we can find any contraptions or secret passages!
+Bona: This is nascent Abyssal Blight. Looks like it's seeping down from above... Hmm, I thought a place festooned with frescoes would be safer.
 
-## Talk 3
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah... Rawr!
+
+Bona: Huh? Uh-oh, I think something's gonna fall down. Watch out, everyone!
+
+## Talk 6
+
+Bona: Wow, that was a shocker! Thank goodness for our quick reactions.
+
+Bona: So, did you find anything?
+
+Paimon: Well, we did find something that looks like a mechanism, but it's kind of a pain...
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Bona: #Oh, I don't know what you mean, but {REALNAME[ID(2)|SHOWHOST(true)]} looks pretty clued in, so let's check it out anyway!
+
+## Talk 9
 
 Paimon: #It's open! You're awesome, {REALNAME[ID(2)|SHOWHOST(true)]}! We wouldn't have found the mechanism without you!
 
@@ -105,24 +121,10 @@ Traveler: Don't worry, just wait here until we come back.
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 4
+## Additional Conversations
 
-Bona: Wow, that was a shocker! Thank goodness for our quick reactions.
+*Conversations not present as sub-quests.*
 
-Bona: So, did you find anything?
+Bona: Found anything?
 
-Paimon: Well, we did find something that looks like a mechanism, but it's kind of a pain...
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-Bona: #Oh, I don't know what you mean, but {REALNAME[ID(2)|SHOWHOST(true)]} looks pretty clued in, so let's check it out anyway!
-
-## Talk 9
-
-Paimon: Ugh, what's this? It looks gross...
-
-Bona: This is nascent Abyssal Blight. Looks like it's seeping down from above... Hmm, I thought a place festooned with frescoes would be safer.
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah... Rawr!
-
-Bona: Huh? Uh-oh, I think something's gonna fall down. Watch out, everyone!
+Bona: Let's look a bit harder and see if we can find any contraptions or secret passages!

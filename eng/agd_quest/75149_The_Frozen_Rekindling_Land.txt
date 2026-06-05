@@ -3,71 +3,7 @@
 # The Frozen, Rekindling Land
 
 
-## Talk 2
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh!
-
-Secret Source Servant: *whirr-click*...
-
-Secret Source Servant: "It seems you have finally restored the two Astral Assemblages to normal operation... Soon, the phlogiston concentration here should be sufficient to reactivate the communications device..."
-
-Secret Source Servant: "In the meantime, please wait a little longer. You have already done well, for a human."
-
-Traveler: Wait, we're back to talking again?
-
-Traveler: ...Are you Ehecatl?
-
-Secret Source Servant: "I am not. Ehecatl's existence has dissipated in full... not long ago, in fact. And though names matter little here, the name left to this body is..."
-
-Secret Source Servant: "'Almighty Amaru, the Hallowed Lord'... *sigh* The original bearer of this name was a fool through and through."
-
-Secret Source Servant (Amaru): "You may simply name it 'Amaru.'"
-
-Paimon: Amaru?
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
-
-Secret Source Servant (Amaru): "In life, he was arrogant, unrestrained in speech, brainless, and aggravating... But in the war, he held the threshold of the sealed Celestial Axis until his final breath..."
-
-Secret Source Servant (Amaru): "This is that very spot, and that is why I placed the Secret Source Servant who once waited on him here... It is happy to guard the Axis in its master's place, or so I imagine."
-
-Secret Source Servant (Amaru): Increase in phlogiston concentration detected... Circuit check complete... *whirring*
-
-Secret Source Servant (Amaru): Lift shaft — Celestial Axis, restarted.
-
-Secret Source Servant (Amaru): "It appears we are almost done. Please proceed deeper within."
-
-## Talk 4
-
-Ehecatl: "I should explain that this place was not always so dark... Even though it is undoubtedly the 'inside' of a volcano..."
-
-Ehecatl: "However, after the war was over, the entire city was destroyed. After that, such a huge mechanical construct could hardly continue to function..."
-
-Paimon: War?
-
-Ehecatl: "Yes, the war between the remaining Dragonborn and the humans — the war in which the original master of flame was killed..."
-
-Ehecatl: "The master of this place is long since dead, and naught else but the city ekes out survival... Though who can really say? Perhaps the city, too, has already ceased to live."
-
-Ehecatl: "...Hmm. Or perhaps so many things that once existed were nothing more than illusions."
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
-
-Ehecatl: "We each stand to benefit, little one. You get what you came for, and I hope to borrow your power to solve a few problems of my own..."
-
-Ehecatl: "And so, you must reach the Heart of the Sacred Mountain... But alas, the Mountain's power was cut off during the war."
-
-Ehecatl: "And for all that the seals' power is like weak threads that could only entrap a whelp, the oath dictates that only a 'human' may activate them..."
-
-Ehecatl: "In an interesting twist, the poor child who used this method to infiltrate the Sacred Mountain was, in the end, brought to ruin by someone else using nigh identical means."
-
-Ehecatl: "Hehe. Ah, such has it ever been... Just as the followers of a tyrant are driven out by heroes, and after many years of wandering, their descendants end tyranny in some other realm..."
-
-Ehecatl: "The world and its affairs are akin to a staged play. Cause and effect, revenge and revolt... All scenes repeat themselves one after the other across ragged eons..."
-
-Ehecatl: "Ah, but I am getting off-topic... Well then. Activate it, and let this moribund capital writhe a little while longer. None but you is worthy to do this deed now."
-
-## Talk 5
+## Talk 1
 
 Paimon: Oh, Chosen One, Chosen of Dragons...
 
@@ -109,7 +45,7 @@ Paimon: Let's just... explore the area a bit first, okay?
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 6
+## Talk 3
 
 Paimon: #Hmm? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? Found something?
 
@@ -160,6 +96,36 @@ Ehecatl: "Yes, indeed. Since then, this body has been named Ehecatl..."
 Ehecatl: "Yes, it was I who called you here. Come, let us go unto the Heart of the Sacred Mountain... before it is too late."
 
 Ehecatl: "That said, we are not yet in a hurry. Let Ehecatl clear away at least some smidgen of the darkness that lies before you. I know you must have your doubts, but please, follow me for now."
+
+## Talk 5
+
+Ehecatl: "I should explain that this place was not always so dark... Even though it is undoubtedly the 'inside' of a volcano..."
+
+Ehecatl: "However, after the war was over, the entire city was destroyed. After that, such a huge mechanical construct could hardly continue to function..."
+
+Paimon: War?
+
+Ehecatl: "Yes, the war between the remaining Dragonborn and the humans — the war in which the original master of flame was killed..."
+
+Ehecatl: "The master of this place is long since dead, and naught else but the city ekes out survival... Though who can really say? Perhaps the city, too, has already ceased to live."
+
+Ehecatl: "...Hmm. Or perhaps so many things that once existed were nothing more than illusions."
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
+
+Ehecatl: "We each stand to benefit, little one. You get what you came for, and I hope to borrow your power to solve a few problems of my own..."
+
+Ehecatl: "And so, you must reach the Heart of the Sacred Mountain... But alas, the Mountain's power was cut off during the war."
+
+Ehecatl: "And for all that the seals' power is like weak threads that could only entrap a whelp, the oath dictates that only a 'human' may activate them..."
+
+Ehecatl: "In an interesting twist, the poor child who used this method to infiltrate the Sacred Mountain was, in the end, brought to ruin by someone else using nigh identical means."
+
+Ehecatl: "Hehe. Ah, such has it ever been... Just as the followers of a tyrant are driven out by heroes, and after many years of wandering, their descendants end tyranny in some other realm..."
+
+Ehecatl: "The world and its affairs are akin to a staged play. Cause and effect, revenge and revolt... All scenes repeat themselves one after the other across ragged eons..."
+
+Ehecatl: "Ah, but I am getting off-topic... Well then. Activate it, and let this moribund capital writhe a little while longer. None but you is worthy to do this deed now."
 
 ## Talk 7
 
@@ -231,7 +197,7 @@ Secret Source Servant: ...
 
 Paimon: He really just does whatever he feels like, huh... Not much we can do but forge ahead and see if we can't rustle up a new Secret Source Servant...
 
-## Talk 10
+## Talk 8
 
 Ehecatl: "Have I officially given you its name, by the by? I believe I have not..."
 
@@ -311,16 +277,52 @@ Paimon: Still, the "Celestial Axis"... This has gotta be the one that Ehecatl sa
 
 Paimon: Looks like we'll have to look around for the other two Astral Assemblages, then!
 
-## Talk 12
+## Talk 13
 
-Paimon: Seems like we're done with the two "Astral Assemblages" that strange statue was talking about.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh!
 
-Paimon: Let's head over to that "Celestial Axis" thingamajig in the middle and check things out!
+Secret Source Servant: *whirr-click*...
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Secret Source Servant: "It seems you have finally restored the two Astral Assemblages to normal operation... Soon, the phlogiston concentration here should be sufficient to reactivate the communications device..."
+
+Secret Source Servant: "In the meantime, please wait a little longer. You have already done well, for a human."
+
+Traveler: Wait, we're back to talking again?
+
+Traveler: ...Are you Ehecatl?
+
+Secret Source Servant: "I am not. Ehecatl's existence has dissipated in full... not long ago, in fact. And though names matter little here, the name left to this body is..."
+
+Secret Source Servant: "'Almighty Amaru, the Hallowed Lord'... *sigh* The original bearer of this name was a fool through and through."
+
+Secret Source Servant (Amaru): "You may simply name it 'Amaru.'"
+
+Paimon: Amaru?
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
+
+Secret Source Servant (Amaru): "In life, he was arrogant, unrestrained in speech, brainless, and aggravating... But in the war, he held the threshold of the sealed Celestial Axis until his final breath..."
+
+Secret Source Servant (Amaru): "This is that very spot, and that is why I placed the Secret Source Servant who once waited on him here... It is happy to guard the Axis in its master's place, or so I imagine."
+
+Secret Source Servant (Amaru): Increase in phlogiston concentration detected... Circuit check complete... *whirring*
+
+Secret Source Servant (Amaru): Lift shaft — Celestial Axis, restarted.
+
+Secret Source Servant (Amaru): "It appears we are almost done. Please proceed deeper within."
 
 ## Talk 15
 
 Secret Source Servant: Increase in phlogiston concentration detected... Circuit check complete... *whirring*
 
 Secret Source Servant: Lift shaft — Celestial Pillar, restarted.
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+Paimon: Seems like we're done with the two "Astral Assemblages" that strange statue was talking about.
+
+Paimon: Let's head over to that "Celestial Axis" thingamajig in the middle and check things out!
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

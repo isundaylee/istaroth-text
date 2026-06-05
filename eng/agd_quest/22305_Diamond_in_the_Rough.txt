@@ -35,12 +35,6 @@ Traveler: I'll give it a go.
 
 Shitou: #Over here, please, {F#Madam}{M#Sir}!
 
-## Talk 3
-
-Shitou: We have an extraordinarily wide selection of raw stones here at The Jade Mystery. One can find oneself a little overwhelmed if one is to peruse the entire collection...
-
-Shitou: So I have taken the liberty of sorting them first for your convenience. Might I inquire as to your budget?
-
 ## Talk 4
 
 Traveler: 200 Mora.
@@ -73,14 +67,6 @@ Shitou: These are the most exquisite stones in our collection. Please peruse the
 
 Shitou: Once you decide which of them you are most partial to, please inform me and I will be delighted to do the honors.
 
-## Talk 7
-
-Shitou: Each person has their own method of assessing a raw stone's value.
-
-Shitou: Some rely on pure intuition; they know the stone they want as soon as they lay eyes on it. Others prefer to examine each stone in detail.
-
-Shitou: Far be it from me to presume which method will work best for you. It is up to you whether to *take a closer look* or simply *go with your gut*.
-
 ## Talk 8
 
 Traveler: Open the stone on the yellow cloth.
@@ -99,7 +85,64 @@ Traveler: Open the stone on the red-white cloth.
 
 Shitou: #Of course, {F#Madam}{M#Sir}.
 
-## Talk 11
+## Talk 14
+
+Traveler: That'll do for now...
+
+Shitou: #Quite right, {F#Madam}{M#Sir}, quite right! One can't spend all of one's time gambling on stones, it's simply not befitting of a {F#lady}{M#gentleman} of your stature.
+
+## Talk 14
+
+Traveler: One more try!
+
+Shitou: #Ah, erm, well... perhaps now is a good time for {F#Madam}{M#Sir} to call it a day? One must temper one's enthusiasm for such pursuits, and I—I'm afraid I've run out stones...
+
+Shitou: Between us, I've heard tomorrow is supposed to be a lucky day... You should come back then.
+
+## Talk 14
+
+Shitou: My goodness... There's jade in here! We have a winner!
+
+Shitou: #You certainly know hidden treasure when you see it, {F#Madam}{M#Sir}!
+
+Shitou: Tell me... How exactly did you know? What did you see that other, er, customers may have missed...?
+
+Traveler: I'd like to cash in now, please!
+
+Shitou: Hmm? Oh — yes, yes of course... Please, take this!
+
+Shitou: #Until next time, {F#Madam}{M#Sir}!
+
+Shitou: Aargh! Lord help me... How could I have missed that...
+
+## Talk 15
+
+Traveler: One more try!
+
+Shitou: Excellent idea! Many a success story starts with those precise words, my friend.
+
+Shitou: #Some people say, I'll come here once a day for the rest of my life and I'll be sure to strike lucky eventually. Personally, I prefer your approach — multiple attempts in one day, more of your life left to enjoy the winnings! Over here, if you would please, {F#Madam}{M#Sir}!
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+
+### Additional Talk 1
+
+Shitou: We have an extraordinarily wide selection of raw stones here at The Jade Mystery. One can find oneself a little overwhelmed if one is to peruse the entire collection...
+
+Shitou: So I have taken the liberty of sorting them first for your convenience. Might I inquire as to your budget?
+
+### Additional Talk 2
+
+Shitou: Each person has their own method of assessing a raw stone's value.
+
+Shitou: Some rely on pure intuition; they know the stone they want as soon as they lay eyes on it. Others prefer to examine each stone in detail.
+
+Shitou: Far be it from me to presume which method will work best for you. It is up to you whether to *take a closer look* or simply *go with your gut*.
+
+### Additional Talk 3
 
 Shitou: I'm afraid there is very little jade inside this one indeed...
 
@@ -117,45 +160,7 @@ Shitou: *I'll calculate how much you're owed* at the end. If we do it bit by bit
 
 Shitou: What do you say, customer? Another round?
 
-## Talk 12
-
-Traveler: One more try!
-
-Shitou: Excellent idea! Many a success story starts with those precise words, my friend.
-
-Shitou: #Some people say, I'll come here once a day for the rest of my life and I'll be sure to strike lucky eventually. Personally, I prefer your approach — multiple attempts in one day, more of your life left to enjoy the winnings! Over here, if you would please, {F#Madam}{M#Sir}!
-
-## Talk 13
-
-Traveler: That'll do for now...
-
-Shitou: #Quite right, {F#Madam}{M#Sir}, quite right! One can't spend all of one's time gambling on stones, it's simply not befitting of a {F#lady}{M#gentleman} of your stature.
-
-## Talk 14
-
-Traveler: One more try!
-
-Shitou: #Ah, erm, well... perhaps now is a good time for {F#Madam}{M#Sir} to call it a day? One must temper one's enthusiasm for such pursuits, and I—I'm afraid I've run out stones...
-
-Shitou: Between us, I've heard tomorrow is supposed to be a lucky day... You should come back then.
-
-## Talk 15
-
-Shitou: My goodness... There's jade in here! We have a winner!
-
-Shitou: #You certainly know hidden treasure when you see it, {F#Madam}{M#Sir}!
-
-Shitou: Tell me... How exactly did you know? What did you see that other, er, customers may have missed...?
-
-Traveler: I'd like to cash in now, please!
-
-Shitou: Hmm? Oh — yes, yes of course... Please, take this!
-
-Shitou: #Until next time, {F#Madam}{M#Sir}!
-
-Shitou: Aargh! Lord help me... How could I have missed that...
-
-## Talk 16
+### Additional Talk 4
 
 Traveler: Haven't you inspected them all already?
 
@@ -171,13 +176,13 @@ Shitou: The worst luck of all is to see a spot of jade visible on the outside of
 
 Shitou: #But as I say {F#Madam}{M#Sir}, fortune favors the bold. And the way I look at it, you are certainly bold to have come this far, so I can only imagine that fortune will be looking most favorably on you indeed.
 
-## Talk 17
+### Additional Talk 5
 
 Traveler: I want to *take a closer look*.
 
 Shitou: #Be my guest, {F#Madam}{M#Sir}.
 
-## Talk 18
+### Additional Talk 6
 
 Shitou: Well, look what we have here! It's not the jackpot, sadly, but between you and me — this is a very reasonable result.
 
@@ -193,7 +198,7 @@ Shitou: Let me take that for you. If you'd like to keep trying, we can continue 
 
 Shitou: *I'll calculate how much you're owed* at the end. If we do it bit by bit as we go, I'll only confuse myself and you, and that's just no good for anybody.
 
-## Talk 19
+### Additional Talk 7
 
 Shitou: I'm sorry to say that you *don't have quite enough Mora*...
 
