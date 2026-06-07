@@ -6,241 +6,137 @@
 ## Talk 2
 
 Paimon: So Allpa says that Tepal's from the Children of Echoes. But how do we track him down? Just... ask around until we find him?
-
 Chasca: Let's start by talking to someone we know. It'll be faster that way. At this time and place, I'll bet the easiest person to find is:
-
 Chasca: Wakey-wakey, Xilonen.
-
 Xilonen: *yawn* Ah, it's you... Ugh, okay... Give me a second, I'll come down...
-
 Xilonen: *yawn*...
-
 Traveler: Seems like you two both love climbing trees...
-
 Chasca: I climb trees to fly further and see farther. I don't usually stop for a nap.
-
 Xilonen: Well, we're not all like you — always full of energy, even after flying around all day... So. You've come all this way and interrupted my precious nap time. Might I inquire as to why?
-
 Chasca: I'm sorry, Xilonen, but it couldn't wait. Does the name "Tepal" mean anything to you? He's a craftsman, apparently.
-
 Xilonen: Tepal? Yes, that rings a bell... I think that's Puma's child.
-
 Traveler: Is he in the tribe right now?
-
 Xilonen: Nope, I'm afraid you're a few years too late... Why are you looking for him?
-
 Traveler: It's a long story...
-
 Black Screen Text: You try to explain what happened simply and briefly...
-
 Xilonen: "Phlogiston Wings"? Wow, okay. The kid actually pulled it off... Well, looks like no more rest for me today.
-
 Paimon: Pulled it off? You mean he's tried making something like this before?
-
 Xilonen: Yeah, he started trying to build a flying machine right after he got back from the Flower-Feather Clan.
-
 Chasca: So right after he went wingless, then... Was this flying machine anything like the gun you made me?
-
 Xilonen: You mean, your gun that's harder to tame than the proudest qucusaur? No, he wanted to build something that allows anyone to fly freely, even if they're not naturally gifted.
-
 Xilonen: But... he never got very far back then, though. Blew up his workshop a few times and barely made it out alive. I never really kept up with him after that.
-
 Xilonen: His parents traveled a lot in their youth, and only returned to the tribe after he was born. But they settled in a remote area, and don't interact with other people much.
-
 Xilonen: Which means, most people in the tribe don't know them very well... Your best bet is to chat to his direct family.
-
 Xilonen: I'll go get Puma. Wait for me in front of the workshop, I won't be long.
 
 ## Talk 3
 
 Black Screen Text: A short while later, at Xilonen's workshop...
-
 Xilonen: I'm back. Allow me to introduce Tepal's mother, Puma.
-
 Paimon: Hello! We're—
-
 Puma: Save the pleasantries. I don't want to spend any longer talking about that boy than I have to.
-
 Paimon: ...Huh?
-
 Puma: I disowned him long ago... He is no child of mine!
-
 Puma: All he cared about was his pipe dream of reaching the sky... We tried to talk sense into him, but he was obsessed!
-
 Puma: Hmph... Then when he left us, he spouted some nonsense about building a workshop in the sky to avoid the constant criticism of us ground-dwellers...
-
 Puma: He left his notebook behind. Whatever questions you have, you can look for them in there — I'm done talking about him.
-
 Puma: He is no son of mine... He never called me "Mom" anyway...
-
 Chasca: ...
-
 Paimon: Wow, they've really fallen out... Paimon sure wasn't expecting that...
-
 Xilonen: Her husband, Tepal's father... he passed away recently, and Tepal didn't even bother to show his face at the funeral.
-
 Xilonen: If you ask me, that was probably the final straw for Puma.
-
 Xilonen: I'll go keep her company. If there's anything else you need, just come and find me.
-
 Chasca: Thank you.
-
 Paimon: Okay, so this notebook is the only lead we've got now, right? What's in there?
-
 Chasca: Hmm... some early designs for the Phlogiston Wings... and some theorizing about an airborne workshop.
-
 Chasca: Ochkanatlan, the Cinder City... Looks like that's where he got his technological inspiration from.
-
 Paimon: So he was serious about the workshop in the sky? But that's such a big project for one person... do we think he actually pulled it off?
-
-Traveler: Actually, look at that balloon sketch...
-
-Traveler: Haven't we seen that somewhere before?
-
+    Option 1:
+        Traveler: Actually, look at that balloon sketch...
+    Option 2:
+        Traveler: Haven't we seen that somewhere before?
 Paimon: ...Oh! Yes! The one from the trial arena that was super high up!
-
 Chasca: That balloon has been there for a while, and everyone's been wondering how it got up there. But... what if that's the wrong question?
-
 Chasca: What if it started off even higher up, above the clouds and out of view, and it only descended to its current height due to some kind of malfunction?
-
 Traveler: In other words, it could be...
-
 Paimon: ...Part of Tepal's workshop?
-
 Chasca: Seems likely. If Tepal's base had been hiding above the clouds this whole time, that would definitely explain why Isidore couldn't find it...
-
 Paimon: Paimon totally called it... But um, how do we get up there? Chasca, can you even fly that high?
-
 Chasca: By myself... possibly. But with a passenger, no chance.
-
 Chasca: I doubt even Phlogiston Wings could take you up that high... at least, not without that "relic" Tepal mentioned in his notebook.
-
 Paimon: Yeah, and he's probably holding onto it... We'll have to find another way.
-
 Traveler: Can you fly up that high, Paimon?
-
 Paimon: Nope, that's waaay beyond Paimon's altitude! Also, would you really expect Paimon to go up there and take on Tepal all by herself?
-
 Chasca: Let's not worry. Just because we can't think of a solution doesn't mean no one else can. I'm not the only flying expert in my tribe, you know.
-
 Paimon: Oh, good point. We should go ask Elder Allpa!
-
 Chasca: And Mutota. He was quite the flying ace back in the day, too. Let's head back and see what they suggest.
 
 ## Talk 4
 
 Mutota: Chasca, you're finally back! Things are getting really tense in the tribe. Have you made any headway with your investigation?
-
 Allpa: Some people think we arrested the merchants just to support the flying squad and crack down on the Phlogiston Wings.
-
-Traveler: If things are still escalating even though we've rounded up the merchants...
-
-Traveler: Maybe there are other parties out there fanning the flames too?
-
+    Option 1:
+        Traveler: If things are still escalating even though we've rounded up the merchants...
+    Option 2:
+        Traveler: Maybe there are other parties out there fanning the flames too?
 Chasca: We've found some promising leads, but there's a major obstacle standing between us and the irrefutable evidence we need...
-
 Black Screen Text: Chasca explains what you found out about Tepal, and your theory about the airborne workshop...
-
 Mutota: A relic from the Cinder City? Ugh... so Och-Kan's still managing to sow discord, even after all these years...
-
 Allpa: An airborne workshop... and a hot air balloon above the trial arena... And that's where you're trying to get to now?
-
 Traveler: Any ideas how we can get up there?
-
 Allpa: Neither Phlogiston Wings nor a qucusaur can take you that high up. Do you really think that's where Tepal is hiding?
-
 Mutota: Hmm... You know what... There might just be a way.
-
 Paimon: Really!?
-
 Mutota: Do you still remember those spouts in the arena? When they were all blocked, the gaseous phlogiston was trapped and unable to flow.
-
 Mutota: But now, it's flowing freely. If we were to block them up again...
-
 Chasca: You mean... All of them except the one at the very top of the arena? To build up the pressure there?
-
 Mutota: Precisely. With all the gaseous phlogiston flowing through one spout, it would create a high-pressure wind current...
-
 Paimon: And then we just ride it up into the sky.
-
 Mutota: Yes. It has its risks, but with Chasca's abilities, I think she could manage it...
-
 Allpa: It's an extremely risky approach... but I agree that it's feasible.
-
 Mutota: If you want to give it a try, check with Inkanak at the trial grounds. She can explain how to block the spouts.
-
 Mutota: Chasca... If anyone has a hope of seizing this evidence from the high heavens, it is you.
 
 ## Talk 5
 
 Black Screen Text: You hurry to the trial arena and explain the situation to Inkanak...
-
 Inkanak: Goodness me... That is a very bold idea...
-
 Chasca: Maybe so, but we have to act fast. What's the quickest way for us to block off the spouts?
-
 Inkanak: From a technical perspective, I'd have to advise taking some measurements and carefully planning this out first... But I'm guessing that's not what you want to hear?
-
 Traveler: Right.
-
 Inkanak: ...Then we'll have to take the rough-and-ready approach. See the solid phlogiston over there?
-
 Inkanak: Our prior inspections revealed that some kind of stable structure has formed inside, making it highly damage-resistant...
-
 Inkanak: It's not without its weak points, but unless they're all struck at the same time, the structural integrity won't be threatened...
-
 Paimon: So... what happens if we do strike them all at once?
-
 Inkanak: It'll collapse.
-
 Chasca: ...Okay, I see where you're going with this.
-
 Inkanak: Yeah, you got it! As long as you hit all the weak spots at once from the right angle, the solid phlogiston will fall right on top of the spout, and block it up.
-
 Chasca: You're right about "rough and ready"... Sounds like my kind of plan.
 
 ## Talk 6
 
 Paimon: Ugh... Oof... Paimon's never flown that fast before... She feels ready to throw up...
-
 Traveler: At least we made it in one piece.
-
 Chasca: Ah-hah... just as I thought. It might look like a regular hot air balloon from the outside, but up close, it's clearly been heavily remodeled.
-
 Chasca: And sure enough, it only descended below the cloud line because the custom-built machinery malfunctioned.
-
 Traveler: Can you tell what the issue is?
-
 Chasca: I should be able to figure it out, with Tepal's notebook. Thankfully, I know a little DIY from fixing up my guns when they're having issues.
-
 Chasca: Mm-hmm... That should just about do it. Now all it needs is a nice, hard kick...
-
 Paimon: Uh... Maybe that works on your guns, but...
-
 Paimon: Huh!? We're really moving!
 
 ## Talk 11
 
 Paimon: #It actually worked... But wait, how are Paimon and Traveler supposed to get up there?
-
 Chasca: Coya can give you a lift. She's actually been following us this whole time.
-
 Coya: ...
-
 Paimon: Wow... Paimon didn't notice at all!
-
 Traveler: Why didn't she come and join us?
-
 Chasca: Probably because she didn't want to get too close to humans... Or maybe just me. But right now, we need her power.
-
 Coya: Cheep...
-
 Paimon: Whoa! You didn't even have to summon her...
-
 Coya: ...Cheep.
-
 Chasca: Yes, up there... That's probably where Chime is.
-
 Chasca: Alright. Let's go have a little talk with this Tepal.
 
 ## Additional Conversations
@@ -251,7 +147,6 @@ Chasca: Alright. Let's go have a little talk with this Tepal.
 ### Additional Talk 1
 
 Coyllur: Although I get where they're coming from, isn't bad-mouthing the qucusaurs going a step too far?
-
 Zhunan: But without the Phlogiston Wings, I'll never make it...
 
 ### Additional Talk 2
@@ -261,21 +156,16 @@ Inkanak: As long as you hit all the weak spots at once from the right angle, the
 ### Additional Talk 3
 
 Xilonen: Hmm? How's the sleuthing going?
-
 Traveler: We're good for now. How is Puma doing?
-
 Xilonen: Hanging in there — she seems to have calmed down now. I'll check in with her again later.
-
 Xilonen: I think something about handing you that notebook meant she was finally able to let go of a few things. So maybe this was for the best.
 
 ### Additional Talk 4
 
 Huascar: No more qucusaurs! We want Phlogiston Wings!
-
 Mukki: Have you gone mad? The qucusaurs are our partners!
 
 ### Additional Talk 5
 
 Mutota: We'll do our best to manage the conflict within the tribe while you're gone. Hopefully it'll buy you some time.
-
 Allpa: Chief, we should put a defense plan in place... just in case.

@@ -7,11 +7,9 @@ Arayesh: Nice color you got with the Jam. You really are good at this. I'll orde
 *Conversations not present as sub-quests.*
 
 Traveler: About Jam...
-
 Arayesh: Seems you are pretty confident about your Jam. Did you get the two jars of Jam ready?
-
-Traveler: Not yet.
-
-Arayesh: One jar won't last for more than a few days. I need at least two jars.
-
-Traveler: Here is the Jam you wanted.
+    Option 1:
+        Traveler: Here is the Jam you wanted.
+    Option 2:
+        Traveler: Not yet.
+        Arayesh: One jar won't last for more than a few days. I need at least two jars.

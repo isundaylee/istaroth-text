@@ -6,1067 +6,599 @@
 ## Talk 1
 
 Cyno: How is the Dendro Archon?
-
 Tighnari: Her breathing is steady. I prepared some therapeutic incense for her, but it hasn't had much effect.
-
 Tighnari: Her vitals are still very weak. Based on the information you've provided, I have a working hypothesis: Her condition is partly due to Irminsul's influence, and partly due to a physiological imbalance caused by the rapid depletion of her power.
-
 Tighnari: Elemental energy usually flows through the body at a relatively constant rate. The body grows accustomed to this rhythm, so when it's thrown out of balance, physical symptoms will appear.
-
 Cyno: Is this similar to the Ley Lines? Overloading and Withering both directly affect their vitality, potentially causing irreversible damage.
-
 Tighnari: Correct. From a biological perspective, if you overexert yourself, you pay the price with your life. The Dendro Archon is not only drained of power, but her life force is at a critically low level.
-
 Cyno: Is there any way to restore her health?
-
 Cyno: I know the Ley Lines have strong self-healing abilities. As long as any blockages or pollutions are dealt with, they can quickly regain their vitality. But what about people... well, gods? What's their capacity for self-healing?
-
 Tighnari: Before we think about that, there's a bigger predicament to resolve. Restoring the Dendro Archon's power requires us to heal Irminsul first — but that will be extremely difficult without the Dendro Archon's power.
-
 Paimon: ...Paimon's already getting lost here.
-
 Traveler: (Tighnari and Cyno are discussing the current situation at pace. I have to concentrate hard to keep up.)
-
 Collei: (Master Tighnari and Cyno look so serious... I've not heard Master speak in this tone for a long time.)
-
 Naphis: Tighnari.
-
 Tighnari: Master Naphis... Sages.
-
 Baladhuri: Tighnari! Haven't seen you in ages!
-
 Baladhuri: ...Have you gotten taller? Or did your ears get longer?
-
 Tighnari: Hopefully the former, Uncle Baladhuri.
-
 Alkindi: Cyno, where's Professor Cyrus? I thought he'd be with you.
-
 Cyno: He went out into the wild to investigate the situation. He said that the Irminsul anomaly will likely start to affect the real world soon.
-
 Alkindi: He shouldn't be trotting around alone at his age... Which way did he go? I'll look for him later.
-
 Paimon: Um... Would someone mind introducing us?
-
 Naphis: Ah yes, of course. Allow me to do the honors.
-
 Naphis: #I'm sure we're all familiar with Traveler and Paimon. They're the heroes who helped foil Azar's conspiracy and save Sumeru.
-
 Naphis: These gentlemen and I are the six current sages of the Akademiya. Baladhuri and I are part of the old guard, while the other four took office after Azar and his clique fell from power.
-
 Naphis: We have Sage Alkindi of the Spantamad Darshan, Sage Firnas of Kshahrewar...
-
 Naphis: Rtawahist Sage, Shakir, and finally, Haravatat Sage, Rushd.
-
 Paimon: N—Nice to meet you all!
-
-Traveler: It's an honor.
-
-Traveler: We'll be working together closely to resolve this crisis.
-
+    Option 1:
+        Traveler: It's an honor.
+    Option 2:
+        Traveler: We'll be working together closely to resolve this crisis.
 Rushd: I've heard much about you. Delighted to finally meet you in person.
-
 Shakir: Haha, you're younger than I imagined for someone with the power to stand up to fate itself. Thank you for lending your aid to Sumeru once more.
-
 Baladhuri: Once we're on the other side of this, could we get a photo together? My daughter has a friend named Isak. He's always talking about you two.
-
 Paimon: Of course! No true hero would deny a child their wish.
-
 Naphis: Ahem, back to business. So, with the Dendro Archon currently in a coma, the people have taken temporary refuge at Caravan Ribat — but they cannot stay here forever.
-
 Naphis: We need to come up with a plan as soon as possible. Firnas, any thoughts?
-
 Firnas: Well, firstly, having reviewed the data, I'm inclined to agree with your assessment. This doesn't look like an attack on Irminsul from the outside. Rather, it resembles a malfunctioning machine, calculations going haywire and sparks flying.
-
 Firnas: That being said, before we consider how to fix it, we need to understand precisely what has gone wrong. Furthermore, we somehow need to ascertain this without relying on the Dendro Archon's power.
-
 Alkindi: We have no direct access to Irminsul. However, we might be able to gather the information we need from the Ley Lines. Study the branches to learn about the trunk, in other words.
-
 Alkindi: (Wait... Is that what Cyrus is up to? No wonder he ran off to research in the wild... Curses. Always one step ahead of me, isn't he?)
-
 Rushd: I heard that while in the Sanctuary of Surasthana, the Dendro Archon had to serve as the central information hub herself. This is a clear sign the situation within Irminsul might be far worse than we can imagine.
-
 Rushd: Irminsul is vital not just to the safety of Sumeru, but to all of Teyvat. We must be the ones to bear responsibility for this world... To be on the safe side, I think we need to consider some backup plans.
-
 Baladhuri: Are you saying we should consider a scenario in which Irminsul is completely destroyed?
-
 Rushd: I'm merely pointing out that the possibility exists.
-
 Naphis: You have a valid point. But until worse comes to worst, I believe we should focus our efforts on resolving the Irminsul anomaly and helping it recover.
-
 Shakir: Collei, I understand that you were the first to foresee this crisis? If it's alright, I'd like to talk with you about it in more detail.
-
 Collei: Of course! But even I don't know how I came to have that dream...
-
 Firnas: If there are no signs of external damage, could it be a stress fracture? Metals tend to suffer from this issue with long-term use, and Irminsul has existed for centuries, after all...
-
 Alkindi: It's possible, but surely a stress fracture would be more likely to cause a complete shut down rather than chaos...
-
 Rukh Shah: Sages, General Mahamatra... Sorry to interrupt, but something has come up.
-
 Naphis: What happened?
-
 Rukh Shah: Some citizens didn't believe that Sumeru City was really in any danger. They slipped away and hid during the relocation, intending to return home.
-
 Naphis: How many people are we talking?
-
 Rukh Shah: About a dozen. Sekkura found them while on patrol, but they appeared to be suffering from psychosis... For whatever reason, they were trying to kill each other.
-
 Cyno: ...!
-
 Rukh Shah: By the time we arrived, there were only two survivors. One was unconscious from their injuries, the other tried to attack us but was subdued.
-
 Alkindi: Where did this happen?
-
 Rukh Shah: Near Yasna Monument.
-
 Baladhuri: ...That's not far from Caravan Ribat.
-
 Tighnari: Master.
-
 Naphis: I know. The Irminsul anomaly is beginning to have effects in the world. I didn't expect it to spread to Yasna Monument so soon... It almost feels like we're being chased relentlessly, with no time to catch our breath.
-
 Rukh Shah: Sir Cyrus said the same thing. He sent me back to report in while he continues investigating.
-
 Cyno: I'll go join him.
-
 Traveler: We'll come with you.
-
 Alkindi: Count me in too. Don't let my age fool you, I can still fend for myself.
-
 Naphis: Very well. Meanwhile, the rest of us will continue discussing our next steps.
-
 Rushd: Get back soon.
-
 Baladhuri: Take care of yourselves. It's getting dangerous out there.
 
 ## Talk 2
 
 Sekkura: Please, don't go any further. As you get closer to Sumeru City, there's no knowing what dangers you might encounter.
-
 Cyrus: So this is our mentally disturbed man?
-
 Tawfiq: I'm going to gut you all! Hahaha!
-
 Alkindi: Cyrus! You didn't even bring a single guard!? Do you think you're some sort of warrior?
-
 Cyrus: It's fine. Come here and look at this.
-
 Paimon: Ohhh... It's...
-
 Traveler: A Ley Line Blossom?
-
 Cyrus: That's right. Flowers that bloom from openings in the Ley Lines, indicating some sort of anomaly.
-
 Alkindi: I don't believe I've ever seen a color like this before.
-
 Cyno: Did you discover it nearby?
-
 Sekkura: Not just here... Way over there too... They're everywhere! There's even more in that direction!
-
 Cyrus: Hmm...
-
 Cyno: How did you ascertain the situation further ahead? Didn't you just say that we can't go beyond this point?
-
 Sekkura: Yes, this area is relatively safe so far, but if you continue forward, delusions will start afflicting your mind.
-
 Sekkura: However, some Vision-bearing mercenaries were able to maintain their sanity a little better. They're the ones who brought back news from further afield.
-
 Cyrus: Cyno, do you remember the class I taught on dissecting Ley Line blossoms?
-
 Cyno: I do, Professor. I received full marks in that course.
-
 Cyrus: Good. After all these years, it's time to put that knowledge into practice. There must be anomalous information hidden within these blossoms. Alkindi, I'll need your help as well.
-
 Cyrus: Been a while since we worked on a project together, hasn't it?
-
 Alkindi: Sure has. Well, what are we waiting for? Let's get to work!
-
 Paimon: Anything we can do to help?
-
 Traveler: (Nahida once said that Irminsul doesn't contain any information about me... So theoretically, I shouldn't be affected by such anomalies.)
-
-Traveler: We'll head a little further out.
-
-Traveler: We'll see what else we can find.
-
+    Option 1:
+        Traveler: We'll head a little further out.
+    Option 2:
+        Traveler: We'll see what else we can find.
 Cyno: Will you need my help?
-
 Traveler: I should be fine.
-
 Cyrus: Alright. Well, don't go too far. There's too many unknowns at this stage.
-
 Cyno: Let's regroup at Caravan Ribat later. Don't worry, if you don't show up, I'll come and find you.
 
 ## Talk 3
 
 Traveler: (Dark clouds gather in the sky, a sure sign that a storm is approaching.)
-
 Traveler: (Slowly but surely, the strange weather is spreading. The rainforest creatures must have sensed that something is wrong, because they're beginning to flee too.)
-
 Traveler: (We don't have much time left. Tighnari said that to help the Dendro Archon regain her power, we need to heal Irminsul, but healing Irminsul requires the Dendro Archon's power...)
-
 Traveler: (Is there any way to solve this puzzle?)
-
 Nahida: That should be the Heart of Oasis. All we need to do is light it with the Fire Seed and it'll restore Apep with elemental power.
-
 Nahida: The damage it suffered internally will also slowly begin to heal.
-
 Traveler: (That's it...!)
-
 Traveler: (If I use Apep's "Heart of Oasis," I might be able to help Nahida replenish her lost Dendro power without any need to rely on Irminsul!)
-
 Paimon: What is it? You thought of something?
-
 Traveler: I know a way to save Nahida.
-
 Paimon: Really!? Then let's get back and tell the others!
 
 ## Talk 4
 
 Kaveh: Phew. Glad to see you've returned safe and sound.
-
 Dehya: Any longer, and we would've gone out looking for you.
-
 Paimon: Hehe, well this is a nice surprise! Paimon sure feels better with everyone we know here.
-
 Traveler: It's great to see you all.
-
 Tighnari: We've made some progress, so let's start by giving you and Paimon a quick update.
-
 Cyno: By dissecting the Ley Line blossoms, we've been able to deduce that although Irminsul is experiencing an anomaly, it has not completely rejected access from the outside.
-
 Cyno: The Dendro Archon has the power to connect to Irminsul, but there's also another way... I assume you recall the devices everyone was wearing when you first arrived in Sumeru?
-
 Paimon: Devices? Oh, wait! You mean...?
-
 Traveler: The Akasha terminals?
-
 Cyno: That's right.
-
 Paimon: Of course! It's been so long, Paimon almost forgot all about the Akasha. Wasn't it shut down, though?
-
 Kaveh: Yes, but although the system isn't currently operational, the technological infrastructure is all still there.
-
 Kaveh: And it turns out that a certain someone gets so bored at work that he's actually read through every single one of the instruction manuals.
-
 Paimon: No prizes for guessing who that was.
-
 Alhaitham: If praising others is that embarrassing for you, you can simply spare yourself the ordeal.
-
 Kaveh: Hmph. As much as it pains me to say anything nice about him, there's no denying his intelligence. He rarely forgets anything he's read.
-
 Kaveh: The Akasha is exactly what Sumeru needs at this moment. Between us, we should have all the knowledge and expertise we need to get it up and running again.
-
 Traveler: But if I recall correctly, doesn't the Akasha need a Gnosis to function?
-
 Tighnari: That's exactly right. The Akasha relies on the Gnosis as a power source, and in its absence, we'll need to find an alternative. To tackle this problem, it looks like we'll be relocating once again.
-
 Sethos: Namely, to the Temple of Silence... Ring any bells?
-
 Sethos: It's the only major institution in Sumeru dedicated to preserving the knowledge of King Deshret's civilization. You might find the answers you're looking for are hiding there.
-
 Cyno: I agree, there's a good chance.
-
 Tighnari: Master Naphis and the other sages have discussed it. As the chaos from Irminsul continues to spread, Caravan Ribat won't be a safe haven for much longer.
-
 Tighnari: We have to move into the desert next. The scholars and sages will head to the Temple of Silence, while the civilian population seeks refuge in Aaru Village.
-
 Dehya: The Eremites will keep everyone safe during the journey, and Candace will be there to receive us at the village.
-
 Alhaitham: This leaves us just one thing to worry about.
-
 Cyno: Dendro Archon...
-
 Kaveh: She's very weak... We can't afford to wait until Irminsul is fixed. There has to be another way to help her...
-
 Paimon: #Hehe, well luckily, Traveler had a eureka moment while we were out investigating.
-
 Cyno: Really?
-
 Dehya: #Wow. Nice one, Traveler! Let's hear it.
-
 Black Screen Text: You tell everyone about the time you and Nahida saved Apep...
-
 Cyno: What say our Amurta experts?
-
 Tighnari: ...Theoretically, it's feasible. From what you're saying, although elemental life and elemental energy have their differences, the Dendro Archon has explicitly stated that she can imitate the power of the former.
-
 Tighnari: In which case... as long as Apep is willing, she should be able to convert her own power into a form that the Archon can use.
-
 Alhaitham: It wouldn't be difficult for her at all. The only problem is convincing her to help.
-
 Traveler: I'll find a way to persuade her.
-
 Paimon: Yeah, even though she wasn't exactly friendly the last time we met, she didn't refuse to talk with us.
-
 Paimon: Once she realizes the danger that Nahida is in, surely she won't turn a blind eye to it. Uh... well, hopefully not?
-
 Sethos: Either way, we're not exactly spoiled for choice here.
-
 Dehya: Hey, it's better than having no options at all!
-
 Tighnari: I agree. Without Irminsul's aid, the legendary Dendro Dragon Apep may well be the only living thing in Sumeru who can help our Archon recover her power.
-
 Tighnari: There's no time to lose. I'll bring this proposal to Master right away. If he and the other sages agree, we'll split into three teams:
-
 Tighnari: #The academics will go to the Temple of Silence to look for a solution to the Akasha problem, the Eremites will escort the civilians safely to Aaru Village, and Traveler and Paimon will take the Dendro Archon to see Apep.
-
 Kaveh: There's still a long road ahead, and no knowing if we'll make it — but at least we have a direction now. I'll take it over floundering around in confusion.
-
 Cyno: If there are no objections, then let's proceed. But before we adjourn, I would like to leave you all with some parting words.
-
 Cyno: "No matter the distance between us, there will always be an invisible force tying us together. May the bonds forged in the past shine bright like stars and open a new path before our feet."
-
 Tighnari: Huh... Is that from King of Invokations?
-
 Cyno: No. This one's from King of Invokations: The Sequel.
-
 Kaveh: What's the difference?
-
 Cyno: The sequel's much cooler.
-
 Sethos: Couldn't agree more.
-
 Tighnari: Well, it was very apropos. Once this is all over, I'll give everyone a copy of King of Invokations and the sequel to show my gratitude.
-
 Tighnari: Come on, let's get moving.
 
 ## Talk 5
 
 Naphis: Tighnari has brought me up to speed. I approve of your plan of action.
-
 Naphis: But we can't proceed with everything right away. The people need to rest. For many of them, this will be their first time in the desert, so we'll need to find additional personnel to help escort them.
-
 Naphis: You two, please go on ahead with the Dendro Archon. Let's rendezvous at the Temple of Silence later.
-
 Paimon: No problem! We got this.
-
 Naphis: Words can't express my gratitude, so let me just say: I hope everything goes smoothly, for all of us. Goodbye for now.
-
 Paimon: Alright, let's get going. If Paimon remembers correctly, the last time we saw Apep was in—
-
 Collei: #Traveler, Paimon... Could I borrow you guys for a moment? It'll only take a second!
-
 Paimon: Collei! What's the matter?
-
 Collei: Well... The thing is...
-
 Collei: ...Master Tighnari once told me: "After you raise a problem, you should think about how to resolve it." But ever since I had that dream, I feel like I haven't been of any help at all.
-
 Collei: I tried my best to keep up with the conversation, but there was so much new information, I couldn't take it all in. So I just wanted to ask... do you have any tips for me there?
-
 Paimon: Hehe, Paimon knows exactly how you feel.
-
 Paimon: But fear not! Everything you need to know is right here in Paimon's Notes: Sumeru Chapter!
-
 Paimon: It's got tons of info about all the things we've seen and heard on our adventures. Uh... Some parts are a little simplified, but hopefully it all makes sense!
-
 Traveler: You sure kept that one quiet...
-
 Paimon: Hmph! You see? Being the greatest guide in Teyvat isn't just a fancy title. It takes a lot of hard work.
-
 Paimon: Paimon doesn't always understand the things you're talking about with other people. Whenever that happens, she notes down the confusing parts and goes over them in her own time.
-
 Collei: This is perfect! Could I borrow it?
-
 Paimon: Sure! Matter of fact, you can keep it if you want. Paimon has another copy.
-
 Paimon: #The spare copy was originally meant for Traveler. Paimon used to worry that one day, he might not need a guide anymore, so she wanted to have a gift for him in case we ever parted ways...
-
 Paimon: But it doesn't seem so necessary nowadays. We have so many more places to see together, one copy will be enough for both of us.
-
 Collei: Thank you so much! But still, these are your treasured memories... I think I'll make my own copy and then return the original to you.
-
 Collei: Anyway, that was all — I won't keep you any longer. Have a safe trip! See you again soon!
-
 Paimon: See ya!
-
-Traveler: Paimon...
-
-Traveler: Would I be allowed to borrow your notes too?
-
+    Option 1:
+        Traveler: Paimon...
+    Option 2:
+        Traveler: Would I be allowed to borrow your notes too?
 Paimon: Of course! Just ask Paimon whenever you need them.
-
 Paimon: Alright, time to bring Nahida to see Apep... Let's hope that old grouch is in a negotiating mood.
 
 ## Talk 7
 
 Apep: Hah. I had a feeling your kind might come calling.
-
 Apep: The Ley Lines are in disarray. Something has gone wrong with Irminsul, yes?
-
-Traveler: Nothing gets past you.
-
-Traveler: I guess we can skip the explanation then...
-
+    Option 1:
+        Traveler: Nothing gets past you.
+    Option 2:
+        Traveler: I guess we can skip the explanation then...
 Apep: Even from a great distance away, I can sense that Sumeru is headed for destruction.
-
 Apep: You who took our home from us, prepare to watch as your own world is plunged into oblivion... Hahaha... Oh, how the cycle of history comes to a poetic conclusion.
-
 Paimon: This isn't a joke, Apep. Nahida's in grave danger! Can you please help her?
-
 Apep: Is she, now? Then, do explain: For what reason should I lend Buer my assistance?
-
-Traveler: The safety of Sumeru depends on it.
-
-Apep: Be not mistaken, the fate of Sumeru is of no concern to me. I am neither the god of this land, nor its guardian.
-
-Apep: I may have given my tacit agreement as your kind built homes here and multiplied for generation upon generation... but that does not mean that I bear any responsibility for Sumeru.
-
-Apep: Tiny Buer, puny humans... In my eyes, all of you are but intruders who followed in the wake of the Heavenly Principles. I am not obliged to be your savior.
-
-Traveler: The very survival of the world could be at stake.
-
-Apep: Hmph. The age of the dragons ended long ago... And the world that replaced it is under the dominion of the Heavenly Principles.
-
-Apep: In choosing not to side with your enemies when the Heavenly Principle's rules began to relax, I have been merciful enough...
-
-Apep: Do not forget that I have no love for this world you hold so dear.
-
-Traveler: Because you owe a debt of gratitude, and this way you can repay it.
-
-Traveler: Apep, if you truly despise gods and humans so much...
-
-Traveler: Well... After the great humiliation of being helped by a god in the past, shouldn't you be jumping at this chance to balance the scales?
-
+    Option 1:
+        Traveler: The safety of Sumeru depends on it.
+        Apep: Be not mistaken, the fate of Sumeru is of no concern to me. I am neither the god of this land, nor its guardian.
+        Apep: I may have given my tacit agreement as your kind built homes here and multiplied for generation upon generation... but that does not mean that I bear any responsibility for Sumeru.
+        Apep: Tiny Buer, puny humans... In my eyes, all of you are but intruders who followed in the wake of the Heavenly Principles. I am not obliged to be your savior.
+    Option 2:
+        Traveler: The very survival of the world could be at stake.
+        Apep: Hmph. The age of the dragons ended long ago... And the world that replaced it is under the dominion of the Heavenly Principles.
+        Apep: In choosing not to side with your enemies when the Heavenly Principle's rules began to relax, I have been merciful enough...
+        Apep: Do not forget that I have no love for this world you hold so dear.
+    Option 3:
+        Traveler: Because you owe a debt of gratitude, and this way you can repay it.
+        Traveler: Apep, if you truly despise gods and humans so much...
+        Traveler: Well... After the great humiliation of being helped by a god in the past, shouldn't you be jumping at this chance to balance the scales?
 Apep: ...
-
 Apep: Now that is a compelling reason.
-
 Apep: When Al-Ahmar plotted against me, and I was tortured by forbidden knowledge, it was Buer who saved me from agony.
-
 Apep: And though I regard with shame the pity of my enemies, to receive aid without repaying it would likewise tarnish a dragon's dignity.
-
 Apep: Oh, tiny Buer, puny humans... Just this once, I shall deign to show you the true power of dragonkind.
-
 Paimon: Whoa... it's happening again! We're gonna get sucked in!
-
-Traveler: Hold onto me!
-
-Traveler: We don't have the protection of the fire seed this time!
-
+    Option 1:
+        Traveler: Hold onto me!
+    Option 2:
+        Traveler: We don't have the protection of the fire seed this time!
 Paimon: Waahhhhh...
 
 ## Talk 8
 
 Paimon: ...
-
 Traveler: ...
-
 Traveler: (This is an awkward silence... Is silence a mandatory part of an audience with a dragon?)
-
 Apep: It is done. The Heart of Oasis is supplying her with life force as we speak. It shall not be long before she recovers.
-
 Apep: But I should warn you: Buer's existence is closely intertwined with Irminsul. Unless the issues plaguing it are resolved, she will never completely recover her former strength.
-
 Paimon: Th—Thank you...
-
 Apep: Spare me your words of gratitude.
-
 Traveler: Will giving your power to Nahida affect you in any way?
-
 Apep: ...You may also spare me your feigned concern.
-
 Traveler: (Ugh! Just like last time... It's impossible to have a normal conversation with this dragon!)
-
 Apep: A dragon sovereign's power is far greater than you can imagine. While I was indeed weakened when the Heart of Oasis ran dry, providing Tiny Buer with a morsel of my life force shall have little consequence for me.
-
 Paimon: Good to hear...
-
 Elemental Being: Floating Hydro Fungus: ~♪
-
 Elemental Being: Floating Anemo Fungus: ...?
-
 Traveler: (Just like Apep once said, the elemental lifeforms who merged with her have now been reborn.)
-
 Traveler: (The knowledge, memories, and emotions they once had are gone... They're brand new individuals now. And yet, for some reason, they seem drawn to Paimon and me.)
-
 Apep: Ever held in high favor, I see.
-
 Paimon: Heh, hehe, well, y'know...
-
 Apep: The compliment was sincere. Simply accept it.
-
 Traveler: (Come to think of it... I'm curious how Apep sensed the Ley Line anomaly from so far away, and immediately guessed that something was wrong with Irminsul.)
-
 Traveler: (Could she know something that we don't?)
-
-Traveler: Apep...
-
-Traveler: Do you know much about Irminsul?
-
+    Option 1:
+        Traveler: Apep...
+    Option 2:
+        Traveler: Do you know much about Irminsul?
 Apep: ...I did once.
-
 Apep: That tree was not planted by the Heavenly Principles. Irminsul existed before they ever arrived in Teyvat.
-
 Paimon: ...What?
-
 Apep: There was a time when it belonged to Teyvat, to dragonkind.
-
 Apep: Its appearance and function then differed greatly from today. The Ley Lines flowed with an abundance of a familiar, primitive form of elemental energy... You may know it as the power of the Light Realm.
-
 Apep: The Heavenly Principles usurped and refashioned Irminsul, made it serve humanity, and used it to anchor the fate of the world. Haha... Yet in the end, humanity has failed to protect it.
-
 Apep: Heavenly Principles, god of gods... It makes me sick. The enmity between your kind and mine can never be bridged.
-
-Traveler: Even so...
-
-Traveler: You still agreed to help us.
-
+    Option 1:
+        Traveler: Even so...
+    Option 2:
+        Traveler: You still agreed to help us.
 Apep: As things stand today, holding a grudge against you would serve no purpose.
-
 Apep: But there will come a day when we reclaim this world for ourselves. The opportunity will arise, no matter how long we must wait.
-
 Apep: I can already sense that far away from here, the Hydro Dragon has wrested his authority from the hands of the usurpers.
-
 Apep: Though we have yet to meet, I know that we are both preparing for our revenge day and night.
-
 Paimon: Uh-huh...
-
 Traveler: (It's probably best if we don't tell Apep that we're on such good terms with the Hydro Dragon...)
-
 Apep: ...I hear a great disturbance out there.
-
 Paimon: Huh? What is it?
-
 Apep: Sandstorms come... The Jinn? Hmm, I see.
-
 Traveler: What happened?
-
 Apep: Another calamity approaches. You both seem restless — let us part ways here.
-
 Apep: Buer is safe with me. Once she has recovered, I shall return her to your side.
-
 Paimon: Thanks again. Take care, alright?
-
 Apep: I told you already, I have no need of your feigned concern.
-
 Traveler: (There she goes again...)
-
 Traveler: (We've done what we came here for. Time to check what's going on out there...)
-
 Traveler: (...!)
-
 Paimon: Uh... N—Nahida? You're awake? Are you okay?
-
 Apep: Cease your interrogation. Yes, she awoke for a brief moment, but she has now lost consciousness again.
-
 Apep: Take it. We shall talk more at another time.
-
 Black Screen Text: "The statues of the gods hang inverted from the heavens, but one alone is unique among them."
-
 Black Screen Text: "Its location is □□□□□□□. Remember, tell no one."
-
 Traveler: (The moment I touched the key Nahida handed over, a mysterious piece of information appeared in my mind...)
-
 Traveler: (I don't know what it means, nor how to decipher it, but I will firmly commit it to memory.)
-
 Traveler: (This must be incredibly important information... I don't know why Nahida would keep it a secret from everyone, but it's probably best that I do the same for now.)
 
 ## Talk 10
 
 Cyno: There's no need for everyone to stay here. I'll protect the sages — the rest of you, return to Aaru Village.
-
 Aarav: Yes, Mahamatra Cyno!
-
 Paimon: Cyno, what's going on?
-
 Cyno: You're back! How is the Dendro Archon?
-
-Traveler: She's still with Apep, but she's recovering.
-
-Traveler: Apep gave Nahida some of her own life force.
-
+    Option 1:
+        Traveler: She's still with Apep, but she's recovering.
+    Option 2:
+        Traveler: Apep gave Nahida some of her own life force.
 Naphis: What a relief...
-
 Traveler: What's with these sandstorms?
-
 Cyno: It's the Jinn. Countless Jinn have stirred up violent sandstorms across the desert, blocking our path to the Temple of Silence.
-
 Cyno: Tighnari and Collei have returned to Aaru Village to help. The Jinn are being highly aggressive, so both the village and the merchant caravans require protection.
-
 Kaveh: It's just one thing after another... Where did all of them come from, anyway? In all my trips to the desert, I've never seen anything like this before.
-
 Alhaitham: As I see it, the only possible candidate is Gurabad.
-
 Paimon: Gurabad?
-
 Alhaitham: Baladhuri could explain in more detail if he were here. All I know is a rumor I've heard about from previous trips to the desert — supposedly, a great number of dormant Jinn lie sealed beneath that city.
-
 Traveler: (Jinn from Gurabad, huh...)
-
 Traveler: (A familiar figure comes to mind.)
-
 Liloupar: Gurabad is, for me, a fated land. I must therefore return back to this city, where my destiny awaits me still.
-
 Liloupar: My master... I am sorry that I couldn't stay by your side for long, that I could not have more time to get familiar with you.
-
 Paimon: Liloupar...
-
 Traveler: Paimon and I should take a trip to Gurabad.
-
 Paimon: Yeah. We once said goodbye to a friend there... Well, maybe not a "friend," exactly, but someone we met on the road, anyway. She was a strange bottle.
-
 Paimon: If we can find a way to wake her up, maybe she can help solve the situation in Gurabad.
-
 Alhaitham: Well, be careful. You may find there's more than just the Jinn to worry about.
-
 Cyno: You mean, there are other dangers in Gurabad?
-
 Alhaitham: It's a sensible assumption to make. The moment we arrived in Caravan Ribat, the Irminsul anomaly started spreading in that direction. Now we've moved to the desert, and suddenly we're plagued by Jinn and sandstorms.
-
 Alhaitham: To call it a coincidence would be a stretch.
-
 Paimon: Don't worry, we've gotten a lot stronger since our last stint in Sumeru!
-
 Traveler (Monster Roar): Raargh!
-
 Paimon: Eek! When did they show up!?
-
 Naphis: It appears that the monsters native to the desert have been stirred by the Jinn's activity.
-
 Cyno: You should get going. We'll take care of things here.
-
 Traveler: Be careful.
-
 Cyno: You too.
-
 Kaveh: Don't do anything too risky! You got it?
 
 ## Talk 17
 
 Traveler: That goes for me too.
+[Missing Dialog 30350705]
 
 Traveler: Yeah. Let's all head to the Temple of Silence.
+[Missing Dialog 30350707]
 
 Jeht: The sandstorm's gone. The sun shines bright again.
-
 Jeht: When I said that we'd meet again under a lovelier sun... This was exactly how I imagined it.
-
 Paimon: Hehe, yay! Although honestly, Paimon would love to hang out with you more, even if the weather sucked!
+[Missing Dialog 30352721]
 
 Paimon: Hmm... Well, there shouldn't be any more Jinn breaking out, right? Are we okay to head back?
+[Missing Dialog 30352723]
 
 Jeht: Sounds good. You can introduce us to your other friends.
-
 Liloupar: Haha, another adventure begins. Lovely!
 
 ## Talk 20
 
 ???: ...It seems my subordinates failed to stop you in your tracks.
-
 Balashov: Apologies, Sir.
-
 ???: There is no need to apologize. You did well to hold your ground against such a powerful adversary for as long as you did... I must commend your courage and perseverance.
-
 Paimon: So you're in charge here, huh? First the problems with Irminsul, now this mess in Gurabad... Are you the ones responsible for all this?
-
 ???: I'm afraid I cannot answer that.
-
 ???: Hehe... I assume you aren't naive enough to expect answers from an enemy?
-
 Paimon: Grr... This guy is so... so... snooty!
-
 Paimon: However you wanna spin it, you're clearly involved in this somehow. So you can either start talking, or we'll have to make you talk!
-
 Paimon: #Let's get him! ...Traveler? What's wrong?
-
 Traveler: (Something seems unusual about him... Is he trying to provoke us? This feels like a trap...)
-
 Traveler: (Judging by the tents and supplies, there must be many more Fatui stationed here than the few we saw on the way in. So where are the rest?)
-
 ???: You're remarkably calm. Some would act more rashly upon finding the ringleader all alone, but you keep your cool... Even as your enemy, I must applaud you.
-
 Traveler: Did you show yourself just to say that?
-
 ???: Is this you trying to take back control of the conversation? Unfortunately, I really don't have anything to say to you.
-
 ???: I am here merely to indulge my own curiosity... Your names are well known among the Fatui. Naturally, I wanted to observe you up close while I had the chance.
-
 Paimon: Hey! Don't treat us like we're some kind of... exotic animals in a zoo!
-
 ???: Oh, I wouldn't dream of it. You seem rather predisposed to misunderstand me.
-
 ???: I'm quite aware that you are both heroes of great renown. You have resolved crises in many nations and won countless allies along the way...
-
 ???: I've been following your adventures with great admiration. My only regret is that the trajectory of your journey conflicts with our goals.
-
 Paimon: What do you mean "admiration"? Sorry, but that sounds pretty weird coming from you...
-
 ???: I don't see why. We may happen to occupy opposing sides, but there is no cause for deep-seated enmity between us. To respect one's enemy is to respect oneself.
-
 Traveler: Well, now that you're observing us up close, what do you see?
-
 ???: I've observed as keenly as I can. Yet while I endeavor to understand, your true strength remains a mystery to me.
-
 ???: Violence is not my area of expertise either... So, you see, I would much rather converse with you like this than determine a victor with the edge of a blade.
-
 ???: Besides, I've heard that even three moons in the sky failed to eclipse your brilliance. I know better than to bite off more than I can chew.
-
 Paimon: Three moons...!?
-
 Traveler: So you have a connection with the Harbinger, "The Doctor"?
-
 ???: Well deduced. Our commander, Dottore, died in Nod-Krai. But there are things that do not end with his departure. We must...
-
 ???: Ah, look at me. I almost divulged more than I should have.
-
 Paimon: What are you after? Revenge for Dottore? Or are you plotting something else...
-
 ???: I've said quite enough, I believe. There's no point in continuing this conversation... Except to say, I've noticed that you seem to know your way around here quite well. A repeated visitor to Gurabad, are we?
-
 Paimon: ...
-
 ???: I'll take that as a yes. Then I'm sure you'll have heard the story of this place... The "Mother of the Jinn," Liloupar, and the tragic tale of her vengeance that spanned three generations.
-
 ???: It was right here that Liloupar once helped the wise to ascend to the throne. But from that moment on, every king who sat upon it was corrupted by power.
-
 ???: These degenerate rulers lost control over their nation, and with it, the right to occupy that exalted seat.
-
 Traveler: What are you trying to say?
-
 ???: I once admired you for your adventures. That is the earnest truth. But it appears to me that your journey serves ultimately to uphold the rules of this world.
-
 ???: Are these rules truly just? Does the Heavenly Principles rule with wisdom, or folly? And how can we be sure that The Seven, who wield authority over the world, will not be corrupted?
-
 Paimon: Do you seriously think you're gonna convince us of anything?
-
 ???: Convince you? Haha. I'm sure my commander already tried that. Why would I waste my breath doing the same?
-
 ???: If a few words from a stranger were enough to make someone completely change their stance, it would only prove that they never had a firm will to begin with.
-
 ???: I am merely stating my position so that we might understand each other better. One's enemy in the present may not necessarily be an enemy for life.
-
 ???: As for what game I'm playing here... I'm simply buying some time. But now, I must bid you farewell.
-
 ???: It was a wise decision not to attack me immediately. Since you did not fall for my ambush, I will now have to ask those in hiding to reveal themselves.
-
 Sedova: Leave this to us, Sir.
-
 ???: #Very well. I trust you to do what is necessary. Stall him while I execute the next step of the plan.
-
 ???: Sumeru City, Irminsul...
-
 Paimon: Hey, stop right there! Don't you dare leave without explaining yourself!
-
 Kolomiyets: All units, stop them! Protect the commander!
 
 ## Talk 22
 
 Paimon: Found him! Over here!
-
 ???: You're very persistent.
-
 Paimon: Hey, you! Stop running, and explain yourself! What're you trying to—
-
 Traveler: Paimon, wait!
-
 Paimon: Wh—What's this..?
-
 ???: Relax. A small trap like this won't be enough to hold you.
-
 ???: The sandstorms from Gurabad will die down soon enough, but this small window of time was all we needed to launch the next phase of our plan.
-
 Traveler: (So there was more than one ambush... I shouldn't have let my guard down!)
-
 ???: Don't be discouraged. I knew that someone would come here eventually, so I planned ahead.
-
 ???: Where to chat with you, which door to exit from, even which mechanism to wait by for you... I thought through every detail.
-
 ???: You, meanwhile, know nothing of who I am. So far, you've only heard my voice — and for all you know, it may not even be real.
-
 ???: But not to worry. This is only our first meeting. It shan't be our last.
-
 Traveler: Just answer me one last question. Why do you continue to follow Dottore? He has conducted countless cruel experiments... even on his subordinates.
-
 ???: "Follow" isn't quite the right word. Let's just say, even those you see as villains have their friends, even if they aren't the most sincere of friendships.
-
 ???: When any set of rules is established, there will be those who benefit and those who lose out. People will do anything to justify what they have gained or escape from the hardship imposed upon them.
-
 ???: Neither he nor I are tolerated by the rules of this world. We were both searching for a new order... Our ideas of the final form that should take may have differed, but our journeys took a shared path.
-
 ???: #Goodbye, Traveler and Paimon. I wish you a timely escape... albeit not too soon. I will need a little more time to prepare, after all.
-
 Paimon: Hey! Come baaaack!
-
 Paimon: Wait, this dark wall... We've seen these on our adventures before! It swallows people up!
-
 Paimon: Paimon's sorry... She shouldn't have jumped the gun...
-
-Traveler: It's not your fault, Paimon.
-
-Traveler: Let's just focus on getting out of here.
-
+    Option 1:
+        Traveler: It's not your fault, Paimon.
+    Option 2:
+        Traveler: Let's just focus on getting out of here.
 Paimon: Okay! Hmph, he may have fooled us this time, but we'll get him back!
 
 ## Talk 23
 
 Tighnari: Cyno and his team are guarding the north. We'll take this side.
-
 Collei: There are so many Jinn... We can't let them get into Aaru Village.
-
 Dori: Don't fret! I am well prepared for this situation.
-
 Tighnari: Huh? So you have a solution?
-
 Dori: Perhaps you're unaware that I have a trusty Jinni partner of my own, Plumpy. If I send her to negotiate with the others, this whole thing will resolved before you can say "Mora."
-
 Dori: Off you go, Plumpy!
-
 Plumpy: Blub.
-
 Dori: C'mon! What's the holdup?
-
 Dori: ...5,000 Mora.
-
 Plumpy: Blub.
-
 Dori: 20,000 Mora.
-
 Plumpy: Blub.
-
 Dori: 100,000 Mora, final offer!
-
 Plumpy: Blub-blub!
-
 Tighnari: Ah, so she's a hired partner.
-
 Dori: Hired partners are reliable too! Plumpy here is a highly skilled negotiator. You'll see — just a few words from her, and...
-
 Plumpy: Blub...
-
 Dori: Plumpy...!
-
 Dori: Don't you Jinn have any respect for the rules!? This was supposed to be a negotiation! How dare you treat my messenger like this!
-
 Dori: You wanna play rough? Two can play at that game!
-
 Dori: Aaaah!
-
 Tighnari: ...
-
 Collei: ...
-
 Tighnari: Looks like it's up to us now. Be careful, Collei.
-
 Collei: Yes, Master!
 
 ## Talk 25
 
 Collei: There's too many of them!
-
 Dori: I can't believe I used 12 rare items in one battle! Ugh... I shudder to think how this is going to affect this month's accounts... The sight of that glaring deficit might be more than my poor heart can take...
-
 Baladhuri: Tighnari, how's the situation on your end?
-
 Tighnari: We held the line, though it was a close call. But it looks like they're preparing for another attack... Has something happened?
-
 Firnas: They've breached our defenses in the south! The Jinn are pouring in! We're moving the villagers to the north as we speak.
-
 Tighnari: We're hemmed in... This is getting precarious. Our margin for error just got a lot smaller.
-
 Baladhuri: That's why we wanted to confirm your status. We need to consider our next move carefully...
-
 Firnas: Bad news! Another line of defense has been breached!
-
 Tighnari: Collei, go with them and assess the situation. Dori and I will hold the line here.
-
 Collei: But, Master...! Even with three of us, we barely managed to—
-
 Tighnari: This is not a discussion, Collei. Don't worry about us — she clearly still has plenty of tricks left up her sleeve.
-
 Dori: Wait, you can't pin all your hopes on me!
-
 Dori: (Oh, great... I've almost run out of the things I brought with me, and the rest is back at the caravan. I should be able to hold out for a little longer, but still...)
-
 Collei: Master...
-
 Nicole (???): Need any help?
-
 Collei: Huh!?
-
 Tighnari: What is it, Collei?
-
 Nicole (???): If things continue like this, it won't be long before Aaru Village is overrun by Jinn, and the sandstorms are sure to follow in their wake. I do have a plan, but I can't guarantee it will work.
-
 Collei: I don't care. Whoever you are... Please, just help us!
-
 Nicole (???): The only one who can help is you. I am merely here to guide you along the correct path.
-
 Nicole (???): "I am a spirit created at the beginning, I am a flickering illusion, I am the shimmering light that flows from the eyes of the creator."
-
 Collei: What do you mean?
-
 Nicole (???): It doesn't matter, you don't need to understand it. Just repeat after me, one line at a time.
-
 Firnas: Watch out, Jinn incoming!
-
 Nicole (???): "I am a spirit created at the beginning."
-
 Collei: Phew... Here goes nothing! "I am a spirit created at the beginning"...
-
 Plumpy: Blub...?
-
 Nicole (???): "I am a flickering illusion."
-
 Collei: "I am a flickering illusion"...
-
 Plumpy: Blub!!!
-
 Dori: What's wrong, Plumpy? I've never seen you so agitated before.
-
 Baladhuri: That's... But how do you...
-
 Tighnari: Do you know what Collei is reciting?
-
 Nicole (???): "I am the shimmering light that flows from the eyes of the creator."
-
 Collei: "I am the shimmering light that flows from the eyes of the creator"...
-
 Traveler (Jinn): Roar...
-
 Baladhuri: It's a song composed by the Goddess of Flowers. But very few records of it remain, even in historical texts. All we have is a few fragments.
-
 Baladhuri: Is Collei an avid historian?
-
 Tighnari: Not to my knowledge.
-
 Firnas: The Jinn have actually quieted down. Although... no, it's more than that. It looks like they're showing... submission.
-
 Baladhuri: Hmm... Clearly, the songs left by the Goddess of Flowers have a soothing effect on them. At the very least, they're much calmer now.
-
 Firnas: Really? Let me try...
-
 Firnas: "I am a spirit created at the beginning"...
-
 Traveler (Jinn): Raargh!!
-
 Firnas: Eek! Stay away! I'll stop, I'll stop!
-
 Baladhuri: It seems like the song only works when Collei recites it. But why?
-
 Tighnari: Collei...
 
 ## Talk 26
 
 Traveler: Hyah!
-
 Paimon: Any luck?
-
 Traveler: (The only way out of here is by brute force. But too much force, and the entire ruins might collapse.)
-
 Traveler: (The mechanism is right outside. Maybe there's a way to...)
-
 Jeht (???): Heh. When I heard that loud rumbling in the distance, I thought the shifting sands had bust open the gates to some ancient treasure vault... Turns out it was just you guys.
-
 Paimon: Huh? Wait, that sounds like—
-
 Jeht: It's been a long while... Did you miss me?
-
 Benben: Beep-beep, beep...
-
 Paimon: Jeht! Benben!
-
 Jeht: Let's save the catching up for later — first, I gotta get you guys out of there.
-
 Jeht: This should be the right mechanism... Benben, can you handle it?
-
 Benben: Beep!
-
 Jeht: There we go.
-
 Jeht: C'mon, let's leave this place.
 
 ## Talk 29
 
 Paimon: Hmph, those Fatui sure made themselves scarce. It's like they were never here.
-
 Jeht: The Fatui? They came to the desert again?
-
 Paimon: Yup. No idea what they're planning this time... They were being very coy about it.
-
 Traveler: How have you been, Jeht?
-
 Jeht: Well, since we last met, I've started my own band of mercs. We've actually made quite a name for ourselves.
-
 Jeht: Oh yeah — on a slightly different note, I have some good news.
-
 Jeht: I finally took care of Masseira. Not much to write home about... It was just another day. Found his hideout, dragged him out of his cozy little bed.
-
 Jeht: He tried to talk me into seeing his point of view, as usual. But I'm way past that by now. There was nothing he could say to save his life.
-
-Traveler: So the Masseira chapter has finally come to a close.
-
-Traveler: Remember to wipe the blood off your hands.
-
+    Option 1:
+        Traveler: So the Masseira chapter has finally come to a close.
+    Option 2:
+        Traveler: Remember to wipe the blood off your hands.
 Jeht: What about you guys? Bet you'd forgotten all about me and Benben, huh?
-
 Paimon: Of course not! We're super-duper best friends!
-
 Black Screen Text: You briefly recount the events of your recent travels to Jeht...
-
 Jeht: Wow. Sounds like I should make time to visit some other nations, too. Anyway, what brings you to Gurabad?
-
 Paimon: Oh, right! Paimon almost forgot! We're here to look for Liloupar.
-
 Jeht: Oh, that bottle?
-
 Jeht: Oh, that bottle?
-
 Paimon: Yeah. We need her power to calm the Jinn and stop the sandstorms.
-
 Paimon: Here's hoping we actually manage to find her, after all the trouble we've been through... Surely, with everything that's been going on in Gurabad, she must've woken up, right? Only one way to find out...
 
 ## Talk 31
 
 Paimon: Liloupar!
-
 Liloupar: What a long dream that was... It's been a while, my master.
-
 Liloupar: Oh, and you're here too, little wildcat. The four of us, back together again. Imagine that!
-
-Traveler: How've you been?
-
-Traveler: I hope this wasn't a rude awakening?
-
-Liloupar: In truth, it was at first. I was none too pleased when those miscreants barged in... But it did give me the chance to reunite with you, dear master, so I shall overlook their folly.
-
+    Option 1:
+        Traveler: How've you been?
+    Option 2:
+        Traveler: I hope this wasn't a rude awakening?
+        Liloupar: In truth, it was at first. I was none too pleased when those miscreants barged in... But it did give me the chance to reunite with you, dear master, so I shall overlook their folly.
 Liloupar: After we last parted ways, I merged with the land beneath Gurabad to suppress the dark calamity stirring in the depths.
-
 Liloupar: It rekindled the flame of vengeance within the Jinn, depriving Gurabad of any hope of peace.
-
 Liloupar: I fought against it for a long, long time — until one day, I sensed a change in a foreign land to the west. Suddenly, the pitch-black Abyss fell silent.
-
 Traveler: (A foreign land to the west... Could she mean Natlan? Gurabad isn't far from there. Did the Abyssal presence beneath this city fall silent when we defeated Gosoythoth?)
-
 Liloupar: Once satisfied that that dark power could no longer bewitch the Jinn, I too fell into a deep slumber, from which I have only now awoken.
-
 Liloupar: Why have you returned to Gurabad, my master? And why is my sand-swept homeland in disarray once more?
-
 Paimon: Well... Basically, Sumeru's in danger and a lot of our friends are affected. Some bad guys messed around with Irminsul, and now they've released the Jinn in here.
-
 Paimon: We managed to chase off the culprits, but we have no idea how to seal this place back up and stop the sandstorms.
-
 Liloupar: Child's play. I shall quell the Jinn and scatter the storms.
-
 Traveler: Thank you, Liloupar.
-
 Liloupar: No need to thank me, my master. I have granted many wishes in my time, and this was the most trivial of them all.
-
 Jeht: The sandstorm's gone. The sun shines bright again.
-
 Jeht: When I said that we'd meet again under a lovelier sun... This was exactly how I imagined it.
-
 Paimon: Hehe, yay! Although honestly, Paimon would love to hang out with you more, even if the weather sucked!
-
 Traveler: That goes for me too.
-
 Paimon: Hmm... Well, there shouldn't be any more Jinn breaking out, right? Are we okay to head back?
-
 Traveler: Yeah. Let's all head to the Temple of Silence.
-
 Jeht: Sounds good. You can introduce us to your other friends.
-
 Liloupar: Haha, another adventure begins. Lovely!
 
 ## Additional Conversations
@@ -1077,115 +609,73 @@ Liloupar: Haha, another adventure begins. Lovely!
 ### Additional Talk 1
 
 Cyrus: Alright. Well, don't go too far. There's too many unknowns at this stage.
-
 Cyno: Let's regroup at Caravan Ribat later. Don't worry, if you don't show up, I'll come and find you.
 
 ### Additional Talk 2
 
 Shakir: Don't be nervous, Collei. I just wanted to ask, have you ever had similar dreams to this one before?
-
 Collei: Umm... Similar how?
-
 Shakir: Dreams so vivid, they seem real. Filled with strange or dangerous things that you cannot explain.
-
 Collei: Lemme think... There was one time. I don't remember it very clearly, but I saw...
-
 Collei: Fire.
-
 Shakir: Fire?
-
 Collei: Yeah. I wish I could give you more details, but all I remember is fire everywhere. From the sky to the ground, everything was burning... The heat was unbearable, and ashes were blowing in the wind...
-
 Shakir: I doubt this dream was a mere coincidence. Perhaps it was some kind of prophecy? And yet, you've never studied astrology... I'm at a loss to explain it.
 
 ### Additional Talk 3
 
 Baladhuri: I thought we'd be safer once we got to Caravan Ribat...
-
 Rushd: If the Irminsul anomaly's sphere of influence continues to expand, our only option will be to move into the desert.
-
 Rushd: To Aaru Village? We should check if they can accommodate so many people.
-
 Firnas: Essential supplies will also become an issue. We were only able to relocate here so quickly because Caravan Ribat is well stocked.
-
 Firnas: If we move to the desert, we'll need to carefully calculate how much food and water to bring...
 
 ### Additional Talk 4
 
 Naphis: Thank you for everything, Tighnari...
-
 Tighnari: Don't worry about me — I'm fine. But if you don't mind me saying so, Master, you're looking a little nervous yourself.
-
 Naphis: I only just got appointed as Grand Sage, and now this happens... It's quite overwhelming.
-
 Naphis: Looking back now, I don't think I handled the situation with Azar very well at all. Yes, I protested, but I went about it the wrong way. Instead of helping, I just ended up getting locked away.
-
 Naphis: Now that I'm The Grand Sage, I have to be responsible for everyone's lives... including the dozen or so who fled to Yasna Monument. I can't help but blame myself for their deaths.
-
 Tighnari: It's only natural that you want to do the best job you can. But Master, we both know perfection is impossible.
-
 Naphis: You're right. ...We may well be heading into the desert before long. Feeling up to it?
-
 Tighnari: We left in such a hurry that I didn't bring any sun lotion. But I'm sure I can make some from local ingredients here. That was a big part of my graduation thesis, after all. Still remember?
-
 Naphis: Of course, like it was yesterday. I remember asking you if you'd like to stay and teach, but you turned me down without a moment's consideration...
-
 Naphis: Anyone else would fight tooth and nail for the chance to research by my side, but you couldn't get out the door fast enough. Weren't you afraid I'd hold up your thesis and stop you from graduating?
-
 Tighnari: If you'd pulled a move like that, I would've reported you to the matra right away.
-
 Naphis: You wouldn't give me a second chance? What about the bond between mentor and student?
-
 Tighnari: No, Master. I would not sit by and watch you go astray.
-
 Naphis: Very good. Then I taught you well.
 
 ### Additional Talk 5
 
 Kaveh: So, um... Can I assume that this period of time away won't count as part of the rental period? Maybe we should deduct it from next month's payment?
-
 Alhaitham: Sure.
-
 Kaveh: Great... Wait, why are you suddenly being so reasonable? What's the catch?
-
 Alhaitham: I'm always reasonable with rental payments. Like the time I refused to let you use that wine you brought home as collateral.
-
 Kaveh: That was a perfectly fair request and you know it! Everyone runs low on funds now and then, don't they? And that bottle of wine wasn't cheap. You ought to be thanking me.
-
 Kaveh: Anyway, Sumeru City should be empty by now, right? With no one at home, I've been worried about security...
-
 Alhaitham: Worried about burglars? What would they steal? That new scroll you bought?
-
 Kaveh: Ah! I'd almost forgotten about that. Ugh, I only went and hung it up in the most conspicuous spot in the house... If anyone breaks in, it'll be the first thing they see!
-
 Alhaitham: Well, no one but you gave it a second look while it was on display in the shop. I doubt anyone would go out of their way to steal it.
-
 Kaveh: You say that, but what if there's a thief out there who shares my aesthetic tastes?
-
 Alhaitham: Then you can only hope he shares your taste in expensive wine as well. Always worth having some collateral.
-
 Kaveh: You...!
 
 ### Additional Talk 6
 
 Paimon: Hat Guy!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What?
-
 Paimon: Nothing, you just looked like you were lost in thought there... Do you have any ideas about what's going on?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: From what I know about Irminsul, the system doesn't break down that easily.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I don't have the faintest idea who could have done this. ...Actually, one name did cross my mind, but... Hmph, he's already dead.
 
 ### Additional Talk 7
 
 Zakariya: Take this medicine and get some rest. Long journeys are fatiguing at the best of times, and it's taken its toll on your health. Please focus on recovering for the next couple of days...
-
 Aryadeva: Got it. Thank you.
 
 ### Additional Talk 8
 
 Nidal: Keep your eyes peeled! It's down to us to maintain order at this time.
-
 Nidal: This is a direct command from the Mahamata. Everyone, stay vigilant. We cannot allow bad actors to take advantage of the chaos.

@@ -3,67 +3,1198 @@
 ## Talk 0
 
 Albedo: Hm? Oh, it's you. Taking a walk around these parts?
-
-Traveler: Do you want to chat?
-
-Albedo: Okay. What would you like to discuss?
-
-Traveler: About how you felt riding a dragon...
-
-Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
-
-Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
-
-Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
-
-Albedo: I suppose this can be considered an unforgettable memory.
-
-Traveler: Tell me about these islands...
-
-Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
-
-Albedo: And yet, the island still contains traces of human activity.
-
-Albedo: Additionally, a plethora of organisms are present here.
-
-Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
-
-Traveler: Tell me about yourself...
-
-Albedo: Me? I'm doing quite well here. Thank you for your concern.
-
-Albedo: How do you feel here, if I might ask?
-
-Traveler: Pretty good.
-
-Albedo: Okay, that's good to hear.
-
-Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
-
-Traveler: About what happened today...
-
-Albedo: Today's events didn't feel that out of the ordinary.
-
-Albedo: Hmm? Sorry, do you mean when I left by myself?
-
-Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
-
-Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
-
-Albedo: You're intelligent, and I like to talk to intelligent people.
-
-Traveler: I won't disturb you.
-
-Albedo: Alright, good night.
+    Option 1:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 2:
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 3:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 4:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 6:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 7:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 8:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 9:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 10:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 11:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 12:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 13:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 14:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 15:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 16:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 17:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 18:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 19:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 20:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 21:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 22:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 23:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 24:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 25:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 26:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 27:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 28:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 29:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 30:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 31:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 32:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 33:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 34:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 35:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 36:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 37:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 38:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        [Circling back to a pre-branch dialog]
+    Option 39:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 40:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 41:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 42:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 43:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 44:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 45:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 46:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 47:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 48:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 49:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 50:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 51:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 52:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 53:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 54:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 55:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 56:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 57:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 58:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 59:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 60:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 61:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
+    Option 62:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about these islands...
+        [Circling back to a pre-branch dialog]
+    Option 63:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: Tell me about yourself...
+        [Circling back to a pre-branch dialog]
+    Option 64:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: About what happened today...
+        Albedo: Today's events didn't feel that out of the ordinary.
+        Albedo: Hmm? Sorry, do you mean when I left by myself?
+        Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+        Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+        Albedo: You're intelligent, and I like to talk to intelligent people.
+        [Missing Dialog 400122828]
+    Option 65:
+        Traveler: Do you want to chat?
+        Albedo: Okay. What would you like to discuss?
+        Traveler: About how you felt riding a dragon...
+        Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+        Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+        Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+        Albedo: I suppose this can be considered an unforgettable memory.
+        Traveler: Tell me about yourself...
+        Albedo: Me? I'm doing quite well here. Thank you for your concern.
+        Albedo: How do you feel here, if I might ask?
+        Traveler: Pretty good.
+        Albedo: Okay, that's good to hear.
+        Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+        Traveler: Tell me about these islands...
+        Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+        Albedo: And yet, the island still contains traces of human activity.
+        Albedo: Additionally, a plethora of organisms are present here.
+        Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+        Traveler: I won't disturb you.
+        Albedo: Alright, good night.
 
 ## Talk 1
 
 Albedo: Please, don't look at me like that.
-
 Albedo: If we'd solved the riddle at the beginning, then the game wouldn't have been much fun now, would it?
-
 Albedo: This archipelago suits you... and Klee.
-
 Albedo: Don't you think so? Summer, islands, ocean... even if it is essentially just an ocean playground. It's perfect for those on the move.
-
 Albedo: You could spend a wonderful summer here.

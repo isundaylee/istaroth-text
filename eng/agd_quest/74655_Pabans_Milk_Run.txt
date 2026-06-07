@@ -7,13 +7,10 @@ Paban: Very well. Here is the fee for your samples, with a service fee added in.
 *Conversations not present as sub-quests.*
 
 Traveler: About Milk...
-
 Paban: Are you the interested supplier?
-
 Paban: Have you prepared your dairy product samples? Don't worry, they'll be safe with me.
-
-Traveler: Not yet.
-
-Paban: Well, I'd suggest you hurry, then. You're not the only party after this contract.
-
-Traveler: Samples are ready.
+    Option 1:
+        Traveler: Samples are ready.
+    Option 2:
+        Traveler: Not yet.
+        Paban: Well, I'd suggest you hurry, then. You're not the only party after this contract.

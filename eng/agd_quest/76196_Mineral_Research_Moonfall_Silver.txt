@@ -4,77 +4,63 @@
 ## Talk 1
 
 Traveler (Linnea): (Hmm... seems like it's not starting yet.)
-
 Traveler (Linnea): (Wait for a while.)
-
 Black Screen Text: The appreciation event finally begins...
 
 ## Talk 2
 
 Linnea: Dorota? What are you doing here?
-
 Dorota: You couldn't have come at a better time, Linnea! I was just telling everyone about the wonders of Moonfall Silver.
-
 Dorota: Oh, Moonfall Silver, Moonfall Silver... is there any gem more perfect in the sublunary sphere?
-
 Dorota: Look! Its flawless form, its smooth, rounded texture! And that iridescent white paired with unrivaled elemental affinity!
-
 Dorota: In my eyes, only the moon in the sky can compare to you!
-
 Linnea: Umm... yeah. Moonfall Silver is a beautiful ore. I've collected a few samples myself.
-
 Dorota: See, I knew you'd understand!
-
 Dorota: But still, no one understands Moonfall Silver better than I do! Even if you're an advisor to the Adventurers' Guild, I'm not giving up first place that easily. Hehe.
-
 Dorota: Right! And since you're usually the one teaching adventurers, how about I test you for a change?
-
 Dorota: I have three pieces of Moonfall Silver here. Sadly, two of them have minor flaws. The last one, though, that's my prized treasure. The Moonfall Silver among Moonfall Silvers!
-
 Dorota: Can you tell which one is the most perfect?
-
 Linnea: Let me see...
-
-Linnea: The one on the left...
-
-Linnea: (Hmm? What is Lumi doing?)
-
-Linnea: I'll go with this one!
-
-Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
-
-Linnea: Okay, you got me. But next time, I'm not going down that easily!
-
-Dorota: Fine by me. I'm always ready!
-
-Dorota: Wow, didn't expect everyone to be so enthusiastic. It's a shame moments like this never seem to last... Alright, time to pack up and head back.
-
-Linnea: The one in the middle...
-
-Linnea: (Lumi seems to like this one.)
-
-Linnea: I'll go with this one!
-
-Dorota: Ah, you feel it too, don't you? That irresistible pull only something truly perfect can have.
-
-Linnea: The one on the right...
-
-Linnea: (Hmm? What is Lumi doing?)
-
-Linnea: I'll go with this one!
-
-Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
-
-Linnea: Okay, you got me. But next time, I'm not going down that easily!
-
-Dorota: Fine by me. I'm always ready!
-
-Linnea: Let me think again...
-
+    Option 1:
+        Linnea: The one on the left...
+        Linnea: (Hmm? What is Lumi doing?)
+        Linnea: I'll go with this one!
+        Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
+        Linnea: Okay, you got me. But next time, I'm not going down that easily!
+        Dorota: Fine by me. I'm always ready!
+    Option 2:
+        Linnea: The one in the middle...
+        Linnea: (Lumi seems to like this one.)
+        Linnea: I'll go with this one!
+        Dorota: Ah, you feel it too, don't you? That irresistible pull only something truly perfect can have.
+    Option 3:
+        Linnea: The one on the right...
+        Linnea: (Hmm? What is Lumi doing?)
+        Linnea: I'll go with this one!
+        Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
+        Linnea: Okay, you got me. But next time, I'm not going down that easily!
+        Dorota: Fine by me. I'm always ready!
+    Option 4:
+        Linnea: The one on the left...
+        Linnea: (Hmm? What is Lumi doing?)
+        Linnea: Let me think again...
+        Linnea: Let me see...
+        [Circling back to a pre-branch dialog]
+    Option 5:
+        Linnea: The one in the middle...
+        Linnea: (Lumi seems to like this one.)
+        Linnea: Let me think again...
+        Linnea: Let me see...
+        [Circling back to a pre-branch dialog]
+    Option 6:
+        Linnea: The one on the right...
+        Linnea: (Hmm? What is Lumi doing?)
+        Linnea: Let me think again...
+        Linnea: Let me see...
+        [Circling back to a pre-branch dialog]
 Black Screen Text: Linnea ends up taking part in Dorota's Moonfall Silver Appreciation Event, and had a really lovely time...
-
+Dorota: Wow, didn't expect everyone to be so enthusiastic. It's a shame moments like this never seem to last... Alright, time to pack up and head back.
 Linnea: Let me help you.
-
 Dorota: Oh, that'd be nice! Thanks!
 
 ## Talk 4
@@ -84,37 +70,21 @@ Check (Moonfall Silver Appreciation Event): "If you've ever been captivated by t
 ## Talk 6
 
 Linnea: Whew... we didn't miss any, right?
-
 Dorota: Hmm... nope, everything's just right!
-
 Linnea: I saw you making those fun patterns on the ground with Moonfall Silver.
-
 Dorota: Yeah! It took quite a bit of effort, but I think it really helped to spark everyone's love for the Moonfall Silver.
-
 Linnea: Speaking of which, I heard that there's a folk tale from Natlan...
-
 Linnea: It's about a girl who originally lived among the stars. When she fell to the earth, she left huge drawings on the ground in her effort to return to the sky.
-
 Linnea: In the end, her father, the sun up in the heavens, saw her request and brought her back.
-
 Linnea: Maybe he'd see the patterns you made and become a fan of Moonfall Silver too!
-
 Dorota: Haha, if that's the case, then I'd be the ultimate Moonfall Silver ambassador!
-
 Dorota: But compared to that, I'm still more worried about getting noticed by birds from above. You know, crows and all, they really like shiny things too.
-
 Linnea: True. And besides crows, we've also got to watch out for Sniffer Moles and Weasel Thieves on the ground.
-
 Dorota: And Lumi too!
-
 Linnea: Haha, right! And Lumi too!
-
 Lumi: Ya-ho?
-
 Dorota: Anyway, thanks for helping out earlier. Even though this is just a small portion of my collection... here, take them! Consider it a gift for Lumi.
-
 Linnea: Hehe, today's a really lucky day, isn't it, Lumi?
-
 Lumi: Ya-hoho!
 
 ## Additional Conversations

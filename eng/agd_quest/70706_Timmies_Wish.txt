@@ -1,7 +1,6 @@
 # Timmie's Wish
 
 Timmie: Yup, this should do it! Thanks for helping me out. Take these, please.
-
 Timmie: Ten spikes of Wheat... We can make something delicious out of that for sure!
 
 ## Additional Conversations
@@ -9,13 +8,10 @@ Timmie: Ten spikes of Wheat... We can make something delicious out of that for s
 *Conversations not present as sub-quests.*
 
 Traveler: About the wheat...
-
 Timmie: Ah, you saw my commission, didn't you?
-
 Timmie: So did you get those ten spikes of Wheat?
-
-Traveler: Got them right here.
-
-Traveler: Not yet.
-
-Timmie: Well, give them to me once you're ready, then.
+    Option 1:
+        Traveler: Got them right here.
+    Option 2:
+        Traveler: Not yet.
+        Timmie: Well, give them to me once you're ready, then.

@@ -6,113 +6,67 @@
 ## Talk 2
 
 Traveler: Please mark the next site Abyssal corrosion site...
-
 Secret Source Servant: Affirmative. It has been marked... Please clear the Abyss-corrupted zone as soon as possible to retrieve the data stored there.
-
 Secret Source Servant: From there, the database may be restored, preserved, and maintained, such that the required content may be accessed.
 
 ## Talk 4
 
 Paimon: Ah! A Secret Source Servant... Huh. Is it just Paimon, or is this one bigger than the others?
-
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
 Secret Source Servant: ?
-
 Paimon: Hehe, fancy meeting you again so soon!
-
 Secret Source Servant: ...Apologies, but there are no entries regarding you logged in my database.
-
 Secret Source Servant: Humans this far down... This has not happened in at least 500 years.
-
 Paimon: Wait, you're not Amaru... or Ehecatl, are you?
-
 Secret Source Servant: ...There were indeed individuals referred to as such, but I am neither of them.
-
 Secret Source Servant: I believe there must be some misunderstanding.
-
 Secret Source Servant: I am a prototype created to assist Lord Xiuhcoatl with information recording, so I have no name.
-
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-
 Secret Source Servant: Wait... No... Not that I have no name, I...
-
 Secret Source Servant: I am the only intelligent Secret Source Servant without a master. Even after Lord Xiuhcoatl fell, I was still in charge of the most basic...
-
 Secret Source Servant: The most basic city maintenance and information recording functions.
-
 Secret Source Servant: However, some records have been lost due to the invasion of our shadowy foe, so I do not have data regarding my name.
-
 Paimon: Yeah, seems like we've got the wrong guy... Err, dragon-robot?
-
 Secret Source Servant: It is fine.
-
 Paimon: Hmm. This robot is huge, but it doesn't seem too bright.
-
 Paimon: #This probably isn't that guy who uses machines to talk to us, Traveler...
-
 Paimon: But it did say that it is in charge of record-keeping and stuff, right?
-
 Paimon: Why don't we ask it what it knows, then? Or... You know, about how we can reach the Heart of the Sacred Mountain!
-
-Traveler: Maybe that's what "that guy" intended...
-
-Traveler: Well, let's fire away, then...
-
+    Option 1:
+        Traveler: Maybe that's what "that guy" intended...
+    Option 2:
+        Traveler: Well, let's fire away, then...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 5
 
 Secret Source Servant: Do you have any queries?
-
 Traveler: How do we enter the Heart of the Sacred Mountain?
-
 Secret Source Servant: The entrance to the Heart of the Sacred Mountain is at the newly-excavated entrance... descend into the deepest fissure of the volcano, where it is defended by a Secret Source Dragon Idol.
-
 Secret Source Servant: Moreover, any who wish to gain access to the Heart must also obtain a "permit"...
-
 Secret Source Servant: Only then can you gain the acknowledgement of the Secret Source Dragon Idol that stands guard... Heart of the Sacred Mountain, also known as Huitzilopochtli...
-
 Traveler: Where can we get this permit...
-
 Secret Source Servant: According to the agreement and the edict issued by Lord Xiuhcoatl, entry to... The Heart of the Sacred Mountain, also known as "Huitzilopochtli"... the descendants of...
-
 Secret Source Servant: Proceed unto the Chamber of Deliberation to submit an application, and then wait for the permit to be issued.
-
 Traveler: What about the energy source required by Secret Source Dragon Idols?
-
 Secret Source Servant: Now, searching... No corresponding data entry categories... Or perhaps the relevant data, like so much else, has become lost due to the Abyssal corruption of the city...
-
 Secret Source Servant: If you can eliminate the Abyss's influence and retrieve the data, perhaps you might find the entries you seek.
-
 Secret Source Servant: I have marked out a potential data storage location for you. Please eliminate the Abyssal corruption present there to restore the area.
-
 Secret Source Servant: Do you have any queries?
-
 Traveler: I have no more questions...
-
 Secret Source Servant: Understood.
 
 ## Talk 6
 
 Secret Source Servant: Greetings. New data recovery category detected.
-
 Secret Source Servant: ...Entries concerning Source Mechanism energy cores have been updated.
-
 Secret Source Servant: Phlogiston is the main form of energy that powers Source Mechanisms, albeit in a condensed form that closely resembles light.
-
 Secret Source Servant: Stable amounts of Phlogiston Units may be generated via the controlled reaction known as [DATA LOST] allowing for more precise control over energy release.
-
 Secret Source Servant: The energy that a Source Mechanism requires is dependent on both size and the complexity of its operating logic. The quantity of Phlogiston Units a Secret Source Servant requires is [DATA LOST]...
-
 Secret Source Servant: While the larger Secret Source Dragon Idols, in fact, require less — specifically, three in number.
-
 Secret Source Servant: "Information is energy, and energy is information." The data carrier you retrieved counts as a single Phlogiston Unit...
-
 Traveler: So one "Phlogiston Unit" is one fireball...
-
 Secret Source Servant: Yes, that is one way to look at it. You restored a Phlogiston Unit that had been corrupted by the Abyss. Only then could I extract anything from it...
-
 Secret Source Servant: They can also be used as substitute energy sources for Abyss-corroded Source Mechanisms.
 
 ## Additional Conversations
@@ -123,29 +77,21 @@ Secret Source Servant: They can also be used as substitute energy sources for Ab
 ### Additional Talk 1
 
 Traveler: Show me the records concerning "Corrosion and Physical Conditions"...
-
 Secret Source Servant: Of course. Now reading, please wait.
-
 Secret Source Servant: Record playback complete.
 
 ### Additional Talk 2
 
 Traveler: Show me the entries for "Humans... and Exceptional Individuals Thereof"
-
 Secret Source Servant: Of course. Now reading, please wait.
-
 Secret Source Servant: Record playback complete.
 
 ### Additional Talk 3
 
 Traveler: How do we enter the Heart of the Sacred Mountain?
-
 Secret Source Servant: The entrance to the Heart is close by. When recreating Tollan's city center, Lord Xiuhcoatl excavated downward in order to create a stable experimental environment...
-
 Secret Source Servant: And there, he built the ultimate weapon for use against the Abyss.
-
 Secret Source Servant: However, the seal has caused this device to suffer from the deepest Abyss corrosion. Thus was the city taken over...
-
 Secret Source Servant: The entrance to the Sacred Mountain's heart lies beneath the fissures in the Sacred City... That is also where our shadowy foe's corruption runs the deepest.
 
 ### Additional Talk 4
@@ -155,51 +101,39 @@ Secret Source Servant: Do you have any other inquiries? Or do you wish to mark o
 ### Additional Talk 5
 
 Traveler: Let's access the data we've recovered...
-
 Secret Source Servant: Reading corresponding content... What records do you need to access?
 
 ### Additional Talk 6
 
 Traveler: I don't have further questions...
-
 Secret Source Servant: Understood.
 
 ### Additional Talk 7
 
 Traveler: Read me the entries marked "Creating the Secret Source Servants..."
-
 Secret Source Servant: Of course. Now reading, please wait.
-
 Secret Source Servant: Record playback complete.
 
 ### Additional Talk 8
 
 Traveler: Where can we get this permit...
-
 Secret Source Servant: According to the agreement and the edict issued by Lord Xiuhcoatl, entry to... The Heart of the Sacred Mountain, also known as "Huitzilopochtli"... the descendants of...
-
 Secret Source Servant: Proceed unto the Chamber of Deliberation to submit an application, and then wait for the permit to be issued.
-
 Secret Source Servant: If you wish to go there, I shall mark its location for you.
 
 ### Additional Talk 9
 
 Traveler: It's fine. There isn't anything I'd like to read right now.
-
 Secret Source Servant: Understood.
 
 ### Additional Talk 10
 
 Traveler: Let's access the data we've recovered...
-
 Secret Source Servant: Apologies, but I do not have any restored data at present...
 
 ### Additional Talk 11
 
 Traveler: How do we enter the Heart of the Sacred Mountain?
-
 Secret Source Servant: The entrance to the Heart of the Sacred Mountain is at the newly-excavated entrance... descend into the deepest fissure of the volcano, where it is defended by a Secret Source Dragon Idol.
-
 Secret Source Servant: Moreover, any who wish to gain access to the Heart must also obtain a "permit," and for safety reasons...
-
 Secret Source Servant: Only then can you gain the acknowledgement of the Secret Source Dragon Idol that stands guard... Heart of the Sacred Mountain, also known as Huitzilopochtli...

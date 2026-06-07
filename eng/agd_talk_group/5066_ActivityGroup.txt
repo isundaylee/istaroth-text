@@ -295,19 +295,16 @@ Traveler: Please try this!
 ## Talk 73
 
 Fischl: Such an exquisite delicacy is worthy of being served in the Garten Sanssouci.
-
 Oz: Mein Fräulein says that she thoroughly enjoys your delicious cooking.
 
 ## Talk 74
 
 Fischl: To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny.
-
 Oz: And yet, on this occasion, you appear to have eaten your fill, mein Fräulein.
 
 ## Talk 75
 
 Fischl: Why dost thou insist on raining down chaos and destruction in the presence of your Prinzessin?
-
 Oz: Mein Fräulein does not care a great deal for this dish. My apologies.
 
 ## Talk 76
@@ -649,7 +646,6 @@ Raiden Shogun (Ei): Allow me to decline.
 ## Talk 160
 
 Raiden Shogun: ...
-
 Raiden Shogun: Since my physical form is here in this realm, I suppose there's no harm in seeing how you've utilized its infinitesimal space.
 
 ## Talk 161
@@ -799,25 +795,17 @@ Kamisato Ayato: Here's a suggestion: Try using this dish in the hot pot game nex
 ## Talk 197
 
 Nazafarin: Ah, by Lesser Lord Kusanali, the weight on my shoulders has truly been lifted!
-
 Nazafarin: Most good hearts do the two of you possess!
-
-Traveler: You know, your manner of speech is kinda...
-
-Nazafarin: Ah, "dear Lesser Lord Kusanali"! You mean how I tend to say things like that? Well, you see, I have a friend from Fontaine who enjoys talking like that.
-
-Nazafarin: After spending too much time talking to him, I, too, began to speak in that fashion.
-
-Nazafarin: I would even say that I'm comparatively restrained... I just can't help myself at times. Blessed Kusanali, I'll do what I can, though.
-
-Traveler: So, how do I use this pot of yours?
-
-Nazafarin: Ah, yes, sorry. I would've forgotten if you hadn't reminded me, I'll wager.
-
-Nazafarin: It's actually quite simple. You simply need to add the correct seasonings at the right time.
-
-Nazafarin: I'm sure you'll figure it out in just a couple of tries.
-
-Traveler: See you.
-
-Nazafarin: See you! Thank you once again, Nazafarin's saviors!
+    Option 1:
+        Traveler: You know, your manner of speech is kinda...
+        Nazafarin: Ah, "dear Lesser Lord Kusanali"! You mean how I tend to say things like that? Well, you see, I have a friend from Fontaine who enjoys talking like that.
+        Nazafarin: After spending too much time talking to him, I, too, began to speak in that fashion.
+        Nazafarin: I would even say that I'm comparatively restrained... I just can't help myself at times. Blessed Kusanali, I'll do what I can, though.
+    Option 2:
+        Traveler: So, how do I use this pot of yours?
+        Nazafarin: Ah, yes, sorry. I would've forgotten if you hadn't reminded me, I'll wager.
+        Nazafarin: It's actually quite simple. You simply need to add the correct seasonings at the right time.
+        Nazafarin: I'm sure you'll figure it out in just a couple of tries.
+    Option 3:
+        Traveler: See you.
+        Nazafarin: See you! Thank you once again, Nazafarin's saviors!

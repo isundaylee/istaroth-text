@@ -6,225 +6,131 @@
 ## Talk 1
 
 "Willapi" (???): Brave adventurers, welcome to Villa Guiztli! You're just in time to witness our annual Pome Night celebration!
-
 Paimon: Oooh, Paimon likes the sound of that! This place has a great vibe already!
-
 Bennett: Hello there, Mr...?
-
 "Willapi": Nanasian.
-
 Bennett: Excuse me, Mr. Nanasian, could you point us in the direction of the town? Is there anything we should bring?
-
 "Willapi": Haha. Just from hearing your question, I can tell I'm speaking to an experienced adventurer.
-
 "Willapi": Just head downhill from here, and you'll soon arrive at the charming town of Villa Guiztli.
-
 "Willapi": As for things to take... You'll need a bold spirit, a heart eager to help others, and a dash of courage to face any challenges that may lie ahead.
-
 Asha: ♪
-
 "Willapi": Ah, I see you've brought a little companion along with you. Would you mind keeping him in your bag for now, just in case something... unexpected happens?
-
 Asha: ♪
-
 "Willapi": Okay, all set! Brave challengers, your adventure is about to begin. I wish you all an exciting and unforgettable night ahead!
 
 ## Talk 3
 
 Paimon: Whoa, this cave's way bigger than Paimon expected. Looks like a lot of work was put into this town.
-
 Bennett: Hey, is that... a bounty board?
-
 Paimon: Let Paimon see... One zero, two zeros, three zeros, four...
-
 Chasca: ...
-
 Paimon: Five zeros, six zeros... and there's even a five in front! ... That's five million Mora! Holy— Eek, something's coming!
-
 Alpaca Sheriff: Esteemed guests, welcome to the beautiful town of Villa Guiztli.
-
 Paimon: ...Geez, you almost gave Paimon a heart attack!
-
 Alpaca Sheriff: You must be here for Pome Night. *sigh* I'm sorry to report we won't be celebrating the festival this year.
-
 Mualani: Oh, did something happen?
-
 Alpaca Sheriff: Not long ago, those Nochtli ruffians ransacked our beautiful town and seized all our gold and treasure.
-
 Alpaca Sheriff: Even now, their ringleader's still holed up in the town. And worse — not only is he refusing to leave, he expects us to do his bidding.
-
 Bennett: That's awful! Can't you do something about it?
-
 Alpaca Sheriff: Well, it's a long story. Anyway, you all made quite the journey to get here. Why don't we head over to the bar for a quick drink?
 
 ## Talk 7
 
 Bennett: What happened next, Sheriff?
-
 Alpaca Sheriff: He disappeared... and no one knows what happened after that.
-
 Alpaca Sheriff: Some say he took a new name. Others claim he and his companions embarked on a one-way journey to a land as hot as the blazing sun...
-
 Alpaca Sheriff: If you ever happen to run into him, please let him know how grateful we are for everything he did for us — and also, that we miss him very much.
-
 Chasca: If we see him, we'll make sure to pass the message along.
-
 Alpaca Sheriff: Alright, this is the Nochtli gang's hideout. I tailed one of their henchmen once, so I know how to activate the door mechanism, and I can get it open for you.
-
 Alpaca Sheriff: ...
-
 Alpaca Sheriff: But this place is under heavy watch. I'll be a sitting duck if I go alone. So, I need some backup.
-
 Chasca: What do you need us to do?
-
 Alpaca Sheriff: Knock out anyone who tries to get in my way.
-
 Bennett: Hehe, now that's a gutsy request.
-
 Chasca: Leave it to me.
-
 Mualani: Heh, I knew Chasca wouldn't need a lot of convincing on that one...
-
 Chasca: #Traveler, cover that gun for me, will you?
-
 Traveler: Copy that.
-
 Paimon: Man, wish we had backup like this all those times we had to go sneaking around...
 
 ## Talk 9
 
 Chasca: Too bad, you handled that gun pretty well. Guess you just haven't had enough chances to practice.
-
 Chasca: Here, let me teach you how to fire off rapid bursts of bullets. It might come in handy someday.
-
 Bennett: Oh, shoot!
-
 Paimon: Wh—What happened?
-
 Bennett: I got distracted for a split second, and now the Sheriff's been caught...
-
 Chasca: Let's go after him!
 
 ## Talk 9
 
 Chasca: #Hmph, wow, you won, Traveler. You're a pretty good shot. Almost seems like you've done this before.
-
 Chasca: Here, let me teach you how to fire off rapid bursts of bullets. It might come in handy someday.
-
 Bennett: Oh, shoot!
-
 Paimon: Wh—What happened?
-
 Bennett: I got distracted for a split second, and now the Sheriff's been caught...
-
 Chasca: Let's go after him!
 
 ## Talk 11
 
 "El Capoctus Joquiratto" (Nochtli Ruffian): Aha, the meddling outsiders have arrived, I see.
-
 Nochtli Lackey: Ah! Careful, boss, they got a gun!
-
 "El Capoctus Joquiratto" (Nochtli Ruffian): A little firepower's got you spooked? Hah, disappointing.
-
 "El Capoctus Joquiratto" (Nochtli Ruffian): Alright then, show-offs, let's see who's the quicker shot.
-
 Bennett: There's a ton of smoke over there. What happened?
-
 Chasca: He got away.
-
 Mualani: Whoa, no one outruns Chasca's gun...
-
 Chasca: Truth is, the leader never planned to fight us. All that talk was just a distraction — a way to create an opening. He was planning to make a run for it all along.
-
 Paimon: Hmph, acting all tough and then running away like that... What a joke.
-
 Mualani: Uh-oh... The exit's blocked. Looks like another trap.
-
 Paimon: What should we do? Is there some kind of mechanism we can use?
-
 Bennett: Look, there's a bunch of cages down in the canyon. Let's go save those captives first.
 
 ## Talk 17
 
 Chasca: ...
-
 Chasca: Alright, we've dealt with those monsters, and the Abyssal energy seems to be gone too.
-
 Chasca: Is everyone okay?
-
 Bennett: I got a scrape on my arm, but it's nothing. Doesn't even hurt.
-
 Traveler: Let me take a look.
-
 Bennett: Oh, sure... Sorry for making you worry...
-
-Traveler: Yep, just a scratch.
-
-Traveler: It hasn't been contaminated.
-
+    Option 1:
+        Traveler: Yep, just a scratch.
+    Option 2:
+        Traveler: It hasn't been contaminated.
 Chasca: Glad to hear it.
-
 Mualani: Don't you think something weird's going on?
-
 Mualani: I mean... those Hilichurl Rogues could be actors in costume. But, there shouldn't be any actual Abyssal monsters here, right?
-
 Chasca: Yeah, there's no way that's meant to be part of the experience.
-
 Paimon: Plus, the way we came in is blocked now. Everything was fine until the monsters showed up...
-
 Bennett: Oh no... My bad luck must be back... and I'm dragging everyone down with me...
-
 Chasca: Hey, don't think like that.
-
 Bennett: ...
-
 Chasca: Abyssal monsters can appear for many reasons. Being attracted by someone or... something is certainly one possibility.
-
 Chasca: Now isn't the time to blame ourselves. We should focus on identifying any hidden dangers instead.
-
 Chasca: We still don't know what might have happened outside the cave.
-
 Bennett: You're right. Okay, I'll take the lead and scout ahead!
-
 Chasca: Hah, sorry. I'm gonna have to call dibs on that one.
-
 Chasca: We should do this the Natlan way. As the most mobile member of the team, leave the scouting to me. It happens to be a Flower-Feather Clan specialty.
-
 Chasca: Alright, I'll go check on the situation outside. See you soon.
-
 Paimon: Wait but, the cave's still...
-
 Chasca: Get back.
-
 Mualani: Wait a sec, we're not ready y—
-
 Black Screen Text: BOOM!
-
 Bennett: Heh, she sure is a fast flyer. I can't even see her anymore...
-
 Paimon: Well at least there's a way out now... Wait, what are you looking at?
-
 Black Screen Text: (Readable pops up)
-
 Paimon: The Tecpatl's Flintblades Adventure Team, Anja, Macani... Huh, Paimon doesn't recognize any of those names.
-
 Mualani: Hmm... Neither do I.
-
-Traveler: The content itself seems fine...
-
-Traveler: But it didn't say if anything else happened afterwards...
-
+    Option 1:
+        Traveler: The content itself seems fine...
+    Option 2:
+        Traveler: But it didn't say if anything else happened afterwards...
 Paimon: Well, guess we're still pretty much in the dark, then. We should just make a note of it and move on for now.
-
 Bennett: ...
-
 Paimon: Everything okay, Bennett?
-
 Bennett: Oh... Yeah, I'm fine. You guys think it's probably better not to move anything around in the amusement area, right?
-
 Paimon: Yeah, better not.
-
 Bennett: Alright then, let's go.
 
 ## Talk 20
@@ -234,143 +140,80 @@ Traveler: Missing text (402552786)
 ## Talk 23
 
 Chasca: Let him go.
-
 "El Capoctus Joquiratto": Surrender now, and maybe, just maybe, I'll let him live.
-
 Paimon: Whew, that was one big hill... Paimon's hair is dry already. Wait, that's... Chasca!
-
 Paimon: And El Capoctus Joquiratto!
-
 Paimon: And Nana... Uh, Paimon forgot the rest...
-
 "Willapi": Shush...
-
 "El Capoctus Joquiratto": I'll say it one last time — if you want him to live, drop your weapons and surrender!
-
 "El Capoctus Joquiratto": You shoot or try any other funny business, and I'll throw him right off this cliff.
-
 "Willapi": Please... I'm begging you, don't do this...
-
 Chasca: ...
-
 Mualani: That's weird... What's Chasca waiting for?
-
-Traveler: Maybe there really is a bad guy...
-
-Traveler: ...Disguised as the villain?
-
+    Option 1:
+        Traveler: Maybe there really is a bad guy...
+    Option 2:
+        Traveler: ...Disguised as the villain?
 Bennett: Huh? You mean like... someone replaced the actor?
-
 Mualani: If we factor in those Abyssal monsters that came out of nowhere, does that mean this is...
-
 Paimon: ...Actually real!?
-
 "El Capoctus Joquiratto": Enough! Even my patience has its limits.
-
 "El Capoctus Joquiratto": Back off now, all of you! Get away from the cliff!
-
 "Willapi": Run, adventurers, run! Leave the town, leave me to my fate!
-
 Chasca: ...♪
-
 Traveler: (Hey, that's...!)
-
 Black Screen Text: (Insert Chasca's QTE showdown)
-
 Traveler (Gunshot): Boom!
-
 Traveler: Well that's that.
-
 "Willapi": Thank you, brave adventurers! You saved Villa Guiztli, and you saved me too!
-
 Paimon: Hey, look over there!
-
 Bennett: Asha...?
-
 Mualani: El Capoctus Joquiratto... was played by a bunch of Asha!?
-
 "Willapi": Congratulations, everyone! You bravely chose the path of justice and vanquished the wicked El Capoctus Joquiratto!
-
 Asha: ♪
-
 Paimon: Okay, okay, hold on... So, it wasn't real? We all freaked out for nothing?
-
 Chasca: I mean, there was cause for concern — I was worried, too.
-
 Chasca: Even though I didn't see any other Abyssal monsters on the way here, I didn't let my guard down.
-
 Chasca: Under normal circumstances, I would've taken the shot without hesitation. With Soulsniper on my side, I'm confident I could get to the hostage no problem, even if the hostile tried to harm them.
-
 Chasca: But this time, it seemed like our enemy was tainted by the Abyss, so we couldn't afford to take any chances. We had to factor in the worst-case scenario.
-
 Chasca: #So, the only option was for Traveler and I to strike at the same time, ensuring we took down the villain and rescued the hostage in one fell swoop.
-
 Paimon: Wow, good thing you two got a chance to work on your teamwork against those lackeys earlier...
-
 Chasca: In hindsight, it's clear the only place where things went wrong was that cave.
-
 Mualani: So, since we cleared out those monsters already, we're in the clear?
-
 Chasca: We should be.
-
 "Willapi": Sorry, I don't follow. By "cave," you're not referring to somewhere inside one of our amusement facilities, are you...?
-
 Mualani: Yeah, we came across an adventurer camp inside the cave. Y'know, near the spot where the Sheriff snuffs it... Oh, um, sorry. That came out a little harsh...
-
 "Willapi": But... There's no cave or camp anywhere near there...
-
 "Willapi": You sure it wasn't your eyes playing tricks on you?
-
 Bennett: No, definitely not. First, we were ambushed by monsters, then we even read through the adventurer's notes. There's no way it was just an illusion.
-
 Bennett: Oh, we even have evidence! The scratch on my arm is still there! Haha, guess there was a silver lining to getting hurt, after all.
-
 "Willapi": Huh? But... that can't be...
-
 "Willapi": Villa Guiztli's meant to be a fully immersive experience. There's no way we'd leave in design flaws that didn't fit the theme...
-
 Paimon: That's... actually a good point.
-
 Paimon: So, is something else going on here, then? Paimon's getting a bad feeling all of a sudden...
 
 ## Talk 28
 
 Mualani: Ahh, I feel a bit more relaxed now.
-
 Paimon: Yeah. Honestly, it's our fault for messing with stuff that wasn't part of the attraction... Gah, this whole part of the trip's been an emotional rollercoaster.
-
 Bennett: ...
-
 Paimon: Wait, are you two still thinking about it?
-
-Traveler: If no one knew that cave was there...
-
-Traveler: ...Do you think it could be related to Tenochtzitoc?
-
+    Option 1:
+        Traveler: If no one knew that cave was there...
+    Option 2:
+        Traveler: ...Do you think it could be related to Tenochtzitoc?
 Bennett: Yeah... I also think that adventure team's story is real, but I wouldn't be surprised if it took place a long, long time ago.
-
 Bennett: Like... before this resort was even built.
-
 "Willapi": We're here! You must have been waiting for us to take a group photo, right?
-
 "El Capoctus Joquiratto": ♪
-
 Paimon: Wait, that reminds Paimon... Wasn't the bounty for getting rid of El Capoctus Joquiratto five... million... Mora!?
-
 Chasca: Yeah, I don't think we're gonna see a single coin of that. If they actually had to cough up Mora every time he got captured, Villa Guiztli would have gone under a long time ago.
-
 "Willapi": Hehe, exactly! The prize isn't real Mora, just a commemorative Mora-shaped chocolate coin stamped with that number.
-
 "Willapi": But since the chocolates aren't ready yet, I'll give you some Easybreeze Badges you can exchange for other items of your choice.
-
 Paimon: Oh, well... Paimon would have preferred the chocolate, but other gifts are fine too.
-
 Mualani: I'll get the Kamera ready.
-
 Mualani: Three, two, one...
-
 Paimon: Cactus!
-
 Asha (???): ...
 
 ## Additional Conversations
@@ -378,5 +221,4 @@ Asha (???): ...
 *Conversations not present as sub-quests.*
 
 "Willapi": Those guests don't look like they're fooling around... And where'd the cave come from anyway?
-
 Asha: ?

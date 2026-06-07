@@ -7,15 +7,11 @@ Jahan: Haha, more meals with sugar!
 *Conversations not present as sub-quests.*
 
 Traveler: About the Sugar...
-
 Jahan: Oh, you are here to deliver the Sugar, right?
-
 Jahan: Did you get five jars of Sugar?
-
-Traveler: Not yet.
-
-Jahan: You can never get enough sugar. Who doesn't love the sweet taste?
-
-Jahan: But don't eat too much like me. I cannot be held responsible for your tooth decay.
-
-Traveler: Here is the sugar you wanted.
+    Option 1:
+        Traveler: Here is the sugar you wanted.
+    Option 2:
+        Traveler: Not yet.
+        Jahan: You can never get enough sugar. Who doesn't love the sweet taste?
+        Jahan: But don't eat too much like me. I cannot be held responsible for your tooth decay.

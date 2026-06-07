@@ -6,965 +6,509 @@
 ## Talk 2
 
 Marionette: ...Understood. I will bear the Tsaritsa's decree in mind.
-
 Marionette: I don't see what's so "awesome" about it, though. Does he really think everyone else is as immature as him? Hmph, I'm not stooping to Tartaglia's level.
-
 The Knave: I thought you might say that.
-
 The Knave: How's your progress?
-
 Marionette: Quite promising, actually. That alchemist, Albedo, gave me a few ideas.
-
 Marionette: Remember how I asked you to look up some files for me? That stuff on the Narzissenkreuz Institute. Rene de Petrichor and Jakob Ingold.
-
 Marionette: Alain Guillotin despised Rene's theories and methods, but he never managed to come up with better alternatives, either. So, I adopted some of Rene's ideas.
-
 The Knave: I thought Alain was like a father to you? He and Rene were mortal enemies, were they not?
-
 Marionette: And? What would you say if Lyney and his friends one day learned something useful from someone you utterly detested?
-
 The Knave: ...I would applaud them for it. That would mean that they have surpassed me.
-
 Marionette: ...
-
 Marionette: For all we know, Alain Guillotin might have thought the same thing. Not that it matters, though. He's dead, and I'm alive. So it's my call to make.
-
 Marionette: Once you die, it doesn't matter how great you were in life. Only the living get to decide what happens next.
-
 Nefer: Hey, come on out! They're back!
-
 Marionette (Marionette & The Knave): —!
-
 Marionette: You're back? And your head's still screwed on? And you still have all your limbs?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What does it look like? Way to keep your composure, Madame.
-
 Marionette: Excuse you! I am perfectly composed!
-
 Traveler: Hey, everyone... I'm back.
-
 Nefer: Glad you're okay.
-
 The Knave: Yes, it's a huge relief.
-
 Traveler: Sorry for making you all worry.
-
 Marionette: Worry? Hahaha! Oh, yeah, right! You think we, the Fatui, were worried about you!?
-
 The Knave: We were worried sick.
-
 Marionette: Hey!
-
 The Knave: #Traveler and I were already friends. You are free to join this mission in whatever capacity you please — much like your tea parties.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph. It's a laugh a minute with you guys.
-
 Flins: I must say, I was quite surprised when Mr. Albedo told me he would need no additional aid.
-
 Albedo: We discussed this on our way back as well. I am rarely so unequivocal, but in this case, we had full confidence in Hat Guy.
-
 Durin: #He said he knew what he was doing. Albedo and I pretty much just had to wait outside on standby... Meanwhile, Hat Guy broke into the energy field and rescued Traveler solo...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You didn't have to mention that.
-
 Flins: Well, I'm thoroughly impressed. You are a force to be reckoned with, Hat Guy.
-
 Paimon: #Is he back? Is he really back?
-
 Traveler: Paimon!
-
 Paimon: #Traveler! It's really you...
-
 Traveler: It's really me, Paimon... I'm back.
-
 Paimon: *sob* Oh, thank goodness... Paimon missed you so much...!
-
 Lauma: You can finally breathe easy, Paimon.
-
 Paimon: It's great to have you back in one piece! *sob* Paimon's been having nightmares the whole time you were gone...
-
 Jahoda: Ah, look at them... Y'know, once you reach my age, there's nothing better than watching a misty-eyed reunion between friends.
-
 Varka: That's nothing — same goes when you get to my age, too. I bet Aino and Ineffa would be tearing up as well if they were here.
-
 Jahoda: Umm... Varka? I'm not sure Ineffa can cry...
-
 Varka: Oh... Yeah, good point... Hmm? Hey, your eyes are looking a little red and puffy. C'mere, let's hug it out.
-
 Jahoda: What? Ew, no. Thank you. You're not my dad, okay? Knock it off.
-
 Traveler: Everyone, I'm sorry for all the trouble I caused you. But the silver lining is, I didn't come away from this ordeal empty-handed.
-
 Traveler: While I was being held captive, I learned a lot about Dottore's current capabilities and what he plans to do with them. Allow me to explain...
-
 The Knave: ...The three moon goddesses were even more powerful than we imagined. No wonder Dottore believes himself to be equal to the gods... maybe even superior.
-
 Lauma: Utter blasphemy!
-
 Flins: While everyone was gone, Nefer and I made an interesting discovery — and I believe Miss Sandrone has something to share, too. Ma'am, perhaps you could do the honors...
-
 Black Screen Text: Sandrone explains Columbina's situation and shares the findings of her research so far.
-
-Traveler: Columbina's alive!
-
-Traveler: I knew she wouldn't give up.
-
+    Option 1:
+        Traveler: Columbina's alive!
+    Option 2:
+        Traveler: I knew she wouldn't give up.
 Marionette: Called it. Getting rid of a pesky troublemaker like her is like trying to clean up after a crumbly cake... It always comes back to haunt you!
-
 The Knave: Our next step is to find a way to bring her back.
-
 Albedo: A place where time flows backwards, with no destination in sight... Surely, it must have been created for a specific purpose. But I fear the answers are buried deep in Teyvat's history, held by great powers beyond our reach.
-
 Durin: It sounds like she's on a specific path through time, just traveling in the opposite direction to us.
-
 Durin: The question is, where does that path lead? Or will it keep going to infinity?
-
 Flins: We considered that question as well. Strictly speaking, time is not infinite.
-
 Nicole: Indeed not. Every road has an end.
-
 Paimon: Nicole! You sure love quietly sneaking in mid-conversation.
-
 Nicole: I do, in fact. It's something I've always done at our mages' tea parties. Quiet, mysterious, and persuasive.
-
 Nicole: You wonder what lies at the end of her road. Well, just as the world has a beginning and an end, so too does time... and so, the end of the road is the moment that Teyvat was born.
-
 Nicole: But where Miss Columbina will end up along this road... That depends on where this particular river of reversed time began.
-
 Lauma: What about... the original moons? And the Moon Goddesses? Do they have a beginning too?
-
 Nicole: All things do.
-
 Nicole: In the beginning, no moons adorned the sky. It was the Dragon King Nibelung who raised the three moons into the heavens, and thus were the Moon Goddesses born.
-
 Nicole: They were shadows of the planet, born to wield Nibelung's authority and oversee the world on his behalf. They were extensions of his will, manifestations of his majesty.
-
 Nicole: But then one day, they disappeared just as suddenly as they had once been brought into being. Nobody knew where they had gone.
 
 ## Talk 6
 
 The Damselette: (Like I thought... No more paths back to reality have emerged since...)
-
 The Damselette: (But how can I be sure that I'm going the right way without scenes from reality to keep me on track?)
-
 The Damselette: (I can't even be sure of how long I've been walking for...)
-
 The Damselette: (The further I travel, the less stable this space becomes. There are even moments where I can sense something that feels like Abyssal energy...)
-
 The Damselette: (They can just materialize out of thin air. I have to keep my wits about me...)
 
 ## Talk 7
 
 "Rächer of Solnari": Hmm? You're... the Moon Goddess? But... How?
-
 The Damselette: ...
-
 "Rächer of Solnari": Please, there's no need, I... I'm not interested in fighting anymore.
-
 The Damselette: I find that a little difficult to believe.
-
 "Rächer of Solnari": Haha... Yeah. Honestly, so do I.
-
 "Rächer of Solnari": The way you used my own power against me was... It was a brilliant strategy.
-
 "Rächer of Solnari": And then, in the final moment before I was thrown into this space, I got to see an old friend...
-
 The Damselette: Mr. Dainsleif.
-
 "Rächer of Solnari": Right. It was so, so long ago now... But we were friends once.
-
 "Rächer of Solnari": When I first got here, I was filled with hatred... remorse... and rage...
-
 "Rächer of Solnari": How I cursed and devoured... I tore everything here apart. I was consumed by the desire to leave this place and have my vengeance...
-
 "Rächer of Solnari": But to no avail. This is a place with no exit.
-
 The Damselette: ...
-
 "Rächer of Solnari": This is the second time I've entered this space, though I have no memory of the first. I was torn to shreds the moment I entered.
-
 "Rächer of Solnari": But this time, I survived... It must be partly because of this new body, and partly because of all the kuuvahki I absorbed in Nod-Krai.
-
 The Damselette: Are you the source of the Abyssal power in here?
-
 "Rächer of Solnari": Not all of it. Some is from when I first arrived here and tried to destroy everything.
-
 "Rächer of Solnari": But there was already a degree of Abyssal power here, before I entered. And like a venomous snake baking in the merciless sun, it tried to slither into my shadow.
-
 The Damselette: Tried to? So... you rejected it?
-
 "Rächer of Solnari": Yes. Because after that, the world suddenly became silent for a moment.
-
 The Damselette: What do you mean?
-
 "Rächer of Solnari": The voices in my head. They were gone.
-
 "Rächer of Solnari": And then, I saw her...
-
 The Damselette: "Her"?
-
 "Rächer of Solnari": Tholindis. My... former lover.
-
 The Damselette: (Nefer mentioned that she saw a memory of Tholindis leaping into the moon's reflection...)
-
 "Rächer of Solnari": More precisely, I saw her afterimage. I'm sure the real her is long gone. She was just an ordinary Khaenri'ahn... She couldn't have survived here for very long.
-
 "Rächer of Solnari": Anyway — why have you come here? Didn't you know it was a dead end?
-
 The Damselette: ...If I hadn't escaped through the Moon Gate, my friends would have been in far greater danger.
-
 "Rächer of Solnari": Hmm? Oh, I see. Because of your power. The power of a Moon Goddess.
-
 The Damselette: ...What?
-
 "Rächer of Solnari": You'd like to know how I know, wouldn't you?
-
 "Rächer of Solnari": The one who resurrected me said so. I could hear a deep lust for power in his voice.
-
 The Damselette: Do you mean... Dottore?
-
 "Rächer of Solnari": Dottore... So that's what he's called.
-
 "Rächer of Solnari": He'd been collecting fragments of my body for a long time. All so that he could resurrect me at the moment of his choosing.
-
 "Rächer of Solnari": I had no interest in his research. But being as corroded by the Abyss as I was, we were aligned as far as hunting the moons and recovering my strength were concerned.
-
 The Damselette: (So that's why the Wild Hunt suddenly became so active in Nod-Krai. When I left the Fatui in my weakened state, Dottore must have felt that his time had come...)
-
 "Rächer of Solnari": ...
-
 "Rächer of Solnari": Moon Goddess. Could I... ask a favor of you?
-
 The Damselette: ...What?
-
 "Rächer of Solnari": I know this is a lot to ask, especially from someone who tried to kill you. If you refuse, I won't fight it.
-
 "Rächer of Solnari": But this is the only thing I desire now. Nothing else matters.
-
 The Damselette: ...
-
 The Damselette: What do you want?
-
 "Rächer of Solnari": I'd like you to take a message to Tholindis for me.
-
 The Damselette: Tholindis? But...
-
 "Rächer of Solnari": Yes. She is dead. But like I said, I saw her afterimage.
-
 "Rächer of Solnari": I can sense that some part of her soul remains here... far, far ahead...
-
 The Damselette: Why don't you go and speak to her yourself?
-
 "Rächer of Solnari": I can't. I don't know why, but I can't move freely in this space as you can.
-
 "Rächer of Solnari": All I can see is a glimpse of her walking away... just like the moment when I last saw her in life...
-
 "Rächer of Solnari": In return, I will clear these Abyssal obstacles for you.
-
 "Rächer of Solnari": ...No, not "in return." I'll clear them for you, whether you want to help me or not. It feels like something I... ought to do.
-
 The Damselette: ...Why?
-
 "Rächer of Solnari": Yeah. "Why" indeed... I've been asking myself that question a lot recently. Why did I do the things I did?
-
 "Rächer of Solnari": I'm tired of it all. Tired of the person I became. People used me, and then I turned around and started using others... I hurt a lot of people.
-
 "Rächer of Solnari": I... think I grew tired of it long ago, but I wouldn't admit it to myself. And ultimately, that's how I ended up here.
-
 The Damselette: ...
-
 The Damselette: What do you wish to tell her?
-
 "Rächer of Solnari": All of it. My past, my mistakes... Everything that happened after we were separated...
-
 The Damselette: ...Is it okay if I give her the abridged version?
-
 "Rächer of Solnari": Haha... Yeah, I'm sure there's plenty you can skip over. Just tell her the important parts. Whatever you think that means.
-
 The Damselette: Like the part where you relentlessly tried to kill us?
-
 "Rächer of Solnari": It's up to you.
-
 "Rächer of Solnari": ...Love demands honesty. But my relationship with Tholindis was built on lies.
-
 "Rächer of Solnari": We hid too much from each other. But after living my whole life in the shadows, I don't want to hide anything anymore.
-
 The Damselette: I will do my best.
-
 "Rächer of Solnari": ...
-
 "Rächer of Solnari": There. The Abyss will no longer stand in your way.
-
 The Damselette: ...
-
 The Damselette: Even though Mr. Dainsleif felt he had to fight you, I think he still regarded you as a friend.
-
 "Rächer of Solnari": ...Dain?
-
 The Damselette: He said that you betrayed him. But he also felt great remorse at never having understood what you were truly going through.
-
 "Rächer of Solnari": ...
-
 "Rächer of Solnari": Why tell me this?
-
 The Damselette: Because... If he'd known that someone could take a message to you, I believe that's what he would have said.
-
 "Rächer of Solnari": ...Thank you. It means a lot.
-
 "Rächer of Solnari": I know this will sound strange coming from me, but... Don't die, Moon Goddess. I can tell that you're determined to get out of here.
-
 The Damselette: ...
 
 ## Talk 8
 
 The Damselette: ...
-
 The Damselette: (How long have I been walking... Have much further till I reach the end?)
-
 The Damselette: (Is there even an end to be found?)
-
 The Damselette: Ugh... Everything's... getting blurry...
-
 The Damselette: ...!
-
 The Damselette: ...Huh?
-
 Sonnet (???): ...Are you alright, little sister?
-
 Sonnet (???): Have you... come from the distant future?
 
 ## Talk 9
 
 Paimon: So how exactly did the moons just... disappear? Shouldn't it be a little harder to get rid of major creations like moons?
-
 Nefer: The world is a vast and ancient place. On a certain scale, all life lasts for but a fleeting moment.
-
 Lauma: Miss Nicole explained that the Moon Goddesses likely perished in the war of funerary flame. The moons themselves were also destroyed at that time — save for the Frost Moon, from which a new Moon Goddess was later born.
-
 Jahoda: Um, am I missing something, then? 'Cause the stories say that the Moon Goddesses were born on the moon, but doesn't Columbina say she was born in Nod-Krai?
-
 Paimon: Huh... You're right!
-
 Traveler: (Why do their birthplaces differ? What's the difference between the two generations of Moon Goddesses?)
-
 Nefer: Also, remember what Sandrone said? Her scans detected four moons — in other words, four Moon Marrows.
-
 Varka: Technically, the result of the scan means that four Moon Marrows were detected and positively identified as moons in that moment.
-
 Varka: In other words, this piece of information alone isn't enough for us to know how Miss Columbina is doing right now.
-
 Marionette: Yup. We have no way of staying up to date on whether she's dead or alive... She's on her own for now.
-
 Paimon: But at least she's trying her best to get back to us!
-
 Marionette: Yeah. She's a tough cookie, and a sore loser, too. We have to trust that she'll find a way — because we really need her power.
-
 Marionette: As much as it pains me to say it... We've got no chance of beating Dottore in a straight-up fight. He's much too powerful. It wouldn't even be close.
-
 Marionette: That maniac is going to devour everything in his path until he reaches us. We need to find someone or something that can stop him before he does anything worse.
-
 Marionette: I'll be frank. Our only hope of defeating this false god is with a real moon goddess on our side. I'm not just saying this because Columbina's a friend and I want her back safe and sound — it's just the truth.
-
 Marionette: And I know that even she was no match for him when he attacked, but... I don't have a better solution.
-
 Varka: We're not giving up on saving her, whether she can defeat Dottore or not.
-
 Lauma: Right. Don't worry, Miss Sandrone. We're all aligned on saving Columbina.
-
 Nefer: No one's trying to argue that we can only justify saving our friend because it will help save the world. This is about multitasking. We want to save both.
-
 Marionette: So... She's more than just a Moon Goddess to you guys?
-
 Flins: Absolutely.
-
 Paimon: Duh! She's part of the gang! And you are too, y'know!
-
 Marionette: Yes, yes, I know. You don't need to labor the point. I knew that the moment I came running over with my documents that I was part of the in-group. I mean, if Arlecchino can fit in, I certainly can.
-
 Marionette: Anyway. As for how we get Columbina back... I've been working on it constantly. But I think I'm still lacking certain information about the moon.
-
 Marionette: I'd probably get there if I could continue my calculations, but the problem is, I've run out of computing power.
-
 Paimon: Computing power? You mean you need more energy?
-
 Marionette: No, the issue isn't energy, it's processing power. There's so much data to get through that the whole process has just ground to a halt.
-
 The Knave: That's a tricky problem.
-
 Marionette: Rene de Petrichor of the Narzissenkreuz Ordo once foretold the fate of the world, but I don't know how he did it — my guess is that he used the Primordial Sea's power.
-
 Marionette: However, that won't work for me. His methodology was vastly different from my own. What's worse, they're incompatible. And to top it all off, we can't even leave Nod-Krai...
-
 Marionette: Ugh, this is so annoying! If I'd known we'd run into a bottleneck like this... Well, no, the Design Bureau's a bust as well. Curse that Dottore! Couldn't have made this harder for me if he tried.
-
 Paimon: What do we do, then? Um... How about we... grab a bite to eat and take a break? Maybe something will come to mind after you've cleared your head.
-
 Marionette: *sigh* You don't get it, do you? I'm trying to calculate the fate of an entire world here...
-
 Marionette: And I need accurate results, not vague prophecies! Where the heck am I gonna find the computing power for that?
-
 Marionette: ...Ahem. Anyway, time to shelve the discussion on technical difficulties. Being a killjoy isn't very ladylike, after all.
-
 The Knave: Either way, we've done what we can. Rest well, everyone. Remember to let us know if anything new comes up.
-
 Traveler: (Hat Guy? Is he hinting that we should talk outside?)
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Let's go somewhere a little more private.
 
 ## Talk 10
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You know that Dori went back to Sumeru, right?
-
 Traveler: Yeah, she mentioned she was planning to head back.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Things aren't looking good for Nod-Krai. She's gone to spread the word so that Sumeru has a chance to prepare for the worst.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: From what I know of Dottore, there are two possible reasons why he hasn't made a move yet. One is that he's still working through some kinks in his new powers. The other is, he wants to see how we're going to react.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He'll easily devour everything eventually, so I guess he's in no rush to make it happen.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The first false god he made was me... Now it's his turn. Even though my records were erased from Irminsul, Dottore's ideas haven't changed one bit.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He once told me that becoming a god was like turning yourself into a hungry wolf or giant serpent to devour the moon. Clearly, he began studying the Moon Goddesses' powers long before he even tried making a god.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He's always wanted to get his greedy hands on divine authority one way or another... And in the end, he devoured the moon where I failed.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: In the desert of Sumeru, there is a chessboard built by King Deshret, also known as Al-Ahmar. I don't know if it was a real game, or if he was just trying to challenge his servants and citizens in some way.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: But creating games and setting rules... Gods do that as a matter of course. That's the kind of power Dottore craves.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Now he has the trilunar authority, his power is leagues beyond the common people. I don't think there's any point in other nations rushing to the frontline. They're better off focusing on defense and hoping they can fend off any threats that spill out from Nod-Krai.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Either way, Dori will inform Lesser Lord Kusanali, and she will contact the other gods in turn.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The Seven will have some recourse available. If nothing else, their protection should keep the rest of the world from descending into chaos as quickly as Nod-Krai has.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So on the bright side, even if Nod-Krai is doomed, your friends in other nations won't be in any immediate peril.
-
 Traveler: That's good to know. But I'm not ready to give up on Nod-Krai yet.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Heh. There's a word for people who refuse to let anything go. It's called being greedy.
-
 Traveler: Maybe it sounds greedy to you. And probably naive, too. But whatever you call it, that's what gives me the determination to keep fighting.
-
 Traveler: Battles are fleeting, but the will to fight is a long-term commitment. Give up for even a moment, and your resolve will shatter.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Why do you always feel the need to do the right thing? No one is born to be a savior.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I mean, who's gonna criticize you if you fail, or give up?
-
 Traveler: Don't take this the wrong way, but... Dottore said something similar to me. I guess the Fatui attracts people who don't believe in saviors.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Not necessarily. It's less about belief for me — I just want to know how determined you really are. After all, I don't owe anything to anyone else here. Only you.
-
 Traveler: You look kinda worried.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If your arch-nemesis was about to achieve their ultimate goal, I think you might feel a little worried too.
-
 Traveler: (That's true... Dottore is about to become an omniscient, omnipotent deity. That's gotta be a bitter pill to swallow.)
-
 Traveler: Still, you're calmer than I expected.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Obviously.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...I have to admit that my past self was a reckless fool who misunderstood not only the point of revenge, but how to achieve it.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: And as much as I want my vengeance, I know I'm not gonna get it by acting alone. If the world's taught me anything, it's to think before I act.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Too bad it never taught me any other virtues, though. So, I am going to destroy Dottore, no matter what it takes.
-
 Traveler: So, what's your plan?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'll get to that. First, tell me — what do you think of Sandrone?
-
 Traveler: Just like Paimon said... She's a friend. Part of the gang.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: How much do you trust her?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: This is a serious question. Think carefully before you answer.
-
 Traveler: ...
-
 Traveler: Although she's with the Fatui, she has her own values, and she's helped us a lot. If nothing else, she's clearly going the extra mile for Columbina.
-
 Traveler: I see no reason not to trust her.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...If you say so.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: In that case, the three of us need to talk. I have some thoughts about her computing problem.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It can be solved — but it will come with a cost.
-
 Traveler: How much? If I can afford it, I'll cover it.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Sometimes, your heroism really backs me into a corner, you know that?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: C'mon. Let's go talk to her.
 
 ## Talk 11
 
 Albedo: #Miss Sandrone, Traveler.
-
 Durin: Hey there.
-
 Paimon: Paimon's here too! She was just helping them sort through their things. How did your chat go?
-
 Marionette: That was fast. The call only just ended.
-
 Albedo: Well, you said it was urgent, so we got here as quickly as we could.
-
 Marionette: Albedo, I have some alchemy questions for you.
-
 Albedo: I see... Looks like my knowledge proved useful after all.
-
 Black Screen Text: Albedo examines Sandrone's notes...
-
 Albedo: If I might ask, what is the end goal for the modified formula you'll be using?
-
 Marionette: I need it to predict the future of the entire world. But I've run into some teething issues since trying to implement Rene's theory of the Four Orthants.
-
 Albedo: I see. I'll have a look at it. Still, computing power is the real issue here. How do you plan to solve it?
-
 Marionette: About that...
-
 Marionette: It's been sorted.
-
 Albedo: #Oh? With Traveler's help?
-
 Traveler: You overestimate me, Albedo...
-
 Marionette: #Actually, you're not wrong. He found the person with the solution.
-
 Durin: Was it Hat Guy?
-
 Marionette: Yeah, it was him.
-
 Paimon: Wow! Go Hat Guy! Seems like all that time studying at the Akademiya is paying off big time!
-
 Durin: Um, but where is he? Wasn't he the one who asked Albedo and I to come here?
-
 Marionette: ...Come with me.
-
 Paimon: Hat Guy!? What's happened to him?
-
 Durin: Hat Guy... Can you hear us?
-
 Durin: No response... I guess he's in hibernation.
-
 Albedo: Hat Guy mentioned that he was a puppet. It seems that his functions are currently shut down.
-
 Albedo: I presume this has something to do with the solution to your computing problem?
-
 Marionette: #That's right. He and Traveler came to see me...
-
 Marionette: Wait, what!? You have a solution?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Would you calm down? Why do you always react so hysterically to everything?
-
 Marionette: Excuse me? How would you know? You shouldn't be so quick to judge complete strangers, it's very bad manners.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Oh, please. It doesn't take that long to figure out that you have a temper.
-
-Marionette: (Discarded)
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
-
-Marionette: Huh? Are you serious?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
-
-Marionette: Okay, fine. I'll hear you out. So tell me — how do you propose to solve my computing power problem?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
-
-Marionette: Easier said than done. Only Irminsul can handle that kind of...
-
-Marionette: Wait, is that what you're suggesting? But surely we can't just... plug my formula directly into the Ley Lines!
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You should be able to tell that I'm not human, right?
-
-Marionette: Yeah, I noticed. The technology, though... Seems pretty ancient. Very different from Fontaine's. It's a completely different system.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Khaenri'ahn, to be precise. I'm what they would have called a puppet.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
-
-Marionette: You... Do you mean...
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: #Traveler and I have talked it over. He's willing to vouch for you, so... I'll allow you to borrow my co{RUBY#[D]computational hub}re for your calculations.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
-
-Marionette: Khaenri'ahn technology and Irminsul wood... Who in the world could've built you?
-
-Marionette: ...Are you sure about this? A puppet without its co{RUBY#[D]computational hub}re will cease functioning completely... and if it's left in that state for too long, it might not recover. You could die if you do this! You do realize that, don't you?
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I can put two and two together, yes. No need to rub it in.
-
-Marionette: I won't lie to you. This has never been done before — I cannot guarantee your safety.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Doesn't matter. I'm prepared for the worst.
-
-Marionette: Did you two actually talk this through? Is he... Are we really considering this?
-
-Traveler: Yes, we discussed it. The bottom line is, he trusts me, and I trust you.
-
-Traveler: Let's give it a shot, shall we?
-
-Marionette: Honestly, I have no clue where this kid even came from. But for whatever reason, he lent me his co{RUBY#[D]computational hub}re to use in my formula.
-
-Marionette: I'm very close to finishing my calculations now, and the core is currently in use. So I'm sorry, but I can only show you a sketch right now.
-
-Marionette: This is what the co{RUBY#[D]computational hub}re looks like.
-
-Albedo: A silver-white branch... It certainly matches the legends told about Irminsul.
-
-Durin: Is... Is Hat Guy gonna be okay?
-
-Paimon: H—He's not gonna die, right? ...Right?
-
-Marionette: In theory, he should be fine — as long as we put his co{RUBY#[D]computational hub}re back in time.
-
-Marionette: Beyond that... All I can say is that I'll try my best to avoid risk and make sure the co{RUBY#[D]computational hub}re doesn't sustain any damage.
-
-Albedo: I think I know why you called us here now. Someone needs to watch over his body and make sure it's protected until the process completes.
-
-Marionette: #Correct. He said that the only ones he trusts here are you two and Traveler, and Traveler will have other work to do.
-
-Traveler: Look after Hat Guy for me.
-
-Albedo: He will have our undivided attention.
-
-Paimon: Aw, Hat Guy...
-
-Marionette: On a more positive note, things are progressing steadily on my end. I'll call everyone in for a meeting once the results are out.
-
-Black Screen Text: Sandrone returns to her initial question. She and Albedo enter an in-depth discussion.
-
-Black Screen Text: You, Paimon, and Durin stand next to Hat Guy, keeping watch over his silent body. You've never seen him in this state before.
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "The worst case scenario with the co{RUBY#[D]computational hub}re removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "I have already experienced both a past life and a next life."
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
-
-Paimon: Sandrone will succeed, won't she? She has to...
-
-Traveler: She will. We all have to persevere until this is over.
-
-Durin: That's right. And I'll protect you all until the moment of victory arrives.
-
-Black Screen Text: You suddenly feel like the concept of time has become blurry. It rushes forward for you, yet marches backward with every step that Columbina takes. Silent yet turbulent.
-
-Black Screen Text: Dottore's words echo in your ears: "These four divisions anchor the world and shackle those who live in it."
-
-Black Screen Text: He may be deranged, but he understands well the rules of the world which now test you all.
-
 Marionette: Hah! Where does a mere student get that kind of confidence?
-
+Marionette: (Discarded)
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
+Marionette: Huh? Are you serious?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
+Marionette: Okay, fine. I'll hear you out. So tell me — how do you propose to solve my computing power problem?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
+Marionette: Easier said than done. Only Irminsul can handle that kind of...
+Marionette: Wait, is that what you're suggesting? But surely we can't just... plug my formula directly into the Ley Lines!
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You should be able to tell that I'm not human, right?
+Marionette: Yeah, I noticed. The technology, though... Seems pretty ancient. Very different from Fontaine's. It's a completely different system.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Khaenri'ahn, to be precise. I'm what they would have called a puppet.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
+Marionette: You... Do you mean...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: #Traveler and I have talked it over. He's willing to vouch for you, so... I'll allow you to borrow my co{RUBY#[D]computational hub}re for your calculations.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
+Marionette: Khaenri'ahn technology and Irminsul wood... Who in the world could've built you?
+Marionette: ...Are you sure about this? A puppet without its co{RUBY#[D]computational hub}re will cease functioning completely... and if it's left in that state for too long, it might not recover. You could die if you do this! You do realize that, don't you?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I can put two and two together, yes. No need to rub it in.
+Marionette: I won't lie to you. This has never been done before — I cannot guarantee your safety.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Doesn't matter. I'm prepared for the worst.
+Marionette: Did you two actually talk this through? Is he... Are we really considering this?
+Traveler: Yes, we discussed it. The bottom line is, he trusts me, and I trust you.
+Traveler: Let's give it a shot, shall we?
+Marionette: Honestly, I have no clue where this kid even came from. But for whatever reason, he lent me his co{RUBY#[D]computational hub}re to use in my formula.
+Marionette: I'm very close to finishing my calculations now, and the core is currently in use. So I'm sorry, but I can only show you a sketch right now.
+Marionette: This is what the co{RUBY#[D]computational hub}re looks like.
+Albedo: A silver-white branch... It certainly matches the legends told about Irminsul.
+Durin: Is... Is Hat Guy gonna be okay?
+Paimon: H—He's not gonna die, right? ...Right?
+Marionette: In theory, he should be fine — as long as we put his co{RUBY#[D]computational hub}re back in time.
+Marionette: Beyond that... All I can say is that I'll try my best to avoid risk and make sure the co{RUBY#[D]computational hub}re doesn't sustain any damage.
+Albedo: I think I know why you called us here now. Someone needs to watch over his body and make sure it's protected until the process completes.
+Marionette: #Correct. He said that the only ones he trusts here are you two and Traveler, and Traveler will have other work to do.
+Traveler: Look after Hat Guy for me.
+Albedo: He will have our undivided attention.
+Paimon: Aw, Hat Guy...
+Marionette: On a more positive note, things are progressing steadily on my end. I'll call everyone in for a meeting once the results are out.
+Black Screen Text: Sandrone returns to her initial question. She and Albedo enter an in-depth discussion.
+Black Screen Text: You, Paimon, and Durin stand next to Hat Guy, keeping watch over his silent body. You've never seen him in this state before.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: "The worst case scenario with the co{RUBY#[D]computational hub}re removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
 #{REALNAME[ID(1)|HOSTONLY(true)]}: "A co{RUBY#[D]computational hub}re is completely different from a heart. It's like another vital organ entirely. I never believed it could be a true replacement for what I sought."
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: "But in the end, it turns out the core was more useful to me. Haha, pretty funny when you think about it. It's like the punchline of my entire life."
+#{REALNAME[ID(1)|HOSTONLY(true)]}: "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
+#{REALNAME[ID(1)|HOSTONLY(true)]}: "I have already experienced both a past life and a next life."
+#{REALNAME[ID(1)|HOSTONLY(true)]}: "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
+Paimon: Sandrone will succeed, won't she? She has to...
+Traveler: She will. We all have to persevere until this is over.
+Durin: That's right. And I'll protect you all until the moment of victory arrives.
+Black Screen Text: You suddenly feel like the concept of time has become blurry. It rushes forward for you, yet marches backward with every step that Columbina takes. Silent yet turbulent.
+Black Screen Text: Dottore's words echo in your ears: "These four divisions anchor the world and shackle those who live in it."
+Black Screen Text: He may be deranged, but he understands well the rules of the world which now test you all.
 
 ## Talk 13
 
 The Damselette: ...Who are you?
-
 Sonnet: Call me Sonnet. Hmm... You have the same power as Canon...
-
 The Damselette: Sonnet? So... you're the goddess of the Iridescent Moon?
-
 Sonnet: Oh, goodness! You recognize me? Well then, what's your name?
-
 The Damselette: ...Columbina. Columbina Hyposelenia.
-
 Sonnet: Hyposelenia... What a lovely name. Did you choose it yourself?
-
 The Damselette: It was... a joint effort between me and my friends.
-
 Sonnet: Friends? You mean your friends in the heavens?
-
 The Damselette: Huh?
-
 Sonnet: Oh, sorry! You must be exhausted! I apologize. Hang in there, let me introduce you to my older sisters.
-
 The Damselette: Do you mean the other two moon goddesses? Aria and Canon?
-
 Sonnet: Wow, you sure know a lot. Hey, does that mean that our story goes on into the future?
-
 The Damselette: ...
-
 Sonnet: Oh... I guess that wasn't the best question to ask...
-
 Sonnet: It's alright. We were prepared for that possibility.
-
 Sonnet: You could say we're... too prepared... I can't even remember how long my sisters and I have been here by this point.
 
 ## Talk 14
 
 Sonnet: Sisters! I'm back — and look who I've brought with me!
-
 Aria (???): ...?
-
 Canon (???): ...!
-
 Sonnet: It's our lovely little sister, born in the far future!
-
 The Damselette: ...The pleasure is all mine.
-
 Aria (???): ...
-
 Canon (???): ...
-
 Sonnet: Allow me to introduce you to Columbina Hyposelenia.
-
 Sonnet: This is Aria, the goddess of the Eternal Moon.
-
 Sonnet: And this is Canon, goddess of the Frost Moon. Canon, don't you think Hyposelenia's power is similar to yours?
-
 Canon: *sigh*... Hello, Columbina. I apologize for our startled reaction just now... and please forgive our little sister if she's been annoying you — she tends to talk a lot.
-
 The Damselette: It's fine...
-
 Aria: You seem shy. Don't worry, Columbina Hyposelenia. No one can hurt you here.
-
 The Damselette: ...Could you tell me where "here" is?
-
 Aria (Aria & Canon & Sonnet): ...
-
 Canon: (Delete)
-
 Sonnet: (Delete)
-
 The Damselette: Please. I must know.
-
 Canon: Hah... My dear sister...
-
 Canon: ...This is where Teyvat's original ruler, the Dragon King Nibelung, imprisoned the moon goddesses.
-
 The Damselette: ...What?
-
 Sonnet: You're scaring her, Canon...
-
 The Damselette: No, I'm fine.
-
 The Damselette: ...Please, continue.
-
 Canon: ...
-
 Canon: Nibelung, our original master, created us in the distant past to maintain Teyvat.
-
 Aria: But he left this world and traveled into the dark universe beyond, to explore worlds vaster still.
-
 Canon: Day and night, we fulfilled our duty in the heavens... until the day that the first Descender arrived...
-
 Aria: The "great ruler of the firmament."
-
 The Damselette: ...The Heavenly Principles.
-
 Canon: Is that what later generations call them? I see... But we did not reject them at first, nor did they seem to harbor ill-intent towards this world.
-
 Canon: We co-existed in peace. They were like a guest in our home.
-
 Aria: Slowly, however, we came to realize that our guest had a growing desire to change and dominate the world.
-
 The Damselette: And you didn't stop it?
-
 Aria: No. There was an order to the rules they set up that Nibelung never taught us.
-
 Aria: We wanted to know if this order would bode good or ill for Teyvat.
-
 Sonnet: ...
-
 Aria: ...Alright, Canon and I wanted to know. Sonnet... was against it from the outset.
-
 Canon: Later, we discovered that this great ruler of the firmament bore an almost paranoid hostility toward the desire of certain life forms to seek power... Or perhaps they feared them.
-
 Canon: They would even cast down celestial nails as manifestations of their power, to punish the civilizations of the world below.
-
 Sonnet: Only... This was far beyond mere punishment...
-
 Canon: ...Right. Their rules brought order, but the price people paid for merely testing the limits of those rules was far too great.
-
 Canon: I did everything in my power to help the punished escape catastrophe, but still... too many lives were lost.
-
 The Damselette: (The ancestors of the Frostmoon Scions were some of the ones that you helped...)
-
 Aria: But just when we had decided to take countermeasures, the Dragon King, Nibelung returned.
-
 The Damselette: And so began the war of funerary flame...
-
 Canon: ...So that's the name the world gave that war in the future.
-
 Sonnet: Well... Who won in the end?
-
 The Damselette: As far as I know, the Heavenly Principles won, although it came at a great cost. They remained in Teyvat, where they continue to rule to this day...
-
-Sonnet: ...
-
-Sonnet: Then... what of the moons? Are there still three moons in Teyvat's skies?
-
-The Damselette: ...
-
-Aria: You can tell us the truth, Columbina. We know we are but remnants of a bygone age. We are prepared for the answer.
-
-The Damselette: ...Only the Frost Moon remains. But it has been cast beyond the false firmament by the Heavenly Principles.
-
-The Damselette: The Eternal and Iridescent Moons were both shattered during the war...
-
-Aria: ...
-
-Sonnet: ...
-
-Sonnet: So death finally came for us in the end...
-
-Aria: Sonnet...
-
-The Damselette: But... You're still here, aren't you...?
-
-Canon: A moon goddess cannot live without her moon, Columbina.
-
-The Damselette: ...!
-
-The Damselette: (She's right... That's why I began to disappear — because the Frost Moon is cut off by the false sky. How much worse it would have been if it were outright destroyed...)
-
-Canon: Our souls may endure within this lunar palace, but if our moons are destroyed...
-
-Sonnet: ...Then we shall disappear the moment we depart from it.
-
-The Damselette: ...I'm sorry.
-
-Aria: There's no need to apologize to us, dear sister.
-
-Aria: If anything, we owe the world an apology...
-
-Aria: If only we'd decided to act sooner, rather than arguing amongst ourselves...
-
-Canon: ...All the more reason not to spend this time in regret and repentance.
-
-Canon: Instead, we should focus our efforts on how we might help our future sister.
-
-The Damselette: ...Sorry?
-
-Canon: Don't you see, Columbina? Your story is not yet over. Is that not why you are here?
-
 The Damselette: And the world's original master, the Dragon King, Nibelung, was destroyed...
+Sonnet: ...
+Sonnet: Then... what of the moons? Are there still three moons in Teyvat's skies?
+The Damselette: ...
+Aria: You can tell us the truth, Columbina. We know we are but remnants of a bygone age. We are prepared for the answer.
+The Damselette: ...Only the Frost Moon remains. But it has been cast beyond the false firmament by the Heavenly Principles.
+The Damselette: The Eternal and Iridescent Moons were both shattered during the war...
+Aria: ...
+Sonnet: ...
+Sonnet: So death finally came for us in the end...
+Aria: Sonnet...
+The Damselette: But... You're still here, aren't you...?
+Canon: A moon goddess cannot live without her moon, Columbina.
+The Damselette: ...!
+The Damselette: (She's right... That's why I began to disappear — because the Frost Moon is cut off by the false sky. How much worse it would have been if it were outright destroyed...)
+Canon: Our souls may endure within this lunar palace, but if our moons are destroyed...
+Sonnet: ...Then we shall disappear the moment we depart from it.
+The Damselette: ...I'm sorry.
+Aria: There's no need to apologize to us, dear sister.
+Aria: If anything, we owe the world an apology...
+Aria: If only we'd decided to act sooner, rather than arguing amongst ourselves...
+Canon: ...All the more reason not to spend this time in regret and repentance.
+Canon: Instead, we should focus our efforts on how we might help our future sister.
+The Damselette: ...Sorry?
+Canon: Don't you see, Columbina? Your story is not yet over. Is that not why you are here?
 
 ## Talk 15
 
 Paimon: ...Where do we even start? How are we supposed to figure out what we're meant to do to help Columbina?
-
 Luonnotar: ...!
-
 Traveler: (Columbina... What do you need from us?)
-
 Luonnotar: ...
-
 Paimon: If she really got to the beginning of time in there, how d'you think she'd leave us a message?
-
 Traveler: ...
-
 Paimon: You don't think she'd... write it down on a stone tablet somewhere in the hopes that we'd find it, do you?
-
 Traveler: ...Seems unlikely.
-
 Traveler: Columbina may not talk a lot, but she thinks deeply about issues like this...
-
 Nefer: Let's review what we know.
-
 Nefer: This is the Columbina who fought alongside us against the Rächer of Solnari, and with whom we celebrated Moon-Prayer Night.
-
 Nefer: She knows our personalities, our ways of doing things, even our unique strengths and abilities.
-
 Nefer: So, if she wanted to tell us something from a long, long time ago... What would she do?
-
 Nefer: ...!
-
 Traveler: ...!
-
 Luonnotar: !!!
-
 Nefer: #Traveler... You once said that those golden ripples also appeared when Luonnotar was born.
-
 Nefer: What if Columbina left Luonnotar here not just as an anchor to the real world, but for some other purpose?
-
 Nefer: If she is part of Columbina, and Columbina knows that I can see past events through her...
-
 Paimon: Ohhh, yeah! Like when you peeked into Rerir's past through his heart!
-
 Lauma: Nefer, wait!
-
 Lauma: If you're right about this, and you really can see past events through Luonnotar... Your eyes, they'll—
-
 Nefer: Oh, I know. Looking at Rerir's past in Khaenri'ah was already enough of a strain on my eyes. Looking this far back into the past...
-
 Nefer: ...It'll surely blind me.
-
 Lauma: ...
-
 Nefer: But, it's our only chance. This is the only way.
-
 Jahoda: Boss...
-
 Nefer: We spoke about this once, a long time ago. Do you remember what I said, Jahoda? The day I lose my sight, the Curatorium of Secrets will be yours to run.
-
 Jahoda: But...
-
 Nefer: What's wrong? I'd be overjoyed if I were you. This day's come a lot earlier than either of us expected.
-
 Jahoda: ...
-
 Nefer: I need to know you'll honor our agreement, Jahoda. Promise me.
-
 Jahoda: ...Yes, Boss Nef. I promise.
-
 Lauma: Are you sure you don't want some time to think this through?
-
 Nefer: What is there to think through? I should've gone blind after our battle with Rerir. Frankly, it's almost criminal that I got away with it for this long.
-
 Lauma: ...Then at least let me take some precautions on your behalf.
-
 Lauma: And if you really do lose your sight, I'll visit your office every day and make sure you're well looked after.
-
 Nefer: Oh, please, anything but that... I was actually ready to go through with this. Are you trying to scare me into backing out?
-
 Lauma: Heh, as if I could ever scare you... I'll assume you're just joking to calm your nerves.
-
 Nefer: ...Alright, enough chit-chat. Let's do this.
-
 Lauma: ...
-
 Lauma: All done...
-
 Nefer: Good. Now give me some space.
-
 Luonnotar: ...
-
 Nefer: ... Come on then, little one. Show me what happened in the past...
-
 Nefer: ...!
-
 The Damselette: (Between the trilunar authority, kuuvahki, and the sole surviving moon — the Frost Moon...)
-
 The Damselette: (...I think I might know how to get back. But... I will need my sisters' help.)
-
 The Damselette: (Time to go talk it over with them...)
 
 ## Talk 17
 
 Aria: It seems you have reached a decision.
-
 Aria: I'm all ears. What do you propose?
 
 ## Talk 18
 
 Sonnet: Hmm? Have you decided what to do?
-
 Sonnet: I hope it's not too dangerous. You really scared me when you said that thing about not leaving here alive...
-
 Sonnet: Come on, let's go find the other two.
 
 ## Talk 19
@@ -974,233 +518,123 @@ The Doctor: Missing text (3662213698)
 ## Talk 20
 
 Sonnet: Is... is it done?
-
 Canon: Yes. We have transferred the authority over all three moons to Columbina Hyposelenia.
-
 Canon: From this moment on, she is the Trilune Goddess, the one and only moon goddess of this world.
-
 The Damselette: ...
-
 The Damselette: Thank you... Thank you, my sisters...
-
 Aria: Now go, and do what you believe is right, Columbina Hyposelenia.
-
 Canon: Be aware that we cannot grant you the power of the three moons beyond these prison walls. The conflict that arose over their remains following our disappearance will still take place.
-
 The Damselette: I understand...
-
 Sonnet: ...! Sisters! My body... It feels...
-
 Canon: Now that we have given up our power and authority, our bodies are merely mortal shells. This prison is dissolving them as we speak...
-
 Sonnet: ...!
-
 Aria: It's okay, Sonnet. The end must come for every god, just as it does for every human. That's all this is — the final destination of our lives. Canon and I will be by your side the whole way.
-
 Canon: ...We have one final request, Columbina.
-
 Canon: Could you use the three moons' power to send us back into the real world?
-
 Canon: Now that we have lost our powers, I doubt this space will seek to hold us further.
-
 Canon: It's just... we would like to spend our final moments together in the only place we ever called home.
-
 The Damselette: ...Of course. Gladly.
-
 Sonnet: ...
-
 The Damselette: ...
-
 The Damselette: Sonnet...
-
 Sonnet: ...Yes?
-
 The Damselette: Don't...
-
 The Damselette: (I wish I could tell her not to give in to the Abyss, not to be afraid... But is this really what I should say at this moment?)
-
 The Damselette: ...Don't forget... I'm so glad to have a big sister like you.
-
 Sonnet: Oh, Hypo... Thank you...
-
 Sonnet: I'm okay... I'm not afraid. As long as my sisters are with me, I won't be afraid...
-
 The Damselette: ...
-
 The Damselette: It looks like... This is goodbye, sisters...
-
 Aria: Goodbye, Columbina.
-
 Canon: Take care of this world... in our stead...
-
 The Damselette: I will...
-
 The Damselette: ...
-
 The Damselette: And now, it's time for me to bid farewell to my body, too...
-
 The Damselette: ...May it become the moonlight that keeps Nod-Krai company through the long years ahead.
-
 The Damselette: (So this is why Nod-Krai was not always home to kuuvahki...)
-
 The Damselette: (It only appeared after I poured my body out upon this land, and only this land...)
-
 The Damselette: (Kuuvahki responds to me, because... it is me. My body, answering the call of my soul...)
-
 The Damselette: (And the golden energy I've encountered on my way here was, in fact, that very soul — which I am about to leave here to guide me...)
-
 The Damselette: ...
-
 The Damselette: O power Trilune, eternal moonlight...
-
 The Damselette: I, Columbina Hyposelenia, lay aside my body... Let it be cast into the dark night, to illuminate the future...
-
 The Damselette: May it be a companion to all who dwell beneath the moon...
-
 The Damselette: Until the time comes for me to return home
-
 The Damselette: ♪ Sleep, sleep now, my dear little dove ♪
-
 The Damselette: ♪ May flowers and lovely dreams bloom by your window ♪
-
 The Damselette: ♪ O little dove, child of the moon ♪
-
 The Damselette: ♪ Though dust may stain your fair white feathers, though you lie down not in a warm embrace ♪
-
 The Damselette: ♪ May the moon be with you in your slumber ♪
 
 ## Talk 22
 
 Jahoda: Boss! That... was... CRAZY! Were we even allowed to see that? Is anyone!?
-
 Jahoda: Can you still see? How many fingers am I holding up?
-
 Nefer: I see two fingers, and a look of sheer terror on your face.
-
 Flins: Truly astounding, Miss Nefer. Your eyes have glimpsed the very ends of the world, and yet they remain as sharp as ever.
-
 Flins: Or is the credit for this miracle due to Miss Lauma? It seems that even time itself is no match for your medical skills.
-
 Lauma: Surely you jest, Mr. Flins.
-
 Lauma: I suspect we have Columbina to thank. She must have realized the immense toll that the ritual would take, and purposely set aside some of her power in the past to protect Nefer's eyes when this moment arrived.
-
 Lauma: There is always a great price to pay for witnessing the truth... but it seems that this time, Columbina has shouldered that burden on our behalf.
-
 Nefer: She chose the perfect method of getting a message to us. Though her eyes were always shut, she was clearly so perceptive... she knows us well. She knew exactly how we would think, and what we would try.
-
 Nefer: Despite being separated by time and space, we're seeing the same possibilities and seizing the same opportunities.
-
 Paimon: We still don't even know if she's okay right now... But as long as there's a chance we can do something, we'll fight to make it happen.
-
 Traveler: (We'll get you back somehow, Columbina.)
-
 Marionette: Well, based on the information we now have, let's figure out our next moves.
-
 The Knave: Thanks to these gentlemen, we have a much clearer picture of the situation with Dottore.
-
 The Knave: The civilian population has been moved to safety, so we no longer need to hold back.
-
 Albedo: Miss Sandrone, how are the calculations going?
-
 Marionette: So far, so good. I'll keep seeing how far I can push the system though. Can't have Hat-Man being powered down for nothing.
-
 Durin: There's still a long road ahead... Where should we begin?
-
 Black Screen Text: Everyone exchanges looks, then starts discussing a plan of attack.
-
 Black Screen Text: The battle ahead is filled with unknowns. No one can say how strong Dottore's grasp of the three moons' power is...
-
 Black Screen Text: But you are not about to admit defeat. Everyone is united, and knows that no single person can accomplish the task ahead alone.
-
 Black Screen Text: Your only chance of victory relies on everyone working together. And just maybe, as a team, you can reach the moon and bring your long-lost friend safely back home.
-
 The Knave: Our plan is clear. Time is short, so let's get moving.
-
 Marionette: There's just never enough time, is there? Time is the bane of my existence! Ugh... Anyway, I'm gonna get back to work.
-
 Paimon: Alright! We'll do our part too!
-
 Traveler: Yeah!
 
 ## Talk 23
 
 Varka: Albedo's theory says that elemental energy can dilute the Light Realm's power...
-
 Varka: But I'm no expert in building elemental defenses... Sounds like something outta the Advanced Elemental Theory section of the library! Whew...
-
 Nicole: You seem quite troubled.
-
 Varka: Well, yeah... I mean, who doesn't get a little flustered when they're completely out of their depth?
-
 Nicole: You were the very picture of confidence back when you approached the Hexenzirkel.
-
 Varka: Eh, I could have been faking it through that whole meeting for all you know. Who's to say I'm not just a... ball of nerves in a charming and gregarious package?
-
 Nicole: Oh gosh, really? I'm so sorry, I had no idea... Well, you're all the braver for it.
-
 Varka: Still, I was much more in my comfort zone then than I am here. At least in Mondstadt, you can cry for help from a clifftop and actually stand a chance of summoning Barbatos himself.
-
 Varka: *sigh* Things have never looked bleaker than they do now. If we don't pull this off... Teyvat's doomed, isn't it?
-
 Nicole: Oh, you think so? Hmm... Actually... Yes. Yes, it probably is.
-
 Varka: Mm. It's a shame.
-
 Nicole: Don't put too much pressure on yourself. Teyvat has faced annihilation many times in the past, but it also gave us you, didn't it?
-
 Varka: Hey, don't give me that. It's not like I'm anyone special.
-
 Nicole: I disagree. Every human born in this world is special. We angels have always believed that.
-
 Varka: In that case, this humble human being has a big favor to ask of you.
-
 Nicole: I thought you might say that.
-
 Varka: I'm sure Alice, in her great wisdom, sent you here precisely to help us in this difficult time, yes?
-
 Nicole: Hah. That has less to do with her wisdom, and more to do with my power.
-
 Varka: Of course, of course.
-
 Varka: Well, the thing is, these elemental defenses we're about to build... I don't think it's a question of "if" they'll fail, but "when."
-
 Varka: Durin's findings from his patrols make it clear that Dottore is constantly expanding his territory. First it was his lab, then the Design Bureau... and now this.
-
 Varka: It's not realistic to completely stop him encroaching on the rest of Nod-Krai. Rather, our goal should be to stall him for as long as possible.
-
 Varka: If Miss Sandrone's calculations are correct... Well, they're the closest thing to certainty we have in this situation, so let's assume they are.
-
 Varka: Anyway, her calculations suggest that our best hope for victory lies in Miss Columbina's return.
-
 Varka: It's up to us to slow Dottore's advance and buy time for her to make a return.
-
 Nicole: Are you asking me to help you with building the defenses?
-
 Varka: No. I'd like you to prepare for what comes next.
-
 Varka: When he eventually reaches us, we will have to fight him. You were an angel once and a mage now — I'm asking you to lend us your protection.
-
 Nicole: Oh? Can I take it that you're triggering the terms you fought for during our three-way talks?
-
 Varka: Well, technically, those terms were about protecting Mondstadt... But if you're happy to agree to the change in location, then yes, let's do that.
-
 Nicole: You're cashing in on this much sooner than I'd imagined.
-
 Varka: Well, yeah... The way things are going, I might not get another chance!
-
 Nicole: Very well. The mages have heard the knights' plea, and we will respond.
-
 Nicole: To tell the truth, Alice and I had already discussed how we might help you all, so I didn't come empty-handed. I always like to be prepared.
-
 Black Screen Text: Nicole shares her plan with Varka, who is very pleasantly surprised.
-
 Varka: This is... Wow, yeah. This is great! Seriously, thank you.
-
 Nicole: Ah, it's been many long years since I had a chance to dazzle humanity with a little divine intervention... Ahem, I mean, uh, to humbly serve as a reliable and responsible guide.
-
 Nicole: Anyway! Knight of Boreas, please accept this gift in recognition of your great virtue.
-
 Nicole: Go now. May the angels' blessing deliver you safely to your destination.
 
 ## Additional Conversations
@@ -1211,429 +645,225 @@ Nicole: Go now. May the angels' blessing deliver you safely to your destination.
 ### Additional Talk 1
 
 Tholindis (???): ...
-
 The Damselette: ...!
-
 The Damselette: (Is that Tholindis? She wasn't far off at all... And yet, they can never meet.)
-
 The Damselette: ...Hello, Miss Tholindis.
-
 Tholindis: Who are you? H—How do you know my name? I've never seen anyone else here before...
-
 The Damselette: You can call me Columbina. I promised Rerir that I'd bring a message to you.
-
 Tholindis: Rerir? ...My Rerir? Is... Is he well?
-
 The Damselette: He's... doing better than he was.
-
 Tholindis: Better than he was, huh... Sounds like he's had a pretty rough time.
-
 The Damselette: Others have had a rough time on his account, too. In many cases, their time ran out because of him.
-
 The Damselette: ...And I'm not just talking about the children of the Crimson Moon.
-
 Tholindis: ...
-
 Tholindis: So things got worse before they got better... Could you tell me what happened, Miss Columbina?
-
 The Damselette: Are you sure you wish to know?
-
 Tholindis: Yes... This is my opportunity to learn the truth. No matter how hard it is to hear... I have to know.
-
 The Damselette: I admire your courage. However, time is short. I cannot stay here for long...
-
 The Damselette: ...Rerir had seeds of hatred in his heart, and many people nursed them for their own ends. On some level, everything he did was to try and find a way to see you again.
-
 The Damselette: But in the end, he came to regret his mistakes. He wanted to apologize for hiding his past from you...
-
 The Damselette: Beyond that... he did not say specifically what it was he wished to convey to you.
-
 The Damselette: But I'm sure that you've always been on his mind. You are what has kept him going over all these years.
-
 Tholindis: ...
-
 Tholindis: I... I'm sorry, Miss Columbina. I just... This is so upsetting. I'm not sure how to put my feelings into words...
-
 The Damselette: It's alright. I understand.
-
 The Damselette: Well, that's everything from me. So... I guess I'll be—
-
 Tholindis: Wait! One moment...
-
 The Damselette: Hmm?
-
 Tholindis: Time flows backwards here. The road ahead only leads further and further into the past.
-
 The Damselette: I know. I intend to reach the end of that road.
-
 Tholindis: Without a Moon Marrow... Without the three moons' power, you won't make it far. Wait, unless... are you... are you one of the Moon Goddesses?
-
 The Damselette: You could say that.
-
 Tholindis: ...I see.
-
 Tholindis: I often think to myself... If life is like a train ride, why haven't I reached the terminus? Where am I even going?
-
 Tholindis: And it's not just me. It's this whole place... Wherever it is, it seems like it's existed forever. It's such a mystery... Where is it going?
-
 Tholindis: ...I must seem so ridiculous. I can't answer these basic questions, and yet I jumped right in here without hesitating... Only to be torn apart the moment I entered by powerful energy currents. Only my soul remains now.
-
-Tholindis: I'm... I used to be a researcher at the Universitas Magistrorum in Khaenri'ah, researching the Iridescent Moon's Marrow. Eventually, I came to the conclusion that time in here flows in reverse.
-
-Tholindis: Rerir was one of the Vinster King's retainers. With me... he was in an impossible position. It plagued him constantly.
-
-Tholindis: I wanted to help him escape his lot in life... I wanted him to be happy. So I thought I'd use this place to return to the past.
-
-Tholindis: #At the time, I thought I could just go back to the day that the Vinster King first found the Princess.
-
-Tholindis: #It was only after meeting the Princess that the Vinster King started going too far with his research into the Abyss. That was the day all of our woes began... I thought I could stop the king from ever meeting her, and solve everything.
-
-Tholindis: But I was simply too weak... Like a speck of dust against the whole universe. Look at me — I didn't even survive the journey here. Not physically, at least.
-
-Tholindis: I know I'm never getting out of here. But you're different. You can make it, and I want to help you. I owe you that much.
-
-The Damselette: How do you plan to help me?
-
-Tholindis: Have you noticed the golden energy that exists here?
-
-Tholindis: Based on my past research and my observations since coming here, I believe they carry you forward faster.
-
-Tholindis: I can share what I've learned, and help you understand the pattern in which this energy appears.
-
-Tholindis: I think you just might... No — I know you will be able to change the past.
-
-Tholindis: Also, I've been speculating about where this space ends.
-
-Tholindis: The documentation was scant, but from what I know of the legends about the moons, the oldest ones seem to begin with Nibelung, king of dragonkind...
-
-Tholindis: I have no way of verifying any of it by this point. But if it's true, you might be able to reach that era if you keep walking...
-
-The Damselette: Understood. Thank you, Miss Tholindis.
-
-Tholindis: About Rerir, I... I'm so, so sorry. For everything.
-
-The Damselette: It wasn't your fault.
-
-Tholindis: That's not true. Because we both feared bringing trouble upon each other, neither of us ever told the truth — and that dishonesty sealed our fates.
-
-Tholindis: But enough about that. I wish you a safe journey, Miss Columbina.
-
-Tholindis: And may the outside world never have to experience pain like this again.
-
-Tholindis: Rerir... You're there, aren't you?
-
-Tholindis: I cannot see you, because you exist in the future. I expect we'll be trapped in this prison of space-time for all eternity.
-
-Tholindis: But please, gaze upon the past... and then sit for a while.
-
-Tholindis: Let's find a place to sit down together, just like we did when we first met.
-
 Tholindis: Thinking back... I was suddenly overcome with fear and terror in that moment. Perhaps... I, too, became bewitched by the Abyss. I may have been the leverage it needed to control Rerir.
-
+Tholindis: I'm... I used to be a researcher at the Universitas Magistrorum in Khaenri'ah, researching the Iridescent Moon's Marrow. Eventually, I came to the conclusion that time in here flows in reverse.
+Tholindis: Rerir was one of the Vinster King's retainers. With me... he was in an impossible position. It plagued him constantly.
+Tholindis: I wanted to help him escape his lot in life... I wanted him to be happy. So I thought I'd use this place to return to the past.
+Tholindis: #At the time, I thought I could just go back to the day that the Vinster King first found the Princess.
+Tholindis: #It was only after meeting the Princess that the Vinster King started going too far with his research into the Abyss. That was the day all of our woes began... I thought I could stop the king from ever meeting her, and solve everything.
 Tholindis: I couldn't kill the Vinster King himself, so I had to find another way to save Rerir. That's why I wanted to go back... to kill the person who had brought new possibilities to our realm.
-
 Tholindis: I'm sure it was a futile endeavor, but the Abyss probably enhances the basest human desires... So I naively hoped I could change everything.
-
+Tholindis: But I was simply too weak... Like a speck of dust against the whole universe. Look at me — I didn't even survive the journey here. Not physically, at least.
+Tholindis: I know I'm never getting out of here. But you're different. You can make it, and I want to help you. I owe you that much.
+The Damselette: How do you plan to help me?
+Tholindis: Have you noticed the golden energy that exists here?
+Tholindis: Based on my past research and my observations since coming here, I believe they carry you forward faster.
+Tholindis: I can share what I've learned, and help you understand the pattern in which this energy appears.
+Tholindis: I think you just might... No — I know you will be able to change the past.
+Tholindis: Also, I've been speculating about where this space ends.
+Tholindis: The documentation was scant, but from what I know of the legends about the moons, the oldest ones seem to begin with Nibelung, king of dragonkind...
+Tholindis: I have no way of verifying any of it by this point. But if it's true, you might be able to reach that era if you keep walking...
+The Damselette: Understood. Thank you, Miss Tholindis.
 Tholindis: I'm the one who should be thanking you. If you hadn't entered this... realm of everlasting death, what use would my deductions be? Thanks to you, they have some meaning.
+Tholindis: About Rerir, I... I'm so, so sorry. For everything.
+The Damselette: It wasn't your fault.
+Tholindis: That's not true. Because we both feared bringing trouble upon each other, neither of us ever told the truth — and that dishonesty sealed our fates.
+Tholindis: But enough about that. I wish you a safe journey, Miss Columbina.
+Tholindis: And may the outside world never have to experience pain like this again.
+Tholindis: Rerir... You're there, aren't you?
+Tholindis: I cannot see you, because you exist in the future. I expect we'll be trapped in this prison of space-time for all eternity.
+Tholindis: But please, gaze upon the past... and then sit for a while.
+Tholindis: Let's find a place to sit down together, just like we did when we first met.
 
 ### Additional Talk 2
 
 Nefer: So, you think that the moon's reflection might be where Nibelung imprisoned the Three Moon Sisters?
-
 Nicole: Yes. It would explain a lot, such as why that space would respond to a Moon Goddess's power, opening the Moon Gate at her command...
-
 Nicole: It would also explain why Miss Columbina has been unable to leave, and why time flows in reverse there...
-
 Nefer: In the messages she sent, Columbina promised us she'd find a way to return... But we have no way of knowing how, when, or where this might happen.
-
 Nicole: The fact that she still has yet to reappear in this world indicates that returning from that place is no easy feat. We cannot afford to simply wait for her.
-
 Nefer: So you're saying... if she could return by her own power alone, she would have done so long ago.
-
 Nicole: Yes. She certainly wouldn't leave it to this late stage when it's so touch and go.
-
 Nicole: I've been giving this some thought, and I've come to believe that Luonnotar might be an "anchor" that she left behind, as a sort of future waypoint.
-
 Nicole: #This could also explain why Luonnotar is always by Traveler's side.
-
 Nefer: ...Sounds like a plausible theory. If that's the case, there must be some criteria we need to fulfill to allow Columbina to return to the present.
-
 Nefer: The question is, what could they be?
-
 Dodocommunication Device: Dodo! Dodoco!
-
 Marionette: Hello? Listen up, this is extremely important!
-
 Black Screen Text: Sandrone frantically relays her great discovery.
-
 Black Screen Text: Next, Nefer and Nicole present their hypothesis. As this impossible mystery finally starts to unravel, everyone starts to remember what joy feels like.
-
 Marionette: Not only is Columbina alive, but she may well exist in a form unimaginable to us.
-
 Marionette: I'm still unclear on the details, but she's done something truly inconceivable in the past. And the clue to what she's done lies in the moon in Teyvat's sky.
-
 Nicole: Truly amazing. Ah, I'm so delighted for her.
-
 Varka: I'm sure we all feel the same. And I'm sure Columbina is ready to get back here and fight by our side.
-
 Marionette: I'll keep my calculations going and try to find some way of coordinating with her. But that's not an excuse for everyone else to slack off, okay? All of you had better keep trying to think of solutions.
-
 Nefer: How can the dead moons still live? And Luonnotar... hmm...
 
 ### Additional Talk 3
 
 Canon: ...
-
 Canon: It's... hard to believe that's what will happen in the distant future...
-
 Aria: Our authority is linked to the most fundamental rules of Teyvat... I suppose it's no wonder that many would covet that power.
-
 Sonnet: Heh, I didn't realize that when you said "friends," you meant people who live down in Teyvat... Ah, that's so lovely. I always wanted to go down there and have some fun...
-
 The Damselette: Have you... ever tried leaving this prison?
-
 Sonnet: Of course. Between us, we've tried everything. But no matter where we go, this space will eventually bring us back here.
-
 Canon: It's like the center of a whirlpool. Everything ultimately converges here, at the moment when Nibelung imprisoned us.
-
 The Damselette: ...
-
 The Damselette: In that case, have you tried using any of those pathways that connect this space to the real world?
-
 Sonnet: Sorry? What are those?
-
 The Damselette: ...They're passages through which you can make small-scale changes to reality by using kuuvahki.
-
 The Damselette: (Or am I the only one who can use those passages? Because part of my so{RUBY#[D]Luonnotar}ul remains in reality?)
-
 Canon: Kuuvahki...? What is that?
-
 The Damselette: You don't know? It's... a unique kind of elemental energy found only in Nod-Krai, the land from which the moons arose.
-
 Canon: Oh... Well, it's true that the moons first rose up from the part of Teyvat you say is called "Nod-Krai."
-
 Canon: But there is no difference in the elemental energy between there and anywhere else.
-
 The Damselette: ...What?
-
 Sonnet: Could you show us some of this "kuuvahki," Hyposelenia? Maybe if we see it, it'll make more sense.
-
 The Damselette: Okay.
-
 Aria: Uh... Isn't that just... your power?
-
 The Damselette: What? ...But it's everywhere in Nod-Krai. In the air, in the land... Even the creatures who live there have adapted to its influence.
-
 Canon: How curious... This kuuvahki certainly did not exist anywhere in the world before we were imprisoned.
-
 Sonnet: Let alone influence living creatures. So... how exactly does it affect them, anyway? Can they float in the air like us?
-
 The Damselette: (This is so strange... Why would their reality differ so much from mine?)
-
 Canon: Columbina... You're looking for more than just a way out of here, aren't you?
-
 The Damselette: Yes... If I am to help my friends... I will need trilunar authority on par with that of our foe.
-
 Sonnet: You mean... you'll need our power.
-
 Canon: This sounds extremely risky...
-
 Canon: The three moons' powers are not mutually compatible. Concentrating them into one goddess will be a very painful process... And if anything goes wrong, it could tear you to pieces.
-
 The Damselette: I know... but I'm willing to take that risk.
-
 Aria: Even so... Let's say we successfully transfer our authority to you. How will you take it outside this prison?
-
 Aria: Nibelung constructed this realm specifically to prevent us from using our powers to interfere in his war.
-
 Aria: No moon goddess can leave this place alive...
-
 The Damselette: ...
-
 The Damselette: What if... I don't leave alive?
 
 ### Additional Talk 4
 
 Canon: Have you figured it out, Columbina?
-
 Canon: Tell us, how do you plan to leave this place?
-
 The Damselette: I... I intend to "die" here, in this moment, and then be reborn in the future with the help of my friends.
-
 Sonnet: What? Wh—What are you saying? How can the dead be reborn?
-
 Sonnet: And how will you inform these future friends of your plans? You can't exactly leave oracles — nothing can escape this place, not a single ray of moonlight...
-
 Sonnet: And even if you found a way, what if they never find the message you've left for them? You'll... you'll...
-
 The Damselette: No. That won't happen.
-
 Sonnet: ...Come again?
-
 The Damselette: They will find my message. I'm sure of it.
-
 Canon: ...I'm not following. How exactly will you achieve this?
-
 The Damselette: It's quite simple, really.
-
 The Damselette: First, I will leave my soul here.
-
 Nefer: ...!
-
 Nefer: ...I see it.
-
 Aria: Your soul? You mean, your divinity?
-
 The Damselette: Yes. I once left a portion of my soul in the future — one so small that this prison barely noticed anything.
-
 The Damselette: In this very moment, she can resonate with my soul across time.
-
 The Damselette: When the time comes, I believe that she can serve as an anchor to pull my soul from here back to the future reality...
-
 Canon: ...Just as gravity connects the world to the moon.
-
 The Damselette: Exactly. In the future, where I came from, the moon has been cast beyond the false sky, but I can still feel that it is there.
-
 The Damselette: In a similar way, I can feel a connection to the soul fragment I left behind even now. My friends can use it to detect my presence.
-
 Sonnet: But... How do you just... leave your soul here? Is that even possible?
-
 The Damselette: On my way here, I met an ordinary mortal who entered this place long before I did.
-
 The Damselette: Her body is long gone, but her soul remains.
-
 The Damselette: And before that, I encountered an old enemy whose entire soul survives here intact, while the power that once corrupted his body has faded away.
-
 Canon: So perhaps this space is specifically designed to imprison divi{RUBY#[D]soul}nity and authority, but not the physical body...
-
 Sonnet: Still, even if your body can escape, would it not just be a lifeless husk without the so{RUBY#[D]divinity}ul inside?
-
 Sonnet: Wait... Is that what you meant when you said you wouldn't leave alive...?
-
 The Damselette: Yes. I shall turn my body into moonlight, and pour it over Nod-Krai.
-
 The Damselette: That power shall protect the land and quietly blend into it, awaiting my soul's return in the future.
-
 Canon: ...
-
 The Damselette: However... I cannot do this on my strength alone.
-
 The Damselette: I would need your help to do this... So I'm humbly asking for your assistance.
-
 Aria: Hah... Oh, dear sister, you need not be so formal. As I said before, we are but remnants of a bygone age.
-
 Aria: You, on the other hand, were born alone in that distant future, and you have walked a long and lonesome road since then. How could I bear to let your story end here in this dungeon?
-
 Aria: Don't forget — we are your sisters. Your family.
-
 The Damselette: ...!
-
 Sonnet: ...Aria's right. Actually, I always wanted a little sister. Can you imagine how it's been for me, getting nagged by two older sisters all this time?
-
 Sonnet: Now, I finally get to be the big sis — and not just that, but I get to help you return to your world, too. How could I say no to that?
-
 The Damselette: ...Sonnet...
-
 Canon: ...
-
 Aria: Canon...?
-
 The Damselette: ...I'm sorry. I know this is a bold request. The Frost Moon is rightfully yours, and it remains intact...
-
 Canon: ...Oh — no, please don't misunderstand me, Columbina.
-
 Canon: I was just... thinking back on the years that the three of us once spent together...
-
 Canon: You cannot imagine how happy I am to hear of the future world you describe... the Frostmoon Scions, your lovely, kindly friends...
-
 Canon: For the three of us, whose purpose in life was to maintain the peace in Teyvat, it is a great relief to know that the people of this world live in such an abundant future.
-
 Canon: If your plan can save them and save Nod-Krai, I will gladly give you all that I can.
-
 Canon: Besides, the three of us have been together since the day we were born. I could never abandon them to live on alone without them.
-
 Sonnet: Canon...
-
 Canon: Still, I do have one question I would like to ask you before we proceed.
-
 The Damselette: Certainly. What is it?
-
 Canon: Why do you cover your eyes?
-
 The Damselette: ...
-
 Sonnet: Yeah, I was curious about that, too... but it seemed personal, so I didn't wanna intrude.
-
 The Damselette: I... There was a time when I refused to look upon the world. I believed it was full of nothing but lies and falsehoods.
-
 The Damselette: I wished to hide my feelings... seal my heart... until I could return to my true home.
-
 Canon: I see...
-
 Canon: Perhaps that decision saved you from ever having to see the false sky again. But at the same time, you likely missed out on many true and precious things, like the smiles on your friends' faces.
-
 Canon: Promise me this, Columbina: When you return to the future, open your eyes, take a look at the world around you... and see your friends.
-
 Canon: I'm sure that you know this already, given that you long to return...
-
 Canon: But that is your true home.
-
 The Damselette: ...!
-
 Canon: Give me your hand, Columbina.
-
 Canon: ...Aria, Sonnet, you too.
-
 Sonnet: Okay.
-
 Aria: Alright.
-
 Canon: ...We once were the song sung for eternity, but now it is you who must continue to sing.
-
 Aria: ...We once were the tides in the great river of time, but now we subside, and you arise.
-
 Sonnet: ...We were the messengers of madness and inspiration, but now, the lies have faded, and your truth must endure.
-
 Canon: ...We are souls awaiting the sun. You must return to be with those who smile when they see your face.
 
 ### Additional Talk 5
 
 Marionette: ...It's done.
-
 Marionette: Initiate numerological array.
-
 Marionette: Continue running primary process — calculate the world's fate through extrapolation, and identify nodes of potential change.
-
 Marionette: Secondary process — scan for moons.
-
 Marionette: ...
-
 Marionette: Still four... The number of Moon Marrows hasn't changed.
-
 Marionette: Wait, let me think... Is it possible that there's something I've been misunderstanding about the moons all along?
-
 Marionette: ...Variables... Variables in the world...
-
 Marionette: I know where potential variables within the world come from... So, what about the moons? Are there any variables there?
-
 Marionette: Like their life or death, for instance? What if being alive or dead makes no difference to a moon?
-
 Marionette: But that's so strange. Even immortal gods can die. Why would the moons alone be...
-
 Marionette: ...Wait. Wait! I've got it... I've got it!
-
 Marionette: If alive or dead is considered a variable, we might've had this wrong the whole time... No one ever said that a Moon Marrow equals a living moon. We just made that assumption ourselves!
-
 Marionette: Initiate secondary process. Scan again, this time filtering out interfering parameter "Moon Marrow." I don't care if they're natural or artificial. Get them out of my search results!
-
 Marionette: ...
-
 Marionette: ...Why? It says three moons still exist in Teyvat, even after excluding the Moon Marrows... But we know for a fact that two of them are dead!
-
 Marionette: Redo the scan! Narrow the results to "living moons" and "real moons"! No, scrap that — narrow it down to "moons that have lunar authority and remain alive"!
-
 Marionette: ...Why? Why is it still three?
-
 Marionette: What is this, Columbina? Has the world lied to us? Or are you the one pulling the wool over our eyes?
 
 ### Additional Talk 6

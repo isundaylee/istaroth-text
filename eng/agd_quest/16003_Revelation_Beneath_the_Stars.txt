@@ -6,497 +6,293 @@
 ## Talk 2
 
 Paimon: Jean!
-
 Jean: Hello, you two! I'm glad you got my letter. Durin's awake and waiting on the bench over there. I'm here if you need help. Just give me a shout.
-
 Paimon: Don't worry about us! We'll be fine.
-
 Durin: ...Oh, hey you two. Ugh, I just remembered what happened right before I passed out. Thanks for holding me back... I shudder to think what might have happened if you hadn't.
-
-Traveler: Don't worry about that for now.
-
-Traveler: Are you alright?
-
+    Option 1:
+        Traveler: Don't worry about that for now.
+    Option 2:
+        Traveler: Are you alright?
 Durin: I'm fine now, it's just... a lot of people seem to have forgotten me.
-
 Paimon: Don't worry, we'll figure out a way to fix this. Why don't you start by telling us what happened?
-
 Durin: It felt... so strange...
-
 Durin: After I realized no one recognized me anymore, I suddenly felt like I'd completely lost contact with my body.
-
 Durin: Abyssal power lies sealed within this body I inhabit, so when I lost my connection to it, I lost control of that power too...
-
 Durin: It wasn't until I heard everyone calling my name that I was able to reconnect with my body.
-
 Paimon: Y—You... lost contact with your body? Does that mean there's something wrong with it? Sounds like we need Albedo more than ever...
-
 Durin: ...I don't think the problem lies in Albedo's alchemy.
-
 Paimon: Huh... But, then, why are people forgetting you? Guess that's what we need to figure out...
-
 Traveler: I think it's got something to do with that book.
-
 Paimon: That means we need Alice for sure... But it's been ages and she still hasn't been in contact...
-
 Paimon: ...Now would be a really good time for a hint...
-
 "M" (Unknown Voice): How could the story's budding branches even hope to reach beyond the towering walls?
-
 "M" (Unknown Voice): Leaving the castle, the witch went off in search of the tallest, grandest tree in the whole world.
-
 "M" (Unknown Voice): High up in the canopy of that tree she sought a resting place, a refuge where the little sapling might take root.
-
 "M" (Unknown Voice): Go to that place, for it was there that the sapling felt its first breath of wind.
-
 Paimon: Huh? Was that another clue...? Does that mean the story isn't over yet?
-
 Durin: Leaving the castle...
-
 Durin: It just occurred to me — if this story is all about my own experiences, then wouldn't what happened after I left Simulanka be part of it too?
-
 Paimon: B—But... how could she possibly know exactly what would happen? And even if she did, how could WE know when the story was complete?
-
 Traveler: Looks like we gotta go back inside the book.
-
 Paimon: Yeah. Since we can't reach Alice right now, we'll just have to get to the bottom of this ourselves.
-
 Paimon: But first, we gotta figure out where this riddle wants us to go.
-
 Durin: The tallest, grandest tree in the whole wide world, huh... The only place that ever gave me that feeling was the one I ended up in right after leaving Simulanka.
-
 Durin: They had great coffee there too, and so many books you'd never run out of things to read!
-
 Traveler: You mean... Sumeru City?
-
 Durin: Think about it — our search in Mondstadt began in a library, right? Well, Sumeru City's got one of those too, and it's absolutely huge! Whaddaya say, shall we try looking there?
-
 Paimon: Huh, that does kinda make sense. And, it's not like Paimon's got a better idea.
-
 Traveler: It's worth a shot, at least.
-
 Paimon: Alright! Let's just give Jean and the others a heads-up first.
-
 Jean: Well, it sounds like you've got a plan, so I won't interfere.
-
 Jean: All I ask is that you stay safe. Albedo won't be back for some time, and until he is, we can't know for sure how dangerous Durin might be in his current state.
-
 Durin: I'm... I'm so sorry about what happened before.
-
 Jean: Believe me, I'm not blaming you, and neither is anyone else here. If anything, it's the opposite — we're all just worried about you.
-
 Durin: Worried... about me?
-
 Jean: Come with me. I want to show you something.
-
 Jean: As soon as they heard you were awake, they all hurried over to see how you were doing.
-
 Durin: Y—You all... came to see me?
-
 Lisa: A little birdie told me you're working on finishing a storybook. So, maybe all those people losing their memories is just a... plot twist waiting to be resolved.
-
 Durin: Miss Lisa! You... always seem to know how to put my mind at ease.
-
 Durin: Please, everyone, don't worry about me! When I get back, I'll find a way to complete my mother's story, and the one we started too!
 
 ## Talk 3
 
 Paimon: After the library hunt in Mondstadt, it's not as if Paimon was expecting this to be easy. But this... Yeah, this is something else.
-
 Durin: ...Where do we even begin?
-
 Paimon: Even the clue this time seemed kinda cryptic.
-
 Traveler: Let's just... take a look around?
-
 Paimon: Yeah... Guess the best we can do is stay on the lookout for more weird things going on.
-
 Paimon: Uhh... Huh?
-
 Katayoun: Sorry, what was that?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm here to return volume five.
-
 Katayoun: According to the catalog, volume five of this series is not available for loan. I can't accept the return of a book that was never checked out in the first place.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Then let me put it this way: my copy is complete. Yours, on the other hand, is missing large amounts of content — so you should swap it for mine instead.
-
 Katayoun: Sir, you have to understand... managing a library is a serious business and we have protocols in place for this kind of thing. I can't just replace an important volume in our collection based on nothing more than your word.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph...
-
 Paimon: Hey, look what the wandering tom dragged in!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Oh, it's you.
-
-Traveler: Well well, what a surprise...
-
-Traveler: I had a sneaking suspicion we'd see you here.
-
+    Option 1:
+        Traveler: Well well, what a surprise...
+    Option 2:
+        Traveler: I had a sneaking suspicion we'd see you here.
 Paimon: And, uh, what is it you're doing here?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm a traveling scholar, as you know. Isn't a library the most natural place for me to be?
-
 Paimon: Well, the last time we saw you was all the way in Nod-Krai. Paimon just didn't expect to suddenly see you in Sumeru, that's all...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: There were some things I needed to come back and take care of. Some documents had gone missing, so I tracked them down, restored them to their original condition, and now, I'm here to return them.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: And considering what I'm planning to do next, it feels like a weight off my shoulders...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What's going on with you, huh? You look like a kicked puppy.
-
 Durin: Hat Guy... Ah, at least you haven't forgotten about me.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What's that supposed to mean?
-
 Black Screen Text: #Durin fills {REALNAME[ID(1)|HOSTONLY(true)]} in on recent events.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So it's been getting worse...
-
 Paimon: Sounds like you know something we don't?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: After he left Simulanka, he spent some time traveling Sumeru with me.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I was working on several texts at the time, and I stumbled upon something strange.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Any time "Durin of Simulanka" was mentioned, before long, the record would disappear.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Which means, all the remaining records on "Durin" are about the evil dragon that fell on Dragonspine.
-
 Paimon: How did you even discover that?
-
 Durin: If I remember correctly, Hat Guy loved the time he spent in Simulanka so much that he started writing a travelogue.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: That's besides the point. The fact is, you're not affected by the Ley Lines of this world. I'm sure you can grasp the implications of what that means.
-
-Traveler: Irminsul...
-
-Traveler: The things you've done...
-
+    Option 1:
+        Traveler: Irminsul...
+    Option 2:
+        Traveler: The things you've done...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: His case is different from mine. It's more like the world itself refuses to accept his existence.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It started with a few written records. But now, it sounds like it's spread to people who never met him, or didn't know him well. At this rate, the whole world might forget him altogether.
-
 Durin: The whole world? But that includes all my friends in Mondstadt, and even Hat Guy too...
-
 Durin: So that's what you've been worried about, all this time? Why didn't you just tell me?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: There are more important questions right now. Like, figuring out how to fix this.
-
-Traveler: Yeah, we've been trying for a while now.
-
-Traveler: We just haven't got to the bottom of it yet.
-
+    Option 1:
+        Traveler: Yeah, we've been trying for a while now.
+    Option 2:
+        Traveler: We just haven't got to the bottom of it yet.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: That mage clearly cared a lot about her child. She left that book behind for a reason. If you want answers, isn't that the place to find them?
-
 Paimon: You think that didn't occur to us already? Problem is, we need to find the memory that unlocks the next chapter first.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmm... Mind if I take a look?
-
 Traveler: You're offering to help us?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I just want to know what secrets this book is hiding. Besides, I've run into a bit of... "red tape", so I've got time.
-
 Durin: Of course, be my guest!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmm?
-
 Paimon: So the memory we've been looking for was about you, all along...
 
 ## Talk 5
 
 Paimon: So this is the world where this chapter takes place? Looks like we're at the top of some kind of gigantic tree.
-
 Traveler: The story just now...
-
 Durin: This one must be about what happened to me when I first arrived in Teyvat.
-
 Durin: No wonder the memory that unlocked it was about Hat Guy... Most of my memories from that period were.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]} (???): Hold on, anyone wanna explain how I ended up looking like this?
-
 Paimon: Pfft...!
-
 Durin: Maybe you've become a character in the story too?
-
-Traveler: The way you appear here...
-
-Traveler: ...Is basically how Durin sees you.
-
+    Option 1:
+        Traveler: The way you appear here...
+    Option 2:
+        Traveler: ...Is basically how Durin sees you.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You see me as... a stray cat!?
-
 Paimon: A wandering tom, to be exact! Hehe, you should count yourself lucky! Of all Durin's friends, your character is by far the most... memorable.
-
 Durin: Maybe it's because I've known Hat Guy for longer, so my impression of him is... more vivid than the others?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Vivid!? Then how come you haven't changed one bit!
-
 Paimon: #Guess that means the impression Traveler left was so vivid it didn't need changing, hehe...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph...
-
 Little Dragon: Hello, everyone! Ready for today's adventure?
-
 Paimon: It's the storybook Durin...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Oh? So you're not playing yourself in this one?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Does that mean, the two of you have even more "memorable" roles to play?
-
-Traveler: This is Alice's magic we're talking about here...
-
-Traveler: She's the only one who can make sense of it.
-
+    Option 1:
+        Traveler: This is Alice's magic we're talking about here...
+    Option 2:
+        Traveler: She's the only one who can make sense of it.
 Little Dragon: Where are we going today, kitty cat?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Ugh, whatever. Just follow me, same as always.
-
 Little Dragon: Okie-dokie! Can we chat along the way?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If you have something to say, just say it.
-
 Paimon: Was that... seriously how the two of you communicated when you first got here...?
-
 Durin: Yep!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Anyway, how do we get ourselves out of here?
-
 Paimon: Usually, the narrator gives hints to help us figure out what to do. Ahem, speaking of which... About time we got some of those, don'cha think?
-
 "M" (Narrator): The story's vines had woven themselves together into a giant tree, the boughs of which a little storyless dragon now paced, homeless among its leaves.
-
 "M" (Narrator): He had to find a way to leave this place and set off in search of a home of his own. If he stayed, the world would erase him from its memory altogether.
-
 Durin: To leave this place? But... where am I supposed to go?
-
 "M" (Narrator): The little dragon felt completely lost. Just like the vines, the road ahead branched off into different directions, twisting and turning before disappearing into the mist.
-
 "M" (Narrator): But as luck would have it, a prophetess waited up ahead. Perhaps she might know where each path might take him...
 
 ## Talk 6
 
 Seer-Witch (???): You must be the little lost dragon?
-
 Little Dragon: It's true... My friends and I are lost.
-
 "M" (Narrator): This meeting was no accident. The "prophetess" was in fact the seer-witch, here to present her promised gift.
-
 Paimon: The seer-witch... Ohhh yeah, that's Mona's teacher, right? The "old hag"?
-
 Seer-Witch: Insolent child! I am the seer-witch, your prophetess — not some old hag!
-
 Paimon: Uh... Sorry!
-
 Seer-Witch: Now, little lost dragon, I have come to bestow the gift I once promised — a prophecy.
-
 Little Dragon: A prophecy?
-
 Seer-Witch: Hear me now, for my prophecy is this: one day, the dragon from beyond the castle shall be reborn, and none may avert its coming.
-
 "M" (Narrator): The wind took the prophecy and swept it off into the distance, and so the little dragon was shown a path to wander.
-
-Traveler: A path shown by the wind...
-
-Traveler: Could that be referring to what happened back in Mondstadt?
-
+    Option 1:
+        Traveler: A path shown by the wind...
+    Option 2:
+        Traveler: Could that be referring to what happened back in Mondstadt?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: As far as I remember, once that alchemist from Mondstadt learned about the prophecy, he chose to stand with you against the evil dragon.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So, what does any of this have to do with you being forgotten?
-
 Paimon: Ahem... O wise witch of prophecy, could we trouble you with another question?
-
 "M" (Narrator): As enigmatic as she was elegant, the seer-witch spoke no more — for her thoughts had long since returned to the starry firmament above.
-
 Paimon: Ugh, just when we actually needed her...
-
 Little Dragon: The seer-witch was my mother's friend, so the prophecy she just gave should turn out to be helpful.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Well, it's not like we've got better options... But, if all we need to do is leave this place, which path should we take?
-
 Traveler: Any ideas, Durin?
-
 Durin: Why don't we take a look around?
 
 ## Talk 8
 
 Paimon: If we go this way, we'll be heading back to Mondstadt, just like we planned.
-
 Paimon: Out of all the options so far, this seems like the safest, right? At least we know what happens next...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He helps stop the evil dragon from returning, gets a new body, makes a whole bunch of friends...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Who all just... forget about him.
-
 Durin: But... You didn't forget, Hat Guy.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm just saying, choosing this path wouldn't solve the main problem. You'd still end up being forgotten.
-
 Durin: Huh...
-
-Traveler: Maybe future chapters hold the answers.
-
-Traveler: We just need to keep the story going.
-
+    Option 1:
+        Traveler: Maybe future chapters hold the answers.
+    Option 2:
+        Traveler: We just need to keep the story going.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm not against choosing this path. I just wonder what secrets it might be hiding.
-
 Durin: Let me think about it...
 
 ## Talk 9
 
 Little Dragon: Returning to the castle...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, well that's an interesting thought. Has the idea of returning to Simulanka ever crossed your mind?
-
 Durin: Returning to Simulanka...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Think about it, it's a place where a heartfelt wish is all it takes to rewrite the cruelest fate... Not like here, where fate mocks us all.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If there really is a being controlling the fate of this world, it must be a laughably spiteful creature, deaf to the wishes of others.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If you leave this world and its cruel fate behind, maybe your problems will be solved.
-
 Paimon: Hey, don't give him crazy ideas like that!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I was simply expressing my envy, that's all. Not everyone is lucky enough to have a place like Simulanka to return to.
-
 Durin: Well... let's say that you did. Would you choose to go back?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Of course not. I'd rather show fate who's boss instead.
-
 Durin: Oh...
-
 Traveler: What do you think, Durin?
-
 Durin: I just... need some time to think this over.
 
 ## Talk 10
 
 "M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
-
 Durin: What's going on here...?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: When I first realized you were being forgotten by the world, I thought it might be because you'd spent too much time with me.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: In which case, the only hope of a cure... would be to cut our ties for good.
-
 Durin: What makes you think that?
-
 "M" (Narrator): Once upon a time, the stray tore apart his own story and was forgotten by the world beyond the castle.
-
 "M" (Narrator): He believed the story had cursed him, and that his misfortune had rubbed off upon the little dragon.
-
 Durin: The story's curse...
-
-Traveler: (So he thought, the fact that he was forgotten...)
-
-Traveler: (Affected Durin too...)
-
+    Option 1:
+        Traveler: (So he thought, the fact that he was forgotten...)
+    Option 2:
+        Traveler: (Affected Durin too...)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It was just a suspicion before, but now I think it's something we have to try.
-
 Paimon: Wait, what do you mean? Try what?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: One of the story's branches is a path I can't take. If you follow it out of here, I won't be part of your story anymore.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Considering what the strange magic in this book is capable of, making that choice could cut our connection once and for all.
-
 Traveler: Not this again...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: As long as there's a chance it might work, it's worth a try.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He's not like me. He deserves for the world to remember him.
-
 Traveler: What do you think, Durin?
-
 Durin: Well... maybe Hat Guy has his reasons for thinking that way, but that's not the kind of decision I can make so easily.
 
 ## Talk 11
 
 Paimon: If we go this way, we'll be returning to the castle.
-
 Durin: Returning to the castle...
-
-Traveler: There's nothing challenging for you back there.
-
-Traveler: You'll end up stuck in one place.
-
+    Option 1:
+        Traveler: There's nothing challenging for you back there.
+    Option 2:
+        Traveler: You'll end up stuck in one place.
 Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
-
 Durin: ...I see.
 
 ## Talk 12
 
 "M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
-
 Paimon: If we go this way, Durin will forget about you.
-
 Durin: What!?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You'd be choosing a branch of the story that I can't take... Paimon might be right about that.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: But, at the same time, it could be the answer to your problem. It's worth a shot.
-
 Traveler: That won't solve anything.
-
 Paimon: Yeah, you're one of Durin's best friends. His memories of you are extremely important to him.
-
 Paimon: What Paimon's trying to say is... If Durin forgets you, he'll never be able to complete his story.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Fair enough. I guess we'll just have to keep searching.
 
 ## Talk 13
 
 Paimon: Ugh, that last ending was awful... No way we're picking that path again!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What are you even talking about? Hurry up and pick a path so we can get out of here.
-
 Durin: Let's pick one together.
-
 Paimon: Sounds like the others aren't aware of what just happened...
-
 Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is warn them if they're about to choose wrong again.
 
 ## Talk 15
 
 "M" (Narrator): In the world beyond the castle, no paper boat had ever flown before.
-
 Durin: Hey, if our goal is to just leave this place, what's stopping us from riding it out of here?
-
 Little Dragon: But... paper boats can't fly in the world outside the castle, silly...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You really think it'll fly?
-
 Durin: Well, we can give it a try, can't we?
-
 Durin: When I first left Simulanka, I encountered all sorts of difficulties.
-
 Durin: And it was mainly because, just like the other characters in the storybook world, I only knew how to handle things the way the story said to.
-
 Durin: But actually, the real world is full of endless possibilities. And if I'd thought about it differently, I'd have realized none of those "difficulties" existed in the first place.
-
 Durin: What I'm trying to say is, who says we can't make paper boats fly, even in the world beyond the story? We just have to find a way.
-
-Traveler: Let's give it a shot.
-
-Traveler: Anything is possible.
-
+    Option 1:
+        Traveler: Let's give it a shot.
+    Option 2:
+        Traveler: Anything is possible.
 Little Dragon: Okay! Let's do it!
-
 "M" (Narrator): Finally, the little dragon and his friends decided to climb aboard the paper boat...
-
 "M" (Narrator): ...And to their wonder, it really did take flight.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh...
-
 Little Dragon: Whoa! So it really can fly, after all!
-
 Paimon: Wow, we should've just tried that earlier...
-
 Durin: C'mon, it's time to leave this place.
-
 "M" (Narrator): Carried by the wind, the boat took flight, bound for the place foretold by the prophecy.
 
 ## Talk 15
@@ -506,69 +302,43 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 ## Talk 16
 
 Paimon: Hold on... That looks familiar!
-
-Traveler: Wait, isn't that...
-
-Traveler: The Durin?
-
+    Option 1:
+        Traveler: Wait, isn't that...
+    Option 2:
+        Traveler: The Durin?
 Durin: Yep, that's The Durin alright.
-
 Paimon: But, what's it doing here?
-
 "M" (Narrator): Beside the story's branches, there appeared... an origami boat from another tale.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Judging from the narrator's reaction, it probably wasn't meant to be part of this chapter.
-
 Durin: This was the exact boat that Hat Guy and I rode when we set off to explore Teyvat...
-
 Little Dragon: Wow, so we can actually ride it?
-
 Durin: Of course, and it can even fly! Back in Simulanka, me and my friends used to be able to hop on and get almost anywhere in no time.
-
 Durin: Whenever I'm lost in Teyvat, I can't help thinking about it. Imagine how great it would be if they had something like this there too...
-
 "M" (Narrator): So did the little dragon become enraptured by this fantasy — and fantasy it was, for in the world beyond the castle, no paper boat had ever flown before.
-
 Little Dragon: Oh, yeah... How could a paper boat even fly...
-
 Paimon: Ugh... Way to kill the mood, narrator.
 
 ## Talk 18
 
 "M" (Narrator): As the little dragon slipped back inside the castle's walls, the clamor of the outside world fell away.
-
 "M" (Narrator): There was no danger here, no problems for the little dragon to resolve.
-
 "M" (Narrator): As soon as his mother finished her story, it was time for the child to drift off into the world of dreams.
-
 "M" (Narrator): And so the story ended — with the little dragon fast asleep in his castle, just like he had never even hatched.
-
 Durin: What's going on? I feel so weak...
-
 Paimon: Hey, what's happening? Durin, wake up!
-
 Traveler: We've reached an ending...
-
 Paimon: But, but... this can't be how it ends! Durin promised to bring back everyone's memories... There's no way he'd accept an ending like this!
 
 ## Talk 20
 
 "M" (Narrator): The little dragon left along the path his companion could not take — and from that point forth, the stray was no longer part of his story.
-
 "M" (Narrator): Yet his memories of the stray were an indispensable part of his tale.
-
 "M" (Narrator): With the stray gone, the story lost the very spark that had first set it in motion.
-
 "M" (Narrator): In the end, the little dragon's story faded into nothingness — and in the world beyond the castle, only the evil dragon's tale endured.
-
 Little Dragon: Who... am I?
-
 Durin: Is this... me?
-
 "M" (Narrator): And so the story ended — with the little dragon fading from sight, leaving nothing but the evil dragon's shadow in his place.
-
 Traveler: So... the story ended?
-
 Paimon: Oh no, but Durin... Ugh, way to go, Hat Guy!
 
 ## Talk 21
@@ -578,83 +348,50 @@ Paimon: Oh no, but Durin... Ugh, way to go, Hat Guy!
 ## Talk 23
 
 Paimon: So, that was the "secret"...?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh...
-
-Traveler: I see...
-
-Paimon: But, but... What does that mean?
-
-Traveler: I'm confused...
-
+    Option 1:
+        Traveler: I see...
+        Paimon: But, but... What does that mean?
+    Option 2:
+        Traveler: I'm confused...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You still don't get it? Simulanka Durin and Teyvat Durin share a special kind of connection: their fates are mirror images of one another.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: While they were in two separate worlds, there may have been some mutual influence, but their fates were independent.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: But when Simulanka Durin came to Teyvat, a version of his fate already existed there. So, how can two fates exist at the same time?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The answer is, they can't. The rules of this world don't allow it. You can't return a book you never checked out in the first place.
-
 Paimon: So, so... what's Durin supposed to do?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph, those mages seem to have come up with quite the ingenious solution...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm here to make a return.
-
 Katayoun: As I said, there's no record of volume five of this series ever being checked out.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Then just think of this as volume six. Based on what I know, the author was planning on publishing another volume, anyway.
-
 Katayoun: Hmm, the catalog does have a slot reserved for volume six. So... this is it?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Sure, let's go with that. All you need to know is, I'll be the one writing this series from now on.
-
 Katayoun: You... *sigh*
-
 Paimon: What are you up to this time...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Remember the "red tape" I mentioned before? Well, I just took care of it. Now, I guess you'll be off to see your alchemist friend?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It should be pretty obvious by now, he has the answers you're looking for.
-
 Paimon: Well, we do have a whole bunch of things to confirm with Albedo, that's for sure. But didn't Jean say he'd be gone for quite a while?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'll join you. Just let me know when it's time to go.
-
 Durin: Hat Guy...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Don't sound so surprised. I'm part of this story too, aren't I? I'm just... playing my role.
-
 Durin: Well, yeah... but it's not that. I just feel like... you want to help, but something's holding you back.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: When I first realized you were being forgotten by the world, I thought it might be because you'd spent too much time with me. I even thought cutting our ties might be the only way to fix it.
-
 Durin: Why would you think that?
-
 Traveler: (He once made the whole world forget him, so he was worried Durin might be affected by what he did...)
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It doesn't matter now. Judging from the answer this book has given us, I was probably overthinking it.
-
-Traveler: Make that "definitely."
-
-Traveler: Anyway, we're in this together now.
-
+    Option 1:
+        Traveler: Make that "definitely."
+    Option 2:
+        Traveler: Anyway, we're in this together now.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Just as well. With the Ley Lines rejecting him like this, the people who still remember him are his only remaining connection to this place.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: If that last fragile tie was broken, who can say what devastation his unbound body might unleash?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: And to think I'm one of the people keeping you here, instrumental in helping change your fate... Huh, can't say I saw it coming.
-
 Durin: Well, if it's good enough for Hat Guy, it's good enough for me... After all, he is about as odd as humans get.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Excuse me?
-
 Durin: With some people, even if you try asking a simple question, they'll always give you a complicated answer — and the more you ask, the more complicated it gets. Truth is, Hat Guy's just that kinda guy.
-
-Traveler: Sometimes, for sure...
-
-Traveler: But he isn't always like that.
-
+    Option 1:
+        Traveler: Sometimes, for sure...
+    Option 2:
+        Traveler: But he isn't always like that.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Whatever. All I needed was a yes or no, so we can quit it with all the back and forth.
 
 ## Additional Conversations

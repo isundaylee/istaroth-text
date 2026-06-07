@@ -6,275 +6,159 @@
 ## Talk 2
 
 The Damselette: This is... this is where the people of Hyperborea used to communicate with the moons...
-
 Lauma: Eternal Moon, Frost Moon, Iridescent Moon... When the power of all three converge...
-
 The Damselette: The gate to the moons shall open.
-
 Lauma: Mmhmm...
-
 The Knave: The Moon Marrows are in position. Only the final step remains.
-
 The Damselette: ...I'm sure Nasha Town is livelier than ever at this moment.
-
 Paimon: Yeah... It's a shame you couldn't be there for it. But it's now or never, right?
-
 The Damselette: It's fine. I'm more than happy with this... my last piece of luggage — my only piece of luggage.
-
 The Damselette: ...
-
 The Damselette: I can already feel the moon calling to me.
-
 The Damselette: ...
-
 The Knave: This ray of light will lead you home, Columbina.
-
 Lauma: From now on, we will at last have a reason to pray to the true moon.
-
 Traveler: Columbina.
-
 The Damselette: Yes. I'm listening.
-
 Traveler: Be sure to come back and see us when you get the chance!
-
 The Damselette: Hah... Of course.
-
 Traveler: But if that chance doesn't come... Then remember that you have friends on this planet — people who will miss "Columbina."
-
 The Damselette: Yes, I will. Thank you for everything you've done for me.
-
 The Damselette: And remember... Come night or day, the moonlight shall always connect us.
-
 The Damselette: ... Well then... Farewell, my friends.
 
 ## Talk 4
 
 Lauma: Are you alright? Do your wounds still hurt?
-
 Traveler: ...
-
 Nefer: I had someone prepare a little medicine that could prove effective. Take it if you need to.
-
-Traveler: Thanks...
-
-Traveler: But I'd rather talk about what just happened...
-
+    Option 1:
+        Traveler: Thanks...
+    Option 2:
+        Traveler: But I'd rather talk about what just happened...
 Durin: In that case, let me relate the contents of the call we made to Alice after the incident occurred.
-
 Alice: That Dottore is a crafty one... He distracted the Hexenzirkel by creating a huge fuss at Teyvat's borders.
-
 Alice: I'd assumed that the cause was an Abyssal intrusion from the outside world — which, in fairness, is a rather common occurrence.
-
 Alice: But after learning that you managed to influence the phantoms in Nod-Krai, I realized that perhaps this interference could have come from within Teyvat instead.
-
 Durin: But we weren't able to change their fates...
-
 Alice: True, you couldn't change how their stories ended. But you did build some "variables" around yourself.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Variables?
-
 Alice: Yes — things you heard that you could not otherwise have learned, ideas that would otherwise have never crossed your mind... All these things are "variables."
-
 Alice: Of course, most variables usually pale into insignificance with the myriad of possibilities floating around. But the moment you start treating them as building blocks and intentionally stacking them, that changes things.
-
 Alice: That's what Dottore did, and it's how he created the necessary conditions so that when you activated the portal tonight, it played right into his plan.
-
 Nicole: However, we have no way of knowing exactly what he did.
-
 Varka: Yeah. We also need to ascertain Columbina's status.
-
 Durin: And that about sums it up.
-
 The Knave: As I suspected, Dottore has disappeared completely. If it's any consolation, he wasn't able to control Columbina as he might have wished to.
-
 Traveler: I'm afraid that's small consolation, given the reason why...
-
 Paimon: Oh no...
-
-Traveler: To disrupt The Doctor's plan...
-
-Traveler: ...She escaped into the "moon's reflection."
-
+    Option 1:
+        Traveler: To disrupt The Doctor's plan...
+    Option 2:
+        Traveler: ...She escaped into the "moon's reflection."
 Paimon: What? She did what!?
-
 Traveler: Wait, didn't any of you see her do that...?
-
 Paimon: All we saw was, Dottore appeared and used some kind of power... The next thing we knew, he and Columbina were gone, and you were falling into the sea.
-
 Traveler: (I see... The Doctor froze time, which is why only I could move freely.)
-
 Traveler: (From their perspective, the battle and Columbina's decision all happened in a single instant.)
-
 Traveler: (So that's the power of the three moons? But why wasn't I affected? ...Is it because I'm a Descender?)
-
 Nefer: So, Columbina intentionally opened the Moon Gate, and escaped into the same mysterious world as Rerir and Tholindis...
-
 Varka: Sounds like bad news.
-
 The Knave: ...
-
-Traveler: This must be why Dottore's been lying low this whole time.
-
-Traveler: ...He was biding time until he could execute his plan.
-
+    Option 1:
+        Traveler: This must be why Dottore's been lying low this whole time.
+    Option 2:
+        Traveler: ...He was biding time until he could execute his plan.
 Albedo: Seen in that way, the "Trilunar Syzygy" and Rerir's emergence... Dottore might have been pulling the strings in both cases.
-
 Albedo: According to Miss Alice, he is attempting to transcend his destiny and finish an experiment that only a god might complete.
-
 The Knave: ...An utter lunatic.
-
 Paimon: Wait a sec, where's Hat Guy? Seems like he'd wanna be here for this.
-
 Durin: He took off with the Dodocommunication Device after we spoke to Alice. He said he had a hunch that he wanted to investigate by himself.
-
 Durin: The look on his face was terrifying... I've never seen him like that before.
-
 Traveler: (Probably anger and frustration at the fact that Dottore was one step ahead, despite his best efforts.)
-
 Traveler: (And honestly, I feel the same way...)
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I'm back.
-
 Durin: Hat Guy!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I went to look for the Hyperborean phantoms again. I think I've gotten to the bottom of it.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I got them to talk to Nicole on the other end of the communications line. Turns out, the history they describe is different from how Nicole remembers it.
-
 Paimon: Really? But how? Surely Nicole can't have been wrong...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Because the phantoms are the ones who were deceived. They speak of a "savior" who appeared in their history, one who never should've existed.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: This savior promised to create a new moon within the false sky, and even bring back their Moon Goddesses.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Foolishly, they believed in him, and told him everything he wanted to know about the moons.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It's obvious that this was Dottore's doing.
-
 Lauma: Now you mention it... The first time we entered the Hyperborean ruins, we heard the phantoms discussing their history, and I remember Nicole commenting that something sounded a little strange...
-
 Paimon: But Dottore shouldn't have been able to get in there in the first place!
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: He didn't. Nicole said that this was an anomalous state triggered by disruptions in the causal connections between phantoms from the same era.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The "variables" that Dottore put in place were substantial enough that they even affected phantoms that he never met.
-
 Nefer: So it's not that their memories were unclear... they'd been tampered with.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: That's exactly the possibility Dottore was trying to manufacture. He turned these variables into knowledge and engineered the situation so all that knowledge would fall into his hands.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Then, he harnessed that knowledge on Moon-Prayer Night... to truly create a "false moon."
-
 Paimon: How is that even possible?
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: To be precise, he exploited a weakness in the way the spell works.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The spell senses kuuvahki to detect the moon's location. So, as long as the "false moon" more strongly resembled a moon than the Frost Moon beyond the skies...
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: That gate would teleport Columbina to the false moon's location... in other words, to Dottore's side.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Once he had her under control, the teleportation spell remained active, and he manipulated her power to seize both Moon Marrows.
-
 Lauma: At that moment, the Moon Marrows disappeared right before our eyes... It was already too late even as we were leaving the ruins.
-
 The Knave: By then, Dottore had already amassed the power of all three moons.
-
 Paimon: So... Where does this leave us? What do we do now?
-
 The Knave: I'd certainly like to know what Her Majesty thinks, now that the concerns I expressed to her have come to pass. But we cannot simply sit and wait for her to decide the matter.
-
 The Knave: And in any case, it is not the Fatui Harbinger, "Damselette," who sees us as her friends, but rather, Columbina Hyposelenia.
-
 The Knave: If, even in such extreme circumstances, Her Majesty will not lift the prohibition on Harbingers drawing steel against one another...
-
 The Knave: Then I will do as my heart demands. I will fight as Peruere instead.
-
 Paimon: Arlecchino...
-
 The Knave: Time is short, so I'll make the first move.
-
 Paimon: Whew, even Arlecchino seems to be losing her cool now...
-
 Traveler: (I'm sure she feels partly responsible for this... And so do I...)
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-
 Durin: ...
-
 Varka: Alright, alright, alright. Lose those dejected looks for a moment, and let me get a word in.
-
 Varka: It looks bad, I won't lie. Very bad, in fact.
-
 Varka: So Dottore's pulled some real dirty tricks to gain the upper hand — for now.
-
 Varka: And yeah, it's to the point where even the mages say that his "variables" have affected destiny. I'm not so sure, though.
-
 Varka: Many have told me that Teyvat's destiny is fixed, and that does appear to be the case. Well, what makes Dottore so sure he'll be the exception?
-
 Varka: And since he was able to stack these "variables" up, who's to say we can't do the same?
-
 Varka: You, of all people, should not be discouraged, traveler from afar.
-
 Varka: This isn't over yet.
-
-Traveler: Mm...
-
-Traveler: Still... I can't help but blame myself.
-
+    Option 1:
+        Traveler: Mm...
+    Option 2:
+        Traveler: Still... I can't help but blame myself.
 Varka: And you're not alone in that. Everyone here does, whether they've spoken thus far or not.
-
 Varka: But none of us are the type to sit back and wait for the sun to shine again.
-
 Varka: That's exactly how a knight should roll — they knock you down, you get back up and get back in it. Don't forget, Honorary Knight, you're a legitimate member of Mondstadt, too!
-
 Traveler: Hmm...
-
 Paimon: Varka's right! This is far from over!
-
 Paimon: Dottore's already way overdue a butt-kicking given his past shenanigans. And after this, he's earned himself a double dose!
-
 Varka: That's what I'm talking about!
-
 Varka: How's everyone else feeling?
-
 Lauma: I'll use kuuvahki to investigate Columbina's whereabouts. I'm not ready to give up either.
-
 Nefer: Leave the intel-gathering to me. Whatever happens within Nod-Krai's borders, when the Curatorium of Secrets wants to be in the know, we always find a way.
-
 Ineffa: Aino and I will do all we can to support you. We will attempt to reverse engineer Dottore's actions and seek a breakthrough that way.
-
 Durin: Alice and Nicole are busy dealing with an emergency at Teyvat's borders, so they can't return just yet...
-
 Durin: But they're both very angry about this. They've asked Albedo and me to act on the Hexenzirkel's behalf and do everything in our power to fight back against Dottore.
-
 Albedo: Are you ready, then? We're going to have to conduct a lot of research, even in the early stages.
-
 Durin: I'll do my best.
-
 #{REALNAME[ID(1)|HOSTONLY(true)]}: As for me, I'm pretty familiar with Dottore's way of doing things, so I can try to predict his next move. I'll help with your investigation.
-
 Varka: Nice. Looks like we have our basic division of labor.
-
 Varka: I'll get in touch with Flins and Illuga, get them to have a chat with their Starshyna. Couldn't hurt to bring the Lightkeepers on board as well.
-
 Varka: At the same time, I'll pass on instructions to the Knights present in Nod-Krai to assist the Lightkeepers and other organizations in ensuring the safety of those living here.
-
-Traveler: Understood...
-
-Traveler: We've got to be prepared for anything.
-
+    Option 1:
+        Traveler: Understood...
+    Option 2:
+        Traveler: We've got to be prepared for anything.
 Paimon: Yeah! We'll show him!
-
 Varka: That's it, then. Good luck, everyone.
 
 ## Talk 5
 
 The Damselette (Columbina): I never thought that "Columbina" would become my real name.
+[Missing Dialog 60241103]
 
 The Damselette (Columbina): It went being from a Fatui codename... to "something my friends call me."
+[Missing Dialog 60241105]
 
 The Damselette: And remember... Come night or day, the moonlight shall always connect us.
+[Missing Dialog 60280221]
 
 Traveler: (Columbina...)
-
 Go outside and gaze at the moon (Columbina): ...

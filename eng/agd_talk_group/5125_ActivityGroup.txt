@@ -367,19 +367,16 @@ Traveler: Please try this!
 ## Talk 91
 
 Fischl: Such an exquisite delicacy is worthy of being served in the Garten Sanssouci.
-
 Oz: Mein Fräulein says that she thoroughly enjoys your delicious cooking.
 
 ## Talk 92
 
 Fischl: To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny.
-
 Oz: And yet, on this occasion, you appear to have eaten your fill, mein Fräulein.
 
 ## Talk 93
 
 Fischl: Why dost thou insist on raining down chaos and destruction in the presence of your Prinzessin?
-
 Oz: Mein Fräulein does not care a great deal for this dish. My apologies.
 
 ## Talk 94
@@ -801,7 +798,6 @@ Raiden Shogun (Ei): Allow me to decline.
 ## Talk 198
 
 Raiden Shogun: ...
-
 Raiden Shogun: Since my physical form is here in this realm, I suppose there's no harm in seeing how you've utilized its infinitesimal space.
 
 ## Talk 199
@@ -1307,15 +1303,11 @@ Paimon: Mmm, tastes really good! Come and have some! Let's eat together.
 ## Talk 324
 
 Nazafarin: Ah, Lesser Lord Kusanali be praised! My thanks to you two, many thanks indeed!
-
-Traveler: Could you remind me how to use this pot again?
-
-Nazafarin: Right, yes, of course. A great hero such as yourself is rather busy, after all, perhaps too busy to remember such things. I did not consider that.
-
-Nazafarin: It's actually quite simple. You simply need to add the correct seasonings at the right time.
-
-Nazafarin: I'm sure you'll work it out once you try it.
-
-Traveler: See you.
-
-Nazafarin: See you. Once again, you have Nazafarin's utmost thanks! May this go smoothly for you.
+    Option 1:
+        Traveler: Could you remind me how to use this pot again?
+        Nazafarin: Right, yes, of course. A great hero such as yourself is rather busy, after all, perhaps too busy to remember such things. I did not consider that.
+        Nazafarin: It's actually quite simple. You simply need to add the correct seasonings at the right time.
+        Nazafarin: I'm sure you'll work it out once you try it.
+    Option 2:
+        Traveler: See you.
+        Nazafarin: See you. Once again, you have Nazafarin's utmost thanks! May this go smoothly for you.

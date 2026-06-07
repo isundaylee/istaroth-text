@@ -1,7 +1,6 @@
 # Geri's Gastro-Nostalgia
 
 Geri: Mm-hmm! These Flaming Red Bolognese taste just like I remember.
-
 Geri: Here, please take these. Thanks for bringing me the food!
 
 ## Additional Conversations
@@ -9,13 +8,10 @@ Geri: Here, please take these. Thanks for bringing me the food!
 *Conversations not present as sub-quests.*
 
 Traveler: About Flaming Red Bolognese...
-
 Geri: Oh right, you must've seen my commission then. Have you prepared two dishes of Flaming Red Bolognese?
-
-Traveler: I certainly have, here they are.
-
-Traveler: Not yet...
-
-Geri: Aw alright, just let me know as soon as they're ready.
-
-Geri: I can't even remember the last time I had Flaming Red Bolognese.
+    Option 1:
+        Traveler: I certainly have, here they are.
+    Option 2:
+        Traveler: Not yet...
+        Geri: Aw alright, just let me know as soon as they're ready.
+        Geri: I can't even remember the last time I had Flaming Red Bolognese.
