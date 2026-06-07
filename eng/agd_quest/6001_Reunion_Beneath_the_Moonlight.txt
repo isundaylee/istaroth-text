@@ -5,19 +5,71 @@
 
 ## Talk 1
 
-The Damselette (???): ♪~♪~
+Paimon: Zzz... Zzz...
 
-Traveler: (The singing's getting closer... but it sounds... a little melancholy...)
+Traveler: (...)
+
+Traveler: (Nod-Krai... A land steeped in ancient stories... and the "first" place I set foot in Teyvat...)
+
+Traveler: (The Fatui... they seem to be conducting some kind of research on the Ancient Moon's Remnants... and now they're after the Frostmoon Scions' sacred Moon Marrow...)
+
+Traveler: (And then there's The Damselette... Kuutar, the moonborn...)
+
+Traveler: (Why did she leave the Frostmoon Scions in the first place? And why did she then abandon the Fatui?)
+
+Traveler: (Lauma mentioned "family"...)
+
+Traveler: #(Lumine... What happened to our spaceship back then? Why did we land in Teyvat?)
+
+Traveler: (Ugh... My head's spinning... I won't be able to sleep like this...)
+
+Traveler: (I'll try not to dwell on it. Just need to try to get some sleep...)
+
+Paimon: *snore*... Hehe... Just one more... helping...
+
+Traveler: (...)
+
+Traveler: (Ha... I envy Paimon sometimes... She really can fall asleep anywhere...)
+
+Traveler: (Ugh, no use forcing it... Maybe a walk will clear my head...)
+
+Traveler (Message): "Paimon, I'm heading out for a bit. If you wake up and I'm still gone, don't panic... I'll be back soon."
 
 ## Talk 2
 
-Traveler: (Huh? There's nothing here...)
+Traveler: (And Varka just happened to be away... Could it somehow be related to the Abyss...?)
+
+Traveler: (Come to think of it... It feels like there's something different about the Abyssal phenomenon here... the one they call the "Wild Hunt"...)
+
+Traveler: (Huh? Didn't realize I'd walked this far already...)
+
+Traveler: (Guess I should head back soon... If I'm gone too long, Paimon will start to worry...)
+
+The Damselette (???): ♪~♪~
+
+Traveler: (Wait, is that... singing?)
+
+Luonnotar: ...!
+
+Traveler: Hey, what are you doing here?
+
+Traveler: These flowers... I remember... When you first appeared, there were flowers like this all around you...
+
+Luonnotar: ...
+
+Traveler: (It's heading towards the source of the singing... Might as well follow it and see what's going on...)
 
 ## Talk 3
 
-Traveler: #(Am I too far away? Can't she hear me?)
+Unknown Role (TALK_ROLE_MATE_AVATAR): Been slacking off on your combat training? Or has no one been around to keep you in shape?
 
-Traveler: #...Lumine!
+Traveler: No... I... just wanted to let you win.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Been too busy practicing your excuses instead, huh?
+
+Traveler: ...
+
+Traveler: (Wonder when the last time we bickered like this was... Miss those days, I really do.)
 
 ## Talk 4
 
@@ -481,45 +533,221 @@ Jahoda: ...Seriously, can someone explain what is going on here!?
 
 ## Talk 8
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Let's keep moving.
+Traveler: (So The Damselette has been here on Hiisi Island all along... But if it wasn't for the Luonnotar, I would've never even found the way in.)
+
+Traveler: (She didn't seem all that concerned about the world outside. Why do the Fatui want her back so badly?)
+
+Traveler: ("The moon can be treacherous"... What's that supposed to mean...?)
+
+Traveler: Wait, is that—!?
+
+Traveler: #...Lumine?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): ...
+
+Traveler: #(...Why is Lumine here?)
+
+Traveler: #(She's alone... Could she be planning something?)
+
+Traveler: #...Lumine!
 
 ## Talk 9
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Stay on your toes, now.
+Traveler: #...Lumine!
 
-Traveler: Have you considered that I might be the more experienced between us?
+Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether, it's you.
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Is that so?
+Traveler: #(She doesn't seem that surprised to see me. Did she already know I was in Nod-Krai?)
+
+Traveler: Why are you here on Hiisi Island?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): If I told you I was here in search of the Frostmoon Scions' sacred relic... What would you think?
+
+Traveler: ...!
+
+Traveler: #(So Lumine's looking for the Moon Marrow too? But surely she can't be working with the Fatui... so what is she after?)
+
+Traveler: Are you also here to uncover the truth about our past?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): That's right.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): What happened to us in the past, how we came to Teyvat, why our spaceship crashed here... There are things I want to know too.
+
+Traveler: #(So even Lumine doesn't know?)
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): But I'm not about to sit around waiting for another two months to find out.
+
+Traveler: Wait...!
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Wait? But I still have unfinished business.
+
+Traveler: (That's... the way to the statue of "Kuu{RUBY#[S]Moon Maiden}tar"...!)
 
 ## Talk 10
 
-Traveler: The door's open...
+Traveler: #(Surely Lumine's not here to...?)
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Come. We must be close.
+Unknown Role (TALK_ROLE_MATE_AVATAR): ...
+
+Traveler: Hold on a second!
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): What's wrong?
+
+Traveler: That's the Frostmoon Scions' sacred relic. We can't just...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): ...Use it to get to the bottom of all this?
+
+Traveler: We should at least get their permission...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): You barely even know her, yet already you hold that "Moonchanter" in such high trust?
+
+Traveler: What do you mean?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): She told you that the seal can only be broken on Moon-Prayer Night, when the flow of kuuvahki is at its peak, yes?
+
+Traveler: ...You heard all that?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Watch this.
+
+Traveler: Huh? But...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Get it now? She's been stalling for time.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): As long as the statue's base is imbued with sufficient power, the secret chamber can be opened at any time.
+
+Traveler: #(Lumine used Abyssal power, not kuuvahki... Yet she's broken the seal all the same.)
+
+Traveler: (Did the Abyssal power override the seal's kuuvahki?)
+
+Traveler: #(Or has Lumine been telling the whole truth, and nothing but...? Maybe Lauma's just afraid of breaking with tradition?)
+
+Traveler: (Who should I trust...?)
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Is it such a sin when I don't put all my cards on the table for you, but not when someone else is doing it?
+
+Traveler: ...It's not like that.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Is it?
+
+Traveler: #Lumine, you've got it all wrong...
+
+Traveler: This whole time, I've wanted to ask you — what happened to make you like this? I admit, I've been having trouble accepting it.
+
+Traveler: But after all this time apart, I've finally come to terms with who you are... willful side and all.
+
+Traveler: I trust you, I still do. Through all the worlds we've traveled, you've always been there by my side.
+
+Traveler: If there are things you can't explain yet... I can wait, while the journey goes on.
+
+Traveler: I'll wait, as long as it takes... until the day you're ready to talk.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether...
+
+Traveler: (Probably shouldn't have said all that... Must've sounded super sentimental.)
+
+Traveler: (But the truth is, I've bottled that up for way too long already...)
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): I'm not looking to borrow the Moon Marrow simply because of our past.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): It holds answers... about the very origins of Teyvat.
+
+Traveler: !
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): I've always believed that if you want the truth, you have to see the whole story for yourself.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): #I'm not asking you to trust me, Aether. Just... don't try and stop me.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): If this choice weighs on your heart, then let me go in alone. Forget this meeting ever took place.
+
+Traveler: Bit late for that now...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): But maybe this is the chance I've been waiting for all along.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Even if it fades with the morning light...
+
+Traveler: ...!
+
+Traveler: I... want to go with you.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): You sure?
+
+Traveler: Yeah.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Then let's go...
+
+Traveler: #Lumine...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): It's been ages since we went on an adventure together. I can't wait.
+
+Traveler: Really...?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): #You think I'd lie to my big bro?
 
 ## Talk 12
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): From what I understand, the path ahead is likely to be full of trials and challenges.
-
-Unknown Role (TALK_ROLE_MATE_AVATAR): A deterrence against intruders, and a test for those who truly seek entrance.
-
-Traveler: I doubt the two of us will have any problems.
-
-Unknown Role (TALK_ROLE_MATE_AVATAR): Mm, I agree.
-
-Unknown Role (TALK_ROLE_MATE_AVATAR): Still... If we get separated, things could get tricky. Best we move together and watch each other's backs.
+Unknown Role (TALK_ROLE_NONE): Missing text (3758720986)
 
 ## Talk 13
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Looks like this is the first trial.
+Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether, do you understand how kuuvahki works? How it exacts force through push and pull?
+
+Traveler: No problem, I've got this.
+
+Traveler: What do I need to do?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Let's see... How about this — I'll temporarily neutralize the kuuvahki on the cliff face and move the platform into the center.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Once it's in place, you'll need to utilize the repelling force of kuuvahki to reach the other side.
+
+Traveler: Gotcha.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Okay, I'll leave it to you then.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Okay, I'll leave it to you then.
 
 ## Talk 17
 
-Traveler: (...Eh? A secret door?)
+Unknown Role (TALK_ROLE_MATE_AVATAR): A wide, open space... must be in for a fight.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Was that it? What a letdown...
+
+Traveler: #(That look on Lumine's face... It's so... unlike her.)
+
+Traveler: #(Was she scarred by her experiences while we were apart? Each day a mark in her flesh, until she ended up like this...)
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether.
+
+Traveler: What is it?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Why are you looking at me like that? Those enemies were weak, were they not?
+
+Traveler: ...
+
+Traveler: M—Maybe it's because the trial's only just begun...
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Actually, I've got an idea.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Why don't we have ourselves a little friendly competition?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Let's see if your journey has made you rusty.
+
+Traveler: ...
+
+Traveler: You're on.
+
+Traveler: #I won't lose to you, Lumine.
 
 ## Talk 21
 
-Paimon: It's about time, and the moon's already up. Let's head over to the place we agreed to meet Lauma.
+Unknown Role (TALK_ROLE_MATE_AVATAR): Fine, you win.
+
+Traveler: Didn't feel like you really wanted it anyway.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Going all out in a place like this? Sounds like overkill to me.
+
+Traveler: ...
+
+Traveler: (Wonder when the last time we bickered like this was... Miss those days, I really do.)
 
 ## Talk 22
 
@@ -595,9 +823,25 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): This is our adventure.
 
 ## Talk 31
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): Even the sound of your footsteps takes me right back...
+Traveler: It's over!
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): #As a warrior, as a traveler... as my big brother...
+Unknown Role (TALK_ROLE_MATE_AVATAR): Nicely done. Flawless execution.
+
+Traveler: Couldn't have pulled it off without your backup. Not too shabby at all.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): As for what you were saying... Yes, I should've come to see you earlier. Or at the very least...
+
+Traveler: ...Spent more time with me, going on adventures like this?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Something like that.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): Instead of just running off and expecting you to follow my trail...
+
+Traveler: Wait a sec... That's not an official apology, is it?
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): That goes without saying.
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): C'mon. Time to claim the treasure we came for.
 
 ## Talk 32
 
@@ -1011,11 +1255,93 @@ Lauma: But I now understand... that the day I will tell everyone the truth is no
 
 ## Talk 43
 
-Unknown Role (TALK_ROLE_MATE_AVATAR): We make a pretty great team, huh? Just like the old days.
+Paimon: Wow... Paimon would never have guessed Lauma had all that bottled up inside...
+
+Vilemina: Hey! Watch your step!
+
+Paimon: Aaah! Wh—What's wrong? You scared Paimon...
+
+Vilemina: Whew... You scared me there, too. Almost stepped right into one of my traps...
+
+Paimon: A trap? Why would you leave a trap somewhere like this!?
+
+Vilemina: Well, it's not like this is a main path... and besides, we Frostmoon Scions would recognize it instantly.
+
+Traveler: What are you trying to catch?
+
+Vilemina: Hmm... Alright. You don't seem like you're with the Fatui, so I guess there's no harm telling you.
+
+Vilemina: Lauma asked me to set up these traps to keep the Fatui at bay.
+
+Paimon: Ohhh... Come to think of it, their three-day ultimatum is almost up now...
+
+Vilemina: Yes... Hopefully, they'll back off when they realize we won't go down without a fight.
+
+Paimon: Oh, you've done a lot for the Frostmoon Scions too, just like Lauma...
+
+Vilemina: ...
+
+Vilemina: I...
+
+Paimon: ...Vilemina?
+
+Vilemina: Ah! It's nothing, I... I was just wondering... if any of this is really worth it.
+
+Paimon: What do you mean?
+
+Vilemina: Our people... so many are stubborn, stuck in their ways... clinging to a "truth" they refuse to even question.
+
+Vilemina: Do they... really deserve everything Lauma's doing for them?
+
+Traveler: They're not all like that...
+
+Vilemina: Well, yes, but even so...
+
+Traveler: ...They're just afraid of change.
+
+Vilemina: Afraid... Huh. I suppose... maybe you're right.
+
+Vilemina: No... I—I shouldn't be saying this. Just... forget it, okay? Bye!
+
+Paimon: Huh?
+
+Vilemina: (Why did I say all that... or really... why am I still doing any of this...)
+
+Vilemina: (*sigh*... Either way, this will be my final night with the Frostmoon Scions...)
+
+Paimon: Well, she sure took off fast... So, are we heading back to The Flagship for a break, or what?
+
+Traveler: (...)
+
+Traveler: There's still somewhere I wanted to go...
+
+Paimon: Wait, you're not thinking of visiting that "Damselette" up in cloud cuckoo land, are you...?
+
+Traveler: She must know so much...
+
+Traveler: But if she just refuses to talk again...
+
+Paimon: Given who she is, pushing her won't get us anywhere. Hmm... Hey, why don't we...
+
+Traveler: ...Mm?
+
+Paimon: ...Let's bring her something tasty!
+
+Paimon: If she doesn't wanna talk, we'll have to win her over with food!
+
+Traveler: You really think it'll be that easy?
+
+Paimon: Hey, no harm in trying! At the very least, it shows we're trying to be friendly.
+
+Paimon: Hmm, let's see... How about Ineffa's "9.12/10" Berries and Fried Meat, the Frostmoon Scions' boon of the day, and one of your signature dishes — your choice...
+
+Paimon: Should be a good mix of meat and veggies... there's bound to be something she likes!
 
 ## Talk 44
 
-Luonnotar: ...
+Paimon: Alright, food's packed and ready. This is the place, right?
+
+Paimon: Why does it feel like we're going to visit a patient... Ugh, no, no, take this seriously, Paimon...
 
 ## Talk 45
 
