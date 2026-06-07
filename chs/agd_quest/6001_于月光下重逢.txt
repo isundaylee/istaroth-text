@@ -7,6 +7,8 @@
 
 ## Talk 1
 
+(回到「旗舰」休息)
+
 派蒙: 呼…呼…
 旅行者: （……）
 旅行者: （挪德卡莱…这片土地埋藏着好多古老的历史…也是我「最初」踏入提瓦特时来到的地方…）
@@ -25,6 +27,8 @@
 
 ## Talk 2
 
+(在月下散步)
+
 旅行者: （法尔伽也不巧去了其他地方…是和「深渊」有关的事吗？）
 旅行者: （说来…这里被称作「狂猎」的深渊现象，总感觉有什么不一样的地方…）
 旅行者: （咦？不知不觉都走到这里来了…）
@@ -39,6 +43,8 @@
 
 ## Talk 3
 
+(跟随努昂诺塔的指引)
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): 平时的战斗训练松懈了吗？是因为没人在身边督促你？
 旅行者: 不是那样。我…我只是想让你赢！
 Unknown Role (TALK_ROLE_MATE_AVATAR): 原来是训练到嘴上功夫去了。
@@ -46,6 +52,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 原来是训练到嘴上功夫去了。
 旅行者: #（有多久没有和荧像这样拌嘴了呢？我真的很怀念…）
 
 ## Talk 4
+
+(进入山洞)
 
 「少女」 (？？？): ♪~♪~
 旅行者: （那位少女的样子…和那些「霜月之子」所雕刻的神像一样…难道她就是…！）
@@ -285,7 +293,14 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 原来是训练到嘴上功夫去了。
 奈芙尔: 有什么问题吗？这次没我从委托费中提成，你还能多赚一笔呢。
 雅珂达: …所以这到底是个什么事啦！！
 
+## Objective 7
+
+(继续散步)
+
+
 ## Talk 8
+
+(继续散步)
 
 旅行者: （没想到「少女」就在希汐岛这边…但若不是努昂诺塔，就连我也无法找到通往那里的门…）
 旅行者: （看她的样子，似乎对外面发生的事也不太在意。「愚人众」到底为什么要寻找她…）
@@ -298,6 +313,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): ……
 旅行者: #…荧！
 
 ## Talk 9
+
+(#靠近荧)
 
 旅行者: #…荧！
 Unknown Role (TALK_ROLE_MATE_AVATAR): #是你啊。哥哥。
@@ -316,6 +333,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 此刻，我尚有未竟之事需要完成
 旅行者: （……！那个方向，是「库塔{RUBY#[S]月之少女}尔」的神像…）
 
 ## Talk 10
+
+(#跟上荧)
 
 旅行者: #（荧来这里的目的，难道是要…）
 Unknown Role (TALK_ROLE_MATE_AVATAR): ……
@@ -367,10 +386,19 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 很久没有两个人一起冒险了，我
 旅行者: 真的吗…？
 Unknown Role (TALK_ROLE_MATE_AVATAR): #我怎么会骗你呢？哥哥。
 
+## Objective 11
+
+(进入霜月之子的圣所)
+
+
 ## Talk 12
+
+(向更深处前进)
 
 
 ## Talk 13
+
+(向更深处前进)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #哥哥，你了解月矩力牵引与排斥的特性吗？
     Option 1:
@@ -383,7 +411,19 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): #哥哥，你了解月矩力牵引与排�
         旅行者: 我明白了。
         Unknown Role (TALK_ROLE_MATE_AVATAR): 好，看你的了。
 
+## Objective 14
+
+(前往对岸)
+
+
+## Objective 15
+
+(#帮助荧建立通路)
+
+
 ## Talk 17
+
+(向更深处前进)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): 空旷的房间…总该迎来战斗了吧？
 Unknown Role (TALK_ROLE_MATE_AVATAR): 就这点程度吗？让人失望…
@@ -403,6 +443,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 让我看看，迄今为止的旅程有没
 
 ## Talk 21
 
+(#与荧对话)
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): 好了，比不过你。
 旅行者: 我看你也没有那么想赢。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 在这种地方拿出全部本事？未免有些小题大做了吧。
@@ -410,6 +452,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 在这种地方拿出全部本事？未免
 旅行者: #（有多久没有和荧像这样拌嘴了呢？我真的很怀念…）
 
 ## Talk 22
+
+(前往下一处「考验」)
 
 旅行者: 这里是…
 Unknown Role (TALK_ROLE_MATE_AVATAR): 没有魔物活动的气息。
@@ -433,7 +477,29 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): …找到了，用这个。
 旅行者: 果然，石柱似乎可以跟它产生呼应！
 Unknown Role (TALK_ROLE_MATE_AVATAR): 那就交给你了。
 
+## Objective 24
+
+(#与荧一同完成解谜)
+
+
+## Objective 25
+
+(前往下一处「考验」)
+
+
+## Objective 26
+
+(前往下一处「考验」)
+
+
+## Objective 27
+
+(前往下一处「考验」)
+
+
 ## Talk 28
+
+(继续前进)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): 看来前面就是最终试炼了。做好迎战准备了吗？
 旅行者: 随时随地。
@@ -449,7 +515,19 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): #哥哥，让我们彼此剑刃的光芒�
 Unknown Role (TALK_ROLE_MATE_AVATAR): 这是一个奇迹交汇的夜晚，属于你我的冒险的夜晚。它不需要掺杂多余的担忧和失落。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 这是属于你我的冒险。
 
+## Objective 29
+
+(战胜眼前的敌人)
+
+
+## Objective 30
+
+(战胜眼前的敌人)
+
+
 ## Talk 31
+
+(#与荧对话)
 
 旅行者: 结束了！
 Unknown Role (TALK_ROLE_MATE_AVATAR): 漂亮，很利落的身手。
@@ -463,6 +541,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 当然。
 Unknown Role (TALK_ROLE_MATE_AVATAR): 走吧，该去开启冒险尽头的宝藏了。
 
 ## Talk 32
+
+(进入存放「圣物」的秘所)
 
 旅行者: 这就是…「月髓」…冒险尽头的宝藏…
 Unknown Role (TALK_ROLE_MATE_AVATAR): ……
@@ -479,6 +559,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 旅行者: ……
 
 ## Talk 33
+
+(#寻找荧)
 
 旅行者: #荧！
 旅行者: （咦？这里是…）
@@ -514,6 +596,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 
 ## Talk 34
 
+(回到旅馆休息)
+
 旅行者: （哈…出去这一趟，结果遇到了更多在意的事…）
 旅行者: #（荧…到底在想什么呢…）
 旅行者: （嗯？这是…）
@@ -535,6 +619,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 派蒙: 我们出去边吃边聊吧！
 
 ## Talk 35
+
+(前往「旗舰」大厅)
 
 派蒙: 唔！活过来了…吃住都有人买单的感觉真好…我要和法尔伽做一辈子朋友！
 约兰妲: 欸，你知道了吗？
@@ -569,6 +655,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 
 ## Talk 37
 
+(离开「秘闻馆」)
+
 黑屏文本: 告知了雅珂达事情的原委，众人计划在第二天夜晚潜入愚人众试验设计局…
 派蒙: 雅珂达没事吧？她刚才一直都是一副万念俱灰的样子…
 菈乌玛: 她只是还没缓过神来罢了，但「秘闻馆」的专业水平向来都无需质疑。
@@ -586,7 +674,19 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 派蒙: 嗯，听起来是挺重要的事呢。这里人多，的确应该找个安静的地方说才对。
 菈乌玛: 多谢二位的理解。那我们晚些时候，在月下相会。
 
+## Objective 38
+
+(等待至约定时间（晚上19-24点）)
+
+
+## Objective 39
+
+(与菈乌玛会合)
+
+
 ## Talk 40
+
+(与菈乌玛会合)
 
 派蒙: 菈乌玛！我们来了。
 派蒙: 咦？菈乌玛你这是…在祈祷吗？
@@ -661,6 +761,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 
 ## Talk 42
 
+(查看加莉娜的病情)
+
 加莉娜: 唔…
 菈乌玛: ……
 加普依: 为什么…是我做错了什么吗？我明明已经每天都向月神祈祷了，为什么她的病还不好…
@@ -700,6 +802,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 菈乌玛: 但我明白…告诉大家真相的那一天，已经不远了。
 
 ## Talk 43
+
+(离开霜月之坊)
 
 派蒙: 哎…没想到菈乌玛有着这么多心事…
 薇尔米娜: 欸！当心脚下！
@@ -749,14 +853,20 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 现在，去把它拿来。
 
 ## Talk 44 (alternative/additional)
 
+(离开霜月之坊)
+
 旅行者: （让她们静静休息一会儿吧…）
 
 ## Talk 44
+
+(离开霜月之坊)
 
 派蒙: 好，饭菜都准备好了。就是这里了对吧？
 派蒙: 简直像是去探望病人…呃，我还是严肃一点好了。
 
 ## Talk 45
+
+(与「少女」见面)
 
 「少女」: ♪~♪~
 「少女」: …嗯？

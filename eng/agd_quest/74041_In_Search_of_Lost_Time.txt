@@ -5,6 +5,8 @@ Researcher Broglie has retrieved the key to the central processing station.
 
 ## Talk 1
 
+(Talk to Broglie)
+
 Paimon: Hey, Broglie, we have the data from the two monitoring stations you mentioned.
 Broglie: Really? That's great! Please, let me take a look at them...
     Option 1:
@@ -30,6 +32,8 @@ Paimon: Don't forget to compensate us!
 
 ## Talk 1
 
+(Talk to Broglie)
+
 Broglie: #Sir, you're finally here!
 Broglie: I have the key! Now we just have to go to the central processing station to organize the data, and then we can start the hydrological monitoring again!
     Option 1:
@@ -40,6 +44,11 @@ Broglie: Considering the situation of Pate de Fruit and Crepes Suzette Stations,
 Broglie: So please, come with me!
 Paimon: Don't forget to compensate us!
 
+## Objective 2
+
+((Skip) Wait until the following day)
+
+
 ## Talk 3
 
 Unknown Role (TALK_ROLE_NPC): Missing text (1948995362)
@@ -47,7 +56,14 @@ Traveler: Missing text (4237759218)
 Unknown Role (TALK_ROLE_NPC): Missing text (1155156810)
 Traveler: Missing text (3058518930)
 
+## Objective 4
+
+(Go to the central processing station)
+
+
 ## Talk 5
+
+(Talk to Broglie)
 
 Broglie: #Here we are, sir! This is the central processing station, where our hydrology research data is analyzed!
     Option 1:
@@ -61,9 +77,28 @@ Paimon: Fine. Just open the door...
 
 ## Talk 6
 
+(Enter the central processing station)
+
 Paimon: #Paimon sees them, Traveler. Over there! Hey! Stop!
 
+## Objective 7
+
+(Examine the central processing station)
+
+
+## Objective 8
+
+((Skip) Open the sealed tower gate)
+
+
+## Objective 9
+
+((Skip) Defeat the enemies in the tower)
+
+
 ## Talk 10
+
+(Examine the central processing station)
 
 Broglie: Let me see...
 Broglie: If we can put together the collected data, I reckon we'll get some significant results, and hydrological monitoring should resume very soon! I can't wait!
@@ -83,7 +118,29 @@ Paimon: Wait, did something just pass us by?
 Paimon: Wait, that's not the point! He's a Fatuus! Why is he here?
 Paimon: #Traveler, we need to go after him and get to the bottom of this!
 
+## Objective 11
+
+(Chase down the Fatui commander)
+
+
+## Objective 12
+
+(Defeat the Fatui commander)
+
+
+## Objective 13
+
+(Chase down the Fatui commander)
+
+
+## Objective 14
+
+(Defeat the Fatui again)
+
+
 ## Talk 15
+
+(Confront the Fatui commander)
 
 Malinovskyi: Stop! I surrender! Stop!
 Malinovskyi: You... You're here for the paper tapes, right? You can have them all! Just... stop attacking me!

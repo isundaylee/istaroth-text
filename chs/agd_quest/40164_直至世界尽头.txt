@@ -13,7 +13,14 @@
 批注下批注的批注：也不是我放的。
 
 
+## Objective 1
+
+(等待至次日上午（8~12点）)
+
+
 ## Talk 2
+
+(前往星轨王城站台)
 
 威尔: 车厢检查，完成…轮轴检查…完成…动力检查…
 妮露: 早上好，威尔先生。
@@ -32,21 +39,57 @@
 娜维娅: 好像这边也准备得差不多了，我们出发吧。
 派蒙: 嘿嘿，下一站是——世界尽头！
 
+## Objective 3
+
+(前往星轨王城站台)
+
+
+## Objective 4
+
+(搭乘「海上列车」，前往世界尽头)
+
+
 ## Talk 5
+
+(抵达中转站，准备换乘)
 
 妮露: 我们接下来要去乘坐另一辆列车了吧…咦？
 派蒙: 是丘丘人！它们把那边的站台占领了！
 威尔: 啊？这…这可怎么办？
 娜维娅: 威尔先生，这里交给我们，你找个地方躲起来。
 
+## Objective 7
+
+(击败魔物并连接列车车厢)
+
+
 ## Talk 8
+
+(与列车员对话，准备发车)
 
 娜维娅: 呼，解决了！
 威尔: 辛苦各位了。我这就检查一下列车…
 威尔: 嗯，虽然车厢有些细微的剐蹭，但整体没遭到什么破坏，车头也运行正常…没问题，可以开动。
 娜维娅: 那就好，我们继续前进。
 
+## Objective 9
+
+(继续搭乘「海上列车」，前往世界尽头)
+
+
+## Objective 10
+
+(继续搭乘「海上列车」，前往世界尽头)
+
+
+## Objective 11
+
+(继续搭乘「海上列车」，前往世界尽头)
+
+
 ## Talk 12
+
+(与众人对话)
 
 魔女M (黑屏文字点击): 「…去见证这个世界吧，我的…」
 [Missing Dialog 401640702]
@@ -112,7 +155,24 @@
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 如果真要我回答所有的问题，我们恐怕得准备在这里参加下一次学院争霸赛了。
 派蒙: 你…！气死我了，这么久没见，这家伙说话还是那么难听！
 
+## Objective 13
+
+(寻找龙鳞)
+
+
+## Objective 14
+
+(寻找龙鳞)
+
+
+## Objective 15
+
+(获取龙鳞)
+
+
 ## Talk 16
+
+(与众人对话)
 
 派蒙: 这样就可以了吧？这块鳞片好神奇啊，它接触到的东西都变得像积木一样了呢，虽然对我们无效。
 娜维娅: 喷吐毒物，污染碰到的东西…怪不得被这个世界的人称作「邪龙」。
@@ -128,12 +188,29 @@
 派蒙: 那就得在周围找找，有没有去瀑布里面的路了呢。
 威尔: 总之请国王陛下和几位英雄千万小心，我会在此处等待各位的凯旋。
 
+## Objective 17
+
+(前往邪龙栖息的瀑布附近)
+
+
 ## Talk 18
+
+(前往邪龙栖息的瀑布附近)
 
 派蒙: 到是到了…但这瀑布的水好凶啊，根本走不过去吧…
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 把那块龙鳞拿出来。
 派蒙: 啊？为什…不对！我才不问你呢！我想想…龙鳞能把碰到的东西变成积木…哦！你是要用它阻隔瀑布的水对吧！
 派蒙: 哼！不问你我也能自己想明白！
+
+## Objective 19
+
+(使用龙鳞进入瀑布)
+
+
+## Objective 20
+
+(使用龙鳞进入瀑布)
+
 
 ## Talk 21 (alternative/additional)
 
@@ -157,6 +234,8 @@
 
 ## Talk 22 (alternative/additional)
 
+(探索瀑布内的空间)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
     Option 1:
         旅行者: 好了，出发吧。
@@ -166,13 +245,29 @@
 
 ## Talk 22
 
+(探索瀑布内的空间)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 22
 
+(探索瀑布内的空间)
+
 旅行者: 好了，出发吧。
 
+## Objective 23
+
+(探索瀑布内的空间)
+
+
+## Objective 24
+
+(深入邪龙的巢穴)
+
+
 ## Talk 25
+
+(深入邪龙的巢穴)
 
 妮露: 前面，好空旷啊…
 派蒙: 简直就像是龙平时用来睡觉的地方呢…
@@ -180,11 +275,20 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 注意前面！他要来了！
 杜林 (希穆兰卡的「邪龙」): ——！
 
+## Objective 26
+
+(深入邪龙的巢穴)
+
+
 ## Talk 27
+
+(深入邪龙的巢穴)
 
 翻看书页: Missing text (0)
 
 ## Talk 29
+
+(聆听耳旁的声音)
 
 魔女M (女人的声音): 瞧啊，他出生了。
 魔女B (另一位女人的声音): 这世界又多了一位新成员呢。
@@ -206,7 +310,14 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 门内的人 (「王城的卫兵」): 士兵们！拿起武器！消灭他——！
 杜林 (？？？): ……！
 
+## Objective 30
+
+(聆听耳旁的声音)
+
+
 ## Talk 32
+
+(深入邪龙的巢穴)
 
 娜维娅: ……
 妮露: ……
@@ -223,7 +334,19 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 继续走就行了。别掉队。
 派蒙: 欸！你等等我们呀！
 
+## Objective 33
+
+(深入邪龙的巢穴)
+
+
+## Objective 34
+
+(深入邪龙的巢穴)
+
+
 ## Talk 35
+
+(深入邪龙的巢穴)
 
 妮露: …阿帽！
 派蒙: 你一个人冲太前啦！
@@ -237,7 +360,19 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 我劝你们不要抱此希望。之前他的攻击都可以看成「警告」，但现在他已经生气了。
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 做好决战的准备吧，有时候…就是要被揍一顿，才能清醒过来…
 
+## Objective 36
+
+(深入邪龙的巢穴)
+
+
+## Objective 37
+
+(深入邪龙的巢穴)
+
+
 ## Talk 38
+
+(深入邪龙的巢穴)
 
 派蒙: 有机会！
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …！等等！
@@ -247,6 +382,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 嘁…！
 
 ## Talk 39
+
+(深入邪龙的巢穴)
 
 魔女B (女人的声音): …你真的要创造这孩子吗？M。我已经和你说了他的「命运」。
 魔女M (「M」): ……
@@ -262,6 +399,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 40
 
+(深入邪龙的巢穴)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
@@ -284,6 +423,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 41
+
+(深入邪龙的巢穴)
 
 小飞鼠: 你好呀，大龙龙。我给你带了些吃的，你应该饿了吧？
 杜林 (希穆兰卡的「邪龙」): ……
@@ -298,6 +439,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 你也被人们所「厌恶」吗…
 
 ## Talk 41
+
+(深入邪龙的巢穴)
 
 杜林 (希穆兰卡的「邪龙」): ……
 杜林 (希穆兰卡的「邪龙」): （妈妈…）
@@ -315,11 +458,15 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 43
 
+(深入邪龙的巢穴)
+
 杜林 (希穆兰卡的「邪龙」): ……
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …是吗？这就是你许下的「愿望」？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: …「希望自己从未存在过」，可不是什么好愿望。
 
 ## Talk 44
+
+(深入邪龙的巢穴)
 
 娜维娅: 刚才好险！你们没磕哪碰哪吧？
 旅行者: …多亏绮良良。
@@ -346,7 +493,14 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 派蒙: 所以，这到底是谁的声音啦？我们又为什么会被带到这个世界呢？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 跟我来吧，下面有这一切的答案。
 
+## Objective 45
+
+(深入邪龙的巢穴)
+
+
 ## Talk 47
+
+(深入邪龙的巢穴)
 
 娜维娅: 这里是…一间书房？
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 是「命运女神」的书房。
@@ -373,7 +527,14 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 魔女M (发黄的信件): 「『A』说我走后，希穆兰卡的命运女神也依旧会存在，像现在这样实现着大家的愿望。嗯，这样也不错…」
 魔女M (发黄的信件): 「你们想聊天的时候，就到神像下面来说说话吧。别许什么奇怪的愿望就行…」
 
+## Objective 50
+
+(深入邪龙的巢穴)
+
+
 ## Talk 51
+
+(深入邪龙的巢穴)
 
 娜维娅: 这是…希穆兰卡的杜林？他在抬头看着什么，一颗星星…
 妮露: 看样子…这是「M」女士离开后的事呢…
@@ -388,6 +549,8 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
 ## Talk 52
+
+(深入邪龙的巢穴)
 
 魔女M (「M」): 这个世界…就拜托你了…
 [Missing Dialog 401643111]
@@ -478,9 +641,13 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 53
 
+(深入邪龙的巢穴)
+
 娜维娅: …这就是你去抓星星的原因吗？你想妈妈了。
 
 ## Talk 56
+
+(返回破碎之海，与众人对话)
 
 艾莉丝 (？？？): 铛铛——给你们一个惊喜！
 派蒙: 唔呃！路灯说话了！

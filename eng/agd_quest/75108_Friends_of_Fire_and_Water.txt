@@ -397,6 +397,8 @@ Paimon: Have we busted some kinda Saurian trafficking ring without even realizin
 
 ## Talk 5
 
+(Rescue the animals)
+
 Paimon: Wait, there's a... Blubberbeast in here? How in the world—? Guess bad guys really will sell anything...
 Weakened Blubberbeast (Victimized Blubberbeast): Awrr... Bluboo!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo... Mrrooh!
@@ -414,6 +416,8 @@ Paimon: #If that's so, let's make something for the Blubberbeast and {REALNAME[I
 
 ## Talk 6 (alternative/additional)
 
+(Prepare food for your animal friends)
+
 Weakened Blubberbeast: Aouhhh...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Arawr?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Awwrr...
@@ -429,6 +433,8 @@ Paimon: Paimon can't understand their conversation at all, but it seems they've 
 Paimon: Makes sense. Even though the Blubberbeast doesn't have much strength, it feels like they're really happy — and Paimon feels happy for 'em, too!
 
 ## Talk 6
+
+(Prepare food for your animal friends)
 
 Black Screen Text: #After a splendid culinary process, the special fish you grilled for {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast is ready...
 
@@ -794,7 +800,14 @@ Paimon: Alright, let's get started then. Paimon will give you some pointers whil
         Paimon: Hehe, nice, it's your special grilled fish. Maybe we can sell it on the streets in the future!
 [Missing Dialog 751080227]
 
+## Objective 7
+
+(Deliver food to your animal friends)
+
+
 ## Talk 8
+
+(Deliver food to your animal friends)
 
 Paimon: Here comes something yummy! Don't just play around — you have to replenish your energy, too.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

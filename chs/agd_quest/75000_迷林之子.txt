@@ -38,12 +38,24 @@
 派蒙: 你这是在做什么啦…咦…
 派蒙: #旅行者，你…！
 
+## Objective 3
+
+(击败兽境猎犬)
+
+
+## Objective 5
+
+(破坏岩石，救出幼兽)
+
+
 ## Talk 6
 
 旅行者: 我再想想…
 派蒙: 好哦，毕竟名字是很重要的，还是再仔细考虑一下吧！
 
 ## Talk 7
+
+(与幼兽对话)
 
 派蒙: 啊…小家伙，你没事吧。
 小家伙？: 呜…
@@ -102,41 +114,64 @@
 
 ## Talk 8 (alternative/additional)
 
+(为小家伙取一个超棒的名字！)
+
 派蒙: #嗯，那么小家伙的名字就叫{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}咯？
 
 ## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
 
 旅行者: 就叫这个吧！
 派蒙: 好，嘿嘿！
 
 ## Talk 8 (alternative/additional)
 
+(为小家伙取一个超棒的名字！)
+
 派蒙: 那，要给小家伙取一个什么样的名字呢？
 
 ## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呜…
 派蒙: #咦，从名字里感受到了很大的压力吗…旅行者，还是别用这些名字啦！
 
 ## Talk 8 (alternative/additional)
 
+(为小家伙取一个超棒的名字！)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
 派蒙: #嗯，「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
 
 ## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
 派蒙: #咦，我说「土豆饼」的时候你一脸不喜欢，旅行者说「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」就一脸高兴…你这家伙，算了算了，不跟你生气。
 
 ## Talk 8 (alternative/additional)
 
+(为小家伙取一个超棒的名字！)
+
 派蒙: 不行，这个名字怎么想都不行吧！
 
 ## Talk 8 (alternative/additional)
 
+(为小家伙取一个超棒的名字！)
+
 派蒙: #咦，这样吗，旅行者，你要用和自己一样的名字？
 
+## Objective 8
+
+(为小家伙取一个超棒的名字！)
+
+
 ## Talk 9
+
+(与龙伙伴对话)
 
 派蒙: #{REALNAME[ID(2)|SHOWHOST(true)]}啊，你以后的名字就叫作{REALNAME[ID(2)|SHOWHOST(true)]}了哦，小家伙！
 旅行者: #{REALNAME[ID(2)|SHOWHOST(true)]}…
@@ -156,13 +191,19 @@
 
 ## Talk 10
 
+(跟随你的龙伙伴)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
 派蒙: 哦，感觉是充满了力量感的好名字呢！
 
 ## Talk 12 (alternative/additional)
 
+(离开奇怪的空间)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！嗯…呀！
 
 ## Talk 12
+
+(离开奇怪的空间)
 
 派蒙: 那，要给小家伙取一个什么样的名字呢？

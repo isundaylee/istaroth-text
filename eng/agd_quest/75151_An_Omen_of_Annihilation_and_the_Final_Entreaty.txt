@@ -7,6 +7,8 @@ To enter the Heart of the Sacred Mountain, one need only offer up two Golden Ent
 
 ## Talk 13
 
+(Head to the device at the center of the Heart of the Sacred Mountain)
+
 Kukulkan (One Who Speaks Coldly): At this rate, the disordered power will devour your frail body utterly.
 Kukulkan (One Who Speaks Coldly): Even so, you surprise me... I did not expect that you could use the power within your blood to such an extent without having received the proper guidance...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ...?
@@ -22,10 +24,24 @@ The speaker's voice seems immeasurably distant, and after that, both your body a
 
 ## Talk 14 (alternative/additional)
 
+(Offer up the Golden Entreaties)
+
 Enter the Light (Huitzilopochtli): Present the Golden Entreaties, Chosen of Dragons...
 Enter the Light (Huitzilopochtli): Ignite the Sacred Flame to cleanse creation.
 
+## Objective 14
+
+(Offer up the Golden Entreaties)
+
+
+## Objective 15
+
+(Offer up the Golden Entreaties)
+
+
 ## Talk 16 (alternative/additional)
+
+(Enter the light)
 
 Paimon: #So, once we're in there, we can activate the Sacred Flame and cure {REALNAME[ID(2)|SHOWHOST(true)]}...
 Paimon: That way, he'll be able to grow up healthy, right?
@@ -37,11 +53,20 @@ Paimon: Heh, whatever. Let's get going!
 
 ## Talk 16
 
+(Enter the light)
+
 Traveler: Yeah, not a moment to lose!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah... Rawr!
 Paimon: Hehe, don't you worry. C'mon, let's go!
 
+## Objective 17
+
+(Explore up ahead)
+
+
 ## Talk 18
+
+(Explore up ahead)
 
 Kukulkan: This is a tower that allows Huitzilopochtli to cover all Natlan and anchor its areas of coverage...
 Kukulkan: Most of them were destroyed at Och-Kan's orders, but their fragments serve the same purpose anyway.
@@ -66,6 +91,8 @@ Kukulkan: Let me witness your choice.
 Kukulkan: Yes, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons. I would hear your answer.
 
 ## Talk 20
+
+(Explore up ahead)
 
 Kukulkan: Behold, Huitzilopochtli... and its activation array.
 Kukulkan: Bring it to life. This way, our shadowy enemy may never again gain a foothold upon this place... And afterward, via the gradual expansion of the primal flame's power...
@@ -95,7 +122,14 @@ Kukulkan (Huitzilopochtli): "This is an omen of new life, and also the final ent
 Kukulkan (Huitzilopochtli): Entering trigger sequence. Three rounds of confirmations will be required to either activate or deactivate the Sweeping{RUBY#[D]Sunquake} Skyfire...
 Kukulkan (Huitzilopochtli): First confirmation. Are you certain that you wish to activate Huitzilopochtli?
 
+## Objective 21
+
+(Defeat the Source Dragon Mech)
+
+
 ## Talk 22
+
+(Defeat the Source Dragon Mech)
 
 Paimon: Well, that was weird. All that shaking, and all the volcano did was blow off just a little smoke...
 Paimon: We ran ourselves silly just for that!?
@@ -119,7 +153,14 @@ Paimon: All this adventuring's made Paimon hungry, though... Should we go get so
 Paimon: You wanna eat both? Pfft, you greedy little saurian!
 Paimon: But today's a day to celebrate, so sure — let's go right now!
 
+## Objective 34
+
+(Go to Huitzilopochtli's location)
+
+
 ## Talk 36
+
+(Talk to the guide who has now emerged)
 
 Kukulkan (One Who Speaks Coldly): Open your eyes, descendant of the Flamelord.
 Kukulkan (One Who Speaks Coldly): I believe this is the second time I have formally met you in this form.
@@ -162,6 +203,8 @@ Kukulkan: Anyway, come with me.
 
 ## Talk 44
 
+(Speak to the one who names themselves "Kukulkan")
+
 Kukulkan: The reaver from beyond the skies once froze Xiuhcoatl in lava, causing him to fall into a false death...
 Kukulkan: But when the Dragon King Nibelung descended from beyond the circles of this world, he was called forth by the Abyss and awoke from his long dream.
 Kukulkan: The reaver annihilated the great black-winged lord at great cost... And at that moment, our fiery sovereign, who had been steeped in the Abyss, regained brief, tragic clarity.
@@ -196,6 +239,8 @@ Kukulkan: Hahaha, what an interesting response... Alright, now, let's head to To
 
 ## Talk 45
 
+(Speak to the one who names themselves "Kukulkan")
+
 Kukulkan: Ah, Tonatiuh... Now that is a fine name. Before the false sky enveloped the world, the city that lay beneath it could have rivaled Tollan itself.
 Kukulkan: In those days, while in search of light in the pitch-dark outer realms, we set up a... stairway? Hmm, no, it might be more correct to call it a cable to reach beyond our skies...
 Kukulkan: And before Och-Kan spun it around, we had been preparing to leave it beyond our orbit and use it to tighten the sky-cable and anchor the latter's trajectory.
@@ -223,9 +268,13 @@ Kukulkan: Enter, then, the Golden Entreaties — the control hub that could be u
 
 ## Talk 47
 
+(Go to Huitzilopochtli's location)
+
 Paimon: Alright, then. Are we heading into the Heart of the Sacred Mountain now?
 
 ## Talk 48 (alternative/additional)
+
+(Make your final decision)
 
 Traveler: Confirm activation.
 Kukulkan (Huitzilopochtli): "Sweeping Skyfire" generator is on approach. Supplying energy.
@@ -234,6 +283,8 @@ Kukulkan (Huitzilopochtli): Second confirmation. Are you certain that you wish t
 
 ## Talk 48 (alternative/additional)
 
+(Make your final decision)
+
 Traveler: Confirm activation.
 Kukulkan (Huitzilopochtli): "Sweeping Skyfire" generator is continuing its approach.
 Kukulkan (Huitzilopochtli): Phlogiston flow strength increased. Accelerating...
@@ -241,6 +292,8 @@ Kukulkan (Huitzilopochtli): High ambient heat detected.
 Kukulkan (Huitzilopochtli): Third confirmation. Are you certain that you wish to activate Huitzi{RUBY#[D]Sunquake}lopochtli?
 
 ## Talk 48 (alternative/additional)
+
+(Make your final decision)
 
 Kukulkan: ...So this is your choice, then? Ah... Yes. This, too, is fine. Perhaps I should have made the same choice as you, all those years ago... Even though... Ah, how regrettable...
 Kukulkan (Huitzilopochtli): ...Third confirmation complete.
@@ -260,11 +313,15 @@ Black Screen Text: If it could return to that moment, was there... another choic
 
 ## Talk 48 (alternative/additional)
 
+(Make your final decision)
+
 Traveler: Cancel activation!
 Kukulkan (Huitzilopochtli): Results confirmed...
 Kukulkan (Huitzilopochtli): "Sweeping Skyfire" activation sequence has been canceled.
 
 ## Talk 48
+
+(Make your final decision)
 
 Kukulkan: Huitzilopochtli has ceased operation. So, this is your decision, I presume?
 Kukulkan: Why did you do it?
@@ -289,7 +346,14 @@ Unknown Role (TALK_ROLE_NPC): If there isn't a way back to them...
 Unknown Role (TALK_ROLE_NPC): ...Then I'll make one.
 Kukulkan: ...
 
+## Objective 49
+
+(Step out onto the path you have created)
+
+
 ## Talk 50
+
+(Return to your companions)
 
 Kukulkan: So, this is as far as the maintenance functions go. I thought your technical skills could have taken us a bit further.
 Kukulkan: Still, I... I finally understand how you felt, Xiuhcoatl, my great brother.
@@ -303,9 +367,18 @@ Kukulkan: Haha, but it seems that on this point alone, I cannot concede...
 
 ## Talk 51
 
+(Return to your companions)
+
 Kukulkan: ...
 
+## Objective 52
+
+(Break your companions out)
+
+
 ## Talk 53
+
+(Talk to your companions)
 
 Paimon: Wh—Whaa! We're about to be trapped!
 Paimon: H... Huh? Nothing happened? Wait, no — did you save us?
@@ -318,11 +391,20 @@ Paimon: Oh, right, and there's still that big guy!
 
 ## Talk 54
 
+(Defeat the Source Dragon Mech)
+
 Traveler: Perhaps we should prepare a bit first.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrroar...
 Paimon: Oh, good point...
 
+## Objective 63
+
+(Defeat the Source Dragon Mech)
+
+
 ## Talk 64
+
+(Talk to your companions)
 
 Paimon: Phew. Guess it's finally over...
 Paimon: Oh, Chosen of Dragons... You have completed every trial set before you...

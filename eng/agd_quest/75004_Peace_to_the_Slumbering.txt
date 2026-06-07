@@ -7,6 +7,8 @@ The Greater Shadow Pin falls, opening a huge hole in the ground...
 
 ## Talk 1
 
+(Check the hole below)
+
 Paimon: Huh. Why's there a stone tablet here?
 Titu: It might have been left by tribesfolk of the past. That happens quite often around here. Long ago, this was a boundary marker, telling you that "you've crossed the line!"
 Titu: You can sometimes find stones with patterns carved in white on them throughout our lands that serve the same purpose. They've just all been abandoned.
@@ -46,7 +48,14 @@ Paimon: #Wow, so this... This must've been where they finally sealed the Abyss. 
 Traveler: You can also see traces of Abyss leakage here.
 Titu: Looks like that's the thing attracting the Iridescent Inscription. We need to get over there and have a look...
 
+## Objective 2
+
+(Check the hole below)
+
+
 ## Talk 5
+
+(Check the hole below)
 
 ???: *hiss* Ugh— Aaah— I told you— It's dangerous, g—get out of here—
 ???: Calamity— the seal— torn apart—
@@ -80,7 +89,34 @@ Titu: #Did it... just appear as you approached the large Inscription, Traveler?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Hmm?
 Paimon: Well, whatever. Let's take a look around that rock first, shall we?
 
+## Objective 7
+
+(Touch the inscription)
+
+
+## Objective 11
+
+(Find the inscription fragment(s))
+
+
+## Objective 13
+
+(Find the inscription fragment(s))
+
+
+## Objective 15
+
+(Find the inscription fragment(s))
+
+
+## Objective 16
+
+(Go to the sealed pillar)
+
+
 ## Talk 17
+
+(Unseal the inscription)
 
 Titu: Just touch it once more and let the power of the phlogiston flow fully through the Inscription. That way, the "eggshell" should seal up completely... preventing the Abyss from escaping.
 Paimon: Yeah, that should solve our problem...
@@ -139,6 +175,8 @@ Titu: So... Shall we unseal the Iridescent Inscription now, or do you want to ma
 
 ## Talk 18 (alternative/additional)
 
+(Unseal the inscription)
+
 Titu: #Hah... What do you think, Traveler. Shall we unseal the Iridescent Inscription now?
     Option 1:
         Traveler: Yes. Let's begin.
@@ -147,13 +185,32 @@ Titu: #Hah... What do you think, Traveler. Shall we unseal the Iridescent Inscri
         Traveler: Give me a moment more to prepare.
         Titu: No worries. Just tell me once you're done...
 
+## Objective 18
+
+(Unseal the inscription)
+
+
+## Objective 19
+
+(Grant the warriors peace)
+
+
+## Objective 20
+
+(Grant the warriors peace)
+
+
 ## Talk 21
+
+(Go to the sealed pillar)
 
 Yukom: Uh, are you guys alright? What happened just now?
 Yukom: There was this sudden, massive earthquake! I was pretty worried, honestly, but it's good that you're alright.
 Yukom: As for Titu... Why hasn't that guy come to take over this post yet? Ugh. I'd rather the earthquake flattened me at this point!
 
 ## Talk 22
+
+(Listen to the whispers of Night)
 
 Paimon: Well, this is weird. There was all that scattered light earlier... and then we suddenly found ourselves here...?
 Paimon: Huh. That's...
@@ -166,6 +223,8 @@ Paimon: Huh. That's...
 "Beast With Fur Like That of Night": Go now. But beware the fearful instigators, and the ends plotted by those bearing ill-intent.
 
 ## Talk 23
+
+(Talk to Titu)
 
 Titu: #You're back! {REALNAME[ID(2)|SHOWHOST(true)]} and I were worried, honestly.
 Titu: But hah, what did I say, little fella? They're fine, see?

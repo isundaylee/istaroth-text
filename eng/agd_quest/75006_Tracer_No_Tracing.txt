@@ -71,7 +71,14 @@ Chikya: Those unmoved by treasure can barely be called human! Why, even the cold
 Paimon: Exactly!
 Chikya: #Right, then. In that case, our first objective will be to get past this big lunk... After you, esteemed Traveler.
 
+## Objective 3
+
+(Defeat the opponents)
+
+
 ## Talk 5
+
+(Talk to the young woman)
 
 Chikya: #J—Just one moment, lad. You seem rather strong...
 Chikya: Ah... Ow, ow, ow.
@@ -134,6 +141,8 @@ Chikya: Let's get moving! Err, not too fast, though... Gotta have some care for 
 
 ## Talk 5
 
+(Talk to the young woman)
+
 Chikya: Huh. I didn't think you'd be able to fend them off with those thin limbs of yours...
 Paimon: #Don't underestimate Traveler! He's taken way bigger things out than that!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -144,7 +153,14 @@ Chikya: Look at the pictures on these walls. We've come to the right place!
 Chikya: Now, according to the ancient scrolls... We need to continue onward.
 Chikya: Let's get moving! Err, not too fast, though... Gotta have some care for the wounded — and by "wounded," I mean "me"!
 
+## Objective 6
+
+(Investigate the ruin)
+
+
 ## Talk 7
+
+(Investigate the ruin)
 
 Chikya: So is this how a Spiritway looks when illuminated?
 Chikya: The ancient woven scrolls said that when the dim path lights up, it will be like a bonfire being roused once more into a blaze... and they weren't exaggerating.
@@ -185,6 +201,8 @@ Paimon: Uh...
 Chikya: Alright, alright, don't worry, you all. I'm just kidding!
 
 ## Talk 9
+
+(Talk to Chikya)
 
 Paimon: But the door looks closed...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
@@ -247,6 +265,8 @@ Paimon: Hmm? He turned around? Is he trying to say that the Script is behind us?
 
 ## Talk 9
 
+(Talk to Chikya)
+
 Paimon: But the door looks closed...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Chikya: Well, it had better be. I mean, an open door would mean that our path to the treasure is long gone!
@@ -307,15 +327,31 @@ Chikya: Well then, let's integrate the Unveiling Script into the Engraving.
 
 ## Talk 10 (alternative/additional)
 
+(Search for the Unveiling Script(s))
+
 Chikya: #Well, Traveler? Did you find the key text we need? Don't worry, there's no rush. The walls around us might help you find something.
 Chikya: #Look on the bright side, lad. You've already saved us a day's worth of time. So really, there's no need to hurry!
 
+## Objective 10
+
+(Search for the Unveiling Script(s))
+
+
+## Objective 12
+
+(Integrate the Unveiling Script(s) into the Phlogiston Engraving)
+
+
 ## Talk 14
+
+(Investigate the ruin)
 
 Chikya: And it's no big deal even if you don't find the Unveiling Script. The important thing is to watch your step!
 Chikya: Sure, a "one step at a time" approach is slower than most, but better to take each step with care, than with haste!
 
 ## Talk 17
+
+(Talk to Chikya)
 
 Paimon: Paimon was just about to say that this place was getting hotter the deeper in we got, but she sure didn't expect this whole place to be filled with lava!
 Paimon: #Careful, {REALNAME[ID(2)|SHOWHOST(true)]}! If you slip, that might just be the end of you...
@@ -367,6 +403,8 @@ Chikya: In that case, let us integrate the Unveiling Scripts into the Phlogiston
 
 ## Talk 18
 
+(Talk to Chikya)
+
 Paimon: Paimon was just about to say that this place was getting hotter the deeper in we got, but she sure didn't expect this whole place to be filled with lava!
 Paimon: #Careful, {REALNAME[ID(2)|SHOWHOST(true)]}! If you slip, that might just be the end of you...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roo... Rawr...
@@ -416,11 +454,33 @@ Chikya: So we just need to find two more!
 Chikya: Argh, my back's aching again... I'll wait for you here while you find those Unveiling Scripts, alright?
 Chikya: #This place is very dangerous, so keep your eyes peeled, lad!
 
+## Objective 19
+
+(Search for the Unveiling Script(s))
+
+
+## Objective 20
+
+(Search for the Unveiling Script(s))
+
+
 ## Talk 21 (alternative/additional)
 
 "Spiritdoor": "If you wish to open this path, seek three Unveiling Scripts."
 
+## Objective 23
+
+(Integrate the Unveiling Script(s) into the Phlogiston Engraving)
+
+
+## Objective 26
+
+(Ride the Spiritway back to ground level)
+
+
 ## Talk 27
+
+(Talk to Chikya)
 
 Chikya: As expected, the Spiritdoor below is connected to the one in these ruins, such that the passage may extend into the skies.
 Chikya: The woven scrolls record rightly — ah, I'm so proud of myself for believing in them!

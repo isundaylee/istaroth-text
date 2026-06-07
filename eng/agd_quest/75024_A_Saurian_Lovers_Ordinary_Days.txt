@@ -28,6 +28,8 @@ Paimon: #Hmm? Have you discovered something, {REALNAME[ID(2)|SHOWHOST(true)]}? C
 
 ## Talk 2
 
+(Find a way to distract the Saurians together with your Saurian companion)
+
 Someone's Diary: "...Today's a rainy day. I prepared "Ripple" his favorite *Sour Sauce Ceviche*. His look of satisfaction made it all worthwhile..."
 Someone's Diary: "...Even if he's swimming in a leisurely manner, the moment I proffer some of that *Sour Sauce Ceviche*... Whoosh! Out he pops from the water, and in such lovely form, too..."
 Someone's Diary: "...I would never doubt his affection for me. Only, perhaps, that he might love *the ceviche* more..."
@@ -53,7 +55,19 @@ Paimon: Yeah, that's true. If only we could get them to make way... Hang on, did
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
 Paimon: #See, {REALNAME[ID(2)|SHOWHOST(true)]}'s excited about the plan too! But perhaps the simplest and least wasteful way would be to use the Sour Sauce Ceviche, right?
 
+## Objective 3
+
+(Bring the Sour Sauce Ceviche from the camp)
+
+
+## Objective 4
+
+(Place the Sour Sauce Ceviche in a suitable location)
+
+
 ## Talk 5
+
+(Wait for a while...)
 
 Paimon: Hehe, looks like he was attracted by the scent of the food.
 Paimon: #The gap's not large enough, though. Could you help us lure Jade away, {REALNAME[ID(2)|SHOWHOST(true)]}?
@@ -63,9 +77,13 @@ Paimon: #Let's go check on the guy and see if he's okay once {REALNAME[ID(2)|SHO
 
 ## Talk 6
 
+(Wait for your Saurian buddy to lure the Yumkasaurus away)
+
 "Ripple": Any more Sour Sauce Ceviche? No?
 
 ## Talk 7
+
+(Negotiate with the Tepetlisaurus)
 
 "Marigold": Shrawrr—!
 Paimon: Don't get so worked up, we're just checking to see if the guy over there's unhurt.
@@ -78,6 +96,8 @@ Paimon: Don't get so worked up, we're just checking to see if the guy over there
 Paimon: Uh oh... She's getting even angrier!
 
 ## Talk 8
+
+(Defeat the Tepetlisaurus)
 
 Traveler: (There's a diary over here...)
     Option 1:
@@ -99,6 +119,8 @@ Traveler: (There's a diary over here...)
         Traveler: (Alright, time to stop reading...)
 
 ## Talk 9
+
+(Talk to the injured person)
 
 Black Screen Text: After being defeated, the Tepetlisaurus named "Marigold" drills into the ground and hides only who-knows-where. You take the chance to check on the injured person...
 Paimon: No obvious wounds... Hey, are you alright? Can you hear Paimon?

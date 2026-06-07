@@ -7,6 +7,8 @@ After finally repelling the evil dragon, you and the self-proclaimed adventurer 
 
 ## Talk 1
 
+(Follow Coco's guidance to find the Altar of Primal Flame)
+
 Paimon: Paimon didn't expect Coco to lead us here. This strange fortress looks just like the place where we met you, Bona.
 Paimon: Look, it even has the same mural! Minus the smear marks, though. Is it because we're higher up?
 Paimon: #Look, Traveler! This must be the Python King that Bona mentioned. He sure looks mean!
@@ -33,17 +35,33 @@ Paimon: #Huh, you sure are excited, {REALNAME[ID(2)|SHOWHOST(true)]}. Well, time
 
 ## Talk 3 (alternative/additional)
 
+(Investigate the area around the ruins)
+
 Bona: Found anything?
 Bona: Let's look a bit harder and see if we can find any contraptions or secret passages!
 
+## Objective 3
+
+(Investigate the area around the ruins)
+
+
 ## Talk 4
+
+(Head to where Bona is)
 
 Paimon: Ugh, what's this? It looks gross...
 Bona: This is nascent Abyssal Blight. Looks like it's seeping down from above... Hmm, I thought a place festooned with frescoes would be safer.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah... Rawr!
 Bona: Huh? Uh-oh, I think something's gonna fall down. Watch out, everyone!
 
+## Objective 5
+
+(Defeat the ambushing monsters)
+
+
 ## Talk 6
+
+(Talk to Bona)
 
 Bona: Wow, that was a shocker! Thank goodness for our quick reactions.
 Bona: So, did you find anything?
@@ -51,7 +69,19 @@ Paimon: Well, we did find something that looks like a mechanism, but it's kind o
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Bona: #Oh, I don't know what you mean, but {REALNAME[ID(2)|SHOWHOST(true)]} looks pretty clued in, so let's check it out anyway!
 
+## Objective 7
+
+(Check on the mechanism-like object)
+
+
+## Objective 8
+
+(Activate the mechanism)
+
+
 ## Talk 9
+
+(Talk to Bona)
 
 Paimon: #It's open! You're awesome, {REALNAME[ID(2)|SHOWHOST(true)]}! We wouldn't have found the mechanism without you!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

@@ -170,6 +170,8 @@ Titu: Let's go, then, dear heroes. Let's go and check on our floating Shadow Pin
 
 ## Talk 4
 
+(Go to the Lesser Shadow Pin with Titu)
+
 Titu (???): Wow. Here I'd thought to come over and check on the frightening noises I'd heard...
 Titu (???): Telling myself "Come on, Titu, it's probably nothing"... But this is quite something! Quite something indeed!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -232,6 +234,8 @@ Titu: Let's go, then, dear heroes. Let's go and check on the last floating Pin..
 
 ## Talk 4
 
+(Go to the Lesser Shadow Pin with Titu)
+
 Titu (???): Well now, and here I'd thought to come over and check on the frightening noises I'd heard...
 Titu (???): Telling myself "Come on, Titu, it's probably nothing"... But this is quite something! Quite something indeed!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -292,6 +296,8 @@ Titu: #You know what? This could make for a great story, too — indeed, Travele
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Lesser Pin...
 
 ## Talk 6
+
+(Go to the Lesser Shadow Pin with Titu)
 
 Titu (???): Wow. Here I'd thought to come over and check on the frightening noises I'd heard...
 Titu (???): Telling myself "Come on, Titu, it's probably nothing"... But this is quite something! Quite something indeed!
@@ -354,6 +360,8 @@ Titu: Let's go, then, dear heroes. Let's go and check on the last floating Pin..
 
 ## Talk 6
 
+(Go to the Lesser Shadow Pin with Titu)
+
 Titu (???): Well now, and here I'd thought to come over and check on the frightening noises I'd heard...
 Titu (???): Telling myself "Come on, Titu, it's probably nothing"... But this is quite something! Quite something indeed!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -414,7 +422,19 @@ Titu: Ah, like a flame that appears in the darkness, so too will heroes rise up 
 Titu: #You know what? This could make for a great story, too — indeed, Traveler, you've got some traits that even those storied heroes don't have. I'm looking forward to this, I must say.
 Titu: Let's go, then, dear heroes. Let's go and check on the last floating Lesser Pin...
 
+## Objective 11
+
+(Go to the Lesser Shadow Pin with Titu)
+
+
+## Objective 12
+
+(Touch the golden inscription)
+
+
 ## Talk 13
+
+(Talk to Titu)
 
 Titu: This is the first of the Lesser Shadow Pins. The condensed solid phlogiston lies scattered...
 Titu: And the Iridescent Inscription on it has lost its constraining powers. *sigh* Just as before, the Abyss's influence has squeezed it out of the stone pillar.
@@ -448,7 +468,14 @@ Paimon: A-greed! That was super easy to understand. Alright then, let's begin!
 Titu: #...If you're ready, Traveler, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
 Titu: Of course, the Abyss will resist, so... please be careful.
 
+## Objective 15
+
+(Repair the inscription)
+
+
 ## Talk 16
+
+(Talk to Titu)
 
 Titu: I can't believe that worked. That was truly a scene from out of story and song.
 Titu: The cacophony fell silent... and the Pin returned to its original state. Then, its giant form crashed to the ground...
@@ -474,6 +501,8 @@ Paimon: Woohoo! Let's go, let's go!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 16
+
+(Talk to Titu)
 
 Titu: I can't believe that worked. That was truly a scene from out of story and song.
 Titu: The cacophony fell silent... and the Pin returned to its original state. Then, its giant form crashed to the ground...
@@ -528,7 +557,24 @@ Titu: Alright then. Let's head for the next floating Shadow Pin. I want to fix t
 Paimon: Woohoo! Let's go, let's go!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
+## Objective 21
+
+(Go to the Lesser Shadow Pin with Titu)
+
+
+## Objective 22
+
+(Examine the Lesser Shadow Pin)
+
+
+## Objective 23
+
+(Repair the inscription)
+
+
 ## Talk 24
+
+(Repair the inscription)
 
 Paimon: Strange... The golden patterns flew right over, just as before, but the Inscription hasn't appeared beneath this pillar... Why's that?
 Titu: That indicates that not only has the Inscription been squeezed out, but it's also become fragmented... This is bad. We need to find any scattered bits, and fast.
@@ -563,6 +609,8 @@ Paimon: You're quick to reply though, Paimon'll give you that!
 Paimon: Alright, we'll follow you and see if we can find any golden patterns.
 
 ## Talk 24
+
+(Repair the inscription)
 
 Titu: There we go! That's the second Lesser Shadow Pin!
 Titu: The seals around this Pin have been damaged far more than the first... Even the Iridescent Inscription has been pushed outside the pillar.
@@ -613,6 +661,8 @@ Paimon: Alright, we'll follow you and see if we can find any golden patterns.
 
 ## Talk 24
 
+(Repair the inscription)
+
 Titu: There we go! That's the second Lesser Shadow Pin!
 Titu: But if memory serves, the seals around this second one should be far more badly damaged than the ones on the first...
 Titu: Did things change for the better, or was there some kind soul who...
@@ -625,6 +675,8 @@ Titu: —That I was able to meet you.
 Titu: Either way, no time to lose! Let's head under the Shadow Pin and have a look at things!
 
 ## Talk 24
+
+(Repair the inscription)
 
 Titu: Amazing... This Shadow Pin's perfectly intact — indeed, these past few days only in my sweetest dreams have I seen it so tranquil!
 Titu: Did you... really do this?
@@ -658,6 +710,8 @@ Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall a
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Lesser Shadow Pin?
 
 ## Talk 24
+
+(Repair the inscription)
 
 Titu: There we go! That's the second Lesser Shadow Pin!
 Titu: But if memory serves, the seals around this second one should be far more badly damaged than the ones on the first...
@@ -693,7 +747,44 @@ Titu: Yes, that is indeed the correct sealing process.
 Titu: #Anyway, if you're ready, Traveler, please touch the inscription beneath the Pin. We've got to collect as much of the inscription's power — scattered as it is around the stone pillars — as we can.
 Titu: Of course, the Abyss will resist, so... please be careful.
 
+## Objective 25
+
+(Find the inscription(s) scattered in other locations)
+
+
+## Objective 26
+
+(Search for the inscription(s))
+
+
+## Objective 27
+
+(Find a way down)
+
+
+## Objective 28
+
+(Continue exploring)
+
+
+## Objective 29
+
+(Find a way to touch the inscription)
+
+
+## Objective 30
+
+(Follow the inscription back to the Lesser Shadow Pin)
+
+
+## Objective 31
+
+(Complete the sealing ritual)
+
+
 ## Talk 32
+
+(Talk to Titu)
 
 Titu: W—We did it... The two Shadow Pins have been plunged back into the earth.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -720,7 +811,14 @@ Paimon: Hey, whaddya mean by that, little guy? You wanna be as tall as three mou
 Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall as a mountain; Traveler, with the stature of two, and {REALNAME[ID(2)|SHOWHOST(true)]}, who has the bulk of three...
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Little Shadow Pin?
 
+## Objective 34
+
+(Touch the inscription)
+
+
 ## Talk 35
+
+(Touch the inscription)
 
 Paimon: An Iridescent Inscription... So, that shiny golden stuff has a name...
 Traveler: Now that you mention it, I think we've seen them before...
@@ -759,10 +857,19 @@ Titu: Of course, the Abyss will resist, so... please be careful.
 
 ## Talk 37 (alternative/additional)
 
+(Repair the inscription)
+
 Titu: #What's wrong, Traveler? Just touch the Iridescent Inscription beneath the Lesser Shadow Pin if you want to start gathering the inscription's power.
 Titu: Be sure to stay safe, though...
 
+## Objective 37
+
+(Repair the inscription)
+
+
 ## Talk 38
+
+(Repair the inscription)
 
 Titu: W—We did it... The two Shadow Pins have been plunged back into the earth.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -790,6 +897,8 @@ Titu: #Hahaha, sure, sure. In that case, my brave warriors — Paimon, as tall a
 Titu: ...Would you kindly come with me, Titu the poor little human-sized dwarf, to check on that last Lesser Shadow Pin?
 
 ## Talk 42
+
+(Examine the Lesser Shadow Pin)
 
 Titu: Wonderful, it's solid — almost as if it was grown from the very soil, more robust even than the roots of the great mother-tree that grows beneath the Scions of the Canopy's mountain cliffs... Now I can head back and take up my shift in peace.
 Titu: Of the three Lesser Shadow Pins, the most reliable you remained. If I should ever pen a tale about the Pins transforming into lovely tribeswomen, you shall be loveliest amongst them.
@@ -852,7 +961,24 @@ Paimon: Why don't we try getting a closer look?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Titu: #P—Please do, Traveler...
 
+## Objective 43
+
+(Investigate the area beneath the canyon)
+
+
+## Objective 44
+
+(Defeat the opponents)
+
+
+## Objective 45
+
+(The Greater Shadow Pin falls...)
+
+
 ## Talk 46
+
+(Talk to Titu)
 
 Titu: #Traveler, Paimon, {REALNAME[ID(2)|SHOWHOST(true)]}, are you all unhurt?
 Paimon: ...Paimon's okay, kinda.

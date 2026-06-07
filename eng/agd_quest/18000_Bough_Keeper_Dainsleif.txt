@@ -7,6 +7,8 @@ Katheryne of the Mondstadt Adventurers' Guild seems to have something to tell yo
 
 ## Talk 1
 
+(Talk to Katheryne in Mondstadt)
+
 Katheryne: Traveler, please, over here.
 Katheryne: It has been a while since you joined the Adventurers' Guild. Are your adventures going smoothly?
     Option 1:
@@ -42,6 +44,8 @@ Katheryne: I wish you every success, adventurer.
 
 ## Talk 2
 
+(Ask Lawrence about the stranger)
+
 Lawrence: Ah, Honorary Knight. Is something the matter?
 Traveler: So, I'm looking for a stranger with an eyepatch...
 Lawrence: A stranger with an eyepatch? Hmm... let me think. Oh yeah. I remember seeing someone like that. A blond stranger dressed in unusual garb.
@@ -55,9 +59,13 @@ Lawrence: You should go ask him. Maybe he has more news about our stranger.
 
 ## Talk 3 (alternative/additional)
 
+(Ask Wagner about the stranger)
+
 Lawrence: Huh... I wonder what trouble this stranger brings with him...
 
 ## Talk 3
+
+(Ask Wagner about the stranger)
 
 Wagner: What? You need something?
 Traveler: So, I'm looking for a stranger with an eyepatch...
@@ -69,6 +77,8 @@ Paimon: The Angel's Share? Well, Master Diluc probably has his eye on that stran
 Paimon: Anyway, let's go to the Angel's Share and have a look.
 
 ## Talk 4
+
+(Ask Charles about the stranger)
 
 Charles: What will it be, grape juice or apple cider?
 Traveler: Another day, another lack of alcoholic options...
@@ -84,9 +94,13 @@ Charles: There's too many raucous patrons on the first floor, so if you want to 
 
 ## Talk 5 (alternative/additional)
 
+(Go to the second floor of the tavern and wait on the seat by the railing)
+
 Charles: That customer will most likely be here tonight. You can wait on the second floor until he arrives.
 
 ## Talk 5
+
+(Go to the second floor of the tavern and wait on the seat by the railing)
 
 ???: ...
 Traveler: Hi, I'm an adventurer with the Adventurers' Guild.
@@ -171,6 +185,8 @@ Paimon: He's really here!? Let's go downstairs and have a look.
 
 ## Talk 7
 
+(Go to the first floor of the tavern and find the stranger)
+
 Dainsleif: #As I thought... you really are similar to her.
 Traveler: #What do you mean, "her"?
 Dainsleif: ...
@@ -198,6 +214,8 @@ Dainsleif: Well then, let's go see for ourselves, shall we? According to the lea
 Dainsleif: Let's meet up at the temple. Perhaps your questions about the Abyss will be answered there.
 
 ## Talk 7
+
+(Go to the first floor of the tavern and find the stranger)
 
 Dainsleif: #It seems that you're different from her...
 Traveler: #What do you mean, "her"?
@@ -227,12 +245,26 @@ Dainsleif: Let's meet up at the temple. Perhaps your questions about the Abyss w
 
 ## Talk 10
 
+(Go to the Temple of the Falcon)
+
 Dainsleif: This abandoned temple does bear some marks of the Abyss.
 Dainsleif: The Falcon of the West... though it can soar in the wind, it ultimately does naught but hover under the light of the gods...
 Traveler: What are you talking about?
 Dainsleif: Mm? Oh, it's nothing. Let's head inside.
 
+## Objective 11
+
+(Enter the Temple of the Falcon)
+
+
+## Objective 12
+
+(Continue exploring)
+
+
 ## Talk 13
+
+(Talk to Dainsleif)
 
 Dainsleif: Just a few Abyss Mages? Seems like that Herald might have already left.
 Traveler: Could you tell me more about the Abyss Order?
@@ -246,11 +278,20 @@ Dainsleif: I suppose that's as far as chit-chat goes. We should head to Wolvendo
 Dainsleif: Judging by the traces I'm following, their next appearance may be within the territory of that old wolf.
 Dainsleif: Perhaps we may find our Abyss Herald there.
 
+## Objective 14
+
+(Leave the Temple of the Falcon)
+
+
 ## Talk 15
+
+(Go to Wolvendom)
 
 Wagner: Do those forging materials even exist...
 
 ## Talk 16
+
+(Talk to Dainsleif)
 
 Dainsleif: Lord of Wolvendom, Great Wolf King of the North...
 Dainsleif: Sharp of fang and keen of claw, and yet dwelling here only...
@@ -265,11 +306,23 @@ Paimon: But where do we begin? ...Hmm, are you standing here because of these st
 Dainsleif: Indeed. See that, floating above the flames? It's an Abyssal spell.
 Dainsleif: Knowing what I do of the Order's habits, they've probably left similar marks behind elsewhere. Let's have a look nearby.
 
+## Objective 17
+
+(Look for clues related to the Abyss Order in Wolvendom)
+
+
+## Objective 19
+
+(Look for clues related to the Abyss Order in Wolvendom)
+
+
 ## Talk 20 (alternative/additional)
 
 Dainsleif: So, their reach extends here, too... Let's have a closer look.
 
 ## Talk 22
+
+(Talk to Dainsleif)
 
 Dainsleif: Have you finished searching?
 Traveler: We found lots of signs of the Abyss Order...
@@ -283,6 +336,8 @@ Dainsleif: Let's get a move on, then. I'll wait for you at Stormterror's Lair.
 
 ## Talk 23
 
+(Go to Stormterror's Lair)
+
 Dainsleif: I've heard about what happened to you during Mondstadt's crisis. When you came, this place was known as Stormterror's Lair.
 Dainsleif: But I suppose that this place is more "lair" than "Stormterror" at this point.
 Dainsleif: In fact, if my memory serves, this ruin has had largely nothing to do with that dragon for a long time.
@@ -294,6 +349,8 @@ Dainsleif: If the Abyss Order is interested in this location, then they will not
 Dainsleif: Let's go see what the situation is at those Light Actuators.
 
 ## Talk 24
+
+(Go deeper into Stormterror's Lair)
 
 Dainsleif: Can you still sense that familiar feeling that you spoke of earlier?
 Traveler: It's nearby.
@@ -309,7 +366,14 @@ Dainsleif: Me? I... no longer remember.
 Dainsleif: I merely followed my traveling companion around on that journey. That's all there was to it.
 Dainsleif: ...Hmm?
 
+## Objective 25
+
+(Defeat all opponents)
+
+
 ## Talk 26
+
+(Talk to Dainsleif)
 
 Paimon: So in the end, we still couldn't find that Abyss Herald. Bummer.
 Traveler: It is quite a shame.
@@ -344,7 +408,14 @@ Traveler: Could it be... the Abyss?
 Dainsleif: Whichever it is, we should see it for ourselves, and thus see clearly.
 Dainsleif: We can reach the top of that cliff from over there. Let's go.
 
+## Objective 28
+
+(Follow Dainsleif)
+
+
 ## Talk 30
+
+(Talk to Dainsleif)
 
 Paimon: What's gotten into you? You were just spacing out!
     Option 1:

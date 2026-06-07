@@ -5,15 +5,26 @@
 Your investigations did not bear much fruit, but a new suspect has been hauled up for trial at the opera house. You and Navia must split up and do your best to uncover the truth...
 
 
+## Objective 1
+
+(Find a way to get underwater)
+
+
 ## Talk 2
+
+(Go to the place Melus mentioned)
 
 Navia: (Something's not right... Let me think for a little while longer.)
 
 ## Talk 3
 
+(Find the entrance to the "headquarters")
+
 Traveler: (This isn't it... Better keep looking.)
 
 ## Talk 4
+
+(Talk to Paimon)
 
 Paimon: Finally found it... So this is the entrance that leads to the Sinthe production base... It sure doesn't seem out of the ordinary at all...
     Option 1:
@@ -24,6 +35,8 @@ Paimon: Ah, you're right... An important place like this is bound to have a ton 
 Paimon: Navia's probably arguing up a storm right now to stall for us...
 
 ## Talk 5 (alternative/additional)
+
+(Go to the opera house to identify the culprit)
 
 Neuvillette: It would appear that I must repeat my question again, Mr. Tartaglia.
 Neuvillette: Do you accept the charge that you are the true culprit behind the serial disappearances case?
@@ -54,6 +67,8 @@ Neuvillette: Now then, Miss Navia, who is the person you would like to charge in
 Navia: That person is...
 
 ## Talk 5
+
+(Go to the opera house to identify the culprit)
 
 Doubtful Audience Member (Canny Audience Member): Ah, so that's what happened...
 Confident Audience Member (Surprised Audience Member): Wait, you're telling me something as dangerous as Water from the Primordial Sea has been used for all these years?
@@ -150,7 +165,19 @@ Navia: Oh? So you do know that name.
 Marcel: I'm merely surprised you'd suddenly say the name of someone I've never even heard of.
 Navia: I was waiting for you to say that.
 
+## Objective 7
+
+(Enter the headquarters)
+
+
+## Objective 8
+
+(Proceed deeper within to investigate)
+
+
 ## Talk 9
+
+(Discuss with Paimon)
 
 Paimon: Phew... After all that, we finally made it to the innermost sanctum.
 Paimon: Though as expected, the mastermind isn't here...
@@ -162,6 +189,8 @@ Paimon: Ah, that's right! Then let's hurry up and find some evidence so we can g
 
 ## Talk 10 (alternative/additional)
 
+(Look for clues in the headquarters' depths)
+
 Paimon: Whoa, there's so much Sinthe here! And so many bottles of ingredients that probably just contain the Waters of the Primordial Sea...
 Traveler: There are so many...
 Paimon: Hmm... "Mixing-in-Progress" ... "Ready-To-Drink" ... "Stock Sample" ... Huh, they've also got all the Sinthe pretty clearly labeled.
@@ -170,6 +199,8 @@ Traveler: Well, that definitely proves that this is where they produce Sinthe.
 Paimon: Yep, it's super obvious!
 
 ## Talk 10 (alternative/additional)
+
+(Look for clues in the headquarters' depths)
 
 Paimon: What's all this... Ah, it's a bunch of really cute things!
 Paimon: Pink accessories, a hair tie, a necklace, even a makeup box...
@@ -181,6 +212,8 @@ Paimon: And then, they were turned into water...
 Paimon: And all these boxes of things... these names... that means... This is terrible...
 
 ## Talk 10 (alternative/additional)
+
+(Look for clues in the headquarters' depths)
 
 Paimon: What's this over here? Looks like some kind of place for research.
 Paimon: "Experiment number sixteen aims to verify Jakob Ingold's research conclusions on the Primordial Sea, and use his theory as a foundation to achieve a breakthrough."
@@ -217,6 +250,8 @@ Paimon: In any case, Paimon will write it all down...
 
 ## Talk 10 (alternative/additional)
 
+(Look for clues in the headquarters' depths)
+
 Paimon: Let's see what's written here... Nothing escapes Detective Paimon's eyes!
 Paimon: Hmm, Callas... Navia's father! This seems to be an investigation report on him.
 Traveler: It's probably related to his and Jacques' case.
@@ -233,25 +268,42 @@ Paimon: *sigh* They're all just so evil...
 
 ## Talk 10 (alternative/additional)
 
+(Look for clues in the headquarters' depths)
+
 Unknown Role (TALK_ROLE_NPC): (Bottles full of Sinthe and Water from the Primordial Sea. These can be used as evidence to prove what this place was used for.)
 
 ## Talk 10 (alternative/additional)
+
+(Look for clues in the headquarters' depths)
 
 Unknown Role (TALK_ROLE_NPC): (Many miscellaneous items are stored here and labeled with different names. They likely belonged to the many young women who went missing over the years.)
 
 ## Talk 10 (alternative/additional)
 
+(Look for clues in the headquarters' depths)
+
 Unknown Role (TALK_ROLE_NPC): (According to the records, Vacher didn't care how many victims he had to dissolve in his quest to bring his lover back to life.)
 
 ## Talk 10 (alternative/additional)
+
+(Look for clues in the headquarters' depths)
 
 Unknown Role (TALK_ROLE_NPC): (Besides the investigation reports, there are also a lot of research materials here. It seems their "experiments" have been going on for a very long time.)
 
 ## Talk 10 (alternative/additional)
 
+(Look for clues in the headquarters' depths)
+
 Unknown Role (TALK_ROLE_NPC): (A pool full of Water from the Primordial Sea. Countless sins were born of it...)
 
+## Objective 10
+
+(Look for clues in the headquarters' depths)
+
+
 ## Talk 11
+
+(Analyze the clues you've found with Paimon)
 
 Paimon: We've looked at almost everything here, and it seems like our theories were spot on! But...
 Traveler: Who really is this "Vacher"...?
@@ -265,6 +317,8 @@ Paimon: That way, even if we bring all of this back to the Opera, we won't be ab
 Paimon: Sure thing! Paimon won't admit defeat to this guy either!
 
 ## Talk 12 (alternative/additional)
+
+(Look for clues related to "Vacher")
 
 Paimon: You take that side, and Paimon will take this side. Check everything carefully! We'll find something for sure!
 Black Screen Text: After some time...
@@ -290,25 +344,45 @@ Paimon: H—Hey! Paimon still hasn't figured it out yet!
 
 ## Talk 12 (alternative/additional)
 
+(Look for clues related to "Vacher")
+
 Unknown Role (TALK_ROLE_NPC): (Besides the investigation reports, there are also a lot of research materials here. It seems their "experiments" have been going on for a very long time.)
 Unknown Role (TALK_ROLE_NPC): (But there's nothing here on Vacher's true identity...)
 
 ## Talk 12 (alternative/additional)
+
+(Look for clues related to "Vacher")
 
 Unknown Role (TALK_ROLE_NPC): (A pool full of Water from the Primordial Sea. Countless sins were born of it...)
 Unknown Role (TALK_ROLE_NPC): (Nothing else here seems particularly noteworthy.)
 
 ## Talk 12 (alternative/additional)
 
+(Look for clues related to "Vacher")
+
 Unknown Role (TALK_ROLE_NPC): (According to the records, Vacher didn't care how many victims he had to dissolve in his quest to bring his lover back to life.)
 Unknown Role (TALK_ROLE_NPC): (But there's nothing here on Vacher's true identity...)
 
 ## Talk 12 (alternative/additional)
 
+(Look for clues related to "Vacher")
+
 Unknown Role (TALK_ROLE_NPC): (Bottles full of Sinthe and Water from the Primordial Sea. These can be used as evidence to prove what this place was used for.)
 Unknown Role (TALK_ROLE_NPC): (Nothing else here seems particularly noteworthy.)
 
+## Objective 12
+
+(Look for clues related to "Vacher")
+
+
+## Objective 13
+
+(Race back to the opera house and submit the evidence)
+
+
 ## Talk 14 (alternative/additional)
+
+(Confront Marcel)
 
 Navia: And whose image do you see, Marcel?
 Navia: Is it a man named "Vacher"?
@@ -323,6 +397,8 @@ Furina: It's alright, Monsieur Neuvillette. Given their confidence, I expect the
 Traveler: You say you've never heard of Vacher...
 
 ## Talk 14
+
+(Confront Marcel)
 
 Traveler: But the truth of it, Marcel, is that you've always been Vacher!
 Marcel: Huh!?
@@ -419,6 +495,8 @@ Neuvillette: Gardes, please take the suspect into custody per court protocol.
 
 ## Talk 16
 
+(Learn about the situation from Neuvillette)
+
 Paimon: Hey, Monsieur Neuvillette, what's going on? Shouldn't he have been cleared already?
 Neuvillette: Apologies, this is also the first time I've encountered such a situation. However, according to the rules established at the conception of Fontaine's court system, the Oratrice's judgment is the final verdict of the court.
 Neuvillette: All I do is follow court procedure. As for why the Oratrice arrived at the conclusion it did, you should probably ask someone more knowledgeable than me.
@@ -451,10 +529,14 @@ Paimon: After all, he's done plenty of bad stuff, so he should have known he'd g
 
 ## Talk 17 (alternative/additional)
 
+(Leave the opera house)
+
 Paimon: Oh! Monsieur Neuvillette, that power you showed when you took him down... Who are you, really?
 Neuvillette: Hm? I am the Chief Justice of Fontaine, of course. If officers of the law lack the strength and capability to enforce it, then it makes a mockery of justice.
 
 ## Talk 17
+
+(Leave the opera house)
 
 Esmond: Hey, what are you doing!? Quick, stop him!
 Marcel: #Traveler! Hey! Traveler!
@@ -490,6 +572,8 @@ Marcel: Thank you... Thank you, Your Honor...
 
 ## Talk 18
 
+(Bring Marcel to the fountain plaza)
+
 Marcel: Is this the place...? You said she's here, but what do I need to do to see her?
     Option 1:
         Traveler: Back then, I drank Water from the Primordial Sea...
@@ -505,6 +589,8 @@ Marcel: I'm here, I'm here... Where are you, Vigneire? I'm coming for you, I'm f
 Paimon: Hey, wait, be careful, hey, waaaaait!
 
 ## Talk 19
+
+(Talk to "Vigneire")
 
 Marcel: Vigneire... Is that you? It's me, Vacher... Vigneire...!
 Oceanid?: Vacher... Why did you come... Didn't I say... You don't need to look for me...
@@ -546,6 +632,8 @@ Black Screen Text: Later, the Gardes find that the culprit of the serial disappe
 However, the final report from the physicians states that he died of a massive fright.
 
 ## Talk 20
+
+(Stroll around the Court of Fontaine)
 
 Paimon: Finally, we have some time to do shopping! Gosh, it's really been a long time since we've been able to relax...
     Option 1:
@@ -626,6 +714,8 @@ Navia: However, we should revisit the case now that we've gained new information
 
 ## Talk 22
 
+(Go to the cemetery next to Poisson)
+
 Navia: This is where my father's grave is... To be perfectly honest, even I haven't been back here for a long time.
 Paimon: Huh, there's someone there already... Wait, that figure, it can't be...?
 Navia: ...
@@ -678,6 +768,8 @@ Paimon: Paimon will take notes on this incriminating evidence!
 
 ## Talk 24 (alternative/additional)
 
+(Talk to Neuvillette)
+
 Traveler: About Water from the Primordial Sea...
 Paimon: So at court, the bad guys referred to that special water as Water from the Primordial Sea... But what is it, really?
 Neuvillette: Truthfully, that name is already quite accurate. I can only surmise that Vacher and his ilk only learned of its nature and existence after extensive research.
@@ -693,6 +785,8 @@ Neuvillette: Is there anything else you'd like to ask me about?
 
 ## Talk 24 (alternative/additional)
 
+(Talk to Neuvillette)
+
 Traveler: About the "prophecy" that has been circulating around Fontaine...
 Neuvillette: ...That the sea levels will rise, and everyone will be dissolved in water, leaving Furina crying alone on her throne, but the sins of the people will be finally washed away for good?
 Neuvillette: Does that appropriately summarize the version you've heard?
@@ -707,6 +801,8 @@ Paimon: But with Furina being the way she is... can we really trust her to solve
 Neuvillette: Is there anything else you'd like to ask me about?
 
 ## Talk 24 (alternative/additional)
+
+(Talk to Neuvillette)
 
 Traveler: About Childe...
 Neuvillette: My apologies. My investigation has still not reached its conclusion.
@@ -727,12 +823,16 @@ Neuvillette: Is there anything else you'd like to ask me about?
 
 ## Talk 24 (alternative/additional)
 
+(Talk to Neuvillette)
+
 Traveler: About my sibling...
 Neuvillette: Your sibling? Another blond-haired traveler... I'm sorry, but I've never seen anyone who matches that description.
 Neuvillette: #If she ever stepped foot in Fontaine, I'm sure she followed our laws to the letter, and had no reason to appear on the stage of the Opera Epiclese.
 Neuvillette: Is there anything else you'd like to ask me about?
 
 ## Talk 24 (alternative/additional)
+
+(Talk to Neuvillette)
 
 Neuvillette: Oh, it's you two. Did Miss Navia invite you to come pay your respects to her father?
 Paimon: Mhm! We ran into Navia on the streets today, so we just followed her here.
@@ -742,6 +842,8 @@ Neuvillette: Please feel free. Though outsiders, you helped us solve one of the 
 
 ## Talk 24 (alternative/additional)
 
+(Talk to Neuvillette)
+
 Paimon: Um... Paimon's really sorry, Navia, but Paimon did something pretty disrespectful just now...
 Navia: Uh... What're you saying, Paimon? I don't think I get it...
 Paimon: Well... Aren't you not supposed to fly around someone's grave?
@@ -749,6 +851,8 @@ Navia: Huh? Hehe, who told you that...
 Paimon: #Hey, Traveler! Why did you mess with Paimon again!?
 
 ## Talk 24
+
+(Talk to Neuvillette)
 
 Traveler: I have no more questions.
 Neuvillette: Very well. It was my honor to provide you with what answers I could. I very much enjoyed conversing with you.

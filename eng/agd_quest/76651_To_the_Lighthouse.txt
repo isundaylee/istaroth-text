@@ -9,6 +9,8 @@ Panicking Phantom: The lighthouse... It's lit! The Wild Hunt! The Wild Hunt is a
 
 ## Talk 2
 
+(Explore the island)
+
 Paimon: Gloomy skies over here... The air's all icky and sticky and dark and damp.
 Paimon: Remember how Flins said that he lives in a graveyard to the north? Is this, uh, really the place...
 Paimon: There's not a person in sight. Just a tower, and.... Oh!
@@ -69,6 +71,8 @@ Flins: And if you should need to find me, I will be in an underground basement o
 Flins: I will meet up with you once I have completed my urgent tasks.
 
 ## Talk 2
+
+(Explore the island)
 
 Traveler: Flins?
 Flins: Ah, good day, you two — assuming I don't have the time wrong.
@@ -133,6 +137,8 @@ Flins: I see. In that case, as guardian of the tombs here in the Final Night Cem
 
 ## Talk 3
 
+(Search for fuel)
+
 Paimon: ...Either way, let's try not to get their attention. Let's just grab the fuel and go!
 Wandering Phantom: The sky is so dark. I'm scared. They're staring at me...
 Wandering Phantom: You sure took your time, didn't you? C'mon, help me shift this fuel. It's almost time for our lighthouse shift.
@@ -154,6 +160,8 @@ Wandering Phantom: Whatever it is, the blue lantern seems to be on our side — 
 
 ## Talk 4
 
+(Ascend the lighthouse to light the tower up)
+
 Paimon: Finally, we're here! Let's find where the fuel goes and pour it in.
 Black Screen Text: Paimon finds the fuel slot and pours in the fuel. Then, you ignite the lamp at the top of the lighthouse.
 Paimon: Woohoo, the light's on! This should make things way easier. Now we can keep exploring!
@@ -165,9 +173,13 @@ Paimon: He's still going on about the signal... Did we send the wrong one? Let's
 
 ## Talk 6 (alternative/additional)
 
+(Descend the lighthouse)
+
 Flins: In need of my help so soon? One moment, let me sort these letters out.
 
 ## Talk 6 (alternative/additional)
+
+(Descend the lighthouse)
 
 Letter: I have received your supply request, and HQ has approved it. I'll get Illuga to send it to you at the next opportunity.
 Letter: P.S.: You sure you don't need some sort of pet, like a puppy or a kitten, to keep you company?
@@ -176,6 +188,8 @@ Letter: If you still don't reply, Illuga's bringing the dog over to the "Final N
 Letter: Signed, Your Friend Nikita
 
 ## Talk 6
+
+(Descend the lighthouse)
 
 Wandering Phantom: Great, the light's on! Guess I won't have to worry about moving fuel anymore.
 Paimon: Hey, it's the ghost from before who was talking about moving fuel. What's he doing over here?
@@ -201,20 +215,33 @@ Melancholic Phantom: Lighthouse... hope... everlasting night...
 
 ## Talk 7 (alternative/additional)
 
+(Check the handbook)
+
 Wandering Phantom: To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
 Paimon: These ghosts seem really worked up... Should we just do what they're asking and see what happens?
 
 ## Talk 7
+
+(Check the handbook)
 
 Paimon: The handbook says that we've gotta aim the lamp in the right direction, then control the brightness according to the signaling rules.
 Paimon: There are five signal types: Distress, warning, guidance, summoning, and all safe. The part that describes the warning signal is illegible, so let's try one of the others.
 
 ## Talk 10 (alternative/additional)
 
+(Operate the lighthouse according to the handbook's instructions)
+
 Wandering Phantom: To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
 Paimon: These ghosts seem really worked up... Should we just do what they're asking and see what happens?
 
+## Objective 10
+
+(Operate the lighthouse according to the handbook's instructions)
+
+
 ## Talk 11
+
+(Check on the ghosts)
 
 Flins: What happened here? Ran into a spot of bother?
 Flins: A whole host of ghosts surrounded the lighthouse. I sent them away to prevent them from blocking the area...
@@ -258,18 +285,29 @@ Flins: Ghosts are but the memories of people that once were. You may have stirre
 Flins: Still, I can see that you're concerned about them, and truthfully, so am I. If you wish to find them... just follow me.
 Flins: Ah, yes — and please do not be alarmed by anything strange we may encounter along the way.
 
+## Objective 12
+
+(Follow Flins)
+
+
 ## Talk 13 (alternative/additional)
+
+(Follow Flins)
 
 Trembling Phantom: Look! Someone's put out a distress signal! Reinforcements will arrive from the sea soon! Hold steady, everyone!
 Flins: Hmm... The coast, then... But on which side?
 
 ## Talk 13 (alternative/additional)
 
+(Follow Flins)
+
 Desperate Phantom: It's too late... There's no point calling for help now.
 Desperate Phantom: Even if reinforcements from Piramida do arrive from the north, they'll only end up as fodder for the Wild Hunt, just like us...
 Flins: The north it is, then.
 
 ## Talk 13 (alternative/additional)
+
+(Follow Flins)
 
 Melancholic Phantom: Let's go. "Our bones and blood we shall use as fuel..."
 Flins: Where are you going?
@@ -278,9 +316,13 @@ Flins: Never mind. We won't get anything out of this one.
 
 ## Talk 13
 
+(Follow Flins)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (3119957826)
 
 ## Talk 14
+
+(Comfort the ghosts)
 
 Paimon: Paimon sees them! They're all gathering on the beach!
 Flins: Had reinforcements arrived on the day of that battle, they would have landed here.

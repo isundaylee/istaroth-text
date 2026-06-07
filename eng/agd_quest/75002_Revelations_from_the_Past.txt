@@ -3,7 +3,14 @@
 # Revelations from the Past
 
 
+## Objective 1
+
+(Go to the entrance to the ruins)
+
+
 ## Talk 2
+
+(Place the talisman)
 
 Paimon: So the ruins below are the ruins of the... what was he called again? The Sage of the Stolen Flame? Still, the entrance looks like something weird's blocking it...
 Manqu: Just as I thought... the Sage's trial has already begun.
@@ -30,7 +37,19 @@ Traveler: Rawr!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ?
 Manqu: Haha, that's the spirit. Now, please try opening the barrier blocking the entrance.
 
+## Objective 5
+
+(Open the barrier blocking the entrance to the ruins)
+
+
+## Objective 6
+
+(Explore the ruins)
+
+
 ## Talk 8
+
+(Explore the ruins)
 
 Paimon: A path through the lava has appeared... Looks like the trial is almost over.
 Paimon: That guy from the Saurian Relics Association and the chubby chap from the Children of Echoes kept talking up how dangerous it was, but it looks like there really was nothing to it!
@@ -57,6 +76,8 @@ Paimon: #Okay, then let's rest a bit, Traveler! We'll keep going once you're rea
 
 ## Talk 9
 
+(Investigate the ruins)
+
 Paimon: Wow... Looks like the real entrance to the ruins is over there! And just like the entrance to the first tunnel, there's a strange barrier.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
 Paimon: #Yes, just like at the entrance. Traveler must stand *below the yellow device* on the left, while {REALNAME[ID(2)|SHOWHOST(true)]} stands *below the green device* to the right...
@@ -79,7 +100,14 @@ Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}, try going over there.
 Paimon: And once it's open, we'll meet in front of the door!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
+## Objective 10
+
+(Open the barrier)
+
+
 ## Talk 12
+
+(#Meet up with {REALNAME[ID(2)|SHOWHOST(true)]})
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Hey, you did it, {REALNAME[ID(2)|SHOWHOST(true)]}! Great job!
@@ -107,9 +135,13 @@ Traveler: Okay, let's move out!
 
 ## Talk 13
 
+(Explore the ruins)
+
 Paimon: Missing text (2941087050)
 
 ## Talk 14
+
+(Investigate the ruins)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wraah... Waah!
 Paimon: #That's the first time Paimon's heard {REALNAME[ID(2)|SHOWHOST(true)]} make that sound.
@@ -162,7 +194,24 @@ Paimon: Still, get out as fast as you can if things get dangerous! Nothing is mo
 Paimon: Hey, don't say things he can't understand!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
+## Objective 15
+
+(Traverse the corridor)
+
+
+## Objective 17
+
+(Unlock the mechanism)
+
+
+## Objective 18
+
+(Unlock the mechanism)
+
+
 ## Talk 19
+
+(Examine the mural)
 
 Paimon: Hey, there's another mural here! Now, what's it show...
 Paimon: A huge black dragon, a tree, and some strange person?
@@ -193,7 +242,24 @@ Paimon: Really? Paimon didn't see anything at all! And we're both looking at the
 Paimon: #Ah! That's {REALNAME[ID(2)|SHOWHOST(true)]}'s voice! Sounds like it's coming from over there... Oh, Paimon sure hopes nothing bad happened...
 Paimon: Hurry up, we need to go look!
 
+## Objective 20
+
+(#Meet up with {REALNAME[ID(2)|SHOWHOST(true)]})
+
+
+## Objective 21
+
+(Continue the trial)
+
+
+## Objective 23
+
+(Traverse the lava)
+
+
 ## Talk 24
+
+(Traverse the lava)
 
 Paimon: Wow, Paimon never imagined there'd be something like this under the lava. So we're really deep underground now, aren't we?
 Paimon: So that Sage with the totally impossible name... Hid the token here?
@@ -205,7 +271,24 @@ Unknown Role (TALK_ROLE_NPC): Chosen of Dragons, prove yourself by facing the mi
 Paimon: Whoa, what's going on? That sudden chill...
 Paimon: S—Something's coming out!
 
+## Objective 27
+
+(Traverse the lava)
+
+
+## Objective 28
+
+(Defeat the opponents)
+
+
+## Objective 29
+
+(Traverse the lava)
+
+
 ## Talk 30
+
+(Complete the trial)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Paimon: #Whoa, it looks like {REALNAME[ID(2)|SHOWHOST(true)]} just got stronger! Did something awaken, maybe? Like the power of the Flamelord or something...?
@@ -224,6 +307,8 @@ Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide 
 
 ## Talk 30
 
+(Complete the trial)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} looked like he got way stronger... Hmm... Just like at the end of our adventure in Ochkanatlan...
 Traveler: Definitely looks stronger.
@@ -239,7 +324,34 @@ Paimon: Though, Manqu did say that it's better not to use power like that too mu
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Paimon: #*sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
 
+## Objective 31
+
+(Touch the inscription)
+
+
+## Objective 32
+
+(Traverse the lava)
+
+
+## Objective 33
+
+(Touch the inscription)
+
+
+## Objective 34
+
+(Continue onward)
+
+
+## Objective 35
+
+(Continue onward)
+
+
 ## Talk 36
+
+(Obtain the token)
 
 Paimon: Whoa, it looks like this stone tablet lit up!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -269,6 +381,8 @@ Paimon: Anyway, we got a token! Let's take it back and show it to Manqu!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 36
+
+(Obtain the token)
 
 Paimon: Whoa, it looks like this stone tablet lit up!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

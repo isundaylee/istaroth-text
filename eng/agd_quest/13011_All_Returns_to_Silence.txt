@@ -7,6 +7,8 @@ It seems that even a matra is involved in the Canned Knowledge smuggling. Cyno d
 
 ## Talk 1
 
+(Bring Cyno's introduction letter to Nabil)
+
 Nabil: Hello, we meet again.
 Nabil: How's the investigation going?
 Black Screen Text: You give Nabil the letter from Cyno.
@@ -27,6 +29,8 @@ Nabil: Follow me, I'll show you. Hopefully, we'll find the answers that Cyno's l
 Paimon: The Restricted Repository... Uh, sounds kinda dangerous. We'd better keep an eye out.
 
 ## Talk 1
+
+(Bring Cyno's introduction letter to Nabil)
 
 Nabil: Hello, we meet again.
 [Missing Dialog 130110102]
@@ -61,12 +65,16 @@ Bahari: *sigh* Alright...
 
 ## Talk 3
 
+(Go to the repository to gather information)
+
 Black Screen Text: Nabil explains the situation to the repository's manager...
 Utayba: Okay, I understand.
 Utayba: Since Cyno is vouching for you, I suppose we can trust you. You may browse the information regarding the Court of Desolation. Ask me if you have any questions.
 Utayba: But I'd suggest avoiding any other research files. Sometimes the less you know, the better.
 
 ## Talk 5
+
+(Go to the repository to gather information)
 
 Nabil: Huh, so this is the Restricted Repository... I never thought I'd see the inside of it. This is a first for both you and me.
     Option 1:
@@ -79,9 +87,13 @@ Utayba: The files are over there. Just make it quick.
 
 ## Talk 6 (alternative/additional)
 
+(Search for clues in the repository)
+
 Utayba: We have an alarm set behind the bookshelf for security purposes. Be careful not to bump it when you're taking out the files.
 
 ## Talk 6
+
+(Search for clues in the repository)
 
 Paimon: #Whoa, there's a lot to read here... Traveler, have you found anything yet?
     Option 1:
@@ -132,22 +144,37 @@ Paimon: Alrighty then, let's go ask around!
 
 ## Talk 7 (alternative/additional)
 
+(Leave Repository)
+
 Utayba: Hmm? Do you have any other questions?
 
 ## Talk 7 (alternative/additional)
+
+(Leave Repository)
 
 Mechanical Life Forms Research Data: (Records an account of a Spantamad researcher who was expelled from the Akademiya for studying mechanical life forms.)
 
 ## Talk 7 (alternative/additional)
 
+(Leave Repository)
+
 Secret Text Interpretation Manual: (Records an account of a Haravatat Researcher being sentenced to prison for deciphering forbidden documents.)
 
+## Objective 7
+
+(Leave Repository)
+
+
 ## Talk 8
+
+(Inquire about recent shipments)
 
 Nabil: Excuse me, have you seen any large shipments of goods leaving the Akademiya recently?
 Jehnam: No, not that I'm aware of. Perhaps you could ask someone else?
 
 ## Talk 9
+
+(Inquire about recent shipments)
 
 Nabil: Excuse me, have you seen any large shipments of goods leaving the Akademiya recently?
 Badr: Huh? Well, yes, but isn't that pretty normal?
@@ -157,13 +184,19 @@ Badr: That I'm not too sure of... I normally wouldn't notice whether the goods h
 
 ## Talk 11 (alternative/additional)
 
+(Ask the guard for information)
+
 Jehnam: Didn't I tell you already? I haven't seen anything.
 
 ## Talk 11 (alternative/additional)
 
+(Ask the guard for information)
+
 Badr: The Akademiya has goods coming in and out every day. It's like looking for a needle in a haystack.
 
 ## Talk 11
+
+(Ask the guard for information)
 
 Nabil: Excuse me, have you seen any large shipments of goods leaving the Akademiya recently?
 Payam: Huh? Why do you ask?
@@ -193,13 +226,19 @@ Paimon: Hey, don't let it get to ya just yet! We'll get to the bottom of this, o
 
 ## Talk 12 (alternative/additional)
 
+(Go to Taj's house and look for clues)
+
 Payam: Huh, was my intuition right? Was there really something wrong with those goods?
 
 ## Talk 12 (alternative/additional)
 
+(Go to Taj's house and look for clues)
+
 Usem: Taj lives on the outskirts of Sumeru City. You can try looking for him there.
 
 ## Talk 12
+
+(Go to Taj's house and look for clues)
 
 Nabil: So this is Taj's place... Hmm, there doesn't seem to be anyone here.
 Paimon: Well, what should we do then? Do we break in?
@@ -229,10 +268,14 @@ Paimon: Alright, we'll give these to Cyno and see! Let's go!
 
 ## Talk 14 (alternative/additional)
 
+(Meet up with Cyno)
+
 Nabil: I don't wanna suspect him, but I also don't know him very well. Maybe Cyno will know what to do.
 Paimon: Alright, we'll give these to Cyno and see! Let's go!
 
 ## Talk 14
+
+(Meet up with Cyno)
 
 Black Screen Text: You tell Cyno everything that's happened.
 Paimon: Well, Cyno, what do you make of it?
@@ -248,6 +291,8 @@ Cyno: That's also why I need to see him. I must ask his reasoning and judge him 
 Cyno: Time is ticking. Let's go.
 
 ## Talk 15
+
+(Find the Court of Desolation according to the instructions on the map)
 
 Cyno: Taj...
 Taj Radkani: Ah, Cyno, it's been some time since I've seen you last. I trust you are doing well?
@@ -277,6 +322,16 @@ Taj Radkani: I beg you: As an old partner, can you let me fulfill my last wish? 
 Taj Radkani: Surely you get it by now. Doing your job without mercy will only drive people away from you. I'm the prime example.
 Cyno: I don't overthink things. If there is only one way for me to defend my principles, then that is the path I will take.
 Taj Radkani: Seems there's no convincing you... Alright then, let's see if your polearm skills have improved at all.
+
+## Objective 16
+
+(Enter the Court of Desolation)
+
+
+## Objective 17
+
+(Reach the depths of the Court of Desolation)
+
 
 ## Talk 19
 
@@ -330,7 +385,14 @@ Taj Radkani: I'll leave all those people on the list to you. Sorry for all the t
 Cyno: There's nothing to be sorry for. We are partners.
 Cyno: If you see Murtada... send him my greetings. Goodbye, old friend.
 
+## Objective 21
+
+(Defeat Taj)
+
+
 ## Talk 23
+
+(Talk to Cyno)
 
 Paimon: Huh? The Court of Desolation has...
 Traveler: Disappeared.
@@ -345,7 +407,14 @@ Cyno: Thank you, but you've already done enough.
 Cyno: Just leave the rest to me. I will bring them to justice myself. Besides, I promised you that I would sweep away any potential danger.
 Cyno: So that's what I'm going to do. Wait for me at Caravan Ribat four days from now.
 
+## Objective 24
+
+(Wait until four days later)
+
+
 ## Talk 25
+
+(Go to Caravan Ribat)
 
 Nabil: We meet again! Thank you so much for all your help!
 Paimon: Nabil, what are you doing here?
@@ -372,6 +441,8 @@ Paimon: Sure thing, Nabil! You be careful too. Don't let any of those bad guys e
 Nabil: Don't worry about me. If anything happens, you can find me at the Akademiya anytime! Farewell then.
 
 ## Talk 25
+
+(Go to Caravan Ribat)
 
 Nabil: We meet again! Thank you so much for all your help!
 Paimon: Nabil, what are you doing here?
@@ -405,6 +476,8 @@ Nabil: By the way, are you guys here to see Cyno? I think I just saw him walking
 Nabil: At first, the mercenary groups on the list were putting up quite a fight. They made several desperate attempts to cover up the truth. However, Cyno crossed the desert and took out their main camp overnight.
 
 ## Talk 26
+
+(Find Cyno in Caravan Ribat)
 
 Tighnari: Trying to single-handedly bring 300 people to justice must feel pretty exhilarating. But I can assure you this is certainly not the best solution.
 Cyno: I'm aware.
@@ -446,6 +519,8 @@ Cyno: Many people want to go to the desert to offer condolences for Taj, but I d
 Cyno: One day, I'll gather some flowers that grow in arid desert conditions, and then I was hoping you'd join me in planting them on the remains of the Court of Desolation.
 
 ## Talk 26
+
+(Find Cyno in Caravan Ribat)
 
 Tighnari: Trying to single-handedly bring 300 people to justice must feel pretty exhilarating. But I can assure you this is certainly not the best solution.
 Cyno: I'm aware.

@@ -11,7 +11,14 @@ You encounter a Qucusaurus attacking a human, but there seems to be more to this
 Mazkal (???): Come on kiddo, come on now, quit fooling around. If you don't take your meds, you won't recover!
 Paimon: #Oh no, she's in danger! We've gotta help her, Traveler!
 
+## Objective 2
+
+(Subdue the temperamental Qucusaurus)
+
+
 ## Talk 3
+
+(Subdue the temperamental Qucusaurus)
 
 Black Screen Text: "Shwrawr!"
 As if knowing it is outmatched, the Qucusaurus flies off with a cry...
@@ -67,7 +74,19 @@ Mazkal: No matter which one you use, the medicines will help Kururuk recover, so
 Mazkal: Hehe, you're so reliable! Anyway, I'll head back to camp to make some preparations. As for Kururuk, I leave him in your capable hands!
 Paimon: #Don't you worry, {REALNAME[ID(2)|SHOWHOST(true)]}'s got this!
 
+## Objective 4
+
+(Catch up with "Kururuk")
+
+
+## Objective 6
+
+(Catch up with "Kururuk")
+
+
 ## Talk 7 (alternative/additional)
+
+(Have "Kururuk" take some medicine)
 
 "Kururuk": Shrawr...
 Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
@@ -75,7 +94,14 @@ Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kurur
 Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
 Paimon: Which of the two should we go with?
 
+## Objective 7
+
+(Have "Kururuk" take some medicine)
+
+
 ## Talk 8
+
+(Have "Kururuk" take some medicine)
 
 Paimon: #If he'll eat it, this one should help him recover better, right? You've got this now, {REALNAME[ID(2)|SHOWHOST(true)]}!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -85,6 +111,8 @@ Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than bef
 
 ## Talk 9 (alternative/additional)
 
+(Have "Kururuk" take some medicine)
+
 Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
@@ -92,6 +120,8 @@ Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
 Paimon: Sh—Should we try the other one, then?
 
 ## Talk 9
+
+(Have "Kururuk" take some medicine)
 
 Traveler: Might as well.
 Paimon: #We're counting on you for Round Two, {REALNAME[ID(2)|SHOWHOST(true)]}!
@@ -101,10 +131,19 @@ Paimon: Uh oh! He's even madder than before! Quick, we gotta calm him down!
 
 ## Talk 9
 
+(Have "Kururuk" take some medicine)
+
 Traveler: Let's not go with either for now.
 Paimon: Hmm, that does make sense... Actually, why don't we bring him back to Mazkal now that he's being a bit less rowdy?
 
+## Objective 10
+
+(Subdue "Kururuk")
+
+
 ## Talk 11
+
+(Subdue "Kururuk")
 
 "Kururuk": Rrooah...
 Traveler: Is this really a Saurian who still hasn't fully recovered?
@@ -112,6 +151,8 @@ Traveler: Is this really a Saurian who still hasn't fully recovered?
 Paimon: He'd probably be a super tough opponent when he's in tip-top shape... Anyway, let's bring him back to Mazkal while he's being a bit more docile!
 
 ## Talk 12
+
+(Talk to Mazkal)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
 Mazkal: You're back! How did it go? Did Kururuk take his medicine?

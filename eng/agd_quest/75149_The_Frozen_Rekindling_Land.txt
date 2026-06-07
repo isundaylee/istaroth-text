@@ -7,6 +7,8 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 ## Talk 1
 
+(Talk to Paimon)
+
 Paimon: Oh, Chosen One, Chosen of Dragons...
 Paimon: Traverse the eternal city. Venture into the Heart of the Sacred Mountain.
 Paimon: Banish... the great enemy cloaked in shadow. Ignite... the frigid embers...
@@ -32,7 +34,14 @@ Paimon: Still... Who'd have thought there'd be such a huge space underneath this
 Paimon: Let's just... explore the area a bit first, okay?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
+## Objective 2
+
+(Follow the path as it lights up)
+
+
 ## Talk 3
+
+(Talk to the strange mechanism)
 
 Paimon: #Hmm? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? Found something?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Whrooawr!
@@ -60,7 +69,14 @@ Ehecatl: "Yes, indeed. Since then, this body has been named Ehecatl..."
 Ehecatl: "Yes, it was I who called you here. Come, let us go unto the Heart of the Sacred Mountain... before it is too late."
 Ehecatl: "That said, we are not yet in a hurry. Let Ehecatl clear away at least some smidgen of the darkness that lies before you. I know you must have your doubts, but please, follow me for now."
 
+## Objective 4
+
+(Explore up ahead)
+
+
 ## Talk 5
+
+(Speak to Ehecatl)
 
 Ehecatl: "I should explain that this place was not always so dark... Even though it is undoubtedly the 'inside' of a volcano..."
 Ehecatl: "However, after the war was over, the entire city was destroyed. After that, such a huge mechanical construct could hardly continue to function..."
@@ -77,7 +93,14 @@ Ehecatl: "Hehe. Ah, such has it ever been... Just as the followers of a tyrant a
 Ehecatl: "The world and its affairs are akin to a staged play. Cause and effect, revenge and revolt... All scenes repeat themselves one after the other across ragged eons..."
 Ehecatl: "Ah, but I am getting off-topic... Well then. Activate it, and let this moribund capital writhe a little while longer. None but you is worthy to do this deed now."
 
+## Objective 6
+
+(Activate the mechanism)
+
+
 ## Talk 7
+
+(Activate the mechanism)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr...Rroo...
 Paimon: What's wrong? You don't look like you're doing so hot...
@@ -116,6 +139,8 @@ Paimon: He really just does whatever he feels like, huh... Not much we can do bu
 
 ## Talk 8
 
+(Talk to Paimon)
+
 Ehecatl: "Have I officially given you its name, by the by? I believe I have not..."
 Ehecatl: "No matter. Welcome to the first Sacred Ci{RUBY#[D]Land of Primal Flame}ty, Tollan."
 Paimon: Whoa... Paimon was not expecting the volcano to look like this on the inside...
@@ -148,7 +173,14 @@ Paimon: True. Still, about the Astral Assemblages he mentioned just now... Does 
 Paimon: Oh well, let's take a look around and see if we can find those strange things he mentioned!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
+## Objective 9
+
+(Keep exploring)
+
+
 ## Talk 11
+
+(Keep exploring)
 
 Secret Source Servant: Scanning... This location... The path to the Celestial Axis has been sealed. Core Astral Assemblage has been activated...
 Secret Source Servant: Remaining Astral Assemblages must be re-stabilized to gain the power needed to reopen the seal...
@@ -162,10 +194,19 @@ Paimon: Looks like we'll have to look around for the other two Astral Assemblage
 
 ## Talk 12 (alternative/additional)
 
+(Re-stabilize the Astral Assemblage(s))
+
 Secret Source Servant: Scanning... This location... The path to the Celestial Axis has been sealed. Core Astral Assemblage has been activated...
 Secret Source Servant: Re-stabilize the Astral Assemblages to initiate the opening of the path ahead...
 
+## Objective 12
+
+(Re-stabilize the Astral Assemblage(s))
+
+
 ## Talk 13
+
+(Go to the Celestial Axis)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh!
 Secret Source Servant: *whirr-click*...
@@ -186,7 +227,18 @@ Secret Source Servant (Amaru): Increase in phlogiston concentration detected... 
 Secret Source Servant (Amaru): Lift shaft — Celestial Axis, restarted.
 Secret Source Servant (Amaru): "It appears we are almost done. Please proceed deeper within."
 
+## Objective 14
+
+(Activate the Celestial Axis)
+
+
 ## Talk 15
+
+(Head to the depths of the ancient city)
 
 Secret Source Servant: Increase in phlogiston concentration detected... Circuit check complete... *whirring*
 Secret Source Servant: Lift shaft — Celestial Pillar, restarted.
+
+## Objective 16
+
+(Head to the depths of the ancient city)

@@ -13,12 +13,16 @@ Paimon: Maybe something's happened to this island! Let's go ask those two over t
 
 ## Talk 5
 
+(Ask the two about the situation)
+
 Toranosuke: Is there something I can help you with?
 Traveler: What's all this "Mikage Furnace" and "Tatarigami" talk?
 Toranosuke: It's just a small problem. We need a little time to sort out...
 Toranosuke: You're an adventurer, aren't you? This place isn't suitable for you or your ilk. Get out of here.
 
 ## Talk 6
+
+(Ask the two about the situation)
 
 Miyuki: *sigh* How did it come to this...
 Traveler: What is this "Mikage Furnace" that you guys were talking about earlier?
@@ -53,6 +57,8 @@ Miyuki: If something were to go wrong with the Tatarigami inside the Mikage Furn
 Miyuki: Well, if that happens, you should probably leave the island.
 
 ## Talk 6
+
+(Ask the two about the situation)
 
 Miyuki: *sigh* How did it come to this...
 Traveler: What this "Mikage Furnace" that you guys were talking about earlier?
@@ -97,6 +103,8 @@ Paimon: That's true... But didn't she mention that someone named Xavier is tryin
 Paimon: Why don't we go and take a look? It'd put our minds at ease if we could help take care of this, wouldn't it?
 
 ## Talk 14
+
+(Look for Xavier)
 
 Xavier: It's hopeless...
 Traveler: Hello, are you Xavier?
@@ -178,6 +186,8 @@ Xavier: Actually, as representative of the present review panel, I have already 
 
 ## Talk 14
 
+(Look for Xavier)
+
 Xavier: It's hopeless...
 Traveler: What's the matter?
 Xavier: #Traveler! I never expected to see you here. What a wonderful surprise!
@@ -251,7 +261,24 @@ Xavier: Perhaps you could go and investigate the surrounding area while I'm pack
 Traveler: Pack up? Has that been approved by a review panel?
 Xavier: Actually, as representative of the present review panel, I have already granted myself authorization to pack up and strike camp. So no need to worry about that.
 
+## Objective 15
+
+(Observe the Mikage Furnace)
+
+
+## Objective 16
+
+(Observe the Mikage Furnace)
+
+
+## Objective 17
+
+(Observe the Mikage Furnace)
+
+
 ## Talk 20
+
+(Report back to Xavier)
 
 Xavier: Phew... The situation looks stable, at least...
 Traveler: The situation with the Mikage Furnace?
@@ -359,7 +386,24 @@ Xavier: We should go ask the Treasure Hoarders if we might "borrow" a few of tho
         Traveler: Just leave it to me.
         Xavier: Then on behalf of our special review board, I will be entrusting you with this task. I'm confident that we will make a wonderful team.
 
+## Objective 21
+
+(Activate the Kamuijima Cannons and destroy the rifts)
+
+
+## Objective 22
+
+(Activate the Kamuijima Cannons and destroy the rifts)
+
+
+## Objective 23
+
+(Activate the Kamuijima Cannons and destroy the rifts)
+
+
 ## Talk 27
+
+(Report back to Xavier)
 
 Xavier: You're back. My, my, that was loud — my ear drums are still ringing.
 Xavier: After hearing the cannons, the Fatui will most certainly suspect that the Shogunate has become aware of their activities.
@@ -369,7 +413,14 @@ Traveler: Or perhaps the Fatui are collecting that energy...
 Xavier: Whatever the case may be, please take this opportunity to go and find out...
 Xavier: W—Watch out! It's the Fatui!
 
+## Objective 28
+
+(Defeat the attacking Fatui)
+
+
 ## Talk 29
+
+(Talk to Xavier)
 
 Xavier: Goodness me, they don't beat about the bush, do they...
     Option 1:
@@ -383,12 +434,26 @@ Xavier: Go check up on the status of the storage device inside the Mikage Furnac
 Xavier: If you encounter any Fatui, why, take them out.
 Xavier: I have every confidence in your abilities.
 
+## Objective 30
+
+(Get close to the Mikage Furnace)
+
+
 ## Talk 32 (alternative/additional)
+
+(Report back to Xavier)
 
 Xavier: Did you find the device?
 Traveler: Yes, and I took a picture of it.
 
+## Objective 32
+
+(Report back to Xavier)
+
+
 ## Talk 33
+
+(Report back to Xavier)
 
 Xavier: Let me take a look... Good, good. it hasn't suffered too much damage.
 Xavier: If all the other emergency systems are working normally, most of the energy circuits inside the device should have been cut off already. That I would consider great fortune, even amidst our many miseries.

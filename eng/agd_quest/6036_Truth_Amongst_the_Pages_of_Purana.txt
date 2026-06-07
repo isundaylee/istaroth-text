@@ -7,6 +7,8 @@
 
 ## Talk 1
 
+(Head to the entrance to King Deshret's mausoleum)
+
 Sobek: I have not felt this way in a long time.
 Sobek: Standing up high, gazing out at the rolling dunes... One cannot know what freedom truly means without first losing it.
 Heryshaf: The Golden Slumber truly lives up to its name as a dreamland. Though desert sands exist there too, no mirage, no matter how glorious, can compare to true beauty.
@@ -54,6 +56,8 @@ Nahida: Thus, it might be possible to shut it down completely by overloading it.
 
 ## Talk 2
 
+(Head to the entrance to King Deshret's mausoleum)
+
 Traveler: This place looks so different from how I remember. It's unrecognizable.
 Traveler: It's a complete mess, like someone's turned the place upside down...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Must be Dottore's doing. Either he's searching for some information he needs, or...
@@ -62,6 +66,8 @@ Traveler: It's still changing.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Be on your guard. Don't let him find us.
 
 ## Talk 3
+
+(Head to the entrance to King Deshret's mausoleum)
 
 Paimon: Success! The evil Irminsul tree has stopped growing!
 Traveler: Great!
@@ -86,6 +92,8 @@ Heryshaf: In other words, the chess set is an extension of the chessboard. In th
 Thoth: Transfer initiated... entering live combat mode.
 
 ## Talk 4
+
+(Talk to The Doctor)
 
 Fatui Soldier: We haven't heard a single word from our spy in the desert. I'm afraid he... might have been captured.
 ???: Never mind.
@@ -205,6 +213,8 @@ Regrator: Certainly not the latter. That would make my life miserable indeed.
 
 ## Talk 5
 
+(Talk to everyone)
+
 Candace: The power of King Deshret's Seven Pillars is truly remarkable. With just a chessboard, you can move an entire unit across the material plane.
 Dehya: Yeah, sets us up for a much easier fight. Really makes my day... The last time we stormed the city, it involved a lot more running around.
 Tighnari: I wonder how many people can say they stormed a city twice in their lifetime...
@@ -226,7 +236,24 @@ Cyno: There are troops stationed at every entrance. As we expected, a frontal as
 Cyno: Everyone, stick to the plan. We'll take the main entrance, you head for the House of Daena's side door.
 Cyno: Move out!
 
+## Objective 6
+
+(Head to the port)
+
+
+## Objective 7
+
+(Head to the port)
+
+
+## Objective 8
+
+(Head to the port)
+
+
 ## Talk 9
+
+(Talk to Cyno)
 
 Cyno: Waterway secured.
 Eremite Mercenary: Brothers, sisters!
@@ -235,7 +262,14 @@ Rahman: Welcome. Once we've linked up, we'll continue the advance.
 Corps of Thirty Soldier: The team has arrived at the north entrance as planned.
 Cyno: Good. Press on.
 
+## Objective 10
+
+(Take control of Sumeru City)
+
+
 ## Talk 11
+
+(Take control of Sumeru City)
 
 Dehya: Look out, it's an ambush!
 Cyno: Finally.
@@ -253,6 +287,8 @@ Cyno: Hm.
 
 ## Talk 12
 
+(Enter the Sanctuary of Surasthana by stealth)
+
 Tighnari: Cyno and the reinforcements have drawn the Fatui's fire away. It's our turn.
 Tighnari: By using a Clusterleaf of Cultivation, we can pass through certain terrain silently.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Good luck with that. We'll just fly up there.
@@ -261,6 +297,8 @@ Tighnari: Ready?
 Traveler: Ready!
 
 ## Talk 13
+
+(Enter the Sanctuary of Surasthana by stealth)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Fatui soldiers up ahead.
 Tighnari: Careful.
@@ -294,13 +332,22 @@ Il Dottore: Not imminently. They are already here.
 
 ## Talk 15
 
+(Enter the Sanctuary of Surasthana by stealth)
+
 Paimon: We made it!
 Traveler: This is far enough. Tighnari, you go help Cyno. Don't worry about us — we'll manage from here.
 Tighnari: Are you sure you don't need me to stand guard?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: No need. Once the connection is established, we'll disappear from the Sanctuary of Surasthana. Go help the others.
 Tighnari: Alright... Goodbye for now, then. Please tread carefully.
 
+## Objective 16
+
+(Enter the Sanctuary of Surasthana by stealth)
+
+
 ## Talk 17
+
+(Connect to Irminsul)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: We can connect to the inside of Irminsul through the Sanctuary of Surasthana's built-in security system.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You should be pretty familiar with the process.
@@ -324,7 +371,14 @@ Paimon: Will do. Paimon's gonna link up with Tighnari and Cyno. You guys are the
 Traveler: We will be. Bye for now.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Initiating connection!
 
+## Objective 18
+
+(Connect to Irminsul)
+
+
 ## Talk 19
+
+(#Talk to {REALNAME[ID(1)|HOSTONLY(true)]})
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Well, here we are again.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Come to think of it, I still don't even know where we're going.
@@ -334,7 +388,14 @@ Traveler: ...Listen to me. Your safety is just as important as mine.
 Traveler: Don't even think about sacrificing yourself for the greater good. We came here together, and we're leaving together.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Alright, if you insist. I won't argue with you.
 
+## Objective 21
+
+(Explore Irminsul)
+
+
 ## Talk 22
+
+(Explore Irminsul)
 
 Traveler: I'm trapped...!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Tsk, why won't this thing budge?
@@ -345,7 +406,19 @@ Nicole: I couldn't see anything at first, but now that you two are inside, I can
 Nicole: It's not the clearest image, but it's better than not being able to help at all. So, here I am!
 Nicole: I can't intervene directly, but I can help to guide you out of the jam you're currently in. So please, just follow my lead.
 
+## Objective 23
+
+(Follow Nicole's guidance)
+
+
+## Objective 24
+
+(Evade the pursuit)
+
+
 ## Talk 25
+
+(Evade the pursuit)
 
 Traveler: Phew! I think we've made it to relative safety...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You doing okay?
@@ -379,7 +452,34 @@ Nicole: Take a short rest, and then—
 Traveler: Nicole? Nicole!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: The connection's been cut? But that means...
 
+## Objective 26
+
+(Defeat the opponents)
+
+
+## Objective 27
+
+(Defeat the opponent)
+
+
+## Objective 29
+
+(Defeat the opponents)
+
+
+## Objective 30
+
+(Defeat your opponents with everything that you've got)
+
+
+## Objective 31
+
+(Proclaim the inevitability of the action)
+
+
 ## Talk 33
+
+(Proclaim the inevitability of the action)
 
 Ruler of Death: Blessed One of Wisdom, Mahakusaladhamma, are you certain that you wish to exercise your authority to destroy Irminsul?
 Ruler of Death: It represents both your roots and your finest accomplishments. You truly intend to abandon the very thing you have always fought for?
@@ -391,7 +491,19 @@ Ruler of Life: Mhmhm...
 Ruler of Life: Planting a seed begins the chain of cause and effect. Since you have become a great tree yourself, why should the loss of another tree be anything to fear?
 Ruler of Life: Till we meet again, Lord of Dendro.
 
+## Objective 34
+
+(Talk to Regrator)
+
+
+## Objective 35
+
+(Talk to Regrator)
+
+
 ## Talk 36
+
+(Talk to Regrator)
 
 Regrator: ...What a magnificent fire.
 Regrator: In Snezhnaya, we light fires to ward off the cold. Fire, it seems, is antithetical to ideas such as cold, frozen, and unchanging.
@@ -433,3 +545,7 @@ The Doctor: ...It seems I have unwittingly been your arch-enemy all along. But n
 Nahida: I do not deny your intelligence. But what you refer to as "experiments" I would never describe in those terms.
 Nahida: They are events that take place in the real world, and they are so much more than mere data.
 Nahida: Goodbye. We will never meet again.
+
+## Objective 37
+
+(Go to Caravan Ribat)

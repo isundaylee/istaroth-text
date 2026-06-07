@@ -7,6 +7,8 @@ You find an injured Saurian out in the wild...
 
 ## Talk 2
 
+(Talk to the suspicious warriors)
+
 Mouse: Ugh, you're... tougher than you look...
 Night Owl: Gah. Who did we offend... Who'd send someone on this day, of all days, to come whack us...
 Night Owl: #Please, Big Bro. How have we offended you? Just... let us know. We won't do it again.
@@ -36,6 +38,8 @@ Paimon: Paimon wonders how that Qucusaurus is doing. Shall we go see to it?
 
 ## Talk 3
 
+(Check on the injured Saurian)
+
 Qucusaurus: Roar...
 Paimon: Oh no, it looks so weak... It must have suffered so much...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrrooo...
@@ -50,16 +54,27 @@ Paimon: #What is it? Do you have an idea, {REALNAME[ID(2)|SHOWHOST(true)]}?
 
 ## Talk 4
 
+(Follow your Saurian buddy)
+
 Qucusaurus: (It looks incredibly weak. If only there was some way to revive it...)
 
 ## Talk 5
+
+(Check out what your Saurian buddy has found)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Raaawr! Rawr!
 Paimon: Do you think Embercore Flowers might help it out?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Sure, we can give it a go!
 
+## Objective 6
+
+(Try healing the Qucusaurus)
+
+
 ## Talk 7
+
+(Check on the Qucusaurus)
 
 Qucusaurus: ...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!

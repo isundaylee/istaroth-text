@@ -28,7 +28,14 @@ Paimon: A caravan can't just disappear on its own, right? Sounds like they got r
 Yuften: Th—thank you. A tho—thousand thanks! Please, accept this meat as gra—gratitude for your service.
 Paimon: Wow! Thanks! You're too kind!
 
+## Objective 2
+
+(Head to the last known location of the merchant caravan)
+
+
 ## Talk 3
+
+(Investigate the area)
 
 Investigate (Damaged Jar): (A cracked, empty jar lay there, not yet swallowed by the sands. Looks like it was thrown aside not long ago.)
 Paimon: Look! That jar's still poking out from the sand!
@@ -40,6 +47,8 @@ Paimon: Look! That jar's still poking out from the sand!
         Paimon: Yeah... They might have left some other stuff behind them. Let's keep going!
 
 ## Talk 4
+
+(Follow the trail of clues)
 
 Investigate (Empty Broken Box): (An empty, broken box lay abandoned, toppled over by the roadside.)
 Paimon: Huh. This box must be from the caravan. Look! It even has the tribe's symbol on it!
@@ -59,7 +68,14 @@ Paimon: Ah! Paimon's getting goosebumps! Then... do we really need to keep going
         Traveler: The bandits might still be nearby.
         Paimon: Oh, the way you say that isn't making Paimon feel good at all... But since you're not scared, maybe we should keep going...
 
+## Objective 5
+
+(Follow the trail of clues)
+
+
 ## Talk 7
+
+(Investigate the hilichurl camp)
 
 Paimon: Hmph... They left absolutely nothing intact. Oh, Paimon's getting mad! These hilichurls really know how to break stuff!
     Option 1:
@@ -86,6 +102,8 @@ Traveler: Let's follow the road a while longer.
 Paimon: Alright. But if it wasn't the hilichurls, then who?
 
 ## Talk 8
+
+(Look for clues in the area)
 
 Investigate (Ruined Rug): (A rolled carpet that's still in good condition. The symbol of the Tanit tribe is stitched into it, while ominous blotches dot its surface...)
 Traveler: The rug... how strange...
@@ -133,7 +151,14 @@ Paimon: #Uh... Traveler...
 Traveler: Paimon. Hide.
 Paimon: A—Alright!
 
+## Objective 12
+
+(Defeat the Eremite assassins)
+
+
 ## Talk 14
+
+(Talk to Paimon)
 
 Paimon: Wow... that was close. Luckily, we're good at fighting. Took them down in no time flat!
 Traveler: Thanks for your "hospitality."
@@ -154,6 +179,8 @@ Paimon: Huh? But...
 Paimon: Hmph! Paimon's not scared! If you've decided, then that's how we'll do it!
 
 ## Talk 15
+
+(Report your findings back to Yuften)
 
 Yuften: Y—y—you're back?
 Paimon: What? Something strange about us coming back?
@@ -176,9 +203,13 @@ Yuften: Fa—farewell, esteemed Master of the Jinni.
 
 ## Talk 16 (alternative/additional)
 
+(Report your findings to Babel)
+
 Yuften: This matter is e—extremely urgent! P—please go inform the Matriarch.
 
 ## Talk 16
+
+(Report your findings to Babel)
 
 Babel: Greetings, esteemed Master of the Jinni. Is there something you need?
 Traveler: Yuften's caravan got raided by some of your traitors.

@@ -7,6 +7,8 @@ Why do people start to forget Durin? You and Paimon have no clue. Just then, the
 
 ## Talk 2
 
+(Go see Durin)
+
 Paimon: Jean!
 Jean: Hello, you two! I'm glad you got my letter. Durin's awake and waiting on the bench over there. I'm here if you need help. Just give me a shout.
 Paimon: Don't worry about us! We'll be fine.
@@ -58,6 +60,8 @@ Durin: Miss Lisa! You... always seem to know how to put my mind at ease.
 Durin: Please, everyone, don't worry about me! When I get back, I'll find a way to complete my mother's story, and the one we started too!
 
 ## Talk 3
+
+(Head to the House of Daena with Durin)
 
 Paimon: After the library hunt in Mondstadt, it's not as if Paimon was expecting this to be easy. But this... Yeah, this is something else.
 Durin: ...Where do we even begin?
@@ -117,7 +121,14 @@ Durin: Of course, be my guest!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmm?
 Paimon: So the memory we've been looking for was about you, all along...
 
+## Objective 4
+
+(Enter the world within the book)
+
+
 ## Talk 5
+
+(Talk to everyone)
 
 Paimon: So this is the world where this chapter takes place? Looks like we're at the top of some kind of gigantic tree.
 Traveler: The story just now...
@@ -160,6 +171,8 @@ Durin: To leave this place? But... where am I supposed to go?
 
 ## Talk 6
 
+(Seek answers from the prophetess)
+
 Seer-Witch (???): You must be the little lost dragon?
 Little Dragon: It's true... My friends and I are lost.
 "M" (Narrator): This meeting was no accident. The "prophetess" was in fact the seer-witch, here to present her promised gift.
@@ -183,6 +196,11 @@ Little Dragon: The seer-witch was my mother's friend, so the prophecy she just g
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Well, it's not like we've got better options... But, if all we need to do is leave this place, which path should we take?
 Traveler: Any ideas, Durin?
 Durin: Why don't we take a look around?
+
+## Objective 7
+
+(Find a way out)
+
 
 ## Talk 8
 
@@ -275,9 +293,13 @@ Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is
 
 ## Talk 15 (alternative/additional)
 
+(Go toward where the wind is coming from)
+
 "M" (Narrator): In the world beyond the castle, no paper boat had ever flown before.
 
 ## Talk 15
+
+(Go toward where the wind is coming from)
 
 "M" (Narrator): In the world beyond the castle, no paper boat had ever flown before.
 Durin: Hey, if our goal is to just leave this place, what's stopping us from riding it out of here?
@@ -303,6 +325,8 @@ Durin: C'mon, it's time to leave this place.
 
 ## Talk 15
 
+(Go toward where the wind is coming from)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 16
@@ -324,7 +348,14 @@ Durin: Whenever I'm lost in Teyvat, I can't help thinking about it. Imagine how 
 Little Dragon: Oh, yeah... How could a paper boat even fly...
 Paimon: Ugh... Way to kill the mood, narrator.
 
+## Objective 17
+
+(Returning to the castle...)
+
+
 ## Talk 18
+
+(The story will eventually reach its conclusion...)
 
 "M" (Narrator): As the little dragon slipped back inside the castle's walls, the clamor of the outside world fell away.
 "M" (Narrator): There was no danger here, no problems for the little dragon to resolve.
@@ -335,7 +366,14 @@ Paimon: Hey, what's happening? Durin, wake up!
 Traveler: We've reached an ending...
 Paimon: But, but... this can't be how it ends! Durin promised to bring back everyone's memories... There's no way he'd accept an ending like this!
 
+## Objective 19
+
+(Walk the path where the stray cat cannot go...)
+
+
 ## Talk 20
+
+(The prophecy is destined to come true...)
 
 "M" (Narrator): The little dragon left along the path his companion could not take — and from that point forth, the stray was no longer part of his story.
 "M" (Narrator): Yet his memories of the stray were an indispensable part of his tale.
@@ -349,9 +387,13 @@ Paimon: Oh no, but Durin... Ugh, way to go, Hat Guy!
 
 ## Talk 21
 
+(Seek out other possibilities)
+
 "M" (Narrator): As enigmatic as she was elegant, the seer-witch spoke no more — for her thoughts had long since returned to the starry firmament above.
 
 ## Talk 23
+
+(Discuss your experience within the story with everyone)
 
 Paimon: So, that was the "secret"...?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh...

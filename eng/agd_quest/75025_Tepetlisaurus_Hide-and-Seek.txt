@@ -27,6 +27,11 @@ Traveler: Gotten a bit carried away with the fun and games, perhaps?
 Paimon: If so, we'll have to give him a good talking-to. The sun's nearly set!
 Paimon: Ugh... Let's go track it down before it gets so dark we can't even see.
 
+## Objective 2
+
+(Go look for your missing Saurian companion)
+
+
 ## Talk 3
 
 Paimon: #Hi! You haven't seen {REALNAME[ID(2)|SHOWHOST(true)]} around here, have you? Y'know, the new kid on the block...?
@@ -94,6 +99,8 @@ Paimon: Anyway, why don't we go say hi to that big Tepetlisaurus over there? Who
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 13
+
+(Say bye to the big Tepetlisaurus)
 
 Big Parenty Tepetlisaurus: Roarrr?
 Paimon: #Thanks for taking care of {REALNAME[ID(2)|SHOWHOST(true)]} all this time!

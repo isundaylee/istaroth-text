@@ -54,11 +54,30 @@ Akatanga: #Once the actors are all here, it's time to get moving. {REALNAME[ID(2
 Akatanga: When the plot calls for it, the two of you must *guide the antagonist towards the Wooden Barrel*, then scram with equal haste. Once you've reached a safe position, simply *smash the Wooden Barrel*, and that's it, job done!
 Akatanga: I can't wait to see the film when it's finished!
 
+## Objective 2
+
+(Place the Wooden Barrel somewhere suitable)
+
+
+## Objective 4
+
+(Place the Elemental Bait somewhere suitable)
+
+
 ## Talk 6
+
+(Talk to Akatanga)
 
 Akatanga: When the actors are in position, the two of you must *guide the antagonist towards the Wooden Barrel* as planned, then scram with equal haste. Once you've reached a safe position, simply *smash the Wooden Barrel*.
 
+## Objective 7
+
+(Wait for your Saurian companion to get in position)
+
+
 ## Talk 8 (alternative/additional)
+
+(Get into position at the designated spot)
 
 Akatanga: What's up? Need me to run you through it once more?
     Option 1:
@@ -69,7 +88,14 @@ Akatanga: What's up? Need me to run you through it once more?
         Traveler: No need.
         Akatanga: Then best of luck, I'm counting on you!
 
+## Objective 8
+
+(Get into position at the designated spot)
+
+
 ## Talk 9
+
+(Get into position at the designated spot)
 
 Paimon: Hey! Why's a temp suddenly filling in as the antagonist? Nobody ran it by us!
 Akatanga: Shh! Quiet, we're about to start shooting!
@@ -83,7 +109,14 @@ Akatanga: Alright, now's the time! Lure the Electro Slime towards the Wooden Bar
 Paimon: What, just smash a barrel? How's that gonna make anyone buy this whole "Mighty Meaty Fireball" business?
 Paimon: Sounds kinda weird, but... If you say so, we'll give it a try.
 
+## Objective 10
+
+(Lure the antagonist near the barrel, and smash the barrel)
+
+
 ## Talk 11
+
+(Talk to Akatanga)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawrrr!
 Paimon: Steady on, no need to rush!
@@ -121,6 +154,8 @@ Paimon: #Whoa, you look so imposing, {REALNAME[ID(2)|SHOWHOST(true)]}! Not bad a
 Paimon: #Hehe, looks like {REALNAME[ID(2)|SHOWHOST(true)]} is happy with how it turned out too. Well, all's well that ends well, as they say!
 
 ## Talk 12
+
+(Talk to Akatanga)
 
 Akatanga: No, that won't do. It didn't turn out how I imagined at all... Let's start over.
 

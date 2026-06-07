@@ -7,6 +7,8 @@ The secrets of this land are like an ancient song that lingers in your heart and
 
 ## Talk 1
 
+(Return to The Flagship to rest)
+
 Paimon: Zzz... Zzz...
 Traveler: (...)
 Traveler: (Nod-Krai... A land steeped in ancient stories... and the "first" place I set foot in Teyvat...)
@@ -25,6 +27,8 @@ Traveler (Message): "Paimon, I'm heading out for a bit. If you wake up and I'm s
 
 ## Talk 2
 
+(Take a walk under the moonlight)
+
 Traveler: (And Varka just happened to be away... Could it somehow be related to the Abyss...?)
 Traveler: (Come to think of it... It feels like there's something different about the Abyssal phenomenon here... the one they call the "Wild Hunt"...)
 Traveler: (Huh? Didn't realize I'd walked this far already...)
@@ -39,6 +43,8 @@ Traveler: (It's heading towards the source of the singing... Might as well follo
 
 ## Talk 3
 
+(Follow Luonnotar's guidance)
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): Been slacking off on your combat training? Or has no one been around to keep you in shape?
 Traveler: No... I... just wanted to let you win.
 Unknown Role (TALK_ROLE_MATE_AVATAR): Been too busy practicing your excuses instead, huh?
@@ -46,6 +52,8 @@ Traveler: ...
 Traveler: (Wonder when the last time we bickered like this was... Miss those days, I really do.)
 
 ## Talk 4
+
+(Enter the cavern)
 
 The Damselette (???): ♪~♪~
 Traveler: (That girl... She looks just like the Frostmoon Scions' statues... Surely that's not...!)
@@ -285,7 +293,14 @@ Jahoda: ...What!?
 Nefer: Is there some issue? Well, here's the upside — without me taking a cut from your commission, you'll earn more.
 Jahoda: ...Seriously, can someone explain what is going on here!?
 
+## Objective 7
+
+(Continue your walk)
+
+
 ## Talk 8
+
+(Continue your walk)
 
 Traveler: (So The Damselette has been here on Hiisi Island all along... But if it wasn't for the Luonnotar, I would've never even found the way in.)
 Traveler: (She didn't seem all that concerned about the world outside. Why do the Fatui want her back so badly?)
@@ -298,6 +313,8 @@ Traveler: #(She's alone... Could she be planning something?)
 Traveler: #...Lumine!
 
 ## Talk 9
+
+(#Get close to Lumine)
 
 Traveler: #...Lumine!
 Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether, it's you.
@@ -316,6 +333,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): Wait? But I still have unfinished business
 Traveler: (That's... the way to the statue of "Kuu{RUBY#[S]Moon Maiden}tar"...!)
 
 ## Talk 10
+
+(#Catch up with Lumine)
 
 Traveler: #(Surely Lumine's not here to...?)
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
@@ -367,11 +386,20 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): It's been ages since we went on an adventu
 Traveler: Really...?
 Unknown Role (TALK_ROLE_MATE_AVATAR): #You think I'd lie to my big bro?
 
+## Objective 11
+
+(Enter the sanctum of the Frostmoon Scions)
+
+
 ## Talk 12
+
+(Proceed deeper in)
 
 Unknown Role (TALK_ROLE_NONE): Missing text (3758720986)
 
 ## Talk 13
+
+(Proceed deeper in)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether, do you understand how kuuvahki works? How it exacts force through push and pull?
     Option 1:
@@ -384,7 +412,19 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): #Aether, do you understand how kuuvahki wo
         Traveler: Gotcha.
         Unknown Role (TALK_ROLE_MATE_AVATAR): Okay, I'll leave it to you then.
 
+## Objective 14
+
+(Go to the opposite cliff)
+
+
+## Objective 15
+
+(#Help Lumine create a path)
+
+
 ## Talk 17
+
+(Proceed deeper in)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): A wide, open space... must be in for a fight.
 Unknown Role (TALK_ROLE_MATE_AVATAR): Was that it? What a letdown...
@@ -404,6 +444,8 @@ Traveler: #I won't lose to you, Lumine.
 
 ## Talk 21
 
+(#Speak to Lumine)
+
 Unknown Role (TALK_ROLE_MATE_AVATAR): Fine, you win.
 Traveler: Didn't feel like you really wanted it anyway.
 Unknown Role (TALK_ROLE_MATE_AVATAR): Going all out in a place like this? Sounds like overkill to me.
@@ -411,6 +453,8 @@ Traveler: ...
 Traveler: (Wonder when the last time we bickered like this was... Miss those days, I really do.)
 
 ## Talk 22
+
+(Go to the next "trial")
 
 Traveler: What is this place?
 Unknown Role (TALK_ROLE_MATE_AVATAR): No sign of any monsters.
@@ -434,7 +478,29 @@ Traveler: Okay.
 Traveler: As expected, the stone pillars seem to resonate with it!
 Unknown Role (TALK_ROLE_MATE_AVATAR): They're in your hands, then.
 
+## Objective 24
+
+(#Solve the puzzle together with Lumine)
+
+
+## Objective 25
+
+(Go to the next "trial")
+
+
+## Objective 26
+
+(Go to the next "trial")
+
+
+## Objective 27
+
+(Go to the next "trial")
+
+
 ## Talk 28
+
+(Continue onward)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): Looks like the final trial is just up ahead. Ready for battle?
 Traveler: When have I ever not been?
@@ -450,7 +516,19 @@ Traveler: #Lumine...
 Unknown Role (TALK_ROLE_MATE_AVATAR): This is a night of miracles, an adventure that belongs to us. Let's not weigh it down with worries and regrets.
 Unknown Role (TALK_ROLE_MATE_AVATAR): This is our adventure.
 
+## Objective 29
+
+(Defeat the foe before you)
+
+
+## Objective 30
+
+(Defeat the foes before you)
+
+
 ## Talk 31
+
+(#Speak to Lumine)
 
 Traveler: It's over!
 Unknown Role (TALK_ROLE_MATE_AVATAR): Nicely done. Flawless execution.
@@ -464,6 +542,8 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): That goes without saying.
 Unknown Role (TALK_ROLE_MATE_AVATAR): C'mon. Time to claim the treasure we came for.
 
 ## Talk 32
+
+(Enter the secret space where the relic is stored)
 
 Traveler: So this is the Moon Marrow... the treasure we've been after.
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
@@ -480,6 +560,8 @@ Traveler: #Lumine!
 Traveler: ...
 
 ## Talk 33
+
+(#Look for Lumine)
 
 Traveler: #Lumine!
 Traveler: (Huh? What is this place?)
@@ -515,6 +597,8 @@ Flins: Nod-Krai is a dangerous place to be at night. I'd advise that you head ba
 
 ## Talk 34
 
+(Return to your accomodations to rest)
+
 Traveler: (Ha... Went out to clear my head, and came back with even more on my mind...)
 Traveler: #(What on earth is Lumine playing at...)
 Traveler: (Hm? What's this...)
@@ -536,6 +620,8 @@ Paimon: Alright, alright... Guess we'll have to feed your stomach before we feed
 Paimon: Let's go grab something to eat while we talk!
 
 ## Talk 35
+
+(Go to The Flagship's main hall)
 
 Paimon: Whew, this is just the best, huh? Free food, free lodgings... This Varka's friend-for-life material, that's for sure!
 Jolanta: Hey, did you hear what happened?
@@ -570,6 +656,8 @@ Paimon: Huh? Oh... O—Okay, just— Hey, Paimon's not a baby, y'know! Quit pull
 
 ## Talk 37
 
+(Leave the Curatorium of Secrets)
+
 Black Screen Text: After Jahoda is finally brought up to speed, you all agree on a plan to infiltrate the Fatui research facility the following night...
 Paimon: Are we sure Jahoda's alright? She looked totally crushed just now...
 Lauma: She'll be fine, she's just in shock. But one thing's for sure — the Curatorium's professional standards are beyond question.
@@ -587,7 +675,19 @@ Traveler: No problem.
 Paimon: Hmm, it does sound important... You're right, there's too many people here. Somewhere quieter makes a lot more sense.
 Lauma: Thank you both for understanding. Then let us meet beneath the moonlight.
 
+## Objective 38
+
+(Wait until the appointed time (19:00 – 24:00))
+
+
+## Objective 39
+
+(Meet up with Lauma)
+
+
 ## Talk 40
+
+(Meet up with Lauma)
 
 Paimon: Lauma, we're here!
 Paimon: Huh? Lauma, are you... praying?
@@ -662,6 +762,8 @@ Paimon: Wait up, we'll come too!
 
 ## Talk 42
 
+(Check on Kaarina's condition)
+
 Kaarina: ...
 Lauma: ...
 Kapy: Why...? Did I do something wrong? I've been praying to the Moon Goddess every day... Why isn't she getting any better...
@@ -701,6 +803,8 @@ Lauma: Our priority right now is reclaiming our relic from the Fatui.
 Lauma: But I now understand... that the day I will tell everyone the truth is no longer far off.
 
 ## Talk 43
+
+(Leave the Frostmoon Enclave)
 
 Paimon: Wow... Paimon would never have guessed Lauma had all that bottled up inside...
 Vilemina: Hey! Watch your step!
@@ -750,14 +854,20 @@ Paimon: Should be a good mix of meat and veggies... there's bound to be somethin
 
 ## Talk 44 (alternative/additional)
 
+(Leave the Frostmoon Enclave)
+
 Traveler: (Let's give them some space so they can rest...)
 
 ## Talk 44
+
+(Leave the Frostmoon Enclave)
 
 Paimon: Alright, food's packed and ready. This is the place, right?
 Paimon: Why does it feel like we're going to visit a patient... Ugh, no, no, take this seriously, Paimon...
 
 ## Talk 45
+
+(Meet The Damselette)
 
 The Damselette: ♪~♪~
 The Damselette: ...Hm?

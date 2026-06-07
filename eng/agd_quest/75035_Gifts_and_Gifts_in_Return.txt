@@ -7,6 +7,8 @@ Your Saurian companion gifts you the treasures it had been carefully collecting.
 
 ## Talk 3
 
+(Talk to your Saurian companion)
+
 Paimon: Paimon had a guess when she saw the pillars outside, but she really didn't expect to end up here...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: Looks like you like this place, at least! Though it does make sense, after all, you must've spent a lot of time here before you met us...
@@ -53,6 +55,8 @@ Paimon: Why don't we go find the Children of Echoes? If anyone's got gemsmiths w
 
 ## Talk 4
 
+(Look for a jeweler's shop in the Children of Echoes)
+
 Imix: Ah, you're here. Master Kulahaw has already left your processed gem in the shop, leaving instructions that I personally deliver it to you.
 Paimon: Huh? Master Kulahaw isn't here today either?
 Imix: That's right, he's out gathering inspiration yet again. By the way, he also made a set of locks to carry with him, saying it was to prevent his tools from being stolen... Which is weird... Would anyone want to steal our cutting tools and sell them?
@@ -66,6 +70,8 @@ Traveler: #Allow me to thank you on {REALNAME[ID(2)|SHOWHOST(true)]}'s behalf.
 Imix: Hey now, as long as your little Saurian likes it! I'll be sure to pass on your compliments to Master Kulahaw, please come again!
 
 ## Talk 5
+
+(Speak to the apprentice at the shop)
 
 Imix: Welcome to our shop! If you'd like us to cut a gemstone, you're in the right place!
 Paimon: Hey there! We do have a gemstone here, and we'd like to have it custom-processed. It's for our little Tepetlisaurus companion, ta-da! Here it is—
@@ -82,7 +88,14 @@ Imix: For example, learning polishing techniques from the tiny ripples on a lake
 Paimon: Uh... Sounds kinda complicated...
 Imix: Still, if you're in a hurry, you can go out and find him wherever he happens to be gathering inspiration from! Let me mark where he said he was going for you.
 
+## Objective 6
+
+(Look for the jeweler at the place he's gathering inspiration)
+
+
 ## Talk 7
+
+(Speak with the Gem Master)
 
 Paimon: Excuse me... Um, are you Master Kulahaw?
 Kulahaw: That is, in fact, my name...
@@ -107,10 +120,19 @@ Kulahaw: And don't forget about my tools too—
 
 ## Talk 12 (alternative/additional)
 
+(Retrieve the lost gem and the tools)
+
 Kulahaw: They're all perched up there on the tree... Could they be planning to build a nest with my tools?
 Kulahaw: My brave friends, it's all up to you! Ah, the pain of being without the means to earn my own bread...
 
+## Objective 12
+
+(Retrieve the lost gem and the tools)
+
+
 ## Talk 13
+
+(Report back to the Gem Master)
 
 Kulahaw: Can this be!? My tools are back! Oh, this is amazing!
 Kulahaw: I didn't get a good look before, but I must say, now that's one pretty gem! It's got the same fleshy yellow as a bird's tarsus... Bah! I shan't use those blasted scoundrels in my analogies.
@@ -122,3 +144,7 @@ Kulahaw: Like the sky just brightening at dawn, like the first rays of the sun, 
         Traveler: So that's the meaning of "gathering inspiration"?
         Kulahaw: Oh? So you've heard of the practice before?
 Kulahaw: Either way, just leave the gem to me. As I said before, I'll process it for free. Consider it a gift for your help in retrieving my tools. As for how long it'll take... Drop by the Gemporium in two days' time!
+
+## Objective 15
+
+(Wait until two days later)

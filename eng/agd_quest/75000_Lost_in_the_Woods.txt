@@ -38,12 +38,24 @@ Traveler: (Reach out to the dying beast...)
 Paimon: What are you doing... Err...
 Paimon: #Traveler, you...!
 
+## Objective 3
+
+(Defeat the Rifthounds)
+
+
+## Objective 5
+
+(Shatter the rock and rescue the whelp)
+
+
 ## Talk 6
 
 Traveler: Let me think about this some more...
 Paimon: Alright. Names are important, after all, so give it all the thought you need!
 
 ## Talk 7
+
+(Speak to the young creature)
 
 Paimon: Ah... Are you alright there, little guy?
 Little Guy?: Rawr...
@@ -102,41 +114,64 @@ Paimon: #Would you like Traveler to give you a name, then? Well... not that Paim
 
 ## Talk 8 (alternative/additional)
 
+(Give the little one an awesome new name!)
+
 Paimon: #Then let's call this little fella {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}, shall we?
 
 ## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
 
 Traveler: Let's go with that!
 Paimon: Alright, hehe!
 
 ## Talk 8 (alternative/additional)
 
+(Give the little one an awesome new name!)
+
 Paimon: So, what should we call this little guy?
 
 ## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr...
 Paimon: #Hmm, this name feels like it's piling the pressure on... Let's go with something else, Traveler!
 
 ## Talk 8 (alternative/additional)
 
+(Give the little one an awesome new name!)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
 Paimon: #Hmm, {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)} isn't a bad name either... and it's a name Paimon came up with too, right?
 
 ## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
 Paimon: #Eh? You didn't like it when Paimon said "Hash Brown," but Traveler calls you "{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}" and now you're all happy and stuff? ...Ugh, never mind. No point being mad at you.
 
 ## Talk 8 (alternative/additional)
 
+(Give the little one an awesome new name!)
+
 Paimon: No, no, this name won't do at all!
 
 ## Talk 8 (alternative/additional)
 
+(Give the little one an awesome new name!)
+
 Paimon: #Err, are you going to give it the same name as you, Traveler?
 
+## Objective 8
+
+(Give the little one an awesome new name!)
+
+
 ## Talk 9
+
+(Talk to your Saurian companion)
 
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}. That'll be your name from now on, little guy!
 Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}...
@@ -156,13 +191,19 @@ Paimon: Hmm? You know where the exit is?
 
 ## Talk 10
 
+(Follow your Saurian companion)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
 Paimon: Ooh, there's some real power behind that name!
 
 ## Talk 12 (alternative/additional)
 
+(Leave the strange space)
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Ehrr... Rawr!
 
 ## Talk 12
+
+(Leave the strange space)
 
 Paimon: So, what should we call this little guy?

@@ -23,7 +23,14 @@ Kasim: Hm, Fatuus, you won't lose to some random adventurer who broke in, will y
 Oleg: None of your business, Eremite guy. I'll beat down this rude intruder and head to the research camp we talked about.
 Black Screen Text: Kasim leaves...
 
+## Objective 12
+
+(Fight Oleg)
+
+
 ## Talk 13
+
+(Talk to Oleg)
 
 Oleg: If I weren't exhausted by retaking the camp... Ugh, I'll get you next time!
 Black Screen Text: Oleg runs away amidst the chaos...
@@ -44,7 +51,19 @@ Paimon: Hmph, if only we knew where this operation stronghold is...
 Traveler: Let's wipe them all out!
 Paimon: Uh-huh! Now let's head to the camps in order. We'll definitely catch the Fatui!
 
+## Objective 14
+
+(Go to Camp 2)
+
+
+## Objective 15
+
+(Fight Oleg)
+
+
 ## Talk 16
+
+(Talk to Oleg)
 
 Oleg: Argh, lost again...
 Oleg: I bet you are one of those who'd do anything for Mora, right?
@@ -58,7 +77,19 @@ Paimon: Hmm, Paimon couldn't even see his moves... it's like one blink, and he's
 Paimon: This Fatuus is actually skilled in running away!
 Paimon: One... Two... Next up is camp number three on the patrol route. We aren't gonna run into him there, right...
 
+## Objective 17
+
+(Go to Camp 3)
+
+
+## Objective 18
+
+(Fight Oleg)
+
+
 ## Talk 19
+
+(Talk to Oleg)
 
 Oleg: Geez, what are you after?
 Paimon: To stop you from doing bad things, of course!
@@ -75,7 +106,19 @@ Paimon: He said he was going back to base to rest. In other words, he won't be p
         Traveler: Let's just take it as clearing out the Fatui!
 Paimon: Yes, you're right. We can't leave the weird suction fans activated like that...
 
+## Objective 20
+
+(Follow the path and go to the last camp)
+
+
+## Objective 21
+
+(Defeat Kasim the Bandit)
+
+
 ## Talk 22
+
+(Talk to Kasim)
 
 Kasim: Ouch... Geez, don't hit me... Stooop that!
 Paimon: Are you really some legendary bandit...?
@@ -84,6 +127,8 @@ Kasim: Not every bandit is known for their physical strength...
 Paimon: Hm, that's a slick tongue. We should really ask him some right questions!
 
 ## Talk 23
+
+(Interrogate Kasim)
 
 Kasim: Go ahead. I promise I'll tell everything in my knowledge, hehe...
 Traveler: Are you really a bandit from the Eremites?
@@ -163,6 +208,8 @@ Paimon: Let's check the camp first!
 
 ## Talk 26
 
+(Search the camp for clues about the Fatui stronghold)
+
 Paimon: Look here! It's a book named "A Guide to Clandestine Contact With the Fatui"... Paimon wonders if we can find clues regarding the Fatui operation stronghold here...
 "A Guide to Clandestine Contact With the Fatui": "At night, go near the tents in Apam Woods. Light four torches there..."
 "A Guide to Clandestine Contact With the Fatui": "Then, go towards the signal lights. The stronghold lies where the lights come from..." Wow, so this is how they've been communicating...
@@ -172,13 +219,37 @@ Traveler: "To someone else's place."
 Paimon: They say "never bring your own rule book to someone else's place," but hmph! The Fatui brought this contact rule with them to Sumeru...
 Paimon: Alright, let's go to Apam Woods and get those Fatui!
 
+## Objective 27
+
+(Go to the secret contact campsite)
+
+
+## Objective 28
+
+(Light the torches at night (20:00 – 24:00))
+
+
+## Objective 29
+
+(Go to the Fatui stronghold)
+
+
 ## Talk 30
+
+(Talk to Oleg, who will check your watchword)
 
 Oleg: Eh? No way... Ahem, watchword, please. "Never bring your own rule book..."
 Traveler: "To someone else's place."
 Oleg: Hmph, come in already, you... Hmph, you must be the newbies here for support. What took you so long?
 
+## Objective 31
+
+(Follow Oleg)
+
+
 ## Talk 32
+
+(Talk to Oleg)
 
 Oleg: You have no idea how important this experiment is! You are not only late, but...
 Oleg: Hmph, and you took over the camps, stopped the Saghira Machines, and interrupted our experiment!
@@ -187,7 +258,14 @@ Oleg: Come on, I've been attacked... I've fought you three times... What made yo
 Oleg: Do you know why I let you in even after I recognized you? Well, it's a trap!
 Oleg: #Get {F#her}{M#him}! This is the brat that hampered our experiment!
 
+## Objective 33
+
+(Fight Oleg)
+
+
 ## Talk 34
+
+(Talk to Oleg)
 
 Oleg: We were actually defeated... even with so many members...
 Oleg: If only the experiments went well, I would...
@@ -199,6 +277,8 @@ Black Screen Text: You inform Parchamdar Rukh Shah from the Corps of Thirty.
 He and his subordinates take the Fatui away.
 
 ## Talk 35
+
+(Talk to Rukh Shah)
 
 Rukh Shah: Were it not for you, we'd never have known what suspicious things the camp has been used for... We will take away these Fatui.
 Rukh Shah: According to researchers' investigation, even though no influence was exerted on the Withering Zones, the mere operation of the machines has somehow polluted the environment. If we failed to stop them in time...

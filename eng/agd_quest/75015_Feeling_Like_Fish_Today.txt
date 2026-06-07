@@ -7,6 +7,8 @@ Wouldn't it be great if you could catch some fish for your Saurian buddy...? Ace
 
 ## Talk 2
 
+(Talk to your Saurian companion)
+
 Paimon: This shallow water beach looks great! It's warm, bright, and there are fishing rods set up here. Maybe this would make a good fishing spot!
 Paimon: Why don't we try fishing here?
 Traveler: Maybe I'll catch myself another travel guide...
@@ -24,7 +26,14 @@ Paimon: Ugh, alright then... But be warned, Paimon has no idea what she'll catch
 Paimon: Plus, before that... Ace Angler Paimon needs a nice, tidy environment to work her magic in. What if the line gets snagged on all that junk floating around in the water?
 Paimon: Let's tidy up the area a bit first!
 
+## Objective 3
+
+(Clean up the nearby waters)
+
+
 ## Talk 4
+
+(Wait for Paimon to fish)
 
 Paimon: Phew, nice and tidy at last... G—Guess it's time for Paimon to get started with the fishing!
 Paimon: Just you wait and see, Paimon's gonna catch a big one!
@@ -66,11 +75,20 @@ Paimon: #If only we could find a way to catch that fish, Traveler...
 
 ## Talk 5 (alternative/additional)
 
+(Catch the fleeing fish)
+
 Paimon: Yikes, that's one strong fish. How's it still able to swim so fast, even after such a long struggle...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrrr...
 Paimon: #No worries, Traveler'll definitely be able to catch it again!
 
+## Objective 5
+
+(Catch the fleeing fish)
+
+
 ## Talk 6
+
+(Bring the fish back to shore)
 
 Paimon: #Tada! What did Paimon tell ya? If anyone could get the better of this slippery customer, it'd be Traveler!
 Paimon: Speaking of skills, if we just threw in all the bait and let the fish get so full that they turned over and floated up to the surface... that would still count as "fishing," right?

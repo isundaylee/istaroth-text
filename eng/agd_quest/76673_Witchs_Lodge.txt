@@ -9,6 +9,8 @@ Nicole: Heh... Alright, time to get to work.
 
 ## Talk 2
 
+(Listen to the mysterious voice)
+
 Observe (???): #A long, long time ago, there was a young man who ran away from home. After spending the last of his Mora, he trod through the cold of winter, shivering in his threadbare clothes...
 Observe (???): #Suddenly, the young man found himself stepping out onto thin air, and he fell through into a strange place. But before he could react, a voice rang out from somewhere in the distance:
 Observe (???): "This is the secret home of Nicola Coco, the Great Mage Everlasting. Oh, destitute one, tell me your heart's greatest wish, and with my guidance, you shall attain it."
@@ -17,12 +19,16 @@ Paimon: "Nicola Coco"... Who's that again? Do we know her?
 
 ## Talk 3
 
+(Follow the drifting light)
+
 Observe (???): #The young man was in awe of the mage's magnificence and beauty. After a lengthy silence, he solemnly declared:
 Observe (???): "O great mage from afar, how beauteous and wise you are! The moment I beheld you, my heart began to flutter. All my heart desires now is to make your wishes mine."
 Observe (???): The subtlest of smiles appeared on the mage's face as she replied: "Very well. Then I shall task you with performing certain deeds on my behalf, such as those that are within your ability. Your guide is here, and your reward awaits you in the days to come."
 Paimon: Guide? ...Does that mean this glowing orb?
 
 ## Talk 4
+
+(Follow the drifting light)
 
 Observe (???): "Secret home..." said the young wanderer, with a look of confusion on their face. "Where is this 'secret home' of which you speak?"
 Observe (???): The mage's voice grew somewhat flustered upon hearing this question...
@@ -32,6 +38,8 @@ Observe (???): "This shall be your trial. Offer up your strength, and help this 
 
 ## Talk 4
 
+(Follow the drifting light)
+
 Observe (???): #As the young man continued forth, he noticed many exquisite statues dotting the mage's territory. "What are these?" He asked, puzzled.
 Observe (???): "These are all those who opposed me. They underestimated the power of a mage, and thus were turned to stone."
 Observe (???): Hmm, I quite like that. A spur-of-the-moment addition, but dare I say it was a good one. A mage ought to be a powerful and dangerous figure... Danger lends a certain mystique, and without mystique, the world would be a very dim place.
@@ -40,6 +48,8 @@ Observe (???): Upon hearing this, the youngster broke into a cold sweat. But the
 Observe (???): "Anyway, statues. That's what I need your help with. The mage's lodge is feeling a little empty, and I should like to fill the space with some more adorable companions."
 
 ## Talk 4
+
+(Follow the drifting light)
 
 Observe (???): "Well then, young one. Now, you have learned of the troubles faced by this mage... Nicola Coco requires your aid to build her sacred territory."
 Observe (???): The mage poured a cup of tea for her visitor. "What say you?"
@@ -69,13 +79,19 @@ Paimon: Wait here — we'll head out and see what we can find. But remember to f
 
 ## Talk 5 (alternative/additional)
 
+(Find an appropriate target to photograph)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (1012381282)
 
 ## Talk 6 (alternative/additional)
 
+(Find an appropriate target to photograph)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (303200074)
 
 ## Talk 6
+
+(Find an appropriate target to photograph)
 
 Nicole: Just who I wanted to see.
 Nicole: I'm delighted with the photos you took — excellent source material. Now — I have all the carving tools ready to go. Would you like to try it together?
@@ -98,9 +114,13 @@ Paimon: Whew... Well, that's a relief...
 
 ## Talk 7 (alternative/additional)
 
+(Find an appropriate target to photograph)
+
 Unknown Role (TALK_ROLE_NONE): Missing text (2583346930)
 
 ## Talk 7
+
+(Find an appropriate target to photograph)
 
 Observe: Mm, the mage's story is starting to taking shape. I think I'll delegate this next section to Mr. Nine.
 Observe: A great mage is defined above all by her beauty and powerful presence. Perhaps an exaggerated laugh might help her stand out more.
@@ -122,6 +142,8 @@ Observe: Although in truth, it's not so much me capturing moments in time as mom
 
 ## Talk 8
 
+(Talk to Paimon)
+
 Black Screen Text: You and Paimon take a bunch of photos...
 Paimon: Hmm, some of these shots are pretty good, but we didn't get any from the front. Let's wait for it to turn around...
 Mandragora: Roar!
@@ -132,7 +154,14 @@ Paimon: Yes, that's the one! That's the money shot!
         Traveler: Get back!
 Paimon: Waaaaaah! Help!
 
+## Objective 9
+
+(Drive off the enraged Mandragora)
+
+
 ## Talk 10
+
+(Take the pictures back to the cave)
 
 Paimon: Hey Nicole, we're back!
 Observe (Nicole): That was quick! You two work very fast.
@@ -140,7 +169,19 @@ Paimon: Ah, it's nothing. But uh, how do we get the photos to you?
 Observe (Nicole): You can hold onto them for now. I'll be there in a couple of days — we can talk more about the statues then.
 Paimon: Sure thing. See you in a couple days!
 
+## Objective 11
+
+(Wait until two days later (08:00 – 18:00))
+
+
+## Objective 14
+
+(Give carving a try)
+
+
 ## Talk 15
+
+(Chat with Nicole)
 
 Paimon: Now we just need Nicole to add the finishing touches...
 Nicole: You got rid of all the extraneous stone, yes? Let me take a look.

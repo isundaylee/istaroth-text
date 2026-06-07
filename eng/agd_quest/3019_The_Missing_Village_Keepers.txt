@@ -7,6 +7,8 @@ Entrusted by Isak, a resident of Aaru Village, you and Cyno begin looking for cl
 
 ## Talk 3
 
+(Ask the locals for information)
+
 Paimon: Excuse me, did you happen to see where the missing scholars went?
 Kazan: You mean the Village Keepers? Hmm, let me think...
 Kazan: When I was eating dinner the other day, I saw one of them by the side of the road, muttering away and eating mushrooms and tree roots... They shouldn't go around eating that kind of stuff!
@@ -14,6 +16,8 @@ Paimon: Uh, okay, did you notice anything else?
 Kazan: Anything else, hmm... No, I think that's all I have to tell you, sorry.
 
 ## Talk 4
+
+(Ask the locals for information)
 
 Cyno: The scholars that have gone missing, have you seen them?
 Shani: Whaaa! Those eyes, those fierce eyes! Y—You look like a real fighter...
@@ -28,6 +32,8 @@ Shani: Well, whatever the case, I'll always be thankful to him and whoever taugh
 Isak: Gotcha! Thank you!
 
 ## Talk 5
+
+(Ask the locals for information)
 
 Isak: Sir, have you seen my grandpa recently? You know, the one who likes to sit and space out near the village entrance...
 Jabari: Oh, well if it isn't Isak! Your grandpa, huh? Hmm... it's been a while.
@@ -47,6 +53,8 @@ Cyno: Hmm... Isak, stay here.
 Cyno: Let's head over there. Stay quiet as you move.
 
 ## Talk 6
+
+(Follow Cyno)
 
 Cyno: Listen, see if you can make out what they're saying.
 Sharkan: Have you heard? The mighty King Deshret, the sovereign of our faith, will soon return to this world!
@@ -106,7 +114,14 @@ Isak: Ah, I'm here!
 Cyno: Where's your grandpa's house?
 Isak: I can take you there. Just follow me.
 
+## Objective 7
+
+(Follow Isak)
+
+
 ## Talk 8
+
+(Talk to Cyno)
 
 Isak: This is where Grandpa usually stays.
 Paimon: There sure isn't much here...
@@ -135,25 +150,42 @@ Cyno: In the forest... from a scholar...
 
 ## Talk 9 (alternative/additional)
 
+(Look for clues nearby)
+
 Isak: *sigh* Where did Grandpa go... Please come home, Grandpa...
 
 ## Talk 9 (alternative/additional)
+
+(Look for clues nearby)
 
 Traveler: (Looks like someone has been living in here this entire time...)
 
 ## Talk 9 (alternative/additional)
 
+(Look for clues nearby)
+
 Traveler: (These footprints are at least rather clear...)
 
 ## Talk 9 (alternative/additional)
+
+(Look for clues nearby)
 
 Unknown Role (TALK_ROLE_NONE): (These are all daily necessities...)
 
 ## Talk 9 (alternative/additional)
 
+(Look for clues nearby)
+
 Unknown Role (TALK_ROLE_NONE): (It seems impossible to climb up from here...)
 
+## Objective 9
+
+(Look for clues nearby)
+
+
 ## Talk 10
+
+(Talk to Cyno)
 
 Cyno: ...
 Paimon: What are you looking for, Cyno?
@@ -187,6 +219,8 @@ Paimon: Sounds like we'd better help get him back! Don't you worry, Isak, we won
 Cyno: Let's head to Aaru Village and inform Candace and the others about what we learned here. After that, we'll set off to find the scholars.
 
 ## Talk 11
+
+(Go back to the village chief's house)
 
 Candace: ...Right, the dark fabric definitely looks a lot better. That'd be my choice, too...
 Paimon: We're back, Candace! We've got a lot to tell you!
@@ -233,13 +267,22 @@ Paimon: Alright, sounds like a plan!
 
 ## Talk 12 (alternative/additional)
 
+(Go to Caravan Ribat)
+
 Candace: Cyno, please don't take offense. I'm sure Dehya just wants to help everyone solve their problem as quickly as possible. That's why she can be so straightforward at times.
 Cyno: I don't mind.
 Candace: Ah, I see... Well, from the way you were staring out into the distance, I thought you might have been mulling over Dehya's words.
 Cyno: No. I'm used to being treated that way.
 Cyno: It's natural to fear strength. I take no objection to it.
 
+## Objective 12
+
+(Go to Caravan Ribat)
+
+
 ## Talk 13
+
+(Talk to Dehya)
 
 Paimon: Well, here we are again.
 Dehya: Sounds like you're starting to get familiar with the area.
@@ -269,6 +312,8 @@ Dehya: Let's go check out the tavern. Maybe we'll find someone I know.
 
 ## Talk 14
 
+(Ask Dehya's acquaintances for clues)
+
 Dehya: Just our luck... None of them are here today.
 Paimon: You mean, you don't see anyone you know?
 Zaki (???): Dehya, is that you? Haha, what a coincidence! You're here for a drink, too?
@@ -287,6 +332,8 @@ Dehya: Hey, keep it down. Let's just say I'd prefer to keep this deal a secret. 
 Zaki: Hahaha, yes, how considerate of you. Delavar's my friend too, so of course I can take you to him. Come with me.
 
 ## Talk 15
+
+(Go to the place Zaki mentioned)
 
 Dehya: Are we there yet?
 Zaki: Yep, this is the place.
@@ -315,7 +362,14 @@ Dehya: You're not wrong. Mercenaries are driven by Mora, and my faith lies with 
 Zaki: Enough talking. Get 'em!
 Dehya: Hmph, just as I expected. Let's teach 'em a lesson, Traveler!
 
+## Objective 17
+
+(Defeat the Radicals)
+
+
 ## Talk 18
+
+(Talk to Dehya)
 
 Zaki: Impossible! H—How could you...
 Dehya: So, what do you think about your meticulous network now, Zaki? How did you say it... "It's only natural for a traveling mercenary like me to be out of the loop."
@@ -363,6 +417,8 @@ Dehya: Anyway, looks like we're done with business here. Traveler, lend me a han
 
 ## Talk 19
 
+(Talk to Dehya)
+
 Dehya: This should be all of 'em. I'll let you take it from here.
 Candace: Alright. I'll be in touch. Until then, please stand by.
 Paimon: Candace, do you need any help?
@@ -375,14 +431,25 @@ Dehya: As for these idiots... Let's just hope they live to see another day.
 
 ## Talk 21 (alternative/additional)
 
+(Wait till the next morning (06:00 – 12:00))
+
 Candace: You heard the question. Now answer me.
 Delavar: Arrghh!!!
 
 ## Talk 21 (alternative/additional)
 
+(Wait till the next morning (06:00 – 12:00))
+
 Dehya: Candace is an expert at dealing with people like this. All we have to do is wait for her word.
 
+## Objective 21
+
+(Wait till the next morning (06:00 – 12:00))
+
+
 ## Talk 24
+
+(Talk to Dehya)
 
 Paimon: Hey Dehya!
 Dehya: Right on time.
@@ -406,6 +473,8 @@ Candace: Come on in, everyone.
 Dehya: C'mon, let's go inside.
 
 ## Talk 25
+
+(Talk to Candace)
 
 Paimon: Candace, we're... Whoa! You look furious!
 Candace: Do I? Huh... What gave it away?
@@ -477,6 +546,11 @@ Cyno: Yes. Pack up and get ready to leave.
 Dehya: You got it. Candace, I'll let you deal with the Radicals. Leave everything outside the village to us.
 Candace: Alright.
 Paimon: Let's meet back here once everyone's ready!
+
+## Objective 99
+
+(Go back to the village chief's house)
+
 
 ## Additional Conversations
 

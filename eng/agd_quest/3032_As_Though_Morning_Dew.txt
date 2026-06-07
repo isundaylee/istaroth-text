@@ -7,6 +7,8 @@ The puppet has given up his original name. Just as the title "Wanderer" suggests
 
 ## Talk 1
 
+(Talk to Nahida)
+
 Nahida: #Welcome back, Traveler, Paimon, Balladeer.
 Paimon: Whew! It feels like we just went on a really long journey... Paimon's exhausted.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...
@@ -80,9 +82,13 @@ Paimon: Nope, Paimon only does nicknames! If it's a serious name you're after...
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?
 
 ## Talk 2 (alternative/additional)
+
+(Give Wanderer a new name)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): You can't be serious.
 Traveler: Hmm, let me give it some more thought.
@@ -90,11 +96,15 @@ Traveler: Hmm, let me give it some more thought.
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Is this supposed to be your attempt at a joke?
 Traveler: Hmm, let me give it some more thought.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
 
 ## Talk 2 (alternative/additional)
+
+(Give Wanderer a new name)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...Hmph. I have no need for these names anymore.
 Traveler: Hmm, let me give it some more thought.
@@ -102,15 +112,21 @@ Traveler: Hmm, let me give it some more thought.
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 Traveler: Yes. I think this will do.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Ah, alright, if you say so.
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 Traveler: Hmm, let me give it some more thought.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
 
 ## Talk 2 (alternative/additional)
+
+(Give Wanderer a new name)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): That won't work.
 Traveler: Hmm, let me give it some more thought.
@@ -118,23 +134,38 @@ Traveler: Hmm, let me give it some more thought.
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...This is a bad idea.
 Traveler: Hmm, let me give it some more thought.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You want to share your name with me? Huh, not a bad choice.
 
 ## Talk 2 (alternative/additional)
+
+(Give Wanderer a new name)
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Are you sure?
 
 ## Talk 2 (alternative/additional)
 
+(Give Wanderer a new name)
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?
 
+## Objective 2
+
+(Give Wanderer a new name)
+
+
 ## Talk 3
+
+(Talk to Nahida)
 
 Nahida: There, now you have a name of your own.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: What about a nickname? Are you done yet?
@@ -172,6 +203,8 @@ Nahida: Thank you both. I hope you will find somewhere nice to go and relax for 
 
 ## Talk 4
 
+(Listen in on the scholars' conversation)
+
 Sawada: I've got it! I can end my novel with some words from Mikoshi Nagamasa.
 Aqaba: You mean because everyone else in the story is dead?
 Sawada: Yeah. I heard that Mikoshi Nagamasa died at a ripe old age. He's the perfect fit to be the narrator of the epilogue.
@@ -183,14 +216,20 @@ Sawada: "Life is a story too long to be told, a journey that you must walk to be
 
 ## Talk 5 (alternative/additional)
 
+(Return to the resting place)
+
 Sawada: Aqaba, thanks for inviting me to research together!
 Aqaba: Of course, Sawada. Your creativity has been indispensable to me. Without you, I'd have scratched my head bald by now.
 
 ## Talk 5 (alternative/additional)
 
+(Return to the resting place)
+
 Nahida: Thank you so much. Please get some good rest, you must be exhausted. You know, take a shower, take a dook-dook... you'll feel as good as new.
 
 ## Talk 5
+
+(Return to the resting place)
 
 Paimon: Whew! It's about time we had a break!
 Paimon: As soon as you stop, all the tiredness and hunger comes rushing back...
