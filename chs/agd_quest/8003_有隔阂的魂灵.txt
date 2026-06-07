@@ -134,14 +134,14 @@
 
 派蒙: 那，那个人，难道就是…？！
 旅行者: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！
-Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…
+旅行者血亲: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…
     Option 1:
         旅行者: 终于找到你了！
     Option 2:
         旅行者: 快跟我走！这里很危险！
 派蒙: #等…等等，旅行者，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}刚才替深渊使徒挡住了攻击…
 派蒙: #你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}，好像和「深渊」…
-Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}，为什么你和戴因在一起？
+旅行者血亲: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}，为什么你和戴因在一起？
     Option 1:
         旅行者: …什么？
         旅行者: （我们分离了这么久…）
@@ -159,17 +159,17 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BR
 戴因斯雷布: ……
 戴因斯雷布: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}。我们又见面了。
 派蒙: #这…这究竟是怎么回事？！戴因也知道{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}的名字！
-Unknown Role (TALK_ROLE_MATE_AVATAR): #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…你不该和这个人同行。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 这个人…是我的「敌人」。
+旅行者血亲: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…你不该和这个人同行。
+旅行者血亲: 这个人…是我的「敌人」。
 戴因斯雷布: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}…
     Option 1:
         旅行者: 等一下！
     Option 2:
         旅行者: #别再说我不明白的话了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}！
-Unknown Role (TALK_ROLE_MATE_AVATAR): ……
-Unknown Role (TALK_ROLE_MATE_AVATAR): #但这是必须对你说的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。不要与戴因一起来阻止我。不要阻止「深渊」。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 那个人…戴因斯雷布。他是坎瑞亚末代宫廷卫队的「末光之剑」。在五百年前，他未能阻止坎瑞亚的灭国。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 那时他身受不死诅咒，流浪荒野…只能看着他想要守护的人民，化作深渊的怪物。
+旅行者血亲: ……
+旅行者血亲: #但这是必须对你说的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。不要与戴因一起来阻止我。不要阻止「深渊」。
+旅行者血亲: 那个人…戴因斯雷布。他是坎瑞亚末代宫廷卫队的「末光之剑」。在五百年前，他未能阻止坎瑞亚的灭国。
+旅行者血亲: 那时他身受不死诅咒，流浪荒野…只能看着他想要守护的人民，化作深渊的怪物。
 派蒙: 你说…戴因是坎瑞亚人？！五百年前经历灭国的坎瑞亚人？！
 派蒙: 而且你说「人民化作怪物」…是说现在的深渊教团，不止是「和坎瑞亚有关联」的程度，根本就是坎瑞亚的「遗民」本身吗？！
 派蒙: 呜…还有「戴因是你的敌人」什么的，一下子完全搞不清状况了…
@@ -177,13 +177,13 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): 那时他身受不死诅咒，流浪荒野
         旅行者: #先跟我走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！我们回家！
     Option 2:
         旅行者: 这些事以后再告诉我，我们回家吧！
-Unknown Role (TALK_ROLE_MATE_AVATAR): 家…
-Unknown Role (TALK_ROLE_MATE_AVATAR): #嗯，当然，有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}在的地方就是「家」。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 但我还不能与你去往下一个世界、寻找新的家园…至少现在不能。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 在「深渊」淹没神座之前，我与「天理」，有一场尚未完结的战争…
+旅行者血亲: 家…
+旅行者血亲: #嗯，当然，有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}在的地方就是「家」。
+旅行者血亲: 但我还不能与你去往下一个世界、寻找新的家园…至少现在不能。
+旅行者血亲: 在「深渊」淹没神座之前，我与「天理」，有一场尚未完结的战争…
 旅行者: 天…理？
-Unknown Role (TALK_ROLE_MATE_AVATAR): #听我说，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。
-Unknown Role (TALK_ROLE_MATE_AVATAR): 我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。
+旅行者血亲: #听我说，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。
+旅行者血亲: 我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。
 
 ## Talk 5
 
