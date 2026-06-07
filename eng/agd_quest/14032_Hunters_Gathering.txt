@@ -3,6 +3,105 @@
 # Hunters' Gathering
 
 
+## Talk 2 (alternative/additional)
+
+Navia: Whoa! They really have thought of everything. Even the Fateometer is here and ready to go for us!
+Furina: ...The Fateometer? What's that?
+Lyney: It's a card that's used to determine action success or failure. We'll need to use it when we try to use certain skills.
+Navia: And what about all the dessert and tea? Is that for us as well?
+Clorinde: That's what the message said.
+Furina: Really? That's so nice... It feels just like a tea party with friends.
+Paimon: Those snacks have Paimon's name written all over them!
+Lyney: Haha, I think you might be more of a "Snack Hunter" than a Marechaussee Hunter, Paimon.
+Paimon: Snack Hunter Paimon, reporting for duty! If there are delicious snacks to be found, Paimon'll track down every last one!
+Furina: The desserts are great, but I'm still looking forward to the story more than anything.
+Clorinde: Very fair. Then let us begin.
+Clorinde: First, please pick up the blank character cards in front of you, and write down your name and profession.
+Clorinde: You can find an abbreviated version of the rules printed on the back of your character card. If you have any questions, feel free to ask me.
+Clorinde: In this story, everyone is a Marechaussee Hunter. To reflect this, the club has prepared a small badge for everyone.
+Paimon: Ooh! Nice!
+Clorinde: As Hunters, you have proficiency in swordsmanship and fighting by default, so there's no need to allocate any additional skill points to those areas.
+Paimon: Swordsmanship? So there's a fighting part to all of this? Umm... Paimon's not sure she can do all that on her own. Maybe Paimon can just stick with you?
+Clorinde: #Why don't you share a character card, then? Traveler will be the Marechaussee Hunter and you can be his little floating assistant.
+Navia: Hahaha, kinda like in real life.
+Furina: So, for the name... Do I fill it out with the name of my character?
+Clorinde: Yep. It can be any name you like.
+Navia: You can use your real name too, if you want. I do that whenever I get too lazy to think of a new name.
+Furina: Oh! So, it would be like... like experiencing a different life, but still as yourself? That's not a bad idea.
+Lyney: Hmm, in that case... I think I'll continue to use the name "Lyney," then.
+Clorinde: Next up is the skill sheet. You have a limited amount of skill points that you can use to learn a number of skills. The more points you invest in a particular skill, the easier it will be to pass associated checks.
+Navia: Hmm, I'll take "persuasion" and "investigation"! Those are must-haves when it comes to missions like these.
+Paimon: Oh, those skills sound like they'd be useful for gathering intelligence. Good idea Navia! Just as expected of a veteran player!
+Furina: Hmm... So should we also take those skills, then?
+Lyney: Not necessarily. Since we're working together as a team, we could leave the negotiations to Navia, and use our skill points to pick up other useful skills.
+Lyney: For example... I think I'll take "stealth" and "sleight of hand." That will give us more options if we run into any situations we can't negotiate our way out of.
+Furina: Oh, interesting! I wasn't thinking about it like that. I suppose it's not so different from an acting troupe, everyone has their own role to play.
+Furina: Let me see... I'll take "arts" and "performance." I'm not quite sure what use they'll be, but I'm not as knowledgeable about the other skills, and I'm not too confident I'd be able to roleplay them well.
+Paimon: #Well, that leaves us! What do you want to learn, Traveler?
+    Option 1:
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+        Traveler: Learn "medicine"...
+        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+    Option 2:
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+        Traveler: Learn "medicine"...
+        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+    Option 3:
+        Traveler: Learn "medicine"...
+        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+    Option 4:
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+    Option 5:
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+    Option 6:
+        Traveler: Learn "medicine"...
+        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+    Option 7:
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+    Option 8:
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+        Traveler: Learn "insight"...
+        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+    Option 9:
+        Traveler: Learn "medicine"...
+        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+        Traveler: Learn "cooking"...
+        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+Paimon: So, what do you think? Are you sure you want to learn these two skills?
+    Option 1:
+        Traveler: Let me think about this some more...
+        Paimon: Sure. What do you want to learn?
+        Traveler: Learn "cooking"...
+        [Circling back to a pre-branch dialog]
+    Option 2:
+    Option 3:
+        Traveler: Let me think about this some more...
+        Paimon: Sure. What do you want to learn?
+        Traveler: Learn "medicine"...
+        [Circling back to a pre-branch dialog]
+    Option 4:
+        Traveler: Let me think about this some more...
+        Paimon: Sure. What do you want to learn?
+        Traveler: Learn "insight"...
+        [Circling back to a pre-branch dialog]
+Traveler: Yep, I'm sure.
+
 ## Talk 2
 
 Clorinde: Let's see... Hmm... Oh, looks like you each have enough points to choose one final skill.
@@ -57,6 +156,28 @@ Clorinde: Well, that's because...
 Clorinde (Game Master): A long time ago, back when human civilization was still in its infancy, powerful demons and evil sorcerers ruled over the land. They created a host of monsters and sent them to slaughter all humans in existence...
 Clorinde (Game Master): Soon, a group of human rebels banded together. With their swords raised, they swore to brave the darkness and, in doing so, subdue each and every monster that sought their destruction. They became known as the Marechaussee Hunters...
 
+## Talk 8 (alternative/additional)
+
+Clorinde (Game Master): Some time later, as a member of the Marechaussee Hunters, you receive a commission. Following the address provided on the message, you take a boat and arrive at this strange city.
+Clorinde (Game Master): As you inhale, you can taste the slightly salty air of the docks as you begin to survey your surroundings. There aren't many people in the vicinity, but you do take note of a few others who, like you, seem to be sizing up this place.
+Clorinde (Game Master): Your eyes meet, and you realize these people are fellow Marechaussee Hunters, likely led to this location after receiving the same commission as you.
+Navia: You're all Marechaussee Hunters too, right? Allow me to introduce myself! The name's Navia — monster hunter by trade and helpful neighborhood businesswoman on the side.
+Navia: What say you to traveling together? We can help each other out on the road.
+Lyney: Okay! Count me in.
+Lyney: My name is Lyney. I've been wandering since I was little, and picked up a few less than legal tricks along the way. I was adopted by a Marechaussee Hunter and, later, chose to follow in his footsteps.
+Furina: (Is this where you introduce your character to everyone? It sounds like they've done this dozens of times.)
+Furina: My name is Furina, and um... I grew up in a noble family. I always had a strong interest in performance and the arts. Even though I'm a Marechaussee Hunter, what I really want is to be a performing artiste...
+Navia: Hey, that's really cool!
+Navia: (You can do it, Furina! That's exactly how it's done!)
+Paimon: Paimon is Paimon, a good friend and companion to this Marechaussee Hunter right here!
+
+## Talk 8 (alternative/additional)
+
+Traveler: We used to be chefs.
+Traveler: I've been studying the culinary arts since I was a child. I hope my delicious food can help boost people's spirits.
+Furina: That's wonderful. I'll be looking forward to your cooking during our adventures together.
+Lyney: Well, if we're all here for the same commission, why don't we take some time to confirm what we need to do?
+
 ## Talk 8
 
 Clorinde (Game Master): You open your envelopes at the same time. The message reads...
@@ -91,6 +212,71 @@ Guard Captain: But... But if the legendary Marechaussee Hunters are prepared to 
 Navia: Just take it easy and leave the monsters to us! Fighting them is what we do.
 Guard Captain: I'll place my trust in you, then. You have my gratitude.
 Guard Captain: I just hope all the guards will be able to come back to their families alive. I wish you the best of luck.
+
+## Talk 10 (alternative/additional)
+
+Navia: Greetings, friend! Lovely weather we're having today, don't you think?
+Melancholic Young Woman: Oh, hello... I suppose you're right. The weather today is quite lovely. If only those monsters out there would stop causing trouble...
+Furina: (It seems like every character included in the script has a certain amount of useful information to offer. If we keep asking questions, we might be able to get some good leads.)
+Navia: Come now, don't be sad! Life is all about optimism! Oh, that reminds me, what did you have for breakfast this morning?
+Melancholic Young Woman: ...Huh?
+Furina: (Uh... I don't think that's the kind of question we're supposed to ask...)
+Navia: Nothing turns a frown upside down like good food! How about some Macarons? I could make you some!
+Furina: (...You didn't even take cooking as one of your skill proficiencies!)
+Melancholic Young Woman: Ah... That's not necessary, Miss. Excuse me for saying this, but you don't really look like a chef. Besides, I'm not really a fan of sweets...
+Navia: So you're someone who barely smiles and doesn't like sweets... Huh, you're really starting to remind me of this one friend of mine...
+Melancholic Young Woman: Tch...
+Navia: Hey, did she just "tch" me?
+Furina: (Clorinde must have broke character for a second!)
+Paimon: #This isn't getting us anywhere... Traveler, maybe you can think of something?
+
+## Talk 10 (alternative/additional)
+
+Traveler: How about I cook something? Right here, right now!
+Clorinde (Game Master): ...Are you sure?
+Traveler: Positive!
+Clorinde (Game Master): In that case, please refer to the Fateometer.
+
+## Talk 10 (alternative/additional)
+
+Paimon: Whoa, it was a success!
+Clorinde (Game Master): You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot.
+Clorinde (Game Master): After some time, a rich aroma begins to fill the air. Even a passing cat can't help but stop in its tracks and look up in anticipation.
+Traveler: Please have some food. Who knows, maybe you'll feel better after eating something delicious?
+Navia: Woah, that's amazing!
+Furina: (Wait... So, as long as you pass the check, you can pretty much do anything, and it won't be seen as absurd?)
+Melancholic Young Woman: Thank you...
+Melancholic Young Woman: Hah... You were right. This food really did make me feel better...
+Paimon: So, what had you so worried earlier? Could you tell us a bit more about it?
+Melancholic Young Woman: *sigh*... Okay, let me fill you in...
+
+## Talk 10 (alternative/additional)
+
+Paimon: Huh? We failed the check...
+Clorinde (Game Master): You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot.
+Clorinde (Game Master): Perhaps your skills have regressed due to lack of use, but, soon, the unpleasant smell of something burnt fills the air.
+Traveler: Oh no... I screwed it up.
+Navia: It's all black around the edges!
+Melancholic Young Woman: I appreciate the... thought, but I think I'll pass.
+Lyney: Ahem... Miss, we'd love to learn more about the "monsters" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing.
+Furina: (You weren't even the one that learned "persuasion"...)
+Melancholic Young Woman: My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you.
+
+## Talk 10 (alternative/additional)
+
+Traveler: I'd like to do an insight check to see what's troubling her.
+Clorinde (Game Master): The results of insight checks aren't disclosed to the players, so I'll be the one consulting the Fateometer.
+Clorinde (Game Master): You recall all the lessons you've learned in your time and begin to carefully observe the woman's mannerisms.
+Clorinde (Game Master): You notice that when she's quiet, she has an empty look in her eyes, as if her thoughts have drifted to a place far, far away. And when she speaks, she often subconsciously reaches out to touch the ring on her left hand.
+Traveler: Did something happen to your husband?
+Melancholic Young Woman: Ah... So you noticed. That's a little embarrassing, haha...
+
+## Talk 10 (alternative/additional)
+
+Traveler: Um, any help here, Lyney?
+Lyney: Ahem... Miss, we'd love to learn more about the "monsters" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing.
+Furina: (You weren't even the one that learned "persuasion"...)
+Melancholic Young Woman: My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you.
 
 ## Talk 10
 
@@ -327,6 +513,20 @@ Navia: What about you, partner? What do you think?
         Navia: Haha, then it's settled! Let's go hunt some monsters!
 Clorinde (Game Master): Alright, after some discussion, you decide to turn around and head out of the city...
 
+## Talk 20 (alternative/additional)
+
+Paimon: Let's take a look around, like that guy said...
+Clorinde (???): You there! Outsiders! Halt!
+Paimon: Whoa! Wh—Who's there?
+Clorinde (Game Master): An armored man approaches you. He has a tall, muscular build and a determined expression in his eyes. Just one look, and you can tell he's fought in his fair share of battles.
+Clorinde (Game Master): Although he's trying his best to conceal his current state, his uneven gait and the sweat dripping down his forehead make it obvious that he's been wounded and is in serious pain.
+Guard Captain: I'm the captain of the guard. I saw you sneaking around the city earlier, so I'll only ask this once...
+Guard Captain: State your purpose, or it's off to the dungeons for the lot of you!
+Paimon: Wow, it's been a while since someone's been this suspicious of us...
+Guard Captain: I said talk! Not whisper between yourselves!
+Furina: Er... Have you ever heard of the Marechaussee Hunters?
+Guard Captain: Marechaussee Hunters? Hah, that fairy tale, you mean? What, you expect me to believe you're one of them?
+
 ## Talk 20
 
 Clorinde (Game Master): Using your knowledge of medicine, you're able to deduce that the injury on his calf was a monster's doing, and the wound has already begun to fester. As you check him over, he looks at you with suspicion and retracts his injured leg further back.
@@ -518,208 +718,3 @@ Furina: (What does she mean, "onto something"? I certainly don't know any five-y
 Furina: Guess I'll head back as well. I need to save my energy if I want to continue enjoying the story tomorrow.
 Clorinde: You're that excited to hear about my fight with the vishap?
 Furina: I was talking about the script!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Navia: Whoa! They really have thought of everything. Even the Fateometer is here and ready to go for us!
-Furina: ...The Fateometer? What's that?
-Lyney: It's a card that's used to determine action success or failure. We'll need to use it when we try to use certain skills.
-Navia: And what about all the dessert and tea? Is that for us as well?
-Clorinde: That's what the message said.
-Furina: Really? That's so nice... It feels just like a tea party with friends.
-Paimon: Those snacks have Paimon's name written all over them!
-Lyney: Haha, I think you might be more of a "Snack Hunter" than a Marechaussee Hunter, Paimon.
-Paimon: Snack Hunter Paimon, reporting for duty! If there are delicious snacks to be found, Paimon'll track down every last one!
-Furina: The desserts are great, but I'm still looking forward to the story more than anything.
-Clorinde: Very fair. Then let us begin.
-Clorinde: First, please pick up the blank character cards in front of you, and write down your name and profession.
-Clorinde: You can find an abbreviated version of the rules printed on the back of your character card. If you have any questions, feel free to ask me.
-Clorinde: In this story, everyone is a Marechaussee Hunter. To reflect this, the club has prepared a small badge for everyone.
-Paimon: Ooh! Nice!
-Clorinde: As Hunters, you have proficiency in swordsmanship and fighting by default, so there's no need to allocate any additional skill points to those areas.
-Paimon: Swordsmanship? So there's a fighting part to all of this? Umm... Paimon's not sure she can do all that on her own. Maybe Paimon can just stick with you?
-Clorinde: #Why don't you share a character card, then? Traveler will be the Marechaussee Hunter and you can be his little floating assistant.
-Navia: Hahaha, kinda like in real life.
-Furina: So, for the name... Do I fill it out with the name of my character?
-Clorinde: Yep. It can be any name you like.
-Navia: You can use your real name too, if you want. I do that whenever I get too lazy to think of a new name.
-Furina: Oh! So, it would be like... like experiencing a different life, but still as yourself? That's not a bad idea.
-Lyney: Hmm, in that case... I think I'll continue to use the name "Lyney," then.
-Clorinde: Next up is the skill sheet. You have a limited amount of skill points that you can use to learn a number of skills. The more points you invest in a particular skill, the easier it will be to pass associated checks.
-Navia: Hmm, I'll take "persuasion" and "investigation"! Those are must-haves when it comes to missions like these.
-Paimon: Oh, those skills sound like they'd be useful for gathering intelligence. Good idea Navia! Just as expected of a veteran player!
-Furina: Hmm... So should we also take those skills, then?
-Lyney: Not necessarily. Since we're working together as a team, we could leave the negotiations to Navia, and use our skill points to pick up other useful skills.
-Lyney: For example... I think I'll take "stealth" and "sleight of hand." That will give us more options if we run into any situations we can't negotiate our way out of.
-Furina: Oh, interesting! I wasn't thinking about it like that. I suppose it's not so different from an acting troupe, everyone has their own role to play.
-Furina: Let me see... I'll take "arts" and "performance." I'm not quite sure what use they'll be, but I'm not as knowledgeable about the other skills, and I'm not too confident I'd be able to roleplay them well.
-Paimon: #Well, that leaves us! What do you want to learn, Traveler?
-    Option 1:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-    Option 2:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-    Option 3:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 4:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 5:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 6:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 7:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 8:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 9:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-Paimon: So, what do you think? Are you sure you want to learn these two skills?
-    Option 1:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "cooking"...
-        [Circling back to a pre-branch dialog]
-    Option 2:
-    Option 3:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "medicine"...
-        [Circling back to a pre-branch dialog]
-    Option 4:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "insight"...
-        [Circling back to a pre-branch dialog]
-Traveler: Yep, I'm sure.
-
-### Additional Talk 2
-
-Clorinde (Game Master): Some time later, as a member of the Marechaussee Hunters, you receive a commission. Following the address provided on the message, you take a boat and arrive at this strange city.
-Clorinde (Game Master): As you inhale, you can taste the slightly salty air of the docks as you begin to survey your surroundings. There aren't many people in the vicinity, but you do take note of a few others who, like you, seem to be sizing up this place.
-Clorinde (Game Master): Your eyes meet, and you realize these people are fellow Marechaussee Hunters, likely led to this location after receiving the same commission as you.
-Navia: You're all Marechaussee Hunters too, right? Allow me to introduce myself! The name's Navia — monster hunter by trade and helpful neighborhood businesswoman on the side.
-Navia: What say you to traveling together? We can help each other out on the road.
-Lyney: Okay! Count me in.
-Lyney: My name is Lyney. I've been wandering since I was little, and picked up a few less than legal tricks along the way. I was adopted by a Marechaussee Hunter and, later, chose to follow in his footsteps.
-Furina: (Is this where you introduce your character to everyone? It sounds like they've done this dozens of times.)
-Furina: My name is Furina, and um... I grew up in a noble family. I always had a strong interest in performance and the arts. Even though I'm a Marechaussee Hunter, what I really want is to be a performing artiste...
-Navia: Hey, that's really cool!
-Navia: (You can do it, Furina! That's exactly how it's done!)
-Paimon: Paimon is Paimon, a good friend and companion to this Marechaussee Hunter right here!
-
-### Additional Talk 3
-
-Navia: Greetings, friend! Lovely weather we're having today, don't you think?
-Melancholic Young Woman: Oh, hello... I suppose you're right. The weather today is quite lovely. If only those monsters out there would stop causing trouble...
-Furina: (It seems like every character included in the script has a certain amount of useful information to offer. If we keep asking questions, we might be able to get some good leads.)
-Navia: Come now, don't be sad! Life is all about optimism! Oh, that reminds me, what did you have for breakfast this morning?
-Melancholic Young Woman: ...Huh?
-Furina: (Uh... I don't think that's the kind of question we're supposed to ask...)
-Navia: Nothing turns a frown upside down like good food! How about some Macarons? I could make you some!
-Furina: (...You didn't even take cooking as one of your skill proficiencies!)
-Melancholic Young Woman: Ah... That's not necessary, Miss. Excuse me for saying this, but you don't really look like a chef. Besides, I'm not really a fan of sweets...
-Navia: So you're someone who barely smiles and doesn't like sweets... Huh, you're really starting to remind me of this one friend of mine...
-Melancholic Young Woman: Tch...
-Navia: Hey, did she just "tch" me?
-Furina: (Clorinde must have broke character for a second!)
-Paimon: #This isn't getting us anywhere... Traveler, maybe you can think of something?
-
-### Additional Talk 4
-
-Paimon: Let's take a look around, like that guy said...
-Clorinde (???): You there! Outsiders! Halt!
-Paimon: Whoa! Wh—Who's there?
-Clorinde (Game Master): An armored man approaches you. He has a tall, muscular build and a determined expression in his eyes. Just one look, and you can tell he's fought in his fair share of battles.
-Clorinde (Game Master): Although he's trying his best to conceal his current state, his uneven gait and the sweat dripping down his forehead make it obvious that he's been wounded and is in serious pain.
-Guard Captain: I'm the captain of the guard. I saw you sneaking around the city earlier, so I'll only ask this once...
-Guard Captain: State your purpose, or it's off to the dungeons for the lot of you!
-Paimon: Wow, it's been a while since someone's been this suspicious of us...
-Guard Captain: I said talk! Not whisper between yourselves!
-Furina: Er... Have you ever heard of the Marechaussee Hunters?
-Guard Captain: Marechaussee Hunters? Hah, that fairy tale, you mean? What, you expect me to believe you're one of them?
-
-### Additional Talk 5
-
-Traveler: We used to be chefs.
-Traveler: I've been studying the culinary arts since I was a child. I hope my delicious food can help boost people's spirits.
-Furina: That's wonderful. I'll be looking forward to your cooking during our adventures together.
-Lyney: Well, if we're all here for the same commission, why don't we take some time to confirm what we need to do?
-
-### Additional Talk 6
-
-Traveler: How about I cook something? Right here, right now!
-Clorinde (Game Master): ...Are you sure?
-Traveler: Positive!
-Clorinde (Game Master): In that case, please refer to the Fateometer.
-
-### Additional Talk 7
-
-Paimon: Whoa, it was a success!
-Clorinde (Game Master): You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot.
-Clorinde (Game Master): After some time, a rich aroma begins to fill the air. Even a passing cat can't help but stop in its tracks and look up in anticipation.
-Traveler: Please have some food. Who knows, maybe you'll feel better after eating something delicious?
-Navia: Woah, that's amazing!
-Furina: (Wait... So, as long as you pass the check, you can pretty much do anything, and it won't be seen as absurd?)
-Melancholic Young Woman: Thank you...
-Melancholic Young Woman: Hah... You were right. This food really did make me feel better...
-Paimon: So, what had you so worried earlier? Could you tell us a bit more about it?
-Melancholic Young Woman: *sigh*... Okay, let me fill you in...
-
-### Additional Talk 8
-
-Paimon: Huh? We failed the check...
-Clorinde (Game Master): You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot.
-Clorinde (Game Master): Perhaps your skills have regressed due to lack of use, but, soon, the unpleasant smell of something burnt fills the air.
-Traveler: Oh no... I screwed it up.
-Navia: It's all black around the edges!
-Melancholic Young Woman: I appreciate the... thought, but I think I'll pass.
-Lyney: Ahem... Miss, we'd love to learn more about the "monsters" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing.
-Furina: (You weren't even the one that learned "persuasion"...)
-Melancholic Young Woman: My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you.
-
-### Additional Talk 9
-
-Traveler: I'd like to do an insight check to see what's troubling her.
-Clorinde (Game Master): The results of insight checks aren't disclosed to the players, so I'll be the one consulting the Fateometer.
-Clorinde (Game Master): You recall all the lessons you've learned in your time and begin to carefully observe the woman's mannerisms.
-Clorinde (Game Master): You notice that when she's quiet, she has an empty look in her eyes, as if her thoughts have drifted to a place far, far away. And when she speaks, she often subconsciously reaches out to touch the ring on her left hand.
-Traveler: Did something happen to your husband?
-Melancholic Young Woman: Ah... So you noticed. That's a little embarrassing, haha...
-
-### Additional Talk 10
-
-Traveler: Um, any help here, Lyney?
-Lyney: Ahem... Miss, we'd love to learn more about the "monsters" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing.
-Furina: (You weren't even the one that learned "persuasion"...)
-Melancholic Young Woman: My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you.

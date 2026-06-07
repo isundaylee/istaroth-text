@@ -78,6 +78,25 @@ Nefer: #This must belong to Traveler... Perfect. I'll use this.
 Nefer: (Hang in there. We'll find you.)
 Black Screen Text: Missing text (0)
 
+## Talk 6 (alternative/additional)
+
+Traveler: Missing text (0)
+    Option 1:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 2:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 3:
+        Traveler: Scan
+        Traveler (Pulonia): *Keyword "world-formula" located.*
+    Option 4:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 5:
+        Traveler: Scan
+        Traveler (Pulonia): Irrelevant engineering blueprint. Keyword not located.
+
 ## Talk 7
 
 Marionette: Let's see, this one is... "Automnequi Sermon Dictation: Concerning the Apocalypse."
@@ -93,6 +112,25 @@ Black Screen Text: Missing text (0)
 Marionette: ...
 Black Screen Text: Missing text (0)
 
+## Talk 10 (alternative/additional)
+
+Traveler: Missing text (0)
+    Option 1:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 2:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 3:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 4:
+        Traveler: Scan
+        Traveler (Pulonia): *Keyword "pathway" located.*
+    Option 5:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+
 ## Talk 11
 
 Marionette: "Automnequi Sermon Dictation: Explications on the Chymical Marriage"... These titles are pretty esoteric...
@@ -102,6 +140,25 @@ Black Screen Text: Missing text (0)
 Marionette: ...
 Black Screen Text: Missing text (0)
 Marionette: Ugh, this is so long... This guy sure loves showing off his knowledge!
+
+## Talk 14 (alternative/additional)
+
+Traveler: Missing text (0)
+    Option 1:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 2:
+        Traveler: Scan
+        Traveler (Pulonia): *Keyword "tree model" located.*
+    Option 3:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 4:
+        Traveler: Scan
+        Traveler (Pulonia): Keyword not located.
+    Option 5:
+        Traveler: Scan
+        Traveler (Pulonia): Irrelevant mechanical blueprint. Keyword not located.
 
 ## Talk 15
 
@@ -162,6 +219,16 @@ Marionette: So would Rosalyne... She's been dead for a while now. Haha.
 Marionette: When I close my eyes and think back, I can still see her face... and that enormous dress she used to wear. Such a bizarre choice. What possessed her? Oh, and the clack-clack of those heels used to drive me insane!
 Marionette: No one's asking me, obviously, but I hope you all know that I never wanted to save the world. I'm not crazy, I don't have delusional ambitions, and that's a clinical fact.
 Marionette: The world needs a solution, but I don't need the world's validation. It's the world begging me for answers, not the other way around.
+
+## Talk 16 (alternative/additional)
+
+Traveler: Missing text (0)
+Traveler: Take out the refreshments
+Traveler: Missing text (0)
+Traveler: Prepare tea
+Traveler: Missing text (0)
+Traveler: Plate refreshments
+Traveler: Missing text (0)
 
 ## Talk 18
 
@@ -706,75 +773,3 @@ Albedo: You don't look injured. It seems that Dottore didn't do anything to you.
 Traveler: Yeah, I'm fine, guys. Thanks.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Alright, rescue operation complete. Let's head back.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: There's a lot more work to be done before this is over.
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "world-formula" located.*
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Irrelevant engineering blueprint. Keyword not located.
-
-### Additional Talk 2
-
-Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "pathway" located.*
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-
-### Additional Talk 3
-
-Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "tree model" located.*
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Irrelevant mechanical blueprint. Keyword not located.
-
-### Additional Talk 4
-
-Traveler: Missing text (0)
-Traveler: Take out the refreshments
-Traveler: Missing text (0)
-Traveler: Prepare tea
-Traveler: Missing text (0)
-Traveler: Plate refreshments
-Traveler: Missing text (0)

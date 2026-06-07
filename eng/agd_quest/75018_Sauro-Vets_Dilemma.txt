@@ -65,6 +65,14 @@ Mazkal: No matter which one you use, the medicines will help Kururuk recover, so
 Mazkal: Hehe, you're so reliable! Anyway, I'll head back to camp to make some preparations. As for Kururuk, I leave him in your capable hands!
 Paimon: #Don't you worry, {REALNAME[ID(2)|SHOWHOST(true)]}'s got this!
 
+## Talk 7 (alternative/additional)
+
+"Kururuk": Shrawr...
+Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
+Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.
+Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
+Paimon: Which of the two should we go with?
+
 ## Talk 8
 
 Paimon: #If he'll eat it, this one should help him recover better, right? You've got this now, {REALNAME[ID(2)|SHOWHOST(true)]}!
@@ -72,6 +80,14 @@ Paimon: #If he'll eat it, this one should help him recover better, right? You've
 Paimon: #Looks pretty hopeful. Hehe, good work, {REALNAME[ID(2)|SHOWHOST(true)]}! ...Err, wait a minute...
 "Kururuk": —Shwaaaargh!
 Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than before! Gah, we've gotta calm him down real quick...
+
+## Talk 9 (alternative/additional)
+
+Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
+Paimon: Sh—Should we try the other one, then?
 
 ## Talk 9
 
@@ -122,24 +138,3 @@ Mazkal: Missing text (4052817402)
 ## Talk 99
 
 "Kururuk": ...
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
-Paimon: Sh—Should we try the other one, then?
-
-### Additional Talk 2
-
-"Kururuk": Shrawr...
-Paimon: #Traveler, Paimon's kinda worried about how Kururuk's wounds haven't fully healed yet... Why don't we follow him and see how things are?
-Black Screen Text: #You hurry over to {REALNAME[ID(2)|SHOWHOST(true)]} and Kururuk.
-Paimon: There he is? Phew, at least he looks fine... Alright, let's feed him the medicine now!
-Paimon: Which of the two should we go with?

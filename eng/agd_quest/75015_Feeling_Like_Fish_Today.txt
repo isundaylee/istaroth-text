@@ -62,6 +62,12 @@ Paimon: No no no, the sea's too dangerous! And you'll never catch up with it any
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
 Paimon: #If only we could find a way to catch that fish, Traveler...
 
+## Talk 5 (alternative/additional)
+
+Paimon: Yikes, that's one strong fish. How's it still able to swim so fast, even after such a long struggle...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrrr...
+Paimon: #No worries, Traveler'll definitely be able to catch it again!
+
 ## Talk 6
 
 Paimon: #Tada! What did Paimon tell ya? If anyone could get the better of this slippery customer, it'd be Traveler!
@@ -79,11 +85,3 @@ Paimon: Uhhh... *sigh*
 Paimon: #Hey, there's no such thing as a free lunch, y'know, {REALNAME[ID(2)|SHOWHOST(true)]}! You'll have to help out too next time — if you want any fish, that is!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
 Paimon: Hmph, look who's playing dumb now!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-Paimon: Yikes, that's one strong fish. How's it still able to swim so fast, even after such a long struggle...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrrr...
-Paimon: #No worries, Traveler'll definitely be able to catch it again!

@@ -24,6 +24,26 @@ Bold Investigator: Huh? Oh, THAT one... No, I've got no idea who that belongs to
 Bold Investigator: I just wish I could fly up there and check out what kind of tech they're using... Ah well, getting the trial arena back in order is more important.
 Bold Investigator: I'll head over and set up now. Let me know when you're ready!
 
+## Talk 3 (alternative/additional)
+
+Cautious Investigator: Hmm... I think it should be possible to clear this spout *with just a few hard hits*.
+Cautious Investigator: But there are signs of strange life in here... Meddling with it might be dangerous...
+
+## Talk 5 (alternative/additional)
+
+Bold Investigator: Huh? Why'd you guys follow me? You won't get a good enough view from here.
+Traveler: Could you go over the plan with me again?
+Bold Investigator: Oh, sure. So, I'm gonna send the explosives over to the spout on the other side in a hot air balloon...
+Bold Investigator: All you have to do is *hit the balloon at the right moment, so the bomb falls right on top of the spout.* Simple!
+
+## Talk 5 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NPC): Missing text (1906794042)
+
+## Talk 7 (alternative/additional)
+
+Inkanak: Why don't you head on down and check things out for yourself? Feel free to ask the staff for more details.
+
 ## Talk 8
 
 Cautious Investigator: Haha... I thought I was done for! This spout should be good now — thank you very much.
@@ -38,6 +58,15 @@ Chasca: All the more reason to have me test it out. Think of it as another inspe
 Inkanak: Eh... I guess you're right — with your flying skills, you won't be in any serious danger, even if there are hazards we overlooked...
 Chasca: The conditions in this area seem a little unstable, but a test-flight is the only way to catch any lingering issues.
 Inkanak: Alright, I'll get things set up for you. Just let me know when you're ready.
+
+## Talk 10 (alternative/additional)
+
+Inkanak: Are you ready? This should be a piece of cake for Chasca, but still, try to be careful.
+    Option 1:
+        Traveler: I'm sure she'll be fine!
+        Inkanak: Alright, then spread your wings and fly!
+    Option 2:
+        Traveler: Not yet, I need a little more time.
 
 ## Talk 10
 
@@ -102,47 +131,18 @@ The next few days are uneventful — except for the flying trial preparations, w
 
 ### Additional Talk 1
 
-Cautious Investigator: Hmm... I think it should be possible to clear this spout *with just a few hard hits*.
-Cautious Investigator: But there are signs of strange life in here... Meddling with it might be dangerous...
-
-### Additional Talk 2
-
-Inkanak: Are you ready? This should be a piece of cake for Chasca, but still, try to be careful.
-    Option 1:
-        Traveler: I'm sure she'll be fine!
-        Inkanak: Alright, then spread your wings and fly!
-    Option 2:
-        Traveler: Not yet, I need a little more time.
-
-### Additional Talk 3
-
 Doubtful Investigator: Whoa! Did you see that!? A tepetlisaur just showed up out of nowhere!
 Confused Investigator: How did it get here? Just passing by, or...? Huh. Well, not gonna argue with a good thing. The spout's clear, that's all that matters...
 
-### Additional Talk 4
-
-Bold Investigator: Huh? Why'd you guys follow me? You won't get a good enough view from here.
-Traveler: Could you go over the plan with me again?
-Bold Investigator: Oh, sure. So, I'm gonna send the explosives over to the spout on the other side in a hot air balloon...
-Bold Investigator: All you have to do is *hit the balloon at the right moment, so the bomb falls right on top of the spout.* Simple!
-
-### Additional Talk 5
-
-Unknown Role (TALK_ROLE_NPC): Missing text (1906794042)
-
-### Additional Talk 6
+### Additional Talk 2
 
 Bold Investigator: From this angle, you can see more clearly just how high up that hot air balloon is... I wish I knew whose it was.
 
-### Additional Talk 7
+### Additional Talk 3
 
 Curious Investigator: Ahh, so THAT'S how you do it... Amazing!
 
-### Additional Talk 8
+### Additional Talk 4
 
 Young Merchant: Ouch...
 Elderly Merchant: I've never seen such an aggressive qucusaur...
-
-### Additional Talk 9
-
-Inkanak: Why don't you head on down and check things out for yourself? Feel free to ask the staff for more details.

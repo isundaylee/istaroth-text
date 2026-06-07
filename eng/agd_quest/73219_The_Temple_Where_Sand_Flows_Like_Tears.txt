@@ -98,6 +98,11 @@ Azariq: Huh? Did I? Think you might need to clean your ears a little... the dese
 Jeht: Don't worry, I've got your back!
 Jeht: Or so I say, but you should be careful all the same. Just tell me if you think that something's amiss!
 
+## Talk 17 (alternative/additional)
+
+Azariq: Alright then. Go touch the device in the middle of the temple. Jeht and I will make sure you're safe.
+Jeht: #Right, Traveler. Be careful now.
+
 ## Talk 18
 
 Jeht: Is the conversation with Matriarch Babel over?
@@ -634,6 +639,24 @@ Babel: You have my thanks.
 Babel: Ah, Jeht and Azariq have returned. You youngsters catch up for now. I'll have to ask for your pardon, I need some time to organize the information you have gathered...
 Paimon: Ms. Babel sure is busy, huh?
 
+## Talk 69 (alternative/additional)
+
+Azariq: #What's the matter, Traveler? Don't just stand there, let's play some cards. Don't worry! I swear I won't mock you — not even if you're absolutely terrible.
+Azariq: Come on, let's play a round.
+    Option 1:
+        Traveler: Oh, I'm not going to lose...
+    Option 2:
+        Traveler: Sorry, not right now...
+        Azariq: Not liking camping out here in the desert, I take it? Haha, oh well... Why don't we tell some stories instead?
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...
+The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
+At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
+Jeht tells you about many trivial but funny things...
+She seems to have lived well amongst the Tanit since your last parting.
+        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): The night flies by as you chat.
+As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.
+
 ## Talk 69
 
 Azariq: #We're here! C'mon, let's find a place to sit and grab a bite, Traveler.
@@ -798,14 +821,6 @@ As the next morning comes, you are buried in each others' pillows, asleep by the
 
 *Conversations not present as sub-quests.*
 
-
-### Additional Talk 1
-
-Azariq: Alright then. Go touch the device in the middle of the temple. Jeht and I will make sure you're safe.
-Jeht: #Right, Traveler. Be careful now.
-
-### Additional Talk 2
-
 Yuften: Welcome, guests of Tanit...
 Yuften: You m—may d—do anything you please here in our camp...
     Option 1:
@@ -826,21 +841,3 @@ Yuften: The outsiders didn't want to reveal the fertilizer's composition. As suc
 Yuften: Th—that's why the Matriarch wants me to d—do some research here to r—reverse engineer our own Anahitian Blessing.
 Traveler: I shan't disturb you any longer.
 Yuften: Th—that's alright. Please take some crocodile jerky, dear guest. It's just over there...
-
-### Additional Talk 3
-
-Azariq: #What's the matter, Traveler? Don't just stand there, let's play some cards. Don't worry! I swear I won't mock you — not even if you're absolutely terrible.
-Azariq: Come on, let's play a round.
-    Option 1:
-        Traveler: Oh, I'm not going to lose...
-    Option 2:
-        Traveler: Sorry, not right now...
-        Azariq: Not liking camping out here in the desert, I take it? Haha, oh well... Why don't we tell some stories instead?
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): You all speak about the interesting things you've heard about, as well as the hair-raising adventures you've been through. Some absolutely ridiculous hearsay is even mixed in...
-The three of you raise toasts to old triumphs, laugh at ridiculous tales, and shed tears and lament the sad stories.
-At the end, Azariq closes the proceedings with a joke, and he absolutely kills it.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): #When the moon hangs highest, Azariq tells a rather coarse joke about a crocodile and a Sumpter Beast, which loses him his blanket-sharing privileges.
-Jeht tells you about many trivial but funny things...
-She seems to have lived well amongst the Tanit since your last parting.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): The night flies by as you chat.
-As the next morning comes, you are buried in each others' pillows, asleep by the extinguished flame.

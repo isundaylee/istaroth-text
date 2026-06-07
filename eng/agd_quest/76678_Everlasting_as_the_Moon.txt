@@ -5,11 +5,114 @@
 
 The Damselette (Columbina): I'm in!
 
+## Talk 2 (alternative/additional)
+
+The Damselette (Columbina): What shall we play today?
+
+## Talk 2 (alternative/additional)
+
+Traveler: Some music would be nice.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Let's play a picture-guessing game.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Let's mix some drinks.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Let's play Moon Chess.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Let's play Kuuhenki Hat-N-Seek.
+
+## Talk 3 (alternative/additional)
+
+The Damselette: Go on now, little ones.
+The Damselette: See if you can guess what this picture is.
+    Option 1:
+        Traveler: The moon.
+        Kuuhenki: !!!
+        Paimon: Hmph, that was way too obvious!
+        The Damselette: I'm afraid this riddle was a little too simple for us.
+    Option 2:
+        Traveler: Unagi.
+        Paimon: Hey, what's wrong with this eel's waist?
+        The Damselette: You two possess an impressive wealth of knowledge...
+        The Damselette: The correct answer is "the moon."
+        The Damselette: Come back now. You did a wonderful job.
+    Option 3:
+        Traveler: An arc.
+        Paimon: Anyone with eyes can see it's an arc! How could the answer be something so simple!?
+        The Damselette: While you aren't technically wrong, I'm afraid that's not exactly what the kuuhenki were going for.
+        The Damselette: The correct answer is "the moon."
+        The Damselette: Come back now. You did a wonderful job.
+
+## Talk 3 (alternative/additional)
+
+The Damselette: Go on now, friends.
+The Damselette: All you need to do is guess what the picture is.
+    Option 1:
+        Traveler: Knuckle Duckle.
+        Kuuhenki: !!!
+        Paimon: How did you manage to guess that!?
+        The Damselette: So that's what it's called. Does it pick its creator up and carry her around in its hand?
+        Paimon: Paimon thinks you might be confusing Aino with a former colleague of yours...
+    Option 2:
+        Traveler: A Weasel Thief who's eaten too much.
+        Paimon: Could a Weasel Thief this stuffed still steal stuff?
+        The Damselette: Or perhaps it no longer needs to steal?
+        The Damselette: The correct answer is "the big mechanical duck next to Aino's workshop."
+        The Damselette: Come back now. Thank you, I know that wasn't easy.
+    Option 3:
+        Traveler: A flask.
+        Paimon: Whoa, the kuuhenki learned what specialized lab equipment looks like just for this game? They're really going all out!
+        The Damselette: That's... very close.
+        The Damselette: The correct answer is "the big mechanical duck next to Aino's workshop."
+        Paimon: How is that close!?
+        The Damselette: Come back now. Thank you, I know that wasn't easy.
+
+## Talk 3 (alternative/additional)
+
+The Damselette: Go on now, friends.
+The Damselette: All you need to do is guess what the picture is.
+    Option 1:
+        Traveler: The Kuuvahki Experimental Design Bureau.
+        Kuuhenki: !!!
+        Paimon: Did you play this with the kuuhenki before and forget to tell us?
+        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
+    Option 2:
+        Traveler: A Floating Anemo Fungus.
+        Paimon: Uh... The body's got some resemblance, but is their cap really that round?
+        The Damselette: You got the "floating" part right, at least...
+        The Damselette: The correct answer is the "Kuuvahki Experimental Design Bureau."
+        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
+        The Damselette: Come back now. You really outdid yourselves.
+    Option 3:
+        Traveler: An umbrella.
+        Paimon: The handle seems a little short for an umbrella. How's anyone supposed to hold it?
+        The Damselette: An umbrella... isn't something I often use. Why not just make a kuuvahki shield when it rains?
+        Paimon: Wait a sec! We can use that to keep the rain off, too!?
+        The Damselette: The correct answer is the "Kuuvahki Experimental Design Bureau."
+        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
+        The Damselette: Come back now. You really outdid yourselves.
+
 ## Talk 3
 
 Black Screen Text: Once the game is over, the kuuhenki rush toward you. They appear to be extremely happy.
 The Damselette: Thank you for taking the time to play with the kuuhenki.
 The Damselette: I hope we can have just as much fun playing together next time.
+
+## Talk 4 (alternative/additional)
+
+The Damselette: In the future... I'll be sure to let you know.
+
+## Talk 4 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (4144937130)
 
 ## Talk 4
 
@@ -41,6 +144,36 @@ Black Screen Text: You have a wonderful time playing the game with Columbina...
 The Damselette: Thank you, I enjoyed that a lot.
 The Damselette: If you'd like... feel free to come keep me company again, sometime.
 The Damselette: Here, take this as a token of our promise.
+
+## Talk 7 (alternative/additional)
+
+The Damselette: Ah, you're here? The kuuhenki are playing the lyre again. Could you play a song for them like last time?
+The Damselette: And I happen to be in the mood to hear something different myself.
+Traveler: (Hmm, what should I play...)
+
+## Talk 7 (alternative/additional)
+
+Traveler: Let's try the one Columbina always sings...
+Traveler: Let's try the one Columbina always sings...
+Traveler: (But what tone should I go for...)
+    Option 1:
+        Traveler: Let's try calm and gentle...
+        The Damselette: That was lovely. So you really did memorize my tune.
+        Paimon: Hehe, only 'cause you're such a great singer! Whenever we hear your voice, sometimes we stop for a bit just to listen...
+        The Damselette: Hm, the kuuhenki seemed quite enraptured with your performance as well. Perhaps they picked up a few things...
+        The Damselette: I might require your educational assistance again in the future.
+        The Damselette: Come, give me your hand.
+        Paimon: Huh? No, no, this was a free performance. No tuition fee required!
+        The Damselette: Hmm? Tuition fee?
+        The Damselette: I only thought... the gentle glow of moonlight would make a fitting accompaniment for such a beautiful melody.
+    Option 2:
+        Traveler: Let's make it cheerful...
+        The Damselette: Oh, it's over already? I could listen to that forever...
+        The Damselette: As I once told you, this is the only lullaby I can remember.
+        The Damselette: Although I have yet to discern the meaning behind it, after hearing you play, I feel like whatever answer is waiting for me, up there on the moon... at the very least, it must be a beautiful one.
+        The Damselette: Here, give me your hand.
+        Paimon: It's okay. Seriously, you don't need to give us anything in return.
+        The Damselette: Ah, that wasn't my intention... I only wished to adorn your melody with a ray of gentle moonlight.
 
 ## Talk 7
 
@@ -79,141 +212,5 @@ The Damselette: We have pierced through cloud and fog, and together, witnessed t
 
 *Conversations not present as sub-quests.*
 
-
-### Additional Talk 1
-
-The Damselette (Columbina): What shall we play today?
-
-### Additional Talk 2
-
-Traveler: Some music would be nice.
-
-### Additional Talk 3
-
-Traveler: Let's play a picture-guessing game.
-
-### Additional Talk 4
-
-Traveler: Let's mix some drinks.
-
-### Additional Talk 5
-
-Traveler: Let's play Moon Chess.
-
-### Additional Talk 6
-
-Traveler: Let's play Kuuhenki Hat-N-Seek.
-
-### Additional Talk 7
-
 The Damselette (Columbina): Thank you. I enjoyed our time together.
 The Damselette: Wherever you go, may this ray of moonlight linger upon you.
-
-### Additional Talk 8
-
-The Damselette: In the future... I'll be sure to let you know.
-
-### Additional Talk 9
-
-The Damselette: Go on now, little ones.
-The Damselette: See if you can guess what this picture is.
-    Option 1:
-        Traveler: The moon.
-        Kuuhenki: !!!
-        Paimon: Hmph, that was way too obvious!
-        The Damselette: I'm afraid this riddle was a little too simple for us.
-    Option 2:
-        Traveler: Unagi.
-        Paimon: Hey, what's wrong with this eel's waist?
-        The Damselette: You two possess an impressive wealth of knowledge...
-        The Damselette: The correct answer is "the moon."
-        The Damselette: Come back now. You did a wonderful job.
-    Option 3:
-        Traveler: An arc.
-        Paimon: Anyone with eyes can see it's an arc! How could the answer be something so simple!?
-        The Damselette: While you aren't technically wrong, I'm afraid that's not exactly what the kuuhenki were going for.
-        The Damselette: The correct answer is "the moon."
-        The Damselette: Come back now. You did a wonderful job.
-
-### Additional Talk 10
-
-The Damselette: Ah, you're here? The kuuhenki are playing the lyre again. Could you play a song for them like last time?
-The Damselette: And I happen to be in the mood to hear something different myself.
-Traveler: (Hmm, what should I play...)
-
-### Additional Talk 11
-
-Traveler: Let's try the one Columbina always sings...
-Traveler: Let's try the one Columbina always sings...
-Traveler: (But what tone should I go for...)
-    Option 1:
-        Traveler: Let's try calm and gentle...
-        The Damselette: That was lovely. So you really did memorize my tune.
-        Paimon: Hehe, only 'cause you're such a great singer! Whenever we hear your voice, sometimes we stop for a bit just to listen...
-        The Damselette: Hm, the kuuhenki seemed quite enraptured with your performance as well. Perhaps they picked up a few things...
-        The Damselette: I might require your educational assistance again in the future.
-        The Damselette: Come, give me your hand.
-        Paimon: Huh? No, no, this was a free performance. No tuition fee required!
-        The Damselette: Hmm? Tuition fee?
-        The Damselette: I only thought... the gentle glow of moonlight would make a fitting accompaniment for such a beautiful melody.
-    Option 2:
-        Traveler: Let's make it cheerful...
-        The Damselette: Oh, it's over already? I could listen to that forever...
-        The Damselette: As I once told you, this is the only lullaby I can remember.
-        The Damselette: Although I have yet to discern the meaning behind it, after hearing you play, I feel like whatever answer is waiting for me, up there on the moon... at the very least, it must be a beautiful one.
-        The Damselette: Here, give me your hand.
-        Paimon: It's okay. Seriously, you don't need to give us anything in return.
-        The Damselette: Ah, that wasn't my intention... I only wished to adorn your melody with a ray of gentle moonlight.
-
-### Additional Talk 12
-
-The Damselette: Go on now, friends.
-The Damselette: All you need to do is guess what the picture is.
-    Option 1:
-        Traveler: Knuckle Duckle.
-        Kuuhenki: !!!
-        Paimon: How did you manage to guess that!?
-        The Damselette: So that's what it's called. Does it pick its creator up and carry her around in its hand?
-        Paimon: Paimon thinks you might be confusing Aino with a former colleague of yours...
-    Option 2:
-        Traveler: A Weasel Thief who's eaten too much.
-        Paimon: Could a Weasel Thief this stuffed still steal stuff?
-        The Damselette: Or perhaps it no longer needs to steal?
-        The Damselette: The correct answer is "the big mechanical duck next to Aino's workshop."
-        The Damselette: Come back now. Thank you, I know that wasn't easy.
-    Option 3:
-        Traveler: A flask.
-        Paimon: Whoa, the kuuhenki learned what specialized lab equipment looks like just for this game? They're really going all out!
-        The Damselette: That's... very close.
-        The Damselette: The correct answer is "the big mechanical duck next to Aino's workshop."
-        Paimon: How is that close!?
-        The Damselette: Come back now. Thank you, I know that wasn't easy.
-
-### Additional Talk 13
-
-The Damselette: Go on now, friends.
-The Damselette: All you need to do is guess what the picture is.
-    Option 1:
-        Traveler: The Kuuvahki Experimental Design Bureau.
-        Kuuhenki: !!!
-        Paimon: Did you play this with the kuuhenki before and forget to tell us?
-        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
-    Option 2:
-        Traveler: A Floating Anemo Fungus.
-        Paimon: Uh... The body's got some resemblance, but is their cap really that round?
-        The Damselette: You got the "floating" part right, at least...
-        The Damselette: The correct answer is the "Kuuvahki Experimental Design Bureau."
-        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
-        The Damselette: Come back now. You really outdid yourselves.
-    Option 3:
-        Traveler: An umbrella.
-        Paimon: The handle seems a little short for an umbrella. How's anyone supposed to hold it?
-        The Damselette: An umbrella... isn't something I often use. Why not just make a kuuvahki shield when it rains?
-        Paimon: Wait a sec! We can use that to keep the rain off, too!?
-        The Damselette: The correct answer is the "Kuuvahki Experimental Design Bureau."
-        The Damselette: The structures the Fatui have raised in Nod-Krai are far too... bold. Even the kuuhenki can remember them...
-        The Damselette: Come back now. You really outdid yourselves.
-
-### Additional Talk 14
-
-Unknown Role (TALK_ROLE_NONE): Missing text (4144937130)

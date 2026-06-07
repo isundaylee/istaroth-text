@@ -125,9 +125,34 @@
 派蒙: 啊？为什…不对！我才不问你呢！我想想…龙鳞能把碰到的东西变成积木…哦！你是要用它阻隔瀑布的水对吧！
 派蒙: 哼！不问你我也能自己想明白！
 
+## Talk 21 (alternative/additional)
+
+妮露: ……
+派蒙: 怎么了？妮露。
+妮露: 没什么，只是…感受到了一股强大的魔力…
+娜维娅: 看来这个后面就是邪龙的老巢了。
+派蒙: 欸？你什么时候把帽子戴上的？
+娜维娅: 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 碍事的东西就该早点消失。
+派蒙: 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
+    Option 1:
+        旅行者: 没什么了，出发吧。
+    Option 2:
+        旅行者: 再等一会儿…
+        娜维娅: 嗯，确保万无一失再前进吧。
+
 ## Talk 21
 
 旅行者: 没什么了，出发吧。
+
+## Talk 22 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
+    Option 1:
+        旅行者: 好了，出发吧。
+    Option 2:
+        旅行者: 再等一会儿…
+        娜维娅: 嗯，确保万无一失再前进吧。
 
 ## Talk 22
 
@@ -517,31 +542,6 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ### Additional Talk 1
 
-妮露: ……
-派蒙: 怎么了？妮露。
-妮露: 没什么，只是…感受到了一股强大的魔力…
-娜维娅: 看来这个后面就是邪龙的老巢了。
-派蒙: 欸？你什么时候把帽子戴上的？
-娜维娅: 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 碍事的东西就该早点消失。
-派蒙: 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
-    Option 1:
-        旅行者: 没什么了，出发吧。
-    Option 2:
-        旅行者: 再等一会儿…
-        娜维娅: 嗯，确保万无一失再前进吧。
-
-### Additional Talk 2
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: 好了没有？还要我等到什么时候?
-    Option 1:
-        旅行者: 好了，出发吧。
-    Option 2:
-        旅行者: 再等一会儿…
-        娜维娅: 嗯，确保万无一失再前进吧。
-
-### Additional Talk 3
-
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能定义你是谁……
 #{REALNAME[ID(1)|HOSTONLY(true)]}: 任何人都不能否定你的心……
@@ -577,22 +577,22 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
-### Additional Talk 4
+### Additional Talk 2
 
 妮露: 这次是…一个矿洞？
 绮良良: 难道说，是积木矿窟的工人挖得太深，挖到了下一页的世界吗？
 妮露: 这么说来…这矿灯和上一页天上的星星好像…
 
-### Additional Talk 5
+### Additional Talk 3
 
 妮露: 赐福森林…这本书，一直都在记录希穆兰卡发生的事…
 绮良良: 光是落在一个地方，都会留下这么大的脚印…也难怪人们会害怕他…
 
-### Additional Talk 6
+### Additional Talk 4
 
 旅行者: 再等一会儿…
 娜维娅: 嗯，确保万无一失再前进吧。
 
-### Additional Talk 7
+### Additional Talk 5
 
 娜维娅: 嗯，确保万无一失再前进吧。

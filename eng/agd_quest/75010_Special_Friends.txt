@@ -9,6 +9,11 @@
 "Half-Baked" (Vigilant Yumkasaurus): Roar!
 Paimon: Uhh, are we interrupting its mealtime? It sure looks annoyed...
 
+## Talk 2 (alternative/additional)
+
+Wactana: "I have neither goals I must reach, nor have I urgent desires. I am a happy shepherd. I care only for alpacas, for the seasons and things that grow, for the cool breeze and rains..."
+Wactana: That's my favorite song. What do you think? Pretty good, huh?
+
 ## Talk 3
 
 Black Screen Text: Ah. It's something furry. Something furry is blocking your path...
@@ -85,6 +90,10 @@ Paimon: Huh? What's this other Alpaca doing here?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr rawr!
 Paimon: What's wrong. Is it trapped down there?
 
+## Talk 11 (alternative/additional)
+
+Scaredy-Cat Alpaca: (It looks terrified...)
+
 ## Talk 12
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -102,6 +111,10 @@ Paimon: Hehe! Guess that means you're getting on great, huh?
         Paimon: Huh? Jealous of who exactly...?
 Paimon: Still, it's kinda dangerous for this Alpaca to be out here completely on its own. We'd better go tell Wactana what's going on.
 Paimon: #Also, Paimon's sure she'll be happy to hear that {REALNAME[ID(2)|SHOWHOST(true)]}'s made a friend, too!
+
+## Talk 13 (alternative/additional)
+
+Scaredy-Cat Alpaca: (Doesn't look quite so scared anymore...)
 
 ## Talk 13
 
@@ -129,35 +142,22 @@ Wactana: Eh, no biggie. And if you wanna drop by again, you're always welcome.
 
 ### Additional Talk 1
 
-Wactana: "I have neither goals I must reach, nor have I urgent desires. I am a happy shepherd. I care only for alpacas, for the seasons and things that grow, for the cool breeze and rains..."
-Wactana: That's my favorite song. What do you think? Pretty good, huh?
-
-### Additional Talk 2
-
-Scaredy-Cat Alpaca: (Doesn't look quite so scared anymore...)
-
-### Additional Talk 3
-
 Dopey Alpaca: ...
 Dopey Alpaca: ...Mmm?
 
-### Additional Talk 4
+### Additional Talk 2
 
 "Half-Baked": One, two, three, four.
 "Half-Baked": Four... It's hiding again. Where has it gone?
 
-### Additional Talk 5
+### Additional Talk 3
 
 Greedy Alpaca: Mmmmm—
 
-### Additional Talk 6
+### Additional Talk 4
 
 Energetic Alpaca: (Looks like it's still mad at us...)
 
-### Additional Talk 7
-
-Scaredy-Cat Alpaca: (It looks terrified...)
-
-### Additional Talk 8
+### Additional Talk 5
 
 "Half-Baked": Roar!

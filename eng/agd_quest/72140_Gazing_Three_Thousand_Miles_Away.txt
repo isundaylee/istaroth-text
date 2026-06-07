@@ -84,6 +84,15 @@ Paimon: #It'd be a shame to give it up... What do you say, Traveler?
         Traveler: No tricks, kiddo.
 Chouji: Relax, I wouldn't lie to you!
 
+## Talk 2 (alternative/additional)
+
+Chouji: You're back. Do you have the crystals with you?
+    Option 1:
+        Traveler: Sure do.
+    Option 2:
+        Traveler: They're on the way.
+        Chouji: No hurry, stay safe now!
+
 ## Talk 3
 
 Chouji: Thank you, these will do!
@@ -193,6 +202,15 @@ Chouji: Well, I've got various reasons. Which I'll tell you for sure, don't you 
         Traveler: We'd like to hear your explanation all the same.
 Chouji: Okay, thank you so much! I'll be waiting right here!
 
+## Talk 8 (alternative/additional)
+
+Chouji: #Oh, Traveler, you're back. Did you bring the crystals?
+    Option 1:
+        Traveler: Yeah, I've got them.
+    Option 2:
+        Traveler: They'll be here.
+        Chouji: No hurry, stay safe now!
+
 ## Talk 9
 
 Chouji: Thank you! That should be enough.
@@ -241,6 +259,10 @@ Chouji: #They aren't rare ingredients, but with the current conditions on Yashio
 Chouji: Sorry for troubling you like this. You're supposed to be my guests...
 Paimon: Come on, it's fine! No need to be so polite!
 
+## Talk 11 (alternative/additional)
+
+Chouji: What we'll need is some *Flour*, *Fowl*, and *Bird Eggs*. Just ask me any time if you forget!
+
 ## Talk 12
 
 Chouji: #Traveler, you're back!
@@ -271,6 +293,10 @@ Chouji: My mom always used to teach me to cook. This is the first time that I'm 
 Chouji: #Traveler, you're a great adventurer, right? I'm sure this Imported Poultry is just a piece of cake for you!
 Paimon: Ooh, Paimon's mad now, he's looking down on us!
 Paimon: C'mon, we'll show him!
+
+## Talk 13 (alternative/additional)
+
+Chouji: #Woohoo! Alright then, Traveler, you can start now!
 
 ## Talk 16
 
@@ -564,6 +590,32 @@ Chouji: So... So...
         Traveler: I'll go check it out for you.
 Chouji: #Thank you so much, Traveler!
 
+## Talk 20 (alternative/additional)
+
+Chouji: #You're back, Traveler!
+Chouji: Why don't you eat something, or drink some water?
+    Option 1:
+        Traveler: I'm fine. Thanks.
+    Option 2:
+        Traveler: Let me finish your commission first.
+Chouji: Thank you!
+
+## Talk 21 (alternative/additional)
+
+Shrine: This is probably the shrine that Chouji mentioned, huh?
+Shrine: (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
+Traveler: Investigate
+Shrine: (The shrine is simple but elegant. Its wood shimmers slightly, greeting guests and their offerings with solemn silence.)
+Shrine: (Many Sacred Sakura petals lie scattered around this shrine, though it is not a natural scene. Instead, it seems more like someone intentionally scattered the Sakura Blooms here.)
+Paimon: Huh... There aren't any traces here, either.
+    Option 1:
+        Traveler: Look, Sakura Blooms...
+    Option 2:
+        Traveler: It's Chouji's mother's offering...
+Paimon: Oh right. Chouji mentioned that his mom would present this offering to the shrine!
+Paimon: There are so many petals here, too... This can't be a coincidence.
+Paimon: Let's go back and tell him!
+
 ## Talk 21
 
 Chouji: #Traveler, you're back!
@@ -653,6 +705,15 @@ Chouji: Well, I've said enough. Still want to help me?
         Traveler: I hope you can make good use of the crystals.
 Chouji: Thank you! I won't forget this!
 
+## Talk 23 (alternative/additional)
+
+Chouji: #Traveler, you're back. Did you bring any Crystal Marrow back?
+    Option 1:
+        Traveler: Yes, I did.
+    Option 2:
+        Traveler: I'm on my way.
+        Chouji: Take your time. You can take a rest here too if you like.
+
 ## Talk 24
 
 Chouji: This should be enough Crystal Marrow. Now it's time to start my adventure!
@@ -725,94 +786,33 @@ Chouji: It's okay. Tell me when you have any news.
 
 ### Additional Talk 1
 
-Chouji: You're back. Do you have the crystals with you?
-    Option 1:
-        Traveler: Sure do.
-    Option 2:
-        Traveler: They're on the way.
-        Chouji: No hurry, stay safe now!
+Traveler: We found a letter.
+Paimon: Read it yourself...
+Chouji: Well... Okay...
+Chouji: I'll read it.
+Traveler: You might find her selfish...
+Traveler: But please don't blame her.
+Chouji: ...I understand.
+Chouji: But I'll keep looking for her. Only when I find her can any of these things have meaning.
+Paimon: This child... is so stubborn.
 
 ### Additional Talk 2
 
-Chouji: #Oh, Traveler, you're back. Did you bring the crystals?
-    Option 1:
-        Traveler: Yeah, I've got them.
-    Option 2:
-        Traveler: They'll be here.
-        Chouji: No hurry, stay safe now!
+Chouji: Anyway. Thank you for your help! See you around!
 
 ### Additional Talk 3
 
-Chouji: What we'll need is some *Flour*, *Fowl*, and *Bird Eggs*. Just ask me any time if you forget!
+Traveler: We found a letter.
+Paimon: Read it yourself...
+Chouji: Well... Okay...
+Chouji: I'll read it.
+Traveler: You might find her selfish...
+Traveler: But please don't blame her.
+Chouji: ...I understand.
+Chouji: But I'll keep looking for her. Only when I find her can any of these things have meaning.
+Paimon: This child... is so stubborn.
 
 ### Additional Talk 4
-
-Chouji: #Woohoo! Alright then, Traveler, you can start now!
-
-### Additional Talk 5
-
-Chouji: #You're back, Traveler!
-Chouji: Why don't you eat something, or drink some water?
-    Option 1:
-        Traveler: I'm fine. Thanks.
-    Option 2:
-        Traveler: Let me finish your commission first.
-Chouji: Thank you!
-
-### Additional Talk 6
-
-Shrine: This is probably the shrine that Chouji mentioned, huh?
-Shrine: (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
-Traveler: Investigate
-Shrine: (The shrine is simple but elegant. Its wood shimmers slightly, greeting guests and their offerings with solemn silence.)
-Shrine: (Many Sacred Sakura petals lie scattered around this shrine, though it is not a natural scene. Instead, it seems more like someone intentionally scattered the Sakura Blooms here.)
-Paimon: Huh... There aren't any traces here, either.
-    Option 1:
-        Traveler: Look, Sakura Blooms...
-    Option 2:
-        Traveler: It's Chouji's mother's offering...
-Paimon: Oh right. Chouji mentioned that his mom would present this offering to the shrine!
-Paimon: There are so many petals here, too... This can't be a coincidence.
-Paimon: Let's go back and tell him!
-
-### Additional Talk 7
-
-Chouji: #Traveler, you're back. Did you bring any Crystal Marrow back?
-    Option 1:
-        Traveler: Yes, I did.
-    Option 2:
-        Traveler: I'm on my way.
-        Chouji: Take your time. You can take a rest here too if you like.
-
-### Additional Talk 8
-
-Traveler: We found a letter.
-Paimon: Read it yourself...
-Chouji: Well... Okay...
-Chouji: I'll read it.
-Traveler: You might find her selfish...
-Traveler: But please don't blame her.
-Chouji: ...I understand.
-Chouji: But I'll keep looking for her. Only when I find her can any of these things have meaning.
-Paimon: This child... is so stubborn.
-
-### Additional Talk 9
-
-Chouji: Anyway. Thank you for your help! See you around!
-
-### Additional Talk 10
-
-Traveler: We found a letter.
-Paimon: Read it yourself...
-Chouji: Well... Okay...
-Chouji: I'll read it.
-Traveler: You might find her selfish...
-Traveler: But please don't blame her.
-Chouji: ...I understand.
-Chouji: But I'll keep looking for her. Only when I find her can any of these things have meaning.
-Paimon: This child... is so stubborn.
-
-### Additional Talk 11
 
 Chouji: Anyway. Thank you for your help! See you around!
 Chouji: #Well, I don't know when I'll see you again next. I hope you'll still remember me by then, Traveler!

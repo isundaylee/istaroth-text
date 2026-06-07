@@ -18,6 +18,16 @@ Loshts: So, it is good that you are here... though your timing is less stellar, 
         Traveler: Alright, then we'll wait for him to return.
         Loshts: Indeed, indeed. "Intensity" draws "intensity," and the "strongest" will surely cross paths with the "strongest." So yes, waiting is certainly one option.
 
+## Talk 2 (alternative/additional)
+
+Loshts: How goes your journey to find the "strongest," oh warrior from faraway lands?
+    Option 1:
+        Traveler: Tell me where the "strongest" is located...
+        Loshts: If you head up the mountain, you'll come across a region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest"...
+    Option 2:
+        Traveler: Still working on it...
+        Loshts: Ah yes, that would be lovely! Lovely!
+
 ## Talk 5
 
 Ma'chah: So "cold"! This is so "cold"!
@@ -81,6 +91,10 @@ Paimon: Hehe, of course! You can always count on a legendary adventurer like the
 Paimon: (Hey, can you not put Paimon on the spot like that in front of everyone? How about this — Paimon'll let you have the best dish tonight, okay?)
 Paimon: Ahem! Anyway, let's get going!
 
+## Talk 12 (alternative/additional)
+
+Ma'chah: Haha! So "cold"! This is so "cold"! But just watch — I'm about to crank the "intensity" right up! You'll boil alright, mark my words!
+
 ## Talk 12
 
 ???: Great! You're all back! I was starting to think I might've really messed things up today!
@@ -110,16 +124,6 @@ Yoleehe: Could it be... that everything written in "The Book of Five Springs" is
 
 ### Additional Talk 3
 
-Loshts: How goes your journey to find the "strongest," oh warrior from faraway lands?
-    Option 1:
-        Traveler: Tell me where the "strongest" is located...
-        Loshts: If you head up the mountain, you'll come across a region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest"...
-    Option 2:
-        Traveler: Still working on it...
-        Loshts: Ah yes, that would be lovely! Lovely!
-
-### Additional Talk 4
-
 ???: #Oh hey, Traveler, it's you...
     Option 1:
         Traveler: Why do you look so down?
@@ -130,7 +134,7 @@ Loshts: How goes your journey to find the "strongest," oh warrior from faraway l
         Traveler: See you around.
         ???: #Um... take care on your way, Traveler.
 
-### Additional Talk 5
+### Additional Talk 4
 
 Paimon: Hmm... Well, we already agreed to help out, but where should we even start?
     Option 1:
@@ -146,16 +150,12 @@ Paimon: *sigh* Isn't there a more realistic solution we can try?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
 Paimon: #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
 
-### Additional Talk 6
+### Additional Talk 5
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
 Traveler (Paimon): #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
 
-### Additional Talk 7
-
-Ma'chah: Haha! So "cold"! This is so "cold"! But just watch — I'm about to crank the "intensity" right up! You'll boil alright, mark my words!
-
-### Additional Talk 8
+### Additional Talk 6
 
 ???: #It's you, Traveler! Hehe, long time no see! How have you been?
     Option 1:
@@ -168,7 +168,7 @@ Ma'chah: Haha! So "cold"! This is so "cold"! But just watch — I'm about to cra
         Traveler: See you around.
         ???: Take care, and have a safe journey!
 
-### Additional Talk 9
+### Additional Talk 7
 
 Loshts: Such incredible "intensity"... It's thrilling! Absolutely thrilling!
     Option 1:

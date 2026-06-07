@@ -410,6 +410,22 @@ Paimon: But that Blubberbeast doesn't seem to have the slightest bit of strength
 Paimon: There wasn't even a plate of food around... Perhaps they've been locked up so long that they're starving.
 Paimon: #If that's so, let's make something for the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat!
 
+## Talk 6 (alternative/additional)
+
+Weakened Blubberbeast: Aouhhh...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Arawr?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Awwrr...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Weakened Blubberbeast: Aouh?
+Weakened Blubberbeast: Aouh...
+Weakened Blubberbeast: Auh!
+Paimon: Paimon can't understand their conversation at all, but it seems they've reached an understanding...?
+    Option 1:
+        Traveler: It's fine if you don't get it.
+    Option 2:
+        Traveler: As long as the emotion's there, that's all that matters.
+Paimon: Makes sense. Even though the Blubberbeast doesn't have much strength, it feels like they're really happy — and Paimon feels happy for 'em, too!
+
 ## Talk 6
 
 Black Screen Text: #After a splendid culinary process, the special fish you grilled for {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast is ready...
@@ -804,21 +820,3 @@ Traveler: Best if it goes back where it belongs.
 Paimon: #Don't be sad, {REALNAME[ID(2)|SHOWHOST(true)]}. You had so much fun just now, and you're already friends!
 Paimon: Anyway, Paimon's got a feeling that this isn't the last we've seen of that Blubberbeast!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-Weakened Blubberbeast: Aouhhh...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Arawr?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Awwrr...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Weakened Blubberbeast: Aouh?
-Weakened Blubberbeast: Aouh...
-Weakened Blubberbeast: Auh!
-Paimon: Paimon can't understand their conversation at all, but it seems they've reached an understanding...?
-    Option 1:
-        Traveler: It's fine if you don't get it.
-    Option 2:
-        Traveler: As long as the emotion's there, that's all that matters.
-Paimon: Makes sense. Even though the Blubberbeast doesn't have much strength, it feels like they're really happy — and Paimon feels happy for 'em, too!

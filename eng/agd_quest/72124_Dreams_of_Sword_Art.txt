@@ -91,6 +91,10 @@ Nameless: Didn't you say that you would help me? Then please, help me find those
 Traveler: I understand.
 Nameless: A samurai's word is his bond. I will wait here for you until you have brought me those swords.
 
+## Talk 8 (alternative/additional)
+
+Nameless: Have you found the swords?
+
 ## Talk 9
 
 Nameless: ...
@@ -113,10 +117,31 @@ Nameless: You are the only one who has managed to defeat me... Curses. Curses! H
 Nameless: Curses! Curses! CURSES!
 Nameless: Again! We will go again! I will not lose this time!
 
+## Talk 10 (alternative/additional)
+
+Nameless: Let us duel once more, you and I.
+
+## Talk 10 (alternative/additional)
+
+Traveler: Give me a second.
+Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
+Nameless: Use your full strength against me once you are ready.
+
 ## Talk 10
 
 Traveler: Well, if you're ready to lose...
 Nameless: Many have said this before Takatsuki Dougire cut them down. How many blows will you withstand?
+
+## Talk 11 (alternative/additional)
+
+Nameless: Are you ready?
+    Option 1:
+        Traveler: Give me a moment.
+        Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
+        Nameless: Use your full strength against me once you are ready.
+    Option 2:
+        Traveler: Well, if you're ready to lose...
+        Nameless: Many have said this before Takatsuki Dougire cut them down. How many blows will you withstand?
 
 ## Talk 12
 
@@ -150,6 +175,46 @@ Nameless: I... I am in your debt. Perhaps I shall indeed remember my past if I d
 
 Paimon: Armored and armed men... does he mean soldiers from an army camp?
 Paimon: If we head east from here, we'll reach some land that's mostly flat. Maybe that's where the camp is.
+
+## Talk 15 (alternative/additional)
+
+Ishikawa: I hope this fragile peace will hold out a little longer...
+Traveler: Do you know of a nameless samurai?
+Ishikawa: I've never heard of some strange guy like that. You're barking up the wrong tree here.
+
+## Talk 15 (alternative/additional)
+
+Kujou Masahito: Hmm? Why is a civilian like you wandering around in the military camp?
+Traveler: Do you know of a nameless samurai?
+Kujou Masahito: Serving no master, and slaying no foe on the battlefield. The person you speak of must be a ronin.
+Kujou Masahito: There is no place in my army for such a person.
+Unknown Role (TALK_ROLE_NPC): Besides, order is valued above all here in a military encampment. This is no place for civilians to walk in and out of as they please. Please leave quickly.
+
+## Talk 15 (alternative/additional)
+
+Ishikawa: I hope this fragile peace will hold out a little longer...
+Traveler: Do you know of a nameless samurai?
+Ishikawa: Huh. This person you speak of seems rather strange. I've never encountered such a person.
+Ishikawa: That said, there's been an arrest warrant out for some reckless fool who actually dared to take the Shogun on. That certainly sounds a little like the person you're talking about.
+Ishikawa: What does the wanted fugitive look like, you ask? Uh... How did I forget that? Really, now...
+Ishikawa: But I'd stay away from that guy if I were you. What if they're the wanted fugitive? I'd focus on keeping my head on my shoulders if I were you.
+
+## Talk 15 (alternative/additional)
+
+Kujou Masahito: Hmm? Why is a civilian like you wandering around in the military camp?
+Traveler: Do you know of a nameless samurai?
+Kujou Masahito: Serving no master, and slaying no foe on the battlefield. The person you speak of must be a ronin.
+Kujou Masahito: There is no place in my army for such a person.
+Kujou Masahito: Are you just here to look for someone? If you are, please leave as soon as possible.
+Kujou Masahito: I've received word that some scoundrel infiltrated the city and attempted to ambush our Almighty Shogun. My forces have also received an arrest warrant for this criminal.
+Kujou Masahito: Well, you've also got blond hair. Best you leave, or you might be mistaken for that wanted fugitive.
+Kujou Masahito: Looking at your thin build, forget surviving a battle with the Shogun — I personally doubt you'd be able to parry my spear even once. I have no wish to involve commoners in these struggles unnecessarily.
+Kujou Masahito: Still, you do look quite familiar...
+    Option 1:
+        Traveler: Huh? I—I'm sure we've never met, good sir!
+    Option 2:
+        Traveler: I'll head home immediately.
+Unknown Role (TALK_ROLE_NPC): ...Mm, fair enough.
 
 ## Talk 15
 
@@ -214,6 +279,10 @@ Matsudaira: Well, you have the wine. If there's nothing else, best you take your
 Matsudaira: This is a military camp, after all, and there's been an arrest warrant out and about lately. Things are really tight right now.
 Matsudaira: Strangers like yourself would be wise not to stay here long, or some people might get the wrong idea.
 
+## Talk 16 (alternative/additional)
+
+Nameless: Did you find the wine?
+
 ## Talk 17
 
 Nameless: This wine... it's bitter. That's not right.
@@ -236,10 +305,29 @@ Nameless: "Masanori"... "Masanori"... is that my name?
         Traveler: Maybe it's for the best that you don't know.
 "Masanori": But I want to know. I must know. Please, I want to know... I want to...
 
+## Talk 20 (alternative/additional)
+
+"Masanori": My head... It hurts... Please, I beg of you, fight me once more. Use your blade to help me remember. Help me remember everything!
+
+## Talk 20 (alternative/additional)
+
+Traveler: Let me think about it.
+"Masanori": What? What are you waiting for?
+
 ## Talk 20
 
 Traveler: Well then, have at it.
 "Masanori": Let us cross swords.
+
+## Talk 26 (alternative/additional)
+
+"Masanori": My head... It hurts... Please, I beg of you, fight me once more. Use your blade to help me remember. Help me remember everything!
+    Option 1:
+        Traveler: Let me think about it.
+        "Masanori": What? What are you waiting for?
+    Option 2:
+        Traveler: Well then, have at it.
+        "Masanori": Let us cross swords.
 
 ## Talk 27
 
@@ -254,6 +342,10 @@ Traveler: And where's that place?
         Traveler: I'll help you remember.
     Option 2:
         Traveler: I'll help you find that sword.
+"Masanori": Remember, I have to remember, that sword... that sword...
+
+## Talk 30 (alternative/additional)
+
 "Masanori": Remember, I have to remember, that sword... that sword...
 
 ## Talk 31
@@ -300,104 +392,12 @@ Nameless: A samurai's word is his bond. I will wait here for you until you have 
 
 ### Additional Talk 2
 
-Nameless: Have you found the swords?
+Nameless: Who did I drink with... what did we say...
 
 ### Additional Talk 3
 
-Nameless: Are you ready?
-    Option 1:
-        Traveler: Give me a moment.
-        Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
-        Nameless: Use your full strength against me once you are ready.
-    Option 2:
-        Traveler: Well, if you're ready to lose...
-        Nameless: Many have said this before Takatsuki Dougire cut them down. How many blows will you withstand?
+"Masanori": Remember, I have to remember, that sword... that sword...
 
 ### Additional Talk 4
-
-Nameless: Who did I drink with... what did we say...
-
-### Additional Talk 5
-
-Ishikawa: I hope this fragile peace will hold out a little longer...
-Traveler: Do you know of a nameless samurai?
-Ishikawa: I've never heard of some strange guy like that. You're barking up the wrong tree here.
-
-### Additional Talk 6
-
-Kujou Masahito: Hmm? Why is a civilian like you wandering around in the military camp?
-Traveler: Do you know of a nameless samurai?
-Kujou Masahito: Serving no master, and slaying no foe on the battlefield. The person you speak of must be a ronin.
-Kujou Masahito: There is no place in my army for such a person.
-Unknown Role (TALK_ROLE_NPC): Besides, order is valued above all here in a military encampment. This is no place for civilians to walk in and out of as they please. Please leave quickly.
-
-### Additional Talk 7
-
-Nameless: Did you find the wine?
-
-### Additional Talk 8
-
-"Masanori": My head... It hurts... Please, I beg of you, fight me once more. Use your blade to help me remember. Help me remember everything!
-    Option 1:
-        Traveler: Let me think about it.
-        "Masanori": What? What are you waiting for?
-    Option 2:
-        Traveler: Well then, have at it.
-        "Masanori": Let us cross swords.
-
-### Additional Talk 9
-
-"Masanori": Remember, I have to remember, that sword... that sword...
-
-### Additional Talk 10
-
-Nameless: Let us duel once more, you and I.
-
-### Additional Talk 11
-
-Traveler: Give me a second.
-Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
-Nameless: Use your full strength against me once you are ready.
-
-### Additional Talk 12
-
-"Masanori": My head... It hurts... Please, I beg of you, fight me once more. Use your blade to help me remember. Help me remember everything!
-
-### Additional Talk 13
-
-Traveler: Let me think about it.
-"Masanori": What? What are you waiting for?
-
-### Additional Talk 14
-
-Ishikawa: I hope this fragile peace will hold out a little longer...
-Traveler: Do you know of a nameless samurai?
-Ishikawa: Huh. This person you speak of seems rather strange. I've never encountered such a person.
-Ishikawa: That said, there's been an arrest warrant out for some reckless fool who actually dared to take the Shogun on. That certainly sounds a little like the person you're talking about.
-Ishikawa: What does the wanted fugitive look like, you ask? Uh... How did I forget that? Really, now...
-Ishikawa: But I'd stay away from that guy if I were you. What if they're the wanted fugitive? I'd focus on keeping my head on my shoulders if I were you.
-
-### Additional Talk 15
-
-Kujou Masahito: Hmm? Why is a civilian like you wandering around in the military camp?
-Traveler: Do you know of a nameless samurai?
-Kujou Masahito: Serving no master, and slaying no foe on the battlefield. The person you speak of must be a ronin.
-Kujou Masahito: There is no place in my army for such a person.
-Kujou Masahito: Are you just here to look for someone? If you are, please leave as soon as possible.
-Kujou Masahito: I've received word that some scoundrel infiltrated the city and attempted to ambush our Almighty Shogun. My forces have also received an arrest warrant for this criminal.
-Kujou Masahito: Well, you've also got blond hair. Best you leave, or you might be mistaken for that wanted fugitive.
-Kujou Masahito: Looking at your thin build, forget surviving a battle with the Shogun — I personally doubt you'd be able to parry my spear even once. I have no wish to involve commoners in these struggles unnecessarily.
-Kujou Masahito: Still, you do look quite familiar...
-    Option 1:
-        Traveler: Huh? I—I'm sure we've never met, good sir!
-    Option 2:
-        Traveler: I'll head home immediately.
-Unknown Role (TALK_ROLE_NPC): ...Mm, fair enough.
-
-### Additional Talk 16
-
-"Masanori": Remember, I have to remember, that sword... that sword...
-
-### Additional Talk 17
 
 Paimon: *sigh* This guy isn't gonna listen to a word you say. Come on, let's go and try to find that sword before he goes berserk again.

@@ -76,6 +76,62 @@ Nahida: #Traveler and Paimon have helped you a lot. If you can't decide on a new
 Traveler: Huh? You want us to decide?
 Paimon: Nope, Paimon only does nicknames! If it's a serious name you're after... it's all yours!
 
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): You can't be serious.
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Is this supposed to be your attempt at a joke?
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...Hmph. I have no need for these names anymore.
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Yes. I think this will do.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Ah, alright, if you say so.
+
+## Talk 2 (alternative/additional)
+
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): That won't work.
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...This is a bad idea.
+Traveler: Hmm, let me give it some more thought.
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: You want to share your name with me? Huh, not a bad choice.
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Are you sure?
+
+## Talk 2 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?
+
 ## Talk 3
 
 Nahida: There, now you have a name of your own.
@@ -123,6 +179,15 @@ Sawada: "...All these expressions of joy melted down in the furnace fire and tur
 Sawada: "Life is a story too long to be told, a journey that you must walk to behold."
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Hmph.
 
+## Talk 5 (alternative/additional)
+
+Sawada: Aqaba, thanks for inviting me to research together!
+Aqaba: Of course, Sawada. Your creativity has been indispensable to me. Without you, I'd have scratched my head bald by now.
+
+## Talk 5 (alternative/additional)
+
+Nahida: Thank you so much. Please get some good rest, you must be exhausted. You know, take a shower, take a dook-dook... you'll feel as good as new.
+
 ## Talk 5
 
 Paimon: Whew! It's about time we had a break!
@@ -154,73 +219,3 @@ Paimon: Ugh. Anyway, that vase is still lying there broken on the ground. Should
 Paimon: ...Feels wrong just leaving it there. Just a moment, Paimon'll be right back!
 Traveler: (...)
 Traveler: (I wonder what else awaits me in the future?)
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?
-
-### Additional Talk 2
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): You can't be serious.
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 3
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Is this supposed to be your attempt at a joke?
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 4
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...Hmph. I have no need for these names anymore.
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 5
-
-Traveler: Yes. I think this will do.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Ah, alright, if you say so.
-
-### Additional Talk 6
-
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 7
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): That won't work.
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 8
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...This is a bad idea.
-Traveler: Hmm, let me give it some more thought.
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Okay.
-
-### Additional Talk 9
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You want to share your name with me? Huh, not a bad choice.
-
-### Additional Talk 10
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Are you sure?
-
-### Additional Talk 11
-
-Sawada: Aqaba, thanks for inviting me to research together!
-Aqaba: Of course, Sawada. Your creativity has been indispensable to me. Without you, I'd have scratched my head bald by now.
-
-### Additional Talk 12
-
-Nahida: Thank you so much. Please get some good rest, you must be exhausted. You know, take a shower, take a dook-dook... you'll feel as good as new.
-
-### Additional Talk 13
-
-#{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Have you got anything?

@@ -37,6 +37,16 @@ Sumac: This place ain't half bad, huh? Shall we get right to it?
         Traveler: I'll need a moment to prepare.
         Sumac: No worries. I'll wait here.
 
+## Talk 5 (alternative/additional)
+
+Sumac: Well, are you ready?
+    Option 1:
+        Traveler: Bring it on.
+        Sumac: I was waiting for you to say that.
+    Option 2:
+        Traveler: Hold on...
+        Sumac: No worries.
+
 ## Talk 5
 
 Anela: Sour Sauce Ceviche again...?
@@ -182,9 +192,22 @@ Ogun: Done thinking it over? Ready to accept my challenge?
         Traveler: I'll need a moment to prepare.
         Ogun: See to it, and then come to me.
 
+## Talk 13 (alternative/additional)
+
+Ogun: Ready?
+    Option 1:
+        Traveler: Let's begin.
+    Option 2:
+        Traveler: Wait a moment.
+        Ogun: Will do.
+
 ## Talk 13
 
 Tozan: So you're here just to gloat and revel in the humiliation of a defeated opponent? That's not a hobby I'd flaunt.
+
+## Talk 14 (alternative/additional)
+
+Ogun: Why don't you try it out before you give up?
 
 ## Talk 16
 
@@ -213,6 +236,10 @@ Ogun: As for today's training... Yes, that should do it.
     Option 2:
         Traveler: I'll leave you to it, then.
         Ogun: Very well.
+
+## Talk 19 (alternative/additional)
+
+Pampa: It's not over yet, is it? I'm keeping track of the time.
 
 ## Talk 20
 
@@ -266,6 +293,10 @@ Pampa: Yo, you've got time to come here?
     Option 2:
         Traveler: I should get going.
         Pampa: Don't let me keep you!
+
+## Talk 26 (alternative/additional)
+
+Anela: Giving up halfway ain't a good habit. Sure you don't wanna hang in there a bit?
 
 ## Talk 27
 
@@ -361,6 +392,30 @@ Hampeq: #Here also are the victim testimonies, good judge, that I gathered toget
 
 Tenehua: Pass the Hawkwings victim testimonies to me once you're ready.
 
+## Talk 34 (alternative/additional)
+
+Hampeq: I'll leave submitting the victims' testimonies to you.
+
+## Talk 34 (alternative/additional)
+
+Itzcuin: What's the Hawkwings' little helper looking for me for? I've got nothin' to say to the likes of you.
+
+## Talk 34 (alternative/additional)
+
+Tozan: ...
+
+## Talk 34 (alternative/additional)
+
+Ogun: I'm not too concerned about the outcome. This just happens to be my duty.
+
+## Talk 34 (alternative/additional)
+
+Pampa: Have I arrived too early? Are we not at the exciting bit yet? Or was there not one?
+
+## Talk 34 (alternative/additional)
+
+Anela: So many familiar faces... I can barely breathe. *sigh* The sooner this is over, the better.
+
 ## Talk 34
 
 Tenehua: Well, it certainly appears that this is no groundless accusation after all. Any objections, Itzcuin?
@@ -419,6 +474,34 @@ Tenehua: Still, before we adjourn, please submit the evidence you just presented
 ## Talk 35
 
 Tenehua: You'll have to submit... the Locusts' Purchase Invoice. Ready?
+
+## Talk 36 (alternative/additional)
+
+Sumac: Well, feels like things are getting weirder and weirder...
+
+## Talk 36 (alternative/additional)
+
+Hampeq: It's fine, there's still a way...
+
+## Talk 36 (alternative/additional)
+
+Itzcuin: If you've got other tricks up your sleeve, by all means, don't hold back. Hit me with everything you've got.
+
+## Talk 36 (alternative/additional)
+
+Tozan: ...
+
+## Talk 36 (alternative/additional)
+
+Ogun: Hmph, just as I thought.
+
+## Talk 36 (alternative/additional)
+
+Pampa: Wait, could it be...?
+
+## Talk 36 (alternative/additional)
+
+Anela: This should be over soon, right? Phew... Now we can finally go back.
 
 ## Talk 36
 
@@ -586,16 +669,6 @@ Ogun: As for today's training... Yes, that should do it.
 
 ### Additional Talk 1
 
-Sumac: Well, are you ready?
-    Option 1:
-        Traveler: Bring it on.
-        Sumac: I was waiting for you to say that.
-    Option 2:
-        Traveler: Hold on...
-        Sumac: No worries.
-
-### Additional Talk 2
-
 Sumac: Haha, I didn't think I'd get beaten as soon as I arrived at the Stadium. This story's going to be a riot for my friends back home.
     Option 1:
         Traveler: Being the butt of a joke amongst friends is worth it sometimes.
@@ -604,20 +677,11 @@ Sumac: Haha, I didn't think I'd get beaten as soon as I arrived at the Stadium. 
         Traveler: Must be saddening to have your friends laugh at you.
         Sumac: You think so? I don't think they mean any harm. It was a pretty funny scene at any rate — I wouldn't mind if you laughed too.
 
-### Additional Talk 3
-
-Ogun: Ready?
-    Option 1:
-        Traveler: Let's begin.
-    Option 2:
-        Traveler: Wait a moment.
-        Ogun: Will do.
-
-### Additional Talk 4
+### Additional Talk 2
 
 Hampeq: *sigh* I'm counting on you two.
 
-### Additional Talk 5
+### Additional Talk 3
 
 Pampa: Is it worth getting that angry over? Honestly...
     Option 1:
@@ -630,74 +694,10 @@ Pampa: Is it worth getting that angry over? Honestly...
         Traveler: Sorry for disturbing you.
         Pampa: Huh? Leaving already, just like that? Alrighty, then...
 
-### Additional Talk 6
+### Additional Talk 4
 
 Tlalepa: Let me out of here and fight us again if you dare! You hear me!?
 
-### Additional Talk 7
-
-Hampeq: I'll leave submitting the victims' testimonies to you.
-
-### Additional Talk 8
-
-Itzcuin: What's the Hawkwings' little helper looking for me for? I've got nothin' to say to the likes of you.
-
-### Additional Talk 9
-
-Tozan: ...
-
-### Additional Talk 10
-
-Sumac: Well, feels like things are getting weirder and weirder...
-
-### Additional Talk 11
-
-Hampeq: It's fine, there's still a way...
-
-### Additional Talk 12
-
-Itzcuin: If you've got other tricks up your sleeve, by all means, don't hold back. Hit me with everything you've got.
-
-### Additional Talk 13
-
-Tozan: ...
-
-### Additional Talk 14
-
-Ogun: I'm not too concerned about the outcome. This just happens to be my duty.
-
-### Additional Talk 15
-
-Pampa: Have I arrived too early? Are we not at the exciting bit yet? Or was there not one?
-
-### Additional Talk 16
-
-Anela: So many familiar faces... I can barely breathe. *sigh* The sooner this is over, the better.
-
-### Additional Talk 17
-
-Ogun: Hmph, just as I thought.
-
-### Additional Talk 18
-
-Pampa: Wait, could it be...?
-
-### Additional Talk 19
-
-Anela: This should be over soon, right? Phew... Now we can finally go back.
-
-### Additional Talk 20
-
-Ogun: Why don't you try it out before you give up?
-
-### Additional Talk 21
-
-Pampa: It's not over yet, is it? I'm keeping track of the time.
-
-### Additional Talk 22
-
-Anela: Giving up halfway ain't a good habit. Sure you don't wanna hang in there a bit?
-
-### Additional Talk 23
+### Additional Talk 5
 
 Hampeq: Thanks for your hard work.

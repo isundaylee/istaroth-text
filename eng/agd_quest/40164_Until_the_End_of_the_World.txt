@@ -125,9 +125,34 @@ Paimon: Well, we made it.. But, with the force of this waterfall, there's no way
 Paimon: Wait, but... No, Paimon doesn't need to ask you anything! Hmm... The dragon scale can turn anything it touches into toy blocks, so... Aha! You want to use it to block off the water!
 Paimon: See! Paimon can figure things out all on her own!
 
+## Talk 21 (alternative/additional)
+
+Nilou: ...
+Paimon: What's wrong, Nilou?
+Nilou: Oh, nothing. It's just... I sensed a very powerful magical signature just now...
+Navia: Guess this is the dragon's lair after all.
+Paimon: Huh? When did you put your hat on?
+Navia: Well, we're getting ready to fight, aren't we? I feel more comfortable in my regular outfit. Hat Guy also put away that sword around his waist.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Should've never had the useless thing to begin with.
+Paimon: #Do... Do you need to do anything to prepare, Traveler? Paimon's getting kinda nervous, seeing everyone all serious like this.
+    Option 1:
+        Traveler: I'm good. Let's go.
+    Option 2:
+        Traveler: I just need a little longer...
+        Navia: Of course! We should be fully prepared before going in.
+
 ## Talk 21
 
 Traveler: I'm good. Let's go.
+
+## Talk 22 (alternative/additional)
+
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Well? How long are you gonna keep us waiting?
+    Option 1:
+        Traveler: Alright, I'm set. Let's go!
+    Option 2:
+        Traveler: I just need a little longer...
+        Navia: Of course! We should be fully prepared before going in.
 
 ## Talk 22
 
@@ -517,31 +542,6 @@ Mini Durin: Thank you, Mom...
 
 ### Additional Talk 1
 
-Nilou: ...
-Paimon: What's wrong, Nilou?
-Nilou: Oh, nothing. It's just... I sensed a very powerful magical signature just now...
-Navia: Guess this is the dragon's lair after all.
-Paimon: Huh? When did you put your hat on?
-Navia: Well, we're getting ready to fight, aren't we? I feel more comfortable in my regular outfit. Hat Guy also put away that sword around his waist.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Should've never had the useless thing to begin with.
-Paimon: #Do... Do you need to do anything to prepare, Traveler? Paimon's getting kinda nervous, seeing everyone all serious like this.
-    Option 1:
-        Traveler: I'm good. Let's go.
-    Option 2:
-        Traveler: I just need a little longer...
-        Navia: Of course! We should be fully prepared before going in.
-
-### Additional Talk 2
-
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Well? How long are you gonna keep us waiting?
-    Option 1:
-        Traveler: Alright, I'm set. Let's go!
-    Option 2:
-        Traveler: I just need a little longer...
-        Navia: Of course! We should be fully prepared before going in.
-
-### Additional Talk 3
-
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Nobody can define who you are...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Or deny the true feelings of your heart
@@ -577,22 +577,22 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
-### Additional Talk 4
+### Additional Talk 2
 
 Nilou: This looks like... a mine.
 Kirara: Maybe... the toytanium miners dug too deep? So deep that they dug right through to the world on the next page?
 Nilou: Yeah... Now that you mention it, this miner's lamp looks really similar to the star on the previous page...
 
-### Additional Talk 5
+### Additional Talk 3
 
 Nilou: The Forest of Blessings... This book has been recording Simulanka's history all along...
 Kirara: Look at the size of those footprints... If that's every time he lands, then no wonder people are so terrified of him.
 
-### Additional Talk 6
+### Additional Talk 4
 
 Traveler: I just need a little longer...
 Navia: Of course! We should be fully prepared before going in.
 
-### Additional Talk 7
+### Additional Talk 5
 
 Navia: Of course! We should be fully prepared before going in.

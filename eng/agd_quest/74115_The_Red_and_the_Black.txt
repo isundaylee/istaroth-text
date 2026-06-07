@@ -169,6 +169,25 @@ Talochard: Curve, hide and wait here for us. You're too big not to get spotted. 
 "Curve": As you wish.
 Paimon: Then let's hurry up and figure out how to lure them away.
 
+## Talk 6 (alternative/additional)
+
+Paimon: These Bulle Fruit... Do these people really like them? In that case, we could try distracting them by throwing some from a distance...
+    Option 1:
+        Traveler: Sure, give it a try.
+        Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
+        Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
+        Paimon (Guard): Alert! Alert! Intruder alert!
+        Talochard: This plan's way too dumb!
+    Option 2:
+        Traveler: Doesn't sound like it'll work.
+        Talochard: Let's come up with a plan B.
+
+## Talk 7 (alternative/additional)
+
+Paimon: (This pot... has chicken legs in it. Is someone cooking?)
+Talochard: (How about adding in some "seasoning" to put them to sleep after their meal? Or we can do something else to drive them away...)
+Paimon: #(N—Nice idea! Check your bag for any useful "seasoning," Traveler!)
+
 ## Talk 8
 
 Paimon: Whoa! Paimon has a feeling it'll be super effective!
@@ -179,6 +198,10 @@ Black Screen Text: Once "Chowtime!" is shouted, the entire Elegant Tableware Con
 It doesn't take long before, one by one, subtle changes begin to appear on their faces, and then they start running toward the exit with their hands clutching their stomachs.
 Paimon: See, Talochard? They're experiencing the power of Poissonchant Pie, just like I said!
 Talochard: Hehe... I'm incredible! I'll go get Curve. Now we can search for evidence to our heart's content!
+
+## Talk 10 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
 ## Talk 11
 
@@ -200,6 +223,10 @@ Dining Table With Tableware: (An overwhelming amount of tableware is scattered a
 Paimon: A table knife! A table knife just like the one left outside The Steambird!
 Talochard: It must be them...
 
+## Talk 14 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 ## Talk 14
 
 Paimon: Hmm, this chest... What if Paimon hides inside and makes some noise? Then you guys can go look for clues while they come over to investigate. Think that'll work?
@@ -211,6 +238,41 @@ Paimon: Hmm, this chest... What if Paimon hides inside and makes some noise? The
     Option 2:
         Traveler: Doesn't sound like it'll work.
         Talochard: Let's come up with a plan B.
+
+## Talk 15 (alternative/additional)
+
+Diary of a Valiant Struggle (I): Missing text (0)
+
+## Talk 15 (alternative/additional)
+
+Diary of a Valiant Struggle (II): Missing text (0)
+
+## Talk 15 (alternative/additional)
+
+Diary of a Valiant Struggle (III): Missing text (0)
+
+## Talk 15 (alternative/additional)
+
+Diary of a Valiant Struggle (IV): Missing text (0)
+
+## Talk 16 (alternative/additional)
+
+Boss: Who cooked this gar— *blaaargh*... Who cooked today!? Kill— *blech*... Find him and kill him!
+"Intrepid Valberry": Boss! Boss— *urrrrrk*... Boss I'll immediately— *blaaaargh*... I'll go find the cook!
+Talochard: Hmph! This Agent right here is today's chef! So who's going to kill me?
+Boss: M—Marechaussee Phantom? Agents... How did— *huuuuurk*... How did you get in here?
+Talochard: I don't think you've got time to worry about that right now! We've obtained evidence of your crimes!
+Boss: Evidence? But Officer, all of them were temporary workers, and didn't you arrest them already?
+Talochard: We're working on another case right now! All of you are suspects in a plot to get revenge against The Steambird by stealing Sir Arthur!
+Boss: The paper? I—Impossible. I've never held any grudges toward them... in fact, I even want to thank them for pointing out the flaws in our business model...
+Talochard: You're good with words, but what will you do once we show you... THIS?
+
+Talochard: See? Director 42 admitted it in their diary! Busted!
+
+## Talk 16 (alternative/additional)
+
+Talochard: Oh, dangit! That's not it!
+Boss: What are you going to show? Do you have any evidence?
 
 ## Talk 16
 
@@ -585,67 +647,5 @@ Talochard: Alright! Then let's head home, get some rest, and meet outside the pa
 "Curve": Moisture has seeped into the motherboard. Motherboard temperature: Below warning line. Core functionality: 19%.
 
 ### Additional Talk 2
-
-Paimon: These Bulle Fruit... Do these people really like them? In that case, we could try distracting them by throwing some from a distance...
-    Option 1:
-        Traveler: Sure, give it a try.
-        Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
-        Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
-        Paimon (Guard): Alert! Alert! Intruder alert!
-        Talochard: This plan's way too dumb!
-    Option 2:
-        Traveler: Doesn't sound like it'll work.
-        Talochard: Let's come up with a plan B.
-
-### Additional Talk 3
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-### Additional Talk 4
-
-Paimon: (This pot... has chicken legs in it. Is someone cooking?)
-Talochard: (How about adding in some "seasoning" to put them to sleep after their meal? Or we can do something else to drive them away...)
-Paimon: #(N—Nice idea! Check your bag for any useful "seasoning," Traveler!)
-
-### Additional Talk 5
-
-Boss: Who cooked this gar— *blaaargh*... Who cooked today!? Kill— *blech*... Find him and kill him!
-"Intrepid Valberry": Boss! Boss— *urrrrrk*... Boss I'll immediately— *blaaaargh*... I'll go find the cook!
-Talochard: Hmph! This Agent right here is today's chef! So who's going to kill me?
-Boss: M—Marechaussee Phantom? Agents... How did— *huuuuurk*... How did you get in here?
-Talochard: I don't think you've got time to worry about that right now! We've obtained evidence of your crimes!
-Boss: Evidence? But Officer, all of them were temporary workers, and didn't you arrest them already?
-Talochard: We're working on another case right now! All of you are suspects in a plot to get revenge against The Steambird by stealing Sir Arthur!
-Boss: The paper? I—Impossible. I've never held any grudges toward them... in fact, I even want to thank them for pointing out the flaws in our business model...
-Talochard: You're good with words, but what will you do once we show you... THIS?
-
-Talochard: See? Director 42 admitted it in their diary! Busted!
-
-### Additional Talk 6
-
-Talochard: Oh, dangit! That's not it!
-Boss: What are you going to show? Do you have any evidence?
-
-### Additional Talk 7
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-### Additional Talk 8
-
-Diary of a Valiant Struggle (I): Missing text (0)
-
-### Additional Talk 9
-
-Diary of a Valiant Struggle (II): Missing text (0)
-
-### Additional Talk 10
-
-Diary of a Valiant Struggle (III): Missing text (0)
-
-### Additional Talk 11
-
-Diary of a Valiant Struggle (IV): Missing text (0)
-
-### Additional Talk 12
 
 Boss: What are you going to show? Do you have any evidence?

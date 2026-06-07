@@ -42,6 +42,11 @@ Paimon: You're welcome. See ya!
 Sawada: Keep us in the loop if you find out anything else!
 Paimon: Will do!
 
+## Talk 2 (alternative/additional)
+
+Sawada: Great, I can finally move forward with my novel! But what a sad story...
+Aqaba: I don't know what I was expecting, but... I never would have guessed this...
+
 ## Talk 2
 
 Paimon: Nahida, we're here.
@@ -207,6 +212,10 @@ Paimon: Hey! What do we do now?
 Traveler: Let's follow him!
 Paimon: Okay. Stay out of sight — don't let him see you!
 
+## Talk 6 (alternative/additional)
+
+Merchant: *sigh* ...That was a good batch of Sunsettias, too...
+
 ## Talk 6
 
 Wanderer: ...Yeah, this'll do.
@@ -242,6 +251,10 @@ Paimon: That's oddly nice of you...
 Wanderer: Let me take these back, then I'll come with you. Okay?
 Traveler: ...Alright.
 Paimon: Then, let's return to the city.
+
+## Talk 7 (alternative/additional)
+
+Nahida: There's a few things I'd like to look into. You should go take a walk and try to unwind.
 
 ## Talk 7
 
@@ -320,6 +333,14 @@ Traveler: ...Okay.
 Paimon: Oh, good point, given your, um... unique situation, w—we'd better keep an eye on you!
 Wanderer: Understood.
 Nahida: Thank you. Now, prepare yourselves, everyone.
+
+## Talk 10 (alternative/additional)
+
+Nahida: It's time to get ready.
+
+## Talk 10 (alternative/additional)
+
+Wanderer: No matter what lies ahead, I'll face it. Whatever it takes. I'm just sorry that you have to join me for the whole thing.
 
 ## Talk 11
 
@@ -470,29 +491,3 @@ Paimon: Wait, but it was you inside that thing, too. What have you got to be smu
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
 Nahida: The memory recovery seems to have been a success. This dream has served its purpose.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Come on. Let's continue this outside.
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Merchant: *sigh* ...That was a good batch of Sunsettias, too...
-
-### Additional Talk 2
-
-Sawada: Great, I can finally move forward with my novel! But what a sad story...
-Aqaba: I don't know what I was expecting, but... I never would have guessed this...
-
-### Additional Talk 3
-
-Nahida: There's a few things I'd like to look into. You should go take a walk and try to unwind.
-
-### Additional Talk 4
-
-Nahida: It's time to get ready.
-
-### Additional Talk 5
-
-Wanderer: No matter what lies ahead, I'll face it. Whatever it takes. I'm just sorry that you have to join me for the whole thing.

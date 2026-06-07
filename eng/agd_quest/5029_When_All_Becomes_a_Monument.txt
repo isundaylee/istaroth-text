@@ -96,6 +96,10 @@ Chasca: May your flame forever burn pure and bright.
 Acatl: With us by your side, you'll never fight alone!
 Biram: Time to embark on your parade of blessings.
 
+## Talk 5 (alternative/additional)
+
+Chasca: Go on. Everyone's waiting for your victory parade.
+
 ## Talk 5
 
 Balam: Great hero... Could I have a moment of your time?
@@ -132,6 +136,10 @@ Paimon: Wow, everyone's so enthusiastic... Paimon bets she could make a small fo
         Traveler: Don't even think about it.
 Paimon: Alright, alright! It was just a joke!
 
+## Talk 7 (alternative/additional)
+
+Wakanka: Thank you for indulging everyone. It meant a lot to them.
+
 ## Talk 7
 
 Wuttunee: Line up, everyone. Single file, please! The hero will begin signing autographs.
@@ -142,6 +150,16 @@ Traveler: (I'm starting to get the hang of this. Let's go for a few more...)
 
 Wuttunee: Alright, last one! The great hero has a parade to finish!
 Wuttunee: Thank you for taking the time to sign those autographs. We really appreciate it.
+
+## Talk 8 (alternative/additional)
+
+Wuttunee: Thanks again for the autographs.
+
+## Talk 8 (alternative/additional)
+
+Ajaw: Why does no one ask for the autograph of the Almighty Dragonlord K'uhul Ajaw!?
+Kinich: Ajaw was just practicing his signature with a rock. Still waiting on the admirers, though...
+Ajaw: HEY! Keep it to yourself!
 
 ## Talk 8
 
@@ -161,6 +179,24 @@ Traveler: The Lord of the Night gave those words to me.
 Sadigua: From the Lord of the Night herself...
 Sadigua: Legendary! Truly legendary!
 Crowd: "Tum{RUBY#[D]Hope}aini! Tum{RUBY#[D]Hope}aini! Tum{RUBY#[D]Hope}aini!"
+
+## Talk 9 (alternative/additional)
+
+Olapa: Huh? It's the great hero! Please, come dance with us!
+Paimon: #Whoa! Wh—What do you think, Traveler? Should we join them?
+    Option 1:
+        Traveler: *Let's give it a whirl.*
+        Paimon: Alright! Paimon's always willing to try something new!
+        Olapa: Hey, not bad! You're a natural!
+        Alakai: Let's hear it for our hero!
+    Option 2:
+        Traveler: I—I think I'll pass.
+        Alakai: That's alright! Let's hear it for our hero!
+
+## Talk 9 (alternative/additional)
+
+Olapa: For music, and for the Sacred Flame!
+Alakai: Ohh!
 
 ## Talk 9
 
@@ -265,6 +301,10 @@ Paimon: Wait, do you think Xbalanque could have met the Ruler of Death in Cinder
 Citlali: It's very likely. After all, Ochkanatlan was built on the site of a previous Dragon city — it's known as the first city of the Pyro Archon.
 Paimon: Alright! Then, let's head over right away!
 [Missing Dialog 50290804]
+
+## Talk 10 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NPC): Missing text (0)
 
 ## Talk 10
 
@@ -578,6 +618,26 @@ Ororon: When Guthred's soul possessed my body, all I saw was a dark abyss.
 Ororon: The Captain carried countless souls within him. It must have taken so much strength to live like that for hundreds of years...
 Ororon: For us, his death is something sad. But for him... maybe it finally allowed him to be at peace.
 
+## Talk 17 (alternative/additional)
+
+Chimalli: Just like the Archon said — we can now proudly tell our children that this war is a thing of the past. It's a new chapter for all of us.
+Chimalli: We will never forget your contribution, and Natlan will always be with you. May the Sacred Flame protect you in all the journeys to come.
+
+## Talk 17 (alternative/additional)
+
+Luta: When I was little, my father told me about Thrain, the "Sentinel Knight," an outlander who once fought alongside the warriors of Natlan.
+Luta: He was brave, fearless, and deeply respected by his men. I always wished I could go back in time and see him in action...
+Luta: I never thought that, in my lifetime, another outlander would fight to save this land, or that I would get the chance to fight by their side. I will treasure this honor for the rest of my life.
+
+## Talk 17 (alternative/additional)
+
+Huamanga: I knew about The Captain's immense strength, but I never expected him to have a such a strong sense of honor.
+Huamanga: No matter how prejudiced I may have been in the past, he now has my utmost respect.
+
+## Talk 17 (alternative/additional)
+
+Rotchev: My lord, you will forever serve as an example for all your soldiers.
+
 ## Talk 18
 
 Yata: Story! Story! I wanna hear a story!
@@ -628,68 +688,3 @@ Matho: So, no one wants to be the Pyro Archon anymore?
 Paimon: #Hehe, sounds fun. What do you say, Traveler? Wanna let Paimon be "Tum{RUBY#[D]Hope}aini" for the day?
 Traveler: Sure! Then, I'll be Paimon.
 Paimon: Alrighty then! Let's go, Paimon. A new adventure awaits!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Chasca: Go on. Everyone's waiting for your victory parade.
-
-### Additional Talk 2
-
-Wakanka: Thank you for indulging everyone. It meant a lot to them.
-
-### Additional Talk 3
-
-Wuttunee: Thanks again for the autographs.
-
-### Additional Talk 4
-
-Ajaw: Why does no one ask for the autograph of the Almighty Dragonlord K'uhul Ajaw!?
-Kinich: Ajaw was just practicing his signature with a rock. Still waiting on the admirers, though...
-Ajaw: HEY! Keep it to yourself!
-
-### Additional Talk 5
-
-Olapa: Huh? It's the great hero! Please, come dance with us!
-Paimon: #Whoa! Wh—What do you think, Traveler? Should we join them?
-    Option 1:
-        Traveler: *Let's give it a whirl.*
-        Paimon: Alright! Paimon's always willing to try something new!
-        Olapa: Hey, not bad! You're a natural!
-        Alakai: Let's hear it for our hero!
-    Option 2:
-        Traveler: I—I think I'll pass.
-        Alakai: That's alright! Let's hear it for our hero!
-
-### Additional Talk 6
-
-Olapa: For music, and for the Sacred Flame!
-Alakai: Ohh!
-
-### Additional Talk 7
-
-Chimalli: Just like the Archon said — we can now proudly tell our children that this war is a thing of the past. It's a new chapter for all of us.
-Chimalli: We will never forget your contribution, and Natlan will always be with you. May the Sacred Flame protect you in all the journeys to come.
-
-### Additional Talk 8
-
-Luta: When I was little, my father told me about Thrain, the "Sentinel Knight," an outlander who once fought alongside the warriors of Natlan.
-Luta: He was brave, fearless, and deeply respected by his men. I always wished I could go back in time and see him in action...
-Luta: I never thought that, in my lifetime, another outlander would fight to save this land, or that I would get the chance to fight by their side. I will treasure this honor for the rest of my life.
-
-### Additional Talk 9
-
-Huamanga: I knew about The Captain's immense strength, but I never expected him to have a such a strong sense of honor.
-Huamanga: No matter how prejudiced I may have been in the past, he now has my utmost respect.
-
-### Additional Talk 10
-
-Unknown Role (TALK_ROLE_NPC): Missing text (0)
-
-### Additional Talk 11
-
-Rotchev: My lord, you will forever serve as an example for all your soldiers.

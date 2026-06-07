@@ -55,6 +55,15 @@ Yasumoto: Come meet me here once you've gathered the plants. Don't worry about t
 Yasumoto: Although it's an assignment given by a stranger, I hope you will consider it. Thank you very much.
 Yasumoto: By the way, please be careful on your way.
 
+## Talk 2 (alternative/additional)
+
+Yasumoto: Oh, you're here.
+Yasumoto: Have you gathered the herbs I mentioned?
+
+## Talk 3 (alternative/additional)
+
+Yasumoto: Thank you very much for your help. But please be careful on Yashiori Island... This is not a safe place to stay.
+
 ## Talk 3
 
 Yasumoto: Yes, yes, the stems and leaves are all intact. And they are still fresh... Thank you very much.
@@ -66,6 +75,21 @@ Yasumoto: Ah, excuse me. I have troubled you so much, but I still don't know wha
 Traveler: #Just call me Traveler.
 Yasumoto: #Traveler, if you are interested in helping me again, please come back later.
 Yasumoto: Of course, I'll compensate you fairly. Haha.
+
+## Talk 5 (alternative/additional)
+
+Yasumoto: #Thank you, Traveler. I'm sorry if I've caused you any inconvenience.
+    Option 1:
+        Traveler: No, it's fine.
+    Option 2:
+        Traveler: It's nothing.
+Yasumoto: I have mixed a new remedy with the herbs you gathered. But I don't have any test subjects to assess the efficacy of the medicine.
+Yasumoto: #Traveler, can you please...
+Traveler: Please tell me straight-forward.
+Yasumoto: #Traveler, can I ask you to witness the efficacy of my new remedy?
+Yasumoto: The new prescription is still unstable and there's no way to foresee the worst consequences.
+Yasumoto: So I hope at least someone can witness my success... Or help me deal with the consequences, if the worst comes to the worst.
+Traveler: Alright.
 
 ## Talk 5
 
@@ -94,32 +118,3 @@ Yasumoto: #Traveler, it's fine if you're busy. Maybe I can find someone else to 
     Option 2:
         Traveler: Sure, I'll take care of it.
 Yasumoto: #Goodbye, traveler Traveler. I hope you will have a safe journey on Yashiori Island.
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Yasumoto: Oh, you're here.
-Yasumoto: Have you gathered the herbs I mentioned?
-
-### Additional Talk 2
-
-Yasumoto: #Thank you, Traveler. I'm sorry if I've caused you any inconvenience.
-    Option 1:
-        Traveler: No, it's fine.
-    Option 2:
-        Traveler: It's nothing.
-Yasumoto: I have mixed a new remedy with the herbs you gathered. But I don't have any test subjects to assess the efficacy of the medicine.
-Yasumoto: #Traveler, can you please...
-Traveler: Please tell me straight-forward.
-Yasumoto: #Traveler, can I ask you to witness the efficacy of my new remedy?
-Yasumoto: The new prescription is still unstable and there's no way to foresee the worst consequences.
-Yasumoto: So I hope at least someone can witness my success... Or help me deal with the consequences, if the worst comes to the worst.
-Traveler: Alright.
-
-### Additional Talk 3
-
-Yasumoto: Thank you very much for your help. But please be careful on Yashiori Island... This is not a safe place to stay.

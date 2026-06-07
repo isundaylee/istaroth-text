@@ -410,6 +410,22 @@
 派蒙: 附近连装饭的盘子都没看见…可能它们被关得太久，一直在挨饿。
 派蒙: #既然如此，我们就给膨膨兽和{REALNAME[ID(2)|SHOWHOST(true)]}做点吃的吧！
 
+## Talk 6 (alternative/additional)
+
+虚弱的膨膨兽: 嗷嗷…嗷…
+#{REALNAME[ID(2)|SHOWHOST(true)]}: 嗷？
+#{REALNAME[ID(2)|SHOWHOST(true)]}: 嗷…
+#{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！
+虚弱的膨膨兽: 呀？
+虚弱的膨膨兽: 呀…
+虚弱的膨膨兽: 呀！
+派蒙: 完全听不懂它们的对话，但好像还对上了节奏？
+    Option 1:
+        旅行者: 听不懂没关系。
+    Option 2:
+        旅行者: 情绪传达到位了就好。
+派蒙: 说得有道理，虽然膨膨兽没什么力气，但感觉它们很开心，我也跟着乐了起来！
+
 ## Talk 6
 
 黑屏文本: #经过一段精彩的烹饪过程，为膨膨兽和{REALNAME[ID(2)|SHOWHOST(true)]}特制的烤鱼完成了…
@@ -804,21 +820,3 @@
 派蒙: #别难过哦，{REALNAME[ID(2)|SHOWHOST(true)]}，你们刚才玩得那么开心，已经成为好朋友了！
 派蒙: 我有种预感，我们和那只膨膨兽以后还会再见面的！
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-虚弱的膨膨兽: 嗷嗷…嗷…
-#{REALNAME[ID(2)|SHOWHOST(true)]}: 嗷？
-#{REALNAME[ID(2)|SHOWHOST(true)]}: 嗷…
-#{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！
-虚弱的膨膨兽: 呀？
-虚弱的膨膨兽: 呀…
-虚弱的膨膨兽: 呀！
-派蒙: 完全听不懂它们的对话，但好像还对上了节奏？
-    Option 1:
-        旅行者: 听不懂没关系。
-    Option 2:
-        旅行者: 情绪传达到位了就好。
-派蒙: 说得有道理，虽然膨膨兽没什么力气，但感觉它们很开心，我也跟着乐了起来！

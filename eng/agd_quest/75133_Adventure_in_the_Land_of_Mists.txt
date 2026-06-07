@@ -29,6 +29,11 @@ Bona: Well, regardless of what's below us, I say we go check it out. I mean, we'
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Huh, you sure are excited, {REALNAME[ID(2)|SHOWHOST(true)]}. Well, time to figure out how to get down there.
 
+## Talk 3 (alternative/additional)
+
+Bona: Found anything?
+Bona: Let's look a bit harder and see if we can find any contraptions or secret passages!
+
 ## Talk 4
 
 Paimon: Ugh, what's this? It looks gross...
@@ -69,10 +74,3 @@ Traveler: We don't leave anyone behind.
 Bona: I believe in you. We'll wait for you here.
 Traveler: Don't worry, just wait here until we come back.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-Bona: Found anything?
-Bona: Let's look a bit harder and see if we can find any contraptions or secret passages!

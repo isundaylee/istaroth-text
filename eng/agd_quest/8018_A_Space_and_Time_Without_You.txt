@@ -142,6 +142,10 @@ Paimon: #Uh... Looks like he's waiting for you to say something, Traveler...
         Traveler: Alright, fine, I'm coming...
 Paimon: *sigh*... For a second there, Paimon actually thought he was gonna brave it alone... and then he called his own bluff.
 
+## Talk 7 (alternative/additional)
+
+Direidyth: Don't worry, I'll make sure I find a way to get in touch! Uh, I mean... as long as you don't mind, that is...
+
 ## Talk 7
 
 Paimon: Is this the place? The Abyss Order's hideout in Natlan?
@@ -150,6 +154,50 @@ Dainsleif: Which reminds me — once the fighting starts, I can't promise I'll b
 Dainsleif: But if you run into any Abyss-powered mechanisms, feel free to leave them to me. I'll take care of them when I can.
 Paimon: It's been so long since we fought with Dain side-by-side. Paimon's confident we can clear this place out long before Iansan arrives!
 Paimon: #And if you get to meet your sister again, even better. Let's go!
+
+## Talk 13 (alternative/additional)
+
+Haden (Iniquitous Baptist): Twilight Sword, Dainsleif... Is this really what you want?
+Dainsleif: It is indeed. I will take every opportunity to hunt you down to the last man.
+Paimon: #So, where's Traveler's sister, then? Or is this guy supposed to be in charge here?
+Haden (Iniquitous Baptist): So, this is a "hunt" to you... I must say, I pity you, Dainsleif. The death you dole out so readily to others is a luxury you yourself cannot enjoy.
+Haden (Iniquitous Baptist): But today, that is the least of your worries... Do you realize that all your years of pursuing us are being rendered utterly meaningless, even as we speak?
+Dainsleif: Your riddles tire me. The overwhelming advantage is ours, at least for the moment. You know what that means for you.
+Dainsleif: I'd like to see what makes you believe you've already won... or that you can still turn the tide of this war.
+Haden (Iniquitous Baptist): #Then, allow me to be frank. As far as we are concerned... Our Princess has already won by other means.
+Haden (Iniquitous Baptist): #And I do not merely mean this battle. No, Her Highness has achieved something far greater...
+Haden (Iniquitous Baptist): ...For today, the Abyss Order's greatest wish has finally been fulfilled.
+    Option 1:
+        Traveler: The Abyss Order's greatest wish?
+    Option 2:
+        Traveler: Does that mean...
+Dainsleif: Tch...
+Haden (Iniquitous Baptist): Our Highness quietly infiltrated the Night Kingdom to exploit that realm's past experience with Ley Line reconstruction...
+Haden (Iniquitous Baptist): And then used the Loom of Fate... to re-weave the Ley Lines of Khaenri'ah.
+Paimon: #What!? She used the Loom of Fate?
+Paimon: #Wait, does this mean the attack on the Masters of the Night-Wind was all a smokescreen to give her some cover?
+Paimon: Oh, no... This... makes too much sense...
+Haden (Iniquitous Baptist): Correct. As of now, our homeland has been revived...
+Haden (Iniquitous Baptist): And all of my comrades that you have slain, Dainsleif... They shall forget the struggles that have beset them these past five hundred years, and begin their lives anew in a Khaenri'ah restored to life.
+Traveler: ...
+Dainsleif: What a load of drivel.
+Dainsleif: Your falsehoods are riddled with flaws. My ears tire of your tedium.
+    Option 1:
+        Traveler: Isn't there more to reviving a homeland...
+    Option 2:
+        Traveler: Than just reweaving its Ley Lines?
+Paimon: Right, you still need a few steps after that... Such as, finding a place to host the Ley Lines you just rewove.
+Paimon: Plus, if it was really so easy, Mavuika and The Captain would have had a way easier time during the war.
+Dainsleif: I have one simple question. If Khaenri'ah has indeed been revived as you claim, then where is it?
+Haden (Iniquitous Baptist): Oh, you poor fools, clinging to delusions even after the truth has been plainly revealed to you...
+Haden (Iniquitous Baptist): Think back on the past few days. Have you truly not noticed anything amiss since the start of the war?
+Traveler: (Anything amiss... Are there signs that I could have missed?)
+Citlali: I sensed something strange in my dream. It was vague, but... It seemed as if some "noise" had found its way into Natlan's Ley Lines...
+Paimon: What does that mean?
+Citlali: Hard to say... I don't think it had any tangible effect on the Night Kingdom or on our Ley Lines, but still...
+Citlali: It's like... a signal that exists on a different dimension of reality. It might not interfere with ours, or pose any detectable risk, but I just get the sense that something strange is going on.
+Traveler: #(I also vaguely remember... seeing Lumine in the Night Kingdom, facing the Lord of the Night...)
+Traveler: (Wait... That's not all. There were other signs as well...)
 
 ## Talk 13
 
@@ -244,129 +292,7 @@ Dainsleif: Enough about your beloved leader. You said you would pay any price fo
 Dainsleif: In that case... Prepare to be slain another hundred times for your deception.... I hope it was worth it.
 Haden: ...
 
-## Talk 18
-
-Unknown Role (TALK_ROLE_MATE_AVATAR): I know you always want to change fate — we both do. But this time, I won't let you succeed.
-Unknown Role (TALK_ROLE_MATE_AVATAR): I cannot miss the chance to reunite with you five hundred years in the past — no matter what.
-
-## Talk 18
-
-Unknown Role (TALK_ROLE_NONE): Missing text (4060526458)
-
-## Talk 22
-
-Iansan: Our hero is back! Everyone's been waiting for you.
-Iansan: The Abyss Order made a full retreat before our forces even arrived on the scene... All thanks to your efforts, no doubt? Oh, and Mr. Dainsleif's, of course.
-Iansan: ...Hmm? What's wrong? You look upset.
-Paimon: #Paimon doesn't know the details, either. Traveler just... disappeared after taking Direidyth's hand... It was like they got sucked into another world.
-Paimon: #Paimon was looking all over for him... and then he suddenly reappeared, right back in the same spot. But looking a lot more glum.
-    Option 1:
-        Traveler: ...It's fine, I just...
-    Option 2:
-        Traveler: I need some time to take everything in.
-Citlali: *yawn*...
-Citlali: #I think I got the gist of what happened... Something to do with your sister? I spoke with the Lord of the Night in a dream just now, and learned quite a lot.
-Paimon: #Huh? You met your sister?
-    Option 1:
-        Traveler: I did.
-    Option 2:
-        Traveler: We had a long talk.
-Paimon: And you didn't think to tell Paimon right away!? Well... Never mind. Paimon can see that you're pretty down right now. But let's go over everything later, alright?
-Citlali: #What your sister accomplished... it all but defies comprehension. I was stunned when I heard about it, too.
-Citlali: But what surprised me the most was that the Lord of the Night actually chose to allow it...
-    Option 1:
-        Traveler: That caught me off guard, too.
-    Option 2:
-        Traveler: I would never have expected that.
-Citlali: The Lord of the Night did try to explain it to me, but... in a word, it's complicated.
-Citlali: During the war with the Abyss, Mavuika had an argument with The Captain.
-Citlali: Mavuika believed that we should fight to protect our culture and memories, while The Captain believed the preservation of the Ley Lines should come before all else.
-Citlali: So, the Lord of the Night was very intrigued when presented with the Loom of Fate, and informed of its ability to weave Ley Lines.
-Citlali: #She saw your sister's actions as a potential third option. Namely, to preserve an entire nation in the form of an "Atlas."
-Iansan: Preserve a nation...? You've definitely lost me now.
-Paimon: Uh... You're not the only one. Paimon's got no idea what's going on either.
-Citlali: With that in mind, the Lord of the Night gave the go-ahead once she was satisfied that the Loom of Fate wouldn't have any real effect on Natlan.
-Citlali: However... I believe she imposed an additional condition of her own...
-Paimon: An additional condition? Did she ask for something in return?
-Citlali: No idea. She wouldn't tell me what it was.
-Paimon: Huh...
-Iansan: Alright, well, let's not overthink this for now — we just won a war! Time for a well-earned drink to celebrate.
-Iansan: I trust the Lord of the Night unreservedly. I'm sure she only involved herself to take a problem off our hands. So, it's one less thing for us to worry about.
-Iansan: #Don't you agree, Traveler?
-    Option 1:
-        Traveler: You've got a point.
-    Option 2:
-        Traveler: (I still feel like a mess, though...)
-Iansan: Come on, let's head back to the Collective of Plenty. Varesa should be there, too — we'll treat you to a real feast.
-    Option 1:
-        Traveler: I'm sorry...
-    Option 2:
-        Traveler: But there's somewhere else I want to go first.
-Iansan: Huh...?
-Citlali: #Iansan, leave him be.
-Citlali: This might be hard to understand for an extrovert like you... but some people need alone time to recharge every once in a while.
-Paimon: #Traveler...
-
-## Talk 23
-
-Black Screen Text: Before you know it, you've fallen asleep, drowning in a myriad of thoughts.
-Black Screen Text: You faintly sense what feels like someone clasping your hand...
-Black Screen Text: But this time, it sends you into a deep sleep, where sweet dreams await.
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Haden (Iniquitous Baptist): Twilight Sword, Dainsleif... Is this really what you want?
-Dainsleif: It is indeed. I will take every opportunity to hunt you down to the last man.
-Paimon: #So, where's Traveler's sister, then? Or is this guy supposed to be in charge here?
-Haden (Iniquitous Baptist): So, this is a "hunt" to you... I must say, I pity you, Dainsleif. The death you dole out so readily to others is a luxury you yourself cannot enjoy.
-Haden (Iniquitous Baptist): But today, that is the least of your worries... Do you realize that all your years of pursuing us are being rendered utterly meaningless, even as we speak?
-Dainsleif: Your riddles tire me. The overwhelming advantage is ours, at least for the moment. You know what that means for you.
-Dainsleif: I'd like to see what makes you believe you've already won... or that you can still turn the tide of this war.
-Haden (Iniquitous Baptist): #Then, allow me to be frank. As far as we are concerned... Our Princess has already won by other means.
-Haden (Iniquitous Baptist): #And I do not merely mean this battle. No, Her Highness has achieved something far greater...
-Haden (Iniquitous Baptist): ...For today, the Abyss Order's greatest wish has finally been fulfilled.
-    Option 1:
-        Traveler: The Abyss Order's greatest wish?
-    Option 2:
-        Traveler: Does that mean...
-Dainsleif: Tch...
-Haden (Iniquitous Baptist): Our Highness quietly infiltrated the Night Kingdom to exploit that realm's past experience with Ley Line reconstruction...
-Haden (Iniquitous Baptist): And then used the Loom of Fate... to re-weave the Ley Lines of Khaenri'ah.
-Paimon: #What!? She used the Loom of Fate?
-Paimon: #Wait, does this mean the attack on the Masters of the Night-Wind was all a smokescreen to give her some cover?
-Paimon: Oh, no... This... makes too much sense...
-Haden (Iniquitous Baptist): Correct. As of now, our homeland has been revived...
-Haden (Iniquitous Baptist): And all of my comrades that you have slain, Dainsleif... They shall forget the struggles that have beset them these past five hundred years, and begin their lives anew in a Khaenri'ah restored to life.
-Traveler: ...
-Dainsleif: What a load of drivel.
-Dainsleif: Your falsehoods are riddled with flaws. My ears tire of your tedium.
-    Option 1:
-        Traveler: Isn't there more to reviving a homeland...
-    Option 2:
-        Traveler: Than just reweaving its Ley Lines?
-Paimon: Right, you still need a few steps after that... Such as, finding a place to host the Ley Lines you just rewove.
-Paimon: Plus, if it was really so easy, Mavuika and The Captain would have had a way easier time during the war.
-Dainsleif: I have one simple question. If Khaenri'ah has indeed been revived as you claim, then where is it?
-Haden (Iniquitous Baptist): Oh, you poor fools, clinging to delusions even after the truth has been plainly revealed to you...
-Haden (Iniquitous Baptist): Think back on the past few days. Have you truly not noticed anything amiss since the start of the war?
-Traveler: (Anything amiss... Are there signs that I could have missed?)
-Citlali: I sensed something strange in my dream. It was vague, but... It seemed as if some "noise" had found its way into Natlan's Ley Lines...
-Paimon: What does that mean?
-Citlali: Hard to say... I don't think it had any tangible effect on the Night Kingdom or on our Ley Lines, but still...
-Citlali: It's like... a signal that exists on a different dimension of reality. It might not interfere with ours, or pose any detectable risk, but I just get the sense that something strange is going on.
-Traveler: #(I also vaguely remember... seeing Lumine in the Night Kingdom, facing the Lord of the Night...)
-Traveler: (Wait... That's not all. There were other signs as well...)
-
-### Additional Talk 2
-
-Direidyth: Don't worry, I'll make sure I find a way to get in touch! Uh, I mean... as long as you don't mind, that is...
-
-### Additional Talk 3
+## Talk 18 (alternative/additional)
 
 Traveler: (What is this... Could this be... The Cataclysm?)
 Traveler: (Is this... Where Direidyth is right now? So, she really is...)
@@ -394,7 +320,7 @@ Traveler: (If this is her future... If this is her fate...)
     Option 2:
         Traveler: *Keep* the key.
 
-### Additional Talk 4
+## Talk 18 (alternative/additional)
 
 Unknown Role (TALK_ROLE_MATE_AVATAR): So that's what happened... Istaroth, the Ruler of Time, must have had a hand in this.
 Unknown Role (TALK_ROLE_MATE_AVATAR): There's no other way that this meeting could have taken place.
@@ -473,3 +399,72 @@ Unknown Role (TALK_ROLE_MATE_AVATAR): If I wish to speak with the Heavenly Princ
 Traveler: ...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...
 Unknown Role (TALK_ROLE_MATE_AVATAR): ...?
+
+## Talk 18
+
+Unknown Role (TALK_ROLE_MATE_AVATAR): I know you always want to change fate — we both do. But this time, I won't let you succeed.
+Unknown Role (TALK_ROLE_MATE_AVATAR): I cannot miss the chance to reunite with you five hundred years in the past — no matter what.
+
+## Talk 18
+
+Unknown Role (TALK_ROLE_NONE): Missing text (4060526458)
+
+## Talk 22
+
+Iansan: Our hero is back! Everyone's been waiting for you.
+Iansan: The Abyss Order made a full retreat before our forces even arrived on the scene... All thanks to your efforts, no doubt? Oh, and Mr. Dainsleif's, of course.
+Iansan: ...Hmm? What's wrong? You look upset.
+Paimon: #Paimon doesn't know the details, either. Traveler just... disappeared after taking Direidyth's hand... It was like they got sucked into another world.
+Paimon: #Paimon was looking all over for him... and then he suddenly reappeared, right back in the same spot. But looking a lot more glum.
+    Option 1:
+        Traveler: ...It's fine, I just...
+    Option 2:
+        Traveler: I need some time to take everything in.
+Citlali: *yawn*...
+Citlali: #I think I got the gist of what happened... Something to do with your sister? I spoke with the Lord of the Night in a dream just now, and learned quite a lot.
+Paimon: #Huh? You met your sister?
+    Option 1:
+        Traveler: I did.
+    Option 2:
+        Traveler: We had a long talk.
+Paimon: And you didn't think to tell Paimon right away!? Well... Never mind. Paimon can see that you're pretty down right now. But let's go over everything later, alright?
+Citlali: #What your sister accomplished... it all but defies comprehension. I was stunned when I heard about it, too.
+Citlali: But what surprised me the most was that the Lord of the Night actually chose to allow it...
+    Option 1:
+        Traveler: That caught me off guard, too.
+    Option 2:
+        Traveler: I would never have expected that.
+Citlali: The Lord of the Night did try to explain it to me, but... in a word, it's complicated.
+Citlali: During the war with the Abyss, Mavuika had an argument with The Captain.
+Citlali: Mavuika believed that we should fight to protect our culture and memories, while The Captain believed the preservation of the Ley Lines should come before all else.
+Citlali: So, the Lord of the Night was very intrigued when presented with the Loom of Fate, and informed of its ability to weave Ley Lines.
+Citlali: #She saw your sister's actions as a potential third option. Namely, to preserve an entire nation in the form of an "Atlas."
+Iansan: Preserve a nation...? You've definitely lost me now.
+Paimon: Uh... You're not the only one. Paimon's got no idea what's going on either.
+Citlali: With that in mind, the Lord of the Night gave the go-ahead once she was satisfied that the Loom of Fate wouldn't have any real effect on Natlan.
+Citlali: However... I believe she imposed an additional condition of her own...
+Paimon: An additional condition? Did she ask for something in return?
+Citlali: No idea. She wouldn't tell me what it was.
+Paimon: Huh...
+Iansan: Alright, well, let's not overthink this for now — we just won a war! Time for a well-earned drink to celebrate.
+Iansan: I trust the Lord of the Night unreservedly. I'm sure she only involved herself to take a problem off our hands. So, it's one less thing for us to worry about.
+Iansan: #Don't you agree, Traveler?
+    Option 1:
+        Traveler: You've got a point.
+    Option 2:
+        Traveler: (I still feel like a mess, though...)
+Iansan: Come on, let's head back to the Collective of Plenty. Varesa should be there, too — we'll treat you to a real feast.
+    Option 1:
+        Traveler: I'm sorry...
+    Option 2:
+        Traveler: But there's somewhere else I want to go first.
+Iansan: Huh...?
+Citlali: #Iansan, leave him be.
+Citlali: This might be hard to understand for an extrovert like you... but some people need alone time to recharge every once in a while.
+Paimon: #Traveler...
+
+## Talk 23
+
+Black Screen Text: Before you know it, you've fallen asleep, drowning in a myriad of thoughts.
+Black Screen Text: You faintly sense what feels like someone clasping your hand...
+Black Screen Text: But this time, it sends you into a deep sleep, where sweet dreams await.

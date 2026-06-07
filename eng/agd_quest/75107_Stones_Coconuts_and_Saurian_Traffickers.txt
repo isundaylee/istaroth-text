@@ -91,6 +91,22 @@ Paimon: #Would you mind keeping King Coconut company in the meantime, {REALNAME[
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Black Screen Text: You carefully shift King Coconut over to a suitable area and start to build a camp...
 
+## Talk 7 (alternative/additional)
+
+Qax's Gear: (Rucksacks and boxes packed with various daily necessities. Looks like Qax is running a small business. Place the materials you've gathered here. You can start building a camp in a moment.)
+    Option 1:
+        Traveler: Place Materials
+    Option 2:
+        Traveler: We still need to gather more materials...
+
+## Talk 7 (alternative/additional)
+
+"King Coconut": Wrooo...
+
+## Talk 7 (alternative/additional)
+
+"King Coconut": It hurts... It hurts...
+
 ## Talk 8
 
 Paimon: Great — now we can put up a huge camp tent!
@@ -135,6 +151,18 @@ Paimon: It seems like this Qucusaurus is also in a lot of pain. Perhaps it's als
         Traveler: Perhaps it's taken some blunt trauma, just like King Coconut?
 Paimon: That's two Saurians collapsing near this place two days in a row now... Something's fishy about this for sure!
 Paimon: #Traveler, why don't you think up a way to communicate with them and ask what happened?
+
+## Talk 10 (alternative/additional)
+
+Weakened Qucusaur: Bad guys... In the hills... Threw stones... It hurt...
+Weakened Qucusaur: I... ran...
+"King Coconut": Many... Bad guys... Beat me... Secretly...
+"King Coconut": Qax came back... And they left...
+
+## Talk 10 (alternative/additional)
+
+"King Coconut": Wrooo...
+Weakened Qucusaur: Awrowr... *cough*!
 
 ## Talk 10
 
@@ -357,38 +385,10 @@ Paimon: Hopefully, this place — no, all of Natlan — will be free of these ga
 
 ### Additional Talk 1
 
-Weakened Qucusaur: Bad guys... In the hills... Threw stones... It hurt...
-Weakened Qucusaur: I... ran...
-"King Coconut": Many... Bad guys... Beat me... Secretly...
-"King Coconut": Qax came back... And they left...
-
-### Additional Talk 2
-
-Qax's Gear: (Rucksacks and boxes packed with various daily necessities. Looks like Qax is running a small business. Place the materials you've gathered here. You can start building a camp in a moment.)
-    Option 1:
-        Traveler: Place Materials
-    Option 2:
-        Traveler: We still need to gather more materials...
-
-### Additional Talk 3
-
-"King Coconut": Wrooo...
-Weakened Qucusaur: Awrowr... *cough*!
-
-### Additional Talk 4
-
 "King Coconut": Hrooo... Aoowrrr!
 Weakened Qucusaur: *cough* *hack*!
 
-### Additional Talk 5
+### Additional Talk 2
 
 "King Coconut": Must be careful... Must be careful!
 Weakened Qucusaur: Don't get hit, or it's gonna hurt!
-
-### Additional Talk 6
-
-"King Coconut": Wrooo...
-
-### Additional Talk 7
-
-"King Coconut": It hurts... It hurts...

@@ -3,6 +3,19 @@
 # Ripples That Will Never Reach
 
 
+## Talk 1 (alternative/additional)
+
+Nefer: You should get going. It's important that we ascertain what Kuutar likes.
+
+## Talk 1 (alternative/additional)
+
+Varka: Miss Lauma, would you accompany me into town? I think it'd be best if you saw the Frostmoon Scions' decorations for yourself.
+Lauma: Very well. Let's go.
+
+## Talk 1 (alternative/additional)
+
+Jahoda: Could you do me a solid and try to smooth things over with Boss Nef?
+
 ## Talk 1
 
 Paimon: Columbina! We're back!
@@ -728,16 +741,40 @@ Albedo: Yes. The important thing is not the nature of the power, but rather how 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
 Durin: ...Let me try. I should be able to influence that thing.
 
+## Talk 22 (alternative/additional)
+
+Razmaspes: Aaaargh!
+[Missing Dialog 60269906]
+
 ## Talk 22
 
 Durin: He... He really left! We did it!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Don't celebrate too soon. Follow him, see what he does next.
+
+## Talk 24 (alternative/additional)
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: H—Help me...!
+[Missing Dialog 60269907]
+
+## Talk 24 (alternative/additional)
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: Ah!
 
 ## Talk 24
 
 Razmaspes: The barrier's gone too. How odd...
 Razmaspes: Anyway, I guess I'll keep going.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
+
+## Talk 26 (alternative/additional)
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: Ah!
 
 ## Talk 26
 
@@ -750,6 +787,13 @@ Flins: ...Which is why we need a lantern guaranteed to work on the moon.
 Albedo: Yes. I have a few ideas, but... The lantern itself is the easy part. The real issue is how little we know about the lunar environment.
 Durin: Wait... you two are serious about this?
 Flins: Hehe. Let's just say I'm intrigued by these shining magical stones that Mr. Albedo has mentioned.
+
+## Talk 28 (alternative/additional)
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+Razmaspes: H—Help me...!
+[Missing Dialog 60269907]
 
 ## Talk 28
 
@@ -781,6 +825,22 @@ Razmaspes: Aghhh!
 
 Black Screen Text: The phantom has met its end and returned to his place of origin.
 
+## Talk 32 (alternative/additional)
+
+Razmaspes: Hello there. I'm looking for my daughter. She carries a large backpack. Have you seen her?
+Maina: I did see a few young girls... None with a backpack, but surely she would've ditched it, no?
+Maina: *sigh* What are you even doing here? How are you going to get back out?
+Maina: Not only are there monsters, but there's explosives too... If only my legs would work properly, I'd... *cough*
+Razmaspes: That's fine. That's all I needed to hear. Thanks for telling me.
+Monster: ——
+Razmaspes: Ugh, another monster...
+Razmaspes: Aaaaaaggghhh!
+Durin: I guess we can't let him in here either.
+
+Black Screen Text: The rescue has reached a dead end. All that can be done is to wait for another chance.
+
+Fleeing Person C: Ah! Someone help me!
+
 ## Talk 32
 
 Razmaspes: Huh? That's... That looks like one of my daughter's books!
@@ -811,6 +871,10 @@ Durin: It won't work... there's not enough left. If he makes it in, he'll die.
 Durin: But then... This clue could be the key to him finding his daughter...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It might not be the only one. Better he misses that clue than loses his life.
 Durin: I guess so...
+
+## Talk 37 (alternative/additional)
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
 
 ## Talk 38
 
@@ -1077,72 +1141,8 @@ The Damselette: (Can I really... hold on until Moon-Prayer Night...?)
 
 ### Additional Talk 1
 
-Nefer: You should get going. It's important that we ascertain what Kuutar likes.
+Black Screen Text: #After leaving the Kuuvahki Experimental Design Bureau, {REALNAME[ID(1)|HOSTONLY(true)]} goes to meet Durin and Albedo, who are observing the phantoms.
 
 ### Additional Talk 2
 
-Varka: Miss Lauma, would you accompany me into town? I think it'd be best if you saw the Frostmoon Scions' decorations for yourself.
-Lauma: Very well. Let's go.
-
-### Additional Talk 3
-
-Razmaspes: Hello there. I'm looking for my daughter. She carries a large backpack. Have you seen her?
-Maina: I did see a few young girls... None with a backpack, but surely she would've ditched it, no?
-Maina: *sigh* What are you even doing here? How are you going to get back out?
-Maina: Not only are there monsters, but there's explosives too... If only my legs would work properly, I'd... *cough*
-Razmaspes: That's fine. That's all I needed to hear. Thanks for telling me.
-Monster: ——
-Razmaspes: Ugh, another monster...
-Razmaspes: Aaaaaaggghhh!
-Durin: I guess we can't let him in here either.
-
-Black Screen Text: The rescue has reached a dead end. All that can be done is to wait for another chance.
-
-Fleeing Person C: Ah! Someone help me!
-
-### Additional Talk 4
-
-Razmaspes: Aaaargh!
-[Missing Dialog 60269906]
-
-### Additional Talk 5
-
-Black Screen Text: #After leaving the Kuuvahki Experimental Design Bureau, {REALNAME[ID(1)|HOSTONLY(true)]} goes to meet Durin and Albedo, who are observing the phantoms.
-
-### Additional Talk 6
-
-Jahoda: Could you do me a solid and try to smooth things over with Boss Nef?
-
-### Additional Talk 7
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.
-
-Razmaspes: Ah!
-
-### Additional Talk 8
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.
-
-Razmaspes: H—Help me...!
-[Missing Dialog 60269907]
-
-### Additional Talk 9
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.
-
-Razmaspes: H—Help me...!
-[Missing Dialog 60269907]
-
-### Additional Talk 10
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.
-
-Razmaspes: Ah!
-
-### Additional Talk 11
-
 Unknown Role (TALK_ROLE_NONE): Missing text (870763074)
-
-### Additional Talk 12
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.

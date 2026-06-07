@@ -85,6 +85,10 @@ Almond: Please do visit us in the Forest of Blessings again, once peace has retu
 Paimon: We will! We'll definitely meet again!
 Nilou: Take care, Grandpa Almond!
 
+## Talk 6 (alternative/additional)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
 ## Talk 7
 
 Wheel: Here we are! Constellation Metropole is right over there. It's a short walk from here to the Gear Sky Ladder, which will take you right to Metropole Square. Thank you again for choosing the Maritime Express!
@@ -284,6 +288,15 @@ Navia: Would you mind going around and fetching them for me? I have a few other 
 Paimon: You got it! We'll be back in no time.
 Navia: Awesome. In that case, meet me back here once you've found *them all*.
 
+## Talk 23 (alternative/additional)
+
+Navia: How are you doing? Found them all?
+    Option 1:
+        Traveler: Yep, here they are.
+    Option 2:
+        Traveler: I need some more time...
+        Navia: Sure, no worries. I'll be right here, so just come find me once you've retrieved them. I'm counting on you!
+
 ## Talk 24
 
 Paimon: In the sky...? How do we get up there?
@@ -353,6 +366,10 @@ Paimon: That makes sense! If the train does break down, you can make us a giant 
 ## Talk 26
 
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
+
+## Talk 29 (alternative/additional)
+
+Nilou: Best of luck! Hmm... a finch, huh? I think I know how to fold one of those...
 
 ## Talk 30
 
@@ -476,13 +493,6 @@ Paimon: Noooooo!!
 
 *Conversations not present as sub-quests.*
 
-
-### Additional Talk 1
-
-Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-### Additional Talk 2
-
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
@@ -541,16 +551,3 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
-
-### Additional Talk 3
-
-Navia: How are you doing? Found them all?
-    Option 1:
-        Traveler: Yep, here they are.
-    Option 2:
-        Traveler: I need some more time...
-        Navia: Sure, no worries. I'll be right here, so just come find me once you've retrieved them. I'm counting on you!
-
-### Additional Talk 4
-
-Nilou: Best of luck! Hmm... a finch, huh? I think I know how to fold one of those...

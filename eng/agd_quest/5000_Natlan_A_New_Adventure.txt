@@ -95,6 +95,25 @@ Charlotte: Alright, I'm ready! Shall we?
 Charlotte: #Well then, Traveler...
 Furina (Crowd): Bon voyage!
 
+## Talk 2 (alternative/additional)
+
+Charlotte: One picture to publish, and one to keep for myself. Perfect!
+
+## Talk 2 (alternative/additional)
+
+Navia: I heard there's a place in Natlan that produces precious stones. Next time there's a lull in my work, I gotta go pay it a visit.
+
+## Talk 2 (alternative/additional)
+
+Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
+Clorinde: That would be quite the lively affair.
+
+## Talk 2 (alternative/additional)
+
+Clorinde: That would be quite the lively affair.
+
+Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
+
 ## Talk 2
 
 Paimon: Wow! So, this is Natlan!
@@ -297,6 +316,22 @@ Paimon: Sounds like a plan, then. Let's go!
 Pacal: #Well, if Traveler and Paimon are with you, then I don't need to worry about your safety... Be on your way, now.
 Kachina: Alright, we're off! See you later, Chief!
 
+## Talk 7 (alternative/additional)
+
+Kachina: Hey, it's Ayo! Come on, over here!
+Ayo: Roar...
+Kachina: Allow me to introduce you! This is Ayo, my Saurian companion, and also an important member of my family.
+Ayo: Roar~ ♪
+Kachina: Hehe, he's saying hello! I think he likes you!
+Paimon: "Saurian"... So, in Natlan, you consider Saurians to be part of your family?
+Kachina: Of course! Natlan is not only a nation of heroes, but also a nation of Saurians. They occupy an important place in every tribe.
+Kachina: Outlanders always seem to think of Ayo as my pet, but that's not the case at all.
+Kachina: Ayo and I go on adventures together, but he also has a Saurian family and a place to stay of his own. Sometimes, he even brings his entire family over to eat at our house.
+Kachina: The Children of Echoes have the closest ties to the Tepetlisaurs, which are naturally very friendly to humans. That's how our relationship became what it is today.
+Kachina: All Saurians have their own personalities, but... I think calling them our "companions" pretty much sums it up!
+Ayo: Roar...
+Kachina: See? Ayo agrees with me!
+
 ## Talk 7
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrooh!
@@ -310,12 +345,32 @@ Kachina: No mischief, okay? And you'd better not go leading your new friend astr
 Kachina: Alright, why don't you go for a stroll while I handle some important business? Don't worry, I'll keep you company once I'm back!
 Kachina: No mischief, okay? Or I'm telling your parents.
 
+## Talk 11 (alternative/additional)
+
+Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
+Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
+
+## Talk 11 (alternative/additional)
+
+Pacal: Oh, you're back! Did you forget something?
+
 ## Talk 11
 
 Paimon: #Oh, since we're here, you might as well go get your shiny new elemental powers, Traveler!
 Traveler: That's true.
 Kachina: Huh? You can get elemental power from the Statue of The Seven?
 Paimon: Just you watch, Kachina!
+
+## Talk 13 (alternative/additional)
+
+Paimon: H—Huh...? That's not right. Is the Statue asleep, or something?
+Traveler: ...I don't sense anything.
+Paimon: Huh, shouldn't you be able to shoot fireballs or summon flame pillars by now?
+    Option 1:
+        Traveler: Nothing happened...
+    Option 2:
+        Traveler: I don't sense any elemental energy either.
+Paimon: Strange... Must be something unique to Natlan.
 
 ## Talk 13
 
@@ -348,6 +403,20 @@ Kachina: I always bring a few when I know I'm gonna be out and about for a while
 Paimon: Ooh, Paimon loves candy. Thanks!
 Traveler: That's very generous of you!
 Kachina: My pleasure! My pleasure! I've got all sorts of bits and bobs on me. I'm sure they'll come in handy at some point!
+
+## Talk 14 (alternative/additional)
+
+Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
+Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
+
+## Talk 14 (alternative/additional)
+
+Paimon: It didn't work when you tried earlier, either. Now we know that wasn't a fluke... What's going on here?
+Kachina: Huh? You can get elemental power from the Statue of The Seven?
+Traveler: It's always worked before.
+Paimon: This would've been such a good opportunity to show Kachina how impressive you are...
+Paimon: It's so weird that it's not working... There must be something about Natlan...
+Kachina: Aw, I would've liked to see that...
 
 ## Talk 15
 
@@ -393,6 +462,47 @@ Paimon: Alright, Paimon's just about ready to... Huh? What's that?
 Kachina: Oh, we call this a Phlogiston Chiselith. Good things happen if you infuse it with phlogiston.
 Traveler: Lemme give it a try.
 Kachina: Uh, sorry to disappoint, but only people from Natlan can use that power—
+
+## Talk 17 (alternative/additional)
+
+Kachina: E—Eh!? Wait, wait, wait... You can use it too? How?
+    Option 1:
+        Traveler: It just came naturally.
+    Option 2:
+        Traveler: All in a day's work.
+Kachina: That... was... AMAZING! I don't even know what to say!
+Paimon: Wait, look behind you! Something's coming!
+Paimon: What do we do? Is something after us? Should we get ready to fight!?
+Kachina: We're fine, we're fine! This, here, is Toto!
+Kachina: Hiya, Toto! Hehe, it's me, Kachina!
+Toto: Roar...
+Kachina: Well, aren't we looking lively today? Did the Chiselith lure you over here? Warm, isn't it?
+Toto: Roar...
+Paimon: Oh, so it was just a friendly Saurian... Wait, is that a Saurian?
+Kachina: Nope, that's a Long-Necked Rhino. There's quite a few of them around here, and Toto's the friendliest and gentlest of the bunch.
+Kachina: He's always hanging around these parts. I swear he does it just to show off to any outlanders that might come this way. Don't let his size fool you, though. He's just a big softie!
+Toto: Roar—
+Paimon: Uh, what does the crouching mean?
+Kachina: That's an invitation. He's offering us a ride!
+Traveler: Don't mind if we do!
+Paimon: Um, Paimon's not so sure about this. It's kinda scary, don't you think? He's huge!
+Traveler: What are you scared of? You can fly.
+Paimon: Oh, good point! You guys have fun with that, then. Paimon will just float alongside!
+Paimon: Wow! The sightseeing is even better from up here!
+Kachina: The higher the vantage point, the better the view!
+Paimon: Are you and Toto close, Kachina?
+Kachina: Yup! When I was little, my parents and I went to the Stadium of the Sacred Flame to buy a bunch of different fruits, but the cart we were using to transport them flipped over on our way back.
+Kachina: Toto wasn't even half his current size back then, but I still burst into tears when I saw him approach. I was afraid he was going to eat all the Berries and Sunsettias, and leave none left for me.
+Kachina: In the end, though, he didn't eat a single one, and even chased off a few other Saurians looking to snatch a few for themselves.
+Kachina: After that, he used his big head to help get our cart right side up again.
+Kachina: I've been bringing him fruit ever since. Oh, and, I was the one that named him "Toto," actually.
+Kachina: With the sheer amount of food he can eat, he pretty much grew like a weed! Before I knew it, he was already this big!
+Toto: Roar~ ♪
+Kachina: Oh, look over there! That's our destination — the Stadium of the Sacred Flame!
+Kachina: You can let us off here, Toto. Thanks for the lift!
+Toto: Roar...
+Kachina: It's an easy walk from here, so I say we head the rest of the way on foot. It'd be quite the trek for Toto, otherwise.
+Paimon: That's true, especially considering his size. Well, seeya later, Toto!
 
 ## Talk 17
 
@@ -567,6 +677,10 @@ Cival: In the meantime, you all can go rest at the hotel. As usual, dinner and l
 Mualani: Nice! Oh yeah, I forgot to mention... All food and entertainment before tomorrow's matches are on the house, courtesy of our Archon!
 Mualani: Family and friends included! Which means, you both get in on it! Come on, let's go have some fun!
 
+## Talk 21 (alternative/additional)
+
+Cival: Get a good rest, everyone. I wish you all the best in tomorrow's competition.
+
 ## Talk 21
 
 Mualani: Dig in, you guys! Eat as much as you want. These dishes are all local specialties.
@@ -639,122 +753,3 @@ Kinich: Just don't go overboard, okay? The last thing we need is for someone to 
 Mualani: Hehe, if only we had a friend who never oversleeps...
 Kinich: ...Alright, fine. I'll make sure you guys are up on time.
 Mualani: Attaboy! I knew you'd catch on!
-
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
-Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
-
-### Additional Talk 2
-
-Kachina: E—Eh!? Wait, wait, wait... You can use it too? How?
-    Option 1:
-        Traveler: It just came naturally.
-    Option 2:
-        Traveler: All in a day's work.
-Kachina: That... was... AMAZING! I don't even know what to say!
-Paimon: Wait, look behind you! Something's coming!
-Paimon: What do we do? Is something after us? Should we get ready to fight!?
-Kachina: We're fine, we're fine! This, here, is Toto!
-Kachina: Hiya, Toto! Hehe, it's me, Kachina!
-Toto: Roar...
-Kachina: Well, aren't we looking lively today? Did the Chiselith lure you over here? Warm, isn't it?
-Toto: Roar...
-Paimon: Oh, so it was just a friendly Saurian... Wait, is that a Saurian?
-Kachina: Nope, that's a Long-Necked Rhino. There's quite a few of them around here, and Toto's the friendliest and gentlest of the bunch.
-Kachina: He's always hanging around these parts. I swear he does it just to show off to any outlanders that might come this way. Don't let his size fool you, though. He's just a big softie!
-Toto: Roar—
-Paimon: Uh, what does the crouching mean?
-Kachina: That's an invitation. He's offering us a ride!
-Traveler: Don't mind if we do!
-Paimon: Um, Paimon's not so sure about this. It's kinda scary, don't you think? He's huge!
-Traveler: What are you scared of? You can fly.
-Paimon: Oh, good point! You guys have fun with that, then. Paimon will just float alongside!
-Paimon: Wow! The sightseeing is even better from up here!
-Kachina: The higher the vantage point, the better the view!
-Paimon: Are you and Toto close, Kachina?
-Kachina: Yup! When I was little, my parents and I went to the Stadium of the Sacred Flame to buy a bunch of different fruits, but the cart we were using to transport them flipped over on our way back.
-Kachina: Toto wasn't even half his current size back then, but I still burst into tears when I saw him approach. I was afraid he was going to eat all the Berries and Sunsettias, and leave none left for me.
-Kachina: In the end, though, he didn't eat a single one, and even chased off a few other Saurians looking to snatch a few for themselves.
-Kachina: After that, he used his big head to help get our cart right side up again.
-Kachina: I've been bringing him fruit ever since. Oh, and, I was the one that named him "Toto," actually.
-Kachina: With the sheer amount of food he can eat, he pretty much grew like a weed! Before I knew it, he was already this big!
-Toto: Roar~ ♪
-Kachina: Oh, look over there! That's our destination — the Stadium of the Sacred Flame!
-Kachina: You can let us off here, Toto. Thanks for the lift!
-Toto: Roar...
-Kachina: It's an easy walk from here, so I say we head the rest of the way on foot. It'd be quite the trek for Toto, otherwise.
-Paimon: That's true, especially considering his size. Well, seeya later, Toto!
-
-### Additional Talk 3
-
-Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
-Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
-
-### Additional Talk 4
-
-Charlotte: One picture to publish, and one to keep for myself. Perfect!
-
-### Additional Talk 5
-
-Navia: I heard there's a place in Natlan that produces precious stones. Next time there's a lull in my work, I gotta go pay it a visit.
-
-### Additional Talk 6
-
-Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
-Clorinde: That would be quite the lively affair.
-
-### Additional Talk 7
-
-Kachina: Hey, it's Ayo! Come on, over here!
-Ayo: Roar...
-Kachina: Allow me to introduce you! This is Ayo, my Saurian companion, and also an important member of my family.
-Ayo: Roar~ ♪
-Kachina: Hehe, he's saying hello! I think he likes you!
-Paimon: "Saurian"... So, in Natlan, you consider Saurians to be part of your family?
-Kachina: Of course! Natlan is not only a nation of heroes, but also a nation of Saurians. They occupy an important place in every tribe.
-Kachina: Outlanders always seem to think of Ayo as my pet, but that's not the case at all.
-Kachina: Ayo and I go on adventures together, but he also has a Saurian family and a place to stay of his own. Sometimes, he even brings his entire family over to eat at our house.
-Kachina: The Children of Echoes have the closest ties to the Tepetlisaurs, which are naturally very friendly to humans. That's how our relationship became what it is today.
-Kachina: All Saurians have their own personalities, but... I think calling them our "companions" pretty much sums it up!
-Ayo: Roar...
-Kachina: See? Ayo agrees with me!
-
-### Additional Talk 8
-
-Clorinde: That would be quite the lively affair.
-
-Furina: #Safe travels, Traveler. You're welcome back anytime. If you let us know in advance, we could arrange even more people to greet you when you return.
-
-### Additional Talk 9
-
-Pacal: Oh, you're back! Did you forget something?
-
-### Additional Talk 10
-
-Paimon: H—Huh...? That's not right. Is the Statue asleep, or something?
-Traveler: ...I don't sense anything.
-Paimon: Huh, shouldn't you be able to shoot fireballs or summon flame pillars by now?
-    Option 1:
-        Traveler: Nothing happened...
-    Option 2:
-        Traveler: I don't sense any elemental energy either.
-Paimon: Strange... Must be something unique to Natlan.
-
-### Additional Talk 11
-
-Paimon: It didn't work when you tried earlier, either. Now we know that wasn't a fluke... What's going on here?
-Kachina: Huh? You can get elemental power from the Statue of The Seven?
-Traveler: It's always worked before.
-Paimon: This would've been such a good opportunity to show Kachina how impressive you are...
-Paimon: It's so weird that it's not working... There must be something about Natlan...
-Kachina: Aw, I would've liked to see that...
-
-### Additional Talk 12
-
-Cival: Get a good rest, everyone. I wish you all the best in tomorrow's competition.

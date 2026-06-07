@@ -95,6 +95,22 @@ Arama: By the way, there are actually four seals imprisoning Marana. The first s
 Arama: There was once a survivor of that race deep within the golden desert who was friends with the Lord of Verdure and the ruler of Valuka. Perhaps there are more stories to be found in the eternal oasis.
 [Missing Dialog 730360208]
 
+## Talk 3 (alternative/additional)
+
+Arama: #Nara Traveler, Paimon, I recommend we match each other's pace. Let me know when you're ready to set out.
+    Option 1:
+        Traveler: Let's go.
+        Paimon: Yeah! Three seals... It feels like we have so much to do! Let's get moving!
+        Traveler: Yeah, let's go.
+    Option 2:
+        Traveler: I wanna rest a while longer...
+        Arama: Alright. We'll set out whenever you are ready.
+    Option 3:
+        Traveler: Let's go.
+        Paimon: Yeah! Three seals... It feels like we have so much to do! Let's get moving!
+        Traveler: Let's rest a while longer...
+        Arama: Alright. We'll set out whenever you are ready.
+
 ## Talk 3
 
 Mural: (A slightly crude mural of Aranara with a golden Aranara among them. They seem to be happily celebrating something.)
@@ -374,6 +390,11 @@ Arama: Yes. The monsters here and the monsters in the Ashvattha Tree's dream, I'
 Paimon: Let's look for a way to go further down!
 Arama: Okay!
 
+## Talk 29 (alternative/additional)
+
+Arama: Bad sand. Rough and coarse. Ugh, green grass won't grow from it.
+Arama: There's a very, very huge Valuka outside the forest, and there are Nara in it. Nara must be suffering.
+
 ## Talk 32
 
 Black Screen Text: Missing text (1509034010)
@@ -397,6 +418,22 @@ Arama: But I don't have enough memories. I don't know how to undo this seal...
 Paimon: Don't worry, it's not a big place. Paimon's certain we'll find something if we look around!
 Paimon: Arama, you rest and build up your strength! You'll need it if you plan to fight Marana's Avatar!
 Arama: Alright! I'll rest well!
+
+## Talk 35 (alternative/additional)
+
+Arama: #If only Nara Traveler was here very, very long ago. Then you could have fought the huge metal beasts with Aramuhukunda, Aradasha, and the others!
+    Option 1:
+        Traveler: What was that?
+        Arama: #While Nara Traveler was fighting just now, I could sense that the huge metal beast was very bad. It absorbs Marana's strength and grows stronger.
+        Arama: #It would be exhausting for Nara Traveler if the battle went on. Then I remembered! In my memories, Aradasha used this Ararakalari to trap and destroy many huge metal beasts.
+        Arama: So, I tried his Ararakalari, and I hit it very, very hard.
+    Option 2:
+        Traveler: So, where are we?
+        Arama: I don't know. This place doesn't exist in the memories I received. It feels like the home of Aranara, but it shouldn't be like this...
+        Arama: But this place is very good. No Marana, and there's water, light, and grass.
+    Option 3:
+        Traveler: See you.
+        Arama: Yes! This place is very good. We can rest.
 
 ## Talk 36
 
@@ -438,57 +475,17 @@ Mural: (...The scene looks somewhat familiar.)
 
 Mural: (A mural of three Aranara and a golden Aranara. They seem to be entering a huge whirlpool.)
 
-## Additional Conversations
-
-*Conversations not present as sub-quests.*
-
-
-### Additional Talk 1
-
-Arama: #Nara Traveler, Paimon, I recommend we match each other's pace. Let me know when you're ready to set out.
-    Option 1:
-        Traveler: Let's go.
-        Paimon: Yeah! Three seals... It feels like we have so much to do! Let's get moving!
-        Traveler: Yeah, let's go.
-    Option 2:
-        Traveler: I wanna rest a while longer...
-        Arama: Alright. We'll set out whenever you are ready.
-    Option 3:
-        Traveler: Let's go.
-        Paimon: Yeah! Three seals... It feels like we have so much to do! Let's get moving!
-        Traveler: Let's rest a while longer...
-        Arama: Alright. We'll set out whenever you are ready.
-
-### Additional Talk 2
-
-Arama: Bad sand. Rough and coarse. Ugh, green grass won't grow from it.
-Arama: There's a very, very huge Valuka outside the forest, and there are Nara in it. Nara must be suffering.
-
-### Additional Talk 3
-
-Mural: (A mural of many Aranara with their fronts — or backs — facing something strange. There's a golden Aranara with them...)
-Mural: (No, there seems to be a change in the mural. There are two golden Aranara now.)
-
-### Additional Talk 4
-
-Arama: #If only Nara Traveler was here very, very long ago. Then you could have fought the huge metal beasts with Aramuhukunda, Aradasha, and the others!
-    Option 1:
-        Traveler: What was that?
-        Arama: #While Nara Traveler was fighting just now, I could sense that the huge metal beast was very bad. It absorbs Marana's strength and grows stronger.
-        Arama: #It would be exhausting for Nara Traveler if the battle went on. Then I remembered! In my memories, Aradasha used this Ararakalari to trap and destroy many huge metal beasts.
-        Arama: So, I tried his Ararakalari, and I hit it very, very hard.
-    Option 2:
-        Traveler: So, where are we?
-        Arama: I don't know. This place doesn't exist in the memories I received. It feels like the home of Aranara, but it shouldn't be like this...
-        Arama: But this place is very good. No Marana, and there's water, light, and grass.
-    Option 3:
-        Traveler: See you.
-        Arama: Yes! This place is very good. We can rest.
-
-### Additional Talk 5
+## Talk 90 (alternative/additional)
 
 Aramuhukunda: ...I'm glad that you understand. Arama, help your friends, and let the new Ashvattha Tree become the anchor of Aranara's dreams once more.
 Arama: I'll live up to your legacy. Aramuhukunda's name has filled us with courage since many, many moons ago, and that will not change for many, many moons to come.
 Arama: We will defeat Marana's Avatar. With your memories, I hear everyone call out to you, and it fills me with more than just courage, with pride as well.
 Aramuhukunda: I believe in you. Like clouds know they have to release rain, the rain knows that it must fall onto the ground. Meeting all of you made me realize... that the time has finally come. I'm very happy.
 Aramuhukunda: Now, I can finally return to Sarva and meet Nara Varuna again.
+
+## Additional Conversations
+
+*Conversations not present as sub-quests.*
+
+Mural: (A mural of many Aranara with their fronts — or backs — facing something strange. There's a golden Aranara with them...)
+Mural: (No, there seems to be a change in the mural. There are two golden Aranara now.)
