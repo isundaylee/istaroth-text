@@ -3,10 +3,6 @@
 Your explorative footsteps echo on the island. There is no one around, and the sole lighthouse remains silent in the darkness...
 
 
-## Talk 1
-
-Panicking Phantom: The lighthouse... It's lit! The Wild Hunt! The Wild Hunt is attacking! To arms!
-
 ## Talk 2 (variant 1)
 
 (Explore the island)
@@ -166,11 +162,6 @@ Paimon: Finally, we're here! Let's find where the fuel goes and pour it in.
 Black Screen Text: Paimon finds the fuel slot and pours in the fuel. Then, you ignite the lamp at the top of the lighthouse.
 Paimon: Woohoo, the light's on! This should make things way easier. Now we can keep exploring!
 
-## Talk 5
-
-Wandering Phantom: To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
-Paimon: He's still going on about the signal... Did we send the wrong one? Let's try another.
-
 ## Talk 6 (alternative/additional)
 
 (Descend the lighthouse)
@@ -231,8 +222,41 @@ Paimon: There are five signal types: Distress, warning, guidance, summoning, and
 
 (Operate the lighthouse according to the handbook's instructions)
 
+Unknown Role (TALK_ROLE_NONE): Missing text (3119957826)
+
+## Talk 10 (alternative/additional)
+
+(Operate the lighthouse according to the handbook's instructions)
+
 Wandering Phantom: To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
 Paimon: These ghosts seem really worked up... Should we just do what they're asking and see what happens?
+
+## Talk 10 (alternative/additional)
+
+(Operate the lighthouse according to the handbook's instructions)
+
+Wandering Phantom: To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
+Paimon: He's still going on about the signal... Did we send the wrong one? Let's try another.
+
+## Talk 10 (alternative/additional)
+
+(Operate the lighthouse according to the handbook's instructions)
+
+Traveler: Missing text (1004412426)
+Traveler: Missing text (2966835946)
+Traveler: Missing text (4242382434)
+    Option 1:
+        Traveler: Weak—Strong—Strong (Distress)
+        Paimon: Okay, the signal is sent! Let's go check on the ghosts.
+    Option 2:
+        Traveler: Strong—Weak—Weak
+        Traveler: Missing text (3038045018)
+    Option 3:
+        Traveler: Strong—Weak—Strong
+        Traveler: Missing text (185190058)
+    Option 4:
+        Traveler: Strong—Strong—Strong
+        Black Screen Text: Missing text (353643402)
 
 ## Objective 10
 
@@ -294,6 +318,12 @@ Flins: Ah, yes — and please do not be alarmed by anything strange we may encou
 
 (Follow Flins)
 
+Panicking Phantom: The lighthouse... It's lit! The Wild Hunt! The Wild Hunt is attacking! To arms!
+
+## Talk 13 (alternative/additional)
+
+(Follow Flins)
+
 Trembling Phantom: Look! Someone's put out a distress signal! Reinforcements will arrive from the sea soon! Hold steady, everyone!
 Flins: Hmm... The coast, then... But on which side?
 
@@ -314,11 +344,10 @@ Flins: Where are you going?
 Melancholic Phantom: "We shall make life greater than death."
 Flins: Never mind. We won't get anything out of this one.
 
-## Talk 13
+## Objective 13
 
 (Follow Flins)
 
-Unknown Role (TALK_ROLE_NONE): Missing text (3119957826)
 
 ## Talk 14
 
@@ -380,24 +409,6 @@ Flins: Many of the ghosts on this island may have been affected by the lighthous
 Flins: But if you're in the mood to keep exploring, would you come with me? I'd like to get to know them better still.
 Traveler: Let's do it.
 Flins: It would be my honor.
-
-## Talk 15
-
-Traveler: Missing text (1004412426)
-Traveler: Missing text (2966835946)
-Traveler: Missing text (4242382434)
-    Option 1:
-        Traveler: Weak—Strong—Strong (Distress)
-        Paimon: Okay, the signal is sent! Let's go check on the ghosts.
-    Option 2:
-        Traveler: Strong—Weak—Weak
-        Traveler: Missing text (3038045018)
-    Option 3:
-        Traveler: Strong—Weak—Strong
-        Traveler: Missing text (185190058)
-    Option 4:
-        Traveler: Strong—Strong—Strong
-        Black Screen Text: Missing text (353643402)
 
 ## Associated Free Talks
 

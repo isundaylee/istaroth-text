@@ -91,10 +91,6 @@ Paimon: It must want to say, "Thank you for saving me! This beach is full of hid
         Traveler: Well, if Valberry Jelly insists...
 Paimon: Then Valberry Jelly can rest here while we check out what treasures are hiding under the sand!
 
-## Talk 8
-
-Paimon: There's another trapped jellyfish, and it doesn't look healthy. Come on, we've gotta get it out!
-
 ## Objective 9
 
 (Examine the sand piles nearby)
@@ -131,6 +127,12 @@ Paimon: This place is huge. There's gotta be tons of those nasty machines around
 Paimon: Paimon's certain Valberry Jelly can't be the only jellyfish trapped in this base. Let's go find the others!
 "Valberry Jelly": ...
 
+## Talk 13
+
+(Find and rescue the jellyfish)
+
+Paimon: There's another trapped jellyfish, and it doesn't look healthy. Come on, we've gotta get it out!
+
 ## Objective 14
 
 (Look for the ID card)
@@ -141,7 +143,9 @@ Paimon: Paimon's certain Valberry Jelly can't be the only jellyfish trapped in t
 (Remove the barrier)
 
 
-## Talk 16
+## Talk 17 (variant 1)
+
+(Talk to Paimon)
 
 Paimon: Eh? Why won't it open? Isn't this the right key...? Hmm, what should we do now?
 "Valberry Jelly": ...
@@ -161,7 +165,7 @@ Paimon: Does that mean... even though we couldn't save its friends, it still wan
 Paimon: It seems like jellyfish have more heart than the Fatui ever will. Those guys build all those horrible machines, and they don't care about life one bit!
 Paimon: So really, who's the one with no brain?
 
-## Talk 17
+## Talk 17 (variant 2)
 
 (Talk to Paimon)
 
@@ -278,6 +282,11 @@ Paimon: Paimon can't believe it used its power again just to help us... From thi
 Paimon: Valberry Jelly... It doesn't even look like itself anymore... Paimon can't believe it used its power again just to help us...
 "Valberry Jelly": ...
 Paimon: That's a gesture it would only make for one of its own.... Is it saying goodbye?
+
+## Objective 25
+
+(Talk to Paimon)
+
 
 ## Talk 26
 

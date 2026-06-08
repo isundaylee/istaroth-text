@@ -8,9 +8,14 @@
 (Go to the entrance to the ruins)
 
 
-## Talk 2
+## Objective 2
 
 (Place the talisman)
+
+
+## Talk 4
+
+(Talk to Manqu)
 
 Paimon: So the ruins below are the ruins of the... what was he called again? The Sage of the Stolen Flame? Still, the entrance looks like something weird's blocking it...
 Manqu: Just as I thought... the Sage's trial has already begun.
@@ -47,32 +52,10 @@ Manqu: Haha, that's the spirit. Now, please try opening the barrier blocking the
 (Explore the ruins)
 
 
-## Talk 8
+## Objective 8
 
 (Explore the ruins)
 
-Paimon: A path through the lava has appeared... Looks like the trial is almost over.
-Paimon: That guy from the Saurian Relics Association and the chubby chap from the Children of Echoes kept talking up how dangerous it was, but it looks like there really was nothing to it!
-Traveler: In that case, lead the way, Paimon!
-Paimon: Whoa! You can't even see the bottom... But we're good friends, so of course we'll go together!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, look! Hehe, we're nearly done!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
-Traveler: Did you see some strange things, too?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-Traveler: Don't be afraid...
-Traveler: Paimon and I are here.
-Paimon: #Yeah... Though Paimon isn't sure what happened, Traveler's right. No matter what, you've got us!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Ooh, looks like he's finally perking up! Okay, looks like we can continue downward... This place does feel kinda dangerous...
-Unknown Role (TALK_ROLE_NPC): Chosen of Dragons... Proceed... Eliminate the enemy from the realm beyond...
-Unknown Role (TALK_ROLE_NPC): Then you will be granted entry into the final paradise.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
-Traveler: Seems there's danger below after all.
-Paimon: Did the golden designs tell you that too?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: #Okay, then let's rest a bit, Traveler! We'll keep going once you're ready.
 
 ## Talk 9
 
@@ -133,11 +116,10 @@ Paimon: We should hurry up and find the token... Once we find it, we can have a 
 Traveler: Okay, let's move out!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 13
+## Objective 13
 
 (Explore the ruins)
 
-Paimon: Missing text (2941087050)
 
 ## Talk 14
 
@@ -199,6 +181,12 @@ Paimon: Hey, don't say things he can't understand!
 (Traverse the corridor)
 
 
+## Talk 16
+
+(Traverse the corridor)
+
+Paimon: Missing text (2941087050)
+
 ## Objective 17
 
 (Unlock the mechanism)
@@ -251,6 +239,33 @@ Paimon: Hurry up, we need to go look!
 
 (Continue the trial)
 
+
+## Talk 22
+
+(Traverse the lava)
+
+Paimon: A path through the lava has appeared... Looks like the trial is almost over.
+Paimon: That guy from the Saurian Relics Association and the chubby chap from the Children of Echoes kept talking up how dangerous it was, but it looks like there really was nothing to it!
+Traveler: In that case, lead the way, Paimon!
+Paimon: Whoa! You can't even see the bottom... But we're good friends, so of course we'll go together!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
+Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, look! Hehe, we're nearly done!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
+Traveler: Did you see some strange things, too?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+Traveler: Don't be afraid...
+Traveler: Paimon and I are here.
+Paimon: #Yeah... Though Paimon isn't sure what happened, Traveler's right. No matter what, you've got us!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: Ooh, looks like he's finally perking up! Okay, looks like we can continue downward... This place does feel kinda dangerous...
+Unknown Role (TALK_ROLE_NPC): Chosen of Dragons... Proceed... Eliminate the enemy from the realm beyond...
+Unknown Role (TALK_ROLE_NPC): Then you will be granted entry into the final paradise.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrrr?
+Traveler: Seems there's danger below after all.
+Paimon: Did the golden designs tell you that too?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: #Okay, then let's rest a bit, Traveler! We'll keep going once you're ready.
 
 ## Objective 23
 

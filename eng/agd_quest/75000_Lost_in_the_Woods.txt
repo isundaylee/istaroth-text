@@ -5,7 +5,14 @@
 After having just arrived in Natlan, you are teleported to a strange space...
 
 
-## Talk 2
+## Objective 3
+
+(Defeat the Rifthounds)
+
+
+## Talk 4
+
+(Speak to the giant beast)
 
 Paimon: Hey, hey, big guy... You okay? Can you stand?
 Paimon: Oh no, it looks really weak. Ugh, seriously! Those floaty ghostly dogs are always up to no good... In fact, make that all things floaty!
@@ -38,20 +45,10 @@ Traveler: (Reach out to the dying beast...)
 Paimon: What are you doing... Err...
 Paimon: #Traveler, you...!
 
-## Objective 3
-
-(Defeat the Rifthounds)
-
-
 ## Objective 5
 
 (Shatter the rock and rescue the whelp)
 
-
-## Talk 6
-
-Traveler: Let me think about this some more...
-Paimon: Alright. Names are important, after all, so give it all the thought you need!
 
 ## Talk 7
 
@@ -129,6 +126,19 @@ Paimon: Alright, hehe!
 
 (Give the little one an awesome new name!)
 
+Traveler: Let me think about this some more...
+Paimon: Alright. Names are important, after all, so give it all the thought you need!
+
+## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
+
+Paimon: So, what should we call this little guy?
+
+## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
+
 Paimon: So, what should we call this little guy?
 
 ## Talk 8 (alternative/additional)
@@ -137,6 +147,13 @@ Paimon: So, what should we call this little guy?
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr...
 Paimon: #Hmm, this name feels like it's piling the pressure on... Let's go with something else, Traveler!
+
+## Talk 8 (alternative/additional)
+
+(Give the little one an awesome new name!)
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
+Paimon: Ooh, there's some real power behind that name!
 
 ## Talk 8 (alternative/additional)
 
@@ -189,12 +206,10 @@ Paimon: Seriously, we only just got here, and it feels like so much has already 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Hmm? You know where the exit is?
 
-## Talk 10
+## Objective 10
 
 (Follow your Saurian companion)
 
-#{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rawr!
-Paimon: Ooh, there's some real power behind that name!
 
 ## Talk 12 (alternative/additional)
 
@@ -202,11 +217,10 @@ Paimon: Ooh, there's some real power behind that name!
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Ehrr... Rawr!
 
-## Talk 12
+## Objective 12
 
 (Leave the strange space)
 
-Paimon: So, what should we call this little guy?
 
 ## Associated Free Talks
 

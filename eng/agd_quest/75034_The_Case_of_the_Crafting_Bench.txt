@@ -29,9 +29,14 @@ Sumac: I know a nice clearing near the Stadium. We only need to test out the pot
 Paimon: As long as it's quick...
 Sumac: Haha! I knew you'd be up for it. Let's go, then!
 
-## Talk 2
+## Objective 2
 
 (Go to the clearing near the Stadium of the Sacred Flame)
+
+
+## Talk 3
+
+(Talk to Sumac)
 
 Sumac: This place ain't half bad, huh? Shall we get right to it?
     Option 1:
@@ -80,15 +85,6 @@ Sumac: It's so...
 Paimon: Does it hurt? Stop talking for now — just get some rest.
 Sumac: ...So incredibly effective... at "adjusting one's state"...
 Paimon: #Seriously!? Now's not the time for joking! C'mon, Traveler, let's get her somewhere she can be treated, stat!
-
-## Talk 8
-
-Paimon: Well, how was that? Strong enough for you?
-Ogun: A diamond in the rough, but a diamond nonetheless. What do you want to know?
-Black Screen Text: As agreed, Ogun tells of his previous ordeal, sparing no detail. Hampeq in turn records the testimony as given.
-Ogun: Pah. But what's the use of taking all this testimony? It's a waste of time.
-Hampeq: He is no warrior who gives up before battle is joined. I will give it my all, regardless of what you say.
-Ogun: Suit yourself, then.
 
 ## Talk 9
 
@@ -156,36 +152,10 @@ Sumac: Alright. *sigh* Sorry for dragging you two into this.
 Paimon: Don't say that! If you had to blame someone... then, uh, blame the Locusts! Yeah, so we're doing this for the good of everyone!
 Hampeq: That's right. What we do, we do for the benefit of all, and it is a good thing indeed. Anyway, no time to lose. Let's go down to the outdoor training grounds and collect some testimony.
 
-## Talk 10
+## Objective 10
 
 (Go to the outdoor training area to collect testimony)
 
-Hampeq: Found you at last, Anela. Would you reconsider the matter I wrote to you about?
-Anela: Stickier than a tick, you are, chasing me all the way here. Well? What's in it for me?
-Hampeq: ...I mean, you are a member of the Hawkwings...
-Anela: I "was." I may be a good swimmer, but that doesn't mean I'll stay onboard your sinking ship.
-Hampeq: Couldn't you at least provide some testimony?
-Anela: And drop myself in the pot of trouble you're brewing?
-Paimon: Eh, this feels like a waste of time. We should just go back and look for Sumac.
-Anela: Oh? Well, well, who are these two little cuties? Help you hired, Hampeq?
-Hampeq: Y—You could say that.
-Anela: #Good. I've changed my mind. Youngsters with potential are just my jam. How about this, little lad? If you pass my test, I'll consider giving you a statement after all.
-    Option 1:
-        Traveler: Color me shocked and surprised — a test.
-        Paimon: Guess they really are part of the same faction, huh?
-    Option 2:
-        Traveler: Gotta admit, I'm not feeling it right now...
-        Anela: And would a little... extra reward from yours truly sweeten the pot?
-        Paimon: Please let us give it a go!
-    Option 3:
-        Traveler: Color me shocked and surprised — a test.
-        Paimon: Guess they really are part of the same faction, huh?
-Anela: Ah, very good! Shall we begin?
-    Option 1:
-        Traveler: Bring it on.
-    Option 2:
-        Traveler: Let me make some preparations.
-        Anela: No rush, take your time.
 
 ## Talk 11
 
@@ -241,6 +211,17 @@ Ogun: Why don't you try it out before you give up?
 (Complete Ogun's challenge)
 
 
+## Talk 15
+
+(Talk to Ogun)
+
+Paimon: Well, how was that? Strong enough for you?
+Ogun: A diamond in the rough, but a diamond nonetheless. What do you want to know?
+Black Screen Text: As agreed, Ogun tells of his previous ordeal, sparing no detail. Hampeq in turn records the testimony as given.
+Ogun: Pah. But what's the use of taking all this testimony? It's a waste of time.
+Hampeq: He is no warrior who gives up before battle is joined. I will give it my all, regardless of what you say.
+Ogun: Suit yourself, then.
+
 ## Talk 16
 
 (Talk to Pampa)
@@ -259,6 +240,17 @@ Pampa: Of course. Why wouldn't it be? And if you're willing, let's start now!
     Option 2:
         Traveler: One moment. Let me prep.
         Pampa: Of course. Making a mistake because you're in bad form would suck.
+
+## Talk 18 (alternative/additional)
+
+(Talk to Pampa)
+
+Pampa: You ready? It is better to be patient at times like this... You can take your time, I'm in no hurry!
+    Option 1:
+        Traveler: Let's begin.
+    Option 2:
+        Traveler: Wait a moment.
+        Pampa: Don't worry, I'm super patient!
 
 ## Talk 18
 
@@ -325,9 +317,47 @@ Hampeq: Alright, let's keep gathering evidence. We can't let his goodwill go to 
 Wooden Crate: A—achoo!
 Wooden Crate: ...
 
-## Talk 24
+## Talk 23
 
-Sumac: Has the mood changed? I feel like I'm getting nervous, too...
+(Ask Anela some questions)
+
+Hampeq: Found you at last, Anela. Would you reconsider the matter I wrote to you about?
+Anela: Stickier than a tick, you are, chasing me all the way here. Well? What's in it for me?
+Hampeq: ...I mean, you are a member of the Hawkwings...
+Anela: I "was." I may be a good swimmer, but that doesn't mean I'll stay onboard your sinking ship.
+Hampeq: Couldn't you at least provide some testimony?
+Anela: And drop myself in the pot of trouble you're brewing?
+Paimon: Eh, this feels like a waste of time. We should just go back and look for Sumac.
+Anela: Oh? Well, well, who are these two little cuties? Help you hired, Hampeq?
+Hampeq: Y—You could say that.
+Anela: #Good. I've changed my mind. Youngsters with potential are just my jam. How about this, little lad? If you pass my test, I'll consider giving you a statement after all.
+    Option 1:
+        Traveler: Color me shocked and surprised — a test.
+        Paimon: Guess they really are part of the same faction, huh?
+    Option 2:
+        Traveler: Gotta admit, I'm not feeling it right now...
+        Anela: And would a little... extra reward from yours truly sweeten the pot?
+        Paimon: Please let us give it a go!
+    Option 3:
+        Traveler: Color me shocked and surprised — a test.
+        Paimon: Guess they really are part of the same faction, huh?
+Anela: Ah, very good! Shall we begin?
+    Option 1:
+        Traveler: Bring it on.
+    Option 2:
+        Traveler: Let me make some preparations.
+        Anela: No rush, take your time.
+
+## Talk 25 (alternative/additional)
+
+(Talk to Anela)
+
+Anela: #Ready for the test, lad?
+    Option 1:
+        Traveler: Bring it on.
+    Option 2:
+        Traveler: Hold on...
+        Anela: Hehe, sure, no problem.
 
 ## Talk 25
 
@@ -413,16 +443,10 @@ Hampeq: Thank you all! In that case, let us meet at the outside training grounds
 (Go to the outdoor training area after two days)
 
 
-## Talk 31
+## Objective 31
 
 (Go to the outdoor training area)
 
-Pampa: You ready? It is better to be patient at times like this... You can take your time, I'm in no hurry!
-    Option 1:
-        Traveler: Let's begin.
-    Option 2:
-        Traveler: Wait a moment.
-        Pampa: Don't worry, I'm super patient!
 
 ## Talk 32
 
@@ -464,6 +488,12 @@ Hampeq: #Here also are the victim testimonies, good judge, that I gathered toget
 (Submit the victims' testimonies to the judge)
 
 Tenehua: Pass the Hawkwings victim testimonies to me once you're ready.
+
+## Talk 34 (alternative/additional)
+
+(Keep listening)
+
+Sumac: Has the mood changed? I feel like I'm getting nervous, too...
 
 ## Talk 34 (alternative/additional)
 
@@ -696,16 +726,15 @@ Sumac: "Hey, you! Thief! I know you stole my gem, so I've nicked it right back. 
 Paimon: #The owner's smart, so that's gotta be Traveler and Paimon. That makes the thief and the gem...
 Paimon: #Ah! Paimon's got it, for sure this time! C'mon, Traveler, let's catch up with Tozan. He'll bring us right to his "gem" hidey-hole!
 
-## Talk 37
+## Objective 37
 
 (Chase Tozan to the destination)
 
-Anela: #Ready for the test, lad?
-    Option 1:
-        Traveler: Bring it on.
-    Option 2:
-        Traveler: Hold on...
-        Anela: Hehe, sure, no problem.
+
+## Objective 38
+
+(Follow Tozan via his footprints)
+
 
 ## Talk 39
 

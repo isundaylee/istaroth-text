@@ -80,9 +80,14 @@ Traveler: Bongo-Head is a really nice Fungus, you know.
 Paimon: Hmm, that's true. Okay, let's go take a look.
 Nahida: Alright, lead the way, little Fungus.
 
-## Talk 2
+## Objective 2
 
 (Follow the strangely behaving Fungus)
+
+
+## Talk 3
+
+(Speak with the strangely behaving Fungus)
 
 Floating Hydro Fungus: !
 Floating Hydro Fungus (The Other Floating Hydro Fungus): !!!
@@ -227,24 +232,10 @@ Nahida: Yeah, I've been trying to think of a place that fits the description of 
 Traveler: We'll just have to continue investigating.
 Nahida: Agreed. I really want to send them home, so they won't have to wander around anymore.
 
-## Talk 6
+## Objective 6
 
 (Follow the elemental life-form onward)
 
-Elemental Being: Floating Hydro Fungus: As I expected, it's the last of my kind that I'm aware of.
-Elemental Being: Floating Hydro Fungus: So it wasn't able to make it to the end. If only it could have held on just a little longer...
-Nahida: I hope that you will be free of this pain after returning home.
-Paimon: Just thinking about how many elemental life-forms have turned into Tumors of the Withering makes Paimon sad.
-Elemental Being: Floating Hydro Fungus: It's okay. As long as elemental power still exists, then we will still be around.
-Elemental Being: Floating Hydro Fungus: An external form is but a gift of time. Through "growth" comes change, and even abandonment of previous forms. However, our true nature is not so easily affected.
-Nahida: It wouldn't have come to this if we were able to cure them earlier...
-Nahida: But I will cure all of them... even if it's just for the sake of the rainforest and all the life-forms that live in it.
-Elemental Being: Floating Hydro Fungus: Thank you, Lord of Dendro. It was a wise choice for us to place our trust in you and wait.
-Nahida: Hold on. I think I got something.
-Nahida: ...Oh, I see. Okay, I understand. Thank you so much.
-Nahida: So, they found a Fungus that matches the description I gave them. It's currently unconscious.
-Elemental Being: Floating Hydro Fungus: It must be in a similar situation as I was. We should hurry and go take a look.
-Nahida: Okay, follow me.
 
 ## Objective 7
 
@@ -275,33 +266,10 @@ Traveler: Seems like it's pretty good at coming up with metaphors as well...
 Elemental Being: Floating Hydro Fungus: "Growth"... I see. Yes, then this is what you would call growth.
 Elemental Being: Floating Hydro Fungus: A most beautiful word. I shall enjoy it more as we walk.
 
-## Talk 9
+## Objective 9
 
 (Follow the elemental life-form)
 
-Nahida: (There's a Fungus on patrol in the center there. It looks pretty vigilant, so I'd better go around it.)
-    Option 1:
-    Option 2:
-        Traveler: Move Right
-        Stretchy Anemo Fungus: ...!?
-        Nahida: (Why is it reacting like that?)
-        Winged Dendroshroom: ...?
-        Nahida: (Uh oh, the Fungus on patrol noticed me.)
-        Nahida: ♪...♪?
-        Winged Dendroshroom: !!!
-        Black Screen Text: The planned infiltration of the habitat failed because you were detected...
-        Nahida: (There's a Fungus on patrol in the center there. It looks pretty vigilant, so I'd better go around it.)
-        [Circling back to a pre-branch dialog]
-Traveler: Move Left
-Whirling Electro Fungus: ♪~
-Nahida: ♪...♪...
-Whirling Electro Fungus: ♪♪♪~
-Winged Dendroshroom: ...
-Winged Dendroshroom: ♪~♪♪~
-Nahida: (It seems they didn't notice me.)
-Nahida: (It seems that Fungus won't be moving for the moment. I should hurry and make my way through.)
-Nahida: (This is the spot. There are several Fungi here.)
-Nahida: #(I'll hide and wait for Traveler to catch up.)
 
 ## Talk 10 (alternative/additional)
 
@@ -387,10 +355,6 @@ Traveler: ...If you say so.
 Paimon: Uh, Paimon doesn't get what you two are talking about, but we're all ready to go now, right?
 Paimon: Then let's do this! We've dealt with The Withering countless times already!
 
-## Talk 14
-
-Whirling Electro Fungus: ♫~♫~♫~
-
 ## Objective 16
 
 (Clean up the Withering Zone)
@@ -415,6 +379,25 @@ Elemental Being: Floating Hydro Fungus: I'm moved that they were so worried abou
 
 Floating Hydro Fungus: ♪~♪♪~
 Elemental Being: Floating Hydro Fungus: I'm moved that they were so worried about me.
+
+## Talk 18
+
+(Speak with the elemental life-form)
+
+Elemental Being: Floating Hydro Fungus: As I expected, it's the last of my kind that I'm aware of.
+Elemental Being: Floating Hydro Fungus: So it wasn't able to make it to the end. If only it could have held on just a little longer...
+Nahida: I hope that you will be free of this pain after returning home.
+Paimon: Just thinking about how many elemental life-forms have turned into Tumors of the Withering makes Paimon sad.
+Elemental Being: Floating Hydro Fungus: It's okay. As long as elemental power still exists, then we will still be around.
+Elemental Being: Floating Hydro Fungus: An external form is but a gift of time. Through "growth" comes change, and even abandonment of previous forms. However, our true nature is not so easily affected.
+Nahida: It wouldn't have come to this if we were able to cure them earlier...
+Nahida: But I will cure all of them... even if it's just for the sake of the rainforest and all the life-forms that live in it.
+Elemental Being: Floating Hydro Fungus: Thank you, Lord of Dendro. It was a wise choice for us to place our trust in you and wait.
+Nahida: Hold on. I think I got something.
+Nahida: ...Oh, I see. Okay, I understand. Thank you so much.
+Nahida: So, they found a Fungus that matches the description I gave them. It's currently unconscious.
+Elemental Being: Floating Hydro Fungus: It must be in a similar situation as I was. We should hurry and go take a look.
+Nahida: Okay, follow me.
 
 ## Talk 19
 
@@ -460,6 +443,39 @@ Nahida: Then, all you have to do is repeat the correct answer in your mind. As l
 Paimon: Okay, got it!
 Elemental Being: Floating Hydro Fungus: Let me lure away the Fungi up top and make way for you.
 Paimon: #Alright, good luck, Nahida. Let's go, Traveler!
+
+## Talk 20
+
+(Try to infiltrate the Fungi habitat)
+
+Nahida: (There's a Fungus on patrol in the center there. It looks pretty vigilant, so I'd better go around it.)
+    Option 1:
+    Option 2:
+        Traveler: Move Right
+        Stretchy Anemo Fungus: ...!?
+        Nahida: (Why is it reacting like that?)
+        Winged Dendroshroom: ...?
+        Nahida: (Uh oh, the Fungus on patrol noticed me.)
+        Nahida: ♪...♪?
+        Winged Dendroshroom: !!!
+        Black Screen Text: The planned infiltration of the habitat failed because you were detected...
+        Nahida: (There's a Fungus on patrol in the center there. It looks pretty vigilant, so I'd better go around it.)
+        [Circling back to a pre-branch dialog]
+Traveler: Move Left
+Whirling Electro Fungus: ♪~
+Nahida: ♪...♪...
+Whirling Electro Fungus: ♪♪♪~
+Winged Dendroshroom: ...
+Winged Dendroshroom: ♪~♪♪~
+Nahida: (It seems they didn't notice me.)
+Nahida: (It seems that Fungus won't be moving for the moment. I should hurry and make my way through.)
+Nahida: (This is the spot. There are several Fungi here.)
+Nahida: #(I'll hide and wait for Traveler to catch up.)
+
+## Objective 21
+
+(Approach from the other side and activate Elemental Sight)
+
 
 ## Talk 23
 
@@ -638,6 +654,12 @@ Floating Anemo Fungus: ...?
 (Return and speak to the elemental life-form)
 
 Whirling Pyro Fungus: !
+
+## Talk 29 (alternative/additional)
+
+(Return and speak to the elemental life-form)
+
+Whirling Electro Fungus: ♫~♫~♫~
 
 ## Talk 29 (alternative/additional)
 

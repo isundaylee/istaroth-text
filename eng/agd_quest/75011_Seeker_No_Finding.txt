@@ -5,63 +5,19 @@
 Search for the legendary "elixir that can cure all injuries" with Chikya.
 
 
-## Talk 1
+## Objective 1
 
 (Head to the Upper Sanctum)
 
-Chikya: The water level has risen somewhat... and the spring's now full of phlogiston.
-Chikya: The water below my knees is warm, and I can feel a warmth flowing through my limbs... A lovely sensation.
-Paimon: So the Sage's gift wasn't an "elixir that can cure all injuries," but rather the hot spring here?
-Paimon: Paimon's not exactly surprised, given the People of the Springs aren't far off...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-Chikya: #Hehe, {REALNAME[ID(2)|SHOWHOST(true)]}'s looking pretty cozy there.
-Chikya: This isn't just any old hot spring, little floaty Paimon. Once a hero who has been chosen bathes in this spring, they'll be granted the power to wield phlogiston.
-Paimon: Huh, really? So... What'll happen if Paimon dives in?
-Chikya: Hmm, good question... Yes, I think I know. You'd still be Paimon, just a soaking wet one.
-Paimon: Whaaat... Ugh, Paimon thought she might get to use phlogiston too, and transform into some kind of super awesome Pyro Paimon!
-Chikya: Sadly, I think not, because you haven't been chosen...
-Paimon: Wait a minute, Chikya... You knew that this hot spring would be the final gift, yet you claimed you were searching for an "elixir that can cure all injuries," and that you'd share it with us too!
-Chikya: Hehe, there are so many types of injury in the world. How could you possibly expect a single elixir to be able to heal them all?
-Chikya: But when it comes down to it, wisdom is the solution to all our worries. Yes, I tricked you this time, little Paimon. But when we make mistakes, we learn from 'em, and take one step closer to resolving our worries... Isn't that a wonderful outcome too?
-Paimon: Huh, okay... That actually kinda makes sense...
-    Option 1:
-        Traveler: So, have your injuries been cured?
-        Chikya: No, not at all. My heart still aches from the niggling pain of all my various injuries. And in that sense, I've been tricked as well — tricked terribly, by myself.
-    Option 2:
-        Traveler: Have you learned how to use phlogiston?
-Chikya: Even if I took a bath in a hot spring filled with phlogiston, I would still be unable to use it. In the past, so the ancient scrolls say, tribespeople who could not already wield phlogiston only ever learned to do so by passing the trial...
-Chikya: So it hasn't had any effect at all!
-Paimon: ...Wait. You're clearly from Natlan... but you can't use phlogiston?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
-Chikya: Paimon, you know, these delayed responses of yours can be quite hurtful at critical moments like this! Yes, nearly everyone in Natlan can use phlogiston, but "nearly" is not "all."
-Chikya: When I was very young, I once suffered a grave injury, in connection with the Abyss...
-Chikya: It was a miracle that I even survived, and I was in terrible health. I told you I could jump great distances with an Iktomisaur on my back, but I'd be fooling you — for Iktomisaurs can float up and make themselves as light as a feather, so they don't weigh a thing.
-Chikya: It may well be due to this injury that I am unable to use phlogiston. No matter what I try, I simply can't do it. I've wracked my brains, pored over all kinds of different scrolls...
-Chikya: Though others view them as virtually obsolete, I am well-versed in analyzing "Phlogiston Engraving" through patterns. I put lots of effort into memorizing all the meanings, honing a great memory while doing so.
-Chikya: For me, teaching the children of our tribe the basics about phlogiston was also an opportunity to observe how they would discover the ability to use it. And speaking of which — I'm quite popular with the children!
-Chikya: I know everything there is to know about phlogiston, and the more I understand, the more in awe of it I am. But the more awe I feel, the more regret and frustration I feel for not being able to wield it myself.
-Chikya: *sigh* It was all thanks to you that we were able to make it through all those trials. I understand that to learn skills like our ancestors did, sacrifices must be made...
-Chikya: But I simply don't have that kind of courage. Perhaps that's why I can't use phlogiston, haha...
-Paimon: Chikya...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
-Chikya: It's alright, I came to terms with it a long time ago. If it doesn't work this time, there's always next time. I'll find a way eventually!
-Chikya: #Thank you so much... I'm grateful for everything you've done for me, Traveler. I know I keep saying it, but you have a fine future ahead of you, lad. Not only are you amazingly talented, but you're so kind as well.
-Chikya: #Unlike me, for whom everything seems to be set in place now... Lad, I'm sure you'll have many more incredible adventures to look forward to.
-Chikya: I'm a little jealous, to be honest!
-Chikya: #Traveler, young lad full of promise — wherever the road takes you, may your travels be smooth, forever and always!
-Traveler: And the same to you...
-Traveler: I'm sure you'll achieve your aspirations!
-Paimon: Even if there's no "elixir that can cure all injuries," Paimon's sure you'll find an "elixir that can cure your injuries"!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Chikya: #Haha... Thank you Paimon, Traveler... and last but not least, {REALNAME[ID(2)|SHOWHOST(true)]}.
-Chikya: #...Your words have genuinely moved me, Traveler. Really, I'm touched by what you've said, lad —because you're someone that people can count on.
-Chikya: Alright, let me rest here a while longer. This hot spring's mighty relaxing, after all. I'll soak in here for a bit, then get back to poring through ancient scrolls for a cure...
-Chikya: *sigh* I might be in for a scolding for running off from home, though...
-Chikya: #But just as you said, lad, I'll have to work hard to achieve my aspirations!
 
-## Talk 2
+## Objective 2
 
 (Head to the Upper Sanctum)
+
+
+## Talk 3
+
+(Talk to Chikya)
 
 Paimon: So this is the Upper Sanctum, huh... From down below, you'd think it was all gray and empty up here...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -110,9 +66,19 @@ Chikya: #Well, lad, you've shown great promise so far, hehe. Time you went and g
 (Examine the Iridescent Inscription)
 
 
-## Talk 9
+## Objective 9
 
 (Explore the floating island)
+
+
+## Objective 10
+
+(Investigate the giant stone tablet)
+
+
+## Talk 11
+
+(Talk to Chikya)
 
 Paimon: Whew, this should be the last mechanism...
 Paimon: This one's no different from the others. Chikya, you sure you haven't fallen for some kind of trick?
@@ -133,11 +99,6 @@ Chikya: If it doesn't work this time, it'll work the next; and if not here, then
         Chikya: We'll have none of that kind of negativity here!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: #Hehe, see, {REALNAME[ID(2)|SHOWHOST(true)]}'s excited too. Come on then, Traveler, use phlogiston to activate the mechanism!
-
-## Objective 10
-
-(Investigate the giant stone tablet)
-
 
 ## Objective 12
 
@@ -197,6 +158,60 @@ As the earth trembles, the giant rock on the ground reveals its true form...
 
 (Defeat the monsters that have been awakened)
 
+
+## Talk 21
+
+(Talk to Chikya)
+
+Chikya: The water level has risen somewhat... and the spring's now full of phlogiston.
+Chikya: The water below my knees is warm, and I can feel a warmth flowing through my limbs... A lovely sensation.
+Paimon: So the Sage's gift wasn't an "elixir that can cure all injuries," but rather the hot spring here?
+Paimon: Paimon's not exactly surprised, given the People of the Springs aren't far off...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+Chikya: #Hehe, {REALNAME[ID(2)|SHOWHOST(true)]}'s looking pretty cozy there.
+Chikya: This isn't just any old hot spring, little floaty Paimon. Once a hero who has been chosen bathes in this spring, they'll be granted the power to wield phlogiston.
+Paimon: Huh, really? So... What'll happen if Paimon dives in?
+Chikya: Hmm, good question... Yes, I think I know. You'd still be Paimon, just a soaking wet one.
+Paimon: Whaaat... Ugh, Paimon thought she might get to use phlogiston too, and transform into some kind of super awesome Pyro Paimon!
+Chikya: Sadly, I think not, because you haven't been chosen...
+Paimon: Wait a minute, Chikya... You knew that this hot spring would be the final gift, yet you claimed you were searching for an "elixir that can cure all injuries," and that you'd share it with us too!
+Chikya: Hehe, there are so many types of injury in the world. How could you possibly expect a single elixir to be able to heal them all?
+Chikya: But when it comes down to it, wisdom is the solution to all our worries. Yes, I tricked you this time, little Paimon. But when we make mistakes, we learn from 'em, and take one step closer to resolving our worries... Isn't that a wonderful outcome too?
+Paimon: Huh, okay... That actually kinda makes sense...
+    Option 1:
+        Traveler: So, have your injuries been cured?
+        Chikya: No, not at all. My heart still aches from the niggling pain of all my various injuries. And in that sense, I've been tricked as well — tricked terribly, by myself.
+    Option 2:
+        Traveler: Have you learned how to use phlogiston?
+Chikya: Even if I took a bath in a hot spring filled with phlogiston, I would still be unable to use it. In the past, so the ancient scrolls say, tribespeople who could not already wield phlogiston only ever learned to do so by passing the trial...
+Chikya: So it hasn't had any effect at all!
+Paimon: ...Wait. You're clearly from Natlan... but you can't use phlogiston?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+Chikya: Paimon, you know, these delayed responses of yours can be quite hurtful at critical moments like this! Yes, nearly everyone in Natlan can use phlogiston, but "nearly" is not "all."
+Chikya: When I was very young, I once suffered a grave injury, in connection with the Abyss...
+Chikya: It was a miracle that I even survived, and I was in terrible health. I told you I could jump great distances with an Iktomisaur on my back, but I'd be fooling you — for Iktomisaurs can float up and make themselves as light as a feather, so they don't weigh a thing.
+Chikya: It may well be due to this injury that I am unable to use phlogiston. No matter what I try, I simply can't do it. I've wracked my brains, pored over all kinds of different scrolls...
+Chikya: Though others view them as virtually obsolete, I am well-versed in analyzing "Phlogiston Engraving" through patterns. I put lots of effort into memorizing all the meanings, honing a great memory while doing so.
+Chikya: For me, teaching the children of our tribe the basics about phlogiston was also an opportunity to observe how they would discover the ability to use it. And speaking of which — I'm quite popular with the children!
+Chikya: I know everything there is to know about phlogiston, and the more I understand, the more in awe of it I am. But the more awe I feel, the more regret and frustration I feel for not being able to wield it myself.
+Chikya: *sigh* It was all thanks to you that we were able to make it through all those trials. I understand that to learn skills like our ancestors did, sacrifices must be made...
+Chikya: But I simply don't have that kind of courage. Perhaps that's why I can't use phlogiston, haha...
+Paimon: Chikya...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr...
+Chikya: It's alright, I came to terms with it a long time ago. If it doesn't work this time, there's always next time. I'll find a way eventually!
+Chikya: #Thank you so much... I'm grateful for everything you've done for me, Traveler. I know I keep saying it, but you have a fine future ahead of you, lad. Not only are you amazingly talented, but you're so kind as well.
+Chikya: #Unlike me, for whom everything seems to be set in place now... Lad, I'm sure you'll have many more incredible adventures to look forward to.
+Chikya: I'm a little jealous, to be honest!
+Chikya: #Traveler, young lad full of promise — wherever the road takes you, may your travels be smooth, forever and always!
+Traveler: And the same to you...
+Traveler: I'm sure you'll achieve your aspirations!
+Paimon: Even if there's no "elixir that can cure all injuries," Paimon's sure you'll find an "elixir that can cure your injuries"!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Chikya: #Haha... Thank you Paimon, Traveler... and last but not least, {REALNAME[ID(2)|SHOWHOST(true)]}.
+Chikya: #...Your words have genuinely moved me, Traveler. Really, I'm touched by what you've said, lad —because you're someone that people can count on.
+Chikya: Alright, let me rest here a while longer. This hot spring's mighty relaxing, after all. I'll soak in here for a bit, then get back to poring through ancient scrolls for a cure...
+Chikya: *sigh* I might be in for a scolding for running off from home, though...
+Chikya: #But just as you said, lad, I'll have to work hard to achieve my aspirations!
 
 ## Talk 106
 

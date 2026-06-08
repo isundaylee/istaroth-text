@@ -179,6 +179,18 @@ Sumida: Please, this year's "This Novel is Amazing!" grand prize is at stake!
 
 (Talk to Kama)
 
+Kama: Are you ready?
+    Option 1:
+        Traveler: I'm ready.
+        Kama: Then let us go while the weather remains clement.
+    Option 2:
+        Traveler: Not yet.
+        Kama: ...
+
+## Talk 3 (alternative/additional)
+
+(Talk to Kama)
+
 Sumida: You're back. Do you have the Maushiro?
     Option 1:
         Traveler: Could I ask about Kama for a moment?
@@ -210,16 +222,6 @@ Kama: ...It's nothing. Since Lady Sumida has recommended you, I have no complain
         Traveler: Not yet.
         Kama: Come back once you are, then.
 
-## Talk 6
-
-Kama: Are you ready?
-    Option 1:
-        Traveler: I'm ready.
-        Kama: Then let us go while the weather remains clement.
-    Option 2:
-        Traveler: Not yet.
-        Kama: ...
-
 ## Talk 7
 
 (Talk to Kama)
@@ -248,6 +250,11 @@ Paimon: Ugh, this is so annoying! Does Paimon have to do everything herself!?
 Kama: It's best to enter through that great gate over there, lest you get lost in the fog all too easily.
 Kama: I will wait for you here.
 Kama: Look for me once you secure the Maushiro. I will send you back.
+
+## Objective 8
+
+(Travel to Tsurumi Island)
+
 
 ## Talk 10
 
@@ -312,34 +319,6 @@ Paimon: Sounds like a lot of fun!
 ??? (Ruu): But we'll need to do some things before the ceremony can start!
 ??? (Ruu): #Either way, Traveler, Paimon, come with me!
 
-## Talk 12
-
-Ipe: Well, that's done.
-Makiri: Nice!
-Ruu: You're back!
-Paimon: We're back!
-Ruu: The Perch looks really happy. I'm sure Kapatcir will be really happy too!
-    Option 1:
-        Traveler: Well, that's nice.
-        Paimon: That said, who is Kapatcir?
-    Option 2:
-        Traveler: Who's Kapatcir?
-Ruu: My friend!
-Ruu: Kapatcir loves to hear me sing. I'll be singing for her during the ceremony!
-Paimon: #Traveler can sing too! Well, {F#her}{M#his} singing turns Glaze Lilies into Whopperflowers, though.
-Ruu: That's amazing!
-    Option 1:
-        Traveler: Uh, Paimon, that's not what happened...
-    Option 2:
-        Traveler: Mind if I ask about Maushiro...
-Ruu: Oh, you need a Maushiro? Well, we'll be heading to the ceremonial site soon.
-Ruu: They're going to put all the Maushiro there during the ceremony. I bet Grandpa Mata is going to need help making offerings at the other Perches, too.
-Ruu: Well then. See you both later!
-Traveler: Not coming with us?
-Ruu: I've got some preparations to make for the ceremony. I'll be meeting Kapatcir there, after all!
-Ruu: Everyone's been looking forward to this ceremony, too! I won't disappoint them!
-Paimon: Well, seeya later then!
-
 ## Talk 13
 
 (Go to the destination and talk to Ruu)
@@ -391,27 +370,40 @@ Paimon: Uhh... Alright then. Let's just touch that perch first, shall we?
 (Make an offering to the Perch)
 
 
-## Talk 19
+## Talk 18
+
+(Report back to Ruu)
+
+Ipe: Well, that's done.
+Makiri: Nice!
+Ruu: You're back!
+Paimon: We're back!
+Ruu: The Perch looks really happy. I'm sure Kapatcir will be really happy too!
+    Option 1:
+        Traveler: Well, that's nice.
+        Paimon: That said, who is Kapatcir?
+    Option 2:
+        Traveler: Who's Kapatcir?
+Ruu: My friend!
+Ruu: Kapatcir loves to hear me sing. I'll be singing for her during the ceremony!
+Paimon: #Traveler can sing too! Well, {F#her}{M#his} singing turns Glaze Lilies into Whopperflowers, though.
+Ruu: That's amazing!
+    Option 1:
+        Traveler: Uh, Paimon, that's not what happened...
+    Option 2:
+        Traveler: Mind if I ask about Maushiro...
+Ruu: Oh, you need a Maushiro? Well, we'll be heading to the ceremonial site soon.
+Ruu: They're going to put all the Maushiro there during the ceremony. I bet Grandpa Mata is going to need help making offerings at the other Perches, too.
+Ruu: Well then. See you both later!
+Traveler: Not coming with us?
+Ruu: I've got some preparations to make for the ceremony. I'll be meeting Kapatcir there, after all!
+Ruu: Everyone's been looking forward to this ceremony, too! I won't disappoint them!
+Paimon: Well, seeya later then!
+
+## Objective 19
 
 (Go to the ceremonial site)
 
-Paimon: Is this the Maushiro?
-Paimon: Nice! Guess Ruu didn't trick us after all!
-Traveler: Well, I suppose that's this commission done.
-Paimon: Still... Paimon feels cheated!
-Traveler: And what were you cheated out of, exactly?
-Paimon: They said there'd be a ceremony! And we helped them out with so many things, too!
-    Option 1:
-        Traveler: Well, I'm not sure any of this matters other than getting the job done.
-        Paimon: True, but there is one thing that's still very strange...
-    Option 2:
-        Traveler: The happenings on this island are quite concerning.
-        Paimon: Paimon thinks there's something odd about this place, too...
-Paimon: There should've been more people here, but it looks like all of them have vanished...
-Paimon: And all those people felt like they had a few screws loose, anyway...
-Paimon: Whatever. Let's go look for Kama first.
-Traveler: He should be waiting for us at the entrance.
-Paimon: Anchors aweigh!
 
 ## Talk 20
 
@@ -455,9 +447,48 @@ Paimon: Mm-mm, after hearing Ruu talk about it so much, Paimon's getting all exc
         Paimon: Eh, whatever! Forget it!
 Paimon: Even if you don't wanna go, we've got to be there if we wanna get that Maushiro.
 
-## Talk 33
+## Objective 33
 
 (Return to the ceremonial site)
+
+
+## Talk 34
+
+Paimon: ...Eh? Where'd he go?
+    Option 1:
+        Traveler: I've got a bad feeling about this.
+    Option 2:
+        Traveler: That's real spooky.
+Paimon: Hmm, looks like there's something over there...
+
+## Objective 35
+
+(Check the light)
+
+
+## Talk 36
+
+Paimon: Is this the Maushiro?
+Paimon: Nice! Guess Ruu didn't trick us after all!
+Traveler: Well, I suppose that's this commission done.
+Paimon: Still... Paimon feels cheated!
+Traveler: And what were you cheated out of, exactly?
+Paimon: They said there'd be a ceremony! And we helped them out with so many things, too!
+    Option 1:
+        Traveler: Well, I'm not sure any of this matters other than getting the job done.
+        Paimon: True, but there is one thing that's still very strange...
+    Option 2:
+        Traveler: The happenings on this island are quite concerning.
+        Paimon: Paimon thinks there's something odd about this place, too...
+Paimon: There should've been more people here, but it looks like all of them have vanished...
+Paimon: And all those people felt like they had a few screws loose, anyway...
+Paimon: Whatever. Let's go look for Kama first.
+Traveler: He should be waiting for us at the entrance.
+Paimon: Anchors aweigh!
+
+## Talk 37 (alternative/additional)
+
+(Talk to Kama and then return)
 
 Paimon: We're back!
 Kama: It's about time you returned.
@@ -473,20 +504,6 @@ Kama: Nothing. I'll send you back now. Are you ready to depart?
     Option 2:
         Traveler: Not yet.
         Kama: ...
-
-## Talk 34
-
-Paimon: ...Eh? Where'd he go?
-    Option 1:
-        Traveler: I've got a bad feeling about this.
-    Option 2:
-        Traveler: That's real spooky.
-Paimon: Hmm, looks like there's something over there...
-
-## Objective 35
-
-(Check the light)
-
 
 ## Talk 37 (alternative/additional)
 

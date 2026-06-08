@@ -3,10 +3,6 @@
 While taking a walk through Nod-Krai, you stumble into a mysterious place...
 
 
-## Talk 1
-
-Nicole: Heh... Alright, time to get to work.
-
 ## Talk 2
 
 (Listen to the mysterious voice)
@@ -83,34 +79,21 @@ Paimon: Wait here — we'll head out and see what we can find. But remember to f
 
 Unknown Role (TALK_ROLE_NONE): Missing text (1012381282)
 
+## Objective 5
+
+(Find an appropriate target to photograph)
+
+
 ## Talk 6 (alternative/additional)
 
 (Find an appropriate target to photograph)
 
 Unknown Role (TALK_ROLE_NONE): Missing text (303200074)
 
-## Talk 6
+## Objective 6
 
 (Find an appropriate target to photograph)
 
-Nicole: Just who I wanted to see.
-Nicole: I'm delighted with the photos you took — excellent source material. Now — I have all the carving tools ready to go. Would you like to try it together?
-Paimon: Carving tools? ...You mean these blocks?
-Nicole: That's right. The statues are inside the stones. All we need to do is remove any excess material.
-Nicole: To make things a little easier for you, I've provided a guide on how the carving process works.
-Nicole: Allow me to demonstrate. First, we make some big, bold cuts to carve out the general shape...
-Nicole: The numbers on the stones represent the amount of material you need to keep in a given column. So, first we do this... and then this...
-Paimon: Ooh, it's starting to take shape!
-Nicole: Got it? If you carve the blocks this way, you should be able to see the basic form.
-Nicole: Then, you just need to add some finishing touches... and, voila!
-Paimon: Wait, what!? It suddenly changed in the blink of an eye! How'd you do that?
-Nicole: Hah, a great mage doesn't reveal her secrets that easily. Just behold, and be amazed.
-Nicole: You got the basic carving process down, yes? Focus on that, and leave the finishing touches to me. Much obliged.
-Paimon: Alright. Let's give this a shot...
-Paimon: What the...!? This is way more difficult than the one you walked us through!
-Nicole: Hmm? Oh, sorry, sorry. Wrong one.
-Nicole: That's the one I was going to work on. Yours is over here.
-Paimon: Whew... Well, that's a relief...
 
 ## Talk 7 (alternative/additional)
 
@@ -118,9 +101,28 @@ Paimon: Whew... Well, that's a relief...
 
 Unknown Role (TALK_ROLE_NONE): Missing text (2583346930)
 
-## Talk 7
+## Objective 7
 
 (Find an appropriate target to photograph)
+
+
+## Talk 8
+
+(Talk to Paimon)
+
+Black Screen Text: You and Paimon take a bunch of photos...
+Paimon: Hmm, some of these shots are pretty good, but we didn't get any from the front. Let's wait for it to turn around...
+Mandragora: Roar!
+Paimon: Yes, that's the one! That's the money shot!
+    Option 1:
+        Traveler: Paimon...
+    Option 2:
+        Traveler: Get back!
+Paimon: Waaaaaah! Help!
+
+## Talk 9 (alternative/additional)
+
+(Drive off the enraged Mandragora)
 
 Observe: Mm, the mage's story is starting to taking shape. I think I'll delegate this next section to Mr. Nine.
 Observe: A great mage is defined above all by her beauty and powerful presence. Perhaps an exaggerated laugh might help her stand out more.
@@ -139,20 +141,6 @@ Observe: ...Is that laugh too annoying?
 Observe: No, it'll be fine — it's all in writing anyway. No one will hear it out loud.
 Observe: Yes, that's good. Just what people would expect from a mage.
 Observe: Although in truth, it's not so much me capturing moments in time as moments in time that have captured me... hahaha.
-
-## Talk 8
-
-(Talk to Paimon)
-
-Black Screen Text: You and Paimon take a bunch of photos...
-Paimon: Hmm, some of these shots are pretty good, but we didn't get any from the front. Let's wait for it to turn around...
-Mandragora: Roar!
-Paimon: Yes, that's the one! That's the money shot!
-    Option 1:
-        Traveler: Paimon...
-    Option 2:
-        Traveler: Get back!
-Paimon: Waaaaaah! Help!
 
 ## Objective 9
 
@@ -173,6 +161,35 @@ Paimon: Sure thing. See you in a couple days!
 
 (Wait until two days later (08:00 – 18:00))
 
+
+## Talk 12
+
+(Talk to Nicole)
+
+Nicole: Just who I wanted to see.
+Nicole: I'm delighted with the photos you took — excellent source material. Now — I have all the carving tools ready to go. Would you like to try it together?
+Paimon: Carving tools? ...You mean these blocks?
+Nicole: That's right. The statues are inside the stones. All we need to do is remove any excess material.
+Nicole: To make things a little easier for you, I've provided a guide on how the carving process works.
+Nicole: Allow me to demonstrate. First, we make some big, bold cuts to carve out the general shape...
+Nicole: The numbers on the stones represent the amount of material you need to keep in a given column. So, first we do this... and then this...
+Paimon: Ooh, it's starting to take shape!
+Nicole: Got it? If you carve the blocks this way, you should be able to see the basic form.
+Nicole: Then, you just need to add some finishing touches... and, voila!
+Paimon: Wait, what!? It suddenly changed in the blink of an eye! How'd you do that?
+Nicole: Hah, a great mage doesn't reveal her secrets that easily. Just behold, and be amazed.
+Nicole: You got the basic carving process down, yes? Focus on that, and leave the finishing touches to me. Much obliged.
+Paimon: Alright. Let's give this a shot...
+Paimon: What the...!? This is way more difficult than the one you walked us through!
+Nicole: Hmm? Oh, sorry, sorry. Wrong one.
+Nicole: That's the one I was going to work on. Yours is over here.
+Paimon: Whew... Well, that's a relief...
+
+## Talk 14 (alternative/additional)
+
+(Give carving a try)
+
+Nicole: Heh... Alright, time to get to work.
 
 ## Objective 14
 

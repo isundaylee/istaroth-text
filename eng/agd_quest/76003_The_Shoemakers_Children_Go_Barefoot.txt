@@ -16,7 +16,35 @@ Chatty Fatuus: Huh? What, are you trying to get ahead of me? That's low of you, 
 Taciturn Fatuus: *sigh*...
 [Missing Dialog 0]
 
-## Talk 1
+## Objective 2
+
+(Enter and explore the Kuuvahki Experimental Design Bureau)
+
+
+## Objective 3
+
+(Investigate the chests)
+
+
+## Talk 4
+
+(Talk to Paimon)
+
+Paimon: They're all empty! This is the only one left...
+Weary Voice: We've looked up and down and haven't seen hide or hair of that thief. Where in the world could she be hiding...?
+Cold Voice: Maybe she's gotten what she wanted and already made the big escape?
+Weary Voice: Haha. That's not gonna look good on our monthly reports, let me tell you... or Poruchik Raskolnikov's...
+Paimon: Someone's approaching. Let's hide! Um, *that container* looks like a good spot...
+
+## Talk 5 (alternative/additional)
+
+(Hide in the container nearby)
+
+Paimon: Never mind that now, let's find a place to hide before we get caught!
+
+## Talk 5
+
+(Hide in the container nearby)
 
 Paimon: #Quick, Traveler, scooch over a bit and make some room for Paimon...
 ???: Wah! Wh—What are you doing!?
@@ -36,28 +64,6 @@ Paimon: Huh? W—Wait! We don't even know her!
     Option 2:
         Traveler: I was passing by and saw the chests...
 Furious Fatuus: That still makes you a trespasser. And we arrest those too!
-
-## Talk 3
-
-(Investigate the chests)
-
-Black Screen Text: After some effort, you convince the Fatui guard to go "take a break" elsewhere...
-
-## Talk 4
-
-(Talk to Paimon)
-
-Paimon: They're all empty! This is the only one left...
-Weary Voice: We've looked up and down and haven't seen hide or hair of that thief. Where in the world could she be hiding...?
-Cold Voice: Maybe she's gotten what she wanted and already made the big escape?
-Weary Voice: Haha. That's not gonna look good on our monthly reports, let me tell you... or Poruchik Raskolnikov's...
-Paimon: Someone's approaching. Let's hide! Um, *that container* looks like a good spot...
-
-## Talk 5 (alternative/additional)
-
-(Hide in the container nearby)
-
-Paimon: Never mind that now, let's find a place to hide before we get caught!
 
 ## Objective 6
 
@@ -115,11 +121,28 @@ Paimon: Not sure if there's another way out. Let's keep looking.
 (Look for a way to exit the room)
 
 
-## Talk 11
+## Talk 11 (alternative/additional)
 
 (Look for the owner of the lost item)
 
-Netochka: Almost there... I need to make some final preparations. Hmm, "Goldfinch," if you're ready, let's go.
+Cold Voice: Just lock her up here? Is that what we're doing?
+Weary Voice: Yep. Poruchik Raskolnikov's orders.
+???: ...Did you say "Raskolnikov"?
+Weary Voice: That's "Poruchik Raskolnikov" to you, thief. Show some respect.
+Cold Voice: Forget about her. Where's the chest? Have you delivered it to the *archives*?
+Weary Voice: Oh, Bakunin's on leave today. I bet he's downing another cup at The Flagship right now.
+Cold Voice: He sure knows how to enjoy life... Let's leave the chest in the *dormitory* for now and worry about it tomorrow.
+
+## Objective 11
+
+(Look for the owner of the lost item)
+
+
+## Talk 12
+
+(Defeat the Fatui guards)
+
+Black Screen Text: After some effort, you convince the Fatui guard to go "take a break" elsewhere...
 
 ## Talk 13
 
@@ -257,17 +280,10 @@ Netochka: ...Anyway, enough about that now. We've got that Proof to find... and 
 (Defeat the Fatui)
 
 
-## Talk 17
+## Objective 17
 
 (Go to the dormitory)
 
-Cold Voice: Just lock her up here? Is that what we're doing?
-Weary Voice: Yep. Poruchik Raskolnikov's orders.
-???: ...Did you say "Raskolnikov"?
-Weary Voice: That's "Poruchik Raskolnikov" to you, thief. Show some respect.
-Cold Voice: Forget about her. Where's the chest? Have you delivered it to the *archives*?
-Weary Voice: Oh, Bakunin's on leave today. I bet he's downing another cup at The Flagship right now.
-Cold Voice: He sure knows how to enjoy life... Let's leave the chest in the *dormitory* for now and worry about it tomorrow.
 
 ## Talk 18
 
@@ -288,48 +304,10 @@ Netochka: You can count on me from now on, heh heh.
 (Continue onward with Netochka)
 
 
-## Talk 20
+## Objective 20
 
 (Continue onward with Netochka)
 
-Paimon: Huh? How did we end up on the other side? We followed the floor plan exactly.
-Raskolnikov: Do ants in a maze know that they travel along pre-designed paths? I am surprised that you took the bait without a speck of doubt.
-Raskolnikov: You've fallen right into my trap, little thief.
-Netochka: Raskolnikov...
-Raskolnikov: It's Poruchik Raskolnikov. It's been a while, Netochka. I never expected Police Chief Stalanov's daughter to end up playing thief in this godforsaken place.
-Paimon: ...Police Chief's daughter?
-Raskolnikov: It seems these two playmates in your game of house don't know you very well. Not that it matters.
-Raskolnikov: I must say, your little farce helped me root out quite a few deceptive, two-faced subordinates.
-Raskolnikov: Organization members who fail to execute orders to the letter should be terminated, immediately.
-Paimon: Never mind Netochka's background. We've met lots of odd ducks — so what if she's the police chief's daughter?
-Netochka: Snowy Owl...
-Paimon: And all that talk about executing orders to the letter... You're all just moving a chest back and forth! The one giving nonsensical orders is the real weirdo here.
-    Option 1:
-        Traveler: Such a terrible waste of manpower...
-    Option 2:
-        Traveler: Hand over the Proof of the Cognoscenti.
-Paimon: Oh, right! All this nonsense almost made Paimon forget that — that's what's important here!
-Netochka: And it doesn't belong to the Fatui. I must take it back — that's my mission!
-Raskolnikov: Take it back? Ridiculous. Of course Reed Miller's treasure doesn't belong to the Fatui — it belongs to Her Majesty the Tsaritsa.
-Raskolnikov: Whoever brings the Great Treasure back to Snezhnograd will be rewarded. Should I do so, I could even be promoted to staff officer.
-Netochka: I knew it. You're as obsessed with these titles as ever.
-Raskolnikov: ...Enough! Since you claim to be Reed Miller's successor, you must be prepared to follow in his footsteps too.
-Raskolnikov: This place shall be your execution ground. If you have any last words, now is the time.
-Raskolnikov: But I will not relay them to Chief Stalanov on your behalf. It's best that he never finds out what happened to his precious daughter. I owe my former teacher this much respect.
-Netochka: Precious daughter? Feh. All he ever cares about are his endless cases and "promising juniors" like you!
-Raskolnikov: ...Hah, you're no better. Still as arrogant as ever.
-Raskolnikov: But it matters little, because this will all end shortly.
-Netochka: Ugh...
-    Option 1:
-        Traveler: So, you really don't know who I am?
-        Raskolnikov: So long as you're an accomplice of the thief illegally infiltrating the Experimental Design Bureau, this place will be your grave too.
-    Option 2:
-        Traveler: Mere Fatui joiners...
-Paimon: Looks like we'll have to do this the hard way...
-Netochka: I'm sorry, I lied to you. I do know him, but none of what I know will help us. I can't even help much in battle...
-Paimon: #There's no point saying that now, Netochka. Just leave the fighting to us... to Traveler!
-Traveler: I knew it would end up like this...
-Paimon: But you prefer things this way, right? Straight-up fights are better than wild chest hunts... Whoa, watch out!
 
 ## Objective 21
 
@@ -350,65 +328,15 @@ Black Screen Text: Netochka scales the walls and roof with the power of the Moon
 Paimon: #Looks like she's having the time of her life... Traveler, let's hurry and catch up.
 [Missing Dialog 0]
 
-## Talk 24
+## Objective 24
 
 (Continue onward)
 
-"■■■■■■ Technology Research": (No usable information can be discerned...)
 
-## Talk 25
+## Objective 25
 
 (Continue onward with Netochka)
 
-Paimon: Hmm? Paimon can see something from here...
-Netochka: Looks like the disposal workshop. It's on the floor plan too. I guess this is where they get rid of defective products.
-Netochka: Look up, I think I see someone...
-Traveler: (Zoom in on the scene.)
-Netochka: It's Raskolnikov! And the chest!
-    Option 1:
-        Traveler: "Sir, the Proof of the Cognoscenti has been recovered."
-        Paimon: "Good work, you've done well. Rest up before the next assignment. Ah, and let's have Nod-Krai Hot Dogs for dinner tonight."
-    Option 2:
-        Traveler: "I brought the goods. What about you?"
-        Paimon: "What's the rush? Are you telling me how to do my job?"
-        Paimon: "Hmm, this is indeed what we agreed upon. As for what we brought, if you want to inspect them... come right this way."
-Paimon: ...Wait. Why did Paimon get so caught up in acting?
-Netochka: Looks like you're both masters of disguise and infiltration, Goldfinch, Snowy Owl. You sure are reliable partners.
-Netochka: However, it would be better if you both were more committed to playing the characters, in terms of speech and mannerisms...
-Paimon: Huh!? What are you, a film director? That's asking way too much!
-Netochka: Huh? This is nothing compared to what's required of ballet performers!
-Paimon: So you watch ballet? Paimon thought you only watched... Wait, that's not the point here!
-Paimon: Anyway, let's put the roleplay aside for now. We can pretty much confirm that the guy called Ras... Ras-whatever, has retrieved the Proof of the Cognoscenti, right?
-Paimon: By the way, why are the Fatui collecting the Proof? Are they also interested in the Great Treasure? ...C—Could they be in the middle of a financial crisis!?
-    Option 1:
-        Traveler: That's what happens when you spend money recklessly.
-        Paimon: Hmm... It's hard to imagine that the Fatui would take interest in the Great Treasure because they're out of funds...
-    Option 2:
-        Traveler: Doesn't sound very likely...
-        Paimon: You're right... Building a huge structure here and deploying so many people doesn't sound like financial crisis to Paimon at all.
-Paimon: Is this that Ras guy's personal interest, then? Wow, asking his subordinates to find treasure for him, that's...
-    Option 1:
-        Traveler: Despicable!
-        Paimon: What do they call this again... Yes, that's it!— an "abuse of power"! Truly despicable!
-    Option 2:
-        Traveler: Living the dream!
-        Paimon: Ugh, yeah! Reaping the fruits of other people's labor while lounging on a comfy chair...
-Netochka: Um... If it's the Raskolnikov I know, he wouldn't do this out of personal interest. In fact, he doesn't have anything that could even be considered a "personal interest."
-Netochka: There must be some motive... The only thing he's interested in is getting ahead of the game, so maybe he plans to bribe his superior using the Great Treasure...
-Paimon: Come to think of it, Paimon never asked... What exactly is your relationship with that guy, Netochka? It's unusual for a thief to know so much about a Fatui officer.
-Netochka: ...W—We just knew each other from before. We're both from Novokitezhgrad, so it's not that strange that we know each other, right?
-Netochka: Besides, think about it — no one ever questioned why the fae governor in the story wanted to seize the Sampo Mill, right?
-Netochka: Point is, the mill didn't belong to him, just like how the Proof of the Cognoscenti doesn't belong to the Fatui. So naturally, we — the ones on the side of justice — must take it back.
-Netochka: Goldfinch, Snowy Owl, this is where we carve our names in fame and glory as Reed Miller's successors!
-    Option 1:
-        Traveler: For fame and glory!
-    Option 2:
-        Traveler: For the Great Treasure!
-Paimon: #Well, if Traveler... if Goldfinch says so!
-Paimon: But that guy is also an officer here, right? How are we supposed to get the Proof from him without exposing ourselves...?
-Netochka: Hmm... Based on the floor plan, we can quickly get to the second floor of the disposal workshop from the archives, and get it done before he leaves.
-Netochka: He thinks everything is under his control, including the chest, which ended up in his hands just as he wanted. But he can't control us...
-Netochka: Hehe, that'll be so Reed Miller! Appearing at unexpected times and places, making a dashing entrance, then gracefully departing... A perfect performance.
 
 ## Talk 27 (alternative/additional)
 
@@ -497,76 +425,20 @@ Paimon: *sigh* We've been all over the shop looking for this thing... Paimon wou
 Netochka: This is the key to the secret of the Great Treasure! You can't simply compare it to commissions from the Guild!
 Netochka: Besides, we have the floor plan now... That's our "treasure map," no? Come, Goldfinch, Snowy Owl, let's be on our way!
 
-## Talk 33
+## Objective 33
 
 (Go to the archives)
 
-Paimon: F—Finally made it up here...
-Paimon: He's alone? Paimon thought he ran so fast because he was going to call for reinforcements.
-    Option 1:
-        Traveler: An ambush, perhaps...?
-        Paimon: Ah! How despicable!
-    Option 2:
-        Traveler: Then he will have to pay the price for his arrogance.
-        Paimon: Looking down on us... We'll show him!
-Netochka: I'll... I'll fight with you!
-Raskolnikov: If you want the Proof of the Cognoscenti, you must defeat me first! That is, if you can.
 
 ## Objective 34
 
 (Defeat the Fatui)
 
 
-## Talk 35
+## Objective 35
 
 (Enter the archives)
 
-Netochka: If only he were the big bad governor oppressing the innocent, then I would have... Now, I'm made to look like the unreasonable child...
-Netochka: *sigh* I'm sorry for dragging you into this farce. Say, do you really have connections to the Harbingers? That's... a surprise. If you'd told me earlier...
-Netochka: #We could have been called "Traveler the Thief Extraordinaire and His Merry Companions" or "Paimon the Thief Extraordinaire and Her Merry Companions"... or something similar? Haha...
-Netochka: Right, speaking of which, you should take the Proof of the Cognoscenti. Yes, it's much better in your hands than mine.
-Traveler: Why do you sound so defeated all of a sudden?
-Paimon: Yeah, why are you giving up already? And, didn't something like this happen just a moment ago?
-Paimon: You and that Ras-whatever guy, you talk in circles around each other and act like everything's settled afterwards.
-Paimon: And that makes Paimon feel kinda uneasy, even if we did get the Proof! It's like a sneeze that just won't come out...
-Netochka: I just... suddenly realized that, compared to Raskolnikov and all of you, I'm just an insignificant character in the story, like I've always been...
-Netochka: I wish I could become Reed Miller, a true protagonist with an adventure to call my own — someone who can claim the spotlight and receive the adoration of all...
-Netochka: So I told myself that it was my destiny to become Reed Miller's successor. To turn my fantasy into reality, I came here in search of clues about the Great Treasure.
-Netochka: Back in Nasha Town, Hidimbi gave me some clues on the Proof of the Cognoscenti and said I was special, that she had chosen me. I was so happy at the time...
-Netochka: But now that I think about it, how could I possibly have been the only one? She must have had other motives.
-Netochka: All that talk about being Reed Miller's successor, about destiny and mission... they were never meant for me. I'm still just a pebble by the roadside, worthless and unnoticed...
-    Option 1:
-        Traveler: You write your own story.
-        Paimon: Yeah, how does that saying go... "Everyone's the protagonist of their own story"?
-        Paimon: So what's wrong with us being "Netochka the Thief Extraordinaire and Her Merry Companions" in your story?
-        Paimon: Ah, but like we agreed, Snowy Owl is the character who embodies wisdom and beauty, and who's just the slightest bit mysterious! It's a role made for Paimon, hehe.
-        Paimon: #As for Traveler... Sorry, Goldfinch, he can be the handsome and cool character!
-    Option 2:
-        Traveler: Don't overthink it. Do what makes you happy.
-        Paimon: Paimon doesn't get it. Rather than thinking about things like fate or destiny... isn't it better to live happily?
-Netochka: I envy you, Paimon... I wish I could think that way. Do you have any tips on finding happiness?
-Paimon: #Hmm... Well, Paimon's happy just being with Traveler.
-Paimon: #Whether it's eating Chicken-Mushroom Skewers in the wild or feasting in a fancy restaurant, it's all good as long as it's done with Traveler!
-Netochka: #So if I want to be happy like you, Paimon, I'd need a companion like Traveler...
-Paimon: Hmm... That doesn't sound right. Why do you always have to imitate others, Netochka?
-Paimon: You just have to be yourself. Everyone has a chance of becoming Reed Miller's successor, but only you can be you.
-Netochka: But if I'm just being myself... would I actually deserve it? To be a brilliant character in people's eyes, or a special someone?
-Paimon: Hey, why are you still going on about this? It doesn't matter what others think!
-Paimon: Paimon doesn't get why you keep worrying over it. Even if you're not someone's "special someone" or a big name, you can still be happy!
-Netochka: So you think none of that matters... That's really broad-minded, Paimon...
-Paimon: ...Broad-minded? Hmm, yeah, that's right! That's the secret to happiness! Hehe, Paimon can drop insightful lines too.
-Netochka: #Well, since you think none of that matters, then... Traveler, would you become my best companion? I don't expect to be your special someone, but...
-Paimon: W—Wait a minute! B—Best companion? That won't do!
-Paimon: #That title belongs to Paimon, r—right? Traveler?
-Netochka: Haha, you talk the talk but can't walk the walk, Paimon!
-Paimon: Hmm? Netochka, you... Are you making fun of Paimon!?
-Paimon: Since you're already feeling well enough to joke around... Hmph, and here Paimon was, just a bit, a tiiiny bit, worried about you.
-Traveler: Quick, say thank you to Paimon.
-Netochka: #Mm! Thank you, Paimon, and thank you too, Traveler. Snowy Owl, Goldfinch, you're both my dear companions!
-Paimon: By the way, what are your plans after this? And, the Proof of the Cognoscenti...
-Netochka: I'll let you take the Proof this time. You've earned it. But if we cross paths elsewhere in the future, don't expect any mercy from me, alright?
-Paimon: Oh? So we'll be rivals next time we meet? Hehe, the two of us are formidable rivals to have, y'know!
-Netochka: It's a shame we can't become best companions, but I'll work hard to become your greatest rival instead. Just you wait and see!
 
 ## Talk 36 (alternative/additional)
 
@@ -580,6 +452,66 @@ Netochka: It's a shame we can't become best companions, but I'll work hard to be
 
 "Staff Casualty, Reward, and Punishment Records": (The section about the Nothing Passage seems quite intriguing...)
 
+## Talk 36 (alternative/additional)
+
+(Look for clues in the archives)
+
+"■■■■■■ Technology Research": (No usable information can be discerned...)
+
+## Talk 36
+
+(Look for clues in the archives)
+
+Paimon: Hmm? Paimon can see something from here...
+Netochka: Looks like the disposal workshop. It's on the floor plan too. I guess this is where they get rid of defective products.
+Netochka: Look up, I think I see someone...
+Traveler: (Zoom in on the scene.)
+Netochka: It's Raskolnikov! And the chest!
+    Option 1:
+        Traveler: "Sir, the Proof of the Cognoscenti has been recovered."
+        Paimon: "Good work, you've done well. Rest up before the next assignment. Ah, and let's have Nod-Krai Hot Dogs for dinner tonight."
+    Option 2:
+        Traveler: "I brought the goods. What about you?"
+        Paimon: "What's the rush? Are you telling me how to do my job?"
+        Paimon: "Hmm, this is indeed what we agreed upon. As for what we brought, if you want to inspect them... come right this way."
+Paimon: ...Wait. Why did Paimon get so caught up in acting?
+Netochka: Looks like you're both masters of disguise and infiltration, Goldfinch, Snowy Owl. You sure are reliable partners.
+Netochka: However, it would be better if you both were more committed to playing the characters, in terms of speech and mannerisms...
+Paimon: Huh!? What are you, a film director? That's asking way too much!
+Netochka: Huh? This is nothing compared to what's required of ballet performers!
+Paimon: So you watch ballet? Paimon thought you only watched... Wait, that's not the point here!
+Paimon: Anyway, let's put the roleplay aside for now. We can pretty much confirm that the guy called Ras... Ras-whatever, has retrieved the Proof of the Cognoscenti, right?
+Paimon: By the way, why are the Fatui collecting the Proof? Are they also interested in the Great Treasure? ...C—Could they be in the middle of a financial crisis!?
+    Option 1:
+        Traveler: That's what happens when you spend money recklessly.
+        Paimon: Hmm... It's hard to imagine that the Fatui would take interest in the Great Treasure because they're out of funds...
+    Option 2:
+        Traveler: Doesn't sound very likely...
+        Paimon: You're right... Building a huge structure here and deploying so many people doesn't sound like financial crisis to Paimon at all.
+Paimon: Is this that Ras guy's personal interest, then? Wow, asking his subordinates to find treasure for him, that's...
+    Option 1:
+        Traveler: Despicable!
+        Paimon: What do they call this again... Yes, that's it!— an "abuse of power"! Truly despicable!
+    Option 2:
+        Traveler: Living the dream!
+        Paimon: Ugh, yeah! Reaping the fruits of other people's labor while lounging on a comfy chair...
+Netochka: Um... If it's the Raskolnikov I know, he wouldn't do this out of personal interest. In fact, he doesn't have anything that could even be considered a "personal interest."
+Netochka: There must be some motive... The only thing he's interested in is getting ahead of the game, so maybe he plans to bribe his superior using the Great Treasure...
+Paimon: Come to think of it, Paimon never asked... What exactly is your relationship with that guy, Netochka? It's unusual for a thief to know so much about a Fatui officer.
+Netochka: ...W—We just knew each other from before. We're both from Novokitezhgrad, so it's not that strange that we know each other, right?
+Netochka: Besides, think about it — no one ever questioned why the fae governor in the story wanted to seize the Sampo Mill, right?
+Netochka: Point is, the mill didn't belong to him, just like how the Proof of the Cognoscenti doesn't belong to the Fatui. So naturally, we — the ones on the side of justice — must take it back.
+Netochka: Goldfinch, Snowy Owl, this is where we carve our names in fame and glory as Reed Miller's successors!
+    Option 1:
+        Traveler: For fame and glory!
+    Option 2:
+        Traveler: For the Great Treasure!
+Paimon: #Well, if Traveler... if Goldfinch says so!
+Paimon: But that guy is also an officer here, right? How are we supposed to get the Proof from him without exposing ourselves...?
+Netochka: Hmm... Based on the floor plan, we can quickly get to the second floor of the disposal workshop from the archives, and get it done before he leaves.
+Netochka: He thinks everything is under his control, including the chest, which ended up in his hands just as he wanted. But he can't control us...
+Netochka: Hehe, that'll be so Reed Miller! Appearing at unexpected times and places, making a dashing entrance, then gracefully departing... A perfect performance.
+
 ## Objective 37
 
 (Go to the disposal workshop)
@@ -590,6 +522,12 @@ Netochka: It's a shame we can't become best companions, but I'll work hard to be
 (Find a way to open the gate)
 
 
+## Talk 40 (alternative/additional)
+
+(Defeat the Fatui)
+
+Netochka: Almost there... I need to make some final preparations. Hmm, "Goldfinch," if you're ready, let's go.
+
 ## Objective 40
 
 (Defeat the Fatui)
@@ -599,6 +537,49 @@ Netochka: It's a shame we can't become best companions, but I'll work hard to be
 
 (Continue onward with Netochka)
 
+
+## Talk 42
+
+(Enter the disposal workshop)
+
+Paimon: Huh? How did we end up on the other side? We followed the floor plan exactly.
+Raskolnikov: Do ants in a maze know that they travel along pre-designed paths? I am surprised that you took the bait without a speck of doubt.
+Raskolnikov: You've fallen right into my trap, little thief.
+Netochka: Raskolnikov...
+Raskolnikov: It's Poruchik Raskolnikov. It's been a while, Netochka. I never expected Police Chief Stalanov's daughter to end up playing thief in this godforsaken place.
+Paimon: ...Police Chief's daughter?
+Raskolnikov: It seems these two playmates in your game of house don't know you very well. Not that it matters.
+Raskolnikov: I must say, your little farce helped me root out quite a few deceptive, two-faced subordinates.
+Raskolnikov: Organization members who fail to execute orders to the letter should be terminated, immediately.
+Paimon: Never mind Netochka's background. We've met lots of odd ducks — so what if she's the police chief's daughter?
+Netochka: Snowy Owl...
+Paimon: And all that talk about executing orders to the letter... You're all just moving a chest back and forth! The one giving nonsensical orders is the real weirdo here.
+    Option 1:
+        Traveler: Such a terrible waste of manpower...
+    Option 2:
+        Traveler: Hand over the Proof of the Cognoscenti.
+Paimon: Oh, right! All this nonsense almost made Paimon forget that — that's what's important here!
+Netochka: And it doesn't belong to the Fatui. I must take it back — that's my mission!
+Raskolnikov: Take it back? Ridiculous. Of course Reed Miller's treasure doesn't belong to the Fatui — it belongs to Her Majesty the Tsaritsa.
+Raskolnikov: Whoever brings the Great Treasure back to Snezhnograd will be rewarded. Should I do so, I could even be promoted to staff officer.
+Netochka: I knew it. You're as obsessed with these titles as ever.
+Raskolnikov: ...Enough! Since you claim to be Reed Miller's successor, you must be prepared to follow in his footsteps too.
+Raskolnikov: This place shall be your execution ground. If you have any last words, now is the time.
+Raskolnikov: But I will not relay them to Chief Stalanov on your behalf. It's best that he never finds out what happened to his precious daughter. I owe my former teacher this much respect.
+Netochka: Precious daughter? Feh. All he ever cares about are his endless cases and "promising juniors" like you!
+Raskolnikov: ...Hah, you're no better. Still as arrogant as ever.
+Raskolnikov: But it matters little, because this will all end shortly.
+Netochka: Ugh...
+    Option 1:
+        Traveler: So, you really don't know who I am?
+        Raskolnikov: So long as you're an accomplice of the thief illegally infiltrating the Experimental Design Bureau, this place will be your grave too.
+    Option 2:
+        Traveler: Mere Fatui joiners...
+Paimon: Looks like we'll have to do this the hard way...
+Netochka: I'm sorry, I lied to you. I do know him, but none of what I know will help us. I can't even help much in battle...
+Paimon: #There's no point saying that now, Netochka. Just leave the fighting to us... to Traveler!
+Traveler: I knew it would end up like this...
+Paimon: But you prefer things this way, right? Straight-up fights are better than wild chest hunts... Whoa, watch out!
 
 ## Objective 43
 
@@ -641,6 +622,11 @@ Netochka: Leave it to me! I'll go after him!
 ## Objective 52
 
 (Go to the second floor of the disposal workshop)
+
+
+## Objective 53
+
+(Catch up to Netochka)
 
 
 ## Objective 54
@@ -715,9 +701,115 @@ Netochka: I'm ready to go whenever you are.
 Paimon: Everything should be fine now, let's go!
 Netochka: Then I'll be off! Don't fall too far behind!
 
-## Talk 59
+## Objective 59
 
 (Catch up to Netochka)
+
+
+## Talk 60
+
+(Talk to Raskolnikov)
+
+Paimon: F—Finally made it up here...
+Paimon: He's alone? Paimon thought he ran so fast because he was going to call for reinforcements.
+    Option 1:
+        Traveler: An ambush, perhaps...?
+        Paimon: Ah! How despicable!
+    Option 2:
+        Traveler: Then he will have to pay the price for his arrogance.
+        Paimon: Looking down on us... We'll show him!
+Netochka: I'll... I'll fight with you!
+Raskolnikov: If you want the Proof of the Cognoscenti, you must defeat me first! That is, if you can.
+
+## Objective 61
+
+(Defeat Raskolnikov)
+
+
+## Talk 62
+
+(Talk to Netochka)
+
+Netochka: Phew... We won. Now, hand the Proof over.
+Raskolnikov: ...Come and get it yourself.
+Paimon: Paimon didn't expect you to admit defeat so easily... And there really weren't any reinforcements!
+    Option 1:
+        Traveler: This is good.
+        Paimon: It sure saves a lot of trouble, but this isn't what usually happens. If this is a trap...
+    Option 2:
+        Traveler: Things going so smoothly makes me uneasy...
+        Paimon: C—Could this be the trigger for an even bigger trap!?
+Netochka: Didn't you say you'd get promoted if you brought the Great Treasure back to Snezhnograd? Why are you giving us the Proof so easily?
+Raskolnikov: When did I ever say that I would be the one to do that? Keeping the Proof at the Design Bureau will bring nothing but trouble.
+Raskolnikov: As long as it stays here, there will be an endless swarm of rats coveting it, trying to infiltrate this supposedly impregnable stronghold, just like you lot.
+Raskolnikov: I am to guard the Design Bureau and ensure its efficient operation. But orders from my superiors must be obeyed.
+Raskolnikov: This already constitutes insubordination, of course... but due to my failings, the Proof of the Cognoscenti that we spent so much manpower to find was ultimately stolen by a petty thief.
+Raskolnikov: Now you can go back to Nasha Town... or wherever you want, to announce your victory.
+Netochka: ...Did you lose to us on purpose?
+Raskolnikov: Losing to an opponent who has deep ties with the Harbingers brings no shame upon me. I'm impressed you managed to find such help...
+Traveler: So you did know about us.
+Netochka: Eh!? I knew that you were exceptionally skilled, Goldfinch, but...
+Raskolnikov: ...Haha! A fool blessed with blind luck. I've always hated your kind...
+Raskolnikov: Forget it. Take the Proof of the Cognoscenti. The Experimental Design Bureau will no longer devote manpower to searching for this accursed thing. We won't meet again.
+Raskolnikov: But if you insist on future unwelcome visitation, I'll show you what I'm really made of.
+Black Screen Text: Raskolnikov leaves...
+Netochka: This curtain call is completely different from what I imagined, even with the Proof of the Cognoscenti...
+Netochka: I need some time to think about all this...
+
+## Talk 64 (variant 1)
+
+(Talk to Netochka)
+
+Netochka: If only he were the big bad governor oppressing the innocent, then I would have... Now, I'm made to look like the unreasonable child...
+Netochka: *sigh* I'm sorry for dragging you into this farce. Say, do you really have connections to the Harbingers? That's... a surprise. If you'd told me earlier...
+Netochka: #We could have been called "Traveler the Thief Extraordinaire and His Merry Companions" or "Paimon the Thief Extraordinaire and Her Merry Companions"... or something similar? Haha...
+Netochka: Right, speaking of which, you should take the Proof of the Cognoscenti. Yes, it's much better in your hands than mine.
+Traveler: Why do you sound so defeated all of a sudden?
+Paimon: Yeah, why are you giving up already? And, didn't something like this happen just a moment ago?
+Paimon: You and that Ras-whatever guy, you talk in circles around each other and act like everything's settled afterwards.
+Paimon: And that makes Paimon feel kinda uneasy, even if we did get the Proof! It's like a sneeze that just won't come out...
+Netochka: I just... suddenly realized that, compared to Raskolnikov and all of you, I'm just an insignificant character in the story, like I've always been...
+Netochka: I wish I could become Reed Miller, a true protagonist with an adventure to call my own — someone who can claim the spotlight and receive the adoration of all...
+Netochka: So I told myself that it was my destiny to become Reed Miller's successor. To turn my fantasy into reality, I came here in search of clues about the Great Treasure.
+Netochka: Back in Nasha Town, Hidimbi gave me some clues on the Proof of the Cognoscenti and said I was special, that she had chosen me. I was so happy at the time...
+Netochka: But now that I think about it, how could I possibly have been the only one? She must have had other motives.
+Netochka: All that talk about being Reed Miller's successor, about destiny and mission... they were never meant for me. I'm still just a pebble by the roadside, worthless and unnoticed...
+    Option 1:
+        Traveler: You write your own story.
+        Paimon: Yeah, how does that saying go... "Everyone's the protagonist of their own story"?
+        Paimon: So what's wrong with us being "Netochka the Thief Extraordinaire and Her Merry Companions" in your story?
+        Paimon: Ah, but like we agreed, Snowy Owl is the character who embodies wisdom and beauty, and who's just the slightest bit mysterious! It's a role made for Paimon, hehe.
+        Paimon: #As for Traveler... Sorry, Goldfinch, he can be the handsome and cool character!
+    Option 2:
+        Traveler: Don't overthink it. Do what makes you happy.
+        Paimon: Paimon doesn't get it. Rather than thinking about things like fate or destiny... isn't it better to live happily?
+Netochka: I envy you, Paimon... I wish I could think that way. Do you have any tips on finding happiness?
+Paimon: #Hmm... Well, Paimon's happy just being with Traveler.
+Paimon: #Whether it's eating Chicken-Mushroom Skewers in the wild or feasting in a fancy restaurant, it's all good as long as it's done with Traveler!
+Netochka: #So if I want to be happy like you, Paimon, I'd need a companion like Traveler...
+Paimon: Hmm... That doesn't sound right. Why do you always have to imitate others, Netochka?
+Paimon: You just have to be yourself. Everyone has a chance of becoming Reed Miller's successor, but only you can be you.
+Netochka: But if I'm just being myself... would I actually deserve it? To be a brilliant character in people's eyes, or a special someone?
+Paimon: Hey, why are you still going on about this? It doesn't matter what others think!
+Paimon: Paimon doesn't get why you keep worrying over it. Even if you're not someone's "special someone" or a big name, you can still be happy!
+Netochka: So you think none of that matters... That's really broad-minded, Paimon...
+Paimon: ...Broad-minded? Hmm, yeah, that's right! That's the secret to happiness! Hehe, Paimon can drop insightful lines too.
+Netochka: #Well, since you think none of that matters, then... Traveler, would you become my best companion? I don't expect to be your special someone, but...
+Paimon: W—Wait a minute! B—Best companion? That won't do!
+Paimon: #That title belongs to Paimon, r—right? Traveler?
+Netochka: Haha, you talk the talk but can't walk the walk, Paimon!
+Paimon: Hmm? Netochka, you... Are you making fun of Paimon!?
+Paimon: Since you're already feeling well enough to joke around... Hmph, and here Paimon was, just a bit, a tiiiny bit, worried about you.
+Traveler: Quick, say thank you to Paimon.
+Netochka: #Mm! Thank you, Paimon, and thank you too, Traveler. Snowy Owl, Goldfinch, you're both my dear companions!
+Paimon: By the way, what are your plans after this? And, the Proof of the Cognoscenti...
+Netochka: I'll let you take the Proof this time. You've earned it. But if we cross paths elsewhere in the future, don't expect any mercy from me, alright?
+Paimon: Oh? So we'll be rivals next time we meet? Hehe, the two of us are formidable rivals to have, y'know!
+Netochka: It's a shame we can't become best companions, but I'll work hard to become your greatest rival instead. Just you wait and see!
+
+## Talk 64 (variant 2)
+
+(Talk to Netochka)
 
 Netochka: If only he were the big bad governor oppressing the innocent, then I would have... Now, I'm made to look like the unreasonable child...
 Netochka: *sigh* I'm sorry for dragging you into this farce. Say, do you really have connections to the Harbingers? That's... a surprise. If you'd told me earlier...
@@ -767,38 +859,3 @@ Paimon: By the way, what are your plans after this? And, the Proof of the Cognos
 Netochka: I'll let you take the Proof this time. You've earned it. But if we cross paths elsewhere in the future, don't expect any mercy from me, alright?
 Paimon: Oh? So we'll be rivals next time we meet? Hehe, the two of us are formidable rivals to have, y'know!
 Netochka: It's a shame we can't become best companions, but I'll work hard to become your greatest rival instead. Just you wait and see!
-
-## Objective 61
-
-(Defeat Raskolnikov)
-
-
-## Talk 62
-
-(Talk to Netochka)
-
-Netochka: Phew... We won. Now, hand the Proof over.
-Raskolnikov: ...Come and get it yourself.
-Paimon: Paimon didn't expect you to admit defeat so easily... And there really weren't any reinforcements!
-    Option 1:
-        Traveler: This is good.
-        Paimon: It sure saves a lot of trouble, but this isn't what usually happens. If this is a trap...
-    Option 2:
-        Traveler: Things going so smoothly makes me uneasy...
-        Paimon: C—Could this be the trigger for an even bigger trap!?
-Netochka: Didn't you say you'd get promoted if you brought the Great Treasure back to Snezhnograd? Why are you giving us the Proof so easily?
-Raskolnikov: When did I ever say that I would be the one to do that? Keeping the Proof at the Design Bureau will bring nothing but trouble.
-Raskolnikov: As long as it stays here, there will be an endless swarm of rats coveting it, trying to infiltrate this supposedly impregnable stronghold, just like you lot.
-Raskolnikov: I am to guard the Design Bureau and ensure its efficient operation. But orders from my superiors must be obeyed.
-Raskolnikov: This already constitutes insubordination, of course... but due to my failings, the Proof of the Cognoscenti that we spent so much manpower to find was ultimately stolen by a petty thief.
-Raskolnikov: Now you can go back to Nasha Town... or wherever you want, to announce your victory.
-Netochka: ...Did you lose to us on purpose?
-Raskolnikov: Losing to an opponent who has deep ties with the Harbingers brings no shame upon me. I'm impressed you managed to find such help...
-Traveler: So you did know about us.
-Netochka: Eh!? I knew that you were exceptionally skilled, Goldfinch, but...
-Raskolnikov: ...Haha! A fool blessed with blind luck. I've always hated your kind...
-Raskolnikov: Forget it. Take the Proof of the Cognoscenti. The Experimental Design Bureau will no longer devote manpower to searching for this accursed thing. We won't meet again.
-Raskolnikov: But if you insist on future unwelcome visitation, I'll show you what I'm really made of.
-Black Screen Text: Raskolnikov leaves...
-Netochka: This curtain call is completely different from what I imagined, even with the Proof of the Cognoscenti...
-Netochka: I need some time to think about all this...

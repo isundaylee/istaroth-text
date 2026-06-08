@@ -47,16 +47,10 @@ Paimon: W—Wait! If someone's gotta throw it, let us do it! If we leave it to y
 (Throw fragment(s) to open the sealed sanctum)
 
 
-## Talk 3
+## Objective 3
 
 (Talk to Verna)
 
-Paimon: Umm... Verna, where are we? This doesn't really look like a sanctum...
-Verna: Yeah, it really doesn't... Ahem! I mean, that's not important! Don't worry! This place has things that resemble Moonlanes, so that means the Moon Maiden is still guiding us... p—probably!
-Verna: Let us follow the path illuminated by the moonlight, and leave the rest to the will of the moon.
-Paimon: That actually sounded pretty priestess-y coming from you, Verna... Wait, no! Isn't that just a fancy way of saying "I don't know what to do, let's just leave it to fate"?!
-Verna: Hey! What do you mean "pretty priestess-y"? Have you ever met a priestess who's anything less than super priestess-y?
-Verna: You've gotta have as much faith in the Moon Maiden's guidance as you do in the power of science! Besides, it's not like we've found any other way down...
 
 ## Talk 4
 
@@ -81,14 +75,95 @@ Verna: We'd better get moving, before the other priestesses show up— Ahem, I m
 (Follow the Moonlane)
 
 
+## Talk 7
+
+(Talk to Verna)
+
+Paimon: Umm... Verna, where are we? This doesn't really look like a sanctum...
+Verna: Yeah, it really doesn't... Ahem! I mean, that's not important! Don't worry! This place has things that resemble Moonlanes, so that means the Moon Maiden is still guiding us... p—probably!
+Verna: Let us follow the path illuminated by the moonlight, and leave the rest to the will of the moon.
+Paimon: That actually sounded pretty priestess-y coming from you, Verna... Wait, no! Isn't that just a fancy way of saying "I don't know what to do, let's just leave it to fate"?!
+Verna: Hey! What do you mean "pretty priestess-y"? Have you ever met a priestess who's anything less than super priestess-y?
+Verna: You've gotta have as much faith in the Moon Maiden's guidance as you do in the power of science! Besides, it's not like we've found any other way down...
+
 ## Objective 8
 
 (Unlock the mechanism seal)
 
 
-## Talk 9
+## Objective 9
 
 (Talk to Verna)
+
+
+## Talk 10
+
+(Talk to Verna)
+
+Verna: Hehe, just like I predicted! See? As long as we follow the guidance of the Moon Goddess, everything'll fall right into place!
+Paimon: Well, if you say so... But are we really sure it's a good idea to open up a place that's been sealed for centuries?
+Verna: Oh, it'll be totally fine! You've got the most trustworthy priestess of the Frostmoon Scions right here, there's absolutely nothing to worry abou—
+Ehrnrooth: Krodo! Did you see where those suspicious intruders were headed?
+Krodo: They took off toward the Court of the First Edict. Not many places to hide around here, after all.
+Rahetar: Hmph. You two, check on the seal. I'll inform the Lady Moonchanter. Let's see them try getting away...
+Rahetar: Causing trouble in the sacred lands of the Frost Moon... They've got a death wish! The only way they're getting out of this in one piece is if they're somehow the Lady Kuu{RUBY#[D]Moon Maiden}tar herself...
+Paimon: Uhh... Verna? Still wanna tell us "there's absolutely nothing to worry about"?
+Verna: I... Uhh... Ahaha! Yep! That's right! There's absolutely nothing to worry about! Now that the seal's been opened, all we have to do is set a trap and wait for that imposter to walk right into our hands...
+Verna: #...I'm sorry, I'm so sorry! There's absolutely everything to worry about! I should never have messed with the seal... What do we do now?! Help me, Traveler, please! *sobs*...
+    Option 1:
+        Traveler: Yelling for help like a crybaby doesn't mean someone's magically going to save your butt!
+        Paimon: Exactly! Well, since the seal's already broken, we might as well head in and take a look... But Verna, you'd better remember to say sorry to everyone in the Frostmoon Scions when we're done here!
+    Option 2:
+        Traveler: No turning back now. Let's see what's inside.
+        Paimon: Well, since the seal's already broken, we might as well head in and take a look... But Verna, you'd better make sure to say sorry to everyone you dragged into this!
+
+## Objective 11
+
+(Enter the Court of the First Edict)
+
+
+## Talk 12
+
+(Enter the Court of the First Edict)
+
+Paimon: Hmm, something about this place feels off compared to what Paimon imagined a sanctum would be... It doesn't feel all that sacred. Smells kinda funny instead...
+Verna: Haha, well, it has been sealed for 500 years, y'know? Scientifically speaking, rusted metal giving off a blood-like smell isn't too surprising.
+Verna: By the way, the hymns say that before Lady Aila sealed it, this was where all the Frostmoon followers held their ceremonies! So it's super sacred, really!
+Paimon: Calling it "super sacred" just makes it sound less sacred by the minute!
+Verna: Oh, come on, don't get hung up on the wording! Look over there — that's the Verdant Crest! Legend says it's the sacred tree that witnessed the birth of the Moon Mai{RUBY#[D]Kuutar}den!
+Verna: And that pool over there... Uh, if I'm guessing right, that should be the ever-flowing White S{RUBY#[D]Vellamo}pring, blessed by Lady Aila herself!
+Paimon: Do you really have to guess? Also, are you sure you didn't just make those names up?
+Verna: Hey! I might be a fairly reliable priestess, but even I've never seen these sacred relics from five hundred years ago with my own eyes!
+Verna: #Nor did I ever think I'd get to see something this historically significant... I'm so lucky. All thanks to you, Traveler and Paimon!
+    Option 1:
+        Traveler: Let's stay here for a bit.
+    Option 2:
+        Traveler: Just remember to apologize to everyone after we get out.
+Verna: #Yes, yes, no problem! I'll do whatever you say, Traveler!
+Verna: Just standing in place does feel like a waste, though... Since we're here, why not take a quick walk around?
+
+## Talk 13
+
+(Investigate the Court of the First Edict)
+
+Paimon: Hmm? There's something beneath the water. Is that a sword?
+Verna: Huh? Why would there be a sword here? ...Wait. Hold on. Could this be the ritual sword forged from Hyperborean moonlight that Lady Aila supposedly left behind...!?
+Verna: The blade that was used to offer up the very first drop of blood under the new moon... Whoa!
+Paimon: I—It's a kuuhenki... Hmm, does it want us to follow it?
+
+## Objective 14
+
+(Follow the Moonlane)
+
+
+## Objective 15
+
+(Investigate the Court of the First Edict)
+
+
+## Talk 16 (variant 1)
+
+(Investigate the Court of the First Edict)
 
 Aila: Ah, you're here. Wait, that will get the altar dirty...
 Paimon: Eek! When the heck did you get in here? We were the ones who opened the seal first... right?
@@ -176,72 +251,7 @@ Verna: Wow... I'm still not totally sure what just happened, but you've taken do
 Verna: But... who is this Alia, anyway? She says she's from five hundred years ago, but I've never seen that name in any records from back then...
 Verna: Well, whatever! Since Lady Aila brought it up, let's go find that sword!
 
-## Talk 10
-
-(Talk to Verna)
-
-Verna: Hehe, just like I predicted! See? As long as we follow the guidance of the Moon Goddess, everything'll fall right into place!
-Paimon: Well, if you say so... But are we really sure it's a good idea to open up a place that's been sealed for centuries?
-Verna: Oh, it'll be totally fine! You've got the most trustworthy priestess of the Frostmoon Scions right here, there's absolutely nothing to worry abou—
-Ehrnrooth: Krodo! Did you see where those suspicious intruders were headed?
-Krodo: They took off toward the Court of the First Edict. Not many places to hide around here, after all.
-Rahetar: Hmph. You two, check on the seal. I'll inform the Lady Moonchanter. Let's see them try getting away...
-Rahetar: Causing trouble in the sacred lands of the Frost Moon... They've got a death wish! The only way they're getting out of this in one piece is if they're somehow the Lady Kuu{RUBY#[D]Moon Maiden}tar herself...
-Paimon: Uhh... Verna? Still wanna tell us "there's absolutely nothing to worry about"?
-Verna: I... Uhh... Ahaha! Yep! That's right! There's absolutely nothing to worry about! Now that the seal's been opened, all we have to do is set a trap and wait for that imposter to walk right into our hands...
-Verna: #...I'm sorry, I'm so sorry! There's absolutely everything to worry about! I should never have messed with the seal... What do we do now?! Help me, Traveler, please! *sobs*...
-    Option 1:
-        Traveler: Yelling for help like a crybaby doesn't mean someone's magically going to save your butt!
-        Paimon: Exactly! Well, since the seal's already broken, we might as well head in and take a look... But Verna, you'd better remember to say sorry to everyone in the Frostmoon Scions when we're done here!
-    Option 2:
-        Traveler: No turning back now. Let's see what's inside.
-        Paimon: Well, since the seal's already broken, we might as well head in and take a look... But Verna, you'd better make sure to say sorry to everyone you dragged into this!
-
-## Objective 11
-
-(Enter the Court of the First Edict)
-
-
-## Talk 12
-
-(Enter the Court of the First Edict)
-
-Paimon: Hmm, something about this place feels off compared to what Paimon imagined a sanctum would be... It doesn't feel all that sacred. Smells kinda funny instead...
-Verna: Haha, well, it has been sealed for 500 years, y'know? Scientifically speaking, rusted metal giving off a blood-like smell isn't too surprising.
-Verna: By the way, the hymns say that before Lady Aila sealed it, this was where all the Frostmoon followers held their ceremonies! So it's super sacred, really!
-Paimon: Calling it "super sacred" just makes it sound less sacred by the minute!
-Verna: Oh, come on, don't get hung up on the wording! Look over there — that's the Verdant Crest! Legend says it's the sacred tree that witnessed the birth of the Moon Mai{RUBY#[D]Kuutar}den!
-Verna: And that pool over there... Uh, if I'm guessing right, that should be the ever-flowing White S{RUBY#[D]Vellamo}pring, blessed by Lady Aila herself!
-Paimon: Do you really have to guess? Also, are you sure you didn't just make those names up?
-Verna: Hey! I might be a fairly reliable priestess, but even I've never seen these sacred relics from five hundred years ago with my own eyes!
-Verna: #Nor did I ever think I'd get to see something this historically significant... I'm so lucky. All thanks to you, Traveler and Paimon!
-    Option 1:
-        Traveler: Let's stay here for a bit.
-    Option 2:
-        Traveler: Just remember to apologize to everyone after we get out.
-Verna: #Yes, yes, no problem! I'll do whatever you say, Traveler!
-Verna: Just standing in place does feel like a waste, though... Since we're here, why not take a quick walk around?
-
-## Talk 13
-
-(Investigate the Court of the First Edict)
-
-Paimon: Hmm? There's something beneath the water. Is that a sword?
-Verna: Huh? Why would there be a sword here? ...Wait. Hold on. Could this be the ritual sword forged from Hyperborean moonlight that Lady Aila supposedly left behind...!?
-Verna: The blade that was used to offer up the very first drop of blood under the new moon... Whoa!
-Paimon: I—It's a kuuhenki... Hmm, does it want us to follow it?
-
-## Objective 14
-
-(Follow the Moonlane)
-
-
-## Objective 15
-
-(Investigate the Court of the First Edict)
-
-
-## Talk 16
+## Talk 16 (variant 2)
 
 (Investigate the Court of the First Edict)
 

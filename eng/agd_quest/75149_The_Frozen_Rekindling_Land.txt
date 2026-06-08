@@ -98,44 +98,10 @@ Ehecatl: "Ah, but I am getting off-topic... Well then. Activate it, and let this
 (Activate the mechanism)
 
 
-## Talk 7
+## Objective 7
 
 (Activate the mechanism)
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr...Rroo...
-Paimon: What's wrong? You don't look like you're doing so hot...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrgh!
-Paimon: Is that... the Abyss?
-Secret Source Servant: "Indeed... Abyssal creatures invade the Sacred City of Tollan like an irremediable pestilence."
-Secret Source Servant: "At this point, it may even be impossible to contain their march completely without bringing the Sacred Mountain itself down around us..."
-Traveler: When you discover one Abyssal creature...
-Secret Source Servant: "Then perhaps your home is already completely infested with those stygian, viscid villains..."
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-Paimon: Ugh, why do you guys have to be so creepy about it?
-Traveler: We'll chop their legs off — that'll put a stop to any marching they might do!
-Paimon: Ooh, how very wise and insightful, now all we need to do is find their legs... Ha! As if Paimon could say that with a straight face!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
-Secret Source Servant: "Haha. 'Tis a shame, little one, but I fear most Abyssal creatures may not need legs for locomotion."
-Secret Source Servant: "...Only by destroying the shadowy foe that bars our path may you pass through this place and reach the Sacred Mountain's heart."
-Secret Source Servant: "Nothing can be done now to restore the glory this ravaged city had of old, but neither should its carcass be left to the tender mercies of these dark monsters."
-Traveler: Wait, don't you have those big fireballs...?
-Paimon: That's right. Don't you use them to fight the Abyss?
-Secret Source Servant: "Fireballs... You mean the Astral Assemblages? Nay, they may only trigger mutual annihilation on contact with the Abyss. Otherwise, they will instead be corrupted and enveloped by the dark..."
-Secret Source Servant: "Alas, this city has been sealed off for too long... And the Astral Assemblages have been prevented from moving freely to maintain its stability..."
-Secret Source Servant: "O Chosen of Dragons..."
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
-Secret Source Servant: "The Heart of the Sacred Mountain was re-excavated after Tollan was established... and the first Secret Source Dragon Idol stands guard over it."
-Secret Source Servant: "You must obtain a permit to gain access to the Heart..."
-Secret Source Servant: "But the power source of the Idol has also been corrupted. We must find some way to reactivate it..."
-Secret Source Servant: "They..." Warning. Functions damaged. Shutdown imminent... "Ah, looks like this machine is..."
-Paimon: Amaru? Hey, Amaru! What permit? C'mon, you'd barely started talking!
-Secret Source Servant: "Heh... Keep pressing on. A new Secret Source Servant shall guide you there..."
-Secret Source Servant: *whirr-click*...
-Secret Source Servant: "This is the map of the Sacred City's core. I will... await you at..."
-Paimon: Ah, and the light's gone out again...
-Paimon: Guess this "Amaru" guy isn't gonna be talking to us anymore, huh?
-Secret Source Servant: ...
-Paimon: He really just does whatever he feels like, huh... Not much we can do but forge ahead and see if we can't rustle up a new Secret Source Servant...
 
 ## Talk 8
 
@@ -174,6 +140,11 @@ Paimon: Oh well, let's take a look around and see if we can find those strange t
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Objective 9
+
+(Keep exploring)
+
+
+## Objective 10
 
 (Keep exploring)
 
@@ -243,6 +214,45 @@ Secret Source Servant: Lift shaft — Celestial Pillar, restarted.
 
 (Head to the depths of the ancient city)
 
+
+## Talk 17
+
+(Talk to Amaru)
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehrr...Rroo...
+Paimon: What's wrong? You don't look like you're doing so hot...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrgh!
+Paimon: Is that... the Abyss?
+Secret Source Servant: "Indeed... Abyssal creatures invade the Sacred City of Tollan like an irremediable pestilence."
+Secret Source Servant: "At this point, it may even be impossible to contain their march completely without bringing the Sacred Mountain itself down around us..."
+Traveler: When you discover one Abyssal creature...
+Secret Source Servant: "Then perhaps your home is already completely infested with those stygian, viscid villains..."
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
+Paimon: Ugh, why do you guys have to be so creepy about it?
+Traveler: We'll chop their legs off — that'll put a stop to any marching they might do!
+Paimon: Ooh, how very wise and insightful, now all we need to do is find their legs... Ha! As if Paimon could say that with a straight face!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrawr?
+Secret Source Servant: "Haha. 'Tis a shame, little one, but I fear most Abyssal creatures may not need legs for locomotion."
+Secret Source Servant: "...Only by destroying the shadowy foe that bars our path may you pass through this place and reach the Sacred Mountain's heart."
+Secret Source Servant: "Nothing can be done now to restore the glory this ravaged city had of old, but neither should its carcass be left to the tender mercies of these dark monsters."
+Traveler: Wait, don't you have those big fireballs...?
+Paimon: That's right. Don't you use them to fight the Abyss?
+Secret Source Servant: "Fireballs... You mean the Astral Assemblages? Nay, they may only trigger mutual annihilation on contact with the Abyss. Otherwise, they will instead be corrupted and enveloped by the dark..."
+Secret Source Servant: "Alas, this city has been sealed off for too long... And the Astral Assemblages have been prevented from moving freely to maintain its stability..."
+Secret Source Servant: "O Chosen of Dragons..."
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+Secret Source Servant: "The Heart of the Sacred Mountain was re-excavated after Tollan was established... and the first Secret Source Dragon Idol stands guard over it."
+Secret Source Servant: "You must obtain a permit to gain access to the Heart..."
+Secret Source Servant: "But the power source of the Idol has also been corrupted. We must find some way to reactivate it..."
+Secret Source Servant: "They..." Warning. Functions damaged. Shutdown imminent... "Ah, looks like this machine is..."
+Paimon: Amaru? Hey, Amaru! What permit? C'mon, you'd barely started talking!
+Secret Source Servant: "Heh... Keep pressing on. A new Secret Source Servant shall guide you there..."
+Secret Source Servant: *whirr-click*...
+Secret Source Servant: "This is the map of the Sacred City's core. I will... await you at..."
+Paimon: Ah, and the light's gone out again...
+Paimon: Guess this "Amaru" guy isn't gonna be talking to us anymore, huh?
+Secret Source Servant: ...
+Paimon: He really just does whatever he feels like, huh... Not much we can do but forge ahead and see if we can't rustle up a new Secret Source Servant...
 
 ## Associated Free Talks
 

@@ -74,24 +74,6 @@ Elber: *sigh* You simply can't disturb Sumpter Beasts while they're eating.
 
 (Soothe the Sumpter Beast)
 
-Paimon: Whoa! This Sumpter Beast is huge. It must hurt so bad getting kicked by it.
-Paimon: Feed it with the food Mr. Elber gave us.
-Traveler: Nice and slow...
-Traveler: Are these enough for it...?
-Paimon: It seems to be in a good mood.
-Paimon: Let's bring it back.
-Black Screen Text: You go back to Elber with the Sumpter Beast...
-Black Screen Text: The Sumpter Beast gulps down the food. It seems to be in a better mood now...
-Elber: Whew... I thought I'd lost it.
-Elber: Thank you, Traveler. I can't express my gratitude enough.
-Elber: I must check its condition now. Hope it wasn't hurt...
-Elber: Traveler, please help me find the other Sumpter Beast.
-[Missing Dialog 731850413]
-
-## Talk 6 (variant 2)
-
-(Soothe the Sumpter Beast)
-
 Paimon: This one... looks a bit irritated...
 Paimon: Whoa... Look at its hooves. So sturdy.
 Paimon: People could get stunned by a mere kick.
@@ -111,7 +93,7 @@ Paimon: No! You go! Hurry!
         Traveler: No offense to your hooves...
 [Missing Dialog 731850516]
 
-## Talk 6 (variant 3)
+## Talk 6 (variant 2)
 
 (Soothe the Sumpter Beast)
 
@@ -134,28 +116,28 @@ Paimon: No! You go! Hurry!
         Elber: *sigh* I'll make sure to hire some escorts next time...
         [Missing Dialog 731850519]
 
-## Talk 7
+## Objective 7
 
 (Find the lost Sumpter Beast)
 
-Elber: Now both Sumpter Beasts are back... Thank you so much, Traveler.
-Traveler: About the goods...
 
 ## Talk 8 (variant 1)
 
 (Soothe the Sumpter Beast)
 
-Elber: Great! I can't thank you enough, Traveler!
-Elber: I could have gone broke if I'd lost the goods and these two Sumpter Beasts.
-    Option 1:
-        Traveler: Don't mention it.
-    Option 2:
-        Traveler: About our payment...
-Elber: Oh, yes, your payment... Please wait a second.
-Elber: Please take these. I can tell from your looks that you have been venturing around.
-Elber: I happen to be in the business of those gears. You could use all these.
-Elber: Whew... The Sumpter Beasts have been recovered and the goods are mostly intact. I should be off.
-Elber: Thanks again, Traveler.
+Paimon: Whoa! This Sumpter Beast is huge. It must hurt so bad getting kicked by it.
+Paimon: Feed it with the food Mr. Elber gave us.
+Traveler: Nice and slow...
+Traveler: Are these enough for it...?
+Paimon: It seems to be in a good mood.
+Paimon: Let's bring it back.
+Black Screen Text: You go back to Elber with the Sumpter Beast...
+Black Screen Text: The Sumpter Beast gulps down the food. It seems to be in a better mood now...
+Elber: Whew... I thought I'd lost it.
+Elber: Thank you, Traveler. I can't express my gratitude enough.
+Elber: I must check its condition now. Hope it wasn't hurt...
+Elber: Traveler, please help me find the other Sumpter Beast.
+[Missing Dialog 731850413]
 
 ## Talk 8 (variant 2)
 
@@ -182,10 +164,33 @@ Elber: Besides this one, there was another Sumpter Beast that had wandered off.
 Elber: Luckily, this one's looking good.
 Elber: Traveler, please help me find the other one.
 
+## Talk 10 (alternative/additional)
+
+(Take the goods back to Elber)
+
+Elber: Now both Sumpter Beasts are back... Thank you so much, Traveler.
+Traveler: About the goods...
+
 ## Objective 10
 
 (Take the goods back to Elber)
 
+
+## Talk 11
+
+(Talk to Elber)
+
+Elber: Great! I can't thank you enough, Traveler!
+Elber: I could have gone broke if I'd lost the goods and these two Sumpter Beasts.
+    Option 1:
+        Traveler: Don't mention it.
+    Option 2:
+        Traveler: About our payment...
+Elber: Oh, yes, your payment... Please wait a second.
+Elber: Please take these. I can tell from your looks that you have been venturing around.
+Elber: I happen to be in the business of those gears. You could use all these.
+Elber: Whew... The Sumpter Beasts have been recovered and the goods are mostly intact. I should be off.
+Elber: Thanks again, Traveler.
 
 ## Associated Free Talks
 

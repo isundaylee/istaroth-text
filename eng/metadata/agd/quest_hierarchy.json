@@ -12,18 +12,6 @@
               "chapter_title": "Prologue: Act I The Outlander Who Caught the Wind",
               "quests": [
                 {
-                  "id": 306,
-                  "title": "Winds of the Past"
-                },
-                {
-                  "id": 307,
-                  "title": "Crash Course"
-                },
-                {
-                  "id": 308,
-                  "title": "Sparks Amongst the Pages"
-                },
-                {
                   "id": 352,
                   "title": "Bird's Eye View"
                 },
@@ -32,12 +20,16 @@
                   "title": "Unexpected Power"
                 },
                 {
+                  "id": 355,
+                  "title": "Forest Rendezvous"
+                },
+                {
                   "id": 354,
                   "title": "Wind-Riding Knight"
                 },
                 {
-                  "id": 355,
-                  "title": "Forest Rendezvous"
+                  "id": 360,
+                  "title": "Going Upon the Breeze"
                 },
                 {
                   "id": 356,
@@ -52,8 +44,16 @@
                   "title": "Knights of Favonius"
                 },
                 {
-                  "id": 360,
-                  "title": "Going Upon the Breeze"
+                  "id": 306,
+                  "title": "Winds of the Past"
+                },
+                {
+                  "id": 307,
+                  "title": "Crash Course"
+                },
+                {
+                  "id": 308,
+                  "title": "Sparks Amongst the Pages"
                 }
               ]
             },
@@ -94,6 +94,10 @@
                   "title": "Behind the Scenes"
                 },
                 {
+                  "id": 20101,
+                  "title": "Chasing Shadows"
+                },
+                {
                   "id": 379,
                   "title": "State of the Holy Lyre der Himmel"
                 },
@@ -112,10 +116,6 @@
                 {
                   "id": 384,
                   "title": "Reunion With the Dragon"
-                },
-                {
-                  "id": 20101,
-                  "title": "Chasing Shadows"
                 }
               ]
             },
@@ -123,6 +123,10 @@
               "chapter_id": 1003,
               "chapter_title": "Prologue: Act III Song of the Dragon and Freedom",
               "quests": [
+                {
+                  "id": 397,
+                  "title": "Abyss Mage"
+                },
                 {
                   "id": 388,
                   "title": "Hurdle"
@@ -140,16 +144,12 @@
                   "title": "Calm Before the Storm"
                 },
                 {
-                  "id": 396,
-                  "title": "Ending Note"
-                },
-                {
-                  "id": 397,
-                  "title": "Abyss Mage"
-                },
-                {
                   "id": 398,
                   "title": "When the Wind Dies Down"
+                },
+                {
+                  "id": 396,
+                  "title": "Ending Note"
                 }
               ]
             }
@@ -206,12 +206,12 @@
                   "title": "Three Poignant Perfumes"
                 },
                 {
-                  "id": 1013,
-                  "title": "Downtown"
-                },
-                {
                   "id": 1014,
                   "title": "The Realm Within"
+                },
+                {
+                  "id": 1013,
+                  "title": "Downtown"
                 },
                 {
                   "id": 1015,
@@ -310,6 +310,18 @@
               "chapter_title": "Chapter II: Act I The Immovable God and the Eternal Euthymia",
               "quests": [
                 {
+                  "id": 2011,
+                  "title": "Setting Sail"
+                },
+                {
+                  "id": 2012,
+                  "title": "Confessions of an Outlander"
+                },
+                {
+                  "id": 2013,
+                  "title": "Ritou Escape Plan"
+                },
+                {
                   "id": 2003,
                   "title": "Three Wishes"
                 },
@@ -328,18 +340,6 @@
                 {
                   "id": 2007,
                   "title": "A Flower Blooms in a Prison"
-                },
-                {
-                  "id": 2011,
-                  "title": "Setting Sail"
-                },
-                {
-                  "id": 2012,
-                  "title": "Confessions of an Outlander"
-                },
-                {
-                  "id": 2013,
-                  "title": "Ritou Escape Plan"
                 }
               ]
             },
@@ -552,12 +552,12 @@
                   "title": "The Causality of the Sabzeruz Festival"
                 },
                 {
-                  "id": 3012,
-                  "title": "The End of the Sabzeruz Festival"
-                },
-                {
                   "id": 3014,
                   "title": "The Empty Illusions of the Sabzeruz Festival"
+                },
+                {
+                  "id": 3012,
+                  "title": "The End of the Sabzeruz Festival"
                 }
               ]
             },
@@ -602,10 +602,6 @@
               "chapter_title": "Chapter III: Act V Akasha Pulses, the Kalpa Flame Rises",
               "quests": [
                 {
-                  "id": 3022,
-                  "title": "Jnagarbha Day"
-                },
-                {
                   "id": 3024,
                   "title": "Through the Predawn Night"
                 },
@@ -614,12 +610,16 @@
                   "title": "As by a God's Side"
                 },
                 {
-                  "id": 3026,
-                  "title": "A Toast to Victory"
+                  "id": 3022,
+                  "title": "Jnagarbha Day"
                 },
                 {
                   "id": 3028,
                   "title": "Where the Boat of Consciousness Lies"
+                },
+                {
+                  "id": 3026,
+                  "title": "A Toast to Victory"
                 }
               ]
             },
@@ -740,6 +740,10 @@
               "chapter_title": "Chapter IV: Act V Masquerade of the Guilty",
               "quests": [
                 {
+                  "id": 4023,
+                  "title": "Deluge of Wrathful Waters"
+                },
+                {
                   "id": 4020,
                   "title": "Meeting Is Also Parting"
                 },
@@ -750,10 +754,6 @@
                 {
                   "id": 4022,
                   "title": "Apocalypse"
-                },
-                {
-                  "id": 4023,
-                  "title": "Deluge of Wrathful Waters"
                 },
                 {
                   "id": 4024,
@@ -1575,6 +1575,10 @@
               "chapter_title": "Sunspray Summer Resort: Part II The World Is Your Canvas!",
               "quests": [
                 {
+                  "id": 15043,
+                  "title": "The World Is Your Canvas!"
+                },
+                {
                   "id": 15040,
                   "title": "To Colorfall Cliffs!"
                 },
@@ -1583,16 +1587,12 @@
                   "title": "To Guiztli Ridge!"
                 },
                 {
-                  "id": 15042,
-                  "title": "To Wavey Bay!"
-                },
-                {
-                  "id": 15043,
-                  "title": "The World Is Your Canvas!"
-                },
-                {
                   "id": 15047,
                   "title": "Time to Test the Twilight Cruise!"
+                },
+                {
+                  "id": 15042,
+                  "title": "To Wavey Bay!"
                 },
                 {
                   "id": 15048,
@@ -1665,16 +1665,12 @@
           "chapter_title": "Lepus Chapter: Act I Wind, Courage, and Wings",
           "quests": [
             {
-              "id": 427,
-              "title": "Mondstadt Glider"
-            },
-            {
               "id": 480,
               "title": "License to Glide"
             },
             {
-              "id": 481,
-              "title": "Glide With the Wind"
+              "id": 427,
+              "title": "Mondstadt Glider"
             },
             {
               "id": 484,
@@ -1683,6 +1679,10 @@
             {
               "id": 485,
               "title": "Outrider Style"
+            },
+            {
+              "id": 481,
+              "title": "Glide With the Wind"
             }
           ]
         },
@@ -1705,10 +1705,6 @@
           "chapter_title": "Lupus Minor Chapter: Act I The Meaning of Lupical",
           "quests": [
             {
-              "id": 451,
-              "title": "Wolves' Territory"
-            },
-            {
               "id": 452,
               "title": "Another Day as an Outrider!"
             },
@@ -1719,6 +1715,10 @@
             {
               "id": 454,
               "title": "Fate's Chosen Lupical"
+            },
+            {
+              "id": 451,
+              "title": "Wolves' Territory"
             }
           ]
         },
@@ -1977,12 +1977,12 @@
               "title": "The First Experiment: Elements"
             },
             {
-              "id": 11043,
-              "title": "The Third Experiment: Life"
-            },
-            {
               "id": 11044,
               "title": "The Second Experiment: The World"
+            },
+            {
+              "id": 11043,
+              "title": "The Third Experiment: Life"
             },
             {
               "id": 11045,
@@ -2083,10 +2083,6 @@
           "chapter_title": "Grus Nivis Chapter: Act I The Whispers of the Crane and the White Rabbit",
           "quests": [
             {
-              "id": 12004,
-              "title": "A Private Commission"
-            },
-            {
               "id": 12005,
               "title": "Woven Wishes"
             },
@@ -2101,6 +2097,10 @@
             {
               "id": 12008,
               "title": "With You"
+            },
+            {
+              "id": 12004,
+              "title": "A Private Commission"
             }
           ]
         },
@@ -2941,10 +2941,6 @@
               "title": "Exchanging Intelligence"
             },
             {
-              "id": 19134,
-              "title": "Auction Games"
-            },
-            {
               "id": 19135,
               "title": "Liyue Millennial"
             },
@@ -2955,6 +2951,10 @@
             {
               "id": 19137,
               "title": "Endless Smoke"
+            },
+            {
+              "id": 19134,
+              "title": "Auction Games"
             }
           ]
         },
@@ -2989,16 +2989,16 @@
               "title": "Live Practice"
             },
             {
-              "id": 19066,
-              "title": "Strength Training"
-            },
-            {
               "id": 19068,
               "title": "Gift and Intent"
             },
             {
               "id": 19069,
               "title": "Gift and Intent"
+            },
+            {
+              "id": 19066,
+              "title": "Strength Training"
             }
           ]
         },
@@ -3113,12 +3113,12 @@
               "title": "Ninken by the Shore"
             },
             {
-              "id": 19118,
-              "title": "Bits and Bobs for Cats and Dogs"
-            },
-            {
               "id": 19121,
               "title": "Unforeseen Circumstances"
+            },
+            {
+              "id": 19118,
+              "title": "Bits and Bobs for Cats and Dogs"
             }
           ]
         },
@@ -3131,16 +3131,16 @@
               "title": "A Mysterious Order"
             },
             {
+              "id": 19016,
+              "title": "Shuumatsuban Suspicions"
+            },
+            {
               "id": 19013,
               "title": "Bottleneck Breaking"
             },
             {
               "id": 19015,
               "title": "Operation Substitution"
-            },
-            {
-              "id": 19016,
-              "title": "Shuumatsuban Suspicions"
             }
           ]
         },
@@ -3231,16 +3231,16 @@
               "title": "Gang Bylaws"
             },
             {
-              "id": 19144,
-              "title": "Key Decision"
+              "id": 19148,
+              "title": "Temporary Escape"
             },
             {
               "id": 19145,
               "title": "Shrine Maiden for a Day"
             },
             {
-              "id": 19148,
-              "title": "Temporary Escape"
+              "id": 19144,
+              "title": "Key Decision"
             }
           ]
         },
@@ -3305,16 +3305,16 @@
               "title": "The Sixth Proposal"
             },
             {
+              "id": 19078,
+              "title": "Treasure and True Interest"
+            },
+            {
               "id": 19076,
               "title": "The First Ideal"
             },
             {
               "id": 19077,
               "title": "Wondrous Times"
-            },
-            {
-              "id": 19078,
-              "title": "Treasure and True Interest"
             }
           ]
         },
@@ -3388,20 +3388,20 @@
               "chapter_title": "Sacred Sakura Cleansing Ritual",
               "quests": [
                 {
-                  "id": 72100,
-                  "title": "Cleansing Defilement"
-                },
-                {
-                  "id": 72105,
-                  "title": "Yougou Cleansing"
-                },
-                {
                   "id": 72106,
                   "title": "A Strange Story in Konda"
                 },
                 {
                   "id": 72107,
                   "title": "Sacrificial Offering"
+                },
+                {
+                  "id": 72100,
+                  "title": "Cleansing Defilement"
+                },
+                {
+                  "id": 72105,
+                  "title": "Yougou Cleansing"
                 },
                 {
                   "id": 72108,
@@ -3420,6 +3420,10 @@
               "chapter_title": "The Moon-Bathed Deep",
               "quests": [
                 {
+                  "id": 72149,
+                  "title": "\"Heart of Watatsumi\""
+                },
+                {
                   "id": 72145,
                   "title": "\"Eye of Watatsumi\""
                 },
@@ -3434,10 +3438,6 @@
                 {
                   "id": 72148,
                   "title": "\"Tail of Watatsumi\""
-                },
-                {
-                  "id": 72149,
-                  "title": "\"Heart of Watatsumi\""
                 }
               ]
             }
@@ -3588,6 +3588,30 @@
               "chapter_title": "The Chasm Delvers",
               "quests": [
                 {
+                  "id": 71042,
+                  "title": "The Heavenly Stone's Debris"
+                },
+                {
+                  "id": 71043,
+                  "title": "Perils in the Dark"
+                },
+                {
+                  "id": 71045,
+                  "title": "Wherefore Did the Spiritstone Descend?"
+                },
+                {
+                  "id": 71044,
+                  "title": "Surreptitious Seven-Star Seal Sundering"
+                },
+                {
+                  "id": 71048,
+                  "title": "The Chasm Charters"
+                },
+                {
+                  "id": 71049,
+                  "title": "The Chasm Charters"
+                },
+                {
                   "id": 71037,
                   "title": "Chasm Spelunkers"
                 },
@@ -3598,30 +3622,6 @@
                 {
                   "id": 71041,
                   "title": "Meeting New People... and Foiling Some Bandits"
-                },
-                {
-                  "id": 71042,
-                  "title": "The Heavenly Stone's Debris"
-                },
-                {
-                  "id": 71043,
-                  "title": "Perils in the Dark"
-                },
-                {
-                  "id": 71044,
-                  "title": "Surreptitious Seven-Star Seal Sundering"
-                },
-                {
-                  "id": 71045,
-                  "title": "Wherefore Did the Spiritstone Descend?"
-                },
-                {
-                  "id": 71048,
-                  "title": "The Chasm Charters"
-                },
-                {
-                  "id": 71049,
-                  "title": "The Chasm Charters"
                 }
               ]
             }
@@ -3636,12 +3636,12 @@
               "chapter_title": "From Dusk to Dawn in Byakuyakoku",
               "quests": [
                 {
-                  "id": 72177,
-                  "title": "The Subterranean Trials of Drake and Serpent"
-                },
-                {
                   "id": 72242,
                   "title": "The Entrance to Tokoyo"
+                },
+                {
+                  "id": 72177,
+                  "title": "The Subterranean Trials of Drake and Serpent"
                 }
               ]
             }
@@ -3660,6 +3660,10 @@
                   "title": "Vimana Agama: First Chapter"
                 },
                 {
+                  "id": 73073,
+                  "title": "Vimana Agama: Royinjan's Chapter"
+                },
+                {
                   "id": 73026,
                   "title": "Vimana Agama: Jazari's Chapter"
                 },
@@ -3674,10 +3678,6 @@
                 {
                   "id": 73029,
                   "title": "Royinjan's Chapter: Yoni"
-                },
-                {
-                  "id": 73073,
-                  "title": "Vimana Agama: Royinjan's Chapter"
                 }
               ]
             }
@@ -3796,16 +3796,16 @@
               "chapter_title": "Aranyaka: Part III Nursery of Lost Dreams",
               "quests": [
                 {
-                  "id": 73035,
-                  "title": "For Fruits, Seeds, and Trees"
-                },
-                {
                   "id": 73036,
                   "title": "For the Children of the Past"
                 },
                 {
                   "id": 73037,
                   "title": "For All Children Who Long for Life"
+                },
+                {
+                  "id": 73035,
+                  "title": "For Fruits, Seeds, and Trees"
                 }
               ]
             },
@@ -3882,32 +3882,32 @@
               "chapter_title": "Khvarena of Good and Evil",
               "quests": [
                 {
-                  "id": 73231,
-                  "title": "Asipattravana Itihasa"
+                  "id": 73238,
+                  "title": "The Splendorous Sky That Day"
                 },
                 {
-                  "id": 73232,
-                  "title": "The Hymn of Tir Yazad"
+                  "id": 73231,
+                  "title": "Asipattravana Itihasa"
                 },
                 {
                   "id": 73235,
                   "title": "Awakening's Real Sound"
                 },
                 {
-                  "id": 73238,
-                  "title": "The Splendorous Sky That Day"
-                },
-                {
                   "id": 73251,
                   "title": "As the Khvarena's Light Shows"
                 },
                 {
-                  "id": 73256,
-                  "title": "As the Khvarena's Light Shows: Nirodha"
-                },
-                {
                   "id": 73257,
                   "title": "The Hymn of Tir Yazad"
+                },
+                {
+                  "id": 73232,
+                  "title": "The Hymn of Tir Yazad"
+                },
+                {
+                  "id": 73256,
+                  "title": "As the Khvarena's Light Shows: Nirodha"
                 }
               ]
             }
@@ -3922,8 +3922,12 @@
               "chapter_title": "The Dirge of Bilqis",
               "quests": [
                 {
-                  "id": 73103,
-                  "title": "Dune-Entombed Fecundity: Part III"
+                  "id": 73287,
+                  "title": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars"
+                },
+                {
+                  "id": 73219,
+                  "title": "The Temple Where Sand Flows Like Tears"
                 },
                 {
                   "id": 73186,
@@ -3934,16 +3938,12 @@
                   "title": "Dune-Entombed Fecundity: Part II"
                 },
                 {
-                  "id": 73219,
-                  "title": "The Temple Where Sand Flows Like Tears"
+                  "id": 73103,
+                  "title": "Dune-Entombed Fecundity: Part III"
                 },
                 {
                   "id": 73220,
                   "title": "The Eternal Dream, Ever Lush"
-                },
-                {
-                  "id": 73287,
-                  "title": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars"
                 }
               ]
             }
@@ -4124,12 +4124,12 @@
               "chapter_title": "Nightingale's Song: Chapter I Prelude to the Night Vigil",
               "quests": [
                 {
-                  "id": 76093,
-                  "title": "Wind-Stirred Ripples"
-                },
-                {
                   "id": 76099,
                   "title": "Tower of Inversion"
+                },
+                {
+                  "id": 76093,
+                  "title": "Wind-Stirred Ripples"
                 }
               ]
             },
@@ -4374,16 +4374,16 @@
               "title": "Yachimatahiko's Trial"
             },
             {
+              "id": 72275,
+              "title": "The Three Great Martial Trials"
+            },
+            {
               "id": 72269,
               "title": "Yachimatahime's Trial"
             },
             {
               "id": 72270,
               "title": "Kunado's Trial"
-            },
-            {
-              "id": 72275,
-              "title": "The Three Great Martial Trials"
             }
           ]
         },
@@ -4432,12 +4432,12 @@
               "title": "Cooking, a Pleasant Memory"
             },
             {
-              "id": 73020,
-              "title": "Cooking, the Flavor of Nature"
-            },
-            {
               "id": 73021,
               "title": "Cooking, the Aroma of Homecoming"
+            },
+            {
+              "id": 73020,
+              "title": "Cooking, the Flavor of Nature"
             },
             {
               "id": 73022,
@@ -4500,16 +4500,16 @@
           "chapter_title": "A Long Day in the Mountains: Chapter 1 Paradise",
           "quests": [
             {
+              "id": 76095,
+              "title": "A Day the Grand Temple Inscribed with Ages"
+            },
+            {
               "id": 70067,
               "title": "Unofficial Chronicle of the Desert Pavilion"
             },
             {
               "id": 76089,
               "title": "Long Live Life"
-            },
-            {
-              "id": 76095,
-              "title": "A Day the Grand Temple Inscribed with Ages"
             },
             {
               "id": 76147,
@@ -4582,12 +4582,12 @@
               "title": "Behold, the Sign Comes Like A Thief..."
             },
             {
-              "id": 73225,
-              "title": "For Her Judgment Reaches to the Skies..."
-            },
-            {
               "id": 73264,
               "title": "Make Bright the Arrows, Gather the Shields..."
+            },
+            {
+              "id": 73225,
+              "title": "For Her Judgment Reaches to the Skies..."
             }
           ]
         },
@@ -4596,12 +4596,12 @@
           "chapter_title": "Monumental Study",
           "quests": [
             {
-              "id": 73285,
-              "title": "Monumental Study"
-            },
-            {
               "id": 73330,
               "title": "Investigate the Fatui Camps Marked by Sosi"
+            },
+            {
+              "id": 73285,
+              "title": "Monumental Study"
             }
           ]
         },
@@ -4812,16 +4812,16 @@
           "chapter_title": "Chenyu's Blessings of Sunken Jade",
           "quests": [
             {
-              "id": 71100,
-              "title": "An Ancient Sacrifice of Sacred Brocade"
-            },
-            {
               "id": 71102,
               "title": "Qiaoying of the Sacred Mountain"
             },
             {
               "id": 71103,
               "title": "Floating Jade, Treasure of Chenyu"
+            },
+            {
+              "id": 71100,
+              "title": "An Ancient Sacrifice of Sacred Brocade"
             }
           ]
         },
@@ -4910,16 +4910,16 @@
           "chapter_title": "Between Pledge and Forgettance",
           "quests": [
             {
+              "id": 75019,
+              "title": "Rite of the Bold"
+            },
+            {
               "id": 75000,
               "title": "Lost in the Woods"
             },
             {
               "id": 75002,
               "title": "Revelations from the Past"
-            },
-            {
-              "id": 75019,
-              "title": "Rite of the Bold"
             }
           ]
         },
@@ -9851,16 +9851,16 @@
               "chapter_title": "Secret Summer Paradise: Part I An Invitation From Afar!",
               "quests": [
                 {
-                  "id": 40112,
-                  "title": "A Mysterious Missive on Paper Wings"
-                },
-                {
                   "id": 40113,
                   "title": "Glaze Domain, Multum in Parvo"
                 },
                 {
                   "id": 40114,
                   "title": "Zip Along (According to Safe Cart Operating Procedures)"
+                },
+                {
+                  "id": 40112,
+                  "title": "A Mysterious Missive on Paper Wings"
                 }
               ]
             },
@@ -10369,6 +10369,10 @@
               "chapter_title": "Where Waves Meet the Reef: Part I A Commission From the Curatorium of Secrets",
               "quests": [
                 {
+                  "id": 40236,
+                  "title": "A Commission From the Curatorium of Secrets"
+                },
+                {
                   "id": 40225,
                   "title": "The Infamous Merc Captain"
                 },
@@ -10379,10 +10383,6 @@
                 {
                   "id": 40227,
                   "title": "The Workshop Owner With a Sweet Tooth"
-                },
-                {
-                  "id": 40236,
-                  "title": "A Commission From the Curatorium of Secrets"
                 }
               ]
             },
@@ -10417,12 +10417,12 @@
               "chapter_title": "Whirling Waltz: Act I An Overnight Fantasyland",
               "quests": [
                 {
-                  "id": 40189,
-                  "title": "Business Acumen From the Spina"
-                },
-                {
                   "id": 40194,
                   "title": "An Overnight Fantasyland"
+                },
+                {
+                  "id": 40189,
+                  "title": "Business Acumen From the Spina"
                 }
               ]
             },
@@ -10467,16 +10467,16 @@
               "chapter_title": "Phantasmal Pals: Part I The Forest Boar and the Little Witch",
               "quests": [
                 {
+                  "id": 40228,
+                  "title": "The Forest Boar and the Little Witch"
+                },
+                {
                   "id": 40212,
                   "title": "Dodoco's Bomb-Rally Ruckus"
                 },
                 {
                   "id": 40221,
                   "title": "A Little Walk Home"
-                },
-                {
-                  "id": 40228,
-                  "title": "The Forest Boar and the Little Witch"
                 },
                 {
                   "id": 40232,

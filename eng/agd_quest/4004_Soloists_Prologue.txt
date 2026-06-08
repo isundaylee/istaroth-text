@@ -195,11 +195,10 @@ Paimon: By the way, we were just getting ready to go to the opera house to meet 
 Lyney: So you're going to see Lady Furina? No problem at all. In fact, I was planning to go to the opera house later myself. I'll gladly take you once I finish things here.
 Lyney: Please follow me.
 
-## Talk 4
+## Objective 4
 
 (Follow Lyney)
 
-Etienne: But where would I move to? Snezhnaya? Liyue?
 
 ## Talk 5
 
@@ -382,6 +381,12 @@ Augereau: Ah, alright, I'll take it. I guess I just feel that being "dissolved i
 
 (Talk to Lyney)
 
+Etienne: But where would I move to? Snezhnaya? Liyue?
+
+## Talk 11 (alternative/additional)
+
+(Talk to Lyney)
+
 Galathee: I really can't imagine what it would be like if things changed...
 
 ## Talk 11 (alternative/additional)
@@ -487,19 +492,61 @@ Lyney: But at least we were able to get the stolen items back, so it wasn't a co
 Paimon: What a slippery little thief... Guess things turned out alright in the end though. Lyney's initiative paid off!
 Lyney: Alright, let's put this little detour behind us. We should go to the Court of Fontaine now.
 
-## Talk 19
+## Objective 19
 
 (Ride the aquabus to the Court of Fontaine)
 
-Paimon: Hmm? Hey, we're almost there. Look!
-Charlotte: Well, I really enjoyed chatting with you. Life should be full of pleasant little surprises like this.
-Paimon: Yeah, us as well! The ride went by too quickly.
-Charlotte: Ah! I have an interview to get to. I should get going before I'm late.
-Paimon: Okay, Paimon hopes we can chat again soon, Charlotte. See ya!
-Charlotte: Hehe, bye now. Be sure to stop by and see me at The Steambird when you have time!
-Paimon: What a tough job... always running around and interviewing everyone. Well, where should we go now?
-Lyney: If you don't mind, how about we stop by my home first? Besides, I still have all the materials we collected.
-Paimon: Sure, we wouldn't mind at all. This city is so huge, Paimon wouldn't know where to start anyway.
+
+## Talk 20 (alternative/additional)
+
+(Ride the aquabus to the Court of Fontaine)
+
+Paimon: So we ride this thing to go into the city? What an ingenious way to get around... People in Fontaine really know how to use water.
+Lyney: This is an "aquabus." It allows people to travel between several key locations around Fontaine.
+Lyney: It's pretty convenient, but the ride can become a little dull after a while... the scenery is always the same. That's why it's better to travel with friends.
+Lynette: So you mean it's still boring even when I'm riding with you?
+Lyney: Ah, no, that's not what I meant. It's just that, uh... Well, you don't really talk that much.
+Lyney: Besides, it doesn't really feel like a real trip when it's just the two of us. It's the same as being at home, haha.
+Lynette: Whatever.
+Paimon: Guess that's what it's like to be an older brother...
+Lyney: Hehe, it's about time for us to leave. Let's get onboard.
+Charlotte (???): Oh! Excuse me, aren't you Great Magician Lyney? And his assistant Lynette!
+Lyney: Hello, I don't believe we've—
+Charlotte: I'm Charlotte, a reporter for The Steambird.
+Lyney: Nice to meet you. From The Steambird, huh? We've often relied on your paper to promote our performances.
+Lynette: It's an honor to meet you.
+Charlotte: Wait, could that be the legendary traveler who's been making headline after headline in their journey across Teyvat?
+Traveler: Uh, I guess you could say that.
+Paimon: Amazing, you recognized everybody almost immediately.
+Charlotte: Hehe, I wouldn't be much of a reporter if I didn't know who's who, would I?
+Charlotte: Wow, today must be my day. Who knew I would end up on the same boat as so many VIPs? Could my Vision finally be showing me some favor?
+Paimon: So Charlotte, what do you usually report on?
+Charlotte: Well, when there isn't any breaking news, I mainly cover the trials at the opera house...
+Charlotte: You can still manage to keep readers' attention as long as you tell things from a clever enough angle, even if it's the same old topics.
+Charlotte: For example, reporting on how a scammer once deceived vulnerable girls into relationships, or how a financial criminal was once so poor that they ate a single piece of bread for five days...
+    Option 1:
+        Traveler: That... would definitely get my attention.
+    Option 2:
+        Traveler: Even I want to read those now...
+Charlotte: That's fine and all, but what I'm really after is exclusive, sensational news pieces that could shake the country. These smaller stories are a waste of my talents.
+Charlotte: Oh, I just remembered... I've been following a case lately... well, a series of cases, actually...
+Lynette: You mean the "serial disappearances of young women" case?
+Charlotte: That's right. These stories are the talk of the town right now, and it's probably the most mysterious case we've ever seen.
+Charlotte: If I'm the first with a draft ready to publish when the case is finally cracked, and it's the headline story in The Steambird...
+Charlotte: When that happens, I bet all the other reporters will shed tears of envy. I've already gathered all kinds of materials, I just can't wait for the truth to be revealed.
+Paimon: So what is the "serial disappearances of young women" case? You mean the culprit hasn't been found?
+Charlotte: That's right. The first missing girl case happened almost twenty years ago.
+Charlotte: And ever since, after a period of time, another girl disappears. What the cases have in common is that the girls are all of a similar age, and that they've all vanished without a trace.
+Charlotte: But the scariest part is that to this day, none of the girls have ever been found.
+Charlotte: Many suspects have been arrested over the years in connection with this case. But shortly after each arrest, another disappearance would always happen.
+    Option 1:
+        Traveler: Then there must be more than one criminal at work.
+    Option 2:
+        Traveler: Maybe there are copycat criminals?
+Charlotte: Yes, it's possible. But either way, I believe that every case has some precise truth behind it, waiting to be exposed.
+Lyney: Yes, I agree. And at the very least, the families of those missing girls deserve some sort of explanation.
+Lyney: I just imagined for a second what I would do if Lynette were to suddenly disappear... I'd pay any price to get her back and then find a way to track down the culprit.
+Lynette: Please don't imagine that, Lyney.
 
 ## Talk 20 (variant 1)
 
@@ -595,6 +642,25 @@ Bulletin Board (Bounty Notice): Wanted: Name unknown. Seeking any and all releva
 Bulletin Board (Bounty Notice): Male, Fontainian. One leg is a prosthetic replacement. Known alias: Mr. Sawleg. Has conducted illegal performances at Romaritime Station, resulting in a disruption of public order.
 Bulletin Board (Bounty Notice): Rewards are available for information leading to the capture of this individual. If you have any related information, please contact the Maison Gardiennage.
 
+## Objective 28
+
+(Ride the aquabus to the Court of Fontaine)
+
+
+## Talk 29
+
+(Ride the aquabus to the Court of Fontaine)
+
+Paimon: Hmm? Hey, we're almost there. Look!
+Charlotte: Well, I really enjoyed chatting with you. Life should be full of pleasant little surprises like this.
+Paimon: Yeah, us as well! The ride went by too quickly.
+Charlotte: Ah! I have an interview to get to. I should get going before I'm late.
+Paimon: Okay, Paimon hopes we can chat again soon, Charlotte. See ya!
+Charlotte: Hehe, bye now. Be sure to stop by and see me at The Steambird when you have time!
+Paimon: What a tough job... always running around and interviewing everyone. Well, where should we go now?
+Lyney: If you don't mind, how about we stop by my home first? Besides, I still have all the materials we collected.
+Paimon: Sure, we wouldn't mind at all. This city is so huge, Paimon wouldn't know where to start anyway.
+
 ## Talk 30
 
 Traveler: Continue Reading
@@ -610,55 +676,6 @@ Bulletin Board (Addendum): Arrests made by the Maison Gardiennage are not consid
 (Go to the Court of Fontaine)
 
 Paimon: Sure, we wouldn't mind at all. This city is so huge, Paimon wouldn't know where to start anyway.
-
-## Talk 101
-
-Paimon: So we ride this thing to go into the city? What an ingenious way to get around... People in Fontaine really know how to use water.
-Lyney: This is an "aquabus." It allows people to travel between several key locations around Fontaine.
-Lyney: It's pretty convenient, but the ride can become a little dull after a while... the scenery is always the same. That's why it's better to travel with friends.
-Lynette: So you mean it's still boring even when I'm riding with you?
-Lyney: Ah, no, that's not what I meant. It's just that, uh... Well, you don't really talk that much.
-Lyney: Besides, it doesn't really feel like a real trip when it's just the two of us. It's the same as being at home, haha.
-Lynette: Whatever.
-Paimon: Guess that's what it's like to be an older brother...
-Lyney: Hehe, it's about time for us to leave. Let's get onboard.
-Charlotte (???): Oh! Excuse me, aren't you Great Magician Lyney? And his assistant Lynette!
-Lyney: Hello, I don't believe we've—
-Charlotte: I'm Charlotte, a reporter for The Steambird.
-Lyney: Nice to meet you. From The Steambird, huh? We've often relied on your paper to promote our performances.
-Lynette: It's an honor to meet you.
-Charlotte: Wait, could that be the legendary traveler who's been making headline after headline in their journey across Teyvat?
-Traveler: Uh, I guess you could say that.
-Paimon: Amazing, you recognized everybody almost immediately.
-Charlotte: Hehe, I wouldn't be much of a reporter if I didn't know who's who, would I?
-Charlotte: Wow, today must be my day. Who knew I would end up on the same boat as so many VIPs? Could my Vision finally be showing me some favor?
-Paimon: So Charlotte, what do you usually report on?
-Charlotte: Well, when there isn't any breaking news, I mainly cover the trials at the opera house...
-Charlotte: You can still manage to keep readers' attention as long as you tell things from a clever enough angle, even if it's the same old topics.
-Charlotte: For example, reporting on how a scammer once deceived vulnerable girls into relationships, or how a financial criminal was once so poor that they ate a single piece of bread for five days...
-    Option 1:
-        Traveler: That... would definitely get my attention.
-    Option 2:
-        Traveler: Even I want to read those now...
-Charlotte: That's fine and all, but what I'm really after is exclusive, sensational news pieces that could shake the country. These smaller stories are a waste of my talents.
-Charlotte: Oh, I just remembered... I've been following a case lately... well, a series of cases, actually...
-Lynette: You mean the "serial disappearances of young women" case?
-Charlotte: That's right. These stories are the talk of the town right now, and it's probably the most mysterious case we've ever seen.
-Charlotte: If I'm the first with a draft ready to publish when the case is finally cracked, and it's the headline story in The Steambird...
-Charlotte: When that happens, I bet all the other reporters will shed tears of envy. I've already gathered all kinds of materials, I just can't wait for the truth to be revealed.
-Paimon: So what is the "serial disappearances of young women" case? You mean the culprit hasn't been found?
-Charlotte: That's right. The first missing girl case happened almost twenty years ago.
-Charlotte: And ever since, after a period of time, another girl disappears. What the cases have in common is that the girls are all of a similar age, and that they've all vanished without a trace.
-Charlotte: But the scariest part is that to this day, none of the girls have ever been found.
-Charlotte: Many suspects have been arrested over the years in connection with this case. But shortly after each arrest, another disappearance would always happen.
-    Option 1:
-        Traveler: Then there must be more than one criminal at work.
-    Option 2:
-        Traveler: Maybe there are copycat criminals?
-Charlotte: Yes, it's possible. But either way, I believe that every case has some precise truth behind it, waiting to be exposed.
-Lyney: Yes, I agree. And at the very least, the families of those missing girls deserve some sort of explanation.
-Lyney: I just imagined for a second what I would do if Lynette were to suddenly disappear... I'd pay any price to get her back and then find a way to track down the culprit.
-Lynette: Please don't imagine that, Lyney.
 
 ## Talk 102
 

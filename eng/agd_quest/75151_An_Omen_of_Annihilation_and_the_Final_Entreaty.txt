@@ -5,22 +5,10 @@
 To enter the Heart of the Sacred Mountain, one need only offer up two Golden Entreaties... That should dispel the Flamelord's Blessing that presently affects your saurian buddy...
 
 
-## Talk 13
+## Objective 13
 
 (Head to the device at the center of the Heart of the Sacred Mountain)
 
-Kukulkan (One Who Speaks Coldly): At this rate, the disordered power will devour your frail body utterly.
-Kukulkan (One Who Speaks Coldly): Even so, you surprise me... I did not expect that you could use the power within your blood to such an extent without having received the proper guidance...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: ...?
-Kukulkan (One Who Speaks Coldly): Come, accept the guidance of the true Sacred Flame. Let the power bear you up, rather than use your body to bear this power.
-Kukulkan (One Who Speaks Coldly): Come forth—
-Kukulkan (One Who Speaks Coldly): Long have I awaited you, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons.
-Black Screen Text: As the light floats around you, the rampaging power within your body seems to circulate, submitting to some ever-shifting cycle.
-Your body seems to adapt to this change...
-Black Screen Text: It is just like the moment when you gained wisdom from the liquid Phlogiston you immersed yourself in.
-Countless images flow into your mind, following the circulating power, almost as if they are being reassembled and read out to you.
-Black Screen Text: "Come, I have something to show you."
-The speaker's voice seems immeasurably distant, and after that, both your body and consciousness fall into a white abyss...
 
 ## Talk 14 (alternative/additional)
 
@@ -43,6 +31,14 @@ Enter the Light (Huitzilopochtli): Ignite the Sacred Flame to cleanse creation.
 
 (Enter the light)
 
+Traveler: Perhaps we should prepare a bit first.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrroar...
+Paimon: Oh, good point...
+
+## Talk 16 (alternative/additional)
+
+(Enter the light)
+
 Paimon: #So, once we're in there, we can activate the Sacred Flame and cure {REALNAME[ID(2)|SHOWHOST(true)]}...
 Paimon: That way, he'll be able to grow up healthy, right?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -50,6 +46,12 @@ Paimon: Thinking back on it, we sure have done tons of stuff on this journey... 
 Paimon: We even had a bust-up with Och-Kan, that super famous tyrant... Well, he turned out to be Coco in the end, and not as bad a guy as we thought...
 Paimon: And come to think of it, all that Sage of the Stolen Flame stuff was kinda weird, but...
 Paimon: Heh, whatever. Let's get going!
+
+## Talk 16 (alternative/additional)
+
+(Enter the light)
+
+Paimon: Alright, then. Are we heading into the Heart of the Sacred Mountain now?
 
 ## Talk 16
 
@@ -64,94 +66,52 @@ Paimon: Hehe, don't you worry. C'mon, let's go!
 (Explore up ahead)
 
 
-## Talk 18
+## Objective 18
 
 (Explore up ahead)
 
-Kukulkan: This is a tower that allows Huitzilopochtli to cover all Natlan and anchor its areas of coverage...
-Kukulkan: Most of them were destroyed at Och-Kan's orders, but their fragments serve the same purpose anyway.
-Kukulkan: They never imagined that the carrier medium was something far smaller and more delicate, to the point that even a single stone could contain Iridescent Inscriptions...
-Kukulkan: Had they found out, my plans now would have been rendered impossible.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: On Tonatiuh...
-Kukulkan: A place where I stored the Golden Entreaty, alongside this place.
-Kukulkan: ...I once believed that humanity could create a civilization still more glorious. After Xbalanque's apotheosis, I even thought that they might avoid the dead end we walked into.
-Kukulkan: So I decided to give them more time.
-Kukulkan: But... Too many years have gone by.
-Kukulkan: None amongst the tribes have even dared — not since Och-Kan — to establish a united empire.
-Kukulkan: Until today, they lean on the authority of their so-called "Archon" like a crutch... They were unable to forge weapons for themselves to wield, such that their world might be defended from the all-corrupting dark.
-Kukulkan: Their way of fighting against the great shadow... still lies in their stale stories of heroic valor, passed from generation to generation.
-Kukulkan: So consumed are they with the past that they dare not risk it all.
-Kukulkan: Each time our foe strikes from the shadows, the slowly accumulated fruits of civilization are destroyed all in an instant, and afterward, there is only the eternal cycle, or worse, inexorable devolution...
-Kukulkan: The time I granted as grace has lost all meaning as a result.
-Kukulkan: Perhaps if I gave them a few thousand years more, perhaps several tens of thousands, they will create that glorious, shining epoch, but my faith has run out.
-Kukulkan: And waiting... Waiting has become a luxury, whether it be for me, or this once-sealed Sacred City.
-Kukulkan: Come. This story is almost at its end.
-Kukulkan: Let me witness your choice.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Mine?
-Kukulkan: Yes, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons. I would hear your answer.
 
-## Talk 20
+## Objective 19
 
 (Explore up ahead)
 
-Kukulkan: Behold, Huitzilopochtli... and its activation array.
-Kukulkan: Bring it to life. This way, our shadowy enemy may never again gain a foothold upon this place... And afterward, via the gradual expansion of the primal flame's power...
-Kukulkan: ...Just like when a complete bubble is blown within the leaking husk of an old one...
-Kukulkan: ...Perhaps the entire world shall become free from Abyssal poison.
-Kukulkan: But the authority over primal flame...
-Kukulkan: When Natlan is fully phlogistonized, the very concept of life will be rewritten. That authority will then return naturally.
-Kukulkan: Only draconic phlogiston lifeforms may wield this authority. As such, you can become the shaper of this "new world." You can also become the Pyro Dragon Sovereign renewed.
-Kukulkan: ...No, I suspect that any such rulership would be something entirely new, surpassing our traditional conceptions.
-Kukulkan: Then, you shall reclaim all light, all heat, all wisdom, bringing all order and great glory back to this realm — even to this world.
-Kukulkan: Even if doing so means the end of evolution?
-Kukulkan: Who knows? Perhaps it will instead prove the beginning of a new evolutionary cycle. Stopping on the path leading onward can be another form of bravery, especially when the alternative is infinite regression.
-Kukulkan: Now then, choose. Activate Huitzilopochtli.
-Kukulkan: (Draw near... and then feel...)
-Kukulkan (#{REALNAME[ID(2)|SHOWHOST(true)]}): #No, wait! Traveler...
-Kukulkan: Oh my. And here I thought you wouldn't be able to remember them.
-Kukulkan: Never mind how your mind now has at least a thousand years' worth of memories within it... I also intended for you to make your decision while having forgotten them.
-Kukulkan: #Traveler was never meant to have existed here — though of course, it was precisely due to his aid that you were able to reach this place.
-Kukulkan: #He is, however, rather special... It may be that the phlogistonization of Natlan will not affect him...
-Kukulkan: It "may be"...!?
-Kukulkan: No one knows what will happen once it is activated... Perhaps there shall then be no difference between you and me. Perhaps we shall both be destroyed.
-Kukulkan: #Perhaps he and that little emissary by his side will live. Perhaps they will not.
-Kukulkan: ...Hah, enough of that. Time is short. We do not have much excess energy left to also maintain those of our kind who have already become phlogiston lifeforms.
-Kukulkan: If we do not obtain the authority over the primal flame in time, all shall soon perish. And once that moment comes, choice itself will be lost to us.
-Kukulkan: Quickly... Choose, O Chosen of Dragons!
-Kukulkan (Huitzilopochtli): "This is an omen of new life, and also the final entreaty"—
-Kukulkan (Huitzilopochtli): Entering trigger sequence. Three rounds of confirmations will be required to either activate or deactivate the Sweeping{RUBY#[D]Sunquake} Skyfire...
-Kukulkan (Huitzilopochtli): First confirmation. Are you certain that you wish to activate Huitzilopochtli?
+
+## Objective 20
+
+(Explore up ahead)
+
 
 ## Objective 21
 
 (Defeat the Source Dragon Mech)
 
 
-## Talk 22
+## Objective 22
 
 (Defeat the Source Dragon Mech)
 
-Paimon: Well, that was weird. All that shaking, and all the volcano did was blow off just a little smoke...
-Paimon: We ran ourselves silly just for that!?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
-Paimon: Not that you had to run — we grabbed you and booked it... Still, you gave us quite the fright, fainting the way you did after the battle! Are you still feeling unwell?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Hehe, sure sounds like the worst is over.
-Paimon: #Anyway, so, is that Flamelord's Blessing gone now? But {REALNAME[ID(2)|SHOWHOST(true)]} still has that mark on his head...
-Traveler: (Reach out to the little Tepetlisaurus...)
-Black Screen Text: As you reach out your hand, he stands up straight on his hind legs, rubbing his horn gently against your palm.
-Black Screen Text: The mark, red as flame itself, has dimmed and cooled, no longer concealing that faint warmth.
-It seems that whatever power it once had is gone now.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: Paimon can't help but feel like you were a bit smarter while you were bigger just now...
-Paimon: Now, you... Well, you're back to looking a bit silly.
-Traveler: True, but he's *our* silly little guy. I like him just the way he is.
-Paimon: Well, yeah, but still!
-Paimon: Anyway, who'd have thought that we'd remove that Flamelord's Blessing, huh? We might just be on our way to writing ourselves a new legend, hehe!
-Paimon: All this adventuring's made Paimon hungry, though... Should we go get some Blazed Meat Stew, or maybe a little cake...?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr? ...Grooar, mrrraa... Rawr! Rawr!
-Paimon: You wanna eat both? Pfft, you greedy little saurian!
-Paimon: But today's a day to celebrate, so sure — let's go right now!
+
+## Objective 32
+
+(Save your companions)
+
+
+## Talk 33
+
+(Talk to the guide who has now emerged)
+
+Kukulkan (One Who Speaks Coldly): At this rate, the disordered power will devour your frail body utterly.
+Kukulkan (One Who Speaks Coldly): Even so, you surprise me... I did not expect that you could use the power within your blood to such an extent without having received the proper guidance...
+#{REALNAME[ID(2)|SHOWHOST(true)]}: ...?
+Kukulkan (One Who Speaks Coldly): Come, accept the guidance of the true Sacred Flame. Let the power bear you up, rather than use your body to bear this power.
+Kukulkan (One Who Speaks Coldly): Come forth—
+Kukulkan (One Who Speaks Coldly): Long have I awaited you, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons.
+Black Screen Text: As the light floats around you, the rampaging power within your body seems to circulate, submitting to some ever-shifting cycle.
+Your body seems to adapt to this change...
+Black Screen Text: It is just like the moment when you gained wisdom from the liquid Phlogiston you immersed yourself in.
+Countless images flow into your mind, following the circulating power, almost as if they are being reassembled and read out to you.
+Black Screen Text: "Come, I have something to show you."
+The speaker's voice seems immeasurably distant, and after that, both your body and consciousness fall into a white abyss...
 
 ## Objective 34
 
@@ -266,11 +226,68 @@ Kukulkan: Perhaps he paid the price for this death delayed, or perhaps this was 
 Kukulkan: Whatever the case, he knew what Huitzilopochtli was, and naturally, my alliance with him through Och-Kan was meant to prevent its activation.
 Kukulkan: Enter, then, the Golden Entreaties — the control hub that could be used to reactivate this place, split in two between us for safekeeping.
 
-## Talk 47
+## Talk 46
+
+(Speak to the one who names themselves "Kukulkan")
+
+Kukulkan: This is a tower that allows Huitzilopochtli to cover all Natlan and anchor its areas of coverage...
+Kukulkan: Most of them were destroyed at Och-Kan's orders, but their fragments serve the same purpose anyway.
+Kukulkan: They never imagined that the carrier medium was something far smaller and more delicate, to the point that even a single stone could contain Iridescent Inscriptions...
+Kukulkan: Had they found out, my plans now would have been rendered impossible.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: On Tonatiuh...
+Kukulkan: A place where I stored the Golden Entreaty, alongside this place.
+Kukulkan: ...I once believed that humanity could create a civilization still more glorious. After Xbalanque's apotheosis, I even thought that they might avoid the dead end we walked into.
+Kukulkan: So I decided to give them more time.
+Kukulkan: But... Too many years have gone by.
+Kukulkan: None amongst the tribes have even dared — not since Och-Kan — to establish a united empire.
+Kukulkan: Until today, they lean on the authority of their so-called "Archon" like a crutch... They were unable to forge weapons for themselves to wield, such that their world might be defended from the all-corrupting dark.
+Kukulkan: Their way of fighting against the great shadow... still lies in their stale stories of heroic valor, passed from generation to generation.
+Kukulkan: So consumed are they with the past that they dare not risk it all.
+Kukulkan: Each time our foe strikes from the shadows, the slowly accumulated fruits of civilization are destroyed all in an instant, and afterward, there is only the eternal cycle, or worse, inexorable devolution...
+Kukulkan: The time I granted as grace has lost all meaning as a result.
+Kukulkan: Perhaps if I gave them a few thousand years more, perhaps several tens of thousands, they will create that glorious, shining epoch, but my faith has run out.
+Kukulkan: And waiting... Waiting has become a luxury, whether it be for me, or this once-sealed Sacred City.
+Kukulkan: Come. This story is almost at its end.
+Kukulkan: Let me witness your choice.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Mine?
+Kukulkan: Yes, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons. I would hear your answer.
+
+## Objective 47
 
 (Go to Huitzilopochtli's location)
 
-Paimon: Alright, then. Are we heading into the Heart of the Sacred Mountain now?
+
+## Talk 48 (alternative/additional)
+
+(Make your final decision)
+
+Kukulkan: Behold, Huitzilopochtli... and its activation array.
+Kukulkan: Bring it to life. This way, our shadowy enemy may never again gain a foothold upon this place... And afterward, via the gradual expansion of the primal flame's power...
+Kukulkan: ...Just like when a complete bubble is blown within the leaking husk of an old one...
+Kukulkan: ...Perhaps the entire world shall become free from Abyssal poison.
+Kukulkan: But the authority over primal flame...
+Kukulkan: When Natlan is fully phlogistonized, the very concept of life will be rewritten. That authority will then return naturally.
+Kukulkan: Only draconic phlogiston lifeforms may wield this authority. As such, you can become the shaper of this "new world." You can also become the Pyro Dragon Sovereign renewed.
+Kukulkan: ...No, I suspect that any such rulership would be something entirely new, surpassing our traditional conceptions.
+Kukulkan: Then, you shall reclaim all light, all heat, all wisdom, bringing all order and great glory back to this realm — even to this world.
+Kukulkan: Even if doing so means the end of evolution?
+Kukulkan: Who knows? Perhaps it will instead prove the beginning of a new evolutionary cycle. Stopping on the path leading onward can be another form of bravery, especially when the alternative is infinite regression.
+Kukulkan: Now then, choose. Activate Huitzilopochtli.
+Kukulkan: (Draw near... and then feel...)
+Kukulkan (#{REALNAME[ID(2)|SHOWHOST(true)]}): #No, wait! Traveler...
+Kukulkan: Oh my. And here I thought you wouldn't be able to remember them.
+Kukulkan: Never mind how your mind now has at least a thousand years' worth of memories within it... I also intended for you to make your decision while having forgotten them.
+Kukulkan: #Traveler was never meant to have existed here — though of course, it was precisely due to his aid that you were able to reach this place.
+Kukulkan: #He is, however, rather special... It may be that the phlogistonization of Natlan will not affect him...
+Kukulkan: It "may be"...!?
+Kukulkan: No one knows what will happen once it is activated... Perhaps there shall then be no difference between you and me. Perhaps we shall both be destroyed.
+Kukulkan: #Perhaps he and that little emissary by his side will live. Perhaps they will not.
+Kukulkan: ...Hah, enough of that. Time is short. We do not have much excess energy left to also maintain those of our kind who have already become phlogiston lifeforms.
+Kukulkan: If we do not obtain the authority over the primal flame in time, all shall soon perish. And once that moment comes, choice itself will be lost to us.
+Kukulkan: Quickly... Choose, O Chosen of Dragons!
+Kukulkan (Huitzilopochtli): "This is an omen of new life, and also the final entreaty"—
+Kukulkan (Huitzilopochtli): Entering trigger sequence. Three rounds of confirmations will be required to either activate or deactivate the Sweeping{RUBY#[D]Sunquake} Skyfire...
+Kukulkan (Huitzilopochtli): First confirmation. Are you certain that you wish to activate Huitzilopochtli?
 
 ## Talk 48 (alternative/additional)
 
@@ -351,25 +368,21 @@ Kukulkan: ...
 (Step out onto the path you have created)
 
 
-## Talk 50
-
-(Return to your companions)
-
-Kukulkan: So, this is as far as the maintenance functions go. I thought your technical skills could have taken us a bit further.
-Kukulkan: Still, I... I finally understand how you felt, Xiuhcoatl, my great brother.
-Kukulkan: I now know what it means to come to the end of one's days... To yearn to see this one thing done, or to receive that single clear answer — and to be willing to do anything to accomplish these goals.
-Kukulkan: ...I imagine you'd scold me. Why are the things I say and do always worlds apart?
-Kukulkan: If I had truly wished for a dragon to activate that system, should I not have raised them within the Sacred City, teaching them to hate this world? Why did I send them to be by a human's side?
-Kukulkan: Perhaps... deep down, I still wished... to believe.
-Kukulkan: But look. Isn't it wonderful? It made the same choice I made back then — and Och-Kan too, for that matter.
-Kukulkan: ...My king, my elder brother, O lord who gave me life on the day you yourself were born... You once said that in my final moments, I would understand your desire.
-Kukulkan: Haha, but it seems that on this point alone, I cannot concede...
-
-## Talk 51
+## Talk 50 (alternative/additional)
 
 (Return to your companions)
 
 Kukulkan: ...
+
+## Objective 50
+
+(Return to your companions)
+
+
+## Objective 51
+
+(Return to your companions)
+
 
 ## Objective 52
 
@@ -389,13 +402,10 @@ Paimon: Could it be that...
 Paimon: Careful! This fight isn't over yet!
 Paimon: Oh, right, and there's still that big guy!
 
-## Talk 54
+## Objective 54
 
 (Defeat the Source Dragon Mech)
 
-Traveler: Perhaps we should prepare a bit first.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrroar...
-Paimon: Oh, good point...
 
 ## Objective 63
 
@@ -441,6 +451,46 @@ Kukulkan: Perhaps... deep down, I still wished... to believe.
 Kukulkan: But look. Isn't it wonderful? It made the same choice I made back then — and Och-Kan too, for that matter.
 Kukulkan: ...My king, my elder brother, O lord who gave me life on the day you yourself were born... You once said that in my final moments, I would understand your desire.
 Kukulkan: Haha, but it seems that on this point alone, I cannot concede...
+
+## Talk 65
+
+(Talk to your companions)
+
+Kukulkan: So, this is as far as the maintenance functions go. I thought your technical skills could have taken us a bit further.
+Kukulkan: Still, I... I finally understand how you felt, Xiuhcoatl, my great brother.
+Kukulkan: I now know what it means to come to the end of one's days... To yearn to see this one thing done, or to receive that single clear answer — and to be willing to do anything to accomplish these goals.
+Kukulkan: ...I imagine you'd scold me. Why are the things I say and do always worlds apart?
+Kukulkan: If I had truly wished for a dragon to activate that system, should I not have raised them within the Sacred City, teaching them to hate this world? Why did I send them to be by a human's side?
+Kukulkan: Perhaps... deep down, I still wished... to believe.
+Kukulkan: But look. Isn't it wonderful? It made the same choice I made back then — and Och-Kan too, for that matter.
+Kukulkan: ...My king, my elder brother, O lord who gave me life on the day you yourself were born... You once said that in my final moments, I would understand your desire.
+Kukulkan: Haha, but it seems that on this point alone, I cannot concede...
+
+## Talk 66
+
+(Talk to your companions)
+
+Paimon: Well, that was weird. All that shaking, and all the volcano did was blow off just a little smoke...
+Paimon: We ran ourselves silly just for that!?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+Paimon: Not that you had to run — we grabbed you and booked it... Still, you gave us quite the fright, fainting the way you did after the battle! Are you still feeling unwell?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: Hehe, sure sounds like the worst is over.
+Paimon: #Anyway, so, is that Flamelord's Blessing gone now? But {REALNAME[ID(2)|SHOWHOST(true)]} still has that mark on his head...
+Traveler: (Reach out to the little Tepetlisaurus...)
+Black Screen Text: As you reach out your hand, he stands up straight on his hind legs, rubbing his horn gently against your palm.
+Black Screen Text: The mark, red as flame itself, has dimmed and cooled, no longer concealing that faint warmth.
+It seems that whatever power it once had is gone now.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: Paimon can't help but feel like you were a bit smarter while you were bigger just now...
+Paimon: Now, you... Well, you're back to looking a bit silly.
+Traveler: True, but he's *our* silly little guy. I like him just the way he is.
+Paimon: Well, yeah, but still!
+Paimon: Anyway, who'd have thought that we'd remove that Flamelord's Blessing, huh? We might just be on our way to writing ourselves a new legend, hehe!
+Paimon: All this adventuring's made Paimon hungry, though... Should we go get some Blazed Meat Stew, or maybe a little cake...?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr? ...Grooar, mrrraa... Rawr! Rawr!
+Paimon: You wanna eat both? Pfft, you greedy little saurian!
+Paimon: But today's a day to celebrate, so sure — let's go right now!
 
 ## Associated Free Talks
 

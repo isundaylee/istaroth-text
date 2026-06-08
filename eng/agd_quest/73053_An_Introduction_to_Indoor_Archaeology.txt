@@ -23,7 +23,31 @@ Black Screen Text: While Tirzad is resting, the rest set up a campsite.
 
 (Go high up to look for Jebrael)
 
+Tirzad: I wonder if a paper can be written from Benben and Jeht's interactions... But which field would it belong to?
+
+## Talk 3 (alternative/additional)
+
+(Go high up to look for Jebrael)
+
+Nachtigal: Let's take this opportunity to inspect our supplies... We've gotta use the Dusk Bird to send Bonifaz a letter and tell him we're safe now.
+
+## Talk 3 (alternative/additional)
+
+(Go high up to look for Jebrael)
+
 Jeht: Father seems a little... Maybe he's recalled his past life in the desert. If only he'd tell us some stories of his past at night.
+
+## Talk 3 (alternative/additional)
+
+(Go high up to look for Jebrael)
+
+Benben: Beep... Bee-eep?
+
+## Talk 3 (alternative/additional)
+
+(Go high up to look for Jebrael)
+
+Omid: Phew, finally got the chance to put my feet up. I should really plan ahead for my next job now...
 
 ## Talk 3 (alternative/additional)
 
@@ -50,14 +74,10 @@ Traveler: Well, its value to whom?
 Jebrael: ...To our employer, of course. After all, he is depending on it to write his paper.
 Jebrael: Anyway, let's head back. We shouldn't keep Jeht and the others waiting for too long.
 
-## Talk 4
+## Objective 4
 
 (Return to the campsite)
 
-Jebrael: ...
-Traveler: Jebrael, what do you think about these ruins?
-Jebrael: You should ask Tirzad. He's the professional here.
-Jebrael: ...I'm just a brute. All I know about King Deshret are old stories that no one wishes to hear.
 
 ## Talk 5
 
@@ -214,7 +234,47 @@ Jebrael: Let's advance with caution.
 Tirzad: #Oh, I know. We should be fine if we stay close to Traveler, right...?
 Paimon: #C'mon, Traveler, let's get moving!
 
-## Talk 8
+## Talk 9 (alternative/additional)
+
+(Proceed deeper within Khemenu Temple)
+
+Jeht: Benben seems to know this place well, and for some reason, "doors" seem to hold a special place in its heart?
+    Option 1:
+        Traveler: Maybe it's a bizarrely-shaped key?
+        Jeht: But if that's true, then which door is its pair?
+        Benben: Beep?
+    Option 2:
+        Traveler: Benben has three corners, and so do the doors here...
+        Jeht: #So Benben's the type that's drawn to something similar to itself, huh? Traveler, no wonder they say you're an experienced adventurer — you observe everything in such detail.
+        Benben: Beep. Bee-eep!
+
+## Talk 9 (alternative/additional)
+
+(Proceed deeper within Khemenu Temple)
+
+Tirzad: There still hasn't been anything worth writing about... Would Benben come if I tried to take it back with me?
+    Option 1:
+        Traveler: I think it would rather stay here.
+        Tirzad: Hey, now you're acting just like Jeht. That thing... Ahem, I mean Benben, can only prove its true worth when it becomes research material for me.
+    Option 2:
+        Traveler: Wouldn't you have to change your research topic?
+        Tirzad: Oh, right! It was the clues on the Stone Slate that led me here. How did I stray so far off my plan?
+
+## Talk 9 (alternative/additional)
+
+(Proceed deeper within Khemenu Temple)
+
+Jebrael: ...
+Traveler: Jebrael, what do you think about these ruins?
+Jebrael: You should ask Tirzad. He's the professional here.
+Jebrael: ...I'm just a brute. All I know about King Deshret are old stories that no one wishes to hear.
+
+## Objective 9
+
+(Proceed deeper within Khemenu Temple)
+
+
+## Talk 10
 
 Paimon: Hmm, Benben's been milling around the door, but nothing's happening this time.
 Benben: Beep... Beep beep...
@@ -262,41 +322,6 @@ Tirzad: King Deshret's civilization fell due to tyranny, and this place is proba
 Jeht: Uh, Tirzad, do you and King Deshret have...
 Jebrael: Jeht.
 Jeht: Oh, alright! Nachtigal and the others are still waiting for us at the oasis. Let's continue exploring!
-
-## Talk 9 (alternative/additional)
-
-(Proceed deeper within Khemenu Temple)
-
-Jeht: Benben seems to know this place well, and for some reason, "doors" seem to hold a special place in its heart?
-    Option 1:
-        Traveler: Maybe it's a bizarrely-shaped key?
-        Jeht: But if that's true, then which door is its pair?
-        Benben: Beep?
-    Option 2:
-        Traveler: Benben has three corners, and so do the doors here...
-        Jeht: #So Benben's the type that's drawn to something similar to itself, huh? Traveler, no wonder they say you're an experienced adventurer — you observe everything in such detail.
-        Benben: Beep. Bee-eep!
-
-## Talk 9 (alternative/additional)
-
-(Proceed deeper within Khemenu Temple)
-
-Tirzad: There still hasn't been anything worth writing about... Would Benben come if I tried to take it back with me?
-    Option 1:
-        Traveler: I think it would rather stay here.
-        Tirzad: Hey, now you're acting just like Jeht. That thing... Ahem, I mean Benben, can only prove its true worth when it becomes research material for me.
-    Option 2:
-        Traveler: Wouldn't you have to change your research topic?
-        Tirzad: Oh, right! It was the clues on the Stone Slate that led me here. How did I stray so far off my plan?
-
-## Objective 9
-
-(Proceed deeper within Khemenu Temple)
-
-
-## Talk 11
-
-Benben: Beep... Bee-eep?
 
 ## Objective 12
 
@@ -385,17 +410,15 @@ Jeht: #Then you'd better be careful, Traveler. Father, let's prepare for battle 
 Tirzad: What are all of you talking about? The researcher's intuition I mentioned is based on vast knowledge and careful observation. It's akin to a flash of genius!
 Tirzad: But what you've said does make sense. My consideration is lacking in that aspect. Well, if there's danger... I'll be counting on all of you to do the jobs I hired you for, then.
 
-## Talk 21
+## Objective 21
 
 (Ride the elevator)
 
-Omid: Phew, finally got the chance to put my feet up. I should really plan ahead for my next job now...
 
-## Talk 22
+## Objective 22
 
 (Enter the room located deep within)
 
-Nachtigal: Let's take this opportunity to inspect our supplies... We've gotta use the Dusk Bird to send Bonifaz a letter and tell him we're safe now.
 
 ## Talk 23
 
@@ -455,10 +478,6 @@ Tirzad: Whatever it is, it isn't my fault!
 Traveler: This path looks like it leads upward.
 Jebrael: I don't see any traps.
 Paimon: Paimon wonders where it leads... But staying here won't change anything either, so let's continue, shall we?
-
-## Talk 54
-
-Tirzad: I wonder if a paper can be written from Benben and Jeht's interactions... But which field would it belong to?
 
 ## Additional Conversations
 

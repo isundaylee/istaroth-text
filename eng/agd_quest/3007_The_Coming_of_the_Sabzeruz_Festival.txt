@@ -5,9 +5,14 @@
 The Sabzeruz Festival is about to begin. As agreed, you return to Sumeru City to find Dunyarzad and take part in the festival together.
 
 
-## Talk 1
+## Objective 1
 
 (Go to Sumeru City)
+
+
+## Talk 2
+
+(Find Dunyarzad)
 
 Paimon: There she is! Dunyarzad, we're back!
 Dunyarzad: Just as promised, Traveler and Paimon! I'm so glad that you two came back to celebrate Lesser Lord Kusanali's birthday.
@@ -81,11 +86,10 @@ Paimon: You've worked so hard for this day. You gotta enjoy it to the fullest!
 Dunyarzad: Hehe, you know it! It's just that... as expected, I had some trouble falling asleep last night. I'm hoping my body won't be too much of an issue today.
 Dunyarzad: Well, shall we? Let's start with the stalls over there.
 
-## Talk 6
+## Objective 6
 
 (Follow Dunyarzad)
 
-Vihar: Atten-tion! Young soldiers, are you here to join our ranks?
 
 ## Talk 7 (alternative/additional)
 
@@ -120,9 +124,25 @@ Paimon: Why does everything sound so much more credible when Dunyarzad says it? 
 Kimiya: So that's the true wisdom behind it! This young lady sure knows her stuff. So, how about it? Want to give it a try?
 Traveler: Alright, I guess I can give it a go.
 
-## Talk 7
+## Objective 7
 
 (Talk to Dunyarzad)
+
+
+## Talk 8 (alternative/additional)
+
+(Give the divination materials to Kimiya)
+
+Kimiya: So, how about it? Want to give it a try?
+
+## Objective 8
+
+(Give the divination materials to Kimiya)
+
+
+## Talk 9
+
+(Talk to Kimiya)
 
 Kimiya: Okay, one moment... Hmm... It's the Moon.
 Paimon: Paimon wants to take a look too... Is it...? It looks more like a pie that Paimon bit into.
@@ -136,14 +156,27 @@ Dunyarzad: ...Naturally, fate will only ever show you the beginning of a journey
 Kimiya: Oh, it's nothing. I'm just learning as I go, haha... ha...
 Paimon: Guess that was still pretty interesting. Okay, on to the next stall.
 
-## Objective 8
-
-(Give the divination materials to Kimiya)
-
-
-## Talk 10
+## Objective 10
 
 (Follow Dunyarzad)
+
+
+## Talk 11 (alternative/additional)
+
+(Talk to Dunyarzad)
+
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
+
+## Talk 11 (alternative/additional)
+
+(Talk to Dunyarzad)
+
+Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+
+## Talk 11 (alternative/additional)
+
+(Talk to Dunyarzad)
 
 Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
 Paimon: Whoa... Ugh, okay.
@@ -248,46 +281,61 @@ Dunyarzad: Can you come with me to get it?
 Paimon: Dunyarzad, you probably forgot because you're so excited about the Sabzeruz Festival!
 Dunyarzad: Haha, how embarrassing.
 
-## Talk 12
-
-Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
-Paimon: Whoa... Ugh, okay.
-
-## Talk 13
-
-Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
-Paimon: Whoa... Ugh, okay.
-
-## Talk 14
-
-Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
-
-## Talk 15
-
-Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
-
-## Talk 16
-
-Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
-
-## Talk 17
-
-Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
-Paimon: Whoa... Ugh, okay.
-
-## Talk 18
-
-Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
-Paimon: Whoa... Ugh, okay.
-
-## Talk 19
-
-Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
-Paimon: Whoa... Ugh, okay.
-
-## Talk 21
+## Objective 21
 
 (Return to the nearby quarters)
+
+
+## Talk 22
+
+(Talk to the Eremites)
+
+Badis: ...Tch, we're too late. Who knew the little lady was such an early riser.
+Idder: I know, right... Hey, wait a minute. Boss, isn't that her?
+Badis: Oh, that most certainly is! We're in luck. She's walking right into our clutches.
+Paimon: Those Eremites don't look like they're up to any good...
+Dunyarzad: ...Who are you? I don't believe the Homayanis hired you?
+Badis: Heh, that's right. We haven't received any of their Mora, but... I wonder how much the Homayanis would shell out to get you back?
+Paimon: They're a gang of kidnappers! Traveler, hurry and protect Dunyarzad!
+    Option 1:
+        Traveler: We'll be fine...
+    Option 2:
+        Traveler: Professional here, ready to go.
+Dehya: Hey! Did you scumbags even consider that the Homayanis might've hired a merc that outclasses you?
+Badis: You're... Dehya!? Dehya the Flame-Mane... No wonder we mercs haven't heard anything about you for so long. You sold your unruly mane to the highest bidder.
+Dunyarzad: Don't speak so disrespectfully. My family started working with her as gratitude for her past kindness to us...
+Dehya: Don't worry about it, my lady. Just some friendly banter between mercs. One punch and those rabid dogs will expose themselves for what they really are.
+Badis: Hmph, aren't your claws all dull by now? Don't get too cocky!
+Dehya: Traveler, take Miss Dunyarzad to a safe location.
+Paimon: No, we're gonna stay and help. There's too many of them!
+    Option 1:
+        Traveler: We can't guarantee anyone's safety here.
+    Option 2:
+        Traveler: Dehya's top priority is her employer's safety.
+Paimon: Hm... You're right. Alright, fine!
+Dunyarzad: Please be careful, Dehya.
+Dehya: Don't waste your time worrying about me — this is my job. Look out for yourself. After I've wiped the floor with them, I'll go find you all.
+
+## Objective 23
+
+(Escape within the time limit)
+
+
+## Talk 24 (alternative/additional)
+
+(Talk to Dunyarzad)
+
+Amal: I picked all of these from the forest yesterday, so their freshness is guaranteed!
+
+## Talk 24 (alternative/additional)
+
+(Talk to Dunyarzad)
+
+Kimiya: The diviner's interpretation is the most important part of alchemical divination. I just consulted the book to make sure you got the correct message.
+
+## Talk 24
+
+(Talk to Dunyarzad)
 
 Dunyarzad: *cough* *cough*
 Paimon: Dunyarzad, are you okay? You look a little pale. Are you in shock?
@@ -328,94 +376,36 @@ Dehya: My lady, your condition... Traveler, can you take her somewhere to rest? 
         Traveler: Leave it to me.
 Dunyarzad: Truly... I'm sorry for the trouble, everyone...
 
-## Talk 22
+## Objective 25
 
-(Talk to the Eremites)
+(Take Dunyarzad somewhere nearby and rest)
 
-Badis: ...Tch, we're too late. Who knew the little lady was such an early riser.
-Idder: I know, right... Hey, wait a minute. Boss, isn't that her?
-Badis: Oh, that most certainly is! We're in luck. She's walking right into our clutches.
-Paimon: Those Eremites don't look like they're up to any good...
-Dunyarzad: ...Who are you? I don't believe the Homayanis hired you?
-Badis: Heh, that's right. We haven't received any of their Mora, but... I wonder how much the Homayanis would shell out to get you back?
-Paimon: They're a gang of kidnappers! Traveler, hurry and protect Dunyarzad!
-    Option 1:
-        Traveler: We'll be fine...
-    Option 2:
-        Traveler: Professional here, ready to go.
-Dehya: Hey! Did you scumbags even consider that the Homayanis might've hired a merc that outclasses you?
-Badis: You're... Dehya!? Dehya the Flame-Mane... No wonder we mercs haven't heard anything about you for so long. You sold your unruly mane to the highest bidder.
-Dunyarzad: Don't speak so disrespectfully. My family started working with her as gratitude for her past kindness to us...
-Dehya: Don't worry about it, my lady. Just some friendly banter between mercs. One punch and those rabid dogs will expose themselves for what they really are.
-Badis: Hmph, aren't your claws all dull by now? Don't get too cocky!
-Dehya: Traveler, take Miss Dunyarzad to a safe location.
-Paimon: No, we're gonna stay and help. There's too many of them!
-    Option 1:
-        Traveler: We can't guarantee anyone's safety here.
-    Option 2:
-        Traveler: Dehya's top priority is her employer's safety.
-Paimon: Hm... You're right. Alright, fine!
-Dunyarzad: Please be careful, Dehya.
-Dehya: Don't waste your time worrying about me — this is my job. Look out for yourself. After I've wiped the floor with them, I'll go find you all.
 
-## Talk 23
+## Talk 26 (alternative/additional)
 
-(Escape within the time limit)
+(Take Dunyarzad somewhere nearby and rest)
 
-Setaria: ...Were you not aware that the law prohibits this type of performance from taking place without prior permission?
-Paimon: Over there... Someone's yelling at Nilou.
-Dunyarzad: I think I just saw the Akademiya's Grand Sage... Why is he here in person?
-Nilou: But the Dance of Sabzeruz is one of the key parts of the Sabzeruz Festival. If we can't perform it...
-Setaria: The Sabzeruz Festival... The law also prohibits the private hosting of large-scale, religious festivals. Only the Akademiya can host such an event.
-Setaria: If you continue to resist, we will have to order an investigation into every single event organizer...
-Setaria: The Grand Sage has already granted you much leniency. I advise that you exercise tact.
-Nilou: How... How did things turn out like this...
-Dunyarzad: The Akademiya was originally responsible for the Sabzeruz Festival, but they've failed this responsibility for many years. I need to speak with them...
-    Option 1:
-        Traveler: Don't go. They have the final say in all of this.
-    Option 2:
-        Traveler: If we force their hand too much, the situation may get ugly.
-Dunyarzad: ...This is a hard pill to swallow, but... sigh, you're right. Things would only get worse.
-Azar: Art... Dance... Aren't you ashamed of pursuing such frivolous and meaningless activities in this land of knowledge and reason?
-Azar: Our Archon created the utopia that is Sumeru City for all scholars who sought validity, verity, and truth... while people like you wish to defile it.
-Nilou: No, I believe that our Archon never rejected the arts. Even the Goddess of Flowers dedicated a dance to her...
-Azar: With your lack of intellectual credentials, I do not believe you are qualified to debate with me. What you should be doing is finding workers to tear down this ridiculous eyesore.
-Azar: When we return, have the Scribe draft an ordinance before the next Jnagarbha Day that prohibits public art performances. We will announce it to the public later via the Akasha.
-Setaria: Understood. I will inform him when I return.
-Azar: ...
-Azar: The Sabzeruz Festival... Go celebrate the birth of that god to your heart's content.
-Paimon: Nilou, are you okay?
-Nilou: Oh, Dunyarzad. You all saw that just now...? The Grand Sage ordered us to stop the performance...
-Dunyarzad: Yeah...
-Nilou: Let's go somewhere the Akademiya can't find us and perform there... Ahh, but how do we let everyone know... And what about the atmosphere and the stage...
-Nilou: Or we could get people to block them off so they can't interrupt the performance... Agh... No, they just threatened to investigate the organizers. If we were caught...
-Dunyarzad: Nilou, it's alright. Don't worry about it.
-Nilou: But you've been looking forward to the Dance of Sabzeruz so much, and I know how important this festival is to you. I don't want you to have any regrets...
-Dunyarzad: It's okay. Seeing you care this much about my feelings is more than enough.
-Dunyarzad: It would be too risky to continue the Sabzeruz Festival at this point. I don't want to get everyone in trouble...
-Nilou: ...If you say so, but... You can sneak out for the next Sabzeruz Festival, right? We'll make sure the next one is a smashing success!
-Dunyarzad: *sigh* The next one...
-Dunyarzad: ...Yes! Okay, it's a promise! It WILL be a smashing success!
-Paimon: Paimon can't believe this is how things turned out. Those heartless geezers...
-    Option 1:
-        Traveler: Is there anything else we can do?
-    Option 2:
-        Traveler: Should we try to think of another way?
-Dunyarzad: It really is okay. There's nothing we can do about it.
-Dunyarzad: *sigh* Still... I'd be lying if I said I had no regrets. I would have loved to see Nilou's dance.
-Black Screen Text: The Sabzeruz Festival was forced to come to an unfortunately abrupt end...
+Vihar: Atten-tion! Young soldiers, are you here to join our ranks?
 
-## Talk 24 (alternative/additional)
+## Talk 26 (alternative/additional)
 
-(Talk to Dunyarzad)
+(Take Dunyarzad somewhere nearby and rest)
 
-Amal: I picked all of these from the forest yesterday, so their freshness is guaranteed!
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
 
-## Talk 24 (alternative/additional)
+## Talk 26 (alternative/additional)
 
-(Talk to Dunyarzad)
+(Take Dunyarzad somewhere nearby and rest)
 
-Kimiya: The diviner's interpretation is the most important part of alchemical divination. I just consulted the book to make sure you got the correct message.
+Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+
+## Talk 26 (alternative/additional)
+
+(Take Dunyarzad somewhere nearby and rest)
+
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
 
 ## Talk 26
 
@@ -488,11 +478,77 @@ Kimiya: The diviner's interpretation is the most important part of alchemical di
 
 Vihar: Atten-tion! Young soldiers, are you here to join our ranks?
 
-## Talk 28
+## Talk 27
+
+(Go to the Grand Bazaar and see the Dance of Sabzeruz)
+
+Setaria: ...Were you not aware that the law prohibits this type of performance from taking place without prior permission?
+Paimon: Over there... Someone's yelling at Nilou.
+Dunyarzad: I think I just saw the Akademiya's Grand Sage... Why is he here in person?
+Nilou: But the Dance of Sabzeruz is one of the key parts of the Sabzeruz Festival. If we can't perform it...
+Setaria: The Sabzeruz Festival... The law also prohibits the private hosting of large-scale, religious festivals. Only the Akademiya can host such an event.
+Setaria: If you continue to resist, we will have to order an investigation into every single event organizer...
+Setaria: The Grand Sage has already granted you much leniency. I advise that you exercise tact.
+Nilou: How... How did things turn out like this...
+Dunyarzad: The Akademiya was originally responsible for the Sabzeruz Festival, but they've failed this responsibility for many years. I need to speak with them...
+    Option 1:
+        Traveler: Don't go. They have the final say in all of this.
+    Option 2:
+        Traveler: If we force their hand too much, the situation may get ugly.
+Dunyarzad: ...This is a hard pill to swallow, but... sigh, you're right. Things would only get worse.
+Azar: Art... Dance... Aren't you ashamed of pursuing such frivolous and meaningless activities in this land of knowledge and reason?
+Azar: Our Archon created the utopia that is Sumeru City for all scholars who sought validity, verity, and truth... while people like you wish to defile it.
+Nilou: No, I believe that our Archon never rejected the arts. Even the Goddess of Flowers dedicated a dance to her...
+Azar: With your lack of intellectual credentials, I do not believe you are qualified to debate with me. What you should be doing is finding workers to tear down this ridiculous eyesore.
+Azar: When we return, have the Scribe draft an ordinance before the next Jnagarbha Day that prohibits public art performances. We will announce it to the public later via the Akasha.
+Setaria: Understood. I will inform him when I return.
+Azar: ...
+Azar: The Sabzeruz Festival... Go celebrate the birth of that god to your heart's content.
+Paimon: Nilou, are you okay?
+Nilou: Oh, Dunyarzad. You all saw that just now...? The Grand Sage ordered us to stop the performance...
+Dunyarzad: Yeah...
+Nilou: Let's go somewhere the Akademiya can't find us and perform there... Ahh, but how do we let everyone know... And what about the atmosphere and the stage...
+Nilou: Or we could get people to block them off so they can't interrupt the performance... Agh... No, they just threatened to investigate the organizers. If we were caught...
+Dunyarzad: Nilou, it's alright. Don't worry about it.
+Nilou: But you've been looking forward to the Dance of Sabzeruz so much, and I know how important this festival is to you. I don't want you to have any regrets...
+Dunyarzad: It's okay. Seeing you care this much about my feelings is more than enough.
+Dunyarzad: It would be too risky to continue the Sabzeruz Festival at this point. I don't want to get everyone in trouble...
+Nilou: ...If you say so, but... You can sneak out for the next Sabzeruz Festival, right? We'll make sure the next one is a smashing success!
+Dunyarzad: *sigh* The next one...
+Dunyarzad: ...Yes! Okay, it's a promise! It WILL be a smashing success!
+Paimon: Paimon can't believe this is how things turned out. Those heartless geezers...
+    Option 1:
+        Traveler: Is there anything else we can do?
+    Option 2:
+        Traveler: Should we try to think of another way?
+Dunyarzad: It really is okay. There's nothing we can do about it.
+Dunyarzad: *sigh* Still... I'd be lying if I said I had no regrets. I would have loved to see Nilou's dance.
+Black Screen Text: The Sabzeruz Festival was forced to come to an unfortunately abrupt end...
+
+## Objective 28
 
 (Return to the accommodation and rest)
 
-Kimiya: So, how about it? Want to give it a try?
+
+## Talk 29 (alternative/additional)
+
+(Talk to Paimon)
+
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
+
+## Talk 29 (alternative/additional)
+
+(Talk to Paimon)
+
+Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+
+## Talk 29 (alternative/additional)
+
+(Talk to Paimon)
+
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
 
 ## Talk 29
 

@@ -41,46 +41,10 @@ Traveler: I... I remember.
 Paimon: Huh? You mean...
 Paimon: Ohh, Paimon remembers, too! We saw that abandoned *Ruin Guard sitting atop the tower* when we went there before! Can't forget something like that!
 
-## Talk 2
+## Objective 2
 
 (Go to Stormterror's Lair)
 
-Paimon: They... left...
-Paimon: #Oh, don't be too sad, Traveler... We'll find them again! Look on the bright side, at least we got some really useful information!
-    Option 1:
-        Traveler: I'm... not sad.
-        Paimon: Really? You sure...?
-    Option 2:
-        Traveler: You're right, Paimon. There is hope.
-        Paimon: Uh-huh, that's right!
-Paimon: At least now, as well as The Seven, Dain is also a key part of finding your sibling too, right?
-    Option 1:
-        Traveler: Once we get to Inazuma, we should keep that in mind as we look for more clues.
-    Option 2:
-        Traveler: Another objective for our journey.
-Paimon: That's right! Um... by the way, what they said just now was all pretty confusing... Did you understand it at all?
-    Option 1:
-        Traveler: I pretty much got it.
-    Option 2:
-        Traveler: #I was too focused on {F#my brother}{M#Lumine} to really listen carefully.
-Paimon: Oh... well then... let's go over it again.
-Paimon: #First off, that Abyss Herald called {F#your brother "Prince."}{M#your sister "Princess."}
-Paimon: #It seems like your {F#brother}{M#sister} is leading the Abyss Order, even the Abyss Herald answers to {F#him}{M#her}... Still, we don't know for sure if {F#he's}{M#she's} the highest-ranking leader in the organization.
-Paimon: #Also, your {F#brother}{M#sister} said that {F#he}{M#she} wants to "engulf the thrones" and go to "war with destiny." What the heck does that mean? ...Could it be {F#he}{M#that she} wants to destroy The Seven and the seven nations?
-Paimon: Next thing... turns out the Abyss Order monsters are really what the people of Khaenri'ah turned into after their nation was destroyed. This story is just plain terrifying!
-Paimon: And Dain is from Khaenri'ah, too! He witnessed its destruction 500 years ago. But... he didn't turn into a monster, and now he's fighting the Abyss Order...
-Paimon: #So that's why {F#your brother}{M#your sister} said that Dain is {F#his}{M#her} enemy, right?
-Paimon: But... If the monsters of the Abyss are the same people that Dain protected all those years ago, then why is he enemies with the Abyss Order now?
-Paimon: #Also, how come... after all this time we've spent searching for {F#your brother}{M#your sister}, it turns out {F#he's}{M#she's} on the side of the Abyss. What's up with that?
-    Option 1:
-        Traveler: We have many new questions, but few answers.
-    Option 2:
-        Traveler: Thinking about it over and over will solve nothing.
-Paimon: Yeah, you're right.
-Paimon: #Then... we can't let ourselves get down about it now, Traveler!
-Paimon: Our journey's not over yet, let's get a move on! Time to leave this terrible, dark place and get back to the surface, where the sun shines bright.
-Paimon: #If your {F#brother}{M#sister} wants you to "reach the end of your journey"... {F#Show him}{M#Well then, show her} what you're made of!
-Paimon: Come on, Traveler, let's go!
 
 ## Talk 3
 
@@ -128,9 +92,54 @@ Dainsleif: Hmph... Do The Seven really expect me to help them look after what be
 Dainsleif: Let's go back to *those ruins* and destroy the inverted statue. If we are lucky, we will also run into that Abyss Herald.
 Dainsleif: I'll make sure it doesn't get away this time.
 
-## Talk 4
+## Objective 4
 
 (Enter the ruins again)
+
+
+## Talk 5
+
+(Talk to Paimon)
+
+Paimon: So, after all that running around, we end up right back here again...
+Paimon: Look at us... We barely escaped this place last time, and now we're strolling right back in!
+Paimon: Gee, surely we must be some of the bravest adventurers in all of Teyvat! That or the stupidest...
+
+## Objective 6
+
+(Enter the ruins again)
+
+
+## Objective 7
+
+(Search for the Defiled Statue)
+
+
+## Talk 8
+
+(Talk to Dainsleif)
+
+Dainsleif: Looks like we're here.
+Dainsleif: An eerie, lifeless, dark chamber... I understand the evil aura you were describing earlier.
+Paimon: Ohhhh... Such a scary place...
+Dainsleif: Be careful to not be overwhelmed by the power of the Defiled Statue— the Abyss Herald, it's here.
+Abyss Herald: Mwahaha... You sense correctly.
+Abyss Herald: You are just as vexatious as ever, Dainsleif, enemy of the Abyss!
+Abyss Herald: I sense your soul is stained by terrible bloodshed, perhaps from your darkest nightmares. Unless... Huh?
+Abyss Herald: Oh, and something far more dangerous! You reek of a corruption familiar to me...
+Abyss Herald: Then we are the same. We're both dangerous. But dangers from outside of the Abyss Order must be caught and caged...
+Dainsleif: Tsk.
+Dainsleif: It is your words that forever reek of corruption...
+Dainsleif: Time to silence you!
+
+## Objective 9
+
+(Defeat the Abyss Herald)
+
+
+## Talk 10
+
+(#Meet {F#Aether}{M#Lumine}.)
 
 Paimon: Hey, c—could that be...!?
 Traveler: #{F#Aether}{M#Lumine}!
@@ -185,41 +194,43 @@ Traveler: Destiny...?
 Traveler's Sibling: #Listen to me, {F#Lumine}{M#Aether}.
 Traveler's Sibling: I have already traveled through this world once. Once you reach the end of your journey as I did, you will see for yourself the true nature of this world.
 
-## Talk 5
+## Talk 11
 
 (Talk to Paimon)
 
-Paimon: So, after all that running around, we end up right back here again...
-Paimon: Look at us... We barely escaped this place last time, and now we're strolling right back in!
-Paimon: Gee, surely we must be some of the bravest adventurers in all of Teyvat! That or the stupidest...
-
-## Objective 6
-
-(Enter the ruins again)
-
-
-## Objective 7
-
-(Search for the Defiled Statue)
-
-
-## Talk 8
-
-(Talk to Dainsleif)
-
-Dainsleif: Looks like we're here.
-Dainsleif: An eerie, lifeless, dark chamber... I understand the evil aura you were describing earlier.
-Paimon: Ohhhh... Such a scary place...
-Dainsleif: Be careful to not be overwhelmed by the power of the Defiled Statue— the Abyss Herald, it's here.
-Abyss Herald: Mwahaha... You sense correctly.
-Abyss Herald: You are just as vexatious as ever, Dainsleif, enemy of the Abyss!
-Abyss Herald: I sense your soul is stained by terrible bloodshed, perhaps from your darkest nightmares. Unless... Huh?
-Abyss Herald: Oh, and something far more dangerous! You reek of a corruption familiar to me...
-Abyss Herald: Then we are the same. We're both dangerous. But dangers from outside of the Abyss Order must be caught and caged...
-Dainsleif: Tsk.
-Dainsleif: It is your words that forever reek of corruption...
-Dainsleif: Time to silence you!
-
-## Objective 9
-
-(Defeat the Abyss Herald)
+Paimon: They... left...
+Paimon: #Oh, don't be too sad, Traveler... We'll find them again! Look on the bright side, at least we got some really useful information!
+    Option 1:
+        Traveler: I'm... not sad.
+        Paimon: Really? You sure...?
+    Option 2:
+        Traveler: You're right, Paimon. There is hope.
+        Paimon: Uh-huh, that's right!
+Paimon: At least now, as well as The Seven, Dain is also a key part of finding your sibling too, right?
+    Option 1:
+        Traveler: Once we get to Inazuma, we should keep that in mind as we look for more clues.
+    Option 2:
+        Traveler: Another objective for our journey.
+Paimon: That's right! Um... by the way, what they said just now was all pretty confusing... Did you understand it at all?
+    Option 1:
+        Traveler: I pretty much got it.
+    Option 2:
+        Traveler: #I was too focused on {F#my brother}{M#Lumine} to really listen carefully.
+Paimon: Oh... well then... let's go over it again.
+Paimon: #First off, that Abyss Herald called {F#your brother "Prince."}{M#your sister "Princess."}
+Paimon: #It seems like your {F#brother}{M#sister} is leading the Abyss Order, even the Abyss Herald answers to {F#him}{M#her}... Still, we don't know for sure if {F#he's}{M#she's} the highest-ranking leader in the organization.
+Paimon: #Also, your {F#brother}{M#sister} said that {F#he}{M#she} wants to "engulf the thrones" and go to "war with destiny." What the heck does that mean? ...Could it be {F#he}{M#that she} wants to destroy The Seven and the seven nations?
+Paimon: Next thing... turns out the Abyss Order monsters are really what the people of Khaenri'ah turned into after their nation was destroyed. This story is just plain terrifying!
+Paimon: And Dain is from Khaenri'ah, too! He witnessed its destruction 500 years ago. But... he didn't turn into a monster, and now he's fighting the Abyss Order...
+Paimon: #So that's why {F#your brother}{M#your sister} said that Dain is {F#his}{M#her} enemy, right?
+Paimon: But... If the monsters of the Abyss are the same people that Dain protected all those years ago, then why is he enemies with the Abyss Order now?
+Paimon: #Also, how come... after all this time we've spent searching for {F#your brother}{M#your sister}, it turns out {F#he's}{M#she's} on the side of the Abyss. What's up with that?
+    Option 1:
+        Traveler: We have many new questions, but few answers.
+    Option 2:
+        Traveler: Thinking about it over and over will solve nothing.
+Paimon: Yeah, you're right.
+Paimon: #Then... we can't let ourselves get down about it now, Traveler!
+Paimon: Our journey's not over yet, let's get a move on! Time to leave this terrible, dark place and get back to the surface, where the sun shines bright.
+Paimon: #If your {F#brother}{M#sister} wants you to "reach the end of your journey"... {F#Show him}{M#Well then, show her} what you're made of!
+Paimon: Come on, Traveler, let's go!

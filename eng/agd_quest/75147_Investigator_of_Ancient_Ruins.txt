@@ -3,7 +3,14 @@
 One wonders if there are any clues to be found for entering the Great Volcano of Tollan amidst these crumbling ruins...
 
 
-## Talk 2
+## Objective 3
+
+(Defeat the monsters)
+
+
+## Talk 4 (variant 1)
+
+(Talk to the nearby tribespeople)
 
 Nzaya (???): We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time...
 Kimosi: You... You came just in time... I'm Kimosi, from the Collective of Plenty and this... *panting* this is Nzaya... Okay, just give me a moment to catch my breath...
@@ -63,12 +70,7 @@ Nzaya: Safety does come first. It's more important than saving time. In fact, it
 Paimon: Hehe, don't worry about us — we've got this!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Objective 3
-
-(Defeat the monsters)
-
-
-## Talk 4 (variant 1)
+## Talk 4 (variant 2)
 
 (Talk to the nearby tribespeople)
 
@@ -125,7 +127,7 @@ Nzaya: Safety does come first. It's more important than saving time. In fact, it
 Paimon: Hehe, don't worry about us — we've got this!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 4 (variant 2)
+## Talk 4 (variant 3)
 
 (Talk to the nearby tribespeople)
 
@@ -182,7 +184,7 @@ Nzaya: Safety does come first. It's more important than saving time. In fact, it
 Paimon: Hehe, don't worry about us — we've got this!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
-## Talk 4 (variant 3)
+## Talk 4 (variant 4)
 
 (Talk to the nearby tribespeople)
 
@@ -541,6 +543,11 @@ Traveler: ...Saves time!
 Kimosi: Exactly!
 Nzaya: #Thank you so much for your assistance. Who knows what we'd have done without the great Traveler, Paimon, and their saurian friend!
 Nzaya: May we meet again!
+
+## Objective 8
+
+(Talk to the tribespeople)
+
 
 ## Talk 9
 

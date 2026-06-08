@@ -171,6 +171,21 @@ Paimon: Ohhh, yeah! Paimon remembers now! She's been looking after our Fungi fri
 Paimon: Who do you think she's gonna partner up with for the competition?
 Paimon: Come on, let's go say hello!
 
+## Talk 6 (alternative/additional)
+
+(Participate in the elimination round)
+
+Czeslawa: Welcome one and all! The Round of 16 is about to begin.
+Czeslawa: #Our contestants for this match are: Traveler and his partner Aguara, versus Haniyyah and her partner, Fluffy the Flower King!
+Haniyyah: Hey, Golden Comet and Silver Companion! Good to see you again. This'll be our first proper rematch since the Nilotpala Cup...
+Haniyyah: I brought my old Sumpter Beast with me this time. Looks like you're partnering with a new companion too... Let's see who wins this time around!
+
+## Talk 6 (alternative/additional)
+
+(Participate in the elimination round)
+
+Unknown Role (TALK_ROLE_NONE): Missing text (955158954)
+
 ## Objective 6
 
 (Participate in the elimination round)
@@ -216,14 +231,10 @@ Haniyyah: And when they charge full speed... Haha, they kick up enough dust to b
 Haniyyah: Send 'em flying, Fluffy the Flower King!
 Paimon: Watch out!
 
-## Talk 7
+## Objective 7
 
 (Participate in the elimination round)
 
-Czeslawa: Welcome one and all! The Round of 16 is about to begin.
-Czeslawa: #Our contestants for this match are: Traveler and his partner Aguara, versus Haniyyah and her partner, Fluffy the Flower King!
-Haniyyah: Hey, Golden Comet and Silver Companion! Good to see you again. This'll be our first proper rematch since the Nilotpala Cup...
-Haniyyah: I brought my old Sumpter Beast with me this time. Looks like you're partnering with a new companion too... Let's see who wins this time around!
 
 ## Talk 8
 
@@ -262,6 +273,22 @@ Paimon: Hey, Paimon noticed something when we were drawing lots. Most of the con
         Traveler: How about "The Rovin' Rawrin' Saurian"?
         Aguara: Rawr!
 Paimon: Well, Aguara seems to like it! Awesome! Okay, let's head to the next match!
+
+## Talk 14 (alternative/additional)
+
+(Participate in the second elimination round)
+
+Czeslawa: Are you ready to ruuumble? Ladies and gentlemen, it's time for the quarterfinals!
+
+Czeslawa: After a fierce competition so far, we're left with the creme de la creme of the contestants. But who among them will advance to the semifinals? There's only one way to find out!
+
+Czeslawa: #Joining us to kick this round off, we have... Traveler and his partner Aguara, versus Mualani and her partner Mamala!
+
+Mualani: How're you feeling today, Mamala?
+
+Mamala: Raargh!
+
+Mualani: That's the spirit! Now, let's get out there and show these Nod-Krai folks what the People of the Springs are all about!
 
 ## Talk 14 (alternative/additional)
 
@@ -312,21 +339,10 @@ Mualani: Alright, get up close and let's settle this!
 Mualani: Jump, Mamala! Get out of the water!
 Traveler: (From what I remember, Mamala's left eye is covered by an eyepatch. That might be an opening...)
 
-## Talk 15
+## Objective 15
 
 (Participate in the second elimination round)
 
-Czeslawa: Are you ready to ruuumble? Ladies and gentlemen, it's time for the quarterfinals!
-
-Czeslawa: After a fierce competition so far, we're left with the creme de la creme of the contestants. But who among them will advance to the semifinals? There's only one way to find out!
-
-Czeslawa: #Joining us to kick this round off, we have... Traveler and his partner Aguara, versus Mualani and her partner Mamala!
-
-Mualani: How're you feeling today, Mamala?
-
-Mamala: Raargh!
-
-Mualani: That's the spirit! Now, let's get out there and show these Nod-Krai folks what the People of the Springs are all about!
 
 ## Talk 16
 
@@ -410,30 +426,15 @@ Linnea: (Good morning! ...Huh? Where am I?)
 Linnea: (Lumi! Lumi! How strange — where could she be?)
 Linnea: (I wonder how long I was out for... Well, I'd better take a look outside.)
 
-## Talk 18
+## Objective 18
 
 (Leave the room)
 
-Linnea: (Did it work...?)
-Linnea: (Guess not... Huh? Is Dream-Me writing a diary?)
-Linnea (Diary): "My Adventurers' Guild salary alone will never be enough to finance a research vessel. It seems my only option is to take up adventuring full-time."
-Linnea: (A research vessel? Looks like Dream-Me is working hard toward my goal... But the cost is just astronomical. It could take a whole lifetime to save up for.)
-Linnea (Diary): "Day 1: Got beaten up by monsters."
-Linnea (Diary): "Day 5: Ran for my life with Lumi. Turns out I'm getting faster!"
-Linnea (Diary): "Day 20: Asked a merchant about prices. Ships cost a fortune! But I can worry about that later. Right now, it's time for a proper meal — I'm starving."
-Linnea (Diary): "Day 72: Found a huge abandoned treasure chest. Hehe, finders keepers!"
-Linnea (Diary): "Happy Adventure Anniversary to me! One year in... and still nowhere near rich enough to afford a ship."
-Linnea (Diary): "Almost got scammed! Note to self — secondhand ships aren't to be trusted. Good job I was wary and checked it over thoroughly before committing. You really do get what you pay for."
-Linnea (Diary): "Finally beat that pesky thing. Hoping the materials I gathered recently will fetch a good price..."
-Linnea: (The diary ends here. Hold on, is this..?)
-Linnea: (A deed for the purchase of a large ship, and I've signed it! Could it be...?)
-Linnea: (...A dream come true.)
 
-## Talk 19
+## Objective 19
 
 (Enter the depths of the dream)
 
-Unknown Role (TALK_ROLE_NONE): Missing text (955158954)
 
 ## Talk 20
 
@@ -459,6 +460,25 @@ Linnea: (Hmm, I've heard that if you try really hard to open your eyes, you can 
 
 (Enter the depths of the dream)
 
+
+## Talk 22
+
+(Complete the diary)
+
+Linnea: (Did it work...?)
+Linnea: (Guess not... Huh? Is Dream-Me writing a diary?)
+Linnea (Diary): "My Adventurers' Guild salary alone will never be enough to finance a research vessel. It seems my only option is to take up adventuring full-time."
+Linnea: (A research vessel? Looks like Dream-Me is working hard toward my goal... But the cost is just astronomical. It could take a whole lifetime to save up for.)
+Linnea (Diary): "Day 1: Got beaten up by monsters."
+Linnea (Diary): "Day 5: Ran for my life with Lumi. Turns out I'm getting faster!"
+Linnea (Diary): "Day 20: Asked a merchant about prices. Ships cost a fortune! But I can worry about that later. Right now, it's time for a proper meal — I'm starving."
+Linnea (Diary): "Day 72: Found a huge abandoned treasure chest. Hehe, finders keepers!"
+Linnea (Diary): "Happy Adventure Anniversary to me! One year in... and still nowhere near rich enough to afford a ship."
+Linnea (Diary): "Almost got scammed! Note to self — secondhand ships aren't to be trusted. Good job I was wary and checked it over thoroughly before committing. You really do get what you pay for."
+Linnea (Diary): "Finally beat that pesky thing. Hoping the materials I gathered recently will fetch a good price..."
+Linnea: (The diary ends here. Hold on, is this..?)
+Linnea: (A deed for the purchase of a large ship, and I've signed it! Could it be...?)
+Linnea: (...A dream come true.)
 
 ## Objective 23
 
@@ -577,6 +597,11 @@ Linnea (Blurry Words): "Mine was to buy a research vessel and explore the myster
 Linnea (Blurry Words): "My entire life is recorded in these pages. Maybe one day, a long, long time from now, someone will open them and see that there are sections on the formation and evolution of certain creatures and environments that remain blank."
 
 Linnea (Blurry Words): "Whoever you are, I entrust the task of filling those blank pages to you. The end of my time grows near, and I can no longer travel very far."
+
+## Objective 33
+
+(Walk towards the end of everything)
+
 
 ## Talk 34
 

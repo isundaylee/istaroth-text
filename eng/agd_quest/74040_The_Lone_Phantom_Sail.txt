@@ -53,9 +53,14 @@ Paimon: Heh, your enthusiasm's making it hard to say no... And you mentioned a s
 Traveler: Let's go meet this lady of the sea.
 Ahes: Yes, that's the spirit! Let's set sail!
 
-## Talk 2
+## Objective 2
 
 (Go to the place Ahes mentioned)
+
+
+## Talk 4 (alternative/additional)
+
+(Talk to Ahes)
 
 Ahes: This is the place! We've arrived!
 Ahes: Um, please wait just a moment... Allow me to tune the conch a bit.
@@ -121,15 +126,10 @@ Traveler: I'm not sure. What would you prefer, Ahes?
 Ahes: Ah, me? Um... if you're asking me, then I would pick this one.
 Black Screen Text: Ahes sends the signal with the conch...
 
-## Talk 10
+## Objective 10
 
 (Use the conches to send the signal)
 
-Ahes: What happened here... It's a complete mess. There isn't even a complete wreck, it's mostly just... fragments.
-Traveler: Signs point to her being still further up ahead.
-Ahes: But she must have suffered irreparable damage, so why would she still forge onward in such poor condition? Unless... Hmm. I think we'll find out why soon.
-Paimon: So many tiny little pieces everywhere! It's like she was *chomp* bitten in half by a giant sea monster!
-Ahes: ...
 
 ## Talk 11
 
@@ -148,15 +148,10 @@ Paimon: Catch... catch what? The ship? Have you two grown sails and sprouted oar
 (Follow the phantom that has appeared)
 
 
-## Talk 13
+## Objective 13
 
 (Follow the phantom that has appeared)
 
-Ahes: Which is to say, the Sponsian suffered heavy damage, and the damage was related to the abyss expedition, and... she continued to sail on. In that case...
-Ahes: Let's use the conch to send out another signal! Maybe we'll hear her response from up ahead!
-Ahes: Oh right, right! The signals you want to send are "long low note, short low note, long low note"...
-Ahes: "Long low note, long low note, long low note, long low note, long low note," and... Uh...
-Ahes: "Short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note"... Gah, this one is super lengthy! But these three signals should all get you a response!
 
 ## Talk 14
 
@@ -200,6 +195,26 @@ Paimon: Hmmm... It looks like a scrap of paper... Is it the log? Should we take 
 Traveler: They came here to fight against monsters from the Abyss...
 Ahes: Yes... I have heard of legends regarding them before. But... does that mean that the Sponsian has already...
 Ahes: Hmph! This isn't enough proof. Let's go to the next location.
+
+## Talk 17
+
+(Investigate the area of interest)
+
+Ahes: What happened here... It's a complete mess. There isn't even a complete wreck, it's mostly just... fragments.
+Traveler: Signs point to her being still further up ahead.
+Ahes: But she must have suffered irreparable damage, so why would she still forge onward in such poor condition? Unless... Hmm. I think we'll find out why soon.
+Paimon: So many tiny little pieces everywhere! It's like she was *chomp* bitten in half by a giant sea monster!
+Ahes: ...
+
+## Talk 19 (alternative/additional)
+
+(Talk to Ahes)
+
+Ahes: Which is to say, the Sponsian suffered heavy damage, and the damage was related to the abyss expedition, and... she continued to sail on. In that case...
+Ahes: Let's use the conch to send out another signal! Maybe we'll hear her response from up ahead!
+Ahes: Oh right, right! The signals you want to send are "long low note, short low note, long low note"...
+Ahes: "Long low note, long low note, long low note, long low note, long low note," and... Uh...
+Ahes: "Short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note"... Gah, this one is super lengthy! But these three signals should all get you a response!
 
 ## Talk 19 (variant 1)
 
@@ -287,6 +302,21 @@ Ahes: "Long low note, long low note, long low note, long low note, long low note
         Traveler: Alright, we're counting on you.
         Ahes: I'll take it from here, then!
         Black Screen Text: Ahes sends the signal with the conch...
+
+## Objective 25
+
+(Use the conches to send the signal again)
+
+
+## Objective 28
+
+(Follow the phantom once again)
+
+
+## Objective 30
+
+(Get to the location where the phantom stopped)
+
 
 ## Talk 31
 

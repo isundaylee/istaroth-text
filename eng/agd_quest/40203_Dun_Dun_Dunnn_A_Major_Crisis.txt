@@ -5,7 +5,14 @@
 As you travel through Nod-Krai, you decide to take a stroll around Nasha Town...
 
 
-## Talk 1
+## Objective 2
+
+(Go take a walk around Nasha Town)
+
+
+## Talk 3
+
+(Check the notice board)
 
 Paimon: Huh... There's so much space on this thing, but only one post. Let's see here...
 Paimon: Wait, Ineffa needs help? Uh oh... What's this about a "major crisis" and "ruin"?
@@ -14,12 +21,6 @@ Paimon: Wait, Ineffa needs help? Uh oh... What's this about a "major crisis" and
     Option 2:
         Traveler: Could it be a prank?
 Paimon: We should still head over and check on things, just in case!
-
-## Talk 2
-
-(Go take a walk around Nasha Town)
-
-Ineffa: I will watch over things here. I leave Aino to you.
 
 ## Talk 4
 
@@ -50,11 +51,10 @@ Ineffa: Sufficient grounds for override... Please proceed to the path to the sid
 Ineffa: Once you have located all the specific robots, you can unlock the control system. This is the backdoor Aino established for herself, as she often forgets the password.
 Paimon: Okay, so we just need to collect all the bots! We've got this!
 
-## Talk 5
+## Objective 5
 
 (Activate the hidden control system)
 
-Clink Clank Legion: On standby. Waiting for command.
 
 ## Objective 7
 
@@ -129,6 +129,12 @@ Aino: Thanks. And, um, about earlier... I'm sorry, Ineffa.
 Paimon: Phew... Looks like the military escapade's on hold for now.
 Ineffa: Let's go back to the workshop.
 
+## Talk 10 (alternative/additional)
+
+(Go back to Aino's workshop)
+
+Clink Clank Legion: On standby. Waiting for command.
+
 ## Talk 10
 
 (Go back to Aino's workshop)
@@ -163,6 +169,12 @@ Aino: Alright, Clink Clank Legion! Move out!
 Paimon: Aino sure is determined, huh...
 Ineffa: Well, she is the boss of the workshop, and a capable one at that. Please have faith in her abilities and... look out for her if she needs help.
 Paimon: No problem! Just leave it to us!
+
+## Talk 11 (alternative/additional)
+
+(Go to Nasha Town)
+
+Ineffa: I will watch over things here. I leave Aino to you.
 
 ## Talk 11
 

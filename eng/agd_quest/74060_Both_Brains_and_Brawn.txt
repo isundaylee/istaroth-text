@@ -177,9 +177,14 @@ Goncourt: Our troupe is really well equipped... It makes me wonder, how come our
 Traveler: I hope these things are as good as you're claiming.
 Goncourt: Oh, don't you worry. They are. Anyway, seeing is believing — let's go to Alvard. He keeps hold of all the stuff I order for the troupe.
 
-## Talk 8
+## Objective 8
 
 (Go to the Rag and Bone Shop)
+
+
+## Talk 9
+
+(Talk to Goncourt)
 
 Goncourt: The props should be around here... They'll be packed in some flimsy wooden boxes.
 Goncourt: If you find them, go ahead and *crack them open*.
@@ -216,6 +221,18 @@ Goncourt: Haha, and thanks to Poiret for the detective jokes. I'm hoping to work
         Traveler: As long as I get credited. And a copyright fee.
         Goncourt: I'm sure we can arrange that!
 Poiret: One thing at a time, Coach. C'mon, let's go see Roussimoff.
+
+## Talk 12 (alternative/additional)
+
+(Talk to Roussimoff)
+
+Roussimoff: Are you ready to watch the match?
+    Option 1:
+        Traveler: Ready.
+        Roussimoff: Then let's begin.
+    Option 2:
+        Traveler: Give me a moment.
+        Roussimoff: Sure thing.
 
 ## Talk 12 (alternative/additional)
 
@@ -725,16 +742,6 @@ Genevieve: Thank you, and good luck to you too!
 
 Genevieve: Missing text (4029632178)
 Genevieve: Missing text (2649482994)
-
-## Talk 39
-
-Roussimoff: Are you ready to watch the match?
-    Option 1:
-        Traveler: Ready.
-        Roussimoff: Then let's begin.
-    Option 2:
-        Traveler: Give me a moment.
-        Roussimoff: Sure thing.
 
 ## Additional Conversations
 

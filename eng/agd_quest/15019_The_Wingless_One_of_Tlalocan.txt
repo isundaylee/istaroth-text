@@ -179,39 +179,10 @@ Traveler: (Now's my chance!)
 Coyllur: Hey! Wait! Wait...
 Black Screen Text: With the whistle providing the perfect cover, you make your escape...
 
-## Talk 4
+## Objective 4
 
 (Go to check on Coyllur)
 
-Cusco: #Hmm... A golden-haired outlander, and a white flying object... You must be Traveler and Paimon?
-Cusco: I heard Chasca was with you, but I suppose she's run away again, has she...
-Paimon: Um... sorry, who are you?
-Cusco: Who am I? Tsk, only her father!
-Cusco: She's supposed to go for a checkup every three months to see how her Abyss condition is doing. We both agreed on it... But she's already missed three checkups this year! That's three out of four!
-Traveler: Abyss condition?
-Cusco: *sigh* Yes, she got exposed to Abyssal energy as a young child... Then her birth parents abandoned her. It's lucky those wild qucusaurs found her when they did, or she wouldn't have made it. They took her under their wing and raised her as one of their own.
-Cusco: Eventually, some riders out on patrol spotted her, and brought her back to the tribe... But she was practically feral at that point!
-Cusco: The moment you took your eyes off her, she'd be getting herself into a fight. Or she'd run away to be with the saurians. She seemed to prefer them to her own kind... She might as well have been a saurian in human form!
-Paimon: ...That must be the aloof period she mentioned, right?
-Traveler: Sounds like there was more going on than just being aloof...
-Cusco: We later discovered that her exposure to the Abyss had planted seeds of conflict in her heart. So, we started trying to bring it under control...
-Cusco: But ultimately, she's the only one who can control it. Anyway, she's much more human these days.
-Paimon: Yeah, uh... Don't worry about her, she seems pretty stable to Paimon. Uh, she's probably only avoiding the checkups because she thinks it'll stop you guys from worrying about her.
-Cusco: ...Yes, I'm well aware of that. She knows she needs to be careful. If her condition ever took a turn for the worse, she wouldn't be brushing it aside like this.
-Traveler: Then what's there to worry about?
-Cusco: It's just, every checkup she's been to, they find new cuts and bruises. Nothing to do with the Abyss, of course, oh no — that's all fine. The problem with her is, she's her own worst enemy!
-Cusco: She's been living dangerously again, I'm sure of it! That's why she's avoiding the checkups, she wants to hide it from us!
-Paimon: Ah... Yeah... Paimon can see her doing that....
-Cusco: *sigh* It's not just Chasca, either. Chuychu's out there every day on the front lines too, following her big sister around... They're asking for trouble, both of them.
-Cusco: Next time you see them, please tell them to be careful for me. Even if they don't want to hear it.
-Cusco: *sigh* ...In the past, she always had Chuychu to keep an eye on her. Now Chuychu's gone, and I just... I don't want to lose another daughter.
-Cusco: Chasca's been increasingly reckless since Chuychu passed. It's like she's trying to make up for it somehow...
-Cusco: Next time you see her, please tell her to be careful for me. Even if she doesn't want to hear it.
-Cusco: If she doesn't want to do these checkups anymore, that's fine. I just want her to stop putting herself in harm's way.
-Chasca: ...
-Chasca: ...
-Black Screen Text: Cusco rambles on about Chasca and Chuychu.
-You patiently listen until the bitter end...
 
 ## Talk 5 (variant 1)
 
@@ -402,9 +373,14 @@ Chasca: If you hadn't intervened, I likely would have gotten my "mom" to help ou
 Traveler: Well, luckily no harm was done in the end.
 Chasca: Yeah. Anyway, if you're free now, how about I give you that tour I promised?
 
-## Talk 6
+## Objective 6
 
 (Head to the Flower-Feather Clan)
+
+
+## Talk 7
+
+(Talk to Chasca)
 
 Kotimy: Hmph! Hah!
 Yatlan: Hyah!
@@ -454,30 +430,12 @@ Chasca: First rule of conflict resolution: Grab the fan and run before the you-k
 Capac: Hehe, trust Chasca to make even running away sound cool!
 Chasca: Sorry about this... Just stall him for me, okay? I'll explain everything later.
 
-## Talk 8
+## Objective 8
 
 (Coordinate with Chasca by splitting up)
 
-Mutota: ...Are you sure you don't want to reconsider, Pixica?
-Pixica: I appreciate it, Boss. But honestly, I'm pretty happy with my life nowadays...
-Chasca: Pixica, they're redoing the flying trials... Huh? Mutota?
-Mutota: Ah, did Allpa send you? I was just telling Pixica the news, actually.
-Mutota: The way things are in the tribe these days... I mean, you don't need me to tell you. This here is no future for a seasoned warrior like you.
-Pixica: Come on, Boss, do you have any idea how long it's been? I've been Wingless for years now. I'm not cut out for that anymore.
-Pixica: Of course I'll do my part if we ever need to defend the tribe, but there's really no point in me trying out for the flying squad now.
-Pixica: I've already made my peace with it. Not everyone has what it takes to return to the sky after going Wingless... Elder Allpa's perseverance is something else.
-Pixica: And like... it's okay if I'm not destined for greatness. I might not have the qucusaurs' approval, but with my hot air balloons, I can still reach the skies...
-Pixica: Handling these balloons every day, seeing how the customers react, the looks on their faces... That's enough for me.
-Chasca: Finding something you love doing can be just as hard as passing the flying trial. It's worth holding onto.
-Mutota: *sigh* Fair enough... It's your choice, I won't force you.
-Pixica: Oh, by the way, you should try taking a balloon ride if you've got the time! Once you've been up there for yourself, you'll see why I love it so much!
-    Option 1:
-        Traveler: I'm a little busy at the moment.
-    Option 2:
-        Traveler: But next time, for sure.
-Pixica: No problem! If you ever wanna give it a try, you know where to find me!
 
-## Talk 9
+## Talk 9 (variant 1)
 
 (Talk to Cusco)
 
@@ -511,35 +469,44 @@ Chasca: ...
 Black Screen Text: Cusco rambles on about Chasca and Chuychu.
 You patiently listen until the bitter end...
 
-## Talk 10
+## Talk 9 (variant 2)
+
+(Talk to Cusco)
+
+Cusco: #Hmm... A golden-haired outlander, and a white flying object... You must be Traveler and Paimon?
+Cusco: I heard Chasca was with you, but I suppose she's run away again, has she...
+Paimon: Um... sorry, who are you?
+Cusco: Who am I? Tsk, only her father!
+Cusco: She's supposed to go for a checkup every three months to see how her Abyss condition is doing. We both agreed on it... But she's already missed three checkups this year! That's three out of four!
+Traveler: Abyss condition?
+Cusco: *sigh* Yes, she got exposed to Abyssal energy as a young child... Then her birth parents abandoned her. It's lucky those wild qucusaurs found her when they did, or she wouldn't have made it. They took her under their wing and raised her as one of their own.
+Cusco: Eventually, some riders out on patrol spotted her, and brought her back to the tribe... But she was practically feral at that point!
+Cusco: The moment you took your eyes off her, she'd be getting herself into a fight. Or she'd run away to be with the saurians. She seemed to prefer them to her own kind... She might as well have been a saurian in human form!
+Paimon: ...That must be the aloof period she mentioned, right?
+Traveler: Sounds like there was more going on than just being aloof...
+Cusco: We later discovered that her exposure to the Abyss had planted seeds of conflict in her heart. So, we started trying to bring it under control...
+Cusco: But ultimately, she's the only one who can control it. Anyway, she's much more human these days.
+Paimon: Yeah, uh... Don't worry about her, she seems pretty stable to Paimon. Uh, she's probably only avoiding the checkups because she thinks it'll stop you guys from worrying about her.
+Cusco: ...Yes, I'm well aware of that. She knows she needs to be careful. If her condition ever took a turn for the worse, she wouldn't be brushing it aside like this.
+Traveler: Then what's there to worry about?
+Cusco: It's just, every checkup she's been to, they find new cuts and bruises. Nothing to do with the Abyss, of course, oh no — that's all fine. The problem with her is, she's her own worst enemy!
+Cusco: She's been living dangerously again, I'm sure of it! That's why she's avoiding the checkups, she wants to hide it from us!
+Paimon: Ah... Yeah... Paimon can see her doing that....
+Cusco: *sigh* It's not just Chasca, either. Chuychu's out there every day on the front lines too, following her big sister around... They're asking for trouble, both of them.
+Cusco: Next time you see them, please tell them to be careful for me. Even if they don't want to hear it.
+Cusco: *sigh* ...In the past, she always had Chuychu to keep an eye on her. Now Chuychu's gone, and I just... I don't want to lose another daughter.
+Cusco: Chasca's been increasingly reckless since Chuychu passed. It's like she's trying to make up for it somehow...
+Cusco: Next time you see her, please tell her to be careful for me. Even if she doesn't want to hear it.
+Cusco: If she doesn't want to do these checkups anymore, that's fine. I just want her to stop putting herself in harm's way.
+Chasca: ...
+Chasca: ...
+Black Screen Text: Cusco rambles on about Chasca and Chuychu.
+You patiently listen until the bitter end...
+
+## Objective 10
 
 (Go to the Obsidian Totem Pole)
 
-Zhunan: *sigh*...
-Chasca: Hey, Zhunan. Gazing out at Ochkanatlan again, huh?
-Zhunan: ...Chasca? What are you doing here, is something up?
-Chasca: The flying squad is hosting retrials again soon. Wanna give it another try?
-Zhunan: Heh, maybe you're forgetting the definition of "Wingless." I've failed so many times already that I've decided to call it quits for good. I'm done.
-Zhunan: Elder Allpa always goes out of her way to come and tell me when a new trial is coming up, and it's nice of her to think of me... but nothing's gonna change. I'm not going to suddenly pass just because they're holding another trial.
-Chasca: They're making some big changes to the arena this time, so the flying experience should be smoother than before. Coyllur's gonna try again.
-Zhunan: ...!
-Zhunan: Ehh... No, forget it. If I was genuinely good enough to make the squad, the location shouldn't affect my chances.
-Zhunan: A true Rider can fly confidently whatever the conditions... Like you and Elder Allpa.
-Coyllur: #Zhunan! They're redoing the— Huh? Chasca and Traveler? You're already here...
-Coyllur: Guess they already told you then, huh? Come on, let's go train together!
-Zhunan: Um... I'm gonna sit this one out.
-Coyllur: What? Why? But you've always looked up to Elder Allpa...
-Coyllur: She went wingless after her injury, and spent years drifting... but even she came back and made it in the end. If she can do it, why can't you?
-Zhunan: I mean... I don't have that kind of perseverance. And besides, the last thing I wanna do is fail in front of her yet again...
-Coyllur: *sigh* Come on, you know you don't need to worry about that... Alright, well... how about we just treat this as you being my mentor? Then will you train with me?
-Zhunan: Um... I mean...
-Coyllur: Enough umming and ahhing! Let's just get up in the air and figure it out as we go!
-Zhunan: Wait... Hold on! Slow down! I can't keep up!
-Paimon: ...Well that's one way to do it...
-Traveler: Yeah... Zhunan unwittingly chose the hard way.
-Chasca: Heh, they've been best friends since they were kids. If anyone knows how to get Zhunan out of a rut, it's Coyllur.
-Chasca: You helped Coyllur deal with her internal conflict, and now, she's done the same for someone else... You know, people often talk about how one conflict leads to another, and so on.
-Chasca: But sometimes in life, things spiral in a good direction instead.
 
 ## Talk 11
 
@@ -595,7 +562,30 @@ Paimon: We should help too! Seems only fair after all that food we ate...
 Allpa: Huh... Well, much obliged. Chasca, the remaining Wingless are all people you know. Let's see... Pixica now manages the Floating Target Balloons...
 Allpa: Huascar's probably still addicted to "Eyes on the Feathered Prize," and Zhunan spends her days up on the flying platform, staring at the Cinder City... I'll leave you to tell them the news.
 
-## Talk 12
+## Talk 12 (variant 1)
+
+(Talk to the Wingless)
+
+Mutota: ...Are you sure you don't want to reconsider, Pixica?
+Pixica: I appreciate it, Boss. But honestly, I'm pretty happy with my life nowadays...
+Chasca: Pixica, they're redoing the flying trials... Huh? Mutota?
+Mutota: Ah, did Allpa send you? I was just telling Pixica the news, actually.
+Mutota: The way things are in the tribe these days... I mean, you don't need me to tell you. This here is no future for a seasoned warrior like you.
+Pixica: Come on, Boss, do you have any idea how long it's been? I've been Wingless for years now. I'm not cut out for that anymore.
+Pixica: Of course I'll do my part if we ever need to defend the tribe, but there's really no point in me trying out for the flying squad now.
+Pixica: I've already made my peace with it. Not everyone has what it takes to return to the sky after going Wingless... Elder Allpa's perseverance is something else.
+Pixica: And like... it's okay if I'm not destined for greatness. I might not have the qucusaurs' approval, but with my hot air balloons, I can still reach the skies...
+Pixica: Handling these balloons every day, seeing how the customers react, the looks on their faces... That's enough for me.
+Chasca: Finding something you love doing can be just as hard as passing the flying trial. It's worth holding onto.
+Mutota: *sigh* Fair enough... It's your choice, I won't force you.
+Pixica: Oh, by the way, you should try taking a balloon ride if you've got the time! Once you've been up there for yourself, you'll see why I love it so much!
+    Option 1:
+        Traveler: I'm a little busy at the moment.
+    Option 2:
+        Traveler: But next time, for sure.
+Pixica: No problem! If you ever wanna give it a try, you know where to find me!
+
+## Talk 12 (variant 2)
 
 (Talk to the Wingless)
 
@@ -650,7 +640,37 @@ Chasca: It's one thing to hang out and have fun, but quite another to take to th
 Chasca: Giving a ride to someone who's unqualified endangers not only the Rider, but also the qucusaur themselves. If the Rider makes a mistake, they both suffer the consequences.
 Chasca: So we have a mutual understanding with the qucusaurs: if someone isn't up to standard, we have to reject them... even if it means breaking their hearts.
 
-## Talk 14
+## Talk 14 (variant 1)
+
+(Talk to the Wingless)
+
+Zhunan: *sigh*...
+Chasca: Hey, Zhunan. Gazing out at Ochkanatlan again, huh?
+Zhunan: ...Chasca? What are you doing here, is something up?
+Chasca: The flying squad is hosting retrials again soon. Wanna give it another try?
+Zhunan: Heh, maybe you're forgetting the definition of "Wingless." I've failed so many times already that I've decided to call it quits for good. I'm done.
+Zhunan: Elder Allpa always goes out of her way to come and tell me when a new trial is coming up, and it's nice of her to think of me... but nothing's gonna change. I'm not going to suddenly pass just because they're holding another trial.
+Chasca: They're making some big changes to the arena this time, so the flying experience should be smoother than before. Coyllur's gonna try again.
+Zhunan: ...!
+Zhunan: Ehh... No, forget it. If I was genuinely good enough to make the squad, the location shouldn't affect my chances.
+Zhunan: A true Rider can fly confidently whatever the conditions... Like you and Elder Allpa.
+Coyllur: #Zhunan! They're redoing the— Huh? Chasca and Traveler? You're already here...
+Coyllur: Guess they already told you then, huh? Come on, let's go train together!
+Zhunan: Um... I'm gonna sit this one out.
+Coyllur: What? Why? But you've always looked up to Elder Allpa...
+Coyllur: She went wingless after her injury, and spent years drifting... but even she came back and made it in the end. If she can do it, why can't you?
+Zhunan: I mean... I don't have that kind of perseverance. And besides, the last thing I wanna do is fail in front of her yet again...
+Coyllur: *sigh* Come on, you know you don't need to worry about that... Alright, well... how about we just treat this as you being my mentor? Then will you train with me?
+Zhunan: Um... I mean...
+Coyllur: Enough umming and ahhing! Let's just get up in the air and figure it out as we go!
+Zhunan: Wait... Hold on! Slow down! I can't keep up!
+Paimon: ...Well that's one way to do it...
+Traveler: Yeah... Zhunan unwittingly chose the hard way.
+Chasca: Heh, they've been best friends since they were kids. If anyone knows how to get Zhunan out of a rut, it's Coyllur.
+Chasca: You helped Coyllur deal with her internal conflict, and now, she's done the same for someone else... You know, people often talk about how one conflict leads to another, and so on.
+Chasca: But sometimes in life, things spiral in a good direction instead.
+
+## Talk 14 (variant 2)
 
 (Talk to the Wingless)
 

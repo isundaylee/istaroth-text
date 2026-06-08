@@ -5,12 +5,10 @@
 Following Cocouik's guidance, you come to the palace ruins on Ochkanatlan's upper levels. There seems to be something hidden beneath these ruins...
 
 
-## Talk 1
+## Objective 1
 
 (Enter the ruins)
 
-Bona: We'll leave the area below to you. Thanks for doing this.
-Bona: Whatever you find down there, you have to come back and find me, alright?
 
 ## Talk 2
 
@@ -28,9 +26,41 @@ Traveler: #Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
 Paimon: Wait, what about Paimon? Rude!
 Paimon: Anyway, let's get rid of all this filth first!
 
-## Talk 3
+## Objective 3
 
 (Approach the suspicious core)
+
+
+## Objective 4
+
+(Try to clear the Abyssal corruption out)
+
+
+## Objective 5
+
+(Try to clear the Abyssal corruption out)
+
+
+## Objective 6
+
+(Investigate the suspicious fallen core)
+
+
+## Talk 7 (alternative/additional)
+
+(Protect the fallen core and repel the monsters)
+
+Bona: We'll leave the area below to you. Thanks for doing this.
+Bona: Whatever you find down there, you have to come back and find me, alright?
+
+## Objective 7
+
+(Protect the fallen core and repel the monsters)
+
+
+## Talk 8
+
+(Investigate the suspicious fallen core)
 
 Paimon: Phew... It's finally over.
 Paimon: The Secret Source Automaton protecting it has also calmed down.
@@ -55,14 +85,14 @@ Traveler: Let's take this back to Bona.
 Paimon: You're right, maybe Bona will know what's going on, and we did promise her that we'd go back no matter what we found.
 Paimon: Let's get out of here, and quick.
 
-## Objective 4
+## Objective 9
 
-(Try to clear the Abyssal corruption out)
+(Meet up with Bona)
 
 
-## Talk 5
+## Talk 11 (variant 1)
 
-(Try to clear the Abyssal corruption out)
+(Talk to Bona)
 
 Bona: Hey! You're finally back!
 Bona: What did you find down there? Tell me all about it!
@@ -130,22 +160,7 @@ Paimon: Are you sure? Paimon gets worried whenever you sound so confident about 
 Bona: Just trust me once more, would ya? I have a good feeling about this!
 Paimon: Is that what we're relying on nowadays? Well, not that we have anything else to trust in, so... let's get up there.
 
-## Objective 6
-
-(Investigate the suspicious fallen core)
-
-
-## Objective 7
-
-(Protect the fallen core and repel the monsters)
-
-
-## Objective 9
-
-(Meet up with Bona)
-
-
-## Talk 11
+## Talk 11 (variant 2)
 
 (Talk to Bona)
 

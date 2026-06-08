@@ -71,7 +71,23 @@ Paimon: Anyway, you name 'em, we can handle 'em!
         Paimon: But we've already taken the deposit...
         Magnifico: Ha, it's fine. Just wait till you have the time! It's not like I'll melt into a helpless puddle without your help, eh?
 
-## Talk 4
+## Talk 5
+
+(Talk to Magnifico once again)
+
+Magnifico: "Louis, Louis!" ...Ah! You scared me half to death there!
+Magnifico: So, have you changed your mind, or are you just here to say hello?
+    Option 1:
+        Traveler: To say hello, and help while we're at it.
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Hoohroo~
+        Magnifico: Haha. That's wonderful, then. Let us get started!
+    Option 2:
+        Traveler: We're just passing through.
+        Magnifico: Alright then, best of luck!
+
+## Talk 6
+
+(Listen to the photographer's request)
 
 Magnifico: Hmm... Next up, an Iktomisaurus under the moonlight! Yes, that sounds good. Getting the ideal lighting is going to take some work, though.
 Magnifico: #Hmm... Aha! It's your time to shine, {REALNAME[ID(2)|SHOWHOST(true)]}, my little friend!
@@ -105,19 +121,12 @@ Magnifico: *sigh* I'm sorry... Phew. Alright. What do I need? Ah, yes. I need to
 Paimon: No problem! Let's do this!
 Black Screen Text: And so, Magnifico begins tinkering with his Kamera once more, leaving you all to think about how to make a suitable light source...
 
-## Talk 5
+## Talk 7 (alternative/additional)
 
-(Talk to Magnifico once again)
+(Complete the lighting setup for the shoot)
 
-Magnifico: "Louis, Louis!" ...Ah! You scared me half to death there!
-Magnifico: So, have you changed your mind, or are you just here to say hello?
-    Option 1:
-        Traveler: To say hello, and help while we're at it.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Hoohroo~
-        Magnifico: Haha. That's wonderful, then. Let us get started!
-    Option 2:
-        Traveler: We're just passing through.
-        Magnifico: Alright then, best of luck!
+Magnifico: Go work on the lighting. I don't require any help over here.
+Magnifico: *Light up the left side of its face, as well as the outline of its back!*
 
 ## Talk 7 (alternative/additional)
 
@@ -134,11 +143,6 @@ Magnifico: #Oh, yeah, right... Haha, of course! Traveler couldn't turn into a Sa
 
 (Complete the lighting setup for the shoot)
 
-
-## Talk 8
-
-Magnifico: Go work on the lighting. I don't require any help over here.
-Magnifico: *Light up the left side of its face, as well as the outline of its back!*
 
 ## Talk 9
 

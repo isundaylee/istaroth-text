@@ -197,67 +197,16 @@ Little Dragon: The seer-witch was my mother's friend, so the prophecy she just g
 Traveler: Any ideas, Durin?
 Durin: Why don't we take a look around?
 
+## Talk 7 (alternative/additional)
+
+(Find a way out)
+
+"M" (Narrator): As enigmatic as she was elegant, the seer-witch spoke no more — for her thoughts had long since returned to the starry firmament above.
+
 ## Objective 7
 
 (Find a way out)
 
-
-## Talk 8
-
-Paimon: If we go this way, we'll be heading back to Mondstadt, just like we planned.
-Paimon: Out of all the options so far, this seems like the safest, right? At least we know what happens next...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He helps stop the evil dragon from returning, gets a new body, makes a whole bunch of friends...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Who all just... forget about him.
-Durin: But... You didn't forget, Hat Guy.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm just saying, choosing this path wouldn't solve the main problem. You'd still end up being forgotten.
-Durin: Huh...
-    Option 1:
-        Traveler: Maybe future chapters hold the answers.
-    Option 2:
-        Traveler: We just need to keep the story going.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm not against choosing this path. I just wonder what secrets it might be hiding.
-Durin: Let me think about it...
-
-## Talk 9
-
-Little Dragon: Returning to the castle...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, well that's an interesting thought. Has the idea of returning to Simulanka ever crossed your mind?
-Durin: Returning to Simulanka...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Think about it, it's a place where a heartfelt wish is all it takes to rewrite the cruelest fate... Not like here, where fate mocks us all.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: If there really is a being controlling the fate of this world, it must be a laughably spiteful creature, deaf to the wishes of others.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: If you leave this world and its cruel fate behind, maybe your problems will be solved.
-Paimon: Hey, don't give him crazy ideas like that!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I was simply expressing my envy, that's all. Not everyone is lucky enough to have a place like Simulanka to return to.
-Durin: Well... let's say that you did. Would you choose to go back?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Of course not. I'd rather show fate who's boss instead.
-Durin: Oh...
-Traveler: What do you think, Durin?
-Durin: I just... need some time to think this over.
-
-## Talk 10
-
-"M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
-Durin: What's going on here...?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: When I first realized you were being forgotten by the world, I thought it might be because you'd spent too much time with me.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: In which case, the only hope of a cure... would be to cut our ties for good.
-Durin: What makes you think that?
-"M" (Narrator): Once upon a time, the stray tore apart his own story and was forgotten by the world beyond the castle.
-"M" (Narrator): He believed the story had cursed him, and that his misfortune had rubbed off upon the little dragon.
-Durin: The story's curse...
-    Option 1:
-        Traveler: (So he thought, the fact that he was forgotten...)
-    Option 2:
-        Traveler: (Affected Durin too...)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It was just a suspicion before, but now I think it's something we have to try.
-Paimon: Wait, what do you mean? Try what?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: One of the story's branches is a path I can't take. If you follow it out of here, I won't be part of your story anymore.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Considering what the strange magic in this book is capable of, making that choice could cut our connection once and for all.
-Traveler: Not this again...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: As long as there's a chance it might work, it's worth a try.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He's not like me. He deserves for the world to remember him.
-Traveler: What do you think, Durin?
-Durin: Well... maybe Hat Guy has his reasons for thinking that way, but that's not the kind of decision I can make so easily.
 
 ## Talk 11
 
@@ -290,6 +239,90 @@ Paimon: Ugh, that last ending was awful... No way we're picking that path again!
 Durin: Let's pick one together.
 Paimon: Sounds like the others aren't aware of what just happened...
 Paimon: But Paimon's not sure how we'd even explain it... Guess all we can do is warn them if they're about to choose wrong again.
+
+## Talk 14 (variant 1)
+
+(Find a way out)
+
+Paimon: If we go this way, we'll be heading back to Mondstadt, just like we planned.
+Paimon: Out of all the options so far, this seems like the safest, right? At least we know what happens next...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: He helps stop the evil dragon from returning, gets a new body, makes a whole bunch of friends...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Who all just... forget about him.
+Durin: But... You didn't forget, Hat Guy.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm just saying, choosing this path wouldn't solve the main problem. You'd still end up being forgotten.
+Durin: Huh...
+    Option 1:
+        Traveler: Maybe future chapters hold the answers.
+    Option 2:
+        Traveler: We just need to keep the story going.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm not against choosing this path. I just wonder what secrets it might be hiding.
+Durin: Let me think about it...
+
+## Talk 14 (variant 2)
+
+(Find a way out)
+
+Little Dragon: Returning to the castle...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, well that's an interesting thought. Has the idea of returning to Simulanka ever crossed your mind?
+Durin: Returning to Simulanka...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Think about it, it's a place where a heartfelt wish is all it takes to rewrite the cruelest fate... Not like here, where fate mocks us all.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: If there really is a being controlling the fate of this world, it must be a laughably spiteful creature, deaf to the wishes of others.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: If you leave this world and its cruel fate behind, maybe your problems will be solved.
+Paimon: Hey, don't give him crazy ideas like that!
+#{REALNAME[ID(1)|HOSTONLY(true)]}: I was simply expressing my envy, that's all. Not everyone is lucky enough to have a place like Simulanka to return to.
+Durin: Well... let's say that you did. Would you choose to go back?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Of course not. I'd rather show fate who's boss instead.
+Durin: Oh...
+Traveler: What do you think, Durin?
+Durin: I just... need some time to think this over.
+
+## Talk 14 (variant 3)
+
+(Find a way out)
+
+"M" (Narrator): It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh, so the author managed to work this book into the story, too. I'll hand it to her, this book is fascinating.
+Durin: What's going on here...?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: When I first realized you were being forgotten by the world, I thought it might be because you'd spent too much time with me.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: In which case, the only hope of a cure... would be to cut our ties for good.
+Durin: What makes you think that?
+"M" (Narrator): Once upon a time, the stray tore apart his own story and was forgotten by the world beyond the castle.
+"M" (Narrator): He believed the story had cursed him, and that his misfortune had rubbed off upon the little dragon.
+Durin: The story's curse...
+    Option 1:
+        Traveler: (So he thought, the fact that he was forgotten...)
+    Option 2:
+        Traveler: (Affected Durin too...)
+#{REALNAME[ID(1)|HOSTONLY(true)]}: It was just a suspicion before, but now I think it's something we have to try.
+Paimon: Wait, what do you mean? Try what?
+#{REALNAME[ID(1)|HOSTONLY(true)]}: One of the story's branches is a path I can't take. If you follow it out of here, I won't be part of your story anymore.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Considering what the strange magic in this book is capable of, making that choice could cut our connection once and for all.
+Traveler: Not this again...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: As long as there's a chance it might work, it's worth a try.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: He's not like me. He deserves for the world to remember him.
+Traveler: What do you think, Durin?
+Durin: Well... maybe Hat Guy has his reasons for thinking that way, but that's not the kind of decision I can make so easily.
+
+## Talk 15 (alternative/additional)
+
+(Go toward where the wind is coming from)
+
+Paimon: Hold on... That looks familiar!
+    Option 1:
+        Traveler: Wait, isn't that...
+    Option 2:
+        Traveler: The Durin?
+Durin: Yep, that's The Durin alright.
+Paimon: But, what's it doing here?
+"M" (Narrator): Beside the story's branches, there appeared... an origami boat from another tale.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Judging from the narrator's reaction, it probably wasn't meant to be part of this chapter.
+Durin: This was the exact boat that Hat Guy and I rode when we set off to explore Teyvat...
+Little Dragon: Wow, so we can actually ride it?
+Durin: Of course, and it can even fly! Back in Simulanka, me and my friends used to be able to hop on and get almost anywhere in no time.
+Durin: Whenever I'm lost in Teyvat, I can't help thinking about it. Imagine how great it would be if they had something like this there too...
+"M" (Narrator): So did the little dragon become enraptured by this fantasy — and fantasy it was, for in the world beyond the castle, no paper boat had ever flown before.
+Little Dragon: Oh, yeah... How could a paper boat even fly...
+Paimon: Ugh... Way to kill the mood, narrator.
 
 ## Talk 15 (alternative/additional)
 
@@ -329,25 +362,6 @@ Durin: C'mon, it's time to leave this place.
 
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
-## Talk 16
-
-Paimon: Hold on... That looks familiar!
-    Option 1:
-        Traveler: Wait, isn't that...
-    Option 2:
-        Traveler: The Durin?
-Durin: Yep, that's The Durin alright.
-Paimon: But, what's it doing here?
-"M" (Narrator): Beside the story's branches, there appeared... an origami boat from another tale.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Judging from the narrator's reaction, it probably wasn't meant to be part of this chapter.
-Durin: This was the exact boat that Hat Guy and I rode when we set off to explore Teyvat...
-Little Dragon: Wow, so we can actually ride it?
-Durin: Of course, and it can even fly! Back in Simulanka, me and my friends used to be able to hop on and get almost anywhere in no time.
-Durin: Whenever I'm lost in Teyvat, I can't help thinking about it. Imagine how great it would be if they had something like this there too...
-"M" (Narrator): So did the little dragon become enraptured by this fantasy — and fantasy it was, for in the world beyond the castle, no paper boat had ever flown before.
-Little Dragon: Oh, yeah... How could a paper boat even fly...
-Paimon: Ugh... Way to kill the mood, narrator.
-
 ## Objective 17
 
 (Returning to the castle...)
@@ -385,11 +399,10 @@ Durin: Is this... me?
 Traveler: So... the story ended?
 Paimon: Oh no, but Durin... Ugh, way to go, Hat Guy!
 
-## Talk 21
+## Objective 21
 
 (Seek out other possibilities)
 
-"M" (Narrator): As enigmatic as she was elegant, the seer-witch spoke no more — for her thoughts had long since returned to the starry firmament above.
 
 ## Talk 23
 

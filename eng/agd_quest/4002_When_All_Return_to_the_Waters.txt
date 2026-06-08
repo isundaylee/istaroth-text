@@ -10,17 +10,15 @@ Your investigations did not bear much fruit, but a new suspect has been hauled u
 (Find a way to get underwater)
 
 
-## Talk 2
+## Objective 2
 
 (Go to the place Melus mentioned)
 
-Navia: (Something's not right... Let me think for a little while longer.)
 
-## Talk 3
+## Objective 3
 
 (Find the entrance to the "headquarters")
 
-Traveler: (This isn't it... Better keep looking.)
 
 ## Talk 4
 
@@ -33,6 +31,12 @@ Paimon: Finally found it... So this is the entrance that leads to the Sinthe pro
         Traveler: Yes, but I'm sure what we find inside will be "extraordinary."
 Paimon: Ah, you're right... An important place like this is bound to have a ton of protective measures and mechanisms.
 Paimon: Navia's probably arguing up a storm right now to stall for us...
+
+## Talk 5 (alternative/additional)
+
+(Go to the opera house to identify the culprit)
+
+Navia: (Something's not right... Let me think for a little while longer.)
 
 ## Talk 5 (alternative/additional)
 
@@ -65,6 +69,38 @@ Childe: So, Your Honor, is there nothing else for me to do now?
 Neuvillette: You may take a seat for now in the audience, but that doesn't mean the suspicions against you have been lifted.
 Neuvillette: Now then, Miss Navia, who is the person you would like to charge instead?
 Navia: That person is...
+
+## Talk 5 (alternative/additional)
+
+(Go to the opera house to identify the culprit)
+
+Navia: Marcel, the head of Confrerie of Cabriere!
+Confident Audience Member (Confused Audience Member): Huh? What confrerie? Never heard of them in my life.
+Contemplative Audience Member (Thinking Audience Member): I've heard of them, but... weren't they Spina di Rosula's sister organization?
+Scornful Audience Member (Ecstatic Audience Member): Ooh! Is this going to be friends-to-enemies type situation!?
+Neuvillette: Please let me remind you, Miss Navia, that charging someone is an incredibly serious matter. Committing to the charge also means taking on the legal responsibilities associated with it.
+Neuvillette: And if the charge fails, depending on the circumstances, you may also be charged with the crime of making a false accusation. Knowing this, do you still wish to charge this man?
+Navia: Yes, I do.
+Neuvillette: In that case, I declare the charge to be valid. Miss Navia and attorneys, please take your places on the court.
+Neuvillette: Members of the Gardes, please contact Mr. Marcel right away so that he may stand trial.
+Black Screen Text: After some time, a shocked and confused Marcel is brought to the stands.
+Neuvillette: Mr. Marcel, you will not require an attorney, is that correct?
+Marcel: Ah... Apologies, it all just happened so quickly, I still haven't figured out what's going on.
+Marcel: I think an attorney won't be necessary. This is probably just a misunderstanding between me and Navia.
+Neuvillette: Very well. In that case, since both sides have now arrived, Miss Navia, please present your charges.
+Navia: I would like to take everyone back to three years ago, to the case of "Callas the Unfaithful."
+Navia: Only through elucidating what really happened in that case can we connect all the dots for the serial disappearances case.
+Marcel: Navia, do you really think I was the one who killed your father?
+Marcel: Come on, why would I do that? Callas was my benefactor, and remember, both you and I only ran to the scene when we heard the sound of a gun.
+Marcel: If that's enough to make me a suspect, wouldn't that make everyone at that banquet a suspect as well?
+Furina: I, uh... I think there's no point in getting into the specifics right now. The audience doesn't even have the big picture yet. Even I'm... ahem, struggling to remember some details of that case.
+Navia: Exactly correct, Your Honor. I must refresh everyone's memory about that case before I can explain my charge and reasoning.
+Neuvillette: I see. In which case, I will recount the findings about that case as originally recorded by Maison Gardiennage.
+Navia: (The one with the motive to kill was Jacques, not my father, and even so, Jacques still had no reason to pull the trigger.)
+Navia: (In truth, the third person shot Jacques first, and was shot in turn by my father when my father seized the gun from him.)
+Navia: (After that, the true culprit turned the third person into water, erasing all traces of him from the scene.)
+Navia: Thank you for the summary, Your Honor. Of course, the Gardes' conclusion appeared quite sensible to us at the time.
+Navia: However, we should revisit the case now that we've gained new information about the abilities of Water from the Primordial Sea.
 
 ## Talk 5
 
@@ -270,6 +306,16 @@ Paimon: *sigh* They're all just so evil...
 
 (Look for clues in the headquarters' depths)
 
+Paimon: Oh look! There's an important-looking basin over here... and it's full of water!
+Traveler: That must be the Water from the Primordial Sea.
+Paimon: That means this is where they make all the Sinthe! And that special water is the main ingredient.
+Paimon: If you dilute it with normal water, you'll get Sinthe, but the pure stuff can dissolve a human...
+Paimon: Paimon will take notes on this incriminating evidence!
+
+## Talk 10 (alternative/additional)
+
+(Look for clues in the headquarters' depths)
+
 Unknown Role (TALK_ROLE_NPC): (Bottles full of Sinthe and Water from the Primordial Sea. These can be used as evidence to prove what this place was used for.)
 
 ## Talk 10 (alternative/additional)
@@ -379,6 +425,12 @@ Unknown Role (TALK_ROLE_NPC): (Nothing else here seems particularly noteworthy.)
 
 (Race back to the opera house and submit the evidence)
 
+
+## Talk 14 (alternative/additional)
+
+(Confront Marcel)
+
+Traveler: (This isn't it... Better keep looking.)
 
 ## Talk 14 (alternative/additional)
 
@@ -682,36 +734,6 @@ Navia: Sure thing. I'd like you two to share the moment with me. After all, with
 Melus: Then in that case, everyone, let's be off. Considering the recent weather, we'll be lucky if we can reach Poisson before dark...
 Navia: Yeah, you're right... It's been raining non-stop for a few days now.
 
-## Talk 21
-
-Navia: Marcel, the head of Confrerie of Cabriere!
-Confident Audience Member (Confused Audience Member): Huh? What confrerie? Never heard of them in my life.
-Contemplative Audience Member (Thinking Audience Member): I've heard of them, but... weren't they Spina di Rosula's sister organization?
-Scornful Audience Member (Ecstatic Audience Member): Ooh! Is this going to be friends-to-enemies type situation!?
-Neuvillette: Please let me remind you, Miss Navia, that charging someone is an incredibly serious matter. Committing to the charge also means taking on the legal responsibilities associated with it.
-Neuvillette: And if the charge fails, depending on the circumstances, you may also be charged with the crime of making a false accusation. Knowing this, do you still wish to charge this man?
-Navia: Yes, I do.
-Neuvillette: In that case, I declare the charge to be valid. Miss Navia and attorneys, please take your places on the court.
-Neuvillette: Members of the Gardes, please contact Mr. Marcel right away so that he may stand trial.
-Black Screen Text: After some time, a shocked and confused Marcel is brought to the stands.
-Neuvillette: Mr. Marcel, you will not require an attorney, is that correct?
-Marcel: Ah... Apologies, it all just happened so quickly, I still haven't figured out what's going on.
-Marcel: I think an attorney won't be necessary. This is probably just a misunderstanding between me and Navia.
-Neuvillette: Very well. In that case, since both sides have now arrived, Miss Navia, please present your charges.
-Navia: I would like to take everyone back to three years ago, to the case of "Callas the Unfaithful."
-Navia: Only through elucidating what really happened in that case can we connect all the dots for the serial disappearances case.
-Marcel: Navia, do you really think I was the one who killed your father?
-Marcel: Come on, why would I do that? Callas was my benefactor, and remember, both you and I only ran to the scene when we heard the sound of a gun.
-Marcel: If that's enough to make me a suspect, wouldn't that make everyone at that banquet a suspect as well?
-Furina: I, uh... I think there's no point in getting into the specifics right now. The audience doesn't even have the big picture yet. Even I'm... ahem, struggling to remember some details of that case.
-Navia: Exactly correct, Your Honor. I must refresh everyone's memory about that case before I can explain my charge and reasoning.
-Neuvillette: I see. In which case, I will recount the findings about that case as originally recorded by Maison Gardiennage.
-Navia: (The one with the motive to kill was Jacques, not my father, and even so, Jacques still had no reason to pull the trigger.)
-Navia: (In truth, the third person shot Jacques first, and was shot in turn by my father when my father seized the gun from him.)
-Navia: (After that, the true culprit turned the third person into water, erasing all traces of him from the scene.)
-Navia: Thank you for the summary, Your Honor. Of course, the Gardes' conclusion appeared quite sensible to us at the time.
-Navia: However, we should revisit the case now that we've gained new information about the abilities of Water from the Primordial Sea.
-
 ## Talk 22
 
 (Go to the cemetery next to Poisson)
@@ -757,14 +779,6 @@ Paimon: Huh? Paimon didn't know that was a thing... But... But Paimon doesn't kn
 Paimon: Nooo... Paimon hopes Miss Navia won't be too mad...
 Traveler: (Wow, she took it seriously...)
 Paimon: Anyway, Neuvillette is still standing around there... It's not often that we can catch him alone like this, so why don't we go talk to him for a bit? If we can't talk to Lady Furina, we can at least talk to him, right?
-
-## Talk 23
-
-Paimon: Oh look! There's an important-looking basin over here... and it's full of water!
-Traveler: That must be the Water from the Primordial Sea.
-Paimon: That means this is where they make all the Sinthe! And that special water is the main ingredient.
-Paimon: If you dilute it with normal water, you'll get Sinthe, but the pure stuff can dissolve a human...
-Paimon: Paimon will take notes on this incriminating evidence!
 
 ## Talk 24 (alternative/additional)
 

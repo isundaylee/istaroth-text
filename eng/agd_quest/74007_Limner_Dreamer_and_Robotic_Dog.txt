@@ -24,6 +24,11 @@ Paimon: Uh-oh, what do we do...
         Paimon: Blood? Mamere, are you okay? What blood?
         Mamere: We cannot... delay any further. Let's swim from over there...
 
+## Objective 2
+
+(Head to the designated location)
+
+
 ## Objective 3
 
 (Enter the waters)
@@ -121,45 +126,6 @@ Jakob: ...And should you survive this battle, the giant revived beast will crush
 Jakob: Well then, farewell.
 Paimon: Agh, they're coming this way!
 
-## Talk 9
-
-Seymour: Affirmative. Ms. Mary-Ann was my master, and my prime directive was to accompany her on *garbled mechanical noises* behalf and ensure that she would smile happily.
-Seymour: I have not been able to fulfill that duty for (1/7)×10^21 clockwork cycles due to the lack of a relay module.
-Seymour: In truth, I cannot ascertain Ms. Mary-Ann's present location, either. This should never happen. My logic unit requires immediate repair.
-Seymour: As such, if you do not mind, allow me to depart for now. My standard deduction module has already calculated the most likely location where I may collect information, and I must go there.
-Mamere: Eh? Wait, Seymour. Are you leaving...?
-Seymour: Affirmative. I thank you for your care thus far, Ms. Mamere, but I have a duty that I must fulfill.
-Mamere: Th—Then I'll come too...
-Seymour: Negative. Deduced danger level: High. For your safety, I must refuse your proposal, Ms. Mamere.
-Seymour: But I will promise to return and express formal gratitude to you once I find my master.
-Seymour: Unfortunately, some of my memories remain damaged, so I do not presently know where the Narzissenkreuz Ordo that I must reach is, precisely.
-Seymour: As such, my search will inevitably take a great deal of time. For that, you have my apologies in advance.
-Mamere: I see... I understand.
-Mamere: There's something you must do, and so you have to leave. But you'll come back to find me, won't you, Seymour?
-Seymour: Affirmative.
-Mamere: Alright, then. Be careful, Seymour...
-Mamere: You have to come back, alright. My token, the symbol of my life, is with you, so don't go breaking down someplace where I can't find you...
-Seymour: You have my word, Ms. Mamere. I will fulfill my mission and return to your spatial coordinates.
-Mamere: O—Okay, got it, got it! A—Anyway, I've suddenly got a bout of inspiration, so I'm going to go paint now. Don't forget to come back and see me when you've finished your work, okay?
-Traveler: You have a deal.
-Traveler: We'll take care of Seymour for you for now.
-Mamere: #Alright, I understand! Traveler, Paimon, Seymour, you all stay safe, alright?
-Mamere: I'll... make a move first...
-Paimon: Mamere...
-Paimon: So, uh, where are we going next? Seymour mentioned this place called the Narzissenkreuz Ordo, right?
-
-## Talk 10
-
-Traveler: The Narzissenkreuz Ordo?
-Paimon: Huh... What sorta place is the Narzissenkreuz Ordo, anyway?
-Seymour: Searching... Insufficient data. Unable to answer.
-Seymour: My standard deduction module was only able to give this name. Apart from that, I do not possess any related information.
-Paimon: Wait, then how are we supposed to find the place!?
-Traveler: We can help.
-Seymour: Calculating... Affirmative. Your presence on the journey will greatly increase its success rate.
-Seymour: #Thank you very much for your help, Mr. Traveler.
-Paimon: But let's just go anyway! Once everything's settled, we'll bring you back to see Mamere!
-
 ## Objective 11
 
 (Try to escape)
@@ -215,16 +181,10 @@ Mamere: It's... done.
 Paimon: Wow, that was super quick!
 Paimon: #Well, Traveler, let's have a look, shall we...
 
-## Talk 14
+## Objective 14
 
 (Explore the unknown space)
 
-Traveler: About that Breacher Primus from earlier...
-Elynas: Ah! Well, I saw that you were trapped and thought, "If this goes on, I will be revived, and you will all die."
-Elynas: My strength began to return, and so I thought, why don't I use one of my cells to attack the thing trapping you? That way, you'd be able to move.
-Traveler: That was one of your cells?
-Elynas: That's right! They can help to drive harmful things away from my body and protect my children. However, they aren't as smart as my children, so they will attack you too. Sorry about that.
-Elynas: Still, I'm glad to have helped out!
 
 ## Objective 15
 
@@ -266,6 +226,17 @@ Elynas: There is something within him — a bit of the dark, cold cosmos's power
 Elynas: And aha, I thought, so my blood will do him good — wonderful!
 Elynas: Later, he would come often to collect my blood, all the way up till there was a great battle involving many people here, him included. He didn't come back again after that.
 Elynas: To be honest, I was worried that he might have died. Imagine how happy I was to see him return — alive and well, and so tall and strong!
+
+## Talk 16 (alternative/additional)
+
+(Meet the owner of the voice)
+
+Traveler: About that Breacher Primus from earlier...
+Elynas: Ah! Well, I saw that you were trapped and thought, "If this goes on, I will be revived, and you will all die."
+Elynas: My strength began to return, and so I thought, why don't I use one of my cells to attack the thing trapping you? That way, you'd be able to move.
+Traveler: That was one of your cells?
+Elynas: That's right! They can help to drive harmful things away from my body and protect my children. However, they aren't as smart as my children, so they will attack you too. Sorry about that.
+Elynas: Still, I'm glad to have helped out!
 
 ## Talk 16 (alternative/additional)
 
@@ -405,7 +376,50 @@ Seymour: I am Prototype 4ACV07, designed by *garbled mechanical noises* to accom
 
 Paimon: Eh? Mary-Ann? That Jakob guy mentioned that name as well, didn't he?
 
-## Talk 17
+## Talk 17 (alternative/additional)
+
+(Talk to everyone)
+
+Seymour: Affirmative. Ms. Mary-Ann was my master, and my prime directive was to accompany her on *garbled mechanical noises* behalf and ensure that she would smile happily.
+Seymour: I have not been able to fulfill that duty for (1/7)×10^21 clockwork cycles due to the lack of a relay module.
+Seymour: In truth, I cannot ascertain Ms. Mary-Ann's present location, either. This should never happen. My logic unit requires immediate repair.
+Seymour: As such, if you do not mind, allow me to depart for now. My standard deduction module has already calculated the most likely location where I may collect information, and I must go there.
+Mamere: Eh? Wait, Seymour. Are you leaving...?
+Seymour: Affirmative. I thank you for your care thus far, Ms. Mamere, but I have a duty that I must fulfill.
+Mamere: Th—Then I'll come too...
+Seymour: Negative. Deduced danger level: High. For your safety, I must refuse your proposal, Ms. Mamere.
+Seymour: But I will promise to return and express formal gratitude to you once I find my master.
+Seymour: Unfortunately, some of my memories remain damaged, so I do not presently know where the Narzissenkreuz Ordo that I must reach is, precisely.
+Seymour: As such, my search will inevitably take a great deal of time. For that, you have my apologies in advance.
+Mamere: I see... I understand.
+Mamere: There's something you must do, and so you have to leave. But you'll come back to find me, won't you, Seymour?
+Seymour: Affirmative.
+Mamere: Alright, then. Be careful, Seymour...
+Mamere: You have to come back, alright. My token, the symbol of my life, is with you, so don't go breaking down someplace where I can't find you...
+Seymour: You have my word, Ms. Mamere. I will fulfill my mission and return to your spatial coordinates.
+Mamere: O—Okay, got it, got it! A—Anyway, I've suddenly got a bout of inspiration, so I'm going to go paint now. Don't forget to come back and see me when you've finished your work, okay?
+Traveler: You have a deal.
+Traveler: We'll take care of Seymour for you for now.
+Mamere: #Alright, I understand! Traveler, Paimon, Seymour, you all stay safe, alright?
+Mamere: I'll... make a move first...
+Paimon: Mamere...
+Paimon: So, uh, where are we going next? Seymour mentioned this place called the Narzissenkreuz Ordo, right?
+
+## Talk 17 (variant 1)
+
+(Talk to everyone)
+
+Traveler: The Narzissenkreuz Ordo?
+Paimon: Huh... What sorta place is the Narzissenkreuz Ordo, anyway?
+Seymour: Searching... Insufficient data. Unable to answer.
+Seymour: My standard deduction module was only able to give this name. Apart from that, I do not possess any related information.
+Paimon: Wait, then how are we supposed to find the place!?
+Traveler: We can help.
+Seymour: Calculating... Affirmative. Your presence on the journey will greatly increase its success rate.
+Seymour: #Thank you very much for your help, Mr. Traveler.
+Paimon: But let's just go anyway! Once everything's settled, we'll bring you back to see Mamere!
+
+## Talk 17 (variant 2)
 
 (Talk to everyone)
 

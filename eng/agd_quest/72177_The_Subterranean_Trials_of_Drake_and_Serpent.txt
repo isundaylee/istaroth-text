@@ -5,9 +5,34 @@
 For treasure and for the future of Watatsumi Island, you accept Tsuyuko's commission and prepare to descend into Enkanomiya...
 
 
-## Talk 1
+## Objective 1
 
 (Go to the ruins up ahead)
+
+
+## Objective 2
+
+(Investigate the ruin ahead)
+
+
+## Objective 3
+
+(Defeat the opponents that appeared)
+
+
+## Objective 4
+
+(Examine the mechanism and open the great door)
+
+
+## Objective 5
+
+(Go into the ruins)
+
+
+## Talk 6 (variant 1)
+
+(Talk to the person on the second floor)
 
 Enjou (???): Uh-oh! Trying to trespass, are we...?
 Enjou (???): ...Wait, maybe not. I correct myself. You two must be the heroes who have come to retrieve the coral this time, are you not?
@@ -78,54 +103,7 @@ Enjou: In any case, if you can't find the place, just circle around the barrier 
 Enjou: I'm almost done with my own investigations here. I haven't found what I'm looking for, though, so I'll go on ahead to wait for you.
 Enjou: Oh, one other thing — I believe that this picture behind me matches Enkanomiya's topography. I suggest you study it carefully before heading out.
 
-## Talk 2
-
-(Investigate the ruin ahead)
-
-Enjou: Have you made any progress looking for the Golden Bridle?
-Enjou: When I first entered the library, there was a handbook sitting in a most conspicuous position, detailing hints concerning the trial in the ancient tongue. The Golden Bridle should be in the back of this library.
-
-## Objective 3
-
-(Defeat the opponents that appeared)
-
-
-## Objective 4
-
-(Examine the mechanism and open the great door)
-
-
-## Talk 5
-
-(Go into the ruins)
-
-Enjou: #Check you out, Traveler! You actually defeated these Bathysmal Vishaps all by yourself! Impressive, most impressive indeed!
-Enjou: Can I touch them?
-Paimon: Enjou? What are you doing here?
-Enjou: Hah. Actually, I'm gonna touch 'em no matter what you say. These are the mortal foes of humanity, after all. This chance may never come again!
-Enjou: Ah, oh yes, you must be wondering how I got here. Well, bear with me a moment. I need to think about where to start explaining.
-Enjou: Simply put, Enkanomiya is the netherworld of sinners, yes? I am one such sinner — one who has committed the sins of deception and betrayal.
-Paimon: Wait, wait, Paimon still doesn't get it... What are you trying to do, Enjou?
-Enjou: I came here to search for a certain book. That book contains records of things that happened in Byakuyakoku before the Dainichi Mikoshi was constructed.
-Enjou: These chronicles are known to the people here as the times "before Sun and Moon." Back then, no gods walked the earth, and the whole land belonged to a single civilization.
-Paimon: Was there ever really such a time? The bards claim that the times "when gods walked the earth" is the furthest back we go!
-Enjou: Yes, that's precisely it. That's why I wanted to find this book. That way, we, the Abyss Order, would have proof. Proof that the gods and Celestia came from beyond this world.
-Enjou: The only thing I do know at the moment is that the Great Serpent was sentenced to death by Celestia for accidentally reading this book.
-Enjou: An entire nation was relocated, the door to the depths was sealed, and that nation was stirred up in an eastern expedition to cover this truth.
-Enjou: Yes, that was the grand ritual of sacrifice required for the people of Watatsumi to once again live like humans.
-Enjou: But as for this book... I searched for it in the library and the Dainichi Mikoshi, but I could not find it.
-    Option 1:
-        Traveler: That's... too much information.
-    Option 2:
-        Traveler: So you tricked us, then?
-Enjou: Wait, I said this much, and that's all you have to say?
-Enjou: Not going to grit your teeth in anger, or just dispense with that and smack me in the face?
-Paimon: ...Do you seriously want to get beaten up that badly?
-Enjou: But actually, I don't think I did anything THAT bad. I didn't technically lie to you — I am a clerical staff member sent to help you... I just never said that I was sent by Sangonomiya.
-Enjou: I was indeed translating literature here, but you know, it had nothing to do with the trial. I am a bookish character, and hey — did I or did I not transform into a fire-flinging monster!?
-Enjou: ...I believe that you refer to our exegetes as "Lectors," yes?
-
-## Talk 6
+## Talk 6 (variant 2)
 
 (Talk to the person on the second floor)
 
@@ -189,6 +167,13 @@ Enjou: Oh, one other thing — I believe that this picture behind me matches Enk
 
 (Investigate the rear of the library and solve the puzzle)
 
+
+## Talk 11 (alternative/additional)
+
+(Obtain the Golden Bridle)
+
+Enjou: Have you made any progress looking for the Golden Bridle?
+Enjou: When I first entered the library, there was a handbook sitting in a most conspicuous position, detailing hints concerning the trial in the ancient tongue. The Golden Bridle should be in the back of this library.
 
 ## Objective 11
 
@@ -284,11 +269,10 @@ Paimon: Huh? That sounds really dangerous. You sure you're a researcher?
 Enjou: Of course! I already can't wait to investigate the insides of the Dainichi Mikoshi. What long-lost volumes will we uncover there?
 Enjou: Well, allow me to go ahead first. If you find any tempting treasures, you're free to take them.
 
-## Talk 22
+## Objective 22
 
 (Go to the Dainichi Mikoshi)
 
-Aru: Have you found all the fragments?
 
 ## Talk 23 (alternative/additional)
 
@@ -418,6 +402,12 @@ Enjou: These afterimages really are interesting...
         Enjou: In that triangular formation of nature, there was an opposition between the abyssal Void Realm and the elemental Vishap Realm.
         Enjou: Humans would create high towers in later years to allow the Human Realm to interpose itself between the two, thus creating a stable space — one held up by three towers in three corners.
 
+## Talk 30 (alternative/additional)
+
+(Talk to Aru)
+
+Aru: Have you found all the fragments?
+
 ## Objective 30
 
 (Talk to Aru)
@@ -497,6 +487,36 @@ Aru: This will, without a doubt, be a mortal struggle. Sangonomiya's survival is
 
 (Obtain the Bloodbranch Coral)
 
+
+## Talk 38
+
+(Talk to Enjou)
+
+Enjou: #Check you out, Traveler! You actually defeated these Bathysmal Vishaps all by yourself! Impressive, most impressive indeed!
+Enjou: Can I touch them?
+Paimon: Enjou? What are you doing here?
+Enjou: Hah. Actually, I'm gonna touch 'em no matter what you say. These are the mortal foes of humanity, after all. This chance may never come again!
+Enjou: Ah, oh yes, you must be wondering how I got here. Well, bear with me a moment. I need to think about where to start explaining.
+Enjou: Simply put, Enkanomiya is the netherworld of sinners, yes? I am one such sinner — one who has committed the sins of deception and betrayal.
+Paimon: Wait, wait, Paimon still doesn't get it... What are you trying to do, Enjou?
+Enjou: I came here to search for a certain book. That book contains records of things that happened in Byakuyakoku before the Dainichi Mikoshi was constructed.
+Enjou: These chronicles are known to the people here as the times "before Sun and Moon." Back then, no gods walked the earth, and the whole land belonged to a single civilization.
+Paimon: Was there ever really such a time? The bards claim that the times "when gods walked the earth" is the furthest back we go!
+Enjou: Yes, that's precisely it. That's why I wanted to find this book. That way, we, the Abyss Order, would have proof. Proof that the gods and Celestia came from beyond this world.
+Enjou: The only thing I do know at the moment is that the Great Serpent was sentenced to death by Celestia for accidentally reading this book.
+Enjou: An entire nation was relocated, the door to the depths was sealed, and that nation was stirred up in an eastern expedition to cover this truth.
+Enjou: Yes, that was the grand ritual of sacrifice required for the people of Watatsumi to once again live like humans.
+Enjou: But as for this book... I searched for it in the library and the Dainichi Mikoshi, but I could not find it.
+    Option 1:
+        Traveler: That's... too much information.
+    Option 2:
+        Traveler: So you tricked us, then?
+Enjou: Wait, I said this much, and that's all you have to say?
+Enjou: Not going to grit your teeth in anger, or just dispense with that and smack me in the face?
+Paimon: ...Do you seriously want to get beaten up that badly?
+Enjou: But actually, I don't think I did anything THAT bad. I didn't technically lie to you — I am a clerical staff member sent to help you... I just never said that I was sent by Sangonomiya.
+Enjou: I was indeed translating literature here, but you know, it had nothing to do with the trial. I am a bookish character, and hey — did I or did I not transform into a fire-flinging monster!?
+Enjou: ...I believe that you refer to our exegetes as "Lectors," yes?
 
 ## Objective 39
 

@@ -54,16 +54,10 @@ Nahida: But by expanding the scale to include all the people of Sumeru, all the 
 Nahida: Under normal circumstances, Irminsul would be able to cope with the additional load. But with it already being under strain from other activities, its remaining capacity is limited.
 Nahida: Thus, it might be possible to shut it down completely by overloading it.
 
-## Talk 2
+## Objective 2
 
 (Head to the entrance to King Deshret's mausoleum)
 
-Traveler: This place looks so different from how I remember. It's unrecognizable.
-Traveler: It's a complete mess, like someone's turned the place upside down...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Must be Dottore's doing. Either he's searching for some information he needs, or...
-Traveler: It's still changing.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He has to know we've entered Irminsul. But luckily for us, he can't pinpoint our location.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Be on your guard. Don't let him find us.
 
 ## Talk 3
 
@@ -388,6 +382,17 @@ Traveler: ...Listen to me. Your safety is just as important as mine.
 Traveler: Don't even think about sacrificing yourself for the greater good. We came here together, and we're leaving together.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Alright, if you insist. I won't argue with you.
 
+## Talk 20
+
+(Explore Irminsul)
+
+Traveler: This place looks so different from how I remember. It's unrecognizable.
+Traveler: It's a complete mess, like someone's turned the place upside down...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Must be Dottore's doing. Either he's searching for some information he needs, or...
+Traveler: It's still changing.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: He has to know we've entered Irminsul. But luckily for us, he can't pinpoint our location.
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Be on your guard. Don't let him find us.
+
 ## Objective 21
 
 (Explore Irminsul)
@@ -462,6 +467,11 @@ Traveler: Nicole? Nicole!
 (Defeat the opponent)
 
 
+## Objective 28
+
+(Defeat the opponents)
+
+
 ## Objective 29
 
 (Defeat the opponents)
@@ -473,6 +483,11 @@ Traveler: Nicole? Nicole!
 
 
 ## Objective 31
+
+(Proclaim the inevitability of the action)
+
+
+## Objective 32
 
 (Proclaim the inevitability of the action)
 

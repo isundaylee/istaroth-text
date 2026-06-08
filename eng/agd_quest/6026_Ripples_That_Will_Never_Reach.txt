@@ -24,6 +24,15 @@ Lauma: Very well. Let's go.
 
 Jahoda: Could you do me a solid and try to smooth things over with Boss Nef?
 
+## Talk 1 (alternative/additional)
+
+(Go meet Columbina)
+
+Flins: ...Which is why we need a lantern guaranteed to work on the moon.
+Albedo: Yes. I have a few ideas, but... The lantern itself is the easy part. The real issue is how little we know about the lunar environment.
+Durin: Wait... you two are serious about this?
+Flins: Hehe. Let's just say I'm intrigued by these shining magical stones that Mr. Albedo has mentioned.
+
 ## Talk 1
 
 (Go meet Columbina)
@@ -796,6 +805,11 @@ Albedo: Yes. The important thing is not the nature of the power, but rather how 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
 Durin: ...Let me try. I should be able to influence that thing.
 
+## Objective 21
+
+(Make use of the stone pillar to aid Razmaspes)
+
+
 ## Talk 22 (alternative/additional)
 
 (Make use of the stone pillars to aid Razmaspes)
@@ -860,14 +874,10 @@ Razmaspes: Ah!
 Razmaspes: So many... monsters...!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
 
-## Talk 27
+## Objective 27
 
 (Protect Razmaspes)
 
-Flins: ...Which is why we need a lantern guaranteed to work on the moon.
-Albedo: Yes. I have a few ideas, but... The lantern itself is the easy part. The real issue is how little we know about the lunar environment.
-Durin: Wait... you two are serious about this?
-Flins: Hehe. Let's just say I'm intrigued by these shining magical stones that Mr. Albedo has mentioned.
 
 ## Talk 28 (alternative/additional)
 
@@ -885,7 +895,14 @@ Razmaspes: H—Help me...!
 Durin: This is a new development... I've never seen this happen before...
 Durin: We might just be able to save this person.
 
-## Talk 30
+## Objective 31
+
+(Wait for Razmaspes to gather information)
+
+
+## Talk 32 (alternative/additional)
+
+(Continue escorting Razmaspes)
 
 Razmaspes: Hello there... Have you seen my daughter? Spargana's her name. She's carrying a large backpack...
 Gaoramus: ...Get out while you still can, you fool... You won't find any survivors here...
@@ -900,17 +917,6 @@ Razmaspes: M—Monster... Aaaaahhh!
 Durin: ...If he goes inside, he'll be walking into a trap. Let's try this once more — this time, we have to stop him.
 
 Black Screen Text: The rescue has reached a dead end. All that can be done is to wait for another chance.
-
-## Talk 31
-
-(Wait for Razmaspes to gather information)
-
-Razmaspes: H—Hello, I'm looking for... Huh!?
-Phryazantus: Looking for what? Everything here belongs to me!
-Phryazantus: Get him, boys!
-Razmaspes: Aghhh!
-
-Black Screen Text: The phantom has met its end and returned to his place of origin.
 
 ## Talk 32 (alternative/additional)
 
@@ -930,15 +936,21 @@ Black Screen Text: The rescue has reached a dead end. All that can be done is to
 
 Fleeing Person C: Ah! Someone help me!
 
-## Talk 32
+## Talk 32 (alternative/additional)
 
 (Continue escorting Razmaspes)
 
-Razmaspes: Huh? That's... That looks like one of my daughter's books!
-Razmaspes: Oh, thank you, thank you...
-Razmaspes: Yes, it's one of hers for sure — there's her name on it, right there! She left her backpack here.
-Monster: ——
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Durin, just like last time! Use the explosives!
+Razmaspes: H—Hello, I'm looking for... Huh!?
+Phryazantus: Looking for what? Everything here belongs to me!
+Phryazantus: Get him, boys!
+Razmaspes: Aghhh!
+
+Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+## Objective 32
+
+(Continue escorting Razmaspes)
+
 
 ## Talk 33
 
@@ -950,15 +962,20 @@ The Damselette: Oh...
 The Damselette: The day has come at last...
 The Damselette: Missing text (2092602122)
 
-## Talk 35
+## Talk 34
 
 (Continue escorting Razmaspes)
 
-Razmaspes: That's my daughter's book! She's passed this way! Why... Why won't you let me go in!?
-Razmaspes: I've searched, and searched, and searched... just for this! But how will I find her without any clues!?
+Razmaspes: Huh? That's... That looks like one of my daughter's books!
+Razmaspes: Oh, thank you, thank you...
+Razmaspes: Yes, it's one of hers for sure — there's her name on it, right there! She left her backpack here.
 Monster: ——
-Razmaspes: I...
-Razmaspes: I no longer have anywhere else to go...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: Durin, just like last time! Use the explosives!
+
+## Objective 35
+
+(Continue escorting Razmaspes)
+
 
 ## Talk 36
 
@@ -974,6 +991,16 @@ Durin: I guess so...
 (Block the gate ahead of Razmaspes)
 
 Black Screen Text: The phantom has met its end and returned to his place of origin.
+
+## Talk 37
+
+(Block the gate ahead of Razmaspes)
+
+Razmaspes: That's my daughter's book! She's passed this way! Why... Why won't you let me go in!?
+Razmaspes: I've searched, and searched, and searched... just for this! But how will I find her without any clues!?
+Monster: ——
+Razmaspes: I...
+Razmaspes: I no longer have anywhere else to go...
 
 ## Talk 38
 

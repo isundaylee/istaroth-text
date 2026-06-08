@@ -5,44 +5,10 @@
 You finally make your way back to the Pillar Hall from the Apathic Interval...
 
 
-## Talk 1
+## Objective 1
 
 (Go to the center of the Pillar Hall)
 
-Zeitlind: Wow, you really do wind up seeing anything if you live long enough...
-Zeitlind: I was just thinking earlier — you were incredible back there, especially against Melanta... but...
-Zeitlind: What was it you did again?
-Zeitlind: And... who are you, exactly?
-Paimon: Is your memory fading away?
-Zeitlind: Who... am I?
-Traveler: Your name is Zeitlind.
-Paimon: #That's right! Also, Paimon's Paimon, and this here is Traveler. We're your good friends!
-Zeitlind: Friends...?
-Paimon: Yes! We're friends who've been through hell and back together.
-Zeitlind: Really?
-Zeitlind: I can feel it. It must be true.
-Paimon: And your sister's been traveling the world lately, just to clear her head. Someday, the two of you will meet again.
-Paimon: She might not remember you at first, either... but you share the same blood, not to mention the same face.
-Paimon: You'll recognize each other right away, Paimon's sure of it!
-Zeitlind: I have an older sister...
-Paimon: Ah, you can ignore this gravestone!
-Paimon: Your sister put it up herself, just for fun. It's her way of saying she's been reborn.
-Paimon: She's definitely still alive!
-Zeitlind: My sister...
-Paimon: Mm-hmm.
-Zeitlind: She's kind of silly, huh?
-Paimon: ...Eh?
-Paimon: Anyway, there should be some information about you in your suitcase. Take a look. You'll probably remember things once you do.
-Zeitlind: Okay. I will.
-Paimon: And one more thing. You're an amazing person.
-Paimon: Like, saved-an-entire-world amazing.
-Zeitlind: Who, me?
-Paimon: Everyone is deeply grateful to you. So live proudly, okay?
-Paimon: #And if anyone ever picks on you or makes you feel bad, just write to Traveler. There's nothing {F#she}{M#he} can't handle for you.
-Traveler: Is there anything you want to do right now?
-Zeitlind: I don't know... But I'm... starving. Like I haven't eaten in days.
-Paimon: Heh. Paimon's hungry too! She needs food now!
-Paimon: Hurry up and empty your backpack! Paimon wants tons of Chicken-Mushroom Skewers!
 
 ## Talk 2
 
@@ -128,14 +94,23 @@ Paimon: Is there anything else you need to do?
         Traveler: Give me a few moments more to prepare.
         Zeitlind: I'll wait for you. Let us bear witness together when the time comes.
 
-## Talk 3
+## Talk 4 (alternative/additional)
 
-Zeitlind: This is... my sister's handwriting.
-Paimon: Oh, are these letters we didn't manage to collect down below earlier?
-Zeitlind: No. Just a few messages she left behind, and a short poem she wrote.
-Zeitlind: It's not a farewell. She must still be alive.
-Paimon: Can we read all this?
-Zeitlind: Oh, you will.
+(Talk to Istoria)
+
+Zeitlind: Well, are you ready?
+
+Istoria: Lind... Would you reconsider?
+
+Zeitlind: No.
+
+Traveler: Let's go...
+
+Istoria: *sigh*
+
+Traveler: Let's wait a little longer.
+
+Zeitlind: I'll wait for you. Let us bear witness together when the time comes.
 
 ## Objective 4
 
@@ -168,9 +143,45 @@ Zeitlind: Are we building the Corridor of Nothingness's stairway to the heavens 
 Istoria: Yes.
 Zeitlind: Then let's begin.
 
-## Talk 8
+## Objective 8
 
 (Explore the Corridor of Nothingness)
+
+
+## Talk 9
+
+(Investigate the pile of books)
+
+Zeitlind: This is... my sister's handwriting.
+Paimon: Oh, are these letters we didn't manage to collect down below earlier?
+Zeitlind: No. Just a few messages she left behind, and a short poem she wrote.
+Zeitlind: It's not a farewell. She must still be alive.
+Paimon: Can we read all this?
+Zeitlind: Oh, you will.
+
+## Objective 10
+
+(Continue exploring)
+
+
+## Objective 11
+
+(Memory...)
+
+
+## Objective 12
+
+(Go to the Corridor of Nothingness)
+
+
+## Objective 13
+
+(Talk to Zeitlind)
+
+
+## Talk 14
+
+(Talk to Zeitlind)
 
 Zeitlind: My sister's poem...
 Zeitlind: Oh my. It's all emotion. Not a lick of literary flair.
@@ -189,27 +200,57 @@ Zeitlind: From now on, the Path to the Heavens linking the Hall of Emptiness and
 Zeitlind: They will exist only as two girls' shared longing for a beautiful world.
 Zeitlind: That, too, is a kind of eternity.
 
-## Talk 10
+## Talk 15
 
-(Continue exploring)
+(Enter the Atrium of Suchness)
 
-Zeitlind: Well, are you ready?
+Melanta: Child of humanity... No... You are...!
 
-Istoria: Lind... Would you reconsider?
+Melanta: #My creator, my lord... why would you choose {F#him}{M#her} and abandon me?
 
-Zeitlind: No.
+Paimon: Hey, did it... suddenly fly into a rage...?
 
-Traveler: Let's go...
+Melanta: Send them back.
 
-Istoria: *sigh*
+## Objective 16
 
-Traveler: Let's wait a little longer.
+(Defeat the Keepers)
 
-Zeitlind: I'll wait for you. Let us bear witness together when the time comes.
 
-## Talk 11
+## Talk 17
 
-(Memory...)
+(Investigate the anomaly)
+
+Unknown Role (TALK_ROLE_NPC): Missing text (1337077162)
+Traveler: Missing text (4049155234)
+
+## Objective 18
+
+(Find the hidden enemies and defeat them)
+
+
+## Objective 19
+
+(Find the hidden enemies and defeat them)
+
+
+## Objective 20
+
+(Find the hidden enemies and defeat them)
+
+
+## Objective 21
+
+(Find the hidden enemies and defeat them)
+
+
+## Talk 23
+
+Unknown Role (TALK_ROLE_NONE): Missing text (372917610)
+
+## Talk 25
+
+(Talk to the Watcher)
 
 Melanta: Outlander... Since you are no child of humanity, how should I address you?
 
@@ -269,65 +310,24 @@ Zeitlind: But I avoid talking when I can. The one who'll change your mind isn't 
 
 Zeitlind: #Traveler... I'll leave it to you.
 
-## Objective 12
+## Objective 26
 
-(Go to the Corridor of Nothingness)
-
-
-## Objective 13
-
-(Talk to Zeitlind)
+(Defeat "melancholy")
 
 
-## Talk 15
+## Objective 27
 
-(Enter the Atrium of Suchness)
-
-Melanta: Child of humanity... No... You are...!
-
-Melanta: #My creator, my lord... why would you choose {F#him}{M#her} and abandon me?
-
-Paimon: Hey, did it... suddenly fly into a rage...?
-
-Melanta: Send them back.
-
-## Objective 16
-
-(Defeat the Keepers)
+(Defeat "Melancholy")
 
 
-## Talk 17
+## Objective 28
 
-(Investigate the anomaly)
-
-Unknown Role (TALK_ROLE_NPC): Missing text (1337077162)
-Traveler: Missing text (4049155234)
-
-## Objective 18
-
-(Find the hidden enemies and defeat them)
+(Defeat "melancholy")
 
 
-## Objective 19
+## Talk 29
 
-(Find the hidden enemies and defeat them)
-
-
-## Objective 20
-
-(Find the hidden enemies and defeat them)
-
-
-## Objective 21
-
-(Find the hidden enemies and defeat them)
-
-
-## Talk 23
-
-Unknown Role (TALK_ROLE_NONE): Missing text (372917610)
-
-## Talk 24
+(Talk to the Watcher)
 
 Melanta: Nihilita! Nihilita!
 
@@ -403,21 +403,6 @@ Melanta: You and your sister — mortals who love everything and everyone — yo
 
 Melanta: Nihilita, my weariness runs deeper than words...
 
-## Objective 26
-
-(Defeat "melancholy")
-
-
-## Objective 27
-
-(Defeat "Melancholy")
-
-
-## Objective 28
-
-(Defeat "melancholy")
-
-
 ## Talk 31
 
 Unknown Role (TALK_ROLE_NONE): Missing text (2236945546)
@@ -463,6 +448,45 @@ Zeitlind: So... goodbye, Istoria.
 Istoria: Goodbye, Lind. And when you see Hilda, give her my regards.
 Zeitlind: I can't promise I'll remember any of this. And I can't promise she'll remember you, either.
 Zeitlind: #Come on, Traveler, Paimon. Take me back down. Then... we'll meet again, like it's the first time.
+
+## Talk 34
+
+(Leave with Zeitlind)
+
+Zeitlind: Wow, you really do wind up seeing anything if you live long enough...
+Zeitlind: I was just thinking earlier — you were incredible back there, especially against Melanta... but...
+Zeitlind: What was it you did again?
+Zeitlind: And... who are you, exactly?
+Paimon: Is your memory fading away?
+Zeitlind: Who... am I?
+Traveler: Your name is Zeitlind.
+Paimon: #That's right! Also, Paimon's Paimon, and this here is Traveler. We're your good friends!
+Zeitlind: Friends...?
+Paimon: Yes! We're friends who've been through hell and back together.
+Zeitlind: Really?
+Zeitlind: I can feel it. It must be true.
+Paimon: And your sister's been traveling the world lately, just to clear her head. Someday, the two of you will meet again.
+Paimon: She might not remember you at first, either... but you share the same blood, not to mention the same face.
+Paimon: You'll recognize each other right away, Paimon's sure of it!
+Zeitlind: I have an older sister...
+Paimon: Ah, you can ignore this gravestone!
+Paimon: Your sister put it up herself, just for fun. It's her way of saying she's been reborn.
+Paimon: She's definitely still alive!
+Zeitlind: My sister...
+Paimon: Mm-hmm.
+Zeitlind: She's kind of silly, huh?
+Paimon: ...Eh?
+Paimon: Anyway, there should be some information about you in your suitcase. Take a look. You'll probably remember things once you do.
+Zeitlind: Okay. I will.
+Paimon: And one more thing. You're an amazing person.
+Paimon: Like, saved-an-entire-world amazing.
+Zeitlind: Who, me?
+Paimon: Everyone is deeply grateful to you. So live proudly, okay?
+Paimon: #And if anyone ever picks on you or makes you feel bad, just write to Traveler. There's nothing {F#she}{M#he} can't handle for you.
+Traveler: Is there anything you want to do right now?
+Zeitlind: I don't know... But I'm... starving. Like I haven't eaten in days.
+Paimon: Heh. Paimon's hungry too! She needs food now!
+Paimon: Hurry up and empty your backpack! Paimon wants tons of Chicken-Mushroom Skewers!
 
 ## Additional Conversations
 

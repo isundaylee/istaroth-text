@@ -5,9 +5,14 @@
 Librarian Lisa seems annoyed about her work...
 
 
-## Talk 1
+## Objective 1
 
 (Find Lisa in the Library)
+
+
+## Talk 2
+
+(Talk to Lisa)
 
 Lisa: *yawn* If you're borrowing a book, please register it in the log. The restricted section is currently not lending any books...
 Lisa: Oh? It's you, little cutie.
@@ -139,6 +144,11 @@ Lisa: Let's go and find the next overdue book.
 Marjorie: Take a look around, there's sure to be something she'll love.
 *(Choose a gift for Lisa.)*
 
+## Objective 5
+
+(Pick a souvenir for Lisa)
+
+
 ## Talk 6
 
 Traveler: Yes
@@ -209,6 +219,15 @@ Paimon: Work is that bad, huh?
 
 (Order a dish Lisa would like)
 
+Traveler: Regarding Lisa's taste in food...
+Sara: What does Lisa like to eat?
+Sara: She's been here a few times with Master Jean for afternoon tea before. I think she normally orders *something vegetarian*.
+Sara: A lady tends to eat cautiously on account of her physique, after all! On that note, I should probably be watching my own diet a little more...
+
+## Talk 15 (alternative/additional)
+
+(Order a dish Lisa would like)
+
 Lisa: #*yawn*... Why don't you order us something, Traveler? I'm ever so curious to know what your tastes are.
 *(Pick a dish that Lisa will like)*
 
@@ -227,6 +246,15 @@ Paimon: You sure you wanna pick the *Steak*? *Can't change again* once you've ma
 Traveler: Northern Smoked Chicken
 Lisa: This seems like the sort of staple bar food you'd find at the tavern. It has an extremely strong flavor, so drinkers love it because they can actually taste it.
 Paimon: You sure you wanna pick the *Northern Smoked Chicken*? *Can't change again* once you've made your mind up!
+
+## Talk 15 (alternative/additional)
+
+(Order a dish Lisa would like)
+
+Traveler: Radish Veggie Soup
+Lisa: I imagine that making a good vegetable soup takes good quality ingredients cooked in the right order at the right heat for the right length of time.
+Lisa: At least, those are the principles that apply when one is making potions. But from what I've heard, soup-making was a popular pastime among the witches of the past.
+Paimon: You sure you wanna pick the *Radish Veggie Soup*? *Can't change again* once you've made your mind up!
 
 ## Talk 15 (alternative/additional)
 
@@ -296,53 +324,49 @@ Lisa: Finished ordering? Sit here, let's dine together.
 
 Traveler: ???
 
-## Talk 21
-
-Traveler: Radish Veggie Soup
-Lisa: I imagine that making a good vegetable soup takes good quality ingredients cooked in the right order at the right heat for the right length of time.
-Lisa: At least, those are the principles that apply when one is making potions. But from what I've heard, soup-making was a popular pastime among the witches of the past.
-Paimon: You sure you wanna pick the *Radish Veggie Soup*? *Can't change again* once you've made your mind up!
-
 ## Talk 22 (alternative/additional)
 
 Traveler: ???
-
-## Talk 22
-
-Traveler: Regarding Lisa's taste in food...
-Sara: What does Lisa like to eat?
-Sara: She's been here a few times with Master Jean for afternoon tea before. I think she normally orders *something vegetarian*.
-Sara: A lady tends to eat cautiously on account of her physique, after all! On that note, I should probably be watching my own diet a little more...
-
-## Talk 23
-
-Lisa: A fine choice! I'm pleasantly surprised.
-Lisa: A truly enchanting dish, certainly a good fit for a witch. I am simply brimming with elemental energy after that.
-
-## Talk 24 (variant 1)
-
-Lisa: Mm... beautifully tender and cooked to perfection. No wonder it's their signature dish. It's a shame I can't have more, but a witch must watch her physique.
-
-## Talk 24 (variant 2)
-
-Lisa: Hmm, such a potent aroma... It's almost suffocating. I never thought someone your age would go for a dish like this...
-Lisa: I always had you down as a little cutie... Now I'm not so sure.
-
-## Talk 24 (variant 3)
-
-Lisa: The ingredients are fresh — the Good Hunter certainly lives up to its reputation in that respect. Salad as a meal is a little bland, though — it always feels like there's something missing.
-
-## Talk 24 (variant 4)
-
-Lisa: Wow, Jean must have given you some pointers? Such extraordinary lengths to prepare for a delicious meal... I'd almost say that's cheating.
-Lisa: I didn't know you and Jean got on so well. She used to make this for me once in a while too.
-Lisa: As it happens, this is exactly what I was craving — the perfect treat after a tiresome day of work. You've outdone yourself.
 
 ## Talk 25
 
 (Sit down and dine with Lisa)
 
 Lisa: Finished ordering? Sit here, let's dine together.
+
+## Talk 26 (alternative/additional)
+
+(Talk to Sara)
+
+Lisa: Mm... beautifully tender and cooked to perfection. No wonder it's their signature dish. It's a shame I can't have more, but a witch must watch her physique.
+
+## Talk 26 (alternative/additional)
+
+(Talk to Sara)
+
+Lisa: Hmm, such a potent aroma... It's almost suffocating. I never thought someone your age would go for a dish like this...
+Lisa: I always had you down as a little cutie... Now I'm not so sure.
+
+## Talk 26 (alternative/additional)
+
+(Talk to Sara)
+
+Lisa: A fine choice! I'm pleasantly surprised.
+Lisa: A truly enchanting dish, certainly a good fit for a witch. I am simply brimming with elemental energy after that.
+
+## Talk 26 (alternative/additional)
+
+(Talk to Sara)
+
+Lisa: The ingredients are fresh — the Good Hunter certainly lives up to its reputation in that respect. Salad as a meal is a little bland, though — it always feels like there's something missing.
+
+## Talk 26 (alternative/additional)
+
+(Talk to Sara)
+
+Lisa: Wow, Jean must have given you some pointers? Such extraordinary lengths to prepare for a delicious meal... I'd almost say that's cheating.
+Lisa: I didn't know you and Jean got on so well. She used to make this for me once in a while too.
+Lisa: As it happens, this is exactly what I was craving — the perfect treat after a tiresome day of work. You've outdone yourself.
 
 ## Talk 26
 
@@ -371,6 +395,50 @@ Donna: Some flowers for Miss Lisa? What would you like?
 
 Donna: Some flowers for Miss Lisa? What would you like?
 *(Pick a kind that Lisa will like)*
+
+## Talk 28 (alternative/additional)
+
+(Talk to Donna and find out what happened)
+
+Flora: What kind of flowers does Lisa like?
+Flora: You want to know what flowers to get for Miss Lisa?
+Flora: We're not particularly close, but she strikes me as a classy lady!
+Flora: Hmm... Yep, it can only be the *Cecilia*!
+
+## Talk 28 (alternative/additional)
+
+(Talk to Donna and find out what happened)
+
+Donna: Yes
+Lisa: Dandelions? They actually sell dandelions?
+Lisa: They have a refreshing scent, similar to the one Jean wears. Thank you.
+
+## Talk 28 (alternative/additional)
+
+(Talk to Donna and find out what happened)
+
+Donna: Yes
+Lisa: Huh? These flowers are saturated with Cryo energy. They could be very dangerous for me.
+Lisa: Don't you know what happens when Cryo meets Electro? *Tut-tut* You certainly haven't been doing your homework.
+Lisa: Meet me at the library after work and I will give you some training on elemental reactions. If you still find it hard to memorize... Maybe I'll have you give you a little taste of what it feels like to superconduct.
+
+## Talk 28 (alternative/additional)
+
+(Talk to Donna and find out what happened)
+
+Donna: Yes
+Lisa: I can see you put a lot of thought into this, have you ever heard of the Witch of Purple Rose before?
+Lisa: I thought that after returning to Mondstadt I wouldn't have the chance to see fresh roses again.
+Lisa: This seems like a good sign.
+
+## Talk 28 (alternative/additional)
+
+(Talk to Donna and find out what happened)
+
+Donna: Yes
+Lisa: Ooh la-la, such fine taste.
+Lisa: This rare flower is only found in Mondstadt's very highest mountains.
+Lisa: If only you had picked them for me with your own hands... They would have had twice the sentimental value.
 
 ## Talk 28 (alternative/additional)
 
@@ -429,33 +497,6 @@ Lisa: Ah yes... Now which book was it that has the line, "a date without flowers
         Donna: Some flowers for Miss Lisa? What would you like?
 *(Pick a kind that Lisa will like)*
 
-## Talk 30
-
-Donna: Yes
-Lisa: Dandelions? They actually sell dandelions?
-Lisa: They have a refreshing scent, similar to the one Jean wears. Thank you.
-
-## Talk 31
-
-Donna: Yes
-Lisa: Huh? These flowers are saturated with Cryo energy. They could be very dangerous for me.
-Lisa: Don't you know what happens when Cryo meets Electro? *Tut-tut* You certainly haven't been doing your homework.
-Lisa: Meet me at the library after work and I will give you some training on elemental reactions. If you still find it hard to memorize... Maybe I'll have you give you a little taste of what it feels like to superconduct.
-
-## Talk 32
-
-Donna: Yes
-Lisa: I can see you put a lot of thought into this, have you ever heard of the Witch of Purple Rose before?
-Lisa: I thought that after returning to Mondstadt I wouldn't have the chance to see fresh roses again.
-Lisa: This seems like a good sign.
-
-## Talk 33
-
-Donna: Yes
-Lisa: Ooh la-la, such fine taste.
-Lisa: This rare flower is only found in Mondstadt's very highest mountains.
-Lisa: If only you had picked them for me with your own hands... They would have had twice the sentimental value.
-
 ## Talk 34 (alternative/additional)
 
 Donna: ???
@@ -469,13 +510,6 @@ Donna: I couldn't help but notice the flower on Miss Lisa's hat though — I thi
 ## Talk 35 (alternative/additional)
 
 Donna: ???
-
-## Talk 35
-
-Flora: What kind of flowers does Lisa like?
-Flora: You want to know what flowers to get for Miss Lisa?
-Flora: We're not particularly close, but she strikes me as a classy lady!
-Flora: Hmm... Yep, it can only be the *Cecilia*!
 
 ## Talk 36 (variant 1)
 

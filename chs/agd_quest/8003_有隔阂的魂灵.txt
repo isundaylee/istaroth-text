@@ -41,46 +41,10 @@
 派蒙: 咦…你是说…
 派蒙: 哦！我也懂了！没错没错，那台*「坐在高塔上的守卫」*，确实很让人印象深刻呢！
 
-## Talk 2
+## Objective 2
 
 (前往风龙废墟)
 
-派蒙: 他们走了…
-派蒙: #呜…旅行者，别这么伤心…我们会找到他们的！往好的一面想吧！这次至少已经找到很有用的线索了！
-    Option 1:
-        旅行者: 我…没有伤心。
-        派蒙: 欸？真的吗？唔…
-    Option 2:
-        旅行者: 派蒙说得没错，希望已经出现了。
-        派蒙: 嗯，是吧是吧！
-派蒙: 总之，以目前的情形而言，寻找亲人的突破口，除了「七神」以外，又多了一个「戴因」吧？
-    Option 1:
-        旅行者: 我们去稻妻以后，也需要多留意。
-    Option 2:
-        旅行者: 「旅行」的目标又多了一个。
-派蒙: 没错。对了，他们刚才说的话好难懂，你听明白了吗？
-    Option 1:
-        旅行者: 差不多明白了。
-    Option 2:
-        旅行者: #注意力只在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}身上，没仔细听。
-派蒙: 唔…那我们来稍微梳理一下吧。
-派蒙: #首先是那个深渊使徒，它把你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}叫做「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}」殿下。
-派蒙: #看来你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}正在统领深渊教团，而且地位比深渊使徒更高…虽然不知道是不是最高的统治者就是了。
-派蒙: #还有，你{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}的目标是「淹没神座、与天理作战」。这是什么意思呢？听起来…是不是要覆灭七神与七国？
-派蒙: 然后，深渊教团的怪物，就是坎瑞亚灭国时的人民…扭曲成的怪物。这真是可怕的故事。
-派蒙: 戴因也是坎瑞亚人，五百年前也经历了那一切。但他没有变成怪物，而且在五百年后的今天，正对抗着深渊教团…
-派蒙: #也就是，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说的，「戴因正在与{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}为敌」的意思吧？
-派蒙: 但是，如果深渊教团的怪物，是当年戴因守护的人民，那为什么戴因要与深渊教团敌对呢？
-派蒙: #另外，为什么…我一直在陪你寻找的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}，现在却和深渊教团的怪物站在一起？
-    Option 1:
-        旅行者: 情报并不太多。
-    Option 2:
-        旅行者: 再多想也没意义了。
-派蒙: 嗯，没错。
-派蒙: #那——旅行者，打起精神来！
-派蒙: 我们的旅行不会结束，该动身了！离开这个讨厌的地方，先回到阳光照耀的地面上去吧。
-派蒙: #如果你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}要你「抵达终点」…好啊，那你就抵达给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}看！
-派蒙: 「旅行者」，我们走吧！
 
 ## Talk 3
 
@@ -128,9 +92,54 @@
 戴因斯雷布: 走吧，回*那座遗迹*。我们去砸毁逆位的神像，而且，运气好的话，还能遇到「深渊使徒」。
 戴因斯雷布: 有我在，它就没可能再从你眼前消失一次了。
 
-## Talk 4
+## Objective 4
 
 (再次进入遗迹)
+
+
+## Talk 5
+
+(与派蒙对话)
+
+派蒙: 没想到，这一路上兜兜转转，最后又走回来了呀。
+派蒙: 好不容易逃出险境，现在又要钻进去！
+派蒙: 哎，像我们这样勇敢的冒险家，整个提瓦特大陆都找不出多少啦。
+
+## Objective 6
+
+(再次进入遗迹)
+
+
+## Objective 7
+
+(找到「污秽逆位神像」)
+
+
+## Talk 8
+
+(与戴因对话)
+
+戴因斯雷布: 看来，我们到了。
+戴因斯雷布: 怪异、枯萎…令人不快的房间。我理解你们所说的恶质气氛了。
+派蒙: 呜呜呜…还是这么恐怖的环境…
+戴因斯雷布: 小心，不要被「污秽逆位神像」的力量压倒了——「深渊使徒」就在这里。
+深渊使徒: 呵呵呵呵…敏锐的嗅觉…
+深渊使徒: 你还是这么讨人厌啊，教团之敌，戴因斯雷布！
+深渊使徒: 我能感受到，你身上有股可怕的血腥味。是来自漆黑的噩梦，亦或是…嗯？
+深渊使徒: 噢噢…真危险。你也有那种「腐朽」的味道，让我熟悉…
+深渊使徒: 你和我们一样，都是危险的事物。但「教团」以外的危险之物，都该被放在笼子里才对…
+戴因斯雷布: 啧。
+戴因斯雷布: 你的舌头，恐怕也「腐朽」了太久…
+戴因斯雷布: 该切了！
+
+## Objective 9
+
+(击败深渊使徒)
+
+
+## Talk 10
+
+(#与{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}相会)
 
 派蒙: 那，那个人，难道就是…？！
 旅行者: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！
@@ -185,41 +194,43 @@
 旅行者血亲: #听我说，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。
 旅行者血亲: 我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。
 
-## Talk 5
+## Talk 11
 
 (与派蒙对话)
 
-派蒙: 没想到，这一路上兜兜转转，最后又走回来了呀。
-派蒙: 好不容易逃出险境，现在又要钻进去！
-派蒙: 哎，像我们这样勇敢的冒险家，整个提瓦特大陆都找不出多少啦。
-
-## Objective 6
-
-(再次进入遗迹)
-
-
-## Objective 7
-
-(找到「污秽逆位神像」)
-
-
-## Talk 8
-
-(与戴因对话)
-
-戴因斯雷布: 看来，我们到了。
-戴因斯雷布: 怪异、枯萎…令人不快的房间。我理解你们所说的恶质气氛了。
-派蒙: 呜呜呜…还是这么恐怖的环境…
-戴因斯雷布: 小心，不要被「污秽逆位神像」的力量压倒了——「深渊使徒」就在这里。
-深渊使徒: 呵呵呵呵…敏锐的嗅觉…
-深渊使徒: 你还是这么讨人厌啊，教团之敌，戴因斯雷布！
-深渊使徒: 我能感受到，你身上有股可怕的血腥味。是来自漆黑的噩梦，亦或是…嗯？
-深渊使徒: 噢噢…真危险。你也有那种「腐朽」的味道，让我熟悉…
-深渊使徒: 你和我们一样，都是危险的事物。但「教团」以外的危险之物，都该被放在笼子里才对…
-戴因斯雷布: 啧。
-戴因斯雷布: 你的舌头，恐怕也「腐朽」了太久…
-戴因斯雷布: 该切了！
-
-## Objective 9
-
-(击败深渊使徒)
+派蒙: 他们走了…
+派蒙: #呜…旅行者，别这么伤心…我们会找到他们的！往好的一面想吧！这次至少已经找到很有用的线索了！
+    Option 1:
+        旅行者: 我…没有伤心。
+        派蒙: 欸？真的吗？唔…
+    Option 2:
+        旅行者: 派蒙说得没错，希望已经出现了。
+        派蒙: 嗯，是吧是吧！
+派蒙: 总之，以目前的情形而言，寻找亲人的突破口，除了「七神」以外，又多了一个「戴因」吧？
+    Option 1:
+        旅行者: 我们去稻妻以后，也需要多留意。
+    Option 2:
+        旅行者: 「旅行」的目标又多了一个。
+派蒙: 没错。对了，他们刚才说的话好难懂，你听明白了吗？
+    Option 1:
+        旅行者: 差不多明白了。
+    Option 2:
+        旅行者: #注意力只在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}身上，没仔细听。
+派蒙: 唔…那我们来稍微梳理一下吧。
+派蒙: #首先是那个深渊使徒，它把你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}叫做「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}」殿下。
+派蒙: #看来你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}正在统领深渊教团，而且地位比深渊使徒更高…虽然不知道是不是最高的统治者就是了。
+派蒙: #还有，你{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}的目标是「淹没神座、与天理作战」。这是什么意思呢？听起来…是不是要覆灭七神与七国？
+派蒙: 然后，深渊教团的怪物，就是坎瑞亚灭国时的人民…扭曲成的怪物。这真是可怕的故事。
+派蒙: 戴因也是坎瑞亚人，五百年前也经历了那一切。但他没有变成怪物，而且在五百年后的今天，正对抗着深渊教团…
+派蒙: #也就是，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说的，「戴因正在与{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}为敌」的意思吧？
+派蒙: 但是，如果深渊教团的怪物，是当年戴因守护的人民，那为什么戴因要与深渊教团敌对呢？
+派蒙: #另外，为什么…我一直在陪你寻找的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}，现在却和深渊教团的怪物站在一起？
+    Option 1:
+        旅行者: 情报并不太多。
+    Option 2:
+        旅行者: 再多想也没意义了。
+派蒙: 嗯，没错。
+派蒙: #那——旅行者，打起精神来！
+派蒙: 我们的旅行不会结束，该动身了！离开这个讨厌的地方，先回到阳光照耀的地面上去吧。
+派蒙: #如果你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}要你「抵达终点」…好啊，那你就抵达给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}看！
+派蒙: 「旅行者」，我们走吧！

@@ -40,6 +40,12 @@ Paimon: #Yeah! And Paimon will do her best to... float closer to the ground! No 
 
 (Equip the item and talk to Yelan)
 
+Yelan: Alright, remember to equip the *Forensic Imaging Device* and try not to make too much noise.
+
+## Talk 3 (alternative/additional)
+
+(Equip the item and talk to Yelan)
+
 Yelan: All set?
 
 ## Talk 3
@@ -57,27 +63,10 @@ Yelan: I'll keep an eye on the perimeter and make sure Scamface doesn't get clos
 Yelan: Of course, if he knows I'm here, there's no way he'll risk showing his face.
 Yelan: Take this opportunity to collect evidence. Check the goods carefully.
 
-## Talk 4
+## Objective 4
 
 (Investigate the goods on the pier)
 
-Paimon: Alright, that's all the bombs on the deck. What about the cargo hold? Do we have enough time?
-Yelan: Already taken care of.
-Yelan: Good work, you two. You stayed calm and acted fast. That was the perfect response to a situation like this.
-Paimon: Yelan! Honestly, it's all thanks to you. It was your idea to board the ship. And, we never would've been able to figure out that message without your cipher...
-Paimon: Wait a sec... Where are Corder and Doddamani?
-Yelan: Heh...
-Yelan: Recovering from the shock, I would imagine. Suddenly finding out that you're being targeted by a dangerous individual... That must have been quite the ordeal for you, gentlemen? Almost lost your cargo and your lives in one fell swoop...
-Corder: ...
-Corder: Indeed. To think such evil exists in this world... I can scarcely imagine what I did to offend this fellow. Resorting to murder like this... It's quite unfathomable.
-Yelan: Well, no need to fear. I'll alert the Maison Gardiennage at once and ask them to send agents to Lumidouce Harbor. The two of you are clearly in need of protection.
-Yelan: Your cargo will also need to be handed over to the authorities for inspection, Mr. Corder — just to eliminate any remaining hazards. After which, the Maison Gardiennage will escort it all to its intended destination, of course.
-Yelan: So, if I may... Where are your goods heading, Mr. Corder?
-Corder: ...To the Hotel Debord. For an auction in two days.
-Yelan: Ah, then rest assured. The Maison Gardiennage is full of diligent and responsible personnel. You can trust that your goods will arrive at the auction without a scratch.
-Corder: Our sincerest thanks.
-Black Screen Text: After some time, the ship safely docks at Lumidouce Harbor. The Maison Gardiennage conduct a quick safety inspection and unload all the cargo from the ship.
-Black Screen Text: In the meantime, you tell Yelan about the note Scamface left for Corder and Doddamani.
 
 ## Talk 5
 
@@ -105,11 +94,10 @@ Paimon: Yeah, let's see this thing through! Paimon's gotta know what's going on 
 Yelan: Well, you've proved yourselves so far, so I don't see a problem with that. Just know, once we board the ship, we're bound to come face to face with Corder and Doddamani.
 Yelan: So, make sure you're prepared. The investigation might look a little different this time.
 
-## Talk 6
+## Objective 6
 
 (Talk to Yelan)
 
-Traveler: (Yelan's distraction is holding. This is our chance, but we need to hurry.)
 
 ## Talk 7
 
@@ -173,6 +161,12 @@ Paimon: There are innocent people on this ship! We need to find and disarm those
 
 Traveler: (I should equip the *Forensic Imaging Device*...)
 
+## Talk 8 (alternative/additional)
+
+(Prepare to dismantle the bomb)
+
+Traveler: (Yelan's distraction is holding. This is our chance, but we need to hurry.)
+
 ## Talk 8
 
 (Prepare to dismantle the bomb)
@@ -185,11 +179,32 @@ Traveler: Let's act now!
 
 Unknown Role (TALK_ROLE_NONE): Yelan is turning the heat up on your opponent — now is the time to focus on dismantling the bomb...
 
-## Talk 9
+## Objective 9
 
 (Dismantle the bomb)
 
-Yelan: Alright, remember to equip the *Forensic Imaging Device* and try not to make too much noise.
+
+## Talk 10
+
+(Talk to Yelan)
+
+Paimon: Alright, that's all the bombs on the deck. What about the cargo hold? Do we have enough time?
+Yelan: Already taken care of.
+Yelan: Good work, you two. You stayed calm and acted fast. That was the perfect response to a situation like this.
+Paimon: Yelan! Honestly, it's all thanks to you. It was your idea to board the ship. And, we never would've been able to figure out that message without your cipher...
+Paimon: Wait a sec... Where are Corder and Doddamani?
+Yelan: Heh...
+Yelan: Recovering from the shock, I would imagine. Suddenly finding out that you're being targeted by a dangerous individual... That must have been quite the ordeal for you, gentlemen? Almost lost your cargo and your lives in one fell swoop...
+Corder: ...
+Corder: Indeed. To think such evil exists in this world... I can scarcely imagine what I did to offend this fellow. Resorting to murder like this... It's quite unfathomable.
+Yelan: Well, no need to fear. I'll alert the Maison Gardiennage at once and ask them to send agents to Lumidouce Harbor. The two of you are clearly in need of protection.
+Yelan: Your cargo will also need to be handed over to the authorities for inspection, Mr. Corder — just to eliminate any remaining hazards. After which, the Maison Gardiennage will escort it all to its intended destination, of course.
+Yelan: So, if I may... Where are your goods heading, Mr. Corder?
+Corder: ...To the Hotel Debord. For an auction in two days.
+Yelan: Ah, then rest assured. The Maison Gardiennage is full of diligent and responsible personnel. You can trust that your goods will arrive at the auction without a scratch.
+Corder: Our sincerest thanks.
+Black Screen Text: After some time, the ship safely docks at Lumidouce Harbor. The Maison Gardiennage conduct a quick safety inspection and unload all the cargo from the ship.
+Black Screen Text: In the meantime, you tell Yelan about the note Scamface left for Corder and Doddamani.
 
 ## Talk 11
 

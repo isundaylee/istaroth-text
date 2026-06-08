@@ -148,6 +148,11 @@ Paimon: And once we've met the Archon, we should have a better idea of what to e
 Paimon: Well, Paimon hopes this one is easy to get along with. As long as we don't get on their bad side, we should be fine!
 Paimon: Come on, let's keep following the road.
 
+## Objective 3
+
+(Go deeper into Natlan)
+
+
 ## Talk 4
 
 (Go deeper into Natlan)
@@ -242,28 +247,59 @@ Kachina: But, if I manage to learn a thing or two from you, I might just pull of
         Kachina: Oh, of course! Of course! I'm just glad you agreed!
 Kachina: Well, come with me, you two. I'll show you where I grew up, and introduce you to our tribe, the Children of Echoes.
 
-## Talk 5
+## Objective 5
 
 (Follow Kachina to the Children of Echoes)
 
-Kachina: I got so carried away just now, I didn't consider what would happen if our destinations were different...
-Kachina: Luckily, that's not the case, or... Well, I guess we'd just have to meet up after the tournament.
-Paimon: You sure it's okay you didn't tell the chief about your team?
-Kachina: *sigh* Chief Pacal's a really nice guy. If he knew the truth, he might even ask to join me.
-Kachina: But, he's not as young as he used to be, and he's got some old injuries that still bother him. He's not cut out for any more attempts.
-Kachina: He'll find out what really happened when he sees me compete. I'm sure I'll get an earful for lying... But this is for the best.
-Traveler: You're a very considerate person.
-Paimon: Yeah! Your teammates left you high and dry, and you made sure they didn't feel guilty about it!
-Kachina: It's not their fault! Really! The Pilgrimage is extremely important to the people of Natlan.
-Kachina: We all grow up listening to stories about the heroes of the past, and dream of becoming warriors with the strength to defend our nation.
-Kachina: Not out of a selfish desire for glory, but to lend our strength to a greater cause.
-Kachina: Anyway, don't worry about it for now. Once you witness the spectacle for yourself, maybe it'll all start to make more sense!
-Kachina: It'll also be a great opportunity to experience our culture and history!
-Kachina: Alright, time to leave our settlement. Let's head that way. Our last stop — the Statue of The Seven — is also in that direction. Let's go!
 
-## Talk 6
+## Objective 6
 
 (Continue exploring the Children of Echoes' territory)
+
+
+## Talk 7 (alternative/additional)
+
+(Continue exploring the Children of Echoes' territory)
+
+Kachina: Hey, it's Ayo! Come on, over here!
+Ayo: Roar...
+Kachina: Allow me to introduce you! This is Ayo, my Saurian companion, and also an important member of my family.
+Ayo: Roar~ ♪
+Kachina: Hehe, he's saying hello! I think he likes you!
+Paimon: "Saurian"... So, in Natlan, you consider Saurians to be part of your family?
+Kachina: Of course! Natlan is not only a nation of heroes, but also a nation of Saurians. They occupy an important place in every tribe.
+Kachina: Outlanders always seem to think of Ayo as my pet, but that's not the case at all.
+Kachina: Ayo and I go on adventures together, but he also has a Saurian family and a place to stay of his own. Sometimes, he even brings his entire family over to eat at our house.
+Kachina: The Children of Echoes have the closest ties to the Tepetlisaurs, which are naturally very friendly to humans. That's how our relationship became what it is today.
+Kachina: All Saurians have their own personalities, but... I think calling them our "companions" pretty much sums it up!
+Ayo: Roar...
+Kachina: See? Ayo agrees with me!
+
+## Talk 7 (variant 1)
+
+(Continue exploring the Children of Echoes' territory)
+
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrooh!
+Paimon: #Oh, hehe! You're here too, {REALNAME[ID(2)|HOSTONLY(true)]}!
+Kachina: No way! You have a Saurian companion too! Aww, what a sweet little thing! I think your friend here will get along with Ayo just fine!
+Kachina: Alright, you two go have fun. I've got some important business to handle, and then I'll be right back.
+Kachina: No mischief, okay? And you'd better not go leading your new friend astray, or I'm telling your parents.
+
+## Talk 7 (variant 2)
+
+(Continue exploring the Children of Echoes' territory)
+
+Kachina: Alright, why don't you go for a stroll while I handle some important business? Don't worry, I'll keep you company once I'm back!
+Kachina: No mischief, okay? Or I'm telling your parents.
+
+## Objective 8
+
+(Continue exploring the Children of Echoes' territory)
+
+
+## Talk 9
+
+(Talk to Kachina)
 
 Kachina: This is the most cherished and most sacred item in our tribe. It symbolizes the Wayob that protects us and grants us blessings.
 Paimon: "Wayob"? Is that a god of some sort?
@@ -338,40 +374,24 @@ Paimon: Sounds like a plan, then. Let's go!
 Pacal: #Well, if Traveler and Paimon are with you, then I don't need to worry about your safety... Be on your way, now.
 Kachina: Alright, we're off! See you later, Chief!
 
-## Talk 7 (alternative/additional)
+## Talk 10
 
-(Continue exploring the Children of Echoes' territory)
+(Talk to Kachina)
 
-Kachina: Hey, it's Ayo! Come on, over here!
-Ayo: Roar...
-Kachina: Allow me to introduce you! This is Ayo, my Saurian companion, and also an important member of my family.
-Ayo: Roar~ ♪
-Kachina: Hehe, he's saying hello! I think he likes you!
-Paimon: "Saurian"... So, in Natlan, you consider Saurians to be part of your family?
-Kachina: Of course! Natlan is not only a nation of heroes, but also a nation of Saurians. They occupy an important place in every tribe.
-Kachina: Outlanders always seem to think of Ayo as my pet, but that's not the case at all.
-Kachina: Ayo and I go on adventures together, but he also has a Saurian family and a place to stay of his own. Sometimes, he even brings his entire family over to eat at our house.
-Kachina: The Children of Echoes have the closest ties to the Tepetlisaurs, which are naturally very friendly to humans. That's how our relationship became what it is today.
-Kachina: All Saurians have their own personalities, but... I think calling them our "companions" pretty much sums it up!
-Ayo: Roar...
-Kachina: See? Ayo agrees with me!
-
-## Talk 7 (variant 1)
-
-(Continue exploring the Children of Echoes' territory)
-
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrooh!
-Paimon: #Oh, hehe! You're here too, {REALNAME[ID(2)|HOSTONLY(true)]}!
-Kachina: No way! You have a Saurian companion too! Aww, what a sweet little thing! I think your friend here will get along with Ayo just fine!
-Kachina: Alright, you two go have fun. I've got some important business to handle, and then I'll be right back.
-Kachina: No mischief, okay? And you'd better not go leading your new friend astray, or I'm telling your parents.
-
-## Talk 7 (variant 2)
-
-(Continue exploring the Children of Echoes' territory)
-
-Kachina: Alright, why don't you go for a stroll while I handle some important business? Don't worry, I'll keep you company once I'm back!
-Kachina: No mischief, okay? Or I'm telling your parents.
+Kachina: I got so carried away just now, I didn't consider what would happen if our destinations were different...
+Kachina: Luckily, that's not the case, or... Well, I guess we'd just have to meet up after the tournament.
+Paimon: You sure it's okay you didn't tell the chief about your team?
+Kachina: *sigh* Chief Pacal's a really nice guy. If he knew the truth, he might even ask to join me.
+Kachina: But, he's not as young as he used to be, and he's got some old injuries that still bother him. He's not cut out for any more attempts.
+Kachina: He'll find out what really happened when he sees me compete. I'm sure I'll get an earful for lying... But this is for the best.
+Traveler: You're a very considerate person.
+Paimon: Yeah! Your teammates left you high and dry, and you made sure they didn't feel guilty about it!
+Kachina: It's not their fault! Really! The Pilgrimage is extremely important to the people of Natlan.
+Kachina: We all grow up listening to stories about the heroes of the past, and dream of becoming warriors with the strength to defend our nation.
+Kachina: Not out of a selfish desire for glory, but to lend our strength to a greater cause.
+Kachina: Anyway, don't worry about it for now. Once you witness the spectacle for yourself, maybe it'll all start to make more sense!
+Kachina: It'll also be a great opportunity to experience our culture and history!
+Kachina: Alright, time to leave our settlement. Let's head that way. Our last stop — the Statue of The Seven — is also in that direction. Let's go!
 
 ## Talk 11 (alternative/additional)
 
@@ -413,9 +433,32 @@ Paimon: Huh, shouldn't you be able to shoot fireballs or summon flame pillars by
         Traveler: I don't sense any elemental energy either.
 Paimon: Strange... Must be something unique to Natlan.
 
-## Talk 13
+## Objective 13
 
 (Talk to Kachina)
+
+
+## Talk 14 (alternative/additional)
+
+(Go to the Statue of The Seven)
+
+Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
+Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
+
+## Talk 14 (alternative/additional)
+
+(Go to the Statue of The Seven)
+
+Paimon: It didn't work when you tried earlier, either. Now we know that wasn't a fluke... What's going on here?
+Kachina: Huh? You can get elemental power from the Statue of The Seven?
+Traveler: It's always worked before.
+Paimon: This would've been such a good opportunity to show Kachina how impressive you are...
+Paimon: It's so weird that it's not working... There must be something about Natlan...
+Kachina: Aw, I would've liked to see that...
+
+## Talk 14
+
+(Go to the Statue of The Seven)
 
 Paimon: Sorry, Kachina. We got your hopes up for nothing.
 Kachina: No, no, it's alright. If anything, I'm even more curious now! Were you really able to gain elemental powers just by touching the Statue of The Seven?
@@ -446,24 +489,6 @@ Kachina: I always bring a few when I know I'm gonna be out and about for a while
 Paimon: Ooh, Paimon loves candy. Thanks!
 Traveler: That's very generous of you!
 Kachina: My pleasure! My pleasure! I've got all sorts of bits and bobs on me. I'm sure they'll come in handy at some point!
-
-## Talk 14 (alternative/additional)
-
-(Go to the Statue of The Seven)
-
-Paimon: The statue is so pretty! Is that what the Pyro Archon is like?
-Kachina: You betcha! Beautiful, effortlessly confident, and absolutely awesome!
-
-## Talk 14 (alternative/additional)
-
-(Go to the Statue of The Seven)
-
-Paimon: It didn't work when you tried earlier, either. Now we know that wasn't a fluke... What's going on here?
-Kachina: Huh? You can get elemental power from the Statue of The Seven?
-Traveler: It's always worked before.
-Paimon: This would've been such a good opportunity to show Kachina how impressive you are...
-Paimon: It's so weird that it's not working... There must be something about Natlan...
-Kachina: Aw, I would've liked to see that...
 
 ## Talk 15
 

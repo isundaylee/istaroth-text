@@ -25,23 +25,10 @@ Nora: Whyyy! I just wanna play up there for a little bit...
 Grace: No means no! Your father would not approve either.
 Grace: And you — please refrain from indulging her! People would be just as worried about you if you did something so dangerous.
 
-## Talk 2 (variant 1)
+## Talk 2
 
 Traveler: That's enough for today.
 Nora: Okay... Time to have a rest.
-
-## Talk 2 (variant 2)
-
-Nora: Wooow! When I'm bigger, will I be able to glide like that?
-    Option 1:
-        Traveler: For sure!
-        Nora: Woohoo! I'm gonna grow up as fast as possible, then, when Daddy's finished his work, he can play with me!
-    Option 2:
-        Traveler: After you've got your gliding license, sure!
-        Nora: Gliding license? What's that? It sounds complicated...
-Nora: But maybe it's easier for grown-ups.
-Nora: Thank you. Here, this is a present for you. It's some treasure that I collected in secret.
-Nora: Quick, take it... Also, don't tell Aunty Grace!
 
 ## Talk 3
 
@@ -98,6 +85,21 @@ Grace: Oh, Nora...
 Nora: You flew there in {ChallengeCurrValue10} minute(s), that's amazing!
 Nora: Do you wanna go again? I bet you could go even faster...
 Nora: And I'll give you a prezzie if you do!
+
+## Talk 7
+
+(Talk to Nora)
+
+Nora: Wooow! When I'm bigger, will I be able to glide like that?
+    Option 1:
+        Traveler: For sure!
+        Nora: Woohoo! I'm gonna grow up as fast as possible, then, when Daddy's finished his work, he can play with me!
+    Option 2:
+        Traveler: After you've got your gliding license, sure!
+        Nora: Gliding license? What's that? It sounds complicated...
+Nora: But maybe it's easier for grown-ups.
+Nora: Thank you. Here, this is a present for you. It's some treasure that I collected in secret.
+Nora: Quick, take it... Also, don't tell Aunty Grace!
 
 ## Talk 8 (alternative/additional)
 

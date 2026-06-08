@@ -139,18 +139,10 @@ Traveler: ...
         Traveler: What were you planning to do around here?
 Eide: Ah, yes, that reminds me. I only returned here to check on Caribert, but I do have other things I wish to do... You may come with me, if you're so inclined.
 
-## Talk 3
+## Objective 3
 
 (Go inside)
 
-Eide: We're here. Let's begin...
-Eide: Wait a moment... Hey, what was that? ...Caribert?
-    Option 1:
-        Traveler: What!?
-    Option 2:
-        Traveler: He left the house?
-Eide: Oh no... He must have left while we were too busy preparing the medicine to notice...
-Eide: Come on! We have to catch up with him!
 
 ## Talk 4 (alternative/additional)
 
@@ -261,20 +253,10 @@ Traveler: (Since he needs the God of Wisdom's power, should I get Nahida to help
 Traveler: (...Forget it. Eide hates the gods — it could complicate things. I'll just do it his way.)
 Eide: Let's go. Bring the medicine with you.
 
-## Talk 9
+## Objective 9
 
 (Go inside)
 
-Black Screen Text: Eide carefully waters his field...
-Eide: I need you to stand guard here for a while. Whatever you do, don't let any Forest Rangers approach the house. Understand?
-    Option 1:
-        Traveler: Of course...
-    Option 2:
-        Traveler: Your secret is safe with me.
-Eide: Good. I'll be back soon, the fertilizer won't take but a moment to make.
-Black Screen Text: You wait in the field for Eide to return. After a while...
-Traveler: (Monsters! And so many of them... It looks like they're coming for this field...)
-Traveler: (Does watering the field somehow attract monsters? Hmm, better fend them off.)
 
 ## Talk 10
 
@@ -410,6 +392,21 @@ Eide: Anyway. Give me the water.
 (Go inside)
 
 
+## Talk 18
+
+(Talk to Eide)
+
+Black Screen Text: Eide carefully waters his field...
+Eide: I need you to stand guard here for a while. Whatever you do, don't let any Forest Rangers approach the house. Understand?
+    Option 1:
+        Traveler: Of course...
+    Option 2:
+        Traveler: Your secret is safe with me.
+Eide: Good. I'll be back soon, the fertilizer won't take but a moment to make.
+Black Screen Text: You wait in the field for Eide to return. After a while...
+Traveler: (Monsters! And so many of them... It looks like they're coming for this field...)
+Traveler: (Does watering the field somehow attract monsters? Hmm, better fend them off.)
+
 ## Objective 19
 
 (Go inside)
@@ -491,3 +488,16 @@ Eide: Hehe, I do indeed, that's why it was just a fleeting thought... Thank you 
 ## Talk 32 (alternative/additional)
 
 Caribert: ...
+
+## Talk 33
+
+(Go to the nearby Statue of The Seven)
+
+Eide: We're here. Let's begin...
+Eide: Wait a moment... Hey, what was that? ...Caribert?
+    Option 1:
+        Traveler: What!?
+    Option 2:
+        Traveler: He left the house?
+Eide: Oh no... He must have left while we were too busy preparing the medicine to notice...
+Eide: Come on! We have to catch up with him!

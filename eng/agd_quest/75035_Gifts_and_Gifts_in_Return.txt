@@ -53,21 +53,10 @@ Paimon: Ooh! Guess Paimon's picked just the thing, huh? Hey, be careful now! Don
 Paimon: ...Oh boy. Why does Paimon feel like you'll lose the gem if you hold onto it like that...?
 Paimon: Why don't we go find the Children of Echoes? If anyone's got gemsmiths who could shape it for us, it'd be them!
 
-## Talk 4
+## Objective 4
 
 (Look for a jeweler's shop in the Children of Echoes)
 
-Imix: Ah, you're here. Master Kulahaw has already left your processed gem in the shop, leaving instructions that I personally deliver it to you.
-Paimon: Huh? Master Kulahaw isn't here today either?
-Imix: That's right, he's out gathering inspiration yet again. By the way, he also made a set of locks to carry with him, saying it was to prevent his tools from being stolen... Which is weird... Would anyone want to steal our cutting tools and sell them?
-Paimon: Of course they wouldn't! It's becau—
-Paimon: (...So Imix still doesn't know they were stolen by birds... Let's spare Kulahaw the embarrassment!)
-Paimon: Because... Because there's someone who thinks they can steal his skills that way too, haha...
-Paimon: Forget it... Anyway, we'll take the gem! The shape is so pretty. That's what you'd call a "masterwork," huh?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: #Looks like {REALNAME[ID(2)|SHOWHOST(true)]} really likes it too!
-Traveler: #Allow me to thank you on {REALNAME[ID(2)|SHOWHOST(true)]}'s behalf.
-Imix: Hey now, as long as your little Saurian likes it! I'll be sure to pass on your compliments to Master Kulahaw, please come again!
 
 ## Talk 5
 
@@ -148,3 +137,20 @@ Kulahaw: Either way, just leave the gem to me. As I said before, I'll process it
 ## Objective 15
 
 (Wait until two days later)
+
+
+## Talk 16
+
+(Go to the gemporium to retrieve the gem)
+
+Imix: Ah, you're here. Master Kulahaw has already left your processed gem in the shop, leaving instructions that I personally deliver it to you.
+Paimon: Huh? Master Kulahaw isn't here today either?
+Imix: That's right, he's out gathering inspiration yet again. By the way, he also made a set of locks to carry with him, saying it was to prevent his tools from being stolen... Which is weird... Would anyone want to steal our cutting tools and sell them?
+Paimon: Of course they wouldn't! It's becau—
+Paimon: (...So Imix still doesn't know they were stolen by birds... Let's spare Kulahaw the embarrassment!)
+Paimon: Because... Because there's someone who thinks they can steal his skills that way too, haha...
+Paimon: Forget it... Anyway, we'll take the gem! The shape is so pretty. That's what you'd call a "masterwork," huh?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Paimon: #Looks like {REALNAME[ID(2)|SHOWHOST(true)]} really likes it too!
+Traveler: #Allow me to thank you on {REALNAME[ID(2)|SHOWHOST(true)]}'s behalf.
+Imix: Hey now, as long as your little Saurian likes it! I'll be sure to pass on your compliments to Master Kulahaw, please come again!

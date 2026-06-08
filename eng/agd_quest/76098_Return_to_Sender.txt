@@ -21,31 +21,24 @@ Ancient Terminal (Gentle Female Voice): "...Please... use the key card... The <c
 Paimon: Whoa, did the mechanism just break? All that fuzzy noise drowned out her voice. Paimon couldn't hear what she was saying...
 Paimon: #Paimon can't figure out what this place is... Traveler, why don't we go inside and take a look?
 
-## Talk 2
+## Objective 2
 
 (Enter the bunker)
 
-Bunker Access Terminal Server: Maintenance order for <color=#00E1FFF>Research Zone 1</color> complete. Expected duration exceeded by: *3,942,176* hour(s). A report of negligent conduct has been issued to the supervisory authority.
-Paimon: H—How many hours? Whoa, Paimon can only remember the first number. How many others were there after that three?
-Bunker Access Terminal Server: Access updated: Senior Technician Kotelnikov. Welcome to the Bunker Access Terminal Server.
-Paimon: Huh? Does this thing think we're the maintenance worker sent to repair the purification system...?
-Paimon: Paimon guesses that means we can access more places now! Let's see... This one appears to be <color=#00E1FFF>Research Zone 2</color>?
-Traveler: (Check on the status of Research Zone 2.)
-Bunker Access Terminal Server: Generating status report. Please wait.
-Bunker Access Terminal Server: <color=#00E1FFF>Research Zone 2</color>: *Warning*. High concentrations of Abyssal contamination and signs of the "Ultimate Calamity" have been detected.
-Bunker Access Terminal Server: *Apocalypse* Purification System: *Damaged*. Senior Technician Kotelnikov, please proceed to perform repairs under the protection of a guard escort.
-Paimon: A guard escort? Paimon doesn't see any guards around here... Wait a second — what did it say has been detected?
-    Option 1:
-        Traveler: It sounded like some sort of Abyssal monster...
-    Option 2:
-        Traveler: Keep me safe, Guard Captain Paimon.
-        Paimon: Hehe, Paimon'll keep you safe! ...Is what Guard Captain Paimon would say — if she had a weapon. Unfortunately, you'll have to watch your own back.
-Paimon: But if the "apocalypse" is actually just an Abyssal monster, then it's probably the source of this place's contamination...
-Paimon: #If we can take it down, the Abyssal contamination here should be cleaned up once and for all, right? Traveler, let's head to <color=#00E1FFF>Research Zone 2</color>!
 
-## Talk 3
+## Objective 3
 
 (Continue onward)
+
+
+## Objective 4
+
+(Continue onward)
+
+
+## Talk 5
+
+(Investigate the nearby area)
 
 Ancient Terminal (Automated Bunker Threat Response System): Unregistered residents detected. Initiating standard safety inspection protocol...
 Ancient Terminal (Automated Bunker Threat Response System): Scan complete. *Multiple dangerous items* detected. For the safety of other residents, please place all weapons and dangerous items into the designated receptacles.
@@ -69,11 +62,6 @@ Ancient Terminal: Please be assured. This bunker is designed to provide absolute
 Paimon: #Well, since the mysterious mechanism says it's all above board... Paimon thinks we should trust it, right, Traveler?
 Ancient Terminal: Thank you for your cooperation. All dangerous items have been collected. Scan complete. No threats detected. Standard safety inspection protocol complete.
 Ancient Terminal: Welcome to the bunker at the end of the *apocalypse*.
-
-## Objective 4
-
-(Continue onward)
-
 
 ## Objective 6
 
@@ -146,6 +134,28 @@ Ancient Terminal (Automated Bunker Threat Response System): Maintenance complete
 Ancient Terminal (Automated Bunker Threat Response System): Don't forget to retrieve your key card. Have a wonderful day.
 Paimon: Huh? Looking closely, this card seems to be a different color from the one we got earlier.
 Paimon: Paimon doesn't know who left it here, but we should take it. Maybe we can find its owner... Oh, right, there doesn't seem to be anyone else here...
+
+## Talk 21
+
+(Return to the main control terminal)
+
+Bunker Access Terminal Server: Maintenance order for <color=#00E1FFF>Research Zone 1</color> complete. Expected duration exceeded by: *3,942,176* hour(s). A report of negligent conduct has been issued to the supervisory authority.
+Paimon: H—How many hours? Whoa, Paimon can only remember the first number. How many others were there after that three?
+Bunker Access Terminal Server: Access updated: Senior Technician Kotelnikov. Welcome to the Bunker Access Terminal Server.
+Paimon: Huh? Does this thing think we're the maintenance worker sent to repair the purification system...?
+Paimon: Paimon guesses that means we can access more places now! Let's see... This one appears to be <color=#00E1FFF>Research Zone 2</color>?
+Traveler: (Check on the status of Research Zone 2.)
+Bunker Access Terminal Server: Generating status report. Please wait.
+Bunker Access Terminal Server: <color=#00E1FFF>Research Zone 2</color>: *Warning*. High concentrations of Abyssal contamination and signs of the "Ultimate Calamity" have been detected.
+Bunker Access Terminal Server: *Apocalypse* Purification System: *Damaged*. Senior Technician Kotelnikov, please proceed to perform repairs under the protection of a guard escort.
+Paimon: A guard escort? Paimon doesn't see any guards around here... Wait a second — what did it say has been detected?
+    Option 1:
+        Traveler: It sounded like some sort of Abyssal monster...
+    Option 2:
+        Traveler: Keep me safe, Guard Captain Paimon.
+        Paimon: Hehe, Paimon'll keep you safe! ...Is what Guard Captain Paimon would say — if she had a weapon. Unfortunately, you'll have to watch your own back.
+Paimon: But if the "apocalypse" is actually just an Abyssal monster, then it's probably the source of this place's contamination...
+Paimon: #If we can take it down, the Abyssal contamination here should be cleaned up once and for all, right? Traveler, let's head to <color=#00E1FFF>Research Zone 2</color>!
 
 ## Objective 22
 

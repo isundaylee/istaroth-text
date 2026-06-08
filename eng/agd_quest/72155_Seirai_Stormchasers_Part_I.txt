@@ -5,43 +5,6 @@
 You learn from Inazuma's Katheryne that the Inazuma Adventurers' Guild has been gathering adventurers to explore Seirai Island recently...
 
 
-## Talk 1
-
-Neko: Hmm. Well done, well done indeed. I acknowledge your efforts.
-Neko: This should be the first step on the shrine's return to its former bustling state — you are also free to offer Mora yourself, should it please you.
-Neko: As we agreed, then. I shall instruct you in the sealing of those rocks.
-Neko: This island plays host to four such stones. Hibiki once said that they were meant to seal a bird of most prodigious size.
-Traveler: A bird of... prodigious size?
-Neko: Hibiki said that that bird's strength was a truly frightening thing, capable of singeing the fur off all the cats on this island.
-Neko: This shrine, too, was built to subdue it, so I heard from her.
-Neko: Hmm... Meow... The exact details escape me, and it is a mighty shame that Hibiki is not here, or you could ask her directly.
-Neko: Yet I still recall the sealing methods for the... meow, four stones. You must... Hmm... Meow, meow...
-Neko: Hibiki said that the key is to use the ropes on the rock, and the piece of paper...
-Paimon: Ropes? Paper?
-Neko: The paper on the sticks by the rock's side must become the same as the paper on the rock itself...
-    Option 1:
-    Option 2:
-        Traveler: I—I see...
-        Neko: This island plays host to four such stones. Hibiki once said that they were meant to seal a bird of most prodigious size.
-        [Circling back to a pre-branch dialog]
-Traveler: Clear as mud.
-Neko: You seem confused. Perhaps your comprehension is lacking also... Paper with paper, and rock. Did you get that?
-Paimon: What is this, some weird game of rock-paper-scissors?
-Neko: Rock-paper-scissors? I fail to understand...
-Neko: Mmm... If your comprehension fails you here... Have you any of those wooden planks left? I will carve an image of what needs to be done.
-Traveler: S—Sure...
-Neko: Now, surely, you understand. This is how one seals the rocks, and where they are.
-Neko: Go now, and quickly. The shrine's maintenance yet requires my attention.
-Neko: Hah, now that the Offering Box has been repaired, the shrine shall soon return to its former thriving glory...
-    Option 1:
-        Traveler: Again, you're really good with those claws...
-    Option 2:
-        Traveler: Such a detailed carving...
-Neko: Small beans it was, really.
-Neko: Visit the shrine after some days. Once it grows busy around these parts once more, I am certain that more humans will come to pay their respects.
-Neko: I may yet require your aid again then.
-Neko: Hibiki would be most gratified to see this shrine become lively again. Hmm, well, and that Domeki fellow, too... Meow...
-
 ## Talk 2
 
 (Go to the Adventurers' Guild)
@@ -61,7 +24,9 @@ Katheryne: If you're interested, go to Seirai Island and have a look. It has als
 Katheryne: That said, please be careful while you explore Seirai Island.
 Katheryne: After all, we have yet to determine the cause of those storms.
 
-## Talk 3
+## Talk 4
+
+(Look for the adventurers on Seirai Island)
 
 Etsuko: I'll need this book... and this one... and this one...
 Etsuko: Ah! Hello there. You're... an adventurer? Hmm. Am I right to say that you're here to investigate this island?
@@ -98,6 +63,11 @@ Etsuko: Ah! Hello there. You're... an adventurer? Hmm. Am I right to say that yo
 Etsuko: The quicker we solve the mystery behind that Warding Stone, the sooner we can report back to the Guild.
 Etsuko: Just... hold on a moment while I bundle this stuff up...
 Etsuko: Alright, that's that. Let's go!
+
+## Objective 5
+
+(Go to investigate the Warding Stone)
+
 
 ## Talk 6
 
@@ -159,20 +129,10 @@ Paimon: Let's follow them and see what we can find!
 Taisuke: The books do say that Warding Stones are implements for sealing rituals.
 Taisuke: However, the form and shape of this one doesn't quite match up with what we find in the text...
 
-## Talk 8
+## Objective 8
 
 (Follow the cat footprints and explore up ahead)
 
-Etsuko: Well, that's this Warding Stone squared away, right?
-Taisuke: And yet the storm hasn't abated at all...
-Traveler: Looks like we've got to seal all four of them.
-Etsuko: That seems to be case.
-Etsuko: Well, that Neko's already marked all four Warding Stone locations on the wooden plank, right?
-Traveler: Indeed. Let's go.
-Etsuko: Yup, let's do this.
-Taisuke: Could I at least go visit the shrine and see Neko...?
-Etsuko: You can do that once the storm's gone. Come on!
-Taisuke: Oh... Okay then...
 
 ## Objective 9
 
@@ -355,6 +315,45 @@ Treasure Hoarder: Come on lads, let's go! Move it!
 (Return to the Asase Shrine and fix the Offering Box)
 
 
+## Talk 26
+
+(Report back to Neko)
+
+Neko: Hmm. Well done, well done indeed. I acknowledge your efforts.
+Neko: This should be the first step on the shrine's return to its former bustling state — you are also free to offer Mora yourself, should it please you.
+Neko: As we agreed, then. I shall instruct you in the sealing of those rocks.
+Neko: This island plays host to four such stones. Hibiki once said that they were meant to seal a bird of most prodigious size.
+Traveler: A bird of... prodigious size?
+Neko: Hibiki said that that bird's strength was a truly frightening thing, capable of singeing the fur off all the cats on this island.
+Neko: This shrine, too, was built to subdue it, so I heard from her.
+Neko: Hmm... Meow... The exact details escape me, and it is a mighty shame that Hibiki is not here, or you could ask her directly.
+Neko: Yet I still recall the sealing methods for the... meow, four stones. You must... Hmm... Meow, meow...
+Neko: Hibiki said that the key is to use the ropes on the rock, and the piece of paper...
+Paimon: Ropes? Paper?
+Neko: The paper on the sticks by the rock's side must become the same as the paper on the rock itself...
+    Option 1:
+    Option 2:
+        Traveler: I—I see...
+        Neko: This island plays host to four such stones. Hibiki once said that they were meant to seal a bird of most prodigious size.
+        [Circling back to a pre-branch dialog]
+Traveler: Clear as mud.
+Neko: You seem confused. Perhaps your comprehension is lacking also... Paper with paper, and rock. Did you get that?
+Paimon: What is this, some weird game of rock-paper-scissors?
+Neko: Rock-paper-scissors? I fail to understand...
+Neko: Mmm... If your comprehension fails you here... Have you any of those wooden planks left? I will carve an image of what needs to be done.
+Traveler: S—Sure...
+Neko: Now, surely, you understand. This is how one seals the rocks, and where they are.
+Neko: Go now, and quickly. The shrine's maintenance yet requires my attention.
+Neko: Hah, now that the Offering Box has been repaired, the shrine shall soon return to its former thriving glory...
+    Option 1:
+        Traveler: Again, you're really good with those claws...
+    Option 2:
+        Traveler: Such a detailed carving...
+Neko: Small beans it was, really.
+Neko: Visit the shrine after some days. Once it grows busy around these parts once more, I am certain that more humans will come to pay their respects.
+Neko: I may yet require your aid again then.
+Neko: Hibiki would be most gratified to see this shrine become lively again. Hmm, well, and that Domeki fellow, too... Meow...
+
 ## Objective 27
 
 (Seal the Warding Stone)
@@ -392,6 +391,21 @@ Etsuko: But according to this wooden plank, it isn't going to be that easy.
 
 (Seal the Warding Stone)
 
+
+## Talk 32
+
+(Talk to Taisuke)
+
+Etsuko: Well, that's this Warding Stone squared away, right?
+Taisuke: And yet the storm hasn't abated at all...
+Traveler: Looks like we've got to seal all four of them.
+Etsuko: That seems to be case.
+Etsuko: Well, that Neko's already marked all four Warding Stone locations on the wooden plank, right?
+Traveler: Indeed. Let's go.
+Etsuko: Yup, let's do this.
+Taisuke: Could I at least go visit the shrine and see Neko...?
+Etsuko: You can do that once the storm's gone. Come on!
+Taisuke: Oh... Okay then...
 
 ## Additional Conversations
 

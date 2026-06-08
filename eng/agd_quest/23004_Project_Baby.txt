@@ -82,11 +82,10 @@ Gulabgir: Traveler, would you mind visiting that campsite and fetching the food 
 Gulabgir: Anyway, I'm counting on you, Traveler.
 Gulabgir: I'll mark all the camps I've stayed at on the map for you, so please take a look at those spots.
 
-## Talk 2
+## Objective 2
 
 (Go to the camp)
 
-Gulabgir: How did it go? Did you find the food?
 
 ## Objective 4
 
@@ -108,40 +107,35 @@ Gulabgir: How did it go? Did you find the food?
 (Look for Gulabgir's pet snake food)
 
 
-## Talk 8
+## Objective 8
 
 (Go to the camp)
 
-Gulabgir: Yes! That's it! So I did leave it in the camp after all.
-Paimon: It was buried under the rocks. Your camp seems to have gotten caught in a landslide that carried your stuff far away. We spent a long while looking, actually.
-Gulabgir: Seriously? How could there be a landslide? That spot has never been in any trouble...
-Gulabgir: Oh! When I was camping there, I could hear strange sounds at night, and I could feel something scratching at my tent...
-Gulabgir: My snakes were alert and would wake me every time. But I never found anything no matter how many times I checked...
-Gulabgir: Eh, you know what, forget about it... Thanks for your help. Here's your payment.
 
 ## Objective 9
 
 (Look for Gulabgir's pet snake food)
 
 
-## Talk 10
+## Objective 10
 
 (Go to the camp)
 
-Gulabgir: Yes! That's it! So I did leave it in the camp after all.
-Paimon: Why is your camp in the middle of a bunch of thorny vines!? Wouldn't you get hurt sleeping there?
-Gulabgir: Nah, I'm pretty skilled when it comes to living in the wild.
-Gulabgir: And there weren't that many vines around when I established that camp.
-Traveler: Have you been away from the forest for a very long time?
-Gulabgir: Sort of. I can't remember the details.
-Gulabgir: Hahaha, I'm really rusty when it comes to setting up camps now.
-Gulabgir: Most of the camps I've set up in the past have been abandoned.
-Gulabgir: What kind of life would I be leading had I remained in the rainforest...?
-Gulabgir: ...Sorry, I've said too much. Here is your payment. Please take it.
 
 ## Objective 12
 
 (Look for Gulabgir's pet snake food)
+
+
+## Talk 13 (alternative/additional)
+
+(Go to the camp)
+
+Gulabgir: How did it go? Did you find the food?
+
+## Objective 13
+
+(Go to the camp)
 
 
 ## Objective 14
@@ -161,37 +155,10 @@ Traveler: Is this what you're looking for?
 (Report back to Gulabgir)
 
 
-## Talk 16 (variant 1)
+## Objective 16
 
 (Report back to Gulabgir)
 
-Gulabgir: Yes! That's it! So I did leave it in the camp after all.
-Paimon: When we arrived, there were Fungi that were trying to swipe it.
-Gulabgir: Fungi, huh... Phew, guess I was lucky to have you go instead. Thank you so much, Traveler.
-Gulabgir: I can't thank you enough. Please, accept this as your payment.
-Gulabgir: Here's your meal, little fellas...
-
-## Talk 16 (variant 2)
-
-(Report back to Gulabgir)
-
-Gulabgir: Yes, these would do! Thank you so much.
-Paimon: Why weren't these in the camp, but on the nearby tree?
-Gulabgir: Well... Maybe the birds had them stashed away for a rainy day...
-Gulabgir: Is this stuff so popular with animals? Maybe I should start a business...
-Gulabgir: Ahem! Don't mind me. Thank you very much. Here's your payment.
-
-## Talk 16 (variant 3)
-
-(Report back to Gulabgir)
-
-Gulabgir: Yes! That's it! So I did leave it in the camp after all.
-Traveler: About the camp...
-Gulabgir: I see... Was it the work of wild animals...?
-Gulabgir: Now that you mention it, the food I made attracted Fungi and birds... So, attracting wild animals sounds about right...
-Gulabgir: Guess I should really consider starting a feed-selling business...
-Gulabgir: If that turns out well, I could be making much more money than I do now by putting up performances...
-Gulabgir: Oh, sorry, I'm getting off-topic... Thanks for your help, and please, take your payment.
 
 ## Talk 19 (alternative/additional)
 
@@ -215,7 +182,9 @@ Gulabgir: Ah, it was used in past shows. Whenever I play the flute, my little fe
 Gulabgir: But tricks of this kind have long ceased being profitable, and I haven't performed for quite some time either. I didn't even notice that it had gone missing...
 Gulabgir: Anyway, thanks for bringing it back. Here's your payment, please take it.
 
-## Talk 21
+## Talk 23 (alternative/additional)
+
+(Report back to Gulabgir)
 
 Gulabgir: What's the matter? Anything else on your mind?
 Traveler: I found something else in the camp.
@@ -269,6 +238,64 @@ Traveler: Is this what you're looking for?
 
 (Report back to Gulabgir)
 
+
+## Talk 30 (variant 1)
+
+(Report back to Gulabgir)
+
+Gulabgir: Yes! That's it! So I did leave it in the camp after all.
+Paimon: It was buried under the rocks. Your camp seems to have gotten caught in a landslide that carried your stuff far away. We spent a long while looking, actually.
+Gulabgir: Seriously? How could there be a landslide? That spot has never been in any trouble...
+Gulabgir: Oh! When I was camping there, I could hear strange sounds at night, and I could feel something scratching at my tent...
+Gulabgir: My snakes were alert and would wake me every time. But I never found anything no matter how many times I checked...
+Gulabgir: Eh, you know what, forget about it... Thanks for your help. Here's your payment.
+
+## Talk 30 (variant 2)
+
+(Report back to Gulabgir)
+
+Gulabgir: Yes! That's it! So I did leave it in the camp after all.
+Paimon: Why is your camp in the middle of a bunch of thorny vines!? Wouldn't you get hurt sleeping there?
+Gulabgir: Nah, I'm pretty skilled when it comes to living in the wild.
+Gulabgir: And there weren't that many vines around when I established that camp.
+Traveler: Have you been away from the forest for a very long time?
+Gulabgir: Sort of. I can't remember the details.
+Gulabgir: Hahaha, I'm really rusty when it comes to setting up camps now.
+Gulabgir: Most of the camps I've set up in the past have been abandoned.
+Gulabgir: What kind of life would I be leading had I remained in the rainforest...?
+Gulabgir: ...Sorry, I've said too much. Here is your payment. Please take it.
+
+## Talk 30 (variant 3)
+
+(Report back to Gulabgir)
+
+Gulabgir: Yes! That's it! So I did leave it in the camp after all.
+Paimon: When we arrived, there were Fungi that were trying to swipe it.
+Gulabgir: Fungi, huh... Phew, guess I was lucky to have you go instead. Thank you so much, Traveler.
+Gulabgir: I can't thank you enough. Please, accept this as your payment.
+Gulabgir: Here's your meal, little fellas...
+
+## Talk 30 (variant 4)
+
+(Report back to Gulabgir)
+
+Gulabgir: Yes, these would do! Thank you so much.
+Paimon: Why weren't these in the camp, but on the nearby tree?
+Gulabgir: Well... Maybe the birds had them stashed away for a rainy day...
+Gulabgir: Is this stuff so popular with animals? Maybe I should start a business...
+Gulabgir: Ahem! Don't mind me. Thank you very much. Here's your payment.
+
+## Talk 30 (variant 5)
+
+(Report back to Gulabgir)
+
+Gulabgir: Yes! That's it! So I did leave it in the camp after all.
+Traveler: About the camp...
+Gulabgir: I see... Was it the work of wild animals...?
+Gulabgir: Now that you mention it, the food I made attracted Fungi and birds... So, attracting wild animals sounds about right...
+Gulabgir: Guess I should really consider starting a feed-selling business...
+Gulabgir: If that turns out well, I could be making much more money than I do now by putting up performances...
+Gulabgir: Oh, sorry, I'm getting off-topic... Thanks for your help, and please, take your payment.
 
 ## Associated Free Talks
 

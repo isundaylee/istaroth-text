@@ -53,14 +53,10 @@ Paimon: "Petit Chou"...?
         Traveler: Yeah, forget the names. Just lead the way.
 ??? (Ann): Thank you! My name is Ann, a member of the Narzissenkreuz Adventure Team. Please, come with me!
 
-## Talk 4
+## Objective 4
 
 (Head to the designated location)
 
-Paimon: Well, guess we won't be worrying about this mysterious bubble cannon anymore.
-Evil Fang: One of the Three Royal Blades (???): Well done, soldiers! Assemble!
-Paimon: Huh, where's that voice coming from? Does "soldiers" refer to us?
-Ann: Wonderful! It seems that Colonel Kate is still here. Let's go meet up with him.
 
 ## Talk 5
 
@@ -70,18 +66,22 @@ Petit Chou: Eek! Get away from me!
 Paimon: Is that... the "Petit Chou" you were referring to, Ann?
 ??? (Ann): That's right! Please, help her!
 
-## Talk 6
+## Objective 6
 
 (Help Petit Chou)
 
-Traveler: Where's the rest of your team?
 
 ## Objective 7
 
 (Help Petit Chou)
 
 
-## Talk 8
+## Objective 8
+
+(Talk to Petit Chou)
+
+
+## Talk 9 (alternative/additional)
 
 (Talk to Petit Chou)
 
@@ -169,6 +169,11 @@ Petit Chou: I... I'll do my best!
 Paimon: ?
 Paimon (Ann & Petit Chou): Alrighty!
 
+## Objective 11
+
+(Talk to Petit Chou)
+
+
 ## Talk 12
 
 (Talk to Petit Chou)
@@ -182,6 +187,15 @@ Ann: Well, Petit Chou and I can't be the only members of the team. We don't quit
 Petit Chou: We certainly aren't as strong as you or Paimon...
 Ann: Al covered our escape when we retreated. Now that Narcissus's power is waning, let's go help him.
 Paimon: Well, then let's go!
+
+## Talk 16
+
+(Talk to Colonel Kate)
+
+Paimon: Well, guess we won't be worrying about this mysterious bubble cannon anymore.
+Evil Fang: One of the Three Royal Blades (???): Well done, soldiers! Assemble!
+Paimon: Huh, where's that voice coming from? Does "soldiers" refer to us?
+Ann: Wonderful! It seems that Colonel Kate is still here. Let's go meet up with him.
 
 ## Talk 17
 
@@ -200,6 +214,12 @@ Paimon: Well, guess we won't be worrying about this mysterious bubble cannon any
 Evil Fang: One of the Three Royal Blades (???): Well done, soldiers! Assemble!
 Paimon: Huh, where's that voice coming from? Does "soldiers" refer to us?
 Ann: Wonderful! It seems that Colonel Kate is still here. Let's go meet up with him.
+
+## Talk 19 (alternative/additional)
+
+(Talk to Colonel Kate)
+
+Traveler: Where's the rest of your team?
 
 ## Talk 19 (alternative/additional)
 
@@ -232,27 +252,7 @@ Paimon: Kate's Resistance Front, huh. Are you guys the same thing as the Narziss
 Ann: Let me think... "We are now the same thing," is how I would put it.
 Colonel Kate: Indeed. We have the same objective and plan of action. It is only because I have more combat experience that I am a colonel with my own force.
 
-## Talk 19 (variant 1)
-
-(Talk to Colonel Kate)
-
-Colonel Kate: We charged bravely into the Bubble Formation!
-Paimon: Yes, yes, and where's your team?
-Colonel Kate: ...
-Colonel Kate: We charged bravely into the Bubble Formation! And as for the rest... please, don't ask...
-Paimon: Looks like Colonel Kate's got problems, too...
-Ann: Well, he is up against immense firepower... or should I say, waterpower.
-Ann: What's next for you?
-Colonel Kate: I plan on going behind enemy lines to see what can be done there. After all, it should be quite easy to go up there now that the Bubble Formation has been broken. I mean, I can't lose to some new recruit, can I?
-    Option 1:
-        Traveler: There's no shame in losing to me...
-    Option 2:
-        Traveler: This isn't a competition...
-Colonel Kate: Hmph! Regardless, I shall return when the sun sinks into the sea, victory in hand! Let us meet again before the high tower.
-Black Screen Text: Colonel Kate bounces away.
-Paimon: Wait. There's neither sun nor sea here!
-
-## Talk 19 (variant 2)
+## Talk 19
 
 (Talk to Colonel Kate)
 
@@ -303,6 +303,42 @@ Paimon: Well... Uh... But Azhdaha's from Liyue! That's a huge difference... righ
 (Talk to Al)
 
 Paimon: No, no, we've definitely met other dragons before...
+
+## Talk 24 (alternative/additional)
+
+(Talk to Al)
+
+Petit Chou: Al! You're safe! I was so worried...
+Al: Ah, my dear Petit Chou — and you too, Ann! We meet again at last. In those darkest of days, I thought of you, and drew strength to fight on from those thoughts.
+Al: Thank you, noble warriors, you who have come forth to uphold the cause of justice. Why, had I arms as slender as yours, I would tip my hat to honor you.
+Paimon: There's no need to be so prim and proper...
+Black Screen Text: Ann introduces you and Paimon to Al and explains what happened previously.
+Paimon: Uh, but why's a finch's older brother a duck?
+Al: Why a "duck," you ask? Are such definitions important? I have a supple body, an iron will, and webbed feet with which to tread water. Of these I am proud, and that is enough.
+Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
+Petit Chou: S—Seriously, brother, what are you talking about...
+Paimon: #(Actually, Traveler, what *is* Al talking about?)
+    Option 1:
+        Traveler: (He means that we shouldn't dwell too much on these details.)
+    Option 2:
+        Traveler: (I don't know... but it's probably not important.)
+Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
+Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
+Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
+Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
+Ann: Look up, above Princess Lyris's tower — that is Narcissus.
+Paimon: Huh? That wasn't there before the water rose...
+    Option 1:
+        Traveler: ...Isn't that just an Oceanid?
+    Option 2:
+        Traveler: Good golly gosh, the fell dragon Narcissus!
+        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
+Ann: But that is the fell dragon Narcissus.
+Al: The dragon who invaded the Narzissenkreuz Kingdom.
+Petit Chou: And its wings are very huge and frightening.
+Paimon: ...But it's an Oceanid, isn't it?
+Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
+Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
 
 ## Talk 24 (alternative/additional)
 
@@ -681,6 +717,26 @@ Paimon: Ann's having a tough time too, huh...
 
 (Talk to Jak)
 
+Colonel Kate: We charged bravely into the Bubble Formation!
+Paimon: Yes, yes, and where's your team?
+Colonel Kate: ...
+Colonel Kate: We charged bravely into the Bubble Formation! And as for the rest... please, don't ask...
+Paimon: Looks like Colonel Kate's got problems, too...
+Ann: Well, he is up against immense firepower... or should I say, waterpower.
+Ann: What's next for you?
+Colonel Kate: I plan on going behind enemy lines to see what can be done there. After all, it should be quite easy to go up there now that the Bubble Formation has been broken. I mean, I can't lose to some new recruit, can I?
+    Option 1:
+        Traveler: There's no shame in losing to me...
+    Option 2:
+        Traveler: This isn't a competition...
+Colonel Kate: Hmph! Regardless, I shall return when the sun sinks into the sea, victory in hand! Let us meet again before the high tower.
+Black Screen Text: Colonel Kate bounces away.
+Paimon: Wait. There's neither sun nor sea here!
+
+## Talk 27 (alternative/additional)
+
+(Talk to Jak)
+
 Ann: ...
     Option 1:
         Traveler: You're pretty difficult yourself.
@@ -697,6 +753,75 @@ Ann: ...
         Ann: But one day, he said that he would never cry again, and later still, he changed. This might be due to Rene, I fear... and Rene changed too...
         Traveler: ...
         Ann: Alain split with them. But as for me...
+
+## Talk 27 (alternative/additional)
+
+(Talk to Jak)
+
+Paimon: Jak! You...
+Petit Chou: Paimon! Don't...
+Jak: ...?
+    Option 1:
+        Traveler: (Knock it off, or we're going to start this all over again.)
+        Paimon: (Hmph, Paimon knows!)
+        Paimon: *cough* Ann told us that you could explain the situation...
+    Option 2:
+        Traveler: Is there anything I need to do?
+Al: Allow me to speak first then, honored Knight and Paimon. Concerning the tower before us, Narcissus has been unable to overcome it. As such, the Princess is still safe.
+Al: At that time, when all seemed lost, the Princess gave her greatest treasure to us, and that was the "time" that belonged to her.
+Paimon: ?
+    Option 1:
+        Traveler: ...?
+    Option 2:
+        Traveler: She gave you her what now?
+        Paimon: "Time," you say...
+Al: After she lost that time, the Princess and the tower she dwells in both fell into a stagnant, dreamless slumber. In remembrance of her, we named our fallen realm the Annapausis.
+Paimon: And what does that mean...?
+Al: Because it has completely stagnated, Narcissus has also been unable to taint anything within... That's more or less our situation.
+Paimon: What do you mean "more or less our situation"? Firstly, how would someone give anyone else their "time"?
+Petit Chou: But it's true! Princess Lyris did share her time with us. Narcissus would constantly plot to invade, but with the time she gave us, we became far stronger!
+Petit Chou: For example... My brother, Al, can usually only defeat one foe at once, but with more "time," he can vanquish four or even five at one go!
+Al: A most vivid example. Thank you for your explanation, dear Petit Chou.
+Petit Chou: #Hehe. Well, I hope you understand now, Traveler, Paimon.
+    Option 1:
+        Traveler: Not at all, in fact.
+        Paimon: Yeah. How do you even give your time to other people!?
+        Jak: Do these details matter? Is this not similar to how feudal nobles would hire sharecroppers?
+        Paimon: Share... croppers? How do those things even connect!? Are you trying to say that exchanging time for pay is a form of giving your time to others?
+        Jak: Only a very small part of the wealth a sharecropper creates will belong to him. If this is understood and regarded as normal by all, then what is there about this situation that is hard to comprehend?
+        Al: ...
+        Paimon: (Ugh, he got Paimon!)
+        Traveler: (Why are you debating with an Oceanid?)
+        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
+        Paimon: That's true... Alright, uh, Paimon totally gets it!
+    Option 2:
+        Traveler: Yes, yes, I understand.
+        Paimon: (What did you even understand!?)
+        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
+        Paimon: Ah... Alright then, Paimon totally gets it too!
+Al: Narcissus has spent long years since searching for the Princess's treasure. Only its power can cause time in the tower to flow again, and only then will its locked gates open.
+Al: Thus he summoned waters brimming with wicked intent to drown the kingdom, and created underlings unnumbered and many magical devices besides.
+Al: All this was done to hunt us Narzissenkreuz Adventure Team members down and seize the treasure that should have been in our hands.
+Paimon: Wait. "Should have"?
+Petit Chou: Before, we had another older brother... Ney. In those terrifying days, he took the treasure and fled alongside us, but he dissolved into the waters while covering us.
+Jak: I miss him so much.
+Al: We were very good friends.
+Petit Chou: I hate the dragon, even though I know that these feelings are not good. But I miss Ney. He was like my real brother, just like Al.
+Paimon: Um, we're... sorry for your loss...
+Paimon: But if that's the case, how are we supposed to save Princess Lyris? The treasure has sealed the tower, and it can only be opened again with said treasure...
+Jak: Well. When they, ah... How do I put this? While they were "consolidating our rear lines," we of Orchestre Jak obtained some key intelligence that has allowed us to ascertain the treasure's location.
+Petit Chou: Really? You have?
+Jak: Of course. It is right over there.
+Paimon: Huh? In the sky? As in, in the water in the sky?
+Jak: Before Ney dissolved, he used the last of his strength to purify a patch of water in the firmament. It was there that he hid the treasure.
+Jak: What an irony. It seems that Narcissus has gotten too used to looking down upon the citizenry below, and has not been in the habit of looking up — and there, the treasure has been hidden all along.
+Al: I see. Well, it does sound like something Ney would come up with.
+Traveler: How do we get up there, though?
+Paimon: Hmm... Could Petit Chou and Al take us up there?
+Al: A very imaginative idea... but unfortunately, impractical.
+Ann: If we go up there, we should find a small fountain full of magic. Options may open to us should we reach it.
+Paimon: Are you feeling better now, Ann...?
+Ann: Thank you, Paimon, but you need not worry.
 
 ## Talk 27 (variant 1)
 
@@ -779,110 +904,15 @@ Ann: Al, Petit Chou, Jak, this place is yours to guard!
 (Clear the Bubble Formation)
 
 
-## Talk 31
+## Objective 31
 
 (Head to the designated location)
 
-Petit Chou: Al! You're safe! I was so worried...
-Al: Ah, my dear Petit Chou — and you too, Ann! We meet again at last. In those darkest of days, I thought of you, and drew strength to fight on from those thoughts.
-Al: Thank you, noble warriors, you who have come forth to uphold the cause of justice. Why, had I arms as slender as yours, I would tip my hat to honor you.
-Paimon: There's no need to be so prim and proper...
-Black Screen Text: Ann introduces you and Paimon to Al and explains what happened previously.
-Paimon: Uh, but why's a finch's older brother a duck?
-Al: Why a "duck," you ask? Are such definitions important? I have a supple body, an iron will, and webbed feet with which to tread water. Of these I am proud, and that is enough.
-Al: And Petit Chou is Petit Chou. The sphere is the shape closest to perfection, and the most complicated of all shapes. I am most proud of my sister.
-Petit Chou: S—Seriously, brother, what are you talking about...
-Paimon: #(Actually, Traveler, what *is* Al talking about?)
-    Option 1:
-        Traveler: (He means that we shouldn't dwell too much on these details.)
-    Option 2:
-        Traveler: (I don't know... but it's probably not important.)
-Ann: We members of the Narzissenkreuz Adventure Team are disparate indeed, but we have one goal. We shall save Princess Lyris, and we shall defeat the fell dragon Narcissus!
-Al: Well said. The person I am now knows only that the one who stands before me is a noble and valiant knight who possesses the iron will needed to defeat Narcissus. That is enough for me.
-Al: Usually, the mightier the will, the larger the form needed to be its vessel, as it is in the case of Narcissus. This knight's stature is much like mine, and yet...
-Paimon: Ugh... Seriously, the first and last thing Paimon understood here was "Narcissus." You're always going on about Narcissus this and Narcissus that... But what is it, really?
-Ann: Look up, above Princess Lyris's tower — that is Narcissus.
-Paimon: Huh? That wasn't there before the water rose...
-    Option 1:
-        Traveler: ...Isn't that just an Oceanid?
-    Option 2:
-        Traveler: Good golly gosh, the fell dragon Narcissus!
-        Paimon: Waaaait a minute, that's an Oceanid no matter how you look at it, not a dragon!
-Ann: But that is the fell dragon Narcissus.
-Al: The dragon who invaded the Narzissenkreuz Kingdom.
-Petit Chou: And its wings are very huge and frightening.
-Paimon: ...But it's an Oceanid, isn't it?
-Ann: #Well, Traveler and Paimon, you have seen much. What, then, should a dragon look like?
-Paimon: Well, if you're talking about the dragons we've fought before, they'd be...
 
-## Talk 32
+## Objective 32
 
 (Head to the designated location)
 
-Paimon: Jak! You...
-Petit Chou: Paimon! Don't...
-Jak: ...?
-    Option 1:
-        Traveler: (Knock it off, or we're going to start this all over again.)
-        Paimon: (Hmph, Paimon knows!)
-        Paimon: *cough* Ann told us that you could explain the situation...
-    Option 2:
-        Traveler: Is there anything I need to do?
-Al: Allow me to speak first then, honored Knight and Paimon. Concerning the tower before us, Narcissus has been unable to overcome it. As such, the Princess is still safe.
-Al: At that time, when all seemed lost, the Princess gave her greatest treasure to us, and that was the "time" that belonged to her.
-Paimon: ?
-    Option 1:
-        Traveler: ...?
-    Option 2:
-        Traveler: She gave you her what now?
-        Paimon: "Time," you say...
-Al: After she lost that time, the Princess and the tower she dwells in both fell into a stagnant, dreamless slumber. In remembrance of her, we named our fallen realm the Annapausis.
-Paimon: And what does that mean...?
-Al: Because it has completely stagnated, Narcissus has also been unable to taint anything within... That's more or less our situation.
-Paimon: What do you mean "more or less our situation"? Firstly, how would someone give anyone else their "time"?
-Petit Chou: But it's true! Princess Lyris did share her time with us. Narcissus would constantly plot to invade, but with the time she gave us, we became far stronger!
-Petit Chou: For example... My brother, Al, can usually only defeat one foe at once, but with more "time," he can vanquish four or even five at one go!
-Al: A most vivid example. Thank you for your explanation, dear Petit Chou.
-Petit Chou: #Hehe. Well, I hope you understand now, Traveler, Paimon.
-    Option 1:
-        Traveler: Not at all, in fact.
-        Paimon: Yeah. How do you even give your time to other people!?
-        Jak: Do these details matter? Is this not similar to how feudal nobles would hire sharecroppers?
-        Paimon: Share... croppers? How do those things even connect!? Are you trying to say that exchanging time for pay is a form of giving your time to others?
-        Jak: Only a very small part of the wealth a sharecropper creates will belong to him. If this is understood and regarded as normal by all, then what is there about this situation that is hard to comprehend?
-        Al: ...
-        Paimon: (Ugh, he got Paimon!)
-        Traveler: (Why are you debating with an Oceanid?)
-        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
-        Paimon: That's true... Alright, uh, Paimon totally gets it!
-    Option 2:
-        Traveler: Yes, yes, I understand.
-        Paimon: (What did you even understand!?)
-        Traveler: (There's too much oddity at play here. Let's just leave this aside for now.)
-        Paimon: Ah... Alright then, Paimon totally gets it too!
-Al: Narcissus has spent long years since searching for the Princess's treasure. Only its power can cause time in the tower to flow again, and only then will its locked gates open.
-Al: Thus he summoned waters brimming with wicked intent to drown the kingdom, and created underlings unnumbered and many magical devices besides.
-Al: All this was done to hunt us Narzissenkreuz Adventure Team members down and seize the treasure that should have been in our hands.
-Paimon: Wait. "Should have"?
-Petit Chou: Before, we had another older brother... Ney. In those terrifying days, he took the treasure and fled alongside us, but he dissolved into the waters while covering us.
-Jak: I miss him so much.
-Al: We were very good friends.
-Petit Chou: I hate the dragon, even though I know that these feelings are not good. But I miss Ney. He was like my real brother, just like Al.
-Paimon: Um, we're... sorry for your loss...
-Paimon: But if that's the case, how are we supposed to save Princess Lyris? The treasure has sealed the tower, and it can only be opened again with said treasure...
-Jak: Well. When they, ah... How do I put this? While they were "consolidating our rear lines," we of Orchestre Jak obtained some key intelligence that has allowed us to ascertain the treasure's location.
-Petit Chou: Really? You have?
-Jak: Of course. It is right over there.
-Paimon: Huh? In the sky? As in, in the water in the sky?
-Jak: Before Ney dissolved, he used the last of his strength to purify a patch of water in the firmament. It was there that he hid the treasure.
-Jak: What an irony. It seems that Narcissus has gotten too used to looking down upon the citizenry below, and has not been in the habit of looking up — and there, the treasure has been hidden all along.
-Al: I see. Well, it does sound like something Ney would come up with.
-Traveler: How do we get up there, though?
-Paimon: Hmm... Could Petit Chou and Al take us up there?
-Al: A very imaginative idea... but unfortunately, impractical.
-Ann: If we go up there, we should find a small fountain full of magic. Options may open to us should we reach it.
-Paimon: Are you feeling better now, Ann...?
-Ann: Thank you, Paimon, but you need not worry.
 
 ## Talk 33
 
@@ -898,6 +928,11 @@ Mori: Woof, woof! Bad people!
 ## Objective 34
 
 (Use force to clear up any misunderstandings!)
+
+
+## Objective 35
+
+(Talk to Mori)
 
 
 ## Talk 36

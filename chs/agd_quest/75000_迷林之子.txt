@@ -5,7 +5,14 @@
 初至纳塔，便被传送到了一个奇怪的空间…
 
 
-## Talk 2
+## Objective 3
+
+(击败兽境猎犬)
+
+
+## Talk 4
+
+(与巨兽对话)
 
 派蒙: 喂，喂…大家伙，你还好吗，还站得起来吗？
 派蒙: 看上去好虚弱，真是的，到底发生了什么啊…那些飘浮幽灵狗真让人讨厌，果然飘浮着的家伙都不是什么好东西！
@@ -38,20 +45,10 @@
 派蒙: 你这是在做什么啦…咦…
 派蒙: #旅行者，你…！
 
-## Objective 3
-
-(击败兽境猎犬)
-
-
 ## Objective 5
 
 (破坏岩石，救出幼兽)
 
-
-## Talk 6
-
-旅行者: 我再想想…
-派蒙: 好哦，毕竟名字是很重要的，还是再仔细考虑一下吧！
 
 ## Talk 7
 
@@ -129,6 +126,19 @@
 
 (为小家伙取一个超棒的名字！)
 
+旅行者: 我再想想…
+派蒙: 好哦，毕竟名字是很重要的，还是再仔细考虑一下吧！
+
+## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
+
+派蒙: 那，要给小家伙取一个什么样的名字呢？
+
+## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
+
 派蒙: 那，要给小家伙取一个什么样的名字呢？
 
 ## Talk 8 (alternative/additional)
@@ -137,6 +147,13 @@
 
 #{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呜…
 派蒙: #咦，从名字里感受到了很大的压力吗…旅行者，还是别用这些名字啦！
+
+## Talk 8 (alternative/additional)
+
+(为小家伙取一个超棒的名字！)
+
+#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
+派蒙: 哦，感觉是充满了力量感的好名字呢！
 
 ## Talk 8 (alternative/additional)
 
@@ -189,12 +206,10 @@
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！
 派蒙: 嗯？你知道出去的地方吗？
 
-## Talk 10
+## Objective 10
 
 (跟随你的龙伙伴)
 
-#{REALNAME[ID(2)|SHOWHOST(true)]} (小家伙？): 呀！
-派蒙: 哦，感觉是充满了力量感的好名字呢！
 
 ## Talk 12 (alternative/additional)
 
@@ -202,11 +217,10 @@
 
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呀！嗯…呀！
 
-## Talk 12
+## Objective 12
 
 (离开奇怪的空间)
 
-派蒙: 那，要给小家伙取一个什么样的名字呢？
 
 ## Associated Free Talks
 

@@ -380,7 +380,12 @@ Durin (Simulanka's Evil Dragon): ...
 Durin (Simulanka's Evil Dragon): —!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Huh...!
 
-## Talk 39
+## Objective 39
+
+(Go deep within the fell dragon's lair)
+
+
+## Talk 40 (variant 1)
 
 (Go deep within the fell dragon's lair)
 
@@ -396,7 +401,7 @@ Durin (Simulanka's Evil Dragon): —!
 "B": Since you're so persistent, let me tell you a secret...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph... More boring "fate" talk.
 
-## Talk 40
+## Talk 40 (variant 2)
 
 (Go deep within the fell dragon's lair)
 
@@ -421,23 +426,7 @@ Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 Unknown Role (TALK_ROLE_NONE): Missing text (0)
 
-## Talk 41 (variant 1)
-
-(Go deep within the fell dragon's lair)
-
-Little Flying Squirrel: Hey, mister dragon! I brought you some food. You must be hungry?
-Durin (Simulanka's Evil Dragon): ...
-Little Flying Squirrel: Shh...! Quiet, we can't let anyone hear us. Everyone says you're a bad dragon, but you're always nice to me when we play together. You always help me pick the flowers way up high that I can't reach.
-Durin (Simulanka's Evil Dragon): ...
-Little Flying Squirrel: It's okay. Just keep hiding here, and tomorrow, I'll—
-Flying Squirrel Mama: Oh no! My child!
-Flying Squirrel Mama: Help, somebody help me! Save my child, the dragon's trying to kidnap her!
-Little Flying Squirrel: No! Mom, it's not like that! Listen to me...!
-Durin (Simulanka's Evil Dragon): —!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So, you're hated by people, too...
-
-## Talk 41 (variant 2)
+## Talk 41
 
 (Go deep within the fell dragon's lair)
 
@@ -454,6 +443,22 @@ Durin (Simulanka's Evil Dragon): ...
 Durin (Simulanka's Evil Dragon): ...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So, in the end, you were "betrayed," too...
+
+## Talk 42
+
+(Go deep within the fell dragon's lair)
+
+Little Flying Squirrel: Hey, mister dragon! I brought you some food. You must be hungry?
+Durin (Simulanka's Evil Dragon): ...
+Little Flying Squirrel: Shh...! Quiet, we can't let anyone hear us. Everyone says you're a bad dragon, but you're always nice to me when we play together. You always help me pick the flowers way up high that I can't reach.
+Durin (Simulanka's Evil Dragon): ...
+Little Flying Squirrel: It's okay. Just keep hiding here, and tomorrow, I'll—
+Flying Squirrel Mama: Oh no! My child!
+Flying Squirrel Mama: Help, somebody help me! Save my child, the dragon's trying to kidnap her!
+Little Flying Squirrel: No! Mom, it's not like that! Listen to me...!
+Durin (Simulanka's Evil Dragon): —!
+#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+#{REALNAME[ID(1)|HOSTONLY(true)]}: So, you're hated by people, too...
 
 ## Talk 43
 

@@ -3,7 +3,63 @@
 You encounter a strange door out in the wilds of Natlan...
 
 
-## Talk 2
+## Talk 3
+
+(Talk to the strange person)
+
+Paimon: #Look, Traveler, there's a sealed gate over here!
+Paimon: Hehe, don't ask how, but Paimon's got the feeling that the strange things we picked up nearby must have something to do with getting it open.
+Paimon: Weird... Just what could be behind this gate?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+    Option 1:
+        Traveler: It could lead to a monster's lair...
+        Paimon: Whoa... And where there be monsters, there be treasures too, right?
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Traveler: That's not a given.
+        Paimon: Oh, come on, stop being such a downer. We'll find out once we get inside!
+    Option 2:
+        Traveler: Maybe it's a treasure cave...
+        Paimon: Hehe! That's what Paimon's gut is telling her too!
+        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+        Traveler: Don't get too excited now.
+        Paimon: Right, right. Let's just go in and find out! First we get this gate open, and then... Hehe. Fee, fie, foo, fum. Treasure, treasure, here we come!
+Legba (???): Hey, you two! Outlanders! And that... scarf-wearing Tepetlisaurus over there!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Arr?
+Legba (???): Heh, aren't you the energetic one? Seriously, though, haven't you told them that a seal's a seal because it's meant to seal off forbidden areas?
+Legba (???): And you won't find anything in there except for terribly profound curses.
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
+Paimon: Wait, so that means... there's no treasure?
+Legba (???): Oh, I'm sure there is. Probably.
+Traveler: Probably?
+Legba (???): Yes. But what it is, is something you outlanders shouldn't be poking around, for the "forbidden ground" that lies behind that door is also "holy ground."
+Legba (???): Only experienced Couriers who have completed the trials and received approval may enter. Within, it is said, lies a medium by which our ancestors communed with the world of night...
+Legba (???): Speaking of which, I wasn't gone that long, was I? And yet here you are, with the three trial completion keystones in tow... Impressive.
+Paimon: Heh! When it comes to climbing up and down looking for stuff, you won't find many better than us!
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Legba (???): Even tribal couriers might not match your speed. Well, you're still not permitted to enter these taboo grounds, but... my camp is nearby.
+Legba (???): How about I treat you to a quick bite, and then you can enjoy a comfy rest?
+#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
+    Option 1:
+        Traveler: We're not hungry yet.
+        Paimon: Paimon... Well, Paimon is kinda hungry. Why don't we just take a short little break?
+        Traveler: Same old Paimon.
+        Paimon: Says you... Paimon's still growing, you know!
+    Option 2:
+        Traveler: Since we've come this far already...
+        Paimon: Don't worry about it! You can rest, Paimon'll keep watch!
+        Traveler: You sure you won't just sleep sounder than I will?
+        Paimon: Seriously!? Grr... Paimon'll show you!
+Legba (???): Pfft... You two sure seem to get along well. Alright, come along now. My camp — and rest — await.
+Legba (???): I will prepare some hot food, guests from afar — and should chance allow, we may have much to talk about.
+
+## Objective 4
+
+(Go to the camp)
+
+
+## Talk 5
+
+(Talk to Legba)
 
 Legba (???): No need to stand on ceremony. Wanna try my cooking?
 Legba (???): If you want to make some yourself, I've got a recipe in the box over there, along with some things I don't use. Feel free to go through 'em.
@@ -104,80 +160,34 @@ Legba: Whatever the case, I must trouble you all to return the statue to its rig
 Legba: Yes, that means you too, little troublemaker, hehe! Come, let's go!
 Legba: But just so you are aware — the paths in the ruins are winding and filled with mechanisms, so stay wary.
 
-## Talk 3
-
-(Talk to the strange person)
-
-Paimon: #Look, Traveler, there's a sealed gate over here!
-Paimon: Hehe, don't ask how, but Paimon's got the feeling that the strange things we picked up nearby must have something to do with getting it open.
-Paimon: Weird... Just what could be behind this gate?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-    Option 1:
-        Traveler: It could lead to a monster's lair...
-        Paimon: Whoa... And where there be monsters, there be treasures too, right?
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-        Traveler: That's not a given.
-        Paimon: Oh, come on, stop being such a downer. We'll find out once we get inside!
-    Option 2:
-        Traveler: Maybe it's a treasure cave...
-        Paimon: Hehe! That's what Paimon's gut is telling her too!
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-        Traveler: Don't get too excited now.
-        Paimon: Right, right. Let's just go in and find out! First we get this gate open, and then... Hehe. Fee, fie, foo, fum. Treasure, treasure, here we come!
-Legba (???): Hey, you two! Outlanders! And that... scarf-wearing Tepetlisaurus over there!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Arr?
-Legba (???): Heh, aren't you the energetic one? Seriously, though, haven't you told them that a seal's a seal because it's meant to seal off forbidden areas?
-Legba (???): And you won't find anything in there except for terribly profound curses.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roar...
-Paimon: Wait, so that means... there's no treasure?
-Legba (???): Oh, I'm sure there is. Probably.
-Traveler: Probably?
-Legba (???): Yes. But what it is, is something you outlanders shouldn't be poking around, for the "forbidden ground" that lies behind that door is also "holy ground."
-Legba (???): Only experienced Couriers who have completed the trials and received approval may enter. Within, it is said, lies a medium by which our ancestors communed with the world of night...
-Legba (???): Speaking of which, I wasn't gone that long, was I? And yet here you are, with the three trial completion keystones in tow... Impressive.
-Paimon: Heh! When it comes to climbing up and down looking for stuff, you won't find many better than us!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Legba (???): Even tribal couriers might not match your speed. Well, you're still not permitted to enter these taboo grounds, but... my camp is nearby.
-Legba (???): How about I treat you to a quick bite, and then you can enjoy a comfy rest?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
-    Option 1:
-        Traveler: We're not hungry yet.
-        Paimon: Paimon... Well, Paimon is kinda hungry. Why don't we just take a short little break?
-        Traveler: Same old Paimon.
-        Paimon: Says you... Paimon's still growing, you know!
-    Option 2:
-        Traveler: Since we've come this far already...
-        Paimon: Don't worry about it! You can rest, Paimon'll keep watch!
-        Traveler: You sure you won't just sleep sounder than I will?
-        Paimon: Seriously!? Grr... Paimon'll show you!
-Legba (???): Pfft... You two sure seem to get along well. Alright, come along now. My camp — and rest — await.
-Legba (???): I will prepare some hot food, guests from afar — and should chance allow, we may have much to talk about.
-
-## Talk 4
-
-(Go to the camp)
-
-Paimon: Huh? Weren't we in the canyon ruins just now? Where is this...?
-"Projection of an Obsidian Tablet": Come, come. Over here.
-"Projection of an Obsidian Tablet": "Idol"... "Medium"... Return...
-"Projection of an Obsidian Tablet": (The gentle voice drifts in as if from far away, like whispers carried on the wind...)
-"Projection of an Obsidian Tablet": (The cold consciousness constantly calls out to you through... the obsidian statue in your hand...)
-"Projection of an Obsidian Tablet": Return... Return...
-Paimon: #Traveler?
-"Projection of an Obsidian Tablet": ...
-"Projection of an Obsidian Tablet": Long has it been since visitors from afar have come. This place is... too big. Too empty.
-"Projection of an Obsidian Tablet": The dark filth enters uninvited, staining even the darkest dreams...
-"Projection of an Obsidian Tablet": Our nation is invaded once more. If the slain are swallowed by the turbulent tides of darkness, the flames of the living, dawn and dusk... All shall be extinguished...
-"Projection of an Obsidian Tablet": Trust not lightly the so-called vision of the "sacred mountain." Reject... His promise...
-
 ## Objective 6
 
 (Open the gate)
 
 
-## Talk 7
+## Objective 7
 
 (Search the ruins)
+
+
+## Objective 8
+
+(Find a way to venture deeper into the ruins)
+
+
+## Talk 9 (alternative/additional)
+
+Legba: Well... according to what's been passed down from our tribe, to enter the altar, we need to... *"line up the lights in this place"*...
+Legba: I cannot be too sure, but perhaps we must align the height of the lamps controlled by the mechanisms.
+
+## Objective 10
+
+(Defeat the will of the Wayob)
+
+
+## Talk 11
+
+(Talk to Legba)
 
 Legba: The will of the Wayob made manifest... and you defeated it... You are mightier than I imagined.
 Legba: Most tribesfolk would have retreated in reverence as soon as they laid eyes on it... For no one knows the reason why such manifestations appear.
@@ -196,27 +206,34 @@ Legba: Yes, but a mere embodiment of a single thread of their will. They say tha
 Legba: That entity will surely reappear should you provoke the Wayob!
 Paimon: Ugh. Let's just focus on putting this statue back on the altar, then!
 
-## Talk 8
+## Talk 12 (alternative/additional)
 
-(Find a way to venture deeper into the ruins)
+(Place the obsidian statue back on the altar)
 
 Legba: Right. Now it is time to return this to its rightful owner.
-
-## Talk 9 (alternative/additional)
-
-Legba: Well... according to what's been passed down from our tribe, to enter the altar, we need to... *"line up the lights in this place"*...
-Legba: I cannot be too sure, but perhaps we must align the height of the lamps controlled by the mechanisms.
-
-## Objective 10
-
-(Defeat the will of the Wayob)
-
 
 ## Talk 12
 
 (Place the obsidian statue back on the altar)
 
 Make Offering: Missing text (2767902818)
+
+## Talk 14
+
+(Listen to the distant whispers)
+
+Paimon: Huh? Weren't we in the canyon ruins just now? Where is this...?
+"Projection of an Obsidian Tablet": Come, come. Over here.
+"Projection of an Obsidian Tablet": "Idol"... "Medium"... Return...
+"Projection of an Obsidian Tablet": (The gentle voice drifts in as if from far away, like whispers carried on the wind...)
+"Projection of an Obsidian Tablet": (The cold consciousness constantly calls out to you through... the obsidian statue in your hand...)
+"Projection of an Obsidian Tablet": Return... Return...
+Paimon: #Traveler?
+"Projection of an Obsidian Tablet": ...
+"Projection of an Obsidian Tablet": Long has it been since visitors from afar have come. This place is... too big. Too empty.
+"Projection of an Obsidian Tablet": The dark filth enters uninvited, staining even the darkest dreams...
+"Projection of an Obsidian Tablet": Our nation is invaded once more. If the slain are swallowed by the turbulent tides of darkness, the flames of the living, dawn and dusk... All shall be extinguished...
+"Projection of an Obsidian Tablet": Trust not lightly the so-called vision of the "sacred mountain." Reject... His promise...
 
 ## Talk 16
 

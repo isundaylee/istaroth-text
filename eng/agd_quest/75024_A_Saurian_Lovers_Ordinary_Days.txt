@@ -95,28 +95,10 @@ Paimon: Don't get so worked up, we're just checking to see if the guy over there
 "Marigold": Shrar! Grawr!
 Paimon: Uh oh... She's getting even angrier!
 
-## Talk 8
+## Objective 8
 
 (Defeat the Tepetlisaurus)
 
-Traveler: (There's a diary over here...)
-    Option 1:
-        Traveler: (Read the first part.)
-        Someone's Diary: "...Today's a rainy day. I prepared "Ripple" his favorite *Sour Sauce Ceviche*. His look of satisfaction made it all worthwhile..."
-        Someone's Diary: "...Even if he's swimming in a leisurely manner, the moment I proffer some of that *Sour Sauce Ceviche*... Whoosh! Out he pops from the water, and in such lovely form, too..."
-        Someone's Diary: "...I would never doubt his affection for me. Only, perhaps, that he might love *the ceviche* more..."
-    Option 2:
-        Traveler: (Read the second part.)
-        Someone's Diary: "...Big round sparkling eyes, curly tail and cheery cries... Jade, oh, Jade, is there a cuter Saurian in this world than you...?"
-        Someone's Diary: "...You have never once been cheated, nor never once doubted, as if all life might become your friend and enjoy a wonderful time playing with you..."
-        Someone's Diary: "...Were I not so busy, I'd love to play with you all day, watching you dart through woods swimming in mottled sunlight, like a child of the wind, a spirit oh so carefree..."
-    Option 3:
-        Traveler: (Read the third part.)
-        Someone's Diary: "...I've crossed mountains and valleys just to search for your whereabouts. If you truly wished not to see me, you could have departed..."
-        Someone's Diary: "...But you had consideration for my pace, stopping every so often, even collecting so much Grainfruit on my behalf, not to mention those shiny stones..."
-        Someone's Diary: "...Oh Marigold, my lovely Marigold, only I know the tender heart that lies beneath your hard shell. To be a fighter so fierce was never your intent..."
-    Option 4:
-        Traveler: (Alright, time to stop reading...)
 
 ## Talk 9
 
@@ -148,6 +130,27 @@ Icayo: #Ripple loves this dish — maybe your companion, {REALNAME[ID(2)|SHOWHOS
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Rawr!
 Paimon: #Hmm? Wanna give it a try, eh? No need to worry, Traveler will make some for you!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+## Talk 11 (alternative/additional)
+
+Traveler: (There's a diary over here...)
+    Option 1:
+        Traveler: (Read the first part.)
+        Someone's Diary: "...Today's a rainy day. I prepared "Ripple" his favorite *Sour Sauce Ceviche*. His look of satisfaction made it all worthwhile..."
+        Someone's Diary: "...Even if he's swimming in a leisurely manner, the moment I proffer some of that *Sour Sauce Ceviche*... Whoosh! Out he pops from the water, and in such lovely form, too..."
+        Someone's Diary: "...I would never doubt his affection for me. Only, perhaps, that he might love *the ceviche* more..."
+    Option 2:
+        Traveler: (Read the second part.)
+        Someone's Diary: "...Big round sparkling eyes, curly tail and cheery cries... Jade, oh, Jade, is there a cuter Saurian in this world than you...?"
+        Someone's Diary: "...You have never once been cheated, nor never once doubted, as if all life might become your friend and enjoy a wonderful time playing with you..."
+        Someone's Diary: "...Were I not so busy, I'd love to play with you all day, watching you dart through woods swimming in mottled sunlight, like a child of the wind, a spirit oh so carefree..."
+    Option 3:
+        Traveler: (Read the third part.)
+        Someone's Diary: "...I've crossed mountains and valleys just to search for your whereabouts. If you truly wished not to see me, you could have departed..."
+        Someone's Diary: "...But you had consideration for my pace, stopping every so often, even collecting so much Grainfruit on my behalf, not to mention those shiny stones..."
+        Someone's Diary: "...Oh Marigold, my lovely Marigold, only I know the tender heart that lies beneath your hard shell. To be a fighter so fierce was never your intent..."
+    Option 4:
+        Traveler: (Alright, time to stop reading...)
 
 ## Talk 11 (alternative/additional)
 

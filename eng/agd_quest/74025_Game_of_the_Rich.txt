@@ -21,7 +21,12 @@ Galvana: Alright, if you've got questions about processes or documents, I don't 
 Traveler: The Rag and Bone Shop.
 Traveler: (Maybe we'll even be able to get some Coupons...)
 
-## Talk 6
+## Objective 6
+
+(Learn about the situation from Monglane)
+
+
+## Talk 7
 
 (Learn about the situation from Monglane)
 
@@ -130,22 +135,21 @@ Darcy: Anyway, he's one of the good ones. Whenever there's trouble, he'll take c
 
 (Talk to Darcy)
 
+Darcy: Well? Want to go find Estienne with me now?
+
+## Talk 8 (alternative/additional)
+
+(Talk to Darcy)
+
 Traveler: I can't keep up... Let me think.
 Paimon: You're going too fast, let us think about this a little...
 Darcy: Oh, sorry! I didn't mean to make you come with me. Take your time, and come find me when you make a decision!
 
-## Talk 8 (variant 1)
+## Talk 8
 
 (Talk to Darcy)
 
 Traveler: What are we waiting for? Let's go!
-Darcy: Let's go!
-
-## Talk 8 (variant 2)
-
-(Talk to Darcy)
-
-Traveler: Then let's get going.
 Darcy: Let's go!
 
 ## Talk 9 (alternative/additional)
@@ -185,18 +189,24 @@ Darcy: Just think of it as killing time. Anyway, come find me when you make a de
 Traveler: Let me think about it first.
 Darcy: Sure thing!
 
-## Talk 9
+## Talk 9 (variant 1)
+
+(Talk to Darcy)
+
+Traveler: Then let's get going.
+Darcy: Let's go!
+
+## Talk 9 (variant 2)
 
 (Talk to Darcy)
 
 Traveler: Okay, let's go, then.
 Darcy: Let's go!
 
-## Talk 10
+## Objective 10
 
 (Go see Estienne with Darcy)
 
-Darcy: Well? Want to go find Estienne with me now?
 
 ## Talk 11
 
@@ -332,6 +342,12 @@ Lanoire: Sure, but... it's too soon to go back! I want to explore this place whi
 
 (Talk to the little girl)
 
+Lanoire: Are you ready to go?
+
+## Talk 12 (alternative/additional)
+
+(Talk to the little girl)
+
 Darcy: Dirty Face Darcy, at your service!
 Paimon: At whose service? And when? You ran off and left us behind back there!
 Darcy: I had to. Once that researcher starts talking, there's no end to it! It was fun the first time, but I've seen it too many times already.
@@ -428,11 +444,10 @@ Lanoire: Hehe, let's go!
 Traveler: The entrance to the Rift of Erosion.
 Traveler: (Maybe we'll even be able to get some Coupons...)
 
-## Talk 14
+## Objective 14
 
 (Go on an "adventure" with Lanoire)
 
-Lanoire: Are you ready to go?
 
 ## Objective 15
 
@@ -474,54 +489,6 @@ Clynes: I never said such a thing.
 Lanoire: Oh, it's you! It's alright, you're a good sorceress.
 Lanoire: But that bright light really hurt my eyes...
 
-## Talk 19
-
-Caterpillar: Sorry for the delay. About the way I said I got the Coupons earlier...
-Traveler: What did you do to him?
-Paimon: Someone that aggressive doesn't seem like the type to take advice from anyone. Why would he give up so easily...?
-Caterpillar: Just a few small tricks.
-Caterpillar: "The culprit is where he should be." This is an undeniable fact.
-Caterpillar: Making someone as straightforward as him "certain" of an undeniable fact isn't exactly hard.
-Traveler: Like that time with Julien?
-Caterpillar: That's right. Just like that time with Julien.
-Caterpillar: I've been here for a long time, as you know. After staying in one place for a long time, it's only natural to pick up a few handy tricks to exert some degree of influence over your environment.
-    Option 1:
-        Traveler: Almost too handy, I'd say.
-    Option 2:
-        Traveler: Sounds a little suspicious...
-Paimon: Changing a stubborn person's mind with just a few simple phrases almost sounds like magic... Could there have been times when we were also influenced by magic without even knowing it?
-    Option 1:
-        Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
-        Paimon: #You, too, Traveler! Wait a minute... You're not saying Paimon's as gullible as Julien, are you?
-    Option 2:
-        Traveler: Would someone even realize that they're being influenced?
-        Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
-Caterpillar: It's not as simple as it looks — there are always limits to the application of tricks like these, and the results aren't always what you'd hoped for.
-Caterpillar: It's like with Julien — He always had a knack for art, but he lacked confidence because of his visual impairment. The "certainty" that he could draw well was inside him to begin with.
-Caterpillar: But in other cases, the concept of "certainty" is just too abstract, making it difficult to predict the outcome.
-Caterpillar: So, I did take a chance this time. I just thought that if he held us up here, it would keep delaying the plan to get Lanoire out of the Fortress...
-Caterpillar: Besides, I doubt you wanted to be questioned by him repeatedly either.
-    Option 1:
-        Traveler: You shouldn't take chances like that.
-    Option 2:
-        Traveler: Well, you've got to take chances to achieve your goals.
-Caterpillar: You're absolutely right.
-Caterpillar: Back to the matter at hand... If you've changed your mind and want to back out, I understand completely. Lanoire might be sad for a time though. For her, playmates like you are hard to come by.
-Paimon: Hmm... We've already made a promise to her, so we can't just go back on our word now. Right?
-    Option 1:
-        Traveler: A promise is a promise.
-        Paimon: Yeah. Consider this our way of helping her out!
-    Option 2:
-        Traveler: This doesn't mean I trust you.
-        Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
-Paimon: Speaking of which, where is she?
-Caterpillar: She went on an adventure early this morning — probably to rehearse for what's to come after she leaves this place. It's just as well, I have a few headaches to go take care of soon...
-Caterpillar: You can usually get a reward for helping others — including the guards — take care of some headaches.
-Paimon: Oh, we totally get that. Sounds just like some of the Adventurers' Guild's commissions.
-Caterpillar: I see. Would you two join me on this next commission, then?
-Paimon: Sure! Where are we going?
-Caterpillar: The abandoned production zone in the lower levels.
-
 ## Objective 20
 
 (Go on an "adventure" with Lanoire)
@@ -544,28 +511,15 @@ Clynes: I want to be free of these bothersome affairs, too! Really, can you just
 (Listen to the noise box)
 
 
-## Talk 23
+## Objective 23
 
 (Go on an "adventure" with Lanoire)
 
-Traveler: (Caterpillar probably went to get Coupons elsewhere, but he left us some clues...)
 
-## Talk 24
+## Objective 24
 
 (Go on an "adventure" with Lanoire)
 
-Lanoire: Phew, guess our adventure's almost at an end. The Coupon Cafeteria's our final stop.
-Traveler: So the ultimate destination of adventuring is a good meal.
-Paimon: Not bad, right? Adventures take a toll on your body, so eating afterward is a must.
-Lanoire: That's right! And I've never seen someone as small as Ms. Paimon! You're even smaller than Ms. Sigewinne. You should eat more, so you can grow bigger!
-    Option 1:
-        Traveler: I think Paimon's fine just the way she is.
-        Paimon: Paimon thinks so, too!
-    Option 2:
-        Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
-        Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
-Paimon: Let's talk to Bran and see if we'll get something good!
-Lanoire: Yup! It'd be nice if it was the delicious Tasses Ragout, though.
 
 ## Talk 25 (alternative/additional)
 
@@ -591,6 +545,23 @@ Paimon: Wait, you won't know what you'll get? Why can't you order what you want?
 Lanoire: Wolsey says that it's meant to be both a surprise and a risk precisely 'cause it's a free meal. If you don't want any risks, then you've gotta use Coupons.
 Lanoire: Will the two of you try the free meal?
 Paimon: Paimon will give it a try! Paimon is always lucky, and this stuff's free! How can free meals be bad?
+
+## Talk 25 (alternative/additional)
+
+(Eat at the Coupon Cafeteria with Lanoire)
+
+Lanoire: Phew, guess our adventure's almost at an end. The Coupon Cafeteria's our final stop.
+Traveler: So the ultimate destination of adventuring is a good meal.
+Paimon: Not bad, right? Adventures take a toll on your body, so eating afterward is a must.
+Lanoire: That's right! And I've never seen someone as small as Ms. Paimon! You're even smaller than Ms. Sigewinne. You should eat more, so you can grow bigger!
+    Option 1:
+        Traveler: I think Paimon's fine just the way she is.
+        Paimon: Paimon thinks so, too!
+    Option 2:
+        Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
+        Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
+Paimon: Let's talk to Bran and see if we'll get something good!
+Lanoire: Yup! It'd be nice if it was the delicious Tasses Ragout, though.
 
 ## Talk 25
 
@@ -896,6 +867,11 @@ Black Screen Text: "And then what? Did the little girl listen to the giant? I be
 "Uh-huh...?"
 "As for the rest of the story, well, let's save that for next time."
 
+## Objective 31
+
+(Look for Caterpillar and Lanoire)
+
+
 ## Talk 32
 
 (Talk to Caterpillar)
@@ -941,7 +917,57 @@ Traveler: (There's something fishy about this.)
 Paimon: Could it have something to do with that stuff Caterpillar said? Paimon just felt a little sleepy when she heard it...
 Paimon: Let's just ask him directly!
 
-## Talk 33
+## Talk 33 (variant 1)
+
+(Talk to Caterpillar)
+
+Caterpillar: Sorry for the delay. About the way I said I got the Coupons earlier...
+Traveler: What did you do to him?
+Paimon: Someone that aggressive doesn't seem like the type to take advice from anyone. Why would he give up so easily...?
+Caterpillar: Just a few small tricks.
+Caterpillar: "The culprit is where he should be." This is an undeniable fact.
+Caterpillar: Making someone as straightforward as him "certain" of an undeniable fact isn't exactly hard.
+Traveler: Like that time with Julien?
+Caterpillar: That's right. Just like that time with Julien.
+Caterpillar: I've been here for a long time, as you know. After staying in one place for a long time, it's only natural to pick up a few handy tricks to exert some degree of influence over your environment.
+    Option 1:
+        Traveler: Almost too handy, I'd say.
+    Option 2:
+        Traveler: Sounds a little suspicious...
+Paimon: Changing a stubborn person's mind with just a few simple phrases almost sounds like magic... Could there have been times when we were also influenced by magic without even knowing it?
+    Option 1:
+        Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
+        Paimon: #You, too, Traveler! Wait a minute... You're not saying Paimon's as gullible as Julien, are you?
+    Option 2:
+        Traveler: Would someone even realize that they're being influenced?
+        Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
+Caterpillar: It's not as simple as it looks — there are always limits to the application of tricks like these, and the results aren't always what you'd hoped for.
+Caterpillar: It's like with Julien — He always had a knack for art, but he lacked confidence because of his visual impairment. The "certainty" that he could draw well was inside him to begin with.
+Caterpillar: But in other cases, the concept of "certainty" is just too abstract, making it difficult to predict the outcome.
+Caterpillar: So, I did take a chance this time. I just thought that if he held us up here, it would keep delaying the plan to get Lanoire out of the Fortress...
+Caterpillar: Besides, I doubt you wanted to be questioned by him repeatedly either.
+    Option 1:
+        Traveler: You shouldn't take chances like that.
+    Option 2:
+        Traveler: Well, you've got to take chances to achieve your goals.
+Caterpillar: You're absolutely right.
+Caterpillar: Back to the matter at hand... If you've changed your mind and want to back out, I understand completely. Lanoire might be sad for a time though. For her, playmates like you are hard to come by.
+Paimon: Hmm... We've already made a promise to her, so we can't just go back on our word now. Right?
+    Option 1:
+        Traveler: A promise is a promise.
+        Paimon: Yeah. Consider this our way of helping her out!
+    Option 2:
+        Traveler: This doesn't mean I trust you.
+        Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
+Paimon: Speaking of which, where is she?
+Caterpillar: She went on an adventure early this morning — probably to rehearse for what's to come after she leaves this place. It's just as well, I have a few headaches to go take care of soon...
+Caterpillar: You can usually get a reward for helping others — including the guards — take care of some headaches.
+Paimon: Oh, we totally get that. Sounds just like some of the Adventurers' Guild's commissions.
+Caterpillar: I see. Would you two join me on this next commission, then?
+Paimon: Sure! Where are we going?
+Caterpillar: The abandoned production zone in the lower levels.
+
+## Talk 33 (variant 2)
 
 (Talk to Caterpillar)
 
@@ -1463,6 +1489,12 @@ Black Screen Text: "Then," the witch asked, "is there anything I can do for you?
 The giant thought it over, then said that he had lost something very important to him. If the witch could use her magic to help him find it...
 Black Screen Text: "So, they made a deal?"
 "Yep! In the end, the witch's friend recovered and the giant found what he had lost. Isn't that a better story? At least in this story, everyone gets a happy ending..."
+
+## Talk 50 (alternative/additional)
+
+(Obtain Credit Coupons)
+
+Traveler: (Caterpillar probably went to get Coupons elsewhere, but he left us some clues...)
 
 ## Talk 50 (alternative/additional)
 

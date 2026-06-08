@@ -94,13 +94,10 @@ Albedo: If that really was the solution, though, this would have been over the m
         Traveler: We have time.
 Durin: Yeah, I'd like to explore the area a bit more.
 
-## Talk 5
+## Objective 5
 
 (Decide what to do next)
 
-"M" (Narrator): The evil dragon's heart continued to beat, as if waiting for the little dragon to accept it as his own.
-Albedo: Looks like we have no choice but to get this done.
-Albedo: Whatever happens next, Durin is going to need all of our help. Is everyone ready?
 
 ## Talk 6 (variant 1)
 
@@ -141,11 +138,21 @@ Durin: So please, everyone — help me destroy this heart, once and for all!
 
 ## Talk 8 (alternative/additional)
 
+Traveler: (So, we can't destroy the heart, and even if we tried, it would cause Durin to disappear. We have to find another way.)
+
+## Talk 8 (alternative/additional)
+
 Durin: So please, everyone — help me destroy this heart, once and for all!
 
 ## Talk 8
 
 Traveler: Ready when you are.
+
+## Talk 9 (alternative/additional)
+
+"M" (Narrator): The evil dragon's heart continued to beat, as if waiting for the little dragon to accept it as his own.
+Albedo: Looks like we have no choice but to get this done.
+Albedo: Whatever happens next, Durin is going to need all of our help. Is everyone ready?
 
 ## Talk 9 (alternative/additional)
 
@@ -183,6 +190,16 @@ Little Dragon: Oh? Then I'm not afraid!
 Durin: Funny, isn't it? After talking to you, I'm not afraid anymore either.
 Durin: So, are you ready now?
 Little Dragon: Yep! I'm ready to become a human!
+
+## Objective 12
+
+(Decide what to do next)
+
+
+## Objective 13
+
+(Search for hidden possibilities)
+
 
 ## Talk 14
 
@@ -264,6 +281,17 @@ Paimon: Uh, what's up with the narrator...?
 (Decide what to do next)
 
 
+## Talk 24 (alternative/additional)
+
+Paimon: If we go this way, we'll be returning to the castle.
+Durin: Returning to the castle...
+    Option 1:
+        Traveler: There's nothing challenging for you back there.
+    Option 2:
+        Traveler: You'll end up stuck in one place.
+Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
+Durin: ...I see.
+
 ## Talk 24
 
 Durin: Returning to the castle...
@@ -290,18 +318,10 @@ Albedo: Once the ink runs out, is that the end of the story?
 Paimon: What's happening to the others...?
 "M" (Narrator): Now that the story's ink was spent, all that lay ahead were blank pages.
 
-## Talk 26
+## Objective 26
 
 (Make a decision quickly)
 
-Paimon: If we go this way, we'll be returning to the castle.
-Durin: Returning to the castle...
-    Option 1:
-        Traveler: There's nothing challenging for you back there.
-    Option 2:
-        Traveler: You'll end up stuck in one place.
-Paimon: Yeah! You'll just be hiding from your problems and pretending like none of this ever happened. Is that really what you want, Durin?
-Durin: ...I see.
 
 ## Talk 27
 
@@ -380,11 +400,10 @@ Traveler: Then go for it. We'll be with you all the way.
 Albedo: I second that. It would seem this is one answer you need to go seize for yourself.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: So be it. Whatever obstacles stand in your way, we'll tear them down together.
 
-## Talk 31
+## Objective 31
 
 (Break through the boundary of the tale)
 
-Traveler: (So, we can't destroy the heart, and even if we tried, it would cause Durin to disappear. We have to find another way.)
 
 ## Talk 32
 
