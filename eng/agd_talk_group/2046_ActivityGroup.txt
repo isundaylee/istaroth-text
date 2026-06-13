@@ -52,36 +52,26 @@ Paimon: Hehe, Paimon thought she heard some passersby raving about the drinks st
 ## Talk 6
 
 Glenfidia: Thank you, Honorary Knight, Lady Paimon! We'll keep the drinks stand going from here on out. You can count on us.
-
 Traveler: You've got this!
-
 Paimon: That's right! You're doing a great job, Glenfidia!
-
 Paimon: From now on, let's call you... The Cocktail Knight! Next time we meet, Paimon bets your skills will be even better!
-
 Glenfidia: What an excellent title... I'll wear it with pride!
 
 ## Talk 7
 
 Helene: Good day, my former clients... It's truly an honor to see you.
-
-Traveler: What brings you here?
-
-Helene: Ah, we've had an outsourcing order. I've been assigned to Dornman Port to help maintain some precision instruments...
-
-Helene: I've finished the job, but I'm a little too tired to head back to Fontaine right away.
-
-Helene: Getting the chance to try your drinks here in Mondstadt... I feel like I'm back up to 90% vitality already. I'm sure I could take on three times the work now without getting worn out!
-
-Traveler: Sorry, uh, who are you again...?
-
-Helene: Just a freelance engineer, nothing special... Don't worry if I'm not ringing any bells.
-
-Helene: Once I find myself a steady job, maybe then I can earn a place in your memory!
-
-Traveler: Give me a moment, I'll go fix you something to drink.
-
-Helene: Alright, thank you so much!
+    Option 1:
+        Traveler: What brings you here?
+        Helene: Ah, we've had an outsourcing order. I've been assigned to Dornman Port to help maintain some precision instruments...
+        Helene: I've finished the job, but I'm a little too tired to head back to Fontaine right away.
+        Helene: Getting the chance to try your drinks here in Mondstadt... I feel like I'm back up to 90% vitality already. I'm sure I could take on three times the work now without getting worn out!
+    Option 2:
+        Traveler: Sorry, uh, who are you again...?
+        Helene: Just a freelance engineer, nothing special... Don't worry if I'm not ringing any bells.
+        Helene: Once I find myself a steady job, maybe then I can earn a place in your memory!
+    Option 3:
+        Traveler: Give me a moment, I'll go fix you something to drink.
+        Helene: Alright, thank you so much!
 
 ## Talk 8
 
