@@ -90,27 +90,6 @@ Option 6:
 > 旅行者: 学习「厨艺」…
 > 派蒙: 倒是挺适合你呢，能在需要的时候鼓舞大家的士气！
 
-Option 7:
-
-> 旅行者: 学习「洞悉」…
-> 派蒙: 是能窥探对方心理活动的技能对吧？感觉挺实用呢！
-> 旅行者: 学习「厨艺」…
-> 派蒙: 倒是挺适合你呢，能在需要的时候鼓舞大家的士气！
-
-Option 8:
-
-> 旅行者: 学习「厨艺」…
-> 派蒙: 倒是挺适合你呢，能在需要的时候鼓舞大家的士气！
-> 旅行者: 学习「洞悉」…
-> 派蒙: 是能窥探对方心理活动的技能对吧？感觉挺实用呢！
-
-Option 9:
-
-> 旅行者: 学习「医术」…
-> 派蒙: 是想在大家受伤的时候帮忙治疗吗？你真贴心！
-> 旅行者: 学习「厨艺」…
-> 派蒙: 倒是挺适合你呢，能在需要的时候鼓舞大家的士气！
-
 派蒙: 怎么样？你确定要学习这两个技能吗？
 
 Option 1:
@@ -118,7 +97,7 @@ Option 1:
 > 旅行者: 我再想想…
 > 派蒙: 好呀 ，你想学些什么呢？
 > 旅行者: 学习「厨艺」…
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 2:
 
@@ -128,14 +107,14 @@ Option 3:
 > 旅行者: 我再想想…
 > 派蒙: 好呀 ，你想学些什么呢？
 > 旅行者: 学习「医术」…
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 4:
 
 > 旅行者: 我再想想…
 > 派蒙: 好呀 ，你想学些什么呢？
 > 旅行者: 学习「洞悉」…
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 旅行者: 确定。
 

@@ -703,7 +703,7 @@ Option 1:
 > Nahida: The other big issue is the people of King Deshret — all the residents of the desert, in fact. They have been mistreated for far too long.
 > Nahida: I've already taken some measures to address this. It will take some time to rebuild everything, but no matter if it's culture, friendship, or trust... we will rebuild it.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 2:
 
@@ -717,7 +717,7 @@ Option 3:
 > Nahida: In addition, there are still some mysteries left in him. Some things may be very clear from my perspective, but he has still yet to understand them himself.
 > Nahida: His future will be determined by fate.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 4:
 
@@ -730,7 +730,7 @@ Option 4:
 > Nahida: As archon, she still reserves the right to influence the final verdict.
 > Nahida: Anyway, let's just say she's got... hmm... a very unique personality.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 5:
 
@@ -774,7 +774,7 @@ Option 5:
 > Nahida: There are many questions in my heart as well. I will need some time to go through each one of them.
 > Traveler: Same here... I'll need some time to reflect on what you've said.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 6:
 
@@ -818,53 +818,9 @@ Option 6:
 > Nahida: There are many questions in my heart as well. I will need some time to go through each one of them.
 > Traveler: Same here... I'll need some time to reflect on what you've said.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
 
 Option 7:
-
-> Traveler: I've got nothing else to say.
-> Nahida: Are you sure? Isn't there something else that you haven't asked about yet?
-> Paimon: Huh? You mean...
-> Nahida: #About... your sister.
-> Nahida: #While you were resting at Gandharva Ville, I took some time to perform an Irminsul search for information on your sister.
-> Traveler: #There shouldn't be any information on her in Irminsul.
-> Paimon: #Yeah, isn't Irminsul a repository for all the information and memories of Teyvat? So there shouldn't be anything on him or his sister.
-> Nahida: #This is true in your case, Traveler. Irminsul indeed does not have any information on you.
-> Nahida: However...
-> Nahida: #There must be something different about your {F#brother}{M#sister}... because as it turns out, the world has recorded information on {F#him}{M#her} after all.
-> Paimon: What!?
-> Traveler: !?
-> Nahida: #There's only one possible explanation: She belongs to this world.
-> Traveler: #(How is that possible? We journeyed the sea of stars all our lives until we came here. How could she possibly hail from Teyvat...?)
-> Traveler: #(Things don't add up. Is there something wrong with my memories? Or is it this world that has done something to her...)
-> Paimon: But... nothing about this makes any sense. Wasn't this your first trip to Teyvat?
-> Traveler: #Do you know what she has been through?
-> Nahida: According to the records I was able to access, your sibling suddenly appeared in Khaenri'ah...
-> Nahida: #After the Khaenri'ah disaster, she began her journey through the seven nations of Teyvat.
-> Nahida: #But just as her journey was about to reach its conclusion, the Irminsul records on her suddenly become fuzzy...
-> Paimon: #What do you mean, "fuzzy"? Did something happen to her?
-> Nahida: #All I know for sure is that somebody, for reasons only they can know, is deliberately obfuscating {F#his}{M#her} fate...
-> Nahida: And whoever it is... if they can do that, who knows what else they're capable of.
-> Traveler: Could it be related to... the Abyss?
-> Paimon: #But even that wouldn't explain how {F#he}{M#she} somehow comes from this world...
-> Nahida: Something else I noticed was that according to these records, the Fatui have not classified your sibling as one of the "Descenders."
-> Traveler: Descenders?
-> Paimon: ...What's a Descender? Paimon's never heard of it...
-> Nahida: Look, I'm sure you must be curious about the information I received from the Fatui in return for my Gnosis, right?
-> Nahida: A very important part of the intel was about this world's Descenders... external beings, ones that don't belong to this world.
-> Nahida: #Traveler, you are Teyvat's "Fourth Descender."
-> Traveler: Fourth...?
-> Paimon: #Huh!? So the Fatui count three other Descenders before Traveler? And his sister isn't even one of them?
-> Nahida: That's right. My current hypothesis is that the "First Descender" was likely what we now call the Heavenly Principles.
-> Nahida: As for the other Descenders... I still need to verify their existence. It could take me some time.
-> Paimon: Whew... Paimon's head's about to burst from all this crazy new information...
-> Nahida: And yet, even knowing all this, I'm sure you must still have a lot of unanswered questions. I must say, I truly regret that I can't help you more as the God of Wisdom...
-> Nahida: There are many questions in my heart as well. I will need some time to go through each one of them.
-> Traveler: Same here... I'll need some time to reflect on what you've said.
-> Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
-
-Option 8:
 
 > Traveler: I've got nothing else to say.
 > Nahida: Are you sure? Isn't there something else that you haven't asked about yet?
@@ -906,7 +862,51 @@ Option 8:
 > Nahida: There are many questions in my heart as well. I will need some time to go through each one of them.
 > Traveler: Same here... I'll need some time to reflect on what you've said.
 > Nahida: Is there anything you want to know?
-> [Circling back to a pre-branch dialog]
+> [Loops back to an already-shown dialog]
+
+Option 8:
+
+> Traveler: I've got nothing else to say.
+> Nahida: Are you sure? Isn't there something else that you haven't asked about yet?
+> Paimon: Huh? You mean...
+> Nahida: #About... your sister.
+> Nahida: #While you were resting at Gandharva Ville, I took some time to perform an Irminsul search for information on your sister.
+> Traveler: #There shouldn't be any information on her in Irminsul.
+> Paimon: #Yeah, isn't Irminsul a repository for all the information and memories of Teyvat? So there shouldn't be anything on him or his sister.
+> Nahida: #This is true in your case, Traveler. Irminsul indeed does not have any information on you.
+> Nahida: However...
+> Nahida: #There must be something different about your {F#brother}{M#sister}... because as it turns out, the world has recorded information on {F#him}{M#her} after all.
+> Paimon: What!?
+> Traveler: !?
+> Nahida: #There's only one possible explanation: She belongs to this world.
+> Traveler: #(How is that possible? We journeyed the sea of stars all our lives until we came here. How could she possibly hail from Teyvat...?)
+> Traveler: #(Things don't add up. Is there something wrong with my memories? Or is it this world that has done something to her...)
+> Paimon: But... nothing about this makes any sense. Wasn't this your first trip to Teyvat?
+> Traveler: #Do you know what she has been through?
+> Nahida: According to the records I was able to access, your sibling suddenly appeared in Khaenri'ah...
+> Nahida: #After the Khaenri'ah disaster, she began her journey through the seven nations of Teyvat.
+> Nahida: #But just as her journey was about to reach its conclusion, the Irminsul records on her suddenly become fuzzy...
+> Paimon: #What do you mean, "fuzzy"? Did something happen to her?
+> Nahida: #All I know for sure is that somebody, for reasons only they can know, is deliberately obfuscating {F#his}{M#her} fate...
+> Nahida: And whoever it is... if they can do that, who knows what else they're capable of.
+> Traveler: Could it be related to... the Abyss?
+> Paimon: #But even that wouldn't explain how {F#he}{M#she} somehow comes from this world...
+> Nahida: Something else I noticed was that according to these records, the Fatui have not classified your sibling as one of the "Descenders."
+> Traveler: Descenders?
+> Paimon: ...What's a Descender? Paimon's never heard of it...
+> Nahida: Look, I'm sure you must be curious about the information I received from the Fatui in return for my Gnosis, right?
+> Nahida: A very important part of the intel was about this world's Descenders... external beings, ones that don't belong to this world.
+> Nahida: #Traveler, you are Teyvat's "Fourth Descender."
+> Traveler: Fourth...?
+> Paimon: #Huh!? So the Fatui count three other Descenders before Traveler? And his sister isn't even one of them?
+> Nahida: That's right. My current hypothesis is that the "First Descender" was likely what we now call the Heavenly Principles.
+> Nahida: As for the other Descenders... I still need to verify their existence. It could take me some time.
+> Paimon: Whew... Paimon's head's about to burst from all this crazy new information...
+> Nahida: And yet, even knowing all this, I'm sure you must still have a lot of unanswered questions. I must say, I truly regret that I can't help you more as the God of Wisdom...
+> Nahida: There are many questions in my heart as well. I will need some time to go through each one of them.
+> Traveler: Same here... I'll need some time to reflect on what you've said.
+> Nahida: Is there anything you want to know?
+> [Loops back to an already-shown dialog]
 
 Traveler: About what happened after I fell asleep that day...
 Nahida: You mean, what happened after The Doctor put you to sleep?
