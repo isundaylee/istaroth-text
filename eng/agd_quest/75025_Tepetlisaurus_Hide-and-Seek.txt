@@ -13,10 +13,15 @@ Paimon: Could it be some sort of... Tepetlisaurus gathering spot?
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} looks so excited! Not often that you get to meet so many companions all in one go, huh?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
 Paimon: #Oh, you mean you wanna go over there and play with them? Come to think of it, {REALNAME[ID(2)|SHOWHOST(true)]} hardly ever gets to hang out with other little Tepetlisaurs...
-    Option 1:
-        Traveler: Be careful, okay?
-    Option 2:
-        Traveler: Don't be gone too long!
+
+Option 1:
+
+> Traveler: Be careful, okay?
+
+Option 2:
+
+> Traveler: Don't be gone too long!
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Uhh, Paimon's still a bit worried... Anyway, let's find somewhere to relax and have something to eat while we wait for {REALNAME[ID(2)|SHOWHOST(true)]}.
 Black Screen Text: #You and Paimon find a nice spot nearby to rest until {REALNAME[ID(2)|SHOWHOST(true)]} is done playing.
@@ -59,10 +64,15 @@ Paimon: C'mon, let's catch up!
 
 Paimon: #Wow, so many Berries... Thanks! Wait a sec, we're looking for {REALNAME[ID(2)|SHOWHOST(true)]}, not Berries!
 Clever Little Tepetlisaurus: Rrrawr?
-    Option 1:
-        Traveler: Anyway, we appreciate it!
-    Option 2:
-        Traveler: We're not the type to say no to Berries!
+
+Option 1:
+
+> Traveler: Anyway, we appreciate it!
+
+Option 2:
+
+> Traveler: We're not the type to say no to Berries!
+
 Clever Little Tepetlisaurus: Rawr!
 Paimon: #Well, being given Berries is never a bad thing, but it seems like {REALNAME[ID(2)|SHOWHOST(true)]} isn't here. Let's keep looking!
 
@@ -89,10 +99,15 @@ Paimon: Aha! So you've been here snoozing away! No wonder we couldn't find you a
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh...
 Paimon: Looks like you had so much fun you completely tired yourself out.
 Paimon: But the world's a dangerous place, y'know! If you start feeling sleepy or need a rest, you've got to come find us first...
-    Option 1:
-        Traveler: I told you to be careful...
-    Option 2:
-        Traveler: I said not to be gone too long...
+
+Option 1:
+
+> Traveler: I told you to be careful...
+
+Option 2:
+
+> Traveler: I said not to be gone too long...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rowr...
 Paimon: Alright, alright... Nothing wrong with a bit of fun every now and again. But be more careful in the future, okay?
 Paimon: Anyway, why don't we go say hi to that big Tepetlisaurus over there? Who knows, we might get another chance to hang out with this lot someplace else in the future!

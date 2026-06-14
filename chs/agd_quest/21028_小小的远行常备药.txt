@@ -8,11 +8,16 @@
 (与小蒙对话)
 
 小蒙: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！你来得正好，我有事情想问你！
-    Option 1:
-        旅行者: 有什么事？
-    Option 2:
-        旅行者: 旅行准备得怎么样了？
-        小蒙: 大部分都是我爸爸和那群叔叔在准备啦…但是爸爸也交给我了一些任务！
+
+Option 1:
+
+> 旅行者: 有什么事？
+
+Option 2:
+
+> 旅行者: 旅行准备得怎么样了？
+> 小蒙: 大部分都是我爸爸和那群叔叔在准备啦…但是爸爸也交给我了一些任务！
+
 小蒙: 爸爸说，去须弥的路程很远，需要准备一些药物。
 小蒙: 治疗头痛的、防止腹泻的，防止中暑的…还有解酒的，消食的…好多好多。
 派蒙: 为什么还要准备解酒的药啦…
@@ -20,11 +25,16 @@
 派蒙: 欸？谈生意和解酒药有什么关系，难道喝酒喝得多，生意就会做得好吗？
 小蒙: 总之，爸爸要我去「不卜庐」问问，那些药物准备得怎么样了。
 小蒙: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你能陪我去吗？有些事，我想要请你帮帮忙。
-    Option 1:
-        旅行者: 走吧。
-    Option 2:
-        旅行者: 你…有什么事要我帮忙？
-        小蒙: 到那边再说吧。
+
+Option 1:
+
+> 旅行者: 走吧。
+
+Option 2:
+
+> 旅行者: 你…有什么事要我帮忙？
+> 小蒙: 到那边再说吧。
+
 小蒙: #我们走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}。
 
 ## Objective 2
@@ -44,12 +54,17 @@
 阿桂: 我看看啊，嗯…主要是薄荷没剩下多少，所以治疗中暑的药也没法做了。
 阿桂: 毕竟，除了制作你爸爸的药物订单之外，我们也要给其他人看病啊。
 小蒙: 那…
-    Option 1:
-        旅行者: 轮到我出场了。
-        小蒙: #嘿嘿，谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
-    Option 2:
-        旅行者: 我可要收取报酬喔。
-        小蒙: #嘿嘿，没问题！谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
+
+Option 1:
+
+> 旅行者: 轮到我出场了。
+> 小蒙: #嘿嘿，谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
+
+Option 2:
+
+> 旅行者: 我可要收取报酬喔。
+> 小蒙: #嘿嘿，没问题！谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
+
 小蒙: 那药材的事就拜托你啦，我要留在这里仔细核查一下药物。这是爸爸特意叮嘱我的！
 阿桂: 这孩子还挺认真的…
 阿桂: 那你和我进来吧，我把这一批的药物清单给你看看。

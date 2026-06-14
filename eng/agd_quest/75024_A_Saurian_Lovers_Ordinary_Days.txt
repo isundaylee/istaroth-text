@@ -46,12 +46,17 @@ Paimon: Err, so Marigold's that grumpy Tepetlisaurus, then? Call Paimon blind, b
 Paimon: Anyway, back on topic. So these three Saurians are... his friends? Why'd they knock him unconscious and surround him, then?
 Traveler: Let's get him out first and ask questions later.
 Paimon: Yeah, that's true. If only we could get them to make way... Hang on, didn't the diary say that Ripple fancies Sour Sauce Ceviche? There's some in camp, so maybe we can use it as a lure!
-    Option 1:
-        Traveler: #As for Jade... Let's send {REALNAME[ID(2)|SHOWHOST(true)]} to go make a friend, shall we?
-        Paimon: #Great idea! Jade's the fun-loving sort, so {REALNAME[ID(2)|SHOWHOST(true)]} just needs to lead 'er off somewhere.
-    Option 2:
-        Traveler: We could duel Marigold.
-        Paimon: #Err, let's resolve this by more peaceful means, shall we? Like getting {REALNAME[ID(2)|SHOWHOST(true)]} to lure the fun-loving Jade away...
+
+Option 1:
+
+> Traveler: #As for Jade... Let's send {REALNAME[ID(2)|SHOWHOST(true)]} to go make a friend, shall we?
+> Paimon: #Great idea! Jade's the fun-loving sort, so {REALNAME[ID(2)|SHOWHOST(true)]} just needs to lead 'er off somewhere.
+
+Option 2:
+
+> Traveler: We could duel Marigold.
+> Paimon: #Err, let's resolve this by more peaceful means, shall we? Like getting {REALNAME[ID(2)|SHOWHOST(true)]} to lure the fun-loving Jade away...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
 Paimon: #See, {REALNAME[ID(2)|SHOWHOST(true)]}'s excited about the plan too! But perhaps the simplest and least wasteful way would be to use the Sour Sauce Ceviche, right?
 
@@ -87,11 +92,16 @@ Paimon: #Let's go check on the guy and see if he's okay once {REALNAME[ID(2)|SHO
 
 "Marigold": Shrawrr—!
 Paimon: Don't get so worked up, we're just checking to see if the guy over there's unhurt.
-    Option 1:
-        Traveler: Seems like it's time to duel.
-        Paimon: C'mon, don't give up that quickly! Look, we don't mean any harm, and we... Well, we're sure that you're not the fighty type by nature...
-    Option 2:
-        Traveler: "Oh Marigold, my lovely Marigold"...
+
+Option 1:
+
+> Traveler: Seems like it's time to duel.
+> Paimon: C'mon, don't give up that quickly! Look, we don't mean any harm, and we... Well, we're sure that you're not the fighty type by nature...
+
+Option 2:
+
+> Traveler: "Oh Marigold, my lovely Marigold"...
+
 "Marigold": Shrar! Grawr!
 Paimon: Uh oh... She's getting even angrier!
 
@@ -108,19 +118,29 @@ Black Screen Text: After being defeated, the Tepetlisaurus named "Marigold" dril
 Paimon: No obvious wounds... Hey, are you alright? Can you hear Paimon?
 Icayo (???): ...Hmm? Marigold? Ah, you gentle soul. You're concerned about me, aren't you? Worry not. I've been training myself to play with you without any worries...
 Paimon: #Hey, Paimon's Paimon, y'hear? Not some Marigold! Traveler, do you think he might have hurt his head in the fall?
-    Option 1:
-        Traveler: With any luck, his head will clear up soon.
-    Option 2:
-        Traveler: That would be a problem...
+
+Option 1:
+
+> Traveler: With any luck, his head will clear up soon.
+
+Option 2:
+
+> Traveler: That would be a problem...
+
 Icayo (???): Wait. You're not Marigold. What's going on? What happened to me?
 Black Screen Text: You tell him of how he was surrounded by the three Saurians and knocked down by Marigold...
 Icayo: Ah, so that's what happened. Sorry for the trouble. The name's Icayo. As you can see, I'm an adventurer who loves chasing Saurians... and who sometimes winds up being chased by them.
 Icayo: I had a spell of ill-health that resulted in my being bedridden for a while. Not only did my stamina decline greatly during that time, but I wasn't able to meet them on the regular either...
 Icayo: To have been surrounded by them even before making it to camp... Ah, how fortunate I am, to be one so fretted over.
-    Option 1:
-        Traveler: You're a real positive thinker.
-    Option 2:
-        Traveler: Is that how it is...?
+
+Option 1:
+
+> Traveler: You're a real positive thinker.
+
+Option 2:
+
+> Traveler: Is that how it is...?
+
 Paimon: Anyway, we had a bit of a... tussle with Marigold in our rush to save you...
 Icayo: Ah, nothing to worry about. I imagine that was no different from any other game to her. She's probably off sulking somewhere over the loss.
 Icayo: Despite appearances, she's got a delicate soul. I'll go comfort her later, so again, don't you worry.
@@ -134,23 +154,32 @@ Paimon: #Hmm? Wanna give it a try, eh? No need to worry, Traveler will make some
 ## Talk 11 (alternative/additional)
 
 Traveler: (There's a diary over here...)
-    Option 1:
-        Traveler: (Read the first part.)
-        Someone's Diary: "...Today's a rainy day. I prepared "Ripple" his favorite *Sour Sauce Ceviche*. His look of satisfaction made it all worthwhile..."
-        Someone's Diary: "...Even if he's swimming in a leisurely manner, the moment I proffer some of that *Sour Sauce Ceviche*... Whoosh! Out he pops from the water, and in such lovely form, too..."
-        Someone's Diary: "...I would never doubt his affection for me. Only, perhaps, that he might love *the ceviche* more..."
-    Option 2:
-        Traveler: (Read the second part.)
-        Someone's Diary: "...Big round sparkling eyes, curly tail and cheery cries... Jade, oh, Jade, is there a cuter Saurian in this world than you...?"
-        Someone's Diary: "...You have never once been cheated, nor never once doubted, as if all life might become your friend and enjoy a wonderful time playing with you..."
-        Someone's Diary: "...Were I not so busy, I'd love to play with you all day, watching you dart through woods swimming in mottled sunlight, like a child of the wind, a spirit oh so carefree..."
-    Option 3:
-        Traveler: (Read the third part.)
-        Someone's Diary: "...I've crossed mountains and valleys just to search for your whereabouts. If you truly wished not to see me, you could have departed..."
-        Someone's Diary: "...But you had consideration for my pace, stopping every so often, even collecting so much Grainfruit on my behalf, not to mention those shiny stones..."
-        Someone's Diary: "...Oh Marigold, my lovely Marigold, only I know the tender heart that lies beneath your hard shell. To be a fighter so fierce was never your intent..."
-    Option 4:
-        Traveler: (Alright, time to stop reading...)
+
+Option 1:
+
+> Traveler: (Read the first part.)
+> Someone's Diary: "...Today's a rainy day. I prepared "Ripple" his favorite *Sour Sauce Ceviche*. His look of satisfaction made it all worthwhile..."
+> Someone's Diary: "...Even if he's swimming in a leisurely manner, the moment I proffer some of that *Sour Sauce Ceviche*... Whoosh! Out he pops from the water, and in such lovely form, too..."
+> Someone's Diary: "...I would never doubt his affection for me. Only, perhaps, that he might love *the ceviche* more..."
+
+Option 2:
+
+> Traveler: (Read the second part.)
+> Someone's Diary: "...Big round sparkling eyes, curly tail and cheery cries... Jade, oh, Jade, is there a cuter Saurian in this world than you...?"
+> Someone's Diary: "...You have never once been cheated, nor never once doubted, as if all life might become your friend and enjoy a wonderful time playing with you..."
+> Someone's Diary: "...Were I not so busy, I'd love to play with you all day, watching you dart through woods swimming in mottled sunlight, like a child of the wind, a spirit oh so carefree..."
+
+Option 3:
+
+> Traveler: (Read the third part.)
+> Someone's Diary: "...I've crossed mountains and valleys just to search for your whereabouts. If you truly wished not to see me, you could have departed..."
+> Someone's Diary: "...But you had consideration for my pace, stopping every so often, even collecting so much Grainfruit on my behalf, not to mention those shiny stones..."
+> Someone's Diary: "...Oh Marigold, my lovely Marigold, only I know the tender heart that lies beneath your hard shell. To be a fighter so fierce was never your intent..."
+
+Option 4:
+
+> Traveler: (Alright, time to stop reading...)
+
 
 ## Talk 11 (alternative/additional)
 

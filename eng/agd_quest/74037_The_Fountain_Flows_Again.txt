@@ -27,65 +27,76 @@ Remaudiere: Actually, I just knew the timing between spurts of water, and I want
 Remaudiere: I correctly estimated when the fountain would stop, and my sister bought my "magic" spiel hook, line and sinker. She wouldn't stop badgering me to teach her how to do this "spell" all the way home.
 Remaudiere: So, after I brought her home, I made up some stuff to satisfy her curiosity, and got her to go to bed before heading back to my room. Mom and Dad came home a little while later, and everything seemed normal...
 Remaudiere: But the next day, when I was out getting the paper for dad, I realized that this fountain was still not working... It was broken!
-    Option 1:
-        Traveler: Your magic is pretty powerful.
-        Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
-        Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
-        Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
-        Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
-        Traveler: That's a really good impression!
-        Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
-        Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
-        Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
-        Remaudiere: I can't hide it much longer, I'm finished, totally finished...
-        Traveler: I'll go ask him about it for you.
-        Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
-        Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
-    Option 2:
-        Traveler: As expected of a mighty magician.
-        Black Screen Text: As you observe the fountain, someone else arrives...
-    Option 3:
-        Traveler: Your magic is pretty powerful.
-        Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
-        Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
-        Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
-        Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
-        Traveler: Thanks to your vivid and passionate performance, I now totally understand the situation.
-        Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
-        Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
-        Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
-        Remaudiere: I can't hide it much longer, I'm finished, totally finished...
-        Traveler: I'll go ask him about it for you.
-        Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
-        Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
-    Option 4:
-        Traveler: Your magic is pretty powerful.
-        Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
-        Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
-        Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
-        Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
-        Traveler: Thanks to your vivid and passionate performance, I now totally understand the situation.
-        Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
-        Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
-        Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
-        Remaudiere: I can't hide it much longer, I'm finished, totally finished...
-        Traveler: Aw, this isn't a big deal. I'll give you a hand.
-        Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
-        Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
-    Option 5:
-        Traveler: Your magic is pretty powerful.
-        Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
-        Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
-        Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
-        Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
-        Traveler: That's a really good impression!
-        Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
-        Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
-        Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
-        Remaudiere: I can't hide it much longer, I'm finished, totally finished...
-        Traveler: Aw, this isn't a big deal. I'll give you a hand.
-        Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
-        Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
+
+Option 1:
+
+> Traveler: Your magic is pretty powerful.
+> Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
+> Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
+> Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
+> Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
+> Traveler: That's a really good impression!
+> Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
+> Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
+> Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
+> Remaudiere: I can't hide it much longer, I'm finished, totally finished...
+> Traveler: I'll go ask him about it for you.
+> Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
+> Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
+
+Option 2:
+
+> Traveler: As expected of a mighty magician.
+> Black Screen Text: As you observe the fountain, someone else arrives...
+
+Option 3:
+
+> Traveler: Your magic is pretty powerful.
+> Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
+> Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
+> Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
+> Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
+> Traveler: Thanks to your vivid and passionate performance, I now totally understand the situation.
+> Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
+> Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
+> Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
+> Remaudiere: I can't hide it much longer, I'm finished, totally finished...
+> Traveler: I'll go ask him about it for you.
+> Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
+> Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
+
+Option 4:
+
+> Traveler: Your magic is pretty powerful.
+> Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
+> Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
+> Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
+> Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
+> Traveler: Thanks to your vivid and passionate performance, I now totally understand the situation.
+> Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
+> Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
+> Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
+> Remaudiere: I can't hide it much longer, I'm finished, totally finished...
+> Traveler: Aw, this isn't a big deal. I'll give you a hand.
+> Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
+> Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
+
+Option 5:
+
+> Traveler: Your magic is pretty powerful.
+> Remaudiere: Come on, don't tease me! If Keratry mentions this to Mom and Dad, I'm toast!
+> Remaudiere: "Eh? The fountain at the plaza suddenly broke down? What do you think happened, dear?"
+> Remaudiere: "That's... really strange. It seemed fine before we went to the opera that night."
+> Remaudiere: "I know why! It's because Remaudiere made it stop! Isn't that right?"
+> Traveler: That's a really good impression!
+> Remaudiere: And what's more, they'll find out that my sister and I were out at night, and then they'll yell at me so much, and I'll be in hot water for the next two months!
+> Paimon: But... this fountain should have someone managing it, right? If it's broken, can't they just call someone to fix it?
+> Remaudiere: I told the fountain's manager, Edel, about this, and he promised me that he would fix it as soon as possible. But... even now, the problem hasn't been sorted out.
+> Remaudiere: I can't hide it much longer, I'm finished, totally finished...
+> Traveler: Aw, this isn't a big deal. I'll give you a hand.
+> Remaudiere: Really? You're willing to help? In that case, I'll give you my... my spare allowance, all of it!
+> Remaudiere: Edel is over there. Please hurry up and go ask him what's going on!
+
 
 ## Talk 3
 
@@ -117,10 +128,15 @@ Estelle: I know! But that client of mine was in a hurry. She claimed that she ne
 Estelle: It's alright! Once... once the Iron Chunk I purchased arrives, I'll be able to make that valve! It should be here soon!
 Edel: When did you put that order in?
 Estelle: Th—This morning...
-    Option 1:
-        Traveler: Leave the matter of the Iron Chunks to me.
-    Option 2:
-        Traveler: I'll go get you those Iron Chunks.
+
+Option 1:
+
+> Traveler: Leave the matter of the Iron Chunks to me.
+
+Option 2:
+
+> Traveler: I'll go get you those Iron Chunks.
+
 Estelle: Really? Excellent, then, excellent! We'll be counting on you, Traveler.
 Estelle: Sorry! I'm really sorry! Just three Iron Chunks will be enough.
 Edel: Well, we'll be counting on you, Traveler. Don't worry about remuneration. I won't have you working for free.
@@ -174,17 +190,22 @@ Edel: Agh, opening them was a pain. I'm beat...
 Edel: Let's wait a moment. The water should come rushing in shortly.
 Black Screen Text: After some dull rumbling sounds, the fountain resumes normal functionality...
 Remaudiere: Awesome! The fountain is working again... Now, even if Keratry mentions what happened that night, I can pretend I don't know what she's talking about...
-    Option 1:
-        Traveler: Now you know to be careful with your magic shows.
-        Remaudiere: This isn't a problem caused by magic at all... But thanks a lot anyway. Here. This is my spare allowance — please accept it.
-        Remaudiere: The payment I promised you is in there too. Thanks for your help.
-        Remaudiere: And thank you too, Edel, Ms. Estelle!
-        Edel: This is as it should be — think nothing of it. Next time, don't take your little sister out in the middle of the night... Uh...
-        Keratry: Brother! What are you doing here?
-        Remaudiere: Keratry!? What are you doing here? Aren't you... weren't you supposed to be on a stroll with Mom and Dad?
-        Keratry: Hehe... I ran off while they weren't looking. I wanted to see how the fountain's doing.
-    Option 2:
-        Traveler: Now you know that magic and miracles all come with a price.
+
+Option 1:
+
+> Traveler: Now you know to be careful with your magic shows.
+> Remaudiere: This isn't a problem caused by magic at all... But thanks a lot anyway. Here. This is my spare allowance — please accept it.
+> Remaudiere: The payment I promised you is in there too. Thanks for your help.
+> Remaudiere: And thank you too, Edel, Ms. Estelle!
+> Edel: This is as it should be — think nothing of it. Next time, don't take your little sister out in the middle of the night... Uh...
+> Keratry: Brother! What are you doing here?
+> Remaudiere: Keratry!? What are you doing here? Aren't you... weren't you supposed to be on a stroll with Mom and Dad?
+> Keratry: Hehe... I ran off while they weren't looking. I wanted to see how the fountain's doing.
+
+Option 2:
+
+> Traveler: Now you know that magic and miracles all come with a price.
+
 Keratry: Didn't you use magic to stop this fountain? I thought it wouldn't have started flowing yet...
 Remaudiere: Haha... Um... Hehe... Magic has its limits. I'm sure you know that, right? It only works for a set amount of time...
 Keratry: Ooh... Then I wanna see more magic! Can you make the fountain stop again!?

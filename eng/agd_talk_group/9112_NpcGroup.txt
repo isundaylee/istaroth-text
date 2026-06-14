@@ -10,20 +10,30 @@ Escoffier: If we put on a slow concerto right now, I'm sure the cadenza would be
 Traveler: How do you like it here?
 Escoffier: You know... it almost feels like coming home. No picky customers, no reputation to uphold... Here, I can cook whatever I feel like. It's a nice chance to try out some new things from my list.
 Escoffier: Just to be clear — you are gonna set me up with a purpose-built kitchen here, right?
-    Option 1:
-        Traveler: Make yourself at home, why don't ya...
-    Option 2:
-        Traveler: As you wish, Madame Chef...
+
+Option 1:
+
+> Traveler: Make yourself at home, why don't ya...
+
+Option 2:
+
+> Traveler: As you wish, Madame Chef...
+
 Escoffier: Hehe~ Don't worry, I'll make sure it's worth your while.
 Escoffier: In Fontaine, I have hundreds of rich and famous people offering handsome sums of Mora on a daily basis, hoping for the chance to add just one exquisite dish to their family feast.
 Escoffier: I don't even have the time to turn them all down. Some of the letters I get go unopened and unread.
 Escoffier: But you, on the other hand — all you need is to provide an oven, a stovetop, a cupboard, and a water source. I've brought all the cooking utensils and ingredients that I need.
 Escoffier: No one else in all of Fontaine, or even all of Teyvat, could hope for the special treatment I'm offering you.
 Escoffier: And all I ask in lieu of a salary... is that you give me a thorough and honest review of each dish once you've had the pleasure of consuming it.
-    Option 1:
-        Traveler: But I don't know enough about your cooking methods...
-    Option 2:
-        Traveler: What if my kitchen's not up to your standards?
+
+Option 1:
+
+> Traveler: But I don't know enough about your cooking methods...
+
+Option 2:
+
+> Traveler: What if my kitchen's not up to your standards?
+
 Escoffier: Oh, don't worry — I trust you, you have good taste. And I have full confidence in our culinary compatibility. So you set up the kitchen however you like. Once I get to work, I'll be right in my element.
 Escoffier: You and I are like Lumidouce Bells and Rainbow Rose foam: one tender and delicate, the other sweet and sour. A perfect combination.
 Escoffier: I know if I cook for you based on gut instinct, you'll like what I come up with.
@@ -32,36 +42,48 @@ Escoffier: I know if I cook for you based on gut instinct, you'll like what I co
 
 Traveler: Would you like to have a chat with me?
 Escoffier: Oh, do I!? You walked right into this one. I've got a lot of questions for you...
-    Option 1:
-        Traveler: Uh-oh... What did I do?
-    Option 2:
-        Traveler: I said chat, not interrogation...
+
+Option 1:
+
+> Traveler: Uh-oh... What did I do?
+
+Option 2:
+
+> Traveler: I said chat, not interrogation...
+
 Escoffier: Relax, I'm just curious about you, that's all.
 Escoffier: You're the most widely traveled out of all the people I know. The things you've seen, the battles you've fought... I don't know anyone else whose experience comes close to yours.
 Escoffier: Hmm... So, my question is — out of all the food, or maybe... food-adjacent things you've encountered on your travels, is there anything out there that's made you curious about how it might taste?
 Escoffier: Oh, um... Ahem, not that I'm trying to encourage you to just start licking everything you see, of course.
 Escoffier: It's just, I want to challenge myself. See if I can replicate some really obscure or outlandish flavors using substitute ingredients.
 Escoffier: Basically, if there's any flavors in the world strange enough to pique your curiosity, then trying to imitate them has gotta be one of the most technically demanding challenges in all of precision gastronomy.
-    Option 1:
-        Traveler: I'm not an adventurous eater. I prefer to go with what I know.
-        Escoffier: Oh, really? Hmm, you surprised me with that answer.
-        Escoffier: I suppose curbing your curiosity can be important for self-preservation. It means you avoid the more experimental dishes out there. Not to mention food poisoning...
-        Escoffier: But, I'm still confident that I can create some new and tantalizing flavors to expand your comfort zone...
-    Option 2:
-        Traveler: I'm kinda curious about... slimes and specters.
-        Escoffier: Aha, there it is! The taste of elemental life-forms — a question that has intrigued the culinary world for centuries.
-        Escoffier: A lot of people draw associations with fruits and other plants of a similar color. For instance, it's commonly held that Cryo Slimes taste like Mint, and Electro Slimes taste like Wolfhooks...
-        Escoffier: However, the samples of Slime condensate that I've collected myself seem to refute this idea. The compounds that they contain are quite contrary to what you'd expect. Hydro Slimes, for example — you'd think they taste like Sea Ganoderma, but in fact they're completely tasteless...
-        Escoffier: And while Pyro Slimes do have a spiciness akin to the Jueyun Chilis of Liyue, they also contain small amounts of an intensely sweet substance.
-        Escoffier: It's decided! I'll recreate the flavor for you the next time we have afternoon tea.
-    Option 3:
-        Traveler: If you want a real challenge... how about clockwork meka?
-        Escoffier: Metal and raw energy? Huh? Now those sound like some interesting flavors!
-        Escoffier: I actually wondered the same thing when I was a kid. What does White Iron taste like? What about imported Starsilver?
-        Escoffier: Unsurprisingly, both tasted absolutely terrible... White Iron tastes like two parts mud, three parts hay, and five parts white wax.
-        Escoffier: Starsilver actually had notes of snow and ice... but it was like snow and ice mixed with limewash paint. Just a little taste is enough to send you into a coughing fit.
-        Escoffier: As for raw energy... I've never been brave enough to try a Pneumousia block or anything like that. If I had to guess, though, I bet it causes a tingling sensation. By virtue of the damage it would do to your tongue.
-        Escoffier: Recreating that flavor in a dish would be a major challenge... I guess I'd start with crushed ice as a base and go from there. Let's revisit this when the weather gets a bit warmer!
+
+Option 1:
+
+> Traveler: I'm not an adventurous eater. I prefer to go with what I know.
+> Escoffier: Oh, really? Hmm, you surprised me with that answer.
+> Escoffier: I suppose curbing your curiosity can be important for self-preservation. It means you avoid the more experimental dishes out there. Not to mention food poisoning...
+> Escoffier: But, I'm still confident that I can create some new and tantalizing flavors to expand your comfort zone...
+
+Option 2:
+
+> Traveler: I'm kinda curious about... slimes and specters.
+> Escoffier: Aha, there it is! The taste of elemental life-forms — a question that has intrigued the culinary world for centuries.
+> Escoffier: A lot of people draw associations with fruits and other plants of a similar color. For instance, it's commonly held that Cryo Slimes taste like Mint, and Electro Slimes taste like Wolfhooks...
+> Escoffier: However, the samples of Slime condensate that I've collected myself seem to refute this idea. The compounds that they contain are quite contrary to what you'd expect. Hydro Slimes, for example — you'd think they taste like Sea Ganoderma, but in fact they're completely tasteless...
+> Escoffier: And while Pyro Slimes do have a spiciness akin to the Jueyun Chilis of Liyue, they also contain small amounts of an intensely sweet substance.
+> Escoffier: It's decided! I'll recreate the flavor for you the next time we have afternoon tea.
+
+Option 3:
+
+> Traveler: If you want a real challenge... how about clockwork meka?
+> Escoffier: Metal and raw energy? Huh? Now those sound like some interesting flavors!
+> Escoffier: I actually wondered the same thing when I was a kid. What does White Iron taste like? What about imported Starsilver?
+> Escoffier: Unsurprisingly, both tasted absolutely terrible... White Iron tastes like two parts mud, three parts hay, and five parts white wax.
+> Escoffier: Starsilver actually had notes of snow and ice... but it was like snow and ice mixed with limewash paint. Just a little taste is enough to send you into a coughing fit.
+> Escoffier: As for raw energy... I've never been brave enough to try a Pneumousia block or anything like that. If I had to guess, though, I bet it causes a tingling sensation. By virtue of the damage it would do to your tongue.
+> Escoffier: Recreating that flavor in a dish would be a major challenge... I guess I'd start with crushed ice as a base and go from there. Let's revisit this when the weather gets a bit warmer!
+
 
 ## Talk 3
 
@@ -73,24 +95,39 @@ Escoffier: Bladesmithing is another area I'd love to know more about. If I could
 Escoffier: Finally, I wish I was a master composer. Then I could write a dedicated piece of music for each dish in my repertoire, and give my customers the ultimate multi-sensory experience when they savor my dishes...
 Escoffier: You could say I have an insatiable appetite for trying new things, but ultimately it all boils down to one thing — improving my cooking. Everything I've mentioned is in service of that one goal.
 Escoffier: So I guess, wherever my interests might take me, they'll always lead me right back to the kitchen where I started.
-    Option 1:
-        Traveler: There's nothing wrong with having one area as your main focus.
-    Option 2:
-        Traveler: Spread yourself too thinly, and you might not learn anything at all.
+
+Option 1:
+
+> Traveler: There's nothing wrong with having one area as your main focus.
+
+Option 2:
+
+> Traveler: Spread yourself too thinly, and you might not learn anything at all.
+
 Escoffier: Yeah, I know. Realistically speaking, if I wanted to get seriously proficient in any of the things I've mentioned, it'll take decades of hard work and dedication.
 Escoffier: It's the same with cooking. There's much more to being a good chef than being able to follow a recipe. Like any discipline, it gets tough pretty quickly once you get into it. Not for the faint-hearted, that's for sure!
 Escoffier: In your case, though... I think you might actually be on track to become the kind of multi-disciplinary expert I could only dream of being.
-    Option 1:
-        Traveler: Me? Really?
-    Option 2:
-        Traveler: You see me as a polymath one day?
+
+Option 1:
+
+> Traveler: Me? Really?
+
+Option 2:
+
+> Traveler: You see me as a polymath one day?
+
 Escoffier: That's right. I see limitless potential in you... Potential that isn't tied down by a fixed mindset.
 Escoffier: Plus, you have the willpower, the good judgment, and the ability to follow through.
 Escoffier: If anyone in this world could hope to master all the skills I mentioned simultaneously, it's you.
-    Option 1:
-        Traveler: Thank you for the high praise, Chef...
-    Option 2:
-        Traveler: You're right. If I work hard at it, I think I should be able to do it.
+
+Option 1:
+
+> Traveler: Thank you for the high praise, Chef...
+
+Option 2:
+
+> Traveler: You're right. If I work hard at it, I think I should be able to do it.
+
 Escoffier: You bet... And once you've mastered everything, come back to me. It'll be your turn to don the head chef's cap and teach me everything you know.
 Escoffier: I'm predicting that we'll spend days on end at the stove, churning out one show-stopping dish after another, until we've prepped, cooked, and plated half of Teyvat!
 Escoffier: Ahh, I can't wait!
@@ -110,20 +147,30 @@ Escoffier: Alright, goodnight. I'm gonna wait till you're soundly asleep and the
 Traveler: How do you like it here?
 Escoffier: You know... it almost feels like coming home. No picky customers, no reputation to uphold... Here, I can cook whatever I feel like. It's a nice chance to try out some new things from my list.
 Escoffier: Just to be clear — you are gonna set me up with a purpose-built kitchen here, right?
-    Option 1:
-        Traveler: Make yourself at home, why don't ya...
-    Option 2:
-        Traveler: As you wish, Madame Chef...
+
+Option 1:
+
+> Traveler: Make yourself at home, why don't ya...
+
+Option 2:
+
+> Traveler: As you wish, Madame Chef...
+
 Escoffier: Hehe~ Don't worry, I'll make sure it's worth your while.
 Escoffier: In Fontaine, I have hundreds of rich and famous people offering handsome sums of Mora on a daily basis, hoping for the chance to add just one exquisite dish to their family feast.
 Escoffier: I don't even have the time to turn them all down. Some of the letters I get go unopened and unread.
 Escoffier: But you, on the other hand — all you need is to provide an oven, a stovetop, a cupboard, and a water source. I've brought all the cooking utensils and ingredients that I need.
 Escoffier: No one else in all of Fontaine, or even all of Teyvat, could hope for the special treatment I'm offering you.
 Escoffier: And all I ask in lieu of a salary... is that you give me a thorough and honest review of each dish once you've had the pleasure of consuming it.
-    Option 1:
-        Traveler: But I don't know enough about your cooking methods...
-    Option 2:
-        Traveler: What if my kitchen's not up to your standards?
+
+Option 1:
+
+> Traveler: But I don't know enough about your cooking methods...
+
+Option 2:
+
+> Traveler: What if my kitchen's not up to your standards?
+
 Escoffier: Oh, don't worry — I trust you, you have good taste. And I have full confidence in our culinary compatibility. So you set up the kitchen however you like. Once I get to work, I'll be right in my element.
 Escoffier: You and I are like Lumidouce Bells and Rainbow Rose foam: one tender and delicate, the other sweet and sour. A perfect combination.
 Escoffier: I know if I cook for you based on gut instinct, you'll like what I come up with.
@@ -132,36 +179,48 @@ Escoffier: I know if I cook for you based on gut instinct, you'll like what I co
 
 Traveler: Would you like to have a chat with me?
 Escoffier: Oh, do I!? You walked right into this one. I've got a lot of questions for you...
-    Option 1:
-        Traveler: Uh-oh... What did I do?
-    Option 2:
-        Traveler: I said chat, not interrogation...
+
+Option 1:
+
+> Traveler: Uh-oh... What did I do?
+
+Option 2:
+
+> Traveler: I said chat, not interrogation...
+
 Escoffier: Relax, I'm just curious about you, that's all.
 Escoffier: You're the most widely traveled out of all the people I know. The things you've seen, the battles you've fought... I don't know anyone else whose experience comes close to yours.
 Escoffier: Hmm... So, my question is — out of all the food, or maybe... food-adjacent things you've encountered on your travels, is there anything out there that's made you curious about how it might taste?
 Escoffier: Oh, um... Ahem, not that I'm trying to encourage you to just start licking everything you see, of course.
 Escoffier: It's just, I want to challenge myself. See if I can replicate some really obscure or outlandish flavors using substitute ingredients.
 Escoffier: Basically, if there's any flavors in the world strange enough to pique your curiosity, then trying to imitate them has gotta be one of the most technically demanding challenges in all of precision gastronomy.
-    Option 1:
-        Traveler: I'm not an adventurous eater. I prefer to go with what I know.
-        Escoffier: Oh, really? Hmm, you surprised me with that answer.
-        Escoffier: I suppose curbing your curiosity can be important for self-preservation. It means you avoid the more experimental dishes out there. Not to mention food poisoning...
-        Escoffier: But, I'm still confident that I can create some new and tantalizing flavors to expand your comfort zone...
-    Option 2:
-        Traveler: I'm kinda curious about... slimes and specters.
-        Escoffier: Aha, there it is! The taste of elemental life-forms — a question that has intrigued the culinary world for centuries.
-        Escoffier: A lot of people draw associations with fruits and other plants of a similar color. For instance, it's commonly held that Cryo Slimes taste like Mint, and Electro Slimes taste like Wolfhooks...
-        Escoffier: However, the samples of Slime condensate that I've collected myself seem to refute this idea. The compounds that they contain are quite contrary to what you'd expect. Hydro Slimes, for example — you'd think they taste like Sea Ganoderma, but in fact they're completely tasteless...
-        Escoffier: And while Pyro Slimes do have a spiciness akin to the Jueyun Chilis of Liyue, they also contain small amounts of an intensely sweet substance.
-        Escoffier: It's decided! I'll recreate the flavor for you the next time we have afternoon tea.
-    Option 3:
-        Traveler: If you want a real challenge... how about clockwork meka?
-        Escoffier: Metal and raw energy? Huh? Now those sound like some interesting flavors!
-        Escoffier: I actually wondered the same thing when I was a kid. What does White Iron taste like? What about imported Starsilver?
-        Escoffier: Unsurprisingly, both tasted absolutely terrible... White Iron tastes like two parts mud, three parts hay, and five parts white wax.
-        Escoffier: Starsilver actually had notes of snow and ice... but it was like snow and ice mixed with limewash paint. Just a little taste is enough to send you into a coughing fit.
-        Escoffier: As for raw energy... I've never been brave enough to try a Pneumousia block or anything like that. If I had to guess, though, I bet it causes a tingling sensation. By virtue of the damage it would do to your tongue.
-        Escoffier: Recreating that flavor in a dish would be a major challenge... I guess I'd start with crushed ice as a base and go from there. Let's revisit this when the weather gets a bit warmer!
+
+Option 1:
+
+> Traveler: I'm not an adventurous eater. I prefer to go with what I know.
+> Escoffier: Oh, really? Hmm, you surprised me with that answer.
+> Escoffier: I suppose curbing your curiosity can be important for self-preservation. It means you avoid the more experimental dishes out there. Not to mention food poisoning...
+> Escoffier: But, I'm still confident that I can create some new and tantalizing flavors to expand your comfort zone...
+
+Option 2:
+
+> Traveler: I'm kinda curious about... slimes and specters.
+> Escoffier: Aha, there it is! The taste of elemental life-forms — a question that has intrigued the culinary world for centuries.
+> Escoffier: A lot of people draw associations with fruits and other plants of a similar color. For instance, it's commonly held that Cryo Slimes taste like Mint, and Electro Slimes taste like Wolfhooks...
+> Escoffier: However, the samples of Slime condensate that I've collected myself seem to refute this idea. The compounds that they contain are quite contrary to what you'd expect. Hydro Slimes, for example — you'd think they taste like Sea Ganoderma, but in fact they're completely tasteless...
+> Escoffier: And while Pyro Slimes do have a spiciness akin to the Jueyun Chilis of Liyue, they also contain small amounts of an intensely sweet substance.
+> Escoffier: It's decided! I'll recreate the flavor for you the next time we have afternoon tea.
+
+Option 3:
+
+> Traveler: If you want a real challenge... how about clockwork meka?
+> Escoffier: Metal and raw energy? Huh? Now those sound like some interesting flavors!
+> Escoffier: I actually wondered the same thing when I was a kid. What does White Iron taste like? What about imported Starsilver?
+> Escoffier: Unsurprisingly, both tasted absolutely terrible... White Iron tastes like two parts mud, three parts hay, and five parts white wax.
+> Escoffier: Starsilver actually had notes of snow and ice... but it was like snow and ice mixed with limewash paint. Just a little taste is enough to send you into a coughing fit.
+> Escoffier: As for raw energy... I've never been brave enough to try a Pneumousia block or anything like that. If I had to guess, though, I bet it causes a tingling sensation. By virtue of the damage it would do to your tongue.
+> Escoffier: Recreating that flavor in a dish would be a major challenge... I guess I'd start with crushed ice as a base and go from there. Let's revisit this when the weather gets a bit warmer!
+
 
 ## Talk 8
 
@@ -173,24 +232,39 @@ Escoffier: Bladesmithing is another area I'd love to know more about. If I could
 Escoffier: Finally, I wish I was a master composer. Then I could write a dedicated piece of music for each dish in my repertoire, and give my customers the ultimate multi-sensory experience when they savor my dishes...
 Escoffier: You could say I have an insatiable appetite for trying new things, but ultimately it all boils down to one thing — improving my cooking. Everything I've mentioned is in service of that one goal.
 Escoffier: So I guess, wherever my interests might take me, they'll always lead me right back to the kitchen where I started.
-    Option 1:
-        Traveler: There's nothing wrong with having one area as your main focus.
-    Option 2:
-        Traveler: Spread yourself too thinly, and you might not learn anything at all.
+
+Option 1:
+
+> Traveler: There's nothing wrong with having one area as your main focus.
+
+Option 2:
+
+> Traveler: Spread yourself too thinly, and you might not learn anything at all.
+
 Escoffier: Yeah, I know. Realistically speaking, if I wanted to get seriously proficient in any of the things I've mentioned, it'll take decades of hard work and dedication.
 Escoffier: It's the same with cooking. There's much more to being a good chef than being able to follow a recipe. Like any discipline, it gets tough pretty quickly once you get into it. Not for the faint-hearted, that's for sure!
 Escoffier: In your case, though... I think you might actually be on track to become the kind of multi-disciplinary expert I could only dream of being.
-    Option 1:
-        Traveler: Me? Really?
-    Option 2:
-        Traveler: You see me as a polymath one day?
+
+Option 1:
+
+> Traveler: Me? Really?
+
+Option 2:
+
+> Traveler: You see me as a polymath one day?
+
 Escoffier: That's right. I see limitless potential in you... Potential that isn't tied down by a fixed mindset.
 Escoffier: Plus, you have the willpower, the good judgment, and the ability to follow through.
 Escoffier: If anyone in this world could hope to master all the skills I mentioned simultaneously, it's you.
-    Option 1:
-        Traveler: Thank you for the high praise, Chef...
-    Option 2:
-        Traveler: You're right. If I work hard at it, I think I should be able to do it.
+
+Option 1:
+
+> Traveler: Thank you for the high praise, Chef...
+
+Option 2:
+
+> Traveler: You're right. If I work hard at it, I think I should be able to do it.
+
 Escoffier: You bet... And once you've mastered everything, come back to me. It'll be your turn to don the head chef's cap and teach me everything you know.
 Escoffier: I'm predicting that we'll spend days on end at the stove, churning out one show-stopping dish after another, until we've prepped, cooked, and plated half of Teyvat!
 Escoffier: Ahh, I can't wait!

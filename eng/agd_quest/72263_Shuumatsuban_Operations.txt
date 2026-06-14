@@ -7,18 +7,28 @@
 
 Paimon: Come on, what was with that person just now? The road's wide enough. They didn't have to walk straight at us like that!
 Paimon: No "sorry" or "excuse Paimon" either. They just walked right off!
-    Option 1:
-        Traveler: Things aren't quite that simple, Paimon.
-    Option 2:
-        Traveler: I discovered this on my person.
+
+Option 1:
+
+> Traveler: Things aren't quite that simple, Paimon.
+
+Option 2:
+
+> Traveler: I discovered this on my person.
+
 Paimon: Eh? This is... a small note? You mean that person slipped it onto you?
 Paimon: Quick, let's open it and see what it says!
 Black Screen Text: The note has an image of a shuriken on it.
 Paimon: Huh, nothing to read over here. Just a windmill and a window.
-    Option 1:
-        Traveler: I think it might be depicting some other things.
-    Option 2:
-        Traveler: You mean a shuriken and a metal gate?
+
+Option 1:
+
+> Traveler: I think it might be depicting some other things.
+
+Option 2:
+
+> Traveler: You mean a shuriken and a metal gate?
+
 Paimon: Huh... You're right! Hmm, let Paimon think... A shuriken, huh... Ooh, that's right! It's the "Shuumatsuban"!
 Paimon: Paimon gets it now! This must be a coded message from Ms. Gendou. In that case, this "metal gate" has to be the entrance to her safehouse!
 Traveler: More or less.
@@ -37,10 +47,15 @@ Momoyo (Gendou Ringo): Well, look who's here. What? You've been staring since yo
 Paimon: Uh, Ms. Gendou, you look really different from before...
 Paimon: Did something change while we were out of contact? Don't worry, we'll do our best to help you out!
 Momoyo (Gendou Ringo): Changes? What are you talking about? Hmph. Forget worrying about me. You're the ones who were completely defenseless out there on the street.
-    Option 1:
-        Traveler: Wow, this terrible attitude...
-    Option 2:
-        Traveler: Ah, this familiar, horrible tone of voice...
+
+Option 1:
+
+> Traveler: Wow, this terrible attitude...
+
+Option 2:
+
+> Traveler: Ah, this familiar, horrible tone of voice...
+
 Paimon: Yup, that's the Gendou Ringo we know.
 Momoyo (Gendou Ringo): What are you two yammering about?
 Paimon: Oh, nothing, nothing! It's just good to see that you're well...
@@ -96,82 +111,93 @@ Buzuleac: But I've been on break recently, so if you're here to talk business, c
 Traveler: Attempt to make contact.
 Buzuleac: Hello? Is something the matter?
 Paimon: Err, we're actually...
-    Option 1:
-        Traveler: "Fellow companions who've forgotten their homeland."
-        Buzuleac: Hmm? Oh, I get it. You mean that you're also outlanders living in Ritou, right?
-        Paimon: #(Uh, so he seems friendly enough, but Paimon thinks you got that one a teensy bit wrong, Traveler.)
-        Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
-        Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
-    Option 2:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
-        Paimon: Hey, don't you underestimate us!
-        Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
-        Paimon: Not long, really, but we're doing alright.
-        Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
-        Traveler: Ugh, yeah, especially those taxes.
-        Buzuleac: No kidding. Taxes used to be the worst thing ever around here in Ritou. They've actually gone down quite a lot after the recent abolition of the Vision Hunt Decree.
-        Buzuleac: On the downside... *sigh* You know what? It's probably due to that incident with our Lady. Vigilance is at an all-time high. We can't act rashly.
-        Paimon: ("Our Lady"... He must mean Signora.)
-        Buzuleac: Well, let's leave the "General Crabs" aside first. Those "Iron Rats" are also getting harder to deal with.
-        Buzuleac: I just came back from a "hike," so I'll probably spend some time here in Ritou "sunbathing." I mean, we've really got a great "north wind" blowing!
-        Traveler: Well, that's certainly worth celebrating.
-        Buzuleac: Celebrating? Why, thank you.
-        Paimon: (Uh, Paimon thinks you said something wrong. His expression's darkening.)
-        Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
-        Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
-    Option 3:
-        Traveler: "Fellow conspirators who've forgotten their homeland."
-        Paimon: #(Oh, come on, Traveler, that's clearly not the right line!)
-        Buzuleac: "Fellow conspirator," you say? That's quite the sense of humor you've got there. I suppose you, too, must be an outlander living in Ritou.
-        Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
-        Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
-    Option 4:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
-        Paimon: Hey, don't you underestimate us!
-        Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
-        Paimon: Not long, really, but we're doing alright.
-        Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
-        Traveler: Aye, what with the robberies and all.
-        Buzuleac: Robbery? Surely you jest. They're with the Shogunate. Surely they wouldn't do such things!
-        Paimon: (Uh oh, he's getting suspicious! You must've mixed up the lines that were related to crabs!)
-        Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
-        Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
-    Option 5:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
-        Paimon: Hey, don't you underestimate us!
-        Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
-        Paimon: Not long, really, but we're doing alright.
-        Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
-        Traveler: Ugh, yeah, especially those taxes.
-        Buzuleac: No kidding. Taxes used to be the worst thing ever around here in Ritou. They've actually gone down quite a lot after the recent abolition of the Vision Hunt Decree.
-        Buzuleac: On the downside... *sigh* You know what? It's probably due to that incident with our Lady. Vigilance is at an all-time high. We can't act rashly.
-        Paimon: ("Our Lady"... He must mean Signora.)
-        Buzuleac: Well, let's leave the "General Crabs" aside first. Those "Iron Rats" are also getting harder to deal with.
-        Buzuleac: I just came back from a "hike," so I'll probably spend some time here in Ritou "sunbathing." I mean, we've really got a great "north wind" blowing!
-        Traveler: That's terrible. You've had it rough, I see.
-        Buzuleac: *sigh* Thanks. I've heard that many of our "fellow countrymen" have gone to "wash the dishes." Who knows how long we can stay here ourselves?
-        Buzuleac: Speaking of which, the Teacher did mention that there would be a few new members coming in to work with Lyudochka. You must be one of them.
-        Traveler: That's right.
-        Buzuleac: I see! Ah, I'm sorry. I've been on edge lately, that's why I tested the two of you for so long.
-        Buzuleac: I mean, of course you're one of us, that should have been obvious. You were so familiar with our codes!
-        Paimon: #(This is great, Traveler, looks like he totally trusts us now!)
-        Buzuleac: What do you need from me?
-        Paimon: To be honest, we'd like to know a bit more about the "fellow countryman" you called Lyudochka.
-        Traveler: Exactly. We have to work together, after all.
-        Buzuleac: I see. To be honest, I've never seen her either. I just know that she's infiltrated the Grand Narukami Shrine atop Mt. Yougou.
-        Buzuleac: Ah, she's so lucky. We were all brought up in similar circumstances, but it's just easier for people with Inazuman blood like her to create a fake identity, you know?
-        Buzuleac: Those who look like outlanders no matter how you slice it, like me, can only stay here in Ritou.
-        Traveler: Do people say anything else about her?
-        Buzuleac: Well, they certainly all think she's been fortunate to get a safe and relaxing job like "being a shrine maiden." But there are also those who are jealous of her position.
-        Paimon: Huh, so that's how it is?
-        Buzuleac: Exactly. She's in an excellent position, but her infiltration mission hasn't progressed at all. It seems like the Teacher's patience is wearing thin.
-        Buzuleac: As such, the Teacher's decided to transfer her to an active unit so that she can make some actual contributions to the cause. She'll be out in the field with people like you.
-        Buzuleac: You needn't worry, though. They say she's never been in a real fight, but that she was pretty sharp in training. Between the two of you, you should be able to get some big things done.
-        Buzuleac: I can't be sure about much else, I'm afraid. You can ask the others. Just be prepared. You might get a cold reception from those who are ill-disposed toward Lyudochka.
-        Buzuleac: Do you two have anything else you need to know?
+
+Option 1:
+
+> Traveler: "Fellow companions who've forgotten their homeland."
+> Buzuleac: Hmm? Oh, I get it. You mean that you're also outlanders living in Ritou, right?
+> Paimon: #(Uh, so he seems friendly enough, but Paimon thinks you got that one a teensy bit wrong, Traveler.)
+> Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
+> Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
+
+Option 2:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
+> Paimon: Hey, don't you underestimate us!
+> Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
+> Paimon: Not long, really, but we're doing alright.
+> Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
+> Traveler: Ugh, yeah, especially those taxes.
+> Buzuleac: No kidding. Taxes used to be the worst thing ever around here in Ritou. They've actually gone down quite a lot after the recent abolition of the Vision Hunt Decree.
+> Buzuleac: On the downside... *sigh* You know what? It's probably due to that incident with our Lady. Vigilance is at an all-time high. We can't act rashly.
+> Paimon: ("Our Lady"... He must mean Signora.)
+> Buzuleac: Well, let's leave the "General Crabs" aside first. Those "Iron Rats" are also getting harder to deal with.
+> Buzuleac: I just came back from a "hike," so I'll probably spend some time here in Ritou "sunbathing." I mean, we've really got a great "north wind" blowing!
+> Traveler: Well, that's certainly worth celebrating.
+> Buzuleac: Celebrating? Why, thank you.
+> Paimon: (Uh, Paimon thinks you said something wrong. His expression's darkening.)
+> Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
+> Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
+
+Option 3:
+
+> Traveler: "Fellow conspirators who've forgotten their homeland."
+> Paimon: #(Oh, come on, Traveler, that's clearly not the right line!)
+> Buzuleac: "Fellow conspirator," you say? That's quite the sense of humor you've got there. I suppose you, too, must be an outlander living in Ritou.
+> Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
+> Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
+
+Option 4:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
+> Paimon: Hey, don't you underestimate us!
+> Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
+> Paimon: Not long, really, but we're doing alright.
+> Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
+> Traveler: Aye, what with the robberies and all.
+> Buzuleac: Robbery? Surely you jest. They're with the Shogunate. Surely they wouldn't do such things!
+> Paimon: (Uh oh, he's getting suspicious! You must've mixed up the lines that were related to crabs!)
+> Buzuleac: Sorry. Could you leave me alone for a while? I'd like to rest for a few days.
+> Paimon: (Looks like he doesn't trust us. We should study the codes we were given one more time.)
+
+Option 5:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Buzuleac: Oh? You seem pretty young, but you're "fellow countrymen," huh?
+> Paimon: Hey, don't you underestimate us!
+> Buzuleac: How long have you been in Inazuma? Have you gotten used to life here?
+> Paimon: Not long, really, but we're doing alright.
+> Buzuleac: Good, good. Well, I suppose you've met those "General Crabs," then? Those people really know how to give us trouble.
+> Traveler: Ugh, yeah, especially those taxes.
+> Buzuleac: No kidding. Taxes used to be the worst thing ever around here in Ritou. They've actually gone down quite a lot after the recent abolition of the Vision Hunt Decree.
+> Buzuleac: On the downside... *sigh* You know what? It's probably due to that incident with our Lady. Vigilance is at an all-time high. We can't act rashly.
+> Paimon: ("Our Lady"... He must mean Signora.)
+> Buzuleac: Well, let's leave the "General Crabs" aside first. Those "Iron Rats" are also getting harder to deal with.
+> Buzuleac: I just came back from a "hike," so I'll probably spend some time here in Ritou "sunbathing." I mean, we've really got a great "north wind" blowing!
+> Traveler: That's terrible. You've had it rough, I see.
+> Buzuleac: *sigh* Thanks. I've heard that many of our "fellow countrymen" have gone to "wash the dishes." Who knows how long we can stay here ourselves?
+> Buzuleac: Speaking of which, the Teacher did mention that there would be a few new members coming in to work with Lyudochka. You must be one of them.
+> Traveler: That's right.
+> Buzuleac: I see! Ah, I'm sorry. I've been on edge lately, that's why I tested the two of you for so long.
+> Buzuleac: I mean, of course you're one of us, that should have been obvious. You were so familiar with our codes!
+> Paimon: #(This is great, Traveler, looks like he totally trusts us now!)
+> Buzuleac: What do you need from me?
+> Paimon: To be honest, we'd like to know a bit more about the "fellow countryman" you called Lyudochka.
+> Traveler: Exactly. We have to work together, after all.
+> Buzuleac: I see. To be honest, I've never seen her either. I just know that she's infiltrated the Grand Narukami Shrine atop Mt. Yougou.
+> Buzuleac: Ah, she's so lucky. We were all brought up in similar circumstances, but it's just easier for people with Inazuman blood like her to create a fake identity, you know?
+> Buzuleac: Those who look like outlanders no matter how you slice it, like me, can only stay here in Ritou.
+> Traveler: Do people say anything else about her?
+> Buzuleac: Well, they certainly all think she's been fortunate to get a safe and relaxing job like "being a shrine maiden." But there are also those who are jealous of her position.
+> Paimon: Huh, so that's how it is?
+> Buzuleac: Exactly. She's in an excellent position, but her infiltration mission hasn't progressed at all. It seems like the Teacher's patience is wearing thin.
+> Buzuleac: As such, the Teacher's decided to transfer her to an active unit so that she can make some actual contributions to the cause. She'll be out in the field with people like you.
+> Buzuleac: You needn't worry, though. They say she's never been in a real fight, but that she was pretty sharp in training. Between the two of you, you should be able to get some big things done.
+> Buzuleac: I can't be sure about much else, I'm afraid. You can ask the others. Just be prepared. You might get a cold reception from those who are ill-disposed toward Lyudochka.
+> Buzuleac: Do you two have anything else you need to know?
+
 
 ## Talk 7 (alternative/additional)
 
@@ -215,76 +241,87 @@ Fujita: ...What is it? You want to fight?
 Paimon: Oh, no, no, don't misunderstand. We've got something to ask you.
 Fujita: ...Ask me? Who are you?
 Paimon: Actually, we're...
-    Option 1:
-        Traveler: "Fellow countrymen who've forgotten their story."
-        Fujita: "Story?"
-        Fujita: A man has no story. Only friends... or enemies.
-        Paimon: (Wow. This guy's actually kinda cool... But come on, the code you gave was obviously wrong.)
-        Fujita: ...Hmph.
-        Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
-    Option 2:
-        Traveler: "Fellow countrymen who've forgotten their failure."
-        Fujita: "Failure"?
-        Paimon: #(What are you saying, Traveler!? That's way too far off the mark!)
-        Fujita: Ha... Hahaha...
-        Paimon: (Look at his face, just look at that scary mug! Please stop using the wrong codes!)
-        Fujita: No, no! Failure only comes when people "loosen their left hands."
-        Fujita: That is why we must "clench our left hands." Yes, that's right.
-        Paimon: (...Hmm, he seems to be off in his own world. Doesn't look like he's in the mood to bother with us right now.)
-    Option 3:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Fujita: "Fellow countrymen" from the homeland... You're new?
-        Paimon: Yup, that's right. That's why we came to say hello.
-        Fujita: I see. Then, have you heard?
-        Paimon: Heard about what?
-        Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
-        Traveler: Look enraged.
-        Fujita: Mm. The Teacher says that we must "smash the plates."
-        Paimon: (Honestly, Paimon's feeling kinda lost already, but at least he seems pleased with what you said.)
-        Fujita: Also, that woman. She must be tested.
-        Paimon: That woman?
-        Fujita: Lyudochka. Our "fellow countryman" at the shrine. She has been "sunbathing" all this time.
-        Traveler: So you suspect that she's "loosened her left hand"?
-        Fujita: Yes. Exactly. That.
-        Fujita: Speak. What do you want?
-        Paimon: Actually, we'd like to know a bit more about what's going on with Lyudochka.
-        Fujita: Lyudochka? Hmph. She is weak.
-        Fujita: But she knows Inazuma. Well. The Teacher gave her an important task. But she has disappointed.
-        Fujita: Tonight. The Teacher will meet her. And give her orders. It will be at the usual place.
-        Paimon: The "usual place"? Where's that supposed to be?
-        Fujita: I do not know. Nor do I care. I only know that she is "Snezhevna." So the Teacher has been good to her.
-        Fujita: She must "smash the plates." Repay that debt.
-        Fujita: Anything else?
-    Option 4:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Fujita: "Fellow countrymen" from the homeland... You're new?
-        Paimon: Yup, that's right. That's why we came to say hello.
-        Fujita: I see. Then, have you heard?
-        Paimon: Heard about what?
-        Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
-        Traveler: Look pleased.
-        Fujita: You smiled. Why? Are you... an enemy?
-        Paimon: #No, no, {F#she}{M#he} was just about to sneeze, that's all! We'll talk to you again later!
-        Paimon: (That was way too dangerous! You really ticked him off back there. Did he confuse you by using too many code words?)
-        Fujita: ...Hmph.
-        Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
-    Option 5:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Fujita: "Fellow countrymen" from the homeland... You're new?
-        Paimon: Yup, that's right. That's why we came to say hello.
-        Fujita: I see. Then, have you heard?
-        Paimon: Heard about what?
-        Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
-        Traveler: Look enraged.
-        Fujita: Mm. The Teacher says that we must "smash the plates."
-        Paimon: (Honestly, Paimon's feeling kinda lost already, but at least he seems pleased with what you said.)
-        Fujita: Also, that woman. She must be tested.
-        Paimon: That woman?
-        Fujita: Lyudochka. Our "fellow countryman" at the shrine. She has been "sunbathing" all this time.
-        Traveler: So you suspect that she's "loosened her right hand"?
-        Fujita: You... Very suspicious.
-        Fujita: ...Hmph.
-        Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
+
+Option 1:
+
+> Traveler: "Fellow countrymen who've forgotten their story."
+> Fujita: "Story?"
+> Fujita: A man has no story. Only friends... or enemies.
+> Paimon: (Wow. This guy's actually kinda cool... But come on, the code you gave was obviously wrong.)
+> Fujita: ...Hmph.
+> Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
+
+Option 2:
+
+> Traveler: "Fellow countrymen who've forgotten their failure."
+> Fujita: "Failure"?
+> Paimon: #(What are you saying, Traveler!? That's way too far off the mark!)
+> Fujita: Ha... Hahaha...
+> Paimon: (Look at his face, just look at that scary mug! Please stop using the wrong codes!)
+> Fujita: No, no! Failure only comes when people "loosen their left hands."
+> Fujita: That is why we must "clench our left hands." Yes, that's right.
+> Paimon: (...Hmm, he seems to be off in his own world. Doesn't look like he's in the mood to bother with us right now.)
+
+Option 3:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Fujita: "Fellow countrymen" from the homeland... You're new?
+> Paimon: Yup, that's right. That's why we came to say hello.
+> Fujita: I see. Then, have you heard?
+> Paimon: Heard about what?
+> Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
+> Traveler: Look enraged.
+> Fujita: Mm. The Teacher says that we must "smash the plates."
+> Paimon: (Honestly, Paimon's feeling kinda lost already, but at least he seems pleased with what you said.)
+> Fujita: Also, that woman. She must be tested.
+> Paimon: That woman?
+> Fujita: Lyudochka. Our "fellow countryman" at the shrine. She has been "sunbathing" all this time.
+> Traveler: So you suspect that she's "loosened her left hand"?
+> Fujita: Yes. Exactly. That.
+> Fujita: Speak. What do you want?
+> Paimon: Actually, we'd like to know a bit more about what's going on with Lyudochka.
+> Fujita: Lyudochka? Hmph. She is weak.
+> Fujita: But she knows Inazuma. Well. The Teacher gave her an important task. But she has disappointed.
+> Fujita: Tonight. The Teacher will meet her. And give her orders. It will be at the usual place.
+> Paimon: The "usual place"? Where's that supposed to be?
+> Fujita: I do not know. Nor do I care. I only know that she is "Snezhevna." So the Teacher has been good to her.
+> Fujita: She must "smash the plates." Repay that debt.
+> Fujita: Anything else?
+
+Option 4:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Fujita: "Fellow countrymen" from the homeland... You're new?
+> Paimon: Yup, that's right. That's why we came to say hello.
+> Fujita: I see. Then, have you heard?
+> Paimon: Heard about what?
+> Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
+> Traveler: Look pleased.
+> Fujita: You smiled. Why? Are you... an enemy?
+> Paimon: #No, no, {F#she}{M#he} was just about to sneeze, that's all! We'll talk to you again later!
+> Paimon: (That was way too dangerous! You really ticked him off back there. Did he confuse you by using too many code words?)
+> Fujita: ...Hmph.
+> Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
+
+Option 5:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Fujita: "Fellow countrymen" from the homeland... You're new?
+> Paimon: Yup, that's right. That's why we came to say hello.
+> Fujita: I see. Then, have you heard?
+> Paimon: Heard about what?
+> Fujita: The "General Crabs" and "Sun Crabs," "clenched their right hands"... Our "fellow countrymen" went "hiking," encountered the "north wind."
+> Traveler: Look enraged.
+> Fujita: Mm. The Teacher says that we must "smash the plates."
+> Paimon: (Honestly, Paimon's feeling kinda lost already, but at least he seems pleased with what you said.)
+> Fujita: Also, that woman. She must be tested.
+> Paimon: That woman?
+> Fujita: Lyudochka. Our "fellow countryman" at the shrine. She has been "sunbathing" all this time.
+> Traveler: So you suspect that she's "loosened her right hand"?
+> Fujita: You... Very suspicious.
+> Fujita: ...Hmph.
+> Paimon: (Looks like he isn't bothering with us anymore. We've got to pay more attention to those codes.)
+
 
 ## Talk 11 (alternative/additional)
 
@@ -339,222 +376,241 @@ Tae: Hmm? Who are you? Did that Mikawa Akane send you? Pfah. I just skipped a sh
 Paimon: Uh, you've got it wrong...
 Tae: What, are you from the Tenryou Commission, then? I already told you. I was on duty that day, yes, but I've got nothing to do with that case of frostbite, you hear?
 Paimon: Uh, we're not from the Tenryou Commission either. We're...
-    Option 1:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Well, that might not be a bad thing.
-        Tae: Huh? What did you say? If you've got nothing good to say, then get lost!
-        Paimon: (Oh no, you misunderstood the meaning of that code word. She looks super angry right now!)
-        Tae: Get out of my face until you know what you're talking about!
-        Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
-    Option 2:
-        Traveler: "Fellow countrymen who've abandoned their homeland."
-        Tae: And what does your abandoning your homeland have to do with me? Wait. Are you stowaways? Well, if you're looking for my help, you're barking up the wrong tree!
-        Paimon: (Uh-oh, you must've used the wrong code back there. She's got a terrifying look on her face!)
-        Tae: Leave! Or I'll set the Tenryou Commission's lackeys on you, and they'll lock you right up!
-        Paimon: We're leaving! We're leaving!
-    Option 3:
-        Traveler: "Fellow colleagues who've abandoned their homeland."
-        Tae: Colleagues? You work here as well? Then what are you looking for me for? If you've got a problem, go find Mikawa Akane or something!
-        Paimon: #(That's not the code we're going for, Traveler. Look, she's ignoring us now.)
-        Tae: Get out of my face until you know what you're talking about!
-        Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
-    Option 4:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: I shall "clench my right hand."
-        Tae: Tch. What, are you two on good terms or something? What did you come find me for, then?
-        Paimon: (To "clench your right hand" means to "make an alliance." She might not suspect that we're not Fatui, but she probably thinks we've taken the fake Gendou's side...)
-        Tae: Get out of my face until you know what you're talking about!
-        Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
-    Option 5:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: I shall "loosen my right hand."
-        Tae: Tsk, you're useless. Just hanging around people like you makes me sick.
-        Paimon: (Huh... to "loosen the right hand" means to "forgive." Ugh, she's looking down on us!)
-        Tae: Get out of my face until you know what you're talking about!
-        Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
-    Option 6:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: No, I will "clench my left hand."
-        Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
-        Traveler: Oh, you'd be surprised.
-        Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
-        Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
-        Traveler: She deceived us.
-        Paimon: (Huh, you know what? That's not actually untrue...)
-        Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
-        Paimon: Why'd you say that?
-        Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
-        Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
-        Tae: Hehe, but I made quite the unexpected find! And what a find it was!
-        Traveler: What did you find?
-        Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
-        Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
-        Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
-        Traveler: Very well done indeed!
-        Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
-        Traveler: (Shh, I'm just acting.)
-        Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
-        Tae: What else do you need?
-    Option 7:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: No, I will "clench my left hand."
-        Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
-        Traveler: Oh, you'd be surprised.
-        Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
-        Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
-        Traveler: She dumped her work onto us.
-        Paimon: (Huh, you know what? That's not actually untrue...)
-        Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
-        Paimon: Why'd you say that?
-        Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
-        Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
-        Tae: Hehe, but I made quite the unexpected find! And what a find it was!
-        Traveler: What did you find?
-        Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
-        Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
-        Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
-        Traveler: Very well done indeed!
-        Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
-        Traveler: (Shh, I'm just acting.)
-        Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
-        Tae: What else do you need?
-    Option 8:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: No, I will "clench my left hand."
-        Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
-        Traveler: Oh, you'd be surprised.
-        Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
-        Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
-        Traveler: She dumped her work onto us.
-        Paimon: (Huh, you know what? That's not actually untrue...)
-        Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
-        Paimon: Why'd you say that?
-        Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
-        Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
-        Tae: Hehe, but I made quite the unexpected find! And what a find it was!
-        Traveler: What did you find?
-        Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
-        Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
-        Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
-        Traveler: Very well done indeed!
-        Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
-        Traveler: (I see I was quite convincing.)
-        Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
-        Tae: What else do you need?
-    Option 9:
-        Traveler: "Fellow countrymen who've forgotten their homeland."
-        Tae: What? So you're "fellow countrymen"? You should've just said so!
-        Paimon: But you didn't let us speak earlier...
-        Tae: What? Are you trying to start a fight with me?
-        Paimon: No, no, definitely not!
-        Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
-        Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
-        Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
-        Traveler: Stay cool, you're still young...
-        Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
-        Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
-        Traveler: Comeuppance?
-        Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
-        Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
-        Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
-        Traveler: No, I will "clench my left hand."
-        Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
-        Traveler: Oh, you'd be surprised.
-        Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
-        Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
-        Traveler: She deceived us.
-        Paimon: (Huh, you know what? That's not actually untrue...)
-        Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
-        Paimon: Why'd you say that?
-        Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
-        Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
-        Tae: Hehe, but I made quite the unexpected find! And what a find it was!
-        Traveler: What did you find?
-        Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
-        Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
-        Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
-        Traveler: Very well done indeed!
-        Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
-        Traveler: (I see I was quite convincing.)
-        Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
-        Tae: What else do you need?
+
+Option 1:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Well, that might not be a bad thing.
+> Tae: Huh? What did you say? If you've got nothing good to say, then get lost!
+> Paimon: (Oh no, you misunderstood the meaning of that code word. She looks super angry right now!)
+> Tae: Get out of my face until you know what you're talking about!
+> Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
+
+Option 2:
+
+> Traveler: "Fellow countrymen who've abandoned their homeland."
+> Tae: And what does your abandoning your homeland have to do with me? Wait. Are you stowaways? Well, if you're looking for my help, you're barking up the wrong tree!
+> Paimon: (Uh-oh, you must've used the wrong code back there. She's got a terrifying look on her face!)
+> Tae: Leave! Or I'll set the Tenryou Commission's lackeys on you, and they'll lock you right up!
+> Paimon: We're leaving! We're leaving!
+
+Option 3:
+
+> Traveler: "Fellow colleagues who've abandoned their homeland."
+> Tae: Colleagues? You work here as well? Then what are you looking for me for? If you've got a problem, go find Mikawa Akane or something!
+> Paimon: #(That's not the code we're going for, Traveler. Look, she's ignoring us now.)
+> Tae: Get out of my face until you know what you're talking about!
+> Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
+
+Option 4:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: I shall "clench my right hand."
+> Tae: Tch. What, are you two on good terms or something? What did you come find me for, then?
+> Paimon: (To "clench your right hand" means to "make an alliance." She might not suspect that we're not Fatui, but she probably thinks we've taken the fake Gendou's side...)
+> Tae: Get out of my face until you know what you're talking about!
+> Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
+
+Option 5:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: I shall "loosen my right hand."
+> Tae: Tsk, you're useless. Just hanging around people like you makes me sick.
+> Paimon: (Huh... to "loosen the right hand" means to "forgive." Ugh, she's looking down on us!)
+> Tae: Get out of my face until you know what you're talking about!
+> Paimon: (She seems pretty annoyed. We've gotta study those codes more carefully.)
+
+Option 6:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: No, I will "clench my left hand."
+> Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
+> Traveler: Oh, you'd be surprised.
+> Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
+> Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
+> Traveler: She deceived us.
+> Paimon: (Huh, you know what? That's not actually untrue...)
+> Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
+> Paimon: Why'd you say that?
+> Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
+> Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
+> Tae: Hehe, but I made quite the unexpected find! And what a find it was!
+> Traveler: What did you find?
+> Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
+> Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
+> Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
+> Traveler: Very well done indeed!
+> Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
+> Traveler: (Shh, I'm just acting.)
+> Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
+> Tae: What else do you need?
+
+Option 7:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: No, I will "clench my left hand."
+> Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
+> Traveler: Oh, you'd be surprised.
+> Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
+> Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
+> Traveler: She dumped her work onto us.
+> Paimon: (Huh, you know what? That's not actually untrue...)
+> Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
+> Paimon: Why'd you say that?
+> Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
+> Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
+> Tae: Hehe, but I made quite the unexpected find! And what a find it was!
+> Traveler: What did you find?
+> Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
+> Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
+> Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
+> Traveler: Very well done indeed!
+> Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
+> Traveler: (Shh, I'm just acting.)
+> Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
+> Tae: What else do you need?
+
+Option 8:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: No, I will "clench my left hand."
+> Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
+> Traveler: Oh, you'd be surprised.
+> Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
+> Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
+> Traveler: She dumped her work onto us.
+> Paimon: (Huh, you know what? That's not actually untrue...)
+> Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
+> Paimon: Why'd you say that?
+> Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
+> Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
+> Tae: Hehe, but I made quite the unexpected find! And what a find it was!
+> Traveler: What did you find?
+> Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
+> Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
+> Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
+> Traveler: Very well done indeed!
+> Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
+> Traveler: (I see I was quite convincing.)
+> Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
+> Tae: What else do you need?
+
+Option 9:
+
+> Traveler: "Fellow countrymen who've forgotten their homeland."
+> Tae: What? So you're "fellow countrymen"? You should've just said so!
+> Paimon: But you didn't let us speak earlier...
+> Tae: What? Are you trying to start a fight with me?
+> Paimon: No, no, definitely not!
+> Paimon: (Ugh, and here Paimon thought that Momoyo had a terrible temper. This Fatui lady might be even worse...!)
+> Tae: Hmph. "Fellow countrymen," eh? If you've got nothing else to do, get out of my way.
+> Tae: This job is tiring as all get-out, and there's not a moment of peace and quiet to be found. Archon, I might as well go "wash the dishes"!
+> Traveler: Stay cool, you're still young...
+> Tae: *sigh* ...You're right. Working here at the hot spring is tiring, yes, but at least for now, the "south wind" is blowing.
+> Tae: Hah, and what's more, I need to stick around long enough to watch that woman, slacking off at the shrine as she is, get her comeuppance!
+> Traveler: Comeuppance?
+> Tae: That's right! That Lyudochka and her archon-forsaken good luck... Believe you me, I've never liked that wretch!
+> Tae: I could've been the one to work at the shrine, but the Teacher chose her in the end... Hmph. We're all "Snezhevnas." How am I inferior to her in any way, huh?
+> Tae: And what do you think of that woman, huh? Will you "clench your right hand" or "loosen your right hand"?
+> Traveler: No, I will "clench my left hand."
+> Tae: Ahaha! That's right! That's how things should be! And here I thought you two looked kind of weak. Didn't expect you to be this ruthless, to be honest!
+> Traveler: Oh, you'd be surprised.
+> Paimon: (She just praised us... That doesn't feel right somehow, but at least she trusts us now.)
+> Tae: Hah! It seems like you're no friends of Lyudochka either. That makes three of us... Anyway, what did she do to you?
+> Traveler: She deceived us.
+> Paimon: (Huh, you know what? That's not actually untrue...)
+> Tae: Agh, that's rough. But fret not. She'll get what's coming to her soon enough, haha!
+> Paimon: Why'd you say that?
+> Tae: Well, it all comes back to what happened last week. I had to meet that woman at a restaurant. It was a mission, you understand. So, while she was paying for the meal, I rifled through her bags for a little spare change.
+> Paimon: (Wow. This person doesn't just say horrible stuff, she *is* horrible!)
+> Tae: Hehe, but I made quite the unexpected find! And what a find it was!
+> Traveler: What did you find?
+> Tae: A novel from Yae Publishing House. A new issue, fresh off the presses, too! As you know, the Teacher has always forbidden unnecessary leisure. So I reported her, of course.
+> Tae: Hah! Never did I expect that the Teacher was already losing patience with her shilly-shallying on her assignment to infiltrate the "Iron Rats."
+> Tae: The Teacher was absolutely fuming after hearing my report. "I'm kicking her out of the shrine. She's going to Watatsumi Island to do some proper work!" Ah, that was great! Best thing I've heard all week!
+> Traveler: Very well done indeed!
+> Paimon: #(Hey, Traveler! You really sound like the bad guy here, you know?)
+> Traveler: (I see I was quite convincing.)
+> Tae: Hehehe. Whatever the case, let's eagerly await Lyudochka's tragic fall.
+> Tae: What else do you need?
+
 
 ## Talk 15 (alternative/additional)
 

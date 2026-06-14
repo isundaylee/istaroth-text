@@ -41,11 +41,16 @@ Titu: Boundaries and borders are no laughing matter here... Between the living a
 Titu: It is said that there was once a stone tablet in an ancient ruin that read thus: "If any tread past this stone with ill-intent, mine hand shall drake-claw become, and grasp their neck shall I."
 Paimon: Err, wait. What if this stone tablet has some sort of warning or curse on it, then?
 Titu: I can tell at a glance... Traore left this here. To think that... *sigh*
-    Option 1:
-        Traveler: Wait, where have I heard that name...
-        Paimon: He's from the story you told us before, right, Titu? When the Abyss was corrupting Natlan, he led the tribesfolk against them... and against two soldiers from Khaenri'ah.
-    Option 2:
-        Traveler: Ah, that's the elder who fought against the Abyss...
+
+Option 1:
+
+> Traveler: Wait, where have I heard that name...
+> Paimon: He's from the story you told us before, right, Titu? When the Abyss was corrupting Natlan, he led the tribesfolk against them... and against two soldiers from Khaenri'ah.
+
+Option 2:
+
+> Traveler: Ah, that's the elder who fought against the Abyss...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Titu: Haha, you're quite the avid listeners. Storytellers love people like you, y'know?
 Titu: After all, the capacity to remember such tales is a basic quality that all storytellers must have.
@@ -86,12 +91,17 @@ Titu: Looks like that's the thing attracting the Iridescent Inscription. We need
 Titu: That voice is more complete now, but... Somehow, it's not as frightening as before.
 Titu: My head still hurts a little, though.
 Paimon: #How you feeling, Traveler?
-    Option 1:
-        Traveler: It's no big deal.
-        Paimon: That's good...
-    Option 2:
-        Traveler: Now that's what they call "surround sound."
-        Paimon: What? That's not what Paimon was asking at all!
+
+Option 1:
+
+> Traveler: It's no big deal.
+> Paimon: That's good...
+
+Option 2:
+
+> Traveler: Now that's what they call "surround sound."
+> Paimon: What? That's not what Paimon was asking at all!
+
 Paimon: #Anyway! How are you feeling, {REALNAME[ID(2)|SHOWHOST(true)]}?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mmm?
 Paimon: Yeah, looks like you're fine, too.
@@ -148,10 +158,15 @@ You hear the sound of inchoate flesh and blood merging, the sick, giant, sticky,
 But you also hear something like thousands of hands, thousands constantly resisting, pushing outward...
 Black Screen Text: You hear the endless battle in the narrow darkness.
 It is... torment unto eternity.
-    Option 1:
-        Traveler: They cannot find peace...
-    Option 2:
-        Traveler: They fight on still...
+
+Option 1:
+
+> Traveler: They cannot find peace...
+
+Option 2:
+
+> Traveler: They fight on still...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Titu: Those heroes are still locked in battle to this day, preventing the Abyss from flooding out from the Iridescent Inscription.
 Titu: The stories I tell have purpose. We must always remember those brave warriors and their sacrifices.
@@ -170,10 +185,15 @@ Traveler: This is no end for heroes.
 Titu: I know that. I wish to give them peace, too. But I don't have that power. I'm just... a storyteller.
 Paimon: #Traveler...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooh!
-    Option 1:
-        Traveler: Don't worry. We're strong together.
-    Option 2:
-        Traveler: Let's rewrite this story's ending.
+
+Option 1:
+
+> Traveler: Don't worry. We're strong together.
+
+Option 2:
+
+> Traveler: Let's rewrite this story's ending.
+
 Titu: #...Really? You'd do that, Traveler?
 Paimon: #Of course he would. Cross Paimon's heart!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -184,24 +204,34 @@ Titu: *sigh* You're even more impressive than I could have imagined. To be willi
 Titu: #And I am a storyteller... so I will record the tales of heroes. Well then, Traveler, O hero from another land, please... Show me how you shall valiantly triumph over the Abyss.
 Traveler: That we shall do.
 Titu: So... Shall we unseal the Iridescent Inscription now, or do you want to make some preparations first?
-    Option 1:
-        Traveler: Let's go now.
-        Titu: #Alright. I wish you success, Traveler!
-    Option 2:
-        Traveler: One moment. Let's prep real quick.
-        Titu: #Sure. Do all you need to... and be careful, Traveler.
+
+Option 1:
+
+> Traveler: Let's go now.
+> Titu: #Alright. I wish you success, Traveler!
+
+Option 2:
+
+> Traveler: One moment. Let's prep real quick.
+> Titu: #Sure. Do all you need to... and be careful, Traveler.
+
 
 ## Talk 18 (alternative/additional)
 
 (Unseal the inscription)
 
 Titu: #Hah... What do you think, Traveler. Shall we unseal the Iridescent Inscription now?
-    Option 1:
-        Traveler: Yes. Let's begin.
-        Titu: Then I'll get to it... But please, be very careful.
-    Option 2:
-        Traveler: Give me a moment more to prepare.
-        Titu: No worries. Just tell me once you're done...
+
+Option 1:
+
+> Traveler: Yes. Let's begin.
+> Titu: Then I'll get to it... But please, be very careful.
+
+Option 2:
+
+> Traveler: Give me a moment more to prepare.
+> Titu: No worries. Just tell me once you're done...
+
 
 ## Objective 18
 
@@ -245,11 +275,16 @@ Titu: #You're back! {REALNAME[ID(2)|SHOWHOST(true)]} and I were worried, honestl
 Titu: But hah, what did I say, little fella? They're fine, see?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Oooroo...
 Paimon: Heh. Not that we could explain where we went just now...
-    Option 1:
-        Traveler: It's a long story for sure...
-    Option 2:
-        Traveler: We saw a glowing cat...
-        Titu: I—I see...
+
+Option 1:
+
+> Traveler: It's a long story for sure...
+
+Option 2:
+
+> Traveler: We saw a glowing cat...
+> Titu: I—I see...
+
 Titu: #In any case, thank you, Traveler. I never expected that the Abyss here could truly be purified.
 Titu: The Iridescent Inscription, too, is gone — almost as if it no longer needed to stay. The tormented voices have also fallen silent.
 Titu: And that golden light! How it flowed like water, spreading across the ground.

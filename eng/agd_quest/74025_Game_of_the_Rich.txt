@@ -31,38 +31,57 @@ Traveler: (Maybe we'll even be able to get some Coupons...)
 (Learn about the situation from Monglane)
 
 Monglane: Your name.
-    Option 1:
-        Traveler: Yours first.
-        Monglane: I'm a receptionist here at the Fortress of Meropide. Everyone calls me Monglane. Alright, your turn.
-        Paimon: #Uh, Paimon's Paimon, and he's Traveler.
-    Option 2:
-        Traveler: #Just call me Traveler.
-        Paimon: And you can call Paimon Paimon... *cough* Gah, lowering our voices didn't make us sound more serious at all. In fact, we sound super weird!
-    Option 3:
-        Traveler: #Just call me Traveler.
-        Paimon: And you can call Paimon Paimon... *cough* Gah, lowering our voices didn't make us sound more serious at all. In fact, we sound super weird!
+
+Option 1:
+
+> Traveler: Yours first.
+> Monglane: I'm a receptionist here at the Fortress of Meropide. Everyone calls me Monglane. Alright, your turn.
+> Paimon: #Uh, Paimon's Paimon, and he's Traveler.
+
+Option 2:
+
+> Traveler: #Just call me Traveler.
+> Paimon: And you can call Paimon Paimon... *cough* Gah, lowering our voices didn't make us sound more serious at all. In fact, we sound super weird!
+
+Option 3:
+
+> Traveler: #Just call me Traveler.
+> Paimon: And you can call Paimon Paimon... *cough* Gah, lowering our voices didn't make us sound more serious at all. In fact, we sound super weird!
+
 Monglane: #Traveler and Paimon, huh... Never heard of you two. Are you really from around these parts?
-    Option 1:
-        Traveler: Well, we're here, aren't we?
-        Monglane: Yes, I can see that.
-    Option 2:
-        Traveler: My great name is unknown to you, huh...
-        Monglane: Well, I do know the main culprits involved in major cases... Are you accessories to one of those crimes?
-        Paimon: Accessories? What? Th—That's not right! We're good people!
-        Monglane: Ah, I see, noted.
-        Paimon: It sure doesn't sound like you're "noting" anything...
-    Option 3:
-        Traveler: Well, we're here, aren't we?
-        Monglane: Yes, I can see that.
+
+Option 1:
+
+> Traveler: Well, we're here, aren't we?
+> Monglane: Yes, I can see that.
+
+Option 2:
+
+> Traveler: My great name is unknown to you, huh...
+> Monglane: Well, I do know the main culprits involved in major cases... Are you accessories to one of those crimes?
+> Paimon: Accessories? What? Th—That's not right! We're good people!
+> Monglane: Ah, I see, noted.
+> Paimon: It sure doesn't sound like you're "noting" anything...
+
+Option 3:
+
+> Traveler: Well, we're here, aren't we?
+> Monglane: Yes, I can see that.
+
 Monglane: Two names missing... It seems like someone's been slacking off. I'll have to record this. Those who didn't fill the forms in properly will face the relevant consequences...
 Monglane: Anyway, this isn't your fault. No need to worry.
 Monglane: As long as you follow the rules and behave well, you might even have the chance to leave early. You just need to fill the application form and wait patiently for it to be approved.
-    Option 1:
-        Traveler: Wait a moment, that's not what I'm talking about...
-        Paimon: Speaking of that... Did we just complete some sorta procedures? This is going way too fast — Paimon's got no idea what's happening...
-    Option 2:
-        Traveler: Fine.
-        Paimon: Wait, what? This isn't "fine"! Wait, do you already know what's going on? Paimon doesn't get it at all...
+
+Option 1:
+
+> Traveler: Wait a moment, that's not what I'm talking about...
+> Paimon: Speaking of that... Did we just complete some sorta procedures? This is going way too fast — Paimon's got no idea what's happening...
+
+Option 2:
+
+> Traveler: Fine.
+> Paimon: Wait, what? This isn't "fine"! Wait, do you already know what's going on? Paimon doesn't get it at all...
+
 Paimon: There's gotta be some kinda misunderstanding...
 Monglane: If you want your case reviewed, please fill the application form in according to this format. That said, the time for that has passed for now, so you'll have to wait for the next application window to open.
 Monglane: If you have any other questions... Ask Darcy. He should be nearby. I'm sure he'll be glad to have a newbie to talk to.
@@ -73,58 +92,76 @@ Monglane: If you have any other questions... Ask Darcy. He should be nearby. I'm
 
 Darcy: Newcomers? And two of you, to boot? Welcome! Welcome to the Fortress of Meropide! I'm Darcy. Outside, they call me "Pretty Face," but that's just not cool, if you know what I mean!
 Darcy: That's what you were thinking too, right? That's why I decided to give myself a new, super cool nickname! I'm called Dirty Face now! What do you think? Pretty sick, right?
-    Option 1:
-        Traveler: No comment.
-    Option 2:
-        Traveler: Honorary Knight sounds cooler.
-        Paimon: It is a generally recognized title, after all. Just thinking about it fills Paimon with courage.
+
+Option 1:
+
+> Traveler: No comment.
+
+Option 2:
+
+> Traveler: Honorary Knight sounds cooler.
+> Paimon: It is a generally recognized title, after all. Just thinking about it fills Paimon with courage.
+
 Paimon: More importantly, we have some questions...
 Darcy: Ooh, of course! It's perfectly normal for newcomers to not know what's going on. Dirty Face Darcy, at your service!
 Darcy: Go ahead, ask me anything!
-    Option 1:
-        Traveler: What is this place?
-        Darcy: Haha, you came here and you don't even know what this place is? Oh, based on how you're dressed, I don't suppose you're Fontainians. Alright, looks like you really could use an introduction.
-        Darcy: For-tress-of-Me-ro-pi-de. Got it? This is the Fortress of Meropide. Anyone can get into a regular routine and live a carefree life here. Pretty sweet, right?
-        Darcy: Go ahead, ask me anything!
-        [Circling back to a pre-branch dialog]
-    Option 2:
-        Traveler: Why are you here?
-        Darcy: What, you want to hear the tale of "Pretty Face Darcy"? Why don't we go sit in the Coupon Cafeteria for a bit then? It's a long story, after all, so I'll need some time to tell it.
-        Darcy: I'll treat you to some Fonta... Wait, that's not right. I'll be the one telling the story, so it's you who should be treating me to a Fonta. Although, newcomers won't have any Coupons... In that case, you'll owe me two Fontas.
-        Paimon: Huh? Why would we owe you a drink for telling your own story, let alone two? We don't want to hear it, then.
-        Darcy: Really? Are you sure? *sigh* That's too bad. Pretty Face might be a lame nickname, but all kinds of stuff happened back when people called me that...
-        Darcy: But it's fine. If you regret it later and decide you do want to hear my story, I'll move it up in my schedule. You know where to find me, right? Right here!
-        Darcy: Go ahead, ask me anything!
-        [Circling back to a pre-branch dialog]
-    Option 3:
-        Traveler: Why am I here?
-        Darcy: Huh? That's what you want to ask me? Wait, I get it, you want me to guess, right? You don't look like evil villains, so you definitely didn't do anything serious...
-        Darcy: Did you steal or damage some precious cultural relics? No, that can't be it. Did you collaborate with some bad actors and disturb the peace? Hmm, maybe not, actually. Something more minor... Ooh, you didn't pull a dine-and-dash, did you?
-        Traveler: It was Paimon, she ate it all.
-        Paimon: #*gasp* How could you say that! You clearly ate a lot of it too, Traveler... But no, we didn't dine and dash!
-        Paimon: Paimon has no idea what happened to land us here...
-        Black Screen Text: You tell Darcy all about what happened before...
-        Darcy: Oh! Well, in that case, all you can do is apply to have your case re-examined. But, as Ms. Monglane said, the window for that has passed. You'll just have to wait until the next opportunity comes up.
-        Darcy: Also, you'll want to make sure you fill out the form correctly. If you get anything wrong, your application will be flat-out rejected. You may not have known that, being new here and all...
-        Darcy: Don't be fooled by her appearance, she's a real nag about document formatting. There's no room for error with her, not even for the guards.
-        Darcy: Go ahead, ask me anything!
-        [Circling back to a pre-branch dialog]
-    Option 4:
-        Traveler: What can I do here?
-        Darcy: Live, work, play — whatever you feel like. Trying to get some sun might be tricky though, haha. That said, it wouldn't be completely impossible, either.
-        Darcy: If you're interested in getting some sun, I could bring you to see a few people... Oh, I mean real sun, of course, not the searchlights...
-        Darcy: Um... Unless you're actually the type that prefers the searchlights? I'm not one to yuck anyone's yum, but try not to get burned.
-        Paimon: Paimon doesn't understand any of what you're saying right now... But does getting real sun mean getting out of this place? If that's the case, count us in!
-        Darcy: Missing the sunshine outside already? Alright, I'll take you to see Estienne in a bit. Hmm, I think we can still make it in time? Well, let's go ask him first.
-        Darcy: Go ahead, ask me anything!
-        [Circling back to a pre-branch dialog]
-    Option 5:
-        Traveler: Heard any interesting rumors?
-        Darcy: I heard Alvard's got his hands on some rare stuff. If you're interested, you could go to his Rag and Bone Shop and ask. Maybe he'll let you take a look.
-        Darcy: Also, that new guard, what's his name... Noailles. I heard he doesn't like Fonta! What a stick in the mud... Not only that, he also wants to shut down the Pankration Ring. Tch.
-        Darcy: Go ahead, ask me anything!
-        [Circling back to a pre-branch dialog]
-    Option 6:
+
+Option 1:
+
+> Traveler: What is this place?
+> Darcy: Haha, you came here and you don't even know what this place is? Oh, based on how you're dressed, I don't suppose you're Fontainians. Alright, looks like you really could use an introduction.
+> Darcy: For-tress-of-Me-ro-pi-de. Got it? This is the Fortress of Meropide. Anyone can get into a regular routine and live a carefree life here. Pretty sweet, right?
+> Darcy: Go ahead, ask me anything!
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+> Traveler: Why are you here?
+> Darcy: What, you want to hear the tale of "Pretty Face Darcy"? Why don't we go sit in the Coupon Cafeteria for a bit then? It's a long story, after all, so I'll need some time to tell it.
+> Darcy: I'll treat you to some Fonta... Wait, that's not right. I'll be the one telling the story, so it's you who should be treating me to a Fonta. Although, newcomers won't have any Coupons... In that case, you'll owe me two Fontas.
+> Paimon: Huh? Why would we owe you a drink for telling your own story, let alone two? We don't want to hear it, then.
+> Darcy: Really? Are you sure? *sigh* That's too bad. Pretty Face might be a lame nickname, but all kinds of stuff happened back when people called me that...
+> Darcy: But it's fine. If you regret it later and decide you do want to hear my story, I'll move it up in my schedule. You know where to find me, right? Right here!
+> Darcy: Go ahead, ask me anything!
+> [Circling back to a pre-branch dialog]
+
+Option 3:
+
+> Traveler: Why am I here?
+> Darcy: Huh? That's what you want to ask me? Wait, I get it, you want me to guess, right? You don't look like evil villains, so you definitely didn't do anything serious...
+> Darcy: Did you steal or damage some precious cultural relics? No, that can't be it. Did you collaborate with some bad actors and disturb the peace? Hmm, maybe not, actually. Something more minor... Ooh, you didn't pull a dine-and-dash, did you?
+> Traveler: It was Paimon, she ate it all.
+> Paimon: #*gasp* How could you say that! You clearly ate a lot of it too, Traveler... But no, we didn't dine and dash!
+> Paimon: Paimon has no idea what happened to land us here...
+> Black Screen Text: You tell Darcy all about what happened before...
+> Darcy: Oh! Well, in that case, all you can do is apply to have your case re-examined. But, as Ms. Monglane said, the window for that has passed. You'll just have to wait until the next opportunity comes up.
+> Darcy: Also, you'll want to make sure you fill out the form correctly. If you get anything wrong, your application will be flat-out rejected. You may not have known that, being new here and all...
+> Darcy: Don't be fooled by her appearance, she's a real nag about document formatting. There's no room for error with her, not even for the guards.
+> Darcy: Go ahead, ask me anything!
+> [Circling back to a pre-branch dialog]
+
+Option 4:
+
+> Traveler: What can I do here?
+> Darcy: Live, work, play — whatever you feel like. Trying to get some sun might be tricky though, haha. That said, it wouldn't be completely impossible, either.
+> Darcy: If you're interested in getting some sun, I could bring you to see a few people... Oh, I mean real sun, of course, not the searchlights...
+> Darcy: Um... Unless you're actually the type that prefers the searchlights? I'm not one to yuck anyone's yum, but try not to get burned.
+> Paimon: Paimon doesn't understand any of what you're saying right now... But does getting real sun mean getting out of this place? If that's the case, count us in!
+> Darcy: Missing the sunshine outside already? Alright, I'll take you to see Estienne in a bit. Hmm, I think we can still make it in time? Well, let's go ask him first.
+> Darcy: Go ahead, ask me anything!
+> [Circling back to a pre-branch dialog]
+
+Option 5:
+
+> Traveler: Heard any interesting rumors?
+> Darcy: I heard Alvard's got his hands on some rare stuff. If you're interested, you could go to his Rag and Bone Shop and ask. Maybe he'll let you take a look.
+> Darcy: Also, that new guard, what's his name... Noailles. I heard he doesn't like Fonta! What a stick in the mud... Not only that, he also wants to shut down the Pankration Ring. Tch.
+> Darcy: Go ahead, ask me anything!
+> [Circling back to a pre-branch dialog]
+
+Option 6:
+
+
 Traveler: That's all I wanted to ask.
 Darcy: Alright. If you have any more questions, just come find me. Dirty Face Darcy is at your service!
 Darcy: For now, why don't I take you to see Estienne? He's a guard, but he's cool, if you catch my drift!
@@ -166,11 +203,16 @@ Darcy: #Hello, sir, and hello to your cute companion! Dirty Face Darcy, at your 
 Traveler: Dirty Face?
 Darcy: That's right, just call me Dirty Face Darcy. They used to call me Pretty Face on the outside... but that nickname is just so lame!
 Darcy: Please, just call me Dirty Face instead... Oh, that's just a cool nickname, I wash my face every day. You don't have to stand all the way over there...
-    Option 1:
-        Traveler: Any news?
-    Option 2:
-        Traveler: Where's the action at?
-        Paimon: #Traveler, where'd you learn to talk like that? Don't tell Paimon... Don't tell Paimon you've picked up some bad habits... No way! Paimon won't allow it!
+
+Option 1:
+
+> Traveler: Any news?
+
+Option 2:
+
+> Traveler: Where's the action at?
+> Paimon: #Traveler, where'd you learn to talk like that? Don't tell Paimon... Don't tell Paimon you've picked up some bad habits... No way! Paimon won't allow it!
+
 Darcy: Too bad it's not time for Pankration yet... Let me think.
 Darcy: How about this, why don't I take you to have some fun? A few folks have locked horns over the chance to go outside. I had no idea those Fontaine Research Institute guys could dish it out like that...
 Darcy: I'm guessing they'll be here any minute now... What do you think? Think of it as an opening act before the real Pankration match starts. Wanna check it out?
@@ -225,12 +267,17 @@ Paimon: He left us, just like that? Some guide, Paimon gives him zero stars! Zer
 Genevieve: Mr. Guard, as the organizer, it's not exactly proper for you to stay out of this discussion of the rules, is it?
 Estienne: Haha, this is just a game to pass the time. How was I supposed to know you'd all get so riled up over it... let alone take it this seriously.
 Estienne: Right, why don't we introduce the rules of the game to the new players?
-    Option 1:
-        Traveler: A game? I'm definitely gonna win.
-        Paimon: Heh, there's no game the two of us can't win! Wait a sec, we still don't know what the game even is yet...
-    Option 2:
-        Traveler: I haven't agreed to play yet.
-        Paimon: That's right, we don't even know what this game is. If it's an eating competition, Paimon will absolutely play! But if it's some sort of game involving a lot of hard work and very little reward... then you can forget about it!
+
+Option 1:
+
+> Traveler: A game? I'm definitely gonna win.
+> Paimon: Heh, there's no game the two of us can't win! Wait a sec, we still don't know what the game even is yet...
+
+Option 2:
+
+> Traveler: I haven't agreed to play yet.
+> Paimon: That's right, we don't even know what this game is. If it's an eating competition, Paimon will absolutely play! But if it's some sort of game involving a lot of hard work and very little reward... then you can forget about it!
+
 Genevieve: Don't try and change the subject! We're already halfway through the game, and they don't even know the fundamental rules. They can't just join in now.
 Traveler: So, what are you guys playing?
 Genevieve: Coupon Millionaire.
@@ -247,10 +294,15 @@ Genevieve: As far as games go, the rules are really vague.
 Estienne: It's part of the strategy. Does the Fontaine Research Institute not have similar "games"?
 Genevieve: ...
 Estienne: How about you, Darcy's new friends?
-    Option 1:
-        Traveler: Sorry, everyone, but I'm going to win.
-    Option 2:
-        Traveler: It's not very attractive...
+
+Option 1:
+
+> Traveler: Sorry, everyone, but I'm going to win.
+
+Option 2:
+
+> Traveler: It's not very attractive...
+
 Rave: It's not impossible to come back from behind, but only those who have the means will be able to do it. As for them... Estienne, maybe you should arrange a special competition for children.
 Paimon: Children's competition...
 Paimon: Paimon doesn't know who you are, but you shouldn't underestimate us. We've seen some... things! It's just a game, and we gonna cruise through it!
@@ -276,10 +328,15 @@ Paimon: What sort of person leaves their friends behind, anyway? We aren't his f
 Paimon: ...Huh? Wait a minute, that nickname doesn't sound all that mean...
 Estienne: Haha, alright, then. What should we call you?
 Paimon: #Call me Paimon, and this is Traveler. As for the game...
-    Option 1:
-        Traveler: We'll need more time to think about this.
-    Option 2:
-        Traveler: Maybe next time.
+
+Option 1:
+
+> Traveler: We'll need more time to think about this.
+
+Option 2:
+
+> Traveler: Maybe next time.
+
 Estienne: Sure. If you change your mind, please feel free to talk to me.
 
 ## Talk 12 (alternative/additional)
@@ -289,40 +346,62 @@ Estienne: Sure. If you change your mind, please feel free to talk to me.
 Paimon: There you are!
 Lanoire: Oh, you again. And your, uh... Are you a bird, little one?
 Paimon: A bird? Paimon doesn't look like a bird...
-    Option 1:
-        Traveler: The way you keep talking...
-        Paimon: You mean melodic chirping!
-    Option 2:
-        Traveler: Indeed, Paimon, you don't.
-    Option 3:
-        Traveler: Indeed, Paimon, you don't.
+
+Option 1:
+
+> Traveler: The way you keep talking...
+> Paimon: You mean melodic chirping!
+
+Option 2:
+
+> Traveler: Indeed, Paimon, you don't.
+
+Option 3:
+
+> Traveler: Indeed, Paimon, you don't.
+
 Lanoire: That's so strange. You can fly, but you're not a bird. Are you an evil dragon? Or an evil dragonling?
-    Option 1:
-        Traveler: The way you eat and your thirst for wealth certainly fit the bill...
-        Paimon: No they don't!
-    Option 2:
-        Traveler: She's not... Probably?
-        Paimon: Why did you hesitate?
+
+Option 1:
+
+> Traveler: The way you eat and your thirst for wealth certainly fit the bill...
+> Paimon: No they don't!
+
+Option 2:
+
+> Traveler: She's not... Probably?
+> Paimon: Why did you hesitate?
+
 Paimon: #Anyway, he's Traveler, and Paimon's name is Paimon. What's your name?
 Lanoire: #I'm... Lanoire. Mr. Traveler and Ms. Paimon, will you please tell me whether the evil sorcerer is still there?
 Paimon: The evil sorcerer?
 Lanoire: Yes, with black clothes and a staff that has branches sticking out of it. Cater said that I mustn't get spotted by that sorcerer, or things will get very bad...
-    Option 1:
-        Traveler: Where is this wicked spellslinger? My sword is ready!
-        Paimon: Why are you playing along? Paimon thinks she's talking about who we just saw.
-    Option 2:
-        Traveler: Was it the person that we just saw?
-        Paimon: Yup, Paimon thinks so too.
+
+Option 1:
+
+> Traveler: Where is this wicked spellslinger? My sword is ready!
+> Paimon: Why are you playing along? Paimon thinks she's talking about who we just saw.
+
+Option 2:
+
+> Traveler: Was it the person that we just saw?
+> Paimon: Yup, Paimon thinks so too.
+
 Paimon: Must've been a guard, right? So, who's this bad, bad sorcerer? Estienne, or Noailles?
 Lanoire: Estienne is a good sorcerer! He brought me flowers when he returned last time. They had the same color as my skirt!
 Lanoire: Then Cater taught me to put them into books to make pressed flowers. That way, my books would smell nice, too. Is this what they call the fragrance of knowledge?
 Paimon: Noailles, then.
-    Option 1:
-        Traveler: Estienne said he was annoying, too.
-        Paimon: Paimon doesn't like him, either. It seems he doesn't think very highly of us.
-    Option 2:
-        Traveler: No plot twists? Boring.
-        Paimon: Just what kind of story are you looking for, anyway?
+
+Option 1:
+
+> Traveler: Estienne said he was annoying, too.
+> Paimon: Paimon doesn't like him, either. It seems he doesn't think very highly of us.
+
+Option 2:
+
+> Traveler: No plot twists? Boring.
+> Paimon: Just what kind of story are you looking for, anyway?
+
 Paimon: Anyway, the evil sorcerer's gone now. Still, why's a little kid like you in the Fortress of Meropide?
 Lanoire: I've always been here. Why does everyone ask me that? It's so strange.
 Lanoire: Don't you two have your own home, too?
@@ -352,12 +431,17 @@ Darcy: Dirty Face Darcy, at your service!
 Paimon: At whose service? And when? You ran off and left us behind back there!
 Darcy: I had to. Once that researcher starts talking, there's no end to it! It was fun the first time, but I've seen it too many times already.
 Darcy: That was your first time, right? Was it fun?
-    Option 1:
-        Traveler: Not at all.
-        Paimon: Paimon didn't get the point, either.
-    Option 2:
-        Traveler: What an amazing debate.
-        Paimon: #Are you serious, Traveler?
+
+Option 1:
+
+> Traveler: Not at all.
+> Paimon: Paimon didn't get the point, either.
+
+Option 2:
+
+> Traveler: What an amazing debate.
+> Paimon: #Are you serious, Traveler?
+
 Darcy: Too bad the time for Pankration hasn't arrived yet. I think that's more fun! Anyway, we'll just have to wait.
 
 ## Talk 12 (alternative/additional)
@@ -378,17 +462,26 @@ Genevieve: You know we're not that kind of people. I can't reach conclusions int
 (Talk to the little girl)
 
 Rave: Did you need me for something?
-    Option 1:
-        Traveler: Mind telling me about Estienne?
-        Rave: The smiling ones are the ones you've really got to watch out for.
-    Option 2:
-        Traveler: Tell me about Genevieve...
-        Rave: #You're not going to try to get that woman to listen to reason, are you?
-    Option 3:
-        Traveler: Tell me about Noailles...
-        Rave: I've got nothing to say about him.
-    Option 4:
-        Traveler: Never mind...
+
+Option 1:
+
+> Traveler: Mind telling me about Estienne?
+> Rave: The smiling ones are the ones you've really got to watch out for.
+
+Option 2:
+
+> Traveler: Tell me about Genevieve...
+> Rave: #You're not going to try to get that woman to listen to reason, are you?
+
+Option 3:
+
+> Traveler: Tell me about Noailles...
+> Rave: I've got nothing to say about him.
+
+Option 4:
+
+> Traveler: Never mind...
+
 Rave: ...You kids oughta head home. If you still have a home to go back to, that is.
 
 ## Talk 12 (alternative/additional)
@@ -396,12 +489,17 @@ Rave: ...You kids oughta head home. If you still have a home to go back to, that
 (Talk to the little girl)
 
 Henaff: Got any Coupons, boss?
-    Option 1:
-        Traveler: Boss?
-        Henaff: You're not the boss? Why didn't you say so?
-    Option 2:
-        Traveler: What's it to you?
-        Henaff: You don't? Then I called you "boss" for nothing. What a waste.
+
+Option 1:
+
+> Traveler: Boss?
+> Henaff: You're not the boss? Why didn't you say so?
+
+Option 2:
+
+> Traveler: What's it to you?
+> Henaff: You don't? Then I called you "boss" for nothing. What a waste.
+
 
 ## Talk 12 (alternative/additional)
 
@@ -464,12 +562,17 @@ Traveler: (Maybe we'll even be able to get some Coupons...)
 (Go on an "adventure" with Lanoire)
 
 Nizami: Tired from playing with those kids? You can spar with me after you've rested!
-    Option 1:
-        Traveler: I'm pretty strong, just to let you know.
-        Nizami: The stronger the opponent, the better!
-    Option 2:
-        Traveler: Why do you want to spar with me?
-        Nizami: Huh? How does the saying go again... "There's no substitute for the real thing"! Sparing with an actual person always beats punching dummies, don't you think?
+
+Option 1:
+
+> Traveler: I'm pretty strong, just to let you know.
+> Nizami: The stronger the opponent, the better!
+
+Option 2:
+
+> Traveler: Why do you want to spar with me?
+> Nizami: Huh? How does the saying go again... "There's no substitute for the real thing"! Sparing with an actual person always beats punching dummies, don't you think?
+
 
 ## Objective 17
 
@@ -529,12 +632,17 @@ Lanoire: Phew, guess our adventure's almost at an end. The Coupon Cafeteria's ou
 Traveler: So the ultimate destination of adventuring is a good meal.
 Paimon: Not bad, right? Adventures take a toll on your body, so eating afterward is a must.
 Lanoire: That's right! And I've never seen someone as small as Ms. Paimon! You're even smaller than Ms. Sigewinne. You should eat more, so you can grow bigger!
-    Option 1:
-        Traveler: I think Paimon's fine just the way she is.
-        Paimon: Paimon thinks so, too!
-    Option 2:
-        Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
-        Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
+
+Option 1:
+
+> Traveler: I think Paimon's fine just the way she is.
+> Paimon: Paimon thinks so, too!
+
+Option 2:
+
+> Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
+> Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
+
 Lanoire: By the way, do the two of you have any Coupons?
 Paimon: Um, Paimon doesn't think so...
 Traveler: Well, that means we get no food. Oops.
@@ -554,12 +662,17 @@ Lanoire: Phew, guess our adventure's almost at an end. The Coupon Cafeteria's ou
 Traveler: So the ultimate destination of adventuring is a good meal.
 Paimon: Not bad, right? Adventures take a toll on your body, so eating afterward is a must.
 Lanoire: That's right! And I've never seen someone as small as Ms. Paimon! You're even smaller than Ms. Sigewinne. You should eat more, so you can grow bigger!
-    Option 1:
-        Traveler: I think Paimon's fine just the way she is.
-        Paimon: Paimon thinks so, too!
-    Option 2:
-        Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
-        Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
+
+Option 1:
+
+> Traveler: I think Paimon's fine just the way she is.
+> Paimon: Paimon thinks so, too!
+
+Option 2:
+
+> Traveler: The thought of Paimon growing up... Ugh, that gives me a headache.
+> Paimon: Ugh, you're probably thinking about something rude right now, aren't you?
+
 Paimon: Let's talk to Bran and see if we'll get something good!
 Lanoire: Yup! It'd be nice if it was the delicious Tasses Ragout, though.
 
@@ -569,37 +682,49 @@ Lanoire: Yup! It'd be nice if it was the delicious Tasses Ragout, though.
 
 Lanoire: Greetings, Bran.
 Bran: Greetings. What can I do for you?
-    Option 1:
-        Traveler: I'll have a free meal, please.
-        Bran: Understood.
-        Bran: Enjoy.
-        Paimon: And Paimon, too!
-        Bran: Enjoy.
-    Option 2:
-        Traveler: Two free meals, please.
-        Bran: Negative. According to the "Fortress of Meropide's Coupon Cafeteria Regulations," only one free meal per day shall be permitted per person.
-        Traveler: I'm getting one for Paimon, too.
-        Paimon: That's right, don't forget about Paimon!
-        Bran: ...Understood.
-        Bran: Enjoy.
-    Option 3:
-        Traveler: I'll have five hundred free meals.
-        Bran: Negative. According to the "Fortress of Meropide's Coupon Cafeteria Regulations," only one free meal per day shall be permitted per person.
-        Traveler: I'm getting some for everyone.
-        Paimon: Are you seriously trying to feed everyone here? We just need two!
-        Bran: ...Understood.
-        Bran: Enjoy.
+
+Option 1:
+
+> Traveler: I'll have a free meal, please.
+> Bran: Understood.
+> Bran: Enjoy.
+> Paimon: And Paimon, too!
+> Bran: Enjoy.
+
+Option 2:
+
+> Traveler: Two free meals, please.
+> Bran: Negative. According to the "Fortress of Meropide's Coupon Cafeteria Regulations," only one free meal per day shall be permitted per person.
+> Traveler: I'm getting one for Paimon, too.
+> Paimon: That's right, don't forget about Paimon!
+> Bran: ...Understood.
+> Bran: Enjoy.
+
+Option 3:
+
+> Traveler: I'll have five hundred free meals.
+> Bran: Negative. According to the "Fortress of Meropide's Coupon Cafeteria Regulations," only one free meal per day shall be permitted per person.
+> Traveler: I'm getting some for everyone.
+> Paimon: Are you seriously trying to feed everyone here? We just need two!
+> Bran: ...Understood.
+> Bran: Enjoy.
+
 Lanoire: I'll have one, too.
 Bran: Understood. Enjoy.
 Lanoire: #Mr. Traveler, Ms. Paimon, let's open our meals together, alright? Three... Two... One!
 Lanoire: Wow, mine's Tasses Ragout!
 Lanoire: What did you two get?
-    Option 1:
-        Traveler: Is there a pot? I'll cook my own meal.
-        Paimon: Paimon doesn't want to eat anymore.
-    Option 2:
-        Traveler: It certainly... looks... like food.
-        Paimon: Wow, this looks kinda disgusting.
+
+Option 1:
+
+> Traveler: Is there a pot? I'll cook my own meal.
+> Paimon: Paimon doesn't want to eat anymore.
+
+Option 2:
+
+> Traveler: It certainly... looks... like food.
+> Paimon: Wow, this looks kinda disgusting.
+
 Lanoire: So I got the only good meal? Will there be enough if we split it into three portions?
 Lanoire: There's even a fortune inside. What do yours say?
 Paimon: Paimon's fortune says, "Luck only brings fleeting pleasure, lifelong happiness requires hard work." ...Grr, now Paimon's mad!
@@ -625,12 +750,17 @@ Alvard: Hey, Skylark, want a Fonta? We just got a new shipment. How about your f
 Paimon: So this is the Rag and Bone Shop.
 Alvard: If you have Coupons, we have everything from home supplies like Hydro Phantasm Taint-B-Gone...
 Alvard: ...To devices that can help you in the Pankration Ring. Our wares are trusted and loved by all and sundry! You name it, Rag and Bone Shop has it!
-    Option 1:
-        Traveler: We'll take some Hydro Phantasm Taint-B-Gone.
-        Paimon: We don't really need this, do we?
-    Option 2:
-        Traveler: Devices that help you? What do you mean?
-        Alvard: They're for regulars only. Or, if you happen to have friends who are our regulars, I suppose I can show them to you...
+
+Option 1:
+
+> Traveler: We'll take some Hydro Phantasm Taint-B-Gone.
+> Paimon: We don't really need this, do we?
+
+Option 2:
+
+> Traveler: Devices that help you? What do you mean?
+> Alvard: They're for regulars only. Or, if you happen to have friends who are our regulars, I suppose I can show them to you...
+
 Alvard: The special items must be pre-ordered, though. Or if you're lucky enough, you might find what you want on the for-sale list.
 Alvard: We do have the other stuff stocked at all times. So, back to my question. How about some Fonta?
 Lanoire: Hm, I want everything in Uncle Alvard's store.
@@ -639,13 +769,18 @@ Paimon: Really!? Are you sure it won't be a problem?
 Lanoire: Problem? If you mean Coupons, Cater gave me a ton of them, so I should have enough. The food and drinks here are really great, and you're going to love them, Ms. Paimon!
 Lanoire: Cater said that Coupons make unfair things fair. Only I got the delicious Tasses Ragout at the Coupon Cafeteria, and that was unfair.
 Lanoire: So now I'm going to use my Coupons to buy something delicious for the two of you!
-    Option 1:
-        Traveler: Time to eat, then!
-        Lanoire: Let's dig in!
-        Paimon: Hey, that was supposed to be my line, you two!
-    Option 2:
-        Traveler: Something doesn't feel right.
-        Paimon: But Lanoire said there are plenty of delicious food and drinks...
+
+Option 1:
+
+> Traveler: Time to eat, then!
+> Lanoire: Let's dig in!
+> Paimon: Hey, that was supposed to be my line, you two!
+
+Option 2:
+
+> Traveler: Something doesn't feel right.
+> Paimon: But Lanoire said there are plenty of delicious food and drinks...
+
 Lanoire: Estienne said that hunger and gross food reduce our work efficiency and put us in a bad mood.
 Lanoire: We're going to see Cater soon, and we wanna be in a good mood when we see him. That's why we need to fill our stomachs with delicious food.
 Lanoire: We're counting on you, Uncle Alvard.
@@ -656,11 +791,16 @@ Black Screen Text: Feasting with Lanoire...
 Everything that couldn't be finished ends up in Paimon's pack.
 Paimon: Phew! That was amazing! Paimon's so full, she can barely walk. She's getting sleepy, too...
 Paimon: Why are we here again?
-    Option 1:
-        Traveler: If you can't remember, then maybe it wasn't important.
-    Option 2:
-        Traveler: Why are you here, Lanoire?
-        Lanoire: That's a strange question! I've always been here.
+
+Option 1:
+
+> Traveler: If you can't remember, then maybe it wasn't important.
+
+Option 2:
+
+> Traveler: Why are you here, Lanoire?
+> Lanoire: That's a strange question! I've always been here.
+
 Paimon: Paimon remembers now! We're supposed to be looking for Cater.
 Lanoire: Let's go! But I don't know if he's there. If not, we can wait. He might be back soon.
 
@@ -684,10 +824,15 @@ Caterpillar: #Nice to meet you, Mr. Traveler, Ms. Paimon. Please call me Caterpi
 Paimon: Uh... Please don't be so formal. That feels so strange!
 Caterpillar: Since you're Lanoire's friends, sure, I can do that!
 Paimon: Wait a minute... We've heard the name "Caterpillar" before, haven't we?
-    Option 1:
-        Traveler: From who?
-    Option 2:
-        Traveler: Maybe from someone in Sumeru.
+
+Option 1:
+
+> Traveler: From who?
+
+Option 2:
+
+> Traveler: Maybe from someone in Sumeru.
+
 Paimon: Ah, that's right! Julien! The painter we met at Samudra Coast. Do you remember him? So you're the "Caterpillar" he mentioned!
 Caterpillar: You've met Julien? He really went to Sumeru, huh? How is he?
 Paimon: Well...
@@ -697,12 +842,17 @@ Caterpillar: Is that really what he said? I can't decide if he was exaggerating.
 Paimon: Wait, so he was lying? But the painting he made for Pepper looked so real, even though the color was a bit off.
 Caterpillar: That was an ability he already had. What I did was to give him "certainty." The purer the person, the more obvious the effect of such support is.
 Paimon: Pure, huh... Well, he did look kind of gullible.
-    Option 1:
-        Traveler: And as for the Marvelous Bird Egg...
-        Caterpillar: They're good for your health when consumed in moderation.
-    Option 2:
-        Traveler: And the tea leaves that activate the imbiber's potential...
-        Caterpillar: He did spend a lot of Coupons to get them, yes...
+
+Option 1:
+
+> Traveler: And as for the Marvelous Bird Egg...
+> Caterpillar: They're good for your health when consumed in moderation.
+
+Option 2:
+
+> Traveler: And the tea leaves that activate the imbiber's potential...
+> Caterpillar: He did spend a lot of Coupons to get them, yes...
+
 Caterpillar: I didn't know that he would break his "certainty" like that. I guess you could say that things turned out for the best, though.
 Paimon: Anyway, both you and Lanoire are children, right? So, is your guardian here? Why are the two of you in a place like this...
 Lanoire: Cater's not a child.
@@ -746,18 +896,28 @@ Traveler: Whoops. Our Coupons went straight to our stomachs.
 Paimon: Ah! And Lanoire spent a ton more cleaning the Rag and Bone Shop out! We're sure to lose now! What are we gonna do?
 Lanoire: We won't lose. If Cater says we'll win, we'll definitely win.
 Paimon: Lanoire... Paimon suspects you aren't grasping the gravity of the situation at all!
-    Option 1:
-        Traveler: Can we get the Coupons refunded? We can just say that she's a child who didn't understand the rules...
-        Caterpillar: As the transaction already took place, I'm afraid that won't be so easy.
-    Option 2:
-        Traveler: Sorry, we'll just have to wait for the next opportunity...
+
+Option 1:
+
+> Traveler: Can we get the Coupons refunded? We can just say that she's a child who didn't understand the rules...
+> Caterpillar: As the transaction already took place, I'm afraid that won't be so easy.
+
+Option 2:
+
+> Traveler: Sorry, we'll just have to wait for the next opportunity...
+
 Caterpillar: It's fine. The Coupons I gave to Lanoire were for her to use as she pleased. This little mishap won't change the outcome.
 Paimon: Paimon still feels kinda bad though. Why don't we help you? Paimon remembers Estienne saying that you can play the game as a group.
 Lanoire: #Really, Ms. Paimon? You and Mr. Traveler will play the game with us, too?
-    Option 1:
-        Traveler: Yep, and we'll win this thing together!
-    Option 2:
-        Traveler: We'll just consider this a commission with advance rewards.
+
+Option 1:
+
+> Traveler: Yep, and we'll win this thing together!
+
+Option 2:
+
+> Traveler: We'll just consider this a commission with advance rewards.
+
 Paimon: With us here, this'll be a piece of cake! There are four of us, after all! Still, how can we get the most Coupons in the least amount of time...?
 Caterpillar: I already feel much better knowing that you'll be helping us. Thank you both. As for how to get the Coupons... I have a few ideas, but that can wait until tomorrow.
 Caterpillar: You must be exhausted. If you don't mind, why don't you rest up first? There's enough space here.
@@ -819,18 +979,28 @@ Traveler: Whoops. Our Coupons went straight to our stomachs.
 Paimon: Ah! And Lanoire spent a ton more cleaning the Rag and Bone Shop out! We're sure to lose now! What are we gonna do?
 Lanoire: We won't lose. If Cater says we'll win, we'll definitely win.
 Paimon: Lanoire... Paimon suspects you aren't grasping the gravity of the situation at all!
-    Option 1:
-        Traveler: Can we get the Coupons refunded? We can just say that she's a child who didn't understand the rules...
-        Caterpillar: As the transaction already took place, I'm afraid that won't be so easy.
-    Option 2:
-        Traveler: Sorry, we'll just have to wait for the next opportunity...
+
+Option 1:
+
+> Traveler: Can we get the Coupons refunded? We can just say that she's a child who didn't understand the rules...
+> Caterpillar: As the transaction already took place, I'm afraid that won't be so easy.
+
+Option 2:
+
+> Traveler: Sorry, we'll just have to wait for the next opportunity...
+
 Caterpillar: It's fine. The Coupons I gave to Lanoire were for her to use as she pleased. This little mishap won't change the outcome.
 Paimon: Paimon still feels kinda bad though. Why don't we help you? Paimon remembers Estienne saying that you can play the game as a group.
 Lanoire: #Really, Ms. Paimon? You and Mr. Traveler will play the game with us, too?
-    Option 1:
-        Traveler: Yep, and we'll win this thing together!
-    Option 2:
-        Traveler: We'll just consider this a commission with advance rewards.
+
+Option 1:
+
+> Traveler: Yep, and we'll win this thing together!
+
+Option 2:
+
+> Traveler: We'll just consider this a commission with advance rewards.
+
 Paimon: With us here, this'll be a piece of cake! There are four of us, after all! Still, how can we get the most Coupons in the least amount of time...?
 Caterpillar: I already feel much better knowing that you'll be helping us. Thank you both. As for how to get the Coupons... I have a few ideas, but that can wait until tomorrow.
 Caterpillar: You must be exhausted. If you don't mind, why don't you rest up first? There's enough space here.
@@ -877,12 +1047,17 @@ Black Screen Text: "And then what? Did the little girl listen to the giant? I be
 (Talk to Caterpillar)
 
 Paimon: Oh, it seems like we've come at a bad time...
-    Option 1:
-        Traveler: Cater's been taken by the evil sorcerer!
-        Estienne: Haha!
-        Noailles: ...What?
-    Option 2:
-        Traveler: What's everyone doing here?
+
+Option 1:
+
+> Traveler: Cater's been taken by the evil sorcerer!
+> Estienne: Haha!
+> Noailles: ...What?
+
+Option 2:
+
+> Traveler: What's everyone doing here?
+
 Noailles: #If I'm not mistaken, you must be... Traveler and Paimon? I'll come back to your question in a moment.
 Noailles: I consulted the records from the last hundred years, and I couldn't find any record of a "Caterpillar." In light of this possible mislaying of documents, we'll need your cooperation to recreate them.
 Estienne: There's nothing pressing about the matter, if you ask me. What's the rush about?
@@ -930,35 +1105,55 @@ Caterpillar: Making someone as straightforward as him "certain" of an undeniable
 Traveler: Like that time with Julien?
 Caterpillar: That's right. Just like that time with Julien.
 Caterpillar: I've been here for a long time, as you know. After staying in one place for a long time, it's only natural to pick up a few handy tricks to exert some degree of influence over your environment.
-    Option 1:
-        Traveler: Almost too handy, I'd say.
-    Option 2:
-        Traveler: Sounds a little suspicious...
+
+Option 1:
+
+> Traveler: Almost too handy, I'd say.
+
+Option 2:
+
+> Traveler: Sounds a little suspicious...
+
 Paimon: Changing a stubborn person's mind with just a few simple phrases almost sounds like magic... Could there have been times when we were also influenced by magic without even knowing it?
-    Option 1:
-        Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
-        Paimon: #You, too, Traveler! Wait a minute... You're not saying Paimon's as gullible as Julien, are you?
-    Option 2:
-        Traveler: Would someone even realize that they're being influenced?
-        Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
+
+Option 1:
+
+> Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
+> Paimon: #You, too, Traveler! Wait a minute... You're not saying Paimon's as gullible as Julien, are you?
+
+Option 2:
+
+> Traveler: Would someone even realize that they're being influenced?
+> Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
+
 Caterpillar: It's not as simple as it looks — there are always limits to the application of tricks like these, and the results aren't always what you'd hoped for.
 Caterpillar: It's like with Julien — He always had a knack for art, but he lacked confidence because of his visual impairment. The "certainty" that he could draw well was inside him to begin with.
 Caterpillar: But in other cases, the concept of "certainty" is just too abstract, making it difficult to predict the outcome.
 Caterpillar: So, I did take a chance this time. I just thought that if he held us up here, it would keep delaying the plan to get Lanoire out of the Fortress...
 Caterpillar: Besides, I doubt you wanted to be questioned by him repeatedly either.
-    Option 1:
-        Traveler: You shouldn't take chances like that.
-    Option 2:
-        Traveler: Well, you've got to take chances to achieve your goals.
+
+Option 1:
+
+> Traveler: You shouldn't take chances like that.
+
+Option 2:
+
+> Traveler: Well, you've got to take chances to achieve your goals.
+
 Caterpillar: You're absolutely right.
 Caterpillar: Back to the matter at hand... If you've changed your mind and want to back out, I understand completely. Lanoire might be sad for a time though. For her, playmates like you are hard to come by.
 Paimon: Hmm... We've already made a promise to her, so we can't just go back on our word now. Right?
-    Option 1:
-        Traveler: A promise is a promise.
-        Paimon: Yeah. Consider this our way of helping her out!
-    Option 2:
-        Traveler: This doesn't mean I trust you.
-        Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
+
+Option 1:
+
+> Traveler: A promise is a promise.
+> Paimon: Yeah. Consider this our way of helping her out!
+
+Option 2:
+
+> Traveler: This doesn't mean I trust you.
+> Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
+
 Paimon: Speaking of which, where is she?
 Caterpillar: She went on an adventure early this morning — probably to rehearse for what's to come after she leaves this place. It's just as well, I have a few headaches to go take care of soon...
 Caterpillar: You can usually get a reward for helping others — including the guards — take care of some headaches.
@@ -979,35 +1174,55 @@ Caterpillar: "The culprit is where he should be." This is an undeniable fact.
 Caterpillar: Making someone as straightforward as him "certain" of an undeniable fact isn't exactly hard.
 Caterpillar: The purer a person is, the more easily they tend to be influenced by others' words.
 Caterpillar: I've been here for a long time, as you know. After staying in one place for a long time, it's only natural to pick up a few handy tricks to exert some degree of influence over your environment.
-    Option 1:
-        Traveler: Almost too handy, I'd say.
-    Option 2:
-        Traveler: Sounds a little suspicious...
+
+Option 1:
+
+> Traveler: Almost too handy, I'd say.
+
+Option 2:
+
+> Traveler: Sounds a little suspicious...
+
 Paimon: Changing a stubborn person's mind with just a few simple phrases almost sounds like magic... Could there have been times when we were also influenced by magic without even knowing it?
-    Option 1:
-        Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
-        Paimon: #You too, Traveler! Wait a minute... You're not saying Paimon's gullible, are you?
-    Option 2:
-        Traveler: Would someone even realize that they're being influenced?
-        Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
+
+Option 1:
+
+> Traveler: Considering how pure-hearted you are, Paimon, that is a worrying thought.
+> Paimon: #You too, Traveler! Wait a minute... You're not saying Paimon's gullible, are you?
+
+Option 2:
+
+> Traveler: Would someone even realize that they're being influenced?
+> Paimon: Hmm... Paimon was already a bit sleepy, but now her head is totally spinning...
+
 Caterpillar: It's not as simple as it looks — there are always limits to the application of tricks like these, and the results aren't always what you'd hoped for.
 Caterpillar: Once, there was an overly-trusting kid who wanted to progress in the arts. He always had a knack for it, but he lacked confidence because of his visual impairment.
 Caterpillar: The "certainty" that he could draw well was inside him to begin with. That's why I didn't turn him away when he came to me for help. Things didn't go quite as I expected in the end, of course, but...
 Caterpillar: I did take a chance this time. I just thought that if he held us up here, it would keep delaying the plan to get Lanoire out of the Fortress.
 Caterpillar: Besides, I doubt you wanted to be questioned by him repeatedly either.
-    Option 1:
-        Traveler: You shouldn't take chances like that.
-    Option 2:
-        Traveler: Well, you've got to take chances to achieve your goals.
+
+Option 1:
+
+> Traveler: You shouldn't take chances like that.
+
+Option 2:
+
+> Traveler: Well, you've got to take chances to achieve your goals.
+
 Caterpillar: You're absolutely right.
 Caterpillar: Back to the matter at hand... If you've changed your mind and want to back out, I understand completely. Lanoire might be sad for a time though. For her, playmates like you are hard to come by.
 Paimon: Hmm... We've already made a promise to her, so we can't just go back on our word now. Right?
-    Option 1:
-        Traveler: A promise is a promise.
-        Paimon: Yeah. Consider this our way of helping her out!
-    Option 2:
-        Traveler: This doesn't mean I trust you.
-        Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
+
+Option 1:
+
+> Traveler: A promise is a promise.
+> Paimon: Yeah. Consider this our way of helping her out!
+
+Option 2:
+
+> Traveler: This doesn't mean I trust you.
+> Caterpillar: Of course. Knowing that our goals are aligned for the time being is enough.
+
 Paimon: Speaking of which, where is she?
 Caterpillar: She went on an adventure early this morning — probably to rehearse for what's to come after she leaves this place. It's just as well, I have a few headaches to go take care of soon...
 Caterpillar: You can usually get a reward for helping others — including the guards — take care of some headaches.
@@ -1021,10 +1236,15 @@ Caterpillar: The abandoned production zone in the lower levels.
 (Obtain Credit Coupons)
 
 Alvard: Welcome to the Rag and Bone Shop! We have everything... Oops, we don't have anything right now.
-    Option 1:
-        Traveler: I need to buy something.
-    Option 2:
-        Traveler: I'm done.
+
+Option 1:
+
+> Traveler: I need to buy something.
+
+Option 2:
+
+> Traveler: I'm done.
+
 Alvard: We'll get a new shipment soon. Don't forget to come back!
 
 ## Talk 34 (alternative/additional)
@@ -1032,12 +1252,17 @@ Alvard: We'll get a new shipment soon. Don't forget to come back!
 (Obtain Credit Coupons)
 
 Rave: Did you need me for something?
-    Option 1:
-        Traveler: Nice weather we're having today.
-        Rave: #Indeed, we only get the occasional bit of rainfall each year.
-    Option 2:
-        Traveler: Nothing, sorry to bother you.
-        Rave: Have a nice day, then.
+
+Option 1:
+
+> Traveler: Nice weather we're having today.
+> Rave: #Indeed, we only get the occasional bit of rainfall each year.
+
+Option 2:
+
+> Traveler: Nothing, sorry to bother you.
+> Rave: Have a nice day, then.
+
 
 ## Talk 34 (alternative/additional)
 
@@ -1089,17 +1314,22 @@ Caterpillar: No matter. All that counts is the total number of Coupons collected
 Lanoire: That means you can eat even more, Ms. Paimon!
 Paimon: Lanoire... Our problem right now is that we're about to lose the competition! Aren't you guys the least bit worried?
 Caterpillar: There's still plenty of time left before the end. We'll make it.
-    Option 1:
-        Traveler: Today was exhausting. Let's keep going tomorrow.
-        Lanoire: #Are you tired, Mr. Traveler? Let me rub your shoulders!
-        Paimon: That's playing favorites, Lanoire! Paimon's tired, too!
-        Lanoire: Okay, then I'll rub your shoulders, too.
-        Paimon: Hehe, okay!
-    Option 2:
-        Traveler: We're going to take the lead straight from last place. Hehe, now I'm motivated.
-        Paimon: That does like your typical motivational story, sure... But can we really pull it off?
-        Lanoire: You have to believe in yourself more, Ms. Paimon! The heroes of the story are all sure of themselves. That's why they're the main characters.
-        Paimon: Hmm... You're right, Lanoire! We're gonna win this thing!
+
+Option 1:
+
+> Traveler: Today was exhausting. Let's keep going tomorrow.
+> Lanoire: #Are you tired, Mr. Traveler? Let me rub your shoulders!
+> Paimon: That's playing favorites, Lanoire! Paimon's tired, too!
+> Lanoire: Okay, then I'll rub your shoulders, too.
+> Paimon: Hehe, okay!
+
+Option 2:
+
+> Traveler: We're going to take the lead straight from last place. Hehe, now I'm motivated.
+> Paimon: That does like your typical motivational story, sure... But can we really pull it off?
+> Lanoire: You have to believe in yourself more, Ms. Paimon! The heroes of the story are all sure of themselves. That's why they're the main characters.
+> Paimon: Hmm... You're right, Lanoire! We're gonna win this thing!
+
 Caterpillar: Tomorrow, we divide and conquer. We'll reconvene here once we make some gains. Sound good? We'll make better time this way.
 Paimon: Indeed... That sounds like a better plan.
 Caterpillar: Also, if you don't mind, we can rest here, just like before.
@@ -1143,12 +1373,17 @@ Black Screen Text: "Did the little girl decide to help the witch? Hmm... I bet s
 (Obtain Credit Coupons)
 
 Estienne: Phew, this is tough work.
-    Option 1:
-        Traveler: Keep up the good work.
-        Estienne: Haha, you guys, too.
-    Option 2:
-        Traveler: Aren't you just standing there?
-        Estienne: Mental labor is still labor, isn't it? But the scary thing is that, as an imperceptible form of labor, there's no way to determine its value.
+
+Option 1:
+
+> Traveler: Keep up the good work.
+> Estienne: Haha, you guys, too.
+
+Option 2:
+
+> Traveler: Aren't you just standing there?
+> Estienne: Mental labor is still labor, isn't it? But the scary thing is that, as an imperceptible form of labor, there's no way to determine its value.
+
 
 ## Talk 38 (alternative/additional)
 
@@ -1183,29 +1418,46 @@ Genevieve: Oh, nothing. I was just lamenting how many familiar faces from the Fo
 (Talk to Rave)
 
 Rave: Having fun playing house with the kids?
-    Option 1:
-        Traveler: You are?
-        Rave: I believe we've met.
-    Option 2:
-        Traveler: It is pretty fun, to be honest.
-        Rave: Looks like Estienne really should hold a children's version.
-    Option 3:
-        Traveler: Not really...
-        Rave: Just as I thought.
+
+Option 1:
+
+> Traveler: You are?
+> Rave: I believe we've met.
+
+Option 2:
+
+> Traveler: It is pretty fun, to be honest.
+> Rave: Looks like Estienne really should hold a children's version.
+
+Option 3:
+
+> Traveler: Not really...
+> Rave: Just as I thought.
+
 Paimon: Did you need us for something? We're rivals, you know. Did you really come to see if we're having a good time?
 Rave: I have many qualities, and one that has benefited me greatly is my curiosity.
 Rave: I always want to get to the bottom of things I don't understand, so I tend to know the facts better than others.
-    Option 1:
-        Traveler: What a coincidence. Me too.
-        Rave: Looks like we'll enjoy talking to each other then.
-    Option 2:
-        Traveler: Get to the point.
+
+Option 1:
+
+> Traveler: What a coincidence. Me too.
+> Rave: Looks like we'll enjoy talking to each other then.
+
+Option 2:
+
+> Traveler: Get to the point.
+
 Rave: I just wanted to know why you decided to take part in this game.
 Rave: If it was for the chance to get out, I have another route that I can show you...
-    Option 1:
-        Traveler: I like playing games, and I like winning even more.
-    Option 2:
-        Traveler: I have nothing to say to a competitor.
+
+Option 1:
+
+> Traveler: I like playing games, and I like winning even more.
+
+Option 2:
+
+> Traveler: I have nothing to say to a competitor.
+
 Rave: #Remaining vigilant around your enemies is wise, but I'm not necessarily your enemy.
 Paimon: What do you mean by that?
 Rave: What I mean is, if you only want to win, then why don't we work together?
@@ -1239,11 +1491,16 @@ Paimon: Dang it! We only just pulled ahead of Darcy...
 Lanoire: That's great! We're not in last place anymore!
 Paimon: But there are four of us...
 Lanoire: Yeah, and we're doing great!
-    Option 1:
-        Traveler: Such positivity.
-        Paimon: But are we really gonna be okay like this? We still have two big hurdles ahead of us...
-    Option 2:
-        Traveler: Ugh, we're doomed.
+
+Option 1:
+
+> Traveler: Such positivity.
+> Paimon: But are we really gonna be okay like this? We still have two big hurdles ahead of us...
+
+Option 2:
+
+> Traveler: Ugh, we're doomed.
+
 Lanoire: You promised me we'd win for sure, right, Cater?
 Caterpillar: That's right. So, don't worry too much, you two. I know that may sound strange, but...
 Caterpillar: Sometimes forgetting about the outcome and enjoying the fun to be had in the process isn't a bad way to go.
@@ -1300,12 +1557,17 @@ Black Screen Text: "Huh? Then the little girl couldn't go back? I'm glad the wit
 (Obtain Credit Coupons)
 
 Rave: You shouldn't have turned down my offer.
-    Option 1:
-        Traveler: I don't regret my decision.
-        Rave: I hope you'll be able to stick to your convictions until the end then.
-    Option 2:
-        Traveler: Is it too late to back out, then?
-        Rave: Opportunities like that only come around once. That's something you should understand.
+
+Option 1:
+
+> Traveler: I don't regret my decision.
+> Rave: I hope you'll be able to stick to your convictions until the end then.
+
+Option 2:
+
+> Traveler: Is it too late to back out, then?
+> Rave: Opportunities like that only come around once. That's something you should understand.
+
 
 ## Talk 44 (alternative/additional)
 
@@ -1323,13 +1585,18 @@ Delassaux: I said I've got nothing.
 (Obtain Credit Coupons)
 
 Poiret: Guess I only have myself to rely on in the end.
-    Option 1:
-        Traveler: Of course. Who else?
-        Poiret: Humans are lonely creatures, don't you think?
-    Option 2:
-        Traveler: Why this, all of a sudden?
-        Poiret: I tried to rely on others, and it didn't work out.
-        Poiret: I suppose that's to be expected. Good thing I always have a Plan B, so I'm not completely out of options.
+
+Option 1:
+
+> Traveler: Of course. Who else?
+> Poiret: Humans are lonely creatures, don't you think?
+
+Option 2:
+
+> Traveler: Why this, all of a sudden?
+> Poiret: I tried to rely on others, and it didn't work out.
+> Poiret: I suppose that's to be expected. Good thing I always have a Plan B, so I'm not completely out of options.
+
 
 ## Objective 44
 
@@ -1346,11 +1613,16 @@ Poiret: Guess I only have myself to rely on in the end.
 (Talk to Genevieve)
 
 Genevieve: Hello...
-    Option 1:
-        Traveler: Wow, we sure are popular.
-        Paimon: Paimon's getting deja vu... Did you need us for something?
-    Option 2:
-        Traveler: Let's be direct, shall we?
+
+Option 1:
+
+> Traveler: Wow, we sure are popular.
+> Paimon: Paimon's getting deja vu... Did you need us for something?
+
+Option 2:
+
+> Traveler: Let's be direct, shall we?
+
 Genevieve: Alright. I'm hoping you'll join us in launching a protest against Estienne.
 Paimon: Huh?
 Genevieve: Since you're taking part in this game as well, I think you'll understand my position. The rules should be more open and transparent...
@@ -1359,12 +1631,17 @@ Genevieve: The competition should restart with the new rules in place.
 Paimon: What!? Wouldn't that make all the hard work we've done so far be for nothing?
 Genevieve: What's so crazy about that? It happens all the time in academia — you realize that there's an error in your thesis or methodology, and it completely invalidates the conclusion you arrived at after years of research.
 Paimon: Pretty sure that's nothing like this...
-    Option 1:
-        Traveler: Maybe for the next time he runs the game... Just play it as it is this time around.
-        Genevieve: Indeed. Iterating and improving the rules will take time. We may not be able to get them implemented until the next time the game is held...
-        Genevieve: No, I need this game to be fair. To me, delayed fairness is a pointless loss. I've lost so much time already because of this...
-    Option 2:
-        Traveler: I'm busy, find someone else.
+
+Option 1:
+
+> Traveler: Maybe for the next time he runs the game... Just play it as it is this time around.
+> Genevieve: Indeed. Iterating and improving the rules will take time. We may not be able to get them implemented until the next time the game is held...
+> Genevieve: No, I need this game to be fair. To me, delayed fairness is a pointless loss. I've lost so much time already because of this...
+
+Option 2:
+
+> Traveler: I'm busy, find someone else.
+
 Paimon: Hmm... Paimon thinks you have the right idea, but... but this isn't a decision that can be made by just us, right? Maybe you could go ask the others as well...
 Genevieve: Estienne will only change the subject, and as for Rave... You kids had better keep your guard up around him.
 Paimon: "Us kids..."? Hmm, that kinda grinds Paimon's gears, but maybe that really is how other people see us...
@@ -1384,12 +1661,17 @@ Paimon: O—Okay. Paimon also hopes that your luck improves...
 
 Paimon: Wh—What's that guard doing here...?
 Noailles: Just who I was looking for.
-    Option 1:
-        Traveler: We were just leaving.
-        Noailles: Hang on. I'd like you to answer a few questions first.
-    Option 2:
-        Traveler: Did something happen?
-        Noailles: The investigation is ongoing, so I can't disclose any specifics to you. However, I'd like you to answer a few of my questions.
+
+Option 1:
+
+> Traveler: We were just leaving.
+> Noailles: Hang on. I'd like you to answer a few questions first.
+
+Option 2:
+
+> Traveler: Did something happen?
+> Noailles: The investigation is ongoing, so I can't disclose any specifics to you. However, I'd like you to answer a few of my questions.
+
 Noailles: As you probably know, the missing records need to be recreated. This isn't necessarily bad news for him, but without those records, he won't be able to leave this place even if he has legally redeemed himself.
 Noailles: As such, I hope you can answer my questions honestly.
 Noailles: Do you know when Caterpillar arrived in the Fortress of Meropide?
@@ -1399,27 +1681,39 @@ Paimon: No, we don't...
 Noailles: Do you know anything about this "master" he mentioned earlier?
 Paimon: Paimon doesn't remember Caterpillar mentioning him before...
 Noailles: Have either of you observed anything peculiar happen while speaking to him?
-    Option 1:
-        Traveler: Not so far.
-        Noailles: Not so far? Okay then.
-    Option 2:
-        Traveler: The stories he tells have a rather hypnotic effect...
-        Noailles: Hypnotic? What stories? What are they about?
-        Paimon: Th—They're just children's fairytales, they're not about anything important.
-        Noailles: Well, children like you shouldn't even be here to begin with. If you end up leaving this place, I hope you don't come back.
-        Paimon: ...Huh? O—Okay.
-    Option 3:
-        Traveler: Not so far.
-        Noailles: Not so far? Okay then.
+
+Option 1:
+
+> Traveler: Not so far.
+> Noailles: Not so far? Okay then.
+
+Option 2:
+
+> Traveler: The stories he tells have a rather hypnotic effect...
+> Noailles: Hypnotic? What stories? What are they about?
+> Paimon: Th—They're just children's fairytales, they're not about anything important.
+> Noailles: Well, children like you shouldn't even be here to begin with. If you end up leaving this place, I hope you don't come back.
+> Paimon: ...Huh? O—Okay.
+
+Option 3:
+
+> Traveler: Not so far.
+> Noailles: Not so far? Okay then.
+
 Noailles: That's enough questions for today. It doesn't seem like you know very much, but if you do notice anything strange, make sure to report it at once. It's for your own good.
 Black Screen Text: Noailles leaves...
 Paimon: Looks like we don't know much about Caterpillar after all... But if he doesn't want to talk about his crime or sentence or anything like that, Paimon thinks we'd better not press him.
-    Option 1:
-        Traveler: I'm not really concerned about any of that.
-        Paimon: Well, he didn't ask much about our pasts either.
-    Option 2:
-        Traveler: He does seem a little suspicious...
-        Paimon: Suspicious, huh... Well, he is kinda mysterious...
+
+Option 1:
+
+> Traveler: I'm not really concerned about any of that.
+> Paimon: Well, he didn't ask much about our pasts either.
+
+Option 2:
+
+> Traveler: He does seem a little suspicious...
+> Paimon: Suspicious, huh... Well, he is kinda mysterious...
+
 Paimon: But whatever the case, he's doing a good deed right now, isn't he?
 Paimon: Lanoire seems to really trust him as well... So he's probably not a bad guy... at least for now, right?
 Traveler: You can never go wrong with a little caution.
@@ -1439,12 +1733,17 @@ Lanoire: We're gonna lose? But if we lose, we can all stay here in the Fortress,
 Caterpillar: We've talked about this before, Lanoire. If we stay here, we'll have to worry each day about being taken away by evil sorcerers.
 Lanoire: Oh... then I guess it would be better to leave. But... But Ms. Paimon said we're definitely gonna lose...
 Paimon: W—We're not gonna lose! The game's not over yet, there's still enough time. We're gonna win this!
-    Option 1:
-        Traveler: If we don't win this time, there's always next time.
-        Paimon: #Don't be such a wet blanket, Traveler! Have some faith. We can definitely win this time!
-    Option 2:
-        Traveler: An underdog victory would be more exciting.
-        Paimon: The fact of the matter is, there are only two teams ahead of us. We've got nothing to worry about!
+
+Option 1:
+
+> Traveler: If we don't win this time, there's always next time.
+> Paimon: #Don't be such a wet blanket, Traveler! Have some faith. We can definitely win this time!
+
+Option 2:
+
+> Traveler: An underdog victory would be more exciting.
+> Paimon: The fact of the matter is, there are only two teams ahead of us. We've got nothing to worry about!
+
 Caterpillar: There isn't much time left until the deadline Estienne set. Let's just meet at the message board in the administrative area next time.
 Paimon: Ohh, there isn't much time left until the final results are announced, is there... Paimon has a feeling she's gonna toss and turn in bed tonight...
 Lanoire: You can tell me in secret if you feel scared, Ms. Paimon.
@@ -1556,21 +1855,31 @@ Caterpillar: It's a trick even simpler than magic.
 Caterpillar: I used the Coupons I'd saved up in the past to hire a bunch of people to help me work. What we have now is the product of their work this whole time. And I believe this falls within the rules, too.
 Genevieve: Even if it does, that's an insane amount...
 Caterpillar: I also have my reasons for needing to win, and I'd even gotten help from my two friends. It would be a real shame if we lost now.
-    Option 1:
-        Traveler: So this wasn't about honor?
-        Caterpillar: Vanity, perhaps.
-    Option 2:
-        Traveler: I think it's time to announce the final results.
+
+Option 1:
+
+> Traveler: So this wasn't about honor?
+> Caterpillar: Vanity, perhaps.
+
+Option 2:
+
+> Traveler: I think it's time to announce the final results.
+
 Estienne: #Since everything's been tallied, it's time to announce the final results. The winners of this game are Caterpillar, Mr. Traveler, and Ms. Paimon.
 Estienne: No objections, I take it?
 Genevieve: There's nothing I can say, except that it looks like I picked a fight with the wrong opponent. I ended up in here last time for striking someone in anger. I won't make the same mistake this time.
 Rave: ...You'll pay the price for the choices you made.
 Paimon: Whoa, Paimon didn't expect to hear someone actually say that.
-    Option 1:
-        Traveler: Pretty cliche, if you ask me.
-    Option 2:
-        Traveler: "We'll see about that! You'll seeee!"
-        Paimon: That's even more cliche!
+
+Option 1:
+
+> Traveler: Pretty cliche, if you ask me.
+
+Option 2:
+
+> Traveler: "We'll see about that! You'll seeee!"
+> Paimon: That's even more cliche!
+
 Estienne: Is everyone ready? If so, let's set off now.
 Estienne: Let's do this before Noailles gets back. I hope he can understand that his thinking isn't wrong, but that it's just not suited for a place like this.
 Caterpillar: You're ready, aren't you, Lanoire?

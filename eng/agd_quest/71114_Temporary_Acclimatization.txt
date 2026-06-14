@@ -21,16 +21,26 @@ Traveler: So, about the favor you'd like to ask of us...
 Woliu: Ah, that... Well, it's really a small thing. I'd like to request that you help me place these monitoring instruments on that mountain.
 Woliu: I have just ordered these mechanical instruments from Fontaine. Once placed, they will continuously bore down through the earth until they've obtained the deep soil samples that I require.
 Woliu: With those samples, I'll be able to measure the influence the local hydrology has had on the soil quality of the nearby mountains.
-    Option 1:
-        Traveler: That sounds straightforward enough.
-    Option 2:
-        Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.
+
+Option 1:
+
+> Traveler: That sounds straightforward enough.
+
+Option 2:
+
+> Unknown Role (TALK_ROLE_NPC): It's been a while since we got such a simple commission.
+
 Woliu: If that's... what you think. I've been meaning to hire a few adventurers for the task, but no one has accepted my commission so far, and I've heard that there are a lot of Treasure Hoarders in the area...
 Woliu: But judging from your looks, you're not at all scared of those bullies, are you?
-    Option 1:
-        Traveler: Just leave them to me.
-    Option 2:
-        Traveler: If they're smart, they should be scared of me.
+
+Option 1:
+
+> Traveler: Just leave them to me.
+
+Option 2:
+
+> Traveler: If they're smart, they should be scared of me.
+
 Woliu: Then, I leave the placement of the instruments to you. All you need is to place them on the nearby hill.
 Woliu: I still need to stay here to adjust some more instruments. Just come back to me once you've placed the batch that I've given you.
 
@@ -102,10 +112,15 @@ Ms. Qiu: So! I made the executive decision to put a pause on our studies and com
 Yifeng: ...Well, and because we'd just about run out of funds.
 Ms. Qiu: H—Hey, haven't I told you about my plan already? As long as this documentary becomes a smash hit, we'll make our investment back in no time.
 Yifeng: #Well, and then we found ourselves cornered by Treasure Hoarders on a drawbridge. Thankfully, the great Traveler came to save us.
-    Option 1:
-        Traveler: Isn't this place... a bit far from Qiaoying Village?
-    Option 2:
-        Traveler: But why are you here if you want to photograph Qiaoying Village?
+
+Option 1:
+
+> Traveler: Isn't this place... a bit far from Qiaoying Village?
+
+Option 2:
+
+> Traveler: But why are you here if you want to photograph Qiaoying Village?
+
 Ms. Qiu: *sigh* Well, I wanted to get some majestic shots of the scenery, so the film would look a bit more imposing...
 Ms. Qiu: But we got a bit too distracted while shooting and caught the attention of those Treasure Hoarders. We fled all the way here but were still cornered by them in the end...
 Paimon: Wait, so the "pro photographers" Woliu mentioned earlier were...
@@ -142,10 +157,15 @@ Woliu: I hope Ms. Qiu will be able to shoot the film of her dreams while ensurin
 (Go to Qiaoying Village and look for Ms. Qiu)
 
 Ms. Qiu: *sigh* Maybe we should've grabbed the Qiaoying Village shots first after all...
-    Option 1:
-        Traveler: Is everything okay?
-    Option 2:
-        Traveler: Looks like you didn't lose any equipment, at least.
+
+Option 1:
+
+> Traveler: Is everything okay?
+
+Option 2:
+
+> Traveler: Looks like you didn't lose any equipment, at least.
+
 Ms. Qiu: #Ah, Traveler, Paimon! Thanks to you, we were able to save all of our stuff.
 Ms. Qiu: I suppose, though, that if we were to ever return to that area in the future, we shall have to bring a few adventurers with us.
 Paimon: So, um, about your feature film on tea... How is the shooting for that going?

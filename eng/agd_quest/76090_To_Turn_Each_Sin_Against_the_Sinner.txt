@@ -29,13 +29,18 @@ Paimon: Huh? The seal on the swamp? What's that?
 ??? (Janusz): Anyway, that's all an outsider needs to know. Please, deliver my request. It's still dangerous around here, so you'd better get moving.
 ??? (Janusz): I just need a little more time to catch my breath. I still have tasks I need to attend to.
 Paimon: But Janusz... Your condition...
-    Option 1:
-        Traveler: If it's about fixing the seal, maybe we can help?
-        Paimon: Yeah! Breaking seals, fixing seals — we're all about that seal life!
-    Option 2:
-        Traveler: There's no way we're leaving you here.
-        Paimon: Right... If we head to Piramida now to get reinforcements, it's going to take ages. And by the time they arrive... you and Oskari, well...
-        Paimon: Ugh! We can't just leave you here! And besides, we're pretty experienced when it comes to sealing away monsters!
+
+Option 1:
+
+> Traveler: If it's about fixing the seal, maybe we can help?
+> Paimon: Yeah! Breaking seals, fixing seals — we're all about that seal life!
+
+Option 2:
+
+> Traveler: There's no way we're leaving you here.
+> Paimon: Right... If we head to Piramida now to get reinforcements, it's going to take ages. And by the time they arrive... you and Oskari, well...
+> Paimon: Ugh! We can't just leave you here! And besides, we're pretty experienced when it comes to sealing away monsters!
+
 ??? (Janusz): ...Really? For some reason, I get the feeling you're not making that up...
 ??? (Janusz): Hmm... The situation here might be far more dangerous than you imagine. Even so...
 Traveler: Even so...
@@ -83,13 +88,18 @@ Paimon: #We're not quite the "outsiders" you think, hehe. Traveler and I are alr
 ??? (Janusz): Still, since you're "insiders," I guess I can rest easy leaving the request for reinforcements in your hands.
 ??? (Janusz): I just need a little more time to catch my breath. I still have tasks I need to attend to.
 Paimon: But Janusz... Your condition...
-    Option 1:
-        Traveler: If it's about fixing the seal, maybe we can help?
-        Paimon: Yeah! Breaking seals, fixing seals — we're all about that seal life!
-    Option 2:
-        Traveler: There's no way we're leaving you here.
-        Paimon: Right... If we head to Piramida now to get reinforcements, it's going to take ages. And by the time they arrive... you and Oskari, well...
-        Paimon: You said it yourself — leaving a comrade behind isn't the Lightkeeper way! Besides, we're pretty experienced when it comes to sealing away monsters!
+
+Option 1:
+
+> Traveler: If it's about fixing the seal, maybe we can help?
+> Paimon: Yeah! Breaking seals, fixing seals — we're all about that seal life!
+
+Option 2:
+
+> Traveler: There's no way we're leaving you here.
+> Paimon: Right... If we head to Piramida now to get reinforcements, it's going to take ages. And by the time they arrive... you and Oskari, well...
+> Paimon: You said it yourself — leaving a comrade behind isn't the Lightkeeper way! Besides, we're pretty experienced when it comes to sealing away monsters!
+
 ??? (Janusz): Hmm... The situation here might be far more dangerous than you imagine. Even so...
 Traveler: Even so...
 Paimon: ...Just one question — can we really re-establish this seal? Didn't it take the Torchforger and the Moonchanter working together to create it in the first place?
@@ -226,10 +236,15 @@ Paimon: Wait a second! Janusz, are you not still injured?
 ???: What's the rush? Didn't I tell you? Impatience is a rookie mistake.
 ???: But Master, you also told me, "Acting tough is a fool's mistake!"
 ???: ...
-    Option 1:
-        Traveler: It seems like a fool's mistake is worse...
-    Option 2:
-        Traveler: The only hand that can fell a master... is his own.
+
+Option 1:
+
+> Traveler: It seems like a fool's mistake is worse...
+
+Option 2:
+
+> Traveler: The only hand that can fell a master... is his own.
+
 ???: #Hey! You're taking his side? Come on, Traveler, we've still got too much left to do!
 ???: We need to check the seal, investigate the area for anything unusual — we can't leave yet. Besides, you're seriously underestimating me, I'm Janusz, the— ow, ow, ow!
 ???: Master...
@@ -256,28 +271,37 @@ Paimon: Hehe, one big bad guy down, and two honest compliments earned. Paimon co
 ### Additional Talk 2
 
 ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
-    Option 1:
-        Traveler: About the Serpent of All Evils...
-        ???: Huh? Are you asking about when that monster was still human? That was over five hundred years ago.
-        ???: Back then, under the Belyi Tsar, most of Snezhnaya's power was still in the hands of the fae nobility. He was one of the few humans to make it into politics.
-        ???: Things went downhill the moment he became a disciple of Professor Rotwang.
-        ???: Under Rotwang's influence, he used coercion, entrapment, even murder to sideline his master's political opponents.
-        ???: Rotwang's rise to power would have been impossible without him. Seeing what he's now become, maybe it's simple retribution for all that he did.
-        ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
-        [Circling back to a pre-branch dialog]
-    Option 2:
-        Traveler: About the monster in the swamp...
-        ???: You want to know how someone from five centuries ago could turn into a monster like that and then end up in this swamp? I've spent no small time investigating those very questions — but I've never found a definitive answer.
-        ???: My guess is that he came here after Rotwang fell from power... But as to how he was sealed away... none of the texts I've searched record such details.
-        ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
-        [Circling back to a pre-branch dialog]
-    Option 3:
-        Traveler: About the Frostmoon Scions' seal...
-        ???: The seal has remained stable for the last five hundred years. Even so, we Lightkeepers still check on it regularly — just in case.
-        ???: I didn't think this patrol would be any different from the others... Master...
-        ???: *sigh* I just hope he's safe.
-        ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
-        [Circling back to a pre-branch dialog]
-    Option 4:
+
+Option 1:
+
+> Traveler: About the Serpent of All Evils...
+> ???: Huh? Are you asking about when that monster was still human? That was over five hundred years ago.
+> ???: Back then, under the Belyi Tsar, most of Snezhnaya's power was still in the hands of the fae nobility. He was one of the few humans to make it into politics.
+> ???: Things went downhill the moment he became a disciple of Professor Rotwang.
+> ???: Under Rotwang's influence, he used coercion, entrapment, even murder to sideline his master's political opponents.
+> ???: Rotwang's rise to power would have been impossible without him. Seeing what he's now become, maybe it's simple retribution for all that he did.
+> ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+> Traveler: About the monster in the swamp...
+> ???: You want to know how someone from five centuries ago could turn into a monster like that and then end up in this swamp? I've spent no small time investigating those very questions — but I've never found a definitive answer.
+> ???: My guess is that he came here after Rotwang fell from power... But as to how he was sealed away... none of the texts I've searched record such details.
+> ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
+> [Circling back to a pre-branch dialog]
+
+Option 3:
+
+> Traveler: About the Frostmoon Scions' seal...
+> ???: The seal has remained stable for the last five hundred years. Even so, we Lightkeepers still check on it regularly — just in case.
+> ???: I didn't think this patrol would be any different from the others... Master...
+> ???: *sigh* I just hope he's safe.
+> ???: I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
+> [Circling back to a pre-branch dialog]
+
+Option 4:
+
+
 Traveler: Thanks. You stay safe now!
 ???: I should be the one saying that to you! The deeper parts of this swamp are even more dangerous. I truly hope you don't run into trouble...

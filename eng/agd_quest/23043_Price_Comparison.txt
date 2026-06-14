@@ -17,21 +17,31 @@ Azalai: One way or another, my business costs are slowly rising. To make ends me
 Azalai: Thankfully, the people of this village understand my predicament and are willing to support my business, otherwise... I would've gone bankrupt a long time ago.
 Azalai: But, alas... I can't find anyone who's planning to leave the village, and Raef and his crew aren't always available...
 Azalai: If I'm unlucky, some low-volume goods may be out of stock soon...
-    Option 1:
-        Traveler: And those goods are...
-        Azalai: They are all daily essentials. Even though I'm usually quick to source them, they sell even quicker.
-        Azalai: I'm running a small business, so I can't always buy large volumes.
-    Option 2:
-        Traveler: If only you could find a long-term business partner...
-        Azalai: It's not like I haven't considered that, but look around you.
-        Azalai: Shipping goods into the village and running business here aren't exactly easy.
+
+Option 1:
+
+> Traveler: And those goods are...
+> Azalai: They are all daily essentials. Even though I'm usually quick to source them, they sell even quicker.
+> Azalai: I'm running a small business, so I can't always buy large volumes.
+
+Option 2:
+
+> Traveler: If only you could find a long-term business partner...
+> Azalai: It's not like I haven't considered that, but look around you.
+> Azalai: Shipping goods into the village and running business here aren't exactly easy.
+
 Azalai: Ahem... that's a topic for another day. Traveler, perhaps you are getting ready to leave the village?
 Azalai: I've been wanting to source some spices and need someone to place an order for me... Could you assist me with this?
-    Option 1:
-        Traveler: Leave it to me.
-    Option 2:
-        Traveler: So spices are out of stock in your store?
-        Azalai: I wouldn't say we've run out completely... but given how big the sales volumes are, it's always better to have some more in stock.
+
+Option 1:
+
+> Traveler: Leave it to me.
+
+Option 2:
+
+> Traveler: So spices are out of stock in your store?
+> Azalai: I wouldn't say we've run out completely... but given how big the sales volumes are, it's always better to have some more in stock.
+
 Azalai: Let me see... *Rama's* spices are fairly priced and the quality is... serviceable.
 Azalai: *Jut* has recently got his hands on some novelty spices — the quality's quite promising. I'd like to give them a shot, just to see if there's any demand, but I'm not sure about the price point...
 Azalai: But my budget for this purchase is limited, so deciding which supplier to choose isn't going to be easy...
@@ -39,12 +49,17 @@ Azalai: Traveler, please check out both suppliers and pick one to place an order
 Azalai: Oh, one more thing. Whenever I commissioned someone to place an order for me in the past, I'd ask them to look for a relatively cheap price point.
 Azalai: I'd like you to do the same. Please remember to look for the cheaper supplier.
 Azalai: The business strategy that's been working in Aaru Village so far is "selling more at a lower profit margin."
-    Option 1:
-        Traveler: I'll check out what *Rama* has to offer first...
-        Azalai: Thank you in advance. I'll mark her location on the map for you.
-    Option 2:
-        Traveler: I'll check out what *Jut* has to offer first...
-        Azalai: Thank you in advance. I'll mark his location on the map for you.
+
+Option 1:
+
+> Traveler: I'll check out what *Rama* has to offer first...
+> Azalai: Thank you in advance. I'll mark her location on the map for you.
+
+Option 2:
+
+> Traveler: I'll check out what *Jut* has to offer first...
+> Azalai: Thank you in advance. I'll mark his location on the map for you.
+
 Azalai: Alright, come back anytime if you have any additional questions.
 
 ## Objective 2
@@ -62,12 +77,17 @@ Azalai: Alright, come back anytime if you have any additional questions.
 (Learn about the situation from Jut)
 
 Azalai: How did it go? Have you placed an order yet?
-    Option 1:
-        Traveler: About *Rama's* location...
-        Azalai: You can't find her exact location? Okay... I'll mark that spot on the map for you.
-    Option 2:
-        Traveler: About *Jut's* location...
-        Azalai: You can't find his exact location? Okay... I'll mark that spot on the map for you.
+
+Option 1:
+
+> Traveler: About *Rama's* location...
+> Azalai: You can't find her exact location? Okay... I'll mark that spot on the map for you.
+
+Option 2:
+
+> Traveler: About *Jut's* location...
+> Azalai: You can't find his exact location? Okay... I'll mark that spot on the map for you.
+
 Azalai: You should be good to go now. I'm counting on you, Traveler.
 
 ## Talk 5 (alternative/additional)
@@ -81,24 +101,34 @@ Rama: It's just that he used to ask the Eremites to source his goods, and this t
 Rama: Ahem! What's his budget today? Let's see... Ooh, quite a bit.
 Rama: Uh, if you place an order at my store, the spices supplied by me should last him for a long while.
 Rama: As for the selling price... Just like before, I suggest setting a slightly lower price point. That's an easy way to boost sales.
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Rama: Oh! Thanks for your patronage! Please wait a moment while I make preparations and arrange delivery.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Rama: Okay... Come back and tell me if you change your mind.
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Rama: Oh! Thanks for your patronage! Please wait a moment while I make preparations and arrange delivery.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Rama: Okay... Come back and tell me if you change your mind.
+
 
 ## Talk 5 (alternative/additional)
 
 (Learn about the situation from Jut)
 
 Rama: Made up your mind yet? Want to place your order with me?
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Rama: Thanks for your patronage! Please wait a moment while I make preparations and arrange delivery.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Rama: Alright. But hurry up, please. If you wait too long, I may be out of stock.
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Rama: Thanks for your patronage! Please wait a moment while I make preparations and arrange delivery.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Rama: Alright. But hurry up, please. If you wait too long, I may be out of stock.
+
 
 ## Talk 5 (alternative/additional)
 
@@ -112,24 +142,34 @@ Jut: From what I gathered about business in Aaru Village... I'd say that "sellin
 Jut: Simply put, it's about selling goods of passable quality for a relatively low price, and selling large quantities fast as a way to make a quick return on the invested capital.
 Jut: Conversely, if he tries to sell expensive high-quality goods in Aaru Village, the return will be slow.
 Jut: But this is just my opinion. It's up to him what kind of goods he decides to sell.
-    Option 1:
-        Traveler: I'd like to order from you.
-        Jut: Alright. I'll go prepare the goods then.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Jut: All good. If you still want to order from me, feel free to come back anytime.
+
+Option 1:
+
+> Traveler: I'd like to order from you.
+> Jut: Alright. I'll go prepare the goods then.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Jut: All good. If you still want to order from me, feel free to come back anytime.
+
 
 ## Talk 5 (alternative/additional)
 
 (Learn about the situation from Jut)
 
 Jut: How's it going? Made up your mind yet?
-    Option 1:
-        Traveler: I'd like to order from you.
-        Jut: Alright. I'll go prepare the goods then.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Jut: I understand. We're talking about no small sums. Careful consideration is highly advised, indeed.
+
+Option 1:
+
+> Traveler: I'd like to order from you.
+> Jut: Alright. I'll go prepare the goods then.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Jut: I understand. We're talking about no small sums. Careful consideration is highly advised, indeed.
+
 
 ## Objective 5
 
@@ -174,21 +214,31 @@ Azalai: One way or another, my business costs are slowly rising. To make ends me
 Azalai: Thankfully, the people of this village understand my predicament and are willing to support my business, otherwise... I would've gone bankrupt a long time ago.
 Azalai: But, alas... I can't find anyone who's planning to leave the village, and Raef and his crew aren't always available...
 Azalai: If I'm unlucky, some low-volume goods may be out of stock soon...
-    Option 1:
-        Traveler: And those goods are...
-        Azalai: They are all daily essentials. Even though I'm usually quick to source them, they sell even quicker.
-        Azalai: I'm running a small business, so I can't always buy large volumes.
-    Option 2:
-        Traveler: If only you could find a long-term business partner...
-        Azalai: It's not like I haven't considered that, but look around you.
-        Azalai: Shipping goods into the village and running business here aren't exactly easy.
+
+Option 1:
+
+> Traveler: And those goods are...
+> Azalai: They are all daily essentials. Even though I'm usually quick to source them, they sell even quicker.
+> Azalai: I'm running a small business, so I can't always buy large volumes.
+
+Option 2:
+
+> Traveler: If only you could find a long-term business partner...
+> Azalai: It's not like I haven't considered that, but look around you.
+> Azalai: Shipping goods into the village and running business here aren't exactly easy.
+
 Azalai: Ahem... that's a topic for another day. Traveler, perhaps you are getting ready to leave the village?
 Azalai: I've been wanting to source some Dried Fish and need someone to place an order for me... Could you assist me with this?
-    Option 1:
-        Traveler: Leave it to me.
-    Option 2:
-        Traveler: I thought everyone would dry fish on their own...
-        Azalai: Hahaha... Trust me, Traveler. Drying fish out in the desert is not a good idea...
+
+Option 1:
+
+> Traveler: Leave it to me.
+
+Option 2:
+
+> Traveler: I thought everyone would dry fish on their own...
+> Azalai: Hahaha... Trust me, Traveler. Drying fish out in the desert is not a good idea...
+
 Azalai: Let me see... *Butrus'* Dried Fish are fairly priced and the taste is... acceptable.
 Azalai: *Jahangir* has been using a new Dried Fish recipe recently — people say that the flavor is really good thanks to all the spices.
 Azalai: I'd like to give them a shot, just to see if there's any demand, but I'm not sure about the price point...
@@ -198,10 +248,15 @@ Azalai: Oh, one more thing. Whenever I commissioned someone to place an order fo
 Azalai: I'd like you to do the same. Please remember to look for the cheaper supplier.
 Azalai: The business strategy that's been working in Aaru Village so far is "selling more at a lower profit margin."
 Azalai: I'm counting on you, Traveler.
-    Option 1:
-        Traveler: I'll check out what *Butrus* has to offer first...
-    Option 2:
-        Traveler: I'll check out what *Jahangir* has to offer first...
+
+Option 1:
+
+> Traveler: I'll check out what *Butrus* has to offer first...
+
+Option 2:
+
+> Traveler: I'll check out what *Jahangir* has to offer first...
+
 Azalai: Thank you in advance. I'll mark his location on the map for you.
 Azalai: Alright, come back anytime if you have any additional questions.
 
@@ -220,10 +275,15 @@ Azalai: Alright, come back anytime if you have any additional questions.
 (Learn about the situation from Jahangir)
 
 Azalai: How did it go? Have you placed an order yet?
-    Option 1:
-        Traveler: About *Butrus'* location...
-    Option 2:
-        Traveler: About *Jahangir's* location...
+
+Option 1:
+
+> Traveler: About *Butrus'* location...
+
+Option 2:
+
+> Traveler: About *Jahangir's* location...
+
 Azalai: You can't find his exact location? Okay... I'll mark that spot on the map for you.
 Azalai: You should be good to go now. I'm counting on you, Traveler.
 
@@ -236,25 +296,35 @@ Traveler: About Azalai's order...
 Butrus: Huh... Azalai is looking to source some Dried Fish from me? No worries.
 Butrus: This amount of Mora is enough to buy a large quantity of Dried Fish. It should last him for a while.
 Butrus: Though my Dried Fish is... well... faithful to the original flavor! No spices or anything like that.
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Butrus: Alright! Hehe... I'll go pick out some Dried Fish and get someone to deliver his order to him in a bit.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Butrus: Huh? Fine... Go ahead and compare prices.
-        Butrus: But I can't really afford to give you another discount. I won't make any profit otherwise.
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Butrus: Alright! Hehe... I'll go pick out some Dried Fish and get someone to deliver his order to him in a bit.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Butrus: Huh? Fine... Go ahead and compare prices.
+> Butrus: But I can't really afford to give you another discount. I won't make any profit otherwise.
+
 
 ## Talk 13 (alternative/additional)
 
 (Learn about the situation from Jahangir)
 
 Butrus: What say you? Want to order Dried Fish from me?
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Butrus: Alright! Hehe... I'll go pick out some Dried Fish and get someone to deliver his order to him in a bit.
-    Option 2:
-        Traveler: I'll try my luck elsewhere.
-        Butrus: Don't be too long or there won't be any Dried Fish left.
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Butrus: Alright! Hehe... I'll go pick out some Dried Fish and get someone to deliver his order to him in a bit.
+
+Option 2:
+
+> Traveler: I'll try my luck elsewhere.
+> Butrus: Don't be too long or there won't be any Dried Fish left.
+
 
 ## Talk 13 (alternative/additional)
 
@@ -267,24 +337,34 @@ Jahangir: This amount of Mora will get you some Dried Fish. Just say the word an
 Traveler: You'll start drying it now?
 Jahangir: Of course not! What I meant was going to my warehouse to take the Dried Fish out and seasoning them to elevate their flavor profile.
 Jahangir: Wait a minute... With the cost considered, you won't be able to buy that much Dried Fish after all.
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Jahangir: Okay! I'll send one of my employees to deliver the order when I'm done making Dried Fish.
-    Option 2:
-        Traveler: I—I'm going to look elsewhere...
-        Jahangir: Huh? No need to rush, the price is negotiable. Besides, you won't find such tasty Dried Fish anywhere else!
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Jahangir: Okay! I'll send one of my employees to deliver the order when I'm done making Dried Fish.
+
+Option 2:
+
+> Traveler: I—I'm going to look elsewhere...
+> Jahangir: Huh? No need to rush, the price is negotiable. Besides, you won't find such tasty Dried Fish anywhere else!
+
 
 ## Talk 13 (alternative/additional)
 
 (Learn about the situation from Jahangir)
 
 Jahangir: Hey, have you decided yet? One word and I'll start prepping everything.
-    Option 1:
-        Traveler: I'd like to place my order here.
-        Jahangir: Okay! I'll send one of my employees to deliver the order when I'm done making Dried Fish.
-    Option 2:
-        Traveler: I—I'm going to look elsewhere...
-        Jahangir: Huh? Didn't I say you wouldn't find such tasty Dried Fish elsewhere? There's not much to think about...
+
+Option 1:
+
+> Traveler: I'd like to place my order here.
+> Jahangir: Okay! I'll send one of my employees to deliver the order when I'm done making Dried Fish.
+
+Option 2:
+
+> Traveler: I—I'm going to look elsewhere...
+> Jahangir: Huh? Didn't I say you wouldn't find such tasty Dried Fish elsewhere? There's not much to think about...
+
 
 ## Objective 13
 

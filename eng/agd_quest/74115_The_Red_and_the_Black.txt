@@ -30,16 +30,21 @@ Talochard: It does smell odd, but that's why it's special.
 Paimon: #You've piqued Paimon's interest... What about you, Traveler?
 Traveler: Curve, what do you think?
 "Curve": An analysis of the composition indicates eating this could be a difficult trial.
-    Option 1:
-        Traveler: Forget it. I'll let you try it, Paimon. You're tougher than me.
-        Paimon: Not eating? Then Paimon will finish your portion too. Waste not, want not! Hehe.
-        Black Screen Text: Paimon starts to chow down, and scarfs down a full portion-and-a-half of the odd-smelling pie in the blink of an eye.
+
+Option 1:
+
+> Traveler: Forget it. I'll let you try it, Paimon. You're tougher than me.
+> Paimon: Not eating? Then Paimon will finish your portion too. Waste not, want not! Hehe.
+> Black Screen Text: Paimon starts to chow down, and scarfs down a full portion-and-a-half of the odd-smelling pie in the blink of an eye.
 Half an hour later... she comes back from outside, clutching her belly.
-    Option 2:
-        Traveler: Awesome. We're real tough cookies.
-        Paimon: Then let's dig in!
-        Black Screen Text: You and Paimon wolf down a half-portion of the odd-smelling pie.
+
+Option 2:
+
+> Traveler: Awesome. We're real tough cookies.
+> Paimon: Then let's dig in!
+> Black Screen Text: You and Paimon wolf down a half-portion of the odd-smelling pie.
 Half an hour later... you both come back from outside, clutching your bellies.
+
 Talochard: Just where did you disappear to? If you're still hungry, there's more. I made lots.
 Paimon: #Th—Thanks, Talochard. No need though, Paimon just went for a quick rest. And there's still some pie left... Uh, Traveler, why don't we box it up for... later?
 Talochard: Uhm, your expressions... Wasn't it tasty? I thought I did a good job...
@@ -83,12 +88,17 @@ Talochard: We're here.
 Paimon: Let's see... Sure are a lot of them in there... What should we do? Charge in, beat them up, and make them confess?
 Talochard: Don't be so violent, Paimon. They're already frightened and on edge. They might destroy the evidence if we give them another scare!
 Paimon: Hmm... That's true. Then let's sneak in, find the evidence, and then beat them up?
-    Option 1:
-        Traveler: Do we have to beat them up?
-        Paimon: Well... It's such a small place, so a fight is inevitable anyway... Fine, then is it possible to distract them?
-    Option 2:
-        Traveler: I don't like sneaking around.
-        Paimon: Neither does Paimon. So, is it possible to distract them?
+
+Option 1:
+
+> Traveler: Do we have to beat them up?
+> Paimon: Well... It's such a small place, so a fight is inevitable anyway... Fine, then is it possible to distract them?
+
+Option 2:
+
+> Traveler: I don't like sneaking around.
+> Paimon: Neither does Paimon. So, is it possible to distract them?
+
 Talochard: There must be something here that we can use...
 Talochard: Curve, hide and wait here for us. You're too big not to get spotted. Just come over once we're done.
 "Curve": As you wish.
@@ -99,29 +109,39 @@ Paimon: Then let's hurry up and figure out how to lure them away.
 (Covertly find a way to distract the crowd)
 
 Paimon: Hmm, this chest... What if Paimon hides inside and makes some noise? Then you guys can go look for clues while they come over to investigate. Think that'll work?
-    Option 1:
-        Traveler: Sure, give it a try.
-        Black Screen Text: Paimon squeezes in, and once the rest of you are well-hidden, she starts shaking the chest.
-        Paimon (Guard): Someone's over there! By that chest! Intruder alert!
-        Talochard: This plan's way too dumb!
-    Option 2:
-        Traveler: Doesn't sound like it'll work.
-        Talochard: Let's come up with a plan B.
+
+Option 1:
+
+> Traveler: Sure, give it a try.
+> Black Screen Text: Paimon squeezes in, and once the rest of you are well-hidden, she starts shaking the chest.
+> Paimon (Guard): Someone's over there! By that chest! Intruder alert!
+> Talochard: This plan's way too dumb!
+
+Option 2:
+
+> Traveler: Doesn't sound like it'll work.
+> Talochard: Let's come up with a plan B.
+
 
 ## Talk 6 (alternative/additional)
 
 (Covertly find a way to distract the crowd)
 
 Paimon: These Bulle Fruit... Do these people really like them? In that case, we could try distracting them by throwing some from a distance...
-    Option 1:
-        Traveler: Sure, give it a try.
-        Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
-        Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
-        Paimon (Guard): Alert! Alert! Intruder alert!
-        Talochard: This plan's way too dumb!
-    Option 2:
-        Traveler: Doesn't sound like it'll work.
-        Talochard: Let's come up with a plan B.
+
+Option 1:
+
+> Traveler: Sure, give it a try.
+> Black Screen Text: All of you hide and start chucking Bulle Fruit really far away.
+> Paimon (Guard): Wow! Sweet! Bulle Fruit! Wait... Who's throwing them?
+> Paimon (Guard): Alert! Alert! Intruder alert!
+> Talochard: This plan's way too dumb!
+
+Option 2:
+
+> Traveler: Doesn't sound like it'll work.
+> Talochard: Let's come up with a plan B.
+
 
 ## Objective 6
 
@@ -337,35 +357,44 @@ And without a moment's rest, you immediately rush to the Fleuve Cendre, the haun
 Baulard (???): You're here.
 Traveler: Huh?
 Baulard (???): So, did you bring the goods?
-    Option 1:
-        Traveler: Who are you?
-        Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
-        Paimon: Huh? Were we exchanging passphrases just now!?
-        Talochard: Forget that! Hurry! Don't let him get away!
-    Option 2:
-        Traveler: What are you talking about?
-        Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
-        Paimon: Huh? Were we exchanging passphrases just now!?
-        Talochard: Forget that! Hurry! Don't let him get away!
-    Option 3:
-        Traveler: What goods?
-        Baulard (???): Haha! What's the story, chum?
-        Traveler: An underdog story?
-        Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
-        Paimon: Huh? Were we exchanging passphrases just now!?
-        Talochard: Forget that! Hurry! Don't let him get away!
-    Option 4:
-        Traveler: What goods?
-        Baulard (???): Haha! What's the story, chum?
-        Traveler: Uh... Anyone know how to answer?
-        Talochard: I'm a nobody! No story here!
-        Paimon: A nobody? Paimon's sure you're somebody...
-        Talochard: (Shh... He just doesn't want to reveal his name!)
-        Baulard (???): So, why did you leave that letter outside The Steambird?
-        Paimon: Huh? What letter? That envelope? We did find an envelope at the scene...
-        Baulard (???): You weren't the ones who left it? Then who are you? And how do you know the code? Shoot... I better scram!
-        Paimon: Huh? Were we exchanging passphrases just now!?
-        Talochard: We've been made! Anyway, just hurry! Don't let him get away!
+
+Option 1:
+
+> Traveler: Who are you?
+> Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
+> Paimon: Huh? Were we exchanging passphrases just now!?
+> Talochard: Forget that! Hurry! Don't let him get away!
+
+Option 2:
+
+> Traveler: What are you talking about?
+> Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
+> Paimon: Huh? Were we exchanging passphrases just now!?
+> Talochard: Forget that! Hurry! Don't let him get away!
+
+Option 3:
+
+> Traveler: What goods?
+> Baulard (???): Haha! What's the story, chum?
+> Traveler: An underdog story?
+> Baulard (???): Huh? That's not the code! Who are you!? Shoot, I gotta get outta here!
+> Paimon: Huh? Were we exchanging passphrases just now!?
+> Talochard: Forget that! Hurry! Don't let him get away!
+
+Option 4:
+
+> Traveler: What goods?
+> Baulard (???): Haha! What's the story, chum?
+> Traveler: Uh... Anyone know how to answer?
+> Talochard: I'm a nobody! No story here!
+> Paimon: A nobody? Paimon's sure you're somebody...
+> Talochard: (Shh... He just doesn't want to reveal his name!)
+> Baulard (???): So, why did you leave that letter outside The Steambird?
+> Paimon: Huh? What letter? That envelope? We did find an envelope at the scene...
+> Baulard (???): You weren't the ones who left it? Then who are you? And how do you know the code? Shoot... I better scram!
+> Paimon: Huh? Were we exchanging passphrases just now!?
+> Talochard: We've been made! Anyway, just hurry! Don't let him get away!
+
 
 ## Objective 21
 
@@ -432,14 +461,21 @@ Baulard: Ahem...
 "Curve": Ms. Paimon, are you suggesting that I lie? Can lies be a source of comfort?
 Paimon: That doesn't count as a lie... Paimon means that when you're comforting someone... sincerity is what counts!
 Paimon: #For example, when Paimon is worried about gaining weight from eating too many Slimes, Traveler might say that Paimon would still be cute even if she gets fat, or something like that.
-    Option 1:
-        Traveler: Yes, I would sincerely comfort Paimon.
-    Option 2:
-        Traveler: No, I would feel sorry for the Slimes.
-        Paimon: What!? Are you really that concerned about Slimes!?
-    Option 3:
-        Traveler: No, I would just call out Paimon for being a glutton.
-        Paimon: Hey! You're supposed to take Paimon's side!
+
+Option 1:
+
+> Traveler: Yes, I would sincerely comfort Paimon.
+
+Option 2:
+
+> Traveler: No, I would feel sorry for the Slimes.
+> Paimon: What!? Are you really that concerned about Slimes!?
+
+Option 3:
+
+> Traveler: No, I would just call out Paimon for being a glutton.
+> Paimon: Hey! You're supposed to take Paimon's side!
+
 Talochard: That's enough. Curve can only analyze biological data. He can't understand all of that... Forget it. You can go, Baulard.
 Baulard: Thank you so much!
 Paimon: Huh? Talochard? You...
@@ -529,29 +565,44 @@ Talochard: What are you talking about, Curve? Lies molding reality?
 "Curve": Shutting down the lie-learning module.
 Paimon: Um, was Curve being a little odd just now? What was he talking about?
 Talochard: It's the lie-learning module. It resides in Curve's core, and once it's enabled, it makes Curve spew a bunch of illogical nonsense...
-    Option 1:
-        Traveler: I'm starting to doubt Curve's reliability.
-    Option 2:
-        Traveler: I think Curve has a point.
+
+Option 1:
+
+> Traveler: I'm starting to doubt Curve's reliability.
+
+Option 2:
+
+> Traveler: I think Curve has a point.
+
 Paimon: Well... Paimon thinks that some humans say things that don't make sense. Does that mean Curve is improving?
 Traveler: It does.
 Paimon: Talochard, are you gonna give up just when Curve is showing signs of improvement?
 Talochard: Um, well... can you please say that thing again...?
 Paimon: Say what?
-    Option 1:
-        Traveler: You've hit rock bottom!
-        Paimon: Oh! That's right! So you can't fail again!
-    Option 2:
-        Traveler: You absolutely will not fail again!
-        Paimon: Oh! That's right! Because you've already hit rock bottom!
+
+Option 1:
+
+> Traveler: You've hit rock bottom!
+> Paimon: Oh! That's right! So you can't fail again!
+
+Option 2:
+
+> Traveler: You absolutely will not fail again!
+> Paimon: Oh! That's right! Because you've already hit rock bottom!
+
 Talochard: I get it! Then I'll try again, one more time! If Curve is still learning, then I have to help him!
 Paimon: Wow, Talochard really is like a child sometimes... She gets moody so quickly, but also perks up just as quickly...
 Traveler: Sounds like you, Paimon.
 Paimon: Is... Is Paimon not mature enough?
-    Option 1:
-        Traveler: You're even shorter than Talochard.
-    Option 2:
-        Traveler: Relax, Paimon, you're pretty mature.
+
+Option 1:
+
+> Traveler: You're even shorter than Talochard.
+
+Option 2:
+
+> Traveler: Relax, Paimon, you're pretty mature.
+
 Talochard: Oh, just stop with the chit-chat! We should take action at once. Since the newspaper might know something, let's keep our eyes on the prize and keep investigating the theft!
 Talochard: Since there are four of us, why don't we each roleplay as a suspect and recreate the crime scene? We might even find a breakthrough.
 Paimon: Wow, Talochard's brain is working fast! Paimon likes that idea. Let's go to The Steambird now.
@@ -626,29 +677,44 @@ Talochard: What are you talking about, Curve? Lies molding reality?
 "Curve": Shutting down the lie-learning module.
 Paimon: Um, was Curve being a little odd just now? What was he talking about?
 Talochard: It's the lie-learning module. It resides in Curve's core, and once it's enabled, it makes Curve spew a bunch of illogical nonsense...
-    Option 1:
-        Traveler: I'm starting to doubt Curve's reliability.
-    Option 2:
-        Traveler: I think Curve has a point.
+
+Option 1:
+
+> Traveler: I'm starting to doubt Curve's reliability.
+
+Option 2:
+
+> Traveler: I think Curve has a point.
+
 Paimon: Well... Paimon thinks that some humans say things that don't make sense. Does that mean Curve is improving?
 Traveler: It does.
 Paimon: Talochard, are you gonna give up just when Curve is showing signs of improvement?
 Talochard: Um, well... can you please say that thing again...?
 Paimon: Say what?
-    Option 1:
-        Traveler: You've hit rock bottom!
-        Paimon: Oh! That's right! So you can't fail again!
-    Option 2:
-        Traveler: You absolutely will not fail again!
-        Paimon: Oh! That's right! Because you've already hit rock bottom!
+
+Option 1:
+
+> Traveler: You've hit rock bottom!
+> Paimon: Oh! That's right! So you can't fail again!
+
+Option 2:
+
+> Traveler: You absolutely will not fail again!
+> Paimon: Oh! That's right! Because you've already hit rock bottom!
+
 Talochard: I get it! Then I'll try again, one more time! If Curve is still learning, then I have to help him!
 Paimon: Wow, Talochard really is like a child sometimes... She gets moody so quickly, but also perks up just as quickly...
 Traveler: Sounds like you, Paimon.
 Paimon: Is... Is Paimon not mature enough?
-    Option 1:
-        Traveler: You're even shorter than Talochard.
-    Option 2:
-        Traveler: Relax, Paimon, you're pretty mature.
+
+Option 1:
+
+> Traveler: You're even shorter than Talochard.
+
+Option 2:
+
+> Traveler: Relax, Paimon, you're pretty mature.
+
 Talochard: Oh, just stop with the chit-chat! We should take action at once. Since the newspaper might know something, let's keep our eyes on the prize and keep investigating the theft!
 Talochard: Since there are four of us, why don't we each roleplay as a suspect and recreate the crime scene? We might even find a breakthrough.
 Paimon: Wow, Talochard's brain is working fast! Paimon likes that idea. Let's go to The Steambird now.
@@ -723,10 +789,15 @@ Paimon: Then was the evidence presented by the paper falsified? Or did they make
 Talochard: But the person who wrote the threatening letter seems to think that the paper deliberately fabricated those lies in search of fame, profit, or something else.
 Paimon: Oh... Then could she be someone very close to Dr. Mosso, back for revenge?
 Paimon: #Paimon would definitely avenge Traveler if Traveler was wronged like that! Ugh! Paimon can't bear to think about it...
-    Option 1:
-        Traveler: Thanks, Paimon.
-    Option 2:
-        Traveler: Don't jinx me, Paimon.
+
+Option 1:
+
+> Traveler: Thanks, Paimon.
+
+Option 2:
+
+> Traveler: Don't jinx me, Paimon.
+
 Talochard: But Dr. Mosso passed away thirty years ago, so someone very close to him... I wonder if Euphrasie knows anything...
 Paimon: ...Should we go see her then?
 Talochard: Don't worry, she wasn't in charge of the paper at the time, and I don't think Euphrasie is a bad person...

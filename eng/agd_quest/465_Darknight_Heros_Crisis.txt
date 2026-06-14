@@ -22,12 +22,17 @@ Your inquiries were slowly bringing the Darknight Hero's identity to light, but 
 Paimon: Huffman!
 Huffman: Oh, it's you two. Thank you for coming.
 Huffman: So — the Darknight Hero. Do you have anything else you're able to share with me?
-    Option 1:
-        Traveler: Could I first ask what's going on?
-        Huffman: Ah yes, of course I should fill you in first... apologies for my appalling lapse of etiquette.
-    Option 2:
-        Traveler: Sorry, we've got nothing.
-        Huffman: Is that so... That is a pity indeed.
+
+Option 1:
+
+> Traveler: Could I first ask what's going on?
+> Huffman: Ah yes, of course I should fill you in first... apologies for my appalling lapse of etiquette.
+
+Option 2:
+
+> Traveler: Sorry, we've got nothing.
+> Huffman: Is that so... That is a pity indeed.
+
 Huffman: The situation is... here. Take a look at this.
 Paimon: Geez... what horrible handwriting!
 Paimon: Hmm, let me take a closer look... Huh, some parts of this seem to be complete gibberish.
@@ -37,10 +42,15 @@ Huffman: This is a war declaration from the Abyss Order to the Darknight Hero.
 Paimon: Does that mean... the bad guys want the Darknight Hero to go away forever and ever?
 Huffman: Something like that. Thus, we are hoping to contact him as soon as possible so that we can attempt to coordinate a response.
 Huffman: After all, this matter no longer concerns merely the Darknight Hero himself. It impacts the entire city of Mondstadt.
-    Option 1:
-        Traveler: Thank you for the information.
-    Option 2:
-        Traveler: I will keep it in mind.
+
+Option 1:
+
+> Traveler: Thank you for the information.
+
+Option 2:
+
+> Traveler: I will keep it in mind.
+
 Huffman: If you find out anything at all, come and find me.
 
 ## Talk 4
@@ -65,26 +75,36 @@ Paimon: What?
 Diluc: The Dawn Winery's intelligence network extends beyond commercial matters.
 Paimon: Great! So, what's the plan, Master Diluc?
 Diluc: I'm open to suggestions...
-    Option 1:
-        Traveler: You really should join forces with the Knights...
-        Diluc: No. That would be playing right into the hands of the Abyss Order.
-        Diluc: They know full well that we don't exactly see eye to eye. They're using this as a means to force me into making an appearance.
-        Diluc: If my identity were exposed, all my future activities would be subject to some degree of interference from the Knights.
-        Diluc: After all, no powerful organization wishes to be outdone by someone from the outside.
-    Option 2:
-        Traveler: Stay at the winery until this blows over.
-        Diluc: That would be tantamount to handing this over to the Knights.
-        Diluc: Had they been worthy of this task to begin with, things would never have escalated to this point.
-        Diluc: In any case, circumstances are not dire enough to warrant me going into hiding and leaving the Knights to deal with the consequences.
+
+Option 1:
+
+> Traveler: You really should join forces with the Knights...
+> Diluc: No. That would be playing right into the hands of the Abyss Order.
+> Diluc: They know full well that we don't exactly see eye to eye. They're using this as a means to force me into making an appearance.
+> Diluc: If my identity were exposed, all my future activities would be subject to some degree of interference from the Knights.
+> Diluc: After all, no powerful organization wishes to be outdone by someone from the outside.
+
+Option 2:
+
+> Traveler: Stay at the winery until this blows over.
+> Diluc: That would be tantamount to handing this over to the Knights.
+> Diluc: Had they been worthy of this task to begin with, things would never have escalated to this point.
+> Diluc: In any case, circumstances are not dire enough to warrant me going into hiding and leaving the Knights to deal with the consequences.
+
 Paimon: Whew... the Abyss Order has really dealt you a tough hand this time. What a sneaky little bunch those guys are!
 Diluc: There is a way. But for it to work, I need some more information.
 Diluc: Specifically, I need to decipher the obscured portions of the Abyss Order's war declaration.
 Paimon: Obscured portions? You mean the bits Paimon can't read?
 Diluc: It must be a cipher only understood by members of the Abyss Order, used to spread messages within the organization.
-    Option 1:
-        Traveler: Why would they send you a written message that only they can read?
-    Option 2:
-        Traveler: If they knew we can't read it, why did they write it in the first place?
+
+Option 1:
+
+> Traveler: Why would they send you a written message that only they can read?
+
+Option 2:
+
+> Traveler: If they knew we can't read it, why did they write it in the first place?
+
 Diluc: It's not simply a war declaration, but also a notification to their own.
 Diluc: When you take a stand that makes you a hero to one party, you also become a villain to the other.
 Diluc: And since I've been the Abyss Order's enemy for so long...
@@ -136,14 +156,19 @@ Interrogate (Abyss Mage): D—Did you just use a Pyro Vision to shoot f—fire f
 Diluc: Let's see how long it takes for you to crack...
 Traveler: Burn him with *Searing Hand* again!
 Interrogate (Abyss Mage): Stop! Stop! P—Please, the pain— I beg you... make it stop!
-    Option 1:
-        Traveler: Burn him with *Searing Hand* again!
-        Interrogate (Abyss Mage): Ugh...
-        Diluc: Playing dead won't help you — that fire was nowhere near strong enough to— Oh... He seems to have *passed out*...
-        Diluc: Hey! You sleep when I say you can sleep!
-        Interrogate (Abyss Mage): Aah! It burns!
-    Option 2:
-        Traveler: *Interrogate him* about their plan of attack.
+
+Option 1:
+
+> Traveler: Burn him with *Searing Hand* again!
+> Interrogate (Abyss Mage): Ugh...
+> Diluc: Playing dead won't help you — that fire was nowhere near strong enough to— Oh... He seems to have *passed out*...
+> Diluc: Hey! You sleep when I say you can sleep!
+> Interrogate (Abyss Mage): Aah! It burns!
+
+Option 2:
+
+> Traveler: *Interrogate him* about their plan of attack.
+
 Interrogate (Abyss Mage): I'll talk, I'll talk! Ow ow ow... P—Please, stop! I'll tell you *everything*!
 Interrogate (Abyss Mage): Th—The Abyss Order, we've amassed a force bound by a shared hatred for the Darknight Hero...
 Interrogate (Abyss Mage): They... They will march on the Mondstadt *city gates* at 10 PM tomorrow night.
@@ -199,14 +224,19 @@ Huffman: If we do not make contact with the Darknight Hero soon...
 Traveler: What are we to do about the Abyss Order's challenge?
 Huffman: Ah, it's you two. I must admit, this issue of the Darknight Hero is proving to be something of a headache.
 Huffman: We've just held a meeting to decide on an appropriate course of action. Can you guess what it is?
-    Option 1:
-        Traveler: Bury our heads firmly in the sand?
-        Huffman: Haha... Good one. But no, the Knights cannot afford to simply stand by and watch while there is even the slightest inkling of a threat facing Mondstadt.
-        Huffman: If that were the case, more and more people would start to rely on the Darknight Hero instead of the Knights of Favonius.
-    Option 2:
-        Traveler: Join forces with the Darknight Hero?
-        Huffman: No. That would send a signal that the Knights are in favor of the Darknight Hero's continued presence in our city... which we are not.
-        Huffman: Encouraging this kind of individual heroism undermines the Knights' authority.
+
+Option 1:
+
+> Traveler: Bury our heads firmly in the sand?
+> Huffman: Haha... Good one. But no, the Knights cannot afford to simply stand by and watch while there is even the slightest inkling of a threat facing Mondstadt.
+> Huffman: If that were the case, more and more people would start to rely on the Darknight Hero instead of the Knights of Favonius.
+
+Option 2:
+
+> Traveler: Join forces with the Darknight Hero?
+> Huffman: No. That would send a signal that the Knights are in favor of the Darknight Hero's continued presence in our city... which we are not.
+> Huffman: Encouraging this kind of individual heroism undermines the Knights' authority.
+
 Paimon: Oh. Well, what's the plan then?
 Huffman: Find out the Darknight Hero's true identity, and offer him our protection.
 Paimon: "Protection"? He seems to be doing just fine without your protection so far, y'know...

@@ -1,11 +1,16 @@
 # Talk Dialog
 
 Temach: #Welcome... Hmm, it looks like one of you has already mastered the skill of flying. So, is this the young man who wants to learn how to fly?
-    Option 1:
-        Traveler: I already have a gliding license.
-        Temach: Gliding license? First time I've heard of that.
-    Option 2:
-        Traveler: What can you teach me?
+
+Option 1:
+
+> Traveler: I already have a gliding license.
+> Temach: Gliding license? First time I've heard of that.
+
+Option 2:
+
+> Traveler: What can you teach me?
+
 Temach: Here, we aim to have Saurian and rider stride toward improvement together. Your partner...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrah, rawr!
 Temach: ...Hmm, sorry, little guy, but I doubt Pakpaka Flying School is the place for you to show off your skills. Not your fault, though, so don't take it personally.

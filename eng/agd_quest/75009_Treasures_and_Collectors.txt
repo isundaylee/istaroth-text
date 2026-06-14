@@ -8,21 +8,31 @@ Try your luck at the Saurian Relics Excavation Site!
 ## Talk 1
 
 Quipia: Three hundred Mora entry fee...
-    Option 1:
-        Traveler: Can I get a discount?
-    Option 2:
-        Traveler: It's free if I beat you, right?
-        Paimon: Hey, that's not how we normally do things!
+
+Option 1:
+
+> Traveler: Can I get a discount?
+
+Option 2:
+
+> Traveler: It's free if I beat you, right?
+> Paimon: Hey, that's not how we normally do things!
+
 Quipia: The price is set by the Saurian Relics Association, and cannot be negotiated. As far as I know, this is already the cheapest excavation site, as it's been open the longest.
 Quipia: But nowadays, we sometimes get dreamers like you who want to try their luck.
 Quipia: After all, you never know! Maybe none of the hundreds and thousands of people who came before you had a good eye for treasure, and missed a priceless relic that only looks ordinary.
 Quipia: Many would pay 300 Mora for such a beautiful dream.
 Quipia: So, how lucky are you feeling? Do you believe you'll be the one to strike it rich?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo... Rawr! Rawr! Raaawr!
-    Option 1:
-        Traveler: My luck's never let me down.
-    Option 2:
-        Traveler: I don't need that, I've got a lucky Saurian.
+
+Option 1:
+
+> Traveler: My luck's never let me down.
+
+Option 2:
+
+> Traveler: I don't need that, I've got a lucky Saurian.
+
 Paimon: #Feel like putting your luck to the test, {REALNAME[ID(2)|SHOWHOST(true)]}?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: He definitely looks up for it. And what's 300 Mora anyway? Paimon can handle that!
@@ -74,10 +84,15 @@ Paimon: So, shall we trade it in for 10,000?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh... Rrrooo...
 Paimon: #You don't seem too happy about that, {REALNAME[ID(2)|SHOWHOST(true)]}... Do you wanna keep it for yourself?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrah... Rawr!
-    Option 1:
-        Traveler: Well, you were the one who found it.
-    Option 2:
-        Traveler: Guess you wanna be a collector too, huh?
+
+Option 1:
+
+> Traveler: Well, you were the one who found it.
+
+Option 2:
+
+> Traveler: Guess you wanna be a collector too, huh?
+
 Paimon: #Since {REALNAME[ID(2)|SHOWHOST(true)]} doesn't want to sell, then we'll just have to keep it.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Quipia: #Looks like you value {REALNAME[ID(2)|SHOWHOST(true)]} far more than Mora.

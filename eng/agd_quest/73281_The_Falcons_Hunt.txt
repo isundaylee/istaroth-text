@@ -18,30 +18,42 @@ Masseira: Simply put, this is about Tadhla's coming-of-age ceremony. Please witn
 Masseira: She could be a bit of a handful, but I promise you will be well compensated. So I'm wondering if you would like to...
 Paimon: Don't worry, just leave it to us!
 Liloupar: *sigh*...
-    Option 1:
-        Traveler: We accept your commission.
-        Liloupar: *sigh* Really, must we...
-    Option 2:
-        Traveler: About the hunt...
-        Masseira: It's the coming-of-age ceremony for Tadhla. I used to train the "Falcons" in the tribe personally, but now... I'm no longer as agile as I once was.
-        Masseira: After the previous commission, Tadhla said you have her trust. This is why I want to ask you to join in and see the Falcon's growth.
-        Traveler: I see. I'll help.
-        Masseira: It's very kind of you. Please find Tadhla. She'll give you the details of this hunt.
-    Option 3:
-        Traveler: I have other plans.
-        Masseira: Well then, I shall leave you alone.
+
+Option 1:
+
+> Traveler: We accept your commission.
+> Liloupar: *sigh* Really, must we...
+
+Option 2:
+
+> Traveler: About the hunt...
+> Masseira: It's the coming-of-age ceremony for Tadhla. I used to train the "Falcons" in the tribe personally, but now... I'm no longer as agile as I once was.
+> Masseira: After the previous commission, Tadhla said you have her trust. This is why I want to ask you to join in and see the Falcon's growth.
+> Traveler: I see. I'll help.
+> Masseira: It's very kind of you. Please find Tadhla. She'll give you the details of this hunt.
+
+Option 3:
+
+> Traveler: I have other plans.
+> Masseira: Well then, I shall leave you alone.
+
 
 ## Talk 2 (alternative/additional)
 
 (Talk to Masseira)
 
 Masseira: Ah, you are back. So, would you like to accept my commission?
-    Option 1:
-        Traveler: I'll do it.
-        Masseira: Very well... Now, for detail of this hunt, please talk to Tadhla.
-    Option 2:
-        Traveler: I have to finish something else first.
-        Masseira: Well then, I shall leave you alone.
+
+Option 1:
+
+> Traveler: I'll do it.
+> Masseira: Very well... Now, for detail of this hunt, please talk to Tadhla.
+
+Option 2:
+
+> Traveler: I have to finish something else first.
+> Masseira: Well then, I shall leave you alone.
+
 
 ## Objective 2
 
@@ -57,35 +69,52 @@ Paimon: Tadhla! Looks like you're in better spirits now! How's your wound now? H
 Tadhla: Thank you for asking. Yes, it has healed... but left an indelible scar.
 Tadhla: No need to worry about me. Master... I mean, my father must have given you this commission.
 Liloupar: ...
-    Option 1:
-        Traveler: Alright...
-    Option 2:
-        Traveler: "Master"...?
-        Tadhla: ...
-    Option 3:
-        Traveler: "Father"...?
-        Tadhla: That's not the target for this hunt. My apologies.
+
+Option 1:
+
+> Traveler: Alright...
+
+Option 2:
+
+> Traveler: "Master"...?
+> Tadhla: ...
+
+Option 3:
+
+> Traveler: "Father"...?
+> Tadhla: That's not the target for this hunt. My apologies.
+
 Tadhla: There are three targets for this hunt: the Red Vulture, the Scorpion, and the Flying Serpent.
 Tadhla: First, the Red Vulture. We have already confirmed its whereabouts. All that needs to be done is to track it down.
 Tadhla: But of course, if you have other priorities, I'll wait here until you're all set. Only the prey won't be as patient as I am...
-    Option 1:
-        Traveler: Let's go.
-        Tadhla: Please follow me.
-    Option 2:
-        Traveler: I have to finish something else first.
-        Tadhla: Don't worry, I'll be here waiting for you.
+
+Option 1:
+
+> Traveler: Let's go.
+> Tadhla: Please follow me.
+
+Option 2:
+
+> Traveler: I have to finish something else first.
+> Tadhla: Don't worry, I'll be here waiting for you.
+
 
 ## Talk 3 (alternative/additional)
 
 (Talk to Tadhla)
 
 Tadhla: Hello. Are you ready to go?
-    Option 1:
-        Traveler: Let's go.
-        Tadhla: Please follow me.
-    Option 2:
-        Traveler: I'm just passing by.
-        Tadhla: Okay... I'll wait for you.
+
+Option 1:
+
+> Traveler: Let's go.
+> Tadhla: Please follow me.
+
+Option 2:
+
+> Traveler: I'm just passing by.
+> Tadhla: Okay... I'll wait for you.
+
 
 ## Objective 3
 
@@ -112,12 +141,17 @@ Tadhla: Hello. Are you ready to go?
 (Enter the Red Vulture's lair)
 
 Tadhla: *pant* If you need my assistance... please let me know, anytime.
-    Option 1:
-        Traveler: You should have a rest here.
-        Tadhla: ...
-    Option 2:
-        Traveler: Your condition is not suitable for hunting.
-        Tadhla: Hmph...
+
+Option 1:
+
+> Traveler: You should have a rest here.
+> Tadhla: ...
+
+Option 2:
+
+> Traveler: Your condition is not suitable for hunting.
+> Tadhla: Hmph...
+
 
 ## Talk 8 (variant 1)
 
@@ -126,16 +160,21 @@ Tadhla: *pant* If you need my assistance... please let me know, anytime.
 Tadhla: This is her lair.
 Tadhla: Red Vultures are careful and wicked by nature. She's probably sensed the danger and fled already, leaving us an empty lair.
 Tadhla: Now we must wait with patience.
-    Option 1:
-        Traveler: When will the Red Vulture return?
-        Tadhla: Not until she no longer feels in danger... Also, even if she senses our presence in the lair, she'd still be forced back here by the piercing cold of midnight.
-    Option 2:
-        Traveler: What's twinkling over there?
-        Tadhla: "Fool's Gold." Red Vultures love collecting shiny stuff.
-        Paimon: "Fool's Gold"... Hmm... Sounds like Fatui's hidden treasure...
-        Liloupar: "Fool's Gold" are things that only simpletons would believe to be valuable.
-        Paimon: Paimon certainly wouldn't fall for that!
-        Tadhla: Shh... You wouldn't want to have any of those. They are mostly commonplace alloys like brass and bronze that are not worth much.
+
+Option 1:
+
+> Traveler: When will the Red Vulture return?
+> Tadhla: Not until she no longer feels in danger... Also, even if she senses our presence in the lair, she'd still be forced back here by the piercing cold of midnight.
+
+Option 2:
+
+> Traveler: What's twinkling over there?
+> Tadhla: "Fool's Gold." Red Vultures love collecting shiny stuff.
+> Paimon: "Fool's Gold"... Hmm... Sounds like Fatui's hidden treasure...
+> Liloupar: "Fool's Gold" are things that only simpletons would believe to be valuable.
+> Paimon: Paimon certainly wouldn't fall for that!
+> Tadhla: Shh... You wouldn't want to have any of those. They are mostly commonplace alloys like brass and bronze that are not worth much.
+
 Tadhla: We will stay here and wait until midnight. Please have a rest if you are tired. I'll keep watch.
 
 ## Talk 8 (variant 2)
@@ -145,16 +184,21 @@ Tadhla: We will stay here and wait until midnight. Please have a rest if you are
 Tadhla: This is her lair.
 Tadhla: Red Vultures are careful and wicked by nature. She's probably sensed the danger and fled already, leaving us an empty lair.
 Tadhla: Now we must wait with patience.
-    Option 1:
-        Traveler: When will the Red Vulture return?
-        Tadhla: Not until she no longer feels in danger... Also, even if she senses our presence in the lair, she'd still be forced back here by the piercing cold of midnight.
-    Option 2:
-        Traveler: What's twinkling over there?
-        Tadhla: "Fool's Gold." Red Vultures love collecting shiny stuff.
-        Paimon: "Fool's Gold"... Hmm... Sounds like Fatui's hidden treasure...
-        Liloupar: "Fool's Gold" are things that only simpletons would believe to be valuable.
-        Paimon: Paimon certainly wouldn't fall for that!
-        Tadhla: Shh... You wouldn't want to have any of those. They are mostly commonplace alloys like brass and bronze that are not worth much.
+
+Option 1:
+
+> Traveler: When will the Red Vulture return?
+> Tadhla: Not until she no longer feels in danger... Also, even if she senses our presence in the lair, she'd still be forced back here by the piercing cold of midnight.
+
+Option 2:
+
+> Traveler: What's twinkling over there?
+> Tadhla: "Fool's Gold." Red Vultures love collecting shiny stuff.
+> Paimon: "Fool's Gold"... Hmm... Sounds like Fatui's hidden treasure...
+> Liloupar: "Fool's Gold" are things that only simpletons would believe to be valuable.
+> Paimon: Paimon certainly wouldn't fall for that!
+> Tadhla: Shh... You wouldn't want to have any of those. They are mostly commonplace alloys like brass and bronze that are not worth much.
+
 Tadhla: We will stay here and wait until midnight. Please have a rest if you are tired. I'll keep watch.
 
 Tadhla: ...
@@ -188,16 +232,21 @@ Tadhla: ...She hasn't returned yet. Please stay put, or she'll be alarmed.
 
 Tadhla: You are such a talented hunter. No wonder Father commissioned you to help me with this hunt.
 Tadhla: Please leave the rest to me. If you really are interested in this, I can teach you step by step.
-    Option 1:
-        Traveler: Please teach me.
-        Tadhla: Very well.
-        Black Screen Text: Tadhla demonstrates how to dissect a prey. You and Paimon seem to have learned a new skill that you probably will never actually put into practice.
-        Black Screen Text: After the demonstration, Tadhla shows you her hands soaked by the blood of her prey, a faint smile appearing on her lips.
+
+Option 1:
+
+> Traveler: Please teach me.
+> Tadhla: Very well.
+> Black Screen Text: Tadhla demonstrates how to dissect a prey. You and Paimon seem to have learned a new skill that you probably will never actually put into practice.
+> Black Screen Text: After the demonstration, Tadhla shows you her hands soaked by the blood of her prey, a faint smile appearing on her lips.
 This is the first time that she has revealed any trace of her emotions.
-    Option 2:
-        Traveler: Uh... I'll pass.
-        Tadhla: Suit yourselves.
-        Black Screen Text: Tadhla dissects the prey with great proficiency and wraps it up in a package.
+
+Option 2:
+
+> Traveler: Uh... I'll pass.
+> Tadhla: Suit yourselves.
+> Black Screen Text: Tadhla dissects the prey with great proficiency and wraps it up in a package.
+
 Tadhla: Hmm... The smell of blood. Good.
 Paimon: Paimon can smell it, too! Uh... Such a strong smell... Aren't you going to wash it off?
 Tadhla: No, because we are going to hunt the Scorpion now.
@@ -220,14 +269,19 @@ Watching the campfire dancing and crackling, you find yourselves absent of any t
 Tadhla: Please forgive me for having doubted you. You have proven that you are a talented hunter.
 Tadhla: We may operate under different approaches, but I must say you have amazing instincts...
 Tadhla: Please leave the rest to me. If you really are interested in this, I can teach you step by step.
-    Option 1:
-        Traveler: Please teach me.
-        Tadhla: Very well.
-        [Missing Dialog 732810906]
-    Option 2:
-        Traveler: Uh... I'll pass.
-        Tadhla: Suit yourselves.
-        [Missing Dialog 732810910]
+
+Option 1:
+
+> Traveler: Please teach me.
+> Tadhla: Very well.
+> [Missing Dialog 732810906]
+
+Option 2:
+
+> Traveler: Uh... I'll pass.
+> Tadhla: Suit yourselves.
+> [Missing Dialog 732810910]
+
 
 Tadhla: Hmm... The smell of blood. Good.
 Paimon: Uh... The smell of blood is really strong! Aren't you going to wash it off or something?
@@ -254,69 +308,94 @@ Black Screen Text: Tadhla dissects the prey with great proficiency and wraps it 
 (Rest for a night and talk to Tadhla)
 
 Tadhla: ...
-    Option 1:
-        Traveler: About Masseira...
-        Tadhla: He is my father. I am his "Falcon."
-        Traveler: ...
-        Tadhla: ...
-    Option 2:
-        Traveler: About you...
-        Tadhla: About me...?
-        Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
-        Traveler: Is that so strange?
-        Tadhla: I am a Falcon. I am only allowed to learn about my prey, not any other way around.
-        Tadhla: So... I am sorry, but I will not betray myself to you.
-        Liloupar: Be that so? Some advice to you, child: Think for yourself.
-    Option 3:
-        Traveler: About Masseira...
-        Tadhla: He is my father. I am his "Falcon."
-        Traveler: And...?
-        Tadhla: Talking the talk is the doings of parrots. Falcons only walk the walk.
-    Option 4:
-        Traveler: About you...
-        Tadhla: About me...?
-        Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
-        Traveler: I want to know what kind of person I am working with.
-        Tadhla: "Person"? No. A "Falcon"? Yes.
-        Tadhla: Please rest assured. I will not disobey you or leave you behind. It is Father who entrusted me to you.
-        Liloupar: Heh... A blind-folded Falcon. In what world would she care about how beautiful she is?
-    Option 5:
-        Traveler: About Masseira...
-        Tadhla: He is my father. I am his "Falcon."
-        Traveler: And...?
-        Tadhla: Talking the talk is the doings of parrots. Falcons only walk the walk.
-    Option 6:
-        Traveler: About Masseira...
-        Tadhla: He is my father. I am his "Falcon."
-        Traveler: ...
-        Tadhla: ...
-    Option 7:
-        Traveler: About you...
-        Tadhla: About me...?
-        Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
-        Traveler: I want to know what kind of person I am working with.
-        Tadhla: "Person"? No. A "Falcon"? Yes.
-        Tadhla: Please rest assured. I will not disobey you or leave you behind. It is Father who entrusted me to you.
-        Liloupar: Heh... A blind-folded Falcon. In what world would she care about how beautiful she is?
+
+Option 1:
+
+> Traveler: About Masseira...
+> Tadhla: He is my father. I am his "Falcon."
+> Traveler: ...
+> Tadhla: ...
+
+Option 2:
+
+> Traveler: About you...
+> Tadhla: About me...?
+> Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
+> Traveler: Is that so strange?
+> Tadhla: I am a Falcon. I am only allowed to learn about my prey, not any other way around.
+> Tadhla: So... I am sorry, but I will not betray myself to you.
+> Liloupar: Be that so? Some advice to you, child: Think for yourself.
+
+Option 3:
+
+> Traveler: About Masseira...
+> Tadhla: He is my father. I am his "Falcon."
+> Traveler: And...?
+> Tadhla: Talking the talk is the doings of parrots. Falcons only walk the walk.
+
+Option 4:
+
+> Traveler: About you...
+> Tadhla: About me...?
+> Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
+> Traveler: I want to know what kind of person I am working with.
+> Tadhla: "Person"? No. A "Falcon"? Yes.
+> Tadhla: Please rest assured. I will not disobey you or leave you behind. It is Father who entrusted me to you.
+> Liloupar: Heh... A blind-folded Falcon. In what world would she care about how beautiful she is?
+
+Option 5:
+
+> Traveler: About Masseira...
+> Tadhla: He is my father. I am his "Falcon."
+> Traveler: And...?
+> Tadhla: Talking the talk is the doings of parrots. Falcons only walk the walk.
+
+Option 6:
+
+> Traveler: About Masseira...
+> Tadhla: He is my father. I am his "Falcon."
+> Traveler: ...
+> Tadhla: ...
+
+Option 7:
+
+> Traveler: About you...
+> Tadhla: About me...?
+> Tadhla: There's nothing much to say about me... Are you sure you want to know more about me?
+> Traveler: I want to know what kind of person I am working with.
+> Tadhla: "Person"? No. A "Falcon"? Yes.
+> Tadhla: Please rest assured. I will not disobey you or leave you behind. It is Father who entrusted me to you.
+> Liloupar: Heh... A blind-folded Falcon. In what world would she care about how beautiful she is?
+
 Tadhla: Did you rest well? Are we ready to go?
-    Option 1:
-        Traveler: Let's go and continue the hunt.
-        Tadhla: Please follow me.
-    Option 2:
-        Traveler: I have some other things to do. I'll be back later.
-        Tadhla: Suit yourselves.
+
+Option 1:
+
+> Traveler: Let's go and continue the hunt.
+> Tadhla: Please follow me.
+
+Option 2:
+
+> Traveler: I have some other things to do. I'll be back later.
+> Tadhla: Suit yourselves.
+
 
 ## Talk 15 (alternative/additional)
 
 (Rest for a night and talk to Tadhla)
 
 Tadhla: You're back.
-    Option 1:
-        Traveler: Let's go and continue the hunt.
-        Tadhla: I'll lead the way. Please follow me.
-    Option 2:
-        Traveler: I have some other things to do.
-        Tadhla: Suit yourselves.
+
+Option 1:
+
+> Traveler: Let's go and continue the hunt.
+> Tadhla: I'll lead the way. Please follow me.
+
+Option 2:
+
+> Traveler: I have some other things to do.
+> Tadhla: Suit yourselves.
+
 
 ## Objective 15
 
@@ -347,19 +426,26 @@ Tadhla: There's also a third method... Not a clever one though. We risk our live
 Tadhla: But this method has its merits, too. It avoids any contamination so that we can extract the purest Scorpion venom.
 Tadhla: I'll leave the final choice to you. Please take your time.
 Tadhla: Oh, one more thing. When fighting with the Scorpion, we must be very careful. Its toxin can be lethal.
-    Option 1:
-        Traveler: Let's use the paralyzing poisonous bait.
-        Tadhla: Very well... Are there any cuts or scratches on your hands?
-        Black Screen Text: Tadhla prepares the poisonous bait carefully as you wait patiently in the cave until the moon rises...
-        Tadhla: It's working. Let's go!
-    Option 2:
-        Traveler: Let's use the viper venom bait.
-        Tadhla: Be careful and don't cut yourself. It'll be a disaster if viper venom gets into your body.
-        Black Screen Text: Tadhla prepares the poisonous bait carefully as you wait patiently in the cave until the moon rises...
-        Tadhla: It has been weakened. Let's go!
-    Option 3:
-        Traveler: I don't need any bait.
-        Tadhla: Then I will watch your back.
+
+Option 1:
+
+> Traveler: Let's use the paralyzing poisonous bait.
+> Tadhla: Very well... Are there any cuts or scratches on your hands?
+> Black Screen Text: Tadhla prepares the poisonous bait carefully as you wait patiently in the cave until the moon rises...
+> Tadhla: It's working. Let's go!
+
+Option 2:
+
+> Traveler: Let's use the viper venom bait.
+> Tadhla: Be careful and don't cut yourself. It'll be a disaster if viper venom gets into your body.
+> Black Screen Text: Tadhla prepares the poisonous bait carefully as you wait patiently in the cave until the moon rises...
+> Tadhla: It has been weakened. Let's go!
+
+Option 3:
+
+> Traveler: I don't need any bait.
+> Tadhla: Then I will watch your back.
+
 
 ## Objective 19
 
@@ -386,38 +472,48 @@ Tadhla: Oh, one more thing. When fighting with the Scorpion, we must be very car
 (Talk to Tadhla)
 
 Tadhla: ...Thank you. You didn't have to do this for me.
-    Option 1:
-        Traveler: Are you alright?
-        Tadhla: I'm fine.
-        Paimon: You are bleeding...
-        Tadhla: It's nothing. Just a scratch.
-    Option 2:
-        Traveler: Are you hurt?
-        Tadhla: No... Um... Just a little bit, but it doesn't matter.
-        Paimon: Don't push yourself too hard.
-        Tadhla: I won't. Thank you, Paimon.
+
+Option 1:
+
+> Traveler: Are you alright?
+> Tadhla: I'm fine.
+> Paimon: You are bleeding...
+> Tadhla: It's nothing. Just a scratch.
+
+Option 2:
+
+> Traveler: Are you hurt?
+> Tadhla: No... Um... Just a little bit, but it doesn't matter.
+> Paimon: Don't push yourself too hard.
+> Tadhla: I won't. Thank you, Paimon.
+
 Tadhla: Alright... Next up, dissection.
-    Option 1:
-        Traveler: Can I take a look?
-        Tadhla: ...?
-        Tadhla: Pfft...
-        Paimon: Eh? What's so funny?
-        Liloupar: Pretty uncommon for a Falcon, I would say.
-        Tadhla: It's just... It's kind of funny when you suddenly asked to see how I dissect the Scorpion.
-        Tadhla: I barely know anyone else who is as interested in taking apart prey as you are. Or are you interested in this for some other reason?
-        Traveler: I'm just worried that your hands might shake.
-        Tadhla: They do not shake when I hunt. Nor will they shake when I harvest my prey.
-        Tadhla: No need to worry. I am a "Falcon," after all...
-        Black Screen Text: Tadhla slowly cuts the Scorpion open, harvests its poison glands, and removes the useless organs, and carefully wraps them up in separate packages.
+
+Option 1:
+
+> Traveler: Can I take a look?
+> Tadhla: ...?
+> Tadhla: Pfft...
+> Paimon: Eh? What's so funny?
+> Liloupar: Pretty uncommon for a Falcon, I would say.
+> Tadhla: It's just... It's kind of funny when you suddenly asked to see how I dissect the Scorpion.
+> Tadhla: I barely know anyone else who is as interested in taking apart prey as you are. Or are you interested in this for some other reason?
+> Traveler: I'm just worried that your hands might shake.
+> Tadhla: They do not shake when I hunt. Nor will they shake when I harvest my prey.
+> Tadhla: No need to worry. I am a "Falcon," after all...
+> Black Screen Text: Tadhla slowly cuts the Scorpion open, harvests its poison glands, and removes the useless organs, and carefully wraps them up in separate packages.
 While doing this, her hands are nimble and steady, as if playing a soundless musical instrument that is made of blood and chitin.
 ...It is only a short while before she finishes the dissection.
-        Black Screen Text: After all this work, Tadhla lets out a long breath.
+> Black Screen Text: After all this work, Tadhla lets out a long breath.
 Her forehead is dotted with tiny beads of sweat, her breaths tremulous... Her fresh wound must really hurt.
-    Option 2:
-        Traveler: You should take a break.
-        Tadhla: No... If not preserved properly, the poison glands will spoil in the air and become useless.
-        Black Screen Text: Tadhla harvests the Scorpion with ease, removing its poison glands and useless organs, then carefully wraps them up in separate packages.
+
+Option 2:
+
+> Traveler: You should take a break.
+> Tadhla: No... If not preserved properly, the poison glands will spoil in the air and become useless.
+> Black Screen Text: Tadhla harvests the Scorpion with ease, removing its poison glands and useless organs, then carefully wraps them up in separate packages.
 After that, she shows you her stained hands without a change of expression on her face. Somehow you feel that she is trying to prove something to you...
+
 Tadhla: See? It's just a scratch. For a Falcon, it's nothing to worry about.
 Tadhla: Alright, we still need to hunt the Flying Serpent. Let's go.
 
@@ -443,14 +539,19 @@ Paimon: Tadhla! Are you alright?
 Tadhla: *pant* Yes...
 Liloupar: She means to say that "It hurts."
 Tadhla: I... Do not...
-    Option 1:
-        Traveler: It's okay. Let me do it.
-        Paimon: Yes, you should get some rest!
-        Tadhla: ...
-    Option 2:
-        Traveler: Leave the rest to me.
-        Paimon: #Yes, from now on, you can totally count on us! Umm, Paimon means you can totally count on Traveler!
-        Tadhla: ...
+
+Option 1:
+
+> Traveler: It's okay. Let me do it.
+> Paimon: Yes, you should get some rest!
+> Tadhla: ...
+
+Option 2:
+
+> Traveler: Leave the rest to me.
+> Paimon: #Yes, from now on, you can totally count on us! Umm, Paimon means you can totally count on Traveler!
+> Tadhla: ...
+
 
 ## Objective 27
 
@@ -464,14 +565,19 @@ Tadhla: I... Do not...
 Tadhla: Sorry for not being helpful...
 Paimon: Don't say that, you deserve some rest! There's nothing wrong with us helping out when you're not feeling so well. We're friends after all!
 Tadhla: I am but a Falcon of Masseira's.
-    Option 1:
-        Traveler: And a friend of ours.
-        Tadhla: ...
-        Tadhla: Fine.
-    Option 2:
-        Traveler: We see you only as our friend.
-        Tadhla: ...
-        Tadhla: Thank you.
+
+Option 1:
+
+> Traveler: And a friend of ours.
+> Tadhla: ...
+> Tadhla: Fine.
+
+Option 2:
+
+> Traveler: We see you only as our friend.
+> Tadhla: ...
+> Tadhla: Thank you.
+
 Liloupar: Ah... Pardon me, my master, but I... sense my fragment nearby.
 Tadhla: ...It's okay. I'll go take care of our prey.
 
@@ -501,10 +607,15 @@ The people turned against each other, and the Jinn scattered across the lands...
 Black Screen Text: Then, the merciless era of the Spirit of Victory began... The crazed king and the nobles rejoiced in their superiority...
 Yet none were aware that all the happenings within Gurabad were created by the scheming hands of the Mother of the Jinn...
 Liloupar: My master, are you feeling alright?
-    Option 1:
-        Traveler: It's... Gurabad. Again...
-    Option 2:
-        Traveler: My head really hurts...
+
+Option 1:
+
+> Traveler: It's... Gurabad. Again...
+
+Option 2:
+
+> Traveler: My head really hurts...
+
 Liloupar: Apologies. Experiencing a Jinni's memories is not necessarily always a pleasant experience.
 Traveler: Liloupar, what have you done...
 Liloupar: What have I done? You should see what they have done... With just a nudge, they would have cast themselves down the vile path toward certain ruination.
@@ -514,13 +625,18 @@ Paimon: Are you awake? Can you not always scare Paimon to death!?
 Tadhla: Oh, you are finally awake. Paimon was so worried about you...
 Paimon: So was Tadhla! When you fell unconscious, she was really nervous and almost cried! Paimon thinks you owe Tadhla an apology!
 Tadhla: I was not...
-    Option 1:
-        Traveler: I didn't mean to make you worry, Tadhla. I'm sorry.
-        Tadhla: ...
-        Tadhla: A hunter does not apologize to a Falcon.
-    Option 2:
-        Traveler: Please don't push yourself too hard.
-        Tadhla: It's nothing.
+
+Option 1:
+
+> Traveler: I didn't mean to make you worry, Tadhla. I'm sorry.
+> Tadhla: ...
+> Tadhla: A hunter does not apologize to a Falcon.
+
+Option 2:
+
+> Traveler: Please don't push yourself too hard.
+> Tadhla: It's nothing.
+
 Traveler: How is your wound now?
 Tadhla: Hmm... It's been better. Let's head back.
 Liloupar: She's shaking, as if having a fever... It's the Scorpion's toxin. I know it well.
@@ -531,10 +647,15 @@ Tadhla: ...
 Liloupar: A good Falcon knows to cherish their life. Or they will become a burden and be eliminated. Be you a foolish Falcon, child?
 Tadhla: ...
 Paimon: That's enough, Liloupar. Don't be so harsh to her! And Tadhla, stop treating yourself this way... We really should get some rest before we go!
-    Option 1:
-        Traveler: Liloupar has a point.
-    Option 2:
-        Traveler: Paimon's right.
+
+Option 1:
+
+> Traveler: Liloupar has a point.
+
+Option 2:
+
+> Traveler: Paimon's right.
+
 Tadhla: Ah... I'm sorry.
 Paimon: There is no need to apologize! This cave should be able to block out the cold winds at night. Let's set up a campfire right here!
 Tadhla: Good idea... Let me help... *grunt*
@@ -571,17 +692,24 @@ Tadhla: It's embarrassing to say. I... I got injured. But thanks to the Master o
 Masseira: ...
 Masseira: Good, very good. It's good to see you're alright.
 Masseira: Esteemed Master of the Jinni, did my Falcon hold you back?
-    Option 1:
-        Traveler: Tadhla has done me a big favor.
-        Masseira: Is that so...
-        Masseira: Very well. Thank you very much.
-    Option 2:
-        Traveler: We had a great time.
-        Masseira: Oh, a great time?
-        Masseira: Very well. Thank you very much.
-    Option 3:
-        Traveler: Please do not have such doubts. Tadhla is extremely capable.
-        Masseira: I know that, of course. She's my Falcon, after all.
+
+Option 1:
+
+> Traveler: Tadhla has done me a big favor.
+> Masseira: Is that so...
+> Masseira: Very well. Thank you very much.
+
+Option 2:
+
+> Traveler: We had a great time.
+> Masseira: Oh, a great time?
+> Masseira: Very well. Thank you very much.
+
+Option 3:
+
+> Traveler: Please do not have such doubts. Tadhla is extremely capable.
+> Masseira: I know that, of course. She's my Falcon, after all.
+
 Masseira: But... Falcons belong to hunters, not the earth. Once Falcons get attached to the world, their senses and claws will be dull. If that happens, how can I expect them to hunt for me?
 Paimon: That doesn't make any sense to Paimon... But hearing you going on and on about Falcons surely makes Paimon irritated!
 Paimon: Tadhla is human, and our friend! Not some sort of so-called "Falcon"!
@@ -614,55 +742,81 @@ Masseira: Prey won't hunt themselves for us. Please go find Tadhla to learn what
 ### Additional Talk 4
 
 Masseira: Ah, you're back. Is there something else you want to talk about? Or are you just looking to chat?
-    Option 1:
-        Traveler: About Tadhla...
-        Masseira: I believe she will be a real Falcon after training with you.
-    Option 2:
-        Traveler: About the "coming-of-age ceremony"...
-        Masseira: Act alone or with company and hunt formidable targets, become a qualified "Falcon" for the tribe, and deal with prey and enemies...
-        Masseira: Simple.
-    Option 3:
-        Traveler: Bye.
-        Masseira: Good luck with the hunt.
+
+Option 1:
+
+> Traveler: About Tadhla...
+> Masseira: I believe she will be a real Falcon after training with you.
+
+Option 2:
+
+> Traveler: About the "coming-of-age ceremony"...
+> Masseira: Act alone or with company and hunt formidable targets, become a qualified "Falcon" for the tribe, and deal with prey and enemies...
+> Masseira: Simple.
+
+Option 3:
+
+> Traveler: Bye.
+> Masseira: Good luck with the hunt.
+
 
 ### Additional Talk 5
 
 Masseira: Ah, the distinguished Master of the Jinni. If you are here for Tadhla, it might not be a convenient time.
-    Option 1:
-        Traveler: About Tadhla...
-        Masseira: I am her Father, she is my Falcon. Although she is not the only Falcon that has grown up under my tutelage, she is the one that I trust the most.
-        Masseira: Trust is invaluable. It is something that concerns life and death in this tribe.
-    Option 2:
-        Traveler: About you...
-        Masseira: I am a hunter in the tribe, but I'm getting old and not as strong and agile as before... In time, your friend Jeht will take the place of old timers like me.
-        Masseira: So, I have high hopes for Tadhla. When the day comes that I have to retire, I need to have at least one Falcon that I can trust.
-    Option 3:
-        Traveler: About the tribe...
-        Masseira: Tanit is our tribe, our home.
-        Masseira: In the desert, no one can survive without the protection of the tribe. Also, if the tribe needs to take someone's life, how can they escape under the omnipresence of the "eyes" and "claws" of our Falcons?
-    Option 4:
-        Traveler: Bye.
-        Masseira: May patterns on the sand dunes guide your way, esteemed Master of the Jinni.
+
+Option 1:
+
+> Traveler: About Tadhla...
+> Masseira: I am her Father, she is my Falcon. Although she is not the only Falcon that has grown up under my tutelage, she is the one that I trust the most.
+> Masseira: Trust is invaluable. It is something that concerns life and death in this tribe.
+
+Option 2:
+
+> Traveler: About you...
+> Masseira: I am a hunter in the tribe, but I'm getting old and not as strong and agile as before... In time, your friend Jeht will take the place of old timers like me.
+> Masseira: So, I have high hopes for Tadhla. When the day comes that I have to retire, I need to have at least one Falcon that I can trust.
+
+Option 3:
+
+> Traveler: About the tribe...
+> Masseira: Tanit is our tribe, our home.
+> Masseira: In the desert, no one can survive without the protection of the tribe. Also, if the tribe needs to take someone's life, how can they escape under the omnipresence of the "eyes" and "claws" of our Falcons?
+
+Option 4:
+
+> Traveler: Bye.
+> Masseira: May patterns on the sand dunes guide your way, esteemed Master of the Jinni.
+
 
 ### Additional Talk 6
 
 Tadhla: Did you finish dealing with the Jinn matter?
-    Option 1:
-        Traveler: Not yet...
-        Tadhla: Please don't worry about me. I'm still busy with something...
-    Option 2:
-        Traveler: How is your wound? Is it getting better?
-        Tadhla: Yes, it doesn't hurt anymore. *grunt* It's okay now.
+
+Option 1:
+
+> Traveler: Not yet...
+> Tadhla: Please don't worry about me. I'm still busy with something...
+
+Option 2:
+
+> Traveler: How is your wound? Is it getting better?
+> Tadhla: Yes, it doesn't hurt anymore. *grunt* It's okay now.
+
 
 ### Additional Talk 7
 
 Tadhla: Hello, the Master of the Jinni.
-    Option 1:
-        Traveler: How is your wound? Is it getting better?
-        Tadhla: Nothing to worry about. No need to worry about me.
-    Option 2:
-        Traveler: Bye.
-        Tadhla: Goodbye.
+
+Option 1:
+
+> Traveler: How is your wound? Is it getting better?
+> Tadhla: Nothing to worry about. No need to worry about me.
+
+Option 2:
+
+> Traveler: Bye.
+> Tadhla: Goodbye.
+
 
 ## Associated Free Talks
 

@@ -151,59 +151,70 @@ Regrator: He pleaded with the gods, begging them to grant him one final request:
 Regrator: Many suns and moons passed, seasons changed, and still his confession continued, as if he intended to speak until the end of time...
 Il Dottore: Are you suggesting I worship you as a god? Or were you hoping that I might confess my sins to you?
 Regrator: Certainly not the latter. That would make my life miserable indeed.
-    Option 1:
-        Il Dottore: And speaking of gods...
-        Il Dottore: For someone who despises them so, you never seemed to have any objections to me creating or becoming one.
-        Il Dottore: At first, I thought you'd be furious.
-        Regrator: Concerned I would terminate our partnership, were you?
-        Il Dottore: Not at all. You had reasons why our partnership must continue.
-        Regrator: Don't you find people's attitudes toward gods amusing? A god descends from the heavens, and people worship it unreservedly, blindly following whatever rules are given to them.
-        Regrator: And yet, when they see an ordinary person gain godlike levels of power by virtue of their own hard work, they treat him with nothing but suspicion, even if he is a compatriot.
-        Il Dottore: Is that supposed to be a compliment?
-        Regrator: No. I was just thinking... I pity the man who would call you a compatriot.
-        Il Dottore: There's no need to be so self-critical.
-    Option 2:
-        Il Dottore: Also, about your recent situation...
-        Il Dottore: I know it's a little late in the day to be asking this... but how have you been keeping?
-        Regrator: Haha, I'm flattered that you would take the time out of your busy schedule to consider my wellbeing, Doctor.
-        Regrator: The part of your soul that went to Nod-Krai caused quite a stir, sending our organization back to the drawing board on numerous fronts. It was quite a headache for everyone involved.
-        Il Dottore: Dear me. I must have caused you no end of trouble.
-        Regrator: You certainly did. I had the rare honor of being summoned before the Tsaritsa with Pulcinella to answer for myself. A terrifying ordeal.
-        Regrator: Don't worry, I pulled through. At most, it's a public relations nightmare. I made sure of that.
-        Il Dottore: Now I'm curious. How did you explain yourself?
-        Regrator: Oh, it was quite simple. I just pinned the blame on someone who wasn't there to defend himself.
-        Regrator: I could hardly be expected to defy the demands of someone as insistent as the Second Harbinger, now could I?
-        Il Dottore: How you slander me. You know full well that I am perfectly amenable to reason.
-        Il Dottore: There's no question that you are partly to blame for the ruin of my reputation over the years.
-    Option 3:
-        Il Dottore: Now then, about your plans for the future...
-        Il Dottore: Do you have anything lined up for when this is all over?
-        Regrator: ...Hard to say.
-        Regrator: Field work always takes quite a toll on me, as you know. Once I'm back in Snezhnaya, I'll start with a well-earned cigarette.
-        Il Dottore: Why are you so eager to ruin your lungs after I went to the trouble of replacing them for you?
-        Regrator: If you have an issue with it, feel free to try to stop me.
-    Option 4:
-        Il Dottore: Now then...
-        Regrator: What's on your mind?
-        Il Dottore: The limits of humanity.
-        Il Dottore: It's a pity. Despite running countless calculations, I find there is simply no way to reduce any further the amount of one's soul required to sustain an individual.
-        Regrator: It's rare to hear you admit to being unable to achieve something.
-        Il Dottore: I beg to differ. For instance, as I've told you before, the original "me" was prone to motion sickness and couldn't make long train rides.
-        Regrator: Ah yes, of course. One of the reasons you often sent "yourself" out on errands.
-        Il Dottore: ...
-        Regrator: What are you thinking about now?
-        Il Dottore: A new experiment.
-        Il Dottore: In the event that my soul was depleted, say we extracted my data from someone else's memories — yours, for instance — and then combined it with your intact soul as the base material... What would we create?
-        Regrator: Such a scenario would be impossible.
-        Il Dottore: Oh?
-        Regrator: As long as your current soul survives, there will be no need to create a new individual. Don't forget, you were the one who approved of the present, situation wherein only one Dottore remains.
-        Regrator: And if you ceased to exist... who would be capable of performing this experiment?
-        Il Dottore: Haha... hahaha!
-        Il Dottore: Since the day I met you, you've always excelled at talking your way out of a quandary.
-    Option 5:
-        Il Dottore: See you.
-        Regrator: Isn't it a little too early to be saying goodbye? Not that I wish to keep you from your business, of course.
-        Regrator: Very well. Let's leave the conversation there for now.
+
+Option 1:
+
+> Il Dottore: And speaking of gods...
+> Il Dottore: For someone who despises them so, you never seemed to have any objections to me creating or becoming one.
+> Il Dottore: At first, I thought you'd be furious.
+> Regrator: Concerned I would terminate our partnership, were you?
+> Il Dottore: Not at all. You had reasons why our partnership must continue.
+> Regrator: Don't you find people's attitudes toward gods amusing? A god descends from the heavens, and people worship it unreservedly, blindly following whatever rules are given to them.
+> Regrator: And yet, when they see an ordinary person gain godlike levels of power by virtue of their own hard work, they treat him with nothing but suspicion, even if he is a compatriot.
+> Il Dottore: Is that supposed to be a compliment?
+> Regrator: No. I was just thinking... I pity the man who would call you a compatriot.
+> Il Dottore: There's no need to be so self-critical.
+
+Option 2:
+
+> Il Dottore: Also, about your recent situation...
+> Il Dottore: I know it's a little late in the day to be asking this... but how have you been keeping?
+> Regrator: Haha, I'm flattered that you would take the time out of your busy schedule to consider my wellbeing, Doctor.
+> Regrator: The part of your soul that went to Nod-Krai caused quite a stir, sending our organization back to the drawing board on numerous fronts. It was quite a headache for everyone involved.
+> Il Dottore: Dear me. I must have caused you no end of trouble.
+> Regrator: You certainly did. I had the rare honor of being summoned before the Tsaritsa with Pulcinella to answer for myself. A terrifying ordeal.
+> Regrator: Don't worry, I pulled through. At most, it's a public relations nightmare. I made sure of that.
+> Il Dottore: Now I'm curious. How did you explain yourself?
+> Regrator: Oh, it was quite simple. I just pinned the blame on someone who wasn't there to defend himself.
+> Regrator: I could hardly be expected to defy the demands of someone as insistent as the Second Harbinger, now could I?
+> Il Dottore: How you slander me. You know full well that I am perfectly amenable to reason.
+> Il Dottore: There's no question that you are partly to blame for the ruin of my reputation over the years.
+
+Option 3:
+
+> Il Dottore: Now then, about your plans for the future...
+> Il Dottore: Do you have anything lined up for when this is all over?
+> Regrator: ...Hard to say.
+> Regrator: Field work always takes quite a toll on me, as you know. Once I'm back in Snezhnaya, I'll start with a well-earned cigarette.
+> Il Dottore: Why are you so eager to ruin your lungs after I went to the trouble of replacing them for you?
+> Regrator: If you have an issue with it, feel free to try to stop me.
+
+Option 4:
+
+> Il Dottore: Now then...
+> Regrator: What's on your mind?
+> Il Dottore: The limits of humanity.
+> Il Dottore: It's a pity. Despite running countless calculations, I find there is simply no way to reduce any further the amount of one's soul required to sustain an individual.
+> Regrator: It's rare to hear you admit to being unable to achieve something.
+> Il Dottore: I beg to differ. For instance, as I've told you before, the original "me" was prone to motion sickness and couldn't make long train rides.
+> Regrator: Ah yes, of course. One of the reasons you often sent "yourself" out on errands.
+> Il Dottore: ...
+> Regrator: What are you thinking about now?
+> Il Dottore: A new experiment.
+> Il Dottore: In the event that my soul was depleted, say we extracted my data from someone else's memories — yours, for instance — and then combined it with your intact soul as the base material... What would we create?
+> Regrator: Such a scenario would be impossible.
+> Il Dottore: Oh?
+> Regrator: As long as your current soul survives, there will be no need to create a new individual. Don't forget, you were the one who approved of the present, situation wherein only one Dottore remains.
+> Regrator: And if you ceased to exist... who would be capable of performing this experiment?
+> Il Dottore: Haha... hahaha!
+> Il Dottore: Since the day I met you, you've always excelled at talking your way out of a quandary.
+
+Option 5:
+
+> Il Dottore: See you.
+> Regrator: Isn't it a little too early to be saying goodbye? Not that I wish to keep you from your business, of course.
+> Regrator: Very well. Let's leave the conversation there for now.
+
 
 ## Talk 5
 

@@ -19,21 +19,31 @@ Paimon: Say what? What's up, what's up? Paimon wants in!
 Patton: Recently, all the customers at the tavern have been debating the exact same topic: "Who is the strongest fighter in Mondstadt?"
 Paimon: The strongest fighter?
 Paimon: Must be someone who can floor a whole gang of hilichurls with just one punch!
-    Option 1:
-        Traveler: There must be far more to it than that.
-        Paimon: Wow... then it really must be tough to become the strongest of all.
-    Option 2:
-        Traveler: Pff! I do that for fun.
-        Paimon: Then Paimon nominates you!
+
+Option 1:
+
+> Traveler: There must be far more to it than that.
+> Paimon: Wow... then it really must be tough to become the strongest of all.
+
+Option 2:
+
+> Traveler: Pff! I do that for fun.
+> Paimon: Then Paimon nominates you!
+
 Paimon: But anyway... Is there, like, a general agreement in the city on who it is, or...?
 Patton: Hah. Expecting people to come to a swift and straightforward consensus in the City of Freedom is like expecting Fisherman's Toast to drop out of the sky.
 Patton: Everyone's got their own opinion, backed up by a unique set of cherry-picked information... But let's be honest, that's what makes the discussion so impassioned and entertaining.
 Patton: Mainstream opinion is polarized, with most people supporting one of two candidates.
 Patton: One is the Dandelion Knight, the other is the Darknight Hero.
-    Option 1:
-        Traveler: Paimon, who are you voting for?
-    Option 2:
-        Traveler: Anyone vote for me?
+
+Option 1:
+
+> Traveler: Paimon, who are you voting for?
+
+Option 2:
+
+> Traveler: Anyone vote for me?
+
 Paimon: Paimon votes for you!
 Paimon: But let's go into the *tavern* and talk to the patrons. Maybe we'll pick up some juicy gossip.
 Patton: Oh, I do envy your life of leisure...
@@ -60,12 +70,17 @@ Jack: In my opinion, that would be the finest adventurer of them all — Stanley
 Jack: Guild Master Cyrus is up there with the toughest, too, but only Stanley can take on the bloodthirsty beasts of the Mare Jivari!
 Paimon: Bloodthirsty beasts of the Mare Jivari? Sounds terrifying!
 Paimon: D'you reckon you'd be scared if you were faced with one of those?
-    Option 1:
-        Traveler: I'd beat it to a pulp.
-        Paimon: Yeah! Bam, wham, pow!
-    Option 2:
-        Traveler: I'd run for my life.
-        Paimon: Sensible choice. Safety first and all that.
+
+Option 1:
+
+> Traveler: I'd beat it to a pulp.
+> Paimon: Yeah! Bam, wham, pow!
+
+Option 2:
+
+> Traveler: I'd run for my life.
+> Paimon: Sensible choice. Safety first and all that.
+
 
 ## Talk 6 (alternative/additional)
 
@@ -136,12 +151,17 @@ Six-Fingered José: Maybe even the most powerful treasure in all of Mondstadt!
 Paimon: Did you say treasure!?
 Paimon: #Traveler, did Paimon imagine that or did you hear it too?
 Six-Fingered José: It's... just a guess. I mean... No, it's a bard's razor-sharp intuition!
-    Option 1:
-        Traveler: I don't buy it.
-        Six-Fingered José: How can you say such a thing...
-    Option 2:
-        Traveler: I'll take you at your word, for now.
-        Six-Fingered José: #Thank you, amigo! Ah, I am so happy to meet a true amigo. Who would have thought—
+
+Option 1:
+
+> Traveler: I don't buy it.
+> Six-Fingered José: How can you say such a thing...
+
+Option 2:
+
+> Traveler: I'll take you at your word, for now.
+> Six-Fingered José: #Thank you, amigo! Ah, I am so happy to meet a true amigo. Who would have thought—
+
 Paimon: So, this girl. What's her name?
 Six-Fingered José: Ah... I do not know her name. I do not see her often in Mondstadt.
 Six-Fingered José: Hey, I am telling the truth! You gotta believe me!
@@ -153,22 +173,32 @@ Paimon: But thanks for your intel!
 (Discuss your findings with Paimon)
 
 Paimon: Patton was right about one thing.
-    Option 1:
-        Traveler: Everyone has an opinion.
-    Option 2:
-        Traveler: Not just that, but some people's choice of candidate was just plain weird.
+
+Option 1:
+
+> Traveler: Everyone has an opinion.
+
+Option 2:
+
+> Traveler: Not just that, but some people's choice of candidate was just plain weird.
+
 Paimon: If everyone's got their own opinion and can't be persuaded...
 Paimon: ...How are we ever gonna find out who Mondstadt's strongest fighter is?
 Paimon: ...Eureka! Paimon's got it!
 Paimon: Let's go see what *Jean* says.
 Paimon: Bet the Knights have got an official ranking table for this kind of thing!
-    Option 1:
-        Traveler: What makes you so sure?
-        Paimon: Come on, let's just go and ask already. We'll never find out if we don't!
-    Option 2:
-        Traveler: Ooh! Do you think I'll be on there?
-        Paimon: Guess it depends if they counted all your shenanigans or not.
-        Paimon: Don't worry though, Paimon has full confidence in your abilities!
+
+Option 1:
+
+> Traveler: What makes you so sure?
+> Paimon: Come on, let's just go and ask already. We'll never find out if we don't!
+
+Option 2:
+
+> Traveler: Ooh! Do you think I'll be on there?
+> Paimon: Guess it depends if they counted all your shenanigans or not.
+> Paimon: Don't worry though, Paimon has full confidence in your abilities!
+
 
 ## Objective 12
 
@@ -191,10 +221,15 @@ Jean: Recently, one of the Abyss Order's Mages has been active near the city, al
 Jean: If you are staying around Mondstadt, please be on the lookout for danger.
 Jean: Given your... well, high-ranking fighting strength, I trust you will be able to help keep the area safe.
 Paimon: #Awesome! After Traveler defeats the Abyss Order, {F#she'll}{M#he'll} climb up that ranking table faster than {F#she}{M#he} climbs up all those cliffs!
-    Option 1:
-        Traveler: Paimon. There is no ranking table.
-    Option 2:
-        Traveler: D'you think I'll get to first place?
+
+Option 1:
+
+> Traveler: Paimon. There is no ranking table.
+
+Option 2:
+
+> Traveler: D'you think I'll get to first place?
+
 Paimon: Well, either way, smashing the Abyss Order to bits is the right thing to do.
 Jean: Hehe. I like your enthusiasm. It is infectious.
 Jean: But be careful out there.
@@ -224,18 +259,28 @@ Klee (???): Mr. Kaeya wrote these down for me, um... they're, um... survival rul
 Paimon: Survival rules?
 Klee (???): Y—Yeah... Rules that I must absolutely never break under any circumstances.
 Klee (???): Otherwise, something terrible would happen.
-    Option 1:
-        Traveler: Kaeya writes like this?
-    Option 2:
-        Traveler: Something terrible?
+
+Option 1:
+
+> Traveler: Kaeya writes like this?
+
+Option 2:
+
+> Traveler: Something terrible?
+
 Klee (???): Yep!
 Klee (???): Ah, I forgot to introduce myself!
 Klee: My name is Klee.
-    Option 1:
-        Traveler: Hello, Klee.
-    Option 2:
-        Traveler: #My name is Traveler.
-        Paimon: And Paimon's name is... well, Paimon.
+
+Option 1:
+
+> Traveler: Hello, Klee.
+
+Option 2:
+
+> Traveler: #My name is Traveler.
+> Paimon: And Paimon's name is... well, Paimon.
+
 Klee: I've heard all about you guys! You're the Honorary Knight who helps Mondstadt!
 Paimon: Wow!
 Paimon: More recognition, yay! Paimon is so happy right now.
@@ -244,13 +289,18 @@ Klee: I'm dealing with a big emergency. I grabbed my map and ran as fast as I co
 Traveler: What's wrong?
 Klee: Th—The treasure I buried in the *Whispering Woods*, it's... gone.
 Paimon: Did you say... buried treasure!?
-    Option 1:
-        Traveler: I think she needs our help.
-        Paimon: Exactly what Paimon was thinking!
-    Option 2:
-        Traveler: A girl dressed in red, hmm...
-        Paimon: And she has treasure!
-        Paimon: (Seriously? Klee gets Six-Fingered José's vote for strongest fighter in Mondstadt? What is wrong with people...)
+
+Option 1:
+
+> Traveler: I think she needs our help.
+> Paimon: Exactly what Paimon was thinking!
+
+Option 2:
+
+> Traveler: A girl dressed in red, hmm...
+> Paimon: And she has treasure!
+> Paimon: (Seriously? Klee gets Six-Fingered José's vote for strongest fighter in Mondstadt? What is wrong with people...)
+
 Paimon: Lost treasure is a big deal. Let us help you find it!
 Klee: Yay! Thanks, you guys!
 Klee: Here! Here's where the map says the treasure should be. I put a circle round it.
@@ -287,19 +337,24 @@ Jack: Laters! Happy adventuring!
 Traveler: ...Um, who are you?
 Six-Fingered José: You can call me Six-Fingered José, it's okay.
 Six-Fingered José: I am a beloved bard of Mondstadt... Or I should say, I used to be beloved.
-    Option 1:
-        Traveler: Sing for me, José, por favor!
-        Six-Fingered José: Oh? You want to hear my latest song? I call it Ode to a Morning Breeze.
-        Six-Fingered José: ...I just need to tune my instrument.
-        Six-Fingered José: Uh-oh...
-        Six-Fingered José: I am so sorry. I have had no audience to play for for so long that now my strings are a little... I'll sing for you next time.
-    Option 2:
-        Traveler: Are there many other bards in Mondstadt?
-        Six-Fingered José: #Are you kidding me, amigo? Mondstadt is known all over for its songs from the pastures!
-        Six-Fingered José: But lately a mysterious bard appeared in this place. I checked all over, but I can't find out anything about him.
-        Six-Fingered José: Since he came here, my audience has slowly disappeared.
-        Six-Fingered José: I did consider a battle of the bards...
-        Six-Fingered José: But I think even I would be seduced by his beautiful voice...
+
+Option 1:
+
+> Traveler: Sing for me, José, por favor!
+> Six-Fingered José: Oh? You want to hear my latest song? I call it Ode to a Morning Breeze.
+> Six-Fingered José: ...I just need to tune my instrument.
+> Six-Fingered José: Uh-oh...
+> Six-Fingered José: I am so sorry. I have had no audience to play for for so long that now my strings are a little... I'll sing for you next time.
+
+Option 2:
+
+> Traveler: Are there many other bards in Mondstadt?
+> Six-Fingered José: #Are you kidding me, amigo? Mondstadt is known all over for its songs from the pastures!
+> Six-Fingered José: But lately a mysterious bard appeared in this place. I checked all over, but I can't find out anything about him.
+> Six-Fingered José: Since he came here, my audience has slowly disappeared.
+> Six-Fingered José: I did consider a battle of the bards...
+> Six-Fingered José: But I think even I would be seduced by his beautiful voice...
+
 
 ### Additional Talk 5
 

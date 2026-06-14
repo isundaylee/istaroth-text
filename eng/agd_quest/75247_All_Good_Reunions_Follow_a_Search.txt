@@ -44,10 +44,15 @@ Paimon: Oh no... Please don't tell Paimon you're gonna hide with them and force 
 Ororon: That's right! From now on, I'm "Orasha," and he's "Ifasha." Gotta go hide. Good luck!
 Ifa: Bro! What the...! Gah...
 Ifa: Sorry, guys. Mind humoring him for a bit?
-    Option 1:
-        Traveler: Not at all. It's fun!
-    Option 2:
-        Traveler: Don't worry! I have more than enough energy to spare!
+
+Option 1:
+
+> Traveler: Not at all. It's fun!
+
+Option 2:
+
+> Traveler: Don't worry! I have more than enough energy to spare!
+
 Ifa: Thanks, you two! Guess that means I should get hiding!
 
 ## Objective 4
@@ -112,327 +117,342 @@ Paimon: Whoa, it's the Flower-Feather Clan specialty, "Sing Your Heart Out"... G
 Ororon: Nice! I'll take anything but Mystique Soup, honestly. I'm so tired of that stuff...
 Ororon: Guess I lucked out with this huge tub of candy! Dig in, everyone!
 Cacucu: You're the best, bro!
-    Option 1:
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): After making a meal of the Saurus Crackers, Cacucu crunches away at the candy.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): All the sugar gives everyone a bit of a rush...
-    Option 2:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: I'll go first, then.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Everyone follows Ororon's lead and shakes Cacucu's wing.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's an infectious feeling. Soon, everyone is petting his head too.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's so perfectly round and soft. You almost don't want the moment to end.
-    Option 3:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: We should save the best for last.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Everyone follows Ororon's lead and shakes Cacucu's wing.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's an infectious feeling. Soon, everyone is petting his head too.
-        Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's so perfectly round and soft. You almost don't want the moment to end.
-    Option 4:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: We should save the best for last.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
-        Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
-        Ifa: Wh—What are you looking at me for...?
-        Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
-        Ifa: ...
-        Paimon: Uh, what are you talking about?
-        Traveler: Wait, so Cacucu's luck...
-        Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
-        Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
-        Ifa: Well...
-        Ororon: That must mean you knew that adventurer from Mondstadt already.
-        Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
-        Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
-        Cacucu: Oh wow, bro...
-        Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
-        Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
-        Ororon: Oh, so he's actually called the Capybara King.
-        Ifa: Of course not. Just thought I'd use the name you gave him.
-        Ororon: Oh wow, bro! I'm touched.
-        Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
-        Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
-        Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
-        Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
-        Cacucu: Bro, bro...
-        Ororon: Oh, did you have something to add, Cacucu?
-        Cacucu: Bro, it's not...
-        Ororon: Bro, you don't have to say it. I understand. We love you, too.
-        Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
-        Traveler: Happy anniversary, Cacucu!
-        Cacucu: Bro! Bro!
-    Option 5:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: I'll go first, then.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
-        Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
-        Ifa: Wh—What are you looking at me for...?
-        Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
-        Ifa: ...
-        Paimon: Uh, what are you talking about?
-        Traveler: Wait, so Cacucu's luck...
-        Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
-        Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
-        Ifa: Well...
-        Ororon: That must mean you knew that adventurer from Mondstadt already.
-        Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
-        Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
-        Cacucu: Oh wow, bro...
-        Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
-        Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
-        Ororon: Oh, so he's actually called the Capybara King.
-        Ifa: Of course not. Just thought I'd use the name you gave him.
-        Ororon: Oh wow, bro! I'm touched.
-        Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
-        Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
-        Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
-        Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
-        Cacucu: Bro, bro...
-        Ororon: Oh, did you have something to add, Cacucu?
-        Cacucu: Bro, it's not...
-        Ororon: Bro, you don't have to say it. I understand. We love you, too.
-        Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
-        Traveler: Happy anniversary, Cacucu!
-        Cacucu: Bro! Bro!
-    Option 6:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: We should save the best for last.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
-        Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
-        Ifa: Wh—What are you looking at me for...?
-        Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
-        Ifa: ...
-        Paimon: Uh, what are you talking about?
-        Traveler: Was all because of...
-        Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
-        Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
-        Ifa: Well...
-        Ororon: That must mean you knew that adventurer from Mondstadt already.
-        Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
-        Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
-        Cacucu: Oh wow, bro...
-        Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
-        Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
-        Ororon: Oh, so he's actually called the Capybara King.
-        Ifa: Of course not. Just thought I'd use the name you gave him.
-        Ororon: Oh wow, bro! I'm touched.
-        Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
-        Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
-        Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
-        Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
-        Cacucu: Bro, bro...
-        Ororon: Oh, did you have something to add, Cacucu?
-        Cacucu: Bro, it's not...
-        Ororon: Bro, you don't have to say it. I understand. We love you, too.
-        Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
-        Traveler: Happy anniversary, Cacucu!
-        Cacucu: Bro! Bro!
-    Option 7:
-        Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
-        Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
-        Paimon: Hehe... Oh! It's the soup Ororon didn't want...
-        Ororon: Nice one, Paimon! Something you can keep all for yourself!
-        Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
-        Paimon: Ah, so sweet and refreshing! Perfect for the season!
-        Ifa: Alright, that leaves you two... Who wants to go next?
-        Cacucu: No rush, bro!
-        Traveler: I'll go first, then.
-        Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
-        Traveler: (Something lucky, huh...)
-        Traveler: (deep inhale...)
-        Traveler: Benny's Adventure Team, assemble!
-        Paimon: Glittering Gemstones... Wow, something sweet again!
-        Traveler: Hehe, takes me back to when I took in my protege...
-        Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
-        Ifa: Alright, Cacucu, you're up. Show 'em what you got!
-        Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
-        Ifa: Yeah, yeah, whatever you say.
-        Cacucu: Let's go, bro! "Nice to meet you, bro!"
-        Paimon: Whoa... What is that!?
-        Cacucu: Score! Score!
-        Challwa: Well, would you look at that!
-        Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
-        Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
-        Cacucu: Seriously, bro!?
-        Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
-        Ifa: Haha, congrats, bro!
-        Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
-        Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
-        Cacucu: Haha! Sure thing, bro!
-        Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
-        Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
-        Ifa: Wh—What are you looking at me for...?
-        Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
-        Ifa: ...
-        Paimon: Uh, what are you talking about?
-        Traveler: Was all because of...
-        Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
-        Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
-        Ifa: Well...
-        Ororon: That must mean you knew that adventurer from Mondstadt already.
-        Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
-        Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
-        Cacucu: Oh wow, bro...
-        Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
-        Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
-        Ororon: Oh, so he's actually called the Capybara King.
-        Ifa: Of course not. Just thought I'd use the name you gave him.
-        Ororon: Oh wow, bro! I'm touched.
-        Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
-        Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
-        Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
-        Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
-        Cacucu: Bro, bro...
-        Ororon: Oh, did you have something to add, Cacucu?
-        Cacucu: Bro, it's not...
-        Ororon: Bro, you don't have to say it. I understand. We love you, too.
-        Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
-        Traveler: Happy anniversary, Cacucu!
-        Cacucu: Bro! Bro!
+
+Option 1:
+
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): After making a meal of the Saurus Crackers, Cacucu crunches away at the candy.
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): All the sugar gives everyone a bit of a rush...
+
+Option 2:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: I'll go first, then.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Everyone follows Ororon's lead and shakes Cacucu's wing.
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's an infectious feeling. Soon, everyone is petting his head too.
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's so perfectly round and soft. You almost don't want the moment to end.
+
+Option 3:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: We should save the best for last.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): Everyone follows Ororon's lead and shakes Cacucu's wing.
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's an infectious feeling. Soon, everyone is petting his head too.
+> Unknown Role (TALK_ROLE_CONSEQUENT_NEED_CLICK_BLACK_SCREEN): It's so perfectly round and soft. You almost don't want the moment to end.
+
+Option 4:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: We should save the best for last.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
+> Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
+> Ifa: Wh—What are you looking at me for...?
+> Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
+> Ifa: ...
+> Paimon: Uh, what are you talking about?
+> Traveler: Wait, so Cacucu's luck...
+> Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
+> Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
+> Ifa: Well...
+> Ororon: That must mean you knew that adventurer from Mondstadt already.
+> Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
+> Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
+> Cacucu: Oh wow, bro...
+> Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
+> Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
+> Ororon: Oh, so he's actually called the Capybara King.
+> Ifa: Of course not. Just thought I'd use the name you gave him.
+> Ororon: Oh wow, bro! I'm touched.
+> Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
+> Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
+> Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
+> Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
+> Cacucu: Bro, bro...
+> Ororon: Oh, did you have something to add, Cacucu?
+> Cacucu: Bro, it's not...
+> Ororon: Bro, you don't have to say it. I understand. We love you, too.
+> Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
+> Traveler: Happy anniversary, Cacucu!
+> Cacucu: Bro! Bro!
+
+Option 5:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: I'll go first, then.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
+> Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
+> Ifa: Wh—What are you looking at me for...?
+> Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
+> Ifa: ...
+> Paimon: Uh, what are you talking about?
+> Traveler: Wait, so Cacucu's luck...
+> Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
+> Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
+> Ifa: Well...
+> Ororon: That must mean you knew that adventurer from Mondstadt already.
+> Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
+> Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
+> Cacucu: Oh wow, bro...
+> Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
+> Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
+> Ororon: Oh, so he's actually called the Capybara King.
+> Ifa: Of course not. Just thought I'd use the name you gave him.
+> Ororon: Oh wow, bro! I'm touched.
+> Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
+> Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
+> Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
+> Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
+> Cacucu: Bro, bro...
+> Ororon: Oh, did you have something to add, Cacucu?
+> Cacucu: Bro, it's not...
+> Ororon: Bro, you don't have to say it. I understand. We love you, too.
+> Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
+> Traveler: Happy anniversary, Cacucu!
+> Cacucu: Bro! Bro!
+
+Option 6:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: We should save the best for last.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
+> Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
+> Ifa: Wh—What are you looking at me for...?
+> Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
+> Ifa: ...
+> Paimon: Uh, what are you talking about?
+> Traveler: Was all because of...
+> Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
+> Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
+> Ifa: Well...
+> Ororon: That must mean you knew that adventurer from Mondstadt already.
+> Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
+> Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
+> Cacucu: Oh wow, bro...
+> Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
+> Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
+> Ororon: Oh, so he's actually called the Capybara King.
+> Ifa: Of course not. Just thought I'd use the name you gave him.
+> Ororon: Oh wow, bro! I'm touched.
+> Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
+> Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
+> Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
+> Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
+> Cacucu: Bro, bro...
+> Ororon: Oh, did you have something to add, Cacucu?
+> Cacucu: Bro, it's not...
+> Ororon: Bro, you don't have to say it. I understand. We love you, too.
+> Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
+> Traveler: Happy anniversary, Cacucu!
+> Cacucu: Bro! Bro!
+
+Option 7:
+
+> Paimon: Paimon's turn, Paimon's turn! Ooh, what should she say for good luck... Ah, got it!
+> Paimon: Ahem... "Gotta be the big one! C'mon, big yummy, big yummy!"
+> Paimon: Hehe... Oh! It's the soup Ororon didn't want...
+> Ororon: Nice one, Paimon! Something you can keep all for yourself!
+> Paimon: Huh, good point. All the more for Paimon, then! Hehe, time to dig in...
+> Paimon: Ah, so sweet and refreshing! Perfect for the season!
+> Ifa: Alright, that leaves you two... Who wants to go next?
+> Cacucu: No rush, bro!
+> Traveler: I'll go first, then.
+> Paimon: Go for it, Traveler! Oh, and don't forget to think of something lucky to say!
+> Traveler: (Something lucky, huh...)
+> Traveler: (deep inhale...)
+> Traveler: Benny's Adventure Team, assemble!
+> Paimon: Glittering Gemstones... Wow, something sweet again!
+> Traveler: Hehe, takes me back to when I took in my protege...
+> Ororon: #Seems like Gramps is lost in some beautiful memories. Guess it was a lucky draw, then...
+> Ifa: Alright, Cacucu, you're up. Show 'em what you got!
+> Ororon: Hahaha... Go for the win, bro! Or just... do better than Ifa, at least.
+> Ifa: Yeah, yeah, whatever you say.
+> Cacucu: Let's go, bro! "Nice to meet you, bro!"
+> Paimon: Whoa... What is that!?
+> Cacucu: Score! Score!
+> Challwa: Well, would you look at that!
+> Challwa: Ahem... Aaand we have a winner! Congratulations to Mr. Cacucu for becoming the third patron of the day to win our grand prize!
+> Challwa: In addition to these Mini Asha Pockets — our most exclusive prize — we're pleased to award Mr. Cacucu with a serving of every dish available from our gift eggs!
+> Cacucu: Seriously, bro!?
+> Paimon: Yeah, seriously, bro!? Who would've thought Cacucu would turn out to be the lucky one...
+> Ifa: Haha, congrats, bro!
+> Ororon: Cacucu, my good bro... Ah, no, my good sir, I have a humble request.
+> Ororon: They say that luck can be passed around by shaking hands. Would you mind if I...
+> Cacucu: Haha! Sure thing, bro!
+> Paimon: Hehe, that should be enough to give Paimon good luck for the rest of the year...
+> Ororon: You can count on that, Paimon. Because you have a very special companion in your life. Just like Cacucu does...
+> Ifa: Wh—What are you looking at me for...?
+> Ororon: Well, this was your plan all along, wasn't it? Time to come clean, don't you think?
+> Ifa: ...
+> Paimon: Uh, what are you talking about?
+> Traveler: Was all because of...
+> Ifa: Okay, okay. It's no big deal, alright? Of course the little guy's lucky to have a bro like me.
+> Ororon: Stop dodging the question and give it to us straight. You set all this up, didn't you? The fishing, the hide-and-seek, everything...
+> Ifa: Well...
+> Ororon: That must mean you knew that adventurer from Mondstadt already.
+> Ifa: No, not really. I met him a day before you did, that's all, and asked him to point me in the right direction.
+> Ifa: And, yeah, I organized everything with the pictures so that Cacucu could play with the Asha and capybaras. And I set up the gift egg thing, too.
+> Cacucu: Oh wow, bro...
+> Ifa: Haha... But, the Capybara King kinda took it the wrong way. At the end of the day, a wild animal's not gonna understand everything you tell them.
+> Ifa: My guess is that he thought we were trying to steal the things I prepared for Cacucu, and that's why he was upset.
+> Ororon: Oh, so he's actually called the Capybara King.
+> Ifa: Of course not. Just thought I'd use the name you gave him.
+> Ororon: Oh wow, bro! I'm touched.
+> Ifa: ...So, now you know! It just happened to be around the anniversary of when I met Cacucu, and I wanted to do something special for him.
+> Ororon: We don't know when Cacucu's actual birthday is, so we've always just used the anniversary as an excuse to celebrate it.
+> Ifa: Cacucu might act like a mature, big brother type of saurian. But, deep down, he's just a little guy who likes to play.
+> Ifa: I know you're just a little guy inside and out, buddy. So, have as much fun as you want, okay?
+> Cacucu: Bro, bro...
+> Ororon: Oh, did you have something to add, Cacucu?
+> Cacucu: Bro, it's not...
+> Ororon: Bro, you don't have to say it. I understand. We love you, too.
+> Ifa: Yeah, don't be embarrassed, bro. While we're here at the resort, you're as free as a wild qucusaur. All you need to do is have fun.
+> Traveler: Happy anniversary, Cacucu!
+> Cacucu: Bro! Bro!
+
 
 ## Additional Conversations
 

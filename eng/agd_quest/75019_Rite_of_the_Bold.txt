@@ -33,10 +33,15 @@ Pacal: Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks dif
 Pacal: #Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose...
 Pacal: #And haven't you two been the talk of the town lately, Traveler, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return.
 Pacal: It wouldn't be a stretch to call your recent deeds "legendary," and you've been a friend to us Children of Echoes thus far.
-    Option 1:
-        Traveler: There's no need to thank me too much.
-    Option 2:
-        Traveler: Missing text (1989908642)
+
+Option 1:
+
+> Traveler: There's no need to thank me too much.
+
+Option 2:
+
+> Traveler: Missing text (1989908642)
+
 Pacal: Haha, quite the phenomenal youngster!
 Pacal: And it is in that capacity, Manqu, that I'm telling you — it is not our way to push guests into a fiery pit just to prove a hypothesis.
 Pacal: That's not how "I'd" treat my guests, anyway.
@@ -80,10 +85,15 @@ Paimon: Alright! Let's go get that first token, then!
 Manqu: No, not yet. Now that you are qualified, you must undertake a trial of witnesses...
 Manqu: Ancient custom dictates that the warrior and Saurian must together obtain the feather of a green quetzal deep in the woods, and offer up a stole of animal pelts...
 Manqu: And together, you must win fifty battles for our tribe, and offer up ninety-six gems of high quality...
-    Option 1:
-        Traveler: Uh, I wouldn't be eligible to...
-    Option 2:
-        Traveler: Can you give me a discount on those for Mora?
+
+Option 1:
+
+> Traveler: Uh, I wouldn't be eligible to...
+
+Option 2:
+
+> Traveler: Can you give me a discount on those for Mora?
+
 Pacal: Oh come now, Manqu, forget it. Where are those traditions even from? Some lost stone age?
 Pacal: The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that.
 Pacal: #Anyway, as I see it, neither Traveler nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof.
@@ -140,12 +150,17 @@ Manqu: Quite a spectacular battle, indeed...
 Pacal: Pretty words, Manqu, but is that all you've got? Wanna try your hand too?
 Manqu: No, thank you very much.
 Pacal: #Bleh. Boring. Ah, that was a great match! Traveler... You're the real deal.
-    Option 1:
-        Traveler: I was just warming up, you know...
-        Pacal: Hahaha! Cocky, too! Still, I admire that. The strong should also assert their dominance a bit! I mean, what's the point of getting strong otherwise?
-    Option 2:
-        Traveler: You weren't bad either.
-        Pacal: Hahaha, save the commiseration. Now, if I was younger, who knows how that might have gone? Ah, how I wish I could have taken you on then.
+
+Option 1:
+
+> Traveler: I was just warming up, you know...
+> Pacal: Hahaha! Cocky, too! Still, I admire that. The strong should also assert their dominance a bit! I mean, what's the point of getting strong otherwise?
+
+Option 2:
+
+> Traveler: You weren't bad either.
+> Pacal: Hahaha, save the commiseration. Now, if I was younger, who knows how that might have gone? Ah, how I wish I could have taken you on then.
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Pacal: #Haha, looks like you really are well taken care of, {REALNAME[ID(2)|SHOWHOST(true)]}...
 Paimon: #Of course! {REALNAME[ID(2)|SHOWHOST(true)]}'s our trusty buddy, y'know!
@@ -179,11 +194,16 @@ Traveler: I will.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Eh? Wait, does Paimon get any blessings?
 Pacal: Haha! As for you, little Paimon... May you eat and drink well, sleep sumptuously, and see goodly growth!
-    Option 1:
-        Traveler: That sounds pretty good to me!
-    Option 2:
-        Traveler: Can you even grow, goodly or otherwise, Paimon?
-        Paimon: Of course! Just you wait, Paimon's gonna be as big as three mountains before you know it!
+
+Option 1:
+
+> Traveler: That sounds pretty good to me!
+
+Option 2:
+
+> Traveler: Can you even grow, goodly or otherwise, Paimon?
+> Paimon: Of course! Just you wait, Paimon's gonna be as big as three mountains before you know it!
+
 Paimon: Anyway, Paimon accepts this blessing — but only just, okay?
 Pacal: Fine by me. In that case, the rite of witnesses is ended. But before you go, let me stress this again: be careful.
 Paimon: We know, Pacal. See ya! ... And seeya too, Uchu!

@@ -10,20 +10,25 @@ Wriothesley: I was just thinking about finding a patch of grass to lie down if y
 Traveler: How do you like it here?
 Wriothesley: Hmm, I quite like the environment. The temperature and humidity are both near perfect. It's a very fitting place for a leisurely vacation.
 Wriothesley: You really are quite something, to possess such a cozy and comfortable haven, but still be willing to venture out into the unknown.
-    Option 1:
-        Traveler: There are some things that I must do.
-        Wriothesley: You speak with conviction. I can tell those matters are extremely important to you.
-        Wriothesley: It's not a bad thing to be committed to a goal. It can prevent you from losing your way in life.
-        Wriothesley: But don't let your convictions control you and lead you down a dangerous path, okay?
-        Wriothesley: After all, this wonderful place is still waiting for your return.
-    Option 2:
-        Traveler: Life is all about being on the move.
-        Wriothesley: Huh, I like the sound of that phrase. I just might write it down and add it to one of the regulations at the Fortress of Meropide.
-        Wriothesley: Should I say that it came from you?
-        Traveler: Nope, that responsibility's all yours.
-        Wriothesley: Ahh, you saw right through me.
-        Wriothesley: Don't worry, though. I was just joking around.
-        Wriothesley: If I was actually going to add some new kind of rule, I will be sure to take full responsibility for it.
+
+Option 1:
+
+> Traveler: There are some things that I must do.
+> Wriothesley: You speak with conviction. I can tell those matters are extremely important to you.
+> Wriothesley: It's not a bad thing to be committed to a goal. It can prevent you from losing your way in life.
+> Wriothesley: But don't let your convictions control you and lead you down a dangerous path, okay?
+> Wriothesley: After all, this wonderful place is still waiting for your return.
+
+Option 2:
+
+> Traveler: Life is all about being on the move.
+> Wriothesley: Huh, I like the sound of that phrase. I just might write it down and add it to one of the regulations at the Fortress of Meropide.
+> Wriothesley: Should I say that it came from you?
+> Traveler: Nope, that responsibility's all yours.
+> Wriothesley: Ahh, you saw right through me.
+> Wriothesley: Don't worry, though. I was just joking around.
+> Wriothesley: If I was actually going to add some new kind of rule, I will be sure to take full responsibility for it.
+
 
 ## Talk 2
 
@@ -38,13 +43,18 @@ Wriothesley: Yeah, you're right.
 Wriothesley: Speaking of which, I actually made a similar mistake when I was young. I once thought that Melusines were the form that sea hares took when they hopped onto land.
 Wriothesley: It wasn't until I read some books that I realized just how silly I was.
 Wriothesley: You should know that according to laws and regulations, Melusines are also recognized citizens of Fontaine. It is forbidden to view or treat them as pets or monsters.
-    Option 1:
-        Traveler: I figured it was something like that.
-        Wriothesley: Good, that makes for one less legal trouble you may get yourself into.
-    Option 2:
-        Traveler: First time I've ever heard of it...
-        Wriothesley: I believe you owe me a big thank-you, then.
-        Wriothesley: Criminals that disrespect Melusines usually get slapped with a pretty hefty sentence.
+
+Option 1:
+
+> Traveler: I figured it was something like that.
+> Wriothesley: Good, that makes for one less legal trouble you may get yourself into.
+
+Option 2:
+
+> Traveler: First time I've ever heard of it...
+> Wriothesley: I believe you owe me a big thank-you, then.
+> Wriothesley: Criminals that disrespect Melusines usually get slapped with a pretty hefty sentence.
+
 Wriothesley: Although it'd be great to have more people working in the Fortress, I've never been interested in instigating crime.
 Wriothesley: It is my hope that people will use more legitimate channels to find work in the Fortress of Meropide. There's no need to cause headaches for the upstanding ladies and gentlemen of the Palais Mermonia.
 
@@ -52,22 +62,32 @@ Wriothesley: It is my hope that people will use more legitimate channels to find
 
 Traveler: Anything you'd like to do?
 Wriothesley: I'd like to take a quick walk around here. Would you mind?
-    Option 1:
-        Traveler: Not at all. It's not like I can keep you in my sights all the time anyway.
-        Wriothesley: Our combat abilities aside, I will definitely stay put if that's what you prefer.
-        Wriothesley: However, you've also gotten to know me a bit by now. It's true that I'm not accustomed to staying in an unfamiliar place for long.
-    Option 2:
-        Traveler: I figured you would've already explored the place.
-        Wriothesley: That would have been true if we were elsewhere... Making sure that my surroundings are safe is essential.
+
+Option 1:
+
+> Traveler: Not at all. It's not like I can keep you in my sights all the time anyway.
+> Wriothesley: Our combat abilities aside, I will definitely stay put if that's what you prefer.
+> Wriothesley: However, you've also gotten to know me a bit by now. It's true that I'm not accustomed to staying in an unfamiliar place for long.
+
+Option 2:
+
+> Traveler: I figured you would've already explored the place.
+> Wriothesley: That would have been true if we were elsewhere... Making sure that my surroundings are safe is essential.
+
 Wriothesley: But this is your home. We don't have to worry about danger here, right?
 Wriothesley: I'm curious, that's all. I just want to take a walk around this vast, miraculous place as if I were a tourist.
 Traveler: I can show you some other teapot realms, too, if you'd like.
 Wriothesley: Wait, really?
 Wriothesley: So, as long as you wish it, you can visit each of the seven nations without ever having to step outside?
-    Option 1:
-        Traveler: Want to give it a try?
-    Option 2:
-        Traveler: I can already see your excitement.
+
+Option 1:
+
+> Traveler: Want to give it a try?
+
+Option 2:
+
+> Traveler: I can already see your excitement.
+
 Wriothesley: Haha, well, opportunities like that don't just come by every day.
 Wriothesley: If you want something, you should try your best to fight for it, won't you agree?
 Traveler: Got it, I'll go switch up the realms for you.
@@ -94,20 +114,25 @@ Wriothesley: However... I'll pass on that while I'm here. Allow me to space out 
 Traveler: How do you like it here?
 Wriothesley: Hmm, I quite like the environment. The temperature and humidity are both near perfect. It's a very fitting place for a leisurely vacation.
 Wriothesley: You really are quite something, to possess such a cozy and comfortable haven, but still be willing to venture out into the unknown.
-    Option 1:
-        Traveler: There are some things that I must do.
-        Wriothesley: You speak with conviction. I can tell those matters are extremely important to you.
-        Wriothesley: It's not a bad thing to be committed to a goal. It can prevent you from losing your way in life.
-        Wriothesley: But don't let your convictions control you and lead you down a dangerous path, okay?
-        Wriothesley: After all, this wonderful place is still waiting for your return.
-    Option 2:
-        Traveler: Life is all about being on the move.
-        Wriothesley: Huh, I like the sound of that phrase. I just might write it down and add it to one of the regulations at the Fortress of Meropide.
-        Wriothesley: Should I say that it came from you?
-        Traveler: Nope, that responsibility's all yours.
-        Wriothesley: Ahh, you saw right through me.
-        Wriothesley: Don't worry, though. I was just joking around.
-        Wriothesley: If I was actually going to add some new kind of rule, I will be sure to take full responsibility for it.
+
+Option 1:
+
+> Traveler: There are some things that I must do.
+> Wriothesley: You speak with conviction. I can tell those matters are extremely important to you.
+> Wriothesley: It's not a bad thing to be committed to a goal. It can prevent you from losing your way in life.
+> Wriothesley: But don't let your convictions control you and lead you down a dangerous path, okay?
+> Wriothesley: After all, this wonderful place is still waiting for your return.
+
+Option 2:
+
+> Traveler: Life is all about being on the move.
+> Wriothesley: Huh, I like the sound of that phrase. I just might write it down and add it to one of the regulations at the Fortress of Meropide.
+> Wriothesley: Should I say that it came from you?
+> Traveler: Nope, that responsibility's all yours.
+> Wriothesley: Ahh, you saw right through me.
+> Wriothesley: Don't worry, though. I was just joking around.
+> Wriothesley: If I was actually going to add some new kind of rule, I will be sure to take full responsibility for it.
+
 
 ## Talk 7
 
@@ -122,13 +147,18 @@ Wriothesley: Yeah, you're right.
 Wriothesley: Speaking of which, I actually made a similar mistake when I was young. I once thought that Melusines were the form that sea hares took when they hopped onto land.
 Wriothesley: It wasn't until I read some books that I realized just how silly I was.
 Wriothesley: You should know that according to laws and regulations, Melusines are also recognized citizens of Fontaine. It is forbidden to view or treat them as pets or monsters.
-    Option 1:
-        Traveler: I figured it was something like that.
-        Wriothesley: Good, that makes for one less legal trouble you may get yourself into.
-    Option 2:
-        Traveler: First time I've ever heard of it...
-        Wriothesley: I believe you owe me a big thank-you, then.
-        Wriothesley: Criminals that disrespect Melusines usually get slapped with a pretty hefty sentence.
+
+Option 1:
+
+> Traveler: I figured it was something like that.
+> Wriothesley: Good, that makes for one less legal trouble you may get yourself into.
+
+Option 2:
+
+> Traveler: First time I've ever heard of it...
+> Wriothesley: I believe you owe me a big thank-you, then.
+> Wriothesley: Criminals that disrespect Melusines usually get slapped with a pretty hefty sentence.
+
 Wriothesley: Although it'd be great to have more people working in the Fortress, I've never been interested in instigating crime.
 Wriothesley: It is my hope that people will use more legitimate channels to find work in the Fortress of Meropide. There's no need to cause headaches for the upstanding ladies and gentlemen of the Palais Mermonia.
 
@@ -136,22 +166,32 @@ Wriothesley: It is my hope that people will use more legitimate channels to find
 
 Traveler: Anything you'd like to do?
 Wriothesley: I'd like to take a quick walk around here. Would you mind?
-    Option 1:
-        Traveler: Not at all. It's not like I can keep you in my sights all the time anyway.
-        Wriothesley: Our combat abilities aside, I will definitely stay put if that's what you prefer.
-        Wriothesley: However, you've also gotten to know me a bit by now. It's true that I'm not accustomed to staying in an unfamiliar place for long.
-    Option 2:
-        Traveler: I figured you would've already explored the place.
-        Wriothesley: That would have been true if we were elsewhere... Making sure that my surroundings are safe is essential.
+
+Option 1:
+
+> Traveler: Not at all. It's not like I can keep you in my sights all the time anyway.
+> Wriothesley: Our combat abilities aside, I will definitely stay put if that's what you prefer.
+> Wriothesley: However, you've also gotten to know me a bit by now. It's true that I'm not accustomed to staying in an unfamiliar place for long.
+
+Option 2:
+
+> Traveler: I figured you would've already explored the place.
+> Wriothesley: That would have been true if we were elsewhere... Making sure that my surroundings are safe is essential.
+
 Wriothesley: But this is your home. We don't have to worry about danger here, right?
 Wriothesley: I'm curious, that's all. I just want to take a walk around this vast, miraculous place as if I were a tourist.
 Traveler: I can show you some other teapot realms, too, if you'd like.
 Wriothesley: Wait, really?
 Wriothesley: So, as long as you wish it, you can visit each of the seven nations without ever having to step outside?
-    Option 1:
-        Traveler: Want to give it a try?
-    Option 2:
-        Traveler: I can already see your excitement.
+
+Option 1:
+
+> Traveler: Want to give it a try?
+
+Option 2:
+
+> Traveler: I can already see your excitement.
+
 Wriothesley: Haha, well, opportunities like that don't just come by every day.
 Wriothesley: If you want something, you should try your best to fight for it, won't you agree?
 Traveler: Got it, I'll go switch up the realms for you.

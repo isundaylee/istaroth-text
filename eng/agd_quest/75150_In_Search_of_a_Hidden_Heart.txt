@@ -30,10 +30,15 @@ Paimon: Hmm. This robot is huge, but it doesn't seem too bright.
 Paimon: #This probably isn't that guy who uses machines to talk to us, Traveler...
 Paimon: But it did say that it is in charge of record-keeping and stuff, right?
 Paimon: Why don't we ask it what it knows, then? Or... You know, about how we can reach the Heart of the Sacred Mountain!
-    Option 1:
-        Traveler: Maybe that's what "that guy" intended...
-    Option 2:
-        Traveler: Well, let's fire away, then...
+
+Option 1:
+
+> Traveler: Maybe that's what "that guy" intended...
+
+Option 2:
+
+> Traveler: Well, let's fire away, then...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 
 ## Talk 13 (alternative/additional)

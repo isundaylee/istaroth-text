@@ -15,13 +15,18 @@
 翔太: 我没钱买漆器，所以就想要自己做一个。
 翔太: 我听说，「弥生漆器」的七月姐姐很擅长做漆器…
 翔太: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你能陪我去找七月姐姐问一下漆器的事吗？
-    Option 1:
-        旅行者: 没问题，我们走吧。
-        翔太: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
-    Option 2:
-        旅行者: 你怎么不自己去？
-        翔太: 七月姐姐她平时…很严肃的，我不太敢去向她请教…
-        翔太: #有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}在旁边的话，应该会好一些吧…
+
+Option 1:
+
+> 旅行者: 没问题，我们走吧。
+> 翔太: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
+
+Option 2:
+
+> 旅行者: 你怎么不自己去？
+> 翔太: 七月姐姐她平时…很严肃的，我不太敢去向她请教…
+> 翔太: #有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}在旁边的话，应该会好一些吧…
+
 
 ## Talk 2
 

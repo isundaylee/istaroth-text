@@ -37,10 +37,15 @@ Kimosi: Are you going to the volcano, then?
 Paimon: Huh? How did you know where we're headed!?
 Kimosi: Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to...
 Kimosi: You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you...
-    Option 1:
-        Traveler: But?
-    Option 2:
-        Traveler: There's always a "but" in sentences like this...
+
+Option 1:
+
+> Traveler: But?
+
+Option 2:
+
+> Traveler: There's always a "but" in sentences like this...
+
 Kimosi: Haha! I see you're a smart person too.
 Kimosi: Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain...
 Kimosi: Long, long ago... back when Natlan was still a peaceful paradise...
@@ -58,10 +63,15 @@ Kimosi: If you run into danger, I'll guarantee your safety... But, as for the ro
 Kimosi: I have to be certain that you have the ability to deal with those monsters first.
 Nzaya: Wait a moment, Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?
 Kimosi: #That is indeed true, but in this case... "safety" comes first. I'm sure you understand, my handsome young specimen of a man.
-    Option 1:
-        Traveler: Just a few monsters. No big deal.
-    Option 2:
-        Traveler: Perfectly! I accept the challenge.
+
+Option 1:
+
+> Traveler: Just a few monsters. No big deal.
+
+Option 2:
+
+> Traveler: Perfectly! I accept the challenge.
+
 Paimon: Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Kimosi: You're certainly full of confidence... We'll stand back and see how you do.
@@ -94,10 +104,15 @@ Kimosi: Are you going to the volcano, then?
 Paimon: Huh? How did you know where we're headed!?
 Kimosi: Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to...
 Kimosi: You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you...
-    Option 1:
-        Traveler: But?
-    Option 2:
-        Traveler: There's always a "but" in sentences like this...
+
+Option 1:
+
+> Traveler: But?
+
+Option 2:
+
+> Traveler: There's always a "but" in sentences like this...
+
 Kimosi: Haha! I see you're a smart person too.
 Kimosi: Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain...
 Kimosi: Long, long ago... back when Natlan was still a peaceful paradise...
@@ -115,10 +130,15 @@ Kimosi: If you run into danger, I'll guarantee your safety... But, as for the ro
 Kimosi: I have to be certain that you have the ability to deal with those monsters first.
 Nzaya: Wait a moment, Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?
 Kimosi: #That is indeed true, but in this case... "safety" comes first. I'm sure you understand, my handsome young specimen of a man.
-    Option 1:
-        Traveler: Just a few monsters. No big deal.
-    Option 2:
-        Traveler: Perfectly! I accept the challenge.
+
+Option 1:
+
+> Traveler: Just a few monsters. No big deal.
+
+Option 2:
+
+> Traveler: Perfectly! I accept the challenge.
+
 Paimon: Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Kimosi: You're certainly full of confidence... We'll stand back and see how you do.
@@ -172,10 +192,15 @@ Kimosi: Nzaya and I will follow you there, but we won't take part in any fightin
 Nzaya: Huh? But Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?
 Kimosi: #Only the strongest warriors would dare to enter the volcano — amateurs like us would only hold them back. Safety comes first. I'm sure you can understand, my handsome young specimen of a man.
 Kimosi: Of course, if there's a need for the two of us to get involved...
-    Option 1:
-        Traveler: It's just a few monsters. No big deal.
-    Option 2:
-        Traveler: Perfectly! I accept the challenge.
+
+Option 1:
+
+> Traveler: It's just a few monsters. No big deal.
+
+Option 2:
+
+> Traveler: Perfectly! I accept the challenge.
+
 Paimon: Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Kimosi: You're certainly full of confidence... We'll stand back and see how you do.
@@ -224,10 +249,15 @@ Kimosi: Nzaya and I will follow you there, but we won't take part in any fightin
 Nzaya: Huh? But Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?
 Kimosi: #Only the strongest warriors would dare to enter the volcano — amateurs like us would only hold them back. Safety comes first. I'm sure you can understand, my handsome young specimen of a man.
 Kimosi: Of course, if there's a need for the two of us to get involved...
-    Option 1:
-        Traveler: Just a few monsters. No big deal.
-    Option 2:
-        Traveler: Perfectly! I accept the challenge.
+
+Option 1:
+
+> Traveler: Just a few monsters. No big deal.
+
+Option 2:
+
+> Traveler: Perfectly! I accept the challenge.
+
 Paimon: Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Kimosi: You're certainly full of confidence... We'll stand back and see how you do.
@@ -249,12 +279,17 @@ Nzaya: Are things alright...?
 Paimon: All the monsters have been cleared out!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Nzaya: I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
-    Option 1:
-        Traveler: Not so much as a scratch.
-        Nzaya: That's good to hear...
-    Option 2:
-        Traveler: Just a teensy bit upset you didn't help out...
-        Kimosi: All the more proof that you didn't need our help.
+
+Option 1:
+
+> Traveler: Not so much as a scratch.
+> Nzaya: That's good to hear...
+
+Option 2:
+
+> Traveler: Just a teensy bit upset you didn't help out...
+> Kimosi: All the more proof that you didn't need our help.
+
 Kimosi: #To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, Traveler...
 Kimosi: Even stronger than the rumors say.
 Paimon: Huh, you've heard of us?
@@ -265,18 +300,28 @@ Kimosi: Hmm... Did you see a statue? It should have been in the middle of the la
 Kimosi: I guess it must be missing... We'll just have to look for it later...
 Kimosi: Enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time to uphold my end of the bargain. So. If you want to enter the volcano...
 Nzaya: Hold up. What does dealing with the Abyss have to do with entering the volcano?
-    Option 1:
-        Traveler: The Abyss must have a presence inside...
-        Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
-    Option 2:
-        Traveler: It was an excuse to get me to do his work for him...
-        Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
+
+Option 1:
+
+> Traveler: The Abyss must have a presence inside...
+> Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
+
+Option 2:
+
+> Traveler: It was an excuse to get me to do his work for him...
+> Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
+
 Kimosi: Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress...
 Kimosi: #Either way, Traveler, it's an incredibly dangerous place. Are you sure you want to go there knowing that?
-    Option 1:
-        Traveler: I'm certain...
-    Option 2:
-        Traveler: We've already made our minds up, so...
+
+Option 1:
+
+> Traveler: I'm certain...
+
+Option 2:
+
+> Traveler: We've already made our minds up, so...
+
 Kimosi: Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater.
 Paimon: Through... the crater?
 Kimosi: Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
@@ -296,12 +341,17 @@ Nzaya: Are things alright...?
 Paimon: All the monsters have been cleared out!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Nzaya: I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
-    Option 1:
-        Traveler: Not so much as a scratch.
-        Nzaya: That's good to hear...
-    Option 2:
-        Traveler: Just a teensy bit upset you didn't help out...
-        Kimosi: All the more proof that you didn't need our help.
+
+Option 1:
+
+> Traveler: Not so much as a scratch.
+> Nzaya: That's good to hear...
+
+Option 2:
+
+> Traveler: Just a teensy bit upset you didn't help out...
+> Kimosi: All the more proof that you didn't need our help.
+
 Kimosi: #To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, Traveler...
 Kimosi: Even stronger than the rumors say.
 Paimon: Huh, you've heard of us?
@@ -309,21 +359,31 @@ Nzaya: Huh, we've heard of them?
 Kimosi: You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to...
 Kimosi: Anyway, enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time for me to tell you how to enter the volcano...
 Nzaya: Hold up. What does dealing with the Abyss have to do with entering the volcano?
-    Option 1:
-        Traveler: The Abyss must have a presence inside...
-        Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
-    Option 2:
-        Traveler: It was an excuse to get me to do his work for him...
-        Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
+
+Option 1:
+
+> Traveler: The Abyss must have a presence inside...
+> Kimosi: Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse.
+
+Option 2:
+
+> Traveler: It was an excuse to get me to do his work for him...
+> Kimosi: #As I'm sure you realized when I offered you this deal, my handsome young specimen of a man. That said, there are indeed a large number of these pitch-black monsters inside the volcano...
+
 Kimosi: Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress...
 Traveler: But isn't Gosoythoth already...
 Kimosi: The Abyss is like a disease rooted in the Ley Lines — it comes on as suddenly as a landslide but recedes slowly like unraveling silk... In unseen corners, the seeds of sickness continue to fester...
 Kimosi: And there are rumors that the space inside the volcano is unique... Perhaps even the shadowy hands of the Lord of the Night cannot reach inside...
 Kimosi: #Either way, Traveler, it's an incredibly dangerous place. Are you sure you want to go there knowing that?
-    Option 1:
-        Traveler: I'm certain...
-    Option 2:
-        Traveler: We've already made our minds up, so...
+
+Option 1:
+
+> Traveler: I'm certain...
+
+Option 2:
+
+> Traveler: We've already made our minds up, so...
+
 Kimosi: Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater.
 Paimon: Through... the crater?
 Kimosi: Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
@@ -364,10 +424,15 @@ Paimon: Huh? How did you know where we're headed!?
 Kimosi: Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to...
 Kimosi: You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you...
 Kimosi: I'm impressed you were able to clear out all the Abyssal monsters and come away unscathed, but...
-    Option 1:
-        Traveler: How did I know there would be a but...
-    Option 2:
-        Traveler: What's wrong now?
+
+Option 1:
+
+> Traveler: How did I know there would be a but...
+
+Option 2:
+
+> Traveler: What's wrong now?
+
 Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
 Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
 Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
@@ -410,10 +475,15 @@ Paimon: Huh? How did you know where we're headed!?
 Kimosi: Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to...
 Kimosi: You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you...
 Kimosi: I'm impressed you were able to clear out all the Abyssal monsters and come away unscathed, but...
-    Option 1:
-        Traveler: How did I know there would be a but...
-    Option 2:
-        Traveler: What's wrong now?
+
+Option 1:
+
+> Traveler: How did I know there would be a but...
+
+Option 2:
+
+> Traveler: What's wrong now?
+
 Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
 Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
 Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
@@ -456,10 +526,15 @@ Paimon: That's right. We're gonna enter the volcano... and we already know how!
 Kimosi: Is that so? Well color me impressed...
 Kimosi: So you want to enter the volcano... Hmm, it's a dangerous place, though...
 Kimosi: You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first.
-    Option 1:
-        Traveler: Need help with something else?
-    Option 2:
-        Traveler: Fire away!
+
+Option 1:
+
+> Traveler: Need help with something else?
+
+Option 2:
+
+> Traveler: Fire away!
+
 Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
 Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
 Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
@@ -500,10 +575,15 @@ Paimon: That's right. We're gonna enter the volcano... and we already know how!
 Kimosi: Is that so? Well color me impressed...
 Kimosi: So you want to enter the volcano... Hmm, it's a dangerous place, though...
 Kimosi: You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first.
-    Option 1:
-        Traveler: Need help with something else?
-    Option 2:
-        Traveler: Fire away!
+
+Option 1:
+
+> Traveler: Need help with something else?
+
+Option 2:
+
+> Traveler: Fire away!
+
 Kimosi: Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins...
 Kimosi: A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is.
 Nzaya: And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
@@ -523,12 +603,17 @@ Nzaya: Are things alright...?
 Paimon: All the monsters have been cleared out!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Nzaya: I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
-    Option 1:
-        Traveler: Not so much as a scratch.
-        Nzaya: That's good to hear...
-    Option 2:
-        Traveler: Just a teensy bit upset you didn't help out...
-        Kimosi: All the more proof that you didn't need our help.
+
+Option 1:
+
+> Traveler: Not so much as a scratch.
+> Nzaya: That's good to hear...
+
+Option 2:
+
+> Traveler: Just a teensy bit upset you didn't help out...
+> Kimosi: All the more proof that you didn't need our help.
+
 Kimosi: #To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, Traveler...
 Kimosi: Even stronger than the rumors say.
 Paimon: Huh, you've heard of us?

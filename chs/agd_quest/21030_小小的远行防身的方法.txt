@@ -22,10 +22,15 @@
 小蒙: 可是，那得等到什么时候…
 小蒙: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我听人家说，你是不是特别会对付那些魔物？
 小蒙: 你能不能帮帮忙？拜托拜托，求求你了…
-    Option 1:
-        旅行者: 交给我吧。
-    Option 2:
-        旅行者: 好、好…我想想办法…
+
+Option 1:
+
+> 旅行者: 交给我吧。
+
+Option 2:
+
+> 旅行者: 好、好…我想想办法…
+
 老章: 旅行者，你要去看看情况吗？那我先把我平时采矿的地点给你标上…
 老章: 唔，好了，就是这些地方了。你去的时候可要小心点，那边有很多魔物。
 小蒙: #那就拜托你了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！

@@ -11,28 +11,38 @@ Paimon: Hah! Who's the mini-me here, anyway?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Raaawr!
 Magnifico: Haha, come now, don't mind me.
 Paimon: Hmph, Paimon minds a lot!
-    Option 1:
-        Traveler: Newly-inspired, are we?
-        Magnifico: Of course! However... Hehe, new inspiration means... that I'll need your help once more.
-        Paimon: No problem! You pay every time, anyway.
-        Magnifico: Haha, wonderful, my little mercenary!
-    Option 2:
-        Traveler: Require ye the succor of your... mousses once more, then?
-        Paimon: Mousse... Heh, Paimon's feeling hungry already...
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Groo... Groo...
-        Magnifico: Uh, you mean "muses," don't you? Those aren't for eating!
-        Paimon: Well, so long as you're paying, that Mora will soon become food!
-        Magnifico: Whatever you say, Paimon... But I do indeed have money, so you shan't have to worry about working for free!
+
+Option 1:
+
+> Traveler: Newly-inspired, are we?
+> Magnifico: Of course! However... Hehe, new inspiration means... that I'll need your help once more.
+> Paimon: No problem! You pay every time, anyway.
+> Magnifico: Haha, wonderful, my little mercenary!
+
+Option 2:
+
+> Traveler: Require ye the succor of your... mousses once more, then?
+> Paimon: Mousse... Heh, Paimon's feeling hungry already...
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Groo... Groo...
+> Magnifico: Uh, you mean "muses," don't you? Those aren't for eating!
+> Paimon: Well, so long as you're paying, that Mora will soon become food!
+> Magnifico: Whatever you say, Paimon... But I do indeed have money, so you shan't have to worry about working for free!
+
 Magnifico: You see, I'm taking a photo of a Tepetlisaurus this time... Shh. Careful now, we don't want to disturb it.
 Magnifico: This is my first time interacting with such a Saurian, but I've been observing them for a while now... Truly fascinating creatures they are, each with unique personalities beneath their hardened shells.
 Magnifico: Hehe, this one's learned some basic commands after being fed a few times, to boot.
 Magnifico: Still, I'm going to need your help, dear Saurian tamers, to bring the wayward Saurian with us and take a photo of it interacting with its fellow Tepetlisaurs.
 Magnifico: Hehe, a simple task, eh?
 Paimon: Yup, super easy!
-    Option 1:
-        Traveler: (Not that you're the one who actually has to do it...)
-    Option 2:
-        Traveler: (And it's not as simple as you might think...!)
+
+Option 1:
+
+> Traveler: (Not that you're the one who actually has to do it...)
+
+Option 2:
+
+> Traveler: (And it's not as simple as you might think...!)
+
 Magnifico: Haha, yes, that's the spirit! Come then, bring me the stray Tepetlisaurus, and we can begin!
 
 ## Talk 2 (alternative/additional)

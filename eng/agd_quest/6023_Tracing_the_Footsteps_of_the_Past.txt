@@ -107,21 +107,32 @@ Black Screen Text: Missing text (0)
 (Hand the document to Marionette)
 
 Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "world-formula" located.*
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Irrelevant engineering blueprint. Keyword not located.
+
+Option 1:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 2:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 3:
+
+> Traveler: Scan
+> Traveler (Pulonia): *Keyword "world-formula" located.*
+
+Option 4:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 5:
+
+> Traveler: Scan
+> Traveler (Pulonia): Irrelevant engineering blueprint. Keyword not located.
+
 
 ## Objective 6
 
@@ -160,21 +171,32 @@ Black Screen Text: Missing text (0)
 (Hand the document to Marionette)
 
 Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "pathway" located.*
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
+
+Option 1:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 2:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 3:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 4:
+
+> Traveler: Scan
+> Traveler (Pulonia): *Keyword "pathway" located.*
+
+Option 5:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
 
 ## Objective 10
 
@@ -208,21 +230,32 @@ Marionette: Ugh, this is so long... This guy sure loves showing off his knowledg
 (Hand the document to Marionette)
 
 Traveler: Missing text (0)
-    Option 1:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 2:
-        Traveler: Scan
-        Traveler (Pulonia): *Keyword "tree model" located.*
-    Option 3:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 4:
-        Traveler: Scan
-        Traveler (Pulonia): Keyword not located.
-    Option 5:
-        Traveler: Scan
-        Traveler (Pulonia): Irrelevant mechanical blueprint. Keyword not located.
+
+Option 1:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 2:
+
+> Traveler: Scan
+> Traveler (Pulonia): *Keyword "tree model" located.*
+
+Option 3:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 4:
+
+> Traveler: Scan
+> Traveler (Pulonia): Keyword not located.
+
+Option 5:
+
+> Traveler: Scan
+> Traveler (Pulonia): Irrelevant mechanical blueprint. Keyword not located.
+
 
 ## Objective 14
 
@@ -960,10 +993,15 @@ Traveler: Hat Guy? How did you get here?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: You're still gonna call me "Hat Guy" after that, huh?
 Traveler: You came all this way just to save me?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: I didn't see anyone else in there who needed saving.
-    Option 1:
-        Traveler: Thank you so much.
-    Option 2:
-        Traveler: Fair point. You just caught me by surprise... Thank you.
+
+Option 1:
+
+> Traveler: Thank you so much.
+
+Option 2:
+
+> Traveler: Fair point. You just caught me by surprise... Thank you.
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Ugh... *cough*
 Traveler: Wait, you're injured?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It's nothing. I'll be fine.

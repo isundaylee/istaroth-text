@@ -28,11 +28,16 @@ Chikya: This is the phlogiston... Won for us by the Sage of the Stolen Flame, sn
 Chikya: Hmph, and speaking of which, that reminds me... When some people in the tribe lay eyes upon the Upper Sanctum...
 Chikya: ...They have the nerve to doubt that a mere human could create such floating islands through the power of phlogiston, thus concluding that the Sage of the Stolen Flame must have been a kind of dragon too.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
-    Option 1:
-        Traveler: They actually believe that?
-    Option 2:
-        Traveler: People are free to think what they want...
-        Chikya: I understand that changing the way other people think about the world can be nigh-on impossible, but why, if it doesn't drive me up a wall!
+
+Option 1:
+
+> Traveler: They actually believe that?
+
+Option 2:
+
+> Traveler: People are free to think what they want...
+> Chikya: I understand that changing the way other people think about the world can be nigh-on impossible, but why, if it doesn't drive me up a wall!
+
 Chikya: Just because they couldn't do it themselves, they insist that anyone who could must've been superhuman. I'd rather not hang around with people who have such a losing mentality.
 Paimon: Uhh, anyway, what about the treasure and the elixir?
 Paimon: Given that's what we've come for, it doesn't look like there's much for us here!
@@ -91,12 +96,17 @@ Chikya: #Young lad, irrespective of the great promise you've shown, no one will 
 Chikya: ...As for whether the treasure is real, and the elixir really exists... Well, you'll only know once you've given it a try.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: If it doesn't work this time, it'll work the next; and if not here, then somewhere else. As long as you stay in the game, a miracle's bound to happen sooner or later!
-    Option 1:
-        Traveler: Your optimism truly knows no bounds.
-        Chikya: I'll take that as a compliment!
-    Option 2:
-        Traveler: If we can motivate ourselves to keep trying, that'll be a miracle in itself...
-        Chikya: We'll have none of that kind of negativity here!
+
+Option 1:
+
+> Traveler: Your optimism truly knows no bounds.
+> Chikya: I'll take that as a compliment!
+
+Option 2:
+
+> Traveler: If we can motivate ourselves to keep trying, that'll be a miracle in itself...
+> Chikya: We'll have none of that kind of negativity here!
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: #Hehe, see, {REALNAME[ID(2)|SHOWHOST(true)]}'s excited too. Come on then, Traveler, use phlogiston to activate the mechanism!
 
@@ -139,18 +149,28 @@ Paimon: #A golden pattern? You mean, the same one you saw the first time you met
 Paimon: Wait, Paimon thought you were just seeing things back there!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}, telling Paimon to look up's no use, she can't see it! But seeing as you've said it's there...
-    Option 1:
-        Traveler: The tone sounds familiar too...
-    Option 2:
-        Traveler: It's definitely the same person that left that golden pattern before...
+
+Option 1:
+
+> Traveler: The tone sounds familiar too...
+
+Option 2:
+
+> Traveler: It's definitely the same person that left that golden pattern before...
+
 Paimon: So maybe the one that left it behind was the Sage of the Stolen Flame?
 Chikya: What, what? You mean to say that you've previously been given a sign by the Sage of the Stolen Flame...?
 Chikya: #I said you had a bright future ahead of you, lad, and what lies before you now, but a future oh so radiant? I knew you showed great promise — I wouldn't have taken a shine to you otherwise! So, have you figured out how to receive the gift?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-    Option 1:
-        Traveler: Yes, I just have to...
-    Option 2:
-        Traveler: (Reach out towards the giant stone tablet...)
+
+Option 1:
+
+> Traveler: Yes, I just have to...
+
+Option 2:
+
+> Traveler: (Reach out towards the giant stone tablet...)
+
 Black Screen Text: The stone tablet starts to reverberate with a loud rumbling sound.
 As the earth trembles, the giant rock on the ground reveals its true form...
 
@@ -178,11 +198,16 @@ Paimon: Wait a minute, Chikya... You knew that this hot spring would be the fina
 Chikya: Hehe, there are so many types of injury in the world. How could you possibly expect a single elixir to be able to heal them all?
 Chikya: But when it comes down to it, wisdom is the solution to all our worries. Yes, I tricked you this time, little Paimon. But when we make mistakes, we learn from 'em, and take one step closer to resolving our worries... Isn't that a wonderful outcome too?
 Paimon: Huh, okay... That actually kinda makes sense...
-    Option 1:
-        Traveler: So, have your injuries been cured?
-        Chikya: No, not at all. My heart still aches from the niggling pain of all my various injuries. And in that sense, I've been tricked as well — tricked terribly, by myself.
-    Option 2:
-        Traveler: Have you learned how to use phlogiston?
+
+Option 1:
+
+> Traveler: So, have your injuries been cured?
+> Chikya: No, not at all. My heart still aches from the niggling pain of all my various injuries. And in that sense, I've been tricked as well — tricked terribly, by myself.
+
+Option 2:
+
+> Traveler: Have you learned how to use phlogiston?
+
 Chikya: Even if I took a bath in a hot spring filled with phlogiston, I would still be unable to use it. In the past, so the ancient scrolls say, tribespeople who could not already wield phlogiston only ever learned to do so by passing the trial...
 Chikya: So it hasn't had any effect at all!
 Paimon: ...Wait. You're clearly from Natlan... but you can't use phlogiston?

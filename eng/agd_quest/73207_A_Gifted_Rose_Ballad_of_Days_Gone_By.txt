@@ -64,27 +64,32 @@ Traveler: This is a Sumeru Rose that I picked.
 ## Talk 2
 
 Affan: I'm sorry, Uncle Shafaqat. I wasn't able to fulfill your last wish...
-    Option 1:
-        Traveler: Who's Shafaqat?
-        Affan: Ah yes, you children were pestering me about the old ghost, weren't you? Well, that's not his real name. I mean, who would actually be called that?
-        Affan: I heard from my elders that his name was Shafaqat. He left Sumeru City when he was young and came to our village.
-        Affan: He built this house after arriving here and lived in it by himself, and for decades, he barely left.
-        Affan: I've never seen him as a young man, but they say that he didn't really dislike children at that time.
-        Affan: He grew many trees and flowers in the front and back yard of his house. Children liked to run over to his place and ask for Ajilenakh Nuts, and also to listen to him talk.
-        Affan: But by the time I met him, he'd already become old and was called the old ghost, and he'd also come to dislike children.
-    Option 2:
-        Traveler: Why are you so obsessed with growing flowers?
-        Affan: Once in a while, some outsiders would be forced to settle here in our village.
-        Affan: Some people never got used to living here, even if they kept pushing themselves to do so, and so they ended up alone for the rest of their lives.
-        Affan: That old geezer Uncle Shafaqat was probably one of them. Everyone just accepted this state of affairs over time.
-        Affan: But no matter how many years passed, I refused to get used to such a thing. It's really such a pity, what happened to him...
-        Affan: You would have loved his garden too if you ever saw it. Pretty flowers of all kinds of colors, and so many trees of varying heights...
-        Affan: The person who cultivated such a great garden passed away so quietly. And the only thing people would remember about him now is that the old ghost would take away naughty children.
-        Affan: I refuse to accept this. He wrote in his notes that he wanted these roses to grow everywhere. And I want to fulfill his wish.
-        Affan: I'm old anyway, so I don't care how others may see me. My life will be worth it if I can do this.
-        Affan: I've cleaned up his house for him and sorted out the large pile of booklets he'd left behind.
-        Affan: I can show you a volume or two if you're interested.
-        Affan: I'll put these notes *in front of the house*, just so he can see the sun for a bit through them.
+
+Option 1:
+
+> Traveler: Who's Shafaqat?
+> Affan: Ah yes, you children were pestering me about the old ghost, weren't you? Well, that's not his real name. I mean, who would actually be called that?
+> Affan: I heard from my elders that his name was Shafaqat. He left Sumeru City when he was young and came to our village.
+> Affan: He built this house after arriving here and lived in it by himself, and for decades, he barely left.
+> Affan: I've never seen him as a young man, but they say that he didn't really dislike children at that time.
+> Affan: He grew many trees and flowers in the front and back yard of his house. Children liked to run over to his place and ask for Ajilenakh Nuts, and also to listen to him talk.
+> Affan: But by the time I met him, he'd already become old and was called the old ghost, and he'd also come to dislike children.
+
+Option 2:
+
+> Traveler: Why are you so obsessed with growing flowers?
+> Affan: Once in a while, some outsiders would be forced to settle here in our village.
+> Affan: Some people never got used to living here, even if they kept pushing themselves to do so, and so they ended up alone for the rest of their lives.
+> Affan: That old geezer Uncle Shafaqat was probably one of them. Everyone just accepted this state of affairs over time.
+> Affan: But no matter how many years passed, I refused to get used to such a thing. It's really such a pity, what happened to him...
+> Affan: You would have loved his garden too if you ever saw it. Pretty flowers of all kinds of colors, and so many trees of varying heights...
+> Affan: The person who cultivated such a great garden passed away so quietly. And the only thing people would remember about him now is that the old ghost would take away naughty children.
+> Affan: I refuse to accept this. He wrote in his notes that he wanted these roses to grow everywhere. And I want to fulfill his wish.
+> Affan: I'm old anyway, so I don't care how others may see me. My life will be worth it if I can do this.
+> Affan: I've cleaned up his house for him and sorted out the large pile of booklets he'd left behind.
+> Affan: I can show you a volume or two if you're interested.
+> Affan: I'll put these notes *in front of the house*, just so he can see the sun for a bit through them.
+
 Traveler: There must be another way.
 Affan: What other way can there be?
 Affan: Uncle Shafaqat... That old geezer's already passed away in peace. If he was still alive, I could ask him what special methods could be used to cultivate these roses.
@@ -138,10 +143,15 @@ Sabbah: Is this fine with you, Mr. Affan?
 Affan: Do you mean to break the seeds open by force?
 Sabbah: Obviously, we're not going to completely smash the seeds. We have to get someone nimble to do this.
 Sabbah: #Traveler, can you do it?
-    Option 1:
-        Traveler: Doing the dirty work again...
-    Option 2:
-        Traveler: I'm on it.
+
+Option 1:
+
+> Traveler: Doing the dirty work again...
+
+Option 2:
+
+> Traveler: I'm on it.
+
 Sabbah: You must be careful. Use *Blunt Attacks* to break the seed casings first, then use the power of *Dendro* to awaken the seeds.
 
 ## Objective 7
@@ -164,14 +174,19 @@ Sabbah: I see. That's probably how all of us exiles will end up.
 Sabbah: Speaking of which, cultivating new species is something only the top researchers can do.
 Sabbah: It's a great pity that a person like him faded into nameless obscurity so far away from the Akademiya.
 Paimon: Are you thinking about your own future as well...
-    Option 1:
-        Traveler: Keep your chin up.
-        Affan: Yes, child. You still have a long way to go, and lots of things to do.
-        Affan: Don't be trapped in melancholy. I don't want to see a second old ghost.
-    Option 2:
-        Unknown Role (TALK_ROLE_NPC): (I'm not sure how we can console Sabbah...)
-        Affan: Don't be sad. Look, in the end, he still managed to leave us the Golden Rose.
-        Affan: They are the proof that Uncle Shafaqat once existed in this world.
+
+Option 1:
+
+> Traveler: Keep your chin up.
+> Affan: Yes, child. You still have a long way to go, and lots of things to do.
+> Affan: Don't be trapped in melancholy. I don't want to see a second old ghost.
+
+Option 2:
+
+> Unknown Role (TALK_ROLE_NPC): (I'm not sure how we can console Sabbah...)
+> Affan: Don't be sad. Look, in the end, he still managed to leave us the Golden Rose.
+> Affan: They are the proof that Uncle Shafaqat once existed in this world.
+
 Sabbah: You're right. I shouldn't be getting all melancholic at a happy time like this. Let's get back on topic.
 Sabbah: These Golden Roses have only just sprouted. They have yet to bloom. I want to keep watching over them until they bloom. How about you all?
 Traveler: Same here.

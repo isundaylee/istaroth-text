@@ -7,10 +7,15 @@ Dori: This commission is tricky, and I'm practically losing Mora. Just remember 
 ## Talk 1
 
 Layla: So, she wants to summarize the effects of stars interacting with each other... That's going to be tricky.
-    Option 1:
-        Traveler: Happy Sabzeruz Festival, "other Layla."
-    Option 2:
-        Traveler: Happy Sabzeruz Festival, "Blessing from the stars."
+
+Option 1:
+
+> Traveler: Happy Sabzeruz Festival, "other Layla."
+
+Option 2:
+
+> Traveler: Happy Sabzeruz Festival, "Blessing from the stars."
+
 Layla: Ah, you noticed... As you can see, daylight Layla is currently too stressed to enjoy the festivities.
 Layla: With a deadline coinciding with the festival, and a research topic concerning complex astrology... It's no surprise she's been sleepwalking again.
 Traveler: Is there anything I can do to help?
@@ -19,12 +24,17 @@ Layla: Sorry. I'm not sure we can trust such complex and precise calculations to
 ## Talk 2
 
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Oh? Now this is a first. Who goes to the Akademiya in the middle of a festival?
-    Option 1:
-        Traveler: You're here, aren't you?
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: This is the only place where I can escape all the commotion.
-    Option 2:
-        Traveler: You're not going to join in on the fun?
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: Do I strike you as someone who wants to hold hands and dance with everyone?
+
+Option 1:
+
+> Traveler: You're here, aren't you?
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: This is the only place where I can escape all the commotion.
+
+Option 2:
+
+> Traveler: You're not going to join in on the fun?
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: Do I strike you as someone who wants to hold hands and dance with everyone?
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Go have your fun, and don't tell anyone you saw me here.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: These festivals don't come by often, so you might as well let me enjoy it in my own way.
 
@@ -246,10 +256,15 @@ Layla: Wait... did I miss a variable? Don't tell me... I have to start from scra
 Traveler: Is everything okay, Layla?
 Layla: Oh... yep! I'm fine, just kinda feels like I'm seeing stars...
 Layla: Gotta get it together! I have to finish this paper before the Festival so I can watch the Parade...
-    Option 1:
-        Traveler: The Dendro Archon wouldn't want you to push yourself.
-    Option 2:
-        Traveler: The Dendro Archon can already tell how hard you work.
+
+Option 1:
+
+> Traveler: The Dendro Archon wouldn't want you to push yourself.
+
+Option 2:
+
+> Traveler: The Dendro Archon can already tell how hard you work.
+
 Layla: Yeah... you're right...
 Layla: Even the tiniest stars possess their own light. Keep shining, and eventually there will be people who see it... I just need to pick myself up and use another method to run the numbers.
 
@@ -317,127 +332,161 @@ Layla: I'll take a picture to capture this moment and put it on her desk.
 ## Talk 39
 
 Candace: I hope the sand didn't get into your sleeves, Traveler. Here, have a seat.
-    Option 1:
-        Traveler: Are you busy?
-        Candace: No, I was just practicing an ancient melody. It's beautiful, but I don't know how it ends. That knowledge has been lost to the sands.
-        Candace: I used to play it over and over again, never able to fully complete it.
-        Candace: But tonight, I want to try to give it a suitable ending.
-        Candace: Perhaps it's just the festival spirit, but I can't help but feel like certain stories deserve a happy ending...
-        Candace: Certain memories remain just as precious, even as they fade with time...
-    Option 2:
-        Traveler: Back so soon?
-        Candace: Sounds like our Knight of Flowers hasn't had enough of the festivities.
-        Candace: But, Aaru Village is where I truly belong.
-        Candace: I had a wonderful time with everyone, but I don't mind returning to my daily life.
-        Candace: This is no time to be sad.
-        Candace: You see? Look at the sky... Another beautiful day is just around the corner.
-    Option 3:
-        Traveler: I've got something else to do right now...
-        Candace: In any case, even when the festivities end, that joy stays with us.
+
+Option 1:
+
+> Traveler: Are you busy?
+> Candace: No, I was just practicing an ancient melody. It's beautiful, but I don't know how it ends. That knowledge has been lost to the sands.
+> Candace: I used to play it over and over again, never able to fully complete it.
+> Candace: But tonight, I want to try to give it a suitable ending.
+> Candace: Perhaps it's just the festival spirit, but I can't help but feel like certain stories deserve a happy ending...
+> Candace: Certain memories remain just as precious, even as they fade with time...
+
+Option 2:
+
+> Traveler: Back so soon?
+> Candace: Sounds like our Knight of Flowers hasn't had enough of the festivities.
+> Candace: But, Aaru Village is where I truly belong.
+> Candace: I had a wonderful time with everyone, but I don't mind returning to my daily life.
+> Candace: This is no time to be sad.
+> Candace: You see? Look at the sky... Another beautiful day is just around the corner.
+
+Option 3:
+
+> Traveler: I've got something else to do right now...
+> Candace: In any case, even when the festivities end, that joy stays with us.
+
 
 ## Talk 40
 
 Nahida: You're back! Here, let's share this Candied Ajilenakh Nut.
 Traveler: Were you waiting for me?
 Nahida: Hehe, now who's the mind reader?
-    Option 1:
-        Traveler: Did you have a happy birthday?
-        Nahida: Of course! It was amazing! It's like I was surrounded by everyone's kindness and warmth, like a little bird tucked away in a nest.
-        Nahida: I really can't thank everyone enough... the Aranara, the Pari, my dear friends.
-        Nahida: That said... You're still hiding something from me, aren't you?
-        Traveler: A—Am I...?
-        Nahida: Don't worry.
-        Nahida: If you think it should be kept a secret, then I trust your judgment.
-        Nahida: After all, you're my Knight of Flowers.
-    Option 2:
-        Traveler: Did you have a good time at the banquet?
-        Nahida: Of course! Every dish was such a pleasant surprise. I never knew what to expect... like trying to guess the flavor of Yalda Candies before opening the box!
-        Nahida: I wasn't really focused on the food, though. One look at everyone's happy faces, and I was already more than satisfied.
-        Nahida: After all, it's not the food that makes a banquet. It's the company!
-    Option 3:
-        Traveler: I should go...
-        Nahida: Okay! Who knows... Maybe the next time you see me, it'll be in one of your dreams, hehe!
+
+Option 1:
+
+> Traveler: Did you have a happy birthday?
+> Nahida: Of course! It was amazing! It's like I was surrounded by everyone's kindness and warmth, like a little bird tucked away in a nest.
+> Nahida: I really can't thank everyone enough... the Aranara, the Pari, my dear friends.
+> Nahida: That said... You're still hiding something from me, aren't you?
+> Traveler: A—Am I...?
+> Nahida: Don't worry.
+> Nahida: If you think it should be kept a secret, then I trust your judgment.
+> Nahida: After all, you're my Knight of Flowers.
+
+Option 2:
+
+> Traveler: Did you have a good time at the banquet?
+> Nahida: Of course! Every dish was such a pleasant surprise. I never knew what to expect... like trying to guess the flavor of Yalda Candies before opening the box!
+> Nahida: I wasn't really focused on the food, though. One look at everyone's happy faces, and I was already more than satisfied.
+> Nahida: After all, it's not the food that makes a banquet. It's the company!
+
+Option 3:
+
+> Traveler: I should go...
+> Nahida: Okay! Who knows... Maybe the next time you see me, it'll be in one of your dreams, hehe!
+
 
 ## Talk 41
 
 Masud: Dear traveler from afar, how has your Rocking Carriage experience been?
-    Option 1:
-        Traveler: Gotta give it another try first.
-        Masud: Fair enough. Rock to the rhythm of the carriage!
-    Option 2:
-        Traveler: I've got some suggestions...
-        Masud: Do tell, do tell. I'm listening.
-        Traveler: The carriage moves a little too slowly.
-        Masud: Ah, I see you're quite the speedrun enthusiast. Must be the sensory stimulation, eh?
-        Masud: That said, the Rocking Carriage is intended for the general public's enjoyment. I suspect that many children, ladies, and older folks might lack your alacrity.
-        Masud: I could try developing, say, a "Great Eremite Labyrinth Escape" for you, featuring greatly accelerated gameplay.
-        Masud: I'm sure that will not fail to satisfy!
-    Option 3:
-        Traveler: "Phantom Toy Master" is quite the title.
-        Masud: Really? Thank you for the compliment. I'm quite fond of it myself — inherited it from my grandmother, in fact.
-        Masud: Whenever I hear that name, it reminds me of my childhood goal... To make toys that make everyone happy.
-        Masud: Ah, just thinking about it fills these old bones with boundless vitality.
-        Traveler: Your grandmother, you say?
-        Masud: Yes. A long, long time ago, Granny visited a mysterious Domain by accident, where she made some strange friends, and gained a nearly boundless font of inspiration.
-        Masud: Upon returning to Sumeru, she began to develop all manner of unique toys.
-        Masud: Shame, though, that she was ever focused on making the most extravagant, complex game modes. She rarely considered if children could take it all in, or paid much attention to market conditions.
-        Masud: My objective assessment is that her work only received recognition from a limited number of customers, and despite her good reputation, her works weren't able to bring that simple happiness to large audiences at the time.
-        Traveler: "Take it all in," you say?
-        Masud: Simply put, children of all ages buy toys, and they all learn at different speeds, so you can't generalize about their ability to get up to speed on something new.
-        Masud: Some toys are too complex, and some games have too many rules. Even teens might struggle to memorize everything in a short time — and children would struggle all the more.
-        Masud: Granny was far too enthusiastic about her work and neglected this, which negatively impacted her sales.
-        Masud: I wouldn't say it was her fault, or that of the children. They just weren't really well-suited for one another.
-        Masud: Had Granny switched to targeting her toys at the adult market, I imagine things would have gone differently.
-    Option 4:
-        Traveler: We can talk later. I've got other things to do right now...
-        Masud: No issue. The joys of toys await you anytime!
-    Option 5:
-        Traveler: I've got some suggestions...
-        Masud: Do tell, do tell. I'm listening.
-        Traveler: We weren't challenged enough.
-        Masud: I see. So you're the sort who prefers a challenge, then. The harder the challenge, the more you enjoy overcoming it.
-        Masud: I should say that the Rocking Carriage is a leisurely festive game, and many tourists prefer a simple, relaxing time.
-        Masud: After all, most people don't spend much time studying a game they just encountered. Making things too complicated risks scaring potential players off.
-        Masud: But what I could do for you is try developing a "Forest Ranger's Great Fungus Adventure" with additional obstacles of all sorts, even some moving puzzles.
-        Masud: I'm sure that will satisfy your desires.
-    Option 6:
-        Traveler: I've got some suggestions...
-        Masud: Do tell, do tell. I'm listening.
-        Traveler: There was no combat during the drive.
-        Masud: Ah, so you're the type who prefers to overcome mighty foes in your adventures.
-        Masud: Alas, if we incorporated combat elements into the game, the focus would shift from driving the Flower Carriage to the larger experience of shooting from a moving vehicle.
-        Masud: Some prefer that simple driving experience, others prefer vehicle combat. Both understandable positions!
-        Masud: I could attempt to design, say, "The General Mahamatra's Swift Pursuit," which will focus on running battles and intercepting foes.
-        Masud: I'm sure that will better meet your expectations.
-    Option 7:
-        Traveler: "Phantom Toy Master" is quite the title.
-        Masud: Really? Thank you for the compliment. I'm quite fond of it myself — inherited it from my grandmother, in fact.
-        Masud: Whenever I hear that name, it reminds me of my childhood goal... To make toys that make everyone happy.
-        Masud: Ah, just thinking about it fills these old bones with boundless vitality.
-        Traveler: Your grandmother, you say?
-        Masud: Yes. A long, long time ago, Granny visited a mysterious Domain by accident, where she made some strange friends, and gained a nearly boundless font of inspiration.
-        Masud: Upon returning to Sumeru, she began to develop all manner of unique toys.
-        Masud: Shame, though, that she was ever focused on making the most extravagant, complex game modes. She rarely considered if children could take it all in, or paid much attention to market conditions.
-        Masud: My objective assessment is that her work only received recognition from a limited number of customers, and despite her good reputation, her works weren't able to bring that simple happiness to large audiences at the time.
-        Traveler: So, what were those market conditions?
-        Masud: Ah, and isn't that a complex question? To be honest, I've read many fine texts from many a scholar, but I still don't know how to evaluate it...
-        Masud: Simply put, more exquisite and ingenious toys require more investment, which will increase the price... Just as clockwork toys cannot be sold for the same price as origami models.
-        Masud: But neither Granny nor I figured out how much the price should be raised. How much Mora does everyone have in their purses? How much are they willing to pay for toys? That's something that only they know.
-        Masud: Customers' feelings are also key. If they're interested in one of your toys, some of them will be willing to spend a bit more. But if you don't catch their eye, they'll wait to get it on sale. There's no objective standard.
-        Masud: Granny made that error, and though she tried to lower her prices as much as possible, she still ended up running into the wall many times as a result. As such, I intend to do my best to strike a balance between quality, production costs, and price.
-        Masud: All in all, I've been quite happy these last few decades, and I have her to thank for it. She designed and bought more toys than I could ever finish playing with.
-        Masud: When she was still with us, we'd play with them together whenever she could find the time...
-        Masud: Ahem, right, enough dwelling on the past... Anyway, I will do my best to spread this joy to as many people as possible!
+
+Option 1:
+
+> Traveler: Gotta give it another try first.
+> Masud: Fair enough. Rock to the rhythm of the carriage!
+
+Option 2:
+
+> Traveler: I've got some suggestions...
+> Masud: Do tell, do tell. I'm listening.
+> Traveler: The carriage moves a little too slowly.
+> Masud: Ah, I see you're quite the speedrun enthusiast. Must be the sensory stimulation, eh?
+> Masud: That said, the Rocking Carriage is intended for the general public's enjoyment. I suspect that many children, ladies, and older folks might lack your alacrity.
+> Masud: I could try developing, say, a "Great Eremite Labyrinth Escape" for you, featuring greatly accelerated gameplay.
+> Masud: I'm sure that will not fail to satisfy!
+
+Option 3:
+
+> Traveler: "Phantom Toy Master" is quite the title.
+> Masud: Really? Thank you for the compliment. I'm quite fond of it myself — inherited it from my grandmother, in fact.
+> Masud: Whenever I hear that name, it reminds me of my childhood goal... To make toys that make everyone happy.
+> Masud: Ah, just thinking about it fills these old bones with boundless vitality.
+> Traveler: Your grandmother, you say?
+> Masud: Yes. A long, long time ago, Granny visited a mysterious Domain by accident, where she made some strange friends, and gained a nearly boundless font of inspiration.
+> Masud: Upon returning to Sumeru, she began to develop all manner of unique toys.
+> Masud: Shame, though, that she was ever focused on making the most extravagant, complex game modes. She rarely considered if children could take it all in, or paid much attention to market conditions.
+> Masud: My objective assessment is that her work only received recognition from a limited number of customers, and despite her good reputation, her works weren't able to bring that simple happiness to large audiences at the time.
+> Traveler: "Take it all in," you say?
+> Masud: Simply put, children of all ages buy toys, and they all learn at different speeds, so you can't generalize about their ability to get up to speed on something new.
+> Masud: Some toys are too complex, and some games have too many rules. Even teens might struggle to memorize everything in a short time — and children would struggle all the more.
+> Masud: Granny was far too enthusiastic about her work and neglected this, which negatively impacted her sales.
+> Masud: I wouldn't say it was her fault, or that of the children. They just weren't really well-suited for one another.
+> Masud: Had Granny switched to targeting her toys at the adult market, I imagine things would have gone differently.
+
+Option 4:
+
+> Traveler: We can talk later. I've got other things to do right now...
+> Masud: No issue. The joys of toys await you anytime!
+
+Option 5:
+
+> Traveler: I've got some suggestions...
+> Masud: Do tell, do tell. I'm listening.
+> Traveler: We weren't challenged enough.
+> Masud: I see. So you're the sort who prefers a challenge, then. The harder the challenge, the more you enjoy overcoming it.
+> Masud: I should say that the Rocking Carriage is a leisurely festive game, and many tourists prefer a simple, relaxing time.
+> Masud: After all, most people don't spend much time studying a game they just encountered. Making things too complicated risks scaring potential players off.
+> Masud: But what I could do for you is try developing a "Forest Ranger's Great Fungus Adventure" with additional obstacles of all sorts, even some moving puzzles.
+> Masud: I'm sure that will satisfy your desires.
+
+Option 6:
+
+> Traveler: I've got some suggestions...
+> Masud: Do tell, do tell. I'm listening.
+> Traveler: There was no combat during the drive.
+> Masud: Ah, so you're the type who prefers to overcome mighty foes in your adventures.
+> Masud: Alas, if we incorporated combat elements into the game, the focus would shift from driving the Flower Carriage to the larger experience of shooting from a moving vehicle.
+> Masud: Some prefer that simple driving experience, others prefer vehicle combat. Both understandable positions!
+> Masud: I could attempt to design, say, "The General Mahamatra's Swift Pursuit," which will focus on running battles and intercepting foes.
+> Masud: I'm sure that will better meet your expectations.
+
+Option 7:
+
+> Traveler: "Phantom Toy Master" is quite the title.
+> Masud: Really? Thank you for the compliment. I'm quite fond of it myself — inherited it from my grandmother, in fact.
+> Masud: Whenever I hear that name, it reminds me of my childhood goal... To make toys that make everyone happy.
+> Masud: Ah, just thinking about it fills these old bones with boundless vitality.
+> Traveler: Your grandmother, you say?
+> Masud: Yes. A long, long time ago, Granny visited a mysterious Domain by accident, where she made some strange friends, and gained a nearly boundless font of inspiration.
+> Masud: Upon returning to Sumeru, she began to develop all manner of unique toys.
+> Masud: Shame, though, that she was ever focused on making the most extravagant, complex game modes. She rarely considered if children could take it all in, or paid much attention to market conditions.
+> Masud: My objective assessment is that her work only received recognition from a limited number of customers, and despite her good reputation, her works weren't able to bring that simple happiness to large audiences at the time.
+> Traveler: So, what were those market conditions?
+> Masud: Ah, and isn't that a complex question? To be honest, I've read many fine texts from many a scholar, but I still don't know how to evaluate it...
+> Masud: Simply put, more exquisite and ingenious toys require more investment, which will increase the price... Just as clockwork toys cannot be sold for the same price as origami models.
+> Masud: But neither Granny nor I figured out how much the price should be raised. How much Mora does everyone have in their purses? How much are they willing to pay for toys? That's something that only they know.
+> Masud: Customers' feelings are also key. If they're interested in one of your toys, some of them will be willing to spend a bit more. But if you don't catch their eye, they'll wait to get it on sale. There's no objective standard.
+> Masud: Granny made that error, and though she tried to lower her prices as much as possible, she still ended up running into the wall many times as a result. As such, I intend to do my best to strike a balance between quality, production costs, and price.
+> Masud: All in all, I've been quite happy these last few decades, and I have her to thank for it. She designed and bought more toys than I could ever finish playing with.
+> Masud: When she was still with us, we'd play with them together whenever she could find the time...
+> Masud: Ahem, right, enough dwelling on the past... Anyway, I will do my best to spread this joy to as many people as possible!
+
 
 ## Talk 42
 
 Dharmakirti: Thanks for your assistance. This clinical trial is of great importance, so let me know once you're ready.
-    Option 1:
-        Traveler: I'm ready.
-    Option 2:
-        Traveler: I'm not quite ready yet.
-        Dharmakirti: No worries. We'll only start once you're good to go.
-        Dharmakirti: Once both you and the patient have awoken from the dream, we will continue to follow up with the patient over the long term. If the therapy produces good results, we should be able to detect long-lasting positive effects.
+
+Option 1:
+
+> Traveler: I'm ready.
+
+Option 2:
+
+> Traveler: I'm not quite ready yet.
+> Dharmakirti: No worries. We'll only start once you're good to go.
+> Dharmakirti: Once both you and the patient have awoken from the dream, we will continue to follow up with the patient over the long term. If the therapy produces good results, we should be able to detect long-lasting positive effects.
+
 
 ## Talk 43
 
@@ -468,34 +517,44 @@ Piyush: All inhuman, asymmetrical architectural designs must be destroyed! Destr
 
 Vihar: Honorable Knight of Flowers, is there any way we might be of service?
 Safi: All you need to do for each fight scene is follow the basic theme of each scene. As the actual moves will be undertaken by a professional such as yourself, you needn't follow our original ideas.
-    Option 1:
-        Traveler: Then I'll be happy to shoot some more.
-        Safi: Haha! Please, feel free to show off your incredible talent to its fullest! The cameras hidden around the venue will capture your majestic, valiant form!
-        Safi: Our set design draws inspiration from the dangerous Domains in adventurer legends. Who knows, it might even inspire you in combat!
-    Option 2:
-        Traveler: Have I met you before, Vihar?
-        Vihar: I am truly honored that you still remember me.
-        Vihar: In Sabzeruz Festivals past, I played a Carriage-less Knight of Flowers a few times, mostly handing out candies to the children.
-        Vihar: Now, there's an eminently more suitable Knight of Flowers, and so I can play the role for which I am naturally suited, that of the Knight of Candies.
-        Safi: I think it works out quite well. Kids really like the title, and the image of you passing out candy year after year has made a deep impression on everyone.
-        Vihar: Then after the movie premieres, can I get a title like... the "Knight of Cinema" or something?
-        Safi: You will be credited as the Director, and I as the Producer. It will be hard to say which of us will be the "Knight of Cinema."
-    Option 3:
-        Traveler: About the filming progress...
-        Vihar: As you can see, we've only just begun.
-        Vihar: As the thematic focus of the film is "battle," we have decided to film those scenes first, and then, based on what we can realistically achieve, decide on how we wish to express ourselves through the shots, lighting, color palette, style, and other elements...
-        Vihar: Then, we'll use these to determine the details of the script, so that we can avoid... "that can't be done" and "we can't make the shot work" as much as possible.
-        Safi: That's why we'll wait for the fight scenes to be filmed, edited, and post-processed before we film the rest. It will likely take quite some time.
-        Traveler: Now that's a clever approach!
-        Safi: Not at all, it's just a trick I learned during my last study trip to Fontaine. We still have a lot of room for improvement!
-    Option 4:
-        Traveler: See you next time, then!
-        Vihar: Take care! Please remember to make some time to finish filming some fight scenes... we simply cannot thank you enough!
-    Option 5:
-        Traveler: About the filming progress...
-        Vihar: As you can see, we've only just begun.
-        Vihar: As the thematic focus of the film is "battle," we have decided to film those scenes first, and then, based on what we can realistically achieve, decide on how we wish to express ourselves through the shots, lighting, color palette, style, and other elements...
-        Vihar: Then, we'll use these to determine the details of the script, so that we can avoid... "that can't be done" and "we can't make the shot work" as much as possible.
-        Safi: That's why we'll wait for the fight scenes to be filmed, edited, and post-processed before we film the rest. It will likely take quite some time.
-        Traveler: Now that's a very conservative approach!
-        Safi: Not at all, it's just a trick I learned during my last study trip to Fontaine. We still have a lot of room for improvement!
+
+Option 1:
+
+> Traveler: Then I'll be happy to shoot some more.
+> Safi: Haha! Please, feel free to show off your incredible talent to its fullest! The cameras hidden around the venue will capture your majestic, valiant form!
+> Safi: Our set design draws inspiration from the dangerous Domains in adventurer legends. Who knows, it might even inspire you in combat!
+
+Option 2:
+
+> Traveler: Have I met you before, Vihar?
+> Vihar: I am truly honored that you still remember me.
+> Vihar: In Sabzeruz Festivals past, I played a Carriage-less Knight of Flowers a few times, mostly handing out candies to the children.
+> Vihar: Now, there's an eminently more suitable Knight of Flowers, and so I can play the role for which I am naturally suited, that of the Knight of Candies.
+> Safi: I think it works out quite well. Kids really like the title, and the image of you passing out candy year after year has made a deep impression on everyone.
+> Vihar: Then after the movie premieres, can I get a title like... the "Knight of Cinema" or something?
+> Safi: You will be credited as the Director, and I as the Producer. It will be hard to say which of us will be the "Knight of Cinema."
+
+Option 3:
+
+> Traveler: About the filming progress...
+> Vihar: As you can see, we've only just begun.
+> Vihar: As the thematic focus of the film is "battle," we have decided to film those scenes first, and then, based on what we can realistically achieve, decide on how we wish to express ourselves through the shots, lighting, color palette, style, and other elements...
+> Vihar: Then, we'll use these to determine the details of the script, so that we can avoid... "that can't be done" and "we can't make the shot work" as much as possible.
+> Safi: That's why we'll wait for the fight scenes to be filmed, edited, and post-processed before we film the rest. It will likely take quite some time.
+> Traveler: Now that's a clever approach!
+> Safi: Not at all, it's just a trick I learned during my last study trip to Fontaine. We still have a lot of room for improvement!
+
+Option 4:
+
+> Traveler: See you next time, then!
+> Vihar: Take care! Please remember to make some time to finish filming some fight scenes... we simply cannot thank you enough!
+
+Option 5:
+
+> Traveler: About the filming progress...
+> Vihar: As you can see, we've only just begun.
+> Vihar: As the thematic focus of the film is "battle," we have decided to film those scenes first, and then, based on what we can realistically achieve, decide on how we wish to express ourselves through the shots, lighting, color palette, style, and other elements...
+> Vihar: Then, we'll use these to determine the details of the script, so that we can avoid... "that can't be done" and "we can't make the shot work" as much as possible.
+> Safi: That's why we'll wait for the fight scenes to be filmed, edited, and post-processed before we film the rest. It will likely take quite some time.
+> Traveler: Now that's a very conservative approach!
+> Safi: Not at all, it's just a trick I learned during my last study trip to Fontaine. We still have a lot of room for improvement!

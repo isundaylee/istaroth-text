@@ -20,12 +20,17 @@ Traveler: Doesn't bother me.
 Sara: Alright then, if you insist.
 Sara: But if this is intended as a gift, I'd advise you to cook a fresh batch of whatever you choose — everything here has been sat out for a while.
 Sara: Might I ask where your friend is from? Perhaps I can make a recommendation.
-    Option 1:
-        Traveler: Snezhnaya.
-        Sara: Wow, that's a long way from here. I need to be careful with my choice of ingredients.
-    Option 2:
-        Traveler: The Fatui.
-        Sara: The F—Fatui? You mean the ones from Snezhnaya? ...Your social circle is broad, to put it mildly.
+
+Option 1:
+
+> Traveler: Snezhnaya.
+> Sara: Wow, that's a long way from here. I need to be careful with my choice of ingredients.
+
+Option 2:
+
+> Traveler: The Fatui.
+> Sara: The F—Fatui? You mean the ones from Snezhnaya? ...Your social circle is broad, to put it mildly.
+
 Sara: Hmm, I know nothing of Snezhnayan tastes, but I do know a dish that caters to all tastes.
 Sara: Make me a Satisfying Salad and I will process it for you to make it more durable.
 Sara: Huh, you know something, I can't actually remember the last time I had to get the tools for this job out of the cupboard.
@@ -126,12 +131,17 @@ Charles: Oh, it's for a friend, is it? So you'll take it back to your "friend," 
 Charles: You can forget about purchasing alcohol — but, if you were genuinely here to purchase a Mondstadt specialty, we do have another beverage that might suit your requirements.
 Charles: Ah, except... the only thing is, some of the ingredients that it's mixed with haven't arrived yet.
 Charles: They definitely should have arrived by now... I hope nothing's happened. Perhaps you could go check up on the delivery?
-    Option 1:
-        Traveler: Sure.
-        Charles: Much obliged.
-    Option 2:
-        Traveler: But what if something's happened...
-        Charles: Just salvage whatever you can and bring it back here.
+
+Option 1:
+
+> Traveler: Sure.
+> Charles: Much obliged.
+
+Option 2:
+
+> Traveler: But what if something's happened...
+> Charles: Just salvage whatever you can and bring it back here.
+
 Charles: Don't worry, whatever happens, I will try to find some way of making a Mondstadt specialty beverage for you.
 
 ## Objective 13
@@ -259,16 +269,21 @@ Viktor: Please let the people above me show kindness and send me somewhere nice 
 ### Additional Talk 1
 
 Viktor: Something else bothering you? Come out and say it, don't beat about the bush.
-    Option 1:
-        Traveler: Why me?
-        Viktor: Hah, now there's a half-decent question. Because... Because before long, everyone else in Mondstadt is going to be baying for Fatui blood, that's why.
-        Viktor: It used to be that the sisters would shoot me the odd sideways glance. Now, the whole city looks at me like they're ready to grab their pitchforks and have at me.
-        Viktor: So you tell me — if not a traveler like you, then who else could I trust to help me out in this place?
-        Viktor: I'm at quite a loss to explain just what I must have done to get everyone here so riled up...
-    Option 2:
-        Traveler: How many other Fatui are currently in the city?
-        Viktor: I don't have the exact figure. But what I do know is that the party staying in the Goth Grand Hotel is keeping itself locked inside these days. I don't know what's happened.
-        Viktor: At a guess, I would say that maybe the higher-ups are making a move again. But whatever... It's not like any of that affects people down at my level.
+
+Option 1:
+
+> Traveler: Why me?
+> Viktor: Hah, now there's a half-decent question. Because... Because before long, everyone else in Mondstadt is going to be baying for Fatui blood, that's why.
+> Viktor: It used to be that the sisters would shoot me the odd sideways glance. Now, the whole city looks at me like they're ready to grab their pitchforks and have at me.
+> Viktor: So you tell me — if not a traveler like you, then who else could I trust to help me out in this place?
+> Viktor: I'm at quite a loss to explain just what I must have done to get everyone here so riled up...
+
+Option 2:
+
+> Traveler: How many other Fatui are currently in the city?
+> Viktor: I don't have the exact figure. But what I do know is that the party staying in the Goth Grand Hotel is keeping itself locked inside these days. I don't know what's happened.
+> Viktor: At a guess, I would say that maybe the higher-ups are making a move again. But whatever... It's not like any of that affects people down at my level.
+
 
 ### Additional Talk 2
 

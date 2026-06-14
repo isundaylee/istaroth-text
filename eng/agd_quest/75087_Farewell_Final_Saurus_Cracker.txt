@@ -69,23 +69,32 @@ Paimon: #Maybe {REALNAME[ID(2)|SHOWHOST(true)]} really wants to cheer him up, so
 Quilla: The things in this world that courage alone cannot change outnumber the sand grains of Sumeru. Compared to something illusory like that, absolute control is more reliable.
 Quilla: Attack!
 Paimon: #Amazing! {REALNAME[ID(2)|SHOWHOST(true)]} dodged the attack! That's just what Tepetlisaurs are good at, not even the sovereign of the skies can touch 'em!
-    Option 1:
-        Traveler: Attack.
-        Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
-    Option 2:
-        Traveler: Defend.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
-        Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
-    Option 3:
-        Traveler: Use an item.
-        Paimon: There's nothing we can use right now! Also, don't you think it's a bit too late to set Beast Trap now?
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
-        Paimon: #Oh! {REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
-    Option 4:
-        Traveler: Run away.
-        Paimon: This isn't the time to run away!
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrrooo... Rawr!
-        Paimon: #Even {REALNAME[ID(2)|SHOWHOST(true)]} gets it! Look, he's ready to attack!
+
+Option 1:
+
+> Traveler: Attack.
+> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
+
+Option 2:
+
+> Traveler: Defend.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
+> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
+
+Option 3:
+
+> Traveler: Use an item.
+> Paimon: There's nothing we can use right now! Also, don't you think it's a bit too late to set Beast Trap now?
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
+> Paimon: #Oh! {REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
+
+Option 4:
+
+> Traveler: Run away.
+> Paimon: This isn't the time to run away!
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrrooo... Rawr!
+> Paimon: #Even {REALNAME[ID(2)|SHOWHOST(true)]} gets it! Look, he's ready to attack!
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: The attack hit! It dealt... almost no damage!?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
@@ -99,36 +108,54 @@ Oberon: ...Krraaaaa!
 Paimon: Huh? Oberon seems to be pulling himself together!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
 Paimon: Paimon doesn't understand what they're saying, but it looks like they've reached some kind of... mutual understanding...?
-    Option 1:
-        Traveler: Use a Coordinated Attack.
-        Paimon: Here we go! Show us what the flight school's future star is capable of!
-    Option 2:
-        Traveler: Defend.
-        Paimon: Wait, we're two against one here. Our opponent probably can't attack both targets at once, so isn't this a waste of a turn?
-    Option 3:
-        Traveler: Use an item.
-        Paimon: Eat Saurus Crackers to recover 5 HP!
-        Paimon: ...Not that that's necessary!
-    Option 4:
-        Traveler: Run away.
-        Paimon: C'mon, things are going well. Why are you still thinking about running away!?
+
+Option 1:
+
+> Traveler: Use a Coordinated Attack.
+> Paimon: Here we go! Show us what the flight school's future star is capable of!
+
+Option 2:
+
+> Traveler: Defend.
+> Paimon: Wait, we're two against one here. Our opponent probably can't attack both targets at once, so isn't this a waste of a turn?
+
+Option 3:
+
+> Traveler: Use an item.
+> Paimon: Eat Saurus Crackers to recover 5 HP!
+> Paimon: ...Not that that's necessary!
+
+Option 4:
+
+> Traveler: Run away.
+> Paimon: C'mon, things are going well. Why are you still thinking about running away!?
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Oberon has blocked the opponent's aerial escape route, and {REALNAME[ID(2)|SHOWHOST(true)]} is launching an attack! A brilliant coordinated strike!
 Paimon: That's a lot of damage Furball's taking! Did it eat a bad hit to the foot? Like, "stubbing your toe against the corner of a table," bad? Either way, the opponent seems shaken up and unable to move!
-    Option 1:
-        Traveler: Attack, but I'm the one attacking.
-        Paimon: #You could do that... but c'mon, {REALNAME[ID(2)|SHOWHOST(true)]} doesn't get lots of chances to show his stuff as-is, so stop being so childish!
-    Option 2:
-        Traveler: Persuade the opponent to surrender.
-        Paimon: If words could solve problems, why would there be so many conflicts in the world?
-        Paimon: Ahem... Paimon's just saying that it isn't likely to work.
-    Option 3:
-        Traveler: Capture it with a magical item.
-        Paimon: ?
-    Option 4:
-        Traveler: Let's run away now!
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrroo...
-        Paimon: #C'mon! You're even getting {REALNAME[ID(2)|SHOWHOST(true)]} down now!
+
+Option 1:
+
+> Traveler: Attack, but I'm the one attacking.
+> Paimon: #You could do that... but c'mon, {REALNAME[ID(2)|SHOWHOST(true)]} doesn't get lots of chances to show his stuff as-is, so stop being so childish!
+
+Option 2:
+
+> Traveler: Persuade the opponent to surrender.
+> Paimon: If words could solve problems, why would there be so many conflicts in the world?
+> Paimon: Ahem... Paimon's just saying that it isn't likely to work.
+
+Option 3:
+
+> Traveler: Capture it with a magical item.
+> Paimon: ?
+
+Option 4:
+
+> Traveler: Let's run away now!
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrroo...
+> Paimon: #C'mon! You're even getting {REALNAME[ID(2)|SHOWHOST(true)]} down now!
+
 Oberon: Kraaaa!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: #Oh? It looks like {REALNAME[ID(2)|SHOWHOST(true)]} and Oberon have a plan...
@@ -175,20 +202,30 @@ Paimon: Huh? It was that easy?
 Taruka: After figuring out the movement patterns of the Saurian guards, I realized there was an opening I could use to escape. Got out of there smoothly afterward.
 Paimon: Y'know, you might just be the most reliable one here...
 Lamizana: What took you so long? I was just about to settle matters with that liar... a—and officially apologize to you guys, of course... I was way too arbitrary, and almost framed innocent people.
-    Option 1:
-        Traveler: Too late now.
-        Paimon: That's right! You only appeared after everything ended. If that isn't trying to steal credit, then what is?
-    Option 2:
-        Traveler: I request monetary compensation! And my participation prize.
-        Paimon: So you haven't forgotten about the participation prize...
+
+Option 1:
+
+> Traveler: Too late now.
+> Paimon: That's right! You only appeared after everything ended. If that isn't trying to steal credit, then what is?
+
+Option 2:
+
+> Traveler: I request monetary compensation! And my participation prize.
+> Paimon: So you haven't forgotten about the participation prize...
+
 Lamizana: I haven't any leg to stand on, so I'll pay you the agreed compensation or whatever you want from me. I won't be stingy about it. You can even punch me if it'll make you feel better!
 Lamizana: I'm a real man, so I won't try to weasel out of my responsibilities.
-    Option 1:
-        Traveler: #We'll get {REALNAME[ID(2)|SHOWHOST(true)]} to give you a punch.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-    Option 2:
-        Traveler: #I'll have {REALNAME[ID(2)|SHOWHOST(true)]} kick you in the toes.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Option 1:
+
+> Traveler: #We'll get {REALNAME[ID(2)|SHOWHOST(true)]} to give you a punch.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
+Option 2:
+
+> Traveler: #I'll have {REALNAME[ID(2)|SHOWHOST(true)]} kick you in the toes.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+
 Lamizana: Ouch! Ow! I haven't been hit, but it already hurts! Please stay your merciful hands... and feet!
 Paimon: Didn't you just say you're a real man who won't try to weasel out? How pathetic.
 Paimon: #Forget it, we're not that petty. Don't you agree, Traveler, {REALNAME[ID(2)|SHOWHOST(true)]}?
@@ -205,27 +242,38 @@ Paimon: Hehe, no problem. We'll be back later if we get the chance!
 ### Additional Talk 1
 
 Temach: We still have a few more flying challenges. Details are written on the board. Give 'em a try if you're keen... Of course, there are prizes to be won.
-    Option 1:
-        Traveler: About the Pakpaka Flying School...
-        Temach: Honestly, I have no clue why it's called that. But speaking of Pakpaka... Have you ever heard the story of Kuntur and the evil sorcerer Rumi?
-        Temach: The warriors of the tribe were defeated by that wicked mage, and he turned them into Pakpaka... which doesn't sound all that good. Maybe Pakpakas fly very quickly, or something — I don't know.
-    Option 2:
-        Traveler: About Lamizana...
-        Temach: Haha... He's a good fighter, but not necessarily a good teacher. And as an opponent in flying competitions... I guess he's passable?
-        Temach: But I mean, why would you come here if you didn't have issues with flying? So, if I were to be too strict... *sigh* Well, it's not like things like this have never happened in the past.
-        Temach: That's why I focus on encouraging people nowadays. I'm sure that approach will get results just fine too.
-    Option 3:
-        Traveler: Gotta go.
-        Temach: See you. You're welcome back any time.
+
+Option 1:
+
+> Traveler: About the Pakpaka Flying School...
+> Temach: Honestly, I have no clue why it's called that. But speaking of Pakpaka... Have you ever heard the story of Kuntur and the evil sorcerer Rumi?
+> Temach: The warriors of the tribe were defeated by that wicked mage, and he turned them into Pakpaka... which doesn't sound all that good. Maybe Pakpakas fly very quickly, or something — I don't know.
+
+Option 2:
+
+> Traveler: About Lamizana...
+> Temach: Haha... He's a good fighter, but not necessarily a good teacher. And as an opponent in flying competitions... I guess he's passable?
+> Temach: But I mean, why would you come here if you didn't have issues with flying? So, if I were to be too strict... *sigh* Well, it's not like things like this have never happened in the past.
+> Temach: That's why I focus on encouraging people nowadays. I'm sure that approach will get results just fine too.
+
+Option 3:
+
+> Traveler: Gotta go.
+> Temach: See you. You're welcome back any time.
+
 
 ### Additional Talk 2
 
 Cisik: Welcome to Pakpaka Flying School!
-    Option 1:
-        Traveler: What do you do here?
-        Cisik: We give all cadets the necessary guidance and help they need. Things have changed a lot, you know. Back in the day, students couldn't expect that kind of tender loving care.
-        Cisik: But then there was this one time when the coach was a little... strict with their words, and the student in question just happened to have quite a temper... *sigh* Yeah, that's not a fun one to talk about.
-        Cisik: Anyway, our teaching policy's been shaken up since then. And I mean, nobody slaps a smiling face, and nobody hates compliments, am I right?
-    Option 2:
-        Traveler: I'll be off, then.
-        Cisik: Here's to a pleasant day!
+
+Option 1:
+
+> Traveler: What do you do here?
+> Cisik: We give all cadets the necessary guidance and help they need. Things have changed a lot, you know. Back in the day, students couldn't expect that kind of tender loving care.
+> Cisik: But then there was this one time when the coach was a little... strict with their words, and the student in question just happened to have quite a temper... *sigh* Yeah, that's not a fun one to talk about.
+> Cisik: Anyway, our teaching policy's been shaken up since then. And I mean, nobody slaps a smiling face, and nobody hates compliments, am I right?
+
+Option 2:
+
+> Traveler: I'll be off, then.
+> Cisik: Here's to a pleasant day!

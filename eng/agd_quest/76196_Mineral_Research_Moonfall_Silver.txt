@@ -33,43 +33,56 @@ Dorota: Right! And since you're usually the one teaching adventurers, how about 
 Dorota: I have three pieces of Moonfall Silver here. Sadly, two of them have minor flaws. The last one, though, that's my prized treasure. The Moonfall Silver among Moonfall Silvers!
 Dorota: Can you tell which one is the most perfect?
 Linnea: Let me see...
-    Option 1:
-        Linnea: The one on the left...
-        Linnea: (Hmm? What is Lumi doing?)
-        Linnea: I'll go with this one!
-        Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
-        Linnea: Okay, you got me. But next time, I'm not going down that easily!
-        Dorota: Fine by me. I'm always ready!
-    Option 2:
-        Linnea: The one in the middle...
-        Linnea: (Lumi seems to like this one.)
-        Linnea: I'll go with this one!
-        Dorota: Ah, you feel it too, don't you? That irresistible pull only something truly perfect can have.
-    Option 3:
-        Linnea: The one on the right...
-        Linnea: (Hmm? What is Lumi doing?)
-        Linnea: I'll go with this one!
-        Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
-        Linnea: Okay, you got me. But next time, I'm not going down that easily!
-        Dorota: Fine by me. I'm always ready!
-    Option 4:
-        Linnea: The one on the left...
-        Linnea: (Hmm? What is Lumi doing?)
-        Linnea: Let me think again...
-        Linnea: Let me see...
-        [Circling back to a pre-branch dialog]
-    Option 5:
-        Linnea: The one in the middle...
-        Linnea: (Lumi seems to like this one.)
-        Linnea: Let me think again...
-        Linnea: Let me see...
-        [Circling back to a pre-branch dialog]
-    Option 6:
-        Linnea: The one on the right...
-        Linnea: (Hmm? What is Lumi doing?)
-        Linnea: Let me think again...
-        Linnea: Let me see...
-        [Circling back to a pre-branch dialog]
+
+Option 1:
+
+> Linnea: The one on the left...
+> Linnea: (Hmm? What is Lumi doing?)
+> Linnea: I'll go with this one!
+> Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
+> Linnea: Okay, you got me. But next time, I'm not going down that easily!
+> Dorota: Fine by me. I'm always ready!
+
+Option 2:
+
+> Linnea: The one in the middle...
+> Linnea: (Lumi seems to like this one.)
+> Linnea: I'll go with this one!
+> Dorota: Ah, you feel it too, don't you? That irresistible pull only something truly perfect can have.
+
+Option 3:
+
+> Linnea: The one on the right...
+> Linnea: (Hmm? What is Lumi doing?)
+> Linnea: I'll go with this one!
+> Dorota: Haha, looks like even you can misjudge sometimes, Linnea. This one actually has a tiny flaw hidden in a very inconspicuous spot.
+> Linnea: Okay, you got me. But next time, I'm not going down that easily!
+> Dorota: Fine by me. I'm always ready!
+
+Option 4:
+
+> Linnea: The one on the left...
+> Linnea: (Hmm? What is Lumi doing?)
+> Linnea: Let me think again...
+> Linnea: Let me see...
+> [Circling back to a pre-branch dialog]
+
+Option 5:
+
+> Linnea: The one in the middle...
+> Linnea: (Lumi seems to like this one.)
+> Linnea: Let me think again...
+> Linnea: Let me see...
+> [Circling back to a pre-branch dialog]
+
+Option 6:
+
+> Linnea: The one on the right...
+> Linnea: (Hmm? What is Lumi doing?)
+> Linnea: Let me think again...
+> Linnea: Let me see...
+> [Circling back to a pre-branch dialog]
+
 Black Screen Text: Linnea ends up taking part in Dorota's Moonfall Silver Appreciation Event, and had a really lovely time...
 Dorota: Wow, didn't expect everyone to be so enthusiastic. It's a shame moments like this never seem to last... Alright, time to pack up and head back.
 Linnea: Let me help you.

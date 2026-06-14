@@ -71,11 +71,16 @@ Paimon: Wait, the woven scrolls wrapped around it look familiar. They're just li
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
 Paimon: #That's pretty strange. Don't you think so too, {REALNAME[ID(2)|SHOWHOST(true)]}? Traveler, what's written on them?
 Paimon: Wow, these notes really were left behind by the same adventurer. So this must be the Core of Chu'ulel, then?
-    Option 1:
-        Traveler: There are other possibilities.
-        Paimon: True, and we did find a new hunk o' Pyrophosphorite here. Maybe there are more to be found elsewhere.
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> Traveler: There are other possibilities.
+> Paimon: True, and we did find a new hunk o' Pyrophosphorite here. Maybe there are more to be found elsewhere.
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 Traveler: There are too many things here that make little sense.
 Paimon: True, and Coco did point us here. Did he know there was a Pyrophosphorite chunk and wanted us to have it? Paimon doesn't get it.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo...

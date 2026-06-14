@@ -150,64 +150,77 @@ Varka: ...
 (Talk to Varka)
 
 Varka: Ahhh... It's been a while since I felt this wind on my face... Just how I remember. So, is there anything you'd like to talk about? Now's your chance, before I get dragged off to the office...
-    Option 1:
-        Traveler: About your plan...
-        Varka: The sword was just a decoy — I carried his soul in my own heart... That was the plan I was most certain would work.
-        Varka: The second half, though — using everyone's thoughts to guide me back out of the Ley Lines... I wasn't too sure that would work out, hah.
-        Paimon: #All jokes aside, what would you have done if Traveler hadn't been able to separate the Wolf Spirit from Roland's influence?
-        Varka: Hmm... Initially, I was planning to have Barbatos carry out that step. But when I approached him about it, he said there was a much more suitable candidate... The Outlander Who Caught the Wind.
-        Varka: #Turns out our trust was not misplaced. Thank you, Traveler.
-        Traveler: But what if I'd failed?
-        Varka: Then... I guess we'd have had to get Barbatos to send a wind to blow me back home?
-        Varka: ...But it would have come at a heavy price, and with no guarantee of success. Besides, I'd rather not have him expend that kind of power.
-        Traveler: ...Invoking the power of an Archon...
-        Varka: Hmm, it's a good question — a glass of the finest Dandelion Wine, perhaps? No doubt I'd have to pay for it with the secret stash of cash in my office.
-        Paimon: You're dreaming if you think it would've come that cheap!
-    Option 2:
-        Traveler: About the expedition...
-        Varka: Well, with the shadow of Roland vanquished, the Wild Hunt won't be able to consolidate their forces for the foreseeable future.
-        Varka: A few knights will remain on rotation at the Nod-Krai stronghold, but everyone else will be sent home in waves.
-        Varka: Albedo and Durin will come back with the first wave, so you should have the chance to see them again soon.
-    Option 3:
-        Traveler: About your future...
-        Varka: My future, huh... You may already have learned of this from Barbatos or the Hexenzirkel, but I glimpsed a reflection of the future in Barbeloth's scryglass.
-        Traveler: You saw an Abyssal calamity in the North, right?
-        Varka: Correct. Although, as things stand now... I believe we may have changed the course of the future — thanks in no small part to you.
-        Varka: Still, after I've tied up some loose ends with the Knights of Favonius, I'll need to make another trip back north... There's still a lot of work to be done at the Nod-Krai stronghold.
-        Varka: Besides, the first group of knights who volunteered to stay there have yet to be relieved of their duty. How could I simply abandon them?
-        Paimon: Aw, how noble... But be honest, your main reason for going back to Nod-Krai is so you can dump all your work here on Jean again, isn't it?
-        Varka: ...
-        Paimon: ...Wait, seriously!?
-        Traveler: Aren't you gonna say something in your defense...?
-        Varka: Haha. I'm only pulling your leg — you'll be seeing a lot more of me in Mondstadt from now on.
-    Option 4:
-        Traveler: I have no more questions.
-        Varka: Alright then. I'm gonna stay here and enjoy the breeze for a little longer... For all the wine in the world, there's no feeling as intoxicating as the wind from your hometown after a long time away.
-    Option 5:
-        Traveler: About your plan...
-        Varka: The sword was just a decoy — I carried his soul in my own heart... That was the plan I was most certain would work.
-        Varka: The second half, though — using everyone's thoughts to guide me back out of the Ley Lines... I wasn't too sure that would work out, hah.
-        Paimon: #All jokes aside, what would you have done if Traveler hadn't been able to separate the Wolf Spirit from Roland's influence?
-        Varka: Hmm... Initially, I was planning to have Barbatos carry out that step. But when I approached him about it, he said there was a much more suitable candidate... The Outlander Who Caught the Wind.
-        Varka: #Turns out our trust was not misplaced. Thank you, Traveler.
-        Traveler: But what if I'd failed?
-        Varka: Then... I guess we'd have had to get Barbatos to send a wind to blow me back home?
-        Varka: ...But it would have come at a heavy price, and with no guarantee of success. Besides, I'd rather not have him expend that kind of power.
-        Traveler: ...How steep a price are we talking?
-        Varka: Hmm, it's a good question — a glass of the finest Dandelion Wine, perhaps? No doubt I'd have to pay for it with the secret stash of cash in my office.
-        Paimon: You're dreaming if you think it would've come that cheap!
-    Option 6:
-        Traveler: About your future...
-        Varka: My future, huh... You may already have learned of this from Barbatos or the Hexenzirkel, but I glimpsed a reflection of the future in Barbeloth's scryglass.
-        Traveler: You saw an Abyssal calamity in the North, right?
-        Varka: Correct. Although, as things stand now... I believe we may have changed the course of the future — thanks in no small part to you.
-        Varka: Still, after I've tied up some loose ends with the Knights of Favonius, I'll need to make another trip back north... There's still a lot of work to be done at the Nod-Krai stronghold.
-        Varka: Besides, the first group of knights who volunteered to stay there have yet to be relieved of their duty. How could I simply abandon them?
-        Paimon: Aw, how noble... But be honest, your main reason for going back to Nod-Krai is so you can dump all your work here on Jean again, isn't it?
-        Varka: ...
-        Paimon: ...Wait, seriously!?
-        Traveler: Don't just stand there grinning!
-        Varka: Haha. I'm only pulling your leg — you'll be seeing a lot more of me in Mondstadt from now on.
+
+Option 1:
+
+> Traveler: About your plan...
+> Varka: The sword was just a decoy — I carried his soul in my own heart... That was the plan I was most certain would work.
+> Varka: The second half, though — using everyone's thoughts to guide me back out of the Ley Lines... I wasn't too sure that would work out, hah.
+> Paimon: #All jokes aside, what would you have done if Traveler hadn't been able to separate the Wolf Spirit from Roland's influence?
+> Varka: Hmm... Initially, I was planning to have Barbatos carry out that step. But when I approached him about it, he said there was a much more suitable candidate... The Outlander Who Caught the Wind.
+> Varka: #Turns out our trust was not misplaced. Thank you, Traveler.
+> Traveler: But what if I'd failed?
+> Varka: Then... I guess we'd have had to get Barbatos to send a wind to blow me back home?
+> Varka: ...But it would have come at a heavy price, and with no guarantee of success. Besides, I'd rather not have him expend that kind of power.
+> Traveler: ...Invoking the power of an Archon...
+> Varka: Hmm, it's a good question — a glass of the finest Dandelion Wine, perhaps? No doubt I'd have to pay for it with the secret stash of cash in my office.
+> Paimon: You're dreaming if you think it would've come that cheap!
+
+Option 2:
+
+> Traveler: About the expedition...
+> Varka: Well, with the shadow of Roland vanquished, the Wild Hunt won't be able to consolidate their forces for the foreseeable future.
+> Varka: A few knights will remain on rotation at the Nod-Krai stronghold, but everyone else will be sent home in waves.
+> Varka: Albedo and Durin will come back with the first wave, so you should have the chance to see them again soon.
+
+Option 3:
+
+> Traveler: About your future...
+> Varka: My future, huh... You may already have learned of this from Barbatos or the Hexenzirkel, but I glimpsed a reflection of the future in Barbeloth's scryglass.
+> Traveler: You saw an Abyssal calamity in the North, right?
+> Varka: Correct. Although, as things stand now... I believe we may have changed the course of the future — thanks in no small part to you.
+> Varka: Still, after I've tied up some loose ends with the Knights of Favonius, I'll need to make another trip back north... There's still a lot of work to be done at the Nod-Krai stronghold.
+> Varka: Besides, the first group of knights who volunteered to stay there have yet to be relieved of their duty. How could I simply abandon them?
+> Paimon: Aw, how noble... But be honest, your main reason for going back to Nod-Krai is so you can dump all your work here on Jean again, isn't it?
+> Varka: ...
+> Paimon: ...Wait, seriously!?
+> Traveler: Aren't you gonna say something in your defense...?
+> Varka: Haha. I'm only pulling your leg — you'll be seeing a lot more of me in Mondstadt from now on.
+
+Option 4:
+
+> Traveler: I have no more questions.
+> Varka: Alright then. I'm gonna stay here and enjoy the breeze for a little longer... For all the wine in the world, there's no feeling as intoxicating as the wind from your hometown after a long time away.
+
+Option 5:
+
+> Traveler: About your plan...
+> Varka: The sword was just a decoy — I carried his soul in my own heart... That was the plan I was most certain would work.
+> Varka: The second half, though — using everyone's thoughts to guide me back out of the Ley Lines... I wasn't too sure that would work out, hah.
+> Paimon: #All jokes aside, what would you have done if Traveler hadn't been able to separate the Wolf Spirit from Roland's influence?
+> Varka: Hmm... Initially, I was planning to have Barbatos carry out that step. But when I approached him about it, he said there was a much more suitable candidate... The Outlander Who Caught the Wind.
+> Varka: #Turns out our trust was not misplaced. Thank you, Traveler.
+> Traveler: But what if I'd failed?
+> Varka: Then... I guess we'd have had to get Barbatos to send a wind to blow me back home?
+> Varka: ...But it would have come at a heavy price, and with no guarantee of success. Besides, I'd rather not have him expend that kind of power.
+> Traveler: ...How steep a price are we talking?
+> Varka: Hmm, it's a good question — a glass of the finest Dandelion Wine, perhaps? No doubt I'd have to pay for it with the secret stash of cash in my office.
+> Paimon: You're dreaming if you think it would've come that cheap!
+
+Option 6:
+
+> Traveler: About your future...
+> Varka: My future, huh... You may already have learned of this from Barbatos or the Hexenzirkel, but I glimpsed a reflection of the future in Barbeloth's scryglass.
+> Traveler: You saw an Abyssal calamity in the North, right?
+> Varka: Correct. Although, as things stand now... I believe we may have changed the course of the future — thanks in no small part to you.
+> Varka: Still, after I've tied up some loose ends with the Knights of Favonius, I'll need to make another trip back north... There's still a lot of work to be done at the Nod-Krai stronghold.
+> Varka: Besides, the first group of knights who volunteered to stay there have yet to be relieved of their duty. How could I simply abandon them?
+> Paimon: Aw, how noble... But be honest, your main reason for going back to Nod-Krai is so you can dump all your work here on Jean again, isn't it?
+> Varka: ...
+> Paimon: ...Wait, seriously!?
+> Traveler: Don't just stand there grinning!
+> Varka: Haha. I'm only pulling your leg — you'll be seeing a lot more of me in Mondstadt from now on.
+
 
 ## Associated Free Talks
 

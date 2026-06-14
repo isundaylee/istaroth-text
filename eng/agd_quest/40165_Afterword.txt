@@ -50,10 +50,15 @@ Paimon: Well... Paimon got burned too, if that's any consolation. It's nothing p
 Kaeya: Oh, by the way, we weren't the only ones who got invited here. I saw Collei earlier. She didn't see me though — she was making a beeline for that big tree.
 Paimon: The Kingdom of Breezes and Bells, you mean? Oh, this is turning into a huge reunion! Maybe we should go say hi to her?
 Kaeya: Alright. Well, give her my regards.
-    Option 1:
-        Traveler: Will do.
-    Option 2:
-        Traveler: Enjoy your vacation!
+
+Option 1:
+
+> Traveler: Will do.
+
+Option 2:
+
+> Traveler: Enjoy your vacation!
+
 Jean: Thank you. Enjoy your time here too.
 
 ## Talk 3 (alternative/additional)
@@ -98,10 +103,15 @@ Collei: Haha, you make a good point, Paimon. Then I'll focus on exploring for no
 Paimon: #Shall we go pay a visit to the Metropole, Traveler? Maybe Mini Durin and Hat Guy are still there.
 Collei: Oh right, by the way, something pretty interesting has been happening in Sumeru recently. Master Tighnari has been working really hard on it, so if you have time, definitely go check it out!
 Paimon: Sounds good! We'll find some time in our schedule.
-    Option 1:
-        Traveler: Take it easy, Collei!
-    Option 2:
-        Traveler: Enjoy your... field trip!
+
+Option 1:
+
+> Traveler: Take it easy, Collei!
+
+Option 2:
+
+> Traveler: Enjoy your... field trip!
+
 Collei: Of course! See you later!
 
 ## Talk 4 (alternative/additional)
@@ -143,12 +153,17 @@ Mona: One moment...
 Mona: Ah, it looks like he's at the Broken Sea. There's a big group of people with him, too.
 Paimon: Cool! Wanna come with us? We can introduce you.
 Mona: Hmm, I think I'll sit this one out. This might be the closest I ever get to meeting the Old Hag in her youth, so I think I'll spend some time seeing what else I can glean from her grand design. You guys have fun.
-    Option 1:
-        Traveler: ...Be careful, Mona.
-        Mona: What do you mean, "be careful"? Now you're making me nervous!
-    Option 2:
-        Traveler: Thanks for your astrological assistance.
-        Mona: Anytime.
+
+Option 1:
+
+> Traveler: ...Be careful, Mona.
+> Mona: What do you mean, "be careful"? Now you're making me nervous!
+
+Option 2:
+
+> Traveler: Thanks for your astrological assistance.
+> Mona: Anytime.
+
 Paimon: We'll be off now. See you later, Mona!
 
 ## Talk 5 (alternative/additional)
@@ -171,10 +186,15 @@ Mini Durin: Pleasure to meet you too! But Hat Guy's not my servant, he's my frie
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Now you're over-explaining.
 Paimon: Hat Guy, Mini Durin! Found you at last! Whoa, and Fischl's with you, too?
 Fischl: Ohoho! Greetings, Outlander blessed by the Immernachtreich! How honored you are to meet your Prinzessin beneath the stars of another sky... Clearly, a decision made by fate itself!
-    Option 1:
-        Traveler: I echo your sentiments, Your Highness.
-    Option 2:
-        Traveler: It's great to see you too.
+
+Option 1:
+
+> Traveler: I echo your sentiments, Your Highness.
+
+Option 2:
+
+> Traveler: It's great to see you too.
+
 Klee: #{F#Miss}{M#Mr.} Honorary Knight! Paimon!
 Albedo: Greetings. You both look well.
 Paimon: Hey there Klee! Have you been having fun here?
@@ -227,10 +247,15 @@ Mini Durin: Hat Guy, I'm back! ...Hmm? What were you guys talking about?
 Paimon: ...
 Mini Durin: Huh? Okay then. Let's go join the others. Everyone's going to check out the new origami ship!
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Alright. I'll be right there.
-    Option 1:
-        Traveler: #{REALNAME[ID(1)]}...
-    Option 2:
-        Traveler: Are you worried about Durin?
+
+Option 1:
+
+> Traveler: #{REALNAME[ID(1)]}...
+
+Option 2:
+
+> Traveler: Are you worried about Durin?
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Why would I be? Do I strike you as someone who cares about other people's issues?
 Traveler: (Now that he's saved Simulanka's Durin, maybe he'll be sympathetic to the Durin of our world...?)
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Quit trying to guess what I'm thinking. I'm leaving.

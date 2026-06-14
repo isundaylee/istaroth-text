@@ -10,12 +10,17 @@ Traveler: I've never met statues that talk as much as you lot...
 Unknown Role (TALK_ROLE_GADGET): That's for sure. If it weren't for the spark of intellect within the jade, we wouldn't be able to speak at all.
 Unknown Role (TALK_ROLE_GADGET): Unfortunately, such jade is hard to find these days, and most gemstones in the world lack that intelligence...
 Unknown Role (TALK_ROLE_GADGET): No amount of effort spent would create another being like us.
-    Option 1:
-        Traveler: You're exaggerating, surely? I've seen plenty of good jade.
-        Unknown Role (TALK_ROLE_GADGET): Hehe. Mere "good jade" would succeed in imitating our shape, no doubt...
-        Unknown Role (TALK_ROLE_GADGET): But such an item would be a long way off from possessing speech.
-    Option 2:
-        Traveler: What would we need apart from jade?
+
+Option 1:
+
+> Traveler: You're exaggerating, surely? I've seen plenty of good jade.
+> Unknown Role (TALK_ROLE_GADGET): Hehe. Mere "good jade" would succeed in imitating our shape, no doubt...
+> Unknown Role (TALK_ROLE_GADGET): But such an item would be a long way off from possessing speech.
+
+Option 2:
+
+> Traveler: What would we need apart from jade?
+
 Unknown Role (TALK_ROLE_GADGET): You'd need... Um, pardon me. I have little skill in crafting, so answering your question is, in truth, beyond my capabilities.
 Traveler: So what are you skilled in exactly?
 Unknown Role (TALK_ROLE_GADGET): Uh... Many previous visitors have praised me for being understanding and eloquent.

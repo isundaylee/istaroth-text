@@ -19,13 +19,18 @@ Magnifico: I wouldn't worry too much about it, though I'm not too sure what it i
 Magnifico: *sigh* All the scrap photos I've taken so far are utterly mundane, so much so that it's annoying. I could keep waiting, but since you're here...
 Magnifico: Perhaps you could... uh, guide them? Teach them how to perform a most lovely dive? I mean, you are a Saurian tamer famed throughout Natlan, are you not?
 Magnifico: Alright? Great! I'll send a signal out from here. So long as you can get to the precise location of the target by the water when I count down to "one," we're all set!
-    Option 1:
-        Traveler: We can give it a go.
-        Magnifico: Haha, excellent! Let's give it a try, then!
-    Option 2:
-        Traveler: We can't guarantee success...
-        Paimon: That's fine. If we fail, all we've lost is time. And we're travelers — no one's time is worth less than ours.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: ?
+
+Option 1:
+
+> Traveler: We can give it a go.
+> Magnifico: Haha, excellent! Let's give it a try, then!
+
+Option 2:
+
+> Traveler: We can't guarantee success...
+> Paimon: That's fine. If we fail, all we've lost is time. And we're travelers — no one's time is worth less than ours.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: ?
+
 
 ## Objective 2
 
@@ -45,15 +50,20 @@ Magnifico: *sigh* As you can see, the results are... not ideal. As the deeds, so
 Magnifico: Ah... My family always told me that even small trees can cast huge shadows... But it's nonsense! Nonsense! They only meant to humiliate me, surely!
 Magnifico: Ugh...
 Paimon: Hey, hey, don't get mad! You're not going to get any bigger even if you do!
-    Option 1:
-        Traveler: Don't give up...
-        Magnifico: Give up? Who says I'm giving up? Nay! Anger and shame only drive me on, give me strength — that is their purpose! We continue!
-        Paimon: Well, he's sure fired up... Still a pretty weird guy, though.
-        Magnifico: Yes, yes.
-    Option 2:
-        Traveler: Let's give this another go.
-        Magnifico: Yes, let's!
-        Paimon: Whoa, you sure recover fast!
+
+Option 1:
+
+> Traveler: Don't give up...
+> Magnifico: Give up? Who says I'm giving up? Nay! Anger and shame only drive me on, give me strength — that is their purpose! We continue!
+> Paimon: Well, he's sure fired up... Still a pretty weird guy, though.
+> Magnifico: Yes, yes.
+
+Option 2:
+
+> Traveler: Let's give this another go.
+> Magnifico: Yes, let's!
+> Paimon: Whoa, you sure recover fast!
+
 
 ## Objective 6
 
@@ -77,13 +87,18 @@ Magnifico: What's up? Are those little ones refusing to listen to you as well?
 
 Magnifico: Gah, we must start over! ...Uh, if you don't mind, I mean.
 Paimon: *sigh* There's no "mind" or "don't mind." We're already here, aren't we?
-    Option 1:
-        Traveler: Let's continue, then.
-        Magnifico: You have my thanks.
-    Option 2:
-        Traveler: Let's take a break first...
-        Paimon: That's right. Jumping off cliffs is hard work, y'know?
-        Magnifico: Ah... Yes. I did not consider that. Alright, just start whenever you're ready. I will wait for you here.
+
+Option 1:
+
+> Traveler: Let's continue, then.
+> Magnifico: You have my thanks.
+
+Option 2:
+
+> Traveler: Let's take a break first...
+> Paimon: That's right. Jumping off cliffs is hard work, y'know?
+> Magnifico: Ah... Yes. I did not consider that. Alright, just start whenever you're ready. I will wait for you here.
+
 
 ## Talk 9
 

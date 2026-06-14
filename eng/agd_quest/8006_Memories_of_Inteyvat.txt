@@ -61,10 +61,15 @@ Paimon: We may not have a whole lot of happy memories dealing with hilichurls, b
 
 Paimon: How did that flower get this far underground?
 Paimon: Did someone bring it in memory of the deceased hilichurls?
-    Option 1:
-        Traveler: I know this flower...
-    Option 2:
-        Traveler: I've seen this kind of flower before...
+
+Option 1:
+
+> Traveler: I know this flower...
+
+Option 2:
+
+> Traveler: I've seen this kind of flower before...
+
 Paimon: Hey, now that you mention it, Paimon thinks it looks kinda familiar, too...
 Dainsleif: It is the national flower of Khaenri'ah: the "Inteyvat." It once bloomed all over the nation.
 Dainsleif: It would only last two weeks before wilting. But if you were to pluck one and take it out of Khaenri'ah, the petals would stop growing and turn hard.
@@ -90,17 +95,27 @@ Black Screen Text: You relate the scene you just saw to Dainsleif...
 Dainsleif: Huh. Well, people do say that twins have a special connection...
 Dainsleif: It sounds as if they are attempting to make use of certain equipment to cleanse the curse. It could well be the device we saw earlier.
 Dainsleif: #And... you say {F#he}{M#she} mentioned the "revival of the homeland," correct?
-    Option 1:
-        Traveler: Yes.
-    Option 2:
-        Traveler: #{F#He}{M#She} said it was {F#his}{M#her} mission.
+
+Option 1:
+
+> Traveler: Yes.
+
+Option 2:
+
+> Traveler: #{F#He}{M#She} said it was {F#his}{M#her} mission.
+
 Dainsleif: No surprise there. Stubborn as ever.
 Dainsleif: It appears as if the Abyss Order plans to use this location to cleanse the hilichurls of their curse and restore them to the way they once were... Then, they will serve as the foundation for reviving the nation of Khaenri'ah.
 Dainsleif: After all, there can be no nation without a people.
-    Option 1:
-        Traveler: What do you think?
-    Option 2:
-        Traveler: Do they have a chance?
+
+Option 1:
+
+> Traveler: What do you think?
+
+Option 2:
+
+> Traveler: Do they have a chance?
+
 Dainsleif: Hmph, it is the height of foolishness. They have no chance of success. Not even a one-percent chance.
 Dainsleif: I told you already that no one knows this curse better than I, having lived with it for 500 years... There is no redemption. There is no undoing the curse.
 Dainsleif: Trying to remove it by force will achieve nothing but to inflict further suffering.
@@ -113,51 +128,78 @@ Dainsleif: #Haha... But of course. I am merely someone you hired for a task, whi
 Dainsleif: #It is only natural for you to side with {F#him}{M#her}.
 Dainsleif: But whatever decision you make cannot deter me from mine. My chosen path is to stop the Abyss. If we have reached an impasse, then perhaps this is where we should say—
 Traveler: I choose to believe you.
-    Option 1:
-        Traveler: But that doesn't mean I completely trust you.
-    Option 2:
-        Traveler: #It just means that I don't approve of my {F#brother's}{M#sister's} methods.
+
+Option 1:
+
+> Traveler: But that doesn't mean I completely trust you.
+
+Option 2:
+
+> Traveler: #It just means that I don't approve of my {F#brother's}{M#sister's} methods.
+
 Dainsleif: I see.
-    Option 1:
-        Traveler: A 1% chance of redemption...
-        Traveler: Nobody has the right...
-        Traveler: Especially not when these hilichurls...
-    Option 2:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: Nobody has the right...
-        Traveler: Especially not when these hilichurls...
-    Option 3:
-        Traveler: A 1% chance of redemption...
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: Especially not when these hilichurls...
-    Option 4:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: Especially not when these hilichurls...
-    Option 5:
-        Traveler: A 1% chance of redemption...
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: ...have already chosen the end that they desire.
-    Option 6:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: ...have already chosen the end that they desire.
-    Option 7:
-        Traveler: A 1% chance of redemption...
-        Traveler: Nobody has the right...
-        Traveler: ...have already chosen the end that they desire.
-    Option 8:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: Nobody has the right...
-        Traveler: ...have already chosen the end that they desire.
+
+Option 1:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: Nobody has the right...
+> Traveler: Especially not when these hilichurls...
+
+Option 2:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: Nobody has the right...
+> Traveler: Especially not when these hilichurls...
+
+Option 3:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: Especially not when these hilichurls...
+
+Option 4:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: Especially not when these hilichurls...
+
+Option 5:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: ...have already chosen the end that they desire.
+
+Option 6:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: ...have already chosen the end that they desire.
+
+Option 7:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: Nobody has the right...
+> Traveler: ...have already chosen the end that they desire.
+
+Option 8:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: Nobody has the right...
+> Traveler: ...have already chosen the end that they desire.
+
 Dainsleif: It seems that the three questions I put to you on our first meeting were worthwhile. You have developed your own individual views on this world.
 Dainsleif: Very well. Since you have volunteered your true thoughts on this matter, I shall not hide mine from you.
 Dainsleif: Right now, I have a more immediate agenda than stopping the Abyss...
 Dainsleif: That is to say, the Abyss's actions here directly dishonor the final wishes of Halfdan and my other compatriots. I cannot allow this to proceed.
-    Option 1:
-        Traveler: I can understand that.
-    Option 2:
-        Traveler: Then let's stick together for this one.
+
+Option 1:
+
+> Traveler: I can understand that.
+
+Option 2:
+
+> Traveler: Then let's stick together for this one.
+
 Dainsleif: The Abyss may appear at any moment. Be on your guard at all times as we proceed.
 
 ## Talk 6 (variant 2)
@@ -166,10 +208,15 @@ Dainsleif: The Abyss may appear at any moment. Be on your guard at all times as 
 
 Paimon: How did that flower get this far underground?
 Paimon: Did someone bring it in memory of the deceased hilichurls?
-    Option 1:
-        Traveler: I know this flower...
-    Option 2:
-        Traveler: I've seen this kind of flower before...
+
+Option 1:
+
+> Traveler: I know this flower...
+
+Option 2:
+
+> Traveler: I've seen this kind of flower before...
+
 Paimon: Hey, now that you mention it, Paimon thinks it looks kinda familiar, too...
 Dainsleif: It is the national flower of Khaenri'ah: the "Inteyvat." It once bloomed all over the nation.
 Dainsleif: It would only last two weeks before wilting. But if you were to pluck one and take it out of Khaenri'ah, the petals would stop growing and turn hard.
@@ -195,17 +242,27 @@ Black Screen Text: You relate the scene you just saw to Dainsleif...
 Dainsleif: Huh. Well, people do say that twins have a special connection...
 Dainsleif: It sounds as if they are attempting to make use of certain equipment to cleanse the curse. It could well be the device we saw earlier.
 Dainsleif: #And... you say {F#he}{M#she} mentioned the "revival of the homeland," correct?
-    Option 1:
-        Traveler: Yes.
-    Option 2:
-        Traveler: #{F#He}{M#She} said it was {F#his}{M#her} mission.
+
+Option 1:
+
+> Traveler: Yes.
+
+Option 2:
+
+> Traveler: #{F#He}{M#She} said it was {F#his}{M#her} mission.
+
 Dainsleif: No surprise there. Stubborn as ever.
 Dainsleif: It appears as if the Abyss Order plans to use this location to cleanse the hilichurls of their curse and restore them to the way they once were... Then, they will serve as the foundation for reviving the nation of Khaenri'ah.
 Dainsleif: After all, there can be no nation without a people.
-    Option 1:
-        Traveler: What do you think?
-    Option 2:
-        Traveler: Do they have a chance?
+
+Option 1:
+
+> Traveler: What do you think?
+
+Option 2:
+
+> Traveler: Do they have a chance?
+
 Dainsleif: Hmph, it is the height of foolishness. They have no chance of success. Not even a one-percent chance.
 Dainsleif: I told you already that no one knows this curse better than I, having lived with it for 500 years... There is no redemption. There is no undoing the curse.
 Dainsleif: Trying to remove it by force will achieve nothing but to inflict further suffering.
@@ -218,51 +275,78 @@ Dainsleif: #Haha... But of course. I am merely someone you hired for a task, whi
 Dainsleif: #It is only natural for you to side with {F#him}{M#her}.
 Dainsleif: But whatever decision you make cannot deter me from mine. My chosen path is to stop the Abyss. If we have reached an impasse, then perhaps this is where we should say—
 Traveler: I choose to believe you.
-    Option 1:
-        Traveler: But that doesn't mean I completely trust you.
-    Option 2:
-        Traveler: #It just means that I don't approve of my {F#brother's}{M#sister's} methods.
+
+Option 1:
+
+> Traveler: But that doesn't mean I completely trust you.
+
+Option 2:
+
+> Traveler: #It just means that I don't approve of my {F#brother's}{M#sister's} methods.
+
 Dainsleif: I see.
-    Option 1:
-        Traveler: A 1% chance of redemption...
-        Traveler: Nobody has the right...
-        Traveler: Especially not when these hilichurls...
-    Option 2:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: Nobody has the right...
-        Traveler: Especially not when these hilichurls...
-    Option 3:
-        Traveler: A 1% chance of redemption...
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: Especially not when these hilichurls...
-    Option 4:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: Especially not when these hilichurls...
-    Option 5:
-        Traveler: A 1% chance of redemption...
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: ...have already chosen the end that they desire.
-    Option 6:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: ...to make that choice on another living being's behalf.
-        Traveler: ...have already chosen the end that they desire.
-    Option 7:
-        Traveler: A 1% chance of redemption...
-        Traveler: Nobody has the right...
-        Traveler: ...have already chosen the end that they desire.
-    Option 8:
-        Traveler: ...versus a 99% chance of suffering and death.
-        Traveler: Nobody has the right...
-        Traveler: ...have already chosen the end that they desire.
+
+Option 1:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: Nobody has the right...
+> Traveler: Especially not when these hilichurls...
+
+Option 2:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: Nobody has the right...
+> Traveler: Especially not when these hilichurls...
+
+Option 3:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: Especially not when these hilichurls...
+
+Option 4:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: Especially not when these hilichurls...
+
+Option 5:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: ...have already chosen the end that they desire.
+
+Option 6:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: ...to make that choice on another living being's behalf.
+> Traveler: ...have already chosen the end that they desire.
+
+Option 7:
+
+> Traveler: A 1% chance of redemption...
+> Traveler: Nobody has the right...
+> Traveler: ...have already chosen the end that they desire.
+
+Option 8:
+
+> Traveler: ...versus a 99% chance of suffering and death.
+> Traveler: Nobody has the right...
+> Traveler: ...have already chosen the end that they desire.
+
 Dainsleif: It seems that the three questions I put to you on our first meeting were worthwhile. You have developed your own individual views on this world.
 Dainsleif: Very well. Since you have volunteered your true thoughts on this matter, I shall not hide mine from you.
 Dainsleif: Right now, I have a more immediate agenda than stopping the Abyss...
 Dainsleif: That is to say, the Abyss's actions here directly dishonor the final wishes of Halfdan and my other compatriots. I cannot allow this to proceed.
-    Option 1:
-        Traveler: I can understand that.
-    Option 2:
-        Traveler: Then let's stick together for this one.
+
+Option 1:
+
+> Traveler: I can understand that.
+
+Option 2:
+
+> Traveler: Then let's stick together for this one.
+
 Dainsleif: The Abyss may appear at any moment. Be on your guard at all times as we proceed.
 
 ## Objective 7

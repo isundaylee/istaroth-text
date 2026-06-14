@@ -9,20 +9,30 @@ In the depths of some searing ruins, you meet a young woman...
 
 Chikya: That big lunk isn't going to start getting up, is it...
 Chikya: There'll be trouble if it does, but there's only one way through... Do I have to dig a path from on top to get around it? How long will that take...
-    Option 1:
-        Traveler: Why don't you just go right over...
-    Option 2:
-        Traveler: Not all mechanisms are the awakening sort...
+
+Option 1:
+
+> Traveler: Why don't you just go right over...
+
+Option 2:
+
+> Traveler: Not all mechanisms are the awakening sort...
+
 Chikya: #Well, aren't you bold, lad? Listen good, alright? Your youth means you've still got chances to make mistakes aplenty, but... W—Wait, where'd you come fr—
 Chikya: Ah... Ow, ow, ow.
 Paimon: #Whoa, Traveler, what did you do to her? That wasn't some sorta invisible attack, was it?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
-    Option 1:
-        Traveler: I didn't do anything...
-    Option 2:
-        Traveler: This power doth the adepti of Liyue name "Gusto"...
-        Paimon: R—Really?
-        Chikya: #"Gusto"? What in tarnation is that? You're a braggart and a half, aren't you, lad?
+
+Option 1:
+
+> Traveler: I didn't do anything...
+
+Option 2:
+
+> Traveler: This power doth the adepti of Liyue name "Gusto"...
+> Paimon: R—Really?
+> Chikya: #"Gusto"? What in tarnation is that? You're a braggart and a half, aren't you, lad?
+
 Chikya: That was my back acting up. I've been stooping for a good long while, inching my way toward that big lunk, and I stood up too fast. Surefire way to bring the pain, is what it is.
 Chikya: Used to be that it'd only flare up when I'd turn my back at a specific angle, but these days, one careless move leaves me in a world of hurt for a good long while.
 Chikya: #And just so you know, it's pain o'clock now, Traveler, so... *hiss* Don't make starting conversations from behind people a habit, alright?
@@ -34,20 +44,30 @@ Chikya: Well, a person's gotta be on their guard while on a walkabout, don't the
 Chikya: But forget it. That would be unfriendly competition — if you take my meaning. So have my real name instead: Chikya.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: Heh, and aren't you a cute little fella? You're calling my name, I know it. Anyway, you can call me Big Sis Chikya — not Aunt Chikya though. That one I forbid.
-    Option 1:
-        Traveler: Alright, Big Sis Chikya.
-        Chikya: #Good, that's good. You've got a fine future ahead of you, lad.
-    Option 2:
-        Traveler: Well, I could just call you "Aunt" only...
-        Chikya: Pfah! That won't do at all! What, are you in your rebellious phase? No, that won't do. But I'll forgive you — this time, anyway.
+
+Option 1:
+
+> Traveler: Alright, Big Sis Chikya.
+> Chikya: #Good, that's good. You've got a fine future ahead of you, lad.
+
+Option 2:
+
+> Traveler: Well, I could just call you "Aunt" only...
+> Chikya: Pfah! That won't do at all! What, are you in your rebellious phase? No, that won't do. But I'll forgive you — this time, anyway.
+
 Paimon: Anyway, what are you doing here, Big Sis Chikya?
 Chikya: #And isn't that the million Mora question? What would a person be doing here amidst naught but ruins? What would your answer be, Traveler my lad?
-    Option 1:
-        Traveler: To rob others, or be robbed!
-        Chikya: ...I'm sorry. What sort of environment did you grow up in...?
-    Option 2:
-        Traveler: Waiting for someone to strike up a conversation with them?
-        Chikya: Well, now! Were you my type, I'd call that a good answer. Too bad for you, Big Sis here prefers the strapping sort.
+
+Option 1:
+
+> Traveler: To rob others, or be robbed!
+> Chikya: ...I'm sorry. What sort of environment did you grow up in...?
+
+Option 2:
+
+> Traveler: Waiting for someone to strike up a conversation with them?
+> Chikya: Well, now! Were you my type, I'd call that a good answer. Too bad for you, Big Sis here prefers the strapping sort.
+
 Chikya: Either way, minus 10 points for getting it wrong! What I'm doing... is treasure hunting.
 Traveler: "Wow, treasure!" There you go, Paimon. Spared you the effort.
 Paimon: Seriously? What are you, some serial line thief? And Paimon's gonna say it anyway — "Wow, treasure!"
@@ -62,10 +82,15 @@ Chikya: *sigh* I might look like this now, but I, too, was once a pretty lass wh
 Chikya: #Hehe, I see you're interested in that elixir, hmm, {REALNAME[ID(2)|SHOWHOST(true)]}? That curiosity will be the root of future success, you know.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mmm? ... Rawr!
 Paimon: An "elixir that can cure all injuries"! That sounds amazing!
-    Option 1:
-        Traveler: Let's go check it out, then...
-    Option 2:
-        Traveler: I knew you'd be excited...
+
+Option 1:
+
+> Traveler: Let's go check it out, then...
+
+Option 2:
+
+> Traveler: I knew you'd be excited...
+
 Chikya: Those unmoved by treasure can barely be called human! Why, even the coldest-blooded Saurians get fired up when they hear the word!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Exactly!
@@ -84,12 +109,17 @@ Chikya: #J—Just one moment, lad. You seem rather strong...
 Chikya: Ah... Ow, ow, ow.
 Paimon: #Whoa, Traveler, what did you do to her? That wasn't some sorta invisible attack, was it?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
-    Option 1:
-        Traveler: I didn't do anything...
-    Option 2:
-        Traveler: This power doth the adepti of Liyue name "Gusto"...
-        Paimon: R—Really?
-        Chikya: #"Gusto"? What in tarnation is that? You're a braggart and a half, aren't you, lad?
+
+Option 1:
+
+> Traveler: I didn't do anything...
+
+Option 2:
+
+> Traveler: This power doth the adepti of Liyue name "Gusto"...
+> Paimon: R—Really?
+> Chikya: #"Gusto"? What in tarnation is that? You're a braggart and a half, aren't you, lad?
+
 Chikya: That was my back acting up. I've been stooping for a good long while, trying to observe that mechanism, and I stood up too fast. Pretty sure way to bring the pain, is what it is.
 Chikya: Used to be that it'd only flare up when I'd turn my back at a specific angle, but these days, one careless move leaves me in a world of hurt for a good long while.
 Chikya: #And just so you know, it's pain o'clock right now, so... Gah! Try to understand this suffering adult, would'ja, Traveler?
@@ -101,20 +131,30 @@ Chikya: Well, a person's gotta be on their guard while on a walkabout, don't the
 Chikya: But forget it. That would be unfriendly competition — if you take my meaning. So have my real name instead: Chikya.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: Heh, and aren't you a cute little fella? You're calling my name, I know it. Anyway, you can call me Big Sis Chikya — not Aunt Chikya though. That one I forbid.
-    Option 1:
-        Traveler: Alright, Big Sis Chikya.
-        Chikya: #Good, that's good. You've got a fine future ahead of you, lad.
-    Option 2:
-        Traveler: Well, I could just call you "Aunt" only...
-        Chikya: Pfah! That won't do at all! What, are you in your rebellious phase? No, that won't do. But I'll forgive you — this time, anyway.
+
+Option 1:
+
+> Traveler: Alright, Big Sis Chikya.
+> Chikya: #Good, that's good. You've got a fine future ahead of you, lad.
+
+Option 2:
+
+> Traveler: Well, I could just call you "Aunt" only...
+> Chikya: Pfah! That won't do at all! What, are you in your rebellious phase? No, that won't do. But I'll forgive you — this time, anyway.
+
 Paimon: Then, uh, Big Sis Chikya? Why did you call out to us again?
 Chikya: #And isn't that a million Mora question? What would a person be aiming to do amidst naught but ruins? Why don't you answer, Traveler my lad?
-    Option 1:
-        Traveler: Looking for someone to rob, perhaps?
-        Chikya: ...I'm sorry. What sort of environment did you grow up in...?
-    Option 2:
-        Traveler: Spoiling for a pleasant encounter?
-        Chikya: Well, now! Were you my type, I'd call that a good answer. Too bad for you, Big Sis here prefers the strapping sort.
+
+Option 1:
+
+> Traveler: Looking for someone to rob, perhaps?
+> Chikya: ...I'm sorry. What sort of environment did you grow up in...?
+
+Option 2:
+
+> Traveler: Spoiling for a pleasant encounter?
+> Chikya: Well, now! Were you my type, I'd call that a good answer. Too bad for you, Big Sis here prefers the strapping sort.
+
 Chikya: Either way, minus 10 points for getting it wrong! What I'm doing... is treasure hunting.
 Traveler: "Wow, treasure!" There you go, Paimon. Spared you the effort.
 Paimon: Seriously? What are you, some serial line thief? And Paimon's gonna say it anyway — "Wow, treasure!"
@@ -128,10 +168,15 @@ Chikya: *sigh* I might look like this now, but I, too, was once a pretty lass wh
 Chikya: #Hehe, I see you're interested in that treasure, eh, {REALNAME[ID(2)|SHOWHOST(true)]}? That curiosity will be the root of future success, you know.
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Mmm? ... Rawr!
 Paimon: An "elixir that can cure all injuries"! That sounds amazing!
-    Option 1:
-        Traveler: Let's go check it out, then...
-    Option 2:
-        Traveler: I knew you'd be excited...
+
+Option 1:
+
+> Traveler: Let's go check it out, then...
+
+Option 2:
+
+> Traveler: I knew you'd be excited...
+
 Chikya: Those unmoved by treasure can barely be called human! Why, even the coldest-blooded Saurians get fired up when they hear the word!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Paimon: Exactly!
@@ -176,12 +221,17 @@ Chikya: ...Huh, to think that it was exactly as those woven scrolls and texts co
 Chikya: That's right. You're a quick one, little fella. Sharp-eyed, too. Researchers have said that Saurian visual acuity differs by species...
 Chikya: Saurians are generally further-sighted than humans are, though from this distance, anyone from the tribe who isn't a visually impaired old lady could spot this Phlogiston Engraving.
 Paimon: So this shining thing is what you call a Phlogiston Engraving, Chikya?
-    Option 1:
-        Traveler: Sorry, a what Engraving now?
-        Chikya: Wait, you've been adventuring in Natlan, but you've never heard of Phlogiston Engravings?
-    Option 2:
-        Traveler: Ooh, a Phlogiston Engraving. That's right. Totally.
-        Chikya: Your acting could use some work, although I'm not sure what sort of training could help you...
+
+Option 1:
+
+> Traveler: Sorry, a what Engraving now?
+> Chikya: Wait, you've been adventuring in Natlan, but you've never heard of Phlogiston Engravings?
+
+Option 2:
+
+> Traveler: Ooh, a Phlogiston Engraving. That's right. Totally.
+> Chikya: Your acting could use some work, although I'm not sure what sort of training could help you...
+
 Chikya: Anyway, speaking of phlogiston...
 Chikya: The origin of Phlogiston Engraving, narrowly speaking, comes from the days when Natlan was still ruled by a Pyro Dragon, who caused humanity to exist only in primitive tribes.
 Chikya: In those days, only the dragons could use phlogiston. But the Sage of the Stolen Flame, Waxaklahun Ubah Kan, risked life and limb to steal the flaming seed of it from the great volcano.
@@ -190,15 +240,20 @@ Chikya: The results of that are Phlogiston Engravings, like the one you see befo
 Paimon: Ooh!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawrr!
 Chikya: #Alright, your turn, Traveler!
-    Option 1:
-        Traveler: ...Yeah, whoo.
-        Paimon: C'mon, that's kinda bland.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Roo...
-        Chikya: #Huh. I didn't know you were the independent sort like that, Traveler.
-    Option 2:
-        Traveler: Very impressive, Chikya!
-        Chikya: I know, right? And that's why I took up the "Phlogiston Usage Tutor" job, desired by few in the tribe — the compliments are just sublime!
-        Chikya: Also, teaching children, soon to start using phlogiston, about the substance's history is a very important job!
+
+Option 1:
+
+> Traveler: ...Yeah, whoo.
+> Paimon: C'mon, that's kinda bland.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Roo...
+> Chikya: #Huh. I didn't know you were the independent sort like that, Traveler.
+
+Option 2:
+
+> Traveler: Very impressive, Chikya!
+> Chikya: I know, right? And that's why I took up the "Phlogiston Usage Tutor" job, desired by few in the tribe — the compliments are just sublime!
+> Chikya: Also, teaching children, soon to start using phlogiston, about the substance's history is a very important job!
+
 Paimon: So, the Phlogiston Engraving here is...
 Chikya: As I said before, Phlogiston Engraving is also a language. It looks like a mere pattern, but those well-versed in the art can understand the meaning therein.
 Chikya: And, as a scholar on the subject, I should only need a day to analyze these patterns...
@@ -239,12 +294,17 @@ Chikya: ...Huh, to think that it was exactly as those woven scrolls and texts co
 Chikya: That's right. You're a quick one, little fella. Sharp-eyed, too. Researchers have said that Saurian visual acuity differs by species...
 Chikya: Saurians are generally further-sighted than humans are, though from this distance, anyone from the tribe who isn't a visually impaired old lady could spot this Phlogiston Engraving.
 Paimon: So this shining thing is what you call a Phlogiston Engraving, Chikya?
-    Option 1:
-        Traveler: Sorry, a what Engraving now?
-        Chikya: Wait, you've been adventuring in Natlan, but you've never heard of Phlogiston Engravings?
-    Option 2:
-        Traveler: Ooh, a Phlogiston Engraving. That's right. Totally.
-        Chikya: Your acting could use some work, although I'm not sure what sort of training could help you...
+
+Option 1:
+
+> Traveler: Sorry, a what Engraving now?
+> Chikya: Wait, you've been adventuring in Natlan, but you've never heard of Phlogiston Engravings?
+
+Option 2:
+
+> Traveler: Ooh, a Phlogiston Engraving. That's right. Totally.
+> Chikya: Your acting could use some work, although I'm not sure what sort of training could help you...
+
 Chikya: Anyway, speaking of phlogiston...
 Chikya: The origin of Phlogiston Engraving, narrowly speaking, comes from the days when Natlan was still ruled by a Pyro Dragon, who caused humanity to exist only in primitive tribes.
 Chikya: In those days, only the dragons could use phlogiston. But the Sage of the Stolen Flame, Waxaklahun Ubah Kan, risked life and limb to steal a flaming seed of it from the great volcano.
@@ -253,15 +313,20 @@ Chikya: The results of that are Phlogiston Engravings, like the one you see befo
 Paimon: Ooh!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: #Alright, your turn, Traveler!
-    Option 1:
-        Traveler: ...Yeah, whoo.
-        Paimon: #Wow, that was a bland response, Traveler.
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo...
-        Chikya: #Huh. I didn't know you were the independent sort like that, Traveler.
-    Option 2:
-        Traveler: Very impressive, Chikya!
-        Chikya: I know, right? And that's why I took up the "Phlogiston Usage Tutor" job, desired by few in the tribe — the compliments are just sublime!
-        Chikya: Also, having someone to teach children, soon to start using phlogiston, about its history is essential!
+
+Option 1:
+
+> Traveler: ...Yeah, whoo.
+> Paimon: #Wow, that was a bland response, Traveler.
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo...
+> Chikya: #Huh. I didn't know you were the independent sort like that, Traveler.
+
+Option 2:
+
+> Traveler: Very impressive, Chikya!
+> Chikya: I know, right? And that's why I took up the "Phlogiston Usage Tutor" job, desired by few in the tribe — the compliments are just sublime!
+> Chikya: Also, having someone to teach children, soon to start using phlogiston, about its history is essential!
+
 Paimon: So, the Phlogiston Engraving here is...
 Chikya: As I said before, Phlogiston Engraving is also a language. It looks like a mere pattern, but those well-versed in the art can understand the meaning therein.
 Chikya: And, as a scholar on the subject, I should only need a day to analyze these patterns...
@@ -349,12 +414,17 @@ Chikya: #And now it's time for a question, class. What was the name of that sage
 Chikya: Very enthusiastic, but I don't think I heard you right!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooowr!
 Chikya: #Alright, now then. Your turn, lad. What's your answer?
-    Option 1:
-        Traveler: Waxaklahen Ubah Kan!
-        Chikya: #Close, but not quite! It's Waxaklahun Ubah Kan. Shame about that, but it's minus 10 points from you, lad!
-    Option 2:
-        Traveler: Waxaklahun Ubah Kan!
-        Chikya: Very good. You memorized it after hearing it only once, did you? I see great things in your future, I do.
+
+Option 1:
+
+> Traveler: Waxaklahen Ubah Kan!
+> Chikya: #Close, but not quite! It's Waxaklahun Ubah Kan. Shame about that, but it's minus 10 points from you, lad!
+
+Option 2:
+
+> Traveler: Waxaklahun Ubah Kan!
+> Chikya: Very good. You memorized it after hearing it only once, did you? I see great things in your future, I do.
+
 Chikya: Anyway, we usually call him the Sage of the Stolen Flame, which is easier by far.
 Chikya: Some also call him a madman or a lunatic, but I'd call those compliments as well. He did do some very impressive things regardless, after all.
 Chikya: He stole the flaming phlogiston seed from the giant dragon and created the Upper Sanctum using that power, before teaching it to everyone in the tribes.
@@ -401,12 +471,17 @@ Chikya: #And now it's time for a question, class. What was the name of that sage
 Chikya: Very enthusiastic, but I don't think I heard you right!
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooowr!
 Chikya: #Alright, now then. Your turn, lad. What's your answer?
-    Option 1:
-        Traveler: Waxaklahen Ubah Kan!
-        Chikya: #Close, but not quite! It's Waxaklahun Ubah Kan. Shame about that, but it's minus 10 points from you, lad!
-    Option 2:
-        Traveler: Waxaklahun Ubah Kan!
-        Chikya: Very good. You memorized it after hearing it only once, did you? I see great things in your future, I do.
+
+Option 1:
+
+> Traveler: Waxaklahen Ubah Kan!
+> Chikya: #Close, but not quite! It's Waxaklahun Ubah Kan. Shame about that, but it's minus 10 points from you, lad!
+
+Option 2:
+
+> Traveler: Waxaklahun Ubah Kan!
+> Chikya: Very good. You memorized it after hearing it only once, did you? I see great things in your future, I do.
+
 Chikya: Anyway, we usually call him the Sage of the Stolen Flame, which is easier by far.
 Chikya: Some also call him a madman or a lunatic, but I'd call those compliments as well. He did do some very impressive things regardless, after all.
 Chikya: He stole the flaming phlogiston seed from the giant dragon and created the Upper Sanctum using that power, before teaching it to everyone in the tribes.
@@ -467,21 +542,31 @@ Paimon: What's wrong, Chikya? What's with that sudden look?
 Chikya: I just remembered that when tidying up ancient scrolls previously, I did spot an account of our ancestors swimming in lava.
 Chikya: At that time, I thought, "Swimming in liquid phlogiston? Madness!" Reckoned it was some wild storyteller's yarn, I did.
 Chikya: Well, now that you think about it, those were probably...
-    Option 1:
-        Traveler: Those who failed...
-    Option 2:
-        Traveler: It was a warning to those attempting the trial...
+
+Option 1:
+
+> Traveler: Those who failed...
+
+Option 2:
+
+> Traveler: It was a warning to those attempting the trial...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rrooo...
 Paimon: It's hard to imagine why anyone would draw that, but yeah, just thinking about it gives me the heebie-jeebies.
 Chikya: No wonder my friend gave me a pained look, like one looking at some emotionally-warped humanoid monster, when I told that story as a joke.
 Chikya: We drifted apart thereafter. Gah, that was one of my only friends, you know?
 Chikya: Anyway, never mind. Let's head back to the tribe and talk there instead. This whole "friends" business should start looking up once the Sage of the Stolen Flame's gift returns with us in glory!
-    Option 1:
-        Traveler: And what's that gift supposed to be, the power of hypnosis?
-        Chikya: No, but Mora and dreams of success are effective, if dirty, substitutes.
-    Option 2:
-        Traveler: Ugh, come on, that's an awful definition of friendship...
-        Chikya: Well, broaden definitions and lower standards enough, and, you, too, will find your friends as numerous as aphids in a field.
+
+Option 1:
+
+> Traveler: And what's that gift supposed to be, the power of hypnosis?
+> Chikya: No, but Mora and dreams of success are effective, if dirty, substitutes.
+
+Option 2:
+
+> Traveler: Ugh, come on, that's an awful definition of friendship...
+> Chikya: Well, broaden definitions and lower standards enough, and, you, too, will find your friends as numerous as aphids in a field.
+
 Chikya: Anyway, for the sake of friendship— Actually, screw that! We're doing this for the gift, for ourselves, and for... Well, for selfish reasons, anyway, because we deserve it all and more! Let's rock!
 Chikya: Still, this is the first time I'm riding a Spiritway... You'll dodge if I end up vomiting, won't you?
 Paimon: Uh...
@@ -502,12 +587,17 @@ Chikya: The woven scrolls record rightly — ah, I'm so proud of myself for beli
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
 Chikya: #Yes, yes, and you're awesome for cooperating with me, {REALNAME[ID(2)|SHOWHOST(true)]}. Heh, what an adorable little fellow you are.
 Chikya: How would you like to jump ship over to me, hmm? Three square meals of one Grainfruit guaranteed.
-    Option 1:
-        Traveler: ...One for each meal is kinda sad, let's be real.
-        Chikya: Now, don't you go looking down on the Grainfruit, it's a real hit amongst Saurians, and it's healthy for them, too.
-    Option 2:
-        Traveler: Wow, we've got a poacher over here!
-        Chikya: Well, you miss every shot you don't take, you know?
+
+Option 1:
+
+> Traveler: ...One for each meal is kinda sad, let's be real.
+> Chikya: Now, don't you go looking down on the Grainfruit, it's a real hit amongst Saurians, and it's healthy for them, too.
+
+Option 2:
+
+> Traveler: Wow, we've got a poacher over here!
+> Chikya: Well, you miss every shot you don't take, you know?
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Roooah... Ooroo...
 Chikya: Haha, I'll take that as a no, then. Ah, to be so close — I'm getting a little envious.
 Paimon: #We were around when {REALNAME[ID(2)|SHOWHOST(true)]} first opened his eyes... You didn't have a chance to start with.
@@ -519,16 +609,21 @@ Chikya: Oh, come on, it's not that bad. You know, you leave yourself open to tri
 Chikya: If anything, my back pain's decreased mysteriously since meeting you.
 Chikya: I wonder what that is... Is there something special about your body, and would that work with a piece of it of any size, like, say, a thumb?
 Chikya: Would you mind giving one to me? I'd give you mine in exchange.
-    Option 1:
-        Traveler: Wanna give it a shot?
-        #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
-        Paimon: Wait, what sort of weird trade is that...
-        Chikya: #...Okay, so, I don't know how you grew up, lad, but I'm sure most people would've refused.
-        Chikya: I was just trying to scare you, y'know... Didn't think you'd get me instead.
-    Option 2:
-        Traveler: No thanks. That's scary.
-        Chikya: Hehe, ah, what a shame...
-        Paimon: Excuse you! It would be weirder if anyone agreed to that!
+
+Option 1:
+
+> Traveler: Wanna give it a shot?
+> #{REALNAME[ID(2)|SHOWHOST(true)]}: Err?
+> Paimon: Wait, what sort of weird trade is that...
+> Chikya: #...Okay, so, I don't know how you grew up, lad, but I'm sure most people would've refused.
+> Chikya: I was just trying to scare you, y'know... Didn't think you'd get me instead.
+
+Option 2:
+
+> Traveler: No thanks. That's scary.
+> Chikya: Hehe, ah, what a shame...
+> Paimon: Excuse you! It would be weirder if anyone agreed to that!
+
 Chikya: *sigh* Alright, just a bit longer, and the pain in my back should subside... And then we can head to the Upper Sanctum together.
 
 ## Associated Free Talks

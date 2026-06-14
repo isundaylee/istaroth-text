@@ -47,68 +47,96 @@ Lyney: For example... I think I'll take "stealth" and "sleight of hand." That wi
 Furina: Oh, interesting! I wasn't thinking about it like that. I suppose it's not so different from an acting troupe, everyone has their own role to play.
 Furina: Let me see... I'll take "arts" and "performance." I'm not quite sure what use they'll be, but I'm not as knowledgeable about the other skills, and I'm not too confident I'd be able to roleplay them well.
 Paimon: #Well, that leaves us! What do you want to learn, Traveler?
-    Option 1:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-    Option 2:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-    Option 3:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 4:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 5:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 6:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 7:
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-    Option 8:
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
-        Traveler: Learn "insight"...
-        Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
-    Option 9:
-        Traveler: Learn "medicine"...
-        Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
-        Traveler: Learn "cooking"...
-        Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+
+Option 1:
+
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+> Traveler: Learn "medicine"...
+> Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+
+Option 2:
+
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+> Traveler: Learn "medicine"...
+> Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+
+Option 3:
+
+> Traveler: Learn "medicine"...
+> Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+
+Option 4:
+
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+
+Option 5:
+
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+
+Option 6:
+
+> Traveler: Learn "medicine"...
+> Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+
+Option 7:
+
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+
+Option 8:
+
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+> Traveler: Learn "insight"...
+> Paimon: Ohh, something that will help you get a read on other people's thoughts! Sounds useful!
+
+Option 9:
+
+> Traveler: Learn "medicine"...
+> Paimon: Ooh, so you want to help people when they're injured? That's nice of you!
+> Traveler: Learn "cooking"...
+> Paimon: Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!
+
 Paimon: So, what do you think? Are you sure you want to learn these two skills?
-    Option 1:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "cooking"...
-        [Circling back to a pre-branch dialog]
-    Option 2:
-    Option 3:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "medicine"...
-        [Circling back to a pre-branch dialog]
-    Option 4:
-        Traveler: Let me think about this some more...
-        Paimon: Sure. What do you want to learn?
-        Traveler: Learn "insight"...
-        [Circling back to a pre-branch dialog]
+
+Option 1:
+
+> Traveler: Let me think about this some more...
+> Paimon: Sure. What do you want to learn?
+> Traveler: Learn "cooking"...
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
+Option 3:
+
+> Traveler: Let me think about this some more...
+> Paimon: Sure. What do you want to learn?
+> Traveler: Learn "medicine"...
+> [Circling back to a pre-branch dialog]
+
+Option 4:
+
+> Traveler: Let me think about this some more...
+> Paimon: Sure. What do you want to learn?
+> Traveler: Learn "insight"...
+> [Circling back to a pre-branch dialog]
+
 Traveler: Yep, I'm sure.
 
 ## Talk 2
@@ -138,26 +166,35 @@ Navia: Never knowing what you might have to overcome... Doesn't that sound excit
 Furina: Um... I—I'd rather be mentally prepared for what might happen...
 Clorinde: Alright. Then I'll mark down Furina for "easy mode." All her checks will be successful by default. As usual, Navia and Lyney will play on "authentic mode."
 Navia: What about you, dear partner? How would you like to play?
-    Option 1:
-        Traveler: I'd like to pick "easy mode"...
-        Clorinde: Are you sure?
-        Traveler: Yep, I'm sure.
-        Lyney: Mhm, no need to worry about the pesky Fateometer. Pretty good choice if you just want to relax and play the game.
-    Option 2:
-        Traveler: I'd like to pick "authentic mode"...
-        Clorinde: Are you sure?
-        Traveler: Yep, I'm sure.
-        Navia: Hehe, trust me. You'll see the beauty of RNG!
-    Option 3:
-        Traveler: I'd like to pick "easy mode"...
-        Clorinde: Are you sure?
-        Traveler: Let me think about this some more...
-        Clorinde: Take your time. There's no rush.
-    Option 4:
-        Traveler: I'd like to pick "authentic mode"...
-        Clorinde: Are you sure?
-        Traveler: Let me think about this some more...
-        Clorinde: Take your time. There's no rush.
+
+Option 1:
+
+> Traveler: I'd like to pick "easy mode"...
+> Clorinde: Are you sure?
+> Traveler: Yep, I'm sure.
+> Lyney: Mhm, no need to worry about the pesky Fateometer. Pretty good choice if you just want to relax and play the game.
+
+Option 2:
+
+> Traveler: I'd like to pick "authentic mode"...
+> Clorinde: Are you sure?
+> Traveler: Yep, I'm sure.
+> Navia: Hehe, trust me. You'll see the beauty of RNG!
+
+Option 3:
+
+> Traveler: I'd like to pick "easy mode"...
+> Clorinde: Are you sure?
+> Traveler: Let me think about this some more...
+> Clorinde: Take your time. There's no rush.
+
+Option 4:
+
+> Traveler: I'd like to pick "authentic mode"...
+> Clorinde: Are you sure?
+> Traveler: Let me think about this some more...
+> Clorinde: Take your time. There's no rush.
+
 Navia: Honestly, I don't think Clorinde would make things too difficult for us no matter what the Fateometer says... Isn't that right, Clorinde?
 Clorinde: No promises.
 Paimon: Uh... That wasn't super reassuring!
@@ -383,56 +420,63 @@ Furina: Surely an onion can't be that expensive... right?
 Gruff Merchant: What do you know? War is nearly upon us. Everything costs several times what it did before! If you're not gonna buy anything, then scram.
 Paimon: Whoa, what a nasty guy. Maybe we shouldn't even bother talking to him...
 Navia: #But he still might have information we need. Traveler, can you think of something?
-    Option 1:
-        Traveler: "Persuade" him, Navia!
-        Navia: Sir, we came to this city to solve the very problem you seem to be referring to. The "war" you mentioned... would it happen to be against the monsters outside the city?
-        Navia: If you happen to be well-informed, and know a thing or two about what's going on, we'd appreciate it if you could share that information with us. After all, the sooner this problem gets resolved, the easier it will be for you to do your business.
-        Gruff Merchant: Hmph. Well, things are basically as you said, young lady.
-        Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
-        Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
-        Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
-        Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
-        Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
-        Lyney: That is concerning...
-        Gruff Merchant: Alright, alright, that's all the information you need, right? Off with you, now. I've still got business to do...
-        Navia: You know, if you smiled a little more, you'd definitely get more business, and I bet that would make your life just a little bit sweeter! I'm not saying it's guaranteed to work. It's just a tip!
-    Option 2:
-        Traveler: Lyney, you're up!
-        Lyney: Okay, while everyone is talking, I secretly use my magic props to summon a bottle of wine without the merchant noticing.
-        Lyney: We meant no offense, sir. Here, allow me to offer you this bottle of vintage wine, made only from the finest grapes. I'll just leave it here. Please, enjoy it at your leisure.
-        Gruff Merchant: Hmm?
-        Lyney: Ah, I should mention that this wine is the perfect accompaniment to a meal. I'd suggest enjoying it with dinner.
-        Gruff Merchant: Hmm... Hmph, alright. Go on and ask. What do you want to know?
-        Lyney: Do you have any information on the monsters, or the crisis that has overtaken the kingdom?
-        Gruff Merchant: Crisis? Ha, if you ask me, there's a crisis everywhere you look.
-        Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
-        Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
-        Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
-        Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
-        Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
-        Lyney: That is concerning...
-        Lyney: Thank you, sir. We won't take up any more of your time, now.
-        Paimon: Hey, why did you leave in such a hurry?
-        Lyney: Weeeell, you see, that bottle of "wine" was just a cardboard prop.
-    Option 3:
-        Traveler: Furina, put on a performance!
-        Furina: (A performance? I've never played a roleplaying game like this before, but even I can tell that suggestion is pretty far-fetched. Is a performance check really going to help here?)
-        Furina: Um... Alright. Ahem...
-        Furina: By the harbor's grace, a lone boat lies in rest, let the moon give chase, for here begins our quest.
-        Furina: In the dark of shadow, our heroes seek to find, where creatures born of evil, weave their grand design.
-        Furina: Blocked the road does stand, such is our hunters' plight, yet with sword and courage in hand, they march forth to pierce the night.
-        Gruff Merchant: Hmph, I don't recall asking for a bardic song. Don't expect me to give you any coin.
-        Gruff Merchant: But if you meant what you sang, and you are indeed some kind of hunter... Then by all means, please go out, and kill those monsters for us.
-        Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
-        Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
-        Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
-        Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
-        Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
-        Lyney: That is concerning...
-        Gruff Merchant: Alright, I think I've said more than enough. Be on your way, now.
-        Furina: ...Got it. Thank you, sir.
-        Paimon: Don't mind him, Furina. He just doesn't have enough taste to appreciate your art.
-        Furina: Oh, no, I was just thinking about... how those nobles must be so cold-hearted. It's like they don't care about their people at all!
+
+Option 1:
+
+> Traveler: "Persuade" him, Navia!
+> Navia: Sir, we came to this city to solve the very problem you seem to be referring to. The "war" you mentioned... would it happen to be against the monsters outside the city?
+> Navia: If you happen to be well-informed, and know a thing or two about what's going on, we'd appreciate it if you could share that information with us. After all, the sooner this problem gets resolved, the easier it will be for you to do your business.
+> Gruff Merchant: Hmph. Well, things are basically as you said, young lady.
+> Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
+> Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
+> Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
+> Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
+> Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
+> Lyney: That is concerning...
+> Gruff Merchant: Alright, alright, that's all the information you need, right? Off with you, now. I've still got business to do...
+> Navia: You know, if you smiled a little more, you'd definitely get more business, and I bet that would make your life just a little bit sweeter! I'm not saying it's guaranteed to work. It's just a tip!
+
+Option 2:
+
+> Traveler: Lyney, you're up!
+> Lyney: Okay, while everyone is talking, I secretly use my magic props to summon a bottle of wine without the merchant noticing.
+> Lyney: We meant no offense, sir. Here, allow me to offer you this bottle of vintage wine, made only from the finest grapes. I'll just leave it here. Please, enjoy it at your leisure.
+> Gruff Merchant: Hmm?
+> Lyney: Ah, I should mention that this wine is the perfect accompaniment to a meal. I'd suggest enjoying it with dinner.
+> Gruff Merchant: Hmm... Hmph, alright. Go on and ask. What do you want to know?
+> Lyney: Do you have any information on the monsters, or the crisis that has overtaken the kingdom?
+> Gruff Merchant: Crisis? Ha, if you ask me, there's a crisis everywhere you look.
+> Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
+> Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
+> Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
+> Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
+> Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
+> Lyney: That is concerning...
+> Lyney: Thank you, sir. We won't take up any more of your time, now.
+> Paimon: Hey, why did you leave in such a hurry?
+> Lyney: Weeeell, you see, that bottle of "wine" was just a cardboard prop.
+
+Option 3:
+
+> Traveler: Furina, put on a performance!
+> Furina: (A performance? I've never played a roleplaying game like this before, but even I can tell that suggestion is pretty far-fetched. Is a performance check really going to help here?)
+> Furina: Um... Alright. Ahem...
+> Furina: By the harbor's grace, a lone boat lies in rest, let the moon give chase, for here begins our quest.
+> Furina: In the dark of shadow, our heroes seek to find, where creatures born of evil, weave their grand design.
+> Furina: Blocked the road does stand, such is our hunters' plight, yet with sword and courage in hand, they march forth to pierce the night.
+> Gruff Merchant: Hmph, I don't recall asking for a bardic song. Don't expect me to give you any coin.
+> Gruff Merchant: But if you meant what you sang, and you are indeed some kind of hunter... Then by all means, please go out, and kill those monsters for us.
+> Gruff Merchant: Those monsters are camped outside the city, and they've been destroying all our trade routes.
+> Gruff Merchant: We have limited reserves within the city, so if this continues, we're all going to be in big trouble.
+> Furina: Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?
+> Gruff Merchant: Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat.
+> Gruff Merchant: Who knows? Maybe they've been in cahoots with the monsters all along.
+> Lyney: That is concerning...
+> Gruff Merchant: Alright, I think I've said more than enough. Be on your way, now.
+> Furina: ...Got it. Thank you, sir.
+> Paimon: Don't mind him, Furina. He just doesn't have enough taste to appreciate your art.
+> Furina: Oh, no, I was just thinking about... how those nobles must be so cold-hearted. It's like they don't care about their people at all!
+
 
 ## Objective 13
 
@@ -476,12 +520,17 @@ Anxious Man: They're actively working with the monsters, and have corrupted the 
 Anxious Man: Even one of our kindest ministers has turned into a boorish and unreasonable figure, interested in nothing but enacting laws that exploit the people. Who knows how much longer we'll be able to go on like this...
 Lyney: Talk about being stuck between a rock and a hard place...
 Navia: I feel bad for him. Maybe we should try to cheer him up?
-    Option 1:
-        Traveler: I could cook something?
-        Furina: Hey, not everything can be solved with food!
-    Option 2:
-        Traveler: Furina could sing him a song?
-        Furina: Huh? Like... now? Is this really the right time...?
+
+Option 1:
+
+> Traveler: I could cook something?
+> Furina: Hey, not everything can be solved with food!
+
+Option 2:
+
+> Traveler: Furina could sing him a song?
+> Furina: Huh? Like... now? Is this really the right time...?
+
 Anxious Man: I appreciate your kindness, but for now, it's more important to focus on the crisis at hand.
 Anxious Man: Brave Hunters, I leave the future of this kingdom to you.
 
@@ -527,15 +576,20 @@ Navia: Speaking of investigations, which problem should we tackle first? Monster
 Furina: I vote monsters. That's the main duty of the Hunters, right? We can come back to the sorcerer later.
 Lyney: Well said, Miss Furina. Plus, if the sorcerer really are the masterminds behind this whole thing, defeating the monsters could give us some clues on their intentions as well.
 Navia: What about you, partner? What do you think?
-    Option 1:
-        Traveler: I also vote monsters.
-        Navia: It's decided, then!
-    Option 2:
-        Traveler: The sorcerer problem seems pretty important...
-        Navia: I mean... you're not wrong. But, those characters are usually the ones pulling the strings behind the scenes. More often than not, they're very formidable opponents. Going after them now might be jumping the gun a little bit.
-        Navia: We don't want a total party kill on the first day, right? With Clorinde as the GM, I wouldn't rule out the possibility...
-        Traveler: ...You've "persuaded" me.
-        Navia: Haha, then it's settled! Let's go hunt some monsters!
+
+Option 1:
+
+> Traveler: I also vote monsters.
+> Navia: It's decided, then!
+
+Option 2:
+
+> Traveler: The sorcerer problem seems pretty important...
+> Navia: I mean... you're not wrong. But, those characters are usually the ones pulling the strings behind the scenes. More often than not, they're very formidable opponents. Going after them now might be jumping the gun a little bit.
+> Navia: We don't want a total party kill on the first day, right? With Clorinde as the GM, I wouldn't rule out the possibility...
+> Traveler: ...You've "persuaded" me.
+> Navia: Haha, then it's settled! Let's go hunt some monsters!
+
 Clorinde (Game Master): Alright, after some discussion, you decide to turn around and head out of the city...
 
 ## Objective 19
@@ -800,10 +854,15 @@ Furina: Hmm, something tells me you just want to finish the free desserts before
 Paimon: Th—That's just a coincidence, okay? Besides, to Paimon, not finishing free food feels even worse than having to buy her own!
 Paimon: And anyway, Paimon really does want to hear more about Clorinde's master!
 Navia: Well...
-    Option 1:
-        Traveler: If the story doesn't have a happy ending...
-    Option 2:
-        Traveler: It's okay not to finish it...
+
+Option 1:
+
+> Traveler: If the story doesn't have a happy ending...
+
+Option 2:
+
+> Traveler: It's okay not to finish it...
+
 Clorinde: It's nothing. I appreciate the concern, but it's all in the past. It won't do any harm to share these things now.
 Clorinde: My earliest memories are of living with Master. According to her, she saved me from certain people of ill repute. My birth parents had left me behind some time before that.
 Furina: (What a heavy beginning for a life story...)

@@ -21,10 +21,15 @@ Lauma: I don't believe so. Nefer and I have our differences, but that shouldn't 
 Lauma: Recovering the relic is my duty — but as far as she's concerned, there's plenty to gain here too.
 Lauma: In Nod-Krai, it's common knowledge that the Curatorium has a nose for profit and opportunity... the same way aphids flit from flower to flower in a neverending quest to make honey.
 Paimon: Huh. Sounds like you know her pretty well...
-    Option 1:
-        Traveler: (Maybe a bit TOO well...)
-    Option 2:
-        Traveler: (...And that's exactly why there's a rift between them.)
+
+Option 1:
+
+> Traveler: (Maybe a bit TOO well...)
+
+Option 2:
+
+> Traveler: (...And that's exactly why there's a rift between them.)
+
 Paimon: Still, Jahoda sure is taking her sweet time...
 Lauma: ...Hm?
 Lauma: ...
@@ -76,12 +81,17 @@ Jahoda: Well, now that we've got a plan, time to get this show on the road..
 (Talk to Jahoda once you're ready)
 
 Jahoda: Everyone, ready? Yeah? Then, let's move.
-    Option 1:
-        Traveler: Let's go.
-        Jahoda: Alright then, let's get this job done!
-    Option 2:
-        Traveler: I need a little more time.
-        Jahoda: No rush, we'll be waiting right here. Just don't go sneaking home on your own, okay?
+
+Option 1:
+
+> Traveler: Let's go.
+> Jahoda: Alright then, let's get this job done!
+
+Option 2:
+
+> Traveler: I need a little more time.
+> Jahoda: No rush, we'll be waiting right here. Just don't go sneaking home on your own, okay?
+
 
 ## Objective 3
 
@@ -125,12 +135,17 @@ Jahoda: Anyway, I say we go with Plan B. Either way, I won't be doing any of the
 Lauma: If we can avoid fighting at this stage, we should.
 Traveler: No Plan J this time?
 Jahoda: Plan J... is to call it a night so we can all make it back to bed before sunrise! After all, the deeper we go, the more dangerous this is gonna get — so we might as well give up while we still can!
-    Option 1:
-        Traveler: Let's take the stealthy route.
-        Jahoda: Okay, you're the bosses...
-    Option 2:
-        Traveler: Let's charge straight in.
-        Lauma: Well, alright then.
+
+Option 1:
+
+> Traveler: Let's take the stealthy route.
+> Jahoda: Okay, you're the bosses...
+
+Option 2:
+
+> Traveler: Let's charge straight in.
+> Lauma: Well, alright then.
+
 Jahoda: Just don't forget — whatever you do, don't let those recon bots spot you!
 Jahoda: Let's see... Huh, no kidding! Ineffa told me about something like this before. Can't believe that dumb robot actually helped me out for once...
 Jahoda: All you gotta do is... this, and the recon bots will be reassigned to another position.
@@ -168,30 +183,35 @@ Jahoda: Don't worry, bots are way easier to deal with than people. At least thei
 Jahoda: First, let's find a safe spot to land... Good, that spot shouldn't draw their attention. Let's go.
 Jahoda: Let me just try something... Mmm... Maybe I can use the terminal to command them to move out of our way...
 Jahoda: Security verification? With ten questions!? Are you kidding me!?!
-    Option 1:
-        Traveler: You've got this, Jahoda!
-        Jahoda: You really trust me that much? Ugh, fine... I'll... do my best.
-        Jahoda: But just to be clear — if I can't answer a question, I'm backing straight out of the terminal. No way I'm risking triggering any sort of alarm...
-        Traveler: That's fine. You've got this.
-        Jahoda: (Come on, Jahoda... You can't give up now!)
-        Jahoda: Question One... "What is our motto?"... Oh, I—I know this one...
-        Jahoda: Question Five... The name of the Harbinger in charge of this facility... Let's go with... "Sandrone."
-        Jahoda: This one should be... The "Palestar Edict." I've heard one of Boss's informants mention that before...
-        Jahoda: Final question... Enter employee ID? And it's timed!? Okay, okay... 183574... Confirm!
-        Jahoda: I... actually got them all right!? What a miracle...
-        Paimon: Not bad, Jahoda, not bad at all! Guess you're an official Maintenance Intern now, hehe...
-        Jahoda: Hey, that could be my personal "Plan B" if I can't get my job back... Hehe, just kidding... The Fatui are awful.
-        Jahoda: The bots have taken the command... they're moving off. Let's get going while the coast is clear.
-    Option 2:
-        Traveler: Don't waste your energy. Let's just fight them.
-        Jahoda: Are you serious?
-        Traveler: Of course. I can beat them.
-        Jahoda: #(Doesn't he trust me? Or is he just trying to make things easier for me?)
-        Jahoda: #(No... Judging from his body language, he really isn't afraid of the Fatui. What kind of person is he... and what has he been through?)
-        Jahoda: (So brave it's kinda scary...)
-        Paimon: Jahoda?
-        Jahoda: Uh... N—No complaints from me! Let's... I mean, you go for it!
-        Lauma: *sigh* Then let's make this quick.
+
+Option 1:
+
+> Traveler: You've got this, Jahoda!
+> Jahoda: You really trust me that much? Ugh, fine... I'll... do my best.
+> Jahoda: But just to be clear — if I can't answer a question, I'm backing straight out of the terminal. No way I'm risking triggering any sort of alarm...
+> Traveler: That's fine. You've got this.
+> Jahoda: (Come on, Jahoda... You can't give up now!)
+> Jahoda: Question One... "What is our motto?"... Oh, I—I know this one...
+> Jahoda: Question Five... The name of the Harbinger in charge of this facility... Let's go with... "Sandrone."
+> Jahoda: This one should be... The "Palestar Edict." I've heard one of Boss's informants mention that before...
+> Jahoda: Final question... Enter employee ID? And it's timed!? Okay, okay... 183574... Confirm!
+> Jahoda: I... actually got them all right!? What a miracle...
+> Paimon: Not bad, Jahoda, not bad at all! Guess you're an official Maintenance Intern now, hehe...
+> Jahoda: Hey, that could be my personal "Plan B" if I can't get my job back... Hehe, just kidding... The Fatui are awful.
+> Jahoda: The bots have taken the command... they're moving off. Let's get going while the coast is clear.
+
+Option 2:
+
+> Traveler: Don't waste your energy. Let's just fight them.
+> Jahoda: Are you serious?
+> Traveler: Of course. I can beat them.
+> Jahoda: #(Doesn't he trust me? Or is he just trying to make things easier for me?)
+> Jahoda: #(No... Judging from his body language, he really isn't afraid of the Fatui. What kind of person is he... and what has he been through?)
+> Jahoda: (So brave it's kinda scary...)
+> Paimon: Jahoda?
+> Jahoda: Uh... N—No complaints from me! Let's... I mean, you go for it!
+> Lauma: *sigh* Then let's make this quick.
+
 
 ## Objective 10
 
@@ -295,10 +315,15 @@ Jahoda: I'm checking what I can do from this end... Ah, watch out for the laser 
 Paimon: What laser...?
 Lauma: ...
 Paimon: We see it now... Good thing we didn't move.
-    Option 1:
-        Traveler: I don't think we can jump up right now...
-    Option 2:
-        Traveler: We're being held down by the kuuvahki.
+
+Option 1:
+
+> Traveler: I don't think we can jump up right now...
+
+Option 2:
+
+> Traveler: We're being held down by the kuuvahki.
+
 Jahoda: Got it... I think I understand the situation! Hang in there, just one moment...
 Jahoda: ...Ugh, this is killing me, but I think I've got it. I can try adjusting the direction of the kuuvahki flow inside the duct.
 Jahoda: If I've got this right, you might just be able to dodge the lasers by utilizing the kuuvahki's pull in reverse!
@@ -429,26 +454,33 @@ Jahoda: Well, seems like that alarm I just triggered was so high-level that even
 Paimon: Then what's the bad news?
 Jahoda: The bad news... is that once they realize it was a false alarm, they're bound to circle back and check this floor, and then we're toast!
 Jahoda: So we've gotta move fast here! If you need me to run a quick search, say the word.
-    Option 1:
-        Traveler: Information about the Moon Marrow...
-        Jahoda: "...Analysis of the kuuvahki extracted from the Moon Marrow suggests that its energy core bears some close relation to the power of the former Three Moon Sisters..."
-        Jahoda: "...It is suspected that there is a link between the Frostmoon Scions' hidden relic and the shattered remnants of the Eternal Moon..."
-        Lauma: ...
-        Jahoda: C'mon, none of this is important right now... Just tell us where you hid the darn thing!
-        Jahoda: "Access denied. You do not have permission to view this data."
-        Jahoda: Even with a high-level access card? Who does have permission then!?
-    Option 2:
-        Traveler: A map of the facility...
-        Jahoda: Good idea! Pulling it right away...
-        Jahoda: Whoa... What's with that huge hollow structure down below?
-        Lauma: That might just be it. Secluded, out-of-the-way... exactly the sort of place they might be keeping the relic.
-    Option 3:
-        Traveler: The facility's purpose...
-        Jahoda: Two hundred and sixty-four pages... What is this, a novel!?
-        Paimon: Can we just skip to the end?
-        Jahoda: I'm flipping through as we speak! Kuuvahki... A "weapon"...
-        Jahoda: Huh? Seems like the Fatui in Snezhnaya are trying to harness the power of the Light Realm to build some kinda weapon... the target of which is...
-        Jahoda: Seriously? Insufficient clearance, again!?
+
+Option 1:
+
+> Traveler: Information about the Moon Marrow...
+> Jahoda: "...Analysis of the kuuvahki extracted from the Moon Marrow suggests that its energy core bears some close relation to the power of the former Three Moon Sisters..."
+> Jahoda: "...It is suspected that there is a link between the Frostmoon Scions' hidden relic and the shattered remnants of the Eternal Moon..."
+> Lauma: ...
+> Jahoda: C'mon, none of this is important right now... Just tell us where you hid the darn thing!
+> Jahoda: "Access denied. You do not have permission to view this data."
+> Jahoda: Even with a high-level access card? Who does have permission then!?
+
+Option 2:
+
+> Traveler: A map of the facility...
+> Jahoda: Good idea! Pulling it right away...
+> Jahoda: Whoa... What's with that huge hollow structure down below?
+> Lauma: That might just be it. Secluded, out-of-the-way... exactly the sort of place they might be keeping the relic.
+
+Option 3:
+
+> Traveler: The facility's purpose...
+> Jahoda: Two hundred and sixty-four pages... What is this, a novel!?
+> Paimon: Can we just skip to the end?
+> Jahoda: I'm flipping through as we speak! Kuuvahki... A "weapon"...
+> Jahoda: Huh? Seems like the Fatui in Snezhnaya are trying to harness the power of the Light Realm to build some kinda weapon... the target of which is...
+> Jahoda: Seriously? Insufficient clearance, again!?
+
 Traveler: Can't think of anything else...
 Jahoda: Looks like that's about all our current clearance gives us access to...
 Lauma: Based on what we know so far, it seems like the rest must be hidden inside that massive hollow beneath us...
@@ -552,10 +584,15 @@ Vilemina: (If someone's going to take it, it might as well be me... This could b
 (Talk to Vilemina)
 
 Lauma: ...
-    Option 1:
-        Traveler: That night... it was you.
-    Option 2:
-        Traveler: You followed us in...
+
+Option 1:
+
+> Traveler: That night... it was you.
+
+Option 2:
+
+> Traveler: You followed us in...
+
 Vilemina: Yes... and in your final moment of hesitation, I... took the chance...
 Paimon: ...And then you gave it to the Fatui!?
 Paimon: But... when we talked to you before, you seemed so genuinely worried about Lauma...
@@ -761,19 +798,29 @@ Traveler: Don't forget, your family believe and trust in you too.
 Lauma: Mhm, you're right... and tonight, I'm planning on telling them everything.
 Paimon: Tonight? Isn't it a bit... late already?
 Lauma: The moon shines brightly this night... What better time for the Frostmoon Scions to usher in a new dawn for truth?
-    Option 1:
-        Traveler: I'll support you...
-    Option 2:
-        Traveler: ...And be there for you.
+
+Option 1:
+
+> Traveler: I'll support you...
+
+Option 2:
+
+> Traveler: ...And be there for you.
+
 Lauma: Thank you for your kind words.
 Lauma: But before I do, there's one more thing we need to deal with...
 Paimon: Ohhh, yeah... Now that we have the Moon Marrow...
 Lauma: You'll... have to forgive me... I used too much of my strength in the battle earlier. I fear... I won't be able to help you uncover the truth of the past. Not right away, at least.
 Paimon: That's fine! We're going to be in Nod-Krai for a while anyway, so there's no rush, right?
-    Option 1:
-        Traveler: Your health is more important.
-    Option 2:
-        Traveler: Besides, I trust you.
+
+Option 1:
+
+> Traveler: Your health is more important.
+
+Option 2:
+
+> Traveler: Besides, I trust you.
+
 Lauma: Thank you.
 Lauma: But there's another problem... How to keep the Moon Marrow safe now.
 Paimon: Huh? Can't we just return it to your secret chamber?
@@ -784,19 +831,29 @@ Lauma: But it is a grueling trial of will and endurance. The Moonchanter who did
 Lauma: As for me... I might be able to last five, at most.
 Paimon: Hold on... You'd be using your body as a vessel?
 Lauma: Yes. You can think of it like dropping a red-hot ball of iron into a bucket of water. How long the water lasts... depends entirely on the bucket's size.
-    Option 1:
-        Traveler: If that's the case...
-    Option 2:
-        Traveler: ...Maybe I can give it a try?
+
+Option 1:
+
+> Traveler: If that's the case...
+
+Option 2:
+
+> Traveler: ...Maybe I can give it a try?
+
 Lauma: ...Pardon?
 Paimon: Hey, that's not a bad idea! You've always held up pretty well against the Abyss... Surely the Moon Marrow can't be any more dangerous than that?
 Lauma: I... It's not at all that I don't trust you, but... it's too risky.
 Paimon: But we're out of options, aren't we? Might as well give it a shot.
 Lauma: ...
-    Option 1:
-        Traveler: Paimon's right.
-    Option 2:
-        Traveler: I'm willing to take the risk.
+
+Option 1:
+
+> Traveler: Paimon's right.
+
+Option 2:
+
+> Traveler: I'm willing to take the risk.
+
 Lauma: ...Alright. Well, I'll be right by your side. If anything feels off, please tell me immediately.
 Traveler: What do I need to do?
 Lauma: Here, hold it in your hands.
@@ -817,22 +874,32 @@ Lauma: Thank you, Nefer. I really appreciate everything you've done for me.
 Nefer: Please stop being so... nauseatingly friendly. It's creeping me out.
 Nefer: So... What exactly did you all go through during that Wild Hunt attack? I'd prefer to hear it straight from you.
 Nefer: Hmm... A phantom that can mimic the appearance of others... Quite different from what we've seen before.
-    Option 1:
-        Traveler: It disappeared right in front of me...
-    Option 2:
-        Traveler: ...But I think it'll be back.
+
+Option 1:
+
+> Traveler: It disappeared right in front of me...
+
+Option 2:
+
+> Traveler: ...But I think it'll be back.
+
 Paimon: Yeah... and both times it appeared, its goal was pretty clear. It seems like it was after the Moon Marrow!
 Nefer: ...And on both occasions, it was accompanied by the Wild Hunt too. It appears there must be some close connection between the two.
 Lauma: I must say, I don't often see you look this serious, Nefer.
 Nefer: Too late in the day for thinking, that's all. We'll pick this up again later. You all feel free to keep chatting, though — just don't forget to lock up when you leave.
 Lauma: #On that note... Traveler, please keep the Moon Marrow stored within your body for the time being.
 Lauma: We'll take it back off your hands as soon as the Wild Hunt's been taken care of, once and for all...
-    Option 1:
-        Traveler: Sure thing. Trust me, I've got this.
-        Lauma: Of course.
-    Option 2:
-        Traveler: Aren't you worried I'll make a run for it?
-        Lauma: Ha... Now that's what I'd call a joke.
+
+Option 1:
+
+> Traveler: Sure thing. Trust me, I've got this.
+> Lauma: Of course.
+
+Option 2:
+
+> Traveler: Aren't you worried I'll make a run for it?
+> Lauma: Ha... Now that's what I'd call a joke.
+
 Lauma: Anyway, if the two of you will excuse me... I'm heading back to Hiisi Island now. It's time I came clean with the Frostmoon Scions.
 Paimon: Hey, we're coming with you! Though... guess we won't be able to do much more than cheer you on from the sidelines.
 Lauma: That alone means more to me than you could ever know.
@@ -882,10 +949,15 @@ Lauma: Do I really come across as... "distant"?
 Paimon: W—Well... maybe just a little, to people who don't know you? You are kinda tall... especially if you consider the antlers...
 Lauma: I see...
 Lauma: That's a bit of a hard one... My antlers tend to grow under the moonlight, so I can't quite help it.
-    Option 1:
-        Traveler: Just be yourself. No need to act any different...
-    Option 2:
-        Traveler: Family should be honest with each other, after all...
+
+Option 1:
+
+> Traveler: Just be yourself. No need to act any different...
+
+Option 2:
+
+> Traveler: Family should be honest with each other, after all...
+
 Lauma: It brings me comfort to hear you say that.
 Lauma: #By the way, Traveler, how has your body been adjusting to the Moon Marrow?
 Traveler: I'm feeling absolutely fine.

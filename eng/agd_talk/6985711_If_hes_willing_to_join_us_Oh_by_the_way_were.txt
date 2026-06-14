@@ -2,32 +2,51 @@
 
 Clorinde: #If he's willing to join us. Oh, by the way, we're currently playing on "Easy Mode" to accommodate the newcomers.
 Navia: #Traveler, would you like to continue the adventure with us? You definitely would, right?
-    Option 1:
-        Traveler: Sorry, what? What happened?
-    Option 2:
-        Traveler: Continue the adventure? Are we continuing from that last...
+
+Option 1:
+
+> Traveler: Sorry, what? What happened?
+
+Option 2:
+
+> Traveler: Continue the adventure? Are we continuing from that last...
+
 Jahoda: Oh, come on! Any more questions and those explosives are gonna send us flying!
-    Option 1:
-        Traveler: I—I will!
-    Option 2:
-        Traveler: I'll join, I'll join—
+
+Option 1:
+
+> Traveler: I—I will!
+
+Option 2:
+
+> Traveler: I'll join, I'll join—
+
 Clorinde: Good. Since you haven't played a script for a while now, you may have one chance to re-select your skills.
 Clorinde: The skills you can modify are "cooking" and "medicine." What do you think? Would you like to make any changes?
-    Option 1:
-        Traveler: Learn "cooking"...
-        Clorinde: Very well. In that case, you want to learn the "cooking" skill, yes?
-    Option 2:
-        Traveler: Learn "medicine"...
-        Clorinde: Very well. In that case, you wish to learn the "medicine" skill, yes?
-    Option 3:
-        Traveler: Learn "cooking"...
-        Clorinde: Very well. In that case, you want to learn the "cooking" skill, yes?
-        Traveler: Let me reconsider...
-        [Circling back to a pre-branch dialog]
-    Option 4:
-        Traveler: Learn "medicine"...
-        Clorinde: Very well. In that case, you wish to learn the "medicine" skill, yes?
-        Traveler: Let me reconsider...
-        [Circling back to a pre-branch dialog]
+
+Option 1:
+
+> Traveler: Learn "cooking"...
+> Clorinde: Very well. In that case, you want to learn the "cooking" skill, yes?
+
+Option 2:
+
+> Traveler: Learn "medicine"...
+> Clorinde: Very well. In that case, you wish to learn the "medicine" skill, yes?
+
+Option 3:
+
+> Traveler: Learn "cooking"...
+> Clorinde: Very well. In that case, you want to learn the "cooking" skill, yes?
+> Traveler: Let me reconsider...
+> [Circling back to a pre-branch dialog]
+
+Option 4:
+
+> Traveler: Learn "medicine"...
+> Clorinde: Very well. In that case, you wish to learn the "medicine" skill, yes?
+> Traveler: Let me reconsider...
+> [Circling back to a pre-branch dialog]
+
 Traveler: I'm sure.
 [Missing Dialog 0]

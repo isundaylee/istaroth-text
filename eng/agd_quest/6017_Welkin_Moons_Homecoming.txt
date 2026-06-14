@@ -38,18 +38,28 @@ Black Screen Text: After learning of the crisis's end, people gradually return t
 (Talk to your companions)
 
 Paimon: Ugh, why is it so noisy outside...
-    Option 1:
-        Traveler: Good morning, Paimon.
-    Option 2:
-        Traveler: Sure you don't need five more minutes?
+
+Option 1:
+
+> Traveler: Good morning, Paimon.
+
+Option 2:
+
+> Traveler: Sure you don't need five more minutes?
+
 Paimon: It's okay, Paimon was pretty much awake anyway. It's been so long since we last had a chance to relax, huh? Feels like time is moving slower than usual.
 Paimon: What about you? Did you rest well?
 Traveler: Well enough. Somehow I wasn't as sleepy as much as I expected.
 Paimon: Still winding down from everything that's happened? Or are you wondering how our friends are doing? Or is it... about what Dottore said to you?
-    Option 1:
-        Traveler: A bit of everything, I think.
-    Option 2:
-        Traveler: But don't worry. I'm feeling okay.
+
+Option 1:
+
+> Traveler: A bit of everything, I think.
+
+Option 2:
+
+> Traveler: But don't worry. I'm feeling okay.
+
 Paimon: Okay, if you say so. But don't push yourself, alright? Let Paimon know if you need to talk!
 Paimon: What we just went through was... a lot. It's totally normal if you need some time to get back in your groove.
 Paimon: Luonnotar disappeared after Columbina came back. Apparently, she was part of Columbina's soul or something...
@@ -64,10 +74,15 @@ Paimon: ...
 Paimon: ...Paimon didn't think you'd mention it.
 Traveler: I'm sorry, Paimon.
 Paimon: *sob*... You... You have no idea how anxious Paimon was. She was worried sick about you...!
-    Option 1:
-        Traveler: So I heard...
-    Option 2:
-        Traveler: I understand how you feel.
+
+Option 1:
+
+> Traveler: So I heard...
+
+Option 2:
+
+> Traveler: I understand how you feel.
+
 Paimon: Well, if you really wanna show Paimon you're sorry, you're gonna need to make it up to her... You'd better be ready to splash out on a lavish meal!
 Traveler: Anything for you. My treat.
 Paimon: Phew! Okay. Paimon's full now.
@@ -267,10 +282,15 @@ Nicole: You should head to the docks next... your friends are about to board the
 The Knave: You're here.
 Paimon: You're here too, Hat Guy? Are you heading back together?
 #{REALNAME[ID(1)|HOSTONLY(true)]}: No. I'm bound for Sumeru, and she for Fontaine. We just happened to cross paths at the harbor.
-    Option 1:
-        Traveler: How are you holding up?
-    Option 2:
-        Traveler: How's your core?
+
+Option 1:
+
+> Traveler: How are you holding up?
+
+Option 2:
+
+> Traveler: How's your core?
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Everything seems fine. Sandrone may have an abominable temper, but she's always been very responsible with important calculations, and things entrusted to her by valued friends.
 The Knave: You always speak as if you know us inside out, Mr. Hat Guy.
 #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Maybe I'm just a good judge of character?
@@ -329,24 +349,39 @@ Traveler: Do you feel better now than you used to?
 Paimon: So what should we do now? If you wanna explore a bit more to steady those nerves, Paimon's game.
 Paimon: After all, when Columbina said she knew where your ship was hidden, Paimon promised to give you two some alone time with the "truth."
 Paimon: It hasn't been all that long since we were last apart, sure... but with Columbina there, Paimon's sure things'll be just dandy!
-    Option 1:
-        Traveler: Paimon...
-    Option 2:
-        Traveler: Thank you...
+
+Option 1:
+
+> Traveler: Paimon...
+
+Option 2:
+
+> Traveler: Thank you...
+
 Paimon: Hehe, ain't no biggie. Paimon might be all about that food and fun, but she knows how to do right by people!
 Paimon: #Paimon's sure you'd prefer to digest the news about your sister in peace.
 Paimon: But uh, no matter what you see... Just know you can share it with Paimon — 'course, as long as it's not super private!
 Paimon: If you can't make sense of something, let's give it some thought together. And even if we both can't figure it out, Paimon can at least treat you to a nice meal!
-    Option 1:
-        Traveler: Who am I to refuse you, Paimon?
-    Option 2:
-        Traveler: You're my best companion, after all!
+
+Option 1:
+
+> Traveler: Who am I to refuse you, Paimon?
+
+Option 2:
+
+> Traveler: You're my best companion, after all!
+
 Paimon: Hehe, glad to hear it!
 Paimon: Feel better now?
-    Option 1:
-        Traveler: Yes, much better.
-    Option 2:
-        Traveler: All thanks to you, Paimon.
+
+Option 1:
+
+> Traveler: Yes, much better.
+
+Option 2:
+
+> Traveler: All thanks to you, Paimon.
+
 Paimon: Alrighty! Next up, time to meet with Columbina!
 
 ## Talk 8 (alternative/additional)
@@ -393,10 +428,15 @@ The Damselette: The story of the time before I was born was in fact the story of
 The Damselette: But when I obtained the trilunar authority and returned to our present reality, I sensed something I hadn't expected: your prologue.
 Paimon: So you mean...!
 The Damselette: Yes. Your spaceship. All this time, it has been hidden on the Frost Moon, which lay beyond the sky.
-    Option 1:
-        Traveler: What!?
-    Option 2:
-        Traveler: But why? Who could have done this...?
+
+Option 1:
+
+> Traveler: What!?
+
+Option 2:
+
+> Traveler: But why? Who could have done this...?
+
 The Damselette: The "great ruler of the firmament"... the Heavenly Principles.
 Paimon: Wait, them!?
 Paimon: Why would they do that...?
@@ -583,34 +623,45 @@ Traveler: We should probably head back...
 
 The Damselette: The journey goes on, for you and for me.
 The Damselette: Like I said, this is not the end. I don't believe there has to be an ending.
-    Option 1:
-        Traveler: Could you tell me a little bit about Snezhnaya?
-        The Damselette: Oh, is that your next destination?
-        The Damselette: Hmm... Most people would probably tell you to pack some warm clothes. But I experience things differently than most people, so I can't I know how cold it is.
-        The Damselette: In fact, it is home to quite a wondrous heat source... I think they call it "Kresnik's Torch." Every city in Snezhnaya is built around one of those.
-        The Damselette: I sensed the energy it gave off as I was passing by on a railway train. It felt... grand, and distant.
-        The Damselette: I also recommend the Korolevskiy Troupe in Snezhnograd. They give performances quite regularly, and entry was free for Harbingers... I liked them a lot.
-    Option 2:
-        Traveler: What do you know about the Tsaritsa?
-        The Damselette: Hmmm. Ice-cold... and sharp. Crystal clear in some ways, yet profoundly unfathomable in others. Like the thick layer of ice on top of a frozen lake...
-        The Damselette: Hmm? That's just the impression the Tsaritsa gives me. I was never able to glimpse what truly lies beneath that icy exterior.
-        The Damselette: In fact, I don't think the people of Snezhnaya even know what kind of power their god wields.
-        The Damselette: Maybe that's because the Tsaritsa herself has never acknowledged, nor accepted that power...
-    Option 3:
-        Traveler: Tell me more about the Fatui.
-        The Damselette: There's Regrator, The Rooster... and The Jester.
-        The Damselette: Between them, they control a lot of what happens in Snezhnaya. But I could never wrap my head around how exactly power is split between them. I just know they are each responsible for many specific domains.
-        The Damselette: I noticed that The Rooster and Regrator often appeared to get along on the surface, while working against each other in secret... And theirs is not a friendly rivalry.
-        The Damselette: But I wasn't particularly interested, so I tended to keep my distance. Now that I think about it, the term "Mistilteinn" often seemed to come up in connection with Project Stuzha...
-    Option 4:
-        Traveler: What are your future plans?
-        The Damselette: Once things settle down in Nod-Krai, I'd like to explore the world beyond Snezhnaya.
-        The Damselette: You've told me so many stories about the other places you've been to, and all the friends you've made there... I'm curious to visit those nations and see them for myself.
-        The Damselette: It would also help me learn more about the journey that has made you into the person you are today.
-    Option 5:
-        Traveler: That's all the questions I have for now...
-        The Damselette: Okay. As you continue on your journey, don't forget to gaze up at the moon once in a while. It is, after all, no longer an illusion.
-        The Damselette: It shall cast down its true moonlight, connecting us in truth.
+
+Option 1:
+
+> Traveler: Could you tell me a little bit about Snezhnaya?
+> The Damselette: Oh, is that your next destination?
+> The Damselette: Hmm... Most people would probably tell you to pack some warm clothes. But I experience things differently than most people, so I can't I know how cold it is.
+> The Damselette: In fact, it is home to quite a wondrous heat source... I think they call it "Kresnik's Torch." Every city in Snezhnaya is built around one of those.
+> The Damselette: I sensed the energy it gave off as I was passing by on a railway train. It felt... grand, and distant.
+> The Damselette: I also recommend the Korolevskiy Troupe in Snezhnograd. They give performances quite regularly, and entry was free for Harbingers... I liked them a lot.
+
+Option 2:
+
+> Traveler: What do you know about the Tsaritsa?
+> The Damselette: Hmmm. Ice-cold... and sharp. Crystal clear in some ways, yet profoundly unfathomable in others. Like the thick layer of ice on top of a frozen lake...
+> The Damselette: Hmm? That's just the impression the Tsaritsa gives me. I was never able to glimpse what truly lies beneath that icy exterior.
+> The Damselette: In fact, I don't think the people of Snezhnaya even know what kind of power their god wields.
+> The Damselette: Maybe that's because the Tsaritsa herself has never acknowledged, nor accepted that power...
+
+Option 3:
+
+> Traveler: Tell me more about the Fatui.
+> The Damselette: There's Regrator, The Rooster... and The Jester.
+> The Damselette: Between them, they control a lot of what happens in Snezhnaya. But I could never wrap my head around how exactly power is split between them. I just know they are each responsible for many specific domains.
+> The Damselette: I noticed that The Rooster and Regrator often appeared to get along on the surface, while working against each other in secret... And theirs is not a friendly rivalry.
+> The Damselette: But I wasn't particularly interested, so I tended to keep my distance. Now that I think about it, the term "Mistilteinn" often seemed to come up in connection with Project Stuzha...
+
+Option 4:
+
+> Traveler: What are your future plans?
+> The Damselette: Once things settle down in Nod-Krai, I'd like to explore the world beyond Snezhnaya.
+> The Damselette: You've told me so many stories about the other places you've been to, and all the friends you've made there... I'm curious to visit those nations and see them for myself.
+> The Damselette: It would also help me learn more about the journey that has made you into the person you are today.
+
+Option 5:
+
+> Traveler: That's all the questions I have for now...
+> The Damselette: Okay. As you continue on your journey, don't forget to gaze up at the moon once in a while. It is, after all, no longer an illusion.
+> The Damselette: It shall cast down its true moonlight, connecting us in truth.
+
 
 ## Talk 19 (alternative/additional)
 

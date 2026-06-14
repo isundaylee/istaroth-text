@@ -31,22 +31,32 @@ Paimon: You carefully selected and collected all these, didn't you? Are they gif
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: Still, we can't eat food that's been left out for too long! Whoever eats it — and that includes you — would get an upset stomach! So we've gotta deal with that first...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Arroooo... Rooooawr...
-    Option 1:
-        Traveler: But this branch is really something!
-        Paimon: Yeah! It feels like it'd be every bit as impressive as a master sword when you wave it around!
-    Option 2:
-        Traveler: This rock is really round!
-        Paimon: And it's shiny, too! Hehe, we've crossed a lotta rivers, and we've seen lots of round rocks, so you can believe us when we say this stone is a gem amongst rocks!
+
+Option 1:
+
+> Traveler: But this branch is really something!
+> Paimon: Yeah! It feels like it'd be every bit as impressive as a master sword when you wave it around!
+
+Option 2:
+
+> Traveler: This rock is really round!
+> Paimon: And it's shiny, too! Hehe, we've crossed a lotta rivers, and we've seen lots of round rocks, so you can believe us when we say this stone is a gem amongst rocks!
+
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: Mmmhmm, we'll happily take it all! Hehe, just put it all in Paimon's secret stash's backpack pouch! Maybe they'll come in handy someday!
 Paimon: #Hmm, since {REALNAME[ID(2)|SHOWHOST(true)]} gave us a gift, we should give him a gift in return.
 Paimon: Let Paimon see what she's got in her secret stash...
-    Option 1:
-        Traveler: Wow. Your seldom-seen generous side makes an appearance...
-        Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} went out of his way to show us how much he cares, that's not something to take lightly! Also, if it gets too heavy, Paimon can't really fly, so maybe Paimon can give him some...
-    Option 2:
-        Traveler: Just what have you squirreled away, Paimon?
-        Paimon: #Paimon said it's her secret, private stash! Even if we're the bestest of buddies, that's not something Paimon can just tell you, you know! Anyway, there's plenty enough to give {REALNAME[ID(2)|SHOWHOST(true)]} a gift!
+
+Option 1:
+
+> Traveler: Wow. Your seldom-seen generous side makes an appearance...
+> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} went out of his way to show us how much he cares, that's not something to take lightly! Also, if it gets too heavy, Paimon can't really fly, so maybe Paimon can give him some...
+
+Option 2:
+
+> Traveler: Just what have you squirreled away, Paimon?
+> Paimon: #Paimon said it's her secret, private stash! Even if we're the bestest of buddies, that's not something Paimon can just tell you, you know! Anyway, there's plenty enough to give {REALNAME[ID(2)|SHOWHOST(true)]} a gift!
+
 Paimon: #Ta-da! It's a super shiny gem! Do you like it, {REALNAME[ID(2)|SHOWHOST(true)]}?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
 Paimon: Ooh! Guess Paimon's picked just the thing, huh? Hey, be careful now! Don't drop it...
@@ -126,12 +136,17 @@ Kulahaw: My brave friends, it's all up to you! Ah, the pain of being without the
 Kulahaw: Can this be!? My tools are back! Oh, this is amazing!
 Kulahaw: I didn't get a good look before, but I must say, now that's one pretty gem! It's got the same fleshy yellow as a bird's tarsus... Bah! I shan't use those blasted scoundrels in my analogies.
 Kulahaw: Like the sky just brightening at dawn, like the first rays of the sun, that kind of early morning sky color... Yeah, that's a good description...
-    Option 1:
-        Traveler: For a master, your metaphors aren't very masterful...
-        Kulahaw: Hey, I'm no storyteller! Really, all I need to do is remember the beautiful colors of nature... Using pretty words to describe them isn't my forte.
-    Option 2:
-        Traveler: So that's the meaning of "gathering inspiration"?
-        Kulahaw: Oh? So you've heard of the practice before?
+
+Option 1:
+
+> Traveler: For a master, your metaphors aren't very masterful...
+> Kulahaw: Hey, I'm no storyteller! Really, all I need to do is remember the beautiful colors of nature... Using pretty words to describe them isn't my forte.
+
+Option 2:
+
+> Traveler: So that's the meaning of "gathering inspiration"?
+> Kulahaw: Oh? So you've heard of the practice before?
+
 Kulahaw: Either way, just leave the gem to me. As I said before, I'll process it for free. Consider it a gift for your help in retrieving my tools. As for how long it'll take... Drop by the Gemporium in two days' time!
 
 ## Objective 15

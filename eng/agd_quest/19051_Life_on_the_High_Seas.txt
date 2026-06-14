@@ -14,12 +14,19 @@ Yinxing: Whenever a sailor has a health problem, they come to me. I deal with it
 Traveler: I'd like to learn about treating injuries and illnesses at sea.
 Yinxing: Oh, I presume the Captain arranged this, correct? Alright then, let's begin.
 Yinxing: First of all, let me ask you this. What do you think is the biggest danger that all new crew members face?
-    Option 1:
-        Traveler: Getting seasick?
-    Option 2:
-        Traveler: Catching a cold?
-    Option 3:
-        Traveler: Losing a limb?
+
+Option 1:
+
+> Traveler: Getting seasick?
+
+Option 2:
+
+> Traveler: Catching a cold?
+
+Option 3:
+
+> Traveler: Losing a limb?
+
 Yinxing: That can certainly be a problem at sea, but it's not the biggest danger. The most dangerous thing for a newcomer is to underestimate the dangers of life at sea.
 Yinxing: I have seen many new crew members who see themselves as young and fighting fit and have no regard for safety. They think that since they are tough enough to look after themselves on land, they'll be fine at sea as well.
 Yinxing: Those are the ones that always end up in the sick bay. Everyone should know that being a sailor, especially on a long voyage, is a brutal job in an unforgiving environment.
@@ -31,30 +38,37 @@ Yinxing: Haha, you probably thought I was joking, right? That's not surprising. 
 Yinxing: But hopefully you now realize that with a little extra precaution, a lot of these things can be avoided...
 Yinxing: Well, I think that's enough for you to think over for now.
 Yinxing: Is there anything else you would like to know?
-    Option 1:
-        Traveler: What's Beidou's view on this?
-        Yinxing: Captain Beidou?... Out of everyone I have met, she probably values people's lives and safety the most.
-        Yinxing: Although I'm just a doctor, Beidou has given me the full authority to send any newcomers who I don't see as fit for service off the ship until they are ready to come back with the right attitude.
-        Yinxing: Every time we're stocking up before a voyage, medicine takes top priority. I'm even allowed to choose the suppliers regardless of the price, we have adequate budget for medical expenses.
-        Yinxing: Do you know what Mora-Grubber, our bookkeeper, calls this?
-        Yinxing: A significant financial risk. Hehe.
-        Yinxing: But Beidou knows the importance of having a healthy crew. That's why she has authorized me regardless.
-        Yinxing: She places her full trust in me and believes that I can solve these problems... Of course, I have proven her right.
-        Yinxing: So, to answer your question, that's how she thinks!
-        Yinxing: Is there anything else you would like to know?
-        [Circling back to a pre-branch dialog]
-    Option 2:
-        Traveler: What happens to the crew members who have had limbs amputated?
-        Yinxing: Hmm? Are you concerned about them? No wonder Captain Beidou thinks you are different, there must be more to you than just your strength.
-        Yinxing: If you can convince Mora-Grubber to show you the books, you'll see there is a regular fixed cost, titled "Convalescence Payments and Incapacity Support for Injured Crew Members."
-        Yinxing: Regardless of the fleet's income, those who have fought alongside us will certainly receive their compensation every year.
-        Yinxing: Some of those that have returned to land have started small businesses, while others have chosen to go out traveling the world.
-        Yinxing: The money is intended to allow them to live their lives as freely as possible. I'm sure being based on land helps a lot with that, too...
-        Yinxing: Still, we can't pretend like it solves everything. They call them life-changing injuries for a reason, you know?
-        Yinxing: But if nothing else, it's good to know that while Captain Beidou is in charge of The Crux, no one will get forgotten.
-        Yinxing: Is there anything else you would like to know?
-        [Circling back to a pre-branch dialog]
-    Option 3:
+
+Option 1:
+
+> Traveler: What's Beidou's view on this?
+> Yinxing: Captain Beidou?... Out of everyone I have met, she probably values people's lives and safety the most.
+> Yinxing: Although I'm just a doctor, Beidou has given me the full authority to send any newcomers who I don't see as fit for service off the ship until they are ready to come back with the right attitude.
+> Yinxing: Every time we're stocking up before a voyage, medicine takes top priority. I'm even allowed to choose the suppliers regardless of the price, we have adequate budget for medical expenses.
+> Yinxing: Do you know what Mora-Grubber, our bookkeeper, calls this?
+> Yinxing: A significant financial risk. Hehe.
+> Yinxing: But Beidou knows the importance of having a healthy crew. That's why she has authorized me regardless.
+> Yinxing: She places her full trust in me and believes that I can solve these problems... Of course, I have proven her right.
+> Yinxing: So, to answer your question, that's how she thinks!
+> Yinxing: Is there anything else you would like to know?
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+> Traveler: What happens to the crew members who have had limbs amputated?
+> Yinxing: Hmm? Are you concerned about them? No wonder Captain Beidou thinks you are different, there must be more to you than just your strength.
+> Yinxing: If you can convince Mora-Grubber to show you the books, you'll see there is a regular fixed cost, titled "Convalescence Payments and Incapacity Support for Injured Crew Members."
+> Yinxing: Regardless of the fleet's income, those who have fought alongside us will certainly receive their compensation every year.
+> Yinxing: Some of those that have returned to land have started small businesses, while others have chosen to go out traveling the world.
+> Yinxing: The money is intended to allow them to live their lives as freely as possible. I'm sure being based on land helps a lot with that, too...
+> Yinxing: Still, we can't pretend like it solves everything. They call them life-changing injuries for a reason, you know?
+> Yinxing: But if nothing else, it's good to know that while Captain Beidou is in charge of The Crux, no one will get forgotten.
+> Yinxing: Is there anything else you would like to know?
+> [Circling back to a pre-branch dialog]
+
+Option 3:
+
+
 Traveler: Thanks. I've learned a lot.
 Yinxing: My pleasure. Okay, let's leave it there, then. Be sure to take good care of your health.
 
@@ -82,25 +96,30 @@ Huixing: Fortunately, we have the Captain with us. She managed to find some anci
 Huixing: I don't think anyone other than our Captain could manage to get these kinds of resources. Old charts and ancient books on semiotics are not the kinds of things that are sold in your average marketplace...
 Huixing: Oops! I've gotten off-topic, hehe. Well, that just about covers the basics of chart-reading.
 Huixing: Is there anything else you would like to know, Traveler?
-    Option 1:
-        Traveler: Do you have experience drafting nautical charts?
-        Huixing: Drafting charts? That's certainly a more advanced topic. To be honest, I've only attained a smattering of knowledge in that area.
-        Huixing: The charts we are using now are just revised versions of the ones left by the previous navigator.
-        Huixing: So my mapping experiences have been primarily limited to updating our charts to reflect changes in the sea.
-        Huixing: I think you can ask Captain Beidou more about cartography.
-        Huixing: One time, the fleet sailed into an uncharted area by mistake. It wasn't long before we turned the fleet around and returned the way we came out for fear of potential hazards.
-        Huixing: But Captain Beidou still managed to draft a simple chart of the area we sailed through for if and when we explore the area again.
-        Huixing: Incredible, isn't it? I was amazed to see that the Captain could even do cartography.
-        Traveler: Then why does she need you as a navigator?
-        Huixing: Because I have the talent, and she doesn't want to let it go to waste. Hehe. She treats the whole crew that way.
-        Huixing: I initially had the same question myself. After all, in many fleets the captain also works as the navigator. I couldn't understand her reasoning at the time, so I asked her.
-        Huixing: She just laughed and told me to wise up, saying that even Rex Lapis never fights alone.
-        Huixing: She wants everyone onboard to master their role, so that The Crux is not floating on her alone.
-        Huixing: That way, if the day ever comes when she's no longer with the fleet, we will still be able to sail onward without her.
-        Huixing: Captain Beidou may seem aloof and even act careless sometimes, but the truth is that she's very considerate of everyone onboard.
-        Huixing: Is there anything else you would like to know, Traveler?
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> Traveler: Do you have experience drafting nautical charts?
+> Huixing: Drafting charts? That's certainly a more advanced topic. To be honest, I've only attained a smattering of knowledge in that area.
+> Huixing: The charts we are using now are just revised versions of the ones left by the previous navigator.
+> Huixing: So my mapping experiences have been primarily limited to updating our charts to reflect changes in the sea.
+> Huixing: I think you can ask Captain Beidou more about cartography.
+> Huixing: One time, the fleet sailed into an uncharted area by mistake. It wasn't long before we turned the fleet around and returned the way we came out for fear of potential hazards.
+> Huixing: But Captain Beidou still managed to draft a simple chart of the area we sailed through for if and when we explore the area again.
+> Huixing: Incredible, isn't it? I was amazed to see that the Captain could even do cartography.
+> Traveler: Then why does she need you as a navigator?
+> Huixing: Because I have the talent, and she doesn't want to let it go to waste. Hehe. She treats the whole crew that way.
+> Huixing: I initially had the same question myself. After all, in many fleets the captain also works as the navigator. I couldn't understand her reasoning at the time, so I asked her.
+> Huixing: She just laughed and told me to wise up, saying that even Rex Lapis never fights alone.
+> Huixing: She wants everyone onboard to master their role, so that The Crux is not floating on her alone.
+> Huixing: That way, if the day ever comes when she's no longer with the fleet, we will still be able to sail onward without her.
+> Huixing: Captain Beidou may seem aloof and even act careless sometimes, but the truth is that she's very considerate of everyone onboard.
+> Huixing: Is there anything else you would like to know, Traveler?
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 Traveler: Nothing else, thank you.
 Huixing: My pleasure. A friend of Captain Beidou is a friend of mine!
 
@@ -119,10 +138,15 @@ Traveler: Wait, how did you know?
 Xu Liushi: Haha, in my line of work, I've got to have a pair of sharp eyes.
 Xu Liushi: I saw the captain showing you around the training grounds, and then you went to see Yinxing and Huixing.
 Xu Liushi: So, I figured that she probably wants you to get to know the life of a crew member.
-    Option 1:
-        Traveler: You have a real knack for your work.
-    Option 2:
-        Traveler: Looks like Beidou got the right person for the job.
+
+Option 1:
+
+> Traveler: You have a real knack for your work.
+
+Option 2:
+
+> Traveler: Looks like Beidou got the right person for the job.
+
 Xu Liushi: Hehe! Okay, let's get started. First, I'll introduce you to the basics of meteorology.
 Xu Liushi: Marine meteorology basically means keeping tabs on the weather as well as other ocean phenomena, so things like sea fog, storm surges, waterspouts, and so on...
 Xu Liushi: These are all potential threats to safe navigation. Luckily, whatever weather might be coming up, there's always some kind of sign that gives it away in advance.
@@ -131,24 +155,29 @@ Xu Liushi: But, if you know that waterspouts can only form in an environment wit
 Xu Liushi: You will be even more alert if you also know that the presence of winds blowing in opposite directions with a significant difference in speed is a direct precursor to the formation of waterspouts.
 Xu Liushi: And most importantly, if you spot a small white vortex emerging from the clouds, you should immediately notify the crew to steer clear of what's ahead.
 Xu Liushi: So there you go, those are the warning signs of waterspouts. I am proud to say that, over the years, I haven't let a single one sneak up on my watch.
-    Option 1:
-        Traveler: You must have sharp eyesight.
-        Xu Liushi: Well, I'm good at reading the sea, but I'm not as good as the captain when it comes to reading people.
-        Xu Liushi: Do you know the small fishing village next to Wangshu Inn? I heard that when Captain was a kid, she worked there fishing with the adults.
-        Xu Liushi: Later, she made her way into the harbor, where she struggled to make a living. Heh, managing to survive in an environment like that as a kid is solid proof of the Captain's capabilities.
-        Xu Liushi: If it wasn't for her, I never would have dreamed of taking this job. She gave me confidence and told me I could do it.
-        Xu Liushi: You may not have heard, but I'm best known outside the Crux Fleet for a slightly infamous story involving me, Third-Round Knockout, and a few too many...
-        Xu Liushi: Who would ever have thought that the rookie sailor who fell drunk into the sea and became a laughingstock among their now-former crewmates would then go on to become a lookout for The Crux? But it's the unbelievable truth, haha.
-        Xu Liushi: It proves that having skills alone is not enough. You need someone like the Captain who is a good judge of character.
-    Option 2:
-        Traveler: Sounds like you have a lot of experience.
-        Xu Liushi: I've gotta confess, I learned almost everything I know from the Captain.
-        Xu Liushi: All the stuff about meteorology that I just told you about... she's the real expert.
-        Xu Liushi: Do you know the small fishing village next to Wangshu Inn? I heard that when Captain Beidou was a kid, she worked there, fishing.
-        Xu Liushi: Later, she made her way into the harbor, where she struggled to make a living. Heh, growing up in an environment like that, it's no wonder she knows everything about the sea.
-        Xu Liushi: When I first came onboard, I lived every day wallowing in doubt, wondering if my former career as a sailor was all just a waste.
-        Xu Liushi: But as I gradually learned some new things and became more experienced, I finally realized what makes The Crux so great.
-        Xu Liushi: After all, not every fleet has the "Uncrowned Lord of the Ocean" as their leader. I feel lucky just to have joined.
+
+Option 1:
+
+> Traveler: You must have sharp eyesight.
+> Xu Liushi: Well, I'm good at reading the sea, but I'm not as good as the captain when it comes to reading people.
+> Xu Liushi: Do you know the small fishing village next to Wangshu Inn? I heard that when Captain was a kid, she worked there fishing with the adults.
+> Xu Liushi: Later, she made her way into the harbor, where she struggled to make a living. Heh, managing to survive in an environment like that as a kid is solid proof of the Captain's capabilities.
+> Xu Liushi: If it wasn't for her, I never would have dreamed of taking this job. She gave me confidence and told me I could do it.
+> Xu Liushi: You may not have heard, but I'm best known outside the Crux Fleet for a slightly infamous story involving me, Third-Round Knockout, and a few too many...
+> Xu Liushi: Who would ever have thought that the rookie sailor who fell drunk into the sea and became a laughingstock among their now-former crewmates would then go on to become a lookout for The Crux? But it's the unbelievable truth, haha.
+> Xu Liushi: It proves that having skills alone is not enough. You need someone like the Captain who is a good judge of character.
+
+Option 2:
+
+> Traveler: Sounds like you have a lot of experience.
+> Xu Liushi: I've gotta confess, I learned almost everything I know from the Captain.
+> Xu Liushi: All the stuff about meteorology that I just told you about... she's the real expert.
+> Xu Liushi: Do you know the small fishing village next to Wangshu Inn? I heard that when Captain Beidou was a kid, she worked there, fishing.
+> Xu Liushi: Later, she made her way into the harbor, where she struggled to make a living. Heh, growing up in an environment like that, it's no wonder she knows everything about the sea.
+> Xu Liushi: When I first came onboard, I lived every day wallowing in doubt, wondering if my former career as a sailor was all just a waste.
+> Xu Liushi: But as I gradually learned some new things and became more experienced, I finally realized what makes The Crux so great.
+> Xu Liushi: After all, not every fleet has the "Uncrowned Lord of the Ocean" as their leader. I feel lucky just to have joined.
+
 Traveler: Thanks for your time. I think I've learned all that I need for now.
 Xu Liushi: Find me anytime if you want to know more.
 

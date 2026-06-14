@@ -20,17 +20,27 @@ Traveler: You're fairly floaty, as floaty things go...
 Paimon: Paimon's nothing like those guys!
 Paimon: Anyway, forget that for now. Let's see if we can get this guy something to eat, and then... We'll let it rest for a while.
 Paimon: It'll be feeling better soon, Paimon's sure of it!
-    Option 1:
-        Traveler: It's too late...
-    Option 2:
-        Traveler: It's been holding out for far too long...
+
+Option 1:
+
+> Traveler: It's too late...
+
+Option 2:
+
+> Traveler: It's been holding out for far too long...
+
 Paimon: No...
 Big Guy?: ...*heavy breathing*
 Paimon: #Oh no. It must be in so much pain, Traveler...
-    Option 1:
-        Traveler: We've defeated your foes.
-    Option 2:
-        Traveler: You can rest now, big guy. You did good.
+
+Option 1:
+
+> Traveler: We've defeated your foes.
+
+Option 2:
+
+> Traveler: You can rest now, big guy. You did good.
+
 Big Guy?: ...*heavy breathing*
 Traveler: Is... there something else that's on your mind?
 Traveler: Is there... Something you'd like to tell me?
@@ -97,17 +107,27 @@ Paimon: #Hehe! Looks like we're all agreed then. Anyway, Paimon's Paimon, and he
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Wrraa? Rawr...
 Paimon: Oh, yeah, you need a name too... Let Paimon think. Right! Since you're yellow and brown all over, let's call you "Hash Brown"!
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Hash Brown?): Rroooo... Rraaaa...
-    Option 1:
-        Traveler: I suspect that would only go down well at Good Hunter...
-        Paimon: You mean people wouldn't like it anywhere else?
-    Option 2:
-        Traveler: Looks like it doesn't like that name...
+
+Option 1:
+
+> Traveler: I suspect that would only go down well at Good Hunter...
+> Paimon: You mean people wouldn't like it anywhere else?
+
+Option 2:
+
+> Traveler: Looks like it doesn't like that name...
+
 #{REALNAME[ID(2)|SHOWHOST(true)]} (Little Guy?): Rroo...
 Paimon: #Would you like Traveler to give you a name, then? Well... not that Paimon can vouch for his naming sense, though.
-    Option 1:
-        Traveler: All the names I've come up with so far have been perfectly normal, I'll have you know.
-    Option 2:
-        Traveler: Poor little thing... to suffer such a calamitous fate.
+
+Option 1:
+
+> Traveler: All the names I've come up with so far have been perfectly normal, I'll have you know.
+
+Option 2:
+
+> Traveler: Poor little thing... to suffer such a calamitous fate.
+
 
 ## Talk 8 (alternative/additional)
 
@@ -195,12 +215,17 @@ Traveler: #{REALNAME[ID(2)|SHOWHOST(true)]}...
 #{REALNAME[ID(2)|SHOWHOST(true)]}: ...Rawr!
 Paimon: #Looks like our little friend loves this name! Well, with any luck, we'll solve the mystery that surrounds you while we're in Natlan... Ah, and maybe we'll get some clues as to why Traveler was able to suddenly enter that Saurian's body...
 Paimon: #Oh yeah, are you okay, by the way, Traveler? You suddenly turned into a Saurian back there... Are you feeling uncomfortable in any way?
-    Option 1:
-        Traveler: Oh, just a little Saurian-sick.
-        Paimon: What's that even supposed to mean!? This isn't the time for jokes!
-    Option 2:
-        Traveler: Becoming a Saurian for a bit was alright.
-        Paimon: Well, it'd best stay that way! Things could go south real fast if some day you were to turn into a Saurian and be unable to transform back...
+
+Option 1:
+
+> Traveler: Oh, just a little Saurian-sick.
+> Paimon: What's that even supposed to mean!? This isn't the time for jokes!
+
+Option 2:
+
+> Traveler: Becoming a Saurian for a bit was alright.
+> Paimon: Well, it'd best stay that way! Things could go south real fast if some day you were to turn into a Saurian and be unable to transform back...
+
 Paimon: #Still, Traveler, Paimon's never heard of anyone in Natlan who can turn into a Saurian... This is kinda weird.
 Paimon: Seriously, we only just got here, and it feels like so much has already happened... Anyway, how do we get outta here?
 #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!

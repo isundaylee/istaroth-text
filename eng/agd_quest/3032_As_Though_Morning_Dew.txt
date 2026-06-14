@@ -51,10 +51,15 @@ Traveler: Yes?
 Traveler: Because I wanted to know what you'd changed.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): ...So that's how you found out whose fate had changed, and how.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Well, whatever your reasons, you did me a favor, and I'll do everything I can to pay it back.
-    Option 1:
-        Traveler: ...I didn't do all of this for a reward.
-    Option 2:
-        Traveler: Please don't make it sound like I'm extorting you.
+
+Option 1:
+
+> Traveler: ...I didn't do all of this for a reward.
+
+Option 2:
+
+> Traveler: Please don't make it sound like I'm extorting you.
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Borrowing and returning are the only real relationships between individuals. I'll balance the books one day, don't you worry.
 Nahida: That's not true. A relationship between two people is not simply a ledger that can be reset to zero.
 Nahida: I think, deep down, you realize this. People who show up in your life don't just evaporate like water drops and leave nothing behind. There is no such thing as "balancing the books."
@@ -184,15 +189,20 @@ Nahida: Now that your stance has changed, I believe your future path will change
 Nahida: I see... That is up to you.
 Paimon: Huh? But if we do that, then...
 #{REALNAME[ID(1)|HOSTONLY(true)]}: It's fine. Let them stab their blades into my chest if they so desire. ...Maybe that's how it always should have been.
-    Option 1:
-        Traveler: ...
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: What's that look for? Don't make that face, I know what I'm doing.
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: ...That day will come.
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: Alright, we're done here.
-    Option 2:
-        Traveler: Fine.
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: Hehe, no nonsense. I like it.
-        #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Alright, let's call it a day.
+
+Option 1:
+
+> Traveler: ...
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: What's that look for? Don't make that face, I know what I'm doing.
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: ...That day will come.
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: Alright, we're done here.
+
+Option 2:
+
+> Traveler: Fine.
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: Hehe, no nonsense. I like it.
+> #{REALNAME[ID(1)|HOSTONLY(true)]}: ...Alright, let's call it a day.
+
 #{REALNAME[ID(1)|HOSTONLY(true)]}: Goodbye, wise deity, and you two.
 Paimon: He's gone...
 Nahida: What he went through today would have been like living an entire lifetime in an instant. He'll need some time to calm down.
@@ -233,10 +243,15 @@ Nahida: Thank you so much. Please get some good rest, you must be exhausted. You
 
 Paimon: Whew! It's about time we had a break!
 Paimon: As soon as you stop, all the tiredness and hunger comes rushing back...
-    Option 1:
-        Traveler: Rest up, Paimon.
-    Option 2:
-        Traveler: I'll buy some delicious treats as a reward.
+
+Option 1:
+
+> Traveler: Rest up, Paimon.
+
+Option 2:
+
+> Traveler: I'll buy some delicious treats as a reward.
+
 Paimon: Wow! Great!
 Paimon: ...Huh? Look at that vase...
 Traveler: ...What about it?

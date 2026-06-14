@@ -14,15 +14,20 @@
 小蒙: 我们在玩游戏呢，可总是缺一个人来扮海盗。
 小蒙: 因为没人扮海盗来抢劫，我们一直没法开始玩…
 小蒙: #对了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！你能来扮海盗吗？
-    Option 1:
-        旅行者: 交给我吧。
-        小蒙: 好哎！那我们就去准备啦！
-    Option 2:
-        旅行者: 我不太了解这方面…
-        小蒙: 没关系啦，海盗…唔，应该是那种蛮不讲理，随便抢走人家东西的坏人。
-        小蒙: 虽然我也没有见过，只是听北斗姐姐讲过。
-        小蒙: 但我觉得…这种人，应该挺好演的吧。
-        小蒙: #嘿嘿，总之就拜托{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}啦。
+
+Option 1:
+
+> 旅行者: 交给我吧。
+> 小蒙: 好哎！那我们就去准备啦！
+
+Option 2:
+
+> 旅行者: 我不太了解这方面…
+> 小蒙: 没关系啦，海盗…唔，应该是那种蛮不讲理，随便抢走人家东西的坏人。
+> 小蒙: 虽然我也没有见过，只是听北斗姐姐讲过。
+> 小蒙: 但我觉得…这种人，应该挺好演的吧。
+> 小蒙: #嘿嘿，总之就拜托{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}啦。
+
 小蒙: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}准备好了的话，就过来吧。
 
 ## Talk 2 (alternative/additional)
@@ -49,18 +54,28 @@
 璐璐: 呜哇！是海盗！
 阿飞: 璐璐快过来，我来保护你！
 小蒙: 你是海盗吧，为什么要来抢劫？
-    Option 1:
-        旅行者: 我是海盗。
-    Option 2:
-        旅行者: 海盗就是要抢劫。
+
+Option 1:
+
+> 旅行者: 我是海盗。
+
+Option 2:
+
+> 旅行者: 海盗就是要抢劫。
+
 小蒙: 海盗也分好坏，不一定都要抢劫呀。
 小蒙: 北斗姐姐也说自己是海盗，可是她是很好的人，会给我好吃的，大家都很喜欢她。
 小蒙: #为什么{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}要做坏海盗，不做好海盗呢？
 派蒙: 明明是你说，海盗是那种「蛮不讲理」的人吧…
-    Option 1:
-        旅行者: 好吧，我错了…
-    Option 2:
-        旅行者: 我想做个好人。
+
+Option 1:
+
+> 旅行者: 好吧，我错了…
+
+Option 2:
+
+> 旅行者: 我想做个好人。
+
 小蒙: 唔，愿意改邪归正是好事。这也是北斗姐姐说的。
 小蒙: 那么，你就帮忙去清理一下周围吧，只要做好事，那就可以做好人，或者好海盗。
 

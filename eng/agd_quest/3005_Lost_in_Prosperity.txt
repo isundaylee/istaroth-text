@@ -33,10 +33,15 @@ Paimon: Let's get our bearings so we can start looking for leads.
 Paimon: We know that whatever the Akademiya lost is related to the gods... But other than that, we don't have much else to go on.
 Paimon: Hmm... Asfand told us to try posing as Akademiya students while asking around. Paimon checked the Akasha on the way here, and the Akademiya doesn't seem to have any research facilities in Port Ormos.
 Paimon: Paimon doesn't get it... Won't we look even more suspicious going around saying we're Akademiya students AND asking about the stolen item?
-    Option 1:
-        Traveler: Right, we should figure that out before doing anything else.
-    Option 2:
-        Traveler: Figuring that out could be crucial for the rest of our investigation here.
+
+Option 1:
+
+> Traveler: Right, we should figure that out before doing anything else.
+
+Option 2:
+
+> Traveler: Figuring that out could be crucial for the rest of our investigation here.
+
 Paimon: Well, given all the people that come through here every day, if there's any information to be found, Paimon bets we could find it in the market. Let's ask around and see what we come up with.
 
 ## Talk 2
@@ -49,10 +54,15 @@ Elham: Hehe, of course, especially around this time of year. Students from Sumer
 Elham: Many people often talk about how hard it is to get accepted into the Akademiya, let alone graduate. But those who finish their studies and go on to become full-time researchers at the Akademiya have it even harder.
 Elham: Sure, we may not be Sumeru City, but Port Ormos offers beautiful scenery and a stress-free environment. Some even say it's good luck to come to Port Ormos, so students and researchers come flocking here when things get to be too much at the Akademiya.
 Elham: Ah, you see over there? Those are students from the Akademiya.
-    Option 1:
-        Traveler: They look pretty serious.
-    Option 2:
-        Traveler: Maybe even a little worried.
+
+Option 1:
+
+> Traveler: They look pretty serious.
+
+Option 2:
+
+> Traveler: Maybe even a little worried.
+
 Elham: They've been looking worried and miserable ever since they got here a few days ago.
 Elham: If you ask me, the life of a merchant is better. So long as the Akasha teaches us what we need, then life is good.
 Paimon: Hmm, those students seem to be discussing something... Let's see if we can listen in.
@@ -73,20 +83,35 @@ Sidhu: Wa—Wait, did you just say half a million!? If information alone costs t
 Kudari: I wouldn't worry too much. Our field of research is very niche. Who else could possibly be after that kind of shady knowledge? I bet it's practically worthless to anyone aside from us.
 Sidhu: Oh, I guess that makes sense. Then the only thing left for us now is to find a way in. Why don't we all just pool our money together and pay for the information?
 Paimon: Whoa, did you hear that? A niche field of research and shady knowledge... It all sounds pretty suspicious to Paimon. Is knowledge something people just buy and sell like that?
-    Option 1:
-        Traveler: It's very suspicious indeed.
-    Option 2:
-        Traveler: Whatever was stolen from the Akademiya was also related to "knowledge."
+
+Option 1:
+
+> Traveler: It's very suspicious indeed.
+
+Option 2:
+
+> Traveler: Whatever was stolen from the Akademiya was also related to "knowledge."
+
 Paimon: So, what's our plan?
-    Option 1:
-        Traveler: Let's go to Djafar Tavern.
-    Option 2:
-        Traveler: Let's try talking to one of the Eremites.
+
+Option 1:
+
+> Traveler: Let's go to Djafar Tavern.
+
+Option 2:
+
+> Traveler: Let's try talking to one of the Eremites.
+
 Paimon: Wait! Didn't you hear what they just said? Buying information is going to cost us HALF A MILLION MORA!!! Have you lost your mind!?
-    Option 1:
-        Traveler: Reliable information is worth the price.
-    Option 2:
-        Traveler: I won't let them off easy if it turns out to be a scam.
+
+Option 1:
+
+> Traveler: Reliable information is worth the price.
+
+Option 2:
+
+> Traveler: I won't let them off easy if it turns out to be a scam.
+
 Paimon: Oh, alright. Paimon never thought she'd agree to parting with that kind of Mora... But if you know what you're doing, then we should give it a shot.
 
 ## Talk 4 (alternative/additional)
@@ -114,10 +139,15 @@ Tariq: How can The Caracal Battalion compete with the boss when they're nothing 
 Tumart: Yeah! With Boss's fervent devotion, he'll be able to use this power to bring our god back this time.
 Paimon: Huh, all these guys talk about is King Deshret, so they're probably the ones we're looking for.
 Tariq: Hmph, Greater Lord Rukkhadevata... That traitor and her followers must not be spared! The day will come when King Deshret exacts vengeance on Sumeru, and all of them shall be punished.
-    Option 1:
-        Traveler: Greater Lord Rukkhadevata? A traitor?
-    Option 2:
-        Traveler: What are they talking about?
+
+Option 1:
+
+> Traveler: Greater Lord Rukkhadevata? A traitor?
+
+Option 2:
+
+> Traveler: What are they talking about?
+
 Paimon: Yeah, Paimon was wondering what they meant, too. We should ask about that if we get the chance later.
 
 ## Talk 6
@@ -125,22 +155,32 @@ Paimon: Yeah, Paimon was wondering what they meant, too. We should ask about tha
 (Get some information from the Eremites)
 
 Tariq: Huh, who are you? What do you want?
-    Option 1:
-        Traveler: I'm a traveler.
-        Tariq: A traveler?
-        Paimon: Uh, now's probably not the time to talk about that. Didn't the students say Eremites are wary of outsiders?
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> Traveler: I'm a traveler.
+> Tariq: A traveler?
+> Paimon: Uh, now's probably not the time to talk about that. Didn't the students say Eremites are wary of outsiders?
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 Traveler: I'm a student from the Akademiya.
 Tariq: A student? Heh, what's a student from Sumeru City doing in Port Ormos?
 Traveler: I'm looking for info about a certain... "something."
 Tariq: Ahh, well if it's info you want, you've come to the right place. The question is: Can you afford it?
-    Option 1:
-        Traveler: Hand him 50 Mora.
-        Tariq: Huh? What is this, some kind of joke?
-        Paimon: #Oh, sorry! He must have grabbed the wrong amount... Hey, what do you think you're doing!?
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> Traveler: Hand him 50 Mora.
+> Tariq: Huh? What is this, some kind of joke?
+> Paimon: #Oh, sorry! He must have grabbed the wrong amount... Hey, what do you think you're doing!?
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 Traveler: Hand him 500,000 Mora.
 Paimon: (Ooh, Paimon can't stand to see so much Mora go, but there's no other choice right now...)
 Tariq: Heh heh. Here, this is the merchant's address — whatever you're looking for, you'll find it there. ...Hmm? Well, what are you waiting for?
@@ -156,10 +196,15 @@ Tariq: Furthermore, she conspired with the Akademiya to cover up the truth of he
 Tariq: But the story doesn't end there, oh no. King Deshret isn't truly dead. The voice of the Oracle has been heard in the desert, prophesying his resurrection!
 Tariq: Mark my words, our god shall return. And when that day comes, all followers of the traitor and all the desert dwellers who have forgotten their true god will suffer retribution together.
 Tariq: If what I'm saying makes you shiver with fear, it might not be too late for you to become a believer of King Deshret, hahaha.
-    Option 1:
-        Traveler: King Deshret is returning?
-    Option 2:
-        Traveler: Can you tell us more about the Oracle?
+
+Option 1:
+
+> Traveler: King Deshret is returning?
+
+Option 2:
+
+> Traveler: Can you tell us more about the Oracle?
+
 Tariq: Hmph, I don't have anything to say to you Akademiya people about that. I think this conversation has reached its end.
 Alhaitham: Not just yet. This man is a fraud.
 Paimon: Huh!?
@@ -205,10 +250,15 @@ Paimon: Since you tore through their scam right in front of them, you must know 
 Alhaitham: Who exactly are you two, and why are you inquiring about that?
 Traveler: I'm a student from the Akademiya.
 Alhaitham: A student? Heh, right. Look, you should know that those thugs conducting "business" with you had nothing to do with your lie.
-    Option 1:
-        Traveler: Perhaps we can also talk terms?
-    Option 2:
-        Traveler: I know a thing or two about swordplay.
+
+Option 1:
+
+> Traveler: Perhaps we can also talk terms?
+
+Option 2:
+
+> Traveler: I know a thing or two about swordplay.
+
 Paimon: #Huh? Oh, yeah! He's really strong! Weren't you saying something about a "physical exchange"? We can help with that.
 Alhaitham: #He doesn't even have a Vision. Forget it.
 Paimon: #Maybe not, but he can still use elemental energy! Otherwise, there's no way we'd go asking for info from Ayn Al... Al... hmm, from guys like that!
@@ -237,17 +287,27 @@ Alhaitham: But despite strict regulations, some of these Knowledge Capsules will
 Alhaitham: Over the past century, a wide variety of Canned Knowledge has been leaked from the Akademiya. Now, in Port Ormos, the valuable ones are a means to Mora for the Eremites.
 Alhaitham: Meanwhile, those which the Eremites deem to be useless to them occasionally prove useful to the common citizens and hapless Akademiya students.
 Alhaitham: Well, I think that about sums it up.
-    Option 1:
-        Traveler: I heard that the Akademiya lost something recently.
-    Option 2:
-        Traveler: Seems like it's a Knowledge Capsule?
+
+Option 1:
+
+> Traveler: I heard that the Akademiya lost something recently.
+
+Option 2:
+
+> Traveler: Seems like it's a Knowledge Capsule?
+
 Alhaitham: Ah, so that's your true objective...
 Traveler: I want to learn more about it.
 Alhaitham: With our current arrangement, I don't believe I can offer an answer.
-    Option 1:
-        Traveler: What do I have to do?
-    Option 2:
-        Traveler: Perhaps we can negotiate further.
+
+Option 1:
+
+> Traveler: What do I have to do?
+
+Option 2:
+
+> Traveler: Perhaps we can negotiate further.
+
 Alhaitham: *sigh* You're still resolved... Fine, let's talk somewhere with fewer people.
 
 ## Talk 8 (alternative/additional)
@@ -283,10 +343,15 @@ Alhaitham: Here are two Knowledge Capsules. Tell me, can you detect any differen
 Paimon: Umm... They look the same to Paimon.
 Alhaitham: Try inspecting them with Elemental Sight.
 Paimon: How'd it go? Did ya see anything?
-    Option 1:
-        Traveler: They both glow green.
-    Option 2:
-        Traveler: The one on the left shines brighter.
+
+Option 1:
+
+> Traveler: They both glow green.
+
+Option 2:
+
+> Traveler: The one on the left shines brighter.
+
 Alhaitham: Rumor has it that higher-quality Knowledge Capsules generally appear brighter when viewed through Elemental Sight.
 Alhaitham: That's because knowledge originates from Irminsul, the root of Dendro power itself. The more powerful the knowledge, the richer it is in Dendro energy.
 Alhaitham: However, some Canned Knowledge with a high concentration of Elemental Energy is of little use in contemporary times, so those capsules are of little value.
@@ -298,10 +363,15 @@ Alhaitham: Oh, and be sure to exercise some caution. There have been matra prese
 Paimon: Matra?
 Alhaitham: They belong to the Akademiya's regulatory body. They also handle cases of illegal Canned Knowledge transactions. Like I said, the Akademiya has banned both their trade and possession.
 Alhaitham: The matra are razor-sharp — you're in for nothing good if they lock their sights onto you. If you two want to back out, now's the time.
-    Option 1:
-        Traveler: I'm willing to take that risk.
-    Option 2:
-        Traveler: I'll help you find Dori.
+
+Option 1:
+
+> Traveler: I'm willing to take that risk.
+
+Option 2:
+
+> Traveler: I'll help you find Dori.
+
 Alhaitham: Okay, then we have a deal. If you succeed in your dealings with Dori, come find me at the Wikala Funduq. We'll have an open discussion then.
 
 ## Talk 9
@@ -309,11 +379,16 @@ Alhaitham: Okay, then we have a deal. If you succeed in your dealings with Dori,
 (Meet up with Dori's contact)
 
 Latish: Hello, what are you two looking to buy?
-    Option 1:
-        Traveler: We want to buy some raw Harra Fruits.
-        Paimon: Wait, are you sure you're remembering that right? Paimon doesn't think it was that on the paper.
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> Traveler: We want to buy some raw Harra Fruits.
+> Paimon: Wait, are you sure you're remembering that right? Paimon doesn't think it was that on the paper.
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 Traveler: We want to buy some unripe Harra Fruits.
 Latish: Heh, what a unique palate. We have unripe Harra Fruits, but we usually keep them in the back. I'll have someone escort you.
 Paimon: Following the paper got us past the first round!
@@ -331,34 +406,43 @@ Raunak: Got it. You two, please follow me.
 
 Raunak: Before I retrieve your products, I need to confirm a few things.
 Raunak: Please forgive me, but we may not have sufficient stock for you today. Earlier, many of our Harra Fruits were taken by mice.
-    Option 1:
-        Traveler: I'm sorry to hear that...
-        Paimon: Hold on, that's not right. "Taken by mice" means they sold out.
-    Option 2:
-        Traveler: Congratulations to you.
-        Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
-        Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
-        Traveler: Dizziness with a side of tinnitus, please.
-        Paimon: Yep, that's the right answer! ...But eating Harra Fruit that makes your head and ears ring sounds like a bad life decision...
-        Raunak: Would you like your Harra Fruits to be packaged in the Sumeru City or Port Ormos style?
-        Traveler: Sumeru City style.
-        Raunak: I'm guessing that you're going for a more traditional packaging since this is your first time here.
-        Paimon: Wait a sec, "Sumeru City style" means we're only buying a few things. He won't take us to see Dori if we do that!
-    Option 3:
-        Traveler: Congratulations to you.
-        Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
-        Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
-        Traveler: I'd prefer something that causes heatstroke.
-        Paimon: No, that's not it. The paper said that "heatstroke" is the answer to "erudition." Ugh... Eating something that causes heatstroke sounds horrifying...
-    Option 4:
-        Traveler: Congratulations to you.
-        Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
-        Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
-        Traveler: Dizziness with a side of tinnitus, please.
-        Paimon: Yep, that's the right answer! ...But eating Harra Fruit that makes your head and ears ring sounds like a bad life decision...
-        Raunak: Would you like your Harra Fruits to be packaged in the Sumeru City or Port Ormos style?
-        Traveler: Port Ormos style.
-        Raunak: Wow, you two sure are generous customers. We'll be sure to package your products beautifully.
+
+Option 1:
+
+> Traveler: I'm sorry to hear that...
+> Paimon: Hold on, that's not right. "Taken by mice" means they sold out.
+
+Option 2:
+
+> Traveler: Congratulations to you.
+> Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
+> Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
+> Traveler: Dizziness with a side of tinnitus, please.
+> Paimon: Yep, that's the right answer! ...But eating Harra Fruit that makes your head and ears ring sounds like a bad life decision...
+> Raunak: Would you like your Harra Fruits to be packaged in the Sumeru City or Port Ormos style?
+> Traveler: Sumeru City style.
+> Raunak: I'm guessing that you're going for a more traditional packaging since this is your first time here.
+> Paimon: Wait a sec, "Sumeru City style" means we're only buying a few things. He won't take us to see Dori if we do that!
+
+Option 3:
+
+> Traveler: Congratulations to you.
+> Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
+> Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
+> Traveler: I'd prefer something that causes heatstroke.
+> Paimon: No, that's not it. The paper said that "heatstroke" is the answer to "erudition." Ugh... Eating something that causes heatstroke sounds horrifying...
+
+Option 4:
+
+> Traveler: Congratulations to you.
+> Raunak: Heh, thanks. If better goods come in, you'll be the first to know.
+> Raunak: You look like you have some skill. Why don't I pick out some fruits that'll make you dizzy?
+> Traveler: Dizziness with a side of tinnitus, please.
+> Paimon: Yep, that's the right answer! ...But eating Harra Fruit that makes your head and ears ring sounds like a bad life decision...
+> Raunak: Would you like your Harra Fruits to be packaged in the Sumeru City or Port Ormos style?
+> Traveler: Port Ormos style.
+> Raunak: Wow, you two sure are generous customers. We'll be sure to package your products beautifully.
+
 
 ## Talk 11 (alternative/additional)
 
@@ -436,39 +520,59 @@ Dori: My, oh my, you are blessed with a taste for both the exquisite and the ext
 Dori: Listen, I have a special offer for you two. If you spend just 100,000 Mora more, you can pick any Knowledge Capsule of your choice up to a value of one million Mora!
 Paimon: Say what now?
 Paimon: Hey, did you hear that!? Spend another 100k and we get a capsule worth a whole million!
-    Option 1:
-        Traveler: Calm down, Paimon.
-    Option 2:
-        Traveler: Don't let her trick you into spending more.
+
+Option 1:
+
+> Traveler: Calm down, Paimon.
+
+Option 2:
+
+> Traveler: Don't let her trick you into spending more.
+
 Paimon: But all the Canned Knowledge we just bought is easily worth half a million Mora. If we spend just a little more, we can get something worth one million Mora. Isn't that a fantastic deal?
 Paimon: Think about it, we've gone to all this trouble to get this Canned Knowledge, and so far everything we've bought belongs to Alhaitham.
 Paimon: Aren't you even the least bit curious about how this whole Canned Knowledge thing works? We're talking instant knowledge here! Don't you wanna try it yourself?
-    Option 1:
-        Traveler: I think you're the one who's curious.
-    Option 2:
-        Traveler: You just want to see me try it.
+
+Option 1:
+
+> Traveler: I think you're the one who's curious.
+
+Option 2:
+
+> Traveler: You just want to see me try it.
+
 Paimon: C'mon, c'mon! We still have around 100,000 of Alhaitham's Mora left, so let's put it to good use by finding something useful for you. You've got a deal, Dori! We'd like to spend an extra 100,000 Mora.
 Dori: Excellent, then please select from this fine collection of Canned Knowledge over here.
 Paimon: Uh, hold on a second. Paimon thought we could choose whatever we wanted? Why can't we choose the ones from over there?
 Dori: Oh, but my dear customer, the Knowledge Capsules over here are worth one million Mora each. I'm sure discerning customers like yourselves will be able to find something to your liking. Please, take your time.
 Paimon: Uh-oh, Paimon has a bad feeling about this... Let's use Elemental Sight again to check these.
-    Option 1:
-        Traveler: Alright, I'll have a look.
-        Paimon: So, what did you see?
-        Traveler: They all seem to be equally bright.
-        Paimon: So they're all worth about the same amount?
-    Option 2:
-        Traveler: Maybe we should just pass this time...
-        Paimon: Huh? Why?
-        Traveler: Let's just say for our mental health.
-        Paimon: Hey, we're getting a capsule worth a million Mora here. Don't be such a party pooper!
+
+Option 1:
+
+> Traveler: Alright, I'll have a look.
+> Paimon: So, what did you see?
+> Traveler: They all seem to be equally bright.
+> Paimon: So they're all worth about the same amount?
+
+Option 2:
+
+> Traveler: Maybe we should just pass this time...
+> Paimon: Huh? Why?
+> Traveler: Let's just say for our mental health.
+> Paimon: Hey, we're getting a capsule worth a million Mora here. Don't be such a party pooper!
+
 Paimon: Well, anyway, the Mora's already been spent, so let's at least try to find something useful.
 Paimon: Let Paimon take a look here... "An Introduction to Traditional Sumeru Brewing Techniques," "The Art of Growing Spices," "An Overview of Ancient Runes"... Oh! How about this one? "Swordfighting Techniques VIII"!
 Paimon: Not sure where we'd ever find volumes one through seven, but at least this knowledge should be useful, right? Let's go with this one!
-    Option 1:
-        Traveler: Fine by me.
-    Option 2:
-        Traveler: Whatever makes Paimon happy.
+
+Option 1:
+
+> Traveler: Fine by me.
+
+Option 2:
+
+> Traveler: Whatever makes Paimon happy.
+
 Paimon: Dori, we'll take this one!
 Dori: Alright, very good! I'm expecting some new goods in the next couple of days, so be sure to check back again soon! Whether it's Canned Knowledge or anything else you need — bring your Mora to Dori, and doors will open!
 

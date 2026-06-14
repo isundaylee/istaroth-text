@@ -18,10 +18,15 @@ Sawada: The same topic we discussed last time... obviously.
 Paimon: Still looking for more info about Tatarasuna, huh? Hmm, should we join them?
 Traveler: (Perfect. These two have researched Tatarasuna's past. Let's hear what they have to say.)
 Aqaba: Unfortunately, we haven't made any real progress...
-    Option 1:
-        Traveler: The article that you let me read last time was great.
-    Option 2:
-        Traveler: Can I read it again?
+
+Option 1:
+
+> Traveler: The article that you let me read last time was great.
+
+Option 2:
+
+> Traveler: Can I read it again?
+
 Aqaba: Huh? Oh, uh, of course.
 Sawada: I presume you'll want to read mine as well? Here.
 Traveler: (...)
@@ -99,10 +104,15 @@ Traveler: (I still remember the question he asked. He asked me, specifically... 
 Traveler: (I hesitated because I witnessed Greater Lord Rukkhadevata erase her own existence, but I can't tell Nahida that.)
 Traveler: (To put it another way, I know why The Balladeer was so sure it could work... But I can't tell them that.)
 Nahida: Something else worrying you? ...Something that you can't share?
-    Option 1:
-        Traveler: I just feel... empty.
-    Option 2:
-        Traveler: He chose such a radical option, and yet...
+
+Option 1:
+
+> Traveler: I just feel... empty.
+
+Option 2:
+
+> Traveler: He chose such a radical option, and yet...
+
 Nahida: ...It couldn't change the fate of the ones who had died. Right?
 Traveler: Yes.
 Nahida: Once The Balladeer realized he hadn't been betrayed after all, it must have completely changed his view of the people of Tatarasuna. Now he saw them as friends again.
@@ -166,10 +176,15 @@ Paimon: Paimon has no memory of him at all. He completely vanished, like a puff 
 Nahida: The Balladeer agreed to help me look for information about the Descenders, and although he was unsuccessful, he still helped you.
 Nahida: Before he vanished, he confirmed an important detail: that Khaenri'ah was where your twin first came into this world.
 Nahida: ...We still don't know how the change to Irminsul will affect the senior ranks of the Fatui, but in all likelihood, they won't even remember their own Harbinger.
-    Option 1:
-        Traveler: I've never had this feeling before...
-    Option 2:
-        Traveler: ...It feels like life is as insignificant as a feather.
+
+Option 1:
+
+> Traveler: I've never had this feeling before...
+
+Option 2:
+
+> Traveler: ...It feels like life is as insignificant as a feather.
+
 Paimon: It sounds like Paimon wouldn't like this guy a whole lot if he was still around. But still, Paimon doesn't like the way it all ended that much better.
 Nahida: This is why wisdom alone cannot answer all our questions. We look, we see, and we comprehend, but the question still troubles us.
 Nahida: So the answer is not everything. People yearn to find the truth and then conquer the troubles they face.
@@ -578,10 +593,15 @@ Paimon: ...It disappeared... Did we win?
 Paimon: Ehh, there's that tone of voice again. You're definitely back to your old self...
 Paimon: Wait, but it was you inside that thing, too. What have you got to be smug about?
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Sorry, I'm harsh on myself and everyone else. Just the way I am.
-    Option 1:
-        Traveler: Now you've recovered your memories...
-    Option 2:
-        Traveler: The past will catch up with you.
+
+Option 1:
+
+> Traveler: Now you've recovered your memories...
+
+Option 2:
+
+> Traveler: The past will catch up with you.
+
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): Haha, you sound like you're concerned about me.
 #{REALNAME[ID(1)|HOSTONLY(true)]} (Wanderer): But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
 Nahida: The memory recovery seems to have been a success. This dream has served its purpose.

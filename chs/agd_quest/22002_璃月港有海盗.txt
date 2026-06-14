@@ -15,12 +15,17 @@
 璐璐: 小蒙是船长，阿飞是服务员，我是个有钱的商人。
 璐璐: 只缺一个海盗来抢劫我们啦！
 璐璐: 你愿意扮海盗，来陪我们玩吗？
-    Option 1:
-        旅行者: 我知道了。
-        璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
-    Option 2:
-        旅行者: 我想做个好人…
-        璐璐: #只是玩个游戏啦，我知道{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}一定是个好人。
+
+Option 1:
+
+> 旅行者: 我知道了。
+> 璐璐: #谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！
+
+Option 2:
+
+> 旅行者: 我想做个好人…
+> 璐璐: #只是玩个游戏啦，我知道{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}一定是个好人。
+
 璐璐: #好啦，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}准备好了，就来找我吧。
 
 ## Talk 2 (alternative/additional)
@@ -47,12 +52,17 @@ Unknown Role (TALK_ROLE_NPC): 你好，抢劫。
 小蒙: 哼，大白天的就来抢劫，千岩军的叔叔们就在旁边！
 阿飞: 璐璐，快过来，我们快点跑…
 璐璐: 你好，你是来抢什么的？
-    Option 1:
-        Unknown Role (TALK_ROLE_NPC): 呃，应该是钱…
-    Option 2:
-        Unknown Role (TALK_ROLE_NPC): 来抢你…
-        璐璐: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，虽然是玩游戏，但是也要注意喔。
-        璐璐: 你看，旁边千岩军的叔叔们，都往这边看啦。
+
+Option 1:
+
+> Unknown Role (TALK_ROLE_NPC): 呃，应该是钱…
+
+Option 2:
+
+> Unknown Role (TALK_ROLE_NPC): 来抢你…
+> 璐璐: #{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，虽然是玩游戏，但是也要注意喔。
+> 璐璐: 你看，旁边千岩军的叔叔们，都往这边看啦。
+
 璐璐: 可是我没多少钱可以抢…
 璐璐: 爸爸说，在船上，最值钱的东西是商人们运的货。
 璐璐: #唔，这样吧。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你帮我去找点值钱的东西回来吧。

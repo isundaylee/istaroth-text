@@ -71,11 +71,16 @@
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呀…呀！
 派蒙: #哇，实在是太诡异了，{REALNAME[ID(2)|SHOWHOST(true)]}你也这样觉得吧，旅行者你快看看上面写的什么？
 派蒙: 哇，居然真的是之前那个冒险家留下来的笔记，「统律之心」说的就是这里吧。
-    Option 1:
-        旅行者: 还有其它的可能。
-        派蒙: 是哦，而且我们在这里也找到了新的火磷石，说不定在其它地方也会有很多呢。
-        [Circling back to a pre-branch dialog]
-    Option 2:
+
+Option 1:
+
+> 旅行者: 还有其它的可能。
+> 派蒙: 是哦，而且我们在这里也找到了新的火磷石，说不定在其它地方也会有很多呢。
+> [Circling back to a pre-branch dialog]
+
+Option 2:
+
+
 旅行者: 想不通的事情太多了。
 派蒙: 是哦，而且绿宝把我们指向了这里，难道是它早知道这下面还藏了一块火磷石，所以想要让我们拿到？真是搞不懂。
 #{REALNAME[ID(2)|SHOWHOST(true)]}: 呜…
