@@ -41125,21 +41125,369 @@
   },
   {
     "category": "agd_book",
-    "title": "Men of Lithin (I)",
-    "id": 201000,
-    "relative_path": "agd_book/201000_Men_of_Lithin_I.txt"
+    "title": "The Fox in the Dandelion Sea",
+    "id": 1,
+    "relative_path": "agd_book/1_The_Fox_in_the_Dandelion_Sea.txt"
   },
   {
     "category": "agd_book",
-    "title": "Men of Lithin (II)",
-    "id": 201001,
-    "relative_path": "agd_book/201001_Men_of_Lithin_II.txt"
+    "title": "Hilichurl Ballad Selection",
+    "id": 2,
+    "relative_path": "agd_book/2_Hilichurl_Ballad_Selection.txt"
   },
   {
     "category": "agd_book",
-    "title": "Men of Lithin (III)",
-    "id": 201002,
-    "relative_path": "agd_book/201002_Men_of_Lithin_III.txt"
+    "title": "Vera's Melancholy",
+    "id": 3,
+    "relative_path": "agd_book/3_Veras_Melancholy.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Boar Princess",
+    "id": 4,
+    "relative_path": "agd_book/4_The_Boar_Princess.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Pale Princess and the Six Pygmies",
+    "id": 21,
+    "relative_path": "agd_book/21_The_Pale_Princess_and_the_Six_Pygmies.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Legend of Vennessa",
+    "id": 24,
+    "relative_path": "agd_book/24_The_Legend_of_Vennessa.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Diary of Roald the Adventurer",
+    "id": 1006,
+    "relative_path": "agd_book/1006_Diary_of_Roald_the_Adventurer.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Someone's Diary",
+    "id": 1007,
+    "relative_path": "agd_book/1007_Someones_Diary.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Records of Jueyun",
+    "id": 1008,
+    "relative_path": "agd_book/1008_Records_of_Jueyun.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Hilichurl Cultural Customs",
+    "id": 1009,
+    "relative_path": "agd_book/1009_Hilichurl_Cultural_Customs.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Ballads of the Squire",
+    "id": 1010,
+    "relative_path": "agd_book/1010_Ballads_of_the_Squire.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Legend of the Shattered Halberd",
+    "id": 1011,
+    "relative_path": "agd_book/1011_Legend_of_the_Shattered_Halberd.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Heart's Desire",
+    "id": 1012,
+    "relative_path": "agd_book/1012_Hearts_Desire.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Heart of Clear Springs",
+    "id": 1014,
+    "relative_path": "agd_book/1014_Heart_of_Clear_Springs.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Draft Hilichurl Ballads",
+    "id": 1015,
+    "relative_path": "agd_book/1015_Draft_Hilichurl_Ballads.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Tales From the Waves",
+    "id": 1016,
+    "relative_path": "agd_book/1016_Tales_From_the_Waves.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Hex & Hound",
+    "id": 1017,
+    "relative_path": "agd_book/1017_Hex_Hound.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Moonlit Bamboo Forest",
+    "id": 1018,
+    "relative_path": "agd_book/1018_Moonlit_Bamboo_Forest.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "A Drunkard's Tale",
+    "id": 1019,
+    "relative_path": "agd_book/1019_A_Drunkards_Tale.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Rex Incognito",
+    "id": 1022,
+    "relative_path": "agd_book/1022_Rex_Incognito.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Legend of the Lone Sword",
+    "id": 1023,
+    "relative_path": "agd_book/1023_Legend_of_the_Lone_Sword.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Customs of Liyue",
+    "id": 1024,
+    "relative_path": "agd_book/1024_Customs_of_Liyue.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "String of Pearls",
+    "id": 1025,
+    "relative_path": "agd_book/1025_String_of_Pearls.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Records of the Gallant",
+    "id": 1026,
+    "relative_path": "agd_book/1026_Records_of_the_Gallant.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Breeze Amidst the Forest",
+    "id": 1027,
+    "relative_path": "agd_book/1027_Breeze_Amidst_the_Forest.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Teyvat Travel Guide",
+    "id": 1028,
+    "relative_path": "agd_book/1028_Teyvat_Travel_Guide.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Toki Alley Tales",
+    "id": 1029,
+    "relative_path": "agd_book/1029_Toki_Alley_Tales.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "New Chronicles of the Six Kitsune",
+    "id": 1030,
+    "relative_path": "agd_book/1030_New_Chronicles_of_the_Six_Kitsune.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Saga of Hamavaran",
+    "id": 1031,
+    "relative_path": "agd_book/1031_The_Saga_of_Hamavaran.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "A Legend of Sword",
+    "id": 1032,
+    "relative_path": "agd_book/1032_A_Legend_of_Sword.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Princess Mina of the Fallen Nation",
+    "id": 1033,
+    "relative_path": "agd_book/1033_Princess_Mina_of_the_Fallen_Nation.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Byakuyakoku Collection",
+    "id": 1036,
+    "relative_path": "agd_book/1036_The_Byakuyakoku_Collection.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Tale of Shiruyeh and Shirin",
+    "id": 1037,
+    "relative_path": "agd_book/1037_The_Tale_of_Shiruyeh_and_Shirin.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Folio of Foliage",
+    "id": 1038,
+    "relative_path": "agd_book/1038_The_Folio_of_Foliage.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Scroll of Streaming Song",
+    "id": 1039,
+    "relative_path": "agd_book/1039_Scroll_of_Streaming_Song.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "A Thousand Nights",
+    "id": 1040,
+    "relative_path": "agd_book/1040_A_Thousand_Nights.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The History of the Decline and Fall of Remuria",
+    "id": 1041,
+    "relative_path": "agd_book/1041_The_History_of_the_Decline_and_Fall_of_Remuria.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Fables de Fontaine",
+    "id": 1042,
+    "relative_path": "agd_book/1042_Fables_de_Fontaine.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Robben versus Chesterton: Iridescent Brooch",
+    "id": 1043,
+    "relative_path": "agd_book/1043_Robben_versus_Chesterton_Iridescent_Brooch.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Fall of the Faded Castle",
+    "id": 1044,
+    "relative_path": "agd_book/1044_The_Fall_of_the_Faded_Castle.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "La Chanson d'Erinnyes",
+    "id": 1045,
+    "relative_path": "agd_book/1045_La_Chanson_dErinnyes.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Tales of a Snow-Winged Goose",
+    "id": 1046,
+    "relative_path": "agd_book/1046_Tales_of_a_Snow-Winged_Goose.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Two Musketeers",
+    "id": 1047,
+    "relative_path": "agd_book/1047_The_Two_Musketeers.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Time Trekker",
+    "id": 1048,
+    "relative_path": "agd_book/1048_Time_Trekker.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Perinheri",
+    "id": 1049,
+    "relative_path": "agd_book/1049_Perinheri.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Anecdota Septentrionalis",
+    "id": 1050,
+    "relative_path": "agd_book/1050_Anecdota_Septentrionalis.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Little Witch and the Undying Fire",
+    "id": 1051,
+    "relative_path": "agd_book/1051_The_Little_Witch_and_the_Undying_Fire.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Feline Firm",
+    "id": 1052,
+    "relative_path": "agd_book/1052_The_Feline_Firm.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Maawe and Monetoo",
+    "id": 1053,
+    "relative_path": "agd_book/1053_Maawe_and_Monetoo.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Records of Hanan Pacha",
+    "id": 1054,
+    "relative_path": "agd_book/1054_Records_of_Hanan_Pacha.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Fires of Autumn Twilight",
+    "id": 1057,
+    "relative_path": "agd_book/1057_Fires_of_Autumn_Twilight.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Springs of Hidden Jade",
+    "id": 1058,
+    "relative_path": "agd_book/1058_Springs_of_Hidden_Jade.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Mt. Lingmeng Gossip",
+    "id": 1059,
+    "relative_path": "agd_book/1059_Mt_Lingmeng_Gossip.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Glimpses of Mysterious Inazuma",
+    "id": 1061,
+    "relative_path": "agd_book/1061_Glimpses_of_Mysterious_Inazuma.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Men of Lithin",
+    "id": 1062,
+    "relative_path": "agd_book/1062_Men_of_Lithin.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Kompore the Cunning",
+    "id": 1063,
+    "relative_path": "agd_book/1063_Kompore_the_Cunning.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Sundjatta's First Foray",
+    "id": 1064,
+    "relative_path": "agd_book/1064_Sundjattas_First_Foray.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Headless Coquitao",
+    "id": 1066,
+    "relative_path": "agd_book/1066_The_Headless_Coquitao.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Legends of Reed Miller, Thief Extraordinaire",
+    "id": 1067,
+    "relative_path": "agd_book/1067_The_Legends_of_Reed_Miller_Thief_Extraordinaire.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Hymns of the Far North",
+    "id": 1068,
+    "relative_path": "agd_book/1068_Hymns_of_the_Far_North.txt"
+  },
+  {
+    "category": "agd_book",
+    "title": "Conch Echoes",
+    "id": 1069,
+    "relative_path": "agd_book/1069_Conch_Echoes.txt"
   },
   {
     "category": "agd_book",
@@ -41185,12 +41533,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (VI)",
-    "id": 200113,
-    "relative_path": "agd_book/200113_Legend_of_the_Shattered_Halberd_VI.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Researcher's Notes",
     "id": 201010,
     "relative_path": "agd_book/201010_Researchers_Notes.txt"
@@ -41215,63 +41557,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Kompore the Cunning (I)",
-    "id": 201014,
-    "relative_path": "agd_book/201014_Kompore_the_Cunning_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Kompore the Cunning (II)",
-    "id": 201015,
-    "relative_path": "agd_book/201015_Kompore_the_Cunning_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Kompore the Cunning (III)",
-    "id": 201016,
-    "relative_path": "agd_book/201016_Kompore_the_Cunning_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Sundjatta's First Foray (I)",
-    "id": 201017,
-    "relative_path": "agd_book/201017_Sundjattas_First_Foray_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Sundjatta's First Foray (II)",
-    "id": 201018,
-    "relative_path": "agd_book/201018_Sundjattas_First_Foray_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Sundjatta's First Foray (III)",
-    "id": 201019,
-    "relative_path": "agd_book/201019_Sundjattas_First_Foray_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Heart's Desire: Moonlight",
-    "id": 200114,
-    "relative_path": "agd_book/200114_Hearts_Desire_Moonlight.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Rangi Nui's End",
     "id": 201020,
     "relative_path": "agd_book/201020_Rangi_Nuis_End.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Headless Coquitao (I)",
-    "id": 201021,
-    "relative_path": "agd_book/201021_The_Headless_Coquitao_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Headless Coquitao (II)",
-    "id": 201022,
-    "relative_path": "agd_book/201022_The_Headless_Coquitao_II.txt"
   },
   {
     "category": "agd_book",
@@ -41314,12 +41602,6 @@
     "title": "Photo With Travel Companions",
     "id": 201029,
     "relative_path": "agd_book/201029_Photo_With_Travel_Companions.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Heart's Desire: Crystal Glaze",
-    "id": 200115,
-    "relative_path": "agd_book/200115_Hearts_Desire_Crystal_Glaze.txt"
   },
   {
     "category": "agd_book",
@@ -41383,12 +41665,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Heart's Desire: Sapphire",
-    "id": 200116,
-    "relative_path": "agd_book/200116_Hearts_Desire_Sapphire.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Chamber of Deliberation: Sovereign Rulers' Council Records",
     "id": 201040,
     "relative_path": "agd_book/201040_Chamber_of_Deliberation_Sovereign_Rulers_Council.txt"
@@ -41431,12 +41707,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Heart's Desire: Stone Heart",
-    "id": 200117,
-    "relative_path": "agd_book/200117_Hearts_Desire_Stone_Heart.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Hand-Drawn Map",
     "id": 201050,
     "relative_path": "agd_book/201050_Hand-Drawn_Map.txt"
@@ -41476,12 +41746,6 @@
     "title": "Unknown Title",
     "id": 201059,
     "relative_path": "agd_book/201059_Unknown_Title.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Qingxu Pool",
-    "id": 200118,
-    "relative_path": "agd_book/200118_Diary_of_Roald_the_Adventurer_Qingxu_Pool.txt"
   },
   {
     "category": "agd_book",
@@ -41749,12 +42013,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (V)",
-    "id": 200018,
-    "relative_path": "agd_book/200018_The_Fox_in_the_Dandelion_Sea_V.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Water-Stained Logs",
     "id": 201100,
     "relative_path": "agd_book/201100_Water-Stained_Logs.txt"
@@ -41851,57 +42109,9 @@
   },
   {
     "category": "agd_book",
-    "title": "The Legends of Reed Miller, Thief Extraordinaire (I)",
-    "id": 201116,
-    "relative_path": "agd_book/201116_The_Legends_of_Reed_Miller_Thief_Extraordinaire.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Legends of Reed Miller, Thief Extraordinaire (II)",
-    "id": 201117,
-    "relative_path": "agd_book/201117_The_Legends_of_Reed_Miller_Thief_Extraordinaire.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Legends of Reed Miller, Thief Extraordinaire (III)",
-    "id": 201118,
-    "relative_path": "agd_book/201118_The_Legends_of_Reed_Miller_Thief_Extraordinaire.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hymns of the Far North (I)",
-    "id": 201119,
-    "relative_path": "agd_book/201119_Hymns_of_the_Far_North_I.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Transcription from a stone tablet",
     "id": 200124,
     "relative_path": "agd_book/200124_Transcription_from_a_stone_tablet.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hymns of the Far North (II)",
-    "id": 201120,
-    "relative_path": "agd_book/201120_Hymns_of_the_Far_North_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hymns of the Far North (III)",
-    "id": 201121,
-    "relative_path": "agd_book/201121_Hymns_of_the_Far_North_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Conch Echoes (I)",
-    "id": 201122,
-    "relative_path": "agd_book/201122_Conch_Echoes_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Conch Echoes (II)",
-    "id": 201123,
-    "relative_path": "agd_book/201123_Conch_Echoes_II.txt"
   },
   {
     "category": "agd_book",
@@ -42397,12 +42607,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (VI)",
-    "id": 200019,
-    "relative_path": "agd_book/200019_The_Fox_in_the_Dandelion_Sea_VI.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Ancient Handwriting",
     "id": 201200,
     "relative_path": "agd_book/201200_Ancient_Handwriting.txt"
@@ -42475,27 +42679,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Vera's Melancholy: Final Volume (Version II)",
-    "id": 201211,
-    "relative_path": "agd_book/201211_Veras_Melancholy_Final_Volume_Version_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy: Final Volume (Version I)",
-    "id": 201212,
-    "relative_path": "agd_book/201212_Veras_Melancholy_Final_Volume_Version_I.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Note",
     "id": 201213,
     "relative_path": "agd_book/201213_Note.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Heart of Clear Springs (I)",
-    "id": 200134,
-    "relative_path": "agd_book/200134_Heart_of_Clear_Springs_I.txt"
   },
   {
     "category": "agd_book",
@@ -42553,12 +42739,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Heart of Clear Springs (II)",
-    "id": 200135,
-    "relative_path": "agd_book/200135_Heart_of_Clear_Springs_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Photo With the Little Witches and Their Imaginary Friends",
     "id": 201231,
     "relative_path": "agd_book/201231_Photo_With_the_Little_Witches_and_Their_Imaginary.txt"
@@ -42571,39 +42751,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Heart of Clear Springs (III)",
-    "id": 200136,
-    "relative_path": "agd_book/200136_Heart_of_Clear_Springs_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Heart of Clear Springs (IV)",
-    "id": 200137,
-    "relative_path": "agd_book/200137_Heart_of_Clear_Springs_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Linling's Anthology of Selected Poetry",
     "id": 200138,
     "relative_path": "agd_book/200138_Linlings_Anthology_of_Selected_Poetry.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Ballad: Recital Draft",
-    "id": 200139,
-    "relative_path": "agd_book/200139_Hilichurl_Ballad_Recital_Draft.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Ballad: Narrative Draft",
-    "id": 200140,
-    "relative_path": "agd_book/200140_Hilichurl_Ballad_Narrative_Draft.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Ballad: Lyrical Draft",
-    "id": 200141,
-    "relative_path": "agd_book/200141_Hilichurl_Ballad_Lyrical_Draft.txt"
   },
   {
     "category": "agd_book",
@@ -42613,237 +42763,15 @@
   },
   {
     "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (VII)",
-    "id": 200020,
-    "relative_path": "agd_book/200020_The_Fox_in_the_Dandelion_Sea_VII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales From the Waves: Rising Tide",
-    "id": 200146,
-    "relative_path": "agd_book/200146_Tales_From_the_Waves_Rising_Tide.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales From the Waves: Wild Storm",
-    "id": 200147,
-    "relative_path": "agd_book/200147_Tales_From_the_Waves_Wild_Storm.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales From the Waves: Receding Torrent",
-    "id": 200148,
-    "relative_path": "agd_book/200148_Tales_From_the_Waves_Receding_Torrent.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (I)",
-    "id": 200149,
-    "relative_path": "agd_book/200149_Hex_Hound_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (II)",
-    "id": 200150,
-    "relative_path": "agd_book/200150_Hex_Hound_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (III)",
-    "id": 200151,
-    "relative_path": "agd_book/200151_Hex_Hound_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (IV)",
-    "id": 200152,
-    "relative_path": "agd_book/200152_Hex_Hound_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (V)",
-    "id": 200153,
-    "relative_path": "agd_book/200153_Hex_Hound_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Moonlit Bamboo Forest (I)",
-    "id": 200154,
-    "relative_path": "agd_book/200154_Moonlit_Bamboo_Forest_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Moonlit Bamboo Forest (II)",
-    "id": 200155,
-    "relative_path": "agd_book/200155_Moonlit_Bamboo_Forest_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (X)",
-    "id": 200021,
-    "relative_path": "agd_book/200021_The_Fox_in_the_Dandelion_Sea_X.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Moonlit Bamboo Forest (III)",
-    "id": 200156,
-    "relative_path": "agd_book/200156_Moonlit_Bamboo_Forest_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Moonlit Bamboo Forest (IV)",
-    "id": 200157,
-    "relative_path": "agd_book/200157_Moonlit_Bamboo_Forest_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Drunkard's Tale (I)",
-    "id": 200158,
-    "relative_path": "agd_book/200158_A_Drunkards_Tale_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Drunkard's Tale (II)",
-    "id": 200159,
-    "relative_path": "agd_book/200159_A_Drunkards_Tale_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Drunkard's Tale (III)",
-    "id": 200160,
-    "relative_path": "agd_book/200160_A_Drunkards_Tale_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Drunkard's Tale (IV)",
-    "id": 200161,
-    "relative_path": "agd_book/200161_A_Drunkards_Tale_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Ragged Notebook",
     "id": 200162,
     "relative_path": "agd_book/200162_Ragged_Notebook.txt"
   },
   {
     "category": "agd_book",
-    "title": "Rex Incognito (I)",
-    "id": 200163,
-    "relative_path": "agd_book/200163_Rex_Incognito_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Rex Incognito (II)",
-    "id": 200164,
-    "relative_path": "agd_book/200164_Rex_Incognito_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Rex Incognito (III)",
-    "id": 200165,
-    "relative_path": "agd_book/200165_Rex_Incognito_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (XI)",
-    "id": 200022,
-    "relative_path": "agd_book/200022_The_Fox_in_the_Dandelion_Sea_XI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Rex Incognito (IV)",
-    "id": 200166,
-    "relative_path": "agd_book/200166_Rex_Incognito_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Lone Sword (I)",
-    "id": 200167,
-    "relative_path": "agd_book/200167_Legend_of_the_Lone_Sword_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Lone Sword (II)",
-    "id": 200168,
-    "relative_path": "agd_book/200168_Legend_of_the_Lone_Sword_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Lone Sword (III)",
-    "id": 200169,
-    "relative_path": "agd_book/200169_Legend_of_the_Lone_Sword_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Lone Sword (IV)",
-    "id": 200170,
-    "relative_path": "agd_book/200170_Legend_of_the_Lone_Sword_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Thick Notebook",
     "id": 200171,
     "relative_path": "agd_book/200171_Thick_Notebook.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (IV)",
-    "id": 200172,
-    "relative_path": "agd_book/200172_The_Fox_in_the_Dandelion_Sea_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (VIII)",
-    "id": 200173,
-    "relative_path": "agd_book/200173_The_Fox_in_the_Dandelion_Sea_VIII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (IX)",
-    "id": 200174,
-    "relative_path": "agd_book/200174_The_Fox_in_the_Dandelion_Sea_IX.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Boar Princess (VI)",
-    "id": 200175,
-    "relative_path": "agd_book/200175_The_Boar_Princess_VI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Ballad Selection (I)",
-    "id": 200023,
-    "relative_path": "agd_book/200023_Hilichurl_Ballad_Selection_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (IV)",
-    "id": 200176,
-    "relative_path": "agd_book/200176_Veras_Melancholy_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (VI)",
-    "id": 200177,
-    "relative_path": "agd_book/200177_Veras_Melancholy_VI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (VII)",
-    "id": 200178,
-    "relative_path": "agd_book/200178_Veras_Melancholy_VII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (VIII)",
-    "id": 200179,
-    "relative_path": "agd_book/200179_Veras_Melancholy_VIII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Cultural Customs (III)",
-    "id": 200180,
-    "relative_path": "agd_book/200180_Hilichurl_Cultural_Customs_III.txt"
   },
   {
     "category": "agd_book",
@@ -42859,33 +42787,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Customs of Liyue: Receiving God",
-    "id": 200183,
-    "relative_path": "agd_book/200183_Customs_of_Liyue_Receiving_God.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Of Mountains and Seas",
     "id": 200184,
     "relative_path": "agd_book/200184_Of_Mountains_and_Seas.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Jueyun: Wuwang",
-    "id": 200185,
-    "relative_path": "agd_book/200185_Records_of_Jueyun_Wuwang.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Ballad Selection (II)",
-    "id": 200024,
-    "relative_path": "agd_book/200024_Hilichurl_Ballad_Selection_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Jueyun: Mountain Spirits",
-    "id": 200186,
-    "relative_path": "agd_book/200186_Records_of_Jueyun_Mountain_Spirits.txt"
   },
   {
     "category": "agd_book",
@@ -42895,33 +42799,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Customs of Liyue: Silk Flowers",
-    "id": 200188,
-    "relative_path": "agd_book/200188_Customs_of_Liyue_Silk_Flowers.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Customs of Liyue: Glaze Lilies",
     "id": 200189,
     "relative_path": "agd_book/200189_Customs_of_Liyue_Glaze_Lilies.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "String of Pearls (I)",
-    "id": 200190,
-    "relative_path": "agd_book/200190_String_of_Pearls_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "String of Pearls (II)",
-    "id": 200191,
-    "relative_path": "agd_book/200191_String_of_Pearls_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "String of Pearls (III)",
-    "id": 200192,
-    "relative_path": "agd_book/200192_String_of_Pearls_III.txt"
   },
   {
     "category": "agd_book",
@@ -42943,21 +42823,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Vera's Melancholy (V)",
-    "id": 200025,
-    "relative_path": "agd_book/200025_Veras_Melancholy_V.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Thank-You Letter",
     "id": 200196,
     "relative_path": "agd_book/200196_Thank-You_Letter.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Dragonspine",
-    "id": 200197,
-    "relative_path": "agd_book/200197_Diary_of_Roald_the_Adventurer_Dragonspine.txt"
   },
   {
     "category": "agd_book",
@@ -42973,87 +42841,15 @@
   },
   {
     "category": "agd_book",
-    "title": "Records of Jueyun: Qilin",
-    "id": 200202,
-    "relative_path": "agd_book/200202_Records_of_Jueyun_Qilin.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Jueyun: Hidden Jade",
-    "id": 200203,
-    "relative_path": "agd_book/200203_Records_of_Jueyun_Hidden_Jade.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Records of the Gallant: Black Raccoons",
     "id": 200204,
     "relative_path": "agd_book/200204_Records_of_the_Gallant_Black_Raccoons.txt"
   },
   {
     "category": "agd_book",
-    "title": "Records of the Gallant: Dust",
-    "id": 200205,
-    "relative_path": "agd_book/200205_Records_of_the_Gallant_Dust.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (VI)",
-    "id": 200206,
-    "relative_path": "agd_book/200206_Hex_Hound_VI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (VII)",
-    "id": 200207,
-    "relative_path": "agd_book/200207_Hex_Hound_VII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (IX)",
-    "id": 200026,
-    "relative_path": "agd_book/200026_Veras_Melancholy_IX.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (VIII)",
-    "id": 200208,
-    "relative_path": "agd_book/200208_Hex_Hound_VIII.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Lost Adventure Notebook",
     "id": 200209,
     "relative_path": "agd_book/200209_Lost_Adventure_Notebook.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (IX)",
-    "id": 200212,
-    "relative_path": "agd_book/200212_Hex_Hound_IX.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (X)",
-    "id": 200213,
-    "relative_path": "agd_book/200213_Hex_Hound_X.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hex & Hound (XI)",
-    "id": 200214,
-    "relative_path": "agd_book/200214_Hex_Hound_XI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "String of Pearls (IV)",
-    "id": 200215,
-    "relative_path": "agd_book/200215_String_of_Pearls_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "String of Pearls (V)",
-    "id": 200216,
-    "relative_path": "agd_book/200216_String_of_Pearls_V.txt"
   },
   {
     "category": "agd_book",
@@ -43072,18 +42868,6 @@
     "title": "Somewhat Rotten Wooden Plank",
     "id": 200219,
     "relative_path": "agd_book/200219_Somewhat_Rotten_Wooden_Plank.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (X)",
-    "id": 200027,
-    "relative_path": "agd_book/200027_Veras_Melancholy_X.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (I)",
-    "id": 200007,
-    "relative_path": "agd_book/200007_Veras_Melancholy_I.txt"
   },
   {
     "category": "agd_book",
@@ -43129,48 +42913,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Toki Alley Tales (Prologue)",
-    "id": 200227,
-    "relative_path": "agd_book/200227_Toki_Alley_Tales_Prologue.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Toki Alley Tales (I)",
-    "id": 200228,
-    "relative_path": "agd_book/200228_Toki_Alley_Tales_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Toki Alley Tales (II)",
-    "id": 200229,
-    "relative_path": "agd_book/200229_Toki_Alley_Tales_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Breeze Amidst the Forest: Ballad Selection",
-    "id": 200028,
-    "relative_path": "agd_book/200028_Breeze_Amidst_the_Forest_Ballad_Selection.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Toki Alley Tales (III)",
-    "id": 200230,
-    "relative_path": "agd_book/200230_Toki_Alley_Tales_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Toki Alley Tales (IV)",
-    "id": 200231,
-    "relative_path": "agd_book/200231_Toki_Alley_Tales_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Toki Alley Tales (V)",
-    "id": 200232,
-    "relative_path": "agd_book/200232_Toki_Alley_Tales_V.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "\"The Seventh Samurai\" Script",
     "id": 200234,
     "relative_path": "agd_book/200234_The_Seventh_Samurai_Script.txt"
@@ -43210,12 +42952,6 @@
     "title": "Fortune Slip",
     "id": 200240,
     "relative_path": "agd_book/200240_Fortune_Slip.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Boar Princess (I)",
-    "id": 200029,
-    "relative_path": "agd_book/200029_The_Boar_Princess_I.txt"
   },
   {
     "category": "agd_book",
@@ -43279,12 +43015,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Boar Princess (II)",
-    "id": 200030,
-    "relative_path": "agd_book/200030_The_Boar_Princess_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Fortune Slip",
     "id": 200251,
     "relative_path": "agd_book/200251_Fortune_Slip.txt"
@@ -43333,99 +43063,9 @@
   },
   {
     "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune: Prologue",
-    "id": 200259,
-    "relative_path": "agd_book/200259_New_Chronicles_of_the_Six_Kitsune_Prologue.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune (I)",
-    "id": 200260,
-    "relative_path": "agd_book/200260_New_Chronicles_of_the_Six_Kitsune_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Boar Princess (III)",
-    "id": 200031,
-    "relative_path": "agd_book/200031_The_Boar_Princess_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune (II)",
-    "id": 200261,
-    "relative_path": "agd_book/200261_New_Chronicles_of_the_Six_Kitsune_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune (III)",
-    "id": 200262,
-    "relative_path": "agd_book/200262_New_Chronicles_of_the_Six_Kitsune_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune (IV)",
-    "id": 200263,
-    "relative_path": "agd_book/200263_New_Chronicles_of_the_Six_Kitsune_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Sangonomiya Chronicles",
     "id": 200264,
     "relative_path": "agd_book/200264_Sangonomiya_Chronicles.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Saga of Hamavaran (Preface)",
-    "id": 200265,
-    "relative_path": "agd_book/200265_The_Saga_of_Hamavaran_Preface.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Saga of Hamavaran (I)",
-    "id": 200266,
-    "relative_path": "agd_book/200266_The_Saga_of_Hamavaran_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Saga of Hamavaran (II)",
-    "id": 200267,
-    "relative_path": "agd_book/200267_The_Saga_of_Hamavaran_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Legend of Sword (I)",
-    "id": 200268,
-    "relative_path": "agd_book/200268_A_Legend_of_Sword_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Legend of Sword (II)",
-    "id": 200269,
-    "relative_path": "agd_book/200269_A_Legend_of_Sword_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Legend of Sword (III)",
-    "id": 200270,
-    "relative_path": "agd_book/200270_A_Legend_of_Sword_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Boar Princess (IV)",
-    "id": 200032,
-    "relative_path": "agd_book/200032_The_Boar_Princess_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Legend of Sword (IV)",
-    "id": 200271,
-    "relative_path": "agd_book/200271_A_Legend_of_Sword_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Legend of Sword (V)",
-    "id": 200272,
-    "relative_path": "agd_book/200272_A_Legend_of_Sword_V.txt"
   },
   {
     "category": "agd_book",
@@ -43477,24 +43117,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Boar Princess (V)",
-    "id": 200033,
-    "relative_path": "agd_book/200033_The_Boar_Princess_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Ritou",
-    "id": 200281,
-    "relative_path": "agd_book/200281_Diary_of_Roald_the_Adventurer_Ritou.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Someone's Diary V: Jinren Island",
-    "id": 200282,
-    "relative_path": "agd_book/200282_Someones_Diary_V_Jinren_Island.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Kamuijima Cannon Map",
     "id": 200283,
     "relative_path": "agd_book/200283_Kamuijima_Cannon_Map.txt"
@@ -43519,57 +43141,9 @@
   },
   {
     "category": "agd_book",
-    "title": "The Boar Princess (VII)",
-    "id": 200034,
-    "relative_path": "agd_book/200034_The_Boar_Princess_VII.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "The Mondstadt Tower (I)",
     "id": 200035,
     "relative_path": "agd_book/200035_The_Mondstadt_Tower_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Breeze Amidst the Forest Supplement: The Dragon Tome",
-    "id": 200036,
-    "relative_path": "agd_book/200036_Breeze_Amidst_the_Forest_Supplement_The_Dragon_To.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (I)",
-    "id": 200291,
-    "relative_path": "agd_book/200291_Princess_Mina_of_the_Fallen_Nation_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (II)",
-    "id": 200292,
-    "relative_path": "agd_book/200292_Princess_Mina_of_the_Fallen_Nation_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (III)",
-    "id": 200293,
-    "relative_path": "agd_book/200293_Princess_Mina_of_the_Fallen_Nation_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (IV)",
-    "id": 200294,
-    "relative_path": "agd_book/200294_Princess_Mina_of_the_Fallen_Nation_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (V)",
-    "id": 200295,
-    "relative_path": "agd_book/200295_Princess_Mina_of_the_Fallen_Nation_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Princess Mina of the Fallen Nation (VI)",
-    "id": 200296,
-    "relative_path": "agd_book/200296_Princess_Mina_of_the_Fallen_Nation_VI.txt"
   },
   {
     "category": "agd_book",
@@ -43591,27 +43165,9 @@
   },
   {
     "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (I)",
-    "id": 200038,
-    "relative_path": "agd_book/200038_The_Pale_Princess_and_the_Six_Pygmies_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (II)",
-    "id": 200008,
-    "relative_path": "agd_book/200008_Veras_Melancholy_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Toki Alley Tales (VIII)",
     "id": 200300,
     "relative_path": "agd_book/200300_Toki_Alley_Tales_VIII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Teyvat Travel Guide - Inazuma",
-    "id": 200301,
-    "relative_path": "agd_book/200301_Teyvat_Travel_Guide_-_Inazuma.txt"
   },
   {
     "category": "agd_book",
@@ -43639,12 +43195,6 @@
   },
   {
     "category": "agd_book",
-    "title": "New Chronicles of the Six Kitsune (V)",
-    "id": 200307,
-    "relative_path": "agd_book/200307_New_Chronicles_of_the_Six_Kitsune_V.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "A Preliminary Study of Sangonomiya Folk Belief",
     "id": 200308,
     "relative_path": "agd_book/200308_A_Preliminary_Study_of_Sangonomiya_Folk_Belief.txt"
@@ -43657,12 +43207,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (II)",
-    "id": 200039,
-    "relative_path": "agd_book/200039_The_Pale_Princess_and_the_Six_Pygmies_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Debates on the \"Viceroy of the East\"",
     "id": 200310,
     "relative_path": "agd_book/200310_Debates_on_the_Viceroy_of_the_East.txt"
@@ -43672,12 +43216,6 @@
     "title": "Treasured Tales of the Chouken Shinkageuchi (I)",
     "id": 200311,
     "relative_path": "agd_book/200311_Treasured_Tales_of_the_Chouken_Shinkageuchi_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Tsurumi Island",
-    "id": 200312,
-    "relative_path": "agd_book/200312_Diary_of_Roald_the_Adventurer_Tsurumi_Island.txt"
   },
   {
     "category": "agd_book",
@@ -43723,12 +43261,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (III)",
-    "id": 200040,
-    "relative_path": "agd_book/200040_The_Pale_Princess_and_the_Six_Pygmies_III.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Scrawled Treasure Map",
     "id": 200320,
     "relative_path": "agd_book/200320_Scrawled_Treasure_Map.txt"
@@ -43765,12 +43297,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (IV)",
-    "id": 200041,
-    "relative_path": "agd_book/200041_The_Pale_Princess_and_the_Six_Pygmies_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Lyudochka's Letter",
     "id": 200331,
     "relative_path": "agd_book/200331_Lyudochkas_Letter.txt"
@@ -43783,45 +43309,9 @@
   },
   {
     "category": "agd_book",
-    "title": "The Serpent and Drakes of Tokoyokoku",
-    "id": 200333,
-    "relative_path": "agd_book/200333_The_Serpent_and_Drakes_of_Tokoyokoku.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Before Sun and Moon",
-    "id": 200334,
-    "relative_path": "agd_book/200334_Before_Sun_and_Moon.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hydrological Studies in Byakuyakoku",
-    "id": 200335,
-    "relative_path": "agd_book/200335_Hydrological_Studies_in_Byakuyakoku.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Bathysmal Vishap Experimental Records",
-    "id": 200336,
-    "relative_path": "agd_book/200336_Bathysmal_Vishap_Experimental_Records.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "In the Light, Beneath the Shadow",
-    "id": 200337,
-    "relative_path": "agd_book/200337_In_the_Light_Beneath_the_Shadow.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Lyudochka's Fortune Slip",
     "id": 200338,
     "relative_path": "agd_book/200338_Lyudochkas_Fortune_Slip.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (V)",
-    "id": 200042,
-    "relative_path": "agd_book/200042_The_Pale_Princess_and_the_Six_Pygmies_V.txt"
   },
   {
     "category": "agd_book",
@@ -43858,12 +43348,6 @@
     "title": "Worksite Records",
     "id": 200349,
     "relative_path": "agd_book/200349_Worksite_Records.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (VI)",
-    "id": 200043,
-    "relative_path": "agd_book/200043_The_Pale_Princess_and_the_Six_Pygmies_VI.txt"
   },
   {
     "category": "agd_book",
@@ -43924,12 +43408,6 @@
     "title": "The Five Kasen's Splendor: Sumizome",
     "id": 200360,
     "relative_path": "agd_book/200360_The_Five_Kasens_Splendor_Sumizome.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Pale Princess and the Six Pygmies (VII)",
-    "id": 200044,
-    "relative_path": "agd_book/200044_The_Pale_Princess_and_the_Six_Pygmies_VII.txt"
   },
   {
     "category": "agd_book",
@@ -43999,12 +43477,6 @@
   },
   {
     "category": "agd_book",
-    "title": "A Legend of Sword (VI)",
-    "id": 200372,
-    "relative_path": "agd_book/200372_A_Legend_of_Sword_VI.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Shogun Almighty: Reborn as Raiden With Unlimited Power",
     "id": 200373,
     "relative_path": "agd_book/200373_Shogun_Almighty_Reborn_as_Raiden_With_Unlimited_P.txt"
@@ -44044,12 +43516,6 @@
     "title": "Ako's Treasure: Location 4",
     "id": 200379,
     "relative_path": "agd_book/200379_Akos_Treasure_Location_4.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Teyvat Travel Guide - Mondstadt",
-    "id": 200046,
-    "relative_path": "agd_book/200046_Teyvat_Travel_Guide_-_Mondstadt.txt"
   },
   {
     "category": "agd_book",
@@ -44113,12 +43579,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Qingce Village",
-    "id": 200047,
-    "relative_path": "agd_book/200047_Diary_of_Roald_the_Adventurer_Qingce_Village.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Mysterious Letter",
     "id": 200390,
     "relative_path": "agd_book/200390_Mysterious_Letter.txt"
@@ -44179,18 +43639,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Luhua Pool",
-    "id": 200048,
-    "relative_path": "agd_book/200048_Diary_of_Roald_the_Adventurer_Luhua_Pool.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Vera's Melancholy (III)",
-    "id": 200009,
-    "relative_path": "agd_book/200009_Veras_Melancholy_III.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Route Log: II",
     "id": 200400,
     "relative_path": "agd_book/200400_Route_Log_II.txt"
@@ -44248,12 +43696,6 @@
     "title": "Forensic Office Research Log Excerpt",
     "id": 200409,
     "relative_path": "agd_book/200409_Forensic_Office_Research_Log_Excerpt.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Yaoguang Shoal",
-    "id": 200049,
-    "relative_path": "agd_book/200049_Diary_of_Roald_the_Adventurer_Yaoguang_Shoal.txt"
   },
   {
     "category": "agd_book",
@@ -44359,18 +43801,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Tale of Shiruyeh and Shirin (I)",
-    "id": 200427,
-    "relative_path": "agd_book/200427_The_Tale_of_Shiruyeh_and_Shirin_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Tale of Shiruyeh and Shirin (II)",
-    "id": 200428,
-    "relative_path": "agd_book/200428_The_Tale_of_Shiruyeh_and_Shirin_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "The Lay of Al-Ahmar",
     "id": 200429,
     "relative_path": "agd_book/200429_The_Lay_of_Al-Ahmar.txt"
@@ -44380,42 +43810,6 @@
     "title": "Klee's Notebook",
     "id": 200053,
     "relative_path": "agd_book/200053_Klees_Notebook.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Folio of Foliage (I)",
-    "id": 200430,
-    "relative_path": "agd_book/200430_The_Folio_of_Foliage_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Folio of Foliage (II)",
-    "id": 200431,
-    "relative_path": "agd_book/200431_The_Folio_of_Foliage_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Folio of Foliage (III)",
-    "id": 200432,
-    "relative_path": "agd_book/200432_The_Folio_of_Foliage_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Scroll of Streaming Song (I)",
-    "id": 200433,
-    "relative_path": "agd_book/200433_Scroll_of_Streaming_Song_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Scroll of Streaming Song (II)",
-    "id": 200434,
-    "relative_path": "agd_book/200434_Scroll_of_Streaming_Song_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Scroll of Streaming Song (III)",
-    "id": 200435,
-    "relative_path": "agd_book/200435_Scroll_of_Streaming_Song_III.txt"
   },
   {
     "category": "agd_book",
@@ -44596,42 +43990,6 @@
     "title": "The Folio of Foliage (III)",
     "id": 200462,
     "relative_path": "agd_book/200462_The_Folio_of_Foliage_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (I)",
-    "id": 200463,
-    "relative_path": "agd_book/200463_A_Thousand_Nights_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (II)",
-    "id": 200464,
-    "relative_path": "agd_book/200464_A_Thousand_Nights_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (III)",
-    "id": 200465,
-    "relative_path": "agd_book/200465_A_Thousand_Nights_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (IV)",
-    "id": 200466,
-    "relative_path": "agd_book/200466_A_Thousand_Nights_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (V)",
-    "id": 200467,
-    "relative_path": "agd_book/200467_A_Thousand_Nights_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "A Thousand Nights (VI)",
-    "id": 200468,
-    "relative_path": "agd_book/200468_A_Thousand_Nights_VI.txt"
   },
   {
     "category": "agd_book",
@@ -44833,12 +44191,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Letter for Dongdong",
-    "id": 200060,
-    "relative_path": "agd_book/200060_Letter_for_Dongdong.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Along with Divinity: Prologue",
     "id": 200010,
     "relative_path": "agd_book/200010_Along_with_Divinity_Prologue.txt"
@@ -44905,12 +44257,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Someone's Diary I: Yaoguang Shoal",
-    "id": 200061,
-    "relative_path": "agd_book/200061_Someones_Diary_I_Yaoguang_Shoal.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Xudong's Letter",
     "id": 200510,
     "relative_path": "agd_book/200510_Xudongs_Letter.txt"
@@ -44968,12 +44314,6 @@
     "title": "Records of Mt. Damavand: Part III",
     "id": 200519,
     "relative_path": "agd_book/200519_Records_of_Mt_Damavand_Part_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Someone's Diary II: Guili Plains",
-    "id": 200062,
-    "relative_path": "agd_book/200062_Someones_Diary_II_Guili_Plains.txt"
   },
   {
     "category": "agd_book",
@@ -45037,12 +44377,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Someone's Diary III: Jueyun Karst",
-    "id": 200063,
-    "relative_path": "agd_book/200063_Someones_Diary_III_Jueyun_Karst.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Kapitan-Poruchik Zoya Snezhevna's Report (I)",
     "id": 200530,
     "relative_path": "agd_book/200530_Kapitan-Poruchik_Zoya_Snezhevnas_Report_I.txt"
@@ -45100,12 +44434,6 @@
     "title": "Akademiya Emblem-Marked Contract",
     "id": 200539,
     "relative_path": "agd_book/200539_Akademiya_Emblem-Marked_Contract.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Someone's Diary IV: Liyue Harbor",
-    "id": 200064,
-    "relative_path": "agd_book/200064_Someones_Diary_IV_Liyue_Harbor.txt"
   },
   {
     "category": "agd_book",
@@ -45169,12 +44497,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Guyun Stone Forest",
-    "id": 200065,
-    "relative_path": "agd_book/200065_Diary_of_Roald_the_Adventurer_Guyun_Stone_Forest.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Vaguely-Readable Inscription",
     "id": 200550,
     "relative_path": "agd_book/200550_Vaguely-Readable_Inscription.txt"
@@ -45232,12 +44554,6 @@
     "title": "Employment Code of Conduct Tablet",
     "id": 200559,
     "relative_path": "agd_book/200559_Employment_Code_of_Conduct_Tablet.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Sal Terrae",
-    "id": 200066,
-    "relative_path": "agd_book/200066_Diary_of_Roald_the_Adventurer_Sal_Terrae.txt"
   },
   {
     "category": "agd_book",
@@ -45301,12 +44617,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Qingyun Peak, Jueyun Karst",
-    "id": 200067,
-    "relative_path": "agd_book/200067_Diary_of_Roald_the_Adventurer_Qingyun_Peak_Jueyu.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Scattered Yet Well-Preserved Pages (IV)",
     "id": 200570,
     "relative_path": "agd_book/200570_Scattered_Yet_Well-Preserved_Pages_IV.txt"
@@ -45367,12 +44677,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Diary of Roald the Adventurer: Aocang Lake, Jueyun Karst",
-    "id": 200068,
-    "relative_path": "agd_book/200068_Diary_of_Roald_the_Adventurer_Aocang_Lake_Jueyun.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "？？？",
     "id": 200580,
     "relative_path": "agd_book/200580_.txt"
@@ -45430,12 +44734,6 @@
     "title": "A Letter With Lovely Handwriting",
     "id": 200589,
     "relative_path": "agd_book/200589_A_Letter_With_Lovely_Handwriting.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Teyvat Travel Guide - Liyue",
-    "id": 200069,
-    "relative_path": "agd_book/200069_Teyvat_Travel_Guide_-_Liyue.txt"
   },
   {
     "category": "agd_book",
@@ -45502,12 +44800,6 @@
     "title": "Legend of the Geo Archon: God of the Stove",
     "id": 200070,
     "relative_path": "agd_book/200070_Legend_of_the_Geo_Archon_God_of_the_Stove.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Legend of Vennessa (I)",
-    "id": 200011,
-    "relative_path": "agd_book/200011_The_Legend_of_Vennessa_I.txt"
   },
   {
     "category": "agd_book",
@@ -45775,159 +45067,15 @@
   },
   {
     "category": "agd_book",
-    "title": "The History of the Decline and Fall of Remuria (I)",
-    "id": 200640,
-    "relative_path": "agd_book/200640_The_History_of_the_Decline_and_Fall_of_Remuria_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The History of the Decline and Fall of Remuria (II)",
-    "id": 200641,
-    "relative_path": "agd_book/200641_The_History_of_the_Decline_and_Fall_of_Remuria_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The History of the Decline and Fall of Remuria (III)",
-    "id": 200642,
-    "relative_path": "agd_book/200642_The_History_of_the_Decline_and_Fall_of_Remuria_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Fables de Fontaine (I)",
-    "id": 200643,
-    "relative_path": "agd_book/200643_Fables_de_Fontaine_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Fables de Fontaine (II)",
-    "id": 200644,
-    "relative_path": "agd_book/200644_Fables_de_Fontaine_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Fables de Fontaine (III)",
-    "id": 200645,
-    "relative_path": "agd_book/200645_Fables_de_Fontaine_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Robben versus Chesterton: Iridescent Brooch (I)",
-    "id": 200646,
-    "relative_path": "agd_book/200646_Robben_versus_Chesterton_Iridescent_Brooch_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Robben versus Chesterton: Iridescent Brooch (II)",
-    "id": 200647,
-    "relative_path": "agd_book/200647_Robben_versus_Chesterton_Iridescent_Brooch_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Robben versus Chesterton: Iridescent Brooch (III)",
-    "id": 200648,
-    "relative_path": "agd_book/200648_Robben_versus_Chesterton_Iridescent_Brooch_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fall of the Faded Castle (I)",
-    "id": 200649,
-    "relative_path": "agd_book/200649_The_Fall_of_the_Faded_Castle_I.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Unknown Title",
     "id": 200075,
     "relative_path": "agd_book/200075_Unknown_Title.txt"
   },
   {
     "category": "agd_book",
-    "title": "The Fall of the Faded Castle (II)",
-    "id": 200650,
-    "relative_path": "agd_book/200650_The_Fall_of_the_Faded_Castle_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fall of the Faded Castle (III)",
-    "id": 200651,
-    "relative_path": "agd_book/200651_The_Fall_of_the_Faded_Castle_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "La Chanson d'Erinnyes (I)",
-    "id": 200652,
-    "relative_path": "agd_book/200652_La_Chanson_dErinnyes_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "La Chanson d'Erinnyes (II)",
-    "id": 200653,
-    "relative_path": "agd_book/200653_La_Chanson_dErinnyes_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "La Chanson d'Erinnyes (III)",
-    "id": 200654,
-    "relative_path": "agd_book/200654_La_Chanson_dErinnyes_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales of a Snow-Winged Goose (I)",
-    "id": 200655,
-    "relative_path": "agd_book/200655_Tales_of_a_Snow-Winged_Goose_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales of a Snow-Winged Goose (II)",
-    "id": 200656,
-    "relative_path": "agd_book/200656_Tales_of_a_Snow-Winged_Goose_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Tales of a Snow-Winged Goose (III)",
-    "id": 200657,
-    "relative_path": "agd_book/200657_Tales_of_a_Snow-Winged_Goose_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Two Musketeers (I)",
-    "id": 200658,
-    "relative_path": "agd_book/200658_The_Two_Musketeers_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Two Musketeers (II)",
-    "id": 200659,
-    "relative_path": "agd_book/200659_The_Two_Musketeers_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "First Apprentice of Guhua",
     "id": 200076,
     "relative_path": "agd_book/200076_First_Apprentice_of_Guhua.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Two Musketeers (III)",
-    "id": 200660,
-    "relative_path": "agd_book/200660_The_Two_Musketeers_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Time Trekker (I)",
-    "id": 200661,
-    "relative_path": "agd_book/200661_Time_Trekker_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Time Trekker (II)",
-    "id": 200662,
-    "relative_path": "agd_book/200662_Time_Trekker_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Time Trekker (III)",
-    "id": 200663,
-    "relative_path": "agd_book/200663_Time_Trekker_III.txt"
   },
   {
     "category": "agd_book",
@@ -46171,12 +45319,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Legend of Vennessa (II)",
-    "id": 200012,
-    "relative_path": "agd_book/200012_The_Legend_of_Vennessa_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Enigmatic Page (XI)",
     "id": 200700,
     "relative_path": "agd_book/200700_Enigmatic_Page_XI.txt"
@@ -46369,12 +45511,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Records of Jueyun: Stone Beasts",
-    "id": 200083,
-    "relative_path": "agd_book/200083_Records_of_Jueyun_Stone_Beasts.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Diary of a Valiant Struggle (I)",
     "id": 240730,
     "relative_path": "agd_book/240730_Diary_of_a_Valiant_Struggle_I.txt"
@@ -46432,12 +45568,6 @@
     "title": "A Letter Left Behind",
     "id": 240739,
     "relative_path": "agd_book/240739_A_Letter_Left_Behind.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Jueyun: Palace Beneath the Sea",
-    "id": 200084,
-    "relative_path": "agd_book/200084_Records_of_Jueyun_Palace_Beneath_the_Sea.txt"
   },
   {
     "category": "agd_book",
@@ -46567,12 +45697,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Records of the Gallant: The Hermit",
-    "id": 200086,
-    "relative_path": "agd_book/200086_Records_of_the_Gallant_The_Hermit.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Initial Skill Sample No. 2 Development Plan",
     "id": 200760,
     "relative_path": "agd_book/200760_Initial_Skill_Sample_No_2_Development_Plan.txt"
@@ -46630,12 +45754,6 @@
     "title": "Aurelie's Notes",
     "id": 200769,
     "relative_path": "agd_book/200769_Aurelies_Notes.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Customs of Liyue: Flower Ball",
-    "id": 200087,
-    "relative_path": "agd_book/200087_Customs_of_Liyue_Flower_Ball.txt"
   },
   {
     "category": "agd_book",
@@ -46825,48 +45943,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Hilichurl Cultural Customs (I)",
-    "id": 200090,
-    "relative_path": "agd_book/200090_Hilichurl_Cultural_Customs_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (I)",
-    "id": 200015,
-    "relative_path": "agd_book/200015_The_Fox_in_the_Dandelion_Sea_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Perinheri (I)",
-    "id": 200800,
-    "relative_path": "agd_book/200800_Perinheri_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Perinheri (II)",
-    "id": 200801,
-    "relative_path": "agd_book/200801_Perinheri_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Anecdota Septentrionalis (I)",
-    "id": 200802,
-    "relative_path": "agd_book/200802_Anecdota_Septentrionalis_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Anecdota Septentrionalis (II)",
-    "id": 200803,
-    "relative_path": "agd_book/200803_Anecdota_Septentrionalis_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Anecdota Septentrionalis (III)",
-    "id": 200804,
-    "relative_path": "agd_book/200804_Anecdota_Septentrionalis_III.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Recruitment Notice",
     "id": 200806,
     "relative_path": "agd_book/200806_Recruitment_Notice.txt"
@@ -46888,12 +45964,6 @@
     "title": "Ancient Stone Tablet",
     "id": 200809,
     "relative_path": "agd_book/200809_Ancient_Stone_Tablet.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Cultural Customs (II)",
-    "id": 200091,
-    "relative_path": "agd_book/200091_Hilichurl_Cultural_Customs_II.txt"
   },
   {
     "category": "agd_book",
@@ -46954,12 +46024,6 @@
     "title": "Shikanoin Heizou's Message",
     "id": 200819,
     "relative_path": "agd_book/200819_Shikanoin_Heizous_Message.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Hilichurl Cultural Customs (IV)",
-    "id": 200092,
-    "relative_path": "agd_book/200092_Hilichurl_Cultural_Customs_IV.txt"
   },
   {
     "category": "agd_book",
@@ -47137,12 +46201,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Ballads of the Squire (I)",
-    "id": 200095,
-    "relative_path": "agd_book/200095_Ballads_of_the_Squire_I.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Unknown Title",
     "id": 200851,
     "relative_path": "agd_book/200851_Unknown_Title.txt"
@@ -47194,12 +46252,6 @@
     "title": "Goddess's Manuscript (III)",
     "id": 200859,
     "relative_path": "agd_book/200859_Goddesss_Manuscript_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Ballads of the Squire (II)",
-    "id": 200096,
-    "relative_path": "agd_book/200096_Ballads_of_the_Squire_II.txt"
   },
   {
     "category": "agd_book",
@@ -47461,12 +46513,6 @@
   },
   {
     "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (II)",
-    "id": 200016,
-    "relative_path": "agd_book/200016_The_Fox_in_the_Dandelion_Sea_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Unknown Title",
     "id": 200900,
     "relative_path": "agd_book/200900_Unknown_Title.txt"
@@ -47503,105 +46549,15 @@
   },
   {
     "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (I)",
-    "id": 200906,
-    "relative_path": "agd_book/200906_The_Little_Witch_and_the_Undying_Fire_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (II)",
-    "id": 200907,
-    "relative_path": "agd_book/200907_The_Little_Witch_and_the_Undying_Fire_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (III)",
-    "id": 200908,
-    "relative_path": "agd_book/200908_The_Little_Witch_and_the_Undying_Fire_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (IV)",
-    "id": 200909,
-    "relative_path": "agd_book/200909_The_Little_Witch_and_the_Undying_Fire_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Treasure Map of Giant's Steps",
     "id": 200101,
     "relative_path": "agd_book/200101_Treasure_Map_of_Giants_Steps.txt"
   },
   {
     "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (V)",
-    "id": 200910,
-    "relative_path": "agd_book/200910_The_Little_Witch_and_the_Undying_Fire_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (VI)",
-    "id": 200911,
-    "relative_path": "agd_book/200911_The_Little_Witch_and_the_Undying_Fire_VI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Little Witch and the Undying Fire (VII)",
-    "id": 200912,
-    "relative_path": "agd_book/200912_The_Little_Witch_and_the_Undying_Fire_VII.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (I)",
-    "id": 200913,
-    "relative_path": "agd_book/200913_The_Feline_Firm_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (II)",
-    "id": 200914,
-    "relative_path": "agd_book/200914_The_Feline_Firm_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (III)",
-    "id": 200915,
-    "relative_path": "agd_book/200915_The_Feline_Firm_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (IV)",
-    "id": 200916,
-    "relative_path": "agd_book/200916_The_Feline_Firm_IV.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (V)",
-    "id": 200917,
-    "relative_path": "agd_book/200917_The_Feline_Firm_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (VI)",
-    "id": 200918,
-    "relative_path": "agd_book/200918_The_Feline_Firm_VI.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (VII)",
-    "id": 200919,
-    "relative_path": "agd_book/200919_The_Feline_Firm_VII.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Treasure Map of Giant's Steps",
     "id": 200102,
     "relative_path": "agd_book/200102_Treasure_Map_of_Giants_Steps.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Feline Firm (VIII)",
-    "id": 200920,
-    "relative_path": "agd_book/200920_The_Feline_Firm_VIII.txt"
   },
   {
     "category": "agd_book",
@@ -47713,45 +46669,9 @@
   },
   {
     "category": "agd_book",
-    "title": "Maawe and Monetoo (I)",
-    "id": 200938,
-    "relative_path": "agd_book/200938_Maawe_and_Monetoo_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Maawe and Monetoo (II)",
-    "id": 200939,
-    "relative_path": "agd_book/200939_Maawe_and_Monetoo_II.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Treasure Map of The Vast Blue",
     "id": 200104,
     "relative_path": "agd_book/200104_Treasure_Map_of_The_Vast_Blue.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Maawe and Monetoo (III)",
-    "id": 200940,
-    "relative_path": "agd_book/200940_Maawe_and_Monetoo_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Hanan Pacha (I)",
-    "id": 200941,
-    "relative_path": "agd_book/200941_Records_of_Hanan_Pacha_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Hanan Pacha (II)",
-    "id": 200942,
-    "relative_path": "agd_book/200942_Records_of_Hanan_Pacha_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Records of Hanan Pacha (III)",
-    "id": 200943,
-    "relative_path": "agd_book/200943_Records_of_Hanan_Pacha_III.txt"
   },
   {
     "category": "agd_book",
@@ -47839,60 +46759,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Fires of Autumn Twilight (I)",
-    "id": 200957,
-    "relative_path": "agd_book/200957_Fires_of_Autumn_Twilight_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Fires of Autumn Twilight (II)",
-    "id": 200958,
-    "relative_path": "agd_book/200958_Fires_of_Autumn_Twilight_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Fires of Autumn Twilight (III)",
-    "id": 200959,
-    "relative_path": "agd_book/200959_Fires_of_Autumn_Twilight_III.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (I)",
-    "id": 200108,
-    "relative_path": "agd_book/200108_Legend_of_the_Shattered_Halberd_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Springs of Hidden Jade (I)",
-    "id": 200960,
-    "relative_path": "agd_book/200960_Springs_of_Hidden_Jade_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Springs of Hidden Jade (II)",
-    "id": 200961,
-    "relative_path": "agd_book/200961_Springs_of_Hidden_Jade_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Mt. Lingmeng Gossip (I)",
-    "id": 200962,
-    "relative_path": "agd_book/200962_Mt_Lingmeng_Gossip_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Mt. Lingmeng Gossip (II)",
-    "id": 200963,
-    "relative_path": "agd_book/200963_Mt_Lingmeng_Gossip_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Mt. Lingmeng Gossip (III)",
-    "id": 200964,
-    "relative_path": "agd_book/200964_Mt_Lingmeng_Gossip_III.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "The Tale of Kuntur",
     "id": 200965,
     "relative_path": "agd_book/200965_The_Tale_of_Kuntur.txt"
@@ -47920,12 +46786,6 @@
     "title": "Pakpaka Flying School Flying Tournament Invitation Letter",
     "id": 200969,
     "relative_path": "agd_book/200969_Pakpaka_Flying_School_Flying_Tournament_Invitation.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (II)",
-    "id": 200109,
-    "relative_path": "agd_book/200109_Legend_of_the_Shattered_Halberd_II.txt"
   },
   {
     "category": "agd_book",
@@ -47989,12 +46849,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (III)",
-    "id": 200110,
-    "relative_path": "agd_book/200110_Legend_of_the_Shattered_Halberd_III.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Holy Sovereign's Notes (IX)",
     "id": 200980,
     "relative_path": "agd_book/200980_Holy_Sovereigns_Notes_IX.txt"
@@ -48055,12 +46909,6 @@
   },
   {
     "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (IV)",
-    "id": 200111,
-    "relative_path": "agd_book/200111_Legend_of_the_Shattered_Halberd_IV.txt"
-  },
-  {
-    "category": "agd_book",
     "title": "Nameless Traveler's Notes (I)",
     "id": 200990,
     "relative_path": "agd_book/200990_Nameless_Travelers_Notes_I.txt"
@@ -48106,30 +46954,6 @@
     "title": "Aisa Bathhouse VIP Pass",
     "id": 200997,
     "relative_path": "agd_book/200997_Aisa_Bathhouse_VIP_Pass.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Glimpses of Mysterious Inazuma (I)",
-    "id": 200998,
-    "relative_path": "agd_book/200998_Glimpses_of_Mysterious_Inazuma_I.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Glimpses of Mysterious Inazuma (II)",
-    "id": 200999,
-    "relative_path": "agd_book/200999_Glimpses_of_Mysterious_Inazuma_II.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "Legend of the Shattered Halberd (V)",
-    "id": 200112,
-    "relative_path": "agd_book/200112_Legend_of_the_Shattered_Halberd_V.txt"
-  },
-  {
-    "category": "agd_book",
-    "title": "The Fox in the Dandelion Sea (III)",
-    "id": 200017,
-    "relative_path": "agd_book/200017_The_Fox_in_the_Dandelion_Sea_III.txt"
   },
   {
     "category": "agd_weapon",
