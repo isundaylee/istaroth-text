@@ -1,6 +1,6 @@
 # Terms that the LLM extractor may emit but should not be loaded into jieba.
-# Keep this list across regenerations; scripts/experimental/proper_noun_extraction.py
-# subtracts it when writing proper_nouns.txt.
+# Keep this list across regenerations; runtime consumers subtract it from
+# proper_nouns.txt when loading the dictionary.
 
 # Generated and code-like identifiers.
 CHS
