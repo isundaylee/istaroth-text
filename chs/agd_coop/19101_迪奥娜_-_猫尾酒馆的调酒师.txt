@@ -12,9 +12,9 @@
 玛格丽特: #咦？这位{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYA|INFO_FEMALE_PRONOUN_GIRLC]}，你是来光顾「猫尾酒馆」的吗？
 [Missing Dialog 0]
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: 我是来看小猫的…
 玛格丽特: 来看小猫的？呵呵，我们这里…确实有很多可爱的小猫呢。
 玛格丽特: 这些小猫也很招人喜欢，很多客人和您一样，也是冲着这些小猫来的。
 玛格丽特: 毕竟，像我们「猫尾酒馆」这样，能放心大胆和小猫们亲密接触的地方，蒙德城里可不多呢。
@@ -41,7 +41,7 @@ Branch 1
 [Missing Dialog 0]
 
 
-Branch 2
+Branch 2: 我想尝试一下新型特调…
 玛格丽特: 你来喝酒的吗？但店里的调酒材料都差不多用完了，而且…
 迪奥娜: 而且！你看起来也还没到能够喝酒的年纪吧？
 
@@ -70,7 +70,7 @@ Option 2:
 
 [Player choice]
 
-Branch 1
+Branch 1: 我想要基底饮品特别一点…
 迪奥娜: 特别的基底饮品…看来你已经有成为职业酒鬼的潜质了。必须用这杯特调让你清醒清醒才好…
 迪奥娜: 咳！总之，我知道哪里能找到特别的基底饮品，我们先去达达乌帕谷附近吧。
 [Missing Dialog 0]

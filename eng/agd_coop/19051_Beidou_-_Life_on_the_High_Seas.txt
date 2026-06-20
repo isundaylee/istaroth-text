@@ -40,7 +40,7 @@ Beidou: So, my question is, how can we reliably predict waterspouts, so we can a
 
 [Player choice]
 
-Branch 1
+Branch 1: When Liushi says a waterspout is coming, it's coming.
 Beidou: Okay! Those are all my questions. Do you want to know how you did?
 
 [Conditional branch]
@@ -137,10 +137,16 @@ Branch 4: The presence of dark clouds and strong winds in opposite directions, p
 
 Branch 2: To mark special locations.
 
-Branch 3: To add color and depth to the chart in a way that expresses the draughtsman's aesthetic preferences and fosters a greater appreciation of art among the crew.
+Branch 3: To mark distances.
+
+Branch 4: To add color and depth to the chart in a way that expresses the draughtsman's aesthetic preferences and fosters a greater appreciation of art among the crew.
 
 
-Branch 2: Cold weather.
+Branch 2: Underestimating danger.
+
+Branch 3: Cold weather.
+
+Branch 4: Getting seasick.
 
 ## Conversation 2
 
@@ -156,9 +162,9 @@ Juza: Yeah... unfortunately, the original teacher canceled at short notice, so t
 Juza: It would be great if the Traveler could step in as the teacher for the day!
 Beidou: #It's up to you, Traveler.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: It would be my pleasure.
 Beidou: Great, it's settled then! Juza, let's muster everyone over here to meet the new teacher!
 Juza: Yes, Captain!
 Beidou: That should be everyone. Take it away, Traveler.
@@ -219,7 +225,7 @@ Beidou: Real funny guys...
 
 [Player choice]
 
-Branch 1
+Branch 1: Trust your crew, Captain. You are the best candidate.
 Beidou: Well, if you say so... I'm not one to spoil the fun.
 Beidou: So what do I do now, Traveler?
 
@@ -276,7 +282,7 @@ Beidou: Just to be clear, I won't necessarily agree. It depends on the place you
 
 [Player choice]
 
-Branch 1
+Branch 1: I've heard there's a fishing village near Wangshu Inn...
 Beidou: The fishing village near Wangshu Inn? That place is deserted now, isn't it?
 Beidou: How do you even know that place anyway? It's tiny! I don't think I've ever seen it on a single map.
 
@@ -304,7 +310,7 @@ Beidou: So I think we can just forget the whole modeling thing for now.
 Beidou: #Sorry about that, Traveler, I guess I'll owe you a favor!
 
 
-Branch 3
+Branch 3: How about Yaoguang Shoal? We can enjoy the ocean breeze...
 Beidou: Well... Yaoguang Shoal is pretty relaxing.
 Beidou: But if I want to enjoy the ocean breeze, why don't I just stay onboard The Alcor and enjoy the breeze with my crew? That'd be more fun if you ask me.
 Beidou: So I think we can just forget the whole modeling thing for now.
@@ -351,13 +357,15 @@ Option 2:
 Beidou: C'mon, let's not waste any time... Get it done while you can, before I change my mind.
 Beidou: So, do I need to strike a pose?
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: However you prefer.
 Beidou: Alright, how about this?
 
 
-Branch 2
+Branch 2: Perhaps you can strike an epic pose.
+
+Branch 3: Maybe go for something a little... flirtatious?
 Beidou: Wh—What!? The nerve! What do you think this is!?
 Beidou: I don't want to do this whole modeling thing!
 Beidou: Hey, cut it out! No more pictures!

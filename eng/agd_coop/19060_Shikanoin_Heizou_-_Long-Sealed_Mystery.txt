@@ -53,6 +53,8 @@ Shikanoin Heizou: Alright, alright, I got it. No need to keep yammering like tha
 Shikanoin Heizou: #C'mon, let's go back to the Police Station, Traveler.
 
 
+Branch 2: No need, a simple "thank you" will be enough. I'll do my best.
+
 ## Conversation 2
 
 Shikanoin Heizou: #Alright, Traveler, hang out here for a sec, I need to go to the archives to get the case files.
@@ -130,7 +132,7 @@ Branch 1: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
-Branch 2
+Branch 2: Yes, I did.
 Shikanoin Heizou: Really? You found the criminal's motive and means that quickly? Awesome! Alright, let's talk about the motive first.
 Shikanoin Heizou: What clue reveals the criminal's motive?
 
@@ -150,55 +152,9 @@ Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent T
 Branch 1: Shiroyama's Testament and Ryuuji's Testimony
 Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
 
-[Conditional branch]
-
-Branch 1
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 2
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 2
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 3
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 2
-Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
-
 [Player choice]
 
-Branch 1: Conviction of Shiroyama
-Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
-
-[Conditional branch]
-
-Branch 1
+Branch 1: Shiroyama's Testament and Takatsukasa Isamu's Message
 Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
 Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
 Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
@@ -211,77 +167,7 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 2
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 2
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 3
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 3: Shiroyama's Testament and Takatsukasa Isamu's Message
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 4
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 2
-Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
-
-[Player choice]
-
-Branch 1: Shiroyama's Testament
-Shikanoin Heizou: Just Shiroyama's Testament? Though it does have the confession of his motives, this alone is not enough, he could have been lying.
-Shikanoin Heizou: We need evidence to prove what he said is true. Perhaps you should give it some more thought...
-
-[Player choice]
-
-Branch 1
-Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
-
-[Conditional branch]
-
-Branch 1
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 2
+Branch 2: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -299,7 +185,7 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 3
+Branch 3: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -307,9 +193,125 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 Branch 2: Shiroyama's Testament and Ryuuji's Testimony
 Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Conviction of Shiroyama
+Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 2: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 2: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 3: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 3: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 4: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 2: Conviction of Shiroyama
+Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament
+Shikanoin Heizou: Just Shiroyama's Testament? Though it does have the confession of his motives, this alone is not enough, he could have been lying.
+Shikanoin Heizou: We need evidence to prove what he said is true. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament and Ryuuji's Testimony
+Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 2: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 2: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 3: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 2: Shiroyama's Testament and Ryuuji's Testimony
+Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament
 Shikanoin Heizou: Just Shiroyama's Testament? Though it does have the confession of his motives, this alone is not enough, he could have been lying.
 Shikanoin Heizou: We need evidence to prove what he said is true. Perhaps you should give it some more thought...
 
@@ -328,77 +330,7 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 2
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 2
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 3
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 3
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 4
-Shikanoin Heizou: Sure, let me know once you've made some progress.
-
-
-
-Branch 3
-Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
-
-[Player choice]
-
-Branch 1
-Shikanoin Heizou: Just Shiroyama's Testament? Though it does have the confession of his motives, this alone is not enough, he could have been lying.
-Shikanoin Heizou: We need evidence to prove what he said is true. Perhaps you should give it some more thought...
-
-[Player choice]
-
-Branch 1: Conviction of Shiroyama
-Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
-
-[Conditional branch]
-
-Branch 1
-Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
-Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
-Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
-Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
-Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
-Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
-Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
-Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
-Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
-Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
-
-
-Branch 2
+Branch 2: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -416,7 +348,77 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 3
+Branch 3: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 3: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 4: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 3: Shiroyama's Testament and Ryuuji's Testimony
+Shikanoin Heizou: Although Shiroyama's Testament contains the confession of his motive, Ryuuji's Testimony cannot prove it. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament
+Shikanoin Heizou: Just Shiroyama's Testament? Though it does have the confession of his motives, this alone is not enough, he could have been lying.
+Shikanoin Heizou: We need evidence to prove what he said is true. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Conviction of Shiroyama
+Shikanoin Heizou: Although the conviction states that Shiroyama grew to resent Takatsukasa Isamu due to work conflicts, it's not detailed enough for us to understand the motive. Perhaps you should give it some more thought...
+
+[Player choice]
+
+Branch 1: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 2: Nothing yet, I'll keep looking through the files.
+Shikanoin Heizou: Sure, let me know once you've made some progress.
+
+
+
+Branch 2: Shiroyama's Testament and Takatsukasa Isamu's Message
+Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
+Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
+Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
+Paimon: *gasp* But maybe he didn't really bring health supplements! Maybe it was something bad!?
+Shikanoin Heizou: Haha, is that what you think, Paimon? Well, we later found out that what Takatsukasa Isamu sent to Shiroyama's house was indeed health supplements.
+Shikanoin Heizou: But if you consider the circumstances, what he sent wasn't important. What was important is that sending the supplements was actually a dangerous signal...
+Shikanoin Heizou: Isamu was essentially implying, "I can put anything in your wife's supplements at any time. If you really care about her safety, then get me what I want."
+Paimon: Ah! So scary! Your assumption sounds like a real threat! You're not really that dark inside... are you?
+Shikanoin Heizou: You don't really catch criminals by standing in the light, do you?
+Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
+
+
+Branch 3: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -445,12 +447,12 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 2
+Branch 2: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: Shiroyama's Testament and Takatsukasa Isamu's Message
 Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
 Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
 Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
@@ -463,12 +465,12 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 3
+Branch 3: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 3
+Branch 3: Shiroyama's Testament and Takatsukasa Isamu's Message
 Shikanoin Heizou: Excellent work! According to the victim's message, the two had deep conflicts. Although we cannot confirm whether the poison had been requested by the victim or not...
 Shikanoin Heizou: It is true that Isamu used Shiroyama's family to blackmail him. Such circumstances could be enough motive for Shiroyama to commit the crime.
 Paimon: But... wasn't Takatsukasa Isamu good to Shiroyama? He even went to Shiroyama's house to bring health supplements...
@@ -481,7 +483,7 @@ Shikanoin Heizou: You don't really catch criminals by standing in the light, do 
 Shikanoin Heizou: Basically, these two clues work to verify each other, and the murderer's motive is confirmed. Now all that's left is the means of the crime.
 
 
-Branch 4
+Branch 4: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -507,21 +509,21 @@ Shikanoin Heizou: So, what did you find? Have you come to a conclusion?
 
 [Player choice]
 
-Branch 1
+Branch 1: Yes, I did.
 [Player choice]
 
-Branch 1
+Branch 1: Research Log from the Office of Forensic Science
 Shikanoin Heizou: This blank research log? I don't see how it can explain anything. Perhaps you should give it some more thought...
 
 [Player choice]
 
-Branch 1
+Branch 1: The Autopsy Report of Takatsukasa Isamu and Shiroyama's Testament
 Shikanoin Heizou: Close! The autopsy report states that the cause of death is a special toxin, but how was this toxin administered to the deceased?
 Shikanoin Heizou: Was it mixed with the cold medicine, as Shiroyama stated in his testament? If so, we need some evidence to prove that. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Ryuuji's Testimony and Conviction of Shiroyama
 Shikanoin Heizou: Haha, maybe you've seen enough files for the day... I'm afraid these two documents are completely unrelated. Perhaps you should give it some more thought...
 
 [Player choice]
@@ -540,7 +542,7 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: The Autopsy Report of Takatsukasa Isamu, Shiroyama's Testament, and the Toxicology Report
 Shikanoin Heizou: Bingo! The autopsy report confirms that the cause of death was a special toxin. The testament indicates that Shiroyama used his position as a forensic expert to mix the toxin into the cold medicine taken by the deceased.
 Shikanoin Heizou: But is that really the truth? Is it not possible that the toxin was mixed into the fish-liver paste?
 Shikanoin Heizou: Well, according to the toxicology report, this "white powder" only dissolves in water. Neither rice nor the fish-liver paste could be used as a carrier of the toxin. The cold medicine was the only option.
@@ -549,23 +551,23 @@ Paimon: Add that to the motive for the crime, and... Whoa! So the murderer reall
 Shikanoin Heizou: #Yep, Traveler. Pretty clear-cut, wouldn't you say? Look, I really don't know what Sango is so suspicious about.
 
 
-Branch 3
+Branch 3: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: Ryuuji's Testimony and Conviction of Shiroyama
 Shikanoin Heizou: Haha, maybe you've seen enough files for the day... I'm afraid these two documents are completely unrelated. Perhaps you should give it some more thought...
 
 [Player choice]
 
-Branch 1
+Branch 1: The Autopsy Report of Takatsukasa Isamu and Shiroyama's Testament
 Shikanoin Heizou: Close! The autopsy report states that the cause of death is a special toxin, but how was this toxin administered to the deceased?
 Shikanoin Heizou: Was it mixed with the cold medicine, as Shiroyama stated in his testament? If so, we need some evidence to prove that. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: The Autopsy Report of Takatsukasa Isamu, Shiroyama's Testament, and the Toxicology Report
 Shikanoin Heizou: Bingo! The autopsy report confirms that the cause of death was a special toxin. The testament indicates that Shiroyama used his position as a forensic expert to mix the toxin into the cold medicine taken by the deceased.
 Shikanoin Heizou: But is that really the truth? Is it not possible that the toxin was mixed into the fish-liver paste?
 Shikanoin Heizou: Well, according to the toxicology report, this "white powder" only dissolves in water. Neither rice nor the fish-liver paste could be used as a carrier of the toxin. The cold medicine was the only option.
@@ -574,7 +576,7 @@ Paimon: Add that to the motive for the crime, and... Whoa! So the murderer reall
 Shikanoin Heizou: #Yep, Traveler. Pretty clear-cut, wouldn't you say? Look, I really don't know what Sango is so suspicious about.
 
 
-Branch 2
+Branch 2: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -611,14 +613,14 @@ Branch 2: The Autopsy Report of Takatsukasa Isamu and Shiroyama's Testament
 Shikanoin Heizou: Close! The autopsy report states that the cause of death is a special toxin, but how was this toxin administered to the deceased?
 Shikanoin Heizou: Was it mixed with the cold medicine, as Shiroyama stated in his testament? If so, we need some evidence to prove that. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Research Log from the Office of Forensic Science
 Shikanoin Heizou: This blank research log? I don't see how it can explain anything. Perhaps you should give it some more thought...
 
 [Player choice]
 
-Branch 1
+Branch 1: Ryuuji's Testimony and Conviction of Shiroyama
 Shikanoin Heizou: Haha, maybe you've seen enough files for the day... I'm afraid these two documents are completely unrelated. Perhaps you should give it some more thought...
 
 [Player choice]
@@ -651,7 +653,7 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: Ryuuji's Testimony and Conviction of Shiroyama
 Shikanoin Heizou: Haha, maybe you've seen enough files for the day... I'm afraid these two documents are completely unrelated. Perhaps you should give it some more thought...
 
 [Player choice]
@@ -689,7 +691,7 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 3
+Branch 3: The Autopsy Report of Takatsukasa Isamu, Shiroyama's Testament, and the Toxicology Report
 Shikanoin Heizou: Bingo! The autopsy report confirms that the cause of death was a special toxin. The testament indicates that Shiroyama used his position as a forensic expert to mix the toxin into the cold medicine taken by the deceased.
 Shikanoin Heizou: But is that really the truth? Is it not possible that the toxin was mixed into the fish-liver paste?
 Shikanoin Heizou: Well, according to the toxicology report, this "white powder" only dissolves in water. Neither rice nor the fish-liver paste could be used as a carrier of the toxin. The cold medicine was the only option.
@@ -698,7 +700,7 @@ Paimon: Add that to the motive for the crime, and... Whoa! So the murderer reall
 Shikanoin Heizou: #Yep, Traveler. Pretty clear-cut, wouldn't you say? Look, I really don't know what Sango is so suspicious about.
 
 
-Branch 4
+Branch 4: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -713,13 +715,13 @@ Shikanoin Heizou: This blank research log? I don't see how it can explain anythi
 
 [Player choice]
 
-Branch 1
+Branch 1: The Autopsy Report of Takatsukasa Isamu and Shiroyama's Testament
 Shikanoin Heizou: Close! The autopsy report states that the cause of death is a special toxin, but how was this toxin administered to the deceased?
 Shikanoin Heizou: Was it mixed with the cold medicine, as Shiroyama stated in his testament? If so, we need some evidence to prove that. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: The Autopsy Report of Takatsukasa Isamu, Shiroyama's Testament, and the Toxicology Report
 Shikanoin Heizou: Bingo! The autopsy report confirms that the cause of death was a special toxin. The testament indicates that Shiroyama used his position as a forensic expert to mix the toxin into the cold medicine taken by the deceased.
 Shikanoin Heizou: But is that really the truth? Is it not possible that the toxin was mixed into the fish-liver paste?
 Shikanoin Heizou: Well, according to the toxicology report, this "white powder" only dissolves in water. Neither rice nor the fish-liver paste could be used as a carrier of the toxin. The cold medicine was the only option.
@@ -728,7 +730,7 @@ Paimon: Add that to the motive for the crime, and... Whoa! So the murderer reall
 Shikanoin Heizou: #Yep, Traveler. Pretty clear-cut, wouldn't you say? Look, I really don't know what Sango is so suspicious about.
 
 
-Branch 2
+Branch 2: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -747,13 +749,13 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: The Autopsy Report of Takatsukasa Isamu and Shiroyama's Testament
 Shikanoin Heizou: Close! The autopsy report states that the cause of death is a special toxin, but how was this toxin administered to the deceased?
 Shikanoin Heizou: Was it mixed with the cold medicine, as Shiroyama stated in his testament? If so, we need some evidence to prove that. Perhaps you should give it some more thought...
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Research Log from the Office of Forensic Science
 Shikanoin Heizou: This blank research log? I don't see how it can explain anything. Perhaps you should give it some more thought...
 
 [Player choice]
@@ -772,7 +774,7 @@ Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
 
-Branch 2
+Branch 2: The Autopsy Report of Takatsukasa Isamu, Shiroyama's Testament, and the Toxicology Report
 Shikanoin Heizou: Bingo! The autopsy report confirms that the cause of death was a special toxin. The testament indicates that Shiroyama used his position as a forensic expert to mix the toxin into the cold medicine taken by the deceased.
 Shikanoin Heizou: But is that really the truth? Is it not possible that the toxin was mixed into the fish-liver paste?
 Shikanoin Heizou: Well, according to the toxicology report, this "white powder" only dissolves in water. Neither rice nor the fish-liver paste could be used as a carrier of the toxin. The cold medicine was the only option.
@@ -781,7 +783,7 @@ Paimon: Add that to the motive for the crime, and... Whoa! So the murderer reall
 Shikanoin Heizou: #Yep, Traveler. Pretty clear-cut, wouldn't you say? Look, I really don't know what Sango is so suspicious about.
 
 
-Branch 3
+Branch 3: Nothing yet, I'll keep looking through the files.
 Shikanoin Heizou: Sure, let me know once you've made some progress.
 
 
@@ -823,19 +825,19 @@ Shikanoin Heizou: What's bugging you?
 
 [Player choice]
 
-Branch 1
+Branch 1: Why is the "Research Log from the Office of Forensic Science" blank? Did someone tear out some pages?
 Shikanoin Heizou: This also puzzles me. Maybe someone doesn't want us being privy to the content inside, or maybe Shiroyama tore a bunch of pages out by accident.
 Shikanoin Heizou: But regardless, this isn't essential to the case. Like I said before, a lot of what comes up in an investigation is irrelevant information.
 Shikanoin Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
 
 [Player choice]
 
-Branch 1
+Branch 1: The Toxicology Report mentioned that this poison isn't sold anywhere in Inazuma, but Shiroyama's Testament said that it was bought at the International Trade Association.
 Shikanoin Heizou: Maybe the report was wrong. The International Trade Association is a gathering place for merchants from all over. Countless merchants pass through the port of Ritou every day. It's natural for there to be a couple of missing records here or there.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Based on the "Convictions" written by Kujou Sara for Ryuuji and Shiroyama, the two committed the same crime. Why are their punishments different?
 Shikanoin Heizou: Haha, very nice. Top marks for attention to detail. It doesn't have any real bearing on the case, but let me explain how that works for you.
 Shikanoin Heizou: So, why would Madam Kujou Sara sign one conviction sentencing Ryuuji to temporary incarceration awaiting trial, and another conviction sentencing Shiroyama to death?
 Shikanoin Heizou: You may have heard some rumors back at the station that when this case first came up, the Kujou Clan higher-ups were in dire need of a scapegoat to keep the Takatsukasa Clan off their backs, and poor Ryuuji became the successful candidate.
@@ -912,12 +914,12 @@ Shikanoin Heizou: Maybe the report was wrong. The International Trade Associatio
 
 
 
-Branch 2
+Branch 2: The Toxicology Report mentioned that this poison isn't sold anywhere in Inazuma, but Shiroyama's Testament said that it was bought at the International Trade Association.
 Shikanoin Heizou: Maybe the report was wrong. The International Trade Association is a gathering place for merchants from all over. Countless merchants pass through the port of Ritou every day. It's natural for there to be a couple of missing records here or there.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Why is the "Research Log from the Office of Forensic Science" blank? Did someone tear out some pages?
 Shikanoin Heizou: This also puzzles me. Maybe someone doesn't want us being privy to the content inside, or maybe Shiroyama tore a bunch of pages out by accident.
 Shikanoin Heizou: But regardless, this isn't essential to the case. Like I said before, a lot of what comes up in an investigation is irrelevant information.
 Shikanoin Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
@@ -948,7 +950,7 @@ Shikanoin Heizou: Believe me, in this case more than any other, I have checked e
 
 
 
-Branch 2
+Branch 2: Based on the "Convictions" written by Kujou Sara for Ryuuji and Shiroyama, the two committed the same crime. Why are their punishments different?
 Shikanoin Heizou: Haha, very nice. Top marks for attention to detail. It doesn't have any real bearing on the case, but let me explain how that works for you.
 Shikanoin Heizou: So, why would Madam Kujou Sara sign one conviction sentencing Ryuuji to temporary incarceration awaiting trial, and another conviction sentencing Shiroyama to death?
 Shikanoin Heizou: You may have heard some rumors back at the station that when this case first came up, the Kujou Clan higher-ups were in dire need of a scapegoat to keep the Takatsukasa Clan off their backs, and poor Ryuuji became the successful candidate.
@@ -970,9 +972,9 @@ Traveler: How do you know?
 Shikanoin Heizou: Just because she has never publicly clarified the truth doesn't mean she was hiding anything. So when I asked her about it, saying it was relevant to a case I was working on, she just told me how it was.
 Shikanoin Heizou: Believe me, in this case more than any other, I have checked every last detail.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Why is the "Research Log from the Office of Forensic Science" blank? Did someone tear out some pages?
 Shikanoin Heizou: This also puzzles me. Maybe someone doesn't want us being privy to the content inside, or maybe Shiroyama tore a bunch of pages out by accident.
 Shikanoin Heizou: But regardless, this isn't essential to the case. Like I said before, a lot of what comes up in an investigation is irrelevant information.
 Shikanoin Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
@@ -1004,14 +1006,14 @@ Shikanoin Heizou: Believe me, in this case more than any other, I have checked e
 
 [Player choice]
 
-Branch 1
+Branch 1: Why is the "Research Log from the Office of Forensic Science" blank? Did someone tear out some pages?
 Shikanoin Heizou: This also puzzles me. Maybe someone doesn't want us being privy to the content inside, or maybe Shiroyama tore a bunch of pages out by accident.
 Shikanoin Heizou: But regardless, this isn't essential to the case. Like I said before, a lot of what comes up in an investigation is irrelevant information.
 Shikanoin Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: The Toxicology Report mentioned that this poison isn't sold anywhere in Inazuma, but Shiroyama's Testament said that it was bought at the International Trade Association.
 Shikanoin Heizou: Maybe the report was wrong. The International Trade Association is a gathering place for merchants from all over. Countless merchants pass through the port of Ritou every day. It's natural for there to be a couple of missing records here or there.
 
 
@@ -1019,9 +1021,9 @@ Shikanoin Heizou: Maybe the report was wrong. The International Trade Associatio
 Branch 2: The Toxicology Report mentioned that this poison isn't sold anywhere in Inazuma, but Shiroyama's Testament said that it was bought at the International Trade Association.
 Shikanoin Heizou: Maybe the report was wrong. The International Trade Association is a gathering place for merchants from all over. Countless merchants pass through the port of Ritou every day. It's natural for there to be a couple of missing records here or there.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Why is the "Research Log from the Office of Forensic Science" blank? Did someone tear out some pages?
 Shikanoin Heizou: This also puzzles me. Maybe someone doesn't want us being privy to the content inside, or maybe Shiroyama tore a bunch of pages out by accident.
 Shikanoin Heizou: But regardless, this isn't essential to the case. Like I said before, a lot of what comes up in an investigation is irrelevant information.
 Shikanoin Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
@@ -1041,12 +1043,12 @@ Shikanoin Heizou: The method used by the perpetrator to commit his crime wasn't 
 
 [Player choice]
 
-Branch 1
+Branch 1: He put it in the fish-liver paste!
 Shikanoin Heizou: Wait what? Where'd you conjure up that answer from? Try again.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: The cold medicine and the fish-liver paste were mixed to form the white powder!
 Shikanoin Heizou: That's correct! The white powder was Shiroyama's invention.
 Shikanoin Heizou: As a forensic doctor, he provided a special cold medicine for Takatsukasa Isamu. The autopsy report showed that this medicine contained a high volume of acidic fruit and vegetable extracts.
 Shikanoin Heizou: Then, he tricked Ryuuji into sending fish-liver paste to Takatsukasa Isamu. When the two substances were taken together, a toxic dose of the substance formed in his body.
@@ -1164,9 +1166,9 @@ Sango: C'mon Ryuuji, pipe down! Let's hear the Traveler's conclusion first.
 Paimon: #Uhh, okay then... Over to you, Heizou and Traveler.
 Shikanoin Heizou: #Traveler, don't worry, just tell us your findings. Everyone trusts you, as do I.
 
-[Conditional branch]
+[Player choice]
 
-Branch 1
+Branch 1: Sango was wrong about Heizou, and the murderer was indeed Shiroyama.
 Ryuuji: Well, whaddya know. I suspected that was the case... *sigh* Please rest in peace, Master Takatsukasa...
 Sango: No! Impossible! Traveler, are you sure you checked every last file? Carefully?
 Traveler: Trust me, I did.
@@ -1178,7 +1180,7 @@ Shikanoin Heizou: Well, I really owe it to you Traveler, I'll be sure to properl
 Sango: Hey! You're not going anywhere!
 
 
-Branch 2
+Branch 2: Detective Heizou hid some evidence, the truth of the matter is...
 Shikanoin Heizou: #Traveler, don't worry, just tell us your findings. Everyone trusts you, as do I.
 
 Black Screen Text: You tell them the whole truth about the Ryuuji Case.
