@@ -1,0 +1,270 @@
+# Hangout: Bennett - Expansive Eya
+
+## Conversation 1
+
+Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
+Bennett: Could it be that because you're here with me, I'm feeling more at ease? Hehe...
+Bennett: I've caught the scent of treasure in the air! Come on, let's go!
+
+## Conversation 2
+
+Bennett: This room's setup seems to be somewhat tricky.
+Bennett: The things that stand out are the two mechanisms in front of us, one on the left, and one on the right.
+Bennett: But... it seems like there's some sort of danger lurking around the mechanisms...
+Bennett: If my years of adventure experience are anything to go by, it would be a disaster if we activated the wrong mechanism, haha.
+Bennett: How about letting me try it out first?
+
+[Conditional branch]
+
+Branch 1
+Bennett: Hehe, leave it to me.
+Bennett: Ah, but as you know, I really don't have any luck.
+Bennett: So I'll leave it to you to decide which of these two mechanisms we should trigger.
+
+Option 1:
+
+> [Missing Dialog 1904502204]
+
+Option 2:
+
+> [Missing Dialog 1904502206]
+
+
+[Conditional branch]
+
+Branch 1
+Bennett: That's the one I was thinking of, too! Let's see...
+Bennett (???): *clicking sounds*
+Bennett: What was that noise...?
+Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Bennett: This... this is really bad...
+
+
+Branch 2
+Bennett: Actually, I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
+Bennett (???): *clicking sounds*
+Bennett: What was that noise...?
+Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Bennett: This... this is really bad...
+
+
+
+Branch 2
+Bennett: Hmm... I could try it out myself...
+Bennett: But... What do you think we should do? Let's do it your way!
+Traveler: Take one each, activate them simultaneously.
+Bennett: Well, that's a possibility... yeah.
+Bennett: Let's try it then! I'll take the right side, you take the left!
+
+
+## Conversation 3
+
+Bennett: Oh... so this room has...
+Bennett: ...Four mechanisms. Which means...
+
+Option 1:
+
+> Traveler: We need four people...
+
+Option 2:
+
+> Traveler: Two of us won't be enough...
+
+Bennett: That's what I'm thinking, based on the last room...
+Bennett: I think we're gonna need four people to trigger all the mechanisms at the same time.
+Bennett: Ahhh... If only the rest of Benny's Adventure Team were here...
+Traveler: What's the deal with Benny's Adventure Team, anyway?
+Bennett: ...I hate to admit it, but the truth is... it's gone. It remains in name alone.
+Bennett: The only reason Katheryne hasn't deregistered "Benny's Adventure Team" is because she took pity on me.
+Bennett: In fact... *sigh* the number of adventurers on the team has been below the registration requirements for a long time already.
+
+Option 1:
+
+> Traveler: You mean... you're the only one left?
+
+Option 2:
+
+> Traveler: All the other members are gone?
+
+Bennett: Haha... yeah. Royce, Heckler, and Jack were all members of Benny's Adventure Team.
+Bennett: A lot of things went down, but mostly it ended because of my bad luck.
+Bennett: I completely understand why they quit the team. I'd never want to put them in danger on my account. *sigh*
+
+Option 1:
+
+> [Missing Dialog 1904503317]
+
+Option 2:
+
+> [Missing Dialog 1904503319]
+
+
+[Player choice]
+
+Branch 1: Don't take it personally.
+Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
+Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
+Traveler: You can do it, Bennett!
+Bennett: Hehe, thank you.
+Bennett: Let's focus on the problem at hand...
+Bennett: Ah, sorry, the thought of the adventure team got me all sentimental.
+Bennett: Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms.
+
+Option 1:
+
+> Traveler: You mean, the solution may be different from the previous room?
+> [Loops back to an already-shown dialog]
+
+Option 2:
+
+
+Traveler: You're right, we shouldn't jump to conclusions.
+Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
+
+
+Branch 2
+Bennett: Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do.
+Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
+Traveler: You can do it, Bennett!
+Bennett: Hehe, thank you.
+Bennett: Let's focus on the problem at hand...
+Bennett: Ah, sorry, the thought of the adventure team got me all sentimental.
+Bennett: Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms.
+
+Option 1:
+
+> Traveler: You mean, the solution may be different from the previous room?
+> [Loops back to an already-shown dialog]
+
+Option 2:
+
+
+Traveler: You're right, we shouldn't jump to conclusions.
+Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
+
+
+## Conversation 4
+
+Bennett: An adventurer's notebook? What's it doing here...?
+Bennett: Maybe it's got some clues on how to crack these mechanisms! Shall we take a look?
+Bennett: Whoa... It really does have some information about them.
+
+Option 1:
+
+> Traveler: It's some very valuable guidance.
+
+Option 2:
+
+> Traveler: Why do I feel... it's a bit ominous?
+
+Bennett: It seems that the writer is holding something back.
+Bennett: Well, since they've placed their hopes on future adventurers, we can't let them down.
+Bennett: The notes say that the mechanism at the entrance needs to be controlled by someone continuously...
+Bennett: But if the mechanisms are activated in the wrong sequence, the person in charge of the mechanism at the entrance will...
+
+Option 1:
+
+> Traveler: Get hurt?
+> Bennett: Yeah, I guess that's what the notes are referring to when they say... "Eric can't hold on anymore"...
+
+Option 2:
+
+> Traveler: ...Die?
+> Bennett: Uh... You think so!? Surely it can't be that bad!
+> Bennett: It says in the notes that Eric "can't hold on anymore." That at least proves that it is possible to "hold on" up to a point.
+
+Bennett: Anyway, I'll take that role.
+
+Option 1:
+
+> Traveler: Who says it's up to you?
+
+Option 2:
+
+> Traveler: We should at least do rock, paper, scissors...
+
+Bennett: Haha, it's okay, it's okay. Getting injured is just part of my daily routine.
+Bennett: I'm pretty used to it by now. At the very least, I should be able to last longer than this Eric guy, haha.
+Bennett: And more importantly, I trust you!
+Bennett: You can definitely crack this mechanism puzzle, right? I mean, come on! You're the great adventurer that I've always admired.
+Traveler: Bennett...
+Bennett: Alright, alright, let's just focus on solving these mechanisms!
+Bennett: Remember what the notes say... Hmm...
+Bennett: "The number of torches is not the hint for the activation sequence..."
+Bennett: "Perhaps... the sequence is related to the position of the torches on the ground."
+Bennett: Well, don't put too much pressure on yourself just because you're afraid I'll get hurt!
+Bennett: Just go with your gut and do it.
+
+## Conversation 5
+
+Bennett: I'm... sorry...
+Bennett: I don't think my body... can... take this anymore...
+[Missing Dialog 1904505103]
+
+Bennett: I'm sorry... I failed you...
+
+## Conversation 6
+
+Bennett: Wow, that was quite a haul!
+Bennett: This must be the proudest moment for any adventurer!
+Bennett: Not only getting the chest, but having this golden opportunity to join you on an adventure. For me, that's a pretty major treasure already, hehe...
+
+Option 1:
+
+> Traveler: The feeling is mutual.
+> Bennett: Really! Then I'm honored, haha.
+
+Option 2:
+
+> Traveler: The chest is the most important thing here.
+> Bennett: Hmm... I guess you're right, finding chests is where the real romance of being an adventurer lies!
+
+Bennett: But there's one other thing that I find the most amazing of all...
+Bennett: ...The fact that nothing really bad happened to us this whole adventure. This is the first time in my whole adventure career that it's ever turned out this way!
+
+Option 1:
+
+> Traveler: This is just one of the many possible outcomes.
+
+Option 2:
+
+> Traveler: But it shows that fortunate outcomes do exist.
+
+Bennett: That sounds very deep... but I think I get what you're saying.
+Bennett: You are saying that no matter how unlucky I might be, there will always be times when luck is on my side, right?
+Bennett: Yeah... This is a really big thing for me.
+Bennett: And you know, I have a feeling that...
+Bennett: ...It was your kindness and goodwill towards me that helped me avoid a lot of bad luck... even find a little good luck...
+Bennett: Hehe, it's a bit embarrassing to say that out loud, but all in all, thank you... for everything!
+Bennett: I hope I get to go on another adventure with you soon!
+
+## Conversation 7
+
+Bennett: Cooool! The door is open. We got it right!
+Bennett: Good thing we went with your idea. You definitely live up to your reputation.
+Bennett: And... I haven't had this feeling of working together with friends in ages. I've really missed it, hehe.
+Bennett: Anyway, let's move on!
+
+## Conversation 8
+
+Bennett: You... you solved it?
+
+Option 1:
+
+> [Missing Dialog 1904508102]
+
+Option 2:
+
+> [Missing Dialog 1904508103]
+
+
+[Conditional branch]
+
+Branch 1
+Bennett: Haha! That's the great adventurer I'm talking about! Awesome!
+Bennett: Let's go and open the chest, shall we? I can't wait!
+
+
+Branch 2
+Bennett: Oh! Uh... heh, I didn't really do anything. You're the one who nailed this.
+Bennett: Let's go and open the chest, shall we? I can't wait!

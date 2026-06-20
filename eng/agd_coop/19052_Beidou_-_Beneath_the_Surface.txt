@@ -1,0 +1,280 @@
+# Hangout: Beidou - Beneath the Surface
+
+## Conversation 1
+
+Beidou: These are some older Skirmish Boats that we keep on The Alcor as backup.
+Beidou: Although they've been made redundant by newer models now, they're still fully kitted out.
+Beidou: They are perfect for when we need to do simulated battles as part of crew training.
+Traveler: I thought I'd be steering The Alcor in a battle simulation.
+Beidou: Hahaha, disappointed? So this isn't quite on the scale that you had in mind, huh?
+Beidou: To be honest, The Alcor going into battle is the last thing I'd ever want to see.
+Beidou: In fact, out of all the confrontations we've ever had, almost all were resolved by negotiation.
+Beidou: Only when negotiations fail do we consider deploying our armed fighters and Skirmish Boats, and they alone are enough to handle most situations.
+Beidou: The only reason The Alcor would ever need to open fire would be if it were a fight to the death.
+Beidou: The Alcor serves only two purposes, to deter or to destroy.
+Beidou: We are an armed fleet with a strong sense of justice, not war-hungry lunatics.
+Beidou: We are very careful about determining when to use force and exactly what level of force to use.
+Beidou: All of this is to say that mastering a small attack craft is quite enough for new crew members.
+Beidou: Do you have any experience piloting small armed vessels?
+
+Option 1:
+
+> Traveler: Sure do, I can even sail and fire at the same time.
+> Beidou: You mean you can do the jobs of a helmsman and a gunner simultaneously...? That's quite an achievement.
+> Beidou: Even in The Crux, there are few who can do that.
+> Beidou: Seems like you're a natural.
+
+Option 2:
+
+> Traveler: Of course, I can even navigate a ship right through a whirlpool.
+> Beidou: Hahahaha, you're the first person I've ever met who is so dismissive of the power of the sea.
+> Beidou: But I guess to put it another way, you're already a seasoned veteran, huh?
+
+Beidou: In that case, I will skip the basics on how to operate your craft.
+Beidou: The goal of this exercise is simple: Steer your Skirmish Boat along the prescribed route and return here within the time limit.
+Beidou: You can start when you're ready. I'll be waiting here, so I can observe your skills.
+
+## Conversation 2
+
+[Conditional branch]
+
+Branch 1
+Beidou: #Nicely done! Traveler, that was a joy to watch.
+Beidou: Perfect timing on the turns, and you kept your craft stable on the straightaway. It was like watching a well-rehearsed show.
+
+Option 1:
+
+> Traveler: I'd call that pretty routine.
+
+Option 2:
+
+> Traveler: I've had a lot of training in sailing.
+
+Beidou: Hahaha. Alright — it's high time I introduced you to some of the more serious business that The Crux takes on.
+Beidou: Come with me. We're going to Liyue Harbor.
+
+
+Branch 2
+Beidou: #Hah, not so on form today, Traveler, huh?
+
+Option 1:
+
+> Traveler: Yeah, I'm a little rusty.
+
+Option 2:
+
+> Traveler: I fazed out a little.
+
+Beidou: I'm sure the boat is partly to blame. It's a pretty old craft, so it can be a little sluggish to operate.
+Beidou: So, don't worry about it. Just remind me to have Juza make some improvements to it when we get back.
+Beidou: Anyway, that was all just to get you warmed up...
+Beidou: What I really want to show you is the more serious side of The Crux's business.
+Beidou: Come with me. We're going to Liyue Harbor.
+
+
+## Conversation 3
+
+Beidou: You may be aware that as an armed fleet, The Crux is kinda like the maritime equivalent of a Guard for Hire.
+Beidou: We work as an armed carrier, earning our keep by successfully delivering the goods entrusted to us from A to B.
+Beidou: Aside from that though, there is also one other important way we make income...
+
+Option 1:
+
+> Traveler: Bounties for capturing pirates on the Ministry of Civil Affairs' wanted list?
+
+Option 2:
+
+> Traveler: Consultancy fees for running fast-track training courses for other crews?
+
+Option 3:
+
+> Traveler: Remuneration for completing Adventurers' Guild commissions?
+
+Mora-Grubber: Actually, it's trading. In certain kinds of goods.
+Beidou: Hey! My hotshot accountant! Nice of you to join us.
+Mora-Grubber: Cut it out, boss.
+Mora-Grubber: Juza sent me here with a message. He says preparations are now underway. If you give me the all-clear, I'll head straight over.
+Beidou: Okay. Be careful.
+Traveler: What's your bookkeeper doing here?
+Beidou: Well... She has something to take care of.
+Beidou: Mora-Grubber was right though. The other important side to our business — the less official side — is doing exactly what merchants do.
+Beidou: Importing here, exporting there. The only difference between us and regular merchants is that our transactions aren't entirely above-board.
+Beidou: You'll see what I mean by that shortly. I'm taking you to see one such transaction for yourself.
+Beidou: Come on, let's go meet our trading partner for the day.
+
+## Conversation 4
+
+Nei: Fresh seafood! Fresh seafood! Catch it while you can!
+Beidou: What do you have?
+Nei: Hello there! Here at Nei's Professional Fishmonger's, we got everything you could ask for.
+Nei: So what do you need?
+Beidou: I want a bass head with all the teeth removed. If there's a single tooth in there, I don't want it.
+Nei: Huh? ...You know bass have pharyngeal teeth, right? In the throat? How do you expect me to get all those out?
+Beidou: Then I'll have a bass trunk with two swim bladders. Again, if it's short by one swim bladder, it's not the bass I want.
+Nei: You're not making this easy for me... One bass means one swim bladder. 'Fraid that's not up to me.
+Beidou: Okay, then I'll take a bass tail with scales that are yellow on the outside, black on the inside. Also, it's gotta have a total of 81 scales, that's 7 times 7. No more, no less.
+Nei: What kind of fish scales are yellow outside and black inside? You sure this is a fish you're talking about?
+Nei: In any case, you can try all you want but seven times seven is never gonna get you 81...
+Nei: Pardon my asking but you're not a fish expert, are you? I'm sorry, Ma'am! But I'm afraid I don't have any of the things you're looking for.
+Traveler: Didn't you say you have everything we could ask for?
+Nei: Look, I'm a professional, and so are most of the people I serve. I can accommodate anything they ask for. Seems you two are amateurs, so I'm sorry, but you'll have to go someplace else.
+Beidou: Anywhere you'd recommend?
+Nei: Hehe, like I said, Nei's Professional Fishmonger's is for professionals. For amateurs, the place to go to would be Wai's Amateur Fishmonger's.
+
+## Conversation 5
+
+Mr. Iron Abacus: Are you two here to collect your order? Huh? Bei... Ahem!
+Beidou: Yes, Sir. We're here about that bass.
+Mr. Iron Abacus: I didn't expect you to come in person. But we still need to follow procedure.
+Mr. Iron Abacus: The bass you want is not a standard specimen. Our fishermen need to wait for the right moment to catch it.
+Mr. Iron Abacus: You know the rules, I take it?
+Beidou: Of course.
+Traveler: What rules?
+Mr. Iron Abacus: Hehe. As you know, timing and location are everything when it comes to fishing. You have to wait till all the conditions are just right: that means the tide, the moon, and the wind.
+Mr. Iron Abacus: So let me ask you this. When will the tide come in?
+Beidou: The fishing song will sound out at midnight.
+Mr. Iron Abacus: How drunk will the moon be before the party's over?
+Beidou: It won't stop while the star of death shines.
+Mr. Iron Abacus: I see, yes... Which way will the sea breeze be blowin'?
+Beidou: The breeze should be bound for Guyun.
+Mr. Iron Abacus: Alright then. Well received, I will go and make arrangements. Ahem...
+Beidou: Great! I think that wraps up everything we needed to do in Liyue Harbor. Let's head back and wait for the delivery.
+
+Option 1:
+
+> Traveler: That's it? But where's our fish?
+> Beidou: Haha, I thought we were pretty clear, weren't we?
+
+Option 2:
+
+> Traveler: What did all those riddles mean?
+
+Beidou: The three people we just met are our business partners. Nei's Professional Fishmonger's and Wai's Amateur Fishmonger's are just cover names.
+Beidou: The bass, obviously, is the code name for the goods. The numbers of teeth, swim bladders, and scales all represent different specifications.
+Beidou: Meanwhile, the conversation I had with the warehouse keeper was the instructions for the deal itself. Lemme translate it for you...
+Beidou: Tonight at midnight, the deal will take place in Guyun Stone Forest. The Alcor will wait there as long as needed.
+Beidou: As for what the actual goods are, well, you'll see tonight.
+
+Option 1:
+
+> Traveler: This is all so mysterious... is it as shady as it seems?
+
+Option 2:
+
+> Traveler: We're not doing anything illegal here, are we?
+
+Beidou: What if I were to say yes? What would you do then?
+
+Option 1:
+
+> Traveler: Try and persuade Ningguang to give you a light sentence...
+
+Option 2:
+
+> Traveler: Pretend I didn't see anything...
+
+Option 3:
+
+> Traveler: I need to think about it...
+
+Beidou: #Hahahaha, thank you, Traveler. But don't worry, everything will be fine.
+Beidou: I deeply value you as a friend, but ultimately, you're not with The Crux.
+Beidou: I definitely don't want to cause you any trouble just because you hung out with me.
+Beidou: So rest assured, we haven't broken any laws — at least not today.
+
+## Conversation 6
+
+Mr. Iron Abacus: Captain Beidou. You gave me quite the surprise when you showed up in person earlier today.
+Beidou: #Well, my friend is visiting, so I wanted to show him how The Crux handles some of its important business.
+Mr. Iron Abacus: I see. You two must be close.
+Beidou: You got that right! Now, down to business.
+Beidou: Have you brought the goods?
+Mr. Iron Abacus: Yep, all here. Please, feel free to take stock.
+Yijian: Stop! Nobody move!
+Yijian: We have received certain information pertaining to a potential illegal business transaction at this location.
+Yijian: Apologies, Captain Beidou, but I'm going to need to inspect those goods.
+
+Option 1:
+
+> Traveler: (Oh no. Should I run for it?)
+
+Option 2:
+
+> Traveler: (Oh no. Should I distract him while Beidou retreats?)
+
+Beidou: Oh? An illegal business transaction, you say? All the goods are here. If you have any suspicions, please inspect them at your leisure.
+Gui'an: C—Captain, everything's been checked. It's just a bunch of potatoes, flour, and so on, and... all the paperwork checks out too.
+Yijian: Huh?
+Gongjun: Everything's been checked thrice over... there's not a single contraband item here. The paperwork was approved by the Ministry of Civil Affairs and the tax declarations are all in order...
+Beidou: Looks like you've managed to clear everything up — I suppose we can put this down as a simple misunderstanding?
+Yijian: Yes, apologies... this was a mistake on our end.
+Yijian: C'mon, let's go!
+Mr. Iron Abacus: Bravo, Captain Beidou. This was rather ingenious.
+
+Option 1:
+
+> Traveler: Wait a second. What's going on?
+
+Option 2:
+
+> Traveler: All this mystery over some potatoes and flour?
+
+Mr. Iron Abacus: Seems like your friend still has a little catching up to do.
+Beidou: #Hahahaha, I know you have a lot of questions, Traveler. Come on, take a walk with me, and I'll lay it all out for you.
+Mr. Iron Abacus: I'll leave you both to it. Captain Beidou, I look forward to doing business with you again. Take care.
+
+## Conversation 7
+
+Beidou: Looking at the time, it should be any second now.
+Beidou: Look, that's the signal!
+Beidou: Haha, tonight's real deal is officially done.
+Beidou: Do you have any more questions?
+Traveler: I have a feeling Ningguang is not so easy to fool.
+Beidou: You're right. Never underestimate her. But as long as we don't take things too far, she won't look into it too closely.
+Beidou: She knows that neither you nor I would do anything to harm Liyue.
+Beidou: In any case, there's another higher-level watch list at the Ministry of Civil Affairs above the one we're on. It's top-secret. Even I don't know whose names are on it.
+Beidou: But I do know that the individuals and organizations on that list are the ones the Qixing are really wary of.
+Beidou: Haha, I've gotten off-topic. On some level, Ningguang and I are actually business partners too.
+Beidou: Reason being, I'm the only one who can get her some of the more obscure treasures she wants.
+Traveler: What is the real deal?
+Beidou: It's complicated.
+Beidou: All you need to know is that what might be easily attainable for some people can often be a lifesaver for others who can't get their hands on it.
+Beidou: That's where we come in. It's as simple as that.
+
+Option 1:
+
+> Traveler: Do you mean... weapons?
+
+Option 2:
+
+> Traveler: Do you mean... medicine?
+
+Beidou: Hahahaha...
+Beidou: #Traveler... you still have some important things to take care of, don't you?
+Beidou: As long as you don't know what I was referring to, you'll be safe.
+Beidou: So I'm sorry, but I can't tell you for now.
+Beidou: Of course, if the day comes when you've traveled to every corner of the world, found your sibling, and neatly tied up all your loose ends along the way...
+Beidou: You are welcome to come back here, and I will tell you all about it.
+Beidou: You will always be welcome in the Crux Fleet. I hope I get to see you onboard again someday.
+
+## Conversation 8
+
+Wai: Fresh seafood! Fresh seafood! Come take a look!
+Beidou: Is this Wai's Amateur Fishmonger's?
+Wai: That's the one! We have all kinds of amateur stuff here. The more amateur, the more of it we've got!
+Wai: What would you like?
+Beidou: We'd like a bass head.
+Wai: No problem! Ours are all toothless, mind you.
+Beidou: And a bass trunk.
+Wai: No problem! I'll stick an extra swim bladder in there for ya, on the house.
+Beidou: And a tail.
+Wai: Sure thing! I'll paint the scales yellow on the outside and black on the inside, so you can tell at a glance: This ain't no ordinary fishtail!
+Traveler: Do the scales add up to 81, or seven times seven?
+Wai: If it's seven times seven you want, I can do you 81, 138, or even 648! It's up to you!
+Beidou: Great! I like your style. We have a deal.
+Wai: Appreciate your patronage! Please take your order to our warehouse manager over there.
+Traveler: Don't you have the fish here?
+Wai: Hehe! A real amateur if I ever met one! Proud to have you as a customer.
+Wai: No, we don't have the fish here. All fish sold at Wai's Amateur Fishmonger's are still swimming in the sea.
+Wai: Once we get the order in from the customer, we go fish it out for them. The warehouse handles that side of things.
+Wai: Pay first, then we bring you the goods! That way, you get the freshest catch!
