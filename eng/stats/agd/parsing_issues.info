@@ -7033,6 +7033,12 @@
 ⚠ TalkGroups: ('GadgetGroup', '1002') -> MISSING_DIALOG: 689010502
 ⚠ TalkGroups: ('GadgetGroup', '1002') -> MISSING_DIALOG: 689010502
 ⚠ TalkGroups: ('GadgetGroup', '1002') -> MISSING_DIALOG: 689010402
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010202
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010302
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010402
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010502
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010502
+⚠ TalkGroups: ('GadgetGroup', '1003') -> MISSING_DIALOG: 689010402
 ⚠ TalkGroups: ('GadgetGroup', '1004') -> MISSING_DIALOG: 689010202
 ⚠ TalkGroups: ('GadgetGroup', '1004') -> MISSING_DIALOG: 689010302
 ⚠ TalkGroups: ('GadgetGroup', '1004') -> MISSING_DIALOG: 689010402
@@ -7081,10 +7087,6 @@
 ⚠ TalkGroups: ('GadgetGroup', '143008') -> UNKNOWN_ROLE: dialog 680070405 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '143008') -> UNKNOWN_ROLE: dialog 680070406 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '143008') -> UNKNOWN_ROLE: dialog 680070407 role TALK_ROLE_GADGET
-⚠ TalkGroups: ('GadgetGroup', '154001') -> MISSING_TEXT: 1366227290
-⚠ TalkGroups: ('GadgetGroup', '154001') -> UNKNOWN_ROLE: dialog 685020001 role TALK_ROLE_GADGET
-⚠ TalkGroups: ('GadgetGroup', '154001') -> MISSING_TEXT: 3070013578
-⚠ TalkGroups: ('GadgetGroup', '154001') -> UNKNOWN_ROLE: dialog 685020002 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '157008') -> UNKNOWN_ROLE: dialog 680090801 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '157008') -> UNKNOWN_ROLE: dialog 680090802 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '157008') -> UNKNOWN_ROLE: dialog 680090803 role TALK_ROLE_GADGET
@@ -7298,10 +7300,7 @@
 ⚠ TalkGroups: ('GadgetGroup', '48001') -> UNKNOWN_ROLE: dialog 680060204 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '48003') -> MISSING_TEXT: 1051182482
 ⚠ TalkGroups: ('GadgetGroup', '48004') -> MISSING_TEXT: 1316313498
-⚠ TalkGroups: ('GadgetGroup', '54003') -> MISSING_TEXT: 1670728762
-⚠ TalkGroups: ('GadgetGroup', '54003') -> UNKNOWN_ROLE: dialog 686380901 role TALK_ROLE_GADGET
-⚠ TalkGroups: ('GadgetGroup', '54010') -> MISSING_TEXT: 2739006482
-⚠ TalkGroups: ('GadgetGroup', '54010') -> UNKNOWN_ROLE: dialog 686381001 role TALK_ROLE_GADGET
+⚠ TalkGroups: ('GadgetGroup', '48007') -> MISSING_TEXT: 4189058370
 ⚠ TalkGroups: ('GadgetGroup', '54015') -> MISSING_TEXT: 3839981802
 ⚠ TalkGroups: ('GadgetGroup', '54015') -> UNKNOWN_ROLE: dialog 686380801 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '576001') -> MISSING_TEXT: 958339498
@@ -7325,6 +7324,8 @@
 ⚠ TalkGroups: ('GadgetGroup', '819001') -> MISSING_TEXT: 1754775994
 ⚠ TalkGroups: ('GadgetGroup', '821002') -> MISSING_TEXT: 3164803210
 ⚠ TalkGroups: ('GadgetGroup', '821002') -> MISSING_TEXT: 237907394
+⚠ TalkGroups: ('GadgetGroup', '822002') -> MISSING_TEXT: 3164803210
+⚠ TalkGroups: ('GadgetGroup', '822002') -> MISSING_TEXT: 237907394
 ⚠ TalkGroups: ('GadgetGroup', '84074') -> MISSING_TEXT: 1381195090
 ⚠ TalkGroups: ('GadgetGroup', '84074') -> UNKNOWN_ROLE: dialog 686301101 role TALK_ROLE_GADGET
 ⚠ TalkGroups: ('GadgetGroup', '84075') -> MISSING_TEXT: 3274239306
@@ -8072,8 +8073,10 @@
 ⚠ Talks: 6801504 -> UNKNOWN_ROLE: dialog 680150401 role TALK_ROLE_GADGET
 ⚠ Talks: 6801504 -> UNKNOWN_ROLE: dialog 680150402 role TALK_ROLE_GADGET
 ⚠ Talks: 6801504 -> UNKNOWN_ROLE: dialog 680150403 role TALK_ROLE_GADGET
-⚠ Talks: 6846007 -> MISSING_TEXT: 3164803210
-⚠ Talks: 6846008 -> MISSING_TEXT: 237907394
+⚠ Talks: 6850200 -> MISSING_TEXT: 1366227290
+⚠ Talks: 6850200 -> UNKNOWN_ROLE: dialog 685020001 role TALK_ROLE_GADGET
+⚠ Talks: 6850200 -> MISSING_TEXT: 3070013578
+⚠ Talks: 6850200 -> UNKNOWN_ROLE: dialog 685020002 role TALK_ROLE_GADGET
 ⚠ Talks: 6862408 -> UNKNOWN_ROLE: dialog 686240801 role TALK_ROLE_GADGET
 ⚠ Talks: 6862409 -> UNKNOWN_ROLE: dialog 686240901 role TALK_ROLE_GADGET
 ⚠ Talks: 6862410 -> UNKNOWN_ROLE: dialog 686241001 role TALK_ROLE_GADGET
@@ -8082,14 +8085,11 @@
 ⚠ Talks: 6863014 -> UNKNOWN_ROLE: dialog 686301401 role TALK_ROLE_GADGET
 ⚠ Talks: 6863205 -> MISSING_TEXT: 986272906
 ⚠ Talks: 6863207 -> MISSING_DIALOG: 686320901
+⚠ Talks: 6863809 -> MISSING_TEXT: 1670728762
+⚠ Talks: 6863809 -> UNKNOWN_ROLE: dialog 686380901 role TALK_ROLE_GADGET
+⚠ Talks: 6863810 -> MISSING_TEXT: 2739006482
+⚠ Talks: 6863810 -> UNKNOWN_ROLE: dialog 686381001 role TALK_ROLE_GADGET
 ⚠ Talks: 6864001 -> MISSING_TEXT: 89087074
-⚠ Talks: 6864002 -> MISSING_TEXT: 4189058370
-⚠ Talks: 6890302 -> MISSING_DIALOG: 689010202
-⚠ Talks: 6890303 -> MISSING_DIALOG: 689010302
-⚠ Talks: 6890304 -> MISSING_DIALOG: 689010402
-⚠ Talks: 6890305 -> MISSING_DIALOG: 689010502
-⚠ Talks: 6890315 -> MISSING_DIALOG: 689010502
-⚠ Talks: 6890316 -> MISSING_DIALOG: 689010402
 ⚠ Talks: 6985711 -> MISSING_DIALOG: 0
 ⚠ Talks: 6985712 -> MISSING_DIALOG: 0
 ⚠ Talks: 7567202 -> MISSING_TEXT: 0
