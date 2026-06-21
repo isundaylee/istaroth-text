@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Thoma: I haven't been to Ritou in a long time, but it feels like the place hasn't changed at all.
+
 Thoma: I haven't been to Ritou in a long time, but it feels like the place hasn't changed at all.
 Thoma: Then again, a long time for humans is a blink of an eye for the natural environment.
 Thoma: Makes me wonder... what is Mondstadt like these days?
@@ -48,7 +50,10 @@ Thoma: But you've gotta be fair to us with the price, Ma'am. My friend here is a
 Qiuyue: Oh, really? Well, say no more, Thoma, I wouldn't dream of overcharging. How does this figure look to you?
 Thoma: #It looks very reasonable. Deal! Now, Traveler, lemme take you somewhere else.
 
+*→ Ending (save point 1911902)*
 ## Conversation 2
+
+### Talk: Thoma: This is Sailing Breeze, a purveyor of Mondstadt wines.
 
 Thoma: This is Sailing Breeze, a purveyor of Mondstadt wines.
 Thoma: As it turned out, one of the first things that greeted me here when I arrived wasn't my father, but wine from my hometown.
@@ -70,11 +75,16 @@ Thoma: You've been to Mondstadt, right? I assume you've been to the Angel's Shar
 Thoma: I hear the owner's quite a formidable businessman. Given the chance, I'd love to meet him.
 Thoma: When that day comes, we should also grab a drink... ah, wait, what am I saying. Maybe when you're older.
 
+*→ Ending (save point 1912001)*
 ## Conversation 3
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1204209]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1204209])
+
 Thoma: Here we are. Bet this takes you back, huh?
 
 Option 1:
@@ -138,9 +148,10 @@ Thoma: Okay, that about wraps up our nostalgia trip to the International Trade A
 Thoma: Let's keep heading this way. We don't get to hang out all that often — it'd be a shame to head back so soon.
 
 Thoma: Now that the Sakoku Decree has ended, there's some disagreements within the International Trade Association. He's doing his best to mediate.
+*→ Ending (save point 1912002)*
 
+#### Branch 2
 
-Branch 2
 Thoma: Here we are. Bet this takes you back, huh?
 
 Option 1:
@@ -195,13 +206,17 @@ Option 2:
 
 Thoma: Okay, that about wraps up our nostalgia trip to the International Trade Association. I think we've just seen about everything there is to see in the city.
 Thoma: Let's keep heading this way. We don't get to hang out all that often — it'd be a shame to head back so soon.
-
+*→ End of conversation*
 
 ## Conversation 4
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1204209]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1204209])
+
 Thoma: I come to this place every time I visit Ritou.
 Thoma: The view here isn't as spectacular as on Narukami Island, but if you're looking for a relaxing spot, you can't beat this one.
 [Missing Dialog 191190403]
@@ -269,9 +284,10 @@ Thoma: Whatever the truth of it is, I'd like you to have it.
 
 Thoma: And I'm sure it'll be bustling with life again soon enough now that the Sakoku Decree's been abolished.
 Thoma: Once I'm on top of things, I think I'll have to ask milady for a long vacation, so I can take a trip back home. I don't see that happening anytime soon, though... I have a long list of things to get through.
+*→ Ending (save point 1912003)*
 
+#### Branch 2
 
-Branch 2
 Thoma: I come to this place every time I visit Ritou.
 Thoma: The view here isn't as spectacular as on Narukami Island, but if you're looking for a relaxing spot, you can't beat this one.
 Thoma: I believe that the Sakoku Decree will be repealed one day, and this place will flourish again like it did in the old days.
@@ -336,3 +352,4 @@ Thoma: But it can bring the bearer good luck... seriously, I'm not making that u
 Thoma: He gave it to my mom, and she gave it to me just before I came to Inazuma.
 Thoma: Who knows, maybe this omamori was the only reason I survived the storm and made it to Inazuma in the first place.
 Thoma: Whatever the truth of it is, I'd like you to have it.
+*→ End of conversation*

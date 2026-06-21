@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Beatrice: ...I'm sorry, Marjorie. I was focused solely on chatting with Quinn... I didn't see anything else at all.
+
 Beatrice: ...I'm sorry, Marjorie. I was focused solely on chatting with Quinn... I didn't see anything else at all.
 Beatrice: If you're out of other options, maybe you could get help from the Knights? I'm sure if Master Jean heard about it, she'd help you find it in no time!
 Marjorie: Thanks. I'll check with a few more people first... If no one has seen it, then I guess I'll just have to ask the Knights.
@@ -36,31 +38,38 @@ Noelle: #*sigh* Traveler, I'd better gather some more information before heading
 Noelle: As well as confirming some details regarding the monocle itself... We should find out as much as possible from Marjorie about the circumstances under which it went missing.
 Marjorie: So, do you have some ideas on where to start? Ask me whatever you wanna know, I'll answer to the best of my memory.
 
-[Player choice]
+### Choice 1
 
-Branch 1: What can you tell us about the missing item?
+#### Branch 1: What can you tell us about the missing item?
+
 Marjorie: The missing item... Well, it's a monocle, to start with. And since it came from Sumeru, the design should be fairly recognizable.
 Marjorie: As for other distinguishing features, it's very light and it's very small...
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: Did you see anything?
+### Choice 2
+
+#### Branch 1: Did you see anything?
+
 Marjorie: Hmm... I had my head down, and I was busy working through the stock. I didn't see anything that was going on around me...
 Marjorie: But this street is so busy that surely someone would have noticed if it had been stolen?
+*→ Next: Choice 3*
 
-[Player choice]
 
-Branch 1: Did you hear anything?
+### Choice 3
+
+#### Branch 1: Did you hear anything?
+
 Marjorie: Oh... now that you mention it... I do remember hearing some kind of... flapping sound...
 Marjorie: The sound went as soon as it came, and I was focused on checking if anyone had seen anything, so I didn't give it too much thought at the time... Do you think it could be connected?
 Traveler: Maybe we can investigate in the direction in which the noise disappeared.
 Marjorie: Hmm... I first heard it behind me, and then it seemed to fade out in a north-westerly direction. Now I wish I'd followed the sound and spoken to people along the way.
 Noelle: #Traveler, shall we go head in that direction and make some inquiries? Maybe we'll find some clues.
-
-
-
+*→ Ending (save point 1909102)*
 
 ## Conversation 2
+
+### Talk: Noelle: Excuse me, Glory. Have you heard anything that might be described as a flapping sound in this area recently?
 
 Noelle: Excuse me, Glory. Have you heard anything that might be described as a flapping sound in this area recently?
 Noelle: Marjorie's monocle has gone missing from her shop. We're trying to look for clues...
@@ -72,7 +81,10 @@ Noelle: #I've seen their nests in the past on occasion, while I'm cleaning the r
 Noelle: Finally, we have a lead to go on. Thank you, Glory!
 Glory: You're welcome! May you swiftly recover the lost item by the grace of the Anemo Archon.
 
+*→ Ending (save point 1909103)*
 ## Conversation 3
+
+### Talk: Noelle: Miss Marjorie, here. We found your monocle.
 
 Noelle: Miss Marjorie, here. We found your monocle.
 Marjorie: Wow, you were so quick. How wonderful! I thought I wouldn't be hearing back for a few days yet.
@@ -102,3 +114,5 @@ Noelle: I do these things not because I'm a maid, but because of my own will.
 Traveler: Noelle, just be the kind of knight that you want to be.
 Noelle: Yes, there's no need to become someone else, nor worry about failing... As long as I perform better in my next exam than in my previous one...
 Noelle: ...Then one day, I will become a knight that I can be proud of.
+
+*→ Ending (save point 1909104)*

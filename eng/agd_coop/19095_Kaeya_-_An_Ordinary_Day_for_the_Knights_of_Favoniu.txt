@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Kaeya: Hey, you two busy?
+
 Kaeya: Hey, you two busy?
 
 Option 1:
@@ -58,7 +60,10 @@ Kaeya: Thank you, then we'll be going now.
 Lisa: Enjoy your vacation. But don't forget to return The Fox in the Dandelion Sea series before it's due.
 Kaeya: Don't worry, I'm nearly done with those. I'll be able to return them in a few days.
 
+*→ Ending (save point 190950201)*
 ## Conversation 2
+
+### Talk: Kaeya: I'm surprised Klee still hasn't escaped... I taught her a few tricks just before I left.
 
 Kaeya: I'm surprised Klee still hasn't escaped... I taught her a few tricks just before I left.
 
@@ -77,11 +82,14 @@ Kaeya: Oh... how about we visit the Dawn Winery under the pretext of delivering 
 Kaeya: Diluc should be there tomorrow, since he has business to deal with. But then there's nothing scheduled for the day after tomorrow, so perhaps it'll be easier to get free wine then...
 Kaeya: What do you think? When should we go?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Tomorrow.
+#### Branch 1: Tomorrow.
+
 Kaeya: That works, then I guess we'll see Diluc. Let's meet at the front entrance of the Dawn Winery tomorrow.
+*→ Ending (save point 190950301)*
 
+#### Branch 2: The day after tomorrow.
 
-Branch 2: The day after tomorrow.
 Kaeya: Great, then it's settled. Let's meet the day after tomorrow at the front entrance of the Dawn Winery.
+*→ Ending (save point 190950302)*

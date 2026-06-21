@@ -2,9 +2,13 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [1, 1, 0]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [1, 1, 0])
+
 早柚: 这是我经常进行的训练，简而言之就是用来逃跑的技术，这样遇到巫女姐姐就能跑得更快。
 鹿野奈奈: 你啊，唉…还是我来解释吧，这是提升忍者敏捷度的训练。
 鹿野奈奈: 为了在任务中出其不意，忍者经常会通过各种各样的地形。
@@ -19,17 +23,22 @@ Branch 1
 早柚: 我、我知道了…
 鹿野奈奈: 这孩子，虽然平时很不认真，但忍者的基本功非常扎实。
 鹿野奈奈: #加油吧，旅行者，我在终点等你。
+*→ Ending (save point 1901501)*
 
+#### Branch 2
 
-Branch 2
 鹿野奈奈: #加油吧，旅行者，我在终点等你。
-
+*→ End of conversation*
 
 ## Conversation 2
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1901503]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901503])
+
 早柚: 做得真好，真是有天分的孩子呢。
 早柚: 这次训练的成绩，打比方来说，像非常厉害的貉。
 早柚: 辛苦啦，辛苦啦，在心中欢呼吧。
@@ -57,12 +66,19 @@ Option 2:
 早柚: 没关系哦，不要有压力，我会演示到你找到门道为止。
 鹿野奈奈: 你又开始了，模仿别人说话是不好的习惯哦。
 早柚: 对、对不起…
+*→ Ending (save point 1901503)*
+
+#### Branch 2
+
+*→ Next: Choice 2*
 
 
-Branch 2
-[Conditional branch]
+### Choice 2
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1901508]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901508])
+
 早柚: 唔，和最好的成绩有一点差距，没关系，下次再努力吧。
 早柚: 这次训练的成绩，打比方来说，像普普通通的狐狸。
 早柚: 狐狸也很好啦，对吧。
@@ -90,12 +106,19 @@ Option 2:
 早柚: 没关系哦，不要有压力，我会演示到你找到门道为止。
 鹿野奈奈: 你又开始了，模仿别人说话是不好的习惯哦。
 早柚: 对、对不起…
+*→ End of conversation*
+
+#### Branch 2
+
+*→ Next: Choice 3*
 
 
-Branch 2
-[Conditional branch]
+### Choice 3
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1901509]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901509])
+
 早柚: 有点可惜呢，稍微有点可惜。
 早柚: 这次训练的成绩，打比方来说，像不太灵活的乌龟。
 早柚: 但不要灰心，再接再厉吧。
@@ -123,16 +146,23 @@ Option 2:
 早柚: 没关系哦，不要有压力，我会演示到你找到门道为止。
 鹿野奈奈: 你又开始了，模仿别人说话是不好的习惯哦。
 早柚: 对、对不起…
+*→ End of conversation*
 
+#### Branch 2
 
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: 鹿野奈奈: 就是这里了，请你多多观察早柚的忍技。
 
 鹿野奈奈: 就是这里了，请你多多观察早柚的忍技。
 早柚: 那我用忍术的时候，尽量简单易懂一点…
 
+*→ Ending (save point 1901504)*
 ## Conversation 4
+
+### Talk: 早柚: 好累，累死了…
 
 早柚: 好累，累死了…
 早柚: 我的衣服，哦，幸好没弄脏。
@@ -175,7 +205,10 @@ Option 2:
 早柚: #嗯，旅行者，跟我走吧，带你去休息的地方。
 早柚: 早柚可以休息啦。
 
+*→ Ending (save point 1901506)*
 ## Conversation 5
+
+### Talk: 早柚: 果然，没什么变化啊…
 
 早柚: 果然，没什么变化啊…
 旅行者: 这里的绳子是做什么的。
@@ -249,3 +282,5 @@ Option 2:
 早柚: 也对，嘿嘿，稍微有点激动了。
 早柚: 休息时间结束之后，我们继续回去练习忍术吧，今天是很罕见的，「想要努力」的心情。
 早柚: 先不说这些了，来，吃水果吧，你要什么，随便挑。
+
+*→ Ending (save point 1901507)*

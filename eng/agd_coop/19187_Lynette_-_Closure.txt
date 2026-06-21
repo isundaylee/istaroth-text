@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Elodie: ...Hmph, hahaha... What was that word you used, "ally"? You think that someone as foolish as him is worthy to call himself my ally?
+
 Elodie: ...Hmph, hahaha... What was that word you used, "ally"? You think that someone as foolish as him is worthy to call himself my ally?
 Elodie: They were worthless scum, all of them — not just Bernard and Pierre, but those Lefeveres, too! They always just saw me as a tool!
 Elodie: I lost all my chances of a normal life just because I was born into their lot! Not only that, but because they wanted me to become an undercover agent, they stripped me of my name, too!
@@ -28,19 +30,39 @@ Elodie: Know what this is? Hahaha... I've secretly planted loads of explosives i
 Elodie: Whether they're cats, dogs, or just unlucky human employees, they'll all be blown up into smithereens!
 Elodie: Surely, you bunch of goody two-shoes won't let that happen, right?
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
-[Conditional branch]
+#### Branch 1
 
-Branch 1
+*→ Next: Choice 2*
+
+#### Branch 2
+
+*→ Next: Choice 3*
+
+#### Branch 3
+
+*→ Next: Choice 4*
+
+#### Branch 4
+
+*→ Next: Choice 5*
+
+
+### Choice 2
+
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1034, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1034, 0])
+
 Elodie: Surely, you bunch of goody two-shoes won't let that happen, right?
 
 Traveler: Whoa, just calm down for a minute here...
 Elodie: That's enough! I have nothing left to say to any of you! Gardemeks, get 'em!
+*→ Ending (save point 191870101)*
 
+#### Branch 2
 
-Branch 2
 Elodie: Surely, you bunch of goody two-shoes won't let that happen, right?
 
 Traveler: It wasn't your choice to be born into a family of villains...
@@ -76,20 +98,23 @@ Option 2:
 Elodie: I... Ugh, then what am I supposed to do... Do I even have any choice!?
 Elodie: ...Argh!
 Black Screen Text: As Elodie's resolve begins to waver, she is knocked out by a hard blow from behind...
+*→ Ending (save point 191870102)*
 
 
+### Choice 3
 
-Branch 2
-[Conditional branch]
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1035, 0]*
 
-Branch 1
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1035, 0])
+
 Elodie: Surely, you bunch of goody two-shoes won't let that happen, right?
 
 Traveler: Whoa, just calm down for a minute here...
 Elodie: That's enough! I have nothing left to say to any of you! Gardemeks, get 'em!
+*→ End of conversation*
 
+#### Branch 2
 
-Branch 2
 Chevreuse: Do you know what would happen to you if you were to run away now? The entire Special Patrol would be out hunting for you day and night to the ends of the world!
 
 Option 1:
@@ -105,20 +130,23 @@ Chevreuse: Would you rather go back with me now and wait for a trial, or wait fo
 Elodie: No... I... I can't...
 Elodie: ...Argh!
 Black Screen Text: As Elodie's resolve begins to waver, she is knocked out by a hard blow from behind...
+*→ End of conversation*
 
 
+### Choice 4
 
-Branch 3
-[Conditional branch]
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1036, 0]*
 
-Branch 1
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1036, 0])
+
 Elodie: Surely, you bunch of goody two-shoes won't let that happen, right?
 
 Traveler: Whoa, just calm down for a minute here...
 Elodie: That's enough! I have nothing left to say to any of you! Gardemeks, get 'em!
+*→ End of conversation*
 
+#### Branch 2
 
-Branch 2
 Lyney: ...I can understand how you feel. Like you, we are also victims of the Lefevere clan.
 Lyney: But if you were to endanger innocents now for your own gain, the public anger towards the Lefeveres would only rise to a boiling point!
 Lyney: And the families of the new victims would be dead set on exacting revenge on you.
@@ -132,30 +160,36 @@ Elodie: ...I'm watching you. Don't think for a second you can pull a fast one on
 Lyney: Mhm, that's right... Just keep your eyes on me, don't look away...
 Elodie: ...Argh!
 Black Screen Text: As Elodie fixates her gaze on Lyney, she is struck by a hard blow from behind...
+*→ End of conversation*
 
 
+### Choice 5
 
-Branch 4
-[Conditional branch]
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1037, 0]*
 
-Branch 1
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1037, 0])
+
 Elodie: Did you think I was blind? ...Tsk! Gardemeks, get 'em!
+*→ End of conversation*
 
+#### Branch 2
 
-Branch 2
 Elodie: Ugh... What...!
 Elodie: Hey! Don't do anything stupid... Gardes... Gardemeks—
 Black Screen Text: Before Elodie can finish giving her command, she is subdued by you and Lynette after sneaking up on her from behind.
 
 Black Screen Text: Without waiting for Elodie to finish her threats, you and Lynette strike as one...
-
-
+*→ End of conversation*
 
 ## Conversation 2
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1918702]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1918702])
+
 Elodie: Busted so quickly, huh? Good thing I've already bought enough time to escape...
 Elodie: ...Argh!
 Black Screen Text: As Elodie begins to believe that she may have finally made it, she is knocked out by a hard blow from behind...
@@ -178,31 +212,10 @@ Lynette: ...Well, given that she never even showed her face to Bernard and Pierr
 Chevreuse: Thank you for your help, everyone. I'll take them back for thorough questioning, and find someone better to take over the Humane Society. I might need a few statements from everybody... Would you be able to come with me?
 Lynette: Er, if statements are all you need... Can Lyney provide them on my behalf?
 Lynette: #I still need to go back and explain some things to the crew... I also had an appointment with Traveler, before we got interrupted.
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
-Lynette: Ah, so you do remember. Yes, I invited you to come over to our place.
-Lynette: ...Once I'm done talking with the troupe, I'll make a nice cup of tea, and bring Bonnie to wait for you outside of my door.
-Bonnie: Meow!
-
-
-Branch 2
-[Conditional branch]
-
-Branch 1
-Traveler: (I remember that when we parted ways at the Steambird yesterday, she mentioned something about having tea together at her place... But we were interrupted by Elodie and the others.)
-
-
-Branch 2
-Lynette: A lot has happened since then... I'm referring to when I invited you over for some tea and also to spend some time with Bonnie.
-Lynette: ...Once I'm done talking with the troupe, I'll take Bonnie home and make a nice cup of tea, you'll be able to find us outside of my door.
-Bonnie: Meow!
-
-
-
-
-Branch 2
 Bonnie: —Mrrow!
 Lynette: Phew... So I was right, after all. It's easier to deal with the person causing the problem than the problem itself.
 Traveler: And what about that device she had?
@@ -222,9 +235,61 @@ Lynette: ...Well, given that she never even showed her face to Bernard and Pierr
 Chevreuse: Thank you for your help, everyone. I'll take them back for thorough questioning, and find someone better to take over the Humane Society. I might need a few statements from everybody... Would you be able to come with me?
 Lynette: Er, if statements are all you need... Can Lyney provide them on my behalf?
 Lynette: #I still need to go back and explain some things to the crew... I also had an appointment with Traveler, before we got interrupted.
+*→ Next: Choice 4*
 
+
+### Choice 2
+
+#### Branch 1
+
+Lynette: Ah, so you do remember. Yes, I invited you to come over to our place.
+Lynette: ...Once I'm done talking with the troupe, I'll make a nice cup of tea, and bring Bonnie to wait for you outside of my door.
+Bonnie: Meow!
+*→ Ending (save point 191870301)*
+
+#### Branch 2
+
+*→ Next: Choice 3*
+
+#### Branch 3
+
+*→ End of conversation*
+
+
+### Choice 3
+
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1038, 1]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1038, 1])
+
+Traveler: (I remember that when we parted ways at the Steambird yesterday, she mentioned something about having tea together at her place... But we were interrupted by Elodie and the others.)
+*→ End of conversation*
+
+#### Branch 2
+
+Lynette: A lot has happened since then... I'm referring to when I invited you over for some tea and also to spend some time with Bonnie.
+Lynette: ...Once I'm done talking with the troupe, I'll take Bonnie home and make a nice cup of tea, you'll be able to find us outside of my door.
+Bonnie: Meow!
+*→ End of conversation*
+
+
+### Choice 4
+
+#### Branch 1
+
+*→ End of conversation*
+
+#### Branch 2
+
+*→ End of conversation*
+
+#### Branch 3
+
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Lynette: Mmm... Black tea and a cute kitty. Truly, the best combo for standby mode.
 
 Lynette: Mmm... Black tea and a cute kitty. Truly, the best combo for standby mode.
 Lynette: Want some?
@@ -304,3 +369,5 @@ Traveler: Hmm, fair enough!
 Lynette: Humans tend to overthink things, but cats rely on their instincts, and they're pretty sharp. I mean, just look at Bonnie...
 Lynette: ...She took a liking to you the moment you met.
 Bonnie: Meow!
+
+*→ Ending (save point 191870501)*

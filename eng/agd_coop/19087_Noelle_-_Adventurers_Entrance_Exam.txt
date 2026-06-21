@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Cyrus: Ad astra abyssosque, and welcome to the third and final part of your exam. Are you ready?
+
 Cyrus: Ad astra abyssosque, and welcome to the third and final part of your exam. Are you ready?
 Noelle: Please... begin. I am ready.
 Cyrus: Good! Now, the most important skillset for an adventurer is, of course... combat skills!
@@ -10,10 +12,14 @@ Cyrus: This is the last part of the exam... Defeat the nearby Ruin Guard *as qui
 Cyrus: I will be watching from here. Give it all you've got, Noelle!
 Noelle: Okay! This time... I am confident I will pass!
 
+*→ Ending (save point 1908701)*
 ## Conversation 2
+
+### Talk: Cyrus: Oh, back already? Seems like...
 
 Cyrus: Oh, back already? Seems like...
 Cyrus: Even the third part of the exam is a walk in the park for you!
+### Talk: Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 
 Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 Cyrus: ...You passed with a perfect score! Noelle, you are incredible, as always!
@@ -41,10 +47,14 @@ Noelle: Ooh, uhh... Well, if my assistance is required...
 Traveler: Noelle, let's go back and do some studying!
 Noelle: Ohh... Okay! Sorry, Mr. Cyrus, maybe next time!
 
+*→ Ending (save point 1908702)*
 ## Conversation 3
+
+### Talk: Cyrus: Oh, back already? Seems like...
 
 Cyrus: Oh, back already? Seems like...
 Cyrus: Hmm... Maybe the difficulty level is too high after all...
+### Talk: Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 
 Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 Cyrus: ...You successfully passed the exam! And you were so close to getting a perfect score... It feels like a missed opportunity...
@@ -66,11 +76,16 @@ Cyrus: #Hmm... I see. *sigh* Well, Traveler, when you get back, would you mind g
 Cyrus: I hope my exam hasn't affected her mood...
 Cyrus: How can I get the exam to the right difficulty level? Hmm... I should go back to the Angel's Share and give this some careful consideration over an alcoholic beverage...
 
+*→ Ending (save point 1908703)*
 ## Conversation 4
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908703]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908703])
+
 Noelle: *catches breath*
 Noelle: Honorary Knight! I did it!
 Traveler: This is all the result of your hard work.
@@ -92,13 +107,34 @@ Option 2:
 > Traveler: I will be there.
 
 Noelle: Great! Maybe, just maybe, things will be different this time...
+*→ Next: Choice 2*
 
+#### Branch 2
+
+*→ Ending (save point 1909301)*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [1, 1, 20]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [1, 1, 20])
+
+*→ Ending (save point 1908704)*
+
+#### Branch 2
+
+*→ Ending (save point 1908706)*
 
 ## Conversation 5
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908704]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908704])
+
 Noelle: Ohhhh...
 Noelle: In the end, I... I couldn't do it...
 Noelle: My palms were sweating and my heart was racing, and...
@@ -115,12 +151,32 @@ Option 2:
 
 Noelle: But if I can't perform well in an exam, what good is my ability...
 Noelle: Oh... Maybe I should train some more...
+*→ Next: Choice 2*
 
+#### Branch 2
+
+*→ Ending (save point 1909302)*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0])
+
+*→ Ending (save point 1908705)*
+
+#### Branch 2
+
+*→ End of conversation*
 
 ## Conversation 6
 
+### Talk: Cyrus: Oh, back already? Seems like...
+
 Cyrus: Oh, back already? Seems like...
 Cyrus: Even the third part of the exam is a walk in the park for you!
+### Talk: Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 
 Cyrus: Now, please allow me to announce the results of your adventurer's entrance examination...
 Cyrus: ...You successfully passed the exam! And you were so close to getting a perfect score... It feels like a missed opportunity...
@@ -142,7 +198,10 @@ Cyrus: #Hmm... I see. *sigh* Well, Traveler, when you get back, would you mind g
 Cyrus: I hope my exam hasn't affected her mood...
 Cyrus: How can I get the exam to the right difficulty level? Hmm... I should go back to the Angel's Share and give this some careful consideration over an alcoholic beverage...
 
+*→ Ending (save point 1908703)*
 ## Conversation 7
+
+### Talk: Noelle: *dozing off*
 
 Noelle: *dozing off*
 Noelle: Mustn't... fall... asleep.
@@ -158,3 +217,5 @@ Noelle: But, but... what if this is the one time they do come up? What then?
 Noelle: What if they ask me... how to rescue an adventurer... or how best to collaborate with the Adventurers' Guild...?
 Noelle: If I neglect these topics now... I may live to regret it later.
 Noelle: *sigh* It looks like every second I have between now and my exam is going to count.
+
+*→ Ending (save point 1908708)*

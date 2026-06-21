@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Badawi: I've taken a look at your proposal. It's much better than the ones you showed me before, but I'd still like to make some changes...
+
 Badawi: I've taken a look at your proposal. It's much better than the ones you showed me before, but I'd still like to make some changes...
 Kaveh: ...Come on, not again? Isn't this the sixth proposal I've shown you? What's your issue this time?
 Badawi: Hmm... It's a bit hard to put into words, but the design still doesn't look quite right to me.
@@ -16,11 +18,15 @@ Kaveh: ...What!?
 Badawi: Don't architects often say that symmetry makes everything more balanced and pleasing to the eye? This way, the proportions will be completely balanced.
 Kaveh: I... I really don't know how you managed to come up with such a ridiculous idea. Wait, don't tell me... Someone hired you specifically to commission me and put me through the wringer? Come to think of it, though, I really don't think I've gotten on anyone's bad side recently...
 Kaveh: Anyway, that's it, I will not be working on this commission anymore. Goodbye! Maybe you can find yourself some other genius who'll be able to satisfy your demands.
+### Talk: Badawi: Hey, young man, please wait... *sigh*...
 
 Badawi: Hey, young man, please wait... *sigh*...
 Traveler: (Kaveh looks like he's in a bad mood. I should go check up on him.)
 
+*→ Ending (save point 190580101)*
 ## Conversation 2
+
+### Talk: Kaveh: Taking this commission was truly the worst decision ever...
 
 Kaveh: Taking this commission was truly the worst decision ever...
 Traveler: Are you all right?
@@ -58,19 +64,35 @@ Lambad: The meaning of art? Really, my friend, who in Sumeru understands art bet
 Lambad: Anyway, I dunno about art, but I do know that I'm interested in business, and some patrons are waiting to be served. So you'll have to excuse me for now... Just holler if you need anything.
 Kaveh: #...What do you think, Traveler?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Art is something that resonates with the masses?
+#### Branch 1: Art is something that resonates with the masses?
+
 Kaveh: Yes, art shouldn't be self-indulgent entertainment saved for the elite.
 Kaveh: Let's say that I built a house for someone. If they don't like how it looks, then no matter how brilliant it may appear to me, they won't be happy with it.
 Kaveh: The problem is that it can be very difficult to get validated by others. I could compromise my personal standards to accommodate my clients, but often, that'd just mean creating a final product that I would struggle to look at.
-
 Traveler: (Kaveh still looks dejected, and even the wine didn't help his mood. How can I help cheer him up?)
 Traveler: (Hmm, maybe I should play it safe and just make a simple suggestion...)
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Something that embodies the creator's efforts and dedication?
 
-Branch 1: I'll help you convince the client to come to your side.
+Kaveh: Exactly. So our thoughts on the meaning of art are rather similar.
+Kaveh: In Sumeru, and especially Sumeru of the past, the arts are not a popular discussion topic. Trying to talk about the arts is basically the key to killing any conversation.
+Kaveh: It's too bad that I'm not in my best form today... Otherwise, we could have talked about this for a little longer.
+*→ End of conversation*
+
+#### Branch 3: I honestly have no idea...
+
+Kaveh: No worries. It was just an offhand question.
+Kaveh: It's been bothering me for a while. Even when I'm awake, the question haunts me like a bad dream. I still haven't found a good answer to it... or maybe, there was never a correct answer in the first place.
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: I'll help you convince the client to come to your side.
+
 Kaveh: Hmm? Ah, thanks for offering, but you've seen how he is... He's not going to listen to anything I say.
 Kaveh: He understands nothing about my design, and all the suggestions he made were as if he just wanted to mock me.
 
@@ -88,14 +110,18 @@ Option 2:
 > Kaveh: Time to get going. I know where we'd be able to find the guy.
 
 Kaveh: There's no time to waste... The wine can wait until another time. I'll go take care of the bill.
+*→ Ending (save point 190580301)*
 
+#### Branch 2: Let's do something else and clear your mind.
 
-Branch 2: Let's do something else and clear your mind.
 Kaveh: Sounds great to me! I don't even want to think about this project anymore. But what should we do? It's probably not a good idea to just drink until I pass out here...
+*→ Next: Choice 3*
 
-[Player choice]
 
-Branch 1: Why did you decide to become an architect?
+### Choice 3
+
+#### Branch 1: Why did you decide to become an architect?
+
 Kaveh: Huh? Where did that come from...
 Kaveh: I mean, it's not like it's some kind of secret. You probably already know some bits and pieces of my past.
 Kaveh: My mother is also an architect. I've always adored her drawings, and when I was young, I used to sit next to her and watch her bring all kinds of buildings to life on paper. You could say my interest in architecture just naturally grew with time.
@@ -117,25 +143,14 @@ Kaveh: Alright, then let's head back together. I mean, you already know where I 
 Kaveh: Hah, who knew that the day would come when I, too, would have some friends over.
 Kaveh: Let me see... I should have tidied up the place before I left the house this morning. Alhaitham shouldn't be home now, either — he's usually in the records room at this time of the day.
 Kaveh: Anyway, there's no more time for drinks. I'll go take care of the bill.
+*→ Ending (save point 190580302)*
 
+#### Branch 2: How about looking into another career?
 
-Branch 2: How about looking into another career?
 Kaveh: A different career... I see, that's not a bad idea.
 Kaveh: I think I've heard a saying somewhere before — eighty percent of a working adult's woes are due to not having enough Mora in the bank.
 Kaveh: It's just a saying, of course, but even I will admit that my life would be a lot better if I could make additional Mora.
 Kaveh: And if I want to make Mora, I should finish that ridiculous commission... But I really can't find it in me to go back and talk to him right now.
 Kaveh: Hold on! I just remembered that I used to have a senior classmate by the name of Alkami. If memory serves me right, he's no longer taking private commissions, but he's still doing pretty well for himself.
 Kaveh: Maybe I'll be able to get some advice from him... Yeah, I should get on this right away! No more wine for me today — I'll grab the bill and be on my way.
-
-
-
-
-Branch 2: Something that embodies the creator's efforts and dedication?
-Kaveh: Exactly. So our thoughts on the meaning of art are rather similar.
-Kaveh: In Sumeru, and especially Sumeru of the past, the arts are not a popular discussion topic. Trying to talk about the arts is basically the key to killing any conversation.
-Kaveh: It's too bad that I'm not in my best form today... Otherwise, we could have talked about this for a little longer.
-
-
-Branch 3: I honestly have no idea...
-Kaveh: No worries. It was just an offhand question.
-Kaveh: It's been bothering me for a while. Even when I'm awake, the question haunts me like a bad dream. I still haven't found a good answer to it... or maybe, there was never a correct answer in the first place.
+*→ Ending (save point 190580303)*

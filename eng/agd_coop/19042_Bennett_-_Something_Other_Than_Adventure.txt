@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Bennett: Marjorie!
+
 Bennett: Marjorie!
 Marjorie: Oh, hello, Bennett! I haven't seen you for a long time. I thought you were off adventuring in some faraway place that I've never heard of.
 Bennett: Hehe, no, no, it's just I got myself into a tight spot out there. Ended up getting held up for quite a while...
@@ -61,7 +63,10 @@ Bennett: Haha... It's okay, no big deal! I'm pretty much used to coming home emp
 Bennett: Don't let it bother you. Oh — hey, how about I treat you to a meal at Good Hunter?
 Bennett: We've been hanging out for a while now, you must be getting hungry, right? Let's go!
 
+*→ Ending (save point 20101)*
 ## Conversation 2
+
+### Talk: Bennett: Hi, Sara! Table for two, please!
 
 Bennett: Hi, Sara! Table for two, please!
 Sara: Ah... I'm so sorry, I don't think we'll be able to serve you two today.
@@ -86,7 +91,10 @@ Bennett: In which case, there probably isn't much we can do about it...
 Bennett: Well... how 'bout we just head to Mondstadt General Goods? We can at least get some basic adventure supplies!
 Bennett: What do you think? You're in, right? Hehe, let's go.
 
+*→ Ending (save point 20201)*
 ## Conversation 3
+
+### Talk: Bennett: Wow! Is this for real? A discount!?
 
 Bennett: Wow! Is this for real? A discount!?
 
@@ -111,9 +119,10 @@ Option 2:
 > [Missing Dialog 1904203108]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: That's a bit of an exaggeration...
+#### Branch 1: That's a bit of an exaggeration...
+
 Bennett: Then again, any discount's a bit meaningless without Blanche being here.
 Bennett: Shall we wait here for a while?
 Bennett: When Blanche comes back, I'm gonna buy a bunch!
@@ -167,13 +176,21 @@ Option 2:
 
 > [Missing Dialog 1904203135]
 
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: I'm glad I brought you luck.
 
-Branch 1: It's just a coincidence...
+Bennett: Hehe, you're so nice.
+[Missing Dialog 1904203110]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: It's just a coincidence...
+
 Bennett: That's right, I shouldn't let myself get down about it...
 [Missing Dialog 1904203137]
-
 Blanche: Oh... are you... waiting for me?
 Bennett: Blanche! We've been waiting for you for ages. You're finally back!
 Bennett: I was getting worried about you... What happened? Did you run into some kind of trouble?
@@ -209,14 +226,10 @@ Bennett: No matter what I do, I really can't shake my bad luck...
 Bennett: *sigh* It's getting a bit late. I don't think you can accomplish anything if you keep on hanging out with me...
 Bennett: So... let's part ways for now, and maybe next time it'll be different...
 Bennett: ...That is, if you still want to hang out with me next time... heh...
+*→ Ending (save point 101)*
 
+#### Branch 2: I have to say, I ran out of patience long ago...
 
-Branch 2: I have to say, I ran out of patience long ago...
 Bennett: I'm sorry, I got so obsessed with the idea of that discount that I didn't stop to consider your feelings...
 [Missing Dialog 1904203137]
-
-
-
-Branch 2: I'm glad I brought you luck.
-Bennett: Hehe, you're so nice.
-[Missing Dialog 1904203110]
+*→ End of conversation*

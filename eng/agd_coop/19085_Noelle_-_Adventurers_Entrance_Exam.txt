@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Katheryne: Ad astra abyssosque! Welcome to the Adventurers' Guild. What kind of commission would you like to take on today?
+
 Katheryne: Ad astra abyssosque! Welcome to the Adventurers' Guild. What kind of commission would you like to take on today?
 Traveler: About the adventurers' ranking exams...
 Katheryne: You wish to take an exam? Please wait while I verify your adventure record and the status of your recent commissions...
@@ -30,7 +32,10 @@ Noelle: It sounds as if I'll have a good chance of running into something unexpe
 Traveler: Let's give it a try.
 Noelle: Yes, let's... I wonder what will be on the exam...
 
+*→ Ending (save point 1908502)*
 ## Conversation 2
+
+### Talk: Cyrus: Hunt down three Ruin Guards... Hmm, could it be a little too difficult? Ugh, what am I thinking, the newcomers will run a mile...
 
 Cyrus: Hunt down three Ruin Guards... Hmm, could it be a little too difficult? Ugh, what am I thinking, the newcomers will run a mile...
 Cyrus: Hunt down three boars in the forest... Nay, the Guild will never approve that...
@@ -67,79 +72,101 @@ Noelle: Hmm, Wolvendom... I remember reading that there are Wolfhooks everywhere
 Noelle: Hmm... No, I must approach this question differently... Is there anything here that requires specific environmental conditions in order to grow? Conditions that *Wolvendom* cannot provide?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Dandelion Seeds.
+#### Branch 1: Dandelion Seeds.
+
 Cyrus: Ooh, I'm afraid... That's the wrong answer...
 [Missing Dialog 1908502401]
-
 Cyrus: On to question two. An adventurer must always learn from their experience and keep track of everything they encounter in the form of a diary.
 Cyrus: There is a famous adventurer who once went exploring all over Liyue, documenting his whole journey.
 Cyrus: *Thanks to the notes he took of each location that he went*, young adventurers are now able to plan ahead and avoid the dangers there. What is the name of this adventurer?
 Noelle: Learning from experience, writing diaries... It seems like adventuring requires constant self-reflection, just like studying.
 Noelle: Regarding this adventurer... I do believe I have read about him. He even made his mark on Dragonspine. Yes, it must be him... Hmm... Oh, what was his name...?
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Calla Lily.
 
-Branch 1: Wyatt.
-Cyrus: Ooh, what a pity... You were so close, but not quite close enough. Never mind, eh.
-[Missing Dialog 1908502701]
+*→ End of conversation*
 
-Cyrus: Last question. Let's have some fun with this one. The most terrifying domain for adventurers from Mondstadt, the infamous *windless land*...
-Cyrus: All that awaits you there is a sea of ashes and the deathly silence in the air... So, what is the name of this taboo territory?
-Noelle: A sea of ashes... A windless land... What could it be...?
-[Missing Dialog 0]
+#### Branch 3: Windwheel Aster.
 
-[Player choice]
-
-Branch 1: Jare Mivani.
-Cyrus: Wrong answer! Huh... Was that supposed to be some sort of joke?
-
-[Conditional branch]
-
-Branch 1
-Cyrus: Hahaha, that's three for three! As expected, these questions were no match for you.
-[Missing Dialog 1908503301]
-
-Cyrus: But be warned, things start to get a little trickier in the survival skills test!
-Cyrus: Now, go and prepare yourselves. Meet me at Good Hunter when you think you're ready.
-
-
-Branch 2
-Cyrus: Hmm... Are the questions too difficult? If even Noelle wasn't up to the task...
-Cyrus: Never mind, don't worry too much. This was just testing your rote learning ability, anyway. It wouldn't be much practical help on an adventure.
-[Missing Dialog 1908503301]
-
-
-
-Branch 2: Mair Javiri.
-
-Branch 3: Mare Safari.
-
-Branch 4: Mare Jivari.
-Cyrus: Correct! Keep this name in mind. Some day, you too will pass through this domain!
-
-
-
-Branch 2: Roald.
-Noelle: That's it! It's Roald!
-Cyrus: Correct! I had thought this question would be a little more challenging to adventurers from Mondstadt. Once again, Noelle, you never fail to impress.
-[Missing Dialog 1908502701]
-
-
-Branch 3: Wilde.
-
-Branch 4: Sayid.
-
-
-Branch 2: Calla Lily.
-
-Branch 3: Windwheel Aster.
 Noelle: That's it! The Windwheel Aster mostly grows in Stormterror's Lair, at Windrise, and near Statues of The Seven. All the others are much more widely found...
 Noelle: Mr. Cyrus, our answer is Windwheel Aster!
 Cyrus: Correct! There's no fooling you two, eh?
 [Missing Dialog 1908502401]
+*→ End of conversation*
+
+#### Branch 4: Small Lamp Grass.
+
+*→ End of conversation*
 
 
-Branch 4: Small Lamp Grass.
+### Choice 2
+
+#### Branch 1: Wyatt.
+
+Cyrus: Ooh, what a pity... You were so close, but not quite close enough. Never mind, eh.
+[Missing Dialog 1908502701]
+Cyrus: Last question. Let's have some fun with this one. The most terrifying domain for adventurers from Mondstadt, the infamous *windless land*...
+Cyrus: All that awaits you there is a sea of ashes and the deathly silence in the air... So, what is the name of this taboo territory?
+Noelle: A sea of ashes... A windless land... What could it be...?
+[Missing Dialog 0]
+*→ Next: Choice 3*
+
+#### Branch 2: Roald.
+
+Noelle: That's it! It's Roald!
+Cyrus: Correct! I had thought this question would be a little more challenging to adventurers from Mondstadt. Once again, Noelle, you never fail to impress.
+[Missing Dialog 1908502701]
+*→ End of conversation*
+
+#### Branch 3: Wilde.
+
+*→ End of conversation*
+
+#### Branch 4: Sayid.
+
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: Jare Mivani.
+
+Cyrus: Wrong answer! Huh... Was that supposed to be some sort of joke?
+*→ Next: Choice 4*
+
+#### Branch 2: Mair Javiri.
+
+*→ End of conversation*
+
+#### Branch 3: Mare Safari.
+
+*→ End of conversation*
+
+#### Branch 4: Mare Jivari.
+
+Cyrus: Correct! Keep this name in mind. Some day, you too will pass through this domain!
+*→ End of conversation*
+
+
+### Choice 4
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [1, 2, 30]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [1, 2, 30])
+
+Cyrus: Hahaha, that's three for three! As expected, these questions were no match for you.
+[Missing Dialog 1908503301]
+Cyrus: But be warned, things start to get a little trickier in the survival skills test!
+Cyrus: Now, go and prepare yourselves. Meet me at Good Hunter when you think you're ready.
+*→ Ending (save point 1908504)*
+
+#### Branch 2
+
+Cyrus: Hmm... Are the questions too difficult? If even Noelle wasn't up to the task...
+Cyrus: Never mind, don't worry too much. This was just testing your rote learning ability, anyway. It wouldn't be much practical help on an adventure.
+[Missing Dialog 1908503301]
+*→ End of conversation*

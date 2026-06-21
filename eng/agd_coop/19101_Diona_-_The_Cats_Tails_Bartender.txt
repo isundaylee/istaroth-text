@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Diona: All out of ingredients... again. Ugh, I really don't understand why these adults love to drink so much.
+
 Diona: All out of ingredients... again. Ugh, I really don't understand why these adults love to drink so much.
 Margaret: Because all the drinks you make are so delicious! All it takes is just one sip and they're hooked.
 Diona: Hmph, and I thought self-control was the most important quality of being an adult.
@@ -12,9 +14,10 @@ Diona: Hey! Who you calling "kitty"!? Haven't you seen anyone of the Kätzlein b
 Margaret: Oh, hello there. Are you here to visit the Cat's Tail?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: I'm here for the kitties...
+#### Branch 1: I'm here for the kitties...
+
 Margaret: Here for the kitties, huh? Hehe, I suppose we do have a lot of cute cats here.
 Margaret: They're all quite friendly. In fact, many other customers are here for the same reason.
 Margaret: After all, there aren't many places in Mondstadt where you can just relax and interact with friendly cats.
@@ -39,9 +42,10 @@ Diona: I am not a cat!
 Diona: ...Whatever. So all we have to do is to bring them back to the tavern, right? This shouldn't be a problem, let's scurry out of here. They love wandering around the center of town, so let's check there first.
 Margaret: I'll leave you to it. In the meantime, I'll keep an eye on things here at the tavern. Once you've found the little rascals, please bring them right back.
 [Missing Dialog 0]
+*→ Ending (save point 10101)*
 
+#### Branch 2: I want to try some new specialty drinks...
 
-Branch 2: I want to try some new specialty drinks...
 Margaret: Oh, you're here for the drinks? Unfortunately, we're pretty much out of ingredients, besides...
 Diona: Besides, you don't look like you're even old enough to drink yet!
 
@@ -67,15 +71,20 @@ Diona: Though we do have some drink base and flavoring ingredients left, since y
 Diona: But considering the time, I can only make either the drink's base or flavoring more special.
 Diona: So... what'll it be? The drink's base or flavoring to be more unique? Hmm?
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: I'd like the base to be more unique...
+### Choice 2
+
+#### Branch 1: I'd like the base to be more unique...
+
 Diona: A drink with a special base, huh? Hm, looks like you already possess plenty of potential to become a roaring drunkard. I'm gonna have to really knock some sense into you with this one.
 Diona: Ahem... Anyway, let's head to Dadaupa Gorge, I know just the place to find a unique drink base.
 [Missing Dialog 0]
+*→ Ending (save point 10102)*
 
+#### Branch 2: I'd like the flavoring to be more unique...
 
-Branch 2: I'd like the flavoring to be more unique...
 Diona: A drink with special flavoring huh? Well, that'll be easy enough, I was planning on looking for some more flavorings anyway. Hm, I've got a list of things we can search for.
 [Missing Dialog 0]
+*→ Ending (save point 10103)*

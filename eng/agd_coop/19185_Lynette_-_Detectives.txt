@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Euphrasie: #Every stupendous day starts with The Steambird! Oh, hi Lynette! Hi Traveler! What can I help you with?
+
 Euphrasie: #Every stupendous day starts with The Steambird! Oh, hi Lynette! Hi Traveler! What can I help you with?
 
 Option 1:
@@ -32,7 +34,10 @@ Option 2:
 
 Lynette: Alright. See you then.
 
+*→ Ending (save point 191850101)*
 ## Conversation 2
+
+### Talk: Bernard: ...I believe this cat belongs to me...
 
 Bernard: ...I believe this cat belongs to me...
 Elodie: ...I already told you — this isn't your cat!
@@ -50,9 +55,12 @@ Lynette: Ah, that's the name I've given her in the meantime.
 Bonnie: Meow!
 Traveler: [Animal Handling] (Let's see who Bonnie decides to approach...)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1041, 1]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1041, 1])
+
 Bonnie: Meow!
 Black Screen Text: Bonnie happily runs up to you and begins to weave through your legs...
 
@@ -62,7 +70,6 @@ Traveler: This is no way to tell who her owner is...
 
 Lynette: Well, this complicates things...
 [Missing Dialog 191851402]
-
 Elodie: *sigh*... I told you before. This is my friend's cat. It's normal for her not to trust me.
 Bernard: Listen... I'm the director of the Humane Society, okay? We've got so many strays... dogs, cats — you name it. I'm not even the one feeding them most of the time... You can hardly expect the cat to recognize me...
 Traveler: ...Then how are you so sure she belongs to you?
@@ -134,9 +141,10 @@ Elodie: If I take Bonnie back to the Gardes with me, there's no way Pierre will 
 Traveler: (So we should keep Bonnie with us for the time being?)
 Elodie: I have to admit — I'm not holding out too much hope that Pierre will come back for her... But if there's even the slightest chance, then it's worth a shot.
 Elodie: Well, I've got some other leads to follow up on. If Pierre does appear, please contact me right away.
+*→ Ending (save point 191850401)*
 
+#### Branch 2
 
-Branch 2
 Bonnie: Meow...
 Black Screen Text: Bonnie instantly runs to hide behind Lynette, poking her head out ever so slightly to assess the situation...
 
@@ -146,9 +154,11 @@ Traveler: This is no way to tell who her owner is...
 
 Lynette: Well, this complicates things...
 [Missing Dialog 191851402]
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Lynette: ...
 
 Lynette: ...
 
@@ -208,20 +218,25 @@ Option 2:
 Bonnie: Meow!
 Lynette: Okay, I'll write a letter explaining everything to the crew. Once that's done, we can head out.
 
+*→ Ending (save point 191850501)*
 ## Conversation 4
+
+### Talk: Lyney: Lynette...! Y—You're, uh, not at rehearsal?
 
 Lyney: Lynette...! Y—You're, uh, not at rehearsal?
 Lynette: ...You can drop the act, Brother. In fact, I don't think either of us will have a need for acting any time soon. You should know better than to try and keep something from me — you've never been able do to that, even when we were kids.
 Lyney: *sigh*... And that's why I tried to distract you with the masked mime show... But I guess you're just too good.
 Lynette: Care to introduce us to your "new assistant"?
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_GLOBAL_VALUE_COMPARE [1, 4013202, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_GLOBAL_VALUE_COMPARE [1, 4013202, 0])
+
 Lyney: Ahem... This is Officer Chevreuse, captain of the Special Security and Surveillance Patrol. You may have met her already...
 Traveler: Hello.
 Chevreuse: It's an honor to meet you. I have to admit — I'm quite familiar with you both already.
-
 Chevreuse: ...I should clarify something — Mr. Lyney's here at my invitation, not the other way around. To borrow your expression, Miss Lynette, I suppose that would make him "my" assistant more than anything.
 Chevreuse: We've brought on Mr. Lyney as a consultant in the past. He was instrumental in helping us crack a case involving a perpetrator who used magic tricks to commit crimes. I was hoping he'd be able to provide some valuable insight this time around as well.
 Traveler: Are you here because of the Lefevere case?
@@ -293,12 +308,21 @@ Lyney: From what we've learned about Pierre's habits, he doesn't seem like the t
 Traveler: She must have wandered off only after Pierre brought her to his secret base.
 Lynette: Exactly. Bonnie might even know where it is.
 Chevreuse: Wait... you think the cat can lead us there? But, she's not trained like one of our Guard Poodles. How is she supposed to understand what we want her to do?
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
+Lyney: Ahem... This is Officer Chevreuse, captain of the Special Security and Surveillance Patrol. You may have met her already...
+Traveler: We meet again.
+Chevreuse: Nice to see you.
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1
+
 Lynette: Meow... Meow meow. Meow...?
-
 Bonnie: Meow!
 Black Screen Text: Bonnie seems to understand what you want her to do... She flicks her tail and meows loudly in the direction of the cliffs and the coast.
 Lynette: Hmm, near the coast... the beach... and beneath the cliffs... The place we're looking for is most likely north of the Court of Fontaine...
@@ -307,39 +331,50 @@ Lyney: Haha... Well, if it works out, maybe it's something worth getting used to
 Lynette: Cats and humans are actually pretty alike — when it comes to communication, most of what we want to convey can be accomplished through body language alone. But humans tend to rely too much on speech to ever take advantage of that fact...
 Lynette: ...Of course, body language has its limitations. You're not gonna be able to get across anything too complicated...
 Lyney: The important thing is that we now have a lead. Let's try and find the place that matches the clues Bonnie gave us.
+*→ Ending (save point 191850601)*
+
+#### Branch 2
+
+*→ Next: Choice 3*
 
 
-Branch 2
-[Conditional branch]
+### Choice 3
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1025, 1]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1025, 1])
+
+*→ End of conversation*
+
+#### Branch 2
+
 Bonnie: Meow!
 Black Screen Text: Startled, Bonnie rushes to hide behind Lynette... She stays there for quite some time before reluctantly emerging from her hiding place...
 Lynette: ...Ah, guess she's a little skittish around strangers.
 Traveler: I'll leave it to you, then...
 Lynette: Meow... Meow meow. Meow...?
-
-
-
-
-Branch 2
-Lyney: Ahem... This is Officer Chevreuse, captain of the Special Security and Surveillance Patrol. You may have met her already...
-Traveler: We meet again.
-Chevreuse: Nice to see you.
-
+*→ End of conversation*
 
 ## Conversation 5
+
+### Talk: Bonnie: Meow!
 
 Bonnie: Meow!
 Lynette: Seems like Bonnie is trying to take us somewhere...
 
+*→ Ending (save point 191850701)*
 ## Conversation 6
+
+### Talk: Chevreuse: Wow, Lynette. You found this place so easily. If I thought there was any chance you'd say yes, I'd recruit you into the Special Patrol here and now — no questions asked.
 
 Chevreuse: Wow, Lynette. You found this place so easily. If I thought there was any chance you'd say yes, I'd recruit you into the Special Patrol here and now — no questions asked.
 Lyney: Haha, sounds familiar. I pretty much receive letters daily from people trying to poach her from me.
 Lynette: ...Let's just focus on our search. There's a lot to investigate.
 
+*→ Ending (save point 191850901)*
 ## Conversation 7
+
+### Talk: Chevreuse: ...Based on the various ingredients we've found, this appears to be where Pierre was cooking up his Imitation Sinthe.
 
 Chevreuse: ...Based on the various ingredients we've found, this appears to be where Pierre was cooking up his Imitation Sinthe.
 Chevreuse: It looks like he used a special cleaning agent to get rid of any residual traces of the substance on his person before he left. That's how he was able to get past the Guard Poodles.
@@ -375,7 +410,10 @@ Option 2:
 Bonnie: Meow...
 Lynette: #...Traveler, can you come take a dip in the sea with me? I have a feeling that somewhere down there... we might find some rope. If a rope can be used to keep a pet from running away... then why not a barrel?
 
+*→ Ending (save point 191851301)*
 ## Conversation 8
+
+### Talk: Lynette: ...As expected, we found a few pieces of rope and some anchoring stones underwater. If you attach them to a floating barrel... It would look like this.
 
 Lynette: ...As expected, we found a few pieces of rope and some anchoring stones underwater. If you attach them to a floating barrel... It would look like this.
 Lynette: With this anchoring system, it would be possible to use floating barrels for the drop-off. You would just need to drop them in the water at the agreed-upon location.
@@ -420,7 +458,10 @@ Chevreuse: #I should also head back and update my platoon on our progress. I'll 
 Lynette: Alright. Come on, Bonnie. You too.
 Bonnie: Meow!
 
+*→ Ending (save point 191851501)*
 ## Conversation 9
+
+### Talk: Elodie: #Oh, Lynette, Traveler... and Bonnie, too! What brings you all here?
 
 Elodie: #Oh, Lynette, Traveler... and Bonnie, too! What brings you all here?
 Chourei: Hmm... Did something happen?
@@ -465,11 +506,13 @@ Chourei: Ah, the director of the organization explained that, actually. He said 
 Lynette: Bernard, the director of the Humane Society, was the man who came looking for Bonnie earlier...
 Bonnie: Meow...
 [Missing Dialog 191851635]
+### Talk: Traveler: (The cat that fled from Pierre looks just like the cat that the Humane Society is looking for... Could that really be a coincidence?)
 
 Traveler: (The cat that fled from Pierre looks just like the cat that the Humane Society is looking for... Could that really be a coincidence?)
 Traveler: (It seemed as if Bernard was also hiding something... He seemed so insistent, but only ran a cursory check before just leaving like that.)
 Traveler: (When he came looking for Bonnie earlier... What if he wasn't actually there to check if Bonnie was his missing cat...? Maybe he was there for some other purpose...)
 Lynette: #...Have you figured it out too, Traveler? The way the criminal "disguised" the goods.
+### Talk: Lynette: When Bernard asked to take a closer look at Bonnie... He was actually checking whether there was any Imitation Sinthe in her stomach.
 
 Lynette: When Bernard asked to take a closer look at Bonnie... He was actually checking whether there was any Imitation Sinthe in her stomach.
 
@@ -523,32 +566,39 @@ Lynette: We've already proven how easy it is to pick up trace amounts of Imitati
 Girard: Woof! Woof!
 Elodie: Okay, then let's head to the Humane Society right away and bring that guy to justice! I'll bring a Gardemek to speed up the process.
 
+*→ Ending (save point 191851601)*
+### Talk: Traveler: (Hmm... But maybe I'm overthinking things a bit...)
+
 Traveler: (Hmm... But maybe I'm overthinking things a bit...)
 Lynette: ...Is the answer not coming to you, or do you think it's too unbelievable to be true?
-
 ## Conversation 10
+
+### Talk: Elodie: The headquarters of the Humane Society should be somewhere around here. Bernard could show up any moment now...
 
 Elodie: The headquarters of the Humane Society should be somewhere around here. Bernard could show up any moment now...
 Bernard: ...Ah! You're the people from earlier... Wait, you're from... the Gardes!?
 
+*→ Ending (save point 191851701)*
 ## Conversation 11
+
+### Talk: Elodie: Now behave, and follow me to the interrogation room!
 
 Elodie: Now behave, and follow me to the interrogation room!
 Bernard: Ow — that hurt — oww!!
 Traveler: [Contemplation] (They're about to leave. Is it really okay to let them go?)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1031, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1031, 0])
+
 Traveler: (We can leave Bernard's interrogation to the Gardes. Let's first rescue the animals at the Humane Society.)
 Lynette: Is everything... really over?
 Lynette: I still feel like... the relationship between Pierre and Bernard is not as simple as it appears.
 Lynette: Also, I've had this strange sense that something's off the entire time we've been on the case... and it has only gotten worse.
-
 Lynette: Hmm...
-
 Lynette: Uhh...
-
 Lynette: ...No good... I've still got nothing, and I'm nearly out of energy.
 
 Option 1:
@@ -563,9 +613,10 @@ Lynette: ...Alright, I'll stop thinking about it for now. At the very least, we'
 Bonnie: Meow...
 Lynette: Let's go to the Humane Society, and see if there are any animals left that might still need our help.
 Lynette: Before my energy for today completely runs out...
+*→ Ending (save point 191852001)*
 
+#### Branch 2
 
-Branch 2
 Traveler: (No! We can't let her get away!)
 Traveler: Hold it right there!
 Elodie: Uh... is there something else you need from me, Traveler?
@@ -683,7 +734,6 @@ Lynette: It was probably during your ambush of Pierre... You didn't even have th
 Bonnie: Meow!
 Elodie: ...!
 Lynette: Still, you soon found another opportunity. Before long, Bonnie had made her way back into the city, and even popped up on The Steambird...
-
 Lynette: Like Bernard, you desperately wanted to confirm the contents of her stomach, so you hurried to find us. Unlike Bernard, however, you were hoping that Pierre did have the time to make her swallow a load of Imitation Sinthe.
 Lynette: While investigating the suspect's cat, we unexpectedly discovered that the suspect has been smuggling Imitation Sinthe using living animals as intermediaries. That was your plan, in any case. With that, you'd have been able to lead the investigation towards the Humane Society.
 
@@ -815,9 +865,11 @@ Chevreuse: Not only that, but you actively participated in the interrogation, ar
 Chevreuse: You brutally and cruelly abandoned your allies as soon as they outlived their usefulness, just like a lizard cutting off its own tail in order to live... You've been doing this for years!
 Bernard: So... So you played me like a fool after all! Ugh...!
 Black Screen Text: Bernard is suddenly knocked out by a sudden strike...
-
+*→ Ending (save point 191852002)*
 
 ## Conversation 12
+
+### Talk: Elodie: Give it up, Bernard!
 
 Elodie: Give it up, Bernard!
 Bernard: —Oof!
@@ -855,3 +907,5 @@ Black Screen Text: Bonnie suddenly runs and hides behind you and Lynette.
 Elodie: Haha, and it looks like she's grown quite fond of you two as well. Then I'll leave you be — just let me know if you find any other new leads.
 Lynette: ...
 Traveler: (It seems that Lynette still has something on her mind...)
+
+*→ Ending (save point 191852201)*

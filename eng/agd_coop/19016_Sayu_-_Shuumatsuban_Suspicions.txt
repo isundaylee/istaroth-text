@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Ogawa: Sayu, is it true? Have you completed the mission?
+
 Ogawa: Sayu, is it true? Have you completed the mission?
 Ogawa: I don't recall you ever taking any ambush missions before. How were you able to deal with the renowned Traveler so swiftly?
 Sayu: #Uh, well... You see, I... I caught him off guard! Yeah, that's it, he didn't have time to react.
@@ -28,9 +30,10 @@ Sayu: So we decided to catch you red-handed in your own game, you sneaky sneak.
 Ogawa: W—Wait, I can explain! It's not what you think!
 Ogawa: Yes, I was the one who forged the ambush mission, but I had good reason to!
 
-[Player choice]
+### Choice 1
 
-Branch 1: Tell us the truth, no more lies!
+#### Branch 1: Tell us the truth, no more lies!
+
 Ogawa: Just hear me out! You see, last night, my little daughter suddenly disappeared from home. I was starting to get worried when a Kairagi appeared at my door and told me they'd taken her.
 Ogawa: They told me I'd only see my kid again if I did exactly as they said. Their terms were for me to forge orders from the Yashiro Commission and dispatch a ninja to ambush the Traveler.
 Sayu: Huh? That doesn't make sense... Why would the Kairagi want to ambush the Traveler? And why the Shuumatsuban?
@@ -69,15 +72,18 @@ Option 2:
 
 Ogawa: Then it's decided. I'll contact the Kairagi as well as the Tenryou Commission.
 Ogawa: My child's safety is in your hands. Please, don't let anything happen to her.
+*→ Ending (save point 19016011)*
 
+#### Branch 2: Save it for the Yashiro Commission. I'm sure they'd love to hear your story.
 
-Branch 2: Save it for the Yashiro Commission. I'm sure they'd love to hear your story.
 Ogawa: N—No, please, just hear me out! I'll explain everything!
 Sayu: I've got him tied up, he's not going anywhere.
 Sayu: That takes care of that. Now all we need to do is drag you back and I can have a good night's sleep.
-
+*→ Ending (save point 19016012)*
 
 ## Conversation 2
+
+### Talk: Sayu: It seems the Kairagi has arrived. Oh, and that must be Mr. Ogawa's daughter.
 
 Sayu: It seems the Kairagi has arrived. Oh, and that must be Mr. Ogawa's daughter.
 Sayu: Even after they hear the news that the ambush has been completed, there's no telling whether they'd make good on their promise to Mr. Ogawa.
@@ -133,7 +139,10 @@ Option 2:
 Inou: Ugh! Brothers, get them!
 Inou: Ugh, Ogawa! This isn't over, you'll pay for this. You haven't seen the last of me!
 
+*→ Ending (save point 1901602)*
 ## Conversation 3
+
+### Talk: Inou: Hehe, not another step closer, Traveler. I'm warning you.
 
 Inou: Hehe, not another step closer, Traveler. I'm warning you.
 Inou: You certainly live up to your reputation, there's no doubt about that... But remember, the little girl is still in my hands.
@@ -203,7 +212,10 @@ Traveler: Let's all take a rest then, shall we?
 Sayu: No need, let's head back first. If I fall asleep now, I'm worried that I might forget some of the things that happened today...
 Sayu: So don't worry about me... I'll be just... fine... *dozing off*
 
+*→ Ending (save point 1901604)*
 ## Conversation 4
+
+### Talk: Kamisato Ayaka: Hm? Oh, hello Traveler. And I see Sayu and Mr. Ogawa are with you. Is something the matter?
 
 Kamisato Ayaka: Hm? Oh, hello Traveler. And I see Sayu and Mr. Ogawa are with you. Is something the matter?
 Kamisato Ayaka: I understand the situation... It seems Mr. Ogawa was only acting out of coercion from the Kairagi, he had no intent to truly harm you.
@@ -244,7 +256,10 @@ Kamisato Ayaka: Thank you, Traveler. She obviously has some reservations towards
 Traveler: This is what we call "growing pains."
 Kamisato Ayaka: Yes, perhaps you're right.
 
+*→ Ending (save point 1901605)*
 ## Conversation 5
+
+### Talk: Sayu: Sensei told me that all I need to do is grow big and tall. I remember that...
 
 Sayu: Sensei told me that all I need to do is grow big and tall. I remember that...
 Sayu: I had no idea how difficult such a simple thing could turn out to be.
@@ -269,3 +284,5 @@ Option 3:
 
 Sayu: Anyway, thank you. I don't know what else to say. Even talking is starting to feel difficult now.
 Sayu: This is why I don't like coming here...
+
+*→ Ending (save point 1901607)*

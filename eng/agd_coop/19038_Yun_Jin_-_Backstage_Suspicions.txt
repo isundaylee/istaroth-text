@@ -2,9 +2,13 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1903804]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1903804])
+
 Yun Jin: Did you find anything out?
 
 Option 1:
@@ -20,7 +24,6 @@ Option 2:
 Option 3:
 
 > [Missing Dialog 190380699]
-
 
 Yun Jin: It's just a bit of a shame that I didn't get to talk with Shiyun for longer.
 Yun Jin: She genuinely understands opera, and has a passion for it. That's not something you can act.
@@ -43,12 +46,19 @@ Yunning: Short of catching them all in their lair in one fell swoop... Who knows
 Yun Jin: *sigh*... I'm sorry, I was careless on this occasion.
 Yunning: Well, wallowing isn't gonna solve anything. C'mon, go tell everyone in the troupe to be extra cautious during this time.
 Yunning: Geo Lord bless us! Spare us any more offstage drama...
+*→ Ending (save point 1903801)*
+
+#### Branch 2
+
+*→ Next: Choice 2*
 
 
-Branch 2
-[Conditional branch]
+### Choice 2
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1903805]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1903805])
+
 Yun Jin: Did you find anything out?
 
 Option 1:
@@ -67,9 +77,10 @@ Option 3:
 
 Yun Jin: I see... Well, it's not unexpected.
 [Missing Dialog 190380702]
+*→ End of conversation*
 
+#### Branch 2
 
-Branch 2
 Yun Jin: Did you find anything out?
 
 Option 1:
@@ -88,10 +99,11 @@ Option 3:
 
 Yun Jin: I see... Well, it's not unexpected.
 [Missing Dialog 190380702]
-
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Boyi: Are you ready to stop whining now? Do you have any idea how rare an opportunity like this is for a small-time paper like ours!?
 
 Boyi: Are you ready to stop whining now? Do you have any idea how rare an opportunity like this is for a small-time paper like ours!?
 Boyi: Just think of the sales if we can get an exclusive... Hehehe, we'd have enough to cover your salary for two lifetimes!
@@ -109,9 +121,10 @@ Boyi: You'd better tread carefully, Missy! First you neglect your own duties, an
 Boyi: You signed the contract, you know full well the consequences. If you sabotage this interview, I'll make sure you lose everything you have. I will ruin you, you understand!?
 Shiyun: ...Why oh why did I sign that contract...
 
-[Player choice]
+### Choice 1
 
-Branch 1: (No need to check in with Yun Jin. This ends now!)
+#### Branch 1: (No need to check in with Yun Jin. This ends now!)
+
 Boyi: Who's there!?
 Boyi: Oh... it's you? What do you want? ...I'm warning you, don't do anything stupid, or, or I'll...
 Boyi: I'll spread a lovely little story about you and Yun Jin throughout all of Liyue!
@@ -135,14 +148,17 @@ Shiyun: I'm so, so sorry... I had no idea it was going to turn out like this.
 Traveler: I heard everything. It's not your fault.
 Shiyun: But I'm so ashamed... I don't know how I could face Ms. Yun now.
 Shiyun: So please, please pass on my apologies to her.
+*→ Ending (save point 19038021)*
 
+#### Branch 2: (I should stay hidden for now and check in with Yun Jin.)
 
-Branch 2: (I should stay hidden for now and check in with Yun Jin.)
 Boyi: Hmph, well think very carefully about what you're going to do. This is a rare opportunity. Now, I need to think how to phrase these interview questions...
 Shiyun: You... Hey! Wait!
-
+*→ Ending (save point 19038022)*
 
 ## Conversation 3
+
+### Talk: Yun Jin: Did you find anything out?
 
 Yun Jin: Did you find anything out?
 Traveler: Well...
@@ -168,7 +184,10 @@ Yun Jin: Great. Thank you.
 Yun Jin: Phew... The editor should be here soon, so I'll stay here to deal with him. I'll have to rely on you to deliver the letter.
 Yun Jin: If everything goes well, we should be able to get some breathing room for a while.
 
+*→ Ending (save point 1903804)*
 ## Conversation 4
+
+### Talk: Yun Jin: ...Okay, I think I've covered this topic pretty thoroughly now. Unless you had any more questions?
 
 Yun Jin: ...Okay, I think I've covered this topic pretty thoroughly now. Unless you had any more questions?
 Boyi: Haha... What can I say Ms. Yun, you have so many wonderful qualities. Let's not quit while the ball's rolling, huh? Otherwise, I'll think of something I didn't ask later, and by then it'll be too late.
@@ -233,7 +252,10 @@ Shiyun: Does this mean... I get to do a full feature interview with you?
 Shiyun: Okay... I think I know what I want to write about! Thank you, Ms. Yun!
 Yun Jin: Don't mention it. I'm sure it will be a source of inspiration for both of us.
 
+*→ Ending (save point 1903805)*
 ## Conversation 5
+
+### Talk: Boyi: I've had it with you! Do you think contracts are just bits of paper?
 
 Boyi: I've had it with you! Do you think contracts are just bits of paper?
 Boyi: If we weren't on a tight deadline, you'd better believe I'd fire you right here on the spot!
@@ -287,8 +309,13 @@ Option 2:
 Shiyun: But the letter says that my statement and the contract are enough to get the Millelith looking into it!
 Shiyun: If *Ms. Yun* says so, I'm sure she must be right! Let's go *confront him* right now.
 
+*→ Ending (save point 1903806)*
 ## Conversation 6
+
+### Talk: Boyi: Eh? Who're you... Oh, the one with Yun Jin just now.
 
 Boyi: Eh? Who're you... Oh, the one with Yun Jin just now.
 Boyi: So you've been lying in ambush for us, huh... Hey, c'mon! Scram!
 Shiyun: Uh, okay... okay!
+
+*→ Ending (save point 19038081)*

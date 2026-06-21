@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Barbara: Uh... Th—Thank you for all your support... P—Please, one at a time...
+
 Barbara: Uh... Th—Thank you for all your support... P—Please, one at a time...
 Schulz: Barbara-sama, I never expected I would have a chance to meet you here today! Are you here attending to matters for the Church?
 Barbara: Ah, I—I guess you could say that...
@@ -19,76 +21,93 @@ Traveler: (Looks like we might need to intervene...)
 Traveler: (Barbara needs rescuing from the crowd...)
 [Missing Dialog 0]
 
+*→ Ending (save point 90101)*
 ## Conversation 2
+
+### Talk: Schulz: Oh, Barbara-sama! You're so hard-working... If I put in as much effort as you, who knows where my apprenticeship would take me!
 
 Schulz: Oh, Barbara-sama! You're so hard-working... If I put in as much effort as you, who knows where my apprenticeship would take me!
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Barbara's currently on leave, please don't disturb her.
+#### Branch 1: Barbara's currently on leave, please don't disturb her.
+
 Schulz: Barbara-sama? On leave? Phew... For a moment, I thought I was disturbing her work...
 Schulz: Barbara-sama! Can I get an autograph?
 Traveler: (This is bad...)
 [Missing Dialog 0]
+*→ Ending (save point 90201)*
 
+#### Branch 2: Barbara's working right now, please don't disturb her.
 
-Branch 2: Barbara's working right now, please don't disturb her.
 Schulz: You... You must be the Honorary Knight! What are you and Barbara-sama doing he—
 Traveler: We're... on official business.
 Schulz: Uh... Of course! Barbara-sama is working after all... Forgive me, I'll leave you in peace.
 [Missing Dialog 0]
-
+*→ Ending (save point 90202)*
 
 ## Conversation 3
+
+### Talk: Herman: Barbara-sama, can I get an autograph? Ellin would be so happy, she's your biggest fan!
 
 Herman: Barbara-sama, can I get an autograph? Ellin would be so happy, she's your biggest fan!
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Barbara's currently on leave, please don't disturb her.
+#### Branch 1: Barbara's currently on leave, please don't disturb her.
+
 Herman: Uh... If she's on leave then... an autograph won't be a problem. Right?
 Herman: Barbara-sama, I — ahem, my daughter, eh-he — would love an autograph. Ellin really is your biggest fan!
 Traveler: (Uh oh...)
 [Missing Dialog 0]
+*→ Ending (save point 90301)*
 
+#### Branch 2: You won't mind if I check in with Ellin on that? Looks like she's training, right over th—
 
-Branch 2: You won't mind if I check in with Ellin on that? Looks like she's training, right over th—
 Herman: Ah!? W—Wait! I, uh...
 Traveler: Barbara is on official business right now.
 Herman: Oh, is that right! Well then, uh... I'll leave her to it. Ellin looks busy with her training, some other time perhaps...
 [Missing Dialog 0]
-
+*→ Ending (save point 90302)*
 
 ## Conversation 4
+
+### Talk: Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
 
 Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Please don't disturb her, Barbara's currently on leave.
+#### Branch 1: Please don't disturb her, Barbara's currently on leave.
+
 Susie: Oh — perfect! I've got so much to learn from Barbara-sama. She'd never have the time if she was working...
 Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
 Traveler: (Darn...)
 [Missing Dialog 0]
+*→ Ending (save point 90401)*
 
+#### Branch 2: If it's Barbara's style you're after, you could start by being considerate to others.
 
-Branch 2: If it's Barbara's style you're after, you could start by being considerate to others.
 Susie: Uhh, sure... considerate to others... Huh? Aren't you that Honorary Knight? You and Barbara-sama must be...
 Traveler: Uh — we're... on official business.
 Susie: Official business? Oh, I—I thought... Apologies. I—I just got so excited when I saw Barbara-sama...
 Susie: Yes, you're right... Being considerate to others is the right place to start.
 Susie: ...Barbara-sama and the Honorary Knight in the same place — this must be incredibly important official business... I—I'll take my leave.
 [Missing Dialog 0]
-
+*→ Ending (save point 90402)*
 
 ## Conversation 5
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_ENDING_FINISH [0, 90202], COOP_COND_ENDING_FINISH [0, 90302], COOP_COND_ENDING_FINISH [0, 90402]*
+
+#### Branch 1 (applies if COOP_COND_ENDING_FINISH [0, 90202], COOP_COND_ENDING_FINISH [0, 90302], COOP_COND_ENDING_FINISH [0, 90402])
+
 Barbara: Huh? Where did everybody...
 
 Option 1:
@@ -107,9 +126,10 @@ Barbara: *sigh* If only I had your way with words...
 Barbara: Here, it's the Fantastic Summer-Serendipity Coral Sparkling Tea you wanted. I ordered this one especially for you.
 Barbara: I hardly ever get a day off. Why don't we... take a stroll outside the city together and finish our drinks?
 [Missing Dialog 0]
+*→ Ending (save point 90501)*
 
+#### Branch 2
 
-Branch 2
 Barbara: Please, there's no need to rush... One at a time...
 Barbara: I'm sorry, can you wait a bit longer? I'm still on a break...
 Susie: Barbara-sama! There's still so much I want to learn from you!
@@ -143,16 +163,19 @@ Barbara: But as long as I can bring everybody a smile...
 Barbara: Although, perhaps you can stay with me a while longer? Let's take a stroll outside the city and finish our drinks.
 Barbara: We have to seize every bit of free time we get, even if it only lasts a moment.
 [Missing Dialog 0]
-
+*→ End of conversation*
 
 ## Conversation 6
+
+### Talk: Barbara: It looks so peaceful here, nobody's passing through except us. Let's rest for a while.
 
 Barbara: It looks so peaceful here, nobody's passing through except us. Let's rest for a while.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Just now, in the city... why didn't you just tell them you were on leave and walk away?
+#### Branch 1: Just now, in the city... why didn't you just tell them you were on leave and walk away?
+
 Barbara: There's more than one answer to that question.
 Barbara: A deaconess shouldn't ever be self-interested or let other people down...
 Barbara: But at the end of the day, it's like my father said: I just don't know how to turn people away.
@@ -162,15 +185,15 @@ Barbara: If I see somebody struggling, I want to help them solve the problem. If
 Barbara: No matter how tiring, I'm happy as long as I can bring a smile to everybody.
 Barbara: *sigh* Perhaps... I'm not a proper deaconess after all.
 [Missing Dialog 0]
-
 Barbara: ...Thank you. It's been a long time since I've had such a long conversation, and it's all me complaining! Thanks for listening.
 Barbara: The support of an Honorary Knight goes a long way!
 Barbara: *sigh* So... we've still not finished our drinks! Let's finish them off while we're here.
 Barbara: We can rest today, but it's back to the grindstone tomorrow.
 [Missing Dialog 0]
+*→ Ending (save point 105)*
 
+#### Branch 2: That sudden crowd back there in the city... you must be exhausted.
 
-Branch 2: That sudden crowd back there in the city... you must be exhausted.
 Barbara: Hehe, I'm so used to it by now, but thanks for wanting to intervene.
 Barbara: Usually, the Knights of Favonius end up arriving to restore order. Then someone from the Church comes to escort me away.
 Barbara: It's happened so many times already, I don't really notice it anymore.
@@ -178,9 +201,10 @@ Traveler: Isn't it a little exhausting?
 Barbara: Of course! More than a little, to say the least...
 Barbara: But exhaustion for the sake of not letting everybody down is okay.
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 3: What's the Barbara Fan Club?
 
-Branch 3: What's the Barbara Fan Club?
 Barbara: Heh, that thing? Uhh... It's a group of my Mondstadt... supporters.
 Barbara: But I'm usually in the Cathedral. The knights and sisters stationed outside the Church won't let them in.
 Barbara: So they support me in other ways — cleaning the Cathedral, helping their fellow citizens with difficult matters, stuff like that.
@@ -193,9 +217,10 @@ Barbara: He's never asked for my autograph or tried to make conversation. Every 
 Barbara: I'd never have known if I hadn't overheard Mr. Albert talking about it.
 Barbara: When I found out, I had someone deliver my autograph to him. I hope he was happy with it.
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 4: I get the feeling you're more popular than the average sister...
 
-Branch 4: I get the feeling you're more popular than the average sister...
 Barbara: Yeah, it's a little embarrassing... Do you know what an "idol" is?
 Barbara: I guess you've heard that I... sometimes sing for the people in Mondstadt?
 Barbara: I can use the power of my Vision to heal physical wounds, but it's no use on someone afflicted by sadness.
@@ -218,3 +243,4 @@ Option 2:
 
 Barbara: Aw, if that really is true... then that's amazing.
 [Missing Dialog 0]
+*→ End of conversation*

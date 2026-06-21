@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Ningguang: Huh?
+
 Ningguang: Huh?
 Ningguang: #Ah, it looks like all our problems are solved. Welcome to the Jade Chamber, Traveler.
 Baishi: Oh, great! I have no idea what we would have done otherwise...
@@ -57,7 +59,10 @@ Option 2:
 Ningguang: Alright. Please proceed to the office. Baishi will go over the work with you in more detail.
 Baishi: Yes, Lady Ningguang. Okay, let's go.
 
+*→ Ending (save point 101)*
 ## Conversation 2
+
+### Talk: Baishi: Before I get into specifics, I want to start by giving you the big picture.
 
 Baishi: Before I get into specifics, I want to start by giving you the big picture.
 Baishi: As a member of the Liyue Qixing, Lady Ningguang's every move is in the spotlight. Maintaining her perfect image at all times is absolutely essential.
@@ -123,9 +128,10 @@ Ningguang: I'm grateful for your assistance. Now, I will leave you here in peace
 Ningguang: If anything else is unclear, you can ask Baishi.
 Baishi: Take care, Lady Ningguang!
 
-[Player choice]
+### Choice 1
 
-Branch 1: (Alright. Time to make a serious effort.)
+#### Branch 1: (Alright. Time to make a serious effort.)
+
 Black Screen Text: You hand over the schedule you made to Baishi.
 Baishi: Good. You factored in both priority and efficiency, and produced a rigorous and well-structured schedule. You've clearly considered it from every angle.
 Baishi: Excellent work. You've got quite a knack for this.
@@ -142,9 +148,10 @@ Baishi: Please be here at the Jade Chamber tomorrow morning before Lady Ningguan
 Baishi: With you helping out here, we will be able to focus fully on the auction — it will be quite a complicated affair.
 Traveler: I hope everything goes well tomorrow.
 Baishi: I hope so, too. You must be exhausted. Make sure you get an early night tonight.
+*→ Ending (save point 102)*
 
+#### Branch 2: (Alright. Time to avoid anything too complicated.)
 
-Branch 2: (Alright. Time to avoid anything too complicated.)
 Black Screen Text: You hand over the schedule you made to Baishi.
 Baishi: Um, don't you think that this schedule is a bit of a light load?
 Traveler: Ningguang hasn't taken a vacation in a long time, I'll bet?
@@ -164,3 +171,4 @@ Baishi: Alright then, let's go with your plan. I'm sure Lady Ningguang has plent
 Baishi: There's a lot of things that need doing over at the auction venue, so I will be leaving you now.
 Traveler: I hope everything goes well tomorrow.
 Baishi: I hope so, too. You must be exhausted. Make sure you get an early night tonight.
+*→ Ending (save point 103)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Layla: Okay, everyone's given us a lot of useful information. Let's go through it and try to organize everything.
+
 Layla: Okay, everyone's given us a lot of useful information. Let's go through it and try to organize everything.
 Layla: Some things we heard were pretty straightforward, but others were just ridiculous...
 Traveler: We should be able to figure out more about its identity and whereabouts.
@@ -11,9 +13,12 @@ Layla: (First, let's try to figure out the Seelie's identity based on the clues 
 Layla: (Then, we'll analyze where it's been sighted and its motives... Finally, we'll piece everything together...)
 Layla: (From there, we should be able to predict its movement. Alright, let's give it a try.)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_INFERENCE_CONCLUSION_FINISH [1018, 101801]*
+
+#### Branch 1 (applies if COOP_COND_INFERENCE_CONCLUSION_FINISH [1018, 101801])
+
 Layla: Okay, I think I've got it now...
 Traveler: So, what've you come up with?
 Layla: First, based on the information Katayoun provided, we can assume that the Seelie is a student from the Rtawahist Darshan.
@@ -34,9 +39,15 @@ Option 2:
 Layla: Ah, uh... It's nothing, really. There are actually some other factors that I've been speculating about...
 Layla: But that's not important right now, let's get going. Even though we have a lead, it's still hard to say whether we'll be able to make any discoveries.
 Layla: I'll tell you what I mean by that if the Seelie doesn't show up...
+*→ Ending (save point 191530201)*
 
+#### Branch 2
+
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Layla: The weather today is perfect for observation. Let's see if it shows up.
 
 Layla: The weather today is perfect for observation. Let's see if it shows up.
 Layla: Honestly, spending an entire night waiting for something that we're not sure is gonna happen might not be the best use of our time...
@@ -82,6 +93,7 @@ Option 2:
 
 Layla: Yeah...
 [Missing Dialog 191530329]
+### Talk: Layla: *sigh* And to think I could've been working on my thesis this whole time... Ahh, my stomach is churning just thinking about it...
 
 Layla: *sigh* And to think I could've been working on my thesis this whole time... Ahh, my stomach is churning just thinking about it...
 
@@ -95,11 +107,13 @@ Option 2:
 
 Layla: Please stop... the more you talk about it, the more silly I feel...
 [Missing Dialog 191530333]
+### Talk: Layla: Oh, c'mon Layla, what are you doing? Everyone's gonna start thinking you're crazy now...
 
 Layla: Oh, c'mon Layla, what are you doing? Everyone's gonna start thinking you're crazy now...
 Layla: Ahh... oh no. I'm losing it... So dizzy... ugh...
 Traveler: (I'm sorry to have to make you feel so uncomfortable.)
 [Missing Dialog 191530336]
+### Talk: Layla: Hmm... oh, I'm sorry, I got distracted there. Where were we?
 
 Layla: Hmm... oh, I'm sorry, I got distracted there. Where were we?
 Traveler: (It seems like she's completely recovered. Huh, does that mean...)
@@ -125,29 +139,60 @@ Traveler: Mostly hers.
 Layla: I see. Yes, she's always had great analytical skills. It'd be nice if she was more confident, though.
 Layla: Alright, that's all the questions I have. Your turn, please ask away.
 
-[Player choice]
+### Choice 1
 
-Branch 1: You're the Seelie, aren't you?
+#### Branch 1: You're the Seelie, aren't you?
+
 Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
 Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
 Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: What's with the Seelie pranking people?
 
-Branch 1: What's with the Seelie pranking people?
 Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
 Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
 Layla: My intention is to help people. I'm not here to cause any harm.
+*→ Next: Choice 5*
 
-[Player choice]
+#### Branch 3: Did you infiltrate the House of Daena? And what about those rumors of special powers?
 
-Branch 1: Did you infiltrate the House of Daena? And what about those rumors of special powers?
 Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
 Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
 Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
 Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
 Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
+*→ Next: Choice 8*
 
+
+### Choice 2
+
+#### Branch 1: What's with the Seelie pranking people?
+
+Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
+Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
+Layla: My intention is to help people. I'm not here to cause any harm.
+*→ Next: Choice 3*
+
+#### Branch 2: Did you infiltrate the House of Daena? And what about those rumors of special powers?
+
+Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
+Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
+Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
+Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
+Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
+*→ Next: Choice 4*
+
+
+### Choice 3
+
+#### Branch 1: Did you infiltrate the House of Daena? And what about those rumors of special powers?
+
+Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
+Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
+Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
+Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
+Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
 Layla: Well then, does that answer all your questions?
 Traveler: Actually, I have one last question.
 Traveler: Why don't you want her to know you exist?
@@ -165,7 +210,6 @@ Traveler: I understand.
 Layla: Thank you for doing this for me... no, for us.
 Layla: She seems to be waking up now. Well, this is goodbye. If we never meet again, then... I guess I did something right, hehe.
 [Missing Dialog 191530717]
-
 Layla: Ugh... Mmm...
 Layla: Huh? Did I... did I faint? Or did I fall asleep?
 Traveler: You're fine. You just had a little nap.
@@ -188,97 +232,92 @@ Layla: I don't believe you... You're hiding something from me, it's written all 
 Traveler: I'm not, really.
 Layla: You said you were gonna help me, didn't you? Why are you holding out on me now?
 Layla: Please, tell me! You promised you'd help.
+*→ Ending (save point 191530601)*
 
 
+### Choice 4
 
-Branch 2: Did you infiltrate the House of Daena? And what about those rumors of special powers?
+#### Branch 1: What's with the Seelie pranking people?
+
+Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
+Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
+Layla: My intention is to help people. I'm not here to cause any harm.
+*→ End of conversation*
+
+
+### Choice 5
+
+#### Branch 1: You're the Seelie, aren't you?
+
+Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
+Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
+Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
+*→ Next: Choice 6*
+
+#### Branch 2: Did you infiltrate the House of Daena? And what about those rumors of special powers?
+
 Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
 Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
 Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
 Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
 Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
-
-[Player choice]
-
-Branch 1: What's with the Seelie pranking people?
-Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
-Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
-Layla: My intention is to help people. I'm not here to cause any harm.
+*→ Next: Choice 7*
 
 
+### Choice 6
 
+#### Branch 1: Did you infiltrate the House of Daena? And what about those rumors of special powers?
 
-Branch 2: What's with the Seelie pranking people?
-Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
-Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
-Layla: My intention is to help people. I'm not here to cause any harm.
-
-[Player choice]
-
-Branch 1: You're the Seelie, aren't you?
-Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
-Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
-Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
-
-[Player choice]
-
-Branch 1: Did you infiltrate the House of Daena? And what about those rumors of special powers?
 Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
 Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
 Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
 Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
 Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
+*→ End of conversation*
 
 
+### Choice 7
 
-Branch 2: Did you infiltrate the House of Daena? And what about those rumors of special powers?
-Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
-Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
-Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
-Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
-Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
+#### Branch 1: You're the Seelie, aren't you?
 
-[Player choice]
-
-Branch 1: You're the Seelie, aren't you?
 Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
 Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
 Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
+*→ End of conversation*
 
 
+### Choice 8
 
+#### Branch 1: You're the Seelie, aren't you?
 
-Branch 3: Did you infiltrate the House of Daena? And what about those rumors of special powers?
-Layla: Infiltrating the House of Daena was a total accident. She'd forgotten an important book, and the House of Daena happened to be closed at the time. There were only days before the paper was due.
-Layla: I had no choice but to scale the walls with some simple climbing ropes and sneak in from above while the Corps of Thirty wasn't paying attention.
-Layla: I had no idea there was still a student inside. I had no choice but to put him to sleep.
-Layla: Any clear evidence of my existence would only hinder my ability to conceal my identity. It would also expose me to Layla as well.
-Layla: As for the special powers... Well, they're just things I did during the process of trying to finish the thesis. It's like I said — I don't have much time, so I need to be as efficient as possible.
-
-[Player choice]
-
-Branch 1: You're the Seelie, aren't you?
 Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
 Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
 Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
+*→ Next: Choice 9*
 
-[Player choice]
+#### Branch 2: What's with the Seelie pranking people?
 
-Branch 1: What's with the Seelie pranking people?
 Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
 Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
 Layla: My intention is to help people. I'm not here to cause any harm.
+*→ Next: Choice 10*
 
 
+### Choice 9
 
-Branch 2: What's with the Seelie pranking people?
+#### Branch 1: What's with the Seelie pranking people?
+
 Layla: I can instantly tell which students are asking serious questions and which are just trying to take advantage of me to slack off.
 Layla: My time to move freely is quite limited, so it's only natural that I would punish the people attempting to waste my time.
 Layla: My intention is to help people. I'm not here to cause any harm.
+*→ End of conversation*
 
-[Player choice]
 
-Branch 1: You're the Seelie, aren't you?
+### Choice 10
+
+#### Branch 1: You're the Seelie, aren't you?
+
 Layla: That's right... Though I didn't intend for it to turn out this way, really. I just wanted to help out a few other classmates who were having a hard time while I was helping Layla finish her thesis.
 Layla: You see, Layla doesn't have many friends at the Akademiya. If the others noticed her helping them out, I thought maybe I'd help her become more sociable.
 Layla: Unfortunately, that didn't really work out. Instead, legends of "the Seelie" started going around. Hehe, but that's alright.
+*→ End of conversation*

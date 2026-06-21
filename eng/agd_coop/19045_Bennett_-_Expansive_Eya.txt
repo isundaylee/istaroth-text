@@ -2,11 +2,16 @@
 
 ## Conversation 1
 
+### Talk: Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
+
 Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
 Bennett: Could it be that because you're here with me, I'm feeling more at ease? Hehe...
 Bennett: I've caught the scent of treasure in the air! Come on, let's go!
 
+*→ Ending (save point 50101)*
 ## Conversation 2
+
+### Talk: Bennett: This room's setup seems to be somewhat tricky.
 
 Bennett: This room's setup seems to be somewhat tricky.
 Bennett: The things that stand out are the two mechanisms in front of us, one on the left, and one on the right.
@@ -14,9 +19,10 @@ Bennett: But... it seems like there's some sort of danger lurking around the mec
 Bennett: If my years of adventure experience are anything to go by, it would be a disaster if we activated the wrong mechanism, haha.
 Bennett: How about letting me try it out first?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Go ahead! We won't get anywhere just staring at them.
+#### Branch 1: Go ahead! We won't get anywhere just staring at them.
+
 Bennett: Hehe, leave it to me.
 Bennett: Ah, but as you know, I really don't have any luck.
 Bennett: So I'll leave it to you to decide which of these two mechanisms we should trigger.
@@ -29,35 +35,41 @@ Option 2:
 
 > [Missing Dialog 1904502206]
 
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Hmm, how can I let you face the danger alone?
 
-Branch 1: The one on the left.
-Bennett: That's the one I was thinking of, too! Let's see...
-Bennett (???): *clicking sounds*
-Bennett: What was that noise...?
-Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
-Bennett: This... this is really bad...
-
-
-Branch 2: The one on the right.
-Bennett: Actually, I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
-Bennett (???): *clicking sounds*
-Bennett: What was that noise...?
-Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
-Bennett: This... this is really bad...
-
-
-
-Branch 2: Hmm, how can I let you face the danger alone?
 Bennett: Hmm... I could try it out myself...
 Bennett: But... What do you think we should do? Let's do it your way!
 Traveler: Take one each, activate them simultaneously.
 Bennett: Well, that's a possibility... yeah.
 Bennett: Let's try it then! I'll take the right side, you take the left!
+*→ Ending (save point 50201)*
 
+
+### Choice 2
+
+#### Branch 1: The one on the left.
+
+Bennett: That's the one I was thinking of, too! Let's see...
+Bennett (???): *clicking sounds*
+Bennett: What was that noise...?
+Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Bennett: This... this is really bad...
+*→ Ending (save point 401)*
+
+#### Branch 2: The one on the right.
+
+Bennett: Actually, I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
+Bennett (???): *clicking sounds*
+Bennett: What was that noise...?
+Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Bennett: This... this is really bad...
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Bennett: Oh... so this room has...
 
 Bennett: Oh... so this room has...
 Bennett: ...Four mechanisms. Which means...
@@ -99,9 +111,10 @@ Option 2:
 > [Missing Dialog 1904503319]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: Don't take it personally.
+#### Branch 1: Don't take it personally.
+
 Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
 Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
 Traveler: You can do it, Bennett!
@@ -120,9 +133,10 @@ Option 2:
 
 Traveler: You're right, we shouldn't jump to conclusions.
 Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
+*→ Ending (save point 50301)*
 
+#### Branch 2: They're all traitors.
 
-Branch 2: They're all traitors.
 Bennett: Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do.
 Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
 Traveler: You can do it, Bennett!
@@ -141,9 +155,11 @@ Option 2:
 
 Traveler: You're right, we shouldn't jump to conclusions.
 Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
-
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Bennett: An adventurer's notebook? What's it doing here...?
 
 Bennett: An adventurer's notebook? What's it doing here...?
 Bennett: Maybe it's got some clues on how to crack these mechanisms! Shall we take a look?
@@ -195,15 +211,22 @@ Bennett: "Perhaps... the sequence is related to the position of the torches on t
 Bennett: Well, don't put too much pressure on yourself just because you're afraid I'll get hurt!
 Bennett: Just go with your gut and do it.
 
+*→ Ending (save point 50401)*
 ## Conversation 5
+
+### Talk: Bennett: I'm... sorry...
 
 Bennett: I'm... sorry...
 Bennett: I don't think my body... can... take this anymore...
 [Missing Dialog 1904505103]
 
-Bennett: I'm sorry... I failed you...
+*→ Ending (save point 402)*
+### Talk: Bennett: I'm sorry... I failed you...
 
+Bennett: I'm sorry... I failed you...
 ## Conversation 6
+
+### Talk: Bennett: Wow, that was quite a haul!
 
 Bennett: Wow, that was quite a haul!
 Bennett: This must be the proudest moment for any adventurer!
@@ -238,14 +261,20 @@ Bennett: ...It was your kindness and goodwill towards me that helped me avoid a 
 Bennett: Hehe, it's a bit embarrassing to say that out loud, but all in all, thank you... for everything!
 Bennett: I hope I get to go on another adventure with you soon!
 
+*→ Ending (save point 402)*
 ## Conversation 7
+
+### Talk: Bennett: Cooool! The door is open. We got it right!
 
 Bennett: Cooool! The door is open. We got it right!
 Bennett: Good thing we went with your idea. You definitely live up to your reputation.
 Bennett: And... I haven't had this feeling of working together with friends in ages. I've really missed it, hehe.
 Bennett: Anyway, let's move on!
 
+*→ Ending (save point 701)*
 ## Conversation 8
+
+### Talk: Bennett: You... you solved it?
 
 Bennett: You... you solved it?
 
@@ -258,13 +287,16 @@ Option 2:
 > [Missing Dialog 1904508103]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: Yeah, piece of cake.
+#### Branch 1: Yeah, piece of cake.
+
 Bennett: Haha! That's the great adventurer I'm talking about! Awesome!
 Bennett: Let's go and open the chest, shall we? I can't wait!
+*→ Ending (save point 801)*
 
+#### Branch 2: All thanks to you, Bennett.
 
-Branch 2: All thanks to you, Bennett.
 Bennett: Oh! Uh... heh, I didn't really do anything. You're the one who nailed this.
 Bennett: Let's go and open the chest, shall we? I can't wait!
+*→ End of conversation*

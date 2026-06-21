@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Layla: Let's sit down here and have some coffee and sweets. It'll help me put my thoughts together.
+
 Layla: Let's sit down here and have some coffee and sweets. It'll help me put my thoughts together.
 Layla: Ah no, we're here to rest... My problems will have to wait for now.
 Munirah: Oh, hey Layla!
@@ -27,6 +29,7 @@ Munirah: For starters, she doesn't even try to participate with the group at all
 Munirah: Every time we come to see her, she looks out of sorts and on the verge of a breakdown.
 Munirah: It's not like we can't finish our own theses without her, but no one wants to always see her this way.
 [Missing Dialog 191570118]
+### Talk: Layla: Ugh, I know, I know... sorry.
 
 Layla: Ugh, I know, I know... sorry.
 
@@ -61,9 +64,10 @@ Layla: *sigh* ...Yeah, that's exactly it. Seems you know just as well as I do.
 Layla: The thing is, I'm terrible under pressure, that's just my nature. Even the thought of everyone's expectations back home is enough to make me feel nervous...
 Layla: And the more nervous I get, the worse things become around me. Take what Munirah just said for example... I don't think I'll be able to get it out of my mind for the entire day... That means I won't be able to relax at all today...
 
-[Player choice]
+### Choice 1
 
-Branch 1: Why don't we try facing the problem head-on?
+#### Branch 1: Why don't we try facing the problem head-on?
+
 Layla: Face it head-on? Wh—What should I do? Do you really think I can...?
 Layla: Oh... okay... I've got a pen and paper with me. Let me go through them real quick.
 Layla: Hmm...
@@ -94,9 +98,10 @@ Traveler: So you're lacking some equipment...
 Traveler: Looks like we're gonna have to ask around at the Adventurers' Guild.
 
 Traveler: Because no one has a network like Katheryne does.
+*→ Ending (save point 191570201)*
 
+#### Branch 2: Sounds like we need to find a way for you to completely relax.
 
-Branch 2: Sounds like we need to find a way for you to completely relax.
 Layla: C—Completely relax? But we're at a cafe, is this not relaxing enough...?
 
 Option 1:
@@ -115,3 +120,4 @@ Layla: I used to enjoy visiting the rainforest... but it's been a while since I'
 Layla: Okay, why don't we go there and take a look?
 
 Traveler: Since you're from the countryside, why don't we leave Sumeru City and go sightseeing?
+*→ Ending (save point 191570202)*

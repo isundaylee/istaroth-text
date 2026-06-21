@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Diona: Dadaupa Gorge is just up ahead. We should be able to find a special drink base there.
+
 Diona: Dadaupa Gorge is just up ahead. We should be able to find a special drink base there.
 Diona: An adventurer who visited the tavern told me that he once ventured deep into Dadaupa Gorge and discovered a type of drink inside the cooking pots of a hilichurl tribe who lived there.
 Diona: The drink is actually an herbal soup made by samachurls using a variety of ingredients. According to the adventurer, it seems like the samachurls made these drinks to grant the tribe more energy.
@@ -27,7 +29,10 @@ Diona: Now listen up, I had that old adventurer mark the location for me, so all
 Diona: Since we're only on the outskirts of Dadaupa Gorge, we'll have to walk further in. We still have quite a ways to go.
 [Missing Dialog 0]
 
+*→ Ending (save point 30101)*
 ## Conversation 2
+
+### Talk: Allan: Diona? Is that you?
 
 Allan: Diona? Is that you?
 Diona: Huh? Oh, I know you... You're the one that usually goes hunting with my father.
@@ -58,20 +63,23 @@ Diona: You're coming with me to Dadaupa Gorge? There'll be a lot of monsters in 
 Diona: So I plan on sneaking by the monsters to find my stupid father... What's your plan?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: I'll avoid the monsters as well.
+#### Branch 1: I'll avoid the monsters as well.
+
 Diona: Really? Alright then, but if you do startle them, be sure not to lure them to me.
 Diona: Actually... it wouldn't really matter, because you won't be able to figure out where I'm headed anyway.
 Diona: Let's pounce to it then. I'll mark the route on your map.
 Diona: Oh — make sure to stick to the route. I'm not coming back for you if you get lost.
 [Missing Dialog 0]
+*→ Ending (save point 30201)*
 
+#### Branch 2: I'll defeat all the monsters head-on.
 
-Branch 2: I'll defeat all the monsters head-on.
 Diona: Take them all head on, huh? Well, you are the Honorary Knight after all...
 Diona: Hmmm... That would work too, I suppose. You can distract the monsters while I sneak around them.
 Diona: Let's head deeper into Dadaupa Gorge. I don't know where my foolish father is, but we can start our search there.
 Diona: And uh, if the monsters are too strong, then just run away if you can. There are lots of places to hide around here... trust me.
 Diona: Alright, let's get to it! I've marked the approximate location on your map.
 [Missing Dialog 0]
+*→ Ending (save point 30202)*

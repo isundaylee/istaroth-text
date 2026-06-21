@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Noelle (???): I finally get to meet you, Honorary Knight.
+
 Noelle (???): I finally get to meet you, Honorary Knight.
 Noelle: I'm Noelle, a maid of the Knights of Favonius.
 
@@ -26,9 +28,10 @@ Noelle: I've seen you on the streets of Mondstadt occasionally, but I've always 
 Noelle: I just finished today's cleaning for the Knights and was about to start my training when I saw you!
 Noelle: I... If it's not too much trouble... could I ask you for some guidance on my Chivalric Training?
 
-[Player choice]
+### Choice 1
 
-Branch 1: You know... it's okay not to be a knight.
+#### Branch 1: You know... it's okay not to be a knight.
+
 Noelle: So as a senior knight... this is your suggestion?
 Noelle: But... as a maid, I'm only authorized to deal with smaller tasks.
 Noelle: The Knights of Favonius is the strongest shield that Mondstadt has. How can I defend the people if I'm only ever dealing with minor matters!
@@ -69,9 +72,10 @@ Option 2:
 > Traveler: Think of every small task as a kind of training.
 
 Noelle: Oh... Okay, back to Mondstadt it is! Time for today's training to officially begin!
+*→ Ending (save point 190610101)*
 
+#### Branch 2: Of course, where do you want to start?
 
-Branch 2: Of course, where do you want to start?
 Noelle: I—I'd like to get your opinion on something, as a senior knight!
 Noelle: I've been keeping up with my maidly duties and knightly exercises.
 Noelle: But training progress has been a little slow...
@@ -92,10 +96,13 @@ Option 2:
 > Noelle: And running two laps around Mondstadt as a morning routine.
 
 Noelle: I'm actually incredibly busy every day. It's just that... I always feel like something's missing.
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: What you lack is strength!
+### Choice 2
+
+#### Branch 1: What you lack is strength!
+
 Noelle: S—Strength...?
 Noelle: But, I think I'm pretty strong...
 Noelle: After he got drunk, I carried Mr. Bruce back to the Knights of Favonius Headquarters myself...
@@ -105,9 +112,10 @@ Traveler: Can you show me?
 Noelle: Ah! Of course!
 Noelle: However, even though it's only training... I can't raise my sword against the Honorary Knight.
 Noelle: I've got it! Let's go to the training ground at the Knights of Favonius Headquarters. There should be some training dummies there.
+*→ Ending (save point 190610102)*
 
+#### Branch 2: What you lack is rest.
 
-Branch 2: What you lack is rest.
 Noelle: Rest? But... *sigh* ...I've still got so much work to do.
 Noelle: Besides... I'm still not skilled enough. Any free time that I get should be spent training.
 Noelle: If I want to become a real knight soon, I have to continue to put in more effort than the others.
@@ -138,10 +146,11 @@ Option 2:
 > Traveler: And speaking of tea, let's have some!
 
 Noelle: Oh! O—Okay!
-
-
+*→ Ending (save point 190610103)*
 
 ## Conversation 2
+
+### Talk: Noelle: ...There, there, take your time, try and take a deep breath first...
 
 Noelle: ...There, there, take your time, try and take a deep breath first...
 Alois (???): *catches breath* ...And finally... I was saved...
@@ -174,7 +183,10 @@ Noelle: Now do your best to relax. I will examine you.
 Alois: Uhh... p—perhaps I... maybe you...
 Noelle: #I'm sorry, I must stay here to watch over our visitor, Traveler. It looks like you'll need to handle the monsters. Oh — and please be careful!
 
+*→ Ending (save point 190610301)*
 ## Conversation 3
+
+### Talk: Noelle: Back so soon... A true senior knight!
 
 Noelle: Back so soon... A true senior knight!
 Noelle: Did you see Mr. Alois's luggage on the way?
@@ -227,3 +239,5 @@ Noelle: Mm-hmm, thank you for understanding!
 Alois: Hey... what are you discussing? So what's next?
 Noelle: Oh... Sorry to keep you waiting!
 Noelle: We've talked it over, and we've decided to escort you back to Mondstadt!
+
+*→ Ending (save point 190610401)*

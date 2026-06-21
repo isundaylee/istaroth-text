@@ -2,15 +2,18 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1914611]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1914611])
+
 Miyuki: *humming* ...
 Traveler: You look very happy...
 Miyuki: Of course, Lady Yae personally assigned this task to me!
 Miyuki: Oh, it's you, Traveler. Long time no see.
 Miyuki: Progress has ground to a halt in Tatarasuna lately, so I thought I'd come back and see what's been going on here... I have to say, I was not expecting all these flyers!
-
 Miyuki: Unbelievable. Who was behind it, I wonder?
 Miyuki: Huh? Who's that standing behind you...?
 Kuki Shinobu: Ahem... Miyuki. It's been a while.
@@ -61,29 +64,38 @@ Miyuki: No way! This task was assigned to me by Lady Yae herself!
 Miyuki: Look... we can clean up together, can't we? Besides, I also want to hear all about this Arataki Gang...
 Kuki Shinobu: (Ugh... it's like she's predicted my every move.)
 Kuki Shinobu: *sigh* Alright, fine. The flyers aren't particularly sticky. If we soften them up with water or loosen them up with wind, they'll probably peel right off.
+*→ Ending (save point 191460101)*
+
+#### Branch 2
+
+*→ Next: Choice 2*
 
 
-Branch 2
-[Conditional branch]
+### Choice 2
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1914612]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1914612])
+
 Miyuki: *humming* ...
 Traveler: You look very happy...
 Miyuki: Of course, Lady Yae personally assigned this task to me!
 Miyuki: Oh, it's you, Traveler. Long time no see.
 Miyuki: Lady Yae has instructed me to clean up all the flyers on the mountain. As for why someone would put these up at a shrine in the first place...
+*→ End of conversation*
 
+#### Branch 2
 
-Branch 2
 Miyuki: *humming* ...
 Traveler: You look very happy...
 Miyuki: Of course, Lady Yae personally assigned this task to me!
 Miyuki: I've been dealing with something down in Tatarasuna for a while, so I hadn't seen Lady Yae in a long time.
 Miyuki: Progress has been slow there lately, so I thought I'd come back and see what's been going on here... I have to say, I was not expecting to see all these flyers!
-
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Miyuki: "Stick It to the Man, Join the Arataki Gang!"...
 
 Miyuki: "Stick It to the Man, Join the Arataki Gang!"...
 Miyuki: Um, how do I put this... The artistic style of your marketing material is very...
@@ -92,7 +104,10 @@ Kuki Shinobu: We paid top Mora to hire a professional artist for this, and while
 Kuki Shinobu: ...that's exactly in line with the Arataki Gang's spirit of being fearlessly creative and radically disruptive.
 Miyuki: I, uh... I see.
 
+*→ Ending (save point 191460201)*
 ## Conversation 3
+
+### Talk: Miyuki: "Arataki Numero Uno Itto: Ousting His Foes Like a Sumo Supremo!"
 
 Miyuki: "Arataki Numero Uno Itto: Ousting His Foes Like a Sumo Supremo!"
 Miyuki: This Arataki Itto, is he your... leader in Inazuma? I've heard a few rumors...
@@ -101,7 +116,10 @@ Kuki Shinobu: Mr. Arataki is generous and easygoing by nature, and is reluctant 
 Kuki Shinobu: Nevertheless, we still reserve the right to sue for defamation if it comes to it.
 Miyuki: Really? Wow, that sounds tough...
 
+*→ Ending (save point 191460601)*
 ## Conversation 4
+
+### Talk: Miyuki: "The Arataki Gang Is Filled With Folks Who Talk the Talk and Walk the Walk!"
 
 Miyuki: "The Arataki Gang Is Filled With Folks Who Talk the Talk and Walk the Walk!"
 Miyuki: It looks like there are some members mentioned on the back... Mamoru, Genta, Akira...
@@ -111,7 +129,10 @@ Kuki Shinobu: Secondly, the other members are dealing with more pressing issues.
 Kuki Shinobu: Mamoru and the others have... um, far greater legal expertise and negotiating skills than I do, so they had to be the ones attending the talks.
 Miyuki: Wow, the Arataki Gang managed to find staff even more qualified than you? Now that is impressive.
 
+*→ Ending (save point 191460701)*
 ## Conversation 5
+
+### Talk: Kuki Shinobu: Mam— Ahem! What are you doing here?
 
 Kuki Shinobu: Mam— Ahem! What are you doing here?
 Mamoru: Shinobu! We're so sorry!
@@ -160,3 +181,5 @@ Option 2:
 > Traveler: About that "Chief Advisor" thing...
 
 Kuki Shinobu: Ahem! Chief Advisor, if you'd like to discuss the Arataki Gang's future development, let's step to the side, please!
+
+*→ Ending (save point 191460901)*

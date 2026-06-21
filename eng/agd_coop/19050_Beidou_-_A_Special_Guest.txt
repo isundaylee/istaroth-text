@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Sea Drake: Well, would you look who's here! Looks like it's going to be a day to remember. Guys, look who the sea washed up!
+
 Sea Drake: Well, would you look who's here! Looks like it's going to be a day to remember. Guys, look who the sea washed up!
 Furong: Ahoy there, Traveler. Hah, so Captain really did invite you to join the homecoming celebration!
 Huixing: Hey! I heard that you took care of another crisis while you were in Inazuma. Are the rumors true?
@@ -40,7 +42,10 @@ Sea Drake: Yes... A strong sailor is always looking for a sturdy ship!
 Furong: I guess I almost forgot the first lesson you ever taught me... Thanks for the reminder, Captain!
 Beidou: Just be sure you all keep that in mind! There's no more need to hound the Traveler. As you were! The Traveler and I have something to discuss.
 
+*→ Ending (save point 190500101)*
 ## Conversation 2
+
+### Talk: Beidou: Chief Mate Juza is breaking in the newcomers. But, I think we can spare you the tedium of that.
 
 Beidou: Chief Mate Juza is breaking in the newcomers. But, I think we can spare you the tedium of that.
 Beidou: After this, the new crew members will be arranged into two teams for more specialized training, according to their own aptitudes and the needs of the fleet.
@@ -67,9 +72,10 @@ Beidou: As one might expect, we call the other team the "Spear of The Crux," bec
 Beidou: Also, they are responsible for handling the fleet's cargo deals.
 Beidou: So, what do you think? Which team is for you?
 
-[Player choice]
+### Choice 1
 
-Branch 1: The Shield of The Crux.
+#### Branch 1: The Shield of The Crux.
+
 Beidou: Heh, as I expected. You have a will to protect others.
 Beidou: There are two main subjects that The Shield of The Crux focuses on, survival knowledge and entertainment.
 Beidou: As I was saying earlier, survival knowledge includes prevention of injuries and diseases at sea, navigation and cartography, basic meteorology, etc.
@@ -86,15 +92,18 @@ Option 2:
 Beidou: Each sailor has their own strengths and weaknesses. I'm no rookie, of course, but you shouldn't underestimate the knowledge of the crew.
 Beidou: If there's anything I'm most proud of in the fleet, it's my people!
 Beidou: Go and get to work. I'll have some questions to test you later. Heh, I look forward to seeing how you do.
+*→ Ending (save point 190500201)*
 
+#### Branch 2: The Spear of The Crux.
 
-Branch 2: The Spear of The Crux.
 Beidou: Heh, you truly are an adventurer at heart.
 Beidou: Let's start with the fundamentals for any armed crew member: basic boat handling.
 Beidou: Follow me.
-
+*→ Ending (save point 190500202)*
 
 ## Conversation 3
+
+### Talk: Beidou: So after we dropped you off in Ritou, we found a shipwreck nearby. Probably belonged to Inazuman pirates.
 
 Beidou: So after we dropped you off in Ritou, we found a shipwreck nearby. Probably belonged to Inazuman pirates.
 Beidou: We searched the wreckage and found a map.
@@ -126,9 +135,10 @@ Beidou: Is that right? Well then, it looks like I'm in good hands.
 Beidou: Here's the map, see what you can make of it.
 Beidou: So? Where do you think it is?
 
-[Player choice]
+### Choice 1
 
-Branch 1: I think it's Guili Plains, just very badly drawn.
+#### Branch 1: I think it's Guili Plains, just very badly drawn.
+
 Beidou: Guili Plains... Huh, I never would have gotten that. How can you tell?
 
 Option 1:
@@ -142,9 +152,10 @@ Option 2:
 Beidou: Ohh... okay then.
 Beidou: So you do live up to the hype. I can't believe you noticed that — you sure have an eye for detail.
 Beidou: Let's head over there and take a look. I'll need you to help me zero in on the specific location once we're there.
+*→ Ending (save point 190500301)*
 
+#### Branch 2: I think it's Qingce Village, just very badly drawn.
 
-Branch 2: I think it's Qingce Village, just very badly drawn.
 Beidou: Qingce Village... I don't see the resemblance at all. How'd you come to that conclusion?
 
 Option 1:
@@ -158,9 +169,11 @@ Option 2:
 Beidou: Ohh... okay then.
 Beidou: I'm definitely a rookie at this, haha. But your word's good enough for me. Time for a trip to Qingce.
 Beidou: You're coming with me, of course. I'll need you to help me zero in on the specific location once we're there.
-
+*→ Ending (save point 190500302)*
 
 ## Conversation 4
+
+### Talk: Beidou: #I'm glad you came, Traveler. Welcome back aboard.
 
 Beidou: #I'm glad you came, Traveler. Welcome back aboard.
 
@@ -186,9 +199,10 @@ Beidou: As the head of the fleet, my task is to keep us on the right course, no 
 Beidou: But then again, the crew isn't usually this riled up. It's not that they're arrogant, they're just bubbling with ambition, that's all.
 Beidou: Their excitement today comes from their great respect for you — both your strength and your character... So please, don't take it the wrong way.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Why would I? I'm actually quite interested in the life of a sailor.
+#### Branch 1: Why would I? I'm actually quite interested in the life of a sailor.
+
 Beidou: Oh, is that so? Well, it just so happens that we're doing some recruitment and training for new crew members while we're back. It'll be a first-rate chance to learn the life of a sailor.
 Beidou: Since you're interested, why don't you come along and experience a sailor's life firsthand?
 Beidou: I'm curious to see if you'll take the sea by storm in the same way you have on land.
@@ -203,8 +217,10 @@ Option 2:
 > Traveler: Maybe not by storm, but I'll try and make a splash?
 > Beidou: Nice! Come with me. Let's see how big of a splash you can manage.
 
+*→ Ending (save point 190500401)*
 
+#### Branch 2: Why would I? I should be thanking them for taking me to Inazuma.
 
-Branch 2: Why would I? I should be thanking them for taking me to Inazuma.
 Beidou: All good then. Great. Actually, speaking of Inazuma, I think your good luck must have rubbed off on me on the way over. I made an interesting find on the beach shortly after we parted ways.
 Beidou: Let's talk about it over there, where it's a little quieter.
+*→ Ending (save point 190500402)*

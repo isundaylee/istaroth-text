@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Beidou: Hmm? So you've already finished talking to the crew, huh? Heh, I thought it would take you a while longer. So, what did you think?
+
 Beidou: Hmm? So you've already finished talking to the crew, huh? Heh, I thought it would take you a while longer. So, what did you think?
 
 Option 1:
@@ -20,35 +22,100 @@ Option 3:
 > Traveler: It was pretty difficult. I'll need some time to review.
 > Beidou: Haha! There's that modesty of yours again, I didn't think that I'd ever hear the word "difficult" come out of your mouth. Come on, let's get on with it!
 
+### Talk: Beidou: First of all, life on the sea isn't always plain sailing. Injuries and illnesses happen all the time.
 
 Beidou: First of all, life on the sea isn't always plain sailing. Injuries and illnesses happen all the time.
 Beidou: But what is the single biggest danger facing crew members?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Amputations.
+#### Branch 1: Amputations.
+
 Beidou: Hmm? Is that your final answer? Haha! Alright, on to the second question.
 Beidou: As you've just learned, the fleet plots its route using nautical charts. The charts used by The Crux have additional charts attached.
 Beidou: The supplementary chart has lots of lines in various colors for added reference. What is the purpose of these lines?
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Underestimating danger.
 
-Branch 1: To mark different types of currents.
+*→ End of conversation*
+
+#### Branch 3: Cold weather.
+
+*→ End of conversation*
+
+#### Branch 4: Getting seasick.
+
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: To mark different types of currents.
+
 Beidou: Okay, interesting, interesting. Now, last question...
 Beidou: On longer voyages, we have to be especially careful to avoid certain weather hazards that pose a threat to the integrity of the ship and the lives of the crew. For example, waterspouts.
 Beidou: So, my question is, how can we reliably predict waterspouts, so we can avoid them?
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: To mark special locations.
 
-Branch 1: When Liushi says a waterspout is coming, it's coming.
+*→ End of conversation*
+
+#### Branch 3: To mark distances.
+
+*→ End of conversation*
+
+#### Branch 4: To add color and depth to the chart in a way that expresses the draughtsman's aesthetic preferences and fosters a greater appreciation of art among the crew.
+
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: When Liushi says a waterspout is coming, it's coming.
+
 Beidou: Okay! Those are all my questions. Do you want to know how you did?
+*→ Next: Choice 4*
 
-[Conditional branch]
+#### Branch 2: When Sea Drake says a waterspout is coming, it's coming.
 
-Branch 1
-[Conditional branch]
+*→ End of conversation*
 
-Branch 1
+#### Branch 3: The presence of dark clouds and strong winds in opposite directions, plus white vortices in the clouds.
+
+*→ End of conversation*
+
+#### Branch 4: The presence of dark clouds and strong winds in opposite directions, plus rings of white spots in the clouds.
+
+*→ End of conversation*
+
+
+### Choice 4
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 1, 2]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 1, 2])
+
+*→ Next: Choice 5*
+
+#### Branch 2
+
+Beidou: Congratulations, you... Huh, wait a second, you didn't pass. Were my questions too difficult?
+Beidou: Hmm... They didn't seem to be all that hard...
+Beidou: Did you get them wrong on purpose, or...?
+Beidou: Just kidding. I know you wouldn't do that. I guess you're just not really suited for life on the sea.
+Beidou: In that case, how about we take a trip back to Liyue Harbor? Looks like you and the sea are not made for each other. Dry land is where you really come into your own.
+Beidou: I've actually been hoping for the chance to give you an insider look at how some of The Crux's important business is conducted.
+*→ Ending (save point 190510102)*
+
+
+### Choice 5
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 1, 3]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 1, 3])
+
 Beidou: #Traveler, I gotta say, each time I think I've wrapped my head around how great you are, you surprise me with something new.
 Beidou: You got them all correct. They weren't the most difficult questions, but they weren't ones you could bluff your way through, either. You've clearly been paying attention to my crew.
 Beidou: Okay then! Now it's time to apply that endless talent of yours to learning some new recreational activities.
@@ -80,9 +147,10 @@ Option 2:
 
 Beidou: Hahaha, well, for today at least, let's stick to the training schedule drawn up by Juza.
 Beidou: If I remember correctly, it should be photography today... Come on, I'll show you.
+*→ Ending (save point 190510101)*
 
+#### Branch 2
 
-Branch 2
 Beidou: Now then, let's see... out of these three questions, you got a total of...
 Beidou: ...two correct answers!
 Beidou: Not bad! After all, you didn't have much time to prepare. Plenty of people get through their whole training and still don't do this well.
@@ -115,40 +183,11 @@ Option 2:
 
 Beidou: Hahaha, well, for today at least, let's stick to the training schedule drawn up by Juza.
 Beidou: If I remember correctly, it should be photography today... Come on, I'll show you.
-
-
-
-Branch 2
-Beidou: Congratulations, you... Huh, wait a second, you didn't pass. Were my questions too difficult?
-Beidou: Hmm... They didn't seem to be all that hard...
-Beidou: Did you get them wrong on purpose, or...?
-Beidou: Just kidding. I know you wouldn't do that. I guess you're just not really suited for life on the sea.
-Beidou: In that case, how about we take a trip back to Liyue Harbor? Looks like you and the sea are not made for each other. Dry land is where you really come into your own.
-Beidou: I've actually been hoping for the chance to give you an insider look at how some of The Crux's important business is conducted.
-
-
-
-Branch 2: When Sea Drake says a waterspout is coming, it's coming.
-
-Branch 3: The presence of dark clouds and strong winds in opposite directions, plus white vortices in the clouds.
-
-Branch 4: The presence of dark clouds and strong winds in opposite directions, plus rings of white spots in the clouds.
-
-
-Branch 2: To mark special locations.
-
-Branch 3: To mark distances.
-
-Branch 4: To add color and depth to the chart in a way that expresses the draughtsman's aesthetic preferences and fosters a greater appreciation of art among the crew.
-
-
-Branch 2: Underestimating danger.
-
-Branch 3: Cold weather.
-
-Branch 4: Getting seasick.
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Juza: Listen up! Everyone can go back and call it a day! The photography session has been postponed.
 
 Juza: Listen up! Everyone can go back and call it a day! The photography session has been postponed.
 Beidou: What's going on here, Juza?
@@ -162,9 +201,10 @@ Juza: Yeah... unfortunately, the original teacher canceled at short notice, so t
 Juza: It would be great if the Traveler could step in as the teacher for the day!
 Beidou: #It's up to you, Traveler.
 
-[Player choice]
+### Choice 1
 
-Branch 1: It would be my pleasure.
+#### Branch 1: It would be my pleasure.
+
 Beidou: Great, it's settled then! Juza, let's muster everyone over here to meet the new teacher!
 Juza: Yes, Captain!
 Beidou: That should be everyone. Take it away, Traveler.
@@ -222,10 +262,13 @@ Juza: I agree! You were the one who invited the Traveler to be the teacher, so y
 Juza: Besides, Captain, you've never had your photo taken. It's high time you got one. You know, a heroic and striking kind of picture!
 Juza: We can even use it to promote the fleet during recruitment...
 Beidou: Real funny guys...
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: Trust your crew, Captain. You are the best candidate.
+### Choice 2
+
+#### Branch 1: Trust your crew, Captain. You are the best candidate.
+
 Beidou: Well, if you say so... I'm not one to spoil the fun.
 Beidou: So what do I do now, Traveler?
 
@@ -279,10 +322,17 @@ Juza: Sounds good to me, haha! That's a good idea, isn't it guys?
 Beidou: Hmm, the lighting may still be a problem...
 Beidou: But I'm open to persuasion. If you have a suitable place in mind, I can consider it...
 Beidou: Just to be clear, I won't necessarily agree. It depends on the place you have in mind.
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: Trust me, Captain. You are the best candidate.
 
-Branch 1: I've heard there's a fishing village near Wangshu Inn...
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: I've heard there's a fishing village near Wangshu Inn...
+
 Beidou: The fishing village near Wangshu Inn? That place is deserted now, isn't it?
 Beidou: How do you even know that place anyway? It's tiny! I don't think I've ever seen it on a single map.
 
@@ -300,28 +350,28 @@ Option 2:
 > Beidou: He's right though, I did live there for a while. And now that you've mentioned it, it's given me the urge to go back and take a look around.
 > Beidou: Well then, let's go. We can take this opportunity to pay my old home a visit.
 
+*→ Ending (save point 190510201)*
 
+#### Branch 2: How about the top of Mt. Tianheng, overlooking all of Liyue Harbor?
 
-Branch 2: How about the top of Mt. Tianheng, overlooking all of Liyue Harbor?
 Beidou: A view overlooking Liyue Harbor, huh? Sounds nice, but...
 Beidou: On second thought... I don't have any love for a lifeless gadget like the Kamera.
 Beidou: I'd prefer to be having fun together with my crew! I guess I'm used to that rowdy bunch.
 Beidou: So I think we can just forget the whole modeling thing for now.
 Beidou: #Sorry about that, Traveler, I guess I'll owe you a favor!
+*→ End of conversation*
 
+#### Branch 3: How about Yaoguang Shoal? We can enjoy the ocean breeze...
 
-Branch 3: How about Yaoguang Shoal? We can enjoy the ocean breeze...
 Beidou: Well... Yaoguang Shoal is pretty relaxing.
 Beidou: But if I want to enjoy the ocean breeze, why don't I just stay onboard The Alcor and enjoy the breeze with my crew? That'd be more fun if you ask me.
 Beidou: So I think we can just forget the whole modeling thing for now.
 Beidou: #Sorry about that, Traveler, I guess I'll owe you a favor!
-
-
-
-Branch 2: Trust me, Captain. You are the best candidate.
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Beidou: Here we are. This is the old house of the village chief.
 
 Beidou: Here we are. This is the old house of the village chief.
 Beidou: I bet he never expected that the little girl he took in would grow up to be seen as a curse that brought about the village's total destruction.
@@ -357,21 +407,27 @@ Option 2:
 Beidou: C'mon, let's not waste any time... Get it done while you can, before I change my mind.
 Beidou: So, do I need to strike a pose?
 
-[Player choice]
+### Choice 1
 
-Branch 1: However you prefer.
+#### Branch 1: However you prefer.
+
 Beidou: Alright, how about this?
+*→ Ending (save point 190510301)*
 
+#### Branch 2: Perhaps you can strike an epic pose.
 
-Branch 2: Perhaps you can strike an epic pose.
+*→ End of conversation*
 
-Branch 3: Maybe go for something a little... flirtatious?
+#### Branch 3: Maybe go for something a little... flirtatious?
+
 Beidou: Wh—What!? The nerve! What do you think this is!?
 Beidou: I don't want to do this whole modeling thing!
 Beidou: Hey, cut it out! No more pictures!
-
+*→ Ending (save point 102)*
 
 ## Conversation 4
+
+### Talk: Beidou: So, is it done yet? Please don't tell me that it looks weird...
 
 Beidou: So, is it done yet? Please don't tell me that it looks weird...
 
@@ -399,7 +455,10 @@ Beidou: Now, as Captain of The Crux, I am exercising my official right...
 Beidou: ...to requisition this photograph for future promotion and recruitment purposes!
 Beidou: So I'm afraid I'll be holding on to this. That's fine with you, though, right? Haha...
 
+*→ Ending (save point 101)*
 ## Conversation 5
+
+### Talk: Beidou: Hmm. It's certainly seen better days...
 
 Beidou: Hmm. It's certainly seen better days...
 Beidou: It was never that impressive, but at least back in the day it was a lively village and home to several families.
@@ -408,7 +467,10 @@ Traveler: So what exactly happened here?
 Beidou: Nothing as dramatic as you might think. A few small incidents occurred and then people began to leave.
 Beidou: C'mon, let's take a walk around.
 
+*→ Ending (save point 190510501)*
 ## Conversation 6
+
+### Talk: Beidou: "To Zhong..."
 
 Beidou: "To Zhong..."
 Beidou: ...Zhong? Hmm, I barely remember this name.
@@ -436,3 +498,5 @@ Traveler: What made you leave later?
 Beidou: Hehe...
 Beidou: Do you know what the name "Beidou" means?
 Beidou: Come on, I'll explain along the way.
+
+*→ Ending (save point 190510601)*

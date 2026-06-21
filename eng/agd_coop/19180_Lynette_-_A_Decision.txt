@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Black Screen Text: As Lynette attempts to draw a card, the device emits a horrendous grinding sound...
+
 Black Screen Text: As Lynette attempts to draw a card, the device emits a horrendous grinding sound...
 Lynette: Huh, it didn't like that... Was I using it wrong? Hmm. Maybe if I just...
 Black Screen Text: Lynette smacks the card box, all the cards fall onto the ground... Then, she picks one at random.
@@ -28,20 +30,51 @@ Lynette: Thank you... This one is final, I promise...
 Lynette: Here, take the fateometer. If it's 5 or above, that means "fate successfully changed," anything lower than 5 is a fail.
 Lynette: Also... If you have your own thoughts about what I should do, feel free to share it. Now that I've got a good problem-solver here to help, I don't need to run every little thing by fate...
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+#### Branch 1
+
 Lynette: Alright... Then let's see where fate will lead me.
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
+Lynette: ...Huh?
+
+Option 1:
+
+> Traveler: If it was that urgent, someone would have come looking by now.
+
+Option 2:
+
+> Traveler: That applies both to your troupe, and to Bonnie's owner.
+
+Lynette: What you're saying is... since nobody's come looking... I can just keep hanging out with Bonnie for a bit longer?
+Lynette: ...Is that really okay...?
+Bonnie: Meow!
+Traveler: [Persuasion] Well, Bonnie sure seems to like that idea!
+*→ Next: Choice 3*
+
+#### Branch 3
+
+*→ End of conversation*
+
+#### Branch 4
+
+*→ End of conversation*
+
+
+### Choice 2
+
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1001, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1001, 0])
+
 Lynette: Huh... Back to the drinks reception...
 Traveler: I have to ask about this deck of cards...
 Lynette: There's twenty cards in total, numbered 1 to 20. So there's only a one-in-five chance of drawing less than a 5.
 Lynette: I should also mention — this time the cutoff was 5, but I just set that to whatever I feel like.
 Traveler: I mean... clearly you don't want to go... You could just—
-
 Lynette: Nope, I said it was your decision. I'm not gonna waste any more energy dragging my feet.
 Lynette: Besides, the drinks reception is technically part of the job as an official publicity event. So if I bail on it...
 Traveler: You'll feel guilty inside?
@@ -57,61 +90,38 @@ Option 2:
 > Traveler: Hopefully that will make it more bearable?
 
 Lynette: ...Mm-hmm. Thanks.
+*→ Ending (save point 191800102)*
 
+#### Branch 2
 
-Branch 2
 Lynette: ...So we're looking for Bonnie's owner?
 Traveler: I have to ask about this deck of cards...
 Lynette: There's twenty cards in total, numbered 1 to 20. So there's only a one-in-five chance of drawing less than a 5.
 Lynette: I should also mention — this time the cutoff was 5, but I just set that to whatever I feel like.
 Traveler: Wow, you REALLY don't want to go back to that reception party...
 Lynette: To put it in perspective, I said I'd only do the show if I drew a 1... Fate can be pretty sneaky sometimes.
-
 Bonnie: Meow!
 Traveler: So, how do you plan to find Bonnie's owner?
 Lynette: Umm... I think I'll go to The Steambird and see about putting an ad in the paper. You wanna come along? ...I think Bonnie wants you to come with.
 Bonnie: Meow...
 Traveler: Sure, if it means I get to hang out with you for a bit longer.
 Bonnie: Meow, meow~!
+*→ Ending (save point 191800103)*
 
 
+### Choice 3
 
-Branch 2
-Lynette: ...Huh?
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1002, 0]*
 
-Option 1:
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1002, 0])
 
-> Traveler: If it was that urgent, someone would have come looking by now.
-
-Option 2:
-
-> Traveler: That applies both to your troupe, and to Bonnie's owner.
-
-Lynette: What you're saying is... since nobody's come looking... I can just keep hanging out with Bonnie for a bit longer?
-Lynette: ...Is that really okay...?
-Bonnie: Meow!
-Traveler: [Persuasion] Well, Bonnie sure seems to like that idea!
-
-[Conditional branch]
-
-Branch 1
 Lynette: Hmmmmm... Maybe not... As much as I don't want to, I really should be getting back...
 Lynette: Besides, if someone does come looking for me or Bonnie, and finds me just chilling out with a cat... I feel like I'd have a lot of explaining to do.
 Bonnie: Meow...
+*→ Next: Choice 4*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
-Lynette: Huh... Back to the drinks reception...
-Traveler: I mean... clearly you don't want to go... You could just—
-
-
-Branch 2
-Lynette: ...So we're looking for Bonnie's owner?
-
-
-
-Branch 2
 Lynette: You make a good point!
 
 Option 1:
@@ -156,10 +166,29 @@ Option 2:
 Lynette: ...When I was trying to find somewhere I could space out earlier... Uh, I mean, collect my thoughts — I figured the cafe might be a good shot.
 Bonnie: Meow!
 Lynette: Alright then. Plan of action: Spend the whole day spacing out— I mean, in standby mode.
+*→ Ending (save point 191800101)*
 
 
+### Choice 4
+
+#### Branch 1
+
+*→ End of conversation*
+
+#### Branch 2
+
+Lynette: Huh... Back to the drinks reception...
+Traveler: I mean... clearly you don't want to go... You could just—
+*→ End of conversation*
+
+#### Branch 3
+
+Lynette: ...So we're looking for Bonnie's owner?
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Traveler: (Is that... Lynette? With a little kitty?)
 
 Traveler: (Is that... Lynette? With a little kitty?)
 Bonnie (???): Meow~
@@ -240,3 +269,5 @@ Lynette: Well, for example... If the number on the card is 5 or higher, I help B
 Traveler: Simple and straightforward!
 Lynette: I just have to believe in the bond between me and my cards, and my fate will reveal itself to me in numerical form... at least that's what Lyney said. Anyway, I guess I'll give you a demonstration.
 Bonnie: Meow!
+
+*→ Ending (save point 191800201)*

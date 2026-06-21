@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Tighnari: Hmm, what am I supposed to do now... Forget it, I'll just head back.
+
 Tighnari: Hmm, what am I supposed to do now... Forget it, I'll just head back.
 Kaveh: Tighnari? What are you doing here?
 Tighnari: Oh, it's you! Good to finally see you again.
@@ -22,7 +24,10 @@ Tighnari: Alright, then I'll plan on reserving two seats for you.
 Tighnari: I'll be heading back to Gandharva Ville for now. I have a feeling that argument over there is gonna continue for quite some time. It might be best if we don't get involved.
 Kaveh: A granny who lives nearby... Let's go take a look.
 
+*→ Ending (save point 190770101)*
 ## Conversation 2
+
+### Talk: Zaha Hadi: Hah, so plan on keeping yourself locked in there, huh? Fine by me, if you're not going to come out, then I'm not going to leave!
 
 Zaha Hadi: Hah, so plan on keeping yourself locked in there, huh? Fine by me, if you're not going to come out, then I'm not going to leave!
 Zaha Hadi: My tomato was growing so well — it had all the potential to become the best tomato this year... And you cut it straight from the vine!?
@@ -45,7 +50,10 @@ Zaha Hadi: Ahem! Lucky for you, seeing these youngsters come to pay their respec
 Zaha Hadi: C'mon, let's go. We'll take our conversation elsewhere. He doesn't need to be a part of it.
 Kaveh: A—Ah yes, of course.
 
+*→ Ending (save point 190770201)*
 ## Conversation 3
+
+### Talk: Tighnari: Alhaitham also got my invite, right? Will he be coming to join us?
 
 Tighnari: Alhaitham also got my invite, right? Will he be coming to join us?
 Kaveh: Hmph, that guy? He's never been a fan of social gatherings. I wouldn't get my hopes up if I were you.
@@ -88,9 +96,10 @@ Kaveh: Hey, what are you thinking now? Please don't tell me you're planning on l
 Alhaitham: Actually, I was thinking about lending her a professions guide.
 Kaveh: I'll make sure to write "DON'T BECOME AN ARCHITECT" on the front page of that.
 
-[Player choice]
+### Choice 1
 
-Branch 1: But don't you love your job, Kaveh?
+#### Branch 1: But don't you love your job, Kaveh?
+
 Kaveh: Hehe. You're right, I can't deny that.
 Cyno: Is there another phase after phase two? What's the ultimate goal of all of this? Are we trying to prepare her for a job in the Akademiya?
 Tighnari: Ah, we don't need to think that far ahead. Hold that thought, though. I think my vegetables are done...
@@ -105,9 +114,11 @@ Kaveh: No... *hic* ...that's not true!
 Cyno: Cheer up, Kaveh. I'll tell you a new joke.
 Tighnari: We'll save that for the end, Cyno. You can keep it to yourself until then.
 Kaveh: I... Whatever! I'm not going to use my brain anymore! Let's drink tonight to our hearts' content!
-
+*→ Ending (save point 190770301)*
 
 ## Conversation 4
+
+### Talk: Zaha Hadi: Is Faranak still doing well?
 
 Zaha Hadi: Is Faranak still doing well?
 Kaveh: Yes, as far as I know. She left for Fontaine some time ago, and started a new life for herself. She's still doing work related to architecture, though.
@@ -191,20 +202,26 @@ Kaveh: Although it'd be nice to get together with friends and chat the night awa
 Kaveh: Besides, don't most people hate the feeling of seeing their friends troubled and being unable to help? And what's worse, nearly all of my problems can't be easily resolved with some encouraging words or gesture.
 Kaveh: And don't forget, I'm also older than all of them... As their senior, I should appear to be a bit more responsible.
 
-[Player choice]
+### Choice 1
 
-Branch 1: But Tighnari saw right through you.
+#### Branch 1: But Tighnari saw right through you.
+
 Kaveh: Ah, you're right... *sigh* I really didn't expect to run into him here. I swear, his nose must be just as sensitive as his ears...
 Kaveh: Well then, I guess... it's best that we go and join him for dinner. *sigh* That means I'll owe him yet another meal now...
 Kaveh: You know what, I'm not going to overthink it. I'll see you tomorrow at Pardis Dhyai!
+*→ Ending (save point 190770401)*
 
+#### Branch 2: It's normal for friends to take care of each other.
 
-Branch 2: It's normal for friends to take care of each other.
 Kaveh: You're not wrong, but I keep feeling like I haven't really helped them much in return...
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: It's always fun to have you around, Kaveh.
+### Choice 2
+
+#### Branch 1: It's always fun to have you around, Kaveh.
+
 Kaveh: Wait, do you mean it? You're not... making fun of me, are you?
 Kaveh: I've gotten so used to sarcasm that I can't tell what's genuinely a compliment anymore. Wait! By "fun," did you mean...
 Kaveh: You know what, I'm not going to overthink it. I'll see you tomorrow at Pardis Dhyai!
+*→ End of conversation*

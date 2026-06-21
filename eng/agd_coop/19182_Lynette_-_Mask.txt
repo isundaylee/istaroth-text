@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Argalia: There you are, Lynette! Where did you disappear to? Leone and I have been looking everywhere for you... Wait, where'd you get the cat?
+
 Argalia: There you are, Lynette! Where did you disappear to? Leone and I have been looking everywhere for you... Wait, where'd you get the cat?
 Bonnie: Meow~
 Lynette: I found her outside. Do either of you happen to recognize her?
@@ -50,9 +52,12 @@ Excited Reporter: I'm sure the fans would love to learn a bit more about you, to
 Lynette: ...How interesting.
 Traveler: [Insight] (Observe Lynette to see how she's doing...)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1003, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1003, 0])
+
 Traveler: (Lynette's answers all sound very calm. She seems fine...)
 Friendly Reporter: Lynette, how do you find acting compares with performing in a magic show?
 Excited Reporter: What does the future hold for you, Lynette?
@@ -63,7 +68,6 @@ Lynette: *sobs*...
 Traveler: Are you alright...?
 Lynette: Yeah, it's just... Turns out I can't cope with this stuff even in tea party mode...
 Traveler: Tea party mode...?
-
 Lynette: It's a power-saving mode for participating in conversation at tea parties... Normally, I can get through an entire conversation just with "Mm-hmm," "Oh," "That's true," and "How interesting."
 Lynette: ...But at a tea party, I'm not normally subjected to a constant stream of questions. The energy consumption of that interview just now was three times as much as the average tea party...
 
@@ -87,9 +91,10 @@ Merieux: You can collect your copy from the first floor after the drinks recepti
 Maloney: Merieux! Hahaha, get over here and let's have another drink! There's a few things I need you to glance over for me...
 Traveler: (Wait, that means... the reception STILL isn't over?)
 Lynette: I thought the group photo was the final hurdle... Well, at least there's no more people hounding me with questions. I just need to find somewhere to switch to standby mode, and the time will fly by... I hope.
+*→ Ending (save point 191820101)*
 
+#### Branch 2
 
-Branch 2
 Traveler: (Lynette's voice was so deadpan during the interview. She sounded like an auto-reply bot...)
 Traveler: Hold on. Lynette has only just finished performing. She needs to recharge.
 Excited Reporter: Oh... Really? I'm so sorry, how rude of me...
@@ -101,9 +106,11 @@ Lynette: *sobs*...
 Traveler: Are you alright...?
 Lynette: Yeah, it's just... Turns out even with you here to share the load, I can't cope with this stuff, even in tea party mode...
 Traveler: Tea party mode...?
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Lynette: The photo must be in this envelope right here. Ah, it's finally over... Thank you for sticking around for so long.
 
 Lynette: The photo must be in this envelope right here. Ah, it's finally over... Thank you for sticking around for so long.
 Lynette: If it wasn't for you, I don't know how I would've standby-moded my way through the last few hours...
@@ -133,55 +140,66 @@ Traveler: What!? It's a threat letter!
 Lynette: You have destroyed this work of art... Step down from the leading role at once... ...Based on the tone, I'd say "threat letter" is right.
 Traveler: (This is far more serious than a momentary stink-eye... We need to get to the bottom of it.)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+#### Branch 1
+
+Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
+Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
+Traveler: (Neither of us recognize the handwriting. It's messy — perhaps to cover their tracks? Or maybe this person just has messy handwriting...)
+*→ Next: Choice 2*
+
+#### Branch 2
+
+Traveler: (...There were a lot of people downstairs at the time. Any one of them could have slipped the letter into the envelope.)
+Traveler: (All the envelopes were left on a table on the first floor, but nobody was tasked with watching them. I could ask reception, but it's unlikely they saw anything.)
+*→ Next: Choice 3*
+
+### Talk: Traveler: (There's nothing else of note...)
+
+Traveler: (There's nothing else of note...)
+### Talk: Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
+
+Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
+### Talk: Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
+
+Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
+### Talk: Traveler: (There's nothing else of note...)
+
+Traveler: (There's nothing else of note...)
+### Talk: Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
+
+Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
+Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
+### Talk: Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
+
 Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
 Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
 
-Traveler: (Neither of us recognize the handwriting. It's messy — perhaps to cover their tracks? Or maybe this person just has messy handwriting...)
+### Choice 2
 
-[Conditional branch]
+#### Branch 1
 
-Branch 1
 Traveler: (...There were a lot of people downstairs at the time. Any one of them could have slipped the letter into the envelope.)
 Traveler: (All the envelopes were left on a table on the first floor, but nobody was tasked with watching them. I could ask reception, but it's unlikely they saw anything.)
-
 Lynette: I don't think we're gonna find any more clues here...
 Traveler: Shall we ask Merieux what he makes of "You have destroyed this work of art"?
 Lynette: Yes, let's. Whatever "destroyed" means, it could have something to do with the original script that Furina mentioned... Also, I'm gonna have to ask you to stick around a while longer.
+*→ Ending (save point 191820201)*
 
 
+### Choice 3
 
-Branch 2
-Traveler: (...There were a lot of people downstairs at the time. Any one of them could have slipped the letter into the envelope.)
-Traveler: (All the envelopes were left on a table on the first floor, but nobody was tasked with watching them. I could ask reception, but it's unlikely they saw anything.)
+#### Branch 1
 
-[Conditional branch]
-
-Branch 1
 Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
 Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
-
 Traveler: (Neither of us recognize the handwriting. It's messy — perhaps to cover their tracks? Or maybe this person just has messy handwriting...)
-
-
-
-Traveler: (There's nothing else of note...)
-
-Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
-
-Traveler: (I was too busy enjoying Hotel Debord's desserts to pay attention to what was going on downstairs...)
-
-Traveler: (There's nothing else of note...)
-
-Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
-Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
-
-Traveler: (The unsealed envelope contained the group photo, the threat letter — and some photographs of Lynette from during the show. This was definitely meant for her.)
-Traveler: (The letter demands that Lynette step down from the leading role, but stops short of saying what will happen if she doesn't...)
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Maloney (???): Ahh, I can't believe how well the whole "Lynette's debut acting role" thing worked out. Even the avant-garde box office is lapping it up!
 
 Maloney (???): Ahh, I can't believe how well the whole "Lynette's debut acting role" thing worked out. Even the avant-garde box office is lapping it up!
 Merieux: ...Haha, how could I ever have doubted you? If you hadn't stuck to your guns and kept sending those invitations, this opportunity would've passed us by.
@@ -258,27 +276,33 @@ Lynette: ...I kinda doubt it. We've dealt with those types before. Usually their
 Lynette: But at the moment... I don't think anyone's got a reason to do any of that stuff. Let alone pull a stunt like this — a threat letter is quite extreme.
 Lynette: Besides, when I felt that evil stare, I'm pretty sure it was coming from somewhere backstage... so that rules out a lot of people.
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1017, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1017, 0])
+
 Lynette: I'm actually more concerned about Merieux... When I mentioned Gillian, his reaction was pretty unusual.
 Traveler: Now you mention it, it did seem a little odd...
 Lynette: Especially since Maloney mentioned that the initial plan was to cast Gillian as the lead...
 Lynette: Sounds like there was an "original protagonist" as well as an "original script"... I should probably go talk to her.
 Traveler: Do you know where she lives?
 Lynette: Yep. She told me she lives in the Fleuve Cendre.
+*→ Ending (save point 191820301)*
 
+#### Branch 2
 
-Branch 2
 Lynette: I'm actually more concerned about Merieux... When I mentioned Gillian, his reaction was pretty unusual.
 Traveler: So you noticed that too.
 Lynette: Especially since Maloney mentioned that the initial plan was to cast Gillian as the lead...
 Lynette: Sounds like there was an "original protagonist" as well as an "original script"... I should probably go talk to her.
 Traveler: Do you know where she lives?
 Lynette: Yep. She told me she lives in the Fleuve Cendre.
-
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Furina: Ahh... Hotel Debord's Ile flottante is as wonderfully sweet as ever...
 
 Furina: Ahh... Hotel Debord's Ile flottante is as wonderfully sweet as ever...
 Traveler: Furina? You managed to get an invite to the drinks reception, too?
@@ -318,7 +342,10 @@ Lynette: Mmm... That was very educational.
 Traveler: ("Educational" isn't the word I'd use... They didn't mention acting once in the whole conversation.)
 Lynette: I expect most of the people downstairs have left by now. Time to grab my copy of the group photo and get home.
 
+*→ Ending (save point 191820401)*
 ## Conversation 5
+
+### Talk: Ginna (???): L—Lynette! ...What are you doing? You're not welcome here!
 
 Ginna (???): L—Lynette! ...What are you doing? You're not welcome here!
 Lynette: ...I've been to the Fleuve Cendre plenty of times before. This is the first I'm hearing about me not being welcome.
@@ -392,7 +419,10 @@ Traveler: How do we get our hands on the original draft? Who currently has it?
 Gillian: ...Jaiques, one of the other actors. He likes to collect Director Merieux's old drafts because he hopes to be a director himself one day. He also lives nearby... I can arrange for you to meet him at the tavern.
 Lynette: Makes sense. I always see him talking to Merieux... Alright, see you at the tavern then.
 
+*→ Ending (save point 191820501)*
 ## Conversation 6
+
+### Talk: Black Screen Text: After waiting at the tavern for a while...
 
 Black Screen Text: After waiting at the tavern for a while...
 Gillian: Sorry to keep you waiting.
@@ -410,7 +440,10 @@ Jaiques: That's always the way with pen-and-paper drafts. Even the final script 
 Jaiques: There should be a cleaner copy of the original script in here somewhere... Ugh, sorry, it's all a bit mixed up. I just grabbed the whole stack of papers since I was in a rush...
 Lynette: No problem. Now activating search mode. I'll go through one page at a time.
 
+*→ Ending (save point 191820601)*
 ## Conversation 7
+
+### Talk: Lynette: "The protagonist returns to the ruins where she began, and performs a dance in honor of her deceased companions... She dances until her joints have rusted stiff and mechanical parts are falling from her body..."
 
 Lynette: "The protagonist returns to the ruins where she began, and performs a dance in honor of her deceased companions... She dances until her joints have rusted stiff and mechanical parts are falling from her body..."
 Lynette: ...
@@ -452,16 +485,18 @@ Option 2:
 
 Traveler: [Contemplation] (Is there any other way?)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1010, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1010, 0])
+
 Traveler: (Merieux will never back down while he's got Maloney breathing down his neck.)
 Traveler: ...It's no good. Merieux will never consent to it.
 Lynette: Consent, huh... Then, how about we don't ask him?
 Traveler: Huh? ...Wait, surely you don't mean...
 Black Screen Text: Lynette explains her idea to the group...
 Lynette: ...And that way, he'll be forced to make a choice.
-
 Jaiques: Y'know, it's a little crazy, but it might actually work...
 Gillian: No way! It's not worth taking such a huge risk just for a chance to be in the spotlight...
 Lynette: Gillian, you said before: "Whatever disappointment I had left... I wasn't about to take out on you."
@@ -493,26 +528,49 @@ Lynette: Who knows, maybe it was just a fan of yours having a moment.
 Gillian: A fan? ...Of me?
 Lynette: Maybe there's someone out there who really appreciates your talent. Even in the supporting roles.
 Traveler: [Contemplation] (Could the letter be from one of Gillian's fans?)
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
+Traveler: (Judging from those documents, Merieux's true intention seems to be...)
+Traveler: ...I have an idea.
+Lynette: ...You do? What is it?
+Traveler: All we need to do is this:
+Black Screen Text: You explain your idea to the group...
+Lynette: ...That's a bold plan. I'm in.
+*→ End of conversation*
+
+
+### Choice 2
+
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1040, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1040, 0])
+
 Traveler: (I don't think there's any solid evidence...)
-
 Lynette: ...It's getting late, we should be leaving.
 Traveler: ...Huh? So suddenly?
 Lynette: Come on.
 Black Screen Text: Lynette grabs your hand and leads you out of the tavern...
 Traveler: (You notice the faint sound of sobbing in the corner as you're leaving the tavern...)
 Ginna (???): ...I... I'm such an idiot...
+*→ Next: Choice 3*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
+Traveler: (Gillian's sister mentioned that Furina spoke highly of Lynette... But when could she have heard that?)
+*→ End of conversation*
+
+
+### Choice 3
+
+*Condition: COOP_COND_QUEST_CHECK_RESULT [1040, 0]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_CHECK_RESULT [1040, 0])
+
 Lynette: ...Sorry for manhandling you. You looked like you were seconds away from figuring out who sent the letter, so I had to act fast.
 Traveler: Actually, I have no idea...
 Lynette: ...It was Ginna. Gillian's sister.
-
 Ginna: Hmph! ...Just because Lady Furina speaks highly of you, it doesn't mean you're all that!
 Gillian: I'm so sorry... Ginna's always been a strong-willed child. That's why I never let her visit me at work...
 Traveler: (Furina hasn't released her official review of The Lost Puppet yet. Which means, Ginna disobeyed her sister and secretly came to watch her at work.)
@@ -548,30 +606,18 @@ Lynette: ...No, the way she looks at me is indignant, frustrated, but not malici
 Lynette: Whoever was giving me that evil stare was backstage. Blending into the crowd at a drinks reception is one thing, but trying to blend in backstage, where everyone's on high alert waiting to be called on stage, would be a lot more difficult.
 Lynette: We'll find out who it is before too long. In two days' time, at the next show... I think it will become very clear.
 Lynette: On that note — guess I'll see you at the opera house. Bye for now.
+*→ Ending (save point 191820701)*
 
+#### Branch 2
 
-Branch 2
 Lynette: ...Sorry for manhandling you. You looked like you were seconds away from figuring out who sent the letter, so I had to act fast.
 Traveler: Was it Gillian's sister?
 Lynette: ...Nothing gets past you.
-
-
-
-Branch 2
-Traveler: (Gillian's sister mentioned that Furina spoke highly of Lynette... But when could she have heard that?)
-
-
-
-Branch 2
-Traveler: (Judging from those documents, Merieux's true intention seems to be...)
-Traveler: ...I have an idea.
-Lynette: ...You do? What is it?
-Traveler: All we need to do is this:
-Black Screen Text: You explain your idea to the group...
-Lynette: ...That's a bold plan. I'm in.
-
+*→ End of conversation*
 
 ## Conversation 8
+
+### Talk: Jaiques: Oh, you're here! Lynette and Gillian are busy getting ready, so please come with me.
 
 Jaiques: Oh, you're here! Lynette and Gillian are busy getting ready, so please come with me.
 Black Screen Text: Shortly after following Jaiques into the opera house, the curtains open and the show begins...
@@ -601,7 +647,10 @@ Maloney: ...Hmm? What's the matter, cat got your tongue? The first half was a hu
 Merieux: ...My apologies, Mr. Maloney, please excuse me for a second... I need to have a little talk with my actors.
 Maloney: Oh, uh... very well! Hey, while you're at it, this might be a good time to talk future collaborations with Lynette! Hehe...
 
+*→ Ending (save point 191821001)*
 ## Conversation 9
+
+### Talk: Cyril: Are you guys sure this is gonna work? What if Director Merieux pushes back?
 
 Cyril: Are you guys sure this is gonna work? What if Director Merieux pushes back?
 Jaiques: We're already halfway there, we can't back out now! All we need to do is stick to the plan...
@@ -760,7 +809,10 @@ Jaiques (Jaiques & Cyril): Me neither!
 Traveler: [Persuasion] Today is the day! It's time to live your dreams!
 Merieux: I... had dreams too, once...
 
+*→ Ending (save point 191821101)*
 ## Conversation 10
+
+### Talk: Black Screen Text: Act III: Amidst the Rubble
 
 Black Screen Text: Act III: Amidst the Rubble
 Black Screen Text: ...An unknown period of time elapsed before a group of mechanical puppets finally cleared the rubble, freed the protagonist, and reactivated her.
@@ -890,7 +942,10 @@ Maloney: Tsk... Corentin! Amaury! Let's go!
 Black Screen Text: A sour-faced Maloney leaves with the critics in tow...
 You and Lyney excuse yourselves and leave, and the actors excitedly look forward to their next show...
 
+*→ Ending (save point 191821201)*
 ## Conversation 11
+
+### Talk: Merieux: Thank you both so much. Without the two of you, who knows how much further down that cynical path I would have gone...
 
 Merieux: Thank you both so much. Without the two of you, who knows how much further down that cynical path I would have gone...
 Merieux: I always told myself that once I'd made enough Mora, I'd get back to doing what I loved... But somewhere along the way, I started to lose sight of what that was.
@@ -915,9 +970,10 @@ Ginna: Lynette... I'm sorry!
 Lynette: Ah...
 Traveler: (Lynette just shot me a glance... I think she's unsure which "mode" to use in this situation...)
 
-[Conditional branch]
+### Choice 1
 
-Branch 1
+#### Branch 1
+
 Ginna: That letter... I was the one who wrote it.
 Merieux: ...What!?
 Gillian: Ginna... So it was YOU!
@@ -946,9 +1002,10 @@ Lynette: Hmm... If that's what you really want, then how about helping out backs
 Ginna: Huh? Backstage...?
 Lynette: The crew could always use an extra hand. Plus... it'll give your older sister a chance to keep an eye on you. And stop you getting into any more trouble.
 Gillian: ...Thank you, Lynette... Really. Thank you so much.
+*→ Ending (save point 191821302)*
 
+#### Branch 2
 
-Branch 2
 Lynette: ...Yeah, me neither.
 Ginna: Wait... but...
 Lynette: Oh, do you mean when we ran into you at the Fleuve Cendre? And you said some mean things to me?
@@ -979,3 +1036,4 @@ Traveler: Is smiling tough for you?
 Lynette: ...I'll try, I suppose. I think I can manage.
 Jaiques: #Lynette, Traveler, come on — you two should be right in the middle...
 Cyril: Three, two, one, smile!
+*→ Ending (save point 191821301)*

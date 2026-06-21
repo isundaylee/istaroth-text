@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Katheryne: Ad astra abyssosque! Welcome to the Adventurers' Guild. How can I help you today?
+
 Katheryne: Ad astra abyssosque! Welcome to the Adventurers' Guild. How can I help you today?
 Layla: I'd like to... Uh, I have a commission... Hmm, it's kinda strange. How should I put this...
 Traveler: We would like to borrow a high-precision celestial globe.
@@ -15,7 +17,10 @@ Traveler: Thank you so much.
 Katheryne: You're welcome. It's my job to provide adventurers with the necessary support.
 Katheryne: The man's name is Azzam. Here is his address. You can go ahead and pay him a visit.
 
+*→ Ending (save point 191580101)*
 ## Conversation 2
+
+### Talk: Layla: H—Hello, are you Azzam?
 
 Layla: H—Hello, are you Azzam?
 Azzam: Yes, I am. How may I help you?
@@ -32,9 +37,10 @@ Azzam: How about this — I don't need a deposit or anything, but I'd like you t
 Azzam: If your explanation proves satisfactory, then I'll lend you the device.
 Layla: Sh—Share the contents of my research... and answer questions? Uh oh...
 
-[Player choice]
+### Choice 1
 
-Branch 1: Don't be nervous. Just explain what you've learned.
+#### Branch 1: Don't be nervous. Just explain what you've learned.
+
 Layla: Alright, I'll try. But I can't disclose the actual details to you... How about a general overview of the research, would that suffice?
 Azzam: Yes, that would be fine.
 Layla: You're probably aware that astrologists rely on the movements of celestial bodies to calculate the past and the future, as well as attempt to summarize the correlating principles, correct?
@@ -67,16 +73,18 @@ Layla: Really? Hehe, I don't know if you really mean it, but I'm happy to hear t
 Layla: I guess even the hardest problems can be solved as long as I'm willing to try...
 Layla: Recording and comparing data will be much easier now that we have this device. I can do it all on my own, too.
 Layla: Let's continue with the plan. Can you help me with a rehearsal of my thesis defense? We can do that at the House of Daena.
+*→ Ending (save point 191580201)*
 
+#### Branch 2: This should be a piece of cake for you.
 
-Branch 2: This should be a piece of cake for you.
+*→ End of conversation*
 
-Branch 3: If you mess this up, you won't be able to gain his trust.
+#### Branch 3: If you mess this up, you won't be able to gain his trust.
+
 Layla: Uh... Y—You're starting to make me feel nervous...
 Layla: I'm sorry... I feel a little dizzy. Ugh... I...
 Traveler: Are you okay!?
 [Missing Dialog 191580604]
-
 Layla: Ugh... Hm?
 Layla: I'm okay, my mind just decided to stray elsewhere for a moment. Give me a second to gather myself... Oh, is this the celestial globe that I needed to borrow?
 Traveler: (Why is she asking?)
@@ -126,3 +134,4 @@ Layla: Anyway, what's the plan from here?
 Traveler: She said that she wanted to practice for her thesis defense...
 Layla: I see. Well, it wouldn't be of any help if I practiced for her, but I'll leave some notes that should come in handy.
 Layla: Come on, let's go back to the House of Daena to make preparations. You'll have to tell her later when she wakes up.
+*→ Ending (save point 191580202)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Diona: Hmm, their tracks end here... looks like they ran off somewhere else.
+
 Diona: Hmm, their tracks end here... looks like they ran off somewhere else.
 Traveler: Then how do we find them?
 Diona: Don't worry, those cats are very stubborn, but it's because they're stubborn that they're also easy to understand. Heh, I have another idea.
@@ -12,7 +14,10 @@ Diona: I—I only know these things because I want them to do their job and not 
 Diona: C'mon, let's head over to Marjorie's store.
 [Missing Dialog 0]
 
+*→ Ending (save point 20101)*
 ## Conversation 2
+
+### Talk: Marjorie: Oh, hello Diona. You must be here for the cat toy you ordered? I just finished preparing it and made it extra durable according to your request. Your kitty should be able to play with this one for quite some time.
 
 Marjorie: Oh, hello Diona. You must be here for the cat toy you ordered? I just finished preparing it and made it extra durable according to your request. Your kitty should be able to play with this one for quite some time.
 Diona: Much appreciated! Margaret will come and settle the fees later.
@@ -29,7 +34,10 @@ Diona: Let's head over to see Sara at Good Hunter, she always makes Nelson's cat
 Diona: He's the one that always eats the most. And even though he's always eating, he somehow weighs the lightest. I really have no idea what he's up to all the time...
 [Missing Dialog 0]
 
+*→ Ending (save point 20201)*
 ## Conversation 3
+
+### Talk: Sara: Welcome to Good Hunter... Oh, hey Diona! How can I help you?
 
 Sara: Welcome to Good Hunter... Oh, hey Diona! How can I help you?
 Diona: Hello Sara, I'd like some more of that cat food I bought last time.
@@ -56,7 +64,10 @@ Option 2:
 Diona: Really? You don't look like much of a climber, but if you say so. Let's *go up* and look for Roger together.
 [Missing Dialog 0]
 
+*→ Ending (save point 20301)*
 ## Conversation 4
+
+### Talk: Diona: Wait, see that cat there? That's Roger! Oh, he really picked a high place to sit this time...
 
 Diona: Wait, see that cat there? That's Roger! Oh, he really picked a high place to sit this time...
 Diona: But don't get too close. If we startle him, he might run away.
@@ -64,78 +75,94 @@ Diona: Okay, remember all the things we prepared? Now's the time to make use of 
 Diona: So do you remember what would be better for attracting Roger?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Use the cat toy.
+#### Branch 1: Use the cat toy.
+
 Diona: Hey, you've got a pretty good memory. That's right, cat toys are Roger's favorite.
 [Missing Dialog 0]
-
 Diona: Wow, he let his guard down almost immediately. Looks like he was just waiting for someone to come play with him.
 Diona: That little rascal... He always looks so smug, but the moment he sees people, he suddenly becomes all loving and affectionate.
 Diona: No wonder the customers like him so much. The first thing they ask when they visit the tavern is if Roger is around... yeesh.
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Use the cat food.
 
-Branch 1: Well, he is really cute after all.
+Diona: Cat food? Are you sure? Like I said, Roger would probably prefer the cat toy.
+[Missing Dialog 0]
+*→ Next: Choice 3*
+
+
+### Choice 2
+
+#### Branch 1: Well, he is really cute after all.
+
 Diona: Yeah, that's the problem! Who cares about specialty drinks when you have these fluffy little kitties to play with, right?
 Diona: If you ask me, the tavern doesn't need any more new drinks to attract customers. Just get more cats and people will come!
 [Missing Dialog 0]
-
 Diona: Alright, let's bring along Roger and go find Nelson.
 Diona: Now Nelson likes *places that are warm*. In fact, the last time I went looking for him, I found him in the *bush next to the blacksmith*. So let's go look for him there.
 [Missing Dialog 0]
+*→ Ending (save point 20401)*
 
+#### Branch 2: I think customers visit the tavern primarily for your cocktails.
 
-Branch 2: I think customers visit the tavern primarily for your cocktails.
 Diona: Well, obviously! The Cat's Tail is a tavern after all. No matter how cute these little kitties are, they're only there to complement my cocktails.
 [Missing Dialog 0]
+*→ End of conversation*
 
 
+### Choice 3
 
-Branch 2: Use the cat food.
-Diona: Cat food? Are you sure? Like I said, Roger would probably prefer the cat toy.
-[Missing Dialog 0]
+#### Branch 1: Let's use the cat toy then...
 
-[Player choice]
-
-Branch 1: Let's use the cat toy then...
 Diona: So you do remember. Well hurry up and take out the cat toy then.
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 2: Let's use the cat food anyway.
 
-Branch 2: Let's use the cat food anyway.
 Diona: Hmph. Fine, have it your way.
 Roger: (Roger doesn't seem to be interested in the cat food...)
 Diona: See? I told you it wouldn't work. Roger definitely would like the cat toy better. Now hurry up and get it out.
 [Missing Dialog 0]
-
-
+*→ End of conversation*
 
 ## Conversation 5
+
+### Talk: Diona: Yup, I knew we'd find Nelson here... and he looks like he's about to fall asleep. Huh, could it really be more comfortable than in the tavern?
 
 Diona: Yup, I knew we'd find Nelson here... and he looks like he's about to fall asleep. Huh, could it really be more comfortable than in the tavern?
 Diona: Anyway, let's take out the things we've prepared. I'll let you choose which to give him.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Use the cat food.
+#### Branch 1: Use the cat food.
+
 Diona: That's right! Nelson loves eating this stuff, the cat food will definitely make him happy.
 [Missing Dialog 0]
-
 Diona: Don't the customers at the tavern already feed you enough? How can you still be so excited to see food all the time?
 Diona: Oh, and there you go snarfing everything down as always... Why do customers like you so much? They even fight over who gets to feed you!
 Diona: Are you just pretending to be hungry all the time just to get the customers to come take care of you?
 Diona: Hmph, what a cheeky little guy... No wonder customers completely forget about their drinks after seeing him.
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Use the cat toy.
 
-Branch 1: Maybe you should take a hint from him and do what he does?
+Diona: Are you sure you want to use that? I'm pretty sure I told you what he likes before... Have you forgotten already?
+[Missing Dialog 0]
+*→ Next: Choice 3*
+
+
+### Choice 2
+
+#### Branch 1: Maybe you should take a hint from him and do what he does?
+
 Diona: Take a hint... from him? Ha, forget it! We should probably just get more cats at the tavern, they seem to attract more customers than my drinks.
 [Missing Dialog 0]
-
 Diona: Go ahead, pick him up. He doesn't weigh much. I really have no idea how he stays so light...
 Diona: Alright, let's go find Paisley. He used to always sneak out to go to the *Cathedral* before, so let's start there.
 
@@ -149,35 +176,35 @@ Option 2:
 
 Diona: Nope... he doesn't like either of the things that Roger and Nelson like. I'll tell you more when we get there.
 [Missing Dialog 0]
+*→ Ending (save point 20501)*
 
+#### Branch 2: Your specialty drinks attract lots of attention already.
 
-Branch 2: Your specialty drinks attract lots of attention already.
 Diona: Of course! You should see the looks on those old drunks' faces when Nelson spills over their cocktails in the tavern.
 [Missing Dialog 0]
+*→ End of conversation*
 
 
+### Choice 3
 
-Branch 2: Use the cat toy.
-Diona: Are you sure you want to use that? I'm pretty sure I told you what he likes before... Have you forgotten already?
-[Missing Dialog 0]
+#### Branch 1: Let's use the cat food then...
 
-[Player choice]
-
-Branch 1: Let's use the cat food then...
 Diona: So you've finally remembered. Just hurry up and take out the cat food already.
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 2: Let's use the cat toy anyway.
 
-Branch 2: Let's use the cat toy anyway.
 Diona: *sigh* You really don't know how to make cats happy, do you? Fine, if you insist, have it your way.
 Nelson: (Nelson doesn't seem interested in the cat toy...)
 Diona: See? He didn't even glance at the cat toy.
 Diona: C'mon, just hurry up and take out the cat food!
 [Missing Dialog 0]
-
-
+*→ End of conversation*
 
 ## Conversation 6
+
+### Talk: Diona: Aha, just where I thought I'd find you, Paisley.
 
 Diona: Aha, just where I thought I'd find you, Paisley.
 Traveler: So what should we do now?
@@ -205,34 +232,43 @@ Diona: For some reason, many customers actually like his personality. Once Paisl
 Diona: If only we got a few more cats at the Cat's Tail, then I wouldn't need to spend all my time making drinks anymore. All I'd have to do is take care of the kitties and let the customers come and pet them.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: That actually might make more money...
+#### Branch 1: That actually might make more money...
+
 Diona: You agree as well? Ugh, fine! Once I get back I'll suggest getting a few more cats, and let them attract all the customers. My specialty drinks aren't what the customers are after anyway.
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2: No one would know about these cats if it weren't for your specialty drinks.
 
-Branch 1
+Diona: Well, of course! If it weren't for the Mora my drinks bring in, how would we pay for their toys and food?
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 2, 4]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 2, 4])
+
 Diona: Roger, Nelson, and Paisley... Yep, we've found them all. Let's hurry and bring them back, otherwise they won't be able to work when the tavern opens tomorrow.
 [Missing Dialog 0]
+*→ Ending (save point 20601)*
 
+#### Branch 2
 
-Branch 2
 Diona: You know what? Just bring the cats back to the tavern. That's why you came in the first place, right? To see the cats. Hmph! I'll walk back myself.
 Traveler: Why don't we just go back together?
 Diona: I have to hurry back and convince the tavern to hire a few more cats. They're the key to attracting customers, after all.
 Diona: Cocktails... Hmph! No need for those anymore!
 [Missing Dialog 0]
-
-
-
-Branch 2: No one would know about these cats if it weren't for your specialty drinks.
-Diona: Well, of course! If it weren't for the Mora my drinks bring in, how would we pay for their toys and food?
-[Missing Dialog 0]
-
+*→ Ending (save point 101)*
 
 ## Conversation 7
+
+### Talk: Margaret: Oh, it looks like the kitties are back, as well as our customer.
 
 Margaret: Oh, it looks like the kitties are back, as well as our customer.
 Diona: Hey! I'm not one of the cats!
@@ -261,3 +297,5 @@ Diona: Although, I haven't discovered how yet, but I will!
 Diona: Anyway, didn't you come all this way to just see the cats? Now that all three of them are back in the tavern, why don't you go inside and play with them?
 Diona: Oh, and in return for all your help, I'll make a special drink just for you... non-alcoholic, of course.
 [Missing Dialog 0]
+
+*→ Ending (save point 102)*

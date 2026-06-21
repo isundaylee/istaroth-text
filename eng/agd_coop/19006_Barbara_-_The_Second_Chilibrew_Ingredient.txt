@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Barbara: Whew... I guess that takes care of them.
+
 Barbara: Whew... I guess that takes care of them.
 
 Option 1:
@@ -58,9 +60,10 @@ Barbara: Yes, I will heal you.
 Barbara: Oh... His wounds look difficult to heal. I'll need some herbs... Can you watch him for me?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: ...No problem. See what you can find, I'll take care of him.
+#### Branch 1: ...No problem. See what you can find, I'll take care of him.
+
 Barbara: Okay, I'm going to look for some Small Lamp Grass in the area.
 Barbara: Please stay with him, and make sure no monsters get to him.
 
@@ -77,9 +80,10 @@ Uwe: Hmph... fine. Heartless adventurer...
 Uwe: I'll stay hidden, Sister Deaconess, but please be back soon, I beg of you!
 Barbara: We'll be back soon, don't worry.
 [Missing Dialog 0]
+*→ Ending (save point 60101)*
 
+#### Branch 2: Hold on, Barbara. He's a suspicious character, we should take him to see the Knights first.
 
-Branch 2: Hold on, Barbara. He's a suspicious character, we should take him to see the Knights first.
 Barbara: Oh... uh... okay. But I should heal him first...
 Uwe: Wait a minute... Y'know, I'm suddenly feeling a lot better. Where was I...
 Uwe: Uh, Sister Deaconess... I should be going. I won't be needing your healing today, thank you.
@@ -90,3 +94,4 @@ Uwe: What's your problem? You're not making any sense! I just asked to be healed
 Traveler: I'm just a humble Honorary Knight, no need to get excited... Take a walk with me.
 Uwe: You think I'm afraid of you? If you wanna catch me, you better be up to the task!
 [Missing Dialog 0]
+*→ Ending (save point 60102)*

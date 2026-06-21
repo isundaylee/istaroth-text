@@ -2,17 +2,25 @@
 
 ## Conversation 1
 
+### Talk: Traveler (Thoughts): (Huh?)
+
 Traveler (Thoughts): (Huh?)
 Traveler (Thoughts): (Was that... Sayu? What's she doing running around here?)
 Traveler (Thoughts): (Let's go follow her, maybe we can find out what's going on.)
 
+*→ Ending (save point 1901201)*
 ## Conversation 2
+
+### Talk: Traveler (Thoughts): (She's nowhere to be seen...)
 
 Traveler (Thoughts): (She's nowhere to be seen...)
 Traveler (Thoughts): (We saw her only a moment ago, she couldn't have gone too far off.)
 Traveler (Thoughts): (Perhaps she's using her ninjutsu skills to hide. Hmm, let's have a look around the area.)
 
+*→ Ending (save point 1901202)*
 ## Conversation 3
+
+### Talk: Sayu: Aw, you saw right through my disguise...
 
 Sayu: Aw, you saw right through my disguise...
 Sayu: Odd... Even the shrine maiden often struggles to find me.
@@ -92,7 +100,10 @@ Traveler: Don't worry, I understand. Let's go.
 Sayu: Please, she's quite perceptive. You mustn't tell her that you've seen me anywhere.
 Sayu: You got that? We have a deal, no word about me.
 
+*→ Ending (save point 1901204)*
 ## Conversation 4
+
+### Talk: Kano Nana: *sigh* Where has she run off to this time...
 
 Kano Nana: *sigh* Where has she run off to this time...
 Kano Nana: #Hm? I didn't expect to see you here. You're Traveler, right? It's a pleasure to meet you.
@@ -176,9 +187,10 @@ Kano Nana: What's the matter? Are you still worried?
 Kano Nana: Alright, just to be sure, I shall personally inquire about this matter with the Yashiro Commission.
 Kano Nana: Though I am the shrine maiden, it is also part of my duties to take on work from the Shuumatsuban.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Thank you, that would certainly help.
+#### Branch 1: Thank you, that would certainly help.
+
 Kano Nana: I'll be sure to look into it. I'm curious myself what could be the cause of such absurd rumors.
 Kano Nana: My intuition tells me that Sayu's mischief might be behind this whole misunderstanding.
 Kano Nana: Are you completely certain that you haven't seen her around recently?
@@ -219,9 +231,10 @@ Option 2:
 > Traveler: Good thing we didn't have any other plans.
 
 Kano Nana: Ugh... I honestly hope you are not up to something again, Sayu.
+*→ Ending (save point 19012051)*
 
+#### Branch 2: While you are making inquiries, I shall continue investigating on my own, just to be safe.
 
-Branch 2: While you are making inquiries, I shall continue investigating on my own, just to be safe.
 Kano Nana: Yes, of course. I'm sorry that this matter has taken up so much of your time. I'll be sure to look into it and get back to you as soon as possible.
 Sayu: Whew, that was close. Thanks for not ratting me out.
 Traveler: Good thing you didn't fall asleep.
@@ -260,3 +273,4 @@ Option 2:
 > Traveler: That's even more suspicious.
 
 Sayu: Let's go to the meeting point, I want to settle this quickly so I can finally curl up for a nice, long nap.
+*→ Ending (save point 19012052)*

@@ -2,17 +2,25 @@
 
 ## Conversation 1
 
+### Talk: Diona: Hey, there's loads of monsters ahead, be careful! You don't want to shake up the entire gorge, do you?
+
 Diona: Hey, there's loads of monsters ahead, be careful! You don't want to shake up the entire gorge, do you?
 Diona: D—Don't think that I'm worried about you. Because I'm not! If you get noticed, then I'll definitely be in trouble too. So... so just be careful, okay?
 [Missing Dialog 0]
 
+*→ Ending (save point 40101)*
 ## Conversation 2
+
+### Talk: Diona: Not bad... you were able to keep up.
 
 Diona: Not bad... you were able to keep up.
 Diona: That stupid old man should be here somewhere. Let's search around.
 [Missing Dialog 0]
 
+*→ Ending (save point 40201)*
 ## Conversation 3
+
+### Talk: Draff: What was that? Some kind of... soup? *hic* Or herbs?
 
 Draff: What was that? Some kind of... soup? *hic* Or herbs?
 Diona: Ugh, just as I suspected... he's completely drunk!
@@ -35,9 +43,10 @@ Diona: But given how much he usually drinks, I'll need ingredients that'll pack 
 Diona: Perhaps the herbal soup made by the samachurls will come in handy...
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Draff said he had just found some, let's ask him.
+#### Branch 1: Draff said he had just found some, let's ask him.
+
 Diona: Pff! I wouldn't trust a single word this old drunk says. But go ahead and talk to him if you believe him. Tch, there's probably nothing but some leftover booze in his flask anyway.
 Traveler: Draff, may I take a look at your flask? Diona needs to use some of that herbal soup.
 Draff: Hm? Oh! Sure... here, take it. Just don't spill it. It took a lot of... *hic* ...a lot of work to get that stuff.
@@ -107,16 +116,19 @@ Diona: Ummm, I said don't drink so much!
 Draff: Okay, okay... I know. I'll try to drink less from now on.
 Diona: *sigh* ...Silly old man.
 [Missing Dialog 0]
+*→ Ending (save point 40301)*
 
+#### Branch 2: I can deal with a few monsters. I'll bring some of that herbal soup back.
 
-Branch 2: I can deal with a few monsters. I'll bring some of that herbal soup back.
 Draff: Herbal soup? I've got some right here... *hic* I'm sure of it!
 Diona: He's not sobering up any time soon. I'll stay here and keep an eye on the drunk old fart. Good luck!
 Draff: Take it... the herbal soup is in my flask. I still have that hilihog to catch! Or wait, was it a hilihound...? *hic* Well, it don't matter...
 [Missing Dialog 0]
-
+*→ Ending (save point 40302)*
 
 ## Conversation 4
+
+### Talk: Allan: It's Diona and the Honorary Knight. You've brought Draff back!
 
 Allan: It's Diona and the Honorary Knight. You've brought Draff back!
 Allan: Thank goodness you're alright. I was about to report to the Knights of Favonius if you took any longer.
@@ -139,7 +151,10 @@ Draff: *sigh* Drinking sure causes a lot of trouble, I really need to control my
 Allan: Draff, everyone's ready. We can head out once we've tallied up the hunt.
 [Missing Dialog 0]
 
+*→ Ending (save point 40401)*
 ## Conversation 5
+
+### Talk: Diona: Alright, let's go inside. I'll clean my shaker and pour out the herbal soup from the old man's flask...
 
 Diona: Alright, let's go inside. I'll clean my shaker and pour out the herbal soup from the old man's flask...
 Diona: What's wrong? Didn't you want a cocktail? Why are you just staring like that?
@@ -156,8 +171,13 @@ Diona: Uh, well... Yeah. But I also said that's only for now. There are plenty o
 Diona: Just hurry up and come in... And prepare for a specialty drink that I'm making just for you! Meow!
 [Missing Dialog 0]
 
+*→ Ending (save point 103)*
 ## Conversation 6
+
+### Talk: Diona: Wha... Well that definitely caught their attention. You caused quite a commotion...
 
 Diona: Wha... Well that definitely caught their attention. You caused quite a commotion...
 Diona: Looks like we won't be able to do this together... I'll think of another way.
 [Missing Dialog 0]
+
+*→ Ending (save point 40106)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Ningguang: Good morning. Did you sleep well?
+
 Ningguang: Good morning. Did you sleep well?
 
 Option 1:
@@ -32,9 +34,10 @@ Ningguang: I don't often feel tired. Seeing the Mora come in has a way of making
 Ningguang: Still, your idea is very sensible. Mora can only lift a weary spirit. It cannot alleviate physical fatigue.
 Ningguang: So then. The day's ahead of us. Any ideas on how to spend it?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Let's do something you never normally have time for.
+#### Branch 1: Let's do something you never normally have time for.
+
 Ningguang: Something I never have time for...
 Ningguang: Ah, have you played the chess game I made? Or heard of it, perhaps?
 
@@ -89,9 +92,10 @@ Ningguang: Everyone who owns this chess set will preserve this moment in history
 Traveler: It sounds great.
 Ningguang: Then it's decided.
 Ningguang: Come with me. To make this chess piece, I need to take some measurements.
+*→ Ending (save point 10301)*
 
+#### Branch 2: Let's do something you never normally have the opportunity to do.
 
-Branch 2: Let's do something you never normally have the opportunity to do.
 Ningguang: Something I never have the opportunity to do...
 Ningguang: Interesting. Before I decide, I'd like to know... what gave you this idea?
 Ningguang: Because as far as most people are concerned, Mora is the key to any and all opportunities.
@@ -146,21 +150,26 @@ Option 2:
 Ningguang: Great. Then let me lay down the ground rules.
 Ningguang: We're not to use our status or reputation in Liyue Harbor to our advantage, and we have no starting capital.
 Ningguang: The goal is to see how much Mora we can make under these conditions.
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: Let's start at the bottom of the ladder.
+### Choice 2
+
+#### Branch 1: Let's start at the bottom of the ladder.
+
 Ningguang: Okay, but working as a day laborer could be quite dull...
 Ningguang: Why don't we go down to the docks?
 Ningguang: They periodically throw out a lot of unclaimed or abandoned goods. We might find something that we can exchange for Mora.
 Traveler: That's not the most dignified way to make money...
 Ningguang: What does it matter? Don't worry about it, it's all part of the fun.
 Ningguang: Come on. Let's go down to the docks.
+*→ Ending (save point 10302)*
 
+#### Branch 2: Let's go and find some work at Northland Bank.
 
-Branch 2: Let's go and find some work at Northland Bank.
 Ningguang: I can see why you'd suggest that. You're thinking I could use my knowledge of how Mora works to my advantage and make a lot of money there.
 Ningguang: But Northland Bank is a special case. I rather suspect I would not be welcome there.
 Traveler: Because you've clashed in the past?
 Ningguang: Yes, and also... Never mind, I'll just show you. It won't eat up too much time.
 Ningguang: I expect they still hold a grudge against me to this day.
+*→ Ending (save point 10303)*

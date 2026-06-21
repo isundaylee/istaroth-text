@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Tighnari: Even though most of the Akademiya's restrictions have significantly relaxed, I'm still a bit worried that the matra might give her trouble.
+
 Tighnari: Even though most of the Akademiya's restrictions have significantly relaxed, I'm still a bit worried that the matra might give her trouble.
 Tighnari: I need to stay here to keep an eye on the situation. Collei, can you head to Sumeru City and find out why she isn't here yet?
 Collei: Um... Does it have to be me?
@@ -56,7 +58,10 @@ Tighnari: Our task is important, but not that urgent. If Faruzan really is in so
 Tighnari: After all, if she's distracted by other things, it'll affect her ability to help us.
 Collei: Alright, let's go!
 
+*→ Ending (save point 191700101)*
 ## Conversation 2
+
+### Talk: Faruzan: Sorry? What did you say? Could you repeat yourself? As you know, I'm sure, hearing goes with age...
 
 Faruzan: Sorry? What did you say? Could you repeat yourself? As you know, I'm sure, hearing goes with age...
 Nadwah: Faruzan, I said that you need to give us an answer!
@@ -121,16 +126,20 @@ Traveler: (Collei seems like she wants to say something...)
 Traveler: Please give me a moment with Collei.
 Faruzan: Of course. I shall need some time to think as well...
 
+*→ Ending (save point 191700201)*
 ## Conversation 3
+
+### Talk: Collei: What now? She seems so busy.
 
 Collei: What now? She seems so busy.
 Collei: Master said there's no rush, but I know that he's been busy working on something at Pardis Dhyai, so he hasn't returned to Gandharva Ville for several days now.
 Collei: I feel for Madam Faruzan, but I still want to ask her to come with us.
 Collei: But if I get her in trouble with the Akademiya, then she won't have the time to help Master. What should I do? Ugh, this is such a headache.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Let's help her resolve her current problem first.
+#### Branch 1: Let's help her resolve her current problem first.
+
 Collei: Yeah, that would be the best for them both. I'll check with Master later and see if there's anything I can help him with.
 Collei: But I'm sure he'll say, "The best thing you can do now is study hard so I don't have to give you remedial lessons"...
 Traveler: I can stay and help Faruzan.
@@ -163,10 +172,66 @@ Option 2:
 
 Faruzan: Is that so? Good. It does so happen that I do have something I need help with...
 Faruzan: Now, should I apply to teach a course with Haravatat, or join the collaborative project that Kshahrewar is proposing? Honestly, I don't want to choose either of them.
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Let's think of some way to get her to Pardis Dhyai.
 
-Branch 1: Tell me more about that Haravatat course...
+Black Screen Text: Missing text (1235740794)
+[Missing Dialog 191700410]
+
+Collei: But if someone does complain to the Akademiya, wouldn't it make Faruzan's situation more awkward?
+Collei: And if the Akademiya investigated and found her at Pardis Dhyai, things would get even worse for her!
+Collei: Do you have some way to invite her over to Pardis Dhyai without stepping on the Akademiya's toes?
+
+Option 1:
+
+> Traveler: I do have the makings of an idea.
+
+Option 2:
+
+> Traveler: Let's observe the situation first.
+
+Collei: Okay, then... I'm counting on you.
+Faruzan: Hah. I have to teach students from Haravatat, or owe Kshahrewar a favor? It strikes me that they might be even less happy about such a deal than I am.
+Nadwah: Haha... I think I can sympathize with them...
+Collei: Madam Faruzan, we're back. Sorry for asking again, but are you sure you can't go to Pardis Dhyai today?
+Faruzan: ...Well, since you're asking me so sincerely, let's just ignore the Akademiya and—
+Nadwah: Please, Madam Faruzan, focus! Today is the deadline!
+Traveler: Actually, Tighnari wants to invite her over to discuss some research.
+Nadwah: Huh?
+Faruzan: Ah... Ahhh yes, I see, I see. No wonder he sent you two over.
+Faruzan: Why, that lad didn't make it very clear in his letter, now did he? Otherwise, I would've reported it as part of my research.
+Collei: Uh... Yeah, yeah, that's right! Master sent us over to explain everything to you.
+Nadwah: Wait, opportunities for collaborative research don't just come out of thin air... This seems like too much of a coincidence.
+Nadwah: Also, there isn't much overlap between Madam Faruzan's research and that of Amurta, right? What will you even be collaborating on?
+Collei: Master wants to research, uh...
+Faruzan: ...A fully automated irrigation system.
+Nadwah: A fully automated irrigation system...?
+Faruzan: Precisely. Um, it's a system that can automatically adjust the amount of water it provides based on the season and the plant species involved.
+Faruzan: I saw a similar mechanism while exploring a ruin in the rainforest. That's why Tighnari wanted to collaborate with me.
+Nadwah: A mechanism like that exists? Why haven't I heard of it before...?
+Faruzan: I... I found it 100 years ago, so it's only natural that you don't know about it. Why don't you go ask your teacher's teacher? Perhaps they've heard about it from their teacher.
+Nadwah: Uh... But we can't prove its existence one way or the other, right?
+Faruzan: Fret not. I'll have Tighnari write an official proposal to the Akademiya later. That should do it, right?
+Nadwah: An official proposal... *sigh* Fine. We haven't made any progress with either the collaborative project or the elective course, anyway...
+Nadwah: I'll go inform my superiors now. Please do take care of the paperwork as soon as possible. Don't delay this any longer.
+Faruzan: Sure. I'll be sure to needle him until he gets it done.
+Black Screen Text: The researcher leaves, clearly still having some doubts...
+Faruzan: Phew... I think she bought it.
+Traveler: That was quick thinking back there.
+Faruzan: Even though this is our first meeting, I must say... we make a good team.
+Collei: Wow, you made up that excuse on the spot, huh... Um, Madam Faruzan, did you really find an irrigation system 100 years ago? If the Akademiya asks for any details...
+Faruzan: Who knows? It's been 100 years, so it wouldn't be too surprising if I've forgotten a few details, no?
+Collei: Huh? Then how will we explain things to them?
+Faruzan: Heh, I'll let Tighnari worry about whatever documents we might need to send to the Akademiya.
+Faruzan: ...If I'm right, the request he has in store for me won't be any simpler than the Akademiya nonsense.
+*→ Ending (save point 191700303)*
+
+
+### Choice 2
+
+#### Branch 1: Tell me more about that Haravatat course...
+
 Nadwah: You might have heard of it before. Haravatat is an academic faction that researches languages and runes. One hundred years ago, Madam Faruzan was a researcher from that Darshan.
 Faruzan: Now, now, not was. Still am.
 Nadwah: Y—Yes, of course, but current Haravatat students can't really... um, understand her direction of research. So even if she opened a course, chances are that no one would attend.
@@ -222,9 +287,10 @@ Nadwah: Hm... I'll need to go back and ask if this is in accordance with regulat
 Faruzan: Oh, save yourself the extra trouble. I'll come with you. If there's any arguments to be had, we shall sweep them aside together!
 Faruzan: #Traveler, Collei, do wait for us a little while outside the Akademiya. I'll be back in just a moment.
 Collei: Ah! Wait... Let's catch up with her!
+*→ Ending (save point 191700301)*
 
+#### Branch 2: Let's hear what this Kshahrewar collaborative project is about...
 
-Branch 2: Let's hear what this Kshahrewar collaborative project is about...
 Faruzan: I don't know if Tighnari's told you about this before, but while my research involves learning about ruins and the mechanisms within them...
 Faruzan: I don't belong to Kshahrewar, which specializes in researching mechanisms, nor am I in Spantamad, which specializes in researching energy flow. Instead, I'm part of Haravatat, which specializes in languages and scripts.
 
@@ -266,56 +332,4 @@ Option 2:
 > Traveler: I can help out.
 
 Faruzan: Thank you. Why, I'd even call this a rare chance for a curious researcher like myself to observe the legendary Traveler up close.
-
-
-
-Branch 2: Let's think of some way to get her to Pardis Dhyai.
-Black Screen Text: Missing text (1235740794)
-[Missing Dialog 191700410]
-
-Collei: But if someone does complain to the Akademiya, wouldn't it make Faruzan's situation more awkward?
-Collei: And if the Akademiya investigated and found her at Pardis Dhyai, things would get even worse for her!
-Collei: Do you have some way to invite her over to Pardis Dhyai without stepping on the Akademiya's toes?
-
-Option 1:
-
-> Traveler: I do have the makings of an idea.
-
-Option 2:
-
-> Traveler: Let's observe the situation first.
-
-Collei: Okay, then... I'm counting on you.
-Faruzan: Hah. I have to teach students from Haravatat, or owe Kshahrewar a favor? It strikes me that they might be even less happy about such a deal than I am.
-Nadwah: Haha... I think I can sympathize with them...
-Collei: Madam Faruzan, we're back. Sorry for asking again, but are you sure you can't go to Pardis Dhyai today?
-Faruzan: ...Well, since you're asking me so sincerely, let's just ignore the Akademiya and—
-Nadwah: Please, Madam Faruzan, focus! Today is the deadline!
-Traveler: Actually, Tighnari wants to invite her over to discuss some research.
-Nadwah: Huh?
-Faruzan: Ah... Ahhh yes, I see, I see. No wonder he sent you two over.
-Faruzan: Why, that lad didn't make it very clear in his letter, now did he? Otherwise, I would've reported it as part of my research.
-Collei: Uh... Yeah, yeah, that's right! Master sent us over to explain everything to you.
-Nadwah: Wait, opportunities for collaborative research don't just come out of thin air... This seems like too much of a coincidence.
-Nadwah: Also, there isn't much overlap between Madam Faruzan's research and that of Amurta, right? What will you even be collaborating on?
-Collei: Master wants to research, uh...
-Faruzan: ...A fully automated irrigation system.
-Nadwah: A fully automated irrigation system...?
-Faruzan: Precisely. Um, it's a system that can automatically adjust the amount of water it provides based on the season and the plant species involved.
-Faruzan: I saw a similar mechanism while exploring a ruin in the rainforest. That's why Tighnari wanted to collaborate with me.
-Nadwah: A mechanism like that exists? Why haven't I heard of it before...?
-Faruzan: I... I found it 100 years ago, so it's only natural that you don't know about it. Why don't you go ask your teacher's teacher? Perhaps they've heard about it from their teacher.
-Nadwah: Uh... But we can't prove its existence one way or the other, right?
-Faruzan: Fret not. I'll have Tighnari write an official proposal to the Akademiya later. That should do it, right?
-Nadwah: An official proposal... *sigh* Fine. We haven't made any progress with either the collaborative project or the elective course, anyway...
-Nadwah: I'll go inform my superiors now. Please do take care of the paperwork as soon as possible. Don't delay this any longer.
-Faruzan: Sure. I'll be sure to needle him until he gets it done.
-Black Screen Text: The researcher leaves, clearly still having some doubts...
-Faruzan: Phew... I think she bought it.
-Traveler: That was quick thinking back there.
-Faruzan: Even though this is our first meeting, I must say... we make a good team.
-Collei: Wow, you made up that excuse on the spot, huh... Um, Madam Faruzan, did you really find an irrigation system 100 years ago? If the Akademiya asks for any details...
-Faruzan: Who knows? It's been 100 years, so it wouldn't be too surprising if I've forgotten a few details, no?
-Collei: Huh? Then how will we explain things to them?
-Faruzan: Heh, I'll let Tighnari worry about whatever documents we might need to send to the Akademiya.
-Faruzan: ...If I'm right, the request he has in store for me won't be any simpler than the Akademiya nonsense.
+*→ Ending (save point 191700302)*

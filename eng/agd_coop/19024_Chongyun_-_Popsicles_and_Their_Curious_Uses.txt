@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Chongyun: ...This is bad. Chef Mao is not at the restaurant right now, and neither is Xiangling...
+
 Chongyun: ...This is bad. Chef Mao is not at the restaurant right now, and neither is Xiangling...
 Chongyun: We'll have to wait till he returns... What do we do about the evil spirits?
 Traveler: If it's not too difficult, I can try to make some.
@@ -21,24 +23,29 @@ Chongyun: Uhh... I'm afraid all I know is that it requires water. But to imbue t
 Chongyun: Like different plants, fruits, or herbs, for example.
 Chongyun: Do you have any experience with such things?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Let's try Mist Flower and Qingxin.
+#### Branch 1: Let's try Mist Flower and Qingxin.
+
 Chongyun: Oh, that sounds about right.
 Chongyun: Coming up with the right ingredients off the top of your head like that... You most certainly are an experienced adventurer.
+*→ Ending (save point 1902403)*
 
+#### Branch 2: Let's try Sunsettia and Valberries.
 
-Branch 2: Let's try Sunsettia and Valberries.
 Chongyun: Hmm, those do sound refreshing, but the popsicles aren't sweet.
 Chongyun: ...But in case you know something I don't, I'll trust your judgment.
+*→ Ending (save point 1902404)*
 
+#### Branch 3: Let's try Jueyun Chili and Slime Condensate.
 
-Branch 3: Let's try Jueyun Chili and Slime Condensate.
 Chongyun: Uh, that sounds a little... dangerous.
 Chongyun: But as the saying goes, "fight fire with fire." I trust your judgment.
-
+*→ Ending (save point 1902405)*
 
 ## Conversation 2
+
+### Talk: Chongyun: Are they finished? Oh, they look exactly like the ones Chef Mao makes for me.
 
 Chongyun: Are they finished? Oh, they look exactly like the ones Chef Mao makes for me.
 Chongyun: Let me try one.
@@ -55,7 +62,10 @@ Chongyun: If that kid really needs my help, then helping him would just be diffe
 Traveler: I'll go with you.
 Chongyun: Alright. I remember the kid mentioned that he was headed for Chihu Rock. Let's go find him.
 
+*→ Ending (save point 1902501)*
 ## Conversation 3
+
+### Talk: Chongyun: Are they finished? Ahh... these look even tastier than my original popsicles!
 
 Chongyun: Are they finished? Ahh... these look even tastier than my original popsicles!
 Chongyun: Let me try one.
@@ -73,7 +83,10 @@ Chongyun: If that kid really needs my help, then helping him would just be diffe
 Traveler: I'll go with you.
 Chongyun: Alright. I remember the kid mentioned that he was headed for Chihu Rock. Let's go find him.
 
+*→ Ending (save point 1902501)*
 ## Conversation 4
+
+### Talk: Chongyun: Is it finished? Oh... the color seems to be off...
 
 Chongyun: Is it finished? Oh... the color seems to be off...
 Chongyun: Let me try one.
@@ -81,3 +94,5 @@ Chongyun: O—Okay... here it goes.
 Chongyun: *licks popsicle* U—Ugh...
 Chongyun: It's so spicy! ...My throat is on fire!
 Chongyun: ...No, no — this is not good!
+
+*→ Ending (save point 1902491)*

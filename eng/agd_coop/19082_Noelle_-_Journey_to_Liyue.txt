@@ -2,16 +2,18 @@
 
 ## Conversation 1
 
+### Talk: Noelle: I can't believe I have really come all the way to Liyue...
+
 Noelle: I can't believe I have really come all the way to Liyue...
 Noelle: Wow... The architecture here is so unique, and there are so many people around... But somehow, I feel like I'm constantly being watched...
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Well, you do look especially good today.
+#### Branch 1: Well, you do look especially good today.
+
 Noelle: No~ Please don't make fun of me.
 [Missing Dialog 1908201401]
-
 Noelle: Tsk, you shouldn't make jokes like that in public, people may hear you and get the wrong idea.
 Noelle: Huh, how strange... Back in Mondstadt, I never feel shy around strangers, but over here I feel so tense...
 Noelle: I—It's probably because I'm in a completely different environment. I don't know how I should act to make sure I don't make a fool of myself...
@@ -29,13 +31,21 @@ Option 2:
 Noelle: Huh? Oh, I... I was just thinking aloud. Don't worry about it.
 Noelle: My time here in Liyue is precious. I should make good use of it to study...
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Well, Knights of Favonius are a rare sight around here.
 
-Branch 1: You never know, the exam may test your ability to work with partners from Liyue.
+Noelle: Oh, I am not a Knight of Favonius yet...
+[Missing Dialog 1908201401]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: You never know, the exam may test your ability to work with partners from Liyue.
+
 Noelle: Wh—What? Could that really come up in the exam? Wait, you're right... maybe it will!
 [Missing Dialog 1908201701]
-
 Noelle: #Huh, then... okay... Let's start by learning about the local cuisine. Traveler, do you have any suggestions?
 
 Option 1:
@@ -47,20 +57,17 @@ Option 2:
 > Traveler: Let's go to Wanmin Restaurant.
 
 Noelle: #Okay! Traveler, if it comes recommended by you, I'm excited to find out what kind of food it is...
+*→ Ending (save point 1908202)*
 
+#### Branch 2: Understanding the local culture will help you connect with people and learn more.
 
-Branch 2: Understanding the local culture will help you connect with people and learn more.
 Noelle: Hmm, true... If I offended the locals by not knowing their customs, I wouldn't have the chance to learn from them...
 [Missing Dialog 1908201701]
-
-
-
-Branch 2: Well, Knights of Favonius are a rare sight around here.
-Noelle: Oh, I am not a Knight of Favonius yet...
-[Missing Dialog 1908201401]
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Chef Mao: If it isn't the Traveler! What would you like to order today? Wanmin Restaurant will cook it just how you like it!
 
 Chef Mao: If it isn't the Traveler! What would you like to order today? Wanmin Restaurant will cook it just how you like it!
 Chef Mao: Oh, is this a new customer you've brought with you? Based on Madam's attire... it would appear that...
@@ -84,12 +91,12 @@ Chef Mao: I pour oil into a hot pan, throw in a big handful of Jueyun Chilis, an
 Noelle: Phew! I can already feel the spiciness just by listening to your description! ...Will I be able to handle it?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Come on, you can do it!
+#### Branch 1: Come on, you can do it!
+
 Noelle: ...Right! I can't give up so soon!
 [Missing Dialog 1908202401]
-
 Noelle: Hmm... It's just a harmless bit of chili pepper... I—I can take it!
 Noelle: Chef Mao, I will go with your recommendation!
 Chef Mao: Haha, great! Please have a seat. One Black-Back Perch Stew, coming right up!
@@ -99,13 +106,21 @@ Noelle: I'm... I'm fine... It's certainly very spicy, but once you get over that
 Noelle: What surprised me is how the freshness of the fish still shines through, despite how heavily seasoned the dish is...
 Noelle: Hmm... the next time I entertain guests from Liyue... I wonder if I'll be able to prepare such delicious food for them...
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Don't force it if you're not going to enjoy it.
 
-Branch 1: Your cooking is delicious, too.
+Noelle: But if I give up so soon... how can I learn to overcome future obstacles?
+[Missing Dialog 1908202401]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: Your cooking is delicious, too.
+
 Noelle: R—Really? Then, let me bake some muffins for you when we get back...
 [Missing Dialog 1908202701]
-
 Chef Mao: Wow, you've already finished? How do you feel? Even locals rarely finish the dish so quickly...
 Noelle: Oh, it was very good! Thank you, Chef Mao.
 Chef Mao: Ah, you're very welcome! Seeing customers satisfied is my greatest pleasure.
@@ -119,20 +134,17 @@ Noelle: ...From the kind of weapons made here, I should be able to learn somethi
 Traveler: You must mean Hanfeng's Ironmongers? Sure, follow me.
 Noelle: Oh, great!
 Noelle: ...It's almost like you're the host and I'm your guest. As a maid... I can't help but feel a little guilty!
+*→ Ending (save point 1908203)*
 
+#### Branch 2: Liyue cuisine is in a league of its own.
 
-Branch 2: Liyue cuisine is in a league of its own.
 Noelle: So... So this is the kind of food you like? After I get back, I will have to study it properly...
 [Missing Dialog 1908202701]
-
-
-
-Branch 2: Don't force it if you're not going to enjoy it.
-Noelle: But if I give up so soon... how can I learn to overcome future obstacles?
-[Missing Dialog 1908202401]
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Noelle: Wow, just from looking at these weapons, I can tell they have great power. This is the nation built by the Geo Archon, after all...
 
 Noelle: Wow, just from looking at these weapons, I can tell they have great power. This is the nation built by the Geo Archon, after all...
 Noelle: I wonder how Favonius Bladework could be applied to these weapons, and what kind of modifications would be needed...
@@ -146,13 +158,13 @@ Dugu Shuo: Hmph! You can't hide it from me! I see the way you look at those weap
 Dugu Shuo: You must be planning to sneak over and steal a couple of blades when the man's not looking, huh? Well, I'm warning you. Quit while you're ahead! Stop before you do something you'll regret! 'Cause if you get caught, uh... that man is gonna yell at you!
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: She's a Knight of Favonius. She wouldn't do such a thing.
+#### Branch 1: She's a Knight of Favonius. She wouldn't do such a thing.
+
 Noelle: Honorary Knight, please... I told you not to call me that...
 Dugu Shuo: Knight of Favonius? Huh... Then she's no small fry after all...
 [Missing Dialog 1908203401]
-
 Dugu Shuo: But let's not get ahead of ourselves here, I still don't think I can trust you! Unless... unless you show me your greatsword, and also your Vision!
 Traveler: Oh, so that's what you're really after.
 Dugu Shuo: Th—That's not true! No greatsword can outshine the mighty Dugu Longsword! And one day... I'm gonna get my Geo Vision! So... I'm not jealous! Who said anything about being jealous? Hmph!
@@ -174,19 +186,24 @@ Noelle: Children in Liyue have these dreams too. I never would have thought...
 Noelle: When I was little, the other Mondstadt kids and I always used to imagine what kind of Visions we would have when we grew up... I hope that, someday, this boy's dreams will come true, too...
 Noelle: Anyway, what's next? Should we visit Liyue's harbor, or take a short break?
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: She has her own weapon already, she wouldn't need to.
 
-Branch 1: The harbor. We may learn something from the Millelith.
-Noelle: Yes, there does seem to be a large number of Millelith stationed at the harbor. It would be great if I can learn something from them.
-
-
-Branch 2: Let's head to Third-Round Knockout, then keep exploring.
-Noelle: Yes, if we plan to explore further, let's take a short break first.
-
-
-
-Branch 2: She has her own weapon already, she wouldn't need to.
 Noelle: Yes, that's right. In any case, my weapon of choice is the greatsword... And I don't see any of those here.
 Dugu Shuo: Greatsword, huh... Well, you got one thing right: The man refuses to show anyone his greatsword in the store, no matter how many times you beg him. Trust me, I would know...
 [Missing Dialog 1908203401]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: The harbor. We may learn something from the Millelith.
+
+Noelle: Yes, there does seem to be a large number of Millelith stationed at the harbor. It would be great if I can learn something from them.
+*→ Ending (save point 1908301)*
+
+#### Branch 2: Let's head to Third-Round Knockout, then keep exploring.
+
+Noelle: Yes, if we plan to explore further, let's take a short break first.
+*→ Ending (save point 1908401)*

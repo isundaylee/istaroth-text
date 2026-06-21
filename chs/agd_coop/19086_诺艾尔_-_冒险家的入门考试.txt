@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: 塞琉斯: 那么现在，就开始第二轮考核吧，向着星辰与深渊！
+
 塞琉斯: 那么现在，就开始第二轮考核吧，向着星辰与深渊！
 诺艾尔: 请出题吧，塞琉斯先生。
 塞琉斯: 时刻填饱自己的肚子，储备好足够的食物，是冒险家最需要掌握的生存技能。
@@ -14,43 +16,52 @@
 诺艾尔: #旅行者，你有想到什么吗？
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: 蒙德烤鱼。
+#### Branch 1: 蒙德烤鱼。
+
 诺艾尔: 是蒙德烤鱼吗？确实…只要用一块鱼肉，和一点胡椒就能做出来呢。
 [Missing Dialog 1908601501]
-
 诺艾尔: 那么，准备好料理就给塞琉斯先生送过去吧。
 诺艾尔: 如果中途有遇到什么更好的点子，也可以再想想？考试的时候，可不能太心急啊。
+*→ Ending (save point 1908601)*
 
+#### Branch 2: 烤肉排。
 
-Branch 2: 烤肉排。
 诺艾尔: 是烤肉排吗？确实…如果是在紧急的情况下，只用一块兽肉…连调料都不需要就能制作呢。
 [Missing Dialog 1908601501]
+*→ End of conversation*
 
+#### Branch 3: 应急食品。
 
-Branch 3: 应急食品。
 诺艾尔: 应急食品…？虽然没有吃过，但听起来不像是什么具体的料理啊…还是想想别的吧。
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: 蒙德烤鱼。
+### Choice 2
+
+#### Branch 1: 蒙德烤鱼。
+
 诺艾尔: 是蒙德烤鱼吗？确实…只要用一块鱼肉，和一点胡椒就能做出来呢。
 [Missing Dialog 1908601501]
+*→ End of conversation*
 
+#### Branch 2: 烤肉排。
 
-Branch 2: 烤肉排。
 诺艾尔: 是烤肉排吗？确实…如果是在紧急的情况下，只用一块兽肉…连调料都不需要就能制作呢。
 [Missing Dialog 1908601501]
-
-
+*→ End of conversation*
 
 ## Conversation 2
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908604]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908604])
+
 塞琉斯: 「烤肉排」！哈哈，果然这才是冒险家的选择！
 塞琉斯: 材料简单、能量充沛，最重要的是架在火上就能烤！
 塞琉斯: 嗯…不太紧急的时候，调一下味就更棒了，鲜美多汁，外焦里嫩…喝过酒之后享用刚刚好…
@@ -60,22 +71,44 @@ Branch 1
 塞琉斯: 哈哈，怎么会呢，这是在替诺艾尔庆祝嘛。
 塞琉斯: 那么，恭喜你们通过这轮考核！接下来就是最后一门了。
 塞琉斯: 好好准备一下，再来明冠峡找我吧。
+*→ Ending (save point 1908602)*
 
+#### Branch 2
+
+*→ Ending (save point 1909304)*
 
 ## Conversation 3
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908608]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908608])
+
 塞琉斯: 嗯…是蒙德烤鱼吗？这个香气，确实挺能提振精神呢。
 诺艾尔: 果然…正确答案，就是烤鱼吗？
 塞琉斯: 但是，鱼肉的味道…如果不用胡椒腌制一下，似乎有些不好入口。
 塞琉斯: 虽然我是不太在意直接烤着吃…不过，应该还有制作起来更方便的食物吧？
 诺艾尔: 这样吗…抱歉，我没有考虑到…
 [Missing Dialog 1908603106]
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2
 
-Branch 1
+*→ Ending (save point 1909305)*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0])
+
+*→ Ending (save point 1908603)*
+
+#### Branch 2
+
 塞琉斯: 不用太灰心，最后一轮考核才是重头戏！
 塞琉斯: 好好准备一下，再来明冠峡找我吧。
+*→ End of conversation*

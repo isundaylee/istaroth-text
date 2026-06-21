@@ -2,17 +2,19 @@
 
 ## Conversation 1
 
+### Talk: Shikanoin Heizou: So, did you find anything?
+
 Shikanoin Heizou: So, did you find anything?
 Paimon: Whoa, look at all the Qingxin! And Glaze Lilies, too! There are also tons of other plants and flowers Paimon doesn't know here. Weird...
 Shikanoin Heizou: These are valuable raw ingredients for producing medicine. If these few crates were to be imported from Ritou, the price would be jaw-dropping.
 Shikanoin Heizou: On top of that, these items seem to lack a tax clearance certificate, meaning that they were most likely smuggled. Yes, very interesting... Now where did the Nobushi get these goods?
 Shikanoin Heizou: How about you? Did you find anything else?
 
-[Player choice]
+### Choice 1
 
-Branch 1: There is a bill here addressed to the "Foreign Trade Association."
+#### Branch 1: There is a bill here addressed to the "Foreign Trade Association."
+
 Shikanoin Heizou: Foreign Trade Association? I've never heard of such an organization in Ritou... and if it's regarding foreign trade, then smuggling is an even more likely possibility.
-
 Shikanoin Heizou: Alright. In which case, I have a rough hypothesis, first we...
 Tokuda: Huh! Who goes there!?
 Paimon: Oh no! We've been spotted!
@@ -51,13 +53,16 @@ Tokuda: Ah I see, the Captain's friend... it should be okay to tell you then. We
 Tokuda: Unfortunately, Masashi and I have other duties tonight and won't be able to take you there. Why don't you wait for a moment and I'll find someone else to show you the way?
 Traveler: It's alright, you can return to your duties. We'll find the way ourselves.
 Shikanoin Heizou: #I'm pretty sure I've already got a grasp on what's going on. All I need now is to confirm it with the apprehended bandits. Traveler, let's go.
+*→ Ending (save point 190550601)*
 
+#### Branch 2: Unfortunately, no.
 
-Branch 2: Unfortunately, no.
 Shikanoin Heizou: Really? Hmm, I see...
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Nanao: Sir! Please forgive us, Sir! We are nothing more than petty thieves...
 
 Nanao: Sir! Please forgive us, Sir! We are nothing more than petty thieves...
 Shikanoin Heizou: Sir? What, do I look like a Commissioner? Does my friend here look like a Commissioner to you?
@@ -106,7 +111,10 @@ Shikanoin Heizou: I can feel some connection to the question in Gorou, Todoroki,
 Shikanoin Heizou: Hopefully, we'll finally have an answer tomorrow.
 Shikanoin Heizou: Let's get some rest. I'll see you at Sangonomiya tomorrow morning.
 
+*→ Ending (save point 190550801)*
 ## Conversation 3
+
+### Talk: Todoroki: Ahem... uh, who are you?
 
 Todoroki: Ahem... uh, who are you?
 Shikanoin Heizou: Hello, Todoroki. I'm Shikanoin Heizou, special detective of the Tenryou Commission.
@@ -173,9 +181,10 @@ Shikanoin Heizou: I suppose you could say I'm from the Shogunate, but the Travel
 Shikanoin Heizou: #As far as I know, {F#she}{M#he} is planning to visit other nations soon, and it is unclear if {F#she}{M#he} will return to Narukami Island or not. Therefore, there's no need to limit {F#her}{M#his} freedom, right?
 Shikanoin Heizou: #I'm sure no one else will hear of what happened today, am I right, Traveler?
 
-[Player choice]
+### Choice 1
 
-Branch 1: (Make a loud and resounding promise.)
+#### Branch 1: (Make a loud and resounding promise.)
+
 Gorou: #Well, it's settled then. Traveler will always be an important partner to Watatsumi, and I would never dream of limiting his freedom. So please don't worry, Detective Heizou.
 Shikanoin Heizou: I'll hold you to that. But if I ever find out you've lied to me again, there's a chance I'll lose my cool.
 Gorou: I'm sorry for not telling you the truth earlier. It's a serious matter, and I didn't want outside parties to become involved.
@@ -190,11 +199,15 @@ Paimon: Wait wait! Paimon gets this one! It's the answer to your question, right
 Gorou: Huh? The thing you sensed coming from me? But I always have excellent personal hygiene...
 Paimon: Hehe, no, not like that!
 Shikanoin Heizou: #Hehe. Hey Traveler, could I talk to you for a moment? Besides, I haven't had a chance to thank you yet.
+*→ Ending (save point 190550901)*
 
+#### Branch 2: (Agree with a cool nod.)
 
-Branch 2: (Agree with a cool nod.)
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Shikanoin Heizou: Hey, there you are. Come here. Look, look! It's beautiful, isn't it? Watatsumi Island...
 
 Shikanoin Heizou: Hey, there you are. Come here. Look, look! It's beautiful, isn't it? Watatsumi Island...
 Shikanoin Heizou: It's remarkable how such a barren land can give life to such wonderful and stunning scenery.
@@ -217,3 +230,5 @@ Shikanoin Heizou: You know, even though we've just met, I wish you could be my p
 Shikanoin Heizou: But of course, I know that's impossible. You have your own journey to complete.
 Shikanoin Heizou: So I'll just keep doing what I can — hopefully keeping my memories from evaporating, safe and sound in my mind.
 Shikanoin Heizou: That way, I'll always be able to remember these beautiful things, the beauty of Watatsumi Island, the people who are full of life and vitality... and you two, who were by my side.
+
+*→ Ending (save point 190551101)*

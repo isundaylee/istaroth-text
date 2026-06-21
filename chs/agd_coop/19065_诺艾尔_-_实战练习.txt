@@ -2,9 +2,13 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1906504]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1906504])
+
 诺艾尔: 呜…一直飞在天上，根本没什么攻击的机会…
 [Missing Dialog 1906501102]
 
@@ -59,9 +63,10 @@ Option 2:
 [Missing Dialog 1906501221]
 
 诺艾尔: 嗯！和你一起！
+*→ Ending (save point 190650101)*
 
+#### Branch 2
 
-Branch 2
 诺艾尔: 好累…一直飞在天上，根本没多少攻击的机会…
 诺艾尔: 要是有安柏，或者丽莎小姐在就好了…
 诺艾尔: 不行…不能这么想，作为骑士，要依靠自己的力量…
@@ -91,9 +96,11 @@ Option 2:
 诺艾尔: 但说不定这次！我也可以…
 旅行者: 我们一起去吧。
 诺艾尔: 嗯！和你一起！
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: 海宁: 感…感谢风神！终于得救了。
 
 海宁: 感…感谢风神！终于得救了。
 海宁: 啊…还得感谢诺艾尔，还有「荣誉骑士」…
@@ -157,3 +164,5 @@ Option 2:
 海宁: …无论如何，这次都要多谢两位了！
 诺艾尔: 没…没事的，这是一名骑士团女仆应尽的责任！
 诺艾尔: 西风骑士团女仆诺艾尔，随时准备为您效劳！
+
+*→ Ending (save point 190650201)*

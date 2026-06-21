@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: 塞琉斯: 向着星辰与深渊！现在就要开始最后一项考核了，都准备好了吗？
+
 塞琉斯: 向着星辰与深渊！现在就要开始最后一项考核了，都准备好了吗？
 诺艾尔: 请…请说，我已经准备好了。
 塞琉斯: 很好！要说冒险家最重要的技能…果然还是实战啊！
@@ -10,10 +12,14 @@
 塞琉斯: 我会在这里看着你们的。好好表现吧，诺艾尔！
 诺艾尔: 好的！这一次…一定能通过！
 
+*→ Ending (save point 1908701)*
 ## Conversation 2
+
+### Talk: 塞琉斯: 嗯，已经回来了吗？看样子…
 
 塞琉斯: 嗯，已经回来了吗？看样子…
 塞琉斯: 这第三轮考核，也还是难不住你们啊！
+### Talk: 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 
 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 塞琉斯: ——满分通过！不愧是诺艾尔！
@@ -41,10 +47,14 @@
 旅行者: 诺艾尔，我们回去复习吧！
 诺艾尔: 好…好的！抱歉，塞琉斯先生，还是下次再说吧！
 
+*→ Ending (save point 1908702)*
 ## Conversation 3
+
+### Talk: 塞琉斯: 嗯，已经回来了吗？看样子…
 
 塞琉斯: 嗯，已经回来了吗？看样子…
 塞琉斯: 唔…果然这个考核难度还是太高了吗…
+### Talk: 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 
 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 塞琉斯: ——顺利通过！只差一点就完美了，有点遗憾啊。
@@ -66,11 +76,16 @@
 塞琉斯: 希望不要因为我出的题，影响到她的心态…
 塞琉斯: 这难度，究竟该怎么设置…我得回「天使的馈赠」点上一杯酒，再好好想想…
 
+*→ Ending (save point 1908703)*
 ## Conversation 4
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908703]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908703])
+
 诺艾尔: 呼…呼…
 诺艾尔: 前辈！我做到了！
 旅行者: 这是你努力的结果。
@@ -92,13 +107,34 @@ Option 2:
 > 旅行者: 我一定会过去的。
 
 诺艾尔: 嗯！这一次，说不定会有些不同吗…
+*→ Next: Choice 2*
 
+#### Branch 2
+
+*→ Ending (save point 1909301)*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [1, 1, 20]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [1, 1, 20])
+
+*→ Ending (save point 1908704)*
+
+#### Branch 2
+
+*→ Ending (save point 1908706)*
 
 ## Conversation 5
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1908704]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1908704])
+
 诺艾尔: 呜…
 诺艾尔: 我还是…没能做好…
 诺艾尔: 手心出了好多汗，心也怦怦跳个不停…
@@ -115,12 +151,32 @@ Option 2:
 
 诺艾尔: 可是，如果不能在考试里发挥出来，和实力不济，又有什么区别呢…
 诺艾尔: 唉，可能…我还是得多做些训练吧…
+*→ Next: Choice 2*
 
+#### Branch 2
+
+*→ Ending (save point 1909302)*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [3, 1, 0])
+
+*→ Ending (save point 1908705)*
+
+#### Branch 2
+
+*→ End of conversation*
 
 ## Conversation 6
 
+### Talk: 塞琉斯: 嗯，已经回来了吗？看样子…
+
 塞琉斯: 嗯，已经回来了吗？看样子…
 塞琉斯: 这第三轮考核，也还是难不住你们啊！
+### Talk: 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 
 塞琉斯: 那么，现在就来宣布冒险家入门考核的结果——
 塞琉斯: ——顺利通过！只差一点就完美了，有点遗憾啊。
@@ -142,7 +198,10 @@ Option 2:
 塞琉斯: 希望不要因为我出的题，影响到她的心态…
 塞琉斯: 这难度，究竟该怎么设置…我得回「天使的馈赠」点上一杯酒，再好好想想…
 
+*→ Ending (save point 1908703)*
 ## Conversation 7
+
+### Talk: 诺艾尔: 唔…唔…
 
 诺艾尔: 唔…唔…
 诺艾尔: 还…不能睡着…
@@ -158,3 +217,5 @@ Option 2:
 诺艾尔: 如何救助落难的冒险家…如何与冒险家协会合作…之类的…
 诺艾尔: 如果现在大意的话…到时候再后悔，可就来不及了。
 诺艾尔: 唉，考试开始前的每一秒…可都不能闲下来了啊。
+
+*→ Ending (save point 1908708)*

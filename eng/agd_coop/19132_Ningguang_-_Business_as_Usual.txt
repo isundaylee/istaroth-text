@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Ningguang: Good morning. Did you sleep well?
+
 Ningguang: Good morning. Did you sleep well?
 
 Option 1:
@@ -50,7 +52,10 @@ Option 2:
 
 Ningguang: There's no need to be nervous, of course. Now, let's have some breakfast before we leave.
 
+*→ Ending (save point 201)*
 ## Conversation 2
+
+### Talk: Ningguang: Did you organize this entire breakfast?
 
 Ningguang: Did you organize this entire breakfast?
 
@@ -106,11 +111,16 @@ Ningguang: I already instructed Lanyang to have my outfit ready. You can fetch i
 Traveler: Understood.
 Ningguang: Thank you. I'll be in my room.
 
+*→ Ending (save point 202)*
 ## Conversation 3
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1913209]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1913209])
+
 Ningguang: Ah, this is the one. Please wait for a moment.
 Black Screen Text: After a while, the door in front of you finally opens.
 Ningguang: I believe you've seen this outfit before. It's one of my favorites.
@@ -144,9 +154,10 @@ Option 2:
 > Ningguang: I never knew you had such a mischievous side.
 
 Ningguang: All right. Let's head to Liuli Pavilion.
+*→ Ending (save point 203)*
 
+#### Branch 2
 
-Branch 2
 Ningguang: Ah, this is the one. Please wait for a moment.
 [Missing Dialog 191320602]
 
@@ -185,9 +196,11 @@ Ningguang: All right. Let's head to Liuli Pavilion.
 Ningguang: Ah, this is the one. Please wait for a moment.
 Black Screen Text: After a while, the door in front of you finally opens.
 [Missing Dialog 191321303]
-
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Luo Qiao: Lady Ningguang!
 
 Luo Qiao: Lady Ningguang!
 Ningguang: Sorry to have kept you waiting.
@@ -273,19 +286,22 @@ Ningguang: See you next time. I'll look forward to hearing good news from you so
 Ningguang: Right then, lunch is over. I assume you have something planned next? Although...
 Ningguang: I'm a little concerned about the auction. I wonder how my secretarial trio is getting along.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Don't worry about them. They're very capable.
+#### Branch 1: Don't worry about them. They're very capable.
+
 Ningguang: Yes, you're right. Whatever happens, they can handle it.
 Ningguang: In that case, what's next on the schedule?
 Traveler: Meeting with the informants.
 Ningguang: Ah, okay then. Yes, it's been some time since I last caught up with them.
 Ningguang: Let's go to Mingxing Jewelry first, I need to pick up something before meeting them.
+*→ Ending (save point 20401)*
 
+#### Branch 2: Well, we have time to go and check up on them if you want.
 
-Branch 2: Well, we have time to go and check up on them if you want.
 Ningguang: Let's go to Mingxing Jewelry first, I need to pick up something before meeting them.
 
 Ningguang: Good, then let's do that. There are some slippery characters among the bidders, you see.
 Ningguang: So even though my secretaries are very capable and experienced, I still can't help worrying for them a little.
 Ningguang: Come on. The auction is being held at Yujing Terrace.
+*→ Ending (save point 20402)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Badawi: Kaveh? What are you doing here...?
+
 Badawi: Kaveh? What are you doing here...?
 Kaveh: I—I've changed my mind. Uh... I was overreacting earlier. Can we try discussing the project some more?
 Badawi: My apologies as well. Now that I think about it, some of my requests were indeed a bit unreasonable.
@@ -41,7 +43,10 @@ Kaveh: The more Mora some people have, the more they love interfering with peopl
 Kaveh: Actually, now that I think about it, I'm not even sure this person really wants to work on this project with me. Putting his vague requests aside, he's still finding excuses to procrastinate even when we've decided on a plan.
 Kaveh: Who knows how long construction will take if he keeps delaying things like this... We should find him again and get some clearer answers. The sooner we can break ground on this, the better.
 
+*→ Ending (save point 190590101)*
 ## Conversation 2
+
+### Talk: Black Screen Text: You search the area with Kaveh, but find no trace of Badawi...
 
 Black Screen Text: You search the area with Kaveh, but find no trace of Badawi...
 Kaveh: Hey, look! Isn't that Badawi? It sure looks like him, but he's dressed completely different now. What is he up to?
@@ -56,7 +61,10 @@ Roya: I'm sorry, but I still can't take you in. I don't have any open positions 
 Badawi: Okay, okay... *sigh*
 Kaveh: He used to be a member of the Eremites? Huh, from the way he dressed, I would have thought he was a merchant from the rainforest... Let's ask him about it.
 
+*→ Ending (save point 190590301)*
 ## Conversation 3
+
+### Talk: Kaveh: We meet again.
 
 Kaveh: We meet again.
 Badawi: Huh? Why are you guys here?
@@ -116,9 +124,10 @@ Kaveh: But let's bring this back to the building itself. I think you said that y
 Kaveh: Building it according to the current plan will be quite costly. Even if I don't charge you any commission fees, I don't think we'd be able to keep it under your budget...
 Kaveh: Hmm... Any ideas on what we can do?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Can we try a slightly different style?
+#### Branch 1: Can we try a slightly different style?
+
 Kaveh: A slightly different style? Hmm, give me a minute...
 Kaveh: Most architects would probably prioritize cutting costs and removing extra features in this situation. Indeed, converting the building into a simple bungalow would solve most of our problems... However, I do not think this would be the best solution.
 Kaveh: While it's true that the aesthetic value of a building is often viewed as an afterthought, neglecting it has some long-term negative consequences. It is especially undesirable in this situation as the library will serve a high number of children, many of whom would have never been exposed to structures that may be considered elegant or beautiful.
@@ -135,9 +144,10 @@ Kaveh: Let me think... You said you used to be an Eremite mercenary, right? In t
 Kaveh: We want to keep the roads clear, and reduce the loss of materials during transport to a minimum. If everything goes well, that'll help us save some Mora.
 Badawi: Alright, just leave it to me! Haha, if there's anything I'm good at, it's clearing out monsters!
 Kaveh: What are you waiting for, then? Let's pack up, and get ready to go.
+*→ Ending (save point 190590401)*
 
+#### Branch 2: Would any other merchants be willing to sponsor the project?
 
-Branch 2: Would any other merchants be willing to sponsor the project?
 Kaveh: Sponsor the project? You mean... convince wealthy merchants to join our cause, and pool their money together to build the library?
 Kaveh: That does make sense. A library is a big project, and it's going to be hard to fund it with just a single person's Mora.
 Kaveh: What do you think? If we can find others to sponsor the project, we could potentially increase the size of the building two or threefold.
@@ -148,3 +158,4 @@ Kaveh: Her? Hard pass. With her shrewd and greedy personality, she would never p
 Traveler: Maybe she can connect us with some of her contacts?
 Kaveh: Hmm, now there's an idea. She probably won't say no if all she'll need to do is to make some introductions instead of spending Mora.
 Kaveh: Let's go and pay her a visit.
+*→ Ending (save point 190590402)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Caishan: Thank you, I can't express my gratitude...
+
 Caishan: Thank you, I can't express my gratitude...
 Caishan: I'm a merchant from Liyue. I was on my way to Mondstadt...
 Caishan: I had no idea there were Treasure Hoarders on the road. They seized me and brought me here...
@@ -20,34 +22,39 @@ Barbara: You choose! What do you think is the most fitting reward?
 Caishan: Yes, adventurers are savvy when it comes to rewards... What'll it be? Liyue's famous Chilibrew, Sweet Flowers, or Mora?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: I'd like to try that Liyue Chilibrew...
+#### Branch 1: I'd like to try that Liyue Chilibrew...
+
 Caishan: This? I mean, sure! I don't know if you'll enjoy it...
 Caishan: There are two of you, so you'll be needing a couple of bottles.
 Caishan: Here you go, pace yourselves! Thanks again for your help, I better get moving.
 [Missing Dialog 0]
+*→ Ending (save point 50101)*
 
+#### Branch 2: Let's go with Mora.
 
-Branch 2: Let's go with Mora.
 Caishan: The sensible option, hahaha. A seasoned adventurer, I see.
 Caishan: Here you go. Thanks again for your help, I better get moving.
 Barbara: Mora? That is sensible... But I guess that's to be expected from a seasoned adventurer.
 Barbara: *sigh* It's getting late... and I doubt there's enough time to go looking for Sweet Flowers...
 Barbara: Let's head back to Mondstadt, as for the Chilibrew... I'll have to make some for you next time.
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 3: Well, we were looking for Sweet Flowers...
 
-Branch 3: Well, we were looking for Sweet Flowers...
 Caishan: Really? Sweet Flowers in a Chilibrew...? I guess it's all Chilibrew at the end of the day, but the Mondstadt version sure sounds... interesting.
 Caishan: Sweet Flowers it is, these are an excellent batch. Thanks again for your help, I better get moving.
 Barbara: These Sweet Flowers look fantastic, and now we've finally got all the ingredients we need for the Chilibrew.
 Barbara: Let's get back to Mondstadt. When we're inside the city, why don't you wait for me in the garden next to the Adventurers' Guild?
 Barbara: When the Chilibrew is ready, I'll bring it straight over.
 [Missing Dialog 0]
-
+*→ Ending (save point 50102)*
 
 ## Conversation 2
+
+### Talk: Barbara: Liyue Chilibrew... I've never tried it, I wonder what the flavor's like...
 
 Barbara: Liyue Chilibrew... I've never tried it, I wonder what the flavor's like...
 Barbara: Well, here goes nothing.
@@ -73,7 +80,10 @@ Barbara: Thanks for your company today, Honorary Knight. Even though it was only
 Barbara: Next time, you can try my special Chilibrew.
 [Missing Dialog 0]
 
+*→ Ending (save point 102)*
 ## Conversation 3
+
+### Talk: Barbara: Sorry for the delay, the Chilibrew's ready! Why don't we drink these here?
 
 Barbara: Sorry for the delay, the Chilibrew's ready! Why don't we drink these here?
 Barbara: Here, this one is for you. Let me know what you think!
@@ -129,3 +139,5 @@ Barbara: It's not often I get so much freedom. Let's just... take our time and d
 Barbara: Tomorrow, it's back to chasing our dreams with hard work.
 Barbara: I hope our dreams can come true, in the end.
 [Missing Dialog 0]
+
+*→ Ending (save point 103)*

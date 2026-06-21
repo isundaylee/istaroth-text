@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Swan: Aha, Honorary Knight and Noelle. Were you two out on a mission?
+
 Swan: Aha, Honorary Knight and Noelle. Were you two out on a mission?
 Swan: Wait, who is this person behind you?
 Alois: I... My name is Alois, I'm a humble merchant.
@@ -50,7 +52,10 @@ Option 3:
 
 Swan: Well then, I'm counting on you two to take care of this gentleman while he's in Mondstadt.
 
+*→ Ending (save point 190620101)*
 ## Conversation 2
+
+### Talk: Alois: Ah... Angel's Share. So this barrel must be full with Mondstadt's celebrated wine, right? If only it could be imitated...
 
 Alois: Ah... Angel's Share. So this barrel must be full with Mondstadt's celebrated wine, right? If only it could be imitated...
 Traveler: "Imitated"?
@@ -62,9 +67,10 @@ Noelle: So I requested less ice. Hope it's to your liking.
 Alois: Calming?
 Alois (Chenee): Is this what they give to all visitors in Mondstadt?
 
-[Player choice]
+### Choice 1
 
-Branch 1: ...Made especially for you.
+#### Branch 1: ...Made especially for you.
+
 Alois: Hehe... because you know I'm interested in Mondstadt wines?
 Traveler: You're very interested, no?
 Alois: Y—Yes! Just interested, mind you.
@@ -73,9 +79,10 @@ Noelle: Oh, so you're hungry too!
 Noelle: ...How terrible of me. If I'd realized, I would've saved some pancakes for you.
 Traveler: Not to worry. Let's go to the Good Hunter restaurant.
 Alois: Oh, good idea! That sounds like a good place!
+*→ Ending (save point 190620301)*
 
+#### Branch 2: ...Noelle's way of showing hospitality.
 
-Branch 2: ...Noelle's way of showing hospitality.
 Alois: On another note, that drink's made me realize just how empty my stomach is...
 Noelle: Oh, so you're hungry too!
 Noelle: ...How terrible of me. If I'd realized, I would've saved some pancakes for you.
@@ -84,9 +91,11 @@ Alois: Oh, good idea! That sounds like a good place!
 
 Alois: Aha... o—okay then...
 [Missing Dialog 1906203302]
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Alois: Mmmm... smells incredible! So it's true... If you really want to sell Mondstadt wines, you can't do without Mondstadt dishes...
 
 Alois: Mmmm... smells incredible! So it's true... If you really want to sell Mondstadt wines, you can't do without Mondstadt dishes...
 Alois: Maybe recipes will be easier to obtain than the brewing process...
@@ -115,9 +124,10 @@ Noelle: Please, enjoy. After all, it's your first meal here as a new visitor, an
 Alois: Huh? *coughing* M—My last!? *choking*
 Alois: ...You give this meal to... all new visitors, right?
 
-[Player choice]
+### Choice 1
 
-Branch 1: This one was made especially for you.
+#### Branch 1: This one was made especially for you.
+
 Alois: Wait... Is it really my last meal?
 Traveler: Your last meal as a new visitor, of course. So enjoy!
 Alois: Ah, haha... so that's what it means... Well, then I better make the most of it...
@@ -134,9 +144,10 @@ Noelle: How about With Wind Comes Glory?
 Noelle: For our final stop, I want to leave Mr. Alois with something to commemorate his time here.
 Alois: So... that's the final stop, yes...?
 Alois: Wait... what are we commemorating?
+*→ Ending (save point 190620401)*
 
+#### Branch 2: It's just Noelle's way of showing hospitality.
 
-Branch 2: It's just Noelle's way of showing hospitality.
 Alois: Aha... o—okay then...
 [Missing Dialog 1906203302]
 
@@ -150,9 +161,11 @@ Traveler: Where are we going after the meal?
 
 Traveler: Noelle, do we have anything else on the itinerary?
 [Missing Dialog 1906204304]
-
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Marjorie: Oh, here's your order, Noelle.
 
 Marjorie: Oh, here's your order, Noelle.
 Noelle: Thanks, Marjorie.
@@ -172,14 +185,25 @@ Option 2:
 
 Alois: So, so this gift is also a...
 
-[Player choice]
+### Choice 1
 
-Branch 1: This one was made especially for you.
+#### Branch 1: This one was made especially for you.
+
 Alois: So it's... a warning!
+*→ Next: Choice 2*
 
-[Conditional branch]
+#### Branch 2: It's just Noelle's way of showing hospitality.
 
-Branch 1
+Alois: ...So, just a regular souvenir?
+*→ End of conversation*
+
+
+### Choice 2
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 1, 2]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 1, 2])
+
 Noelle: Oh, I'm afraid this is all I had time for...
 Noelle: However, I hope it leaves you with a lasting impression of your trip to Mondstadt.
 Noelle: Now then, if you wouldn't mind accompanying me to the Knights of Favonius, the registration process only requires—
@@ -204,9 +228,10 @@ Noelle: #Oh? ...You want to escort him yourself, Traveler?
 Noelle: ...That would certainly put my mind at rest...
 Noelle: In that case, I'll report the situation to Swan. Let's meet back at the gates of the city a little later.
 Noelle: Please take care of Mr. Alois.
+*→ Ending (save point 190620501)*
 
+#### Branch 2
 
-Branch 2
 Noelle: I'm afraid this is all I had time for...
 Noelle: However, I hope it leaves you with a lasting impression of your trip to Mondstadt.
 Alois: I... I really don't understand... why you went to all this trouble...
@@ -245,14 +270,11 @@ Alois: But... thank you for your care and hospitality, I've learned a lot...
 Alois: Goodbye, Mondstadt. Goodbye, maid of the Knights of Favonius!
 Noelle: Ah, okay then... goodbye!
 Noelle: Mondstadt and I, maid Noelle of the Knights of Favonius, will always welcome you when you return!
-
-
-
-Branch 2: It's just Noelle's way of showing hospitality.
-Alois: ...So, just a regular souvenir?
-
+*→ Ending (save point 190620502)*
 
 ## Conversation 5
+
+### Talk: Alois: *whimpers*
 
 Alois: *whimpers*
 Traveler: Okay, no further.
@@ -282,7 +304,10 @@ Alois: Of... Of course! With you and the maid around, who would dare?
 Traveler: ...Change your ways, and you are welcome to visit Mondstadt again.
 Alois: Yes sir! I understand! Goodbye, most honorable Honorary Knight!
 
+*→ Ending (save point 190620601)*
 ## Conversation 6
+
+### Talk: Noelle: #Ah, Traveler, you're back.
 
 Noelle: #Ah, Traveler, you're back.
 Noelle: Eh? How come... Mr. Alois isn't with you?
@@ -308,3 +333,5 @@ Option 2:
 > Noelle: I must have done something wrong! Our visitor would never have left in such a hurry...
 
 Noelle: *sigh* How can I ever become a real knight of Favonius like this...?
+
+*→ Ending (save point 190620701)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Bennett: ...
+
 Bennett: ...
 
 Option 1:
@@ -30,27 +32,31 @@ Option 3:
 > [Missing Dialog 1904301112]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: You couldn't have predicted this, no need to apologize.
+#### Branch 1: You couldn't have predicted this, no need to apologize.
+
 Bennett: Well, that's true... but then again, the unpredictable is to be expected when my luck's involved...
 [Missing Dialog 1904301114]
-
 Bennett: Well, there's not much reason to stay here anymore.
 Bennett: But, how about we take a walk around the area? Maybe we'll find something interesting.
+*→ Ending (save point 30101)*
 
+#### Branch 2: It's fine, we still got to go out for a nice walk.
 
-Branch 2: It's fine, we still got to go out for a nice walk.
 Bennett: Really? You're not just saying that because you don't wanna hurt my feelings, are you? Heh, you're so nice.
 [Missing Dialog 1904301114]
+*→ End of conversation*
 
+#### Branch 3: Maybe scout the place out in advance next time.
 
-Branch 3: Maybe scout the place out in advance next time.
 Bennett: You're right, I just got careless. With my poor luck, I should have been extra careful... sorry about that.
 [Missing Dialog 1904301114]
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Bennett: Hey! Do you see that? There's a monster camp up ahead!
 
 Bennett: Hey! Do you see that? There's a monster camp up ahead!
 Bennett: I can see a whole load of treasure chests with no monsters guarding them!
@@ -72,7 +78,10 @@ Bennett: I was hoping I'd get a chance to flex my muscles a bit! Where did all t
 Bennett: For me, this kind of good fortune is super rare. It must be because you're here, hehe.
 Bennett: Let's go check it out! Ooh... I wonder what goodies are hidden in those chests?
 
+*→ Ending (save point 30201)*
 ## Conversation 3
+
+### Talk: Bennett: Whew... we didn't miss any, right?
 
 Bennett: Whew... we didn't miss any, right?
 
@@ -115,22 +124,26 @@ Option 2:
 > [Missing Dialog 1904303118]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: It's because you don't have good luck.
+#### Branch 1: It's because you don't have good luck.
+
 Bennett: So that's how it is!? ...Ugh, and I actually thought this was the norm.
 Bennett: I can't believe even chests are after me... hmph.
 Bennett: Let's keep walking. Who knows when the monsters might return.
 Bennett: Shall we?
+*→ Ending (save point 30301)*
 
+#### Branch 2: Uh... Yep, you're quite right.
 
-Branch 2: Uh... Yep, you're quite right.
 Bennett: Right? So let's not ask for too much.
 Bennett: Let's keep walking. Who knows when the monsters might return.
 Bennett: Shall we?
-
+*→ End of conversation*
 
 ## Conversation 4
+
+### Talk: Bennett: It's so nice here. The breeze is so comforting... Really lifts my mood.
 
 Bennett: It's so nice here. The breeze is so comforting... Really lifts my mood.
 Bennett: I've been adventuring alone for a long time. It feels so nice to have company. Honestly, I miss it a lot, hehe.
@@ -150,9 +163,10 @@ Option 2:
 > [Missing Dialog 1904304111]
 
 
-[Player choice]
+### Choice 1
 
-Branch 1: Sounds like there's a lot I can learn.
+#### Branch 1: Sounds like there's a lot I can learn.
+
 Bennett: Absolutely! I picked up most of my adventure expertise from them. They're incredible!
 Bennett: By the way, you did bring a wind glider with you today, right?
 Bennett: The weather is so nice and the wind speed is perfect. Why don't we take the chance to go for a glide?
@@ -188,9 +202,10 @@ Option 2:
 Bennett: Yeah, thanks for understanding. Though, I feel pretty bad leaving you here...
 Jack: We'd better hurry back. They're all waiting for you.
 Bennett: Okay... okay, sure. Well... I have to go now. Let me treat you to something next time... bye...
+*→ Ending (save point 201)*
 
+#### Branch 2: Isn't that tough on you?
 
-Branch 2: Isn't that tough on you?
 Bennett: No, not really! I mean, I have to be careful to make sure they don't get affected by my bad luck, but apart from that, it's kinda fun taking care of them!
 Bennett: By the way, you did bring a wind glider with you today, right?
 Bennett: The weather is so nice and the wind speed is perfect. Why don't we take the chance to go for a glide?
@@ -226,3 +241,4 @@ Option 2:
 Bennett: Yeah, thanks for understanding. Though, I feel pretty bad leaving you here...
 Jack: We'd better hurry back. They're all waiting for you.
 Bennett: Okay... okay, sure. Well... I have to go now. Let me treat you to something next time... bye...
+*→ End of conversation*

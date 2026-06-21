@@ -2,11 +2,16 @@
 
 ## Conversation 1
 
+### Talk: Kaveh: Most materials going from Caravan Ribat to Aaru Village would pass through here.
+
 Kaveh: Most materials going from Caravan Ribat to Aaru Village would pass through here.
 Kaveh: There are a lot of monsters out here today. Let's clear the area. If you find it hard to keep up, just let us know.
 Badawi: Oh, don't worry about me, this is nothin'. I'll be careful though, and you should do the same.
 
+*→ Ending (save point 190710101)*
 ## Conversation 2
+
+### Talk: Badawi: Phew... *grimace*...
 
 Badawi: Phew... *grimace*...
 Traveler: Are you hurt?
@@ -55,20 +60,23 @@ Kaveh: But as you can see, I'm not the only idealist in the world. Just as there
 Kaveh: ...And when I finally run out of stamina, someone will also reach out and bring me back to shore...
 Kaveh: ...Someone will help me, right? ...Yes, I've already been helped like that before.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Should I have a life preserver at the ready?
+#### Branch 1: Should I have a life preserver at the ready?
+
 Kaveh: Oh please, it's not like we're actually talking about swimming! ...Also, just so you know, I actually took a swimming elective back in the day. Don't underestimate my skills.
-
 Kaveh: Either way, I'm feeling much better than when you first found me at the tavern. I can feel inspiration already welling up inside of me... maybe this will be just the opportunity I needed to create a whole new style!
 Kaveh: Alright, let's head to Aaru Village!
+*→ Ending (save point 190710301)*
 
+#### Branch 2: I'll help you when the time comes.
 
-Branch 2: I'll help you when the time comes.
 Kaveh: Haha, but you've helped me plenty already! If you didn't reach out to me, I would probably be passed out on the tavern table right now instead of talking with Badawi.
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Kaveh: Now that we're here, it's my partner's time to shine. Mehrak!
 
 Kaveh: Now that we're here, it's my partner's time to shine. Mehrak!
 Mehrak: Beep-boop!
@@ -91,6 +99,7 @@ Black Screen Text: Setaria considers Kaveh's questions and offers her answers...
 Kaveh: ...
 Kaveh: ...
 Kaveh: ...Alright, that should be everything.
+### Talk: Kaveh: Badawi, let's go over the budget again. We'll keep the building structure the same, but make the place a little bigger, so it'll be able to hold more people, and get better natural light.
 
 Kaveh: Badawi, let's go over the budget again. We'll keep the building structure the same, but make the place a little bigger, so it'll be able to hold more people, and get better natural light.
 Kaveh: The parts of the project that'd cost the most will be the insulation and ventilation materials. I'm sure you understand, no one likes to read in a place that's hot and stuffy.
@@ -102,3 +111,5 @@ Kaveh: The inspiration just came to me naturally, all I did was put the thoughts
 Kaveh: I must give you credit, though, if it weren't for your advice and suggestions, I probably wouldn't have landed on this new style so quickly.
 Kaveh: #According to the traditions of my profession, I should probably name this style after you. Let's call it the "Traveler Style."
 Kaveh: In the meantime, let's look forward to the day when this building is completed and can finally open its doors.
+
+*→ Ending (save point 190710401)*

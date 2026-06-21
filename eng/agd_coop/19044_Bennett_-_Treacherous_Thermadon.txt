@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Bennett: Now that we've got our ingredients, allow me to handle the cooking!
+
 Bennett: Now that we've got our ingredients, allow me to handle the cooking!
 
 Bennett: It's done!
@@ -20,7 +22,10 @@ Option 2:
 
 Bennett: Well, now that the food is ready, let's head for those mysterious ruins!
 
+*→ Ending (save point 40101)*
 ## Conversation 2
+
+### Talk: Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
 
 Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
 Bennett: Could it be that because you're here with me, I'm feeling more at ease? Hehe...
@@ -37,6 +42,7 @@ Option 2:
 
 Bennett: Right. Well, we're on the same page at least.
 Bennett: I'll go try to operate it.
+### Talk: Bennett: Just as I expected, hehe.
 
 Bennett: Just as I expected, hehe.
 Traveler: But now the door behind us is closed...
@@ -56,7 +62,10 @@ Bennett: Hey, did you hear that?
 Bennett: Sounded like it came from the door up ahead of us... Could there be other people in the ruin, too?
 Bennett: Let's go check it out!
 
+*→ Ending (save point 40301)*
 ## Conversation 3
+
+### Talk: Bennett: Hello, fellow adventurer! We, like you, are here to—
 
 Bennett: Hello, fellow adventurer! We, like you, are here to—
 Royce: ...BENNETT!?
@@ -130,9 +139,10 @@ Royce: This is it... This is how I go, isn't it...? Here, today, and all because
 Bennett: Well... I don't know what I could do to apologize. If you don't mind, maybe we can share some of our supplies with you.
 Bennett: Ah, but of course, I'll have to check with my partner first. So, what do you think?
 
-[Player choice]
+### Choice 1
 
-Branch 1: You cooked it, you can do whatever you want with it.
+#### Branch 1: You cooked it, you can do whatever you want with it.
+
 Royce: Ugh... alright... I am quite hungry. I suppose I shall accept your kind offer.
 Royce: ...Is this the "supplies" you were talking about? Why do I have the feeling that this dish is... a bit suspect?
 Bennett: It's fine, honestly! It's been with my partner all along, so it shouldn't be tainted with my bad luck...
@@ -141,9 +151,10 @@ Royce: Then... I guess I'll just have... little bite...
 Royce: Hmm, tastes a little... Huh, what a strange texture... Ugh, what is that churning feeling in my stomach...
 Royce: ...B—Bennett...
 Bennett: Hey, what's wrong? Royce!
+*→ Ending (save point 301)*
 
+#### Branch 2: No way. You don't owe him anything.
 
-Branch 2: No way. You don't owe him anything.
 Bennett: But it was because of my bad luck, though...
 
 Option 1:
@@ -173,9 +184,11 @@ Royce: With Bennett around, I'm sure any exit I find will only be blocked!
 Bennett: Well... then take care, Royce.
 Royce: You—
 Royce: *sigh* ...You take care too Bennett.
-
+*→ Ending (save point 40401)*
 
 ## Conversation 4
+
+### Talk: Bennett: Aww... Still not a clue.
 
 Bennett: Aww... Still not a clue.
 Bennett: Is there really no way out of here apart from that broken mechanism?
@@ -244,3 +257,5 @@ Bennett: You made a great point earlier when you said that I should take better 
 Bennett: Here goes!
 Traveler: Bennett!
 [Missing Dialog 1904405339]
+
+*→ Ending (save point 302)*

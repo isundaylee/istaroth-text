@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Beidou: These are some older Skirmish Boats that we keep on The Alcor as backup.
+
 Beidou: These are some older Skirmish Boats that we keep on The Alcor as backup.
 Beidou: Although they've been made redundant by newer models now, they're still fully kitted out.
 Beidou: They are perfect for when we need to do simulated battles as part of crew training.
@@ -34,11 +36,16 @@ Beidou: In that case, I will skip the basics on how to operate your craft.
 Beidou: The goal of this exercise is simple: Steer your Skirmish Boat along the prescribed route and return here within the time limit.
 Beidou: You can start when you're ready. I'll be waiting here, so I can observe your skills.
 
+*→ Ending (save point 190520101)*
 ## Conversation 2
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1905203]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1905203])
+
 Beidou: #Nicely done! Traveler, that was a joy to watch.
 Beidou: Perfect timing on the turns, and you kept your craft stable on the straightaway. It was like watching a well-rehearsed show.
 
@@ -52,9 +59,10 @@ Option 2:
 
 Beidou: Hahaha. Alright — it's high time I introduced you to some of the more serious business that The Crux takes on.
 Beidou: Come with me. We're going to Liyue Harbor.
+*→ Ending (save point 190520201)*
 
+#### Branch 2
 
-Branch 2
 Beidou: #Hah, not so on form today, Traveler, huh?
 
 Option 1:
@@ -70,9 +78,11 @@ Beidou: So, don't worry about it. Just remind me to have Juza make some improvem
 Beidou: Anyway, that was all just to get you warmed up...
 Beidou: What I really want to show you is the more serious side of The Crux's business.
 Beidou: Come with me. We're going to Liyue Harbor.
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Beidou: You may be aware that as an armed fleet, The Crux is kinda like the maritime equivalent of a Guard for Hire.
 
 Beidou: You may be aware that as an armed fleet, The Crux is kinda like the maritime equivalent of a Guard for Hire.
 Beidou: We work as an armed carrier, earning our keep by successfully delivering the goods entrusted to us from A to B.
@@ -102,7 +112,10 @@ Beidou: Importing here, exporting there. The only difference between us and regu
 Beidou: You'll see what I mean by that shortly. I'm taking you to see one such transaction for yourself.
 Beidou: Come on, let's go meet our trading partner for the day.
 
+*→ Ending (save point 190520301)*
 ## Conversation 4
+
+### Talk: Nei: Fresh seafood! Fresh seafood! Catch it while you can!
 
 Nei: Fresh seafood! Fresh seafood! Catch it while you can!
 Beidou: What do you have?
@@ -121,7 +134,10 @@ Nei: Look, I'm a professional, and so are most of the people I serve. I can acco
 Beidou: Anywhere you'd recommend?
 Nei: Hehe, like I said, Nei's Professional Fishmonger's is for professionals. For amateurs, the place to go to would be Wai's Amateur Fishmonger's.
 
+*→ Ending (save point 190520401)*
 ## Conversation 5
+
+### Talk: Mr. Iron Abacus: Are you two here to collect your order? Huh? Bei... Ahem!
 
 Mr. Iron Abacus: Are you two here to collect your order? Huh? Bei... Ahem!
 Beidou: Yes, Sir. We're here about that bass.
@@ -182,7 +198,10 @@ Beidou: I deeply value you as a friend, but ultimately, you're not with The Crux
 Beidou: I definitely don't want to cause you any trouble just because you hung out with me.
 Beidou: So rest assured, we haven't broken any laws — at least not today.
 
+*→ Ending (save point 190520501)*
 ## Conversation 6
+
+### Talk: Mr. Iron Abacus: Captain Beidou. You gave me quite the surprise when you showed up in person earlier today.
 
 Mr. Iron Abacus: Captain Beidou. You gave me quite the surprise when you showed up in person earlier today.
 Beidou: #Well, my friend is visiting, so I wanted to show him how The Crux handles some of its important business.
@@ -223,7 +242,10 @@ Mr. Iron Abacus: Seems like your friend still has a little catching up to do.
 Beidou: #Hahahaha, I know you have a lot of questions, Traveler. Come on, take a walk with me, and I'll lay it all out for you.
 Mr. Iron Abacus: I'll leave you both to it. Captain Beidou, I look forward to doing business with you again. Take care.
 
+*→ Ending (save point 190520601)*
 ## Conversation 7
+
+### Talk: Beidou: Looking at the time, it should be any second now.
 
 Beidou: Looking at the time, it should be any second now.
 Beidou: Look, that's the signal!
@@ -257,7 +279,10 @@ Beidou: Of course, if the day comes when you've traveled to every corner of the 
 Beidou: You are welcome to come back here, and I will tell you all about it.
 Beidou: You will always be welcome in the Crux Fleet. I hope I get to see you onboard again someday.
 
+*→ Ending (save point 103)*
 ## Conversation 8
+
+### Talk: Wai: Fresh seafood! Fresh seafood! Come take a look!
 
 Wai: Fresh seafood! Fresh seafood! Come take a look!
 Beidou: Is this Wai's Amateur Fishmonger's?
@@ -278,3 +303,5 @@ Wai: Hehe! A real amateur if I ever met one! Proud to have you as a customer.
 Wai: No, we don't have the fish here. All fish sold at Wai's Amateur Fishmonger's are still swimming in the sea.
 Wai: Once we get the order in from the customer, we go fish it out for them. The warehouse handles that side of things.
 Wai: Pay first, then we bring you the goods! That way, you get the freshest catch!
+
+*→ Ending (save point 190520801)*

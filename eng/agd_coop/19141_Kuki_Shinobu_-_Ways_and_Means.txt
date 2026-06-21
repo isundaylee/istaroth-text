@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Kuki Shinobu: I do apologize. As I've explained before, it's a constant battle for Mr. Arataki with his mental instabilities. I know it's caused no end of problems for you, and I can assure you that he regularly feels very remorseful about that, too.
+
 Kuki Shinobu: I do apologize. As I've explained before, it's a constant battle for Mr. Arataki with his mental instabilities. I know it's caused no end of problems for you, and I can assure you that he regularly feels very remorseful about that, too.
 Kuki Shinobu: ...Exactly, yes, and that's why he has such a big heart for other people struggling with similar issues. Uh, the Arataki Support Group was actually founded precisely to try and bring something positive out of that...
 Kuki Shinobu: Yes, all of them are good, honest people underneath. It's just a shame that they still haven't found a cure, after all this time...
@@ -53,7 +55,10 @@ Akira: Uhh... Y—Yes! No problems!
 Genta: W—We'll be sure to get the job done!
 Uesugi: *sigh* ...I really hope letting them go was the right decision... They'd better not cause any more trouble...
 
+*→ Ending (save point 191410101)*
 ## Conversation 2
+
+### Talk: Mamoru: Alright then, Shinobu, we, uh... will go apologize then?
 
 Mamoru: Alright then, Shinobu, we, uh... will go apologize then?
 Akira: Yeah, we'd better be quick, or...
@@ -66,14 +71,24 @@ Kuki Shinobu: No more excuses. You know, I had real plans at Uyuu Restaurant tod
 Akira: #Eek! Help, Traveler!
 Genta: P—Please, you don't wanna do this... you could have just left us in jail instead!
 
-[Player choice]
+### Choice 1
 
-Branch 1: (Step forward to defend them.)
+#### Branch 1: (Step forward to defend them.)
+
 Kuki Shinobu: #Don't feel sorry for them, Traveler. They need to learn their lesson.
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: (Slowly back away...)
 
-Branch 1: It's more important that they apologize...
+Genta: #Traveler? Are you serious!?
+Akira: Shinobu... please, calm down... calm down!
+*→ Ending (save point 191410203)*
+
+
+### Choice 2
+
+#### Branch 1: It's more important that they apologize...
+
 Mamoru: Yes, yes! Shinobu, please just let us go apologize!
 Akira: If someone else complains, they'll only arrest us again...
 Genta: ...and then you'll be forced to help us out again.
@@ -141,9 +156,10 @@ Option 2:
 > Traveler: (Shinobu said she doesn't like the shrine...)
 
 Kuki Shinobu: #...Anyway, thank you for coming with me, Traveler.
+*→ Ending (save point 191410201)*
 
+#### Branch 2: Oh? Then allow me!
 
-Branch 2: Oh? Then allow me!
 Kuki Shinobu: ...Really?
 Genta: Ah!?
 
@@ -181,9 +197,4 @@ Traveler: I... I didn't see...
 Kuki Shinobu: Tsk... Well, given that this way is Tenshukaku and the Police Station, you can bet they'll have fled in the opposite direction!
 Kuki Shinobu: Who knows what chaos they'll cause next if we leave them to their own devices...
 Kuki Shinobu: #I'm gonna need your help, Traveler. Let's catch these kids before they do something stupid.
-
-
-
-Branch 2: (Slowly back away...)
-Genta: #Traveler? Are you serious!?
-Akira: Shinobu... please, calm down... calm down!
+*→ Ending (save point 191410202)*

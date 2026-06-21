@@ -2,9 +2,13 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1906504]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1906504])
+
 Noelle: Ugh... It was too far up in the air, I couldn't get to it...
 [Missing Dialog 1906501102]
 
@@ -59,9 +63,10 @@ Noelle: Maybe this time... I can do it!
 [Missing Dialog 1906501221]
 
 Noelle: Great, you and me!
+*→ Ending (save point 190650101)*
 
+#### Branch 2
 
-Branch 2
 Noelle: ...Exhausting... It was too far up in the air, I couldn't get to it...
 Noelle: If only Amber or Miss Lisa were here...
 Noelle: No! I can't think like that. As a Knight, I must rely on my own strength...
@@ -91,9 +96,11 @@ Noelle: Even though driving away hilichurls is usually something for the Knights
 Noelle: Maybe this time... I can do it!
 Traveler: Let's do it together.
 Noelle: Great, you and me!
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Henning: Th—Thank the Anemo Archon! Finally, I'm saved...
 
 Henning: Th—Thank the Anemo Archon! Finally, I'm saved...
 Henning: Ah... and thanks to Noelle and the Honorary Knight too...
@@ -157,3 +164,5 @@ Henning: Ahaha... Absolutely. No more of that.
 Henning: ...In any case, I'm extremely grateful to you both.
 Noelle: N—No problem, merely fulfilling my duties as a maid of Favonius!
 Noelle: Maid Noelle of the Knights of Favonius, at your service!
+
+*→ Ending (save point 190650201)*

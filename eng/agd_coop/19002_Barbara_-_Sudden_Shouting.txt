@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Albert: Barbara-sama... Are you here?
+
 Albert: Barbara-sama... Are you here?
 Traveler: What are you shouting about?
 Albert: Uh — who, me? Ah, well... I'm looking for Barbara-sama.
@@ -13,106 +15,124 @@ Albert: Besides, as leader of the Barbara Fan Club, how could I ever let Barbara
 Albert: So I decided to come to Wolvendom, looking for Barbara-sama and picking *red Wolfhooks* along the way.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Oh, so you picked all the berries...
+#### Branch 1: Oh, so you picked all the berries...
+
 Albert: That's right, and I'll take them back to the Church shortly. After all, I am the leader of the Barbara Fan Club. It's my duty to make sure Barbara-sama's life's easier.
 Albert: Huh? But... judging from your expression, you've never heard of the Barbara Fan Club?
 [Missing Dialog 0]
-
 Albert: Uh... Anyways, the Barbara Fan Club will have to wait for the moment, I'll fill you in on how great it is when I have time later. I must keep searching for Barbara-sama for now.
 Albert: *sigh* I don't really even know if Barbara-sama is anywhere around here.
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Hold on, what's the Barbara Fan Club?
 
-Branch 1: It is dangerous here, there are lots of monsters roaming about.
-Albert: Yes, I'm well aware. That's exactly why as leader of the Barbara Fan Club, I could never let Barbara-sama wander here alone.
-[Missing Dialog 0]
-
-Albert: Since Barbara-sama came here to pick those *red Wolfhooks*, we could just follow the trail of those specific berries to lead us right to her.
-[Missing Dialog 0]
-
-[Player choice]
-
-Branch 1: I think you've already searched most of the areas where red Wolfhooks grow.
-Albert: Um, maybe... But this is the only place they could be... She wouldn't go anywhere else if those were what she was looking for.
-Albert: Could she really have returned to Mondstadt?
-[Missing Dialog 0]
-
-Albert: By the way... You didn't happen to see any sign of Barbara-sama when you arrived, did you? Perhaps I was hearing things...
-[Missing Dialog 0]
-
-[Player choice]
-
-Branch 1: There are all sorts of monsters in Wolvendom, and not to mention wolves... That must be what you heard.
-Albert: No way! How could I ever mistake the sound of some monsters for Barbara-sama's sweet voice!?
-[Missing Dialog 0]
-
-[Conditional branch]
-
-Branch 1
-Albert: *sigh* Alright then, Barbara-sama must be somewhere else...
-Albert: *sigh* But I still feel a bit worried. I'll go report the matter to Huffman and then have another look around the church.
-Albert: Here, you can have these *red Wolfhooks* I picked earlier. There's no way I'd be able to carry them all back to the city. I'll take what I can to the church after I get back.
-Albert: Ugh, I just hope that Barbara-sama did indeed go back to the city...
-[Missing Dialog 0]
-
-
-Branch 2
-Albert: Well, whatever. I don't have time to keep talking like this. I should keep searching for Barbara-sama...
-Albert: ...And you should go back to whatever it is you were doing.
-[Missing Dialog 0]
-
-
-
-Branch 2: I've been here clearing the area of monsters all day, but I didn't hear anything.
-Albert: Well, of course you didn't hear anything... You were focused on defeating monsters the whole time.
-[Missing Dialog 0]
-
-
-Branch 3: But do you still hear her now? Barbara-sama may have already left the area a while ago.
-Albert: Ugh, you might be right... I haven't heard any sign of her since.
-Albert: Unless she's intentionally trying to avoid me... But she'd never have any reason to do that.
-Traveler: Of course not.
-Albert: Right. Hmm, well, it seems that Barbara-sama may have already left the area...
-[Missing Dialog 0]
-
-
-
-Branch 2: There might be some other areas where Wolfhooks grow that you haven't heard about, perhaps Barbara went somewhere else?
-Albert: Ah, you're right. I should probably try searching some other areas.
-[Missing Dialog 0]
-
-
-Branch 3: How can you be certain that she's out picking Wolfhooks? She might not even be anywhere nearby here.
-Albert: I heard it from Sister Victoria herself. She told me that she overheard another sister saying that Barbara-sama had come to Wolvendom to pick Wolfhook berries.
-Albert: In fact... I could have sworn I heard Barbara-sama's voice when I came here...
-[Missing Dialog 0]
-
-
-
-Branch 2: Barbara isn't here anymore, you'd better head back to the city.
-Albert: Huh? Wait a second, what do you mean, "anymore"? Did you see her here earlier?
-Albert: So Barbara-sama is somewhere close by!
-[Missing Dialog 0]
-
-
-Branch 3: Wolvendom is a large area, it would be difficult for you to cover it alone. You should find some others to help you search first.
-Albert: *sigh* You might be right... I should go back and gather more people to help with the search.
-[Missing Dialog 0]
-
-
-
-Branch 2: Hold on, what's the Barbara Fan Club?
 Albert: Oh, you can't be serious! It's only the biggest club for Barbara-sama fans in all of Mondstadt.
 Albert: Hehe, even Huffman's a member now!
 Traveler: Even Huffman?
 Albert: Of course! Barbara-sama has a lot of fans in Mondstadt that wish to support her, you know.
 [Missing Dialog 0]
+*→ End of conversation*
 
+
+### Choice 2
+
+#### Branch 1: It is dangerous here, there are lots of monsters roaming about.
+
+Albert: Yes, I'm well aware. That's exactly why as leader of the Barbara Fan Club, I could never let Barbara-sama wander here alone.
+[Missing Dialog 0]
+Albert: Since Barbara-sama came here to pick those *red Wolfhooks*, we could just follow the trail of those specific berries to lead us right to her.
+[Missing Dialog 0]
+*→ Next: Choice 3*
+
+#### Branch 2: Barbara isn't here anymore, you'd better head back to the city.
+
+Albert: Huh? Wait a second, what do you mean, "anymore"? Did you see her here earlier?
+Albert: So Barbara-sama is somewhere close by!
+[Missing Dialog 0]
+*→ End of conversation*
+
+#### Branch 3: Wolvendom is a large area, it would be difficult for you to cover it alone. You should find some others to help you search first.
+
+Albert: *sigh* You might be right... I should go back and gather more people to help with the search.
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: I think you've already searched most of the areas where red Wolfhooks grow.
+
+Albert: Um, maybe... But this is the only place they could be... She wouldn't go anywhere else if those were what she was looking for.
+Albert: Could she really have returned to Mondstadt?
+[Missing Dialog 0]
+Albert: By the way... You didn't happen to see any sign of Barbara-sama when you arrived, did you? Perhaps I was hearing things...
+[Missing Dialog 0]
+*→ Next: Choice 4*
+
+#### Branch 2: There might be some other areas where Wolfhooks grow that you haven't heard about, perhaps Barbara went somewhere else?
+
+Albert: Ah, you're right. I should probably try searching some other areas.
+[Missing Dialog 0]
+*→ End of conversation*
+
+#### Branch 3: How can you be certain that she's out picking Wolfhooks? She might not even be anywhere nearby here.
+
+Albert: I heard it from Sister Victoria herself. She told me that she overheard another sister saying that Barbara-sama had come to Wolvendom to pick Wolfhook berries.
+Albert: In fact... I could have sworn I heard Barbara-sama's voice when I came here...
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 4
+
+#### Branch 1: There are all sorts of monsters in Wolvendom, and not to mention wolves... That must be what you heard.
+
+Albert: No way! How could I ever mistake the sound of some monsters for Barbara-sama's sweet voice!?
+[Missing Dialog 0]
+*→ Next: Choice 5*
+
+#### Branch 2: I've been here clearing the area of monsters all day, but I didn't hear anything.
+
+Albert: Well, of course you didn't hear anything... You were focused on defeating monsters the whole time.
+[Missing Dialog 0]
+*→ End of conversation*
+
+#### Branch 3: But do you still hear her now? Barbara-sama may have already left the area a while ago.
+
+Albert: Ugh, you might be right... I haven't heard any sign of her since.
+Albert: Unless she's intentionally trying to avoid me... But she'd never have any reason to do that.
+Traveler: Of course not.
+Albert: Right. Hmm, well, it seems that Barbara-sama may have already left the area...
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 5
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 3, 4]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 3, 4])
+
+Albert: *sigh* Alright then, Barbara-sama must be somewhere else...
+Albert: *sigh* But I still feel a bit worried. I'll go report the matter to Huffman and then have another look around the church.
+Albert: Here, you can have these *red Wolfhooks* I picked earlier. There's no way I'd be able to carry them all back to the city. I'll take what I can to the church after I get back.
+Albert: Ugh, I just hope that Barbara-sama did indeed go back to the city...
+[Missing Dialog 0]
+*→ Ending (save point 20102)*
+
+#### Branch 2
+
+Albert: Well, whatever. I don't have time to keep talking like this. I should keep searching for Barbara-sama...
+Albert: ...And you should go back to whatever it is you were doing.
+[Missing Dialog 0]
+*→ Ending (save point 20101)*
 
 ## Conversation 2
+
+### Talk: Paimon: Whew, it seems Barbara's already left. *sigh* Good...
 
 Paimon: Whew, it seems Barbara's already left. *sigh* Good...
 Albert: *cough* My throat is getting... *cough*
@@ -136,7 +156,10 @@ Albert: Ugh... Oh, alright. It seems Barbara-sama isn't anywhere around here. Le
 Albert: *cough* Once Barbara-sama returns to Mondstadt, though... I'll have to ask her to heal my throat... *cough*
 [Missing Dialog 0]
 
+*→ Ending (save point 101)*
 ## Conversation 3
+
+### Talk: Barbara: So... is he gone now?
 
 Barbara: So... is he gone now?
 Traveler: Yeah, he's gone for now.
@@ -170,3 +193,5 @@ Barbara: Well, I know, and you also know. And we mustn't forget that Barbatos al
 Barbara: Besides, as a deaconess, I could never simply ignore such a matter. I must take the appropriate actions and make things right.
 Barbara: I'll see to that matter on my own. Anyway, the berries you have here will be just enough. We should get going.
 [Missing Dialog 0]
+
+*→ Ending (save point 20301)*

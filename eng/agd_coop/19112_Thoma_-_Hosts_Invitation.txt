@@ -2,20 +2,24 @@
 
 ## Conversation 1
 
+### Talk: Thoma: I keep thinking, since I'm the host here, we ought to do something you'll enjoy.
+
 Thoma: I keep thinking, since I'm the host here, we ought to do something you'll enjoy.
 Thoma: But despite that, I still haven't got a clear plan on where to take you.
 Thoma: What do you usually prefer — indoor or outdoor activities?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Let's stay indoors.
+#### Branch 1: Let's stay indoors.
+
 Thoma: Sounds like a plan. I don't really feel like spending my day running all over the place, either.
 Thoma: In which case, let's head to Komore Teahouse.
 Thoma: There's nowhere better to sit and chat quietly with a pot of tea.
 Thoma: I'll head over there now to get a few things prepared. Come and join me when you're ready.
+*→ Ending (save point 1911301)*
 
+#### Branch 2: Let's head out.
 
-Branch 2: Let's head out.
 Thoma: You want to go out for a stroll? Perfect, I have a couple of places I was going to recommend.
 Thoma: If you like cats and dogs, there's a great place I can take you.
 Thoma: I go there pretty much every time I have a day off. You can't help but be in a good mood when you're surrounded by cute animals.
@@ -23,16 +27,21 @@ Thoma: Failing that, we could go downtown if you'd prefer?
 Thoma: Narukami Island will be packed right now, so we could go to Ritou instead.
 Thoma: Hehe, back to where we first met. I haven't been there in a long time, actually.
 Thoma: Which one are you feeling? It's up to you.
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: I wanna see these cats and dogs!
+### Choice 2
+
+#### Branch 1: I wanna see these cats and dogs!
+
 Thoma: Haha, I had a feeling you'd pick that one, nice to know we share the same interests
 Thoma: There's a sakura tree in Hanamizaka where I go to feed them. Let's meet there in a short while.
 Thoma: I need to go grab a few things — can't go there empty-handed...
+*→ Ending (save point 1911601)*
 
+#### Branch 2: Let's hit the town.
 
-Branch 2: Let's hit the town.
 Thoma: Okay! Let's go straight there.
 Thoma: I know Ritou pretty well, so I'll give you the grand tour.
 Thoma: Today's a rare day off, so above all, let's enjoy ourselves!
+*→ Ending (save point 1911901)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Uncle Jia: Please be careful, everyone. Pay close attention to your surroundings and stay vigilant once you enter.
+
 Uncle Jia: Please be careful, everyone. Pay close attention to your surroundings and stay vigilant once you enter.
 Uncle Jia: And most importantly, don't get separated from your partner and wander off on your own. You'll most certainly be in for a scare if you go alone.
 Chongyun: Did you hear that? He's warning the event participants. Maybe something strange really did happen here...
@@ -38,19 +40,23 @@ Uncle Jia: It's delicious and quite effective if I do say so myself! There's not
 Uncle Jia: Or if you're still unsure, perhaps only one of you could take the drink. The person who takes the drink can protect the one who doesn't. It'll be exciting either way!
 Chongyun: Hmm, it's hard to refuse when you put it that way...
 
-[Player choice]
+### Choice 1
 
-Branch 1: Let's both drink it. If you lose control, I'll be sure to take care of you.
+#### Branch 1: Let's both drink it. If you lose control, I'll be sure to take care of you.
+
 Uncle Jia: Alright, here it is! Please drink it slowly.
 Uncle Jia: Haha! Yes, that's it, you did great! You two may enter now.
+*→ Ending (save point 1903002)*
 
+#### Branch 2: Just let me drink it alone.
 
-Branch 2: Just let me drink it alone.
 Uncle Jia: Alright, here it is! Please drink it slowly.
 Uncle Jia: Haha! Yes, that's it, you did great! You two may enter now.
-
+*→ Ending (save point 1903012)*
 
 ## Conversation 2
+
+### Talk: Chongyun: So, this is the Test of Courage! Hmm, there are more people here than I imagined.
 
 Chongyun: So, this is the Test of Courage! Hmm, there are more people here than I imagined.
 Chongyun: They could all be in grave danger if there really is an evil spirit here. We must get to the bottom of this!
@@ -75,7 +81,10 @@ Chongyun: So I rarely have any time for leisure activities. I'm completely unfam
 Traveler: I see...
 Chongyun: Hm... Well, either way, let's check the area for any evil spirits, just in case. Where should we start?
 
+*→ Ending (save point 1903003)*
 ## Conversation 3
+
+### Talk: Dandan: This is all your fault! This place nearly scared me to death!
 
 Dandan: This is all your fault! This place nearly scared me to death!
 Lu Zheng: Alright, alright, don't lose your temper. We're leaving now, okay?
@@ -108,7 +117,10 @@ Chongyun: Interesting... I have never had any fear of evil spirits, so perhaps I
 Chongyun: It's amazing that you're able to pick up on that. Good thing I brought you as my partner!
 Chongyun: Anyway, let's keep searching the area.
 
+*→ Ending (save point 1903004)*
 ## Conversation 4
+
+### Talk: Chongyun: Hmm, these are traces left by an evil spirit, no doubt about it!
 
 Chongyun: Hmm, these are traces left by an evil spirit, no doubt about it!
 Chongyun: The traces are quite weak, though, so there are only two possibilities. Either the spirit that left the traces is very weak, or it has already left for some time now.
@@ -118,7 +130,10 @@ Chongyun: No, I don't think so. There have been many rumors regarding the cause 
 Chongyun: Although, once it became the murky place you see now, it also began to attract more evil spirits.
 Chongyun: Anyway, these traces lead us one step closer to finding an evil spirit.
 
+*→ Ending (save point 1903005)*
 ## Conversation 5
+
+### Talk: Chan'er: Don't come over here again!
 
 Chan'er: Don't come over here again!
 Chan'er: Seriously, just leave me alone!
@@ -176,25 +191,47 @@ Option 3:
 > Chongyun: ...Perhaps we should just leave them alone.
 
 
+*→ Ending (save point 1903191)*
 ## Conversation 6
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_ENDING_FINISH [103601, 1903002]*
+
+#### Branch 1 (applies if COOP_COND_ENDING_FINISH [103601, 1903002])
+
 Chongyun: ...Sorry... Sorry, I feel... unwell.
 Chongyun: ...I think the drink we had earlier stirred the yang energy inside my body.
 Traveler: Is it that serious?
 Chongyun: If there's too much yang energy, I'm afraid that I won't be able to control myself. Even though you were willing to accompany me this far, I don't want to cause you any further trouble.
 Traveler: But we've finally found some traces of an evil spirit.
 Chongyun: If I lose control, I fear that I'll be the one endangering everyone here, not evil spirits. ...We'd better find somewhere to rest.
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2
 
-Branch 1: Sure, just have a rest. I'll continue investigating on my own.
+Chongyun: *sigh* Well, at least we've found some useful clues. We'll need to keep searching further in.
+Chongyun: But to avoid alerting the evil spirit, perhaps I should wait here.
+Traveler: You're not coming?
+Chongyun: When we were collecting clues just now, we were still unsure whether any evil spirit is actually here or not. But now that possibility seems higher, it would be wise to proceed more cautiously.
+Chongyun: Our efforts will be wasted if my yang energy scares the evil spirit away.
+Chongyun: Besides, I trust your capability and experience as an adventurer.
+Chongyun: If you come across a powerful demon, I'll get there as fast as possible.
+Traveler: Just wait for my word.
+Chongyun: Alright, thank you.
+*→ Ending (save point 1903201)*
+
+
+### Choice 2
+
+#### Branch 1: Sure, just have a rest. I'll continue investigating on my own.
+
 Chongyun: Alright. You are an experienced adventurer, after all. I won't be far, so just call for help if you run into any danger.
+*→ Ending (save point 1903101)*
 
+#### Branch 2: Let me help you find a place to rest.
 
-Branch 2: Let me help you find a place to rest.
 Chongyun: Ughhh...
 Traveler: Is there anything I can do to help?
 Chongyun: The feeling... it's becoming more intense...
@@ -206,28 +243,19 @@ Chongyun: You've collected these during your adventures, right? But I'm afraid t
 Chongyun: Perhaps they're fine as typical ingredients, but they won't be potent enough to suppress the abundance of yang energy inside me.
 
 Chongyun: Ugh... sorry to trouble you again...
+*→ Next: Choice 3*
 
-[Player choice]
 
-Branch 1: I'll go get some Cryo Slime Condensate for you.
+### Choice 3
+
+#### Branch 1: I'll go get some Cryo Slime Condensate for you.
+
 Chongyun: Thank you... I'll be resting here.
 Chongyun: ...I should be able to manage for the time being if I... just focus on keeping calm.
+*→ Ending (save point 1903102)*
 
+#### Branch 2: I'll go get some Cryo Whopperflower Nectar for you.
 
-Branch 2: I'll go get some Cryo Whopperflower Nectar for you.
 Chongyun: Thank you... I'll be resting here.
 Chongyun: ...I should be able to manage for the time being if I... just focus on keeping calm.
-
-
-
-
-Branch 2
-Chongyun: *sigh* Well, at least we've found some useful clues. We'll need to keep searching further in.
-Chongyun: But to avoid alerting the evil spirit, perhaps I should wait here.
-Traveler: You're not coming?
-Chongyun: When we were collecting clues just now, we were still unsure whether any evil spirit is actually here or not. But now that possibility seems higher, it would be wise to proceed more cautiously.
-Chongyun: Our efforts will be wasted if my yang energy scares the evil spirit away.
-Chongyun: Besides, I trust your capability and experience as an adventurer.
-Chongyun: If you come across a powerful demon, I'll get there as fast as possible.
-Traveler: Just wait for my word.
-Chongyun: Alright, thank you.
+*→ Ending (save point 1903103)*

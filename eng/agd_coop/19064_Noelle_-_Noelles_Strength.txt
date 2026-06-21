@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Ellin: Hi, Noelle! Are you here for the training too?
+
 Ellin: Hi, Noelle! Are you here for the training too?
 Ellin: Oh? Our Honorary Knight has come too.
 Noelle: Hi, Ellin! I was just asking the Honorary Knight for training advice.
@@ -18,7 +20,10 @@ Noelle: Hmm... Could be a problem... There sure are a lot...
 Traveler: Right? Surely it's too much.
 Noelle: It'll certainly require one heck of a clean-up.
 
+*→ Ending (save point 190640101)*
 ## Conversation 2
+
+### Talk: Noelle: Whew! Finally, clean-up over!
 
 Noelle: Whew! Finally, clean-up over!
 Traveler: Such incredible strength...
@@ -29,9 +34,10 @@ Noelle: Even though I swing my blade with greater force than my opponent, I alwa
 Noelle: No matter how hard I train, I can never pass the selection trials.
 Noelle: Why? I just can't figure it out...
 
-[Player choice]
+### Choice 1
 
-Branch 1: Is it because you lack real-world fighting experience?
+#### Branch 1: Is it because you lack real-world fighting experience?
+
 Noelle: Real-world fighting experience?
 
 Option 1:
@@ -55,9 +61,10 @@ Option 2:
 > Traveler: Slimes are a good starting point.
 
 Noelle: Areas around Mondstadt... Slimes... Leave them to me!
+*→ Ending (save point 190640201)*
 
+#### Branch 2: Because... you still need more strength!
 
-Branch 2: Because... you still need more strength!
 Noelle: More... strength...?
 Noelle: But of course... Compared to the Honorary Knight, who defeated Stormterror, I don't have nearly enough strength...
 Noelle: Please teach me, Honorary Knight! How do you normally train?
@@ -67,3 +74,4 @@ Noelle: Then again... mining builds arm strength... and then there's the hiking 
 Noelle: So this is the Honorary Knight's training method, right? I must try it!
 Traveler: Prepare yourself, mining isn't as easy as you think.
 Noelle: No problem! Leave it to me!
+*→ Ending (save point 190640202)*

@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Bennett: Ah, it's you! Didn't think I'd be running into you here... Hehe, I guess it's my lucky day...
+
 Bennett: Ah, it's you! Didn't think I'd be running into you here... Hehe, I guess it's my lucky day...
 Bennett: How're your adventures going lately? Did you come here to get a new commission from Katheryne, or to get paid?
 Bennett: And where're you going after this? Bet you've got a really exciting adventure lined up, huh?
@@ -110,9 +112,10 @@ Bennett: Eh-hehe... Maybe you don't know. I'm a really unlucky person to have ar
 Bennett: If you brought me along on an adventure, my bad luck would probably just screw everything up!
 Bennett: I don't want to get you into any trouble, so just let me watch from the sidelines... that'd be good enough for me...
 
-[Player choice]
+### Choice 1
 
-Branch 1: We could just do something else instead.
+#### Branch 1: We could just do something else instead.
+
 Bennett: Hmm? Something else?
 Bennett: ...I guess you're right. Even just the chance to talk with you would be great, too. Yeah... let's forget about adventuring for now, hah...
 Bennett: But, uh... what would we do instead?
@@ -135,18 +138,52 @@ Option 3:
 
 > [Missing Dialog 1904101215]
 
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: Sure! Let's go on an adventure!
 
-Branch 1: It won't bother me.
+Bennett: Really? I didn't mishear you, did I?
+Bennett: You mean... go adventure with you, just like we'd do if I was on your adventure team?
+Bennett: Wow! I never thought I'd get an opportunity like this!
+
+Option 1:
+
+> [Missing Dialog 1904101304]
+
+Option 2:
+
+> [Missing Dialog 1904101306]
+
+*→ Next: Choice 6*
+
+
+### Choice 2
+
+#### Branch 1: It won't bother me.
+
 Bennett: That's good, that's good... I was afraid you'd back out.
 [Missing Dialog 1904101217]
-
 Bennett: So, where are we gonna go?
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: I'm looking forward to it.
 
-Branch 1: How about we hang out around town?
+Bennett: Really? Looking forward to hanging out with someone like me...?
+Bennett: Seems like the rumors are all true! You really are a nice person able to bring people together, hehe.
+[Missing Dialog 1904101217]
+*→ End of conversation*
+
+#### Branch 3: As long as you don't cause too much trouble.
+
+Bennett: Oh, I, uh... I'll try, although most of the time it's completely out of my control...
+[Missing Dialog 1904101217]
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: How about we hang out around town?
+
 Bennett: Cool, that would be nice! I was planning to stock up on some adventuring supplies anyway...
 Bennett: Oh! Sorry, I'm back talking about adventuring again. You must think I'm so boring...
 
@@ -158,25 +195,10 @@ Option 2:
 
 > [Missing Dialog 1904101405]
 
+*→ Next: Choice 4*
 
-[Player choice]
+#### Branch 2: How about a walk in the wild?
 
-Branch 1: It's okay, I like adventures too.
-Bennett: Really!? Well, of course you do. You are a famous adventurer, after all.
-Bennett: How about we go to the souvenir store?
-Bennett: "With Wind Comes Glory" is my favorite shop ever. What can I say, Mondstadt's where I grew up.
-Bennett: Let's go!
-
-
-Branch 2: Let's change the topic.
-Bennett: Oh, um... a—alright, haha...
-Bennett: How about we go to the souvenir store?
-Bennett: "With Wind Comes Glory" is my favorite shop ever. What can I say, Mondstadt's where I grew up.
-Bennett: Let's go!
-
-
-
-Branch 2: How about a walk in the wild?
 Bennett: That's a good idea!
 Bennett: For someone like me, I'm actually way more familiar with the wilderness than the city, especially around Mondstadt!
 Bennett: I mean, I'm not on the same level as Fischl, who is also in the Adventurers' Guild. But that's expected, because she works in the Intelligence Department.
@@ -191,53 +213,49 @@ Option 2:
 
 > [Missing Dialog 1904101508]
 
+*→ Next: Choice 5*
 
-[Player choice]
 
-Branch 1: Can't wait!
+### Choice 4
+
+#### Branch 1: It's okay, I like adventures too.
+
+Bennett: Really!? Well, of course you do. You are a famous adventurer, after all.
+Bennett: How about we go to the souvenir store?
+Bennett: "With Wind Comes Glory" is my favorite shop ever. What can I say, Mondstadt's where I grew up.
+Bennett: Let's go!
+*→ Ending (save point 10101)*
+
+#### Branch 2: Let's change the topic.
+
+Bennett: Oh, um... a—alright, haha...
+Bennett: How about we go to the souvenir store?
+Bennett: "With Wind Comes Glory" is my favorite shop ever. What can I say, Mondstadt's where I grew up.
+Bennett: Let's go!
+*→ End of conversation*
+
+
+### Choice 5
+
+#### Branch 1: Can't wait!
+
 Bennett: Awesome! I was worried that it wouldn't be your thing...
 Bennett: Shall we?
+*→ Ending (save point 10102)*
 
+#### Branch 2: I can accompany you for a quick look.
 
-Branch 2: I can accompany you for a quick look.
 Bennett: Uh... okay, I'll try not to let you down, haha...
 Bennett: Shall we?
+*→ End of conversation*
 
 
+### Choice 6
 
+#### Branch 1: Come on, I'm not as great as you make out...
 
-Branch 2: I'm looking forward to it.
-Bennett: Really? Looking forward to hanging out with someone like me...?
-Bennett: Seems like the rumors are all true! You really are a nice person able to bring people together, hehe.
-[Missing Dialog 1904101217]
-
-
-Branch 3: As long as you don't cause too much trouble.
-Bennett: Oh, I, uh... I'll try, although most of the time it's completely out of my control...
-[Missing Dialog 1904101217]
-
-
-
-Branch 2: Sure! Let's go on an adventure!
-Bennett: Really? I didn't mishear you, did I?
-Bennett: You mean... go adventure with you, just like we'd do if I was on your adventure team?
-Bennett: Wow! I never thought I'd get an opportunity like this!
-
-Option 1:
-
-> [Missing Dialog 1904101304]
-
-Option 2:
-
-> [Missing Dialog 1904101306]
-
-
-[Player choice]
-
-Branch 1: Come on, I'm not as great as you make out...
 Bennett: Don't be so modest! I've heard about all the great things you've done, not to mention the high praise you get from the Adventurers' Guild...
 [Missing Dialog 1904101308]
-
 Bennett: ...By the way, since we've got this rare chance to work together, let me share some recent intel with you!
 Bennett: According to my friend Fischl in the Guild, a mysterious and dangerous ruin has recently been discovered...
 Bennett: Based on how the Guild ranks the difficulty of its commissions, it's probably between a Rank B and a Rank A.
@@ -257,10 +275,19 @@ Option 2:
 
 Bennett: Heh... By the way, this ruin might be a dangerous one, but that usually means there'll be some great treasure hidden inside. I can't wait!
 Bennett: Oh, uh... do you usually make some food before you set out on an adventure?
+*→ Next: Choice 7*
 
-[Player choice]
+#### Branch 2: I've always wanted to go adventuring with you, too.
 
-Branch 1: I do.
+Bennett: Aw, shucks... hearing you say that has got me all flustered, hehe... but I'm happy to hear it!
+[Missing Dialog 1904101308]
+*→ End of conversation*
+
+
+### Choice 7
+
+#### Branch 1: I do.
+
 Bennett: Hmm... the cautious choice. No wonder you're so good at this.
 Bennett: Seems I really can learn a few things from you, hehe.
 Bennett: In that case, as per your tradition, let's get cooking!
@@ -280,14 +307,10 @@ Option 2:
 
 Bennett: The ingredients needed for this dish are... Mint, Radish, and Slime Condensate. One of each, please.
 Bennett: You got that, right? I'll wait for you near the pot at Good Hunter. Come find me when you're done collecting!
+*→ Ending (save point 10103)*
 
+#### Branch 2: No, I usually leave straight away.
 
-Branch 2: No, I usually leave straight away.
 Bennett: Oh! I guess you're such a pro that you don't need to worry about that, huh? Awesome...
 Bennett: Then what are we waiting for? Let's go!
-
-
-
-Branch 2: I've always wanted to go adventuring with you, too.
-Bennett: Aw, shucks... hearing you say that has got me all flustered, hehe... but I'm happy to hear it!
-[Missing Dialog 1904101308]
+*→ Ending (save point 10104)*

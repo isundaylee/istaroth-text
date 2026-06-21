@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Chongyun: This is a note that I received from a friend. It has many clues about evil spirits on it.
+
 Chongyun: This is a note that I received from a friend. It has many clues about evil spirits on it.
 Chongyun: If we check the books here at Wanwen Bookhouse according to the respective clues on the note, we'll be able to find the complete details of each clue.
 Chongyun: Since you're here to help, I'll just read the clues to you, and you can help me judge if they're credible or not based on your experience.
@@ -13,27 +15,70 @@ Chongyun: And finally, "Lurking in Liyue Harbor is a massive demon that was tran
 Chongyun: Huh? I've never encountered any such things before.
 Chongyun: Anyway, could you pick the one that seems most plausible and likely to be the work of evil spirits?
 
-[Player choice]
+### Choice 1
 
-Branch 1: "At the foot of Mt. Qingce is a Violetgrass that has turned into a gigantic, man-eating monster."
+#### Branch 1: "At the foot of Mt. Qingce is a Violetgrass that has turned into a gigantic, man-eating monster."
+
 Chongyun: ...This one seems unlikely. If such a thing did exist, there would be many witnesses in Qingce Village, but nobody has yet to see it.
 Chongyun: Hmm, how about these clues?
 Chongyun: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
 Chongyun: Or, "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
 Chongyun: And lastly, "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: "There's a ghostly shadow skulking about Feiyun Slope at night. It's suspected to be a vengeful spirit."
 
-Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+Chongyun: Hmm, this is possible, but it sounds too similar to previous rumors. Many people often pass through Feiyun Slope, so perhaps it's just some sort of misunderstanding.
+Chongyun: Hmm, how about these clues?
+Chongyun: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+Chongyun: Or, "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
+Chongyun: And lastly, "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+*→ Next: Choice 6*
+
+#### Branch 3: "Lurking in Liyue Harbor is a massive demon that was transformed from a popsicle."
+
+Chongyun: Popsicles can't turn into demons! Besides, I always keep a close eye on my stock of popsicles.
+Chongyun: Hmm, how about these clues?
+Chongyun: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+Chongyun: Or, "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
+Chongyun: And lastly, "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+*→ Next: Choice 7*
+
+
+### Choice 2
+
+#### Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+
 Chongyun: This one does seem possible, but it also sounds like a tale from unverifiable sources. Plus, we don't have any means of investigating the deep sea, either.
 Chongyun: Okay, here are a few more clues.
 Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
 Chongyun: Or, "Someone saw an exorcist with blue hair who is actually a transformed demon." Wait, what?
 Chongyun: And finally, "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
 
-Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+Chongyun: Jueyun Karst is the territory of the Adepti. If there were such a thing, the Adepti would certainly take action...
+Chongyun: Okay, here are a few more clues.
+Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+Chongyun: Or, "Someone saw an exorcist with blue hair who is actually a transformed demon." Wait, what?
+Chongyun: And finally, "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+*→ Next: Choice 4*
+
+#### Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+
+Chongyun: Even I can tell that this is talking about Xiangling's little Guoba, not some demon...
+Chongyun: Okay, here are a few more clues.
+Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+Chongyun: Or, "Someone saw an exorcist with blue hair who is actually a transformed demon." Wait, what?
+Chongyun: And finally, "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+*→ Next: Choice 5*
+
+
+### Choice 3
+
+#### Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+
 Chongyun: Oh! That must be the Vigilant Yaksha. Don't worry, he's not an enemy.
 Chongyun: It appears most of these clues are either not reliable or nearly impossible to investigate.
 Chongyun: *sigh* It seems there is little here that we can actually use...
@@ -58,9 +103,10 @@ Chongyun: If we include the Test of Courage rumor from before, there are already
 Chongyun: I've also noticed that the weather in Wuwang Hill has been very abnormal recently. Let's go and have a look. We might just find something useful.
 Traveler: I hope we can find something there.
 Chongyun: Alright, let's head out and see what we can find!
+*→ Ending (save point 1902302)*
 
+#### Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
 
-Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
 Chongyun: Hey! Not funny...
 Chongyun: It appears most of these clues are either not reliable or nearly impossible to investigate.
 Chongyun: *sigh* It seems there is little here that we can actually use...
@@ -85,9 +131,10 @@ Chongyun: If we include the Test of Courage rumor from before, there are already
 Chongyun: I've also noticed that the weather in Wuwang Hill has been very abnormal recently. Let's go and have a look. We might just find something useful.
 Traveler: I hope we can find something there.
 Chongyun: Alright, let's head out and see what we can find!
+*→ End of conversation*
 
+#### Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
 
-Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
 Chongyun: Now that you mention it, I may have heard of this one. I've been trying to track it, but the spirit's so cautious that I don't think we'll ever have a chance of catching it unless it decides to show itself.
 Chongyun: It appears most of these clues are either not reliable or nearly impossible to investigate.
 Chongyun: *sigh* It seems there is little here that we can actually use...
@@ -112,75 +159,71 @@ Chongyun: If we include the Test of Courage rumor from before, there are already
 Chongyun: I've also noticed that the weather in Wuwang Hill has been very abnormal recently. Let's go and have a look. We might just find something useful.
 Traveler: I hope we can find something there.
 Chongyun: Alright, let's head out and see what we can find!
+*→ End of conversation*
 
 
+### Choice 4
 
-Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
-Chongyun: Jueyun Karst is the territory of the Adepti. If there were such a thing, the Adepti would certainly take action...
-Chongyun: Okay, here are a few more clues.
-Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
-Chongyun: Or, "Someone saw an exorcist with blue hair who is actually a transformed demon." Wait, what?
-Chongyun: And finally, "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+#### Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
 
-[Player choice]
+*→ End of conversation*
 
-Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+#### Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
 
-Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
+*→ End of conversation*
 
-Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+#### Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+
+*→ End of conversation*
 
 
-Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
-Chongyun: Even I can tell that this is talking about Xiangling's little Guoba, not some demon...
-Chongyun: Okay, here are a few more clues.
-Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
-Chongyun: Or, "Someone saw an exorcist with blue hair who is actually a transformed demon." Wait, what?
-Chongyun: And finally, "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+### Choice 5
 
-[Player choice]
+#### Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
 
-Branch 1: "A strange man wearing a mask and wielding a pole was once seen in the distance around Guili Plains. There's something eerie about his presence."
+*→ End of conversation*
 
-Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
+#### Branch 2: "I saw an exorcist with blue hair who is actually a transformed demon."
 
-Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+*→ End of conversation*
 
+#### Branch 3: "There is a vigilant demon adept at concealing itself in mist. Recently, people have found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+
+*→ End of conversation*
 
 
-Branch 2: "There's a ghostly shadow skulking about Feiyun Slope at night. It's suspected to be a vengeful spirit."
-Chongyun: Hmm, this is possible, but it sounds too similar to previous rumors. Many people often pass through Feiyun Slope, so perhaps it's just some sort of misunderstanding.
-Chongyun: Hmm, how about these clues?
-Chongyun: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
-Chongyun: Or, "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
-Chongyun: And lastly, "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+### Choice 6
 
-[Player choice]
+#### Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
 
-Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+*→ End of conversation*
 
-Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
+#### Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
 
-Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+*→ End of conversation*
+
+#### Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+
+*→ End of conversation*
 
 
-Branch 3: "Lurking in Liyue Harbor is a massive demon that was transformed from a popsicle."
-Chongyun: Popsicles can't turn into demons! Besides, I always keep a close eye on my stock of popsicles.
-Chongyun: Hmm, how about these clues?
-Chongyun: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
-Chongyun: Or, "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
-Chongyun: And lastly, "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+### Choice 7
 
-[Player choice]
+#### Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
 
-Branch 1: "Deep in the Sea of Clouds, a marauding demon has been raiding commercial fishing boats and building a luxurious palace."
+*→ End of conversation*
 
-Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
+#### Branch 2: "In Jueyun Karst, there's a piece of thousand-year-old amber that has gained consciousness and now roams about causing trouble."
 
-Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+*→ End of conversation*
 
+#### Branch 3: "It's said that people often see a demon who loves eating chilis in Wanmin Restaurant."
+
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Chongyun: This place seems quite... ordinary.
 
 Chongyun: This place seems quite... ordinary.
 Chongyun: So ordinary that I don't even feel that it's worth investigating.
@@ -208,7 +251,10 @@ Option 2:
 
 Chongyun: Since we're already here, let's go check the two locations mentioned in the clue.
 
+*→ Ending (save point 1902303)*
 ## Conversation 3
+
+### Talk: Chongyun: What's this...?
 
 Chongyun: What's this...?
 Chongyun: I know this mist. It was left by some kind of evil spirit.
@@ -251,7 +297,14 @@ Chongyun: It's second nature to me... Exorcism is a solemn and serious matter.
 Chongyun: It's on me if you or anyone else gets hurt due to my negligence.
 Chongyun: There's no time to lose. Let's go.
 
+*→ Ending (save point 1902304)*
 ## Conversation 4
+
+
+*→ Ending (save point 1902305)*
+## Conversation 5
+
+### Talk: Chongyun: These tracks are still fresh. It seems the evil spirit is on the move.
 
 Chongyun: These tracks are still fresh. It seems the evil spirit is on the move.
 Chongyun: The path ends here, as well as the tracks... It'll be difficult to follow it any further.
@@ -303,3 +356,5 @@ Chongyun: Hmm, perhaps there's nothing to worry about after all. Even though I d
 Traveler: I'm not an evil spirit.
 Chongyun: Oh, no — that came out wrong. What I'm trying to say is...
 Chongyun: We shouldn't focus only on the gains and losses of our journey. The things you see and the events you encounter along the way are equally important rewards.
+
+*→ Ending (save point 1902306)*

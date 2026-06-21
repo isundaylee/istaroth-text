@@ -2,9 +2,13 @@
 
 ## Conversation 1
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [1, 1, 0]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [1, 1, 0])
+
 Sayu: I'll show you my favorite skill to practice. Basically, it's an escape technique — I use it to make a quick getaway whenever the shrine maiden's after me.
 Kano Nana: *sigh* Alright, Sayu, just leave the explanation to me. This is a technique to help ninja train their agility.
 Kano Nana: When the unpredictable happens during a mission, ninja must be capable of traversing a variety of terrains.
@@ -19,17 +23,22 @@ Kano Nana: Come now, no stalling. Give the Traveler a proper demonstration.
 Sayu: Alright, alright. Leave it to me.
 Kano Nana: Although Sayu doesn't usually exert her best effort, she does have strong ninja fundamentals.
 Kano Nana: #Do your best. I'll be waiting at the finish, Traveler.
+*→ Ending (save point 1901501)*
 
+#### Branch 2
 
-Branch 2
 Kano Nana: #Do your best. I'll be waiting at the finish, Traveler.
-
+*→ End of conversation*
 
 ## Conversation 2
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_QUEST_FINISH [1901503]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901503])
+
 Sayu: Wow, impressive. You've really got some talent.
 Sayu: If I were to rate your performance, I'd say you're like... a strong, fast mujina.
 Sayu: Anyway, nicely done. I was *yawn* ...rooting for you.
@@ -57,12 +66,19 @@ Kano Nana: Considering that you have yet to grasp the art of ninjutsu, we'll let
 Sayu: Sure thing, just leave it to me. Let my example illuminate your path to ninjutsu.
 Kano Nana: *sigh* There you go again, Sayu. You know, imitating what other people say is a poor habit.
 Sayu: S—Sorry...
+*→ Ending (save point 1901503)*
+
+#### Branch 2
+
+*→ Next: Choice 2*
 
 
-Branch 2
-[Conditional branch]
+### Choice 2
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1901508]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901508])
+
 Sayu: You're still a way off from my personal record, but don't worry, just keep it up.
 Sayu: If I were to rate your performance, I'd say you're like... an average, everyday kitsune.
 Sayu: A kitsune is pretty good, you know...
@@ -90,12 +106,19 @@ Kano Nana: Considering that you have yet to grasp the art of ninjutsu, we'll let
 Sayu: Sure thing, just leave it to me. Let my example illuminate your path to ninjutsu.
 Kano Nana: *sigh* There you go again, Sayu. You know, imitating what other people say is a poor habit.
 Sayu: S—Sorry...
+*→ End of conversation*
+
+#### Branch 2
+
+*→ Next: Choice 3*
 
 
-Branch 2
-[Conditional branch]
+### Choice 3
 
-Branch 1
+*Condition: COOP_COND_QUEST_FINISH [1901509]*
+
+#### Branch 1 (applies if COOP_COND_QUEST_FINISH [1901509])
+
 Sayu: Ouch, that was... a little unfortunate.
 Sayu: If I were to rate your performance, I'd say you're like... a slow, arthritic turtle.
 Sayu: But don't let that bother you, more practice is all you need.
@@ -123,16 +146,23 @@ Kano Nana: Considering that you have yet to grasp the art of ninjutsu, we'll let
 Sayu: Sure thing, just leave it to me. Let my example illuminate your path to ninjutsu.
 Kano Nana: *sigh* There you go again, Sayu. You know, imitating what other people say is a poor habit.
 Sayu: S—Sorry...
+*→ End of conversation*
 
+#### Branch 2
 
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Kano Nana: Here we are. Now, please carefully observe Sayu's skills in combat.
 
 Kano Nana: Here we are. Now, please carefully observe Sayu's skills in combat.
 Sayu: I'll do my best to make my ninjutsu a little easier to understand.
 
+*→ Ending (save point 1901504)*
 ## Conversation 4
+
+### Talk: Sayu: Whew, I'm tired.
 
 Sayu: Whew, I'm tired.
 Sayu: At least I didn't get my outfit dirty... *yawn*
@@ -175,7 +205,10 @@ Kano Nana: Go, have a rest. I shall wait for you here. Remember, no running off.
 Sayu: #Got it. Come with me, Traveler. I'll take you to a nice place to relax a bit.
 Sayu: Whew. Finally, time for a break!
 
+*→ Ending (save point 1901506)*
 ## Conversation 5
+
+### Talk: Sayu: Just as I thought, exactly the same as before...
 
 Sayu: Just as I thought, exactly the same as before...
 Traveler: What is the rope there used for?
@@ -249,3 +282,5 @@ Traveler: Why don't we just relax for now. We're supposed to be taking a break, 
 Sayu: Oh yeah, you're right. Hehe, I was getting a little carried away.
 Sayu: Why don't we go practice a little more ninjutsu after our break is up? Today is one of those rare days when I feel super motivated!
 Sayu: But never mind that for now, we've got lots of fruit to eat. C'mon, take whichever you like, hehe.
+
+*→ Ending (save point 1901507)*

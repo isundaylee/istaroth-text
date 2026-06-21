@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Layla: This seems like the best spot to do this. We'll need to be quiet so we don't disturb anyone.
+
 Layla: This seems like the best spot to do this. We'll need to be quiet so we don't disturb anyone.
 Layla: So here's what will happen during my thesis defense: after I present my thesis, the advisers sitting below will begin to ask questions.
 Layla: Theoretically, I should be able to answer any questions related to my thesis.
@@ -15,16 +17,16 @@ Layla: W—Wait a moment!
 Layla: *deep breaths* Alright, Layla, you got this! You were able to explain everything earlier, so you can do it again...
 Layla: Alright, ask away.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Can you briefly describe the application of the law of triple-orbit shift calculation?
+#### Branch 1: Can you briefly describe the application of the law of triple-orbit shift calculation?
+
 Layla: Sure. The direction of this research is based on the results of previous research. It's about the feasibility of applying my methodologies to the remaining triple-orbit problems.
 Layla: Umm... based on a sample size of 124 cases, we could only achieve approximately 60 percent accuracy. The results were not reliable enough to be implemented as a law.
 Layla: You can see the common traits of the erroneous samples on page three... Ah, excuse me, I mean from the starlogs in the appendix.
 Layla: It's clear that in each of the erroneous samples, one of the stars underwent a significant shift. This means that...
 Layla: We not only need to limit the number of stars, but we may also need to consider the degree of shift when applying triple-orbit shift algorithms...
 Layla: Stars with greater shifts are often key in astrology readings. The next step of the research should be, uh... the next step should be to identify the feasible thresholds of shift for applying our calculations.
-
 Layla: And that's my answer to your question. D—Do you have any other questions?
 Black Screen Text: Despite a few stumbles here and there, Layla successfully manages to answer all the questions.
 Layla: Phew... we're finally done.
@@ -39,7 +41,6 @@ Layla: I can hardly believe it! Th—This is amazing!
 Layla: Oh, I'm sorry... it's just that I'm really excited. This is the first time this has happened, really! I'm so happy.
 Traveler: You worked hard to reach this point. You don't need to rely on others anymore.
 [Missing Dialog 191590514]
-
 Layla: Hehe...
 Layla: I'm not sure how to put this... I'm really happy about everything that's happened, but I'm also feeling a little sad.
 Layla: I still don't know anything about the blessing from the stars. Will it never happen again since I don't need its help anymore?
@@ -51,24 +52,48 @@ Layla: That's basically how I feel about it... Even if I know nothing about the 
 Layla: It's almost like how you helped me — I really cherish and appreciate it. After all, it wouldn't be right to take such "blessings" for granted in our lives.
 Traveler: I'm sure "it" will also be very happy to know you feel this way.
 [Missing Dialog 191590524]
-
 Layla: That's good. I hope it's a little more satisfied with the way I am now, hehe.
+*→ Next: Choice 2*
 
+#### Branch 2: Could you talk about quadruple-orbit shift?
 
-Branch 2: Could you talk about quadruple-orbit shift?
 Layla: Huh? Uh, um...
 Layla: (I doubt they'd ask about something so irrelevant!)
 Layla: The differences are considerable and the astrological effects are entirely different... We need to consider how the effects offset and, um...
 Layla: I'm sorry, I'm not very knowledgeable in that area.
+*→ Next: Choice 3*
 
-[Conditional branch]
+#### Branch 3: Do you know about "The Great Machine"?
 
-Branch 1
+Layla: Huh? No, wh—what is that?
+Layla: (Is this something that I didn't prepare for at all!? You've gotta be joking!)
+Layla: I, um... uhh...
+*→ Next: Choice 4*
+
+
+### Choice 2
+
+*Condition: COOP_COND_CONFIDENCE_COMPARE [1, 0]*
+
+#### Branch 1 (applies if COOP_COND_CONFIDENCE_COMPARE [1, 0])
+
+*→ Ending (save point 191590201)*
+
+#### Branch 2
+
+*→ End of conversation*
+
+
+### Choice 3
+
+*Condition: COOP_COND_CONFIDENCE_COMPARE [1, 4]*
+
+#### Branch 1 (applies if COOP_COND_CONFIDENCE_COMPARE [1, 4])
+
 Layla: Uh, about this question... I, umm...
 Layla: I'm sorry, I'm not feeling very well. Everything is... spinning...
 Traveler: Are you okay!?
 [Missing Dialog 191590604]
-
 Layla: Ugh... Hm?
 Layla: I'm sorry, I haven't been sleeping very well lately. I tend to get dizzy from time to time, but don't worry, I'm fine now.
 Layla: ...
@@ -96,7 +121,6 @@ Traveler: Well, she's finally decided to face the problems with her thesis head-
 Layla: Really? That's great. You're helping with all the things that I used to do for her.
 Layla: Seems like you've given her a boost of confidence with your encouragement.
 Layla: Now, then... I can't really help her prepare for the thesis defense, so I'll be leaving some notes behind instead. You'll have to give them to her later.
-
 Layla: Okay, I should get started on those notes. If there's anything you're curious about, you may go ahead and ask now. I can answer you as I write! I'm used to multi-tasking.
 Layla: Oh, and I have to ask a favor. When you give the notes to her later, please don't tell her about my existence.
 Traveler: Why's that?
@@ -114,10 +138,21 @@ Layla: Hahaha, believe me, even if she were to end up at rock bottom, she'd find
 Layla: That's the kind of person she is.
 Layla: Alright, I've written down all the possible questions that I think the advisers might ask. Next, I'll put together a few words of encouragement for her.
 Layla: I'm not going to sign it, obviously. Oh, and don't forget about our agreement.
+*→ Ending (save point 191600201)*
+
+#### Branch 2
+
+*→ End of conversation*
 
 
+### Choice 4
 
-Branch 3: Do you know about "The Great Machine"?
-Layla: Huh? No, wh—what is that?
-Layla: (Is this something that I didn't prepare for at all!? You've gotta be joking!)
-Layla: I, um... uhh...
+*Condition: COOP_COND_CONFIDENCE_COMPARE [1, 4]*
+
+#### Branch 1 (applies if COOP_COND_CONFIDENCE_COMPARE [1, 4])
+
+*→ End of conversation*
+
+#### Branch 2
+
+*→ End of conversation*

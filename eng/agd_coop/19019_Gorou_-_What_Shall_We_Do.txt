@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Gorou: Phew, I feel more at ease on Watatsumi Island.
+
 Gorou: Phew, I feel more at ease on Watatsumi Island.
 Gorou: I had an idea on the way here.
 Gorou: Many of my army comrades are older than me, and I'm sure that handling this kind of situation must be second nature to them by now. So I thought we could go ask them for advice.
@@ -22,7 +24,10 @@ Shuuhei: Don't mention it. Oh yes, I heard that Miwa from Sangonomiya Shrine is 
 Shuuhei: She's supposed to be good with interpersonal stuff. It can't hurt to get another perspective.
 Gorou: #Makes sense... Alright Traveler, let's see what Miwa has to say.
 
+*→ Ending (save point 1901901)*
 ## Conversation 2
+
+### Talk: Miwa: General Gorou, and the Captain of Swordfish II... What are you doing here?
 
 Miwa: General Gorou, and the Captain of Swordfish II... What are you doing here?
 Gorou: We wanted to ask you about something.
@@ -52,7 +57,10 @@ Gorou: Well, I'm slowly starting to gain confidence!
 Gorou: #Oh Traveler, I've suddenly remembered — Her Excellency updated her General Operational Directives recently.
 Gorou: Who knows, there may be some useful suggestions in there, too. Let's go take a look, just to be thorough.
 
+*→ Ending (save point 1901902)*
 ## Conversation 3
+
+### Talk: Gorou: Let's see...
 
 Gorou: Let's see...
 Gorou: Deployment and mobilization... logistics... conflict resolution... dealing with outlander merchants...
@@ -68,7 +76,10 @@ Gorou: Yae Publishing House... makes sense.
 Gorou: Since she goes there often, perhaps we can find some telling details about her there.
 Gorou: Let's go and investigate.
 
+*→ Ending (save point 1901903)*
 ## Conversation 4
+
+### Talk: Kuroda: Greetings. Here to buy some books? We just got a new batch of light novels in — these ones are all the rage at the moment.
 
 Kuroda: Greetings. Here to buy some books? We just got a new batch of light novels in — these ones are all the rage at the moment.
 Kuroda: I must say that Lady Guuji has a keen eye for a good book. Almost every one she picks is a bestseller...
@@ -100,7 +111,10 @@ Gorou: Thank you for the valuable advice.
 Gorou: Well, one more string to our strategic bow. Although I didn't learn much about my enemy, I've still learned a lot from everyone.
 Gorou: It's time to put these theories to the test. Let's go to Yae Miko's lair... the Grand Narukami Shrine!
 
+*→ Ending (save point 1901904)*
 ## Conversation 5
+
+### Talk: Gorou: So this is the Grand Narukami Shrine... it's the first time I've been to this place.
 
 Gorou: So this is the Grand Narukami Shrine... it's the first time I've been to this place.
 Maki: Hello there. You look like you have something weighing on your mind. Would you like to draw a Fortune Slip?
@@ -109,9 +123,10 @@ Gorou: I've heard that the generals of the past used to employ all sorts of divi
 Gorou: I'm not in the habit of it, but since the opportunity's come up, I'd like to give it a try.
 Gorou: #Traveler, let's draw one together.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Select the rightmost Fortune Slip.
+#### Branch 1: Select the rightmost Fortune Slip.
+
 Gorou: Let's see what we've drawn...
 Gorou: I—It's Great Misfortune...
 Gorou: #Hold me, Traveler, I don't feel so good...
@@ -119,9 +134,10 @@ Traveler: This must be a trap.
 Gorou: A trap?
 Gorou: Are you saying that Yae Miko fears us and tried to sabotage our plans by making sure we drew Great Misfortune?
 Gorou: Grr, who knew she'd stoop so low! Well, I will not be intimidated!
+*→ Ending (save point 1901905)*
 
+#### Branch 2: Select the center-right Fortune Slip.
 
-Branch 2: Select the center-right Fortune Slip.
 Gorou: Let's see what we've drawn...
 Gorou: Oh no, it's Misfortune.
 Gorou: This is a bad sign. The road ahead is going to be a dangerous one.
@@ -136,23 +152,27 @@ Option 2:
 
 Gorou: You're right. When I think about it, I'm a general of Watatsumi Island. I shouldn't let some Narukami Island fortune slip hold me back.
 Gorou: Onward!
+*→ End of conversation*
 
+#### Branch 3: Select the center-left Fortune Slip.
 
-Branch 3: Select the center-left Fortune Slip.
 Gorou: Let's see what we've drawn...
 Gorou: Good Fortune.
 Gorou: Not bad, at least it's something good.
 Gorou: It means that our training must have been effective. Things will go differently this time!
+*→ End of conversation*
 
+#### Branch 4: Select the leftmost Fortune Slip.
 
-Branch 4: Select the leftmost Fortune Slip.
 Gorou: Let's see what we've drawn...
 Gorou: Great Fortune!
 Gorou: Alright, so we have luck on our side.
 Gorou: We can definitely show her who's boss today, let's go!
-
+*→ End of conversation*
 
 ## Conversation 6
+
+### Talk: Gorou: Any second now, we'll be face to face with her...
 
 Gorou: Any second now, we'll be face to face with her...
 
@@ -227,3 +247,5 @@ Gorou: Retreat... Retreat!
 Gorou: #Fighting on is futile, better to conserve resources for the next confrontation... we're out of here, Traveler!
 Gorou: When I get back, I'm going to train harder than I've ever trained before. I won't lose to her again!
 Yae Miko: Bye-bye now. Come again soon.
+
+*→ Ending (save point 1901906)*

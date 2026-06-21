@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Kano Nana: We've arrived. Alright, I will go to the Yashiro Commission now to inquire about Sayu's mission orders. In the meantime, please keep an eye on her.
+
 Kano Nana: We've arrived. Alright, I will go to the Yashiro Commission now to inquire about Sayu's mission orders. In the meantime, please keep an eye on her.
 Kano Nana: Sayu, you can start by warming up. Though you may often be difficult for me, I certainly will not abide any trouble for the Traveler. Understand?
 Sayu: Yes, ma'am.
@@ -35,36 +37,17 @@ Sayu: It happens all the time! Though, I guess it does sound silly when you thin
 Sayu: Ugh, never mind. The longer I talk to you, the more you'll convince me otherwise...
 Sayu: Besides, what's wrong with wanting a little more sleep? *yawn* See... I'm already crazy tired.
 
-[Player choice]
+### Choice 1
 
-Branch 1: Growing taller is what you really care about, isn't it?
+#### Branch 1: Growing taller is what you really care about, isn't it?
+
 Sayu: Exactly. At first, I only wanted to grow as fast as possible. But as I started sleeping more every day, the sleepier I became. The sleepier I became, the more I slept.
 Sayu: Even right now, I'm awake and talking with you, but my brain still feels half asleep... Trust me, work is the last thing on my mind.
 Sayu: Maybe you can help me! Even though I've been getting more sleep recently, I haven't gained any height at all. Any ideas?
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: I can see that you're tired, but it's not good to neglect your work either.
 
-Branch 1: Sleep alone isn't enough to make you grow taller.
-Sayu: Huh? You're saying there's a way to grow taller while I'm awake, too?
-Traveler: Plants grow best when the environmental conditions are right for them to generate energy and get proper nutrition. The same is probably true for people.
-Sayu: Yes... You do have a point. Hmm.
-Traveler: How is your appetite these days?
-Sayu: It's nothing compared to the adults. Just a little food is enough to make me full. I usually prefer eating fruit rather than those big, filling dishes.
-Sayu: But I think I get it now... With more nutrients, people can grow bigger and taller. If anybody can eat a lot, it's the samurai. I should follow their example.
-Traveler: You don't need to grow as big as a samurai though...
-Sayu: Hehe, I guess. Let's head into town and find something to eat.
-Traveler: But Kano Nana hasn't returned yet.
-Sayu: We won't be able to go anywhere once she's around. Now's our only chance!
-
-
-Branch 2: It's not the amount of sleep but the quality of sleep that's keeping you from growing.
-Sayu: Quality sleep is hard to come by, especially with the shrine maiden always after me... Not much I can do about that.
-Sayu: Somehow, she knows all my favorite napping spots. Sometimes I wonder if she knows everything. *sigh* It's tough to throw her off my trail.
-Sayu: Anyway, let's go have a look around. *yawn* Maybe we can find a nice place to curl up for a nap.
-
-
-
-Branch 2: I can see that you're tired, but it's not good to neglect your work either.
 Sayu: Yeah, I suppose I haven't kept up with my duties... I'm sorry, but...
 Sayu: *yawn* I really am getting sleepy...
 Traveler: It seems you aren't taking the matter to heart at all.
@@ -105,3 +88,28 @@ Kano Nana: Rest assured, the related personnel are all aware of the situation an
 Traveler: Good to hear.
 Kano Nana: Well then, let us begin your ninjutsu training.
 Kano Nana: #Please, Traveler, follow us.
+*→ Ending (save point 19010013)*
+
+
+### Choice 2
+
+#### Branch 1: Sleep alone isn't enough to make you grow taller.
+
+Sayu: Huh? You're saying there's a way to grow taller while I'm awake, too?
+Traveler: Plants grow best when the environmental conditions are right for them to generate energy and get proper nutrition. The same is probably true for people.
+Sayu: Yes... You do have a point. Hmm.
+Traveler: How is your appetite these days?
+Sayu: It's nothing compared to the adults. Just a little food is enough to make me full. I usually prefer eating fruit rather than those big, filling dishes.
+Sayu: But I think I get it now... With more nutrients, people can grow bigger and taller. If anybody can eat a lot, it's the samurai. I should follow their example.
+Traveler: You don't need to grow as big as a samurai though...
+Sayu: Hehe, I guess. Let's head into town and find something to eat.
+Traveler: But Kano Nana hasn't returned yet.
+Sayu: We won't be able to go anywhere once she's around. Now's our only chance!
+*→ Ending (save point 19010011)*
+
+#### Branch 2: It's not the amount of sleep but the quality of sleep that's keeping you from growing.
+
+Sayu: Quality sleep is hard to come by, especially with the shrine maiden always after me... Not much I can do about that.
+Sayu: Somehow, she knows all my favorite napping spots. Sometimes I wonder if she knows everything. *sigh* It's tough to throw her off my trail.
+Sayu: Anyway, let's go have a look around. *yawn* Maybe we can find a nice place to curl up for a nap.
+*→ Ending (save point 19010012)*

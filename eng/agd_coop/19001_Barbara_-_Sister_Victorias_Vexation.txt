@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Barbara: Huh, how strange... I can't seem to find any...
+
 Barbara: Huh, how strange... I can't seem to find any...
 Traveler: Barbara, I've finally found you.
 Barbara: O—Oh, it's you! What are you doing here? Is something the matter?
@@ -17,20 +19,24 @@ Traveler: Why would you want to hide?
 Barbara: Because... Well, just because.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Just wait here, we'll go send that person away.
+#### Branch 1: Just wait here, we'll go send that person away.
+
 Barbara: O—Oh, alright... I'll just leave it to you, then.
 Barbara: Please, just... just don't tell them that I'm here, alright?
 [Missing Dialog 0]
+*→ Ending (save point 10201)*
 
+#### Branch 2: Let's go deeper into the forest and wait for them to leave.
 
-Branch 2: Let's go deeper into the forest and wait for them to leave.
 Barbara: Alright then... Let's head this way.
 [Missing Dialog 0]
-
+*→ Ending (save point 10202)*
 
 ## Conversation 2
+
+### Talk: Barbara: Shh... Keep your voice down. We mustn't let that person find us here.
 
 Barbara: Shh... Keep your voice down. We mustn't let that person find us here.
 Barbara: ...This should be a good spot. Let's wait here for a while.
@@ -52,15 +58,17 @@ Traveler: Let's wait for that person to leave and then we can go look for some.
 Barbara: I guess that's all we can do for now. Although, it certainly isn't nice to treat someone that way... But today, I simply wish to keep to myself.
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: It's alright, this is a perfect place for two people to spend some time together.
+#### Branch 1: It's alright, this is a perfect place for two people to spend some time together.
+
 Barbara: Wh— Huh? Wh—What do you mean? Y—You...
 Barbara: I—I'm sorry. I think we should go... Yes, it's time to go!
 [Missing Dialog 0]
+*→ Ending (save point 10301)*
 
+#### Branch 2: So what made you decide to join the Church, Barbara?
 
-Branch 2: So what made you decide to join the Church, Barbara?
 Barbara: Well, my father has always worked at the Church... And the Church has always looked after me.
 Barbara: I guess it was only natural for me to join the Church when I grew up.
 Barbara: And besides, my sister works in the Knights of Favonius...
@@ -85,9 +93,10 @@ Option 2:
 Barbara: Your help would be much appreciated! Let's search the nearby area, I'm sure we'll find some in no time.
 Barbara: Strange... I'm almost certain I've seen lots of *red Wolfhooks* growing here before...
 [Missing Dialog 0]
+*→ End of conversation*
 
+#### Branch 3: Wouldn't your family worry about you picking herbs all alone?
 
-Branch 3: Wouldn't your family worry about you picking herbs all alone?
 Barbara: My family? Well, my father left on an expedition together with Grand Master Varka and has yet to return.
 Barbara: And as for the other person I can call family... Well, she doesn't have much time to look after me.
 Barbara: And besides, I'm more than capable of taking care of myself, so there's no need for me to bother her.
@@ -108,10 +117,13 @@ Barbara: We'd never hear the end of it from Cardinal Calvin if something were to
 Barbara: Huh? What do you two seem so nervous about?
 Barbara: There's nothing wrong with the Holy Lyre der Himmel... is there?
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
 
-Branch 1: (Look at Barbara with an innocent gaze.)
+### Choice 2
+
+#### Branch 1: (Look at Barbara with an innocent gaze.)
+
 Barbara: Well... anyway. At least the Holy Lyre der Himmel is fixed...
 Barbara: Never mind the lyre for now. I think that person should be long gone — and I still need to pick those Wolfhooks.
 Barbara: ...I can't seem to find any of the *red variety* anywhere...
@@ -127,9 +139,10 @@ Option 2:
 Barbara: Your help would be much appreciated! Let's search the nearby area, I'm sure we'll find some in no time.
 Barbara: Strange... I'm almost certain I've seen lots of *red Wolfhooks* growing here before...
 [Missing Dialog 0]
+*→ Ending (save point 10302)*
 
+#### Branch 2: Th—The Holy Lyre? Oh... Um, I wouldn't know...
 
-Branch 2: Th—The Holy Lyre? Oh... Um, I wouldn't know...
 Barbara: Huh? But didn't you return the lyre together with Acting Grand Master Jean and that bard?
 Barbara: And then, that bard used some sort of magic to fix the broken Holy Lyre der Himmel...
 Barbara: Hey! Why do you look so nervous?
@@ -158,10 +171,11 @@ Barbara: Oh, really? Well, your help would be much appreciated! Let's search the
 Barbara: Remember, we're looking for *red Wolfhooks*. Don't get them mixed up.
 Barbara: Strange... I'm almost certain that I've seen lots of those *red Wolfhooks* growing here before...
 [Missing Dialog 0]
-
-
+*→ Ending (save point 10303)*
 
 ## Conversation 3
+
+### Talk: Barbara: Oh! Were you able to find some *red Wolfhook berries*?
 
 Barbara: Oh! Were you able to find some *red Wolfhook berries*?
 Traveler: Yes, here they are!
@@ -170,3 +184,5 @@ Barbara: But it's still strange, I know for sure that I've seen lots of *red Wol
 Barbara: I wonder if someone had already gathered them all...
 Barbara: Well, never mind... Thankfully, the berries you gathered should be just enough. Let's go!
 [Missing Dialog 0]
+
+*→ Ending (save point 10401)*

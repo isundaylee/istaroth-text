@@ -2,18 +2,20 @@
 
 ## Conversation 1
 
+### Talk: Noelle: "A Thesis on Chivalry"... "Favonius Bladework Fundamentals"... *sigh*
+
 Noelle: "A Thesis on Chivalry"... "Favonius Bladework Fundamentals"... *sigh*
 Noelle: So much to learn before the exam, how will I ever get through everything?
 Traveler: What are you doing?
 Noelle: Oh, Honorary Knight! Long time no see! Anything you need me to take care of?
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: Just came here to say hi...
+#### Branch 1: Just came here to say hi...
+
 Noelle: Oh, thank you, that's very nice of you... It has been quite a while since we last met, hasn't it?
 [Missing Dialog 1908101401]
-
 Noelle: I've been busy preparing for my exam. Other than for work and training, I've barely left the library.
 Noelle: The exam is drawing nearer and nearer, but there just seems to be an endless amount of material to review... *sigh*
 Traveler: Surely, the only exam that could make Noelle so nervous is...
@@ -66,10 +68,19 @@ Option 2:
 Noelle: Ohh... Every time I think of the exam, I get so nervous. Only studying or training helps to relieve it a little...
 Noelle: But in the end, I keep finding new ways in which I'm not prepared, and that makes me even more nervous.
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: You don't look so good...
 
-Branch 1: A change of scenery might do you good.
+Noelle: I don't? ...I'm sorry to make you worry on my account...
+[Missing Dialog 1908101401]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: A change of scenery might do you good.
+
 Noelle: You mean, a change of location? Hmm... Yes, staying in the Knights Headquarters and in the library all the time does tend to make me feel as if I always have to be studying...
 Noelle: But where else could I go? The Cat's Tail? Or the Angel's Share?
 Noelle: Or perhaps somewhere away from the city... Starsnatch Cliff, or Windrise?
@@ -81,17 +92,21 @@ Noelle: Hmm... You really think I shouldn't limit myself to Mondstadt?
 Noelle: Maybe you're right. Mondstadt is symbolized by the wind... But my Vision is a Geo one.
 Noelle: Maybe visiting the nation built by the Geo Archon could help me learn something new...
 Noelle: Hmm... very well, then... if it's just a quick visit...
+*→ Ending (save point 1908201)*
 
+#### Branch 2: Don't hide from it. Confront the stress of the exam directly.
 
-Branch 2: Don't hide from it. Confront the stress of the exam directly.
 Noelle: Oh... You mean, studying isn't the only preparation I should be doing?
 Noelle: ...If I don't overcome my fear of the exam, I will just repeat the same mistakes over and over again...
 Noelle: Whenever I encounter something unexpected, I can't think straight... And whenever I start worrying that I might fail again, my mind goes completely blank...
 [Missing Dialog 0]
+*→ Next: Choice 3*
 
-[Player choice]
 
-Branch 1: You could take some more exams to get used to the atmosphere.
+### Choice 3
+
+#### Branch 1: You could take some more exams to get used to the atmosphere.
+
 Noelle: Take some more exams? ...Would that really help me?
 Noelle: It's true that the more I study, the more unprepared I feel. It's inevitable that I'll run into something unexpected...
 Noelle: But if I can simulate the atmosphere of an exam, then I can learn how to cope with it.
@@ -108,9 +123,10 @@ Option 2:
 > Noelle: The Adventurers' Guild? You can get stronger just by... passing their exam? ...Ohh, that sounds a little difficult to believe...
 
 Noelle: ...Well, since it's recommended by the Honorary Knight, then... I have to give it a try.
+*→ Ending (save point 1908501)*
 
+#### Branch 2: You could try to imagine yourself passing the exam.
 
-Branch 2: You could try to imagine yourself passing the exam.
 Noelle: Imagine myself passing the exam...? Hmm...
 Traveler: If you passed the selection exam, what kind of knight would you want to become?
 Noelle: What... kind of knight? I—I always thought that just qualifying to be a knight was challenging enough to begin with...
@@ -134,10 +150,4 @@ Noelle: Hmm... I still have some of the materials we used when she taught me. Th
 Noelle: Making the stuffing requires Pyro Slime Condensate, and the red dye used to grab the enemies' attention can be made from crushed Valberries.
 Noelle: It's just that dried Valberries are not very suitable for making dye. I'll need to get some fresh ones from the Stormbearer Mountains.
 Noelle: So... Let's start by going to the Stormbearer Mountains.
-
-
-
-
-Branch 2: You don't look so good...
-Noelle: I don't? ...I'm sorry to make you worry on my account...
-[Missing Dialog 1908101401]
+*→ Ending (save point 1909001)*

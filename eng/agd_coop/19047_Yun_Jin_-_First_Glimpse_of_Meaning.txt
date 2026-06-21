@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Yun Jin: Good. You're right on time.
+
 Yun Jin: Good. You're right on time.
 Yun Jin: Punctuality is an essential quality if you want to make it big in the acting world.
 Yun Jin: Without it, you won't be able to keep on top of all the work you need to do each day.
@@ -9,12 +11,12 @@ Traveler: So where should we start?
 Yun Jin: Well... first, I'd like you to answer me one question.
 Yun Jin: *How many pigeons* flew from the bridge when you were passing through?
 
-[Player choice]
+### Choice 1
 
-Branch 1: Six.
+#### Branch 1: Six.
+
 Yun Jin: Close. It was seven.
 [Missing Dialog 190470116]
-
 Yun Jin: Anyway. The point of this question was to test your powers of observation.
 Yun Jin: Eyes are the medium for the transfer of emotion. You must train your eyes to be bright, active, and strong.
 Yun Jin: Watching the birds fly off, hover around, and come into land will not only exercise your eyesight but also cultivate attentiveness.
@@ -109,23 +111,29 @@ Option 2:
 > Traveler: (It's not too far from Liyue Harbor...)
 
 Yun Jin: If you've got no objections, then let's head off.
+*→ Ending (save point 1904701)*
 
+#### Branch 2: Seven.
 
-Branch 2: Seven.
 Yun Jin: Huh? Yes, that's right... I'm amazed. Are you this good at everything...
 [Missing Dialog 190470116]
+*→ End of conversation*
 
+#### Branch 3: Eight.
 
-Branch 3: Eight.
+*→ End of conversation*
 
-Branch 4: I didn't notice any pigeons...
+#### Branch 4: I didn't notice any pigeons... (only shown if COOP_COND_QUEST_FINISH [1904714])
+
 Yun Jin: Oh... Perhaps someone scared them off before you arrived?
 Traveler: I... have no idea...
 Yun Jin: Hmm... Alright, never mind. We'll come back to that another time.
 [Missing Dialog 190470116]
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Yun Jin: The battle you fought on the Jade Chamber was a very strange set of circumstances, even for someone like you. It's quite normal that you can't get into character just like that.
 
 Yun Jin: The battle you fought on the Jade Chamber was a very strange set of circumstances, even for someone like you. It's quite normal that you can't get into character just like that.
 Yun Jin: I know it's hard to recreate every facet of the experience in your mind.
@@ -140,7 +148,10 @@ Yun Jin: Action scenes work the same way. Perhaps the experience of facing an an
 Yun Jin: But if you're replaying the kind of actions you perform every day, you just need to let go and your subconscious will guide you through.
 Yun Jin: Come, show me how you normally fight — you can start with *monsters* nearby.
 
+*→ Ending (save point 1904702)*
 ## Conversation 3
+
+### Talk: Yun Jin: Oh, that was wonderful! Such deft and fluid movements...
 
 Yun Jin: Oh, that was wonderful! Such deft and fluid movements...
 Yun Jin: Just like a real adventurer!
@@ -151,7 +162,10 @@ Yun Jin: #Come, Traveler. Let us reenact the battle on the Jade Chamber.
 Yun Jin: It's okay if you can't recall the events clearly. You can just replace them with the movements you are most familiar with...
 Yun Jin: #And... attack, Traveler! "The three adepti are manning the Guizhong Ballistas. Do not let the Fatui disturb their work!"
 
+*→ Ending (save point 1904703)*
 ## Conversation 4
+
+### Talk: Yun Jin: Hmm...
 
 Yun Jin: Hmm...
 Traveler: H-how did it go?
@@ -179,7 +193,10 @@ Yun Jin: ...Yes, I think that sums it up.
 Yun Jin: There's an open area *to the north*. I'll set up a stage for you.
 Yun Jin: When you've finished rehearsing everything in your mind, come and find me.
 
+*→ Ending (save point 1904704)*
 ## Conversation 5
+
+### Talk: Yun Jin: Well? Have you finished rehearsing?
 
 Yun Jin: Well? Have you finished rehearsing?
 
@@ -196,7 +213,10 @@ Yun Jin: No need to rush. Take your time.
 
 Yun Jin: I shall guide you with my voice...
 
+*→ Ending (save point 1904705)*
 ## Conversation 6
+
+### Talk: Yun Jin: Now that was a little better! You managed to bring out more of that "fearless hero" quality that time.
 
 Yun Jin: Now that was a little better! You managed to bring out more of that "fearless hero" quality that time.
 Yun Jin: Hmm-hmm. My hard work coaching you has finally paid off.
@@ -286,3 +306,5 @@ Yun Jin: Then again, I suppose I will have to give you a lot of instruction alon
 Yun Jin: And if I won't let you call me master, teacher, or coach, I've got to think of something you can call me...
 Yun Jin: Ah! I've got it. You can call me...
 Yun Jin: "Mentor." What do you think?
+
+*→ Ending (save point 1904706)*

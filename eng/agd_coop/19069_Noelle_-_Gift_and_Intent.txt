@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Marjorie: Welcome to With Wind Comes Glory! Well, if it isn't Noelle and the Honorary Knight!
+
 Marjorie: Welcome to With Wind Comes Glory! Well, if it isn't Noelle and the Honorary Knight!
 Marjorie: And what wind brought the two of you together? I barely ever see Noelle in someone else's company.
 Traveler: Barely ever?
@@ -46,24 +48,28 @@ Marjorie: The Frostening Bottle is very useful to keep alcohol cold and fresh fo
 Marjorie: As for the Squirrel Wood Carving... Well, it's a nice ornament, and it would look great at Quinn's stall.
 Marjorie: So, bottle or ornament... which will it be?
 
-[Player choice]
+### Choice 1
 
-Branch 1: The Frostening Bottle...
+#### Branch 1: The Frostening Bottle...
+
 Noelle: A Frostening Bottle... a fitting gift for one of the Four Drunkards.
 Noelle: (They remembered what I said... Aww...)
 [Missing Dialog 1906901203]
 
 Marjorie: So, Frostening Bottle it is? Alrighty, let me wrap it up for you.
+*→ Ending (save point 190690101)*
 
+#### Branch 2: The Squirrel Wood Carving...
 
-Branch 2: The Squirrel Wood Carving...
 Noelle: Hmm... I'm a little worried that Quinn might just throw a wood carving in a drawer and forget about it...
 Noelle: To be on the safe side, how about we give him the Frostening Bottle?
 Noelle: As one of the Four Drunkards, he's sure to love it!
 Marjorie: So, Frostening Bottle it is? Alrighty, let me wrap it up for you.
-
+*→ End of conversation*
 
 ## Conversation 2
+
+### Talk: Beatrice: Hmm? Give the Frostening Bottle to Quinn?
 
 Beatrice: Hmm? Give the Frostening Bottle to Quinn?
 Beatrice: It does look like something that he'd be interested in.
@@ -82,7 +88,10 @@ Beatrice: Noelle... could you help me...?
 Beatrice: *sigh* A date should be properly planned, so I'll wait. No need to rush!
 Noelle: Just... leave it to me.
 
+*→ Ending (save point 190690201)*
 ## Conversation 3
+
+### Talk: Beatrice: Oh, you guys are back. What romantic locations did you find?
 
 Beatrice: Oh, you guys are back. What romantic locations did you find?
 
@@ -134,7 +143,10 @@ Noelle: Huh? You want to go to Windrise?
 Traveler: Think of it as our last break of the day.
 Noelle: O—Okay! Follow me!
 
+*→ Ending (save point 190690301)*
 ## Conversation 4
+
+### Talk: Noelle: *sigh* The air here really refreshes you in an instant.
 
 Noelle: *sigh* The air here really refreshes you in an instant.
 Noelle: Forget about training and work, just breathe and feel the wind... Nothing else...
@@ -178,3 +190,5 @@ Noelle: Oh... I'll need to go back to the library and find out...
 Noelle: Still, whatever a rose means...
 Noelle: I hope that this one can stay by your side in all your future adventures!
 Noelle: Before I'm able to fight alongside you, Honorary Knight...
+
+*→ Ending (save point 190690401)*

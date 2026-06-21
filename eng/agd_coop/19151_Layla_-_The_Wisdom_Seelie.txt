@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Layla: Excuse me, have you ever heard of the Wisdom Seelie?
+
 Layla: Excuse me, have you ever heard of the Wisdom Seelie?
 Rabah: Heh, you've come to the right person.
 Rabah: I came across this legend not too long ago myself. After hearing about it, I decided to test it out and asked it a question about the brightness of the stars.
@@ -18,7 +20,10 @@ Rabah: However, if the stamp never appears, then that means the Seelie doesn't w
 Layla: I see. Thank you so much.
 Layla: I'm gonna go write down my question. Hopefully the Seelie replies...
 
+*→ Ending (save point 191510101)*
 ## Conversation 2
+
+### Talk: Black Screen Text: Layla places her letter in the designated book.
 
 Black Screen Text: Layla places her letter in the designated book.
 Layla: Whew, finally... I wrote out my question and put it in the book.
@@ -41,6 +46,7 @@ Option 2:
 > Traveler: Your eyes are sparkling.
 
 [Missing Dialog 191510214]
+### Talk: Layla: This is wonderful. My troubles are at an end! I can't even begin to express how grateful I am.
 
 Layla: This is wonderful. My troubles are at an end! I can't even begin to express how grateful I am.
 Layla: Let's take a look at what it wrote...
@@ -52,13 +58,15 @@ Layla: "Follow the hints I've left, and you will find the answer to your questio
 Layla: "Consider the effort you put into thinking and searching as your payment for my knowledge."
 Layla: What the...
 [Missing Dialog 191510223]
+### Talk: Layla: It's absolutely right about everything... I'm starting to feel guilty now, I can't deny any of it.
 
 Layla: It's absolutely right about everything... I'm starting to feel guilty now, I can't deny any of it.
 Layla: But I'm running out of time... Oh, what should I do...?
 
-[Player choice]
+### Choice 1
 
-Branch 1: I'll search for the answer with you.
+#### Branch 1: I'll search for the answer with you.
+
 Layla: Huh? Uh...
 Layla: I could tell you're a very kind person, but I never expected that you'd go this far to help me...
 Layla: I'll definitely think of a way to make it up to you once I take care of my thesis.
@@ -97,9 +105,10 @@ Layla: Anyway, let's go take a look!
 Traveler: "Wisdom" is probably referring to the Akademiya?
 
 Traveler: And that's the "fear"?
+*→ Ending (save point 191510301)*
 
+#### Branch 2: It might be messing with you.
 
-Branch 2: It might be messing with you.
 Layla: Hmm, good point. Why else would it use such a roundabout way to tell me its answer?
 Layla: Supposedly, everyone who's been pranked by the Seelie had angered it in some way...
 Layla: That means the Seelie is someone who's very strict and serious about knowledge... but who knows if it's really a Seelie or some person.
@@ -152,3 +161,4 @@ Layla: Let's go and make an inquiry. We can also ask around the House of Daena a
 
 Traveler: Can't disagree with that logic.
 Layla: Let's go and make an inquiry. We can also ask around the House of Daena and see if anyone else knows something about the Wisdom Seelie.
+*→ Ending (save point 191510302)*

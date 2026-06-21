@@ -2,6 +2,8 @@
 
 ## Conversation 1
 
+### Talk: Connor: Oh, you're here. Look, I've already prepared all the tools we need.
+
 Connor: Oh, you're here. Look, I've already prepared all the tools we need.
 Connor: Sure, they're a little... basic, but they should do just fine. I've also prepared a top-shelf bottle of Dandelion Wine to use as a drink base.
 Connor: Oh, I've also heard that you don't like to see people drink too much, am I right?
@@ -74,62 +76,73 @@ Elzer: #Is {F#she}{M#he} a bartender as well? Ooh, aren't we lucky! We're in for
 Elzer: Please, this way. All the materials and tools are already prepared, you may start when you're ready.
 [Missing Dialog 0]
 
+*→ Ending (save point 70101)*
 ## Conversation 2
+
+### Talk: Make Cocktail: (First, Connor soaked the Lizard Tail in the distilled alcohol, then he added the distilled alcohol into the Dandelion Wine. How do we mess this step up?)
 
 Make Cocktail: (First, Connor soaked the Lizard Tail in the distilled alcohol, then he added the distilled alcohol into the Dandelion Wine. How do we mess this step up?)
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: (Put the whole Lizard Tail directly into the Dandelion Wine.)
+#### Branch 1: (Put the whole Lizard Tail directly into the Dandelion Wine.)
+
 Connor: Huh, they added the whole Lizard Tail without distilling it... Is this some kind of new mixing technique?
 Diona: Yes, nicely done, hehe. Just make everything a total mess.
 [Missing Dialog 0]
-
 Make Cocktail: (Next, Connor added a very small portion of Slime Condensate into his drink. How do we mess this up?)
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: (Soak the Lizard Tail in the distilled alcohol, then add the distilled alcohol into the Dandelion Wine.)
 
-Branch 1: (Add all of the Slime Condensate into the drink.)
+Diona: Wha—!? I thought we agreed that we'd mess everything up. You're just repeating exactly what he did.
+Diona: Here, let's just dump the Lizard Tail right into the drink, no need for any processing.
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: (Add all of the Slime Condensate into the drink.)
+
 Diona: That's it, that's it! Ooooh, this will definitely be the worst drink ever.
 Elzer: You put all of it in?! Wh—What kind of a drink is this?
 [Missing Dialog 0]
-
 Make Cocktail: (Finally, Connor didn't seem to add any of the Butterfly Dust and Fish Scales. How do we mess this up?)
 [Missing Dialog 0]
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: (Add just a small bit of Slime Condensate into the drink.)
 
-Branch 1: (Add all the Butterfly Dust and Fish Scales to the drink.)
+Diona: Didn't you hear what I said? You have to mess up every single step.
+Diona: Just add all of it, quickly! We don't want any leftovers!
+[Missing Dialog 0]
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: (Add all the Butterfly Dust and Fish Scales to the drink.)
+
 Diona: That's right, add all of it. This drink is just about ready!
 Connor: Alright Elzer, could you please do the honors for this one as well?
 Elzer: Ahem... Uh, on second thought Connor, I think you should taste this... unique drink.
 Elzer: Who knows, maybe you'll find some more inspiration for your mixing.
 [Missing Dialog 0]
+*→ Ending (save point 70201)*
 
+#### Branch 2: (Don't add the Butterfly Dust and Fish Scales to the drink.)
 
-Branch 2: (Don't add the Butterfly Dust and Fish Scales to the drink.)
 Diona: Wait, didn't I tell you!? You must mess up every step.
 Diona: Quickly, just add everything! Yes, that should do it!
 [Missing Dialog 0]
-
-
-
-Branch 2: (Add just a small bit of Slime Condensate into the drink.)
-Diona: Didn't you hear what I said? You have to mess up every single step.
-Diona: Just add all of it, quickly! We don't want any leftovers!
-[Missing Dialog 0]
-
-
-
-Branch 2: (Soak the Lizard Tail in the distilled alcohol, then add the distilled alcohol into the Dandelion Wine.)
-Diona: Wha—!? I thought we agreed that we'd mess everything up. You're just repeating exactly what he did.
-Diona: Here, let's just dump the Lizard Tail right into the drink, no need for any processing.
-[Missing Dialog 0]
-
+*→ End of conversation*
 
 ## Conversation 3
+
+### Talk: Make Cocktail (Observe Cup): (The thick Slime Condensate has combined with the alcohol, while the Lizard Tail has expanded and is now floating at the top of the drink. The Butterfly Dust is scattered all over the place, and some Fish Scales have sunk to the bottom of the glass.)
 
 Make Cocktail (Observe Cup): (The thick Slime Condensate has combined with the alcohol, while the Lizard Tail has expanded and is now floating at the top of the drink. The Butterfly Dust is scattered all over the place, and some Fish Scales have sunk to the bottom of the glass.)
 Connor: I'm sorry, but this drink is way too, uh... creative for me. I'm afraid I couldn't stomach it.
@@ -160,55 +173,76 @@ Diona: Please, use this drink as your base and try making your drink again.
 Diona: Whatever you do, just make it disgusting!
 [Missing Dialog 0]
 
+*→ Ending (save point 70301)*
 ## Conversation 4
+
+### Talk: Make Cocktail: (The goal this time is simply to make a terrible drink. According to Diona's method, the first step should be to put the entire Lizard Tail into the drink...)
 
 Make Cocktail: (The goal this time is simply to make a terrible drink. According to Diona's method, the first step should be to put the entire Lizard Tail into the drink...)
 [Missing Dialog 0]
 
-[Player choice]
+### Choice 1
 
-Branch 1: (Cut the Lizard Tail into slices then put them into the drink.)
+#### Branch 1: (Cut the Lizard Tail into slices then put them into the drink.)
+
 Make Cocktail: (Next step, add a large amount of Slime Condensate, stir, and let settle...)
 [Missing Dialog 0]
+*→ Next: Choice 2*
 
-[Player choice]
+#### Branch 2: (Put the entire Lizard Tail into the drink.)
 
-Branch 1: (Add large amounts of Slime Condensate, stir, and let settle...)
+*→ End of conversation*
+
+
+### Choice 2
+
+#### Branch 1: (Add large amounts of Slime Condensate, stir, and let settle...)
+
 Make Cocktail: (Then, she sprinkled some Butterfly Dust on top...)
 [Missing Dialog 0]
+*→ Next: Choice 3*
 
-[Player choice]
+#### Branch 2: (Add a small amount of Slime Condensate, let settle, then stir...)
 
-Branch 1: (Sprinkle a pinch of Butterfly Dust.)
+*→ End of conversation*
+
+
+### Choice 3
+
+#### Branch 1: (Sprinkle a pinch of Butterfly Dust.)
+
 Make Cocktail: (Last step, add Fish Scales along with the mucus from the jar into the drink...)
 [Missing Dialog 0]
+*→ Next: Choice 4*
 
-[Player choice]
+#### Branch 2: (Pour a heap of Butterfly Dust.)
 
-Branch 1: (Add Fish Scales and mucus into the drink.)
+*→ End of conversation*
+
+
+### Choice 4
+
+#### Branch 1: (Add Fish Scales and mucus into the drink.)
+
 Make Cocktail (Observe Cup): (This should do it, let's show it to Diona... )
 [Missing Dialog 0]
+*→ Ending (save point 70401)*
 
+#### Branch 2: (Crush the Fish Scales first, and then add it with the mucus into the drink.)
 
-Branch 2: (Crush the Fish Scales first, and then add it with the mucus into the drink.)
-
-
-Branch 2: (Pour a heap of Butterfly Dust.)
-
-
-Branch 2: (Add a small amount of Slime Condensate, let settle, then stir...)
-
-
-Branch 2: (Put the entire Lizard Tail into the drink.)
+*→ End of conversation*
 
 ## Conversation 5
 
-[Conditional branch]
 
-Branch 1
+### Choice 1
+
+*Condition: COOP_COND_TEMP_VALUE_COMPARE [4, 3, 4]*
+
+#### Branch 1 (applies if COOP_COND_TEMP_VALUE_COMPARE [4, 3, 4])
+
 Diona: Yuck! Wh—What is this smell!? The pungent fish smell, sticky Slime Condensate, and spongy Lizard Tail... ew, not to mention the Butterfly Dust everywhere, blergh...
 [Missing Dialog 0]
-
 Diona: Alright, let's show this to Elzer and Connor!
 Elzer: Ooh, is this another one of Diona's new drinks?
 Elzer: AHH! Wh—What is this!? Even if you purposely tried to botch it, it'd still be hard to make something as hideous as this!
@@ -260,9 +294,11 @@ Connor: What is this delightful smell? It's like a whole new sensation for me!
 Elzer: What is this unique coloring? Hoho... it's another perfect drink!
 Diona: Grrr... Stop joking around, you two old drunks!
 [Missing Dialog 0]
+*→ Ending (save point 105)*
 
+#### Branch 2
 
-Branch 2
 Diona: Yuck! Wh—What is this smell!? The pungent fish smell, sticky Slime Condensate, and spongy Lizard Tail... ew, not to mention the Butterfly Dust everywhere, blergh...
 Diona: Though you didn't really follow the process we discussed, it seems that you've actually got quite a knack for this.
 [Missing Dialog 0]
+*→ End of conversation*
