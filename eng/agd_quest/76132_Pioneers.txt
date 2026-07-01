@@ -1,0 +1,494 @@
+(Quest is part of chapter: Moon Gazing: Act I Pioneers)
+
+# Pioneers
+
+You catch sight of Columbina in the distance on a deserted island on the east side of Piramida. Worried that your friend has encountered trouble, you chase after her, and in so doing, embark on an adventure into the unknown...
+
+
+## Talk 5
+
+(Say hello to Columbina)
+
+Paimon: We've never been here before. Where is this, exactly?
+Paimon: Huh? Look! That person over there...
+Traveler: Columbina?
+Paimon: Why's she here? Paimon thought she'd be at Silvermoon Hall...
+Paimon: Heh, funny how life works sometimes. Let's go over and say hi!
+
+## Objective 6
+
+(Follow Columbina)
+
+
+## Talk 7
+
+(Follow Columbina)
+
+Paimon: Hey! Columbina! Where are you going!?
+Paimon: Agh, she's gone too far out. She can't hear us.
+Paimon: But what's she doing here? Does she have something to do?
+Traveler: Let's follow her and take a look.
+Paimon: Yeah. Paimon doesn't think she'll run into any trouble, but better safe than sorry.
+Paimon: Let's go!
+
+## Objective 8
+
+(Follow Columbina)
+
+
+## Objective 10
+
+(Look for traces of Columbina)
+
+
+## Objective 11
+
+(Pass through the entrance)
+
+
+## Objective 12
+
+(Explore the underground ruins)
+
+
+## Talk 13
+
+(Explore the underground ruins)
+
+Paimon: This place looks like some sort of ruins...
+Paimon: Huh. What are those rings? Looks like they've fallen onto the ground or something.
+Traveler: Some kinda device, I'd say.
+Paimon: Is that so? In that case, could this glowing sign next to it... be a manual, maybe?
+Paimon: Let Paimon see...
+Celestial Orbit (Ruins Guidepost): Alert! Alert!
+Paimon: Oh, darn it! Paimon triggered some kinda intruder alarm!
+Celestial Orbit (Ruins Guidepost): Alert! Alert!
+Celestial Orbit (Ruins Guidepost): Power transmission has ceased. Please head to the *generator room* to activate backup power!
+Paimon: Oh, so it's just out of power! Gah, Paimon almost jumped outta her skin!
+Traveler: Reminds me of you when you're hungry, you know?
+Paimon: What? C—C'mon, Paimon's way classier than that!
+Traveler: Let's go check this generator room out first.
+Paimon: You mean...
+Paimon: Ohh, right! If Columbina came here to do something, she'd totally need to turn on the power first.
+Traveler: Right, and we might find her there.
+Paimon: Haha, genius!
+Paimon: Alrighty then! Let's go!
+
+## Talk 14
+
+(Head to the generator room)
+
+Paimon: Huh. This thing... doesn't really look very mechanical, but given where we found it, it must be the key to getting the power on somehow.
+Paimon: But Paimon doesn't see how that's supposed to work...
+Traveler: It doesn't look like the power's been turned on yet.
+Paimon: Yeah, and that's super weird. Do you think Columbina's already been here? Maybe she discovered that the power wouldn't start, and went to look for a solution elsewhere?
+Paimon: Hmm. Y'know what? Let's give this thing a try anyway. Maybe we can find out what's going on...
+
+## Objective 15
+
+(Find a way to activate the energy mechanisms)
+
+
+## Talk 16
+
+(Find a way to activate the energy mechanisms)
+
+Paimon: Huh? Why isn't anything happening?
+
+Option 1:
+
+> Traveler: It won't start.
+
+Option 2:
+
+> Traveler: There's no response.
+
+Paimon: Paimon guessed as much... There's gotta be something else to this. Columbina must have run into this problem and then gone to look somewhere else... Huh!?
+Paimon: C—Columbina!? Thank goodness, we finally found you!
+Paimon: Hehe... Surprised to see us? We were worried you might be in trouble, so we followed you here.
+Traveler: Do you need help, Columbina?
+Columbina: ?
+Paimon: Huh?
+Columbina: ?
+Paimon: Erm...
+Columbina: ?
+Paimon: ...What's wrong? Are you trying to use telepathy, like Nicole? Just so you know, we aren't hearing anything!
+Traveler: Are you alright?
+Columbina: ...
+Paimon: Okay, now you're starting to worry Paimon...
+Paimon: Is someone threatening you!? If that's the case, just blink...
+Columbina: ...
+Paimon: Huh? What did you do?
+Paimon: Do you want us to activate this?
+Paimon: Paimon's not sure what's going on, but it looks like Columbina wants us to activate this device. We should give it another try!
+
+## Objective 17
+
+(Find a way to activate the energy mechanisms)
+
+
+## Talk 18
+
+(Talk to Columbina)
+
+Paimon: Awesome! The energy channels are clear! How did you do that, Columbina?
+Columbina: ...
+Paimon: Wait! Where are you going?
+Columbina: ...
+Paimon: We'd better catch up with her.
+
+## Talk 19
+
+(Return to the hall)
+
+Celestial Orbit: Calculating celestial orbits. Please select the Trilune coordinates you wish to view.
+Paimon: Trilune coordinates!?
+Paimon: Wait, so this device is used to work out where the moons are?
+Celestial Orbit: Calculating celestial orbits. Please select the Trilune coordinates you wish to view.
+
+Option 1:
+
+> Traveler: "Eternal Moon"
+> Celestial Orbit: Connection lost... Failed to locate target...
+
+Option 2:
+
+> Traveler: "Frost Moon"
+> Celestial Orbit: Connecting... Target located.
+> Celestial Orbit: #<size=40>*{REGEX#UNICODE[E000]} {REGEX#UNICODE[E002]} {REGEX#UNICODE[E001]}*</size>
+
+Option 3:
+
+> Traveler: "Iridescent Moon"
+> Celestial Orbit: Connection lost... Failed to locate target...
+
+Paimon: Whoa, it actually found the Frost Moon... But why would they need those coordinates anyways?
+Celestial Orbit: Frost Moon coordinates located. Base engineering blueprints and Main Control Hall route map have been transmitted.
+Paimon: Ooh! These look like schematics! Whatever these are showing, it looks super awesome!
+Celestial Orbit: Do you wish to obtain the route map?
+Traveler: (Obtain route map)
+Celestial Orbit: Please proceed to the Main Control Hall for moon landing preparations.
+Paimon: M—Moon landing preparations!?
+Paimon: Columbina... is this place used for getting to the moon!?
+Traveler: (But Columbina has taken me to the Frost Moon before... Why would she need this device?)
+Traveler: (And the power she just gave me is completely new. I've never seen her use it before...)
+Columbina: ...
+Paimon: Oh! The door opened! This leads to the Main Control Hall, right? Columbina, is that where you want us to go?
+Columbina: ...
+Traveler: Columbina, can you hold out your hand?
+Columbina: ?
+Traveler: Place it in mine, just like we do in Silvermoon Hall.
+Columbina: ...
+Paimon: What's all this about?
+Columbina: !
+Paimon: Waaah! What's going on? Columbina turned into a black kuuhenki!
+Traveler: That's not Columbina!
+Paimon: What!? An impostor!?
+Traveler: Let's go after her!
+
+## Objective 20
+
+(Follow the black kuuhenki)
+
+
+## Objective 21
+
+(Follow the black kuuhenki)
+
+
+## Objective 22
+
+(Follow the black kuuhenki)
+
+
+## Objective 23
+
+(Follow the black kuuhenki)
+
+
+## Talk 24
+
+(Enter the main control hall to search for the black kuuhenki)
+
+Paimon: According to the route map, this should be the Main Control Hall, right?
+Paimon: Hey! You! The one pretending to be Columbina! Come out right now!
+Celestial Orbit (Main Control Terminal): Alert! Intruder detected in Main Control Hall. Activating defense measures.
+Paimon: Wah! Sorry! Wrong address, we were looking for someone else!
+
+## Objective 25
+
+(Defeat the guards)
+
+
+## Talk 26
+
+(Check the Celestial Orbit)
+
+Paimon: Phew... It was no problem for you in the end! That should take care of things, right?
+Celestial Orbit (Main Control Terminal): Alert! Main Control Hall Defender Core destruction confirmed. Initiating self-destruct mode.
+Celestial Orbit (Main Control Terminal): All personnel, please evacuate immediately. Initiating countdown...
+Paimon: Seriously!? This base has gone crazy! It's trying to take us down with it... What should we do?
+Paimon: What if some really important intel gets destroyed!?
+Celestial Orbit (Main Control Terminal): Please verify orbital coordinates.
+Paimon: Huh? What orbital coordinates? Whoa! Our mystery kuuhenki's back!
+Mysterious Kuuhenki: !
+Paimon: What are you doing? Will giving it the coordinates stop the base from self-destructing!?
+Mysterious Kuuhenki: !!!
+Paimon: What are the coordinates? Don't panic, don't panic, let Paimon think!
+Celestial Orbit (Main Control Terminal): Please verify orbital coordinates.
+Paimon: Paimon remembers now... There were three symbols! The *simplest-looking* one was first!
+
+Option 1:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+
+Option 2:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E000]}*</size>
+
+Option 3:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E002]}*</size>
+
+Paimon: The second symbol had a *super complicated* shape!
+
+Option 1:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+
+Option 2:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E000]}*</size>
+
+Option 3:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E002]}*</size>
+
+Paimon: And lastly... Paimon can't quite remember, but it was probably the *same as the second one*!
+
+Option 1:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+
+Option 2:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E000]}*</size>
+
+Option 3:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E002]}*</size>
+
+Celestial Orbit (Main Control Terminal): Orbital coordinate verification error.
+Paimon: Oh no! Did Paimon get the last one wrong? Okay. Don't panic, don't panic! Let's try again, real quick!
+Celestial Orbit (Main Control Terminal): Please re-verify orbital coordinates.
+Paimon: One more time! First up, the *simplest* symbol!
+
+Option 1:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+
+Option 2:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E000]}*</size>
+
+Option 3:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E002]}*</size>
+
+Paimon: The second one's *the most complicated*!
+
+Option 1:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+
+Option 2:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E000]}*</size>
+
+Option 3:
+
+> Traveler: #<size=30>*{REGEX#UNICODE[E002]}*</size>
+
+Paimon: And the last one is... the last one is... Argh, what in Teyvat is the last one...?
+Mysterious Kuuhenki: #是<size=30>*{REGEX#UNICODE[E001]}*</size>
+Paimon: #Ooh! Yes, yes! *{REGEX#UNICODE[E001]}*. That's the one! Wait. Who said that...? Ah, whatever! Let's punch it in!
+Traveler: #<size=30>*{REGEX#UNICODE[E001]}*</size>
+Celestial Orbit (System Voice): Orbital coordinate verification: Successful. Engine ignition in progress. Please board the lunar spacecraft immediately.
+Paimon: Did we make it? Why's the alarm still going off!?
+Mysterious Kuuhenki: ...Colum—
+Paimon: Was it you talking just now? Hey! Were you about to say "Columbina"?
+Mysterious Kuuhenki: ...The moon...
+Paimon: On the moon? What... Has something happened to her?
+Mysterious Kuuhenki: ...Rescue...
+Paimon: Rescue!? Is she asking us to go save Columbina!?
+Traveler: Is Columbina in trouble?
+Mysterious Kuuhenki: ...Spaceship... Moon...
+Paimon: Take the spaceship? To the moon? Hey! Explain yourself!
+Paimon: What are we gonna do?! It feels like this place is gonna blow up any second!
+Traveler: There's no time. Let's go with it to the spaceship.
+Paimon: Oh no! It's too late!
+Black Screen Text: You fail to stop the self-destruct sequence, and as the countdown ends, the base is engulfed in roaring flames.
+The good news is you manage to escape the explosion unscathed with Paimon in tow.
+But alas, the mysterious black kuuhenki, the spaceship bound for the moon, and the tale behind them all vanish from your journey forever.
+
+## Objective 28
+
+(Go to the lunar shuttle)
+
+
+## Objective 29
+
+(The lunar shuttle has been launched...)
+
+
+## Talk 31
+
+(Confront the black kuuhenki)
+
+Paimon: Whoa, we blasted off for real! Paimon was expecting a regular ol' vanilla adventure... but here we are flying to the moon!
+Paimon: Hey! You! Tell us what's going on, will ya!? What sort of trouble has Columbina gotten into?
+Mysterious Kuuhenki: ?
+Paimon: Seriously? Playing dumb again!?
+Traveler: Say something, or I'll throw you into space.
+Mysterious Kuuhenki: !
+Paimon: We definitely heard you speak just now, right? No, wait... You spoke through the base's systems, didn't you?
+Traveler: Can't you speak yourself?
+Mysterious Kuuhenki: !
+Paimon: Huh, that's weird...
+Paimon: Then how about... we take a look around this ship? Let's see if we can find something to help you talk.
+
+## Talk 32 (alternative/additional)
+
+(Search the lunar shuttle)
+
+Celestial Orbit: This vessel is bound for lunar orbit.
+
+## Objective 32
+
+(Search the lunar shuttle)
+
+
+## Talk 33
+
+(Search the lunar shuttle)
+
+Paimon: Huh? Is this escape pod broken?
+Paimon: There's something glowing inside!
+Mysterious Kuuhenki: !
+Paimon: Huh? She's here too? Does that mean there's something useful inside? But how do we get it out?
+Black Screen Text: While you think, the kuuhenki slips into the escape pod. A moment later, she returns — carrying an item.
+Paimon: What is that?
+Mysterious Kuuhenki: It's the spaceship's... archaeolune spectrometer...
+Paimon: Whoa, is that your voice? You can talk through this thing?
+Mysterious Kuuhenki: Mmhmm... Power of the ancient moons... transmit messages...
+Paimon: Huh? That sounds a lot like Phlogiston... Could this be dragon technology?
+Mysterious Kuuhenki: Not...
+Paimon: Do you mean "no"?
+Mysterious Kuuhenki: No... Not wrong...
+Paimon: ...Why do you pant so much when you talk?
+Traveler: It looks like the base and the spaceship were made by the dragons.
+Paimon: No wonder we ran into their Secret Source Automatons back there!
+Paimon: But what does this all have to do with Columbina? Why did you turn into her?
+Mysterious Kuuhenki: Columbina... Moon... Rescue...
+Paimon: Did she run into trouble and send you to get help?
+Mysterious Kuuhenki: Not...
+Paimon: Not wrong?
+Mysterious Kuuhenki: Not right...
+Paimon: ...Can you... take it from the top and tell us the whole story? What exactly is going on?
+Mysterious Kuuhenki: Columbina... rescued me... on the moon...
+Paimon: Huh? She rescued you? So she hasn't sent us a plea for help?
+Mysterious Kuuhenki: That's... right...
+Paimon: Then why did you tell us to get on this spaceship?
+Mysterious Kuuhenki: I wanted to... go back to the moon...
+Mysterious Kuuhenki: Not... you...
+Paimon: Oh no... In that case... what does that make us?
+Traveler: People who came along of their own accord...
+Paimon: No, no, how could this happen? We're not that clueless, are we?
+Paimon: Hey, you! You're leaving something out, aren't you? You said Columbina rescued you. That means you were in danger!
+Mysterious Kuuhenki: Not...
+Paimon: Not what this time? Not wrong? Not right?
+Mysterious Kuuhenki: Not... sure...
+Paimon: ...
+Paimon: ...Ugh, this is really starting to get on Paimon's nerves...
+
+Option 1:
+
+> Traveler: Who are you?
+
+Option 2:
+
+> Traveler: What... are you?
+
+Mysterious Kuuhenki: I'm sorry... I'm not sure...
+Mysterious Kuuhenki: When I woke up... I was very weak... I forgot... many things...
+Mysterious Kuuhenki: She took me to... a place of healing...
+Mysterious Kuuhenki: It was called... Silvermoon Hall...
+Paimon: Oh? Did Columbina tell you to stay there and rest? Then why did you come here?
+Mysterious Kuuhenki: ...I must... return to the moon...
+Mysterious Kuuhenki: ...There lies... my mission...
+Paimon: What mission?
+Mysterious Kuuhenki: ...I forgot...
+Paimon: How could you forget something like that!?
+Traveler: So your home is on the moon?
+Paimon: Oh, right! You keep talking about going back to the moon... So you're not a local kuuhenki from Teyvat?
+Mysterious Kuuhenki: Yes... I belong on... the moon...
+Paimon: Is Columbina there right now?
+Mysterious Kuuhenki: Yes... if... she hasn't left...
+Paimon: Well, that explains it! Paimon's got it all figured out now.
+Paimon: Columbina wasn't in trouble... She just picked this kuuhenki up while strolling around the moon and sent her to Silvermoon Hall.
+Paimon: But our girl's got a little problem... she either doesn't talk at all, or has to pant her way to the finish line...
+Paimon: And now the two of us have gone whoosh and flown right out of Teyvat, like a couple of silly Anemo Slimes hit by an arrow!
+
+Option 1:
+
+> Traveler: That about sums it up...
+
+Option 2:
+
+> Traveler: We're already in flight. Might as well make our peace with it.
+
+Paimon: Ugh... You tricked us, and that makes you a bad egg in Paimon's books! From now on, she's gonna call you, uhm... Eggie!
+Paimon: *sob*... Good Hunter, Wanmin Restaurant, Shimura's... Will we ever meet again?
+Mysterious Kuuhenki (Eggie): ...I'm... sorry...
+Paimon: Hey, hey... Are those tears...? Uhm, maybe Paimon was a little too mean? Please don't cry...
+Paimon: #Psst, Eggie! Paimon isn't really this upset! She's just pretending so that Traveler might buy her more snacks later on...
+Paimon: If you play along, we can split the snacks twenty-eighty... Alright?
+Mysterious Kuuhenki (Eggie): Snacks?
+Paimon: Ahem! Anyway... Eggie, you're the one who made us think Columbina was in danger! There's no way we could have sat back and done nothing knowing a friend was in trouble.
+Paimon: So you have to take full responsibility for the situation we're in right now!
+Traveler: We can head back once we find Columbina.
+Mysterious Kuuhenki (Eggie): ...I can... help...
+Paimon: Hmm... Then it's settled! Let's make this a surprise visit for Columbina! Who knows, maybe she'll be really happy to have friends come and play with her!
+Traveler: You cheered up quickly, hey, Paimon?
+Paimon: Ahem... Well. Paimon suddenly realized that we'll soon be famous as the first adventurers to set foot on the moon! One small step for us, one big step for Teyvat, right?
+Paimon: And don't you start saying you've already been! Columbina helped you cheat, so that doesn't count.
+Celestial Orbit: This vessel is about to enter lunar orbit. Please select a landing site.
+Paimon: Ooh! Are we almost there? Let's go check it out!
+
+## Talk 34
+
+(Talk to the black kuuhenki)
+
+Celestial Orbit: This vessel is about to enter lunar orbit. Please select a landing site.
+Paimon: There are so many landing sites, but they all have super weird names... Which one should we pick?
+
+Option 1:
+
+> Celestial Orbit: Connection failed. Please select another location.
+
+Option 2:
+
+> Traveler: Rotate
+
+Option 3:
+
+> Traveler: Confirm.
+
+Traveler: Archaeolune Storm Research Center
+Traveler: The Eye of Ibni-Belum
+Traveler: Moonheart Gap
+Traveler: Ungien's Circle
+Traveler (Celestial Orbit): Select another location.
+Celestial Orbit: Connection established. Confirm landing thruster initiation?
+Celestial Orbit: Connection established. Initiating landing thruster...
+Paimon: Whoa! Are we getting ready to land?
