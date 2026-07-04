@@ -30,7 +30,7 @@ Durin: Very well indeed. I've never heard her sound so excited.
 Traveler: Isn't she always quite excitable?
 Durin: Not like this... This time, her excitement seems more serious. Seems like she's had a major breakthrough.
 Durin: She said she'll contact us once she knows more. In the meantime, we're free to relax and have some fun.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Enjoy the time off while it lasts. I have a feeling that our next task won't be so simple.
+Wanderer: Enjoy the time off while it lasts. I have a feeling that our next task won't be so simple.
 Lauma: Mm... I should go. I still have a few things to attend to at the Frostmoon Scions' stall.
 Nefer: And I think I'll take a look around. With any luck, this once-in-a-year festival will come with once-in-a-year opportunities.
 Paimon: Hold up a second, where's Varka?
@@ -585,18 +585,18 @@ Durin: Happy Moon-Prayer Night, Miss Columbina.
 The Damselette: Happy Moon-Prayer Night, Durin and Hat Guy. Are you here to play the game?
 Durin (#Durin & {REALNAME[ID(1)|HOSTONLY(true)]}): Yes.
 No.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: No.
+Wanderer: No.
 Durin: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You said we were just coming here to say hello...
+Wanderer: ...
+Wanderer: You said we were just coming here to say hello...
 Durin: I did, but then I recognized a few more people as I got closer.
 Stream: (Do my eyes deceive me? Is that...?)
 Padisarah: (It's our little dragon! He's all grown up!)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Tsk... Someone's popular.
+Wanderer: Tsk... Someone's popular.
 Dori: Well now, since you came all this way, why don't you try out this lovely game we have going? First try is free!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He'll have a go. I'll pass.
+Wanderer: He'll have a go. I'll pass.
 Dori: Uh... It's only one free try per customer, you can't give your try to him...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'm aware.
+Wanderer: I'm aware.
 Durin: How has Elder Almond been lately?
 Padisarah: He's in great shape! He goes for a run in the forest every morning to stay fit and healthy.
 Stream: He tried to go boat racing with Firecracker a while back... But he couldn't even make it onto the lotus leaf. Firecracker was in fits of laughter...
@@ -608,9 +608,9 @@ Stream: "The knight wields a sword of stone, to defend those hearts that are mad
 Stream: Stone is very heavy. That's what keeps him from talking too much.
 Padisarah: That's awesome! I wanna be a knight when I grow up, too! Ring, here I come! Hah!
 Wheel: Ah, the hat-wearing man. I never thought I'd see you again. You seem more determined than when I saw you last on the train.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: If you say so.
+Wanderer: If you say so.
 Wheel: I do say so. The people you once helped see it clearly... it's because you are once again on the right track.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Wheel: May the engine in our hearts propel us to the station of our dreams.
 Esnoir: I can move! I can move now, Rozel!
 Dori: (What are they doing, running into the rings like that...!?)
@@ -1352,14 +1352,14 @@ Barbeloth: It is simply that... the mere sight of this candy is starting to give
 
 (Continue enjoying Moon-Prayer Night, or talk to Paimon)
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Done being a do-gooder yet?
+Wanderer: Done being a do-gooder yet?
 Durin: Thanks for coming here with me, Hat Guy.
 Durin: Are there any games you'd like to play? It's your turn to pick. I'll come with you.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Why does that hamster think you've grown up? You haven't changed at all.
+Wanderer: ...Why does that hamster think you've grown up? You haven't changed at all.
 Durin: I know you don't mean that. You're just taking the opportunity to make fun of me, aren't you?
 Durin: Even if you won't admit that taking some time to compose yourself is important, I can see that you're doing it in practice.
 Durin: Otherwise, you'd have taken off your hat and flown away by now.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Looks like Albedo's socialization program has been far more useful to you than all those Vahumana textbooks.
+Wanderer: Looks like Albedo's socialization program has been far more useful to you than all those Vahumana textbooks.
 
 Option 1:
 
@@ -1373,8 +1373,8 @@ Option 1:
 Option 2:
 
 > Traveler: Hat Guy, would you like some Moon-Prayer Candy?
-> #{REALNAME[ID(1)|HOSTONLY(true)]}: I thought you'd spend your precious time doing something more worthwhile.
-> #{REALNAME[ID(1)|HOSTONLY(true)]}: Everyone has to take one? Well, fine. I'll take mine.
+> Wanderer: I thought you'd spend your precious time doing something more worthwhile.
+> Wanderer: Everyone has to take one? Well, fine. I'll take mine.
 
 
 ## Talk 29 (alternative/additional)
@@ -1857,7 +1857,7 @@ Kantor: Happy Moon-Prayer Night.
 Lauma: ...
 Aino: ...
 Jahoda: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 The Knave: ...
 Marionette: Hmph...
 Alice: Time flies when you're having fun...

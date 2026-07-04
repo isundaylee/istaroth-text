@@ -10,15 +10,15 @@ Your Saurian companion gifts you the treasures it had been carefully collecting.
 (Talk to your Saurian companion)
 
 Paimon: Paimon had a guess when she saw the pillars outside, but she really didn't expect to end up here...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Paimon: Looks like you like this place, at least! Though it does make sense, after all, you must've spent a lot of time here before you met us...
 Paimon: Paimon wonders if those glowing pillars will disappear after we leave this time... Still, let's clean up a bit first, then rest for a while!
 Black Screen Text: #You, {REALNAME[ID(2)|SHOWHOST(true)]}, and Paimon tidy up the place together.
 Paimon: Hehe, now it's looking pretty good!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Paimon: #Hmm, you're pretty excited, aren't 'cha, {REALNAME[ID(2)|SHOWHOST(true)]}? Do you have something you wanna tell us?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrroh... Rrrawr...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Wrroh... Rrrawr...
+Little One: Rawr! Rawr!
 Paimon: Huh? Do you want us to turn around?
 Paimon: You didn't prepare a surprise for us, did you? Heehee, you're as easy to read as an open book!
 Paimon: Alright, then, we'll play along!
@@ -28,9 +28,9 @@ After a short while, {REALNAME[ID(2)|SHOWHOST(true)]} lets out a "Rawr rawr!". I
 Paimon: Whoa, that's a lot of stuff!
 Paimon: Let Paimon have a look! Let's see, a super straight branch, a really round rock... And some strange food with a weird color and smell. Well, that's probably been left out for who knows how many days...
 Paimon: You carefully selected and collected all these, didn't you? Are they gifts for us?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Paimon: Still, we can't eat food that's been left out for too long! Whoever eats it — and that includes you — would get an upset stomach! So we've gotta deal with that first...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Arroooo... Rooooawr...
+Little One: Arroooo... Rooooawr...
 
 Option 1:
 
@@ -42,7 +42,7 @@ Option 2:
 > Traveler: This rock is really round!
 > Paimon: And it's shiny, too! Hehe, we've crossed a lotta rivers, and we've seen lots of round rocks, so you can believe us when we say this stone is a gem amongst rocks!
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Paimon: Mmmhmm, we'll happily take it all! Hehe, just put it all in Paimon's secret stash's backpack pouch! Maybe they'll come in handy someday!
 Paimon: #Hmm, since {REALNAME[ID(2)|SHOWHOST(true)]} gave us a gift, we should give him a gift in return.
 Paimon: Let Paimon see what she's got in her secret stash...
@@ -50,7 +50,7 @@ Paimon: Let Paimon see what she's got in her secret stash...
 Option 1:
 
 > Traveler: Wow. Your seldom-seen generous side makes an appearance...
-> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} went out of his way to show us how much he cares, that's not something to take lightly! Also, if it gets too heavy, Paimon can't really fly, so maybe Paimon can give him some...
+> Paimon: Little One went out of his way to show us how much he cares, that's not something to take lightly! Also, if it gets too heavy, Paimon can't really fly, so maybe Paimon can give him some...
 
 Option 2:
 
@@ -58,7 +58,7 @@ Option 2:
 > Paimon: #Paimon said it's her secret, private stash! Even if we're the bestest of buddies, that's not something Paimon can just tell you, you know! Anyway, there's plenty enough to give {REALNAME[ID(2)|SHOWHOST(true)]} a gift!
 
 Paimon: #Ta-da! It's a super shiny gem! Do you like it, {REALNAME[ID(2)|SHOWHOST(true)]}?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Paimon: Ooh! Guess Paimon's picked just the thing, huh? Hey, be careful now! Don't drop it...
 Paimon: ...Oh boy. Why does Paimon feel like you'll lose the gem if you hold onto it like that...?
 Paimon: Why don't we go find the Children of Echoes? If anyone's got gemsmiths who could shape it for us, it'd be them!
@@ -102,19 +102,19 @@ Paimon: Hehe, so you're the Gem Master who is looking for inspiration! We came l
 Kulahaw: Uh, actually... Forget it. It's not important anymore... *sigh* Is there something I can help you with?
 Paimon: #We've brought a beautiful gemstone, and we were hoping you'd process it for {REALNAME[ID(2)|SHOWHOST(true)]}!
 Paimon: #Hehe, c'mon, {REALNAME[ID(2)|SHOWHOST(true)]}, show him!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr—
+Little One: Rawr! Rawr—
 Paimon: Ehhh!?
 Black Screen Text: #You hear the fluttering of avian wings by your ears...
 By the time you recover, the gem has vanished from {REALNAME[ID(2)|SHOWHOST(true)]}'s claws without a trace.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Raaaaah! Roaaaargh!
+Little One: Raaaaah! Roaaaargh!
 Paimon: Wha— Waitasec, where's the gem? Where could such a huge gem have gone off to?
 Traveler: Seems like a bird nicked it...
 Paimon: What the heck? The birds here steal stuff? Rude!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Roooawr! Rooooawr!
+Little One: Roooawr! Rooooawr!
 Kulahaw: Actually, what I was about to say was, even if the gem hadn't just been stolen, I still couldn't help you cut it...
 Kulahaw: ...Since all my tools were also stolen by those damn birds! I was actually just carefully looking at those birds, going over them one by one, to see which one of them had their dirty claws on my tools.
 Paimon: #Is... Is that even possible? These birds are just the worst! C'mon, Traveler, let's go get that gem back!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Kulahaw: And don't forget about my tools too—
 
 ## Talk 12 (alternative/additional)
@@ -165,7 +165,7 @@ Paimon: Of course they wouldn't! It's becau—
 Paimon: (...So Imix still doesn't know they were stolen by birds... Let's spare Kulahaw the embarrassment!)
 Paimon: Because... Because there's someone who thinks they can steal his skills that way too, haha...
 Paimon: Forget it... Anyway, we'll take the gem! The shape is so pretty. That's what you'd call a "masterwork," huh?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: #Looks like {REALNAME[ID(2)|SHOWHOST(true)]} really likes it too!
 Traveler: #Allow me to thank you on {REALNAME[ID(2)|SHOWHOST(true)]}'s behalf.
 Imix: Hey now, as long as your little Saurian likes it! I'll be sure to pass on your compliments to Master Kulahaw, please come again!

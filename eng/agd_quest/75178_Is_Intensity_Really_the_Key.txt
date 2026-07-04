@@ -100,7 +100,7 @@ Paimon: Eh? A little Koholasaurus? Why is it here?
 ???: Ki'o-ki'o...! So you were here after all... If you guys hadn't come out when you did, I-I'd have...
 ???: What if you'd gotten hurt? Don't just run off like that again, okay? *sniff*...
 Paimon: H—Hey, cheer up! Look, your little saurian's fine, see? Super full of energy, too!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 ???: Ah, um... I'm okay now. Oh! I forgot to introduce myself. I'm Linaha, from the People of the Springs. I'm usually assigned to take care of the little Koholasaurs...
 Paimon: Alone? That's pretty impressive!
 ???: N—Not really... If I were more like you, Ms. Paimon, they probably wouldn't have run off like that.
@@ -192,23 +192,23 @@ Paimon: Hmm... Well, we already agreed to help out, but where should we even sta
 Option 1:
 
 > Traveler: How about giving our magical mystical phlogiston a try?
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+> Little One: Rawr?
 > Paimon: That's never going to work! The area's way too big!
 
 Option 2:
 
 > Traveler: There's probably a lot of magma in the volcano nearby...
 > Paimon: Oh, Paimon gets it! We could have our little guy dig a tunnel, then use the volcanic magma to heat the hot spring, right? Not a bad idea...
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr! Rawr!
+> Little One: Rawr! Rawr! Rawr!
 > Paimon: #...Yeah, right! Get serious, would you? We could get people killed doing that! Worse, {REALNAME[ID(2)|SHOWHOST(true)]} believed you for a second back there!
 
 Paimon: *sigh* Isn't there a more realistic solution we can try?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+Little One: Rawr?
 Paimon: #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
 
 ### Additional Talk 5
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr?
+Little One: Rawr?
 Traveler (Paimon): #Wait, {REALNAME[ID(2)|SHOWHOST(true)]}, don't go wandering off like that!
 
 ### Additional Talk 6

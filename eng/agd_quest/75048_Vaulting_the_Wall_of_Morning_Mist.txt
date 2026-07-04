@@ -27,7 +27,7 @@ Option 2:
 > Traveler: Ow, ow, Paimon, it hurts!
 > Paimon: Oh no! Where? Let Paimon take a look... Wait, you're not hurt at all! Why'd you have to lie like that?
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
+Little One: Rooo... Rawr!
 Paimon: #Looks like {REALNAME[ID(2)|SHOWHOST(true)]} isn't hurt either. Phew.
 Paimon: So has that nasty dragon really flown away this time? Paimon doesn't understand why it kept coming after us. So rude!
 Paimon: Paimon would understand if it were protecting treasure, like in the fairy tales, and we'd stolen some of it. But we haven't done anything yet!
@@ -47,8 +47,8 @@ Option 3:
 > Traveler: Could it be the Blazed Meat Stew you had this morning?
 > Paimon: Hmm? You mean it's after the Blazed Meat Stew in Paimon's stomach?
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Ehhrrr...?
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}? Did you find something?
+Little One: Ehhrrr...?
+Paimon: Little One? Did you find something?
 Paimon: #Ooh, would you look at that? There's a stack of scrolls underneath! Come take a look, Traveler.
 Paimon: Looks like notes left behind by an adventurer...
 Paimon: "An ancient city occupied by a violent and evil dragon"... Could this be the city we're looking at?
@@ -91,7 +91,7 @@ Option 2:
 > Traveler: We have to do something about the evil dragon.
 > Paimon: Exactly. If we bump into it again, we'll make sure it won't hurt more adventurers!
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: #Huh, you sure do get excited whenever we mention dragons, {REALNAME[ID(2)|SHOWHOST(true)]}!
 Paimon: Alright then — to Ochkanatlan!
 
@@ -135,9 +135,9 @@ Option 2:
 > Traveler: Whatever it was, it saved us.
 
 Paimon: And this looks like a safer spot either way. Ugh, Paimon never thought we'd have to run from hilichurls!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Ehrr?
+Little One: Rawr... Ehrr?
 Paimon: #What's wrong? Are you okay, {REALNAME[ID(2)|SHOWHOST(true)]}?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrroo...
+Little One: Rrroo...
 Paimon: Did something in here catch your attention?
 Paimon: Well, not that we'll be leaving anytime soon with them blocking the door, so let's just explore this place.
 
@@ -184,7 +184,7 @@ Option 2:
 > Paimon: #Huh? Seriously? What are you gonna do next, tell her that you're Paimon's guide? Anyway, he's Traveler. We're also adventurers who just arrived.
 > Paimon: #This little one here is our companion, {REALNAME[ID(2)|SHOWHOST(true)]}!
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: Are you also looking for the Jade of Return, like the other adventurers were?
 Bona: The Jade of Return... Yeah, I guess. You too, then?
 Paimon: Uh-huh! Guess we were right. No one's found it yet!
@@ -251,9 +251,9 @@ Option 2:
 > Traveler: Those words are not exactly flattering, Paimon.
 
 Bona: Don't call it a Specter, that's mean! Its name is Cocouik. I chose the name, by the way, and given how shiny it is, I'd say it's pretty spot on too!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Cocouik: Kuru?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr... Rawr!
+Little One: Rawr... Rawr!
 Paimon: You seem to be getting along just fine. So the light that saved us came from this little guy, huh? Incredible!
 Bona: That's right. Cocouik might be small, but it's the guardian spirit of this area. I've been able to roam all over this ancient city thanks to it.
 Bona: And when it accumulates enough power, even that evil dragon is no match for it!
@@ -325,7 +325,7 @@ Paimon: Yeah! But why's it called that, though? You sure have strange tastes...
 Bona: You don't think it sounds awesome? Speaking from my experience as an adventurer, it's much easier for people to remember and pass on skill names if they're flashy.
 Paimon: Let's forget about the name for a moment here... Thanks for helping us out again, Coco. We couldn't have beat the dragon back without you.
 Cocouik: Kru...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wrrooo...
+Little One: Wrrooo...
 Paimon: #Don't be sad! We're not saying that you didn't do anything, {REALNAME[ID(2)|SHOWHOST(true)]}.
 
 Option 1:
@@ -445,8 +445,8 @@ Paimon: Well, this sure doesn't sound like a guaranteed score, but it's not like
 Paimon: And if we do reach the Tonatiuh, we can help everyone AND make a huge profit. Talk about a win-win!
 Paimon: #How about it, Traveler? Let's go with Bona, shall we?
 Bona: Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!
+Little One: Rawr!
+Paimon: Little One concurs! It's settled, then. Let's get going before the dragon comes back!
 
 ## Talk 23 (variant 2)
 
@@ -466,7 +466,7 @@ Option 2:
 > Traveler: The golden pattern...
 
 Paimon: #Hmm, is that the same pattern we saw when we encountered {REALNAME[ID(2)|SHOWHOST(true)]}? Could this evil dragon be related to him somehow?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rroo...
+Little One: Rroo...
 Paimon: #Oh, Paimon isn't suspecting you or anything, {REALNAME[ID(2)|SHOWHOST(true)]}! But it feels like someone has been guiding us ever since we stepped into this ancient city...
 Paimon: Maybe Paimon's overthinking this...
 Bona: Hmm? What are you talking about?
@@ -525,8 +525,8 @@ Paimon: Well, this sure doesn't sound like a guaranteed score, but it's not like
 Paimon: And if we do reach the Tonatiuh, we can help everyone AND make a huge profit. Talk about a win-win!
 Paimon: #How about it, Traveler? Let's go with Bona, shall we?
 Bona: Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!
+Little One: Rawr!
+Paimon: Little One concurs! It's settled, then. Let's get going before the dragon comes back!
 
 ## Objective 24
 

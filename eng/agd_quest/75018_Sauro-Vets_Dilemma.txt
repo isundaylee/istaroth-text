@@ -41,17 +41,17 @@ Mazkal (???): Snacks? Well, yes, I've had some, but Kururuk's not the type to ge
 Paimon: "Kururuk"? So it has a name... Seems like it's got quite a temper on it, though! Almost hit you back there!
 Mazkal (???): Well, I wouldn't blame him, the treatment being what it is...
 Traveler: So taking a beating is also a kind of healing? You learn something every day...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: #What? Come on, how did you get that into your head? Cut that nonsense out right now — you're giving {REALNAME[ID(2)|SHOWHOST(true)]} the wrong idea!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Hroowr? Rrooh?
+Little One: Hroowr? Rrooh?
 Mazkal (???): Haha, if that was a workable form of therapy, I'd love to try it myself! Unfortunately, Saurians are different from us. Even if you told them something would help them recover quickly, there's no guarantee they'd understand.
 Mazkal: Ah, yes, allow me to introduce myself. I'm Mazkal. I usually take care of wounded or sick Saurians nearby. Not to brag or anything, but my medicines get pretty good client reviews.
 Mazkal: Hmm. Your little companion looks very healthy. Doesn't look like he needs my help.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: Ah, so you're a Saurian vet! Uhh, judging from the way Kururuk behaved, seems like a pretty tough job...
 Mazkal: Oh, I wouldn't say it's all that tough. It's just that Kururuk's case is somewhat... special. He's deeply distrustful of humans right now, so he resists all treatments and medication.
 Mazkal: *sigh* If only I were a Saurian myself. I've observed him, and he gets along with other Saurians just fine. Perhaps he'd be willing to take medicine if it came recommended by another Saurian.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
+Little One: Wroo?
 Paimon: Hmm, well if that's the case, we might just be able to help you!
 Mazkal: Huh? Wait, you're saying that despite your appearance, you're actually Saurians!?
 Paimon: You sure have an overactive imagination! Ugh...
@@ -68,19 +68,19 @@ Option 2:
 > Traveler: Smart enough to build bridges of friendship between humans and Saurians.
 
 Paimon: #Yup! Either way, you can leave this to {REALNAME[ID(2)|SHOWHOST(true)]}, no problem!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Rawr!
+Little One: Rawr! Rawr!
 Mazkal: #Then on Kururuk's behalf, let me thank you in advance, {REALNAME[ID(2)|SHOWHOST(true)]}!
 Mazkal: I've been worried that if he keeps acting up like this, it might not only prevent his old injuries from healing, but even cause new wounds to emerge... So I'm most relieved to have your help!
 Mazkal: I've formulated two different medicines for him. I've done my best to balance therapeutic effects and palatability, but I haven't come up with the perfect solution by any means...
 Mazkal: The result being that the more effective of the two medicines isn't as tasty, while the one Saurians love isn't quite as effective...
 Mazkal: #Hmm... Well, instead of all this explaining, let's just have {REALNAME[ID(2)|SHOWHOST(true)]} take a sniff. You'll get the picture from how he reacts.
 Mazkal: Here's the more effective medicine.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrroo...
+Little One: Wooo... Rrroo...
 Mazkal: And this is the less effective, but much more appetizingly-colored one.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: Wow, the difference really is obvious!
 Mazkal: No matter which one you use, the medicines will help Kururuk recover, so I'll just give you both of them. You can decide which you want to try!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Mazkal: Hehe, you're so reliable! Anyway, I'll head back to camp to make some preparations. As for Kururuk, I leave him in your capable hands!
 Paimon: #Don't you worry, {REALNAME[ID(2)|SHOWHOST(true)]}'s got this!
 
@@ -114,7 +114,7 @@ Paimon: Which of the two should we go with?
 (Have "Kururuk" take some medicine)
 
 Paimon: #If he'll eat it, this one should help him recover better, right? You've got this now, {REALNAME[ID(2)|SHOWHOST(true)]}!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: #Looks pretty hopeful. Hehe, good work, {REALNAME[ID(2)|SHOWHOST(true)]}! ...Err, wait a minute...
 "Kururuk": —Shwaaaargh!
 Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than before! Gah, we've gotta calm him down real quick...
@@ -124,9 +124,9 @@ Paimon: Huh!? W—Was the medicine too effective? He looks even angrier than bef
 (Have "Kururuk" take some medicine)
 
 Paimon: #Well, even if this one doesn't work as well, just having him eat the medicine at all is progress enough! Let's do this, {REALNAME[ID(2)|SHOWHOST(true)]}!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: Ooh, he snapped it right up? Hmm... But he still looks pretty listless.
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Wroo?
+Little One: Wroo?
 Paimon: Sh—Should we try the other one, then?
 
 ## Talk 9 (variant 1)
@@ -135,7 +135,7 @@ Paimon: Sh—Should we try the other one, then?
 
 Traveler: Might as well.
 Paimon: #We're counting on you for Round Two, {REALNAME[ID(2)|SHOWHOST(true)]}!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: Chowed it right down! But...
 Paimon: Uh oh! He's even madder than before! Quick, we gotta calm him down!
 
@@ -157,21 +157,21 @@ Paimon: Hmm, that does make sense... Actually, why don't we bring him back to Ma
 
 "Kururuk": Rrooah...
 Traveler: Is this really a Saurian who still hasn't fully recovered?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rrrooo... Rawr! Rawr! Raaawr!
+Little One: Rrrooo... Rawr! Rawr! Raaawr!
 Paimon: He'd probably be a super tough opponent when he's in tip-top shape... Anyway, let's bring him back to Mazkal while he's being a bit more docile!
 
 ## Talk 12
 
 (Talk to Mazkal)
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Mazkal: You're back! How did it go? Did Kururuk take his medicine?
 Paimon: Well, he did, but...
 Black Screen Text: You explain what happened earlier...
 Mazkal: I see. Alright, let me have a look... Hmm. Looks like he's fine, not hurt too badly at all.
 Mazkal: Either way, it's a good thing that he took the medicine! And now that I know how he reacts, I can adjust the formula accordingly.
 Mazkal: #Yup, don't worry, we should be fine. Thanks for your help — especially you, {REALNAME[ID(2)|SHOWHOST(true)]}! What an amazing little Tepetlisaur you are!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawwr!
+Little One: Rawwr!
 Paimon: #Haha, it's nice hearing people praise {REALNAME[ID(2)|SHOWHOST(true)]} — even better than hearing them praise Paimon, in fact!
 Mazkal: I'm impressed at how well you two get along with this little guy too. I could stand to learn a thing or two from you.
 

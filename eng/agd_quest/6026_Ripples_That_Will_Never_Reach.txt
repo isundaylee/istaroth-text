@@ -665,44 +665,44 @@ Durin: She said that she'll contact me through this device with more information
 Varka: Ah, I see. Following instructions and making observations — pretty common research method. Takes me right back to Albedo's lab...
 Paimon: Wait, then who exactly are you meeting?
 Durin: Someone you know. Albedo's met him, too. But I don't think Miss Lauma or the Grand Master have been introduced...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Introductions are overrated — especially in cases like this.
+Wanderer: Introductions are overrated — especially in cases like this.
 Paimon: It's you!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So? It's not like the Akademiya has prohibitions against going abroad. Also, I applied for leave.
+Wanderer: So? It's not like the Akademiya has prohibitions against going abroad. Also, I applied for leave.
 Durin: I've been writing to Hat Guy since obtaining a human form. I've already brought him up to speed on everything that's been going on in Nod-Krai.
 Varka (Varka & Lauma): Hat Guy...
 Lauma (Varka & Lauma): Hat Guy...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph...
+Wanderer: Hmph...
 Varka: Turns out I actually have heard that name before.
 Lauma: Oh... Then, why did you react the same way I did?
 Varka: Haha, I only knew the name, not the fella! But since we're all here, let's do some introductions for what it's worth. I'm Varka, Grand Master of the Knights of Favonius.
 Lauma: Lauma, Moonchanter of the Frostmoon Scions.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: And I'm a Driyosh from the Vahumana Darshan of the Sumeru Akademiya... Hat Guy.
+Wanderer: And I'm a Driyosh from the Vahumana Darshan of the Sumeru Akademiya... Hat Guy.
 Albedo: Good to see you again, Mr. Guy. I believe we last saw each other on the boat ride here.
 Traveler: (So they came to Nod-Krai together...)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Mmm. Mind you, the only reason I came here is because there's someone I want to look into.
+Wanderer: Mmm. Mind you, the only reason I came here is because there's someone I want to look into.
 Paimon: Who's that?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: The Doctor, also known as Dottore. Second of the Fatui Harbingers.
+Wanderer: The Doctor, also known as Dottore. Second of the Fatui Harbingers.
 Traveler: (Just as I thought...)
 Lauma: From the tone of your voice... it sounds like there is bad blood between you.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...I was reviewing our archives and noticed that a lot of information about him was missing. Left a bad taste in my mouth. That's all there is to it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Dottore... or Zandik as he was then known, once studied at the Akademiya. But he got kicked out before he could graduate.
+Wanderer: ...I was reviewing our archives and noticed that a lot of information about him was missing. Left a bad taste in my mouth. That's all there is to it.
+Wanderer: Dottore... or Zandik as he was then known, once studied at the Akademiya. But he got kicked out before he could graduate.
 Varka: Hahahaha! So the harbingers' number two man is a college dropout? How embarrassing for them.
 Paimon: Last we heard, he was planning something... We actually heard that a few times before even coming to Nod-Krai. But we haven't seen a trace of him since we got here.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He only appears when something interests him. For all we know, he might have left already.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But the fact that he did something here at all is worth noting... It'll fill a couple extra lines in his file.
+Wanderer: He only appears when something interests him. For all we know, he might have left already.
+Wanderer: But the fact that he did something here at all is worth noting... It'll fill a couple extra lines in his file.
 Varka: Heh, why does it sound less like a file you're writing, and more like a criminal record...
 Varka: Anyway, we were just about to meet two of the other Harbingers. Wanna come along? You might learn a thing or two about him there.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Sure.
+Wanderer: Sure.
 Paimon: Even though they're Harbingers, uh... Well, they're old acquaintances of ours, so... y'know, when you talk to them, try to be...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph. I got it.
+Wanderer: Hmph. I got it.
 Lauma: The Frostmoon Scions' relations with the Fatui remain tense. Forgive me if I do not attend.
 Albedo: In that case, we'll continue assisting Ms. Alice with her experiments.
 Varka: Good stuff, everyone's having a fruitful time! Alright, we'd better get going — I'll lead the way.
 Traveler: #Hey, {REALNAME[ID(1)|HOSTONLY(true)]}.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmm?
+Wanderer: Hmm?
 Traveler: Are you here for revenge?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Well yeah, that's obviously part of it. But I'm not the only one who has a score to settle with him.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Neither you, nor Lesser Lord Kusanali, nor I want to see him meddling with things again.
+Wanderer: Well yeah, that's obviously part of it. But I'm not the only one who has a score to settle with him.
+Wanderer: Neither you, nor Lesser Lord Kusanali, nor I want to see him meddling with things again.
 
 Option 1:
 
@@ -712,8 +712,8 @@ Option 2:
 
 > Traveler: When we return, let's talk about Columbina.
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hah. What's the hurry?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Don't worry. Pigeons always know which way home is.
+Wanderer: Hah. What's the hurry?
+Wanderer: Don't worry. Pigeons always know which way home is.
 Traveler: (Zandik? I've heard that name before... Back in the ruins, when the Ibis King mentioned that student — that was The Doctor?)
 
 ## Talk 18
@@ -723,13 +723,13 @@ Traveler: (Zandik? I've heard that name before... Back in the ruins, when the Ib
 The Knave: You made it... Who is this?
 Varka: #A scholar from Sumeru. They call him Hat Guy. He's an old friend of Traveler.
 Marionette: Wait, THIS is the Akademiya representative you wrote about? He doesn't exactly look the part...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I believe this will prove my identity. You'll notice it bears the seal of the Sanctuary of Surasthana.
+Wanderer: I believe this will prove my identity. You'll notice it bears the seal of the Sanctuary of Surasthana.
 Marionette: Well, what do you know. So it does... Alright then. My mistake.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It's fine. I expected as much.
+Wanderer: It's fine. I expected as much.
 Marionette: What?
 Varka: Ahem! So, as I mentioned in my letter, the Akademiya's got its eyes on Dottore.
 Varka: But this matter remains top secret. Apart from those assisting in the investigation, the fewer people who know, the better.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: If anyone asks, I am here in Nod-Krai to pursue my personal academic interests.
+Wanderer: If anyone asks, I am here in Nod-Krai to pursue my personal academic interests.
 Paimon: Gotta say, Varka, you did pretty well to keep all this under wraps for so long. Sounds like you got in touch with the Akademiya about this way back.
 Varka: Haha, you flatter me.
 
@@ -747,7 +747,7 @@ The Knave: Does Dottore really strike you as the sort who values his relationshi
 Paimon: Fair point. Definitely not.
 The Knave: Which is why I always keep my guard up whenever he starts making suspicious moves. To that extent, our motivations align — on top of which, I consider you trustworthy people.
 The Knave: Now, back on topic. In the wake of the Rächer of Solnari episode, Sandrone and I grew suspicious about Dottore's complete inaction during the entire affair. So we tried to find out what he'd been up to — but unfortunately, to no avail.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He never lets anyone in on his plans. The more he cares about something, the more secretive he gets.
+Wanderer: He never lets anyone in on his plans. The more he cares about something, the more secretive he gets.
 The Knave: Indeed. Perhaps he believes that by keeping a low profile, he can avoid trouble. But that trick isn't going to work on his colleagues.
 Marionette: Yeah, I mean... He's been researching the Ancient Moon's Remnants, and he's been trying to get his paws on the Moon Marrows... Only an idiot would believe he doesn't have something more planned.
 The Knave: With this in mind, I returned to Snezhnaya and relayed my thoughts to Her Majesty the Tsaritsa, entreating her to have him recalled.
@@ -756,7 +756,7 @@ The Knave: Yes. I made it abundantly clear that the Fatui's business in Nod-Krai
 The Knave: Accordingly, Dottore has returned at her orders. I imagine he is continuing with experiments which no one besides he would ever have any interest in.
 Marionette: Common sense might mean nothing to him, but he's not stupid. He knows that no good can come from opposing the Tsaritsa.
 Marionette: Smarts alone won't get him all the way. He needs The Rooster's resources and Regrator's Mora — both of which the Tsaritsa can strip from him by waggling a finger.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But doesn't he have a track record of publicly following orders while going against them in private? He probably has it down to a fine art by now.
+Wanderer: But doesn't he have a track record of publicly following orders while going against them in private? He probably has it down to a fine art by now.
 Marionette: Wouldn't put it past him... We worked together on a research project once. Only briefly, but it was enough to show me that we're fundamentally different people.
 Marionette: He has no interest in doing things methodically, stage by stage. His thoughts jump all over the place, and the moment his curiosity is satisfied or he gets the results he wants, he disappears...
 Marionette: The only similarity we share is that, once we set our minds on doing something, we will see it done, whatever it takes.
@@ -765,17 +765,17 @@ Marionette: Ugh, do NOT remind me!
 The Knave: Then I believe we all concur: Dottore will not simply give up.
 Marionette: Tch. Fantastic, now this is turning into a whole day of unpleasant memories. Ugh!
 Paimon: Are you talking about the Moon Marrow stuff?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He also strikes me as the kind of person to disregard experimental regulations, ruin all the equipment, and go way over budget... then leave the first person he can find to deal with the fallout.
+Wanderer: He also strikes me as the kind of person to disregard experimental regulations, ruin all the equipment, and go way over budget... then leave the first person he can find to deal with the fallout.
 Marionette: Exactly! This one time, he was running some high-temperature experiment and the substance exploded. But does he care? No! He orders his subordinates to open the device so he can observe the results — which causes the gas inside to leak out...
 Marionette: That gas was poisonous! If I hadn't been there, who knows how many people might've died?
 Marionette: And after all that? He left, while I was still cleaning up after his mess. "What a waste of time," he said.
 Marionette: Waste of time!? The nerve! HE wasted MY time!
 Varka: Haha, you've been bottling that up for a while, huh?
 The Knave: Hat Guy, I must say — you seem awfully familiar with internal Fatui affairs... especially when it comes to Dottore.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Thank you, Lady Harbingers, for providing such valuable information. I have no other questions for now, so I'll be on my way.
+Wanderer: ...
+Wanderer: Thank you, Lady Harbingers, for providing such valuable information. I have no other questions for now, so I'll be on my way.
 Paimon: Wait, what? You're just gonna leave!?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You're welcome to join if you want.
+Wanderer: You're welcome to join if you want.
 Paimon: Ugh. Just when Paimon thought he'd finally mellowed out...
 Varka: He makes quite the impression.
 Marionette: I'll say. I've met tons of headstrong people, but not many of them would join me in badmouthing Dottore...
@@ -846,48 +846,48 @@ Paimon: Okay, time to do what adventurers do best — follow that Seelie!
 
 (Exchange intel and assess the situation)
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Here you are.
+Wanderer: Here you are.
 Albedo: Ah, Hat Guy.
 Durin: How come you're back so soon? Did things go alright with the Fatui?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Fine. Dottore's been summoned home by the Tsaritsa. Couldn't get much more than that.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: How about you? Any progress with the investigation?
+Wanderer: Fine. Dottore's been summoned home by the Tsaritsa. Couldn't get much more than that.
+Wanderer: How about you? Any progress with the investigation?
 Durin: Unfortunately not...
 Durin: We've tried everything. Different phantoms, different locations, different points in history, but the results are the same each time.
 Albedo: Abyssal monsters roaming the land, people crying out in despair, with no hope of being rescued.
 Durin: Every time I see it, I can't help but think... is this what it was like in Mondstadt when Dragonspine-Durin attacked?
 Durin: And... if I fail in the task I've been given... will I create yet another tragedy?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...That's just meaningless speculation.
+Wanderer: ...That's just meaningless speculation.
 Albedo: When we encountered similar phenomena previously, I tried to interfere with those illusions, using sounds and lights to guide them.
 Albedo: However, we could not change their fates. At most, we were able to extend their existences.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: The events of the past are like fate that has been written into Irminsul. There isn't a living thing in Teyvat that can escape its past...
+Wanderer: The events of the past are like fate that has been written into Irminsul. There isn't a living thing in Teyvat that can escape its past...
 Albedo: But Ms. Alice instructed us to try to find ways to change the outcome that these phantoms face.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It's an impossible task. Can't you just refuse?
+Wanderer: It's an impossible task. Can't you just refuse?
 Durin: Since she asked us to do this, I feel like it can't truly be impossible. Or, if it is... Well, mages can make the impossible possible.
 Durin: I could not have been born as "Durin" otherwise.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But you also said that your past thirty-nine attempts were fruitless.
+Wanderer: But you also said that your past thirty-nine attempts were fruitless.
 Durin: That's true...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But you're still going?
+Wanderer: But you're still going?
 Durin: Yes.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: After this many futile attempts, surely you realize that you're not doing this because you still believe what some mage told you.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It's because you want her hypothesis to come true. It's something you wish for deep inside.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So, think for yourself about what you want to do. As long as you don't believe it's futile, it isn't.
+Wanderer: After this many futile attempts, surely you realize that you're not doing this because you still believe what some mage told you.
+Wanderer: It's because you want her hypothesis to come true. It's something you wish for deep inside.
+Wanderer: So, think for yourself about what you want to do. As long as you don't believe it's futile, it isn't.
 Durin: ...Yeah!
 Albedo: Previous experience indicates that we cannot touch the phantoms, which limits the effectiveness of our interventions.
 Albedo: If we want to clear this hurdle, we need to break this rule somehow.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Same thought here. Following the same rules means repeating the same failures — reducing ourselves to mere playthings of fate.
+Wanderer: Same thought here. Following the same rules means repeating the same failures — reducing ourselves to mere playthings of fate.
 Durin: So you mean... we need to figure out a way to make contact with them, despite knowing that we can't?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Yes. And I suspect that's something only you are capable of.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Everything in Teyvat is logged in Irminsul, but The Withering that once occurred in Sumeru was a sign that that great world tree was being corrupted.
+Wanderer: Yes. And I suspect that's something only you are capable of.
+Wanderer: Everything in Teyvat is logged in Irminsul, but The Withering that once occurred in Sumeru was a sign that that great world tree was being corrupted.
 Albedo: This corruption allowed things that should not have existed in Teyvat to appear... This is tantamount to rewriting reality to an extent.
 Durin: You're saying, Abyssal power might be able to affect these phantoms?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: No one's ever tried it before. If you're gonna try it, it'll take courage, and you have to be confident that you can control it.
+Wanderer: No one's ever tried it before. If you're gonna try it, it'll take courage, and you have to be confident that you can control it.
 Razmaspes: Is anyone there!? Has anyone seen my daughter...?
 Razmaspes: She's missing. I... I have to find her...
 Razmaspes: I hear someone inside... Spargana? Are you in there?
 Razmaspes: Aaaargh!
 Durin: If I can use my Abyssal powers to warn him that there is danger here... maybe it'll change his decision. Maybe he'll stay away.
 Albedo: Yes. The important thing is not the nature of the power, but rather how you use it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
+Wanderer: To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
 Durin: ...Let me try. I should be able to influence that thing.
 
 ## Objective 21
@@ -907,7 +907,7 @@ Razmaspes: Aaaargh!
 (Make use of the stone pillars to aid Razmaspes)
 
 Durin: He... He really left! We did it!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Don't celebrate too soon. Follow him, see what he does next.
+Wanderer: Don't celebrate too soon. Follow him, see what he does next.
 
 ## Objective 23
 
@@ -937,7 +937,7 @@ Razmaspes: Ah!
 
 Razmaspes: The barrier's gone too. How odd...
 Razmaspes: Anyway, I guess I'll keep going.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
+Wanderer: Quickly, let's keep up.
 
 ## Objective 25
 
@@ -957,7 +957,7 @@ Razmaspes: Ah!
 (Make use of explosives to aid Razmaspes)
 
 Razmaspes: So many... monsters...!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
+Wanderer: There's still a chance, Durin. Use the traps.
 
 ## Objective 27
 
@@ -1055,7 +1055,7 @@ Razmaspes: Huh? That's... That looks like one of my daughter's books!
 Razmaspes: Oh, thank you, thank you...
 Razmaspes: Yes, it's one of hers for sure — there's her name on it, right there! She left her backpack here.
 Monster: ——
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Durin, just like last time! Use the explosives!
+Wanderer: Durin, just like last time! Use the explosives!
 
 ## Objective 35
 
@@ -1068,7 +1068,7 @@ Monster: ——
 
 Durin: It won't work... there's not enough left. If he makes it in, he'll die.
 Durin: But then... This clue could be the key to him finding his daughter...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It might not be the only one. Better he misses that clue than loses his life.
+Wanderer: It might not be the only one. Better he misses that clue than loses his life.
 Durin: I guess so...
 
 ## Talk 37 (alternative/additional)
@@ -1093,11 +1093,11 @@ Razmaspes: I no longer have anywhere else to go...
 
 Durin: I'm sorry... I'm so sorry...
 Durin: He refuses to go anywhere else... Whether he opens this door or not, all that awaits him now is death. We... couldn't change his fate.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Durin: Albedo, Hat Guy, let's try one more time. I don't know how we're going to do this, but I don't want to give up either.
 Razmaspes: Why am I here... What's going on? All these scenes running through my head... Where are they from?
 Durin: Huh? What's going on?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Albedo: His reactions have changed.
 Razmaspes: How many times have I... What's happening to me? I—I...
 Razmaspes: Huh. Wait. Who are you?
@@ -1107,7 +1107,7 @@ Razmaspes: But... You were the ones guiding me using that marked barrier, right?
 Razmaspes: I haven't done anything yet, but those monsters, those deaths... They feel like memories. Like things I really did experience...
 Razmaspes: I... I won't find my daughter. In fact, I'll ultimately die trying to find her. Isn't that right?
 Durin: Wh... No, it isn't.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Yes, it is.
+Wanderer: Yes, it is.
 Albedo: Even so, we're trying to find a way out of this.
 Razmaspes: You've not seen my daughter either, have you?
 Durin: Hmm...
@@ -1117,10 +1117,10 @@ Durin: ...I'm sorry we couldn't help you.
 Razmaspes: ...
 Razmaspes: I'm just... tired. Maybe this is destiny. Maybe it doesn't matter how hard I search...
 Razmaspes: How long do I have left?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Experience says fifteen to twenty minutes.
+Wanderer: Experience says fifteen to twenty minutes.
 Razmaspes: Fifteen to twenty... *sigh*
 Razmaspes: Thank you for all your help. Let's rest a while. You look exhausted too...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Now's not the time for you to start pitying us.
+Wanderer: Now's not the time for you to start pitying us.
 Razmaspes: Haha, it's not pity... I'm just... realizing that I've only got ten or so minutes left, you know?
 Razmaspes: You say you're from Mondstadt, yes? A place with windmills, where the people enjoy limitless freedom?
 Razmaspes: And you're from Sumeru, where they've built an academy into a giant tree?
@@ -1128,7 +1128,7 @@ Albedo: Yes. It seems you've never heard of either place.
 Razmaspes: Those names are unknown to me, I'm afraid, yes. Have you heard of Hyperborea?
 Durin: I have, but... I heard that it was destroyed in the distant past...
 Razmaspes: I see. That was where my ancestors once lived. What about Delphi Pytho? Was it later rebuilt?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I've never heard that name.
+Wanderer: I've never heard that name.
 Razmaspes: Then what about Sal Vindagnyr?
 Albedo: I have seen that name on stone tablets on Dragonspine, but I'm afraid the only things left of that place are its ruins.
 Razmaspes: I see... Sure enough, there was no way to turn this around, huh...
@@ -1137,8 +1137,8 @@ Albedo: It's alright. We did hear something new, at least.
 Razmaspes: From how you speak of your lives, things must be going alright for you, I guess?
 Durin: They are. Mondstadt is a place of freedom and happiness. There's a lot of good people in the Church and the Knights of Favonius, and even outsiders find that it's an easy place to feel at home.
 Durin: We have festivals a few times a year... everyone gets together to drink, sing, and be merry...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Sumeru's a lot more uptight. Not really the kind of place where you can relax. It's a nation fraught with problems wherever you look.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But if all you want in life is to seek knowledge, I guess it's pretty much paradise.
+Wanderer: Sumeru's a lot more uptight. Not really the kind of place where you can relax. It's a nation fraught with problems wherever you look.
+Wanderer: But if all you want in life is to seek knowledge, I guess it's pretty much paradise.
 Razmaspes: That's wonderful.
 Razmaspes: In other words, after this all-devouring black tide passed, humanity did not merely avoid extinction, but rose to build prosperous civilizations anew.
 Razmaspes: I mean, I can see you all right now. That must mean the future isn't a total mess, right?
@@ -1148,34 +1148,34 @@ Razmaspes: The chances are slim, I know, but I'd like to spend these last few mi
 Razmaspes: May we meet again... Well, or not, most probably... In that case, may your wishes come true.
 Albedo: He's gone. In a few minutes, he will meet the end that was his to begin with.
 Albedo: The ending of this tale did not change, but I believe that we've just made the most progress we have yet.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "May your wishes come true"... If only it were so simple.
+Wanderer: "May your wishes come true"... If only it were so simple.
 Durin: Hat Guy, could I ask you a question?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmm?
+Wanderer: Hmm?
 Durin: You've never talked about your past. It seems complicated... and it weighs heavily on you, too.
 Durin: Would you be willing to tell me about it? I mean, sometimes it's better to get things out in the open. Take that guy we tried to help, for instance — at least he said goodbye with a smile, right?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Durin: I know about Albedo's past. Our experiences are very similar, and he created me.
 Durin: As for you, you're my first friend, and you've witnessed every step I've taken. But by comparison, I know nothing about you.
 Durin: Either way, I mean, we're still best friends! But... if I knew more about you, I might understand your thoughts a bit better...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I've told you about myself. I'm a student at the Akademiya.
+Wanderer: I've told you about myself. I'm a student at the Akademiya.
 Durin: And what did you do before that?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Prepared for the entrance exam.
+Wanderer: Prepared for the entrance exam.
 Durin: ...Alright. If you really don't want to talk about it, I won't press you any further.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I was a puppet bu{RUBY#[D]Simulanka}ilt from the branches of a white tree, using technology left behind by the Khaenri'ahn schools of mechanical engineering.
+Wanderer: ...
+Wanderer: I was a puppet bu{RUBY#[D]Simulanka}ilt from the branches of a white tree, using technology left behind by the Khaenri'ahn schools of mechanical engineering.
 Albedo: A white tree? You mean an Irminsul tree?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Yes. A branch of Irminsul that was once connected to the main tree.
+Wanderer: Yes. A branch of Irminsul that was once connected to the main tree.
 Durin: So you had a human creator too...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Yeah. But my creator abandoned me after deciding that I was a failure.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: After that...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Durin, resisting the influence of the Abyss, suppressing the urge to destroy, trying to do the right thing... None of these things are easy.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But no matter how hard they are, trying to rewrite past wrongs is far harder.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You asked me if you would create a new tragedy if you failed. I told you there was no point speculating about that.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But the real answer is... Yes. You absolutely will.
+Wanderer: Yeah. But my creator abandoned me after deciding that I was a failure.
+Wanderer: After that...
+Wanderer: Durin, resisting the influence of the Abyss, suppressing the urge to destroy, trying to do the right thing... None of these things are easy.
+Wanderer: But no matter how hard they are, trying to rewrite past wrongs is far harder.
+Wanderer: You asked me if you would create a new tragedy if you failed. I told you there was no point speculating about that.
+Wanderer: But the real answer is... Yes. You absolutely will.
 Durin: Hat Guy...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But at least you've got people here to help steer you away from the wrong path. So... just keep aiming towards the light.
+Wanderer: But at least you've got people here to help steer you away from the wrong path. So... just keep aiming towards the light.
 Durin: I will. I promise.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Alright. Break time's over.
+Wanderer: Alright. Break time's over.
 Dodocommunication Device: Dodo!
 Durin: Hello? Durin speaking...
 Alice: Hello friends, it's me. What have you been up to, hmm? I'm detecting some unmistakable fluctuations here at the border.
@@ -1399,7 +1399,7 @@ Razmaspes: Ah!
 ### Free Talk 5
 
 Durin: He... He really left! We did it!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Don't celebrate too soon. Follow him, see what he does next.
+Wanderer: Don't celebrate too soon. Follow him, see what he does next.
 
 ### Free Talk 6
 
@@ -1421,7 +1421,7 @@ Razmaspes: The monster's gone... Is it safe now?
 
 Razmaspes: The barrier's gone too. How odd...
 Razmaspes: Anyway, I guess I'll keep going.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Quickly, let's keep up.
+Wanderer: Quickly, let's keep up.
 
 ### Free Talk 11
 
@@ -1445,7 +1445,7 @@ Razmaspes: No good. Gotta keep moving ahead...
 ### Free Talk 15
 
 Razmaspes: So many... monsters...!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: There's still a chance, Durin. Use the traps.
+Wanderer: There's still a chance, Durin. Use the traps.
 
 ### Free Talk 16
 
@@ -1468,7 +1468,7 @@ Phryazantus: What!? What's this? Hey, let us out!
 
 ### Free Talk 20
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Stop him, Durin. We can't let him get any further in.
+Wanderer: Stop him, Durin. We can't let him get any further in.
 
 ### Free Talk 21
 

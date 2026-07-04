@@ -180,10 +180,10 @@ Mona: (Old Hag... I guess you do deserve the title of Trismegistus after all.)
 Fischl: Ozvaldo Hrafnavins... Dost thou see what I am seeing? Tell me that my all-perceiving Auge der Verurteilung deceiveth me not!
 Oz: Your eyes see true, Mein Fräulein.
 Fischl: Very well. Then, as sovereign ruler of the Immernachtreich, I extend to you both my greetings, O Night Dragon from the Land of the Thousand Stars, and his hat-wearing servant.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Who did you just call a servant?
+Wanderer: Who did you just call a servant?
 Oz: What Mein Fräulein means to say is, "Hello, it's a pleasure to meet you."
 Mini Durin: Pleasure to meet you too! But Hat Guy's not my servant, he's my friend.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Now you're over-explaining.
+Wanderer: Now you're over-explaining.
 Paimon: Hat Guy, Mini Durin! Found you at last! Whoa, and Fischl's with you, too?
 Fischl: Ohoho! Greetings, Outlander blessed by the Immernachtreich! How honored you are to meet your Prinzessin beneath the stars of another sky... Clearly, a decision made by fate itself!
 
@@ -206,7 +206,7 @@ Klee: Mhm! Our moms were friends, which makes you my big brother! My mom used to
 Mini Durin: ...Big brother?
 Traveler: You're part of the family now!
 Mini Durin: Wow... Thank you, Klee! Can I go play with Klee, Hat Guy?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Suit yourself.
+Wanderer: Suit yourself.
 Klee: Albedo, Albedo, can I—
 Albedo: Go on — just don't go too far away. I'll come pick you up later.
 Klee: Yey! C'mon Mini Durin! Do you wanna come play with us too, Fischl?
@@ -215,50 +215,50 @@ Oz: What Mein Fräulein means to say is, perhaps we can all play hide-and-seek t
 Klee: Hooray! I love hide-and-seek!
 Mini Durin: Me too!
 Albedo: To return to our previous discussion, Mr. Hat Guy, you were telling me about a prophecy?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I heard B talking to M. What she said was...
+Wanderer: I heard B talking to M. What she said was...
 "B": Since you're so persistent, let me tell you a secret...
 "B": R's child... will one day rise from the dead.
 Paimon: Huh? Is she saying that... Dragonspine-Durin will come back to life!?
 Traveler: I'm shocked...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I only heard it in a memory. So don't hold me to it.
+Wanderer: I only heard it in a memory. So don't hold me to it.
 Albedo: Understood. My recent observations at Dragonspine lend credence to this prophecy as well.
 Albedo: Durin's heart has slowly but surely been growing in vitality. The process is extremely slow, but the trend is clear...
 Paimon: Aah... What should we do?
 Albedo: To start with, plan for every potential scenario. Including, of course, the worst-case scenario...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Albedo: I am well aware of Durin's past, and I sincerely hope that things never escalate to that point. Still, we need to be prepared for every possibility.
 Albedo: If the prophecy is true, and Durin's heart will one day beat again... I'd like to hope that whatever rises from the dead is no "evil dragon."
 Albedo: If you understand what I mean.
 Paimon: Kind of...? But not really.
 Albedo: And so... When the time comes, Mr. Hat Guy, will you and Simulanka's Durin be willing to lend us a hand in our hour of need?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Huh? What's this got to do with me?
+Wanderer: Huh? What's this got to do with me?
 Albedo: You saved the Durin of this world. I don't see that as a mere coincidence.
 Albedo: If there is any meaning to be read into the actions of the three Goddesses beyond fairytale whimsy alone, I can only boldly speculate that...
 Albedo: ...The fate of this reflected world may have a reciprocal effect upon our own world.
 Albedo: If Durin of Dragonspine will soon come back to life, we will need Mini Durin's help... as well as yours, given that your fates are now intertwined.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Well, that's a nuisance.
+Wanderer: Well, that's a nuisance.
 Albedo: To be sure. It certainly won't be easy.
 Klee: Albedo, Albedo! There's a flying paper ship over there! Can we go see it together, pleeease?
 Albedo: Sure. Two seconds, I'll be right with you.
 Albedo: Please give my suggestion some thought, Mr. Hat Guy.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
+Wanderer: ...
 Mini Durin: Hat Guy, I'm back! ...Hmm? What were you guys talking about?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Nothing.
+Wanderer: Nothing.
 Paimon: ...
 Mini Durin: Huh? Okay then. Let's go join the others. Everyone's going to check out the new origami ship!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Alright. I'll be right there.
+Wanderer: ...Alright. I'll be right there.
 
 Option 1:
 
-> Traveler: #{REALNAME[ID(1)]}...
+> Traveler: Wanderer...
 
 Option 2:
 
 > Traveler: Are you worried about Durin?
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Why would I be? Do I strike you as someone who cares about other people's issues?
+Wanderer: Why would I be? Do I strike you as someone who cares about other people's issues?
 Traveler: (Now that he's saved Simulanka's Durin, maybe he'll be sympathetic to the Durin of our world...?)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Quit trying to guess what I'm thinking. I'm leaving.
+Wanderer: Quit trying to guess what I'm thinking. I'm leaving.
 Traveler: (Hmm, Albedo was right. He needs time to think about it for himself.)
 Klee: Aww! What a lovely little boat!
 Mini Durin: The Forest Fairy helped us make it!
@@ -268,29 +268,29 @@ Mini Durin: Huh...? A name?
 Klee: Mhm! Every boat has a name! At least, all the ones I've seen before.
 Albedo: They're usually symbolic names that represent something aspirational.
 Mini Durin: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Let's go with "The Durin."
+Wanderer: ...
+Wanderer: Let's go with "The Durin."
 Mini Durin: Huh? You want to name it after me?
 Paimon: Oh! You mean, to wish Mini Durin a safe voyage as he sails into a new chapter of his life beyond this world?
 Fischl: Your Prinzessin approves. Let this vessel bear the name of the most esteemed dragon of the night.
 Mini Durin: "The Durin"... Hehe, let's call it that, then! Thank you, Hat Guy!
 Mini Durin: Also... Can I ask you a favor?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Go on.
+Wanderer: ...Go on.
 Mini Durin: Remember how Mom's friend said I should be able to leave this world? Well... I want to pay a visit to your world. Just a quick trip! Can we?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Huh?
+Wanderer: ...Huh?
 Mini Durin: ...I—Is that a no?
 Paimon: Paimon thinks that's a great idea. If the people of Simulanka are allowed to go to Teyvat, then what's the problem with taking Mini Durin there for a visit?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...I'm assuming I'll have to be your bodyguard while we're there?
+Wanderer: ...I'm assuming I'll have to be your bodyguard while we're there?
 Mini Durin: I... I can protect myself! And I'll do what you say, I won't fly off on my own, I promise! Please, can I go?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...It'll be up to you to stick close. If you disappear on me, don't expect me to come looking.
+Wanderer: ...
+Wanderer: ...It'll be up to you to stick close. If you disappear on me, don't expect me to come looking.
 Mini Durin: Got it! I'll stick close!
 Albedo: Why don't you take The Durin? Now you've given it a name, it'll be a maiden voyage for the boat and a brand-new journey for you.
 Klee: Are you leaving, Mini Durin? Okay... Well, make sure you come visit me in Mondstadt so we can play together again! Klee will draw you a map to show you the way.
 Fischl: Though our time together has been as fleeting as a ray of light in the depths of the long night, the Immernachtreich will welcome you with the grandest of music ceremonies on the occasion of our next reunion. As surely as the stars in the sky watch over us, we shall meet again.
 Oz: What Mein Fräulein means is that you're always welcome to visit her at home as well.
 Mini Durin: Cool! Ah, I have so many new friends now... I'm so happy!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Are you done yet? If you want to leave, then get over here.
+Wanderer: Are you done yet? If you want to leave, then get over here.
 Traveler: Take care.
 Mini Durin: Thank you, everyone! Thank you so much! The blessings you gave me are more precious than any treasure, and more beautiful than any fairytale!
 Mini Durin: Next time, it will be my turn to make your wishes come true!

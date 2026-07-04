@@ -34,7 +34,7 @@ Paimon: If we can *hide amidst the Iktomisaurus patrol squad*, maybe we'll have 
 
 (Investigate the camp)
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Oberon: Cooo?
 Paimon: Huh... Is that you, Oberon?
 Oberon: Croooo!
@@ -59,11 +59,11 @@ Quilla: I'm a villain. Is it not natural for a villain to do bad things? Besides
 Quilla: Haha, and now I'm going to do something more wicked still! This time, you're not going to get away.
 Quilla: Go get them, Furball!
 Furball: Gwoooo!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Traveler: #Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]}? Are you really gonna take on someone that much bigger than you?
+Paimon: Little One? Are you really gonna take on someone that much bigger than you?
 Oberon: Crrooo...
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: Oberon looks kinda out of it. Is he just worried about Taruka, or has he eaten too many Saurus Crackers...?
 Paimon: #Maybe {REALNAME[ID(2)|SHOWHOST(true)]} really wants to cheer him up, so he bravely stepped out to protect us?
 Quilla: The things in this world that courage alone cannot change outnumber the sand grains of Sumeru. Compared to something illusory like that, absolute control is more reliable.
@@ -73,40 +73,40 @@ Paimon: #Amazing! {REALNAME[ID(2)|SHOWHOST(true)]} dodged the attack! That's jus
 Option 1:
 
 > Traveler: Attack.
-> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
+> Paimon: Little One is ready to attack!
 
 Option 2:
 
 > Traveler: Defend.
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
-> Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
+> Little One: Rooo... Rawr!
+> Paimon: Little One seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
 
 Option 3:
 
 > Traveler: Use an item.
 > Paimon: There's nothing we can use right now! Also, don't you think it's a bit too late to set Beast Trap now?
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rooo... Rawr!
+> Little One: Rooo... Rawr!
 > Paimon: #Oh! {REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
 
 Option 4:
 
 > Traveler: Run away.
 > Paimon: This isn't the time to run away!
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Wrrooo... Rawr!
+> Little One: Wrrooo... Rawr!
 > Paimon: #Even {REALNAME[ID(2)|SHOWHOST(true)]} gets it! Look, he's ready to attack!
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: The attack hit! It dealt... almost no damage!?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: Well, getting a hit in is already pretty impressive! Phew— Paimon's kinda feeling tired already. Have we really only gone one round? What's going on...
 Quilla: It's my turn now, right? Attack!
-Paimon: #{REALNAME[ID(2)|SHOWHOST(true)]} quickly assumes a defensive stance to weather the opponent's fierce assault! He successfully blocks it!
+Paimon: Little One quickly assumes a defensive stance to weather the opponent's fierce assault! He successfully blocks it!
 Quilla: Wait, your Saurian defended on his own right after attacking! Tch, despicable rule breaker...
 Traveler: The best way to win a turn-based game is not to take turns!
 Paimon: What should we do next?
 Oberon: ...Krraaaaa!
 Paimon: Huh? Oberon seems to be pulling himself together!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: Paimon doesn't understand what they're saying, but it looks like they've reached some kind of... mutual understanding...?
 
 Option 1:
@@ -130,7 +130,7 @@ Option 4:
 > Traveler: Run away.
 > Paimon: C'mon, things are going well. Why are you still thinking about running away!?
 
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: #Oberon has blocked the opponent's aerial escape route, and {REALNAME[ID(2)|SHOWHOST(true)]} is launching an attack! A brilliant coordinated strike!
 Paimon: That's a lot of damage Furball's taking! Did it eat a bad hit to the foot? Like, "stubbing your toe against the corner of a table," bad? Either way, the opponent seems shaken up and unable to move!
 
@@ -153,11 +153,11 @@ Option 3:
 Option 4:
 
 > Traveler: Let's run away now!
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Wooo... Rrroo...
+> Little One: Wooo... Rrroo...
 > Paimon: #C'mon! You're even getting {REALNAME[ID(2)|SHOWHOST(true)]} down now!
 
 Oberon: Kraaaa!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Paimon: #Oh? It looks like {REALNAME[ID(2)|SHOWHOST(true)]} and Oberon have a plan...
 Paimon: Saurus Crackers? Where did these Saurus Crackers come from?
 Oberon: Coo! Krraaa!
@@ -175,7 +175,7 @@ After reciting the trite lines that petty villains such as herself are wont to s
 Paimon: Oh! Paimon forgot to ask her where Taruka is...
 Oberon: Crooo...
 Paimon: Hey, cheer up for now. Taruka's a smart kid. He'll be fine!
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr! Raaaawr!
+Little One: Rawr! Raaaawr!
 Paimon: #Yes, that's what you think too, right, {REALNAME[ID(2)|SHOWHOST(true)]}? C'mon, Oberon, let's get you back to the flight school first!
 
 ## Objective 9
@@ -219,17 +219,17 @@ Lamizana: I'm a real man, so I won't try to weasel out of my responsibilities.
 Option 1:
 
 > Traveler: #We'll get {REALNAME[ID(2)|SHOWHOST(true)]} to give you a punch.
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+> Little One: Rawr!
 
 Option 2:
 
 > Traveler: #I'll have {REALNAME[ID(2)|SHOWHOST(true)]} kick you in the toes.
-> #{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+> Little One: Rawr!
 
 Lamizana: Ouch! Ow! I haven't been hit, but it already hurts! Please stay your merciful hands... and feet!
 Paimon: Didn't you just say you're a real man who won't try to weasel out? How pathetic.
 Paimon: #Forget it, we're not that petty. Don't you agree, Traveler, {REALNAME[ID(2)|SHOWHOST(true)]}?
-#{REALNAME[ID(2)|SHOWHOST(true)]}: Rawr!
+Little One: Rawr!
 Lamizana: Thanks for forgiving me. The flight school... well, it has no doors, but its figurative doors will always be open to you.
 Taruka: #Since you and {REALNAME[ID(2)|SHOWHOST(true)]} are so close, I wanted to ask you for the secret to getting along well with little Saurians!
 Paimon: Hehe, no problem. We'll be back later if we get the chance!

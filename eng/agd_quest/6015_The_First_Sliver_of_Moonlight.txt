@@ -30,7 +30,7 @@ Marionette: Once you die, it doesn't matter how great you were in life. Only the
 Nefer: Hey, come on out! They're back!
 Marionette (Marionette & The Knave): —!
 Marionette: You're back? And your head's still screwed on? And you still have all your limbs?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: What does it look like? Way to keep your composure, Madame.
+Wanderer: What does it look like? Way to keep your composure, Madame.
 Marionette: Excuse you! I am perfectly composed!
 Traveler: Hey, everyone... I'm back.
 Nefer: Glad you're okay.
@@ -40,11 +40,11 @@ Marionette: Worry? Hahaha! Oh, yeah, right! You think we, the Fatui, were worrie
 The Knave: We were worried sick.
 Marionette: Hey!
 The Knave: #Traveler and I were already friends. You are free to join this mission in whatever capacity you please — much like your tea parties.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Hmph. It's a laugh a minute with you guys.
+Wanderer: Hmph. It's a laugh a minute with you guys.
 Flins: I must say, I was quite surprised when Mr. Albedo told me he would need no additional aid.
 Albedo: We discussed this on our way back as well. I am rarely so unequivocal, but in this case, we had full confidence in Hat Guy.
 Durin: #He said he knew what he was doing. Albedo and I pretty much just had to wait outside on standby... Meanwhile, Hat Guy broke into the energy field and rescued Traveler solo...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You didn't have to mention that.
+Wanderer: You didn't have to mention that.
 Flins: Well, I'm thoroughly impressed. You are a force to be reckoned with, Hat Guy.
 Paimon: #Is he back? Is he really back?
 Traveler: Paimon!
@@ -312,56 +312,56 @@ Marionette: And I need accurate results, not vague prophecies! Where the heck am
 Marionette: ...Ahem. Anyway, time to shelve the discussion on technical difficulties. Being a killjoy isn't very ladylike, after all.
 The Knave: Either way, we've done what we can. Rest well, everyone. Remember to let us know if anything new comes up.
 Traveler: (Hat Guy? Is he hinting that we should talk outside?)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Let's go somewhere a little more private.
+Wanderer: Let's go somewhere a little more private.
 
 ## Talk 10
 
 (Talk to the Wanderer)
 
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You know that Dori went back to Sumeru, right?
+Wanderer: You know that Dori went back to Sumeru, right?
 Traveler: Yeah, she mentioned she was planning to head back.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Things aren't looking good for Nod-Krai. She's gone to spread the word so that Sumeru has a chance to prepare for the worst.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: From what I know of Dottore, there are two possible reasons why he hasn't made a move yet. One is that he's still working through some kinks in his new powers. The other is, he wants to see how we're going to react.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He'll easily devour everything eventually, so I guess he's in no rush to make it happen.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: The first false god he made was me... Now it's his turn. Even though my records were erased from Irminsul, Dottore's ideas haven't changed one bit.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He once told me that becoming a god was like turning yourself into a hungry wolf or giant serpent to devour the moon. Clearly, he began studying the Moon Goddesses' powers long before he even tried making a god.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: He's always wanted to get his greedy hands on divine authority one way or another... And in the end, he devoured the moon where I failed.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: In the desert of Sumeru, there is a chessboard built by King Deshret, also known as Al-Ahmar. I don't know if it was a real game, or if he was just trying to challenge his servants and citizens in some way.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: But creating games and setting rules... Gods do that as a matter of course. That's the kind of power Dottore craves.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Now he has the trilunar authority, his power is leagues beyond the common people. I don't think there's any point in other nations rushing to the frontline. They're better off focusing on defense and hoping they can fend off any threats that spill out from Nod-Krai.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Either way, Dori will inform Lesser Lord Kusanali, and she will contact the other gods in turn.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: The Seven will have some recourse available. If nothing else, their protection should keep the rest of the world from descending into chaos as quickly as Nod-Krai has.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: So on the bright side, even if Nod-Krai is doomed, your friends in other nations won't be in any immediate peril.
+Wanderer: Things aren't looking good for Nod-Krai. She's gone to spread the word so that Sumeru has a chance to prepare for the worst.
+Wanderer: From what I know of Dottore, there are two possible reasons why he hasn't made a move yet. One is that he's still working through some kinks in his new powers. The other is, he wants to see how we're going to react.
+Wanderer: He'll easily devour everything eventually, so I guess he's in no rush to make it happen.
+Wanderer: The first false god he made was me... Now it's his turn. Even though my records were erased from Irminsul, Dottore's ideas haven't changed one bit.
+Wanderer: He once told me that becoming a god was like turning yourself into a hungry wolf or giant serpent to devour the moon. Clearly, he began studying the Moon Goddesses' powers long before he even tried making a god.
+Wanderer: He's always wanted to get his greedy hands on divine authority one way or another... And in the end, he devoured the moon where I failed.
+Wanderer: In the desert of Sumeru, there is a chessboard built by King Deshret, also known as Al-Ahmar. I don't know if it was a real game, or if he was just trying to challenge his servants and citizens in some way.
+Wanderer: But creating games and setting rules... Gods do that as a matter of course. That's the kind of power Dottore craves.
+Wanderer: Now he has the trilunar authority, his power is leagues beyond the common people. I don't think there's any point in other nations rushing to the frontline. They're better off focusing on defense and hoping they can fend off any threats that spill out from Nod-Krai.
+Wanderer: Either way, Dori will inform Lesser Lord Kusanali, and she will contact the other gods in turn.
+Wanderer: The Seven will have some recourse available. If nothing else, their protection should keep the rest of the world from descending into chaos as quickly as Nod-Krai has.
+Wanderer: So on the bright side, even if Nod-Krai is doomed, your friends in other nations won't be in any immediate peril.
 Traveler: That's good to know. But I'm not ready to give up on Nod-Krai yet.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Heh. There's a word for people who refuse to let anything go. It's called being greedy.
+Wanderer: Heh. There's a word for people who refuse to let anything go. It's called being greedy.
 Traveler: Maybe it sounds greedy to you. And probably naive, too. But whatever you call it, that's what gives me the determination to keep fighting.
 Traveler: Battles are fleeting, but the will to fight is a long-term commitment. Give up for even a moment, and your resolve will shatter.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Why do you always feel the need to do the right thing? No one is born to be a savior.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I mean, who's gonna criticize you if you fail, or give up?
+Wanderer: Why do you always feel the need to do the right thing? No one is born to be a savior.
+Wanderer: I mean, who's gonna criticize you if you fail, or give up?
 Traveler: Don't take this the wrong way, but... Dottore said something similar to me. I guess the Fatui attracts people who don't believe in saviors.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Not necessarily. It's less about belief for me — I just want to know how determined you really are. After all, I don't owe anything to anyone else here. Only you.
+Wanderer: Not necessarily. It's less about belief for me — I just want to know how determined you really are. After all, I don't owe anything to anyone else here. Only you.
 Traveler: You look kinda worried.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: If your arch-nemesis was about to achieve their ultimate goal, I think you might feel a little worried too.
+Wanderer: If your arch-nemesis was about to achieve their ultimate goal, I think you might feel a little worried too.
 Traveler: (That's true... Dottore is about to become an omniscient, omnipotent deity. That's gotta be a bitter pill to swallow.)
 Traveler: Still, you're calmer than I expected.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Obviously.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...I have to admit that my past self was a reckless fool who misunderstood not only the point of revenge, but how to achieve it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: And as much as I want my vengeance, I know I'm not gonna get it by acting alone. If the world's taught me anything, it's to think before I act.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Too bad it never taught me any other virtues, though. So, I am going to destroy Dottore, no matter what it takes.
+Wanderer: Obviously.
+Wanderer: ...I have to admit that my past self was a reckless fool who misunderstood not only the point of revenge, but how to achieve it.
+Wanderer: And as much as I want my vengeance, I know I'm not gonna get it by acting alone. If the world's taught me anything, it's to think before I act.
+Wanderer: Too bad it never taught me any other virtues, though. So, I am going to destroy Dottore, no matter what it takes.
 Traveler: So, what's your plan?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I'll get to that. First, tell me — what do you think of Sandrone?
+Wanderer: I'll get to that. First, tell me — what do you think of Sandrone?
 Traveler: Just like Paimon said... She's a friend. Part of the gang.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: How much do you trust her?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: This is a serious question. Think carefully before you answer.
+Wanderer: How much do you trust her?
+Wanderer: This is a serious question. Think carefully before you answer.
 Traveler: ...
 Traveler: Although she's with the Fatui, she has her own values, and she's helped us a lot. If nothing else, she's clearly going the extra mile for Columbina.
 Traveler: I see no reason not to trust her.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...If you say so.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: In that case, the three of us need to talk. I have some thoughts about her computing problem.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It can be solved — but it will come with a cost.
+Wanderer: ...If you say so.
+Wanderer: In that case, the three of us need to talk. I have some thoughts about her computing problem.
+Wanderer: It can be solved — but it will come with a cost.
 Traveler: How much? If I can afford it, I'll cover it.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: ...Sometimes, your heroism really backs me into a corner, you know that?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: C'mon. Let's go talk to her.
+Wanderer: ...Sometimes, your heroism really backs me into a corner, you know that?
+Wanderer: C'mon. Let's go talk to her.
 
 ## Talk 11
 
@@ -395,30 +395,30 @@ Albedo: Hat Guy mentioned that he was a puppet. It seems that his functions are 
 Albedo: I presume this has something to do with the solution to your computing problem?
 Marionette: #That's right. He and Traveler came to see me...
 Marionette: Wait, what!? You have a solution?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Would you calm down? Why do you always react so hysterically to everything?
+Wanderer: Would you calm down? Why do you always react so hysterically to everything?
 Marionette: Excuse me? How would you know? You shouldn't be so quick to judge complete strangers, it's very bad manners.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Oh, please. It doesn't take that long to figure out that you have a temper.
+Wanderer: Oh, please. It doesn't take that long to figure out that you have a temper.
 Marionette: Hah! Where does a mere student get that kind of confidence?
 Marionette: (Discarded)
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
+Wanderer: I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
 Marionette: Huh? Are you serious?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
+Wanderer: See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
 Marionette: Okay, fine. I'll hear you out. So tell me — how do you propose to solve my computing power problem?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
+Wanderer: This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
 Marionette: Easier said than done. Only Irminsul can handle that kind of...
 Marionette: Wait, is that what you're suggesting? But surely we can't just... plug my formula directly into the Ley Lines!
-#{REALNAME[ID(1)|HOSTONLY(true)]}: You should be able to tell that I'm not human, right?
+Wanderer: You should be able to tell that I'm not human, right?
 Marionette: Yeah, I noticed. The technology, though... Seems pretty ancient. Very different from Fontaine's. It's a completely different system.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Khaenri'ahn, to be precise. I'm what they would have called a puppet.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
+Wanderer: Khaenri'ahn, to be precise. I'm what they would have called a puppet.
+Wanderer: Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
 Marionette: You... Do you mean...
-#{REALNAME[ID(1)|HOSTONLY(true)]}: #Traveler and I have talked it over. He's willing to vouch for you, so... I'll allow you to borrow my co{RUBY#[D]computational hub}re for your calculations.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
+Wanderer: #Traveler and I have talked it over. He's willing to vouch for you, so... I'll allow you to borrow my co{RUBY#[D]computational hub}re for your calculations.
+Wanderer: It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
 Marionette: Khaenri'ahn technology and Irminsul wood... Who in the world could've built you?
 Marionette: ...Are you sure about this? A puppet without its co{RUBY#[D]computational hub}re will cease functioning completely... and if it's left in that state for too long, it might not recover. You could die if you do this! You do realize that, don't you?
-#{REALNAME[ID(1)|HOSTONLY(true)]}: I can put two and two together, yes. No need to rub it in.
+Wanderer: I can put two and two together, yes. No need to rub it in.
 Marionette: I won't lie to you. This has never been done before — I cannot guarantee your safety.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: Doesn't matter. I'm prepared for the worst.
+Wanderer: Doesn't matter. I'm prepared for the worst.
 Marionette: Did you two actually talk this through? Is he... Are we really considering this?
 Traveler: Yes, we discussed it. The bottom line is, he trusts me, and I trust you.
 Traveler: Let's give it a shot, shall we?
@@ -438,12 +438,12 @@ Paimon: Aw, Hat Guy...
 Marionette: On a more positive note, things are progressing steadily on my end. I'll call everyone in for a meeting once the results are out.
 Black Screen Text: Sandrone returns to her initial question. She and Albedo enter an in-depth discussion.
 Black Screen Text: You, Paimon, and Durin stand next to Hat Guy, keeping watch over his silent body. You've never seen him in this state before.
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "The worst case scenario with the co{RUBY#[D]computational hub}re removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "A co{RUBY#[D]computational hub}re is completely different from a heart. It's like another vital organ entirely. I never believed it could be a true replacement for what I sought."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "But in the end, it turns out the core was more useful to me. Haha, pretty funny when you think about it. It's like the punchline of my entire life."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "I have already experienced both a past life and a next life."
-#{REALNAME[ID(1)|HOSTONLY(true)]}: "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
+Wanderer: "The worst case scenario with the co{RUBY#[D]computational hub}re removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
+Wanderer: "A co{RUBY#[D]computational hub}re is completely different from a heart. It's like another vital organ entirely. I never believed it could be a true replacement for what I sought."
+Wanderer: "But in the end, it turns out the core was more useful to me. Haha, pretty funny when you think about it. It's like the punchline of my entire life."
+Wanderer: "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
+Wanderer: "I have already experienced both a past life and a next life."
+Wanderer: "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
 Paimon: Sandrone will succeed, won't she? She has to...
 Traveler: She will. We all have to persevere until this is over.
 Durin: That's right. And I'll protect you all until the moment of victory arrives.
