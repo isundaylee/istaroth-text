@@ -504,6 +504,22 @@
     "max_version": "6.6"
   },
   {
+    "category": "agd_artifact_set",
+    "title": "Scarlet Proof",
+    "id": 15047,
+    "relative_path": "agd_artifact_set/15047_Scarlet_Proof.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_artifact_set",
+    "title": "Heart of the Furnace",
+    "id": 15048,
+    "relative_path": "agd_artifact_set/15048_Heart_of_the_Furnace.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_creature",
     "title": "The Abyss",
     "id": 62283044650572,
@@ -517,7 +533,7 @@
     "id": 153036648332328,
     "relative_path": "agd_creature/153036648332328_CODEX_SUBTYPE_ANIMAL.txt",
     "min_version": "1.4",
-    "max_version": "6.5"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -533,7 +549,7 @@
     "id": 47935621010897,
     "relative_path": "agd_creature/47935621010897_CODEX_SUBTYPE_AVIARY.txt",
     "min_version": "1.4",
-    "max_version": "6.5"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -541,7 +557,7 @@
     "id": 20075174380011,
     "relative_path": "agd_creature/20075174380011_CODEX_SUBTYPE_BEAST.txt",
     "min_version": "1.4",
-    "max_version": "6.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -557,7 +573,7 @@
     "id": 227743045397111,
     "relative_path": "agd_creature/227743045397111_CODEX_SUBTYPE_CRITTER.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -581,7 +597,7 @@
     "id": 168581277645155,
     "relative_path": "agd_creature/168581277645155_CODEX_SUBTYPE_FISH.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -2358,6 +2374,78 @@
     "relative_path": "agd_quest/6038_Your_Past_Is_Like_a_Garden.txt",
     "min_version": "6.6",
     "max_version": "6.6"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The White Curtain Falls",
+    "id": 7005,
+    "relative_path": "agd_quest/7005_The_White_Curtain_Falls.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Lelek's Confession",
+    "id": 7006,
+    "relative_path": "agd_quest/7006_Leleks_Confession.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Winter's Mysterious Silence",
+    "id": 7007,
+    "relative_path": "agd_quest/7007_Winters_Mysterious_Silence.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Wraith's Nocturne",
+    "id": 7008,
+    "relative_path": "agd_quest/7008_Wraiths_Nocturne.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Mistilteinn",
+    "id": 7009,
+    "relative_path": "agd_quest/7009_Mistilteinn.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Into the Wind, Into the Frigid North",
+    "id": 7011,
+    "relative_path": "agd_quest/7011_Into_the_Wind_Into_the_Frigid_North.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Gunfire in the Silent Lands",
+    "id": 7012,
+    "relative_path": "agd_quest/7012_Gunfire_in_the_Silent_Lands.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Great Deeds on the Tundra",
+    "id": 7013,
+    "relative_path": "agd_quest/7013_Great_Deeds_on_the_Tundra.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Silence Alone is Disfavored",
+    "id": 7014,
+    "relative_path": "agd_quest/7014_Silence_Alone_is_Disfavored.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_quest",
@@ -18985,6 +19073,622 @@
   },
   {
     "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi",
+    "id": 77000,
+    "relative_path": "agd_quest/77000_Variations_on_Belyi_and_Chernyi.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77001,
+    "relative_path": "agd_quest/77001_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77002,
+    "relative_path": "agd_quest/77002_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77003,
+    "relative_path": "agd_quest/77003_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77004,
+    "relative_path": "agd_quest/77004_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77005,
+    "relative_path": "agd_quest/77005_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77006,
+    "relative_path": "agd_quest/77006_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77007,
+    "relative_path": "agd_quest/77007_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77008,
+    "relative_path": "agd_quest/77008_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77009,
+    "relative_path": "agd_quest/77009_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77010,
+    "relative_path": "agd_quest/77010_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77011,
+    "relative_path": "agd_quest/77011_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77012,
+    "relative_path": "agd_quest/77012_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77013,
+    "relative_path": "agd_quest/77013_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77016,
+    "relative_path": "agd_quest/77016_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77017,
+    "relative_path": "agd_quest/77017_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "To Gaze Upon the Dreaming Pale Crown",
+    "id": 77100,
+    "relative_path": "agd_quest/77100_To_Gaze_Upon_the_Dreaming_Pale_Crown.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Stone Beasts, Like Ghouls Seated",
+    "id": 77101,
+    "relative_path": "agd_quest/77101_The_Stone_Beasts_Like_Ghouls_Seated.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Forbidding Doors of Melancholy",
+    "id": 77102,
+    "relative_path": "agd_quest/77102_Forbidding_Doors_of_Melancholy.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Down in the Dumps",
+    "id": 77103,
+    "relative_path": "agd_quest/77103_Down_in_the_Dumps.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Through the Gates of Ivory",
+    "id": 77104,
+    "relative_path": "agd_quest/77104_Through_the_Gates_of_Ivory.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Sun's Gilded Apple",
+    "id": 77105,
+    "relative_path": "agd_quest/77105_The_Suns_Gilded_Apple.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Bell Ringing at Dusk",
+    "id": 77107,
+    "relative_path": "agd_quest/77107_Bell_Ringing_at_Dusk.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Back on One's Feet",
+    "id": 77110,
+    "relative_path": "agd_quest/77110_Back_on_Ones_Feet.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "To Rest in a Forgotten Field",
+    "id": 77111,
+    "relative_path": "agd_quest/77111_To_Rest_in_a_Forgotten_Field.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Chorus of Solace",
+    "id": 77112,
+    "relative_path": "agd_quest/77112_Chorus_of_Solace.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Sprout Without a Gardener",
+    "id": 77115,
+    "relative_path": "agd_quest/77115_A_Sprout_Without_a_Gardener.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Transplanted From \"Yesterday\" to \"Tomorrow\"",
+    "id": 77116,
+    "relative_path": "agd_quest/77116_Transplanted_From_Yesterday_to_Tomorrow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Small Jack Frost, Big Problems",
+    "id": 77125,
+    "relative_path": "agd_quest/77125_Small_Jack_Frost_Big_Problems.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Procrustes' Iron Bed",
+    "id": 77128,
+    "relative_path": "agd_quest/77128_Procrustes_Iron_Bed.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Great Heart Fettered by Slender Chains",
+    "id": 77129,
+    "relative_path": "agd_quest/77129_A_Great_Heart_Fettered_by_Slender_Chains.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Like a Labyrinth Imprisons Her Servants",
+    "id": 77130,
+    "relative_path": "agd_quest/77130_Like_a_Labyrinth_Imprisons_Her_Servants.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "House of the Soulless",
+    "id": 77131,
+    "relative_path": "agd_quest/77131_House_of_the_Soulless.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Soft Song She Sang",
+    "id": 77132,
+    "relative_path": "agd_quest/77132_The_Soft_Song_She_Sang.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Like a Land Where the Tide’s Song Whispers",
+    "id": 77137,
+    "relative_path": "agd_quest/77137_Like_a_Land_Where_the_Tides_Song_Whispers.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Burn the Storehouses and the Stables",
+    "id": 77142,
+    "relative_path": "agd_quest/77142_Burn_the_Storehouses_and_the_Stables.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Disputes Without Honor and Humanity",
+    "id": 77143,
+    "relative_path": "agd_quest/77143_Disputes_Without_Honor_and_Humanity.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Awaiting the Dawn",
+    "id": 77144,
+    "relative_path": "agd_quest/77144_Awaiting_the_Dawn.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Forested Snowfield",
+    "id": 77148,
+    "relative_path": "agd_quest/77148_Forested_Snowfield.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "An Ark That Used to Be a Soul",
+    "id": 77160,
+    "relative_path": "agd_quest/77160_An_Ark_That_Used_to_Be_a_Soul.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Tides Echo Themselves",
+    "id": 77163,
+    "relative_path": "agd_quest/77163_The_Tides_Echo_Themselves.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Just Like a Snowball",
+    "id": 77185,
+    "relative_path": "agd_quest/77185_Just_Like_a_Snowball.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Like a Land Where the Tide's Song Surrounds",
+    "id": 77187,
+    "relative_path": "agd_quest/77187_Like_a_Land_Where_the_Tides_Song_Surrounds.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Shooting Range and the Deep Shadow Realm",
+    "id": 77195,
+    "relative_path": "agd_quest/77195_The_Shooting_Range_and_the_Deep_Shadow_Realm.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "For an Ice Mirror Fragment",
+    "id": 77202,
+    "relative_path": "agd_quest/77202_For_an_Ice_Mirror_Fragment.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Atop the Floating Snow",
+    "id": 77204,
+    "relative_path": "agd_quest/77204_Atop_the_Floating_Snow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Ever Beneath the Waves",
+    "id": 77209,
+    "relative_path": "agd_quest/77209_Ever_Beneath_the_Waves.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Sunken Ship Sailed Past, Ringing No Bells",
+    "id": 77210,
+    "relative_path": "agd_quest/77210_The_Sunken_Ship_Sailed_Past_Ringing_No_Bells.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "In the Tranquility of Cycles",
+    "id": 77211,
+    "relative_path": "agd_quest/77211_In_the_Tranquility_of_Cycles.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Simple Chores",
+    "id": 77233,
+    "relative_path": "agd_quest/77233_Simple_Chores.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77235,
+    "relative_path": "agd_quest/77235_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77236,
+    "relative_path": "agd_quest/77236_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Variations on Belyi and Chernyi: Schedule",
+    "id": 77237,
+    "relative_path": "agd_quest/77237_Variations_on_Belyi_and_Chernyi_Schedule.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Childhood Happiness",
+    "id": 77500,
+    "relative_path": "agd_quest/77500_Childhood_Happiness.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Adventurers of Teyvat: Grand Showdown!",
+    "id": 77501,
+    "relative_path": "agd_quest/77501_Adventurers_of_Teyvat_Grand_Showdown.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Way of Mutual Aid and Advancement?",
+    "id": 77504,
+    "relative_path": "agd_quest/77504_The_Way_of_Mutual_Aid_and_Advancement.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Promise to Share Our Tips...",
+    "id": 77505,
+    "relative_path": "agd_quest/77505_A_Promise_to_Share_Our_Tips.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Paimon's \"Driyosh\" Way of Solving Problems",
+    "id": 77511,
+    "relative_path": "agd_quest/77511_Paimons_Driyosh_Way_of_Solving_Problems.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Hunter on the Snowfields",
+    "id": 77650,
+    "relative_path": "agd_quest/77650_Hunter_on_the_Snowfields.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Thread of Dawn-Light",
+    "id": 77651,
+    "relative_path": "agd_quest/77651_A_Thread_of_Dawn-Light.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Many Hands Make Light Work",
+    "id": 77652,
+    "relative_path": "agd_quest/77652_Many_Hands_Make_Light_Work.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Remnants of the Shadow Realm",
+    "id": 77653,
+    "relative_path": "agd_quest/77653_Remnants_of_the_Shadow_Realm.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Remnants of the Shadow Realm",
+    "id": 77654,
+    "relative_path": "agd_quest/77654_Remnants_of_the_Shadow_Realm.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Remnants of the Shadow Realm",
+    "id": 77655,
+    "relative_path": "agd_quest/77655_Remnants_of_the_Shadow_Realm.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Daybreak After the Snow",
+    "id": 77656,
+    "relative_path": "agd_quest/77656_Daybreak_After_the_Snow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Special Selection",
+    "id": 77657,
+    "relative_path": "agd_quest/77657_A_Special_Selection.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Newcomers in the Snow",
+    "id": 77670,
+    "relative_path": "agd_quest/77670_Newcomers_in_the_Snow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "One Yet to Take a Bow",
+    "id": 77671,
+    "relative_path": "agd_quest/77671_One_Yet_to_Take_a_Bow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "The Unbowed One's Gratitude",
+    "id": 77672,
+    "relative_path": "agd_quest/77672_The_Unbowed_Ones_Gratitude.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "A Grueling Combat Simulation",
+    "id": 77674,
+    "relative_path": "agd_quest/77674_A_Grueling_Combat_Simulation.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Another Horizon of Adventure",
+    "id": 77676,
+    "relative_path": "agd_quest/77676_Another_Horizon_of_Adventure.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77900,
+    "relative_path": "agd_quest/77900_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77901,
+    "relative_path": "agd_quest/77901_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77902,
+    "relative_path": "agd_quest/77902_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77903,
+    "relative_path": "agd_quest/77903_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77904,
+    "relative_path": "agd_quest/77904_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77905,
+    "relative_path": "agd_quest/77905_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
     "title": "They Who Hear the Sea",
     "id": 79000,
     "relative_path": "agd_quest/79000_They_Who_Hear_the_Sea.txt",
@@ -20206,6 +20910,22 @@
     "relative_path": "agd_character_story/10000133_Sandrone.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_character_story",
+    "title": "Alyosha",
+    "id": 10000148,
+    "relative_path": "agd_character_story/10000148_Alyosha.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_character_story",
+    "title": "Odette",
+    "id": 10000150,
+    "relative_path": "agd_character_story/10000150_Odette.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_subtitle",
@@ -22473,6 +23193,62 @@
   },
   {
     "category": "agd_subtitle",
+    "title": "Wraith's Nocturne (Cs_ZD_AQ70081401_YD_Boy)",
+    "id": 272335640515648,
+    "relative_path": "agd_subtitle/272335640515648_Cs_ZD_AQ70081401_YD_Boy_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Wraith's Nocturne (Cs_ZD_AQ70081401_YD_Girl)",
+    "id": 277548124086417,
+    "relative_path": "agd_subtitle/277548124086417_Cs_ZD_AQ70081401_YD_Girl_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Mistilteinn (Cs_ZD_AQ70091101_ED_Boy)",
+    "id": 187538331363826,
+    "relative_path": "agd_subtitle/187538331363826_Cs_ZD_AQ70091101_ED_Boy_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Mistilteinn (Cs_ZD_AQ70091101_ED_Girl)",
+    "id": 143574333547796,
+    "relative_path": "agd_subtitle/143574333547796_Cs_ZD_AQ70091101_ED_Girl_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Mistilteinn (Cs_ZD_AQ70091801_HY)",
+    "id": 206865861094943,
+    "relative_path": "agd_subtitle/206865861094943_Cs_ZD_AQ70091801_HY_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Great Deeds on the Tundra (Cs_ZD_AQ70131201_TLBD_Boy)",
+    "id": 143987758998646,
+    "relative_path": "agd_subtitle/143987758998646_Cs_ZD_AQ70131201_TLBD_Boy_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "Great Deeds on the Tundra (Cs_ZD_AQ70131201_TLBD_Girl)",
+    "id": 236540755659698,
+    "relative_path": "agd_subtitle/236540755659698_Cs_ZD_AQ70131201_TLBD_Girl_EN.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
     "title": "MDAQ001_OPNew_Part1",
     "id": 9167164402989,
     "relative_path": "agd_subtitle/9167164402989_MDAQ001_OPNew_Part1_EN.txt",
@@ -22573,7 +23349,7 @@
     "id": 139769539443015,
     "relative_path": "agd_material_type/139769539443015_MATERIAL_ADSORBATE.txt",
     "min_version": "1.4",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22589,7 +23365,7 @@
     "id": 190325247802077,
     "relative_path": "agd_material_type/190325247802077_MATERIAL_AVATAR.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22597,7 +23373,7 @@
     "id": 137297451086922,
     "relative_path": "agd_material_type/137297451086922_MATERIAL_AVATAR_MATERIAL.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22605,7 +23381,7 @@
     "id": 259653658487469,
     "relative_path": "agd_material_type/259653658487469_MATERIAL_AVATAR_TALENT_MATERIAL.txt",
     "min_version": "6.0",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22613,7 +23389,7 @@
     "id": 95846659994668,
     "relative_path": "agd_material_type/95846659994668_MATERIAL_AVATAR_TRACE.txt",
     "min_version": "4.8",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22629,7 +23405,7 @@
     "id": 76357981033371,
     "relative_path": "agd_material_type/76357981033371_MATERIAL_BGM.txt",
     "min_version": "2.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22661,7 +23437,7 @@
     "id": 187060639121257,
     "relative_path": "agd_material_type/187060639121257_MATERIAL_CHEST.txt",
     "min_version": "1.4",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22693,7 +23469,7 @@
     "id": 50652477195009,
     "relative_path": "agd_material_type/50652477195009_MATERIAL_CONSUME.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22701,7 +23477,7 @@
     "id": 111173164905405,
     "relative_path": "agd_material_type/111173164905405_MATERIAL_CONSUME_BATCH_USE.txt",
     "min_version": "1.4",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22733,7 +23509,7 @@
     "id": 68604991672989,
     "relative_path": "agd_material_type/68604991672989_MATERIAL_ELEM_CRYSTAL.txt",
     "min_version": "1.4",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22741,7 +23517,7 @@
     "id": 34779264747244,
     "relative_path": "agd_material_type/34779264747244_MATERIAL_EXCHANGE.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22781,7 +23557,7 @@
     "id": 172212247450150,
     "relative_path": "agd_material_type/172212247450150_MATERIAL_FISH_BAIT.txt",
     "min_version": "2.1",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22789,7 +23565,7 @@
     "id": 2184357794678,
     "relative_path": "agd_material_type/2184357794678_MATERIAL_FISH_ROD.txt",
     "min_version": "2.1",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22805,7 +23581,7 @@
     "id": 73639432960531,
     "relative_path": "agd_material_type/73639432960531_MATERIAL_FOOD.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22813,7 +23589,7 @@
     "id": 209254765256800,
     "relative_path": "agd_material_type/209254765256800_MATERIAL_FURNITURE_FORMULA.txt",
     "min_version": "1.5",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22829,7 +23605,7 @@
     "id": 29029886051170,
     "relative_path": "agd_material_type/29029886051170_MATERIAL_GCG_CARD.txt",
     "min_version": "3.3",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22837,7 +23613,7 @@
     "id": 61237999150696,
     "relative_path": "agd_material_type/61237999150696_MATERIAL_GCG_CARD_BACK.txt",
     "min_version": "3.3",
-    "max_version": "6.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22845,7 +23621,7 @@
     "id": 99564974873906,
     "relative_path": "agd_material_type/99564974873906_MATERIAL_GCG_CARD_FACE.txt",
     "min_version": "3.3",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22893,7 +23669,7 @@
     "id": 11779334926657,
     "relative_path": "agd_material_type/11779334926657_MATERIAL_HOME_SEED.txt",
     "min_version": "2.0",
-    "max_version": "6.3"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22949,7 +23725,7 @@
     "id": 143351245270949,
     "relative_path": "agd_material_type/143351245270949_MATERIAL_NAMECARD.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22997,7 +23773,7 @@
     "id": 32423615382224,
     "relative_path": "agd_material_type/32423615382224_MATERIAL_NONE.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23005,7 +23781,15 @@
     "id": 104328083823023,
     "relative_path": "agd_material_type/104328083823023_MATERIAL_NOTICE_ADD_HP.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Odette Quest Photo Book",
+    "id": 103911676546563,
+    "relative_path": "agd_material_type/103911676546563_MATERIAL_ODETTE_QUEST_PHOTO_BOOK.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23013,7 +23797,7 @@
     "id": 29118065750773,
     "relative_path": "agd_material_type/29118065750773_MATERIAL_PHOTOGRAPH_POSE.txt",
     "min_version": "4.7",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23045,7 +23829,7 @@
     "id": 19264075661361,
     "relative_path": "agd_material_type/19264075661361_MATERIAL_PROFILE_FRAME.txt",
     "min_version": "6.0",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23061,7 +23845,7 @@
     "id": 266582649220109,
     "relative_path": "agd_material_type/266582649220109_MATERIAL_QUEST.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23157,7 +23941,23 @@
     "id": 28653025258412,
     "relative_path": "agd_material_type/28653025258412_MATERIAL_TALENT.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Tps Accessory",
+    "id": 180062287248716,
+    "relative_path": "agd_material_type/180062287248716_MATERIAL_TPS_ACCESSORY.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Tps Cloak Upgrade",
+    "id": 18641628655805,
+    "relative_path": "agd_material_type/18641628655805_MATERIAL_TPS_CLOAK_UPGRADE.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23173,7 +23973,7 @@
     "id": 214483900842269,
     "relative_path": "agd_material_type/214483900842269_MATERIAL_WEAPON_SKIN.txt",
     "min_version": "5.7",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23181,7 +23981,7 @@
     "id": 12519571925331,
     "relative_path": "agd_material_type/12519571925331_MATERIAL_WIDGET.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23189,7 +23989,15 @@
     "id": 94410589173661,
     "relative_path": "agd_material_type/94410589173661_MATERIAL_WOOD.txt",
     "min_version": "1.5",
-    "max_version": "6.0"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Zdaq Book Photo",
+    "id": 44027952238971,
+    "relative_path": "agd_material_type/44027952238971_MATERIAL_ZDAQ_BOOK_PHOTO.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23197,7 +24005,7 @@
     "id": 0,
     "relative_path": "agd_achievement/0_Wonders_of_the_World.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23254,6 +24062,14 @@
     "relative_path": "agd_achievement/65_Mortal_Travails_Series_VI.txt",
     "min_version": "6.3",
     "max_version": "6.3"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "Mortal Travails: Series VII",
+    "id": 71,
+    "relative_path": "agd_achievement/71_Mortal_Travails_Series_VII.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23470,6 +24286,14 @@
     "relative_path": "agd_achievement/64_Meetings_in_Outrealm_Series_VI.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "Meetings in Outrealm: Series VII",
+    "id": 72,
+    "relative_path": "agd_achievement/72_Meetings_in_Outrealm_Series_VII.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23742,6 +24566,22 @@
     "relative_path": "agd_achievement/68_Unfettered_Crescent.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "Snezhnaya: Sacred city of ice and pale star (I)",
+    "id": 69,
+    "relative_path": "agd_achievement/69_Snezhnaya_Sacred_city_of_ice_and_pale_star_I.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "Land of Surging Shadows",
+    "id": 70,
+    "relative_path": "agd_achievement/70_Land_of_Surging_Shadows.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_voiceline",
@@ -24688,6 +25528,22 @@
     "max_version": "6.7"
   },
   {
+    "category": "agd_voiceline",
+    "title": "Alyosha",
+    "id": 10000148,
+    "relative_path": "agd_voiceline/10000148_Alyosha.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_voiceline",
+    "title": "Odette",
+    "id": 10000150,
+    "relative_path": "agd_voiceline/10000150_Odette.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_talk_group",
     "title": "Unreconciled Stars (ActivityGroup 2001)",
     "id": 1000002001,
@@ -24990,6 +25846,14 @@
     "relative_path": "agd_talk_group/2047_ActivityGroup.txt",
     "min_version": "6.5",
     "max_version": "6.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Great Expeditionist Challenge (ActivityGroup 2050)",
+    "id": 1000002050,
+    "relative_path": "agd_talk_group/2050_ActivityGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -25889,6 +26753,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Gate blocked by ice and snow (GadgetGroup 123001_133711123)",
+    "id": 123001133711123,
+    "relative_path": "agd_talk_group/123001_133711123_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gate blocked by ice and snow (GadgetGroup 123002_133711123)",
+    "id": 123002133711123,
+    "relative_path": "agd_talk_group/123002_133711123_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Nameless Stone Statue (GadgetGroup 123006_511010123)",
     "id": 123006511010123,
     "relative_path": "agd_talk_group/123006_511010123_GadgetGroup.txt",
@@ -26086,6 +26966,14 @@
     "relative_path": "agd_talk_group/132004_133004132_GadgetGroup.txt",
     "min_version": "4.5",
     "max_version": "4.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 134001_133711134",
+    "id": 134001133711134,
+    "relative_path": "agd_talk_group/134001_133711134_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -26422,6 +27310,14 @@
     "relative_path": "agd_talk_group/165001_199002165_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 165002_133711165",
+    "id": 165002133711165,
+    "relative_path": "agd_talk_group/165002_133711165_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -26814,6 +27710,38 @@
     "relative_path": "agd_talk_group/194001_199002194_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195002_133712195",
+    "id": 195002133712195,
+    "relative_path": "agd_talk_group/195002_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195004_133712195",
+    "id": 195004133712195,
+    "relative_path": "agd_talk_group/195004_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195006_133712195",
+    "id": 195006133712195,
+    "relative_path": "agd_talk_group/195006_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Message / Snezhnograd Veche Resolution / \"Podvorye Restaurant\" / ... (GadgetGroup 196002_133712196)",
+    "id": 196002133712196,
+    "relative_path": "agd_talk_group/196002_133712196_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -27753,6 +28681,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Message / Another Person's Message / Vodyanitsa's Message / ... (GadgetGroup 310005_133708310)",
+    "id": 310005133708310,
+    "relative_path": "agd_talk_group/310005_133708310_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Message / Ms. Cassigneul's Reply / Lumidouce Harbor Noticeboard / ... (GadgetGroup 33002_133412033)",
     "id": 33002133412033,
     "relative_path": "agd_talk_group/33002_133412033_GadgetGroup.txt",
@@ -27889,6 +28825,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 35034_133708035",
+    "id": 35034133708035,
+    "relative_path": "agd_talk_group/35034_133708035_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Billboard (GadgetGroup 352002_510010352)",
     "id": 352002510010352,
     "relative_path": "agd_talk_group/352002_510010352_GadgetGroup.txt",
@@ -27934,6 +28878,30 @@
     "relative_path": "agd_talk_group/367002_133401367_GadgetGroup.txt",
     "min_version": "4.0",
     "max_version": "4.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Notice (GadgetGroup 368008_133709368)",
+    "id": 368008133709368,
+    "relative_path": "agd_talk_group/368008_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Notice (GadgetGroup 368015_133709368)",
+    "id": 368015133709368,
+    "relative_path": "agd_talk_group/368015_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Notice (GadgetGroup 368033_133709368)",
+    "id": 368033133709368,
+    "relative_path": "agd_talk_group/368033_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -28249,6 +29217,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 459002_133709459",
+    "id": 459002133709459,
+    "relative_path": "agd_talk_group/459002_133709459_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Suspicious Notice (GadgetGroup 459135_133611459)",
     "id": 459135133611459,
     "relative_path": "agd_talk_group/459135_133611459_GadgetGroup.txt",
@@ -28502,6 +29478,14 @@
     "relative_path": "agd_talk_group/50004_133408050_GadgetGroup.txt",
     "min_version": "4.2",
     "max_version": "4.2"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Phonograph (GadgetGroup 5001_201159005)",
+    "id": 5001201159005,
+    "relative_path": "agd_talk_group/5001_201159005_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -29649,6 +30633,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 8002_201159008",
+    "id": 8002201159008,
+    "relative_path": "agd_talk_group/8002_201159008_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Kanou (GadgetGroup 80035_610303080)",
     "id": 80035610303080,
     "relative_path": "agd_talk_group/80035_610303080_GadgetGroup.txt",
@@ -30081,6 +31073,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 91002_133705091",
+    "id": 91002133705091,
+    "relative_path": "agd_talk_group/91002_133705091_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "\"Case of the Missing Eastern Express\" (GadgetGroup 91003_133221091)",
     "id": 91003133221091,
     "relative_path": "agd_talk_group/91003_133221091_GadgetGroup.txt",
@@ -30094,6 +31094,14 @@
     "relative_path": "agd_talk_group/91004_133221091_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of a Young Woman (GadgetGroup 91013_133711091)",
+    "id": 91013133711091,
+    "relative_path": "agd_talk_group/91013_133711091_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -30393,6 +31401,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Childe (NpcGroup 10200)",
+    "id": 10200,
+    "relative_path": "agd_talk_group/10200_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Ningguang (NpcGroup 10211)",
     "id": 10211,
     "relative_path": "agd_talk_group/10211_NpcGroup.txt",
@@ -30673,6 +31689,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "The Knave (NpcGroup 1080)",
+    "id": 1080,
+    "relative_path": "agd_talk_group/1080_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Censer (NpcGroup 10911)",
     "id": 10911,
     "relative_path": "agd_talk_group/10911_NpcGroup.txt",
@@ -30806,6 +31830,14 @@
     "relative_path": "agd_talk_group/12334_NpcGroup.txt",
     "min_version": "2.2",
     "max_version": "2.2"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "NpcGroup - 12404",
+    "id": 12404,
+    "relative_path": "agd_talk_group/12404_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -31377,11 +32409,27 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Mitya (NpcGroup 1333)",
+    "id": 1333,
+    "relative_path": "agd_talk_group/1333_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Lamiya (NpcGroup 13356)",
     "id": 13356,
     "relative_path": "agd_talk_group/13356_NpcGroup.txt",
     "min_version": "3.8",
     "max_version": "3.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Marionette (NpcGroup 1336)",
+    "id": 1336,
+    "relative_path": "agd_talk_group/1336_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32597,7 +33645,7 @@
     "id": 1663,
     "relative_path": "agd_talk_group/1663_NpcGroup.txt",
     "min_version": "1.4",
-    "max_version": "1.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32737,6 +33785,30 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Zverev (NpcGroup 16848)",
+    "id": 16848,
+    "relative_path": "agd_talk_group/16848_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sytin (NpcGroup 16849)",
+    "id": 16849,
+    "relative_path": "agd_talk_group/16849_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Paimon (NpcGroup 16853)",
+    "id": 16853,
+    "relative_path": "agd_talk_group/16853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Observe (NpcGroup 16926)",
     "id": 16926,
     "relative_path": "agd_talk_group/16926_NpcGroup.txt",
@@ -32782,6 +33854,14 @@
     "relative_path": "agd_talk_group/1702_NpcGroup.txt",
     "min_version": "3.1",
     "max_version": "3.1"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lyumina (NpcGroup 17025)",
+    "id": 17025,
+    "relative_path": "agd_talk_group/17025_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32862,6 +33942,14 @@
     "relative_path": "agd_talk_group/17180_NpcGroup.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Arrange Schedule (NpcGroup 17189)",
+    "id": 17189,
+    "relative_path": "agd_talk_group/17189_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32982,6 +34070,22 @@
     "relative_path": "agd_talk_group/1734_NpcGroup.txt",
     "min_version": "5.4",
     "max_version": "5.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Paimon (NpcGroup 17370)",
+    "id": 17370,
+    "relative_path": "agd_talk_group/17370_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Paimon (NpcGroup 17371)",
+    "id": 17371,
+    "relative_path": "agd_talk_group/17371_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38617,6 +39721,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Jary (NpcGroup 22416)",
+    "id": 22416,
+    "relative_path": "agd_talk_group/22416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vinezka (NpcGroup 22417)",
+    "id": 22417,
+    "relative_path": "agd_talk_group/22417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Ancient Text (I) (NpcGroup 2242)",
     "id": 2242,
     "relative_path": "agd_talk_group/2242_NpcGroup.txt",
@@ -38705,6 +39825,62 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Welcome to Okurov! (NpcGroup 22520)",
+    "id": 22520,
+    "relative_path": "agd_talk_group/22520_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Furiosa Post-Op Observation Report (I) (NpcGroup 22521)",
+    "id": 22521,
+    "relative_path": "agd_talk_group/22521_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Less-Than-Legible Notes (NpcGroup 22524)",
+    "id": 22524,
+    "relative_path": "agd_talk_group/22524_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yellowed Records (NpcGroup 22525)",
+    "id": 22525,
+    "relative_path": "agd_talk_group/22525_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Smudged Handwriting (NpcGroup 22526)",
+    "id": 22526,
+    "relative_path": "agd_talk_group/22526_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Childish Handwriting (NpcGroup 22527)",
+    "id": 22527,
+    "relative_path": "agd_talk_group/22527_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Messy Handwriting (NpcGroup 22528)",
+    "id": 22528,
+    "relative_path": "agd_talk_group/22528_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "\"Record of the Guhua Masters\" (NpcGroup 2253)",
     "id": 2253,
     "relative_path": "agd_talk_group/2253_NpcGroup.txt",
@@ -38726,6 +39902,14 @@
     "relative_path": "agd_talk_group/2256_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22566)",
+    "id": 22566,
+    "relative_path": "agd_talk_group/22566_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38769,6 +39953,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Spoiled Food (NpcGroup 22619)",
+    "id": 22619,
+    "relative_path": "agd_talk_group/22619_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Qiongjiu (NpcGroup 2262)",
     "id": 2262,
     "relative_path": "agd_talk_group/2262_NpcGroup.txt",
@@ -38790,6 +39982,46 @@
     "relative_path": "agd_talk_group/2264_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Exhibit Plaque (NpcGroup 22645)",
+    "id": 22645,
+    "relative_path": "agd_talk_group/22645_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Exhibit Plaque (NpcGroup 22646)",
+    "id": 22646,
+    "relative_path": "agd_talk_group/22646_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Exhibit Plaque (NpcGroup 22647)",
+    "id": 22647,
+    "relative_path": "agd_talk_group/22647_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Exhibit Plaque (NpcGroup 22648)",
+    "id": 22648,
+    "relative_path": "agd_talk_group/22648_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Exhibit Plaque (NpcGroup 22649)",
+    "id": 22649,
+    "relative_path": "agd_talk_group/22649_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38817,6 +40049,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "\"Shar\" (NpcGroup 22726)",
+    "id": 22726,
+    "relative_path": "agd_talk_group/22726_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Ancient Text (II) (NpcGroup 2275)",
     "id": 2275,
     "relative_path": "agd_talk_group/2275_NpcGroup.txt",
@@ -38833,11 +40073,59 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22837)",
+    "id": 22837,
+    "relative_path": "agd_talk_group/22837_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22838)",
+    "id": 22838,
+    "relative_path": "agd_talk_group/22838_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22839)",
+    "id": 22839,
+    "relative_path": "agd_talk_group/22839_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Someone's Idle Musings (NpcGroup 2284)",
     "id": 2284,
     "relative_path": "agd_talk_group/2284_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22840)",
+    "id": 22840,
+    "relative_path": "agd_talk_group/22840_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22841)",
+    "id": 22841,
+    "relative_path": "agd_talk_group/22841_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blue Algae (NpcGroup 22842)",
+    "id": 22842,
+    "relative_path": "agd_talk_group/22842_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38849,11 +40137,59 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Picture of Nastya With Her Mom (NpcGroup 22853)",
+    "id": 22853,
+    "relative_path": "agd_talk_group/22853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Someone's Idle Musings (NpcGroup 2286)",
     "id": 2286,
     "relative_path": "agd_talk_group/2286_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tales of the Strange and Incredible: Tales of the Strange From Okurov (NpcGroup 22870)",
+    "id": 22870,
+    "relative_path": "agd_talk_group/22870_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Welcome to Okurov! (NpcGroup 22871)",
+    "id": 22871,
+    "relative_path": "agd_talk_group/22871_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Welcome to Okurov! (NpcGroup 22872)",
+    "id": 22872,
+    "relative_path": "agd_talk_group/22872_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tales of the Strange and Incredible: Tales of the Strange From Okurov (NpcGroup 22873)",
+    "id": 22873,
+    "relative_path": "agd_talk_group/22873_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tales of the Strange and Incredible: Tales of the Strange From Okurov (NpcGroup 22874)",
+    "id": 22874,
+    "relative_path": "agd_talk_group/22874_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -42878,6 +44214,206 @@
     "relative_path": "agd_talk_group/3238_NpcGroup.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Oksana (NpcGroup 3409)",
+    "id": 3409,
+    "relative_path": "agd_talk_group/3409_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Liubov (NpcGroup 3410)",
+    "id": 3410,
+    "relative_path": "agd_talk_group/3410_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Volgaskaya (NpcGroup 3411)",
+    "id": 3411,
+    "relative_path": "agd_talk_group/3411_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Saltykov (NpcGroup 3412)",
+    "id": 3412,
+    "relative_path": "agd_talk_group/3412_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bogdana (NpcGroup 3414)",
+    "id": 3414,
+    "relative_path": "agd_talk_group/3414_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Raduzhnaya (NpcGroup 3415)",
+    "id": 3415,
+    "relative_path": "agd_talk_group/3415_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Nesterova (NpcGroup 3416)",
+    "id": 3416,
+    "relative_path": "agd_talk_group/3416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Safonov (NpcGroup 3417)",
+    "id": 3417,
+    "relative_path": "agd_talk_group/3417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Taisiia (NpcGroup 3418)",
+    "id": 3418,
+    "relative_path": "agd_talk_group/3418_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pletnev (NpcGroup 3419)",
+    "id": 3419,
+    "relative_path": "agd_talk_group/3419_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zvezdina (NpcGroup 3420)",
+    "id": 3420,
+    "relative_path": "agd_talk_group/3420_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Listen In... (NpcGroup 3463)",
+    "id": 3463,
+    "relative_path": "agd_talk_group/3463_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Paper and Graffiti (NpcGroup 3513)",
+    "id": 3513,
+    "relative_path": "agd_talk_group/3513_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Prime Ice Communicator (NpcGroup 3555)",
+    "id": 3555,
+    "relative_path": "agd_talk_group/3555_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Odette (NpcGroup 3558)",
+    "id": 3558,
+    "relative_path": "agd_talk_group/3558_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vodyanitsa (NpcGroup 3559)",
+    "id": 3559,
+    "relative_path": "agd_talk_group/3559_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Observe (NpcGroup 3577)",
+    "id": 3577,
+    "relative_path": "agd_talk_group/3577_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Jary (NpcGroup 3587)",
+    "id": 3587,
+    "relative_path": "agd_talk_group/3587_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vinezka (NpcGroup 3588)",
+    "id": 3588,
+    "relative_path": "agd_talk_group/3588_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Alyosha (NpcGroup 3591)",
+    "id": 3591,
+    "relative_path": "agd_talk_group/3591_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Mitya (NpcGroup 3592)",
+    "id": 3592,
+    "relative_path": "agd_talk_group/3592_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Valeriy (NpcGroup 3593)",
+    "id": 3593,
+    "relative_path": "agd_talk_group/3593_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "The Knave (NpcGroup 3594)",
+    "id": 3594,
+    "relative_path": "agd_talk_group/3594_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Marionette (NpcGroup 3595)",
+    "id": 3595,
+    "relative_path": "agd_talk_group/3595_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "\"Shar\" (NpcGroup 3599)",
+    "id": 3599,
+    "relative_path": "agd_talk_group/3599_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -52881,6 +54417,1510 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Katheryne (NpcGroup 7410)",
+    "id": 7410,
+    "relative_path": "agd_talk_group/7410_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kuzmichev (NpcGroup 7411)",
+    "id": 7411,
+    "relative_path": "agd_talk_group/7411_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Buturlina (NpcGroup 7412)",
+    "id": 7412,
+    "relative_path": "agd_talk_group/7412_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zyryanov (NpcGroup 7413)",
+    "id": 7413,
+    "relative_path": "agd_talk_group/7413_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Grigory (NpcGroup 7414)",
+    "id": 7414,
+    "relative_path": "agd_talk_group/7414_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Moes (NpcGroup 7415)",
+    "id": 7415,
+    "relative_path": "agd_talk_group/7415_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Blyushko (NpcGroup 7416)",
+    "id": 7416,
+    "relative_path": "agd_talk_group/7416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yarovaya (NpcGroup 7417)",
+    "id": 7417,
+    "relative_path": "agd_talk_group/7417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zherebtsov (NpcGroup 7418)",
+    "id": 7418,
+    "relative_path": "agd_talk_group/7418_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Eliseev (NpcGroup 7419)",
+    "id": 7419,
+    "relative_path": "agd_talk_group/7419_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Nefedov (NpcGroup 7420)",
+    "id": 7420,
+    "relative_path": "agd_talk_group/7420_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gromov (NpcGroup 7421)",
+    "id": 7421,
+    "relative_path": "agd_talk_group/7421_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Surikov (NpcGroup 7422)",
+    "id": 7422,
+    "relative_path": "agd_talk_group/7422_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Hussaina (NpcGroup 7423)",
+    "id": 7423,
+    "relative_path": "agd_talk_group/7423_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Samir (NpcGroup 7424)",
+    "id": 7424,
+    "relative_path": "agd_talk_group/7424_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vanya (NpcGroup 7425)",
+    "id": 7425,
+    "relative_path": "agd_talk_group/7425_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Smirnov (NpcGroup 7426)",
+    "id": 7426,
+    "relative_path": "agd_talk_group/7426_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Scheffield (NpcGroup 7427)",
+    "id": 7427,
+    "relative_path": "agd_talk_group/7427_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Brovinov (NpcGroup 7428)",
+    "id": 7428,
+    "relative_path": "agd_talk_group/7428_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yevlena (NpcGroup 7429)",
+    "id": 7429,
+    "relative_path": "agd_talk_group/7429_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tsoslina (NpcGroup 7430)",
+    "id": 7430,
+    "relative_path": "agd_talk_group/7430_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Menshikov (NpcGroup 7431)",
+    "id": 7431,
+    "relative_path": "agd_talk_group/7431_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lopushina (NpcGroup 7433)",
+    "id": 7433,
+    "relative_path": "agd_talk_group/7433_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Izmailov (NpcGroup 7434)",
+    "id": 7434,
+    "relative_path": "agd_talk_group/7434_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Karelin (NpcGroup 7435)",
+    "id": 7435,
+    "relative_path": "agd_talk_group/7435_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yurova (NpcGroup 7436)",
+    "id": 7436,
+    "relative_path": "agd_talk_group/7436_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shakhovskaya (NpcGroup 7437)",
+    "id": 7437,
+    "relative_path": "agd_talk_group/7437_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rozhdestvensky (NpcGroup 7438)",
+    "id": 7438,
+    "relative_path": "agd_talk_group/7438_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Malinina (NpcGroup 7439)",
+    "id": 7439,
+    "relative_path": "agd_talk_group/7439_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Musina (NpcGroup 7440)",
+    "id": 7440,
+    "relative_path": "agd_talk_group/7440_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yaguzhinsky (NpcGroup 7441)",
+    "id": 7441,
+    "relative_path": "agd_talk_group/7441_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Akeem (NpcGroup 7442)",
+    "id": 7442,
+    "relative_path": "agd_talk_group/7442_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Charnikova (NpcGroup 7443)",
+    "id": 7443,
+    "relative_path": "agd_talk_group/7443_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lukyana (NpcGroup 7444)",
+    "id": 7444,
+    "relative_path": "agd_talk_group/7444_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Antioch (NpcGroup 7445)",
+    "id": 7445,
+    "relative_path": "agd_talk_group/7445_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Galina (NpcGroup 7446)",
+    "id": 7446,
+    "relative_path": "agd_talk_group/7446_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Clement (NpcGroup 7447)",
+    "id": 7447,
+    "relative_path": "agd_talk_group/7447_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sylvan (NpcGroup 7448)",
+    "id": 7448,
+    "relative_path": "agd_talk_group/7448_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rada (NpcGroup 7449)",
+    "id": 7449,
+    "relative_path": "agd_talk_group/7449_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pasha (NpcGroup 7450)",
+    "id": 7450,
+    "relative_path": "agd_talk_group/7450_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vadim (NpcGroup 7451)",
+    "id": 7451,
+    "relative_path": "agd_talk_group/7451_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Qiaoqiao (NpcGroup 7452)",
+    "id": 7452,
+    "relative_path": "agd_talk_group/7452_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Avreliya (NpcGroup 7453)",
+    "id": 7453,
+    "relative_path": "agd_talk_group/7453_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yermolay (NpcGroup 7454)",
+    "id": 7454,
+    "relative_path": "agd_talk_group/7454_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Greygory (NpcGroup 7455)",
+    "id": 7455,
+    "relative_path": "agd_talk_group/7455_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zinoviy (NpcGroup 7456)",
+    "id": 7456,
+    "relative_path": "agd_talk_group/7456_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Uspensky (NpcGroup 7457)",
+    "id": 7457,
+    "relative_path": "agd_talk_group/7457_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Uvarov (NpcGroup 7458)",
+    "id": 7458,
+    "relative_path": "agd_talk_group/7458_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zinenko (NpcGroup 7459)",
+    "id": 7459,
+    "relative_path": "agd_talk_group/7459_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Oktyabrskaya (NpcGroup 7460)",
+    "id": 7460,
+    "relative_path": "agd_talk_group/7460_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sereda (NpcGroup 7461)",
+    "id": 7461,
+    "relative_path": "agd_talk_group/7461_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Anton (NpcGroup 7462)",
+    "id": 7462,
+    "relative_path": "agd_talk_group/7462_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Stepanyan (NpcGroup 7463)",
+    "id": 7463,
+    "relative_path": "agd_talk_group/7463_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Trofimova (NpcGroup 7464)",
+    "id": 7464,
+    "relative_path": "agd_talk_group/7464_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tikhon (NpcGroup 7465)",
+    "id": 7465,
+    "relative_path": "agd_talk_group/7465_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Laktionov (NpcGroup 7466)",
+    "id": 7466,
+    "relative_path": "agd_talk_group/7466_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Iliana (NpcGroup 7467)",
+    "id": 7467,
+    "relative_path": "agd_talk_group/7467_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gurevikov (NpcGroup 7468)",
+    "id": 7468,
+    "relative_path": "agd_talk_group/7468_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sochikov (NpcGroup 7469)",
+    "id": 7469,
+    "relative_path": "agd_talk_group/7469_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vedomek (NpcGroup 7470)",
+    "id": 7470,
+    "relative_path": "agd_talk_group/7470_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Andrevich (NpcGroup 7471)",
+    "id": 7471,
+    "relative_path": "agd_talk_group/7471_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Uliana (NpcGroup 7472)",
+    "id": 7472,
+    "relative_path": "agd_talk_group/7472_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tsvetkov (NpcGroup 7473)",
+    "id": 7473,
+    "relative_path": "agd_talk_group/7473_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Katia (NpcGroup 7474)",
+    "id": 7474,
+    "relative_path": "agd_talk_group/7474_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Emma (NpcGroup 7475)",
+    "id": 7475,
+    "relative_path": "agd_talk_group/7475_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Leonie (NpcGroup 7476)",
+    "id": 7476,
+    "relative_path": "agd_talk_group/7476_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kholmogorov (NpcGroup 7477)",
+    "id": 7477,
+    "relative_path": "agd_talk_group/7477_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Chagina (NpcGroup 7478)",
+    "id": 7478,
+    "relative_path": "agd_talk_group/7478_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Voskresensky (NpcGroup 7479)",
+    "id": 7479,
+    "relative_path": "agd_talk_group/7479_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shemyakin (NpcGroup 7480)",
+    "id": 7480,
+    "relative_path": "agd_talk_group/7480_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Mamontov (NpcGroup 7481)",
+    "id": 7481,
+    "relative_path": "agd_talk_group/7481_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kholodnaya (NpcGroup 7482)",
+    "id": 7482,
+    "relative_path": "agd_talk_group/7482_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Urusov (NpcGroup 7483)",
+    "id": 7483,
+    "relative_path": "agd_talk_group/7483_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pecherskaya (NpcGroup 7484)",
+    "id": 7484,
+    "relative_path": "agd_talk_group/7484_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rudov (NpcGroup 7485)",
+    "id": 7485,
+    "relative_path": "agd_talk_group/7485_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bazhenov (NpcGroup 7486)",
+    "id": 7486,
+    "relative_path": "agd_talk_group/7486_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kira (NpcGroup 7487)",
+    "id": 7487,
+    "relative_path": "agd_talk_group/7487_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gerard (NpcGroup 7488)",
+    "id": 7488,
+    "relative_path": "agd_talk_group/7488_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Aryna (NpcGroup 7489)",
+    "id": 7489,
+    "relative_path": "agd_talk_group/7489_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ilya (NpcGroup 7490)",
+    "id": 7490,
+    "relative_path": "agd_talk_group/7490_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Fyodor (NpcGroup 7491)",
+    "id": 7491,
+    "relative_path": "agd_talk_group/7491_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Daniil (NpcGroup 7492)",
+    "id": 7492,
+    "relative_path": "agd_talk_group/7492_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Veronika (NpcGroup 7493)",
+    "id": 7493,
+    "relative_path": "agd_talk_group/7493_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Arseny (NpcGroup 7494)",
+    "id": 7494,
+    "relative_path": "agd_talk_group/7494_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dobronravov (NpcGroup 7495)",
+    "id": 7495,
+    "relative_path": "agd_talk_group/7495_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Svetlana (NpcGroup 7496)",
+    "id": 7496,
+    "relative_path": "agd_talk_group/7496_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vikhrov (NpcGroup 7497)",
+    "id": 7497,
+    "relative_path": "agd_talk_group/7497_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Stepan (NpcGroup 7498)",
+    "id": 7498,
+    "relative_path": "agd_talk_group/7498_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yelizarov (NpcGroup 7499)",
+    "id": 7499,
+    "relative_path": "agd_talk_group/7499_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Samarina (NpcGroup 7500)",
+    "id": 7500,
+    "relative_path": "agd_talk_group/7500_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vzdykhalov (NpcGroup 7501)",
+    "id": 7501,
+    "relative_path": "agd_talk_group/7501_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Balkonov (NpcGroup 7502)",
+    "id": 7502,
+    "relative_path": "agd_talk_group/7502_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yadova (NpcGroup 7503)",
+    "id": 7503,
+    "relative_path": "agd_talk_group/7503_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Taisiya (NpcGroup 7504)",
+    "id": 7504,
+    "relative_path": "agd_talk_group/7504_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zamorov (NpcGroup 7505)",
+    "id": 7505,
+    "relative_path": "agd_talk_group/7505_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Timothy (NpcGroup 7506)",
+    "id": 7506,
+    "relative_path": "agd_talk_group/7506_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Polovikova (NpcGroup 7507)",
+    "id": 7507,
+    "relative_path": "agd_talk_group/7507_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pisemsky (NpcGroup 7508)",
+    "id": 7508,
+    "relative_path": "agd_talk_group/7508_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Roshchina (NpcGroup 7509)",
+    "id": 7509,
+    "relative_path": "agd_talk_group/7509_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yaroslav (NpcGroup 7510)",
+    "id": 7510,
+    "relative_path": "agd_talk_group/7510_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dariya (NpcGroup 7511)",
+    "id": 7511,
+    "relative_path": "agd_talk_group/7511_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Medyntsev (NpcGroup 7512)",
+    "id": 7512,
+    "relative_path": "agd_talk_group/7512_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shcherbatov (NpcGroup 7513)",
+    "id": 7513,
+    "relative_path": "agd_talk_group/7513_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rostislav (NpcGroup 7514)",
+    "id": 7514,
+    "relative_path": "agd_talk_group/7514_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Matvey (NpcGroup 7515)",
+    "id": 7515,
+    "relative_path": "agd_talk_group/7515_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kuzmichi (NpcGroup 7516)",
+    "id": 7516,
+    "relative_path": "agd_talk_group/7516_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lodygina (NpcGroup 7517)",
+    "id": 7517,
+    "relative_path": "agd_talk_group/7517_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Raissa (NpcGroup 7518)",
+    "id": 7518,
+    "relative_path": "agd_talk_group/7518_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Agrafena (NpcGroup 7519)",
+    "id": 7519,
+    "relative_path": "agd_talk_group/7519_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zarechnaya (NpcGroup 7520)",
+    "id": 7520,
+    "relative_path": "agd_talk_group/7520_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zaretsky (NpcGroup 7521)",
+    "id": 7521,
+    "relative_path": "agd_talk_group/7521_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yelagina (NpcGroup 7522)",
+    "id": 7522,
+    "relative_path": "agd_talk_group/7522_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zavyalov (NpcGroup 7523)",
+    "id": 7523,
+    "relative_path": "agd_talk_group/7523_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zybina (NpcGroup 7524)",
+    "id": 7524,
+    "relative_path": "agd_talk_group/7524_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ippolit (NpcGroup 7525)",
+    "id": 7525,
+    "relative_path": "agd_talk_group/7525_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Innokenty (NpcGroup 7526)",
+    "id": 7526,
+    "relative_path": "agd_talk_group/7526_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Savva (NpcGroup 7527)",
+    "id": 7527,
+    "relative_path": "agd_talk_group/7527_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dorofeya (NpcGroup 7528)",
+    "id": 7528,
+    "relative_path": "agd_talk_group/7528_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ovsyannikov (NpcGroup 7529)",
+    "id": 7529,
+    "relative_path": "agd_talk_group/7529_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lyubimova (NpcGroup 7530)",
+    "id": 7530,
+    "relative_path": "agd_talk_group/7530_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lopukhin (NpcGroup 7531)",
+    "id": 7531,
+    "relative_path": "agd_talk_group/7531_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shchukina (NpcGroup 7532)",
+    "id": 7532,
+    "relative_path": "agd_talk_group/7532_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bogatov (NpcGroup 7533)",
+    "id": 7533,
+    "relative_path": "agd_talk_group/7533_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Apraksina (NpcGroup 7534)",
+    "id": 7534,
+    "relative_path": "agd_talk_group/7534_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Akvilina (NpcGroup 7535)",
+    "id": 7535,
+    "relative_path": "agd_talk_group/7535_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vilora (NpcGroup 7536)",
+    "id": 7536,
+    "relative_path": "agd_talk_group/7536_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kurakina (NpcGroup 7537)",
+    "id": 7537,
+    "relative_path": "agd_talk_group/7537_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Osipova (NpcGroup 7538)",
+    "id": 7538,
+    "relative_path": "agd_talk_group/7538_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Khitrov (NpcGroup 7539)",
+    "id": 7539,
+    "relative_path": "agd_talk_group/7539_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lesnova (NpcGroup 7540)",
+    "id": 7540,
+    "relative_path": "agd_talk_group/7540_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Nadyushenka (NpcGroup 7541)",
+    "id": 7541,
+    "relative_path": "agd_talk_group/7541_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Latkin (NpcGroup 7542)",
+    "id": 7542,
+    "relative_path": "agd_talk_group/7542_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zinovia (NpcGroup 7543)",
+    "id": 7543,
+    "relative_path": "agd_talk_group/7543_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yashina (NpcGroup 7544)",
+    "id": 7544,
+    "relative_path": "agd_talk_group/7544_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Celaeno (NpcGroup 7545)",
+    "id": 7545,
+    "relative_path": "agd_talk_group/7545_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Inna (NpcGroup 7546)",
+    "id": 7546,
+    "relative_path": "agd_talk_group/7546_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Artyem (NpcGroup 7547)",
+    "id": 7547,
+    "relative_path": "agd_talk_group/7547_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pelageya (NpcGroup 7548)",
+    "id": 7548,
+    "relative_path": "agd_talk_group/7548_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rodion (NpcGroup 7549)",
+    "id": 7549,
+    "relative_path": "agd_talk_group/7549_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Miroslava (NpcGroup 7550)",
+    "id": 7550,
+    "relative_path": "agd_talk_group/7550_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Anfissa (NpcGroup 7551)",
+    "id": 7551,
+    "relative_path": "agd_talk_group/7551_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Krylov (NpcGroup 7552)",
+    "id": 7552,
+    "relative_path": "agd_talk_group/7552_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Znamensky (NpcGroup 7553)",
+    "id": 7553,
+    "relative_path": "agd_talk_group/7553_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Razumovsky (NpcGroup 7554)",
+    "id": 7554,
+    "relative_path": "agd_talk_group/7554_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shatalov (NpcGroup 7555)",
+    "id": 7555,
+    "relative_path": "agd_talk_group/7555_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gorchakov (NpcGroup 7556)",
+    "id": 7556,
+    "relative_path": "agd_talk_group/7556_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dozorov (NpcGroup 7557)",
+    "id": 7557,
+    "relative_path": "agd_talk_group/7557_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tonia (NpcGroup 7558)",
+    "id": 7558,
+    "relative_path": "agd_talk_group/7558_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Teucer (NpcGroup 7559)",
+    "id": 7559,
+    "relative_path": "agd_talk_group/7559_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gorshkov (NpcGroup 7560)",
+    "id": 7560,
+    "relative_path": "agd_talk_group/7560_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rakitina (NpcGroup 7561)",
+    "id": 7561,
+    "relative_path": "agd_talk_group/7561_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pweza (NpcGroup 7562)",
+    "id": 7562,
+    "relative_path": "agd_talk_group/7562_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vyazemskaya (NpcGroup 7563)",
+    "id": 7563,
+    "relative_path": "agd_talk_group/7563_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yazykov (NpcGroup 7564)",
+    "id": 7564,
+    "relative_path": "agd_talk_group/7564_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Korsakov (NpcGroup 7565)",
+    "id": 7565,
+    "relative_path": "agd_talk_group/7565_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lugovskoy (NpcGroup 7566)",
+    "id": 7566,
+    "relative_path": "agd_talk_group/7566_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Smirnova (NpcGroup 7567)",
+    "id": 7567,
+    "relative_path": "agd_talk_group/7567_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Veselov (NpcGroup 7568)",
+    "id": 7568,
+    "relative_path": "agd_talk_group/7568_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Demidov (NpcGroup 7569)",
+    "id": 7569,
+    "relative_path": "agd_talk_group/7569_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Klim (NpcGroup 7570)",
+    "id": 7570,
+    "relative_path": "agd_talk_group/7570_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zaleskaya (NpcGroup 7571)",
+    "id": 7571,
+    "relative_path": "agd_talk_group/7571_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sobolev (NpcGroup 7572)",
+    "id": 7572,
+    "relative_path": "agd_talk_group/7572_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zhuravlev (NpcGroup 7573)",
+    "id": 7573,
+    "relative_path": "agd_talk_group/7573_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pashkov (NpcGroup 7574)",
+    "id": 7574,
+    "relative_path": "agd_talk_group/7574_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vorontsov (NpcGroup 7575)",
+    "id": 7575,
+    "relative_path": "agd_talk_group/7575_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vvedensky (NpcGroup 7576)",
+    "id": 7576,
+    "relative_path": "agd_talk_group/7576_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ignat (NpcGroup 7577)",
+    "id": 7577,
+    "relative_path": "agd_talk_group/7577_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Nekrasov (NpcGroup 7578)",
+    "id": 7578,
+    "relative_path": "agd_talk_group/7578_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lyubava (NpcGroup 7579)",
+    "id": 7579,
+    "relative_path": "agd_talk_group/7579_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Trapeznikov (NpcGroup 7580)",
+    "id": 7580,
+    "relative_path": "agd_talk_group/7580_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Whistle (NpcGroup 7581)",
+    "id": 7581,
+    "relative_path": "agd_talk_group/7581_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Plate (NpcGroup 7582)",
+    "id": 7582,
+    "relative_path": "agd_talk_group/7582_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Aksakov (NpcGroup 7583)",
+    "id": 7583,
+    "relative_path": "agd_talk_group/7583_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zhemchuzhina (NpcGroup 7584)",
+    "id": 7584,
+    "relative_path": "agd_talk_group/7584_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Belsky (NpcGroup 7585)",
+    "id": 7585,
+    "relative_path": "agd_talk_group/7585_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Serebrov (NpcGroup 7586)",
+    "id": 7586,
+    "relative_path": "agd_talk_group/7586_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bystrov (NpcGroup 7587)",
+    "id": 7587,
+    "relative_path": "agd_talk_group/7587_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Chaplina (NpcGroup 7588)",
+    "id": 7588,
+    "relative_path": "agd_talk_group/7588_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yakhontov (NpcGroup 7589)",
+    "id": 7589,
+    "relative_path": "agd_talk_group/7589_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Mayskaya (NpcGroup 7590)",
+    "id": 7590,
+    "relative_path": "agd_talk_group/7590_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rytova (NpcGroup 7591)",
+    "id": 7591,
+    "relative_path": "agd_talk_group/7591_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Knyazev (NpcGroup 7592)",
+    "id": 7592,
+    "relative_path": "agd_talk_group/7592_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zheleznov (NpcGroup 7593)",
+    "id": 7593,
+    "relative_path": "agd_talk_group/7593_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Khrustalev (NpcGroup 7594)",
+    "id": 7594,
+    "relative_path": "agd_talk_group/7594_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zimnyakov (NpcGroup 7595)",
+    "id": 7595,
+    "relative_path": "agd_talk_group/7595_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dorokhov (NpcGroup 7596)",
+    "id": 7596,
+    "relative_path": "agd_talk_group/7596_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shishkina (NpcGroup 7597)",
+    "id": 7597,
+    "relative_path": "agd_talk_group/7597_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tolstaya (NpcGroup 7598)",
+    "id": 7598,
+    "relative_path": "agd_talk_group/7598_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Anselm (NpcGroup 7599)",
     "id": 7599,
     "relative_path": "agd_talk_group/7599_NpcGroup.txt",
@@ -53161,6 +56201,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Aglaya (NpcGroup 7655)",
+    "id": 7655,
+    "relative_path": "agd_talk_group/7655_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Anleifr (NpcGroup 7659)",
     "id": 7659,
     "relative_path": "agd_talk_group/7659_NpcGroup.txt",
@@ -53265,6 +56313,30 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Zmei (NpcGroup 7698)",
+    "id": 7698,
+    "relative_path": "agd_talk_group/7698_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Sofya (NpcGroup 7700)",
+    "id": 7700,
+    "relative_path": "agd_talk_group/7700_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gureva (NpcGroup 7723)",
+    "id": 7723,
+    "relative_path": "agd_talk_group/7723_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Mengzhou (NpcGroup 7733)",
     "id": 7733,
     "relative_path": "agd_talk_group/7733_NpcGroup.txt",
@@ -53302,6 +56374,638 @@
     "relative_path": "agd_talk_group/7738_NpcGroup.txt",
     "min_version": "6.5",
     "max_version": "6.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Taisia (NpcGroup 7760)",
+    "id": 7760,
+    "relative_path": "agd_talk_group/7760_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ksenia (NpcGroup 7761)",
+    "id": 7761,
+    "relative_path": "agd_talk_group/7761_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Euphrosiniya (NpcGroup 7762)",
+    "id": 7762,
+    "relative_path": "agd_talk_group/7762_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Slavina (NpcGroup 7763)",
+    "id": 7763,
+    "relative_path": "agd_talk_group/7763_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Arkady (NpcGroup 7764)",
+    "id": 7764,
+    "relative_path": "agd_talk_group/7764_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Artem (NpcGroup 7765)",
+    "id": 7765,
+    "relative_path": "agd_talk_group/7765_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Golitsyn (NpcGroup 7766)",
+    "id": 7766,
+    "relative_path": "agd_talk_group/7766_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zotov (NpcGroup 7767)",
+    "id": 7767,
+    "relative_path": "agd_talk_group/7767_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lev (NpcGroup 7768)",
+    "id": 7768,
+    "relative_path": "agd_talk_group/7768_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Marat (NpcGroup 7769)",
+    "id": 7769,
+    "relative_path": "agd_talk_group/7769_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Leanid (NpcGroup 7770)",
+    "id": 7770,
+    "relative_path": "agd_talk_group/7770_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vidya (NpcGroup 7771)",
+    "id": 7771,
+    "relative_path": "agd_talk_group/7771_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Eteri (NpcGroup 7772)",
+    "id": 7772,
+    "relative_path": "agd_talk_group/7772_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Istomina (NpcGroup 7773)",
+    "id": 7773,
+    "relative_path": "agd_talk_group/7773_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Olenina (NpcGroup 7774)",
+    "id": 7774,
+    "relative_path": "agd_talk_group/7774_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Nezhdanov (NpcGroup 7776)",
+    "id": 7776,
+    "relative_path": "agd_talk_group/7776_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vakhrushina (NpcGroup 7777)",
+    "id": 7777,
+    "relative_path": "agd_talk_group/7777_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shatskaya (NpcGroup 7778)",
+    "id": 7778,
+    "relative_path": "agd_talk_group/7778_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zarubina (NpcGroup 7779)",
+    "id": 7779,
+    "relative_path": "agd_talk_group/7779_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tomilina (NpcGroup 7780)",
+    "id": 7780,
+    "relative_path": "agd_talk_group/7780_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Cherkassky (NpcGroup 7781)",
+    "id": 7781,
+    "relative_path": "agd_talk_group/7781_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yarkova (NpcGroup 7782)",
+    "id": 7782,
+    "relative_path": "agd_talk_group/7782_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Golovin (NpcGroup 7783)",
+    "id": 7783,
+    "relative_path": "agd_talk_group/7783_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ignatov (NpcGroup 7784)",
+    "id": 7784,
+    "relative_path": "agd_talk_group/7784_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Odette (NpcGroup 7786)",
+    "id": 7786,
+    "relative_path": "agd_talk_group/7786_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vodyanitsa (NpcGroup 7787)",
+    "id": 7787,
+    "relative_path": "agd_talk_group/7787_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vodyanitsa (NpcGroup 7804)",
+    "id": 7804,
+    "relative_path": "agd_talk_group/7804_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Odette (NpcGroup 7805)",
+    "id": 7805,
+    "relative_path": "agd_talk_group/7805_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Alyosha (NpcGroup 7806)",
+    "id": 7806,
+    "relative_path": "agd_talk_group/7806_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Baryatinsky (NpcGroup 7809)",
+    "id": 7809,
+    "relative_path": "agd_talk_group/7809_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Serebryakov (NpcGroup 7810)",
+    "id": 7810,
+    "relative_path": "agd_talk_group/7810_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Lukova (NpcGroup 7811)",
+    "id": 7811,
+    "relative_path": "agd_talk_group/7811_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bely (NpcGroup 7812)",
+    "id": 7812,
+    "relative_path": "agd_talk_group/7812_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kandinsky (NpcGroup 7813)",
+    "id": 7813,
+    "relative_path": "agd_talk_group/7813_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Aivazovsky (NpcGroup 7814)",
+    "id": 7814,
+    "relative_path": "agd_talk_group/7814_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Rusanov (NpcGroup 7815)",
+    "id": 7815,
+    "relative_path": "agd_talk_group/7815_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shcheglov (NpcGroup 7816)",
+    "id": 7816,
+    "relative_path": "agd_talk_group/7816_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Stroganov (NpcGroup 7817)",
+    "id": 7817,
+    "relative_path": "agd_talk_group/7817_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Xiping (NpcGroup 7818)",
+    "id": 7818,
+    "relative_path": "agd_talk_group/7818_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gustave (NpcGroup 7819)",
+    "id": 7819,
+    "relative_path": "agd_talk_group/7819_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Korchagin (NpcGroup 7820)",
+    "id": 7820,
+    "relative_path": "agd_talk_group/7820_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Woland (NpcGroup 7821)",
+    "id": 7821,
+    "relative_path": "agd_talk_group/7821_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Bulgakov (NpcGroup 7822)",
+    "id": 7822,
+    "relative_path": "agd_talk_group/7822_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vyazemsky (NpcGroup 7823)",
+    "id": 7823,
+    "relative_path": "agd_talk_group/7823_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vedenev (NpcGroup 7824)",
+    "id": 7824,
+    "relative_path": "agd_talk_group/7824_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tikhomirov (NpcGroup 7825)",
+    "id": 7825,
+    "relative_path": "agd_talk_group/7825_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Arsenyev (NpcGroup 7826)",
+    "id": 7826,
+    "relative_path": "agd_talk_group/7826_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pavlova (NpcGroup 7827)",
+    "id": 7827,
+    "relative_path": "agd_talk_group/7827_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Akhmatova (NpcGroup 7828)",
+    "id": 7828,
+    "relative_path": "agd_talk_group/7828_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tsvetaeva (NpcGroup 7829)",
+    "id": 7829,
+    "relative_path": "agd_talk_group/7829_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Arzamasova (NpcGroup 7830)",
+    "id": 7830,
+    "relative_path": "agd_talk_group/7830_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Berezova (NpcGroup 7831)",
+    "id": 7831,
+    "relative_path": "agd_talk_group/7831_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Chelnova (NpcGroup 7832)",
+    "id": 7832,
+    "relative_path": "agd_talk_group/7832_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Dementieva (NpcGroup 7833)",
+    "id": 7833,
+    "relative_path": "agd_talk_group/7833_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Firsova (NpcGroup 7834)",
+    "id": 7834,
+    "relative_path": "agd_talk_group/7834_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kovanskaya (NpcGroup 7835)",
+    "id": 7835,
+    "relative_path": "agd_talk_group/7835_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Krushina (NpcGroup 7836)",
+    "id": 7836,
+    "relative_path": "agd_talk_group/7836_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Kvashnina (NpcGroup 7837)",
+    "id": 7837,
+    "relative_path": "agd_talk_group/7837_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Efremova (NpcGroup 7838)",
+    "id": 7838,
+    "relative_path": "agd_talk_group/7838_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Basement Dweller (NpcGroup 7839)",
+    "id": 7839,
+    "relative_path": "agd_talk_group/7839_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Pauper (NpcGroup 7840)",
+    "id": 7840,
+    "relative_path": "agd_talk_group/7840_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Fool (NpcGroup 7841)",
+    "id": 7841,
+    "relative_path": "agd_talk_group/7841_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tartaglia (NpcGroup 7843)",
+    "id": 7843,
+    "relative_path": "agd_talk_group/7843_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "??? (NpcGroup 7844)",
+    "id": 7844,
+    "relative_path": "agd_talk_group/7844_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Tugarin (NpcGroup 7845)",
+    "id": 7845,
+    "relative_path": "agd_talk_group/7845_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Zolotova (NpcGroup 7848)",
+    "id": 7848,
+    "relative_path": "agd_talk_group/7848_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ermolov (NpcGroup 7849)",
+    "id": 7849,
+    "relative_path": "agd_talk_group/7849_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Cherkasskaya (NpcGroup 7850)",
+    "id": 7850,
+    "relative_path": "agd_talk_group/7850_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Guseva (NpcGroup 7851)",
+    "id": 7851,
+    "relative_path": "agd_talk_group/7851_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Burtsev (NpcGroup 7852)",
+    "id": 7852,
+    "relative_path": "agd_talk_group/7852_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vetrova (NpcGroup 7853)",
+    "id": 7853,
+    "relative_path": "agd_talk_group/7853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Obolensky (NpcGroup 7854)",
+    "id": 7854,
+    "relative_path": "agd_talk_group/7854_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Buranova (NpcGroup 7885)",
+    "id": 7885,
+    "relative_path": "agd_talk_group/7885_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Ryabov (NpcGroup 7886)",
+    "id": 7886,
+    "relative_path": "agd_talk_group/7886_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Yarugin (NpcGroup 7887)",
+    "id": 7887,
+    "relative_path": "agd_talk_group/7887_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Vyorskaya (NpcGroup 7888)",
+    "id": 7888,
+    "relative_path": "agd_talk_group/7888_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Shagova (NpcGroup 7889)",
+    "id": 7889,
+    "relative_path": "agd_talk_group/7889_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Samirka (NpcGroup 7890)",
+    "id": 7890,
+    "relative_path": "agd_talk_group/7890_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Gryaznov (NpcGroup 7891)",
+    "id": 7891,
+    "relative_path": "agd_talk_group/7891_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -53358,6 +57062,46 @@
     "relative_path": "agd_talk_group/7906_NpcGroup.txt",
     "min_version": "1.4",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of The Seven (NpcGroup 7907)",
+    "id": 7907,
+    "relative_path": "agd_talk_group/7907_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of The Seven (NpcGroup 7908)",
+    "id": 7908,
+    "relative_path": "agd_talk_group/7908_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of The Seven (NpcGroup 7909)",
+    "id": 7909,
+    "relative_path": "agd_talk_group/7909_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of The Seven (NpcGroup 7910)",
+    "id": 7910,
+    "relative_path": "agd_talk_group/7910_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Statue of The Seven (NpcGroup 7911)",
+    "id": 7911,
+    "relative_path": "agd_talk_group/7911_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -54297,6 +58041,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Odette - Serenitea Pot (NpcGroup 9134)",
+    "id": 9134,
+    "relative_path": "agd_talk_group/9134_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Alyosha - Serenitea Pot (NpcGroup 9135)",
+    "id": 9135,
+    "relative_path": "agd_talk_group/9135_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Ajaw (NpcGroup 9299)",
     "id": 9299,
     "relative_path": "agd_talk_group/9299_NpcGroup.txt",
@@ -55233,6 +58993,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Alyosha - Imaginarium Theater (NpcGroup 9416)",
+    "id": 9416,
+    "relative_path": "agd_talk_group/9416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Odette - Imaginarium Theater (NpcGroup 9417)",
+    "id": 9417,
+    "relative_path": "agd_talk_group/9417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Wolfy (NpcGroup 9500)",
     "id": 9500,
     "relative_path": "agd_talk_group/9500_NpcGroup.txt",
@@ -56073,6 +59849,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "Durin - Genius Invokation TCG (NpcGroup 9608)",
+    "id": 9608,
+    "relative_path": "agd_talk_group/9608_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "Jahoda - Genius Invokation TCG (NpcGroup 9609)",
+    "id": 9609,
+    "relative_path": "agd_talk_group/9609_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "Patton - Genius Invokation TCG (NpcGroup 9700)",
     "id": 9700,
     "relative_path": "agd_talk_group/9700_NpcGroup.txt",
@@ -56285,7 +60077,7 @@
     "id": 9900,
     "relative_path": "agd_talk_group/9900_NpcGroup.txt",
     "min_version": "2.3",
-    "max_version": "6.1"
+    "max_version": "7.0"
   },
   {
     "category": "agd_hangout",
@@ -58552,6 +62344,14 @@
     "max_version": "6.3"
   },
   {
+    "category": "agd_blossom",
+    "title": "Rich Ore Reserve - Snezhnaya",
+    "id": 8,
+    "relative_path": "agd_blossom/8_Rich_Ore_Reserve_-_Snezhnaya.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_activity",
     "title": "Saurian Sojourn",
     "id": 5295,
@@ -58630,6 +62430,22 @@
     "relative_path": "agd_activity/5328_Dance_Dance_Easy-Breezy_Disco.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_activity",
+    "title": "Mutual Aid in Bloom: Into the Frostlands",
+    "id": 5333,
+    "relative_path": "agd_activity/5333_Mutual_Aid_in_Bloom_Into_the_Frostlands.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_activity",
+    "title": "Trial of the Bastion",
+    "id": 5334,
+    "relative_path": "agd_activity/5334_Trial_of_the_Bastion.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -59126,6 +62942,22 @@
     "relative_path": "agd_book/1073_Moongazers_Engraving.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_book",
+    "title": "Polestar Ballet Anthology",
+    "id": 1074,
+    "relative_path": "agd_book/1074_Polestar_Ballet_Anthology.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "General History of Snezhnaya",
+    "id": 1076,
+    "relative_path": "agd_book/1076_General_History_of_Snezhnaya.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -60585,6 +64417,62 @@
   },
   {
     "category": "agd_book",
+    "title": "Unnamed Potion Formula",
+    "id": 201214,
+    "relative_path": "agd_book/201214_Unnamed_Potion_Formula.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (VI)",
+    "id": 201215,
+    "relative_path": "agd_book/201215_Notes_by_a_Certain_Noble_Individual_VI.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (I)",
+    "id": 201216,
+    "relative_path": "agd_book/201216_Notes_by_a_Certain_Noble_Individual_I.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (II)",
+    "id": 201217,
+    "relative_path": "agd_book/201217_Notes_by_a_Certain_Noble_Individual_II.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (III)",
+    "id": 201218,
+    "relative_path": "agd_book/201218_Notes_by_a_Certain_Noble_Individual_III.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (IV)",
+    "id": 201219,
+    "relative_path": "agd_book/201219_Notes_by_a_Certain_Noble_Individual_IV.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes by a Certain Noble Individual (V)",
+    "id": 201220,
+    "relative_path": "agd_book/201220_Notes_by_a_Certain_Noble_Individual_V.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "Anomalous Tree Marrow I",
     "id": 201221,
     "relative_path": "agd_book/201221_Anomalous_Tree_Marrow_I.txt",
@@ -60604,30 +64492,6 @@
     "title": "Anomalous Tree Marrow III",
     "id": 201223,
     "relative_path": "agd_book/201223_Anomalous_Tree_Marrow_III.txt",
-    "min_version": "6.6",
-    "max_version": "6.6"
-  },
-  {
-    "category": "agd_book",
-    "title": "Unknown Title",
-    "id": 201224,
-    "relative_path": "agd_book/201224_Unknown_Title.txt",
-    "min_version": "6.6",
-    "max_version": "6.6"
-  },
-  {
-    "category": "agd_book",
-    "title": "Unknown Title",
-    "id": 201225,
-    "relative_path": "agd_book/201225_Unknown_Title.txt",
-    "min_version": "6.6",
-    "max_version": "6.6"
-  },
-  {
-    "category": "agd_book",
-    "title": "Unknown Title",
-    "id": 201226,
-    "relative_path": "agd_book/201226_Unknown_Title.txt",
     "min_version": "6.6",
     "max_version": "6.6"
   },
@@ -60681,6 +64545,46 @@
   },
   {
     "category": "agd_book",
+    "title": "Scribbled Notes",
+    "id": 201235,
+    "relative_path": "agd_book/201235_Scribbled_Notes.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Neatly-Written Notes",
+    "id": 201236,
+    "relative_path": "agd_book/201236_Neatly-Written_Notes.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Notes Left by Unknown Person",
+    "id": 201237,
+    "relative_path": "agd_book/201237_Notes_Left_by_Unknown_Person.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Izmaylov Guard's Journal",
+    "id": 201238,
+    "relative_path": "agd_book/201238_Izmaylov_Guards_Journal.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Yet-to-be-Completed \"New High Table Melody\"",
+    "id": 201239,
+    "relative_path": "agd_book/201239_Yet-to-be-Completed_New_High_Table_Melody.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "Unknown Title",
     "id": 201242,
     "relative_path": "agd_book/201242_Unknown_Title.txt",
@@ -60726,6 +64630,14 @@
     "relative_path": "agd_book/201253_Unknown_Title.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_book",
+    "title": "Sewer Entrance/Exit Guide",
+    "id": 201258,
+    "relative_path": "agd_book/201258_Sewer_EntranceExit_Guide.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -60817,11 +64729,171 @@
   },
   {
     "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201274,
+    "relative_path": "agd_book/201274_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201275,
+    "relative_path": "agd_book/201275_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "In Search of Inspiration",
+    "id": 201279,
+    "relative_path": "agd_book/201279_In_Search_of_Inspiration.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Picture of Nastya With Her Mom",
+    "id": 201288,
+    "relative_path": "agd_book/201288_Picture_of_Nastya_With_Her_Mom.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Records of the Orderbearer",
+    "id": 201291,
+    "relative_path": "agd_book/201291_Records_of_the_Orderbearer.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Investigation Notes",
+    "id": 201292,
+    "relative_path": "agd_book/201292_Investigation_Notes.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Alchemist's Notes (I)",
+    "id": 201293,
+    "relative_path": "agd_book/201293_The_Alchemists_Notes_I.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Alchemist's Notes (II)",
+    "id": 201294,
+    "relative_path": "agd_book/201294_The_Alchemists_Notes_II.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Grand Duke Alvis's Notes",
+    "id": 201295,
+    "relative_path": "agd_book/201295_Grand_Duke_Alviss_Notes.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201296,
+    "relative_path": "agd_book/201296_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201297,
+    "relative_path": "agd_book/201297_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201298,
+    "relative_path": "agd_book/201298_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201299,
+    "relative_path": "agd_book/201299_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "Knights of Favonius Handbook - 5th Edition",
     "id": 200145,
     "relative_path": "agd_book/200145_Knights_of_Favonius_Handbook_-_5th_Edition.txt",
     "min_version": "1.4",
     "max_version": "1.4"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201300,
+    "relative_path": "agd_book/201300_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201301,
+    "relative_path": "agd_book/201301_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201302,
+    "relative_path": "agd_book/201302_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201303,
+    "relative_path": "agd_book/201303_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Snezhnaya Vestnik",
+    "id": 201304,
+    "relative_path": "agd_book/201304_Snezhnaya_Vestnik.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "The Ashen Traveler's Notes",
+    "id": 201305,
+    "relative_path": "agd_book/201305_The_Ashen_Travelers_Notes.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Document With Yellowed Pages",
+    "id": 201306,
+    "relative_path": "agd_book/201306_Document_With_Yellowed_Pages.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -63929,6 +68001,54 @@
   },
   {
     "category": "agd_book",
+    "title": "Investigation Report into Supernatural Sightings at the Opera House",
+    "id": 201249,
+    "relative_path": "agd_book/201249_Investigation_Report_into_Supernatural_Sightings_a.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Investigation Report into Supernatural Sightings at the Opera House",
+    "id": 201250,
+    "relative_path": "agd_book/201250_Investigation_Report_into_Supernatural_Sightings_a.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "Investigation Report into Supernatural Sightings at the Opera House",
+    "id": 201251,
+    "relative_path": "agd_book/201251_Investigation_Report_into_Supernatural_Sightings_a.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "A \"Letter\" in a Diary",
+    "id": 201246,
+    "relative_path": "agd_book/201246_A_Letter_in_a_Diary.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "A \"Letter\" in a Diary",
+    "id": 201247,
+    "relative_path": "agd_book/201247_A_Letter_in_a_Diary.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "A \"Letter\" in a Diary",
+    "id": 201248,
+    "relative_path": "agd_book/201248_A_Letter_in_a_Diary.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "Enigmatic Page (XI)",
     "id": 200700,
     "relative_path": "agd_book/200700_Enigmatic_Page_XI.txt",
@@ -66241,6 +70361,22 @@
   },
   {
     "category": "agd_weapon",
+    "title": "Heretic's Molten Blade",
+    "id": 11435,
+    "relative_path": "agd_weapon/11435_Heretics_Molten_Blade.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Emberwell",
+    "id": 11436,
+    "relative_path": "agd_weapon/11436_Emberwell.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
     "title": "Aquila Favonia",
     "id": 11501,
     "relative_path": "agd_weapon/11501_Aquila_Favonia.txt",
@@ -66366,6 +70502,22 @@
     "relative_path": "agd_weapon/11519_Lightbearing_Moonshard.txt",
     "min_version": "6.3",
     "max_version": "6.3"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Whitelake Frostfeather",
+    "id": 11520,
+    "relative_path": "agd_weapon/11520_Whitelake_Frostfeather.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Exaiphanes Blade",
+    "id": 11521,
+    "relative_path": "agd_weapon/11521_Exaiphanes_Blade.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -66630,6 +70782,22 @@
     "relative_path": "agd_weapon/12433_Master_Key.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Forged by the Golden Melody",
+    "id": 12435,
+    "relative_path": "agd_weapon/12435_Forged_by_the_Golden_Melody.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Blade of Atonement",
+    "id": 12436,
+    "relative_path": "agd_weapon/12436_Blade_of_Atonement.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -66942,6 +71110,22 @@
     "relative_path": "agd_weapon/13434_Sacrificers_Staff.txt",
     "min_version": "6.1",
     "max_version": "6.1"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Frostbreath",
+    "id": 13435,
+    "relative_path": "agd_weapon/13435_Frostbreath.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Song of the Vigil",
+    "id": 13436,
+    "relative_path": "agd_weapon/13436_Song_of_the_Vigil.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -67310,6 +71494,22 @@
     "relative_path": "agd_weapon/14434_Dawning_Frost.txt",
     "min_version": "6.1",
     "max_version": "6.1"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Clash of Kings",
+    "id": 14435,
+    "relative_path": "agd_weapon/14435_Clash_of_Kings.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Echoes of the Heart",
+    "id": 14436,
+    "relative_path": "agd_weapon/14436_Echoes_of_the_Heart.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -67750,6 +71950,22 @@
     "relative_path": "agd_weapon/15434_Rainbow_Serpents_Rain_Bow.txt",
     "min_version": "6.2",
     "max_version": "6.2"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Jade Vista",
+    "id": 15435,
+    "relative_path": "agd_weapon/15435_Jade_Vista.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "Covenant of Frost and Snow",
+    "id": 15436,
+    "relative_path": "agd_weapon/15436_Covenant_of_Frost_and_Snow.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",

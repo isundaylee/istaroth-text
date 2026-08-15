@@ -504,6 +504,22 @@
     "max_version": "6.6"
   },
   {
+    "category": "agd_artifact_set",
+    "title": "血红之证",
+    "id": 15047,
+    "relative_path": "agd_artifact_set/15047_血红之证.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_artifact_set",
+    "title": "炉火融炼之心",
+    "id": 15048,
+    "relative_path": "agd_artifact_set/15048_炉火融炼之心.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_creature",
     "title": "深渊",
     "id": 62283044650572,
@@ -517,7 +533,7 @@
     "id": 153036648332328,
     "relative_path": "agd_creature/153036648332328_CODEX_SUBTYPE_ANIMAL.txt",
     "min_version": "1.4",
-    "max_version": "6.5"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -533,7 +549,7 @@
     "id": 47935621010897,
     "relative_path": "agd_creature/47935621010897_CODEX_SUBTYPE_AVIARY.txt",
     "min_version": "1.4",
-    "max_version": "6.5"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -541,7 +557,7 @@
     "id": 20075174380011,
     "relative_path": "agd_creature/20075174380011_CODEX_SUBTYPE_BEAST.txt",
     "min_version": "1.4",
-    "max_version": "6.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -557,7 +573,7 @@
     "id": 227743045397111,
     "relative_path": "agd_creature/227743045397111_CODEX_SUBTYPE_CRITTER.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -581,7 +597,7 @@
     "id": 168581277645155,
     "relative_path": "agd_creature/168581277645155_CODEX_SUBTYPE_FISH.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_creature",
@@ -2358,6 +2374,78 @@
     "relative_path": "agd_quest/6038_你的往事如一座花园.txt",
     "min_version": "6.6",
     "max_version": "6.6"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白幕降下",
+    "id": 7005,
+    "relative_path": "agd_quest/7005_白幕降下.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "莱莱可的自白",
+    "id": 7006,
+    "relative_path": "agd_quest/7006_莱莱可的自白.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "冬日静默如谜",
+    "id": 7007,
+    "relative_path": "agd_quest/7007_冬日静默如谜.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "死魂灵的夜曲",
+    "id": 7008,
+    "relative_path": "agd_quest/7008_死魂灵的夜曲.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "槲寄生",
+    "id": 7009,
+    "relative_path": "agd_quest/7009_槲寄生.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "逆风向苦寒之北",
+    "id": 7011,
+    "relative_path": "agd_quest/7011_逆风向苦寒之北.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "沉寂之地的枪声",
+    "id": 7012,
+    "relative_path": "agd_quest/7012_沉寂之地的枪声.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "冰原上的伟业",
+    "id": 7013,
+    "relative_path": "agd_quest/7013_冰原上的伟业.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "唯沉默不受眷顾",
+    "id": 7014,
+    "relative_path": "agd_quest/7014_唯沉默不受眷顾.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_quest",
@@ -18985,6 +19073,622 @@
   },
   {
     "category": "agd_quest",
+    "title": "白与黑的变奏舞",
+    "id": 77000,
+    "relative_path": "agd_quest/77000_白与黑的变奏舞.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77001,
+    "relative_path": "agd_quest/77001_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77002,
+    "relative_path": "agd_quest/77002_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77003,
+    "relative_path": "agd_quest/77003_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77004,
+    "relative_path": "agd_quest/77004_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77005,
+    "relative_path": "agd_quest/77005_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77006,
+    "relative_path": "agd_quest/77006_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77007,
+    "relative_path": "agd_quest/77007_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77008,
+    "relative_path": "agd_quest/77008_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77009,
+    "relative_path": "agd_quest/77009_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77010,
+    "relative_path": "agd_quest/77010_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77011,
+    "relative_path": "agd_quest/77011_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77012,
+    "relative_path": "agd_quest/77012_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77013,
+    "relative_path": "agd_quest/77013_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77016,
+    "relative_path": "agd_quest/77016_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77017,
+    "relative_path": "agd_quest/77017_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "望向入梦的白冕",
+    "id": 77100,
+    "relative_path": "agd_quest/77100_望向入梦的白冕.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "石兽如幽灵般端坐",
+    "id": 77101,
+    "relative_path": "agd_quest/77101_石兽如幽灵般端坐.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "忧伤的门扉不允许",
+    "id": 77102,
+    "relative_path": "agd_quest/77102_忧伤的门扉不允许.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "狭道底处",
+    "id": 77103,
+    "relative_path": "agd_quest/77103_狭道底处.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "穿过象牙之门",
+    "id": 77104,
+    "relative_path": "agd_quest/77104_穿过象牙之门.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "太阳的金苹果",
+    "id": 77105,
+    "relative_path": "agd_quest/77105_太阳的金苹果.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "暮色苍茫，晚钟敲响",
+    "id": 77107,
+    "relative_path": "agd_quest/77107_暮色苍茫晚钟敲响.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "园丁伫立",
+    "id": 77110,
+    "relative_path": "agd_quest/77110_园丁伫立.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "于遗忘的田野入眠",
+    "id": 77111,
+    "relative_path": "agd_quest/77111_于遗忘的田野入眠.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "安慰者的合唱",
+    "id": 77112,
+    "relative_path": "agd_quest/77112_安慰者的合唱.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "无园丁的幼苗",
+    "id": 77115,
+    "relative_path": "agd_quest/77115_无园丁的幼苗.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "自昨天移植至明天",
+    "id": 77116,
+    "relative_path": "agd_quest/77116_自昨天移植至明天.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "小小霜精大大烦恼",
+    "id": 77125,
+    "relative_path": "agd_quest/77125_小小霜精大大烦恼.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "普洛克路斯忒斯的寝床",
+    "id": 77128,
+    "relative_path": "agd_quest/77128_普洛克路斯忒斯的寝床.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "伟大的心锁于纤细之链",
+    "id": 77129,
+    "relative_path": "agd_quest/77129_伟大的心锁于纤细之链.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "如迷宫囚禁她的奴仆",
+    "id": 77130,
+    "relative_path": "agd_quest/77130_如迷宫囚禁她的奴仆.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "无魂者之屋",
+    "id": 77131,
+    "relative_path": "agd_quest/77131_无魂者之屋.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "为她所颂轻柔之歌",
+    "id": 77132,
+    "relative_path": "agd_quest/77132_为她所颂轻柔之歌.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "如汐歌幽诉之地",
+    "id": 77137,
+    "relative_path": "agd_quest/77137_如汐歌幽诉之地.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "烧去仓房与马棚",
+    "id": 77142,
+    "relative_path": "agd_quest/77142_烧去仓房与马棚.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "无仁义的争执",
+    "id": 77143,
+    "relative_path": "agd_quest/77143_无仁义的争执.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "待访曙光",
+    "id": 77144,
+    "relative_path": "agd_quest/77144_待访曙光.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "林场雪原",
+    "id": 77148,
+    "relative_path": "agd_quest/77148_林场雪原.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "曾为灵魂的木舟",
+    "id": 77160,
+    "relative_path": "agd_quest/77160_曾为灵魂的木舟.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "潮自回声",
+    "id": 77163,
+    "relative_path": "agd_quest/77163_潮自回声.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "像一个雪球一样",
+    "id": 77185,
+    "relative_path": "agd_quest/77185_像一个雪球一样.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "如汐歌环萦之地",
+    "id": 77187,
+    "relative_path": "agd_quest/77187_如汐歌环萦之地.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "靶场与深度影域",
+    "id": 77195,
+    "relative_path": "agd_quest/77195_靶场与深度影域.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "为寻一块冰镜的碎片",
+    "id": 77202,
+    "relative_path": "agd_quest/77202_为寻一块冰镜的碎片.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "浮雪之上",
+    "id": 77204,
+    "relative_path": "agd_quest/77204_浮雪之上.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "时常于水波之下",
+    "id": 77209,
+    "relative_path": "agd_quest/77209_时常于水波之下.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "沉船驶过，没有敲钟",
+    "id": 77210,
+    "relative_path": "agd_quest/77210_沉船驶过没有敲钟.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "在回环的宁静中",
+    "id": 77211,
+    "relative_path": "agd_quest/77211_在回环的宁静中.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "简单零工",
+    "id": 77233,
+    "relative_path": "agd_quest/77233_简单零工.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77235,
+    "relative_path": "agd_quest/77235_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77236,
+    "relative_path": "agd_quest/77236_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "白与黑的变奏舞·日程",
+    "id": 77237,
+    "relative_path": "agd_quest/77237_白与黑的变奏舞日程.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "儿时的快乐",
+    "id": 77500,
+    "relative_path": "agd_quest/77500_儿时的快乐.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "争锋！全境冒险家的较量！",
+    "id": 77501,
+    "relative_path": "agd_quest/77501_争锋全境冒险家的较量.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "互助与「强化」的诀窍？",
+    "id": 77504,
+    "relative_path": "agd_quest/77504_互助与强化的诀窍.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "共享诀窍的约定…",
+    "id": 77505,
+    "relative_path": "agd_quest/77505_共享诀窍的约定.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "派蒙的「帝利耶悉」解题法",
+    "id": 77511,
+    "relative_path": "agd_quest/77511_派蒙的帝利耶悉解题法.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "雪原上的猎手",
+    "id": 77650,
+    "relative_path": "agd_quest/77650_雪原上的猎手.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "曙光的一缕",
+    "id": 77651,
+    "relative_path": "agd_quest/77651_曙光的一缕.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "众人拾柴火焰高",
+    "id": 77652,
+    "relative_path": "agd_quest/77652_众人拾柴火焰高.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "影域的遗留",
+    "id": 77653,
+    "relative_path": "agd_quest/77653_影域的遗留.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "影域的遗留",
+    "id": 77654,
+    "relative_path": "agd_quest/77654_影域的遗留.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "影域的遗留",
+    "id": 77655,
+    "relative_path": "agd_quest/77655_影域的遗留.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "雪后曙光",
+    "id": 77656,
+    "relative_path": "agd_quest/77656_雪后曙光.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "一场特殊的选拔",
+    "id": 77657,
+    "relative_path": "agd_quest/77657_一场特殊的选拔.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "新雪来客",
+    "id": 77670,
+    "relative_path": "agd_quest/77670_新雪来客.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "未谢幕者",
+    "id": 77671,
+    "relative_path": "agd_quest/77671_未谢幕者.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "未谢幕者的答谢",
+    "id": 77672,
+    "relative_path": "agd_quest/77672_未谢幕者的答谢.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "严酷的战况模拟",
+    "id": 77674,
+    "relative_path": "agd_quest/77674_严酷的战况模拟.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "冒险就要朝着远方",
+    "id": 77676,
+    "relative_path": "agd_quest/77676_冒险就要朝着远方.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77900,
+    "relative_path": "agd_quest/77900_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77901,
+    "relative_path": "agd_quest/77901_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77902,
+    "relative_path": "agd_quest/77902_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77903,
+    "relative_path": "agd_quest/77903_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77904,
+    "relative_path": "agd_quest/77904_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
+    "title": "Missing title (0)",
+    "id": 77905,
+    "relative_path": "agd_quest/77905_Missing_title_0.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_quest",
     "title": "听海人",
     "id": 79000,
     "relative_path": "agd_quest/79000_听海人.txt",
@@ -20206,6 +20910,22 @@
     "relative_path": "agd_character_story/10000133_桑多涅.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_character_story",
+    "title": "阿罗夏",
+    "id": 10000148,
+    "relative_path": "agd_character_story/10000148_阿罗夏.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_character_story",
+    "title": "奥黛塔",
+    "id": 10000150,
+    "relative_path": "agd_character_story/10000150_奥黛塔.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_subtitle",
@@ -22473,6 +23193,62 @@
   },
   {
     "category": "agd_subtitle",
+    "title": "死魂灵的夜曲 (Cs_ZD_AQ70081401_YD_Boy)",
+    "id": 83940172839757,
+    "relative_path": "agd_subtitle/83940172839757_Cs_ZD_AQ70081401_YD_Boy_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "死魂灵的夜曲 (Cs_ZD_AQ70081401_YD_Girl)",
+    "id": 236538194200560,
+    "relative_path": "agd_subtitle/236538194200560_Cs_ZD_AQ70081401_YD_Girl_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "槲寄生 (Cs_ZD_AQ70091101_ED_Boy)",
+    "id": 236512971396282,
+    "relative_path": "agd_subtitle/236512971396282_Cs_ZD_AQ70091101_ED_Boy_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "槲寄生 (Cs_ZD_AQ70091101_ED_Girl)",
+    "id": 253074322440906,
+    "relative_path": "agd_subtitle/253074322440906_Cs_ZD_AQ70091101_ED_Girl_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "槲寄生 (Cs_ZD_AQ70091801_HY)",
+    "id": 169977586770870,
+    "relative_path": "agd_subtitle/169977586770870_Cs_ZD_AQ70091801_HY_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "冰原上的伟业 (Cs_ZD_AQ70131201_TLBD_Boy)",
+    "id": 152257633303279,
+    "relative_path": "agd_subtitle/152257633303279_Cs_ZD_AQ70131201_TLBD_Boy_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
+    "title": "冰原上的伟业 (Cs_ZD_AQ70131201_TLBD_Girl)",
+    "id": 26835025747236,
+    "relative_path": "agd_subtitle/26835025747236_Cs_ZD_AQ70131201_TLBD_Girl_CHS.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_subtitle",
     "title": "MDAQ001_OPNew_Part1",
     "id": 255032594705016,
     "relative_path": "agd_subtitle/255032594705016_MDAQ001_OPNew_Part1_CHS.txt",
@@ -22573,7 +23349,7 @@
     "id": 139769539443015,
     "relative_path": "agd_material_type/139769539443015_MATERIAL_ADSORBATE.txt",
     "min_version": "1.4",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22589,7 +23365,7 @@
     "id": 190325247802077,
     "relative_path": "agd_material_type/190325247802077_MATERIAL_AVATAR.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22597,7 +23373,7 @@
     "id": 137297451086922,
     "relative_path": "agd_material_type/137297451086922_MATERIAL_AVATAR_MATERIAL.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22605,7 +23381,7 @@
     "id": 259653658487469,
     "relative_path": "agd_material_type/259653658487469_MATERIAL_AVATAR_TALENT_MATERIAL.txt",
     "min_version": "6.0",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22613,7 +23389,7 @@
     "id": 95846659994668,
     "relative_path": "agd_material_type/95846659994668_MATERIAL_AVATAR_TRACE.txt",
     "min_version": "4.8",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22629,7 +23405,7 @@
     "id": 76357981033371,
     "relative_path": "agd_material_type/76357981033371_MATERIAL_BGM.txt",
     "min_version": "2.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22661,7 +23437,7 @@
     "id": 187060639121257,
     "relative_path": "agd_material_type/187060639121257_MATERIAL_CHEST.txt",
     "min_version": "1.4",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22693,7 +23469,7 @@
     "id": 50652477195009,
     "relative_path": "agd_material_type/50652477195009_MATERIAL_CONSUME.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22701,7 +23477,7 @@
     "id": 111173164905405,
     "relative_path": "agd_material_type/111173164905405_MATERIAL_CONSUME_BATCH_USE.txt",
     "min_version": "1.4",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22733,7 +23509,7 @@
     "id": 68604991672989,
     "relative_path": "agd_material_type/68604991672989_MATERIAL_ELEM_CRYSTAL.txt",
     "min_version": "1.4",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22741,7 +23517,7 @@
     "id": 34779264747244,
     "relative_path": "agd_material_type/34779264747244_MATERIAL_EXCHANGE.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22781,7 +23557,7 @@
     "id": 172212247450150,
     "relative_path": "agd_material_type/172212247450150_MATERIAL_FISH_BAIT.txt",
     "min_version": "2.1",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22789,7 +23565,7 @@
     "id": 2184357794678,
     "relative_path": "agd_material_type/2184357794678_MATERIAL_FISH_ROD.txt",
     "min_version": "2.1",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22805,7 +23581,7 @@
     "id": 73639432960531,
     "relative_path": "agd_material_type/73639432960531_MATERIAL_FOOD.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22813,7 +23589,7 @@
     "id": 209254765256800,
     "relative_path": "agd_material_type/209254765256800_MATERIAL_FURNITURE_FORMULA.txt",
     "min_version": "1.5",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22829,7 +23605,7 @@
     "id": 29029886051170,
     "relative_path": "agd_material_type/29029886051170_MATERIAL_GCG_CARD.txt",
     "min_version": "3.3",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22837,7 +23613,7 @@
     "id": 61237999150696,
     "relative_path": "agd_material_type/61237999150696_MATERIAL_GCG_CARD_BACK.txt",
     "min_version": "3.3",
-    "max_version": "6.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22845,7 +23621,7 @@
     "id": 99564974873906,
     "relative_path": "agd_material_type/99564974873906_MATERIAL_GCG_CARD_FACE.txt",
     "min_version": "3.3",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22893,7 +23669,7 @@
     "id": 11779334926657,
     "relative_path": "agd_material_type/11779334926657_MATERIAL_HOME_SEED.txt",
     "min_version": "2.0",
-    "max_version": "6.3"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22941,7 +23717,7 @@
     "id": 143351245270949,
     "relative_path": "agd_material_type/143351245270949_MATERIAL_NAMECARD.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22989,7 +23765,7 @@
     "id": 32423615382224,
     "relative_path": "agd_material_type/32423615382224_MATERIAL_NONE.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -22997,7 +23773,15 @@
     "id": 104328083823023,
     "relative_path": "agd_material_type/104328083823023_MATERIAL_NOTICE_ADD_HP.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Odette Quest Photo Book",
+    "id": 103911676546563,
+    "relative_path": "agd_material_type/103911676546563_MATERIAL_ODETTE_QUEST_PHOTO_BOOK.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23005,7 +23789,7 @@
     "id": 29118065750773,
     "relative_path": "agd_material_type/29118065750773_MATERIAL_PHOTOGRAPH_POSE.txt",
     "min_version": "5.2",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23037,7 +23821,7 @@
     "id": 19264075661361,
     "relative_path": "agd_material_type/19264075661361_MATERIAL_PROFILE_FRAME.txt",
     "min_version": "6.0",
-    "max_version": "6.0"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23053,7 +23837,7 @@
     "id": 266582649220109,
     "relative_path": "agd_material_type/266582649220109_MATERIAL_QUEST.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23149,7 +23933,23 @@
     "id": 28653025258412,
     "relative_path": "agd_material_type/28653025258412_MATERIAL_TALENT.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Tps Accessory",
+    "id": 180062287248716,
+    "relative_path": "agd_material_type/180062287248716_MATERIAL_TPS_ACCESSORY.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Tps Cloak Upgrade",
+    "id": 18641628655805,
+    "relative_path": "agd_material_type/18641628655805_MATERIAL_TPS_CLOAK_UPGRADE.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23165,7 +23965,7 @@
     "id": 214483900842269,
     "relative_path": "agd_material_type/214483900842269_MATERIAL_WEAPON_SKIN.txt",
     "min_version": "5.7",
-    "max_version": "6.6"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23173,7 +23973,7 @@
     "id": 12519571925331,
     "relative_path": "agd_material_type/12519571925331_MATERIAL_WIDGET.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_material_type",
@@ -23181,7 +23981,15 @@
     "id": 94410589173661,
     "relative_path": "agd_material_type/94410589173661_MATERIAL_WOOD.txt",
     "min_version": "1.5",
-    "max_version": "6.0"
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_material_type",
+    "title": "Zdaq Book Photo",
+    "id": 44027952238971,
+    "relative_path": "agd_material_type/44027952238971_MATERIAL_ZDAQ_BOOK_PHOTO.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23189,7 +23997,7 @@
     "id": 0,
     "relative_path": "agd_achievement/0_天地万象.txt",
     "min_version": "1.4",
-    "max_version": "6.7"
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23246,6 +24054,14 @@
     "relative_path": "agd_achievement/65_尘世巡游第六辑.txt",
     "min_version": "6.3",
     "max_version": "6.3"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "尘世巡游·第七辑",
+    "id": 71,
+    "relative_path": "agd_achievement/71_尘世巡游第七辑.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23462,6 +24278,14 @@
     "relative_path": "agd_achievement/64_异世相逢第六辑.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "异世相逢·第七辑",
+    "id": 72,
+    "relative_path": "agd_achievement/72_异世相逢第七辑.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_achievement",
@@ -23734,6 +24558,22 @@
     "relative_path": "agd_achievement/68_无束的残月.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "至冬·冰与苍星的圣都·其之一",
+    "id": 69,
+    "relative_path": "agd_achievement/69_至冬冰与苍星的圣都其之一.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_achievement",
+    "title": "浮涌的阴影之地",
+    "id": 70,
+    "relative_path": "agd_achievement/70_浮涌的阴影之地.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_voiceline",
@@ -24680,6 +25520,22 @@
     "max_version": "6.7"
   },
   {
+    "category": "agd_voiceline",
+    "title": "阿罗夏",
+    "id": 10000148,
+    "relative_path": "agd_voiceline/10000148_阿罗夏.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_voiceline",
+    "title": "奥黛塔",
+    "id": 10000150,
+    "relative_path": "agd_voiceline/10000150_奥黛塔.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_talk_group",
     "title": "未归的熄星 (ActivityGroup 2001)",
     "id": 1000002001,
@@ -24982,6 +25838,14 @@
     "relative_path": "agd_talk_group/2047_ActivityGroup.txt",
     "min_version": "6.5",
     "max_version": "6.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "险境征者竞锋大赛 (ActivityGroup 2050)",
+    "id": 1000002050,
+    "relative_path": "agd_talk_group/2050_ActivityGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -25881,6 +26745,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "被冰雪封锁的门 (GadgetGroup 123001_133711123)",
+    "id": 123001133711123,
+    "relative_path": "agd_talk_group/123001_133711123_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "被冰雪封锁的门 (GadgetGroup 123002_133711123)",
+    "id": 123002133711123,
+    "relative_path": "agd_talk_group/123002_133711123_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "无名的石像 (GadgetGroup 123006_511010123)",
     "id": 123006511010123,
     "relative_path": "agd_talk_group/123006_511010123_GadgetGroup.txt",
@@ -26078,6 +26958,14 @@
     "relative_path": "agd_talk_group/132004_133004132_GadgetGroup.txt",
     "min_version": "4.5",
     "max_version": "4.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 134001_133711134",
+    "id": 134001133711134,
+    "relative_path": "agd_talk_group/134001_133711134_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -26414,6 +27302,14 @@
     "relative_path": "agd_talk_group/165001_199002165_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 165002_133711165",
+    "id": 165002133711165,
+    "relative_path": "agd_talk_group/165002_133711165_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -26806,6 +27702,38 @@
     "relative_path": "agd_talk_group/194001_199002194_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195002_133712195",
+    "id": 195002133712195,
+    "relative_path": "agd_talk_group/195002_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195004_133712195",
+    "id": 195004133712195,
+    "relative_path": "agd_talk_group/195004_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "GadgetGroup - 195006_133712195",
+    "id": 195006133712195,
+    "relative_path": "agd_talk_group/195006_133712195_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "留言 / 皇都评议会决议公示 / 「老庭院餐厅」 / ... (GadgetGroup 196002_133712196)",
+    "id": 196002133712196,
+    "relative_path": "agd_talk_group/196002_133712196_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -27745,6 +28673,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "留言 / 沃雅妮莎的留言 / 另一人的留言 / ... (GadgetGroup 310005_133708310)",
+    "id": 310005133708310,
+    "relative_path": "agd_talk_group/310005_133708310_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "留言 / 卡茜涅尔小姐的回复 / 柔灯港公告板 / ... (GadgetGroup 33002_133412033)",
     "id": 33002133412033,
     "relative_path": "agd_talk_group/33002_133412033_GadgetGroup.txt",
@@ -27881,6 +28817,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 35034_133708035",
+    "id": 35034133708035,
+    "relative_path": "agd_talk_group/35034_133708035_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "告示牌 (GadgetGroup 352002_510010352)",
     "id": 352002510010352,
     "relative_path": "agd_talk_group/352002_510010352_GadgetGroup.txt",
@@ -27926,6 +28870,30 @@
     "relative_path": "agd_talk_group/367002_133401367_GadgetGroup.txt",
     "min_version": "4.0",
     "max_version": "4.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "公告 (GadgetGroup 368008_133709368)",
+    "id": 368008133709368,
+    "relative_path": "agd_talk_group/368008_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "公告 (GadgetGroup 368015_133709368)",
+    "id": 368015133709368,
+    "relative_path": "agd_talk_group/368015_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "公告 (GadgetGroup 368033_133709368)",
+    "id": 368033133709368,
+    "relative_path": "agd_talk_group/368033_133709368_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -28241,6 +29209,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 459002_133709459",
+    "id": 459002133709459,
+    "relative_path": "agd_talk_group/459002_133709459_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "可疑的告示 (GadgetGroup 459135_133611459)",
     "id": 459135133611459,
     "relative_path": "agd_talk_group/459135_133611459_GadgetGroup.txt",
@@ -28494,6 +29470,14 @@
     "relative_path": "agd_talk_group/50004_133408050_GadgetGroup.txt",
     "min_version": "4.2",
     "max_version": "4.2"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "留声机 (GadgetGroup 5001_201159005)",
+    "id": 5001201159005,
+    "relative_path": "agd_talk_group/5001_201159005_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -29641,6 +30625,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 8002_201159008",
+    "id": 8002201159008,
+    "relative_path": "agd_talk_group/8002_201159008_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "狩野 (GadgetGroup 80035_610303080)",
     "id": 80035610303080,
     "relative_path": "agd_talk_group/80035_610303080_GadgetGroup.txt",
@@ -30073,6 +31065,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "GadgetGroup - 91002_133705091",
+    "id": 91002133705091,
+    "relative_path": "agd_talk_group/91002_133705091_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "「东方快车失踪案」 (GadgetGroup 91003_133221091)",
     "id": 91003133221091,
     "relative_path": "agd_talk_group/91003_133221091_GadgetGroup.txt",
@@ -30086,6 +31086,14 @@
     "relative_path": "agd_talk_group/91004_133221091_GadgetGroup.txt",
     "min_version": "2.8",
     "max_version": "2.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "少女的雕像 (GadgetGroup 91013_133711091)",
+    "id": 91013133711091,
+    "relative_path": "agd_talk_group/91013_133711091_GadgetGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -30385,6 +31393,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "「公子」 (NpcGroup 10200)",
+    "id": 10200,
+    "relative_path": "agd_talk_group/10200_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "凝光 (NpcGroup 10211)",
     "id": 10211,
     "relative_path": "agd_talk_group/10211_NpcGroup.txt",
@@ -30665,6 +31681,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "「仆人」 (NpcGroup 1080)",
+    "id": 1080,
+    "relative_path": "agd_talk_group/1080_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "香炉 (NpcGroup 10911)",
     "id": 10911,
     "relative_path": "agd_talk_group/10911_NpcGroup.txt",
@@ -30798,6 +31822,14 @@
     "relative_path": "agd_talk_group/12334_NpcGroup.txt",
     "min_version": "2.2",
     "max_version": "2.2"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "NpcGroup - 12404",
+    "id": 12404,
+    "relative_path": "agd_talk_group/12404_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -31369,11 +32401,27 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "米提亚 (NpcGroup 1333)",
+    "id": 1333,
+    "relative_path": "agd_talk_group/1333_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "拉米雅 (NpcGroup 13356)",
     "id": 13356,
     "relative_path": "agd_talk_group/13356_NpcGroup.txt",
     "min_version": "3.8",
     "max_version": "3.8"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「木偶」 (NpcGroup 1336)",
+    "id": 1336,
+    "relative_path": "agd_talk_group/1336_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32589,7 +33637,7 @@
     "id": 1663,
     "relative_path": "agd_talk_group/1663_NpcGroup.txt",
     "min_version": "1.4",
-    "max_version": "1.4"
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32729,6 +33777,30 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "兹韦列夫 (NpcGroup 16848)",
+    "id": 16848,
+    "relative_path": "agd_talk_group/16848_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "西廷 (NpcGroup 16849)",
+    "id": 16849,
+    "relative_path": "agd_talk_group/16849_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "派蒙 (NpcGroup 16853)",
+    "id": 16853,
+    "relative_path": "agd_talk_group/16853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "观察 (NpcGroup 16926)",
     "id": 16926,
     "relative_path": "agd_talk_group/16926_NpcGroup.txt",
@@ -32774,6 +33846,14 @@
     "relative_path": "agd_talk_group/1702_NpcGroup.txt",
     "min_version": "3.1",
     "max_version": "3.1"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柳明娜 (NpcGroup 17025)",
+    "id": 17025,
+    "relative_path": "agd_talk_group/17025_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32854,6 +33934,14 @@
     "relative_path": "agd_talk_group/17180_NpcGroup.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "安排日程 (NpcGroup 17189)",
+    "id": 17189,
+    "relative_path": "agd_talk_group/17189_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -32974,6 +34062,22 @@
     "relative_path": "agd_talk_group/1734_NpcGroup.txt",
     "min_version": "5.4",
     "max_version": "5.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "派蒙 (NpcGroup 17370)",
+    "id": 17370,
+    "relative_path": "agd_talk_group/17370_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "派蒙 (NpcGroup 17371)",
+    "id": 17371,
+    "relative_path": "agd_talk_group/17371_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38609,6 +39713,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "雅里 (NpcGroup 22416)",
+    "id": 22416,
+    "relative_path": "agd_talk_group/22416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "薇涅兹卡 (NpcGroup 22417)",
+    "id": 22417,
+    "relative_path": "agd_talk_group/22417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "古老的文本·其一 (NpcGroup 2242)",
     "id": 2242,
     "relative_path": "agd_talk_group/2242_NpcGroup.txt",
@@ -38697,6 +39817,62 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "欢迎来到奥古洛夫镇！ (NpcGroup 22520)",
+    "id": 22520,
+    "relative_path": "agd_talk_group/22520_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "弗瑞奥萨术后观察报告·其一 (NpcGroup 22521)",
+    "id": 22521,
+    "relative_path": "agd_talk_group/22521_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "字迹模糊的笔记 (NpcGroup 22524)",
+    "id": 22524,
+    "relative_path": "agd_talk_group/22524_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "泛黄的记录簿 (NpcGroup 22525)",
+    "id": 22525,
+    "relative_path": "agd_talk_group/22525_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "模糊的字迹 (NpcGroup 22526)",
+    "id": 22526,
+    "relative_path": "agd_talk_group/22526_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "稚嫩的字迹 (NpcGroup 22527)",
+    "id": 22527,
+    "relative_path": "agd_talk_group/22527_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "凌乱的字迹 (NpcGroup 22528)",
+    "id": 22528,
+    "relative_path": "agd_talk_group/22528_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "《古华诸贤谱录》 (NpcGroup 2253)",
     "id": 2253,
     "relative_path": "agd_talk_group/2253_NpcGroup.txt",
@@ -38718,6 +39894,14 @@
     "relative_path": "agd_talk_group/2256_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22566)",
+    "id": 22566,
+    "relative_path": "agd_talk_group/22566_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38761,6 +39945,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "变质的食物 (NpcGroup 22619)",
+    "id": 22619,
+    "relative_path": "agd_talk_group/22619_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "琼玖 (NpcGroup 2262)",
     "id": 2262,
     "relative_path": "agd_talk_group/2262_NpcGroup.txt",
@@ -38782,6 +39974,46 @@
     "relative_path": "agd_talk_group/2264_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "展品的铭牌 (NpcGroup 22645)",
+    "id": 22645,
+    "relative_path": "agd_talk_group/22645_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "展品的铭牌 (NpcGroup 22646)",
+    "id": 22646,
+    "relative_path": "agd_talk_group/22646_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "展品的铭牌 (NpcGroup 22647)",
+    "id": 22647,
+    "relative_path": "agd_talk_group/22647_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "展品的铭牌 (NpcGroup 22648)",
+    "id": 22648,
+    "relative_path": "agd_talk_group/22648_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "展品的铭牌 (NpcGroup 22649)",
+    "id": 22649,
+    "relative_path": "agd_talk_group/22649_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38809,6 +40041,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "「球球」 (NpcGroup 22726)",
+    "id": 22726,
+    "relative_path": "agd_talk_group/22726_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "古老的文本·其二 (NpcGroup 2275)",
     "id": 2275,
     "relative_path": "agd_talk_group/2275_NpcGroup.txt",
@@ -38825,11 +40065,59 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22837)",
+    "id": 22837,
+    "relative_path": "agd_talk_group/22837_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22838)",
+    "id": 22838,
+    "relative_path": "agd_talk_group/22838_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22839)",
+    "id": 22839,
+    "relative_path": "agd_talk_group/22839_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "谁人的闲笔 (NpcGroup 2284)",
     "id": 2284,
     "relative_path": "agd_talk_group/2284_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22840)",
+    "id": 22840,
+    "relative_path": "agd_talk_group/22840_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22841)",
+    "id": 22841,
+    "relative_path": "agd_talk_group/22841_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蓝藻 (NpcGroup 22842)",
+    "id": 22842,
+    "relative_path": "agd_talk_group/22842_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -38841,11 +40129,59 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "娜斯佳与妈妈的合照 (NpcGroup 22853)",
+    "id": 22853,
+    "relative_path": "agd_talk_group/22853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "谁人的闲笔 (NpcGroup 2286)",
     "id": 2286,
     "relative_path": "agd_talk_group/2286_NpcGroup.txt",
     "min_version": "4.4",
     "max_version": "4.4"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "《怪语奇谭》本期投稿：奥古洛夫诡谈 (NpcGroup 22870)",
+    "id": 22870,
+    "relative_path": "agd_talk_group/22870_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "欢迎来到奥古洛夫镇！ (NpcGroup 22871)",
+    "id": 22871,
+    "relative_path": "agd_talk_group/22871_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "欢迎来到奥古洛夫镇！ (NpcGroup 22872)",
+    "id": 22872,
+    "relative_path": "agd_talk_group/22872_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "《怪语奇谭》本期投稿：奥古洛夫诡谈 (NpcGroup 22873)",
+    "id": 22873,
+    "relative_path": "agd_talk_group/22873_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "《怪语奇谭》本期投稿：奥古洛夫诡谈 (NpcGroup 22874)",
+    "id": 22874,
+    "relative_path": "agd_talk_group/22874_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -42870,6 +44206,206 @@
     "relative_path": "agd_talk_group/3238_NpcGroup.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥克萨娜 (NpcGroup 3409)",
+    "id": 3409,
+    "relative_path": "agd_talk_group/3409_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柳博芙 (NpcGroup 3410)",
+    "id": 3410,
+    "relative_path": "agd_talk_group/3410_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃尔格斯卡娅 (NpcGroup 3411)",
+    "id": 3411,
+    "relative_path": "agd_talk_group/3411_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨尔特科夫 (NpcGroup 3412)",
+    "id": 3412,
+    "relative_path": "agd_talk_group/3412_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "波格丹娜 (NpcGroup 3414)",
+    "id": 3414,
+    "relative_path": "agd_talk_group/3414_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "拉杜日娜娅 (NpcGroup 3415)",
+    "id": 3415,
+    "relative_path": "agd_talk_group/3415_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "涅斯捷洛娃 (NpcGroup 3416)",
+    "id": 3416,
+    "relative_path": "agd_talk_group/3416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨法诺夫 (NpcGroup 3417)",
+    "id": 3417,
+    "relative_path": "agd_talk_group/3417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塔伊西娅 (NpcGroup 3418)",
+    "id": 3418,
+    "relative_path": "agd_talk_group/3418_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "普列特涅夫 (NpcGroup 3419)",
+    "id": 3419,
+    "relative_path": "agd_talk_group/3419_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "兹韦季娜 (NpcGroup 3420)",
+    "id": 3420,
+    "relative_path": "agd_talk_group/3420_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "听一听… (NpcGroup 3463)",
+    "id": 3463,
+    "relative_path": "agd_talk_group/3463_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "纸壳与涂鸦 (NpcGroup 3513)",
+    "id": 3513,
+    "relative_path": "agd_talk_group/3513_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "臻冰通话器 (NpcGroup 3555)",
+    "id": 3555,
+    "relative_path": "agd_talk_group/3555_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥黛塔 (NpcGroup 3558)",
+    "id": 3558,
+    "relative_path": "agd_talk_group/3558_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃雅妮莎 (NpcGroup 3559)",
+    "id": 3559,
+    "relative_path": "agd_talk_group/3559_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "观察 (NpcGroup 3577)",
+    "id": 3577,
+    "relative_path": "agd_talk_group/3577_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅里 (NpcGroup 3587)",
+    "id": 3587,
+    "relative_path": "agd_talk_group/3587_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "薇涅兹卡 (NpcGroup 3588)",
+    "id": 3588,
+    "relative_path": "agd_talk_group/3588_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿罗夏 (NpcGroup 3591)",
+    "id": 3591,
+    "relative_path": "agd_talk_group/3591_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "米提亚 (NpcGroup 3592)",
+    "id": 3592,
+    "relative_path": "agd_talk_group/3592_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "瓦列里 (NpcGroup 3593)",
+    "id": 3593,
+    "relative_path": "agd_talk_group/3593_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「仆人」 (NpcGroup 3594)",
+    "id": 3594,
+    "relative_path": "agd_talk_group/3594_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「木偶」 (NpcGroup 3595)",
+    "id": 3595,
+    "relative_path": "agd_talk_group/3595_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「球球」 (NpcGroup 3599)",
+    "id": 3599,
+    "relative_path": "agd_talk_group/3599_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -52873,6 +54409,1510 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "凯瑟琳 (NpcGroup 7410)",
+    "id": 7410,
+    "relative_path": "agd_talk_group/7410_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "库兹米切夫 (NpcGroup 7411)",
+    "id": 7411,
+    "relative_path": "agd_talk_group/7411_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布图琳娜 (NpcGroup 7412)",
+    "id": 7412,
+    "relative_path": "agd_talk_group/7412_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "齐良诺夫 (NpcGroup 7413)",
+    "id": 7413,
+    "relative_path": "agd_talk_group/7413_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "格里戈里 (NpcGroup 7414)",
+    "id": 7414,
+    "relative_path": "agd_talk_group/7414_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莫 (NpcGroup 7415)",
+    "id": 7415,
+    "relative_path": "agd_talk_group/7415_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布柳什科 (NpcGroup 7416)",
+    "id": 7416,
+    "relative_path": "agd_talk_group/7416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅洛维娅 (NpcGroup 7417)",
+    "id": 7417,
+    "relative_path": "agd_talk_group/7417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "捷列布佐夫 (NpcGroup 7418)",
+    "id": 7418,
+    "relative_path": "agd_talk_group/7418_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶里谢耶夫 (NpcGroup 7419)",
+    "id": 7419,
+    "relative_path": "agd_talk_group/7419_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "纳费多夫 (NpcGroup 7420)",
+    "id": 7420,
+    "relative_path": "agd_talk_group/7420_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "格罗莫夫 (NpcGroup 7421)",
+    "id": 7421,
+    "relative_path": "agd_talk_group/7421_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "苏里科夫 (NpcGroup 7422)",
+    "id": 7422,
+    "relative_path": "agd_talk_group/7422_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "海珊那 (NpcGroup 7423)",
+    "id": 7423,
+    "relative_path": "agd_talk_group/7423_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨米尔 (NpcGroup 7424)",
+    "id": 7424,
+    "relative_path": "agd_talk_group/7424_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "万尼亚 (NpcGroup 7425)",
+    "id": 7425,
+    "relative_path": "agd_talk_group/7425_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯米尔诺夫 (NpcGroup 7426)",
+    "id": 7426,
+    "relative_path": "agd_talk_group/7426_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "希菲尔德 (NpcGroup 7427)",
+    "id": 7427,
+    "relative_path": "agd_talk_group/7427_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布洛维诺夫 (NpcGroup 7428)",
+    "id": 7428,
+    "relative_path": "agd_talk_group/7428_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶芙琳娜 (NpcGroup 7429)",
+    "id": 7429,
+    "relative_path": "agd_talk_group/7429_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "齐索斯琳娜 (NpcGroup 7430)",
+    "id": 7430,
+    "relative_path": "agd_talk_group/7430_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "曼尼科夫 (NpcGroup 7431)",
+    "id": 7431,
+    "relative_path": "agd_talk_group/7431_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "洛浦希娜 (NpcGroup 7433)",
+    "id": 7433,
+    "relative_path": "agd_talk_group/7433_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊兹麦洛夫 (NpcGroup 7434)",
+    "id": 7434,
+    "relative_path": "agd_talk_group/7434_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卡列林 (NpcGroup 7435)",
+    "id": 7435,
+    "relative_path": "agd_talk_group/7435_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "尤洛娃 (NpcGroup 7436)",
+    "id": 7436,
+    "relative_path": "agd_talk_group/7436_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莎赫斯卡娅 (NpcGroup 7437)",
+    "id": 7437,
+    "relative_path": "agd_talk_group/7437_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "罗捷丹斯基 (NpcGroup 7438)",
+    "id": 7438,
+    "relative_path": "agd_talk_group/7438_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "玛琳妮娜 (NpcGroup 7439)",
+    "id": 7439,
+    "relative_path": "agd_talk_group/7439_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "穆欣娜 (NpcGroup 7440)",
+    "id": 7440,
+    "relative_path": "agd_talk_group/7440_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅古任斯基 (NpcGroup 7441)",
+    "id": 7441,
+    "relative_path": "agd_talk_group/7441_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿基姆 (NpcGroup 7442)",
+    "id": 7442,
+    "relative_path": "agd_talk_group/7442_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莎尼科娃 (NpcGroup 7443)",
+    "id": 7443,
+    "relative_path": "agd_talk_group/7443_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卢季扬娜 (NpcGroup 7444)",
+    "id": 7444,
+    "relative_path": "agd_talk_group/7444_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "安条克 (NpcGroup 7445)",
+    "id": 7445,
+    "relative_path": "agd_talk_group/7445_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "加林娜 (NpcGroup 7446)",
+    "id": 7446,
+    "relative_path": "agd_talk_group/7446_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克莱门特 (NpcGroup 7447)",
+    "id": 7447,
+    "relative_path": "agd_talk_group/7447_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "希尔万 (NpcGroup 7448)",
+    "id": 7448,
+    "relative_path": "agd_talk_group/7448_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "拉达 (NpcGroup 7449)",
+    "id": 7449,
+    "relative_path": "agd_talk_group/7449_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "帕沙 (NpcGroup 7450)",
+    "id": 7450,
+    "relative_path": "agd_talk_group/7450_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "瓦蒂姆 (NpcGroup 7451)",
+    "id": 7451,
+    "relative_path": "agd_talk_group/7451_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "桥桥 (NpcGroup 7452)",
+    "id": 7452,
+    "relative_path": "agd_talk_group/7452_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿芙蕾莉亚 (NpcGroup 7453)",
+    "id": 7453,
+    "relative_path": "agd_talk_group/7453_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶尔莫莱 (NpcGroup 7454)",
+    "id": 7454,
+    "relative_path": "agd_talk_group/7454_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "格雷戈里 (NpcGroup 7455)",
+    "id": 7455,
+    "relative_path": "agd_talk_group/7455_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "齐诺维奇 (NpcGroup 7456)",
+    "id": 7456,
+    "relative_path": "agd_talk_group/7456_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃潘斯基 (NpcGroup 7457)",
+    "id": 7457,
+    "relative_path": "agd_talk_group/7457_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "乌瓦罗夫 (NpcGroup 7458)",
+    "id": 7458,
+    "relative_path": "agd_talk_group/7458_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "津年科 (NpcGroup 7459)",
+    "id": 7459,
+    "relative_path": "agd_talk_group/7459_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥克佳布里斯卡娅 (NpcGroup 7460)",
+    "id": 7460,
+    "relative_path": "agd_talk_group/7460_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塞雷达 (NpcGroup 7461)",
+    "id": 7461,
+    "relative_path": "agd_talk_group/7461_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "安东 (NpcGroup 7462)",
+    "id": 7462,
+    "relative_path": "agd_talk_group/7462_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯捷潘尼扬 (NpcGroup 7463)",
+    "id": 7463,
+    "relative_path": "agd_talk_group/7463_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "特罗菲莫娃 (NpcGroup 7464)",
+    "id": 7464,
+    "relative_path": "agd_talk_group/7464_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "吉洪 (NpcGroup 7465)",
+    "id": 7465,
+    "relative_path": "agd_talk_group/7465_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "拉克季奥诺夫 (NpcGroup 7466)",
+    "id": 7466,
+    "relative_path": "agd_talk_group/7466_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊莉雅娜 (NpcGroup 7467)",
+    "id": 7467,
+    "relative_path": "agd_talk_group/7467_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "古列维科夫 (NpcGroup 7468)",
+    "id": 7468,
+    "relative_path": "agd_talk_group/7468_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "索契科夫 (NpcGroup 7469)",
+    "id": 7469,
+    "relative_path": "agd_talk_group/7469_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "维多梅克 (NpcGroup 7470)",
+    "id": 7470,
+    "relative_path": "agd_talk_group/7470_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "安德烈维奇 (NpcGroup 7471)",
+    "id": 7471,
+    "relative_path": "agd_talk_group/7471_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柳廖娜 (NpcGroup 7472)",
+    "id": 7472,
+    "relative_path": "agd_talk_group/7472_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "茨韦特科夫 (NpcGroup 7473)",
+    "id": 7473,
+    "relative_path": "agd_talk_group/7473_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卡缇娅 (NpcGroup 7474)",
+    "id": 7474,
+    "relative_path": "agd_talk_group/7474_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "爱玛 (NpcGroup 7475)",
+    "id": 7475,
+    "relative_path": "agd_talk_group/7475_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莱奥妮 (NpcGroup 7476)",
+    "id": 7476,
+    "relative_path": "agd_talk_group/7476_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "霍尔莫戈罗夫 (NpcGroup 7477)",
+    "id": 7477,
+    "relative_path": "agd_talk_group/7477_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "恰金娜 (NpcGroup 7478)",
+    "id": 7478,
+    "relative_path": "agd_talk_group/7478_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃克列先斯基 (NpcGroup 7479)",
+    "id": 7479,
+    "relative_path": "agd_talk_group/7479_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "谢米亚金 (NpcGroup 7480)",
+    "id": 7480,
+    "relative_path": "agd_talk_group/7480_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "马蒙托夫 (NpcGroup 7481)",
+    "id": 7481,
+    "relative_path": "agd_talk_group/7481_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "科洛德纳娅 (NpcGroup 7482)",
+    "id": 7482,
+    "relative_path": "agd_talk_group/7482_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "乌鲁索夫 (NpcGroup 7483)",
+    "id": 7483,
+    "relative_path": "agd_talk_group/7483_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "佩切尔斯卡娅 (NpcGroup 7484)",
+    "id": 7484,
+    "relative_path": "agd_talk_group/7484_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "鲁多夫 (NpcGroup 7485)",
+    "id": 7485,
+    "relative_path": "agd_talk_group/7485_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "巴热诺夫 (NpcGroup 7486)",
+    "id": 7486,
+    "relative_path": "agd_talk_group/7486_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "基拉 (NpcGroup 7487)",
+    "id": 7487,
+    "relative_path": "agd_talk_group/7487_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "热拉尔 (NpcGroup 7488)",
+    "id": 7488,
+    "relative_path": "agd_talk_group/7488_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿琳娜 (NpcGroup 7489)",
+    "id": 7489,
+    "relative_path": "agd_talk_group/7489_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊利亚 (NpcGroup 7490)",
+    "id": 7490,
+    "relative_path": "agd_talk_group/7490_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "费奥多尔 (NpcGroup 7491)",
+    "id": 7491,
+    "relative_path": "agd_talk_group/7491_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "达伊尼尔 (NpcGroup 7492)",
+    "id": 7492,
+    "relative_path": "agd_talk_group/7492_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "薇罗妮卡 (NpcGroup 7493)",
+    "id": 7493,
+    "relative_path": "agd_talk_group/7493_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔谢尼 (NpcGroup 7494)",
+    "id": 7494,
+    "relative_path": "agd_talk_group/7494_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "杜布罗廖夫 (NpcGroup 7495)",
+    "id": 7495,
+    "relative_path": "agd_talk_group/7495_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯特维兰娜 (NpcGroup 7496)",
+    "id": 7496,
+    "relative_path": "agd_talk_group/7496_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "维赫洛夫 (NpcGroup 7497)",
+    "id": 7497,
+    "relative_path": "agd_talk_group/7497_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯捷潘 (NpcGroup 7498)",
+    "id": 7498,
+    "relative_path": "agd_talk_group/7498_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶利扎罗夫 (NpcGroup 7499)",
+    "id": 7499,
+    "relative_path": "agd_talk_group/7499_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨玛琳娜 (NpcGroup 7500)",
+    "id": 7500,
+    "relative_path": "agd_talk_group/7500_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "弗兹达洛 (NpcGroup 7501)",
+    "id": 7501,
+    "relative_path": "agd_talk_group/7501_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "巴尔科诺 (NpcGroup 7502)",
+    "id": 7502,
+    "relative_path": "agd_talk_group/7502_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅朵娃 (NpcGroup 7503)",
+    "id": 7503,
+    "relative_path": "agd_talk_group/7503_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塔伊希娅 (NpcGroup 7504)",
+    "id": 7504,
+    "relative_path": "agd_talk_group/7504_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎莫罗夫 (NpcGroup 7505)",
+    "id": 7505,
+    "relative_path": "agd_talk_group/7505_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "季莫菲 (NpcGroup 7506)",
+    "id": 7506,
+    "relative_path": "agd_talk_group/7506_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "波洛维科娃 (NpcGroup 7507)",
+    "id": 7507,
+    "relative_path": "agd_talk_group/7507_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "彼塞姆斯基 (NpcGroup 7508)",
+    "id": 7508,
+    "relative_path": "agd_talk_group/7508_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萝茜金娜 (NpcGroup 7509)",
+    "id": 7509,
+    "relative_path": "agd_talk_group/7509_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅罗斯拉夫 (NpcGroup 7510)",
+    "id": 7510,
+    "relative_path": "agd_talk_group/7510_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塔里娅 (NpcGroup 7511)",
+    "id": 7511,
+    "relative_path": "agd_talk_group/7511_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "梅金采夫 (NpcGroup 7512)",
+    "id": 7512,
+    "relative_path": "agd_talk_group/7512_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "谢尔巴托夫 (NpcGroup 7513)",
+    "id": 7513,
+    "relative_path": "agd_talk_group/7513_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "罗斯季斯拉夫 (NpcGroup 7514)",
+    "id": 7514,
+    "relative_path": "agd_talk_group/7514_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "马特维 (NpcGroup 7515)",
+    "id": 7515,
+    "relative_path": "agd_talk_group/7515_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "库兹米奇 (NpcGroup 7516)",
+    "id": 7516,
+    "relative_path": "agd_talk_group/7516_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卢季洁娜 (NpcGroup 7517)",
+    "id": 7517,
+    "relative_path": "agd_talk_group/7517_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蕾莎 (NpcGroup 7518)",
+    "id": 7518,
+    "relative_path": "agd_talk_group/7518_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿格拉芬娜 (NpcGroup 7519)",
+    "id": 7519,
+    "relative_path": "agd_talk_group/7519_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎列切纳娅 (NpcGroup 7520)",
+    "id": 7520,
+    "relative_path": "agd_talk_group/7520_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎列茨基 (NpcGroup 7521)",
+    "id": 7521,
+    "relative_path": "agd_talk_group/7521_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶拉吉娜 (NpcGroup 7522)",
+    "id": 7522,
+    "relative_path": "agd_talk_group/7522_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎维亚洛夫 (NpcGroup 7523)",
+    "id": 7523,
+    "relative_path": "agd_talk_group/7523_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "季宾娜 (NpcGroup 7524)",
+    "id": 7524,
+    "relative_path": "agd_talk_group/7524_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊波利特 (NpcGroup 7525)",
+    "id": 7525,
+    "relative_path": "agd_talk_group/7525_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "因诺肯季 (NpcGroup 7526)",
+    "id": 7526,
+    "relative_path": "agd_talk_group/7526_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨瓦 (NpcGroup 7527)",
+    "id": 7527,
+    "relative_path": "agd_talk_group/7527_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "德洛菲娅 (NpcGroup 7528)",
+    "id": 7528,
+    "relative_path": "agd_talk_group/7528_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥维先尼科夫 (NpcGroup 7529)",
+    "id": 7529,
+    "relative_path": "agd_talk_group/7529_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柳比莫娃 (NpcGroup 7530)",
+    "id": 7530,
+    "relative_path": "agd_talk_group/7530_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卢普欣 (NpcGroup 7531)",
+    "id": 7531,
+    "relative_path": "agd_talk_group/7531_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "舒金娜 (NpcGroup 7532)",
+    "id": 7532,
+    "relative_path": "agd_talk_group/7532_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "博加托夫 (NpcGroup 7533)",
+    "id": 7533,
+    "relative_path": "agd_talk_group/7533_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿莱欣娜 (NpcGroup 7534)",
+    "id": 7534,
+    "relative_path": "agd_talk_group/7534_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿克维莉娜 (NpcGroup 7535)",
+    "id": 7535,
+    "relative_path": "agd_talk_group/7535_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "维洛拉 (NpcGroup 7536)",
+    "id": 7536,
+    "relative_path": "agd_talk_group/7536_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "库莱金娜 (NpcGroup 7537)",
+    "id": 7537,
+    "relative_path": "agd_talk_group/7537_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥茜珀娃 (NpcGroup 7538)",
+    "id": 7538,
+    "relative_path": "agd_talk_group/7538_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "希特罗夫 (NpcGroup 7539)",
+    "id": 7539,
+    "relative_path": "agd_talk_group/7539_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "列斯诺娃 (NpcGroup 7540)",
+    "id": 7540,
+    "relative_path": "agd_talk_group/7540_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "娜秋申卡 (NpcGroup 7541)",
+    "id": 7541,
+    "relative_path": "agd_talk_group/7541_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "拉特金 (NpcGroup 7542)",
+    "id": 7542,
+    "relative_path": "agd_talk_group/7542_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "季诺维娅 (NpcGroup 7543)",
+    "id": 7543,
+    "relative_path": "agd_talk_group/7543_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶什娜 (NpcGroup 7544)",
+    "id": 7544,
+    "relative_path": "agd_talk_group/7544_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "刻莱诺 (NpcGroup 7545)",
+    "id": 7545,
+    "relative_path": "agd_talk_group/7545_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊娜 (NpcGroup 7546)",
+    "id": 7546,
+    "relative_path": "agd_talk_group/7546_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔秋姆 (NpcGroup 7547)",
+    "id": 7547,
+    "relative_path": "agd_talk_group/7547_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "佩拉格娅 (NpcGroup 7548)",
+    "id": 7548,
+    "relative_path": "agd_talk_group/7548_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "罗迪翁 (NpcGroup 7549)",
+    "id": 7549,
+    "relative_path": "agd_talk_group/7549_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "米罗斯拉娃 (NpcGroup 7550)",
+    "id": 7550,
+    "relative_path": "agd_talk_group/7550_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "安菲萨 (NpcGroup 7551)",
+    "id": 7551,
+    "relative_path": "agd_talk_group/7551_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克雷廖夫 (NpcGroup 7552)",
+    "id": 7552,
+    "relative_path": "agd_talk_group/7552_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "兹纳缅斯基 (NpcGroup 7553)",
+    "id": 7553,
+    "relative_path": "agd_talk_group/7553_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "拉祖莫夫斯基 (NpcGroup 7554)",
+    "id": 7554,
+    "relative_path": "agd_talk_group/7554_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沙塔洛夫 (NpcGroup 7555)",
+    "id": 7555,
+    "relative_path": "agd_talk_group/7555_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "戈尔恰科夫 (NpcGroup 7556)",
+    "id": 7556,
+    "relative_path": "agd_talk_group/7556_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "杜佐洛夫 (NpcGroup 7557)",
+    "id": 7557,
+    "relative_path": "agd_talk_group/7557_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "冬妮娅 (NpcGroup 7558)",
+    "id": 7558,
+    "relative_path": "agd_talk_group/7558_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "托克 (NpcGroup 7559)",
+    "id": 7559,
+    "relative_path": "agd_talk_group/7559_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "戈尔什科夫 (NpcGroup 7560)",
+    "id": 7560,
+    "relative_path": "agd_talk_group/7560_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莱茜汀娜 (NpcGroup 7561)",
+    "id": 7561,
+    "relative_path": "agd_talk_group/7561_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "普威则 (NpcGroup 7562)",
+    "id": 7562,
+    "relative_path": "agd_talk_group/7562_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "瓦洁丝卡娅 (NpcGroup 7563)",
+    "id": 7563,
+    "relative_path": "agd_talk_group/7563_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "亚济科夫 (NpcGroup 7564)",
+    "id": 7564,
+    "relative_path": "agd_talk_group/7564_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柯尔萨科夫 (NpcGroup 7565)",
+    "id": 7565,
+    "relative_path": "agd_talk_group/7565_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "卢戈夫斯科 (NpcGroup 7566)",
+    "id": 7566,
+    "relative_path": "agd_talk_group/7566_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯米尔诺娃 (NpcGroup 7567)",
+    "id": 7567,
+    "relative_path": "agd_talk_group/7567_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "韦谢洛夫 (NpcGroup 7568)",
+    "id": 7568,
+    "relative_path": "agd_talk_group/7568_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "德米多夫 (NpcGroup 7569)",
+    "id": 7569,
+    "relative_path": "agd_talk_group/7569_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克利姆 (NpcGroup 7570)",
+    "id": 7570,
+    "relative_path": "agd_talk_group/7570_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎列斯卡娅 (NpcGroup 7571)",
+    "id": 7571,
+    "relative_path": "agd_talk_group/7571_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "索博列夫 (NpcGroup 7572)",
+    "id": 7572,
+    "relative_path": "agd_talk_group/7572_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "茹拉廖夫 (NpcGroup 7573)",
+    "id": 7573,
+    "relative_path": "agd_talk_group/7573_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "帕什科夫 (NpcGroup 7574)",
+    "id": 7574,
+    "relative_path": "agd_talk_group/7574_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃龙佐夫 (NpcGroup 7575)",
+    "id": 7575,
+    "relative_path": "agd_talk_group/7575_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "韦坚斯基 (NpcGroup 7576)",
+    "id": 7576,
+    "relative_path": "agd_talk_group/7576_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊格纳特 (NpcGroup 7577)",
+    "id": 7577,
+    "relative_path": "agd_talk_group/7577_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "涅克拉索夫 (NpcGroup 7578)",
+    "id": 7578,
+    "relative_path": "agd_talk_group/7578_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柳芭娃 (NpcGroup 7579)",
+    "id": 7579,
+    "relative_path": "agd_talk_group/7579_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塔佩兹尼科夫 (NpcGroup 7580)",
+    "id": 7580,
+    "relative_path": "agd_talk_group/7580_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "哨子 (NpcGroup 7581)",
+    "id": 7581,
+    "relative_path": "agd_talk_group/7581_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "盘子 (NpcGroup 7582)",
+    "id": 7582,
+    "relative_path": "agd_talk_group/7582_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿克萨科夫 (NpcGroup 7583)",
+    "id": 7583,
+    "relative_path": "agd_talk_group/7583_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "捷丘娜 (NpcGroup 7584)",
+    "id": 7584,
+    "relative_path": "agd_talk_group/7584_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "别尔斯基 (NpcGroup 7585)",
+    "id": 7585,
+    "relative_path": "agd_talk_group/7585_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "谢列布罗夫 (NpcGroup 7586)",
+    "id": 7586,
+    "relative_path": "agd_talk_group/7586_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "别斯特洛夫 (NpcGroup 7587)",
+    "id": 7587,
+    "relative_path": "agd_talk_group/7587_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莎普林娜 (NpcGroup 7588)",
+    "id": 7588,
+    "relative_path": "agd_talk_group/7588_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅洪托夫 (NpcGroup 7589)",
+    "id": 7589,
+    "relative_path": "agd_talk_group/7589_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "迈斯卡娅 (NpcGroup 7590)",
+    "id": 7590,
+    "relative_path": "agd_talk_group/7590_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "蕾托娃 (NpcGroup 7591)",
+    "id": 7591,
+    "relative_path": "agd_talk_group/7591_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克尼亚泽夫 (NpcGroup 7592)",
+    "id": 7592,
+    "relative_path": "agd_talk_group/7592_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "哲列兹诺夫 (NpcGroup 7593)",
+    "id": 7593,
+    "relative_path": "agd_talk_group/7593_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "赫鲁塔廖夫 (NpcGroup 7594)",
+    "id": 7594,
+    "relative_path": "agd_talk_group/7594_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "季米亚科夫 (NpcGroup 7595)",
+    "id": 7595,
+    "relative_path": "agd_talk_group/7595_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "多洛霍夫 (NpcGroup 7596)",
+    "id": 7596,
+    "relative_path": "agd_talk_group/7596_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "希什金娜 (NpcGroup 7597)",
+    "id": 7597,
+    "relative_path": "agd_talk_group/7597_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "杜斯塔娅 (NpcGroup 7598)",
+    "id": 7598,
+    "relative_path": "agd_talk_group/7598_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "安塞姆 (NpcGroup 7599)",
     "id": 7599,
     "relative_path": "agd_talk_group/7599_NpcGroup.txt",
@@ -53153,6 +56193,14 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "阿格拉娅 (NpcGroup 7655)",
+    "id": 7655,
+    "relative_path": "agd_talk_group/7655_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "安莱夫 (NpcGroup 7659)",
     "id": 7659,
     "relative_path": "agd_talk_group/7659_NpcGroup.txt",
@@ -53257,6 +56305,30 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "兹梅伊 (NpcGroup 7698)",
+    "id": 7698,
+    "relative_path": "agd_talk_group/7698_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "索菲亚 (NpcGroup 7700)",
+    "id": 7700,
+    "relative_path": "agd_talk_group/7700_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "葛列娃 (NpcGroup 7723)",
+    "id": 7723,
+    "relative_path": "agd_talk_group/7723_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "蒙周 (NpcGroup 7733)",
     "id": 7733,
     "relative_path": "agd_talk_group/7733_NpcGroup.txt",
@@ -53294,6 +56366,638 @@
     "relative_path": "agd_talk_group/7738_NpcGroup.txt",
     "min_version": "6.5",
     "max_version": "6.5"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "塔西娅 (NpcGroup 7760)",
+    "id": 7760,
+    "relative_path": "agd_talk_group/7760_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克谢尼娅 (NpcGroup 7761)",
+    "id": 7761,
+    "relative_path": "agd_talk_group/7761_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "优菲洛西妮娅 (NpcGroup 7762)",
+    "id": 7762,
+    "relative_path": "agd_talk_group/7762_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯拉维娜 (NpcGroup 7763)",
+    "id": 7763,
+    "relative_path": "agd_talk_group/7763_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔卡季 (NpcGroup 7764)",
+    "id": 7764,
+    "relative_path": "agd_talk_group/7764_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔乔姆 (NpcGroup 7765)",
+    "id": 7765,
+    "relative_path": "agd_talk_group/7765_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "格尔岑 (NpcGroup 7766)",
+    "id": 7766,
+    "relative_path": "agd_talk_group/7766_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "佐托夫 (NpcGroup 7767)",
+    "id": 7767,
+    "relative_path": "agd_talk_group/7767_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "列夫 (NpcGroup 7768)",
+    "id": 7768,
+    "relative_path": "agd_talk_group/7768_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "马拉特 (NpcGroup 7769)",
+    "id": 7769,
+    "relative_path": "agd_talk_group/7769_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "列昂尼德 (NpcGroup 7770)",
+    "id": 7770,
+    "relative_path": "agd_talk_group/7770_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "维迪娅 (NpcGroup 7771)",
+    "id": 7771,
+    "relative_path": "agd_talk_group/7771_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊黛莉 (NpcGroup 7772)",
+    "id": 7772,
+    "relative_path": "agd_talk_group/7772_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊德明娜 (NpcGroup 7773)",
+    "id": 7773,
+    "relative_path": "agd_talk_group/7773_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥列宁娜 (NpcGroup 7774)",
+    "id": 7774,
+    "relative_path": "agd_talk_group/7774_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "涅日达诺夫 (NpcGroup 7776)",
+    "id": 7776,
+    "relative_path": "agd_talk_group/7776_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "瓦柳希娜 (NpcGroup 7777)",
+    "id": 7777,
+    "relative_path": "agd_talk_group/7777_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莎茨卡娅 (NpcGroup 7778)",
+    "id": 7778,
+    "relative_path": "agd_talk_group/7778_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "扎洛宾娜 (NpcGroup 7779)",
+    "id": 7779,
+    "relative_path": "agd_talk_group/7779_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "托明娜 (NpcGroup 7780)",
+    "id": 7780,
+    "relative_path": "agd_talk_group/7780_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "切尔卡斯基 (NpcGroup 7781)",
+    "id": 7781,
+    "relative_path": "agd_talk_group/7781_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅尔科娃 (NpcGroup 7782)",
+    "id": 7782,
+    "relative_path": "agd_talk_group/7782_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "戈洛温 (NpcGroup 7783)",
+    "id": 7783,
+    "relative_path": "agd_talk_group/7783_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "伊格纳托夫 (NpcGroup 7784)",
+    "id": 7784,
+    "relative_path": "agd_talk_group/7784_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥黛塔 (NpcGroup 7786)",
+    "id": 7786,
+    "relative_path": "agd_talk_group/7786_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃雅妮莎 (NpcGroup 7787)",
+    "id": 7787,
+    "relative_path": "agd_talk_group/7787_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃雅妮莎 (NpcGroup 7804)",
+    "id": 7804,
+    "relative_path": "agd_talk_group/7804_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥黛塔 (NpcGroup 7805)",
+    "id": 7805,
+    "relative_path": "agd_talk_group/7805_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿罗夏 (NpcGroup 7806)",
+    "id": 7806,
+    "relative_path": "agd_talk_group/7806_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "巴亚廷斯基 (NpcGroup 7809)",
+    "id": 7809,
+    "relative_path": "agd_talk_group/7809_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "谢列布里亚科夫 (NpcGroup 7810)",
+    "id": 7810,
+    "relative_path": "agd_talk_group/7810_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "鲁佐娃 (NpcGroup 7811)",
+    "id": 7811,
+    "relative_path": "agd_talk_group/7811_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "别雷 (NpcGroup 7812)",
+    "id": 7812,
+    "relative_path": "agd_talk_group/7812_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "康定斯基 (NpcGroup 7813)",
+    "id": 7813,
+    "relative_path": "agd_talk_group/7813_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "艾瓦佐夫斯基 (NpcGroup 7814)",
+    "id": 7814,
+    "relative_path": "agd_talk_group/7814_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "鲁萨诺夫 (NpcGroup 7815)",
+    "id": 7815,
+    "relative_path": "agd_talk_group/7815_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "谢格洛夫 (NpcGroup 7816)",
+    "id": 7816,
+    "relative_path": "agd_talk_group/7816_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "斯索佳诺夫 (NpcGroup 7817)",
+    "id": 7817,
+    "relative_path": "agd_talk_group/7817_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "西屏 (NpcGroup 7818)",
+    "id": 7818,
+    "relative_path": "agd_talk_group/7818_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "居斯塔夫 (NpcGroup 7819)",
+    "id": 7819,
+    "relative_path": "agd_talk_group/7819_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柯察金 (NpcGroup 7820)",
+    "id": 7820,
+    "relative_path": "agd_talk_group/7820_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "沃兰德 (NpcGroup 7821)",
+    "id": 7821,
+    "relative_path": "agd_talk_group/7821_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布尔加科夫 (NpcGroup 7822)",
+    "id": 7822,
+    "relative_path": "agd_talk_group/7822_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "维亚泽姆斯基 (NpcGroup 7823)",
+    "id": 7823,
+    "relative_path": "agd_talk_group/7823_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "韦杰涅耶夫 (NpcGroup 7824)",
+    "id": 7824,
+    "relative_path": "agd_talk_group/7824_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "季霍米罗夫 (NpcGroup 7825)",
+    "id": 7825,
+    "relative_path": "agd_talk_group/7825_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔谢尼耶夫 (NpcGroup 7826)",
+    "id": 7826,
+    "relative_path": "agd_talk_group/7826_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "帕芙洛娃 (NpcGroup 7827)",
+    "id": 7827,
+    "relative_path": "agd_talk_group/7827_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿赫玛托娃 (NpcGroup 7828)",
+    "id": 7828,
+    "relative_path": "agd_talk_group/7828_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "茨维塔耶娃 (NpcGroup 7829)",
+    "id": 7829,
+    "relative_path": "agd_talk_group/7829_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿尔马佐娃 (NpcGroup 7830)",
+    "id": 7830,
+    "relative_path": "agd_talk_group/7830_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "别廖佐娃 (NpcGroup 7831)",
+    "id": 7831,
+    "relative_path": "agd_talk_group/7831_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "切尔诺娃 (NpcGroup 7832)",
+    "id": 7832,
+    "relative_path": "agd_talk_group/7832_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "杰缅季耶娃 (NpcGroup 7833)",
+    "id": 7833,
+    "relative_path": "agd_talk_group/7833_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "菲尔索娃 (NpcGroup 7834)",
+    "id": 7834,
+    "relative_path": "agd_talk_group/7834_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "柯凡斯卡娅 (NpcGroup 7835)",
+    "id": 7835,
+    "relative_path": "agd_talk_group/7835_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克柳什娜 (NpcGroup 7836)",
+    "id": 7836,
+    "relative_path": "agd_talk_group/7836_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "克瓦什宁娜 (NpcGroup 7837)",
+    "id": 7837,
+    "relative_path": "agd_talk_group/7837_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶弗列莫娃 (NpcGroup 7838)",
+    "id": 7838,
+    "relative_path": "agd_talk_group/7838_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「地下室人」 (NpcGroup 7839)",
+    "id": 7839,
+    "relative_path": "agd_talk_group/7839_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「穷鬼」 (NpcGroup 7840)",
+    "id": 7840,
+    "relative_path": "agd_talk_group/7840_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "「白痴」 (NpcGroup 7841)",
+    "id": 7841,
+    "relative_path": "agd_talk_group/7841_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "达达利亚 (NpcGroup 7843)",
+    "id": 7843,
+    "relative_path": "agd_talk_group/7843_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "？？？ (NpcGroup 7844)",
+    "id": 7844,
+    "relative_path": "agd_talk_group/7844_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "图加林 (NpcGroup 7845)",
+    "id": 7845,
+    "relative_path": "agd_talk_group/7845_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "佐洛托娃 (NpcGroup 7848)",
+    "id": 7848,
+    "relative_path": "agd_talk_group/7848_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "叶尔莫洛夫 (NpcGroup 7849)",
+    "id": 7849,
+    "relative_path": "agd_talk_group/7849_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "切夏斯卡娅 (NpcGroup 7850)",
+    "id": 7850,
+    "relative_path": "agd_talk_group/7850_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "古谢娃 (NpcGroup 7851)",
+    "id": 7851,
+    "relative_path": "agd_talk_group/7851_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布尔采夫 (NpcGroup 7852)",
+    "id": 7852,
+    "relative_path": "agd_talk_group/7852_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "韦特洛娃 (NpcGroup 7853)",
+    "id": 7853,
+    "relative_path": "agd_talk_group/7853_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥布连斯基 (NpcGroup 7854)",
+    "id": 7854,
+    "relative_path": "agd_talk_group/7854_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "布兰诺娃 (NpcGroup 7885)",
+    "id": 7885,
+    "relative_path": "agd_talk_group/7885_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "里亚布夫 (NpcGroup 7886)",
+    "id": 7886,
+    "relative_path": "agd_talk_group/7886_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅鲁金 (NpcGroup 7887)",
+    "id": 7887,
+    "relative_path": "agd_talk_group/7887_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "弗约尔斯卡娅 (NpcGroup 7888)",
+    "id": 7888,
+    "relative_path": "agd_talk_group/7888_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "莎戈娃 (NpcGroup 7889)",
+    "id": 7889,
+    "relative_path": "agd_talk_group/7889_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "萨米尔卡 (NpcGroup 7890)",
+    "id": 7890,
+    "relative_path": "agd_talk_group/7890_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "格里亚兹诺夫 (NpcGroup 7891)",
+    "id": 7891,
+    "relative_path": "agd_talk_group/7891_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -53350,6 +57054,46 @@
     "relative_path": "agd_talk_group/7906_NpcGroup.txt",
     "min_version": "1.4",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "七天神像 (NpcGroup 7907)",
+    "id": 7907,
+    "relative_path": "agd_talk_group/7907_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "七天神像 (NpcGroup 7908)",
+    "id": 7908,
+    "relative_path": "agd_talk_group/7908_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "七天神像 (NpcGroup 7909)",
+    "id": 7909,
+    "relative_path": "agd_talk_group/7909_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "七天神像 (NpcGroup 7910)",
+    "id": 7910,
+    "relative_path": "agd_talk_group/7910_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "七天神像 (NpcGroup 7911)",
+    "id": 7911,
+    "relative_path": "agd_talk_group/7911_NpcGroup.txt",
+    "min_version": "1.4",
+    "max_version": "7.0"
   },
   {
     "category": "agd_talk_group",
@@ -54289,6 +58033,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "奥黛塔 - 尘歌壶 (NpcGroup 9134)",
+    "id": 9134,
+    "relative_path": "agd_talk_group/9134_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "阿罗夏 - 尘歌壶 (NpcGroup 9135)",
+    "id": 9135,
+    "relative_path": "agd_talk_group/9135_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "阿乔 (NpcGroup 9299)",
     "id": 9299,
     "relative_path": "agd_talk_group/9299_NpcGroup.txt",
@@ -55225,6 +58985,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "阿罗夏 - 幻想真境剧诗 (NpcGroup 9416)",
+    "id": 9416,
+    "relative_path": "agd_talk_group/9416_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "奥黛塔 - 幻想真境剧诗 (NpcGroup 9417)",
+    "id": 9417,
+    "relative_path": "agd_talk_group/9417_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "小狼 (NpcGroup 9500)",
     "id": 9500,
     "relative_path": "agd_talk_group/9500_NpcGroup.txt",
@@ -56065,6 +59841,22 @@
   },
   {
     "category": "agd_talk_group",
+    "title": "杜林 - 七圣召唤 (NpcGroup 9608)",
+    "id": 9608,
+    "relative_path": "agd_talk_group/9608_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
+    "title": "雅珂达 - 七圣召唤 (NpcGroup 9609)",
+    "id": 9609,
+    "relative_path": "agd_talk_group/9609_NpcGroup.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_talk_group",
     "title": "巴顿 - 七圣召唤 (NpcGroup 9700)",
     "id": 9700,
     "relative_path": "agd_talk_group/9700_NpcGroup.txt",
@@ -56277,7 +60069,7 @@
     "id": 9900,
     "relative_path": "agd_talk_group/9900_NpcGroup.txt",
     "min_version": "2.3",
-    "max_version": "6.1"
+    "max_version": "7.0"
   },
   {
     "category": "agd_hangout",
@@ -58544,6 +62336,14 @@
     "max_version": "6.3"
   },
   {
+    "category": "agd_blossom",
+    "title": "矿物富集点 - 至冬",
+    "id": 8,
+    "relative_path": "agd_blossom/8_矿物富集点_-_至冬.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
     "category": "agd_activity",
     "title": "龙龙同游",
     "id": 5295,
@@ -58622,6 +62422,22 @@
     "relative_path": "agd_activity/5328_悠悠律动舞力聚会.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_activity",
+    "title": "新芽相助·初探雪原",
+    "id": 5333,
+    "relative_path": "agd_activity/5333_新芽相助初探雪原.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_activity",
+    "title": "禁界拟想阵地战",
+    "id": 5334,
+    "relative_path": "agd_activity/5334_禁界拟想阵地战.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -59118,6 +62934,22 @@
     "relative_path": "agd_book/1073_望月者的摹刻.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_book",
+    "title": "极星舞剧集",
+    "id": 1074,
+    "relative_path": "agd_book/1074_极星舞剧集.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬国通史",
+    "id": 1076,
+    "relative_path": "agd_book/1076_至冬国通史.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -60553,6 +64385,62 @@
   },
   {
     "category": "agd_book",
+    "title": "无名药剂配方",
+    "id": 201214,
+    "relative_path": "agd_book/201214_无名药剂配方.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其六",
+    "id": 201215,
+    "relative_path": "agd_book/201215_某位高贵之人的笔记其六.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其一",
+    "id": 201216,
+    "relative_path": "agd_book/201216_某位高贵之人的笔记其一.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其二",
+    "id": 201217,
+    "relative_path": "agd_book/201217_某位高贵之人的笔记其二.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其三",
+    "id": 201218,
+    "relative_path": "agd_book/201218_某位高贵之人的笔记其三.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其四",
+    "id": 201219,
+    "relative_path": "agd_book/201219_某位高贵之人的笔记其四.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某位高贵之人的笔记·其五",
+    "id": 201220,
+    "relative_path": "agd_book/201220_某位高贵之人的笔记其五.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "异质的树髓·一",
     "id": 201221,
     "relative_path": "agd_book/201221_异质的树髓一.txt",
@@ -60625,6 +64513,46 @@
   },
   {
     "category": "agd_book",
+    "title": "笔迹潦草的手记",
+    "id": 201235,
+    "relative_path": "agd_book/201235_笔迹潦草的手记.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "笔迹工整的手记",
+    "id": 201236,
+    "relative_path": "agd_book/201236_笔迹工整的手记.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "不知谁人留下的笔记",
+    "id": 201237,
+    "relative_path": "agd_book/201237_不知谁人留下的笔记.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "「伊兹梅洛」守卫的日志",
+    "id": 201238,
+    "relative_path": "agd_book/201238_伊兹梅洛守卫的日志.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "未完成的「高桌新律」",
+    "id": 201239,
+    "relative_path": "agd_book/201239_未完成的高桌新律.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "亚-伊里穆存储阵列索引表·其一",
     "id": 201243,
     "relative_path": "agd_book/201243_亚-伊里穆存储阵列索引表其一.txt",
@@ -60662,6 +64590,14 @@
     "relative_path": "agd_book/201252_阿兰吉约丹的墓志铭.txt",
     "min_version": "6.7",
     "max_version": "6.7"
+  },
+  {
+    "category": "agd_book",
+    "title": "《下水道出入指南》",
+    "id": 201258,
+    "relative_path": "agd_book/201258_下水道出入指南.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -60745,11 +64681,171 @@
   },
   {
     "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201274,
+    "relative_path": "agd_book/201274_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201275,
+    "relative_path": "agd_book/201275_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "画作参考的构想",
+    "id": 201279,
+    "relative_path": "agd_book/201279_画作参考的构想.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "娜斯佳与妈妈的合照",
+    "id": 201288,
+    "relative_path": "agd_book/201288_娜斯佳与妈妈的合照.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "执行命令者的记录",
+    "id": 201291,
+    "relative_path": "agd_book/201291_执行命令者的记录.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "骑士团指导手册·第五版",
     "id": 200145,
     "relative_path": "agd_book/200145_骑士团指导手册第五版.txt",
     "min_version": "1.4",
     "max_version": "1.4"
+  },
+  {
+    "category": "agd_book",
+    "title": "调查手记",
+    "id": 201292,
+    "relative_path": "agd_book/201292_调查手记.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "炼金术士的手记·其一",
+    "id": 201293,
+    "relative_path": "agd_book/201293_炼金术士的手记其一.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "炼金术士的手记·其二",
+    "id": 201294,
+    "relative_path": "agd_book/201294_炼金术士的手记其二.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "矮灵王公的手记",
+    "id": 201295,
+    "relative_path": "agd_book/201295_矮灵王公的手记.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201296,
+    "relative_path": "agd_book/201296_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201297,
+    "relative_path": "agd_book/201297_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201298,
+    "relative_path": "agd_book/201298_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201299,
+    "relative_path": "agd_book/201299_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201300,
+    "relative_path": "agd_book/201300_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201301,
+    "relative_path": "agd_book/201301_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201302,
+    "relative_path": "agd_book/201302_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201303,
+    "relative_path": "agd_book/201303_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "至冬先驱报",
+    "id": 201304,
+    "relative_path": "agd_book/201304_至冬先驱报.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "蒙灰旅人的记录",
+    "id": 201305,
+    "relative_path": "agd_book/201305_蒙灰旅人的记录.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "纸页泛黄的文件",
+    "id": 201306,
+    "relative_path": "agd_book/201306_纸页泛黄的文件.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_book",
@@ -63593,6 +67689,54 @@
   },
   {
     "category": "agd_book",
+    "title": "关于剧院内灵异现象的调查报告",
+    "id": 201249,
+    "relative_path": "agd_book/201249_关于剧院内灵异现象的调查报告.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "关于剧院内灵异现象的调查报告",
+    "id": 201250,
+    "relative_path": "agd_book/201250_关于剧院内灵异现象的调查报告.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "关于剧院内灵异现象的调查报告",
+    "id": 201251,
+    "relative_path": "agd_book/201251_关于剧院内灵异现象的调查报告.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某人写在日记本中的「信件」",
+    "id": 201246,
+    "relative_path": "agd_book/201246_某人写在日记本中的信件.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某人写在日记本中的「信件」",
+    "id": 201247,
+    "relative_path": "agd_book/201247_某人写在日记本中的信件.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
+    "title": "某人写在日记本中的「信件」",
+    "id": 201248,
+    "relative_path": "agd_book/201248_某人写在日记本中的信件.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_book",
     "title": "神秘的书页·其十二",
     "id": 200701,
     "relative_path": "agd_book/200701_神秘的书页其十二.txt",
@@ -65833,6 +69977,22 @@
   },
   {
     "category": "agd_weapon",
+    "title": "熔猎异端之刃",
+    "id": 11435,
+    "relative_path": "agd_weapon/11435_熔猎异端之刃.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "引火之源",
+    "id": 11436,
+    "relative_path": "agd_weapon/11436_引火之源.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
     "title": "风鹰剑",
     "id": 11501,
     "relative_path": "agd_weapon/11501_风鹰剑.txt",
@@ -65958,6 +70118,22 @@
     "relative_path": "agd_weapon/11519_朏魄含光.txt",
     "min_version": "6.3",
     "max_version": "6.3"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "白湖冬羽",
+    "id": 11520,
+    "relative_path": "agd_weapon/11520_白湖冬羽.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "星锋剑",
+    "id": 11521,
+    "relative_path": "agd_weapon/11521_星锋剑.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -66222,6 +70398,22 @@
     "relative_path": "agd_weapon/12433_万能钥匙.txt",
     "min_version": "6.0",
     "max_version": "6.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "金律铸影",
+    "id": 12435,
+    "relative_path": "agd_weapon/12435_金律铸影.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "救赎之斩",
+    "id": 12436,
+    "relative_path": "agd_weapon/12436_救赎之斩.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -66534,6 +70726,22 @@
     "relative_path": "agd_weapon/13434_圣祭者的辉杖.txt",
     "min_version": "6.1",
     "max_version": "6.1"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "寒息",
+    "id": 13435,
+    "relative_path": "agd_weapon/13435_寒息.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "戍望谣歌",
+    "id": 13436,
+    "relative_path": "agd_weapon/13436_戍望谣歌.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -66902,6 +71110,22 @@
     "relative_path": "agd_weapon/14434_霜辰.txt",
     "min_version": "6.1",
     "max_version": "6.1"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "群王局戏",
+    "id": 14435,
+    "relative_path": "agd_weapon/14435_群王局戏.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "寸心余响",
+    "id": 14436,
+    "relative_path": "agd_weapon/14436_寸心余响.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
@@ -67342,6 +71566,22 @@
     "relative_path": "agd_weapon/15434_虹蛇的雨弦.txt",
     "min_version": "6.2",
     "max_version": "6.2"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "悬黎千钧",
+    "id": 15435,
+    "relative_path": "agd_weapon/15435_悬黎千钧.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
+  },
+  {
+    "category": "agd_weapon",
+    "title": "霜雪誓约",
+    "id": 15436,
+    "relative_path": "agd_weapon/15436_霜雪誓约.txt",
+    "min_version": "7.0",
+    "max_version": "7.0"
   },
   {
     "category": "agd_weapon",
